@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T23:39:07.081293+00:00'
+updated: '2025-12-10T23:50:06.770434+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 23:39 UTC  
+**Last Updated:** December 10, 2025 at 23:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,7 +61,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 6h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 7h ago
 
 ---
 
@@ -99,7 +99,7 @@ Reprogrammable humanoid robots could level the global manufacturing playing fiel
 
 I’ve spent the last year really putting AI to work, writing content, handling client projects, digging into research, automating stuff, and even building my own custom GPTs. After hundreds of hours messing around, I picked up a few lessons I wish someone had just told me from the start. No hype here, just honest things that actually made my results better: 1. Stop asking AI “What should I do?”, ask “What options do I have?” AI’s not great at picking the perfect answer right away. But it shines when you use it to brainstorm possibilities. So, instead of: “What’s the best way to improve my landing page?” Say: “Give me 5 different ways to improve my landing page, each based on a different principle (UX, clarity, psychology, trust, layout). Rank them by impact.” You’ll get way better results. 2. Don’t skip the “requirements stage.” Most of the time, AI fails because people jump straight to the end. Slow down. Ask the model to question you first. Try this: “Before creating anything, ask me 5 clarification questions to make sure you get it right.” Just this step alone cuts out most of the junky outputs, way more than any fancy prompt trick. 3. Tell AI it’s okay to be wrong at first. AI actually does better when you take the pressure off early on. Say something like: “Give me a rough draft first. I’ll go over it with you.” That rough draft, then refining together, then finishing up, that’s how the actually get good outputs. 4. If things feel off, don’t bother fixing, just restart the thread. People waste so much time trying to patch up a weird conversation. If the model starts drifting in tone, logic, or style, the fastest fix is just to start fresh: “New conversation: You are [role]. Your goal is [objective]. Start from scratch.” AI memory in a thread gets messy fast. A reset clears up almost all the weirdness. 5. Always run 2 outputs and then merge them. One output? Total crapshoot. Two outputs? Much more consistent. Tell the AI: “Give me 2 versions with different angles. I’ll pick the best parts.” Then follow up with: “Merge both into one polished version.” You get way better quality with hardly any extra effort. 6. Stop using one giant prompt, start building mini workflows. Beginners try to do everything in one big prompt. The experts break it into 3–5 bite-size steps. Here’s a simple structure: - Ask questions - Generate options - Pick a direction - Draft it - Polish Just switching to this approach will make everything you do with AI better. If you want more tips, just let me know and i'll send you a document with more of them.
 
-7h ago
+8h ago
 
 ---
 
@@ -155,7 +155,7 @@ Los Angeles Times • 19h ago
 
 **[McDonald's pulled a widely mocked 'AI slop' Christmas ad](https://qz.com/mcdonalds-ai-christmas-ad)**
 
-qz.com • 7h ago
+qz.com • 8h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Guardian • 4h ago
 
 The short answer is yes, but if you don’t want big brands or to use Amazon then more time and a lot more prompts are needed
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Guardian • 5h ago
 
 As holiday shoppers grapple with finding gifts for challenging recipients, artificial intelligence could be the perfect holiday helper.
 
-ClickOnDetroit | WDIV Local 4 • 42m ago
+ClickOnDetroit | WDIV Local 4 • 53m ago
 
 ---
 
@@ -597,18 +597,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 24 • 💬 0 • ⭐ 25,723 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -637,6 +625,20 @@ TwinFlow is a 1-step generative model framework that enhances inference efficien
 
 ---
 
+**[LongCat-Image Technical Report](https://huggingface.co/papers/2512.07584)**
+
+*Meituan LongCat Team, Hanghang Ma, Haoxian Tan et al. (13 authors)*
+
+🏢 LongCat
+
+LongCat-Image is a bilingual open-source foundation model for image generation that addresses multilingual text rendering, photorealism, and deployment efficiency through rigorous data curation, compact design, and comprehensive open-source support.
+
+▲ 15 • 💬 2 • ⭐ 350 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07584) • [💻 code](https://github.com/meituan-longcat/LongCat-Image) • [🔗 project](https://longcat.chat/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -647,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 5.2k • 🔱 857 • 5h ago
+⭐ 5.2k • 🔱 866 • 5h ago
 
 ---
 
@@ -697,7 +699,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 918 • 🔱 65 • 1d ago
+⭐ 919 • 🔱 65 • 1d ago
 
 ---
 
@@ -707,7 +709,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 870 • 🔱 275 • 4d ago
+⭐ 871 • 🔱 275 • 4d ago
 
 ---
 
@@ -737,7 +739,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 582 • 🔱 45 • 7d ago
+⭐ 583 • 🔱 45 • 7d ago
 
 ---
 

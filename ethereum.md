@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T23:39:07.095745+00:00'
+updated: '2025-12-10T23:50:06.783192+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 23:39 UTC  
+**Last Updated:** December 10, 2025 at 23:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +6.3%  
-**30d:** -2.5%  
-**90d:** -29.1%  
-**1y:** -13.1%  
+**24h:** +0.8%  
+**7d:** +6.5%  
+**30d:** -2.3%  
+**90d:** -29.0%  
+**1y:** -13.0%  
 
 ---
 
@@ -202,7 +202,7 @@ Seeking Alpha • 2d ago
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -240,7 +240,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 2K • 👍 165 • 💬 18 • ⏱️ 1:10:46 • 6h ago
+👁️ 2K • 👍 165 • 💬 18 • ⏱️ 1:10:46 • 7h ago
 
 ---
 

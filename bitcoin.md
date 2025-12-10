@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T23:39:07.089735+00:00'
+updated: '2025-12-10T23:50:06.777937+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 23:39 UTC  
+**Last Updated:** December 10, 2025 at 23:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,232.82
+### $91,981.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +0.2%  
-**30d:** -10.6%  
-**90d:** -20.6%  
-**1y:** -8.6%  
+**24h:** -0.1%  
+**7d:** -0.2%  
+**30d:** -10.9%  
+**90d:** -20.8%  
+**1y:** -9.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -183,7 +183,7 @@ Barron's • 1d ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-CNBC • 50m ago
+CNBC • 1h ago
 
 ---
 
@@ -321,7 +321,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 5K • 👍 629 • 💬 47 • ⏱️ 8:36 • 4h ago
+👁️ 5K • 👍 629 • 💬 47 • ⏱️ 8:36 • 5h ago
 
 ---
 
@@ -341,7 +341,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 5K • 👍 472 • 💬 121 • ⏱️ 5:12 • 2h ago
+👁️ 5K • 👍 472 • 💬 121 • ⏱️ 5:12 • 3h ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin #Crypto #Finance Bitcoin enters a historic new era as U.S. regulators of
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 688 • 💬 124 • ⏱️ 37:24 • 8h ago
+👁️ 13K • 👍 688 • 💬 124 • ⏱️ 37:24 • 9h ago
 
 ---
 
