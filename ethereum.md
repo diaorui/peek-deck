@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T11:42:25.279234+00:00'
+updated: '2025-12-10T11:53:39.143408+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 11:42 UTC  
+**Last Updated:** December 10, 2025 at 11:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.4%  
-**7d:** +5.7%  
-**30d:** -3.0%  
+**24h:** +5.2%  
+**7d:** +5.5%  
+**30d:** -3.2%  
 **90d:** -29.6%  
-**1y:** -13.7%  
+**1y:** -13.8%  
 
 ---
 
@@ -256,7 +256,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 4K • 👍 136 • 💬 82 • ⏱️ 35:26 • 15h ago
+👁️ 4K • 👍 136 • 💬 82 • ⏱️ 35:26 • 16h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T11:42:25.282516+00:00'
+updated: '2025-12-10T11:53:39.146662+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 11:42 UTC  
+**Last Updated:** December 10, 2025 at 11:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-37m ago
+48m ago
 
 ---
 
@@ -74,7 +74,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 "May the sensors be with you "
 
-22h ago
+23h ago
 
 ---
 
@@ -164,7 +164,7 @@ Bloomberg.com • 1d ago
 
 The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
-MLive.com • 18h ago
+MLive.com • 19h ago
 
 ---
 
@@ -180,7 +180,7 @@ National Defense Magazine • 2d ago
 
 Tesla, Inc. remains a sentiment-driven asset despite strong fundamentals. Click here to read why TSLA stock is downgraded to a Hold.
 
-Seeking Alpha • 20h ago
+Seeking Alpha • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T11:42:25.273124+00:00'
+updated: '2025-12-10T11:53:39.137318+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 11:42 UTC  
+**Last Updated:** December 10, 2025 at 11:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,196.14
+### $91,797.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** +0.3%  
-**30d:** -10.5%  
-**90d:** -20.5%  
-**1y:** -8.6%  
+**24h:** +1.6%  
+**7d:** +0.0%  
+**30d:** -10.7%  
+**90d:** -20.7%  
+**1y:** -8.8%  
 
 ---
 
@@ -127,7 +127,7 @@ Sooner or later it will bounce to new highs, or not
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -203,7 +203,7 @@ Business Insider • 1h ago
 
 Explore Standard Chartered's updated outlook for bitcoin.
 
-Seeking Alpha • 49m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -231,7 +231,7 @@ Bloomberg.com • 1d ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 7 • 💬 1 • 5d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 7 • 💬 1 • 6d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
@@ -269,7 +269,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 16m ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 28m ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -291,7 +291,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 19h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 20h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -323,7 +323,7 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 3K • 💬 204 • ⏱️ 16:39 • 11h ago
+👁️ 42K • 👍 3K • 💬 204 • ⏱️ 16:39 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T11:42:25.264513+00:00'
+updated: '2025-12-10T11:53:39.128936+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- social
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 11:42 UTC  
+**Last Updated:** December 10, 2025 at 11:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 10h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 11h ago
 
 ---
 
@@ -81,7 +81,7 @@ Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 16h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 17h ago
 
 ---
 
@@ -135,7 +135,7 @@ CNBC • 23h ago
 
 **[Exclusive: New platform aims to stop AI from using creators' work without permission](https://www.axios.com/2025/12/10/ai-creators-rights-axm)**
 
-Axios • 40m ago
+Axios • 52m ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 40m ago
 
 Australian psych-rockers, who removed their music from Spotify in protest against the streaming service, lament the appearance of AI band King Lizard Wizard
 
-The Guardian • 57m ago
+The Guardian • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Guardian • 57m ago
 
 Who better to ask about a bubble than a group who will collectively deploy anywhere from tens to hundreds of millions of dollars over the next decade into AI companies.
 
-Fortune • 23m ago
+Fortune • 34m ago
 
 ---
 
@@ -167,13 +167,13 @@ CNBC • 6h ago
 
 India, which is an emerging AI and cloud infrastructure hub, has witnessed a surge of global tech investment recently.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
 **[Amazon to invest over $35 billion in India on AI, exports](https://www.reuters.com/business/retail-consumer/amazon-invest-over-35-billion-india-by-2030-expand-operations-boost-ai-2025-12-10/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
