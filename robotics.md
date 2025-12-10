@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T13:55:53.842623+00:00'
+updated: '2025-12-10T14:25:51.574769+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 13:55 UTC  
+**Last Updated:** December 10, 2025 at 14:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 **[Humanoid: What’s Different About Their Wrist Design?](https://www.reddit.com/r/robotics/comments/1pj0xfe/humanoid_whats_different_about_their_wrist_design/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 I m trying to make a cobot digital twin in vr using Unity engine to create vr application. I m using esp32 to collect and control the kinematics of the robot. I will be using mqtt to transmit the data. I m not sure how to do the unity VR part. Please provide me some information on how to retrieve the mqtt data and use it to digital twin the cobot in VR unity application. It would be really helpful for me if you provide me with some knowledge about unity VR applications
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 I’ve built a modular VLA prototype (physics-grounded LLM planning + explicit scene graph reasoning). The system can preemptively respond to predicted physical events (like a cup falling), and works well in simulation. My current hardware is limited, so I’m exploring what real robot platforms people usually use for research along these lines. Franka, UR, or others? If you’re working on similar ideas, feel free to share your experience — I’m trying to understand what setups are common, and what challenges to expect. Happy to show a short demo as well.
 
-7h ago
+8h ago
 
 ---
 
@@ -144,13 +144,13 @@ Business Insider • 1h ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
 **[Analysts Warn of Cybersecurity Risks in Humanoid Robots](https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots)**
 
-Dark Reading • 20h ago
+Dark Reading • 21h ago
 
 ---
 
@@ -158,7 +158,7 @@ Dark Reading • 20h ago
 
 MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 55m ago
 
 The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
-MLive.com • 20h ago
+MLive.com • 21h ago
 
 ---
 
@@ -252,7 +252,7 @@ At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the 
 
 📺 AI Robot Lab
 
-👁️ 433 • ⏱️ 0:20 • 28m ago
+👁️ 433 • ⏱️ 0:20 • 58m ago
 
 ---
 
@@ -262,7 +262,7 @@ Ready to Learn from My Mentors? Book a Free Strategy Call at https://felixfriend
 
 📺 Felix & Friends (Goat Academy)
 
-👁️ 98K • 👍 3K • 💬 143 • ⏱️ 29:12 • 1d ago
+👁️ 98K • 👍 3K • 💬 143 • ⏱️ 29:12 • 2d ago
 
 ---
 

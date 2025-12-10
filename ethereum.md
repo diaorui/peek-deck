@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T13:55:53.839346+00:00'
+updated: '2025-12-10T14:25:51.571284+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 13:55 UTC  
+**Last Updated:** December 10, 2025 at 14:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.9%  
-**7d:** +6.4%  
+**24h:** +2.4%  
+**7d:** +6.3%  
 **30d:** -2.4%  
 **90d:** -29.1%  
 **1y:** -13.1%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-4m ago
+34m ago
 
 ---
 
@@ -88,7 +88,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 I’ve always wondered: if you could see the crypto market flow in real time, what would it look like? So I built an app to answer that question. - Animated bubbles for trades - Dynamic order depth bars - Global aggregation across exchanges - A special “ALL” mode to visualize the whole market vs stablecoins - And a Replay mode to rewind and watch the market like a movie Launch is coming soon. 👉 Demo video + screenshots here: https://cryptostream.dev Drop your email if you want to be notified when it’s live. Curious what you think, AMA or share your thoughts!
 
-50m ago
+1h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 1h ago
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Block • 1d ago
 
 Earlier this month, BlackRock moved further into digital assets by filing with the SEC for an iShares staked Ethereum ETF that pairs ether price exposure with on-chain staking rewards, using a multi-custodian structure anchored by Coinbase and BNY Mellon. The filing signals BlackRock’s push to broaden yield-focused crypto offerings at a time when investors are reassessing Bitcoin ETF allocations and looking for income-oriented alternatives. We’ll now examine how this push into staked...
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView • 4h ago
 
 The 65% staking ratio means ETH will generate a significantly better total return than ETHE after fees. See the complete analysis here.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -224,7 +224,7 @@ Seeking Alpha • 3h ago
 
 Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
 
-Nasdaq • 13h ago
+Nasdaq • 14h ago
 
 ---
 
@@ -268,7 +268,7 @@ A huge ETH whale just opened a massive sized position. In today's video, Kyledoo
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 12 • ⏱️ 34:34 • 5h ago
+👁️ 12K • 👍 1K • 💬 12 • ⏱️ 34:34 • 6h ago
 
 ---
 
@@ -308,7 +308,7 @@ Ethereum just printed one of the biggest signals I have seen in a long time… a
 
 📺 Crypto Hustle
 
-👁️ 240 • 👍 21 • 💬 3 • ⏱️ 11:11 • 3h ago
+👁️ 240 • 👍 21 • 💬 3 • ⏱️ 11:11 • 4h ago
 
 ---
 

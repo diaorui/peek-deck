@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T13:55:53.833162+00:00'
+updated: '2025-12-10T14:25:51.564974+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 13:55 UTC  
+**Last Updated:** December 10, 2025 at 14:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +0.0%  
-**30d:** -10.7%  
-**90d:** -20.7%  
-**1y:** -8.8%  
+**24h:** -0.8%  
+**7d:** -0.3%  
+**30d:** -11.0%  
+**90d:** -20.9%  
+**1y:** -9.1%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The Mods don't want you to see bullish memes. Vote against the bears.
 
-7h ago
+8h ago
 
 ---
 
@@ -95,13 +95,13 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 **[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-13h ago
+14h ago
 
 ---
 
 **[.](https://www.reddit.com/r/Bitcoin/comments/1pix5b9/_/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -115,13 +115,13 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 Sooner or later it will bounce to new highs, or not
 
-7h ago
+8h ago
 
 ---
 
 **[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 **[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNBC • 19h ago
 
 **[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqc0Ua9A-5o0LRFqJABiHLwcyBTe-wSYVOajgEtJrbwjEEkJ4Q-8mqhw&gaa_ts=69397f53&gaa_sig=14aCcDAxRVIjqvSMiNosZyLN4QOptdKvYunuvzaAmE5lPXsCRYWxX_q4lB6lADVzPj-t5S3ouZphs8qnztl9Cg%3D%3D)**
 
-MarketWatch • 14h ago
+MarketWatch • 15h ago
 
 ---
 
@@ -179,7 +179,7 @@ Investor's Business Daily • 2h ago
 
 **[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Block • 15h ago
 
 The debut underperformed its SPAC benchmark, as investors pull back from Bitcoin treasury plays in favor of clearer operating models.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 2h ago
 
 Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
 
 ---
 
@@ -267,7 +267,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -275,7 +275,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 20h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 21h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -311,7 +311,7 @@ Anthony and John Pompliano dig into what's really at stake at the upcoming Feder
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 876 • 💬 15 • ⏱️ 35:48 • 15h ago
+👁️ 23K • 👍 876 • 💬 15 • ⏱️ 35:48 • 16h ago
 
 ---
 
@@ -361,7 +361,7 @@ Michael Saylor drops a BOMBSHELL at Bitcoin MENA that PROVES 2026 is gonna be BU
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 654 • 💬 123 • ⏱️ 1:20:17 • 18h ago
+👁️ 13K • 👍 654 • 💬 123 • ⏱️ 1:20:17 • 19h ago
 
 ---
 
@@ -401,7 +401,7 @@ Michael Saylor declares he's more bullish than ever, stating his team can buy mo
 
 📺 Bitcoin Magazine
 
-👁️ 10K • 👍 265 • 💬 30 • ⏱️ 0:36 • 22h ago
+👁️ 10K • 👍 265 • 💬 30 • ⏱️ 0:36 • 23h ago
 
 ---
 

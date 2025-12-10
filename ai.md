@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T13:55:53.824631+00:00'
+updated: '2025-12-10T14:25:51.556073+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 13:55 UTC  
+**Last Updated:** December 10, 2025 at 14:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 This year, McDonald’s decided to get in on the corporate slopfest with a 45-second Christmas spot cooked up for its Netherlands division by the ad agency TBWA\Neboko. The entire thing is AI, and revolves around the thesis that the holiday season is the “most terrible time of the year.” After huge backlash, ad has been taken down from YT, agency made statement owning there failure. https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial This reminds me: "The ability to speak doesn't make you intelligent!" - Qui Gon Jinn Technology, including AI is a tool, an enabler to magnify human genius or stupidity! PS: removed the earlier post with quote name error, couldn't edit in time.
 
-38m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ This year, McDonald’s decided to get in on the corporate slopfest with a 45-se
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
-12h ago
+13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 22h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 23h ago
 
 ---
 
@@ -81,7 +81,7 @@ Reprogrammable humanoid robots could level the global manufacturing playing fiel
 
 Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
-🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 9h ago
+🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 10h ago
 
 ---
 
@@ -105,7 +105,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as AI shakes up jobs, education, and the global economy.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 15h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 16h ago
 
 ---
 
@@ -125,7 +125,7 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 1h ago
 
 Viewers blasted McDonald's satirical commercial as offensive, with critics questioning why anyone would 'ditch your family and hide in McDonald's.'
 
-Los Angeles Times • 9h ago
+Los Angeles Times • 10h ago
 
 ---
 
@@ -141,51 +141,57 @@ Los Angeles Times • 9h ago
 
 McDonald's Netherlands is catching flak for a stupefying AI-generated video, which was roundly condemned on social media.
 
-Futurism • 19h ago
+Futurism • 20h ago
 
 ---
 
-**[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
+**[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
-The New York Times • 21h ago
-
----
-
-**[Trump’s avowed AI order to face legal hurdles](https://thehill.com/newsletters/the-gavel/5641240-ai-laws-trump-regulation-courts/)**
-
-thehill.com • 55m ago
+The New York Times • 4h ago
 
 ---
 
-**[The AI boom is a loop-de-loop economy. Here's how](https://qz.com/ai-circular-economy-deals-nvidia-synopsys-openai-oracle)**
+**[Inside Meta’s Pivot From Open Source to Money-Making AI Model](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model)**
 
-qz.com • 1h ago
+Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
 
----
-
-**[Digital stimulation: AI and porn](https://www.economist.com/podcasts/2025/12/10/digital-stimulation-ai-and-porn)**
-
-The Economist • 1h ago
+Bloomberg.com • 25m ago
 
 ---
 
-**[How Chinese entities are already using Nvidia's powerful H200 AI chips](https://www.reuters.com/world/china/how-chinese-entities-are-already-using-nvidias-powerful-h200-ai-chips-2025-12-10/)**
+**[Big global investors see gold in AI but don't buy the rush](https://www.reuters.com/business/finance/big-global-investors-see-gold-ai-dont-buy-rush-2025-12-10/)**
 
-Reuters • 2h ago
-
----
-
-**[China adds domestic AI chips to official procurement list for first time](https://www.ft.com/content/83c6521e-fe42-49e2-a9fe-eda97168b316)**
-
-Beijing encouraged purchase of Huawei and Cambricon processors before Trump’s move to allow Nvidia exports
-
-Financial Times • 12h ago
+Reuters • 1h ago
 
 ---
 
-**[DeepSeek is Using Banned Nvidia Chips in Race to Build Next Model](https://www.theinformation.com/articles/deepseek-using-banned-nvidia-chips-race-build-next-model)**
+**[‘What to buy Dad for Christmas’: is retail ready for the AI shopping shift?](https://www.theguardian.com/business/2025/dec/10/is-retail-ready-for-ai-shaking-up-how-we-shop)**
 
-The Information • 1h ago
+As shoppers ask ChatGPT for inspiration, brands scramble to ensure their products appeal to the bots calling the shots
+
+The Guardian • 1h ago
+
+---
+
+**[Chief Digital and Artificial Intelligence Office Selects Google Cloud's AI to Power GenAI.mil](https://www.googlecloudpresscorner.com/2025-12-09-Chief-Digital-and-Artificial-Intelligence-Office-Selects-Google-Clouds-AI-to-Power-GenAI-mil)**
+
+First AI technology on GenAI.mil, delivering IL5-authorized generative AI department-wide SUNNYVALE, Calif., Dec. 9, 2025 /PRNewswire/ -- Google Cloud today announced that the Chief Digital and...
+
+Google Cloud Press Corner • 23h ago
+
+---
+
+**[The military’s new AI says ‘hypothetical’ boat strike scenario ‘unambiguously illegal’](https://san.com/cc/the-militarys-new-ai-says-hypothetical-boat-strike-scenario-unambiguously-illegal/)**
+
+An AI chatbot unveiled by the Pentagon appears to have described airstrikes against suspected drug smugglers at sea as “illegal.”
+
+Straight Arrow News • 11h ago
+
+---
+
+**[Hegseth Introduces Department to New AI Tool](https://www.war.gov/News/News-Stories/Article/Article/4355797/hegseth-introduces-department-to-new-ai-tool/)**
+
+U.S. Department of War (.gov) • 16h ago
 
 ---
 
@@ -213,7 +219,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 319 • 💬 389 • 22h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 319 • 💬 389 • 23h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -221,7 +227,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 256 • 💬 112 • 20h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 256 • 💬 112 • 21h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -235,7 +241,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 141 • 💬 175 • 10h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 141 • 💬 175 • 11h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -249,7 +255,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 115 • 💬 23 • 17h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 115 • 💬 23 • 18h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -265,7 +271,7 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 57 • 💬 116 • 22h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 57 • 💬 116 • 23h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
@@ -279,7 +285,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 23K • 👍 1K • 💬 45 • ⏱️ 12:50 • 13h ago
+👁️ 23K • 👍 1K • 💬 45 • ⏱️ 12:50 • 14h ago
 
 ---
 
@@ -289,7 +295,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 41K • 👍 1K • 💬 166 • ⏱️ 9:41 • 14h ago
+👁️ 41K • 👍 1K • 💬 166 • ⏱️ 9:41 • 15h ago
 
 ---
 
@@ -299,7 +305,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 75K • 👍 2K • 💬 464 • ⏱️ 1:59:44 • 23h ago
+👁️ 75K • 👍 2K • 💬 464 • ⏱️ 1:59:44 • 1d ago
 
 ---
 
@@ -337,7 +343,7 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 Career247
 
-👁️ 6K • 👍 1K • 💬 89 • ⏱️ 1:48 • 9m ago
+👁️ 6K • 👍 1K • 💬 89 • ⏱️ 1:48 • 39m ago
 
 ---
 
@@ -347,7 +353,7 @@ In this episode, I sit down with @elonmusk for a wide-ranging conversation on DO
 
 📺 Katie Miller Pod
 
-👁️ 116K • 👍 7K • 💬 2K • ⏱️ 52:58 • 14h ago
+👁️ 116K • 👍 7K • 💬 2K • ⏱️ 52:58 • 15h ago
 
 ---
 
@@ -407,7 +413,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 280 • 19h ago
+⬇️ 10,031 • ❤️ 280 • 20h ago
 
 ---
 
@@ -443,7 +449,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 194 • 20h ago
+⬇️ 2,414 • ❤️ 194 • 21h ago
 
 ---
 
@@ -479,7 +485,7 @@ SamKash-Tolstoy is a LoRA adapter for DeepSeek-R1-Distill-Qwen-1.5B, specialized
 
 `text-generation`
 
-⬇️ 9,977 • ❤️ 624 • 12d ago
+⬇️ 9,977 • ❤️ 624 • 13d ago
 
 ---
 
@@ -617,7 +623,7 @@ LongCat-Image is a bilingual open-source foundation model for image generation t
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 109 • 💬 4 • ⭐ 5,572 • 19d ago
+▲ 109 • 💬 4 • ⭐ 5,572 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
@@ -675,7 +681,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 129 • 4h ago
+⭐ 1.0k • 🔱 129 • 5h ago
 
 ---
 
