@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T07:02:30.609423+00:00'
+updated: '2025-12-10T07:32:50.762259+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 07:02 UTC  
+**Last Updated:** December 10, 2025 at 07:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +0.4%  
-**30d:** -10.3%  
-**90d:** -20.4%  
-**1y:** -8.4%  
+**24h:** +2.3%  
+**7d:** +0.6%  
+**30d:** -10.2%  
+**90d:** -20.2%  
+**1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1848.44B
+**Market Cap:** $1847.90B
 Rank #1
 
-**Circulating Supply:** 19,960,015 BTC
+**Circulating Supply:** 19,960,068 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.5%
+-26.6%
 
 **All-Time Low:** $67.81
-+136539.1%
++136433.0%
 
 ---
 
@@ -89,25 +89,19 @@ Rank #1
 
 ---
 
+**[The Mods are sleeping. Upvote while you can.](https://www.reddit.com/r/Bitcoin/comments/1piv3l7/the_mods_are_sleeping_upvote_while_you_can/)**
+
+The Mods don't want you to see bullish memes. Vote against the bears.
+
+1h ago
+
+---
+
 **[Tragedy Strikes the Bitcoin Market Today](https://www.reddit.com/r/Bitcoin/comments/1pitli0/tragedy_strikes_the_bitcoin_market_today/)**
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
 2h ago
-
----
-
-**[The Mods are sleeping. Upvote while you can.](https://www.reddit.com/r/Bitcoin/comments/1piv3l7/the_mods_are_sleeping_upvote_while_you_can/)**
-
-The Mods don't want you to see bullish memes. Vote against the bears.
-
-58m ago
-
----
-
-**[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
-
-18h ago
 
 ---
 
@@ -117,9 +111,23 @@ The Mods don't want you to see bullish memes. Vote against the bears.
 
 ---
 
+**[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
+
+18h ago
+
+---
+
+**[Zoom out, get rid of the charts and enjoy life.](https://www.reddit.com/r/Bitcoin/comments/1piv80p/zoom_out_get_rid_of_the_charts_and_enjoy_life/)**
+
+Sooner or later it will bounce to new highs, or not
+
+1h ago
+
+---
+
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -128,12 +136,6 @@ The Mods don't want you to see bullish memes. Vote against the bears.
 I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was already gone.
 
 3h ago
-
----
-
-**[Taste the pain first](https://www.reddit.com/r/Bitcoin/comments/1pilin2/taste_the_pain_first/)**
-
-8h ago
 
 ---
 
@@ -147,17 +149,9 @@ I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was alre
 
 ## Google News: "bitcoin"
 
-**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
-
-In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
-
-WIRED • 20h ago
-
----
-
 **[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -165,13 +159,29 @@ The Block • 8h ago
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
 **[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
+
+---
+
+**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
+
+In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
+
+WIRED • 21h ago
+
+---
+
+**[Bitcoin’s Breakout to $108,500 Keeps Failing for These Two Reasons —Both Fixable?](https://finance.yahoo.com/news/bitcoin-breakout-108-500-keeps-062815650.html)**
+
+Bitcoin price prediction to $108,500 keeps stalling as two key hurdles block momentum. One shift could unlock the breakout.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,9 +201,9 @@ CNBC • 12h ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqc40oUuzP6Xg7jzBvRdRl2Sl421uynx4S21p2T-wcy4UdiL-l53rfNp&gaa_ts=69391abf&gaa_sig=cLuZePeF_J2Kyi0ubu3gP4hTqKvIXuYpKt7sKSQoZy6Y81-wG2dJyL5CoURAEF0LzeVJmSMhed8dfov9D14HlQ%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqePhl5HMrJJuBS-iGB6wWBeGVwF5oP3xYXOLzSRIx9SLMaJ5-Clp5lK&gaa_ts=69392590&gaa_sig=0I60--yQQ58ch2N3bBcrDFsVV0N4xtXpS-m-2HpEumgnVFp1-gXUVl04m9G4A1rME_tsNRPtxNilmNVRLO7aZw%3D%3D)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 
@@ -208,14 +218,6 @@ Yahoo Finance • 14h ago
 **[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
 
 Reuters • 1d ago
-
----
-
-**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
-
-BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -271,7 +273,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 13h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 14h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -279,7 +281,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 9 • 💬 0 • 1d ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 9 • 💬 0 • 2d ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -301,13 +303,23 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
+**[Is the Fed About to Trigger the Next Bitcoin Boom?](https://www.youtube.com/watch?v=7CnyO1Ep3YU)**
+
+Anthony and John Pompliano dig into what's really at stake at the upcoming Federal Reserve meeting — whether the move ...
+
+📺 Anthony Pompliano
+
+👁️ 18K • 👍 738 • 💬 15 • ⏱️ 35:48 • 9h ago
+
+---
+
 **[Michael Saylor Keynote | Bitcoin MENA 2025](https://www.youtube.com/watch?v=rQMFrpUFcNM)**
 
 Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation of a new global financial system. In this keynote, Saylor ...
 
 📺 Bitcoin Magazine
 
-👁️ 48K • 👍 2K • 💬 279 • ⏱️ 42:27 • 14h ago
+👁️ 53K • 👍 2K • 💬 285 • ⏱️ 42:27 • 14h ago
 
 ---
 
@@ -317,7 +329,17 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 124 • ⏱️ 16:39 • 7h ago
+👁️ 33K • 👍 2K • 💬 138 • ⏱️ 16:39 • 7h ago
+
+---
+
+**[&quot;Something Is Wrong! They Are Hiding Something About Bitcoin &amp; Crypto&quot; - Samson Mow](https://www.youtube.com/watch?v=GAp-FvbO_PU)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 10K • 👍 393 • 💬 16 • ⏱️ 20:58 • 1d ago
 
 ---
 
@@ -327,17 +349,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 234 • ⏱️ 44:49 • 15h ago
-
----
-
-**[Biggest BITCOIN Catalyst BEGINS NOW! TETHER’S BTC STOCK LAUNCH TODAY!](https://www.youtube.com/watch?v=ZNITUGEn5cY)**
-
-Nick Valdez looks ath the XXI launch on NYSE today. XXI or 21 Capital is launching with Stripe and Tether and even Softbank as ...
-
-📺 Discover Crypto
-
-👁️ 3K • 👍 146 • 💬 2 • ⏱️ 5:37 • 7h ago
+👁️ 32K • 👍 2K • 💬 227 • ⏱️ 44:49 • 16h ago
 
 ---
 
@@ -347,17 +359,7 @@ Michael Saylor declares he's more bullish than ever, stating his team can buy mo
 
 📺 Bitcoin Magazine
 
-👁️ 8K • 👍 221 • 💬 31 • ⏱️ 0:36 • 16h ago
-
----
-
-**[bitcoin just broke the model](https://www.youtube.com/watch?v=hWFQHVBrJN8)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 21K • 👍 1K • 💬 300 • ⏱️ 7:23 • 13h ago
+👁️ 9K • 👍 234 • 💬 30 • ⏱️ 0:36 • 16h ago
 
 ---
 
@@ -371,11 +373,13 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 ---
 
-**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
+**[bitcoin just broke the model](https://www.youtube.com/watch?v=hWFQHVBrJN8)**
 
-📺 Matt & Justus
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
 
-👁️ 1.9M • 👍 103K • 💬 265 • ⏱️ 1:00 • 1d ago
+📺 Tyler S
+
+👁️ 22K • 👍 1K • 💬 302 • ⏱️ 7:23 • 13h ago
 
 ---
 
@@ -385,17 +389,17 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 50K • 👍 4K • 💬 287 • ⏱️ 16:35 • 1d ago
+👁️ 50K • 👍 4K • 💬 289 • ⏱️ 16:35 • 1d ago
 
 ---
 
-**[Bitcoin Pre-FOMC](https://www.youtube.com/watch?v=kZGHzEGRyAM)**
+**[If Trump Does This Bitcoin and Crypto Will Explode](https://www.youtube.com/watch?v=1sd6Qcx-uKY)**
 
-Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
+In this clip, I talk about a major macro event that could impact bitcoin and crypto. **Exchange Partners** Bitunix Exchange ...
 
-📺 Benjamin Cowen
+📺 CryptosRus Extra
 
-👁️ 66K • 👍 4K • 💬 161 • ⏱️ 9:09 • 17h ago
+👁️ 6K • 👍 427 • 💬 98 • ⏱️ 8:42 • 7h ago
 
 ---
 

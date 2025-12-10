@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T07:02:30.614694+00:00'
+updated: '2025-12-10T07:32:50.768457+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 07:02 UTC  
+**Last Updated:** December 10, 2025 at 07:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.4%  
-**7d:** +6.2%  
-**30d:** -2.6%  
-**90d:** -29.2%  
-**1y:** -13.3%  
+**24h:** +6.1%  
+**7d:** +5.8%  
+**30d:** -2.9%  
+**90d:** -29.5%  
+**1y:** -13.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.66B
+**Market Cap:** $400.35B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.9%
+-33.0%
 
 **All-Time Low:** $0.43
-+766928.0%
++765821.7%
 
 ---
 
@@ -104,7 +104,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 20h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 21h ago
 
 ---
 
@@ -154,7 +154,7 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 13h ago
 
 Key PointsEthereum has built a strong user base and frequently generates over $10 million in daily app fees.
 
-Nasdaq • 14h ago
+Nasdaq • 15h ago
 
 ---
 
@@ -182,11 +182,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
+**[Bitcoin steady near $92K; Ethereum rallies past $3,300 ahead of Fed policy outcome](https://m.economictimes.com/markets/cryptocurrency/crypto-news/bitcoin-steady-near-92k-ethereum-rallies-past-3300-ahead-of-fed-policy-outcome/articleshow/125884307.cms)**
 
-Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
+Bitcoin and Ethereum surged ahead of the US Fed policy outcome, with Bitcoin nearing $92,000 and Ethereum jumping nearly 7%. Major altcoins also saw significant gains, contributing to a rise in global crypto market capitalization. Analysts anticipate a liquidity-driven rally if the Fed signals a dovish stance.
 
-Yahoo Finance • 1d ago
+The Economic Times • 51m ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://finance.yahoo.com/news/3-reasons-buy-ethereum-january-193000879.html)**
+
+Ethereum could be once again on the path to the $5,000 price level. Here's why.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -220,17 +228,19 @@ Fortune • 1d ago
 
 ---
 
-**[Dogecoin (DOGE), Ethereum (ETH) News: Memecoin Spikes as Ether Surges](https://www.coindesk.com/markets/2025/12/10/breakout-or-bull-trap-doge-jumps-above-resistance-on-ethereum-strength)**
-
-Despite the breakout, DOGE faces significant structural resistance from major EMAs.
-
-CoinDesk • 1h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[WOW: Insider Whale Just Opened A Mega $ETH Long! [Copy Them?]](https://www.youtube.com/watch?v=bA0YlnGLFII)**
+
+A huge ETH whale just opened a massive sized position. In today's video, Kyledoops shares the significance of this and whether ...
+
+📺 Crypto Banter
+
+👁️ 1K • 👍 163 • 2h ago
+
+---
 
 **[Ethereum Surges Ahead of Fed Meeting🚨](https://www.youtube.com/watch?v=lGMmb25t_F8)**
 
@@ -238,17 +248,7 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 35K • 👍 2K • 💬 92 • ⏱️ 20:14 • 10h ago
-
----
-
-**[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
-
-Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
-
-📺 The Bitcoin Revolution
-
-👁️ 14K • 👍 436 • 💬 211 • ⏱️ 12:46 • 1d ago
+👁️ 38K • 👍 2K • 💬 98 • ⏱️ 20:14 • 11h ago
 
 ---
 
@@ -258,27 +258,17 @@ BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 5K • 👍 253 • 💬 68 • ⏱️ 21:02 • 7h ago
+👁️ 6K • 👍 279 • 💬 71 • ⏱️ 21:02 • 8h ago
 
 ---
 
-**[BitMine Buys Another $435M ETH: Why Tom Lee Is &quot;Panic Buying&quot; Before Dec 10](https://www.youtube.com/watch?v=_bSti51HI3U)**
+**[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
 
-The numbers are in, and they are staggering. In a new filing released yesterday (Dec 8, 2025), BitMine Immersion ($BMNR) ...
+Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
 
-📺 Wall Street Stockcast
+📺 The Bitcoin Revolution
 
-👁️ 5K • 👍 156 • 💬 36 • ⏱️ 8:45 • 15h ago
-
----
-
-**[Is Ethereum the Next Amazon? Haseeb Qureshi on Revenue, Profit &amp; Long-Term Value](https://www.youtube.com/watch?v=Z5z-ewWs0Aw)**
-
-Ethereum has critics calling it “overvalued”… but what if everyone is looking at the wrong metric? In this episode, Dragonfly's ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 116 • 💬 77 • ⏱️ 35:26 • 11h ago
+👁️ 15K • 👍 448 • 💬 211 • ⏱️ 12:46 • 1d ago
 
 ---
 
@@ -288,27 +278,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 916 • 👍 90 • 💬 7 • ⏱️ 5:16 • 4h ago
+👁️ 2K • 👍 144 • 💬 5 • ⏱️ 5:16 • 5h ago
 
 ---
 
-**[ETH Ethereum PUMPING NOW!!!! Multi Day Consolidation Awaits](https://www.youtube.com/watch?v=PfBHV0uYBfM)**
+**[Is Ethereum the Next Amazon? Haseeb Qureshi on Revenue, Profit &amp; Long-Term Value](https://www.youtube.com/watch?v=Z5z-ewWs0Aw)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Ethereum has critics calling it “overvalued”… but what if everyone is looking at the wrong metric? In this episode, Dragonfly's ...
 
-📺 C-Zar Gets Crypto 
+📺 Milk Road
 
-👁️ 1K • 👍 58 • 💬 43 • ⏱️ 13:32 • 12h ago
+👁️ 3K • 👍 124 • 💬 75 • ⏱️ 35:26 • 11h ago
 
 ---
 
-**[This ETH Pattern Has Only One Outcome....](https://www.youtube.com/watch?v=AB0q8tKtipY)**
+**[The &quot;Supply Crunch&quot;: What Happens If BMNR Locks 5% of Ethereum?](https://www.youtube.com/watch?v=i_0DC9hO3dY)**
 
-BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
+Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the threshold, now controlling 3.2% of the total ...
 
-📺 Marzell Crypto
+📺 CryptoStock Lab
 
-👁️ 3K • 👍 77 • 💬 44 • ⏱️ 6:25 • 1d ago
+👁️ 437 • 👍 26 • ⏱️ 7:09 • 12h ago
+
+---
+
+**[Crypto Whale WHAT!!! ‼️THIS IS HUGE! XRP ETHEREUM](https://www.youtube.com/watch?v=pN6_JD61JDY)**
+
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 10K • 👍 690 • 💬 77 • ⏱️ 13:03 • 10h ago
 
 ---
 
@@ -318,17 +318,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 361 • 💬 26 • ⏱️ 15:50 • 1d ago
+👁️ 10K • 👍 364 • 💬 27 • ⏱️ 15:50 • 1d ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 10 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=zOz74MsX_hc)**
+**[This ETH Pattern Has Only One Outcome....](https://www.youtube.com/watch?v=AB0q8tKtipY)**
 
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
 
-📺 Balraj Trading Tech
+📺 Marzell Crypto
 
-👁️ 3K • 👍 520 • 2h ago
+👁️ 3K • 👍 78 • 💬 44 • ⏱️ 6:25 • 1d ago
 
 ---
 
