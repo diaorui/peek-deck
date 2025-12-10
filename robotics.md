@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T21:57:32.883208+00:00'
+updated: '2025-12-10T22:27:43.506617+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 21:57 UTC  
+**Last Updated:** December 10, 2025 at 22:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-13h ago
+14h ago
 
 ---
 
@@ -60,13 +60,13 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-10h ago
+11h ago
 
 ---
 
 **[Humanoid: What’s Different About Their Wrist Design?](https://www.reddit.com/r/robotics/comments/1pj0xfe/humanoid_whats_different_about_their_wrist_design/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ok so basically I am a student currently studying in college (Not I live in the 
 
 Ever wonder how sudo apt install just  works  for ROS? That’s the magic of the OSRF Build Farm!  This beast serves over half a billion packages a year, saving us all from the headache of compiling from source. But maintaining this critical utility takes massive server power and a dedicated team of e
 
-🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 4h ago
+🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 5h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi everyone, I’m getting started with ROS2 and have been following the Husario
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 4h ago
+Chron • 5h ago
 
 ---
 
@@ -138,15 +138,15 @@ Bloomberg.com • 2d ago
 
 MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[CEO of Chinese robotics company posts video of himself getting kicked by his robot in effort to combat skeptics](https://www.businessinsider.com/engineai-ceo-robot-kick-video-2025-12)**
+**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
 
-EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
+Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Business Insider • 3h ago
+Decrypt • 1d ago
 
 ---
 
@@ -154,7 +154,15 @@ Business Insider • 3h ago
 
 Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
 
-NCTV17 • 20h ago
+NCTV17 • 21h ago
+
+---
+
+**[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
+
+The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
+
+Breaking Defense • 2d ago
 
 ---
 
@@ -170,23 +178,15 @@ PYMNTS.com • 2d ago
 
 Army Special Forces Embracing Robots in All Domains
 
-National Defense Magazine • 2d ago
+National Defense Magazine • 3d ago
 
 ---
 
-**[China’s Deep Robotics raises US$70 million as sector draws more investors](https://www.scmp.com/tech/tech-trends/article/3335806/chinas-deep-robotics-raises-us70-million-fresh-funds-sector-draws-more-investors)**
+**[CEO of Chinese robotics company posts video of himself getting kicked by his robot in effort to combat skeptics](https://www.businessinsider.com/engineai-ceo-robot-kick-video-2025-12)**
 
-Company founder Zhu Qiuguo says the new funding would be used for research and the recruitment of top robotics talent.
+EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
 
-South China Morning Post • 20h ago
-
----
-
-**[A Sober Look at Amazon’s Automation Drive](https://jacobin.com/2025/12/amazon-robots-automation-workforce-ai)**
-
-As Amazon rolls out its millionth robot on the warehouse floor, it is important to recognize that the company is not any closer to ridding itself of the burden of human labor. Amazon can still be unionized.
-
-Jacobin • 6h ago
+Business Insider • 4h ago
 
 ---
 
@@ -200,7 +200,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 15K • 👍 453 • 💬 108 • ⏱️ 42:48 • 2d ago
+👁️ 16K • 👍 457 • 💬 108 • ⏱️ 42:48 • 3d ago
 
 ---
 
@@ -218,7 +218,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 49K • 👍 1K • 💬 346 • ⏱️ 14:26 • 2d ago
+👁️ 52K • 👍 1K • 💬 368 • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -228,7 +228,27 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 33K • 👍 640 • 💬 152 • ⏱️ 18:46 • 4d ago
+👁️ 33K • 👍 644 • 💬 152 • ⏱️ 18:46 • 4d ago
+
+---
+
+**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+
+In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+
+📺 Google DeepMind
+
+👁️ 19K • 👍 1K • 💬 104 • ⏱️ 17:44 • 6h ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=coZB_m41vvk)**
+
+robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
+
+📺 She Shorts AI
+
+👁️ 128K • 👍 830 • 💬 7 • ⏱️ 0:11 • 6d ago
 
 ---
 
@@ -238,7 +258,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 123K • 👍 6K • 💬 841 • ⏱️ 19:33 • 4d ago
+👁️ 124K • 👍 6K • 💬 857 • ⏱️ 19:33 • 4d ago
 
 ---
 
@@ -250,43 +270,23 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 ---
 
-**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
-
-In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
-
-📺 Google DeepMind
-
-👁️ 10K • 👍 823 • 💬 76 • ⏱️ 17:44 • 5h ago
-
----
-
-**[Leaked: Trump’s Robot Exec Order - The Investment Opportunity of a Lifetime!?](https://www.youtube.com/watch?v=zNWcAI4dsvQ)**
-
-Ready to Learn from My Mentors? Book a Free Strategy Call at https://felixfriends.org/freedom Download the Workbook in Our ...
-
-📺 Felix & Friends (Goat Academy)
-
-👁️ 101K • 👍 3K • 💬 143 • ⏱️ 29:12 • 2d ago
-
----
-
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
-
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
-
-📺 DPCcars
-
-👁️ 203K • 👍 907 • 💬 297 • ⏱️ 1:03 • 4d ago
-
----
-
 **[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
 
 AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
 
 📺 AI Robot Lab
 
-👁️ 43K • 👍 473 • 💬 13 • ⏱️ 0:25 • 3d ago
+👁️ 44K • 👍 484 • 💬 13 • ⏱️ 0:25 • 3d ago
+
+---
+
+**[Silicon Valley’s Newest AI Diaper Changer Is Unreal 👶🤖 AI Baby Changer 4.0 — The Future Is Here](https://www.youtube.com/watch?v=x5P16JwG6fU)**
+
+At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the future of Smart Parenting, BabyTech and AI ...
+
+📺 AI Robot Lab
+
+👁️ 41K • 👍 216 • 💬 4 • ⏱️ 0:20 • 9h ago
 
 ---
 
