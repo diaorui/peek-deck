@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T14:50:50.260972+00:00'
+updated: '2025-12-10T15:13:53.546829+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 14:50 UTC  
+**Last Updated:** December 10, 2025 at 15:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -0.3%  
-**30d:** -11.0%  
-**90d:** -21.0%  
-**1y:** -9.1%  
+**24h:** -2.0%  
+**7d:** +0.0%  
+**30d:** -10.7%  
+**90d:** -20.7%  
+**1y:** -8.8%  
 
 ---
 
@@ -87,13 +87,13 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 **[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-14h ago
+15h ago
 
 ---
 
 **[.](https://www.reddit.com/r/Bitcoin/comments/1pix5b9/_/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -115,13 +115,13 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 Sooner or later it will bounce to new highs, or not
 
-8h ago
+9h ago
 
 ---
 
 **[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -129,7 +129,7 @@ Sooner or later it will bounce to new highs, or not
 
 Bottom tex
 
-18m ago
+41m ago
 
 ---
 
@@ -141,7 +141,7 @@ Bottom tex
 
 **[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Block • 16h ago
 
 The debut underperformed its SPAC benchmark, as investors pull back from Bitcoin treasury plays in favor of clearer operating models.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 2h ago
 
 The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
 
-Bloomberg.com • 57m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ Yahoo Finance • 1d ago
 
 Strategy (NASDAQ:MSTR) CEO Phong Le has rejected the idea that selling Bitcoin is out of the question for the company. “We can sell Bitcoin and we would sell Bitcoin if we needed to to fund our dividend payments below 1 times mNAV,” Le said on an ...
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -251,7 +251,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 2d ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 3d ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -275,7 +275,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 21h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 22h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -311,7 +311,7 @@ Anthony and John Pompliano dig into what's really at stake at the upcoming Feder
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 876 • 💬 15 • ⏱️ 35:48 • 16h ago
+👁️ 23K • 👍 876 • 💬 15 • ⏱️ 35:48 • 17h ago
 
 ---
 
@@ -321,7 +321,7 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 46K • 👍 3K • 💬 283 • ⏱️ 16:39 • 14h ago
+👁️ 46K • 👍 3K • 💬 283 • ⏱️ 16:39 • 15h ago
 
 ---
 
@@ -361,7 +361,7 @@ Michael Saylor drops a BOMBSHELL at Bitcoin MENA that PROVES 2026 is gonna be BU
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 654 • 💬 123 • ⏱️ 1:20:17 • 19h ago
+👁️ 13K • 👍 654 • 💬 123 • ⏱️ 1:20:17 • 20h ago
 
 ---
 
@@ -401,7 +401,7 @@ Michael Saylor declares he's more bullish than ever, stating his team can buy mo
 
 📺 Bitcoin Magazine
 
-👁️ 10K • 👍 265 • 💬 30 • ⏱️ 0:36 • 23h ago
+👁️ 10K • 👍 265 • 💬 30 • ⏱️ 0:36 • 1d ago
 
 ---
 

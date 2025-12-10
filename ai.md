@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T14:50:50.252209+00:00'
+updated: '2025-12-10T15:13:53.538319+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 14:50 UTC  
+**Last Updated:** December 10, 2025 at 15:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ This year, McDonald’s decided to get in on the corporate slopfest with a 45-se
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 13h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 14h ago
 
 ---
 
@@ -57,13 +57,13 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
-13h ago
+14h ago
 
 ---
 
 **[AI companies basically:](https://www.reddit.com/r/artificial/comments/1pj41sq/ai_companies_basically/)**
 
-18m ago
+41m ago
 
 ---
 
@@ -71,7 +71,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 23h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 1d ago
 
 ---
 
@@ -87,7 +87,7 @@ Reprogrammable humanoid robots could level the global manufacturing playing fiel
 
 Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
-🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 10h ago
+🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 11h ago
 
 ---
 
@@ -103,7 +103,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as AI shakes up jobs, education, and the global economy.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 16h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 17h ago
 
 ---
 
@@ -139,13 +139,13 @@ Los Angeles Times • 10h ago
 
 McDonald's Netherlands is catching flak for a stupefying AI-generated video, which was roundly condemned on social media.
 
-Futurism • 20h ago
+Futurism • 21h ago
 
 ---
 
 **[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -153,43 +153,45 @@ The New York Times • 4h ago
 
 Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
 
-Bloomberg.com • 50m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Big global investors see gold in AI but don't buy the rush](https://www.reuters.com/business/finance/big-global-investors-see-gold-ai-dont-buy-rush-2025-12-10/)**
+**[Watch Meta’s Zuckerberg Directs Pivot to Money-Making AI Model](https://www.bloomberg.com/news/videos/2025-12-10/meta-s-zuckerberg-pivoting-to-money-making-ai-model-video)**
 
-Reuters • 1h ago
-
----
-
-**[‘What to buy Dad for Christmas’: is retail ready for the AI shopping shift?](https://www.theguardian.com/business/2025/dec/10/is-retail-ready-for-ai-shaking-up-how-we-shop)**
-
-As shoppers ask ChatGPT for inspiration, brands scramble to ensure their products appeal to the bots calling the shots
-
-The Guardian • 1h ago
+Bloomberg.com • 48m ago
 
 ---
 
-**[Chief Digital and Artificial Intelligence Office Selects Google Cloud's AI to Power GenAI.mil](https://www.googlecloudpresscorner.com/2025-12-09-Chief-Digital-and-Artificial-Intelligence-Office-Selects-Google-Clouds-AI-to-Power-GenAI-mil)**
+**[5 Things Companies Winning With Enterprise AI Get Right](https://www.forbes.com/sites/niritcohen/2025/12/10/5-things-companies-winning-with-enterprise-ai-get-right/)**
 
-First AI technology on GenAI.mil, delivering IL5-authorized generative AI department-wide SUNNYVALE, Calif., Dec. 9, 2025 /PRNewswire/ -- Google Cloud today announced that the Chief Digital and...
+Google Workspace research shows only 3 percent of companies succeed with enterprise AI. These five behaviors reveal how top performers turn AI into real transformation.
 
-Google Cloud Press Corner • 23h ago
-
----
-
-**[The military’s new AI says ‘hypothetical’ boat strike scenario ‘unambiguously illegal’](https://san.com/cc/the-militarys-new-ai-says-hypothetical-boat-strike-scenario-unambiguously-illegal/)**
-
-An AI chatbot unveiled by the Pentagon appears to have described airstrikes against suspected drug smugglers at sea as “illegal.”
-
-Straight Arrow News • 11h ago
+Forbes • 37m ago
 
 ---
 
-**[Hegseth Introduces Department to New AI Tool](https://www.war.gov/News/News-Stories/Article/Article/4355797/hegseth-introduces-department-to-new-ai-tool/)**
+**[OpenAI Is in Trouble](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/)**
 
-U.S. Department of War (.gov) • 17h ago
+The start-up is falling behind in the AI race.
+
+The Atlantic • 17h ago
+
+---
+
+**[AI companies want a new internet — and they think they’ve found the key](https://www.theverge.com/ai-artificial-intelligence/841156/ai-companies-aaif-anthropic-mcp-model-context-protocol)**
+
+“I’ve never seen anything like this,” says the Linux Foundation’s Jim Zemlin.
+
+The Verge • 40m ago
+
+---
+
+**[Bill aims to supercharge American AI talent in federal government](https://www.nbcnews.com/tech/tech-news/bill-aims-supercharge-american-ai-talent-federal-government-rcna248284)**
+
+The AI Talent Act would establish hiring teams throughout the federal government focused on artificial intelligence talent.
+
+NBC News • 1h ago
 
 ---
 
@@ -217,7 +219,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 321 • 💬 393 • 23h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 321 • 💬 393 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -225,7 +227,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 262 • 💬 114 • 21h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 262 • 💬 114 • 22h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -239,7 +241,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 145 • 💬 176 • 11h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 145 • 💬 176 • 12h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -253,7 +255,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 116 • 💬 24 • 18h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 116 • 💬 24 • 19h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -269,7 +271,7 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 57 • 💬 116 • 23h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 57 • 💬 116 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
@@ -351,7 +353,7 @@ In this episode, I sit down with @elonmusk for a wide-ranging conversation on DO
 
 📺 Katie Miller Pod
 
-👁️ 116K • 👍 7K • 💬 2K • ⏱️ 52:58 • 15h ago
+👁️ 116K • 👍 7K • 💬 2K • ⏱️ 52:58 • 16h ago
 
 ---
 
@@ -411,7 +413,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 284 • 20h ago
+⬇️ 10,031 • ❤️ 284 • 21h ago
 
 ---
 
@@ -447,7 +449,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 198 • 21h ago
+⬇️ 2,414 • ❤️ 198 • 22h ago
 
 ---
 
@@ -567,9 +569,21 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 53 • 💬 2 • ⭐ 982 • 8d ago
+▲ 54 • 💬 2 • ⭐ 982 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
+
+---
+
+**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+
+*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+
+DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+
+▲ 5 • 💬 1 • ⭐ 11,733 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
 ---
 
@@ -581,21 +595,9 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 TwinFlow is a 1-step generative model framework that enhances inference efficiency without requiring fixed pretrained teacher models or standard adversarial networks, achieving high performance on text-to-image tasks and scaling efficiently.
 
-▲ 59 • 💬 8 • ⭐ 68 • 7d ago
+▲ 59 • 💬 8 • ⭐ 88 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.05150) • [💻 code](https://github.com/inclusionAI/TwinFlow) • [🔗 project](https://zhenglin-cheng.com/twinflow)
-
----
-
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
-
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
-
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
-
-▲ 3 • 💬 1 • ⭐ 11,733 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
 ---
 
@@ -607,7 +609,7 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 LongCat-Image is a bilingual open-source foundation model for image generation that addresses multilingual text rendering, photorealism, and deployment efficiency through rigorous data curation, compact design, and comprehensive open-source support.
 
-▲ 15 • 💬 2 • ⭐ 323 • 2d ago
+▲ 15 • 💬 2 • ⭐ 346 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07584) • [💻 code](https://github.com/meituan-longcat/LongCat-Image) • [🔗 project](https://longcat.chat/)
 
@@ -659,7 +661,7 @@ RealGen is a photorealistic text-to-image framework that uses an LLM for prompt 
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.6k • 🔱 185 • 2h ago
+⭐ 1.6k • 🔱 187 • 3h ago
 
 ---
 
@@ -693,23 +695,23 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 ---
 
-**[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**
-
-An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-`Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
-
-⭐ 866 • 🔱 273 • 4d ago
-
----
-
 **[Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)**
 
 A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 865 • 🔱 22 • 2d ago
+⭐ 868 • 🔱 22 • 2d ago
+
+---
+
+**[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**
+
+An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+`Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
+
+⭐ 867 • 🔱 273 • 4d ago
 
 ---
 
@@ -729,7 +731,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 579 • 🔱 45 • 7d ago
+⭐ 580 • 🔱 45 • 7d ago
 
 ---
 
@@ -739,7 +741,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `JavaScript`
 
-⭐ 549 • 🔱 81 • 1d ago
+⭐ 556 • 🔱 81 • 1d ago
 
 ---
 

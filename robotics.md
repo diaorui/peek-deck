@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T14:50:50.270904+00:00'
+updated: '2025-12-10T15:13:53.556164+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 14:50 UTC  
+**Last Updated:** December 10, 2025 at 15:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-33m ago
+56m ago
 
 ---
 
@@ -60,7 +60,7 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-3h ago
+4h ago
 
 ---
 
@@ -74,7 +74,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 **[Humanoid: What’s Different About Their Wrist Design?](https://www.reddit.com/r/robotics/comments/1pj0xfe/humanoid_whats_different_about_their_wrist_design/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -86,7 +86,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 **[Cloth-based ghost with bone-driven ears](https://www.reddit.com/r/robotics/comments/1pj3tsg/clothbased_ghost_with_bonedriven_ears/)**
 
-27m ago
+50m ago
 
 ---
 
@@ -102,7 +102,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 I m trying to make a cobot digital twin in vr using Unity engine to create vr application. I m using esp32 to collect and control the kinematics of the robot. I will be using mqtt to transmit the data. I m not sure how to do the unity VR part. Please provide me some information on how to retrieve the mqtt data and use it to digital twin the cobot in VR unity application. It would be really helpful for me if you provide me with some knowledge about unity VR applications
 
-7h ago
+8h ago
 
 ---
 
@@ -152,13 +152,13 @@ Bloomberg.com • 2d ago
 
 Optimus demonstration ends with humanoid bot crashing to the floor
 
-The Telegraph • 4h ago
+The Telegraph • 5h ago
 
 ---
 
 **[Analysts Warn of Cybersecurity Risks in Humanoid Robots](https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots)**
 
-Dark Reading • 21h ago
+Dark Reading • 22h ago
 
 ---
 
@@ -166,7 +166,7 @@ Dark Reading • 21h ago
 
 Company founder Zhu Qiuguo says the new funding would be used for research and the recruitment of top robotics talent.
 
-South China Morning Post • 13h ago
+South China Morning Post • 14h ago
 
 ---
 
@@ -234,7 +234,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 121K • 👍 6K • 💬 817 • ⏱️ 19:33 • 3d ago
+👁️ 121K • 👍 6K • 💬 817 • ⏱️ 19:33 • 4d ago
 
 ---
 

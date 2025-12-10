@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T14:50:50.267561+00:00'
+updated: '2025-12-10T15:13:53.552882+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 14:50 UTC  
+**Last Updated:** December 10, 2025 at 15:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +5.9%  
-**30d:** -2.8%  
-**90d:** -29.4%  
-**1y:** -13.5%  
+**24h:** -0.6%  
+**7d:** +6.6%  
+**30d:** -2.2%  
+**90d:** -29.0%  
+**1y:** -12.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-59m ago
+1h ago
 
 ---
 
@@ -120,7 +120,7 @@ A detailed look at the incidents, recovery, and the network’s state after Ethe
 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
-1d ago
+2d ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 2h ago
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -198,7 +198,7 @@ Decrypt • 1d ago
 
 Earlier this month, BlackRock moved further into digital assets by filing with the SEC for an iShares staked Ethereum ETF that pairs ether price exposure with on-chain staking rewards, using a multi-custodian structure anchored by Coinbase and BNY Mellon. The filing signals BlackRock’s push to broaden yield-focused crypto offerings at a time when investors are reassessing Bitcoin ETF allocations and looking for income-oriented alternatives. We’ll now examine how this push into staked...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -222,7 +222,7 @@ Fortune • 1d ago
 
 The chart finally shows a market that has stopped bleeding and begun to fight back, and Ethereum is about to enter a structurally critical phase. ETH has successfully reversed from the $2,700-$2,800 range after months of cascading sell pressure, printing a series of higher lows and pushing hard tow…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -306,7 +306,7 @@ Ethereum just printed one of the biggest signals I have seen in a long time… a
 
 📺 Crypto Hustle
 
-👁️ 240 • 👍 21 • 💬 3 • ⏱️ 11:11 • 4h ago
+👁️ 240 • 👍 21 • 💬 3 • ⏱️ 11:11 • 5h ago
 
 ---
 
