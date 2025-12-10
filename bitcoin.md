@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T19:52:09.607448+00:00'
+updated: '2025-12-10T20:16:54.846160+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 19:52 UTC  
+**Last Updated:** December 10, 2025 at 20:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,700.32
+### $94,200.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +0.7%  
-**30d:** -10.1%  
-**90d:** -20.1%  
-**1y:** -8.1%  
+**24h:** +1.5%  
+**7d:** +2.2%  
+**30d:** -8.7%  
+**90d:** -19.0%  
+**1y:** -6.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1852.13B
+**Market Cap:** $1855.75B
 Rank #1
 
-**Circulating Supply:** 19,960,290 BTC
+**Circulating Supply:** 19,960,303 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.5%
+-25.3%
 
 **All-Time Low:** $67.81
-+136607.0%
++138757.1%
 
 ---
 
@@ -93,35 +93,27 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 ---
 
-**[BTC Bear Market Projection](https://www.reddit.com/r/Bitcoin/comments/1pj8qqf/btc_bear_market_projection/)**
-
-Bitcoin has been locked in a predictable 4 year cycle pretty much since it's inception. Analyzing the patterns of the 4 year cycle has been very useful when it comes to projecting the timing of market cycle tops and bottoms. Using these patterns, I have come up with a theory which estimates the approximate date and range of the upcoming bear market bottom. Here are some known patterns that Bitcoin has exhibited over the last decade: - Cycle tops have come approximately 18 months after each of the last 3 halvings. Halving Jul 2016 - Dec 2017 Top (17 Months) Halving May 2020 - Nov 2021 Top (18 Months) Halving Apr 2024 - Oct 2025 Top (18 Months) - Cycle bottoms have come approximately 1 year after each cycle top. Nov 2013 Top - Jan 2015 Bottom (14 Months) Dec 2017 Top - Dec 2018 Bottom (12 Months) Nov 2021 Top - Nov 2022 Bottom (12 Months) With these patterns in mind, we can estimate when the next bear market bottom will occur. Assuming the cycle top was Oct 2025 at $126K, The bear market bottom should happen around Oct 2026. I can go one step further and come up with an estimated price range of the bottom. We can see that each bear market has had diminishing declines. (Each bear market has been less severe than the prior one) Based on the drawdowns of each bear market, I will assume the bottom will come in around $50K + or - 10% as that range will fall inline with prior market bottoms below the projected 200 week and 50 month moving averages. Past performance is not indicative of future results.
-
-2h ago
-
----
-
-**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
-
-19h ago
-
----
-
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
 3h ago
 
 ---
 
-**[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
+**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-9h ago
+20h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
 
 1h ago
+
+---
+
+**[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
+
+9h ago
 
 ---
 
@@ -137,13 +129,21 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 Sooner or later it will bounce to new highs, or not
 
-13h ago
+14h ago
 
 ---
 
 **[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
 
-12h ago
+13h ago
+
+---
+
+**[BTC the gate to access financial prosperity.](https://www.reddit.com/r/Bitcoin/comments/1pja6kr/btc_the_gate_to_access_financial_prosperity/)**
+
+It’s incredible how many interesting and innovative products coming out to put you Bitcoin to work for you everything from staking, loan back products and the ability to you Bitcoin as collateral. I really think individuals you accumulate and hold this asset will unlock a financial edge limited to a small segment of the population. I really envision time where acquiring bitcoin will be nearly impossible or astronomically expensive because those who have even the smallest amounts will never sell. We are in a race with the entire world and the window is closing.
+
+1h ago
 
 ---
 
@@ -151,25 +151,25 @@ Sooner or later it will bounce to new highs, or not
 
 ## Google News: "bitcoin"
 
+**[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://decrypt.co/351847/bitcoin-ethereum-federal-reserve-cuts-rates)**
+
+The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
+
+Decrypt • 58m ago
+
+---
+
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqf8g_B3QWOYjtsuDfjLbLjw8fkIFoWfWNpQVZob3IwGT-sPL81Vjrhl&gaa_ts=6939d8a3&gaa_sig=oZT7MLim5pYy5yyD5F2Wc6Ix5rMwHdf2c_1JpsLKGaiWAYeldyinFqFHi4Iuolfhudo59f_3oNj9HQwEDgRuHg%3D%3D)**
+
+MarketWatch • 21h ago
+
+---
+
 **[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
 CNBC • 1d ago
-
----
-
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfWfWyOf6xPEMF-zW5pEER1iEUMh1r8hh9LxS7AZhfliSiFD1mrgR-N&gaa_ts=6939ccc2&gaa_sig=RxY96N2rcQeShxoMeZhXaGHCHGGNftZcWI39EeMBOMrZf6wQ0GbGH9qleb4wvAb5lZixPVudAcQk9JEhE5kZ4A%3D%3D)**
-
-MarketWatch • 20h ago
-
----
-
-**[Bitcoin to $500,000? Here’s when to expect the price to hit the new record](https://finance.yahoo.com/news/bitcoin-500-000-expect-price-164545497.html)**
-
-Standard Chartered pushed its $500,000 Bitcoin target to 2030 from 2028. The bank says digital asset treasury buying is over and won't support prices anymore. Geoffrey Kendrick said Bitcoin will now rely on ETF buying alone to reach the half-million dollar target.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -193,17 +193,11 @@ The Block • 21h ago
 
 ---
 
-**[CryptoQuant says bitcoin could reach $112,000 if Fed turns dovish and key resistance levels break](https://www.theblock.co/post/382114/cryptoquant-bitcoin-112000-if-fed-dovish-key-resistance-levels-break?utm_source=rss&utm_medium=rss)**
-
-The Block • 1h ago
-
----
-
 **[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
 
 If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
@@ -211,7 +205,7 @@ NPR • 11h ago
 
 The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -220,6 +214,12 @@ Bloomberg.com • 5h ago
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
 WIRED • 1d ago
+
+---
+
+**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -305,13 +305,13 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ## YouTube Videos: "bitcoin"
 
-**[Is the Fed About to Trigger the Next Bitcoin Boom?](https://www.youtube.com/watch?v=7CnyO1Ep3YU)**
+**[The INEVITABLE Bitcoin Catch Up Trade Started Yesterday! [You Have 24H]](https://www.youtube.com/watch?v=65KgU0oEeOg)**
 
-Anthony and John Pompliano dig into what's really at stake at the upcoming Federal Reserve meeting — whether the move ...
+The biggest crypto catch-up trade has begun, and Ran explains what's driving it. Bitcoin is breaking out, but key signals suggest ...
 
-📺 Anthony Pompliano
+📺 Crypto Banter
 
-👁️ 26K • 👍 951 • 💬 26 • ⏱️ 35:48 • 21h ago
+👁️ 19K • 👍 2K • 💬 28 • ⏱️ 29:14 • 5h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin #Crypto #Finance Bitcoin enters a historic new era as U.S. regulators of
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 562 • 💬 92 • ⏱️ 37:24 • 5h ago
+👁️ 11K • 👍 644 • 💬 102 • ⏱️ 37:24 • 5h ago
 
 ---
 
@@ -331,47 +331,67 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 97 • ⏱️ 41:09 • 4h ago
+👁️ 23K • 👍 1K • 💬 108 • ⏱️ 41:09 • 4h ago
 
 ---
 
-**[The INEVITABLE Bitcoin Catch Up Trade Started Yesterday! [You Have 24H]](https://www.youtube.com/watch?v=65KgU0oEeOg)**
-
-The biggest crypto catch-up trade has begun, and Ran explains what's driving it. Bitcoin is breaking out, but key signals suggest ...
-
-📺 Crypto Banter
-
-👁️ 12K • 👍 2K • 💬 19 • ⏱️ 29:14 • 4h ago
-
----
-
-**[If Trump Does This Bitcoin and Crypto Will Explode](https://www.youtube.com/watch?v=1sd6Qcx-uKY)**
-
-In this clip, I talk about a major macro event that could impact bitcoin and crypto. **Exchange Partners** Bitunix Exchange ...
-
-📺 CryptosRus Extra
-
-👁️ 8K • 👍 538 • 💬 122 • ⏱️ 8:42 • 19h ago
-
----
-
-**[Bitcoin Is Repeating 2019 And Most People Are Completely Asleep - Ben Cowen](https://www.youtube.com/watch?v=mF6TOLw1IxU)**
+**[&quot;Why 2026 Could MAKE or BREAK Bitcoin Forever&quot; - Mike Novogratz](https://www.youtube.com/watch?v=OC0hUB_JN2o)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 271 • 💬 59 • ⏱️ 21:52 • 20h ago
+👁️ 2K • 👍 101 • 💬 10 • ⏱️ 21:00 • 4h ago
 
 ---
 
-**[Bitcoin &amp; Crypto Moving As FED Flips](https://www.youtube.com/watch?v=MWIzs8cM9Is)**
+**[This Is NOT Normal… Bitcoin Is Warning Us.](https://www.youtube.com/watch?v=0TNP_l8V3tc)**
 
-BTC, ETH, SOL, and stocks all waiting on the FED decision today! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BUUID (up to $2200 USDT) My Strategy ...
 
-📺 Lark Davis
+📺 Conor Kenny
 
-👁️ 13K • 👍 752 • 💬 28 • ⏱️ 50:46 • 7h ago
+👁️ 11K • 👍 541 • 💬 56 • ⏱️ 12:36 • 14h ago
+
+---
+
+**[Bitcoin Has Only Done This 5 Times In HISTORY](https://www.youtube.com/watch?v=IgPE2JZ2N-A)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 2K • 👍 326 • 💬 16 • ⏱️ 8:36 • 1h ago
+
+---
+
+**[BITCOIN: i can’t believe what i’ve just seen..](https://www.youtube.com/watch?v=8NYTwI_MdNk)**
+
+Bitcoin what now? HIDDEN DANGER Of Drinking Apple Cider Vinegar! https://youtu.be/GZ0i3Ib6Sl0 (click)
+
+📺 MMCrypto
+
+👁️ 28K • 👍 2K • 💬 233 • ⏱️ 4:22 • 8h ago
+
+---
+
+**[Is the Fed About to Trigger the Next Bitcoin Boom?](https://www.youtube.com/watch?v=7CnyO1Ep3YU)**
+
+Anthony and John Pompliano dig into what's really at stake at the upcoming Federal Reserve meeting — whether the move ...
+
+📺 Anthony Pompliano
+
+👁️ 27K • 👍 973 • 💬 26 • ⏱️ 35:48 • 22h ago
+
+---
+
+**[Banks Are Pushing Bitcoin Into the Death Spiral](https://www.youtube.com/watch?v=7XTc2dC6Q00)**
+
+How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemini Credit Card: http://gemini.com/andrei ...
+
+📺 Andrei Jikh
+
+👁️ 566K • 👍 19K • 💬 2K • ⏱️ 20:03 • 2d ago
 
 ---
 
@@ -381,27 +401,7 @@ Michael Saylor drops a BOMBSHELL at Bitcoin MENA that PROVES 2026 is gonna be BU
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 669 • 💬 129 • ⏱️ 1:20:17 • 1d ago
-
----
-
-**[Bitcoin Pre-FOMC](https://www.youtube.com/watch?v=kZGHzEGRyAM)**
-
-Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
-
-📺 Benjamin Cowen
-
-👁️ 80K • 👍 4K • 💬 167 • ⏱️ 9:09 • 1d ago
-
----
-
-**[Did Jack Mallers Just Build Bitcoin’s FIRST $1 Trillion Company?!](https://www.youtube.com/watch?v=AJsTfBKSt4U)**
-
-Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most explosive Bitcoin-backed company in history—21 ...
-
-📺 Simply Bitcoin
-
-👁️ 53K • 👍 3K • 💬 280 • ⏱️ 16:39 • 19h ago
+👁️ 14K • 👍 675 • 💬 129 • ⏱️ 1:20:17 • 1d ago
 
 ---
 

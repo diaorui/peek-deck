@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T19:52:09.616906+00:00'
+updated: '2025-12-10T20:16:54.854269+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 19:52 UTC  
+**Last Updated:** December 10, 2025 at 20:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,14 +32,6 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Robotic hands, a comprehensice infographic](https://www.reddit.com/r/robotics/comments/1pj3o6w/robotic_hands_a_comprehensice_infographic/)**
-
-We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
-
-5h ago
-
----
-
 **[When an operator performs a backflip while wearing the VR headset, NEO doesn't follow, instead remaining upright and balanced](https://www.reddit.com/r/robotics/comments/1pize07/when_an_operator_performs_a_backflip_while/)**
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
@@ -48,11 +40,19 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 ---
 
+**[Robotic hands, a comprehensice infographic](https://www.reddit.com/r/robotics/comments/1pj3o6w/robotic_hands_a_comprehensice_infographic/)**
+
+We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
+
+6h ago
+
+---
+
 **[University of Utah engineers just gave a bionic hand "mind of its own" using AI. Aligns user intent with hand's grip automatically.](https://www.reddit.com/r/robotics/comments/1pix2wp/university_of_utah_engineers_just_gave_a_bionic/)**
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-11h ago
+12h ago
 
 ---
 
@@ -60,13 +60,21 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-8h ago
+9h ago
 
 ---
 
 **[Humanoid: What’s Different About Their Wrist Design?](https://www.reddit.com/r/robotics/comments/1pj0xfe/humanoid_whats_different_about_their_wrist_design/)**
 
-7h ago
+8h ago
+
+---
+
+**[How doomed im I if I do robotics?](https://www.reddit.com/r/robotics/comments/1pjcf1o/how_doomed_im_i_if_i_do_robotics/)**
+
+Ok so basically I am a student currently studying in college (Not I live in the uk) and ngl since I was a kid I was a mega fan of robots and watched a lot of shows related to that. I have also bought some robotic kits for me to practice. However I have a major concern and it's the fact that is there a high chance for me to find work im the future? I know it is still a little but too soon for this since im not even at university However I have realised that not a lot of people (at least that I know) are into it and everytime someone ask me what I am going to do in the future, when I say I want to be a robotic engineer they mostly look at me like I am speaking in a different language so I just want to know if the job market for it is really bad or if there is still some type of hope for it.
+
+31m ago
 
 ---
 
@@ -96,15 +104,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 Hi everyone, I’m getting started with ROS2 and have been following the Husarion tutorial (the ROSbot XL + Gazebo one). It seems pretty complete, but I ran into a few issues along the way: Some repositories were deprecated or had moved to different branches. Several dependencies weren’t documented, so I had to install them manually. I had to replace ros_components_description with husarion_components_description and update the corresponding includes to get the simulation running. Some parts of the tutorial seem written for Humble, and I'm not sure if that’s ideal to learn ROS2 today. I eventually got the robot running in Gazebo, but before investing more time I wanted to ask: What do you think of this tutorial as a way to learn ROS2 from scratch? What are the pros and cons? Is it still a good choice for beginners? Would it be better to switch to ROS2 Jazzy to avoid compatibility issues? Are there any more up-to-date alternatives or learning roadmaps you’d recommend? Any feedback is appreciated — thanks! 🙌
 
-4h ago
-
----
-
-**[Robots Lightsaber Duel !!!](https://www.reddit.com/r/robotics/comments/1pi6js4/robots_lightsaber_duel/)**
-
-"May the sensors be with you "
-
-1d ago
+5h ago
 
 ---
 
@@ -120,17 +120,11 @@ MLive.com • 1d ago
 
 ---
 
-**[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
+**[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
 
-The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
+Army Special Forces Embracing Robots in All Domains
 
-Breaking Defense • 2d ago
-
----
-
-**[Houston ISD cancels high school robotics team trip to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
-
-Chron • 2h ago
+National Defense Magazine • 2d ago
 
 ---
 
@@ -138,7 +132,7 @@ Chron • 2h ago
 
 MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -150,11 +144,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai/)**
+**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
 
-SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
+Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-PYMNTS.com • 1d ago
+Decrypt • 1d ago
 
 ---
 
@@ -162,15 +156,21 @@ PYMNTS.com • 1d ago
 
 Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
 
-NCTV17 • 18h ago
+NCTV17 • 19h ago
 
 ---
 
-**[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
+**[Houston ISD cancels high school robotics team trip to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Army Special Forces Embracing Robots in All Domains
+Chron • 3h ago
 
-National Defense Magazine • 2d ago
+---
+
+**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai/)**
+
+SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
+
+PYMNTS.com • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 15K • 👍 449 • 💬 108 • ⏱️ 42:48 • 2d ago
+👁️ 15K • 👍 453 • 💬 108 • ⏱️ 42:48 • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 46K • 👍 1K • 💬 324 • ⏱️ 14:26 • 2d ago
+👁️ 49K • 👍 1K • 💬 346 • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -228,7 +228,17 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 32K • 👍 639 • 💬 152 • ⏱️ 18:46 • 4d ago
+👁️ 33K • 👍 640 • 💬 152 • ⏱️ 18:46 • 4d ago
+
+---
+
+**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 123K • 👍 6K • 💬 841 • ⏱️ 19:33 • 4d ago
 
 ---
 
@@ -240,23 +250,13 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 ---
 
-**[Silicon Valley’s Newest AI Diaper Changer Is Unreal 👶🤖 AI Baby Changer 4.0 — The Future Is Here](https://www.youtube.com/watch?v=x5P16JwG6fU)**
+**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
 
-At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the future of Smart Parenting, BabyTech and AI ...
+In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
 
-📺 AI Robot Lab
+📺 Google DeepMind
 
-👁️ 14K • 👍 81 • 💬 1 • ⏱️ 0:20 • 6h ago
-
----
-
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
-
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
-
-📺 DPCcars
-
-👁️ 202K • 👍 905 • 💬 297 • ⏱️ 1:03 • 4d ago
+👁️ 10K • 👍 823 • 💬 76 • ⏱️ 17:44 • 3h ago
 
 ---
 
@@ -266,17 +266,17 @@ Ready to Learn from My Mentors? Book a Free Strategy Call at https://felixfriend
 
 📺 Felix & Friends (Goat Academy)
 
-👁️ 100K • 👍 3K • 💬 144 • ⏱️ 29:12 • 2d ago
+👁️ 101K • 👍 3K • 💬 143 • ⏱️ 29:12 • 2d ago
 
 ---
 
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
 
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
 
-📺 The Straits Times
+📺 DPCcars
 
-👁️ 135K • 👍 627 • 💬 212 • ⏱️ 0:47 • 1d ago
+👁️ 203K • 👍 907 • 💬 297 • ⏱️ 1:03 • 4d ago
 
 ---
 
@@ -286,7 +286,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 42K • 👍 456 • 💬 13 • ⏱️ 0:25 • 3d ago
+👁️ 43K • 👍 473 • 💬 13 • ⏱️ 0:25 • 3d ago
 
 ---
 

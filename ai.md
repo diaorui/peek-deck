@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T19:52:09.598723+00:00'
+updated: '2025-12-10T20:16:54.838572+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 19:52 UTC  
+**Last Updated:** December 10, 2025 at 20:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 3h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 4h ago
 
 ---
 
@@ -55,7 +55,7 @@ The start-up is falling behind in the AI race.
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 18h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 19h ago
 
 ---
 
@@ -63,7 +63,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
-18h ago
+19h ago
 
 ---
 
@@ -99,7 +99,7 @@ I’ve spent the last year really putting AI to work, writing content, handling 
 
 **[Trump’s push for more AI data centers faces backlash from his own voters](https://www.reddit.com/r/artificial/comments/1pj7pr6/trumps_push_for_more_ai_data_centers_faces/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 2h ago
+🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 3h ago
 
 ---
 
@@ -117,7 +117,7 @@ While teenagers may start out using AI chatbots for basic questions, their relat
 
 **[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -125,15 +125,15 @@ The New York Times • 9h ago
 
 Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
-**[Meta might charge for a future AI model](https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg)**
+**[From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion](https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html)**
 
-A strategy shift for Meta’s AI group?
+Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-The Verge • 1h ago
+CNBC • 1d ago
 
 ---
 
@@ -141,7 +141,7 @@ The Verge • 1h ago
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -149,41 +149,45 @@ BBC • 7h ago
 
 Viewers blasted McDonald's satirical commercial as offensive, with critics questioning why anyone would 'ditch your family and hide in McDonald's.'
 
-Los Angeles Times • 15h ago
+Los Angeles Times • 16h ago
 
 ---
 
-**[McDonald's removes AI-generated Christmas ad after online backlash](https://www.10tv.com/article/news/nation-world/mcdonalds-pulls-ai-generated-christmas-ad/507-0db86f78-adbf-4d71-881c-7837cdab69ed)**
+**[McDonald’s pulls AI-generated Christmas ad after backlash](https://www.kare11.com/article/news/nation-world/mcdonalds-pulls-ai-generated-christmas-ad/507-0db86f78-adbf-4d71-881c-7837cdab69ed)**
 
 McDonald’s Netherlands pulled its AI-made holiday ad after viewers blasted the spot’s unsettling visuals.
 
-10tv.com • 1h ago
+kare11.com • 1h ago
 
 ---
 
-**[Navy Strikes Deal With Palantir for AI Overhaul of Submarine Maintenance](https://www.wsj.com/business/logistics/navy-strikes-deal-with-palantir-for-ai-overhaul-of-submarine-maintenance-848f15f2?gaa_at=eafs&gaa_n=AWEtsqfaDI8MPj89LJzTOb-3Df0seTpgrduIYsJ7RNLK_ZyXW1i1rnsKo7ou&gaa_ts=6939ccc0&gaa_sig=Rul5klZ5goV4rkqNwd-sI08pLg-hCCnD-ryN90fzEBUsJoiWleU9wfNFKDlfWIWBhfJ8Kg70ODyE5BADAAgO4Q%3D%3D)**
+**[Actress Natasha Lyonne dropped out of NYU and watched movies instead. Now, she’s helping to shape the future of AI](https://fortune.com/2025/12/10/natasha-lyonne-ai-animal-pictures-asteria-film-brainstorm-ai/)**
 
-The Wall Street Journal • 20h ago
+“We are the ones who are deciding what this use is going to be and how we choose to use it,”” Lyonne told Fortune’s Brainstorm AI audience in San Francisco.
 
----
-
-**[Navy, Palantir Announce $448M ‘Ship OS’ AI Tool for Shipbuilding and Repair](https://news.usni.org/2025/12/09/navy-palantir-announce-448m-ship-os-ai-tool-for-shipbuilding-and-repair)**
-
-USNI News • 20h ago
+Fortune • 37m ago
 
 ---
 
-**[Navy Says AI Cut 160-Hour Submarine-Planning Job to 10 Minutes](https://www.businessinsider.com/navy-ai-cut-hourslong-submarine-planning-job-to-minutes-2025-12)**
+**[Asia’s inexpensive AI stocks should worry American investors](https://www.economist.com/finance-and-economics/2025/12/10/asias-inexpensive-ai-stocks-should-worry-american-investors)**
 
-The Navy is investing almost half a billion dollars in Palantir artificial intelligence software that promises to speed up shipbuilding processes.
-
-Business Insider • 48m ago
+The Economist • 58m ago
 
 ---
 
-**[Google’s AI momentum continues as Gemini scores another victory over ChatGPT](https://www.marketwatch.com/story/googles-ai-momentum-continues-as-gemini-scores-another-victory-over-chatgpt-16946689?gaa_at=eafs&gaa_n=AWEtsqc4Yl1ZTdyiE-8WUsO8lAoRKClcw28ykCmBB7th-X2iobJQ9-sBJtBI&gaa_ts=6939ccc0&gaa_sig=0994dXAS4IsA4VSKVBf9mwKNP6V3yIv8q707godXIVRpXOL4lZL7qqgibC66DSLH3mgqf2GUz7EeRMwW8KBt_Q%3D%3D)**
+**[‘We are truly doomed’: King Gizzard and the Lizard Wizard despair at AI clone appearing on Spotify](https://www.theguardian.com/music/2025/dec/10/king-gizzard-and-the-lizard-wizard-despair-at-ai-clone-appearing-on-spotify)**
 
-MarketWatch • 1h ago
+Australian psych-rockers, who removed their music from Spotify in protest against the streaming service, lament the appearance of AI band King Lizard Wizard
+
+The Guardian • 3h ago
+
+---
+
+**[Spotify tests more personalized, AI-powered ‘Prompted Playlists’](https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/)**
+
+The playlists can factor in world knowledge, go back to your listening history from day one, and be refreshed daily or weekly.
+
+TechCrunch • 15m ago
 
 ---
 
@@ -195,7 +199,7 @@ MarketWatch • 1h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 565 • 💬 585 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 565 • 💬 586 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -211,7 +215,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 342 • 💬 409 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 346 • 💬 412 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -219,7 +223,15 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 277 • 💬 126 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 278 • 💬 126 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+
+---
+
+**[DeepSeek uses banned Nvidia chips for AI model, report says](https://news.ycombinator.com/item?id=46219853)**
+
+Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
+
+⬆️ 217 • 💬 185 • 3h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -229,19 +241,11 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 ---
 
-**[DeepSeek uses banned Nvidia chips for AI model, report says](https://news.ycombinator.com/item?id=46219853)**
-
-Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
-
-⬆️ 189 • 💬 149 • 3h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
-
----
-
 **[NYC congestion pricing cuts air pollution by a fifth in six months](https://news.ycombinator.com/item?id=46213504)**
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 159 • 💬 190 • 16h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 160 • 💬 191 • 17h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -249,7 +253,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 118 • 💬 24 • 23h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 120 • 💬 24 • 1d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -257,7 +261,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 82 • 💬 108 • 6h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 88 • 💬 113 • 7h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -265,7 +269,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 64 • 💬 87 • 18h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 65 • 💬 87 • 18h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -273,33 +277,23 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 ## YouTube Videos: "ai"
 
-**[The ONLY 5 AI Image Generators You Need to Know in 2026](https://www.youtube.com/watch?v=yuPNbSiJCzM)**
-
-Access All Image Models with OpenArt https://roboverse-ai.com/Image-Generators In this video, I break down the 5 best AI ...
-
-📺 Roboverse
-
-👁️ 4K • 💬 4 • ⏱️ 12:32 • 4h ago
-
----
-
-**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
-
-Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
-
-📺 AI Revolution
-
-👁️ 27K • 👍 1K • 💬 52 • ⏱️ 12:50 • 19h ago
-
----
-
 **[Using AI to Raise Your Baby](https://www.youtube.com/watch?v=1voqPZSqSE4)**
 
 Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
 
 📺 penguinz0
 
-👁️ 861K • 👍 43K • 💬 5K • ⏱️ 8:35 • 23h ago
+👁️ 902K • 👍 45K • 💬 5K • ⏱️ 8:35 • 1d ago
+
+---
+
+**[The ONLY 5 AI Image Generators You Need to Know in 2026](https://www.youtube.com/watch?v=yuPNbSiJCzM)**
+
+Access All Image Models with OpenArt https://roboverse-ai.com/Image-Generators In this video, I break down the 5 best AI ...
+
+📺 Roboverse
+
+👁️ 5K • 💬 4 • ⏱️ 12:32 • 5h ago
 
 ---
 
@@ -309,17 +303,37 @@ In this episode, I sit down with @elonmusk for a wide-ranging conversation on DO
 
 📺 Katie Miller Pod
 
-👁️ 165K • 👍 8K • 💬 2K • ⏱️ 52:58 • 20h ago
+👁️ 194K • 👍 9K • 💬 2K • ⏱️ 52:58 • 21h ago
 
 ---
 
-**[AI News: GPT-5.2, Devstral 2, Boom Superpower, MCP Nonprofit and more!](https://www.youtube.com/watch?v=GMQ58GUpcD0)**
+**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
 
-Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia Download The Subtle ...
+Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
 
-📺 Matthew Berman
+📺 AI Revolution
 
-👁️ 47K • 👍 1K • 💬 176 • ⏱️ 9:41 • 20h ago
+👁️ 29K • 👍 1K • 💬 54 • ⏱️ 12:50 • 19h ago
+
+---
+
+**[McDonald&#39;s New AI Christmas Ad Disgusts Me](https://www.youtube.com/watch?v=I2IiAhsoSw4)**
+
+Jeremy's Razors - Visit https://jeremysrazors.com today! McDonald's has just released a fully AI generated Christmas ad. It's even ...
+
+📺 Matt Walsh
+
+👁️ 43K • 👍 3K • 💬 1K • ⏱️ 12:07 • 6h ago
+
+---
+
+**[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
+
+JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
+
+📺 Fox Business
+
+👁️ 135K • 👍 2K • 💬 569 • ⏱️ 18:47 • 2d ago
 
 ---
 
@@ -329,7 +343,17 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTE
 
 📺 Anastasi In Tech
 
-👁️ 245K • 👍 14K • 💬 2K • ⏱️ 31:03 • 1d ago
+👁️ 249K • 👍 14K • 💬 2K • ⏱️ 31:03 • 1d ago
+
+---
+
+**[AI News: GPT-5.2, Devstral 2, Boom Superpower, MCP Nonprofit and more!](https://www.youtube.com/watch?v=GMQ58GUpcD0)**
+
+Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia Download The Subtle ...
+
+📺 Matthew Berman
+
+👁️ 49K • 👍 1K • 💬 181 • ⏱️ 9:41 • 20h ago
 
 ---
 
@@ -339,17 +363,7 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 hxsain
 
-👁️ 277K • 👍 23K • 💬 251 • ⏱️ 0:51 • 1d ago
-
----
-
-**[Google’s Titans Just Solved AI’s Biggest Weakness, But...](https://www.youtube.com/watch?v=GGdjty9pAtg)**
-
-Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS introduce a new long-term memory system that ...
-
-📺 AI Revolution
-
-👁️ 36K • 👍 1K • 💬 68 • ⏱️ 13:12 • 1d ago
+👁️ 292K • 👍 23K • 💬 256 • ⏱️ 0:51 • 1d ago
 
 ---
 
@@ -359,17 +373,7 @@ I Paid a dress maker to make an AI dress in real life! OTHER VIDEOS u might like
 
 📺 Mia Maples
 
-👁️ 95K • 👍 4K • 💬 78 • ⏱️ 0:36 • 1d ago
-
----
-
-**[Why is Everyone So Wrong About AI Water Use??](https://www.youtube.com/watch?v=H_c6MWk7PQc)**
-
-Go to https://ground.news/hank for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
-
-📺 Hank Green
-
-👁️ 1.3M • 👍 65K • 💬 7K • ⏱️ 24:00 • 1d ago
+👁️ 96K • 👍 4K • 💬 78 • ⏱️ 0:36 • 2d ago
 
 ---
 
@@ -385,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 651 • 1d ago
+⬇️ 67,717 • ❤️ 654 • 1d ago
 
 ---
 
@@ -397,7 +401,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,474 • 2d ago
+⬇️ 232,896 • ❤️ 2,476 • 2d ago
 
 ---
 
@@ -409,7 +413,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 290 • 1d ago
+⬇️ 10,031 • ❤️ 294 • 1d ago
 
 ---
 
@@ -421,7 +425,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 1,305 • ❤️ 239 • 1d ago
+⬇️ 1,305 • ❤️ 240 • 1d ago
 
 ---
 
@@ -433,7 +437,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 40,667 • ❤️ 857 • 9d ago
+⬇️ 40,667 • ❤️ 858 • 9d ago
 
 ---
 
@@ -445,7 +449,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 211 • 3h ago
+⬇️ 2,414 • ❤️ 214 • 3h ago
 
 ---
 
@@ -509,23 +513,9 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 92 • 💬 2 • ⭐ 160 • 1d ago
+▲ 93 • 💬 2 • ⭐ 197 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move)
-
----
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 23 • 💬 2 • ⭐ 6,242 • 13d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -540,6 +530,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 179 • 💬 3 • ⭐ 6,308 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 23 • 💬 2 • ⭐ 6,312 • 13d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -577,7 +581,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 54 • 💬 2 • ⭐ 982 • 8d ago
+▲ 54 • 💬 2 • ⭐ 995 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -589,7 +593,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 5 • 💬 1 • ⭐ 11,733 • 2d ago
+▲ 6 • 💬 1 • ⭐ 11,733 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -603,7 +607,7 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 TwinFlow is a 1-step generative model framework that enhances inference efficiency without requiring fixed pretrained teacher models or standard adversarial networks, achieving high performance on text-to-image tasks and scaling efficiently.
 
-▲ 59 • 💬 8 • ⭐ 88 • 7d ago
+▲ 60 • 💬 8 • ⭐ 88 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.05150) • [💻 code](https://github.com/inclusionAI/TwinFlow) • [🔗 project](https://zhenglin-cheng.com/twinflow)
 
@@ -645,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 5.2k • 🔱 849 • 1h ago
+⭐ 5.2k • 🔱 850 • 2h ago
 
 ---
 
@@ -665,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.6k • 🔱 190 • 8h ago
+⭐ 1.6k • 🔱 190 • 4m ago
 
 ---
 
@@ -685,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 129 • 10h ago
+⭐ 1.0k • 🔱 129 • 11h ago
 
 ---
 
@@ -735,7 +739,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 580 • 🔱 45 • 7d ago
+⭐ 581 • 🔱 45 • 7d ago
 
 ---
 
