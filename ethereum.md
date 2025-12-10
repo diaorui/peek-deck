@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T17:59:08.751535+00:00'
+updated: '2025-12-10T18:41:34.089261+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 17:59 UTC  
+**Last Updated:** December 10, 2025 at 18:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,317.66
+### $3,367.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** +7.7%  
-**30d:** -1.1%  
-**90d:** -28.2%  
-**1y:** -12.0%  
+**24h:** +1.3%  
+**7d:** +8.5%  
+**30d:** -0.4%  
+**90d:** -27.6%  
+**1y:** -11.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $406.85B
+**Market Cap:** $412.83B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--31.9%
+-30.8%
 
 **All-Time Low:** $0.43
-+777759.9%
++790555.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 oskar thorén is one of the leads in ethereum foundation's newest IPTF, or institutional privacy task force. he's a freedom maxi, zero-knowledge wizard, taiwan expart, and a dear friend. an electric mix of sovereign energy! oskar is one of the most well spoken advocates for privacy, zk, and self-custody, and in this interview where we hiked xiangshan in taipei, he holds nothing back to give us banger insight after banger insight. we talked all things zk and privacy, including: how the snowden revelations ignited his passion his early work in Vac and Waku to create encrypted messaging back when early ethereum was only 3 pillars (eth/swarm/whisper) how it informed his passion for zero knowledge cryptography and the technical applications of it to privacy-preservation his contributions to MoPro, a zk mobile proving toolkit that's bringing zk ever closer to reality on our phones his work on https://zkintro.com where he creates friendly resources to zero-knowledge cryptography from beginners to engineers to researchers, how his latest venture as one of the co-leads in the EF's newest task force, the Institutional Privacy Task Force, is bringing cypherpunk-grade privacy to the world's biggest financial institutions, and his 3-pronged mindset to achieving self-sovereignty you can catch the full interview on my youtube channel at: https://youtu.be/_BWRyIqCmVI --------------------------- if we're meeting for the first time, hi 👋! i spread the good word on good work in crypto. it's a challenging road fighting the cesspool that is crypto youtube... but im energized by creating principles-led, values-driven content a like, sub, comment, share goes a long way <3
 
-🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 1h ago
+🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-19h ago
+20h ago
 
 ---
 
@@ -184,7 +184,7 @@ Decrypt • 4h ago
 
 **[The Daily: Robinhood's expansion plans, BlackRock's staked Ethereum ETF filing, Strategy's biggest Bitcoin buy since July, and more](https://www.theblock.co/post/381770/the-daily-robinhoods-expansion-plans-blackrocks-staked-ethereum-etf-filing-strategys-biggest-bitcoin-buy-since-july-and-more)**
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 758 • 👍 50 • 💬 37 • ⏱️ 8:36 • 4h ago
+👁️ 758 • 👍 50 • 💬 37 • ⏱️ 8:36 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 332 • ⏱️ 12:03 • 18h ago
+👁️ 63K • 👍 3K • 💬 332 • ⏱️ 12:03 • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 16K • 👍 477 • 💬 239 • ⏱️ 12:46 • 1d ago
+👁️ 16K • 👍 477 • 💬 239 • ⏱️ 12:46 • 2d ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 918 • 👍 136 • 💬 6 • ⏱️ 6:52 • 1h ago
+👁️ 918 • 👍 136 • 💬 6 • ⏱️ 6:52 • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 46K • 👍 2K • 💬 107 • ⏱️ 20:14 • 21h ago
+👁️ 46K • 👍 2K • 💬 107 • ⏱️ 20:14 • 22h ago
 
 ---
 
@@ -288,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 588 • 👍 33 • 💬 1 • ⏱️ 4:47 • 8h ago
+👁️ 588 • 👍 33 • 💬 1 • ⏱️ 4:47 • 9h ago
 
 ---
 
@@ -298,7 +298,7 @@ A huge ETH whale just opened a massive sized position. In today's video, Kyledoo
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 12 • ⏱️ 34:34 • 9h ago
+👁️ 16K • 👍 1K • 💬 12 • ⏱️ 34:34 • 10h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 225 • 💬 8 • ⏱️ 5:16 • 15h ago
+👁️ 4K • 👍 225 • 💬 8 • ⏱️ 5:16 • 16h ago
 
 ---
 

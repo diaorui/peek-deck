@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T17:59:08.745464+00:00'
+updated: '2025-12-10T18:41:34.083206+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 17:59 UTC  
+**Last Updated:** December 10, 2025 at 18:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,411.85
+### $93,002.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +0.5%  
+**24h:** -1.1%  
+**7d:** +0.9%  
 **30d:** -10.3%  
-**90d:** -20.3%  
+**90d:** -20.4%  
 **1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1844.30B
+**Market Cap:** $1845.66B
 Rank #1
 
 **Circulating Supply:** 19,960,278 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.7%
+-26.3%
 
 **All-Time Low:** $67.81
-+136136.5%
++137008.1%
 
 ---
 
@@ -81,19 +81,27 @@ Rank #1
 
 Bottom tex
 
-3h ago
+4h ago
 
 ---
 
 **[.](https://www.reddit.com/r/Bitcoin/comments/1pix5b9/_/)**
 
-9h ago
+10h ago
+
+---
+
+**[Account drained on exchange - Help!](https://www.reddit.com/r/Bitcoin/comments/1pizdbr/account_drained_on_exchange_help/)**
+
+Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
+
+8h ago
 
 ---
 
 **[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -103,17 +111,17 @@ Bottom tex
 
 ---
 
-**[Account drained on exchange - Help!](https://www.reddit.com/r/Bitcoin/comments/1pizdbr/account_drained_on_exchange_help/)**
+**[BTC Bear Market Projection](https://www.reddit.com/r/Bitcoin/comments/1pj8qqf/btc_bear_market_projection/)**
 
-Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
+Bitcoin has been locked in a predictable 4 year cycle pretty much since it's inception. Analyzing the patterns of the 4 year cycle has been very useful when it comes to projecting the timing of market cycle tops and bottoms. Using these patterns, I have come up with a theory which estimates the approximate date and range of the upcoming bear market bottom. Here are some known patterns that Bitcoin has exhibited over the last decade: - Cycle tops have come approximately 18 months after each of the last 3 halvings. Halving Jul 2016 - Dec 2017 Top (17 Months) Halving May 2020 - Nov 2021 Top (18 Months) Halving Apr 2024 - Oct 2025 Top (18 Months) - Cycle bottoms have come approximately 1 year after each cycle top. Nov 2013 Top - Jan 2015 Bottom (14 Months) Dec 2017 Top - Dec 2018 Bottom (12 Months) Nov 2021 Top - Nov 2022 Bottom (12 Months) With these patterns in mind, we can estimate when the next bear market bottom will occur. Assuming the cycle top was Oct 2025 at $126K, The bear market bottom should happen around Oct 2026. I can go one step further and come up with an estimated price range of the bottom. We can see that each bear market has had diminishing declines. (Each bear market has been less severe than the prior one) Based on the drawdowns of each bear market, I will assume the bottom will come in around $50K + or - 10% as that range will fall inline with prior market bottoms below the projected 200 week and 50 month moving averages. Past performance is not indicative of future results.
 
-7h ago
+1h ago
 
 ---
 
 **[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +129,7 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
-13h ago
+14h ago
 
 ---
 
@@ -129,19 +137,13 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 Sooner or later it will bounce to new highs, or not
 
-11h ago
+12h ago
 
 ---
 
 **[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
 
 11h ago
-
----
-
-**[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
-
-16h ago
 
 ---
 
@@ -153,21 +155,21 @@ Sooner or later it will bounce to new highs, or not
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfHySbwy7mImr2uOLcqSMR_QXhT8fWpTxj33njc7aacY-2I8h675tXF&gaa_ts=6939b7fe&gaa_sig=mbx2ClAvOYoOIzFNucRTxbdZe1U8VPlRPzo-vLtbz9vytvtPMKS2vYSIVAgwdMSl0Mf-yPy29gKN3IJhTCRsNg%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfuM576IMiBivQOMfHuUm0VPdc_VpVzxP4vg6OlVirWN67Up_NwtGNb&gaa_ts=6939c249&gaa_sig=tOq8SorKCr6xPmtxNoMvBhYC1J5xe-f4D-WTk_9SXMFCRid-T9praOX9CculioZYdgX8RuFEsZs1OtZn7x69DA%3D%3D)**
 
-MarketWatch • 18h ago
+MarketWatch • 19h ago
 
 ---
 
-**[Bitcoin to $500,000? Here’s when to expect the price to hit the new record](https://finance.yahoo.com/news/bitcoin-500-000-expect-price-164545497.html)**
+**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
 
-Standard Chartered pushed its $500,000 Bitcoin target to 2030 from 2028. The bank says digital asset treasury buying is over and won't support prices anymore. Geoffrey Kendrick said Bitcoin will now rely on ETF buying alone to reach the half-million dollar target.
+Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
 
-Yahoo Finance • 1d ago
+Business Insider • 8h ago
 
 ---
 
@@ -181,13 +183,13 @@ Investor's Business Daily • 6h ago
 
 Jack Mallers' Twenty One falls 20% in trading debut. It comes as other Bitcoin treasury firms face increasing pressure. Twenty One is majority-owned by stablecoin giant Tether.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -195,7 +197,7 @@ The Block • 19h ago
 
 Bitcoin will likely reach a new price record in 2026, according to cryptocurrency asset manager Grayscale. “We believe the four-year cycle thesis will prove to be incorrect, and that Bitcoin’s price will potentially make new highs next year,” ...
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -209,7 +211,7 @@ The Block • 1h ago
 
 Edelman told DL News early large holders and liquidation events held Bitcoin back in 2025.  Prices should rally "sharply" in 2026, he said. Edelman runs a $287 billion financial advisory firm.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -217,7 +219,7 @@ dlnews.com • 1h ago
 
 If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
@@ -267,7 +269,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 6h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -295,7 +297,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 5h ago
+⬆️ 3 • 💬 0 • 6h ago
 
 ---
 
@@ -309,7 +311,7 @@ Anthony and John Pompliano dig into what's really at stake at the upcoming Feder
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 951 • 💬 26 • ⏱️ 35:48 • 19h ago
+👁️ 26K • 👍 951 • 💬 26 • ⏱️ 35:48 • 20h ago
 
 ---
 
@@ -329,7 +331,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 97 • ⏱️ 41:09 • 2h ago
+👁️ 17K • 👍 1K • 💬 97 • ⏱️ 41:09 • 3h ago
 
 ---
 
@@ -339,7 +341,7 @@ The biggest crypto catch-up trade has begun, and Ran explains what's driving it.
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 2K • 💬 19 • ⏱️ 29:14 • 2h ago
+👁️ 12K • 👍 2K • 💬 19 • ⏱️ 29:14 • 3h ago
 
 ---
 
@@ -349,7 +351,7 @@ In this clip, I talk about a major macro event that could impact bitcoin and cry
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 538 • 💬 122 • ⏱️ 8:42 • 17h ago
+👁️ 8K • 👍 538 • 💬 122 • ⏱️ 8:42 • 18h ago
 
 ---
 
@@ -359,7 +361,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 271 • 💬 59 • ⏱️ 21:52 • 18h ago
+👁️ 6K • 👍 271 • 💬 59 • ⏱️ 21:52 • 19h ago
 
 ---
 
@@ -379,7 +381,7 @@ Michael Saylor drops a BOMBSHELL at Bitcoin MENA that PROVES 2026 is gonna be BU
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 669 • 💬 129 • ⏱️ 1:20:17 • 22h ago
+👁️ 14K • 👍 669 • 💬 129 • ⏱️ 1:20:17 • 23h ago
 
 ---
 

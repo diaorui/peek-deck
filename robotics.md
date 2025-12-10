@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T17:59:08.754808+00:00'
+updated: '2025-12-10T18:41:34.092485+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 17:59 UTC  
+**Last Updated:** December 10, 2025 at 18:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-9h ago
+10h ago
 
 ---
 
@@ -60,13 +60,21 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-6h ago
+7h ago
 
 ---
 
 **[Humanoid: What’s Different About Their Wrist Design?](https://www.reddit.com/r/robotics/comments/1pj0xfe/humanoid_whats_different_about_their_wrist_design/)**
 
-5h ago
+6h ago
+
+---
+
+**[Become a Build Farm Backer and help support the ROS Build Farm!](https://www.reddit.com/r/robotics/comments/1pj8guh/become_a_build_farm_backer_and_help_support_the/)**
+
+Ever wonder how sudo apt install just  works  for ROS? That’s the magic of the OSRF Build Farm!  This beast serves over half a billion packages a year, saving us all from the headache of compiling from source. But maintaining this critical utility takes massive server power and a dedicated team of e
+
+🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 1h ago
 
 ---
 
@@ -81,14 +89,6 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
 1d ago
-
----
-
-**[Become a Build Farm Backer and help support the ROS Build Farm!](https://www.reddit.com/r/robotics/comments/1pj8guh/become_a_build_farm_backer_and_help_support_the/)**
-
-Ever wonder how sudo apt install just  works  for ROS? That’s the magic of the OSRF Build Farm!  This beast serves over half a billion packages a year, saving us all from the headache of compiling from source. But maintaining this critical utility takes massive server power and a dedicated team of e
-
-🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 37m ago
 
 ---
 
@@ -128,11 +128,17 @@ National Defense Magazine • 2d ago
 
 ---
 
+**[Houston ISD cancels high school robotics team trip to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+
+Chron • 1h ago
+
+---
+
 **[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://finance.yahoo.com/news/mercado-libre-agility-robotics-announce-130000794.html)**
 
 MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -160,17 +166,11 @@ MLive.com • 1d ago
 
 ---
 
-**[Houston ISD cancels high school robotics team trip to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
-
-Chron • 45m ago
-
----
-
 **[Move over, biomimicry – bio-derived robotic hand uses lobster shells for fingers](https://newatlas.com/robotics/bio-derived-robot-hand-lobster-shells-fingers/)**
 
 If you’re going to kill animals for food, don’t waste their parts – that’s just rude. Use everything, snout-to-tail, and not just bones for glue or stomachs for drink-bags, either. Get creative!
 
-New Atlas • 23h ago
+New Atlas • 1d ago
 
 ---
 
@@ -178,13 +178,15 @@ New Atlas • 23h ago
 
 Company founder Zhu Qiuguo says the new funding would be used for research and the recruitment of top robotics talent.
 
-South China Morning Post • 16h ago
+South China Morning Post • 17h ago
 
 ---
 
-**[Coco, Serve delivery robots wearing out welcome for some Chicagoans](https://www.axios.com/local/chicago/2025/12/10/chicago-pause-delivery-robot-pilot-safety-issues)**
+**[Skana Robotics unveils Alligator autonomous amphibious vessel](https://www.therobotreport.com/skana-robotics-unveils-alligator-autonomous-amphibious-vessel/)**
 
-Axios • 5h ago
+The Alligator is an autonomous amphibious vessel designed to deliver logistics, sensors, and personnel between water and land.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -244,7 +246,7 @@ At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the 
 
 📺 AI Robot Lab
 
-👁️ 14K • 👍 81 • 💬 1 • ⏱️ 0:20 • 4h ago
+👁️ 14K • 👍 81 • 💬 1 • ⏱️ 0:20 • 5h ago
 
 ---
 
