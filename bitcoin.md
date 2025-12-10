@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T21:30:56.080384+00:00'
+updated: '2025-12-10T21:46:56.243452+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 21:30 UTC  
+**Last Updated:** December 10, 2025 at 21:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +0.5%  
-**30d:** -10.3%  
-**90d:** -20.3%  
-**1y:** -8.4%  
+**24h:** -0.6%  
+**7d:** +0.4%  
+**30d:** -10.4%  
+**90d:** -20.4%  
+**1y:** -8.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -95,13 +95,13 @@ Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young
 
 Bottom tex
 
-6h ago
+7h ago
 
 ---
 
 **[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -109,7 +109,7 @@ Bottom tex
 
 Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
 
-10h ago
+11h ago
 
 ---
 
@@ -129,7 +129,7 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-21m ago
+37m ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 2h ago
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin #Crypto #Finance Bitcoin enters a historic new era as U.S. regulators of
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 644 • 💬 102 • ⏱️ 37:24 • 6h ago
+👁️ 11K • 👍 644 • 💬 102 • ⏱️ 37:24 • 7h ago
 
 ---
 
@@ -363,7 +363,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 2K • 👍 326 • 💬 16 • ⏱️ 8:36 • 2h ago
+👁️ 2K • 👍 326 • 💬 16 • ⏱️ 8:36 • 3h ago
 
 ---
 

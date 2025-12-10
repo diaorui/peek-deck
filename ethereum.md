@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T21:30:56.086363+00:00'
+updated: '2025-12-10T21:46:56.249635+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 21:30 UTC  
+**Last Updated:** December 10, 2025 at 21:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +7.8%  
-**30d:** -1.1%  
-**90d:** -28.1%  
-**1y:** -11.9%  
+**24h:** +0.6%  
+**7d:** +7.1%  
+**30d:** -1.8%  
+**90d:** -28.6%  
+**1y:** -12.5%  
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-22h ago
+23h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -280,7 +280,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 889 • 👍 61 • 💬 9 • ⏱️ 1:10:46 • 4h ago
+👁️ 889 • 👍 61 • 💬 9 • ⏱️ 1:10:46 • 5h ago
 
 ---
 
@@ -290,7 +290,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 4K • 💬 324 • ⏱️ 12:03 • 21h ago
+👁️ 65K • 👍 4K • 💬 324 • ⏱️ 12:03 • 22h ago
 
 ---
 
@@ -330,7 +330,7 @@ SORTEIO $ 1.000 USDT + RECEBIDOS SINGAPURA: ...
 
 📺 Yubb
 
-👁️ 6K • 👍 3K • 9h ago
+👁️ 6K • 👍 3K • 10h ago
 
 ---
 
