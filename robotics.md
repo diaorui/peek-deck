@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T22:46:34.455207+00:00'
+updated: '2025-12-10T22:57:22.085956+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 22:46 UTC  
+**Last Updated:** December 10, 2025 at 22:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -104,7 +104,7 @@ Ever wonder how sudo apt install just  works  for ROS? That’s the magic of the
 
 Hi everyone, I’m getting started with ROS2 and have been following the Husarion tutorial (the ROSbot XL + Gazebo one). It seems pretty complete, but I ran into a few issues along the way: Some repositories were deprecated or had moved to different branches. Several dependencies weren’t documented, so I had to install them manually. I had to replace ros_components_description with husarion_components_description and update the corresponding includes to get the simulation running. Some parts of the tutorial seem written for Humble, and I'm not sure if that’s ideal to learn ROS2 today. I eventually got the robot running in Gazebo, but before investing more time I wanted to ask: What do you think of this tutorial as a way to learn ROS2 from scratch? What are the pros and cons? Is it still a good choice for beginners? Would it be better to switch to ROS2 Jazzy to avoid compatibility issues? Are there any more up-to-date alternatives or learning roadmaps you’d recommend? Any feedback is appreciated — thanks! 🙌
 
-7h ago
+8h ago
 
 ---
 

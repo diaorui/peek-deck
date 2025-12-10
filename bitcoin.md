@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T22:46:34.445808+00:00'
+updated: '2025-12-10T22:57:22.076705+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 22:46 UTC  
+**Last Updated:** December 10, 2025 at 22:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
+**24h:** -0.3%  
 **7d:** +0.6%  
 **30d:** -10.2%  
 **90d:** -20.3%  
@@ -125,7 +125,7 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 We back baby!
 
-55m ago
+1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Decrypt • 1h ago
 
 **[Strategy says MSCI’s 50% bitcoin test risks index ‘whiplash’ and conflicts with US pro-innovation policy](https://www.theblock.co/post/382068/strategy-msci-bitcoin-test-index-whiplash-conflicts-innovation)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -391,7 +391,7 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 58K • 👍 3K • 💬 287 • ⏱️ 16:39 • 22h ago
+👁️ 58K • 👍 3K • 💬 287 • ⏱️ 16:39 • 23h ago
 
 ---
 
