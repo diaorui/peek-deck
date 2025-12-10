@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T15:13:53.538319+00:00'
+updated: '2025-12-10T15:41:09.794429+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 15:13 UTC  
+**Last Updated:** December 10, 2025 at 15:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,6 +41,12 @@ AI news, discussions, and developments
 
 This year, McDonald’s decided to get in on the corporate slopfest with a 45-second Christmas spot cooked up for its Netherlands division by the ad agency TBWA\Neboko. The entire thing is AI, and revolves around the thesis that the holiday season is the “most terrible time of the year.” After huge backlash, ad has been taken down from YT, agency made statement owning there failure. https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial This reminds me: "The ability to speak doesn't make you intelligent!" - Qui Gon Jinn Technology, including AI is a tool, an enabler to magnify human genius or stupidity! PS: removed the earlier post with quote name error, couldn't edit in time.
 
+2h ago
+
+---
+
+**[AI companies basically:](https://www.reddit.com/r/artificial/comments/1pj41sq/ai_companies_basically/)**
+
 1h ago
 
 ---
@@ -61,9 +67,11 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 ---
 
-**[AI companies basically:](https://www.reddit.com/r/artificial/comments/1pj41sq/ai_companies_basically/)**
+**[Physical AI will automate ‘large sections’ of factory work in the next decade, Arm CEO Rene Haas says](https://www.reddit.com/r/artificial/comments/1piyfc1/physical_ai_will_automate_large_sections_of/)**
 
-41m ago
+Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
+
+🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 6h ago
 
 ---
 
@@ -72,14 +80,6 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
 🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 1d ago
-
----
-
-**[Physical AI will automate ‘large sections’ of factory work in the next decade, Arm CEO Rene Haas says](https://www.reddit.com/r/artificial/comments/1piyfc1/physical_ai_will_automate_large_sections_of/)**
-
-Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
-
-🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 5h ago
 
 ---
 
@@ -99,19 +99,19 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 ---
 
+**[A Survey of Bayesian Network Structure Learning](https://www.reddit.com/r/artificial/comments/1pj4z0s/a_survey_of_bayesian_network_structure_learning/)**
+
+https://arxiv.org/abs/2109.11415 Abstract: "Bayesian Networks (BNs) have become increasingly popular over the last few decades as a tool for reasoning under uncertainty in fields as diverse as medicine, biology, epidemiology, economics and the social sciences. This is especially true in real-world areas where we seek to answer complex questions based on hypothetical evidence to determine actions for intervention. However, determining the graphical structure of a BN remains a major challenge, especially when modelling a problem under causal assumptions. Solutions to this problem include the automated discovery of BN graphs from data, constructing them based on expert knowledge, or a combination of the two. This paper provides a comprehensive review of combinatoric algorithms proposed for learning BN structure from data, describing 74 algorithms including prototypical, well-established and state-of-the-art approaches. The basic approach of each algorithm is described in consistent terms, and the similarities and differences between them highlighted. Methods of evaluating algorithms and their comparative performance are discussed including the consistency of claims made in the literature. Approaches for dealing with data noise in real-world datasets and incorporating expert knowledge into the learning process are also covered."
+
+31m ago
+
+---
+
 **[Even the man behind ChatGPT, OpenAI CEO Sam Altman is worried about the ‘rate of change that’s happening in the world right now’ thanks to AI | Fortune](https://www.reddit.com/r/artificial/comments/1pikz2q/even_the_man_behind_chatgpt_openai_ceo_sam_altman/)**
 
 Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as AI shakes up jobs, education, and the global economy.
 
 🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 17h ago
-
----
-
-**[The Real Reason LLMs Hallucinate — And Why Every Fix Has Failed](https://www.reddit.com/r/artificial/comments/1pif1u7/the_real_reason_llms_hallucinate_and_why_every/)**
-
-People keep talking about “fixing hallucination,” but nobody is asking the one question that actually matters: Why do these systems hallucinate in the first place? Every solution so far—RAG, RLHF, model scaling, “AI constitutions,” uncertainty scoring—tries to patch the problem after it happens. They’re improving the guess instead of removing the guess. The real issue is structural: these models are architecturally designed to generate answers even when they don’t have grounded information. They’re rewarded for sounding confident, not for knowing when to stop. That’s why the failures repeat across every system—GPT, Claude, Gemini, Grok. Different models, same flaw. What I’ve put together breaks down the actual mechanics behind that flaw using the research the industry itself published. It shows why their methods can’t solve it, why the problem persists across scaling, and why the most obvious correction has been ignored for years. If you want the full breakdown—with evidence from academic papers, production failures, legal cases, medical misfires, and the architectural limits baked into transformer models—here it is. It explains the root cause in plain language so people can finally see the pattern for themselves.
-
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 20h ago
 
 ---
 
@@ -123,7 +123,7 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
@@ -131,7 +131,7 @@ BBC • 2h ago
 
 Viewers blasted McDonald's satirical commercial as offensive, with critics questioning why anyone would 'ditch your family and hide in McDonald's.'
 
-Los Angeles Times • 10h ago
+Los Angeles Times • 11h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 1h ago
 
 **[Watch Meta’s Zuckerberg Directs Pivot to Money-Making AI Model](https://www.bloomberg.com/news/videos/2025-12-10/meta-s-zuckerberg-pivoting-to-money-making-ai-model-video)**
 
-Bloomberg.com • 48m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 48m ago
 
 Google Workspace research shows only 3 percent of companies succeed with enterprise AI. These five behaviors reveal how top performers turn AI into real transformation.
 
-Forbes • 37m ago
+Forbes • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Atlantic • 17h ago
 
 “I’ve never seen anything like this,” says the Linux Foundation’s Jim Zemlin.
 
-The Verge • 40m ago
+The Verge • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ NBC News • 1h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 561 • 💬 576 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 563 • 💬 577 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -219,7 +219,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 321 • 💬 393 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 324 • 💬 398 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -227,7 +227,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 262 • 💬 114 • 22h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 269 • 💬 118 • 22h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -241,7 +241,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 145 • 💬 176 • 12h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 147 • 💬 177 • 12h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -263,7 +263,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 62 • 💬 86 • 13h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 62 • 💬 86 • 14h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -285,7 +285,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 23K • 👍 1K • 💬 45 • ⏱️ 12:50 • 14h ago
+👁️ 23K • 👍 1K • 💬 45 • ⏱️ 12:50 • 15h ago
 
 ---
 
@@ -295,7 +295,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 41K • 👍 1K • 💬 166 • ⏱️ 9:41 • 15h ago
+👁️ 41K • 👍 1K • 💬 166 • ⏱️ 9:41 • 16h ago
 
 ---
 
@@ -335,7 +335,7 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 hxsain
 
-👁️ 249K • 👍 21K • 💬 234 • ⏱️ 0:51 • 20h ago
+👁️ 249K • 👍 21K • 💬 234 • ⏱️ 0:51 • 21h ago
 
 ---
 
@@ -389,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 634 • 1d ago
+⬇️ 67,717 • ❤️ 637 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,466 • 1d ago
+⬇️ 232,896 • ❤️ 2,470 • 1d ago
 
 ---
 
@@ -413,7 +413,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 284 • 21h ago
+⬇️ 10,031 • ❤️ 286 • 21h ago
 
 ---
 
@@ -425,7 +425,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 1,305 • ❤️ 233 • 1d ago
+⬇️ 1,305 • ❤️ 234 • 1d ago
 
 ---
 
@@ -449,7 +449,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 198 • 22h ago
+⬇️ 2,414 • ❤️ 203 • 22h ago
 
 ---
 
@@ -681,7 +681,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 129 • 5h ago
+⭐ 1.0k • 🔱 129 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T15:13:53.546829+00:00'
+updated: '2025-12-10T15:41:09.802981+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 15:13 UTC  
+**Last Updated:** December 10, 2025 at 15:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,179.37
+### $91,600.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +0.0%  
-**30d:** -10.7%  
-**90d:** -20.7%  
-**1y:** -8.8%  
+**24h:** -2.3%  
+**7d:** -0.3%  
+**30d:** -11.0%  
+**90d:** -20.9%  
+**1y:** -9.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1834.30B
+**Market Cap:** $1833.87B
 Rank #1
 
-**Circulating Supply:** 19,960,203 BTC
+**Circulating Supply:** 19,960,228 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.1%
+-27.2%
 
 **All-Time Low:** $67.81
-+135433.1%
++135225.2%
 
 ---
 
@@ -76,6 +76,12 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[.](https://www.reddit.com/r/Bitcoin/comments/1pix5b9/_/)**
+
+7h ago
+
+---
 
 **[Tragedy Strikes the Bitcoin Market Today](https://www.reddit.com/r/Bitcoin/comments/1pitli0/tragedy_strikes_the_bitcoin_market_today/)**
 
@@ -91,15 +97,17 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 ---
 
-**[.](https://www.reddit.com/r/Bitcoin/comments/1pix5b9/_/)**
+**[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
 
-7h ago
+Bottom tex
+
+1h ago
 
 ---
 
 **[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +115,7 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
 
-4h ago
+5h ago
 
 ---
 
@@ -122,14 +130,6 @@ Sooner or later it will bounce to new highs, or not
 **[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
 
 8h ago
-
----
-
-**[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
-
-Bottom tex
-
-41m ago
 
 ---
 
@@ -153,13 +153,13 @@ Bottom tex
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfA6lv4Y7o5KIw8LBqoSUinXPaBV96GOe4u8M5A17noFfcgUTFTpmHo&gaa_ts=69398c30&gaa_sig=Aretcz8wzE-CYpJqrju2E8CQWhYXz1np8z5tHiQ22AHpWQpgggBYrF2fPfIu-pOvY9cl3MXH0yGeF1qQnRmNSQ%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqdUM14Fkyj3JxfHb5k2trlhfAGyccDiwC67cKFYs3mm1p63ZhISzLl4&gaa_ts=69399802&gaa_sig=CtxJ7666H6LdJSHR-haexVHfunPkC1kAdCOfxAG1ihskVcxAc7PlQN-zbvqnnw9kdd1JHZDbRBhsu-yc-pOJKA%3D%3D)**
 
-MarketWatch • 15h ago
+MarketWatch • 16h ago
 
 ---
 
@@ -177,17 +177,25 @@ Investor's Business Daily • 3h ago
 
 ---
 
-**[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
-
-The Block • 16h ago
-
----
-
-**[Twenty One Capital Drops in NYSE Debut as Bitcoin Treasury Firms Face ‘Broader Re-Pricing’](https://finance.yahoo.com/news/twenty-one-capital-drops-nyse-115955127.html)**
+**[Twenty One Capital Drops in NYSE Debut as Bitcoin Treasury Firms Face ‘Broader Re-Pricing’](https://decrypt.co/351784/twenty-one-capital-drops-in-nyse-debut-as-bitcoin-treasury-firms-face-broader-re-pricing)**
 
 The debut underperformed its SPAC benchmark, as investors pull back from Bitcoin treasury plays in favor of clearer operating models.
 
-Yahoo Finance • 3h ago
+Decrypt • 3h ago
+
+---
+
+**[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
+
+The Block • 17h ago
+
+---
+
+**[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
+
+If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
+
+NPR • 7h ago
 
 ---
 
@@ -199,25 +207,19 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqeNTRS_H3aDCRnZA3gC1t0nqnsShN7L-Lr8T1bvrukw-nT0_4RzjLeh&gaa_ts=69398c30&gaa_sig=AQqunxcxXiQBaScfqYKmEyvWmJJh2trj7OdbPrVb1UAIiArgfTGH8Kb3KgwiOAFvYcKMaCzyPDZ-1wSZ92iNRQ%3D%3D)**
+**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
 
-MarketWatch • 1d ago
+In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
----
-
-**[Michael Saylor Claims Strategy Will Drive Bitcoin Price to $10M, Says BTC Would Be at $10K Without Him](https://finance.yahoo.com/news/michael-saylor-claims-strategy-drive-084941753.html)**
-
-Michael Saylor claims Strategy’s investment strategy is accelerating Bitcoin adoption. Strategy continues aggressive accumulation. Saylor says BTC would likely be just $10,000 today without the ...
-
-Yahoo Finance • 1d ago
+WIRED • 1d ago
 
 ---
 
-**['We Would Sell Bitcoin If We Needed To': Strategy CEO Says Selling Bitcoin Is Not Out Of The Question](https://finance.yahoo.com/news/sell-bitcoin-needed-strategy-ceo-141607132.html)**
+**[Bitcoin (BTC) Treasury News: ABTC and BRR Top Up Holdings](https://www.coindesk.com/markets/2025/12/10/eric-trump-s-american-bitcoin-and-anthony-pompliano-s-procap-add-to-btc-holdings)**
 
-Strategy (NASDAQ:MSTR) CEO Phong Le has rejected the idea that selling Bitcoin is out of the question for the company. “We can sell Bitcoin and we would sell Bitcoin if we needed to to fund our dividend payments below 1 times mNAV,” Le said on an ...
+The shares of both bitcoin-related firms are posting modest early gains Wednesday, but remain sharply lower over the past several days.
 
-Yahoo Finance • 57m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -267,7 +269,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -331,7 +333,7 @@ In this clip, I talk about a major macro event that could impact bitcoin and cry
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 510 • 💬 114 • ⏱️ 8:42 • 14h ago
+👁️ 8K • 👍 510 • 💬 114 • ⏱️ 8:42 • 15h ago
 
 ---
 
@@ -371,7 +373,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 33K • 👍 2K • 💬 266 • ⏱️ 44:49 • 23h ago
+👁️ 33K • 👍 2K • 💬 266 • ⏱️ 44:49 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T15:13:53.552882+00:00'
+updated: '2025-12-10T15:41:09.809005+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 15:13 UTC  
+**Last Updated:** December 10, 2025 at 15:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +6.6%  
-**30d:** -2.2%  
-**90d:** -29.0%  
-**1y:** -12.9%  
+**24h:** -1.3%  
+**7d:** +5.8%  
+**30d:** -2.9%  
+**90d:** -29.5%  
+**1y:** -13.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.83B
+**Market Cap:** $400.79B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.9%
+-33.0%
 
 **All-Time Low:** $0.43
-+766184.3%
++765507.6%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ By magnitude, the biggest question for the Defi ecosystem for the next cycle is 
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 2h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -163,42 +163,6 @@ CoinDesk • 2h ago
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
 Decrypt • 22h ago
-
----
-
-**[Trump Tariff Whale’s $100M ETH Long Bet as ETH USD Faces Supply Shock: Ethereum Price Prediction Ready to Explode?](https://finance.yahoo.com/news/trump-tariff-whale-100m-eth-155334139.html)**
-
-Poland crypto industry scored a major win this week, as plans to move ahead with new crypto rules stalled on Friday after lawmakers failed to override President Andrzej Duda’s veto. The setback slows Prime Minister Donald Tusk’s effort to align national policy with the European Union’s MiCA framework. The Sejm, ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
-
-Binance • 1d ago
-
----
-
-**[The Daily: Robinhood's expansion plans, BlackRock's staked Ethereum ETF filing, Strategy's biggest Bitcoin buy since July, and more](https://www.theblock.co/post/381770/the-daily-robinhoods-expansion-plans-blackrocks-staked-ethereum-etf-filing-strategys-biggest-bitcoin-buy-since-july-and-more)**
-
-The Block • 1d ago
-
----
-
-**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
-
-Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
-
-Decrypt • 1d ago
-
----
-
-**[Will BlackRock's (BLK) Staked Ethereum ETF Bid Redefine Its Crypto Innovation and Fee Narrative?](https://finance.yahoo.com/news/blackrocks-blk-staked-ethereum-etf-131006970.html)**
-
-Earlier this month, BlackRock moved further into digital assets by filing with the SEC for an iShares staked Ethereum ETF that pairs ether price exposure with on-chain staking rewards, using a multi-custodian structure anchored by Coinbase and BNY Mellon. The filing signals BlackRock’s push to broaden yield-focused crypto offerings at a time when investors are reassessing Bitcoin ETF allocations and looking for income-oriented alternatives. We’ll now examine how this push into staked...
-
-Yahoo Finance • 2h ago
 
 ---
 
@@ -218,11 +182,47 @@ Fortune • 1d ago
 
 ---
 
+**[The Daily: Robinhood's expansion plans, BlackRock's staked Ethereum ETF filing, Strategy's biggest Bitcoin buy since July, and more](https://www.theblock.co/post/381770/the-daily-robinhoods-expansion-plans-blackrocks-staked-ethereum-etf-filing-strategys-biggest-bitcoin-buy-since-july-and-more)**
+
+The Block • 1d ago
+
+---
+
+**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
+
+The Block • 2d ago
+
+---
+
+**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
+
+Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
+
+Decrypt • 1d ago
+
+---
+
+**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
+
+Japan is considering a big change to how it taxes crypto.
+
+The Motley Fool • 2d ago
+
+---
+
 **[Ethereum's Game-Changing Move: $5,000 Target](https://www.tradingview.com/news/u_today:262b5f615094b:0-ethereum-s-game-changing-move-5-000-target/)**
 
 The chart finally shows a market that has stopped bleeding and begun to fight back, and Ethereum is about to enter a structurally critical phase. ETH has successfully reversed from the $2,700-$2,800 range after months of cascading sell pressure, printing a series of higher lows and pushing hard tow…
 
 TradingView • 5h ago
+
+---
+
+**[ETHE Vs. ETH: Which Grayscale Ethereum ETF Is Better?](https://seekingalpha.com/article/4851950-ethe-vs-eth-which-grayscale-ethereum-etf-is-better)**
+
+The 65% staking ratio means ETH will generate a significantly better total return than ETHE after fees. See the complete analysis here.
+
+Seeking Alpha • 5h ago
 
 ---
 
@@ -236,7 +236,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 235 • ⏱️ 12:03 • 15h ago
+👁️ 57K • 👍 3K • 💬 235 • ⏱️ 12:03 • 16h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 215 • 💬 8 • ⏱️ 5:16 • 12h ago
+👁️ 3K • 👍 215 • 💬 8 • ⏱️ 5:16 • 13h ago
 
 ---
 
@@ -266,7 +266,7 @@ A huge ETH whale just opened a massive sized position. In today's video, Kyledoo
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 12 • ⏱️ 34:34 • 6h ago
+👁️ 12K • 👍 1K • 💬 12 • ⏱️ 34:34 • 7h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 327 • 💬 81 • ⏱️ 21:02 • 15h ago
+👁️ 9K • 👍 327 • 💬 81 • ⏱️ 21:02 • 16h ago
 
 ---
 
@@ -286,7 +286,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 CareerGuide.com
 
-👁️ 2K • 👍 1K • 5h ago
+👁️ 2K • 👍 1K • 6h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 44K • 👍 2K • 💬 106 • ⏱️ 20:14 • 18h ago
+👁️ 44K • 👍 2K • 💬 106 • ⏱️ 20:14 • 19h ago
 
 ---
 
@@ -326,7 +326,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 555 • 👍 38 • 💬 5 • ⏱️ 1:09:21 • 3h ago
+👁️ 555 • 👍 38 • 💬 5 • ⏱️ 1:09:21 • 4h ago
 
 ---
 
