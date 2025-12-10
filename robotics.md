@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T20:43:31.019904+00:00'
+updated: '2025-12-10T20:58:49.832175+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 20:43 UTC  
+**Last Updated:** December 10, 2025 at 20:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -70,14 +70,6 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Web
 
 ---
 
-**[How doomed im I if I do robotics?](https://www.reddit.com/r/robotics/comments/1pjcf1o/how_doomed_im_i_if_i_do_robotics/)**
-
-Ok so basically I am a student currently studying in college (Not I live in the uk) and ngl since I was a kid I was a mega fan of robots and watched a lot of shows related to that. I have also bought some robotic kits for me to practice. However I have a major concern and it's the fact that is there a high chance for me to find work im the future? I know it is still a little but too soon for this since im not even at university However I have realised that not a lot of people (at least that I know) are into it and everytime someone ask me what I am going to do in the future, when I say I want to be a robotic engineer they mostly look at me like I am speaking in a different language so I just want to know if the job market for it is really bad or if there is still some type of hope for it.
-
-58m ago
-
----
-
 **[Become a Build Farm Backer and help support the ROS Build Farm!](https://www.reddit.com/r/robotics/comments/1pj8guh/become_a_build_farm_backer_and_help_support_the/)**
 
 Ever wonder how sudo apt install just  works  for ROS? That’s the magic of the OSRF Build Farm!  This beast serves over half a billion packages a year, saving us all from the headache of compiling from source. But maintaining this critical utility takes massive server power and a dedicated team of e
@@ -94,6 +86,14 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 ---
 
+**[How doomed im I if I do robotics?](https://www.reddit.com/r/robotics/comments/1pjcf1o/how_doomed_im_i_if_i_do_robotics/)**
+
+Ok so basically I am a student currently studying in college (Not I live in the uk) and ngl since I was a kid I was a mega fan of robots and watched a lot of shows related to that. I have also bought some robotic kits for me to practice. However I have a major concern and it's the fact that is there a high chance for me to find work im the future? I know it is still a little but too soon for this since im not even at university However I have realised that not a lot of people (at least that I know) are into it and everytime someone ask me what I am going to do in the future, when I say I want to be a robotic engineer they mostly look at me like I am speaking in a different language so I just want to know if the job market for it is really bad or if there is still some type of hope for it.
+
+1h ago
+
+---
+
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
 1d ago
@@ -104,7 +104,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 Hi everyone, I’m getting started with ROS2 and have been following the Husarion tutorial (the ROSbot XL + Gazebo one). It seems pretty complete, but I ran into a few issues along the way: Some repositories were deprecated or had moved to different branches. Several dependencies weren’t documented, so I had to install them manually. I had to replace ros_components_description with husarion_components_description and update the corresponding includes to get the simulation running. Some parts of the tutorial seem written for Humble, and I'm not sure if that’s ideal to learn ROS2 today. I eventually got the robot running in Gazebo, but before investing more time I wanted to ask: What do you think of this tutorial as a way to learn ROS2 from scratch? What are the pros and cons? Is it still a good choice for beginners? Would it be better to switch to ROS2 Jazzy to avoid compatibility issues? Are there any more up-to-date alternatives or learning roadmaps you’d recommend? Any feedback is appreciated — thanks! 🙌
 
-5h ago
+6h ago
 
 ---
 
@@ -112,27 +112,17 @@ Hi everyone, I’m getting started with ROS2 and have been following the Husario
 
 ## Google News: "robotics"
 
+**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+
+Chron • 3h ago
+
+---
+
 **[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
 
 The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
 MLive.com • 1d ago
-
----
-
-**[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
-
-Army Special Forces Embracing Robots in All Domains
-
-National Defense Magazine • 2d ago
-
----
-
-**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://finance.yahoo.com/news/mercado-libre-agility-robotics-announce-130000794.html)**
-
-MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
-
-Yahoo Finance • 7h ago
 
 ---
 
@@ -144,11 +134,27 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
+**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://finance.yahoo.com/news/mercado-libre-agility-robotics-announce-130000794.html)**
 
-Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
 
-Decrypt • 1d ago
+Yahoo Finance • 7h ago
+
+---
+
+**[CEO of Chinese robotics company posts video of himself getting kicked by his robot in effort to combat skeptics](https://www.businessinsider.com/engineai-ceo-robot-kick-video-2025-12)**
+
+EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
+
+Business Insider • 2h ago
+
+---
+
+**[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
+
+The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
+
+Breaking Defense • 2d ago
 
 ---
 
@@ -156,21 +162,15 @@ Decrypt • 1d ago
 
 Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
 
-NCTV17 • 19h ago
+NCTV17 • 20h ago
 
 ---
 
-**[Houston ISD cancels high school robotics team trip to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+**[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
 
-Chron • 3h ago
+Army Special Forces Embracing Robots in All Domains
 
----
-
-**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai/)**
-
-SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
-
-PYMNTS.com • 1d ago
+National Defense Magazine • 2d ago
 
 ---
 
@@ -182,11 +182,11 @@ Jacobin • 5h ago
 
 ---
 
-**[Move over, biomimicry – bio-derived robotic hand uses lobster shells for fingers](https://newatlas.com/robotics/bio-derived-robot-hand-lobster-shells-fingers/)**
+**[Soft robots, time to ditch your slow brittle eyes for fast squishy ones](https://newatlas.com/robotics/physl-light-activated-soft-robotic-eye/)**
 
-If you’re going to kill animals for food, don’t waste their parts – that’s just rude. Use everything, snout-to-tail, and not just bones for glue or stomachs for drink-bags, either. Get creative!
+Analog cameras are nowhere near as efficient as biological eyes. If you’ve ever handled a single-lens reflex (SLR) camera, especially if it had a zoom lens attached, you know how heavy they are, and how tricky and time-consuming adjusting their focus can be.
 
-New Atlas • 1d ago
+New Atlas • 2h ago
 
 ---
 

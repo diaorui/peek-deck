@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T20:43:31.002352+00:00'
+updated: '2025-12-10T20:58:49.815950+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 20:43 UTC  
+**Last Updated:** December 10, 2025 at 20:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 4h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 5h ago
 
 ---
 
@@ -55,7 +55,13 @@ The start-up is falling behind in the AI race.
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 19h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 20h ago
+
+---
+
+**[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
+
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 4h ago
 
 ---
 
@@ -64,12 +70,6 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
 19h ago
-
----
-
-**[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
-
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 3h ago
 
 ---
 
@@ -99,7 +99,7 @@ I’ve spent the last year really putting AI to work, writing content, handling 
 
 **[Trump’s push for more AI data centers faces backlash from his own voters](https://www.reddit.com/r/artificial/comments/1pj7pr6/trumps_push_for_more_ai_data_centers_faces/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 3h ago
+🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 4h ago
 
 ---
 
@@ -117,7 +117,7 @@ While teenagers may start out using AI chatbots for basic questions, their relat
 
 **[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
-The New York Times • 10h ago
+The New York Times • 5h ago
 
 ---
 
@@ -153,41 +153,43 @@ Los Angeles Times • 16h ago
 
 ---
 
-**[McDonald’s pulls AI-generated Christmas ad after backlash](https://www.kare11.com/article/news/nation-world/mcdonalds-pulls-ai-generated-christmas-ad/507-0db86f78-adbf-4d71-881c-7837cdab69ed)**
+**[McDonald’s Pulls Down AI-Generated Holiday Ad After Deluge of Mockery](https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial)**
 
-McDonald’s Netherlands pulled its AI-made holiday ad after viewers blasted the spot’s unsettling visuals.
+McDonald's Netherlands is catching flak for a stupefying AI-generated video, which was roundly condemned on social media.
 
-kare11.com • 2h ago
-
----
-
-**[Actress Natasha Lyonne dropped out of NYU and watched movies instead. Now, she’s helping to shape the future of AI](https://fortune.com/2025/12/10/natasha-lyonne-ai-animal-pictures-asteria-film-brainstorm-ai/)**
-
-“We are the ones who are deciding what this use is going to be and how we choose to use it,”” Lyonne told Fortune’s Brainstorm AI audience in San Francisco.
-
-Fortune • 1h ago
+Futurism • 1d ago
 
 ---
 
-**[Asia’s inexpensive AI stocks should worry American investors](https://www.economist.com/finance-and-economics/2025/12/10/asias-inexpensive-ai-stocks-should-worry-american-investors)**
+**[University of Phoenix College of Doctoral Studies releases white paper on AI-driven skilling to reduce burnout and restore worker autonomy](https://finance.yahoo.com/news/university-phoenix-college-doctoral-studies-195700340.html)**
 
-The Economist • 1h ago
+University of Phoenix College of Doctoral Studies announced the publication of "Burnout and Autonomy in the Modern Workforce: The Role of AI-Driven Skilling in Equity and Resilience," a new white paper by Rheanna Reed, D.M., which draws on five years of University of Phoenix Career Optimism Index® data, to examine how burnout, autonomy, equity and artificial intelligence (AI) intersect in the U.S. workforce and outlines strategies employers can use to build a more resilient, future-ready workfor
 
----
-
-**[‘We are truly doomed’: King Gizzard and the Lizard Wizard despair at AI clone appearing on Spotify](https://www.theguardian.com/music/2025/dec/10/king-gizzard-and-the-lizard-wizard-despair-at-ai-clone-appearing-on-spotify)**
-
-Australian psych-rockers, who removed their music from Spotify in protest against the streaming service, lament the appearance of AI band King Lizard Wizard
-
-The Guardian • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Spotify tests more personalized, AI-powered ‘Prompted Playlists’](https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/)**
+**[China adds domestic AI chips to official procurement list for first time](https://www.ft.com/content/83c6521e-fe42-49e2-a9fe-eda97168b316)**
 
-The playlists can factor in world knowledge, go back to your listening history from day one, and be refreshed daily or weekly.
+Beijing encouraged purchase of Huawei and Cambricon processors before Trump’s move to allow Nvidia exports
 
-TechCrunch • 41m ago
+Financial Times • 19h ago
+
+---
+
+**[Nvidia builds AI chip-tracking software while facing pressure over China smuggling: report](https://nypost.com/2025/12/10/business/nvidia-builds-ai-chip-tracking-software-amid-pressure-over-china-smuggling-report/)**
+
+Nvidia has reportedly developed location verification technology that will allow it to identify where its computer chips are being used – a move that comes as the artificial intelligence giant face…
+
+New York Post • 45m ago
+
+---
+
+**[Something Ominous Is Happening in the AI Economy](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)**
+
+The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
+
+The Atlantic • 2h ago
 
 ---
 
@@ -199,7 +201,7 @@ TechCrunch • 41m ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 565 • 💬 586 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 567 • 💬 586 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -215,7 +217,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 346 • 💬 412 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 347 • 💬 413 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -223,7 +225,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 278 • 💬 126 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 279 • 💬 127 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -231,13 +233,13 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 217 • 💬 185 • 4h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 243 • 💬 213 • 4h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 191 • 💬 176 • 2d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 192 • 💬 176 • 2d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -245,7 +247,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 160 • 💬 191 • 17h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 160 • 💬 191 • 18h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -261,7 +263,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 88 • 💬 113 • 7h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 95 • 💬 120 • 8h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -269,7 +271,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 65 • 💬 87 • 19h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 66 • 💬 88 • 19h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -389,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 654 • 1d ago
+⬇️ 67,717 • ❤️ 656 • 1d ago
 
 ---
 
@@ -401,7 +403,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,476 • 2d ago
+⬇️ 232,896 • ❤️ 2,479 • 2d ago
 
 ---
 
@@ -437,7 +439,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 40,667 • ❤️ 858 • 9d ago
+⬇️ 40,667 • ❤️ 859 • 9d ago
 
 ---
 
@@ -449,7 +451,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 214 • 4h ago
+⬇️ 2,414 • ❤️ 215 • 4h ago
 
 ---
 
@@ -649,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 5.2k • 🔱 850 • 2h ago
+⭐ 5.2k • 🔱 850 • 3h ago
 
 ---
 
@@ -669,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.6k • 🔱 190 • 31m ago
+⭐ 1.6k • 🔱 190 • 46m ago
 
 ---
 

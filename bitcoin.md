@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T20:43:31.010742+00:00'
+updated: '2025-12-10T20:58:49.824108+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 20:43 UTC  
+**Last Updated:** December 10, 2025 at 20:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,632.19
+### $92,509.57
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +1.8%  
-**30d:** -9.1%  
-**90d:** -19.3%  
-**1y:** -7.2%  
+**24h:** -0.0%  
+**7d:** +0.6%  
+**30d:** -10.2%  
+**90d:** -20.2%  
+**1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1855.75B
+**Market Cap:** $1847.51B
 Rank #1
 
-**Circulating Supply:** 19,960,303 BTC
+**Circulating Supply:** 19,960,334 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--25.3%
+-26.6%
 
 **All-Time Low:** $67.81
-+138757.1%
++136316.5%
 
 ---
 
@@ -85,6 +85,12 @@ Bottom tex
 
 ---
 
+**[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
+
+10h ago
+
+---
+
 **[Account drained on exchange - Help!](https://www.reddit.com/r/Bitcoin/comments/1pizdbr/account_drained_on_exchange_help/)**
 
 Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
@@ -93,9 +99,17 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 ---
 
+**[0,1 Shrimp 🦐](https://www.reddit.com/r/Bitcoin/comments/1pjd889/01_shrimp/)**
+
+Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young and stupid”. Priority was go to the cinema with my GF (now wife). Now, we sometimes get back to that time and this ATM with that BTC price, crying about our stupidity not buying. Some years later, started to stack sats . Got married (sold all my stocks for the wedding), btw. I had AMD at ~7$, CDProject ~2$ and many more 😁 Bought a house, my son was born. Got mortgage (value of the house went like +200% now), 30% in ETF, 70% BTC. Be happy, DCA, HODL and be free 🔥🚀 Peace!
+
+43m ago
+
+---
+
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -108,12 +122,6 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
 
 2h ago
-
----
-
-**[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
-
-10h ago
 
 ---
 
@@ -133,17 +141,11 @@ Sooner or later it will bounce to new highs, or not
 
 ---
 
-**[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
+**[Reliable Non-KYC Exchange?](https://www.reddit.com/r/Bitcoin/comments/1pjdbeg/reliable_nonkyc_exchange/)**
 
-13h ago
+Hi all, I'm looking for a way to buy Bitcoin without KYC, I heard about localbitcoins back in the days but i noticed it was closed, I really couldn't fin anything else, do you have a place to do that?
 
----
-
-**[BTC the gate to access financial prosperity.](https://www.reddit.com/r/Bitcoin/comments/1pja6kr/btc_the_gate_to_access_financial_prosperity/)**
-
-It’s incredible how many interesting and innovative products coming out to put you Bitcoin to work for you everything from staking, loan back products and the ability to you Bitcoin as collateral. I really think individuals you accumulate and hold this asset will unlock a financial edge limited to a small segment of the population. I really envision time where acquiring bitcoin will be nearly impossible or astronomically expensive because those who have even the smallest amounts will never sell. We are in a race with the entire world and the window is closing.
-
-2h ago
+40m ago
 
 ---
 
@@ -159,7 +161,7 @@ Decrypt • 1h ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqf8g_B3QWOYjtsuDfjLbLjw8fkIFoWfWNpQVZob3IwGT-sPL81Vjrhl&gaa_ts=6939d8a3&gaa_sig=oZT7MLim5pYy5yyD5F2Wc6Ix5rMwHdf2c_1JpsLKGaiWAYeldyinFqFHi4Iuolfhudo59f_3oNj9HQwEDgRuHg%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqdpys5sGarQb1i7u1UhHj4GiRZlkPsuzFD0ohCpeO-8A9YcVqBQ3bcX&gaa_ts=6939e273&gaa_sig=HvI3upizMNsTCzRUA9rdid_n8RMe0An8cJow85GGJKUM3z3belw69xGSGZBZCWwbqPxoxi5IGCP6EDSSG5mDWg%3D%3D)**
 
 MarketWatch • 21h ago
 
@@ -179,11 +181,9 @@ Investor's Business Daily • 9h ago
 
 ---
 
-**[Bitcoin treasury rout deepens as Jack Mallers’ new firm falls 20% in trading debut](https://finance.yahoo.com/news/bitcoin-treasury-rout-deepens-jack-124127526.html)**
+**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqdJueC9m4V47pWdQn9g1D-d3MkU1JLqVbruPcDfgDwJMebI4GvSx2qN&gaa_ts=6939e273&gaa_sig=rAsIGUcZUKjdoipi0qAi3JzWxpEwmtGtcuwFiT7Y4JYkN560kJEJQ_RhCOVsTFtFGMgWoo_C1LGv3THJ5fP_hw%3D%3D)**
 
-Jack Mallers' Twenty One falls 20% in trading debut. It comes as other Bitcoin treasury firms face increasing pressure. Twenty One is majority-owned by stablecoin giant Tether.
-
-Yahoo Finance • 8h ago
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -205,7 +205,7 @@ NPR • 12h ago
 
 The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin #Crypto #Finance Bitcoin enters a historic new era as U.S. regulators of
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 644 • 💬 102 • ⏱️ 37:24 • 5h ago
+👁️ 11K • 👍 644 • 💬 102 • ⏱️ 37:24 • 6h ago
 
 ---
 
@@ -351,7 +351,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 11K • 👍 541 • 💬 56 • ⏱️ 12:36 • 14h ago
+👁️ 11K • 👍 541 • 💬 56 • ⏱️ 12:36 • 15h ago
 
 ---
 
@@ -361,7 +361,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 2K • 👍 326 • 💬 16 • ⏱️ 8:36 • 1h ago
+👁️ 2K • 👍 326 • 💬 16 • ⏱️ 8:36 • 2h ago
 
 ---
 
