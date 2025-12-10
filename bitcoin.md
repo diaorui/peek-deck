@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T07:59:03.766618+00:00'
+updated: '2025-12-10T08:39:35.372755+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 07:59 UTC  
+**Last Updated:** December 10, 2025 at 08:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
+**24h:** +2.5%  
 **7d:** +0.7%  
 **30d:** -10.1%  
-**90d:** -20.2%  
+**90d:** -20.1%  
 **1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1847.90B
+**Market Cap:** $1848.41B
 Rank #1
 
-**Circulating Supply:** 19,960,068 BTC
+**Circulating Supply:** 19,960,096 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.6%
+-26.5%
 
 **All-Time Low:** $67.81
-+136433.0%
++136474.3%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-7h ago
-
----
-
-**["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
-
-12h ago
+8h ago
 
 ---
 
@@ -93,7 +87,7 @@ Rank #1
 
 The Mods don't want you to see bullish memes. Vote against the bears.
 
-1h ago
+2h ago
 
 ---
 
@@ -105,9 +99,23 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 ---
 
+**["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
+
+12h ago
+
+---
+
+**[Zoom out, get rid of the charts and enjoy life.](https://www.reddit.com/r/Bitcoin/comments/1piv80p/zoom_out_get_rid_of_the_charts_and_enjoy_life/)**
+
+Sooner or later it will bounce to new highs, or not
+
+2h ago
+
+---
+
 **[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -117,17 +125,9 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 ---
 
-**[Zoom out, get rid of the charts and enjoy life.](https://www.reddit.com/r/Bitcoin/comments/1piv80p/zoom_out_get_rid_of_the_charts_and_enjoy_life/)**
-
-Sooner or later it will bounce to new highs, or not
-
-1h ago
-
----
-
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -135,13 +135,13 @@ Sooner or later it will bounce to new highs, or not
 
 I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was already gone.
 
-3h ago
+4h ago
 
 ---
 
-**[My posted meme to this community from six years ago is now irony and inverse lol](https://www.reddit.com/r/Bitcoin/comments/1pische/my_posted_meme_to_this_community_from_six_years/)**
+**[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
 
-4h ago
+1h ago
 
 ---
 
@@ -149,9 +149,15 @@ I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was alre
 
 ## Google News: "bitcoin"
 
+**[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
+
+Investor's Business Daily • 9h ago
+
+---
+
 **[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -159,37 +165,23 @@ The Block • 9h ago
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
-**[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
+**[Bitcoin's 2025 rollercoaster may end on a low](https://finance.yahoo.com/news/bitcoins-2025-rollercoaster-may-end-050859649.html)**
 
-Investor's Business Daily • 8h ago
+With a series of record highs and crushing sell-offs, 2025 has been a rollercoaster ride for bitcoin, the world's largest cryptocurrency, which is at risk of ending the year with its first annual decline since 2022.  The world's main stock benchmarks have also had a turbulent year, repeatedly hitting record peaks and then pulling ​back as worries over tariffs, interest rates and a possible AI bubble whipsawed markets.  While equities are mostly up year-to-date, bitcoin's overall correlation with share prices has strengthened markedly this year.
 
----
-
-**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
-
-In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
-
-WIRED • 21h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin’s Breakout to $108,500 Keeps Failing for These Two Reasons —Both Fixable?](https://finance.yahoo.com/news/bitcoin-breakout-108-500-keeps-062815650.html)**
+**[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
 
-Bitcoin price prediction to $108,500 keeps stalling as two key hurdles block momentum. One shift could unlock the breakout.
+If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Asset Manager Strive Launches $500M Stock Sales to Purchase More Bitcoin](https://finance.yahoo.com/news/asset-manager-strive-launches-500m-054846109.html)**
-
-Vivek Ramaswamy’s Strive Asset Management has announced a $500 million preferred stock offering, with proceeds earmarked for Bitcoin acquisition.Strive already holds 7,525 BTC, per BitcoinTreasuries data, worth $695.93 million, and stands 14th among top corporate Bitcoin holders.With the latest stock sales announcement, Strive intends to use the net proceeds “for ...
-
-Yahoo Finance • 2h ago
+NPR • 34m ago
 
 ---
 
@@ -197,27 +189,33 @@ Yahoo Finance • 2h ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqePhl5HMrJJuBS-iGB6wWBeGVwF5oP3xYXOLzSRIx9SLMaJ5-Clp5lK&gaa_ts=69392590&gaa_sig=0I60--yQQ58ch2N3bBcrDFsVV0N4xtXpS-m-2HpEumgnVFp1-gXUVl04m9G4A1rME_tsNRPtxNilmNVRLO7aZw%3D%3D)**
+**[Bitcoin Bulls Standard Chartered, Bernstein Pare Back Ambitious Year-End Forecasts](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-bulls-standard-chartered-bernstein-pare-back-most-ambitious-forecasts)**
 
-MarketWatch • 8h ago
+Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
 
----
-
-**[Bitcoin to $500,000? Here’s when to expect the price to hit the new record](https://finance.yahoo.com/news/bitcoin-500-000-expect-price-164545497.html)**
-
-Standard Chartered pushed its $500,000 Bitcoin target to 2030 from 2028. The bank says digital asset treasury buying is over and won't support prices anymore. Geoffrey Kendrick said Bitcoin will now rely on ETF buying alone to reach the half-million dollar target.
-
-Yahoo Finance • 15h ago
+Bloomberg.com • 15h ago
 
 ---
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqcMBZdmjR6jomxnZ7fpLnWFfXrDbmdPiPq28r6eP69lJjrIi1co6a-Q&gaa_ts=69393531&gaa_sig=IfOZbsBC-y2Vx7WidNpyaVpE2I6hndNhhnvWC-w99fn96L3BeaZ0QNDh-JjObXMEhCJ0ECTvv9EqPlbUyGMH6w%3D%3D)**
 
-Reuters • 1d ago
+MarketWatch • 9h ago
+
+---
+
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqdn5ergUGpeyTfSZ0JDc0K-3Ir5jwovS9YQtfTc-8br2L9RWOKWm8Mq&gaa_ts=69393531&gaa_sig=IDKC1MbqpULSTq94M92V7mI31u5_S4lQw2K_DSTGf-xl53SrhkjW3Y8fYVdadql-t8P8tytMOhRJaDLNfpkWwg%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Michael Saylor's Strategy buys another 10,624 bitcoin for $963 million as treasury holdings reach 660,624 BTC](https://www.theblock.co/post/381668/michael-saylors-strategy-buys-more-bitcoin)**
+
+The Block • 1d ago
 
 ---
 
@@ -273,7 +271,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 14h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 15h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -309,7 +307,7 @@ Anthony and John Pompliano dig into what's really at stake at the upcoming Feder
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 738 • 💬 15 • ⏱️ 35:48 • 9h ago
+👁️ 18K • 👍 738 • 💬 15 • ⏱️ 35:48 • 10h ago
 
 ---
 
@@ -319,7 +317,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 53K • 👍 2K • 💬 285 • ⏱️ 42:27 • 15h ago
+👁️ 53K • 👍 2K • 💬 285 • ⏱️ 42:27 • 16h ago
 
 ---
 
@@ -349,7 +347,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 2K • 💬 227 • ⏱️ 44:49 • 16h ago
+👁️ 32K • 👍 2K • 💬 227 • ⏱️ 44:49 • 17h ago
 
 ---
 
@@ -359,7 +357,7 @@ Michael Saylor declares he's more bullish than ever, stating his team can buy mo
 
 📺 Bitcoin Magazine
 
-👁️ 9K • 👍 234 • 💬 30 • ⏱️ 0:36 • 16h ago
+👁️ 9K • 👍 234 • 💬 30 • ⏱️ 0:36 • 17h ago
 
 ---
 
@@ -399,7 +397,7 @@ In this clip, I talk about a major macro event that could impact bitcoin and cry
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 427 • 💬 98 • ⏱️ 8:42 • 7h ago
+👁️ 6K • 👍 427 • 💬 98 • ⏱️ 8:42 • 8h ago
 
 ---
 

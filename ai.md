@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T07:59:03.757272+00:00'
+updated: '2025-12-10T08:39:35.364344+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 07:59 UTC  
+**Last Updated:** December 10, 2025 at 08:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 16h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 17h ago
 
 ---
 
@@ -57,15 +57,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
-6h ago
-
----
-
-**[OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.reddit.com/r/artificial/comments/1pifikb/openai_hires_slack_ceo_as_new_chief_revenue/)**
-
-A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
-
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 13h ago
+7h ago
 
 ---
 
@@ -77,17 +69,19 @@ Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
 ---
 
+**[OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.reddit.com/r/artificial/comments/1pifikb/openai_hires_slack_ceo_as_new_chief_revenue/)**
+
+A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
+
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 13h ago
+
+---
+
 **[Even the man behind ChatGPT, OpenAI CEO Sam Altman is worried about the ‘rate of change that’s happening in the world right now’ thanks to AI | Fortune](https://www.reddit.com/r/artificial/comments/1pikz2q/even_the_man_behind_chatgpt_openai_ceo_sam_altman/)**
 
 Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as AI shakes up jobs, education, and the global economy.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 9h ago
-
----
-
-**[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
-
-1d ago
+🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 10h ago
 
 ---
 
@@ -95,7 +89,13 @@ Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as A
 
 People keep talking about “fixing hallucination,” but nobody is asking the one question that actually matters: Why do these systems hallucinate in the first place? Every solution so far—RAG, RLHF, model scaling, “AI constitutions,” uncertainty scoring—tries to patch the problem after it happens. They’re improving the guess instead of removing the guess. The real issue is structural: these models are architecturally designed to generate answers even when they don’t have grounded information. They’re rewarded for sounding confident, not for knowing when to stop. That’s why the failures repeat across every system—GPT, Claude, Gemini, Grok. Different models, same flaw. What I’ve put together breaks down the actual mechanics behind that flaw using the research the industry itself published. It shows why their methods can’t solve it, why the problem persists across scaling, and why the most obvious correction has been ignored for years. If you want the full breakdown—with evidence from academic papers, production failures, legal cases, medical misfires, and the architectural limits baked into transformer models—here it is. It explains the root cause in plain language so people can finally see the pattern for themselves.
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 13h ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 14h ago
+
+---
+
+**[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
+
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ U.S. military to use Google Gemini for new AI platform.[1] EU opens investigatio
 
 GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries without leaving ChatGPT A collection of AI Updates! 🧵 1. OpenAI Rumored to Drop GPT-5.2 Today (December 9th) "Code red" response to Google arriving earlier than planned. GPT-5.2 accelerated release schedule in direct competition with Gemini advancements. OpenAI-Google AI race intensifies. 2. Anthropic Launches Tool to Understand People's Perspectives on AI Anthropic Interviewer drafts questions, conducts interviews, and analyzes responses. Week-long pilot at claude.ai/interviewer. Already tested on 1,250 professionals - findings show workers want routine delegation but creative control. New research on AI adoption. 3. Meta Acquires LimitlessAI for it's Wearable Conversation Device Startup creates pendant-style device that captures and transcribes real-world conversations. Aligns with Meta's AI-enabled consumer hardware strategy and "personal superintelligence" vision. A greater push into AI wearables beyond glasses. 4. You Can Now Buy Groceries Without Leaving ChatGPT Stripe partners with Instacart for direct checkout in ChatGPT. Powered by Agentic Commerce Protocol launched with OpenAI. Uses Stripe Shared Payment Tokens for secure payments. Live on web today, mobile coming soon. 5. Elon Musk Announces Grok 4.20 Release in 3-4 Weeks Next major Grok model update coming soon. Timeline puts release in early January 2025. xAI continues rapid iteration on competitive AI models. 6. a16z Co-Leads $475M Seed for Unconventional AI Chip Startup Building highly efficient AI-first chips using analog computing systems. CEO Naveen Rao previously sold two companies. Focus on better hardware to enable AGI. A much different approach on chips compared to current industry standards. 7. Microsoft Pledges to Invest $19 billion+ in AI infra in Canada A total of $19 billion CAD between 2023 and 2027 has just been pledged this morning. $7.5 billion CAD alone over the next two years. 8. Google Planning Nano Banana 2 Flash Release in Coming Weeks Internal "Mayo" announcement added to Gemini web. Performance matches Nano Banana 2 Pro at lower cost. Gemini 3 Flash likely dropping around same time. Flash variant enables wider scaling without sacrificing quality. 9. OpenAI Releases GPT-5.1-Codex Max via Responses API Most capable agentic coding model now available to integrate into apps and workflows. First launched in Codex two weeks ago. Purpose-built for agentic coding with foundational reasoning. Also accessible via Codex CLI with API key. 10. Google Drops Deep Think Mode for Gemini 3 Explores multiple hypotheses simultaneously with iterative reasoning rounds. Produces more refined, nuanced code with richer detail. Available to Google AI Ultra subscribers. Select 'Deep Think' in prompt bar to activate. That's a wrap on this week's AI News. Which update do you think is the biggest? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
 
-13h ago
+14h ago
 
 ---
 
@@ -121,7 +121,7 @@ GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries wi
 
 **[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
@@ -129,27 +129,15 @@ The New York Times • 15h ago
 
 Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
-**[Wall Street’s AI Adoption Is Set to Drive Hiring Boom, For Now](https://www.bloomberg.com/news/articles/2025-12-10/wall-street-s-ai-adoption-is-set-to-drive-hiring-boom-for-now)**
+**[Amazon, Microsoft pledge mega AI investments in India](https://www.bbc.com/news/articles/c3w79pgn8peo)**
 
-Bloomberg.com • 1h ago
+India, which is an emerging AI and cloud infrastructure hub, has witnessed a surge of global tech investment recently.
 
----
-
-**[Microsoft unveils $23 billion in new AI investments with big focus on India](https://www.reuters.com/business/microsoft-invest-more-than-5-billion-canada-over-next-two-years-2025-12-09/)**
-
-Reuters • 9h ago
-
----
-
-**[Microsoft to invest $17.5 billion in India's AI infra as Big Tech queues up for the Asian market](https://www.cnbc.com/2025/12/10/microsoft-india-investment-ai-infra-as-big-tech-google-aws.html)**
-
-Microsoft has pledged $17.5 billion in investment in India's cloud and AI infrastructure, as major tech players commit to the growing market.
-
-CNBC • 6h ago
+BBC • 49m ago
 
 ---
 
@@ -161,33 +149,47 @@ CNBC • 2h ago
 
 ---
 
-**[South Korea to require advertisers to label AI-generated ads](https://www.10tv.com/article/syndication/associatedpress/south-korea-to-require-advertisers-to-label-ai-generated-ads/616-04426c48-a340-4b98-90c9-29b8551f996c)**
+**[Watch Microsoft CEO on AI Skills for the Future](https://www.bloomberg.com/news/videos/2025-12-10/microsoft-ceo-on-ai-skills-for-the-future-video)**
 
-South Korea will require advertisers to label their ads made with artificial intelligence technologies from next year as it seeks to curb a surge of deceptive...
-
-10TV • 1h ago
+Bloomberg.com • 47m ago
 
 ---
 
-**[Donating the Model Context Protocol and establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)**
+**[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
-Anthropic • 14h ago
-
----
-
-**[OpenAI, Anthropic, and Block Are Teaming Up to Make AI Agents Play Nice](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/)**
-
-American AI giants are backing a new effort to establish open standards for building agentic software and tools.
-
-WIRED • 14h ago
+NPR • 34m ago
 
 ---
 
-**[OpenAI co-founds the Agentic AI Foundation under the Linux Foundation](https://openai.com/index/agentic-ai-foundation/)**
+**[South Korea to require advertisers to label AI-generated ads](https://apnews.com/article/south-korea-label-ai-ads-deepfake-6df668ae93489da7d448c66e53905bbb)**
 
-OpenAI • 14h ago
+South Korea will require advertisers to label their ads made with artificial intelligence technologies from next year as it seeks to curb a surge of deceptive promotions featuring fabricated experts or deep-faked celebrities endorsing food or pharmaceutical products on social media.
+
+AP News • 1h ago
+
+---
+
+**[Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients](https://www.wsj.com/articles/anthropic-and-accenture-strike-ai-deal-targeting-business-clients-0a82f28a?gaa_at=eafs&gaa_n=AWEtsqfBFPkzh5z_m1D0as-kP-Pimgoo50NHMP7SUYmlC5UDkdTkazo4JsNu&gaa_ts=6939352f&gaa_sig=7o2E3UDMpM1I0ollRa2bPuls-iODxq-8fWZ91kB5zMOXU-kXt5uIOe4DjLMfo8lUsKNoi2MBXKPdEypAfUE2WA%3D%3D)**
+
+The Wall Street Journal • 20h ago
+
+---
+
+**[2025: The State of Generative AI in the Enterprise](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/)**
+
+For all the fears of over-investment, AI is spreading across enterprises at a pace with no precedent in modern software history.
+
+Menlo Ventures • 20h ago
+
+---
+
+**[Nearly a third of American teens interact with AI chatbots daily, study finds](https://www.cnn.com/2025/12/09/tech/teens-ai-chatbot-use-study)**
+
+Nearly a third of US teenagers say they use AI chatbots daily, a new study finds, shedding light on how young people are embracing a technology that’s raised critical safety concerns around mental health impacts and exposure to mature content for kids.
+
+CNN • 12h ago
 
 ---
 
@@ -197,7 +199,7 @@ OpenAI • 14h ago
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 579 • 💬 183 • 2d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 580 • 💬 183 • 2d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -205,7 +207,7 @@ OpenAI • 14h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 553 • 💬 553 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 556 • 💬 555 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -221,7 +223,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 301 • 💬 363 • 16h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 307 • 💬 369 • 17h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -229,7 +231,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 200 • 💬 96 • 14h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 211 • 💬 98 • 15h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -243,7 +245,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 128 • 💬 142 • 5h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 131 • 💬 148 • 5h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -257,7 +259,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 98 • 💬 21 • 11h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 104 • 💬 21 • 12h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -265,7 +267,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 55 • 💬 106 • 16h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 55 • 💬 109 • 17h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
@@ -279,7 +281,7 @@ Glenn Beck recently made headlines for releasing a promo video of his upcoming i
 
 📺 Glenn Beck
 
-👁️ 14K • 👍 1K • 💬 157 • ⏱️ 11:52 • 11h ago
+👁️ 14K • 👍 1K • 💬 157 • ⏱️ 11:52 • 12h ago
 
 ---
 
@@ -289,7 +291,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 14K • 👍 793 • 💬 32 • ⏱️ 12:50 • 7h ago
+👁️ 14K • 👍 793 • 💬 32 • ⏱️ 12:50 • 8h ago
 
 ---
 
@@ -339,7 +341,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 64K • 👍 2K • 💬 433 • ⏱️ 1:59:44 • 17h ago
+👁️ 64K • 👍 2K • 💬 433 • ⏱️ 1:59:44 • 18h ago
 
 ---
 
@@ -349,7 +351,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 27K • 👍 968 • 💬 129 • ⏱️ 9:41 • 8h ago
+👁️ 27K • 👍 968 • 💬 129 • ⏱️ 9:41 • 9h ago
 
 ---
 
@@ -359,7 +361,7 @@ Martin Whittaker, Just Capital CEO, joins 'Squawk Box' to discuss the company's 
 
 📺 CNBC Television
 
-👁️ 7K • 👍 72 • 💬 38 • ⏱️ 7:08 • 19h ago
+👁️ 7K • 👍 72 • 💬 38 • ⏱️ 7:08 • 20h ago
 
 ---
 
@@ -385,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 217,428 • ❤️ 2,446 • 1d ago
+⬇️ 217,428 • ❤️ 2,451 • 1d ago
 
 ---
 
@@ -397,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 607 • 1d ago
+⬇️ 56,958 • ❤️ 611 • 1d ago
 
 ---
 
@@ -409,7 +411,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 33,102 • ❤️ 847 • 8d ago
+⬇️ 33,102 • ❤️ 849 • 8d ago
 
 ---
 
@@ -421,7 +423,19 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 260 • 13h ago
+⬇️ 6,920 • ❤️ 265 • 14h ago
+
+---
+
+**[GLM-4.6V](https://huggingface.co/zai-org/GLM-4.6V)**
+
+*Z.ai*
+
+GLM-4.6V is a multimodal model supporting image-text-to-text generation with native function calling for vision-driven tool use. It excels at multimodal document understanding (up to 128k tokens), interleaved content generation, and frontend replication from UI screenshots.
+
+`image-text-to-text` `107.7B`
+
+⬇️ 687 • ❤️ 227 • 1d ago
 
 ---
 
@@ -435,18 +449,6 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 ---
 
-**[GLM-4.6V](https://huggingface.co/zai-org/GLM-4.6V)**
-
-*Z.ai*
-
-GLM-4.6V is a multimodal model supporting image-text-to-text generation with native function calling for vision-driven tool use. It excels at multimodal document understanding (up to 128k tokens), interleaved content generation, and frontend replication from UI screenshots.
-
-`image-text-to-text` `107.7B`
-
-⬇️ 687 • ❤️ 226 • 1d ago
-
----
-
 **[DeepSeek-V3.2-Speciale](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale)**
 
 *DeepSeek*
@@ -455,7 +457,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 9,310 • ❤️ 573 • 8d ago
+⬇️ 9,310 • ❤️ 574 • 8d ago
 
 ---
 
@@ -489,7 +491,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 443,437 • ❤️ 175 • 1d ago
+⬇️ 443,437 • ❤️ 177 • 1d ago
 
 ---
 
@@ -505,7 +507,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 173 • 💬 3 • ⭐ 6,104 • 12d ago
+▲ 176 • 💬 3 • ⭐ 6,104 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -533,7 +535,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 161 • 💬 4 • ⭐ 736 • 6d ago
+▲ 162 • 💬 4 • ⭐ 736 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -547,7 +549,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 51 • 💬 2 • ⭐ 956 • 8d ago
+▲ 52 • 💬 2 • ⭐ 956 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -587,7 +589,7 @@ LongCat-Image is a bilingual open-source foundation model for image generation t
 
 RealGen is a photorealistic text-to-image framework that uses an LLM for prompt optimization and a diffusion model for image generation, enhanced by a Detector Reward mechanism and RealBench for automated evaluation.
 
-▲ 19 • 💬 2 • ⭐ 168 • 11d ago
+▲ 19 • 💬 2 • ⭐ 178 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.00473) • [💻 code](https://github.com/yejy53/RealGen) • [🔗 project](https://yejy53.github.io/RealGen/)
 
@@ -627,7 +629,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 39 • 💬 2 • ⭐ 312 • 5d ago
+▲ 40 • 💬 2 • ⭐ 312 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -643,7 +645,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.7k • 🔱 133 • 1d ago
+⭐ 1.7k • 🔱 134 • 1d ago
 
 ---
 
@@ -653,7 +655,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.4k • 🔱 168 • 1h ago
+⭐ 1.5k • 🔱 172 • 1h ago
 
 ---
 
@@ -663,7 +665,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `Python`
 
-⭐ 1.0k • 🔱 208 • 10d ago
+⭐ 1.1k • 🔱 209 • 10d ago
 
 ---
 
@@ -673,7 +675,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 127 • 10h ago
+⭐ 1.0k • 🔱 128 • 11h ago
 
 ---
 
@@ -683,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 908 • 🔱 65 • 20h ago
+⭐ 909 • 🔱 65 • 21h ago
 
 ---
 
@@ -703,7 +705,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 853 • 🔱 272 • 4d ago
+⭐ 856 • 🔱 272 • 4d ago
 
 ---
 
@@ -733,7 +735,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `JavaScript`
 
-⭐ 508 • 🔱 77 • 1d ago
+⭐ 520 • 🔱 79 • 1d ago
 
 ---
 

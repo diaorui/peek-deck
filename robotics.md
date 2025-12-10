@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T07:59:03.776554+00:00'
+updated: '2025-12-10T08:39:35.381854+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 07:59 UTC  
+**Last Updated:** December 10, 2025 at 08:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,11 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
+**[University of Utah engineers just gave a bionic hand "mind of its own" using AI. Aligns user intent with hand's grip automatically.](https://www.reddit.com/r/robotics/comments/1pix2wp/university_of_utah_engineers_just_gave_a_bionic/)**
 
-21h ago
+Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
+
+35m ago
 
 ---
 
@@ -46,6 +48,12 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 ---
 
+**[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
+
+21h ago
+
+---
+
 **[Robots Lightsaber Duel !!!](https://www.reddit.com/r/robotics/comments/1pi6js4/robots_lightsaber_duel/)**
 
 "May the sensors be with you "
@@ -54,11 +62,19 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 ---
 
+**[Job Opening: Senior Robotics Engineer (Humanoid & Legged Robots) | India](https://www.reddit.com/r/robotics/comments/1pixl3d/job_opening_senior_robotics_engineer_humanoid/)**
+
+Hiring for an MNC Autonomous Robots | Humanoid, Legged & AMR Onsite – Chennai, India Experience: 3–6+ Years Notice Period: 15–30 Days Total Number of roles: 2 More info: https://robocademy.com/blog/job-opening-senior-robotics-engineer-humanoid-legged-robots
+
+1m ago
+
+---
+
 **[Need help with digital twin of cobot using unity VR](https://www.reddit.com/r/robotics/comments/1piw40y/need_help_with_digital_twin_of_cobot_using_unity/)**
 
 I m trying to make a cobot digital twin in vr using Unity engine to create vr application. I m using esp32 to collect and control the kinematics of the robot. I will be using mqtt to transmit the data. I m not sure how to do the unity VR part. Please provide me some information on how to retrieve the mqtt data and use it to digital twin the cobot in VR unity application. It would be really helpful for me if you provide me with some knowledge about unity VR applications
 
-56m ago
+1h ago
 
 ---
 
@@ -70,6 +86,14 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 ---
 
+**[Testing modular VLA (Graph + Physics + LLM) on real robots — any advice on platforms?](https://www.reddit.com/r/robotics/comments/1piv5vu/testing_modular_vla_graph_physics_llm_on_real/)**
+
+I’ve built a modular VLA prototype (physics-grounded LLM planning + explicit scene graph reasoning). The system can preemptively respond to predicted physical events (like a cup falling), and works well in simulation. My current hardware is limited, so I’m exploring what real robot platforms people usually use for research along these lines. Franka, UR, or others? If you’re working on similar ideas, feel free to share your experience — I’m trying to understand what setups are common, and what challenges to expect. Happy to show a short demo as well.
+
+2h ago
+
+---
+
 **[Robot orders rise in Q3 2025 as automation demand strengthens in recent report](https://www.reddit.com/r/robotics/comments/1pihi93/robot_orders_rise_in_q3_2025_as_automation_demand/)**
 
 North American robot orders picked up again in Q3 2025, pointing to renewed momentum in manufacturing automation after a slower period. According to the latest market data, companies in North America ordered 8,806 robots in the third quarter, worth about $574 million. That works out to an 11.6 percent increase in units and a 17.2 percent increase in revenue compared to the same quarter last year. The most notable gains came from food and consumer goods, where robot orders were up more than 100 percent year over year, and from automotive OEMs, which saw orders rise sharply as well. Metals and general manufacturing also posted growth, while automotive components and plastics and rubber recorded declines, suggesting a more selective investment cycle in those segments.
@@ -78,33 +102,11 @@ North American robot orders picked up again in Q3 2025, pointing to renewed mome
 
 ---
 
-**[Testing modular VLA (Graph + Physics + LLM) on real robots — any advice on platforms?](https://www.reddit.com/r/robotics/comments/1piv5vu/testing_modular_vla_graph_physics_llm_on_real/)**
-
-I’ve built a modular VLA prototype (physics-grounded LLM planning + explicit scene graph reasoning). The system can preemptively respond to predicted physical events (like a cup falling), and works well in simulation. My current hardware is limited, so I’m exploring what real robot platforms people usually use for research along these lines. Franka, UR, or others? If you’re working on similar ideas, feel free to share your experience — I’m trying to understand what setups are common, and what challenges to expect. Happy to show a short demo as well.
-
-1h ago
-
----
-
 **[MIT engineers give biohybrid robots a power upgrade with synthetic tendons](https://www.reddit.com/r/robotics/comments/1pie99u/mit_engineers_give_biohybrid_robots_a_power/)**
 
 Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
 
 🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 14h ago
-
----
-
-**[Vision language navigation](https://www.reddit.com/r/robotics/comments/1piaihx/vision_language_navigation/)**
-
-Teaching Robots to Understand Natural Language Built an autonomous navigation system where you can command a robot in plain English - "go to the person" or "find the chair" - and it handles the rest. What I Learned: Distributed ROS2: Ran LLM inference on NVIDIA Jetson Orin Nano while handling vision/navigation on my main system. Multi-machine communication over ROS2 topics was seamless. Edge Al Reality: TinyLlama on Jetson's CPU takes 2-10s per command, but the 8GB unified memory and no GPU dependency makes it perfect for robotics. Real edge computing without much latency. Vision + Planning: YOLOv8 detects object classes, monocular depth estimation calculates distance, Nav2 plans the path. When the target disappears, the robot autonomously searches with 360° rotation patterns. On Jetson Orin Nano Super: Honestly impressed. It's the perfect middle ground - more capable than Raspberry Pi, more accessible than industrial modules. Running Ollama while maintaining real-time ROS2 communication proved its robotics potential. Stack: ROS2 | YOLOv8 | Ollama/TinyLlama | Nav2 | Gazebo Video shows the full pipeline - natural language → LLM parsing → detection → autonomous navigation.
-
-16h ago
-
----
-
-**[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
-
-2d ago
 
 ---
 
@@ -158,6 +160,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
+
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
+
+MLive.com • 15h ago
+
+---
+
 **[Tesla: Mastering Fear And Greed In The Robotics Supercycle (Rating Downgrade) (TSLA)](https://seekingalpha.com/article/4851542-tesla-mastering-fear-and-greed-in-the-robotics-supercycle-rating-downgrade)**
 
 Tesla, Inc. remains a sentiment-driven asset despite strong fundamentals. Click here to read why TSLA stock is downgraded to a Hold.
@@ -179,14 +189,6 @@ PYMNTS.com • 1d ago
 Army Special Forces Embracing Robots in All Domains
 
 National Defense Magazine • 2d ago
-
----
-
-**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
-
-1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
-
-Valley News Live • 1d ago
 
 ---
 
