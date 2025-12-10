@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T10:16:24.777429+00:00'
+updated: '2025-12-10T10:45:29.319650+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 10:16 UTC  
+**Last Updated:** December 10, 2025 at 10:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as A
 
 Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 41m ago
+🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Reprogrammable humanoid robots could level the global manufacturing playing fiel
 
 People keep talking about “fixing hallucination,” but nobody is asking the one question that actually matters: Why do these systems hallucinate in the first place? Every solution so far—RAG, RLHF, model scaling, “AI constitutions,” uncertainty scoring—tries to patch the problem after it happens. They’re improving the guess instead of removing the guess. The real issue is structural: these models are architecturally designed to generate answers even when they don’t have grounded information. They’re rewarded for sounding confident, not for knowing when to stop. That’s why the failures repeat across every system—GPT, Claude, Gemini, Grok. Different models, same flaw. What I’ve put together breaks down the actual mechanics behind that flaw using the research the industry itself published. It shows why their methods can’t solve it, why the problem persists across scaling, and why the most obvious correction has been ignored for years. If you want the full breakdown—with evidence from academic papers, production failures, legal cases, medical misfires, and the architectural limits baked into transformer models—here it is. It explains the root cause in plain language so people can finally see the pattern for themselves.
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 15h ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 16h ago
 
 ---
 
@@ -121,7 +121,7 @@ U.S. military to use Google Gemini for new AI platform.[1] EU opens investigatio
 
 **[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 17h ago
 
 Amazon has committed to investing $$35 billion in India’s cloud and AI space by 2030, as hyperscalers race to get a foothold in the market.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -149,7 +149,7 @@ Reuters • 12h ago
 
 **[AI's new reality: Benchmark wins are great, money is better](https://www.axios.com/2025/12/10/ai-race-business-models-balance-sheets)**
 
-Axios • 15m ago
+Axios • 44m ago
 
 ---
 
@@ -163,7 +163,7 @@ NPR • 2h ago
 
 **[Oracle’s Earnings Will Be a Key Moment for AI Stocks This Week. It Has Nothing to Do With Nvidia.](https://www.barrons.com/articles/oracle-earnings-ai-stock-market-nvidia-d7585d45?gaa_at=eafs&gaa_n=AWEtsqdm3p_R-yh2ORcKNGLZn1Q9Y6zMM9bkBUmUKnT1ClrMS96_OpslV7io&gaa_ts=69394bdd&gaa_sig=wCoJIe0gE3MWX9w5hRttOGs5vYt9NIBHM__KqXO9RET1x8B7r_1utlVsXx0qP3KE2NfJ4yT1bDAKXLs08kGyHA%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -171,13 +171,13 @@ Barron's • 20h ago
 
 Oracle's fiscal second-quarter results will be a crucial test for the AI trade and whether demand justifies the company's buildout plans.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
 **[Oracle Earnings May Not Be Enough to Assuage Debt, AI Deal Fears](https://www.bloomberg.com/news/articles/2025-12-10/oracle-earnings-may-not-be-enough-to-assuage-debt-ai-deal-fears)**
 
-Bloomberg.com • 23m ago
+Bloomberg.com • 52m ago
 
 ---
 
@@ -263,7 +263,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 57 • 💬 81 • 8h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 57 • 💬 81 • 9h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -277,7 +277,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 32K • 👍 1K • 💬 138 • ⏱️ 9:41 • 10h ago
+👁️ 32K • 👍 1K • 💬 138 • ⏱️ 9:41 • 11h ago
 
 ---
 
@@ -297,7 +297,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 17K • 👍 894 • 💬 41 • ⏱️ 12:50 • 9h ago
+👁️ 17K • 👍 894 • 💬 41 • ⏱️ 12:50 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 hxsain
 
-👁️ 222K • 👍 19K • 💬 224 • ⏱️ 0:51 • 15h ago
+👁️ 222K • 👍 19K • 💬 224 • ⏱️ 0:51 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T10:16:24.785871+00:00'
+updated: '2025-12-10T10:45:29.328192+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 10:16 UTC  
+**Last Updated:** December 10, 2025 at 10:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,965.04
+### $92,196.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.1%  
-**7d:** +1.1%  
-**30d:** -9.7%  
-**90d:** -19.8%  
-**1y:** -7.8%  
+**24h:** +2.0%  
+**7d:** +0.0%  
+**30d:** -10.7%  
+**90d:** -20.7%  
+**1y:** -8.8%  
 
 ---
 
@@ -101,7 +101,7 @@ The Mods don't want you to see bullish memes. Vote against the bears.
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
-5h ago
+6h ago
 
 ---
 
@@ -157,7 +157,7 @@ Investor's Business Daily • 11h ago
 
 **[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 11h ago
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 13h ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -333,7 +333,7 @@ In this clip, I talk about a major macro event that could impact bitcoin and cry
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 467 • 💬 104 • ⏱️ 8:42 • 9h ago
+👁️ 7K • 👍 467 • 💬 104 • ⏱️ 8:42 • 10h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 56K • 👍 2K • 💬 268 • ⏱️ 42:27 • 17h ago
+👁️ 56K • 👍 2K • 💬 268 • ⏱️ 42:27 • 18h ago
 
 ---
 
@@ -353,7 +353,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 33K • 👍 2K • 💬 187 • ⏱️ 44:49 • 18h ago
+👁️ 33K • 👍 2K • 💬 187 • ⏱️ 44:49 • 19h ago
 
 ---
 
@@ -383,7 +383,7 @@ Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 71K • 👍 4K • 💬 162 • ⏱️ 9:09 • 20h ago
+👁️ 71K • 👍 4K • 💬 162 • ⏱️ 9:09 • 21h ago
 
 ---
 

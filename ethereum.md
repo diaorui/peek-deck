@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T10:16:24.791912+00:00'
+updated: '2025-12-10T10:45:29.334224+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 10:16 UTC  
+**Last Updated:** December 10, 2025 at 10:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +7.6%  
-**7d:** +6.8%  
-**30d:** -2.0%  
-**90d:** -28.8%  
-**1y:** -12.8%  
+**24h:** +6.8%  
+**7d:** +6.0%  
+**30d:** -2.8%  
+**90d:** -29.4%  
+**1y:** -13.4%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-18h ago
+19h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 23h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ The Motley Fool • 2d ago
 
 Ethereum price prediction still targets $3,710, but a hidden on-chain risk could delay the move. Traders should watch this closely.
 
-Yahoo Finance • 16m ago
+Yahoo Finance • 45m ago
 
 ---
 
@@ -222,7 +222,7 @@ Fortune • 1d ago
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -236,7 +236,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 209 • ⏱️ 12:03 • 10h ago
+👁️ 48K • 👍 3K • 💬 209 • ⏱️ 12:03 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 184 • 💬 8 • ⏱️ 5:16 • 7h ago
+👁️ 2K • 👍 184 • 💬 8 • ⏱️ 5:16 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 40K • 👍 2K • 💬 99 • ⏱️ 20:14 • 13h ago
+👁️ 40K • 👍 2K • 💬 99 • ⏱️ 20:14 • 14h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 293 • 💬 67 • ⏱️ 21:02 • 10h ago
+👁️ 7K • 👍 293 • 💬 67 • ⏱️ 21:02 • 11h ago
 
 ---
 
@@ -296,7 +296,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 4K • 👍 132 • 💬 82 • ⏱️ 35:26 • 14h ago
+👁️ 4K • 👍 132 • 💬 82 • ⏱️ 35:26 • 15h ago
 
 ---
 
@@ -306,7 +306,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 811 • 💬 136 • ⏱️ 11:31 • 4h ago
+👁️ 4K • 👍 811 • 💬 136 • ⏱️ 11:31 • 5h ago
 
 ---
 
@@ -316,7 +316,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 1K • 👍 60 • 💬 43 • ⏱️ 13:32 • 15h ago
+👁️ 1K • 👍 60 • 💬 43 • ⏱️ 13:32 • 16h ago
 
 ---
 
