@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T20:58:49.815950+00:00'
+updated: '2025-12-10T21:30:56.071944+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 20:58 UTC  
+**Last Updated:** December 10, 2025 at 21:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -69,7 +69,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
-19h ago
+20h ago
 
 ---
 
@@ -78,6 +78,12 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
 
 🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 11h ago
+
+---
+
+**[Trump’s push for more AI data centers faces backlash from his own voters](https://www.reddit.com/r/artificial/comments/1pj7pr6/trumps_push_for_more_ai_data_centers_faces/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 4h ago
 
 ---
 
@@ -97,17 +103,11 @@ I’ve spent the last year really putting AI to work, writing content, handling 
 
 ---
 
-**[Trump’s push for more AI data centers faces backlash from his own voters](https://www.reddit.com/r/artificial/comments/1pj7pr6/trumps_push_for_more_ai_data_centers_faces/)**
+**[For agent systems, which metrics give you the clearest signal during evaluation](https://www.reddit.com/r/artificial/comments/1pjetdd/for_agent_systems_which_metrics_give_you_the/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 4h ago
+When evaluating an agent system that changes its behavior as tools and planning steps evolve, it can be hard to choose metrics that actually explain what went wrong. We tried several complex scoring schemes before realizing that a simple grouping works better. Groundedness: Shows whether the agent relied on the correct context or evidence Structure: Shows whether the output format is stable enough for scoring Correctness: Shows whether the final answer is right Most of our debugging now starts with these three. - If groundedness drops, the agent is pulling information from the wrong place. - If structure drops, a planner change or tool call adjustment usually altered the format. - If correctness drops, we look at reasoning or retrieval. I am curious how others evaluate agents as they evolve. Do you track different metrics for different stages of the agent? Do you rely on a simple metric set or a more complex one? Which metrics helped you catch failures early?
 
----
-
-**[Three in 10 US teens use AI chatbots every day, but safety concerns are growing](https://www.reddit.com/r/artificial/comments/1pj7cio/three_in_10_us_teens_use_ai_chatbots_every_day/)**
-
-While teenagers may start out using AI chatbots for basic questions, their relationship with chatbot platforms has the potential to turn addictive.
-
-🔗 [TechCrunch](https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/) • 4h ago
+14m ago
 
 ---
 
@@ -117,15 +117,7 @@ While teenagers may start out using AI chatbots for basic questions, their relat
 
 **[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
-The New York Times • 5h ago
-
----
-
-**[Inside Meta’s Pivot From Open Source to Money-Making AI Model](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model)**
-
-Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
-
-Bloomberg.com • 6h ago
+The New York Times • 6h ago
 
 ---
 
@@ -137,11 +129,19 @@ CNBC • 1d ago
 
 ---
 
+**[Inside the Fallout From Mark Zuckerberg's Chaotic $14 Billion AI Deal](https://www.businessinsider.com/pay-cuts-poaching-pivoting-inside-scale-ai-meta-2025-12)**
+
+Five months after Meta's $14 billion deal, Scale AI has lost some of its gleam, with workers sniping about pay, and rivals coming for its clientele.
+
+Business Insider • 12h ago
+
+---
+
 **[McDonald's pulls AI-generated Christmas advert following backlash](https://www.bbc.com/news/articles/czdgrnvp082o)**
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -149,7 +149,7 @@ BBC • 8h ago
 
 Viewers blasted McDonald's satirical commercial as offensive, with critics questioning why anyone would 'ditch your family and hide in McDonald's.'
 
-Los Angeles Times • 16h ago
+Los Angeles Times • 17h ago
 
 ---
 
@@ -161,11 +161,11 @@ Futurism • 1d ago
 
 ---
 
-**[University of Phoenix College of Doctoral Studies releases white paper on AI-driven skilling to reduce burnout and restore worker autonomy](https://finance.yahoo.com/news/university-phoenix-college-doctoral-studies-195700340.html)**
+**[Nvidia responds to report that China's DeepSeek is using its banned Blackwell AI chips](https://www.cnbc.com/2025/12/10/nvidia-report-china-deepseek-ai-blackwell-chips.html)**
 
-University of Phoenix College of Doctoral Studies announced the publication of "Burnout and Autonomy in the Modern Workforce: The Role of AI-Driven Skilling in Equity and Resilience," a new white paper by Rheanna Reed, D.M., which draws on five years of University of Phoenix Career Optimism Index® data, to examine how burnout, autonomy, equity and artificial intelligence (AI) intersect in the U.S. workforce and outlines strategies employers can use to build a more resilient, future-ready workfor
+The U.S. has blocked the export of Nvidia's Blackwell chips to China in an effort to stay ahead in the AI race.
 
-Yahoo Finance • 1h ago
+CNBC • 6h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1h ago
 
 Beijing encouraged purchase of Huawei and Cambricon processors before Trump’s move to allow Nvidia exports
 
-Financial Times • 19h ago
+Financial Times • 20h ago
 
 ---
 
@@ -181,15 +181,13 @@ Financial Times • 19h ago
 
 Nvidia has reportedly developed location verification technology that will allow it to identify where its computer chips are being used – a move that comes as the artificial intelligence giant face…
 
-New York Post • 45m ago
+New York Post • 1h ago
 
 ---
 
-**[Something Ominous Is Happening in the AI Economy](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)**
+**[The Silicon Valley Campaign to Win Trump Over on AI Regulation](https://www.wsj.com/tech/ai/the-silicon-valley-campaign-to-win-trump-over-on-ai-regulation-214bd6bd?gaa_at=eafs&gaa_n=AWEtsqcvPTecg6uoDaPoRQMrU6wTd9i2ymI7eHr0s5vJeApg4zMrAsIrr-oV&gaa_ts=6939e9f9&gaa_sig=-nMjydeMYF7gBlZPgEnoEFl6JcM2-kXA8fgEG7_8PcmBUHCPFT87jbRJsQl9reqhpCERipIpdp7wL_pprXOy2g%3D%3D)**
 
-The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
-
-The Atlantic • 2h ago
+The Wall Street Journal • 20h ago
 
 ---
 
@@ -233,7 +231,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 243 • 💬 213 • 4h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 251 • 💬 219 • 4h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -247,7 +245,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 160 • 💬 191 • 18h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 160 • 💬 194 • 18h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -263,7 +261,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 95 • 💬 120 • 8h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 96 • 💬 123 • 8h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -271,7 +269,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 66 • 💬 88 • 19h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 66 • 💬 89 • 19h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -295,7 +293,7 @@ Access All Image Models with OpenArt https://roboverse-ai.com/Image-Generators I
 
 📺 Roboverse
 
-👁️ 5K • 💬 4 • ⏱️ 12:32 • 5h ago
+👁️ 5K • 💬 4 • ⏱️ 12:32 • 6h ago
 
 ---
 
@@ -305,7 +303,7 @@ In this episode, I sit down with @elonmusk for a wide-ranging conversation on DO
 
 📺 Katie Miller Pod
 
-👁️ 194K • 👍 9K • 💬 2K • ⏱️ 52:58 • 21h ago
+👁️ 194K • 👍 9K • 💬 2K • ⏱️ 52:58 • 22h ago
 
 ---
 
@@ -315,7 +313,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 29K • 👍 1K • 💬 54 • ⏱️ 12:50 • 20h ago
+👁️ 29K • 👍 1K • 💬 54 • ⏱️ 12:50 • 21h ago
 
 ---
 
@@ -325,7 +323,7 @@ Jeremy's Razors - Visit https://jeremysrazors.com today! McDonald's has just rel
 
 📺 Matt Walsh
 
-👁️ 43K • 👍 3K • 💬 1K • ⏱️ 12:07 • 6h ago
+👁️ 43K • 👍 3K • 💬 1K • ⏱️ 12:07 • 7h ago
 
 ---
 
@@ -345,7 +343,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTE
 
 📺 Anastasi In Tech
 
-👁️ 249K • 👍 14K • 💬 2K • ⏱️ 31:03 • 1d ago
+👁️ 249K • 👍 14K • 💬 2K • ⏱️ 31:03 • 2d ago
 
 ---
 
@@ -355,7 +353,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 49K • 👍 1K • 💬 181 • ⏱️ 9:41 • 21h ago
+👁️ 49K • 👍 1K • 💬 181 • ⏱️ 9:41 • 22h ago
 
 ---
 
@@ -403,7 +401,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,479 • 2d ago
+⬇️ 232,896 • ❤️ 2,480 • 2d ago
 
 ---
 
@@ -415,7 +413,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 294 • 1d ago
+⬇️ 10,031 • ❤️ 295 • 1d ago
 
 ---
 
@@ -463,7 +461,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 444,785 • ❤️ 184 • 1d ago
+⬇️ 444,785 • ❤️ 184 • 2d ago
 
 ---
 
@@ -569,7 +567,7 @@ Visionary is an open web-native platform enabling real-time rendering of 3D Gaus
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 163 • 💬 4 • ⭐ 781 • 6d ago
+▲ 163 • 💬 4 • ⭐ 796 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -586,18 +584,6 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 ▲ 54 • 💬 2 • ⭐ 995 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
-
----
-
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
-
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
-
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
-
-▲ 6 • 💬 1 • ⭐ 11,733 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
 ---
 
@@ -629,6 +615,18 @@ LongCat-Image is a bilingual open-source foundation model for image generation t
 
 ---
 
+**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+
+*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+
+DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+
+▲ 6 • 💬 1 • ⭐ 11,750 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
 **[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
 *Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
@@ -651,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 5.2k • 🔱 850 • 3h ago
+⭐ 5.2k • 🔱 851 • 3h ago
 
 ---
 
@@ -671,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.6k • 🔱 190 • 46m ago
+⭐ 1.6k • 🔱 190 • 17m ago
 
 ---
 
@@ -691,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 129 • 11h ago
+⭐ 1.0k • 🔱 129 • 12h ago
 
 ---
 
@@ -721,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 868 • 🔱 22 • 3d ago
+⭐ 869 • 🔱 22 • 3d ago
 
 ---
 

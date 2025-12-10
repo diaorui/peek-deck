@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T20:58:49.824108+00:00'
+updated: '2025-12-10T21:30:56.080384+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 20:58 UTC  
+**Last Updated:** December 10, 2025 at 21:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,509.57
+### $92,501.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +0.6%  
-**30d:** -10.2%  
-**90d:** -20.2%  
-**1y:** -8.3%  
+**24h:** -0.5%  
+**7d:** +0.5%  
+**30d:** -10.3%  
+**90d:** -20.3%  
+**1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1847.51B
+**Market Cap:** $1845.26B
 Rank #1
 
 **Circulating Supply:** 19,960,334 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.6%
+-26.7%
 
 **All-Time Low:** $67.81
-+136316.5%
++136226.5%
 
 ---
 
@@ -76,6 +76,20 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
+
+4h ago
+
+---
+
+**[0,1 Shrimp 🦐](https://www.reddit.com/r/Bitcoin/comments/1pjd889/01_shrimp/)**
+
+Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young and stupid”. Priority was go to the cinema with my GF (now wife). Now, we sometimes get back to that time and this ATM with that BTC price, crying about our stupidity not buying. Some years later, started to stack sats . Got married (sold all my stocks for the wedding), btw. I had AMD at ~7$, CDProject ~2$ and many more 😁 Bought a house, my son was born. Got mortgage (value of the house went like +200% now), 30% in ETF, 70% BTC. Be happy, DCA, HODL and be free 🔥🚀 Peace!
+
+1h ago
+
+---
 
 **[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
 
@@ -99,45 +113,23 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 ---
 
-**[0,1 Shrimp 🦐](https://www.reddit.com/r/Bitcoin/comments/1pjd889/01_shrimp/)**
-
-Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young and stupid”. Priority was go to the cinema with my GF (now wife). Now, we sometimes get back to that time and this ATM with that BTC price, crying about our stupidity not buying. Some years later, started to stack sats . Got married (sold all my stocks for the wedding), btw. I had AMD at ~7$, CDProject ~2$ and many more 😁 Bought a house, my son was born. Got mortgage (value of the house went like +200% now), 30% in ETF, 70% BTC. Be happy, DCA, HODL and be free 🔥🚀 Peace!
-
-43m ago
-
----
-
-**[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
-
-4h ago
-
----
-
 **[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
 
-2h ago
+3h ago
 
 ---
 
-**[Tragedy Strikes the Bitcoin Market Today](https://www.reddit.com/r/Bitcoin/comments/1pitli0/tragedy_strikes_the_bitcoin_market_today/)**
+**[All in! at 92k](https://www.reddit.com/r/Bitcoin/comments/1pjen83/all_in_at_92k/)**
 
-On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
+Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-16h ago
-
----
-
-**[Zoom out, get rid of the charts and enjoy life.](https://www.reddit.com/r/Bitcoin/comments/1piv80p/zoom_out_get_rid_of_the_charts_and_enjoy_life/)**
-
-Sooner or later it will bounce to new highs, or not
-
-14h ago
+21m ago
 
 ---
 
@@ -145,27 +137,19 @@ Sooner or later it will bounce to new highs, or not
 
 Hi all, I'm looking for a way to buy Bitcoin without KYC, I heard about localbitcoins back in the days but i noticed it was closed, I really couldn't fin anything else, do you have a place to do that?
 
-40m ago
+1h ago
+
+---
+
+**[Fed goes brrrrrrrrrrr again](https://www.reddit.com/r/Bitcoin/comments/1pjd02r/fed_goes_brrrrrrrrrrr_again/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/finance/fed-says-will-start-reserve-management-treasury-bill-buying-2025-12-10/) • 1h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://decrypt.co/351847/bitcoin-ethereum-federal-reserve-cuts-rates)**
-
-The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
-
-Decrypt • 1h ago
-
----
-
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqdpys5sGarQb1i7u1UhHj4GiRZlkPsuzFD0ohCpeO-8A9YcVqBQ3bcX&gaa_ts=6939e273&gaa_sig=HvI3upizMNsTCzRUA9rdid_n8RMe0An8cJow85GGJKUM3z3belw69xGSGZBZCWwbqPxoxi5IGCP6EDSSG5mDWg%3D%3D)**
-
-MarketWatch • 21h ago
-
----
 
 **[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
 
@@ -175,21 +159,45 @@ CNBC • 1d ago
 
 ---
 
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfkQ3OCKgqAHrYzg5bOBkXhDO2lwt-Logsq5kUaDkwsn5uLFE00ahR6&gaa_ts=6939e9fa&gaa_sig=ofI_EiaDfq18nGzUJlJiIflPHqoC3XD2fypPnJrfS2raaafCvZ1RbJXSy2xyAzkjTKd1ueCnwWGiYZv8rJK3gw%3D%3D)**
+
+MarketWatch • 22h ago
+
+---
+
+**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
+
+Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
+
+Business Insider • 11h ago
+
+---
+
+**[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://finance.yahoo.com/news/bitcoin-ethereum-waver-fed-delivers-191812651.html)**
+
+The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
 Investor's Business Daily • 9h ago
 
 ---
 
-**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqdJueC9m4V47pWdQn9g1D-d3MkU1JLqVbruPcDfgDwJMebI4GvSx2qN&gaa_ts=6939e273&gaa_sig=rAsIGUcZUKjdoipi0qAi3JzWxpEwmtGtcuwFiT7Y4JYkN560kJEJQ_RhCOVsTFtFGMgWoo_C1LGv3THJ5fP_hw%3D%3D)**
+**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqc8WsrrEd-3AZLavzfu7vC6rKSscndRPIu1IA-sdopYHLD2ghWaFUy-&gaa_ts=6939e9fa&gaa_sig=z4Wux2bg6Pe8wVrunc27OOT7DYWpTh65BBRb4hUhG7-cMv8tXOh-6368FnRvxligzWDJYCOlt0rC5YGYNkbCVg%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
+**[Bitcoin Firm Twenty One Falls 20% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
 
-The Block • 22h ago
+Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -197,7 +205,7 @@ The Block • 22h ago
 
 If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
@@ -214,12 +222,6 @@ Bloomberg.com • 7h ago
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
 WIRED • 1d ago
-
----
-
-**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
-
-Reuters • 1d ago
 
 ---
 
@@ -269,7 +271,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 9h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 10h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -297,7 +299,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 8h ago
+⬆️ 3 • 💬 0 • 9h ago
 
 ---
 
@@ -311,7 +313,7 @@ The biggest crypto catch-up trade has begun, and Ran explains what's driving it.
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 2K • 💬 28 • ⏱️ 29:14 • 5h ago
+👁️ 19K • 👍 2K • 💬 28 • ⏱️ 29:14 • 6h ago
 
 ---
 
@@ -331,7 +333,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 108 • ⏱️ 41:09 • 5h ago
+👁️ 23K • 👍 1K • 💬 108 • ⏱️ 41:09 • 6h ago
 
 ---
 
@@ -341,7 +343,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 101 • 💬 10 • ⏱️ 21:00 • 4h ago
+👁️ 2K • 👍 101 • 💬 10 • ⏱️ 21:00 • 5h ago
 
 ---
 
@@ -371,7 +373,7 @@ Bitcoin what now? HIDDEN DANGER Of Drinking Apple Cider Vinegar! https://youtu.b
 
 📺 MMCrypto
 
-👁️ 28K • 👍 2K • 💬 233 • ⏱️ 4:22 • 8h ago
+👁️ 28K • 👍 2K • 💬 233 • ⏱️ 4:22 • 9h ago
 
 ---
 
@@ -381,7 +383,7 @@ Anthony and John Pompliano dig into what's really at stake at the upcoming Feder
 
 📺 Anthony Pompliano
 
-👁️ 27K • 👍 973 • 💬 26 • ⏱️ 35:48 • 22h ago
+👁️ 27K • 👍 973 • 💬 26 • ⏱️ 35:48 • 23h ago
 
 ---
 
