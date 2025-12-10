@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T23:53:43.954299+00:00'
+updated: '2025-12-10T01:22:58.084810+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 23:53 UTC  
+**Last Updated:** December 10, 2025 at 01:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,325.53
+### $3,314.04
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +6.8%  
-**7d:** +4.3%  
-**30d:** -6.6%  
-**90d:** -25.5%  
-**1y:** -8.3%  
+**24h:** +6.6%  
+**7d:** +5.6%  
+**30d:** -3.2%  
+**90d:** -29.6%  
+**1y:** -13.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $401.69B
+**Market Cap:** $399.52B
 Rank #2
 
-**Circulating Supply:** 120,695,272 ETH
+**Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.6%
+-33.1%
 
 **All-Time Low:** $0.43
-+769706.4%
++764163.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 13h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 14h ago
 
 ---
 
@@ -150,25 +150,11 @@ This is Part Eight! The very last chapter of the eight-part series: Can I Pay Wi
 
 ## Google News: "ethereum"
 
-**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://finance.yahoo.com/news/crypto-shorts-rekt-bitcoin-ethereum-170437408.html)**
+**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://decrypt.co/351640/crypto-shorts-rekt-bitcoin-ethereum-xrp-spike-ahead-fed-decision)**
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Yahoo Finance • 6h ago
-
----
-
-**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
-
-Binance • 1d ago
-
----
-
-**[Better Buy: XRP vs. Ethereum](https://www.fool.com/investing/2025/12/09/better-buy-xrp-vs-ethereum/)**
-
-They're both among the five largest cryptocurrencies, but one is much further ahead in its journey.
-
-The Motley Fool • 8h ago
+Decrypt • 8h ago
 
 ---
 
@@ -202,12 +188,6 @@ The Block • 1d ago
 
 ---
 
-**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
-
-The Block • 1d ago
-
----
-
 **[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
@@ -216,11 +196,35 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
+**[Why Tom Lee’s BitMine Is Buying Ethereum (ETH) Aggressively Despite Market Fear](https://www.tradingview.com/news/beincrypto:c36e31082094b:0-why-tom-lee-s-bitmine-is-buying-ethereum-eth-aggressively-despite-market-fear/)**
 
-Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
+BitMine Immersion Technologies, the largest corporate holder of Ethereum BINANCE:ETHUSD, has doubled down on its acquisition of ETH in December, highlighting confidence in the asset.The renewed buying comes despite a tough environment for Ethereum. Rising exchange inflows and ongoing exchange-trade…
 
-Decrypt • 1d ago
+TradingView • 17h ago
+
+---
+
+**[Better Buy: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-buy-xrp-vs-ethereum)**
+
+Key PointsEthereum has built a strong user base and frequently generates over $10 million in daily app fees.
+
+Nasdaq • 9h ago
+
+---
+
+**[Old Ethereum Whale Moves $1.19 Billion After A Decade—Here’s Why It’s A Big Deal](https://zycrypto.com/old-ethereum-whale-moves-1-19-billion-after-a-decade-heres-why-its-a-big-deal/)**
+
+The reappearance of this early-era wallet after nearly ten years has amplified speculation that sophisticated capital could flow into Ethereum in the coming months.
+
+ZyCrypto • 10h ago
+
+---
+
+**[Ethereum gains after BlackRock files for iShares Staked Ethereum Trust ETF (ETH-USD:Cryptocurrency)](https://seekingalpha.com/news/4529446-ethereum-gains-after-blackrock-files-for-ishares-staked-ethereum-trust-etf)**
+
+Ethereum (ETH-USD) was trading higherÂ after BlackRock (BLK) filed a preliminary prospectus with the U.S. Securities and Exchange Commission for its iShares Staked Ethereum Trust ETF.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -234,7 +238,7 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 14K • 👍 1K • 💬 67 • ⏱️ 20:14 • 3h ago
+👁️ 14K • 👍 1K • 💬 67 • ⏱️ 20:14 • 4h ago
 
 ---
 
@@ -254,7 +258,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Mom and More Reviews
 
-👁️ 4K • 👍 4K • 1h ago
+👁️ 4K • 👍 4K • 2h ago
 
 ---
 
@@ -264,7 +268,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 1K • 👍 59 • 💬 66 • ⏱️ 35:26 • 4h ago
+👁️ 1K • 👍 59 • 💬 66 • ⏱️ 35:26 • 5h ago
 
 ---
 
@@ -274,7 +278,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 634 • 👍 49 • 💬 19 • ⏱️ 13:32 • 5h ago
+👁️ 634 • 👍 49 • 💬 19 • ⏱️ 13:32 • 6h ago
 
 ---
 
@@ -284,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 161 • 💬 11 • ⏱️ 4:05 • 11h ago
+👁️ 3K • 👍 161 • 💬 11 • ⏱️ 4:05 • 13h ago
 
 ---
 
@@ -304,7 +308,7 @@ xrp #bitcoin #hbar #eth https://twitter.com/HobbiesCards XRP and HBAR Ethereum a
 
 📺 CRYPTO with KLAUS
 
-👁️ 6K • 👍 544 • 💬 199 • ⏱️ 12:55 • 5h ago
+👁️ 6K • 👍 544 • 💬 199 • ⏱️ 12:55 • 6h ago
 
 ---
 
@@ -324,7 +328,7 @@ Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the 
 
 📺 CryptoStock Lab
 
-👁️ 253 • 👍 16 • ⏱️ 7:09 • 5h ago
+👁️ 253 • 👍 16 • ⏱️ 7:09 • 6h ago
 
 ---
 
