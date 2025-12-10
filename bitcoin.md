@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T17:48:07.994160+00:00'
+updated: '2025-12-10T17:59:08.745464+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 17:48 UTC  
+**Last Updated:** December 10, 2025 at 17:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,308.14
+### $92,411.85
 
 ---
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1845.63B
+**Market Cap:** $1844.30B
 Rank #1
 
-**Circulating Supply:** 19,960,265 BTC
+**Circulating Supply:** 19,960,278 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
 -26.7%
 
 **All-Time Low:** $67.81
-+136205.9%
++136136.5%
 
 ---
 
@@ -94,6 +94,12 @@ Bottom tex
 **[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
 17h ago
+
+---
+
+**[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
+
+1h ago
 
 ---
 
@@ -127,15 +133,9 @@ Sooner or later it will bounce to new highs, or not
 
 ---
 
-**[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
-
-1h ago
-
----
-
 **[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -157,17 +157,17 @@ CNBC • 23h ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqdNULzwvhhVl2ebjs0OX94jtnvcAJrDpi3ovvdsaJcFXGY3ik7Om8tz&gaa_ts=6939b0bc&gaa_sig=Qpm-mjA-YsReBAbGL13DCvVRpq0dOXJhzrIa8cdEwCWsBEv_o9cgkFp9WQnNiL8zhfUIUcvniGWWav1b6_28Ag%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfHySbwy7mImr2uOLcqSMR_QXhT8fWpTxj33njc7aacY-2I8h675tXF&gaa_ts=6939b7fe&gaa_sig=mbx2ClAvOYoOIzFNucRTxbdZe1U8VPlRPzo-vLtbz9vytvtPMKS2vYSIVAgwdMSl0Mf-yPy29gKN3IJhTCRsNg%3D%3D)**
 
 MarketWatch • 18h ago
 
 ---
 
-**[This bitcoin bull just slashed their price forecast](https://seekingalpha.com/news/4529976-this-bitcoin-bull-just-slashed-their-price-forecast)**
+**[Bitcoin to $500,000? Here’s when to expect the price to hit the new record](https://finance.yahoo.com/news/bitcoin-500-000-expect-price-164545497.html)**
 
-Explore Standard Chartered's updated outlook for bitcoin.
+Standard Chartered pushed its $500,000 Bitcoin target to 2030 from 2028. The bank says digital asset treasury buying is over and won't support prices anymore. Geoffrey Kendrick said Bitcoin will now rely on ETF buying alone to reach the half-million dollar target.
 
-Seeking Alpha • 6h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -195,13 +195,21 @@ The Block • 19h ago
 
 Bitcoin will likely reach a new price record in 2026, according to cryptocurrency asset manager Grayscale. “We believe the four-year cycle thesis will prove to be incorrect, and that Bitcoin’s price will potentially make new highs next year,” ...
 
-Yahoo Finance • 47m ago
+Yahoo Finance • 58m ago
 
 ---
 
-**[Strategy says MSCI’s 50% bitcoin test risks index ‘whiplash’ and conflicts with US pro-innovation policy](https://www.theblock.co/post/382068/strategy-msci-bitcoin-test-index-whiplash-conflicts-innovation?utm_source=companies.xml&utm_medium=rss)**
+**[Strategy says MSCI’s 50% bitcoin test risks index ‘whiplash’ and conflicts with US pro-innovation policy](https://www.theblock.co/post/382068/strategy-msci-bitcoin-test-index-whiplash-conflicts-innovation?utm_source=markets.xml&utm_medium=rss)**
 
 The Block • 1h ago
+
+---
+
+**[Ric Edelman: Why Bitcoin will hit $180,000 price in 2026](https://www.dlnews.com/articles/markets/why-bitcoin-will-hit-180000-next-year-ric-edelman/)**
+
+Edelman told DL News early large holders and liquidation events held Bitcoin back in 2025.  Prices should rally "sharply" in 2026, he said. Edelman runs a $287 billion financial advisory firm.
+
+dlnews.com • 1h ago
 
 ---
 
@@ -210,14 +218,6 @@ The Block • 1h ago
 If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
 NPR • 9h ago
-
----
-
-**[Crypto Winter Squeezes Bitcoin Miners as AI Pivot Gains Urgency](https://www.bloomberg.com/news/articles/2025-12-10/crypto-winter-squeezes-bitcoin-miners-as-ai-pivot-gains-urgency)**
-
-The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
-
-Bloomberg.com • 3h ago
 
 ---
 
@@ -303,13 +303,23 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ## YouTube Videos: "bitcoin"
 
-**[The INEVITABLE Bitcoin Catch Up Trade Started Yesterday! [You Have 24H]](https://www.youtube.com/watch?v=65KgU0oEeOg)**
+**[Is the Fed About to Trigger the Next Bitcoin Boom?](https://www.youtube.com/watch?v=7CnyO1Ep3YU)**
 
-The biggest crypto catch-up trade has begun, and Ran explains what's driving it. Bitcoin is breaking out, but key signals suggest ...
+Anthony and John Pompliano dig into what's really at stake at the upcoming Federal Reserve meeting — whether the move ...
 
-📺 Crypto Banter
+📺 Anthony Pompliano
 
-👁️ 7K • 👍 976 • 💬 4 • ⏱️ 29:14 • 2h ago
+👁️ 26K • 👍 951 • 💬 26 • ⏱️ 35:48 • 19h ago
+
+---
+
+**[Bitcoin PUMPS As U.S. Banks Finally Get Crypto Trading Approval! Is The Bottom In?](https://www.youtube.com/watch?v=wOaOqLIdWiM)**
+
+Bitcoin #Crypto #Finance Bitcoin enters a historic new era as U.S. regulators officially approve banks to act as crypto ...
+
+📺 The Wolf Of All Streets
+
+👁️ 7K • 👍 562 • 💬 92 • ⏱️ 37:24 • 3h ago
 
 ---
 
@@ -319,37 +329,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 754 • 💬 39 • ⏱️ 41:09 • 2h ago
+👁️ 17K • 👍 1K • 💬 97 • ⏱️ 41:09 • 2h ago
 
 ---
 
-**[Bitcoin Live Trading: FOMC Incoming! Price INSANITY Starts NOW EP1849](https://www.youtube.com/watch?v=d9GOTWr-Y34)**
+**[The INEVITABLE Bitcoin Catch Up Trade Started Yesterday! [You Have 24H]](https://www.youtube.com/watch?v=65KgU0oEeOg)**
 
-Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
+The biggest crypto catch-up trade has begun, and Ran explains what's driving it. Bitcoin is breaking out, but key signals suggest ...
 
-📺 Crypto Lifer
+📺 Crypto Banter
 
-👁️ 3K • 👍 414 • 3h ago
-
----
-
-**[This Is NOT Normal… Bitcoin Is Warning Us.](https://www.youtube.com/watch?v=0TNP_l8V3tc)**
-
-Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BUUID (up to $2200 USDT) My Strategy ...
-
-📺 Conor Kenny
-
-👁️ 11K • 👍 530 • 💬 54 • ⏱️ 12:36 • 12h ago
-
----
-
-**[FOMC: Bitcoin&#39;s FINAL Price Zones to Watch Before the Rate Cut](https://www.youtube.com/watch?v=c8eIgdDOkm0)**
-
-Today's FOMC meeting could cause a HUGE move in Bitcoin — either a big pump or a scary dump. In this video, I break down ...
-
-📺 Discover Crypto
-
-👁️ 1K • 👍 141 • 3h ago
+👁️ 12K • 👍 2K • 💬 19 • ⏱️ 29:14 • 2h ago
 
 ---
 
@@ -359,47 +349,57 @@ In this clip, I talk about a major macro event that could impact bitcoin and cry
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 531 • 💬 116 • ⏱️ 8:42 • 17h ago
+👁️ 8K • 👍 538 • 💬 122 • ⏱️ 8:42 • 17h ago
 
 ---
 
-**[Is the Fed About to Trigger the Next Bitcoin Boom?](https://www.youtube.com/watch?v=7CnyO1Ep3YU)**
+**[Bitcoin Is Repeating 2019 And Most People Are Completely Asleep - Ben Cowen](https://www.youtube.com/watch?v=mF6TOLw1IxU)**
 
-Anthony and John Pompliano dig into what's really at stake at the upcoming Federal Reserve meeting — whether the move ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Anthony Pompliano
+📺 Savvy Finance
 
-👁️ 24K • 👍 920 • 💬 26 • ⏱️ 35:48 • 19h ago
-
----
-
-**[bitcoin just broke the model](https://www.youtube.com/watch?v=hWFQHVBrJN8)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 24K • 👍 1K • 💬 338 • ⏱️ 7:23 • 1d ago
+👁️ 6K • 👍 271 • 💬 59 • ⏱️ 21:52 • 18h ago
 
 ---
 
-**[🚨 Bitcoin FOMC Prediction (Watch Urgently)](https://www.youtube.com/watch?v=JebfQ8vzYEY)**
+**[Bitcoin &amp; Crypto Moving As FED Flips](https://www.youtube.com/watch?v=MWIzs8cM9Is)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
+BTC, ETH, SOL, and stocks all waiting on the FED decision today! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Crypto Kid
+📺 Lark Davis
 
-👁️ 2K • 👍 259 • 💬 73 • ⏱️ 5:29 • 5h ago
+👁️ 13K • 👍 752 • 💬 28 • ⏱️ 50:46 • 6h ago
 
 ---
 
-**[BITCOIN: i can’t believe what i’ve just seen..](https://www.youtube.com/watch?v=8NYTwI_MdNk)**
+**[BREAKING: Michael Saylor Reveals That EVERY MAJOR Bank is Buying Bitcoin?! | EP 1394](https://www.youtube.com/watch?v=nYLaxkfPxis)**
 
-Bitcoin what now? HIDDEN DANGER Of Drinking Apple Cider Vinegar! https://youtu.be/GZ0i3Ib6Sl0 (click)
+Michael Saylor drops a BOMBSHELL at Bitcoin MENA that PROVES 2026 is gonna be BULLISH AF!
 
-📺 MMCrypto
+📺 Simply Bitcoin
 
-👁️ 16K • 👍 2K • 💬 205 • ⏱️ 4:22 • 5h ago
+👁️ 14K • 👍 669 • 💬 129 • ⏱️ 1:20:17 • 22h ago
+
+---
+
+**[Bitcoin Pre-FOMC](https://www.youtube.com/watch?v=kZGHzEGRyAM)**
+
+Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
+
+📺 Benjamin Cowen
+
+👁️ 80K • 👍 4K • 💬 167 • ⏱️ 9:09 • 1d ago
+
+---
+
+**[Did Jack Mallers Just Build Bitcoin’s FIRST $1 Trillion Company?!](https://www.youtube.com/watch?v=AJsTfBKSt4U)**
+
+Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most explosive Bitcoin-backed company in history—21 ...
+
+📺 Simply Bitcoin
+
+👁️ 53K • 👍 3K • 💬 280 • ⏱️ 16:39 • 18h ago
 
 ---
 
