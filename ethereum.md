@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T06:37:57.215583+00:00'
+updated: '2025-12-11T07:01:07.558760+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 06:37 UTC  
+**Last Updated:** December 11, 2025 at 07:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
-**7d:** +5.9%  
-**30d:** -6.3%  
-**90d:** -31.2%  
-**1y:** -17.7%  
+**24h:** -3.6%  
+**7d:** +6.0%  
+**30d:** -6.2%  
+**90d:** -31.1%  
+**1y:** -17.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-36m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-16h ago
+17h ago
 
 ---
 
@@ -194,7 +194,7 @@ Fortune • 2d ago
 
 Dragonfly managing partner Haseeb Qureshi has sharpened his defense of Ethereum’s valuation, arguing that critics are using the wrong financial framework and that ETH should be analyzed more like an early-stage Amazon than a mature “value” stock.Speaking on the Milk Road Show on 9 December 2025, Qu…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Block • 2d ago
 
 Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -256,7 +256,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 11K • 👍 471 • 💬 62 • ⏱️ 1:10:46 • 13h ago
+👁️ 11K • 👍 471 • 💬 62 • ⏱️ 1:10:46 • 14h ago
 
 ---
 
@@ -276,7 +276,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 66 • 💬 15 • ⏱️ 8:36 • 17h ago
+👁️ 2K • 👍 66 • 💬 15 • ⏱️ 8:36 • 18h ago
 
 ---
 
@@ -316,7 +316,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 447 • 👍 16 • 💬 1 • ⏱️ 6:56 • 10h ago
+👁️ 447 • 👍 16 • 💬 1 • ⏱️ 6:56 • 11h ago
 
 ---
 

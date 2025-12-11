@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T06:37:57.201094+00:00'
+updated: '2025-12-11T07:01:07.543835+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 06:37 UTC  
+**Last Updated:** December 11, 2025 at 07:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 14h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 15h ago
 
 ---
 
@@ -69,7 +69,7 @@ This document proposes a graduated, evidence-based approach for ethical obligati
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 13h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 14h ago
 
 ---
 
@@ -85,7 +85,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 40m ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 1h ago
 
 ---
 
@@ -93,7 +93,7 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 ‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash.[1] Google launches managed MCP servers that let AI agents simply plug into its tools.[2] From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion.[3] Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds.[4] Sources: [1] https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash [2] https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/ [3] https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html [4] https://time.com/7339513/ai-fei-fei-li-virtual-worlds/
 
-50m ago
+1h ago
 
 ---
 
@@ -101,13 +101,13 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 I wanted to see what the computer itself thought about the ethics of AI chat bots, spoiler alert, they can be really harmful!
 
-56m ago
+1h ago
 
 ---
 
 **[Trump’s push for more AI data centers faces backlash from his own voters](https://www.reddit.com/r/artificial/comments/1pj7pr6/trumps_push_for_more_ai_data_centers_faces/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 13h ago
+🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 14h ago
 
 ---
 
@@ -127,13 +127,13 @@ The Atlantic • 1d ago
 
 Google will let more people personalize news sources, too.
 
-The Verge • 13h ago
+The Verge • 14h ago
 
 ---
 
 **[Gemini deals ChatGPT a fresh blow as Google’s AI momentum builds](https://www.marketwatch.com/story/googles-ai-momentum-continues-as-gemini-scores-another-victory-over-chatgpt-16946689?gaa_at=eafs&gaa_n=AWEtsqe8caev_0McCzqitSKXAItRraAdVHRFk4zd7PYLklMZm7m_XFEuOTFH&gaa_ts=693a6a30&gaa_sig=Y_zdOmxwX95DKZWwrVBCblLYWGKOf6j8y0y7VZttkdn73Eoe3Y5qc0XjCzGilC7KdjQYB8qAf54Q-hWUFV9saw%3D%3D)**
 
-MarketWatch • 11h ago
+MarketWatch • 12h ago
 
 ---
 
@@ -141,7 +141,7 @@ MarketWatch • 11h ago
 
 Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -179,13 +179,13 @@ The Guardian • 4h ago
 
 McDonald's confirmed to Fox News Digital that it removed its artificial intelligence-generated Christmas advertisement from YouTube after viewer backlash.
 
-Fox Business • 6h ago
+Fox Business • 7h ago
 
 ---
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 54m ago
+Reuters • 1h ago
 
 ---
 
@@ -259,7 +259,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 105 • 💬 143 • 17h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 105 • 💬 143 • 18h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -493,7 +493,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 15,773 • ❤️ 425 • 8d ago
+⬇️ 15,773 • ❤️ 425 • 9d ago
 
 ---
 
@@ -523,7 +523,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 100 • 💬 3 • ⭐ 232 • 1d ago
+▲ 101 • 💬 3 • ⭐ 232 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move)
 
@@ -549,7 +549,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Visionary is an open web-native platform enabling real-time rendering of 3D Gaussian Splatting and meshes with efficient GPU-based inference, supporting dynamic content and generative models.
 
-▲ 67 • 💬 4 • ⭐ 201 • 2d ago
+▲ 69 • 💬 4 • ⭐ 201 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
 
@@ -563,7 +563,7 @@ Visionary is an open web-native platform enabling real-time rendering of 3D Gaus
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 163 • 💬 4 • ⭐ 796 • 7d ago
+▲ 164 • 💬 4 • ⭐ 837 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 6.4k • 🔱 1.1k • 51m ago
+⭐ 6.7k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.7k • 🔱 200 • 52m ago
+⭐ 1.8k • 🔱 205 • 1h ago
 
 ---
 
@@ -707,7 +707,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 881 • 🔱 280 • 4d ago
+⭐ 883 • 🔱 280 • 4d ago
 
 ---
 
@@ -727,17 +727,17 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 850 • 🔱 46 • 2d ago
+⭐ 852 • 🔱 46 • 2d ago
 
 ---
 
-**[open-gigaai/giga-world-0](https://github.com/open-gigaai/giga-world-0)**
+**[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
 
-GigaWorld-0: World Models as Data Engine to Empower Embodied AI
+一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
 
-`Python`
+`JavaScript`
 
-⭐ 588 • 🔱 46 • 7d ago
+⭐ 592 • 🔱 86 • 4h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T06:37:57.218851+00:00'
+updated: '2025-12-11T07:01:07.562026+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 06:37 UTC  
+**Last Updated:** December 11, 2025 at 07:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,13 +50,13 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-1h ago
+2h ago
 
 ---
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -100,7 +100,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Web
 
 **[ESP32 Robot with face tracking & personality](https://www.reddit.com/r/robotics/comments/1pjipl2/esp32_robot_with_face_tracking_personality/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -110,7 +110,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Web
 
 **[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
 
-Business Wire • 17h ago
+Business Wire • 18h ago
 
 ---
 
@@ -170,7 +170,7 @@ Chron • 13h ago
 
 Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
 
-MIT News • 11h ago
+MIT News • 12h ago
 
 ---
 
@@ -178,7 +178,7 @@ MIT News • 11h ago
 
 $32 million investment will created 230 new jobs.
 
-WHMI • 14h ago
+WHMI • 15h ago
 
 ---
 

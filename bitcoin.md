@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T06:37:57.209573+00:00'
+updated: '2025-12-11T07:01:07.552543+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 06:37 UTC  
+**Last Updated:** December 11, 2025 at 07:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +1.4%  
-**30d:** -11.2%  
-**90d:** -22.1%  
-**1y:** -9.6%  
+**24h:** -2.8%  
+**7d:** +1.1%  
+**30d:** -11.5%  
+**90d:** -22.3%  
+**1y:** -9.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 We back baby!
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ We back baby!
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-3h ago
+4h ago
 
 ---
 
@@ -147,7 +147,7 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -159,7 +159,7 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 Bitcoin slipped in Asia trading hours while other risk assets gained after the US Federal Reserve cut interest rates and expressed optimism about the economy.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 1d ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-cnbc.com • 7h ago
+cnbc.com • 8h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg.com • 2d ago
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 54m ago
+Reuters • 1h ago
 
 ---
 
@@ -317,7 +317,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 443 • ⏱️ 8:26 • 5h ago
+👁️ 26K • 👍 1K • 💬 443 • ⏱️ 8:26 • 6h ago
 
 ---
 
@@ -327,7 +327,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 51K • 👍 3K • 💬 260 • ⏱️ 21:05 • 7h ago
+👁️ 51K • 👍 3K • 💬 260 • ⏱️ 21:05 • 8h ago
 
 ---
 
@@ -337,7 +337,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 14K • 👍 600 • 💬 111 • ⏱️ 8:34 • 9h ago
+👁️ 14K • 👍 600 • 💬 111 • ⏱️ 8:34 • 10h ago
 
 ---
 
@@ -357,7 +357,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 655 • 💬 3 • ⏱️ 32:26 • 8h ago
+👁️ 18K • 👍 655 • 💬 3 • ⏱️ 32:26 • 9h ago
 
 ---
 
@@ -367,7 +367,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 781 • 💬 148 • ⏱️ 5:12 • 9h ago
+👁️ 16K • 👍 781 • 💬 148 • ⏱️ 5:12 • 10h ago
 
 ---
 
