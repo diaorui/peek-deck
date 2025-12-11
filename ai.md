@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T05:43:28.442320+00:00'
+updated: '2025-12-11T05:56:11.522271+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 05:43 UTC  
+**Last Updated:** December 11, 2025 at 05:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -59,9 +59,17 @@ A lot of people use the term “AI hallucination,” but many don’t clearly un
 
 ---
 
+**[Evidence-Based Framework for Ethical AI: Could AI Be Conscious? Discussion Encouraged](https://www.reddit.com/r/artificial/comments/1pjpfyq/evidencebased_framework_for_ethical_ai_could_ai/)**
+
+This document proposes a graduated, evidence-based approach for ethical obligations toward AI systems, anticipating potential consciousness. Critique, discussion, and collaboration are encouraged.
+
+🔗 [Google Docs](https://docs.google.com/document/d/1UliGp8LhwDsh6bE0tOKu9_A5cWZ93HEDpq2qcxdThzY/edit?usp=drivesdk) • 34m ago
+
+---
+
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 12h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 13h ago
 
 ---
 
@@ -73,9 +81,25 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 ---
 
+**[One-Minute Daily AI News 12/10/2025](https://www.reddit.com/r/artificial/comments/1pjpwhf/oneminute_daily_ai_news_12102025/)**
+
+‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash.[1] Google launches managed MCP servers that let AI agents simply plug into its tools.[2] From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion.[3] Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds.[4] Sources: [1] https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash [2] https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/ [3] https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html [4] https://time.com/7339513/ai-fei-fei-li-virtual-worlds/
+
+8m ago
+
+---
+
+**[Interesting convo](https://www.reddit.com/r/artificial/comments/1pjps3q/interesting_convo/)**
+
+I wanted to see what the computer itself thought about the ethics of AI chat bots, spoiler alert, they can be really harmful!
+
+15m ago
+
+---
+
 **[Trump’s push for more AI data centers faces backlash from his own voters](https://www.reddit.com/r/artificial/comments/1pj7pr6/trumps_push_for_more_ai_data_centers_faces/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 12h ago
+🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 13h ago
 
 ---
 
@@ -84,30 +108,6 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 If you are reading this, you probably have strong opinions about AGI, superintelligence, and the future of AI. Maybe you believe we are on the cusp of a transformative breakthrough. Maybe you are skeptical. This blog post is for those who want to think more carefully about these claims and examine them from a perspective […]
 
 🔗 [Tim Dettmers](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) • 2h ago
-
----
-
-**[LLMs can understand Base64 encoded instructions](https://www.reddit.com/r/artificial/comments/1pioxt4/llms_can_understand_base64_encoded_instructions/)**
-
-Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
-
-1d ago
-
----
-
-**[Physical AI will automate ‘large sections’ of factory work in the next decade, Arm CEO Rene Haas says](https://www.reddit.com/r/artificial/comments/1piyfc1/physical_ai_will_automate_large_sections_of/)**
-
-Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
-
-🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 20h ago
-
----
-
-**[If Your AI Outputs Still Suck, Try These Fixes](https://www.reddit.com/r/artificial/comments/1pj5tsb/if_your_ai_outputs_still_suck_try_these_fixes/)**
-
-I’ve spent the last year really putting AI to work, writing content, handling client projects, digging into research, automating stuff, and even building my own custom GPTs. After hundreds of hours messing around, I picked up a few lessons I wish someone had just told me from the start. No hype here, just honest things that actually made my results better: 1. Stop asking AI “What should I do?”, ask “What options do I have?” AI’s not great at picking the perfect answer right away. But it shines when you use it to brainstorm possibilities. So, instead of: “What’s the best way to improve my landing page?” Say: “Give me 5 different ways to improve my landing page, each based on a different principle (UX, clarity, psychology, trust, layout). Rank them by impact.” You’ll get way better results. 2. Don’t skip the “requirements stage.” Most of the time, AI fails because people jump straight to the end. Slow down. Ask the model to question you first. Try this: “Before creating anything, ask me 5 clarification questions to make sure you get it right.” Just this step alone cuts out most of the junky outputs, way more than any fancy prompt trick. 3. Tell AI it’s okay to be wrong at first. AI actually does better when you take the pressure off early on. Say something like: “Give me a rough draft first. I’ll go over it with you.” That rough draft, then refining together, then finishing up, that’s how the actually get good outputs. 4. If things feel off, don’t bother fixing, just restart the thread. People waste so much time trying to patch up a weird conversation. If the model starts drifting in tone, logic, or style, the fastest fix is just to start fresh: “New conversation: You are [role]. Your goal is [objective]. Start from scratch.” AI memory in a thread gets messy fast. A reset clears up almost all the weirdness. 5. Always run 2 outputs and then merge them. One output? Total crapshoot. Two outputs? Much more consistent. Tell the AI: “Give me 2 versions with different angles. I’ll pick the best parts.” Then follow up with: “Merge both into one polished version.” You get way better quality with hardly any extra effort. 6. Stop using one giant prompt, start building mini workflows. Beginners try to do everything in one big prompt. The experts break it into 3–5 bite-size steps. Here’s a simple structure: - Ask questions - Generate options - Pick a direction - Draft it - Polish Just switching to this approach will make everything you do with AI better. If you want more tips, just let me know and i'll send you a document with more of them.
-
-14h ago
 
 ---
 
@@ -123,23 +123,17 @@ The Atlantic • 1d ago
 
 ---
 
-**[Gemini deals ChatGPT a fresh blow as Google’s AI momentum builds](https://www.marketwatch.com/story/googles-ai-momentum-continues-as-gemini-scores-another-victory-over-chatgpt-16946689?gaa_at=eafs&gaa_n=AWEtsqdHEUj7sDuJhwuwaVxfc8nJsvJiGdX5KC0oSjiNzJ0b8Co_Gs4GSeB_&gaa_ts=693a5819&gaa_sig=1F5N-Vv5lZbqAeJZwQNS3T_H03ZBPISu9xuzmkkNVizmatp2nw1qXz2b0nVhOdsxCmgbA0jt2Nn6yTA_bENsEw%3D%3D)**
+**[Inside Meta’s Pivot From Open Source to Money-Making AI Model](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model)**
 
-MarketWatch • 10h ago
+Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
 
----
-
-**[EU opens investigation into Google’s use of online content for AI models](https://www.theguardian.com/technology/2025/dec/09/eu-investigation-google-ai-models-gemini)**
-
-European Commission to assess whether Gemini owner is putting rival companies at a disadvantage
-
-The Guardian • 1d ago
+Bloomberg.com • 15h ago
 
 ---
 
 **[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
-The New York Times • 14h ago
+The New York Times • 19h ago
 
 ---
 
@@ -147,15 +141,7 @@ The New York Times • 14h ago
 
 Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-CNBC • 1d ago
-
----
-
-**[Inside Meta’s Pivot From Open Source to Money-Making AI Model](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model)**
-
-Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
-
-Bloomberg.com • 15h ago
+cnbc.com • 1d ago
 
 ---
 
@@ -175,17 +161,33 @@ The Guardian • 3h ago
 
 ---
 
-**[McDonald’s Pulls Down AI-Generated Holiday Ad After Deluge of Mockery](https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial)**
+**[McDonald's pulls 'creepy' AI-generated Christmas ad after viewer backlash](https://www.foxbusiness.com/media/mcdonalds-pulls-creepy-ai-generated-christmas-ad-after-viewer-backlash)**
 
-McDonald's Netherlands is catching flak for a stupefying AI-generated video, which was roundly condemned on social media.
+McDonald's confirmed to Fox News Digital that it removed its artificial intelligence-generated Christmas advertisement from YouTube after viewer backlash.
 
-Futurism • 1d ago
+Fox Business • 5h ago
 
 ---
 
-**[Chinese AI Unicorns MiniMax and Zhepu Said to Target Hong Kong IPOs Soon](https://www.bloomberg.com/news/articles/2025-12-11/chinese-ai-unicorns-minimax-and-zhepu-said-to-target-hong-kong-ipos-soon)**
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Bloomberg.com • 1h ago
+Reuters • 13m ago
+
+---
+
+**[Brands look to experiential marketing as antidote to AI slop, digital fatigue](https://digiday.com/marketing/brands-look-to-experiential-marketing-as-antidote-to-ai-slop-digital-fatigue/)**
+
+In a crowded digital landscape, some brands are prioritizing experiential and IRL marketing as an antidote to 'AI slop' and digital fatigue.
+
+Digiday • 53m ago
+
+---
+
+**[Elon Musk Calls AI 'Highest ELO Battle Ever' As Gavin Baker Warns Nvidia Blackwell Chips Could Shatter Google's Cost Advantage](https://finance.yahoo.com/news/elon-musk-calls-ai-highest-033126909.html)**
+
+On Tuesday, Tesla Inc. (NASDAQ:TSLA) CEO Elon Musk warned about an all-out AI hardware war after investor Gavin Baker outlined how Nvidia Corp.'s (NASDAQ:NVDA) next-generation Blackwell chips could reshape the economics of artificial intelligence ...
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -213,7 +215,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 351 • 💬 418 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 351 • 💬 419 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -221,7 +223,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 294 • 💬 279 • 13h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 296 • 💬 281 • 13h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -259,7 +261,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 105 • 💬 141 • 16h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 105 • 💬 143 • 16h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -275,93 +277,13 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 ## YouTube Videos: "ai"
 
-**[What Ilya Saw: The Truth That Could Change Everything About AI’s Future](https://www.youtube.com/watch?v=AGddzUqJT7g)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 36K • 👍 2K • 💬 280 • ⏱️ 14:55 • 12h ago
-
----
-
-**[McDonald’s Pulls ‘Creepy’ AI Christmas ad After Viewer Backlash: ‘As Real as Their Hamburgers’](https://www.youtube.com/watch?v=HpWCvItr55c)**
-
-McDonald's has taken down a Christmas ad that was allegedly entirely produced with artificial intelligence after the brand was ...
-
-📺 New York Post
-
-👁️ 7K • 👍 117 • 💬 88 • ⏱️ 2:58 • 6h ago
-
----
-
-**[Elon Musk on DOGE, AI, &amp; Are we in a Simulation? | KMP Ep.18](https://www.youtube.com/watch?v=bz5Hjk40FD4)**
-
-In this episode, I sit down with @elonmusk for a wide-ranging conversation on DOGE, AI, simulation theory, and much more.
-
-📺 Katie Miller Pod
-
-👁️ 266K • 👍 12K • 💬 3K • ⏱️ 52:58 • 1d ago
-
----
-
 **[Using AI to Raise Your Baby](https://www.youtube.com/watch?v=1voqPZSqSE4)**
 
 Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
 
 📺 penguinz0
 
-👁️ 972K • 👍 47K • 💬 5K • ⏱️ 8:35 • 1d ago
-
----
-
-**[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
-
-JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
-
-📺 Fox Business
-
-👁️ 149K • 👍 2K • 💬 635 • ⏱️ 18:47 • 2d ago
-
----
-
-**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
-
-Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
-
-📺 AI Revolution
-
-👁️ 34K • 👍 1K • 💬 60 • ⏱️ 12:50 • 1d ago
-
----
-
-**[Andrew Ross Sorkin On Affordability, What Happens If The AI Bubble Bursts, And Paramount vs. Netflix](https://www.youtube.com/watch?v=i8xmTFz8Z6k)**
-
-Best-selling author and co-anchor of CNBC's "Squawk Box," Andrew Ross Sorkin comments on the battle over Warner Bros., the ...
-
-📺 The Late Show with Stephen Colbert
-
-👁️ 110K • 👍 3K • 💬 311 • ⏱️ 9:06 • 21h ago
-
----
-
-**[Why is Everyone So Wrong About AI Water Use??](https://www.youtube.com/watch?v=H_c6MWk7PQc)**
-
-Go to https://ground.news/hank for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
-
-📺 Hank Green
-
-👁️ 1.5M • 👍 75K • 💬 8K • ⏱️ 24:00 • 2d ago
-
----
-
-**[See Inside the Data Center Helping to Power the AI Revolution](https://www.youtube.com/watch?v=KiRTHEV7wpo)**
-
-From emails to social media to online shopping, banking and chatting — everything we rely on everyday goes through an AI data ...
-
-📺 TODAY
-
-👁️ 4K • 👍 44 • 💬 10 • ⏱️ 3:20 • 16h ago
+👁️ 986K • 👍 48K • 💬 5K • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -371,7 +293,85 @@ I Paid a dress maker to make an AI dress in real life! OTHER VIDEOS u might like
 
 📺 Mia Maples
 
-👁️ 102K • 👍 4K • 💬 78 • ⏱️ 0:36 • 2d ago
+👁️ 103K • 👍 4K • 💬 78 • ⏱️ 0:36 • 2d ago
+
+---
+
+**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
+
+Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
+
+📺 hxsain
+
+👁️ 311K • 👍 24K • 💬 263 • ⏱️ 0:51 • 1d ago
+
+---
+
+**[Bear on a Rope! #sharktank #ai #inventsions #bear](https://www.youtube.com/watch?v=L-K232I7TNU)**
+
+wtf!
+
+📺 Ai of Euphoria 
+
+👁️ 24K • 👍 116 • 💬 2 • ⏱️ 0:16 • 20h ago
+
+---
+
+**[McDonald’s AI commercial was so bad they had to wipe it from the internet #carterpcs #tech #ai](https://www.youtube.com/watch?v=f0Frt-aPRc0)**
+
+McDonald's AI commercial was so bad they had to wipe it from the internet #carterpcs #tech #ai #mcdonalds.
+
+📺 CarterPCs
+
+👁️ 381K • 👍 27K • 💬 359 • ⏱️ 0:39 • 12h ago
+
+---
+
+**[Everyone Thinks I&#39;m AI 😭](https://www.youtube.com/watch?v=HrqeHyN_2Zw)**
+
+Everyone in the comments always seems to think I'm AI, so I made this silly little video talking about it. #notai #ai.
+
+📺 Yap Emporium
+
+👁️ 126K • 👍 3K • 💬 182 • ⏱️ 0:17 • 2d ago
+
+---
+
+**[Wow... Now McDonalds Is Making AI Generated Commercials...](https://www.youtube.com/watch?v=Dgjyeaz73s4)**
+
+https://youtu.be/uyiyBwNeEqc I hate this. At a time of economic crisis, the AI takeover only continues further as McDonalds have ...
+
+📺 DazzReviews
+
+👁️ 94K • 👍 5K • 💬 614 • ⏱️ 15:53 • 1d ago
+
+---
+
+**[AI Images Are Destroying History Accounts](https://www.youtube.com/watch?v=6qiqWjO3Ldg)**
+
+📺 Miniminuteman
+
+👁️ 1.9M • 👍 172K • 💬 4K • ⏱️ 0:58 • 2d ago
+
+---
+
+**[AI News: GPT-5.2, Devstral 2, Boom Superpower, MCP Nonprofit and more!](https://www.youtube.com/watch?v=GMQ58GUpcD0)**
+
+Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia Download The Subtle ...
+
+📺 Matthew Berman
+
+👁️ 56K • 👍 2K • 💬 200 • ⏱️ 9:41 • 1d ago
+
+---
+
+**[What Ilya Saw: The Truth That Could Change Everything About AI’s Future](https://www.youtube.com/watch?v=AGddzUqJT7g)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 39K • 👍 2K • 💬 301 • ⏱️ 14:55 • 12h ago
 
 ---
 
@@ -387,7 +387,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 677 • 2d ago
+⬇️ 67,717 • ❤️ 679 • 2d ago
 
 ---
 
@@ -399,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,498 • 2d ago
+⬇️ 232,896 • ❤️ 2,501 • 2d ago
 
 ---
 
@@ -511,7 +511,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 180 • 💬 3 • ⭐ 6,353 • 13d ago
+▲ 181 • 💬 3 • ⭐ 6,353 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -525,7 +525,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 99 • 💬 3 • ⭐ 232 • 1d ago
+▲ 100 • 💬 3 • ⭐ 232 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move)
 
@@ -551,7 +551,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Visionary is an open web-native platform enabling real-time rendering of 3D Gaussian Splatting and meshes with efficient GPU-based inference, supporting dynamic content and generative models.
 
-▲ 67 • 💬 4 • ⭐ 201 • 1d ago
+▲ 67 • 💬 4 • ⭐ 201 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
 
@@ -591,7 +591,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 7 • 💬 2 • ⭐ 11,750 • 2d ago
+▲ 7 • 💬 2 • ⭐ 11,781 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -605,7 +605,7 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 109 • 💬 4 • ⭐ 5,593 • 20d ago
+▲ 109 • 💬 4 • ⭐ 5,616 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 6.2k • 🔱 1.1k • 1h ago
+⭐ 6.4k • 🔱 1.1k • 9m ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.7k • 🔱 197 • 8h ago
+⭐ 1.7k • 🔱 200 • 10m ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 132 • 20h ago
+⭐ 1.1k • 🔱 132 • 20h ago
 
 ---
 
@@ -709,7 +709,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 878 • 🔱 280 • 4d ago
+⭐ 881 • 🔱 280 • 4d ago
 
 ---
 
@@ -739,7 +739,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 587 • 🔱 46 • 7d ago
+⭐ 588 • 🔱 46 • 7d ago
 
 ---
 

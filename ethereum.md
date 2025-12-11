@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T05:43:28.455156+00:00'
+updated: '2025-12-11T05:56:11.539370+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 05:43 UTC  
+**Last Updated:** December 11, 2025 at 05:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** +6.1%  
-**30d:** -6.1%  
-**90d:** -31.0%  
-**1y:** -17.4%  
+**24h:** -3.2%  
+**7d:** +6.5%  
+**30d:** -5.8%  
+**90d:** -30.8%  
+**1y:** -17.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $387.02B
+**Market Cap:** $387.74B
 Rank #2
 
 **Circulating Supply:** 120,695,176 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.3%
+-35.0%
 
 **All-Time Low:** $0.43
-+738933.5%
++742143.9%
 
 ---
 
@@ -80,7 +80,7 @@ No max supply
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-15h ago
+16h ago
 
 ---
 
@@ -92,19 +92,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[take the zk pill, you stay in the provable reality, and EF's institutional privacy lead oskar thorén will show you how deep the rabbit hole goes...](https://www.reddit.com/r/ethereum/comments/1pj6sl7/take_the_zk_pill_you_stay_in_the_provable_reality/)**
-
-oskar thorén is one of the leads in ethereum foundation's newest IPTF, or institutional privacy task force. he's a freedom maxi, zero-knowledge wizard, taiwan expart, and a dear friend. an electric mix of sovereign energy! oskar is one of the most well spoken advocates for privacy, zk, and self-custody, and in this interview where we hiked xiangshan in taipei, he holds nothing back to give us banger insight after banger insight. we talked all things zk and privacy, including: how the snowden revelations ignited his passion his early work in Vac and Waku to create encrypted messaging back when early ethereum was only 3 pillars (eth/swarm/whisper) how it informed his passion for zero knowledge cryptography and the technical applications of it to privacy-preservation his contributions to MoPro, a zk mobile proving toolkit that's bringing zk ever closer to reality on our phones his work on https://zkintro.com where he creates friendly resources to zero-knowledge cryptography from beginners to engineers to researchers, how his latest venture as one of the co-leads in the EF's newest task force, the Institutional Privacy Task Force, is bringing cypherpunk-grade privacy to the world's biggest financial institutions, and his 3-pronged mindset to achieving self-sovereignty you can catch the full interview on my youtube channel at: https://youtu.be/_BWRyIqCmVI --------------------------- if we're meeting for the first time, hi 👋! i spread the good word on good work in crypto. it's a challenging road fighting the cesspool that is crypto youtube... but im energized by creating principles-led, values-driven content a like, sub, comment, share goes a long way <3
-
-🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 13h ago
-
----
-
 **[Nexo just wiped out my entire portfolio while their app was down](https://www.reddit.com/r/ethereum/comments/1pjjmw7/nexo_just_wiped_out_my_entire_portfolio_while/)**
 
 I never thought I’d be writing something like this, but here we are. I had a little over $123K on Nexo. I was holding NEXO tokens, had Platinum status, and was even part of their Private Clients program with the x2 portfolio boost. On October 10, 2025, around 23:00 CET, the Nexo app completely stopped working for me. I couldn’t add USDT, couldn’t swap, nothing. I was literally inside the app while it froze, and I have screen-time proof showing I was online the entire time. Then it started. At 23:12 CET I got an email saying my LTV jumped to 76.92%. At 23:20 CET another email arrived saying my collateral was fully liquidated. When I finally managed to get back into the app at 00:26 CET, my entire portfolio was gone. All $123,000 of it. This didn’t feel like a liquidation. It felt like I got robbed while the platform itself was broken and I had zero ability to protect my own position. And this isn’t the first time something like this has been reported. Coinfomania wrote back in April 2025 that Nexo had already been accused of $10 million worth of unfair liquidations where users got two emails and no functioning app. The exact same pattern. Nexo is registered in the Cayman Islands, dodging EU and US legal pressure. People have already sent lawyer letters and gotten nothing back. Meanwhile Antoni Trenchev, one of the faces of the company, says nothing. Does he really not know what’s happening, or is this simply being ignored? Look at Binance. When their system failed in the past, they compensated users. Nexo didn’t even acknowledge what happened. They didn’t just liquidate me. They took $123,000 while their system was down and left me with no explanation. Since posting about this, more people have contacted me with almost identical experiences. Same timing issues, same emails, same silence from Nexo. This isn’t a “one user issue”. It’s a pattern. If this has happened to you, reach out. We need to organize and push back together because individually they’re ignoring everyone.
 
 5h ago
+
+---
+
+**[take the zk pill, you stay in the provable reality, and EF's institutional privacy lead oskar thorén will show you how deep the rabbit hole goes...](https://www.reddit.com/r/ethereum/comments/1pj6sl7/take_the_zk_pill_you_stay_in_the_provable_reality/)**
+
+oskar thorén is one of the leads in ethereum foundation's newest IPTF, or institutional privacy task force. he's a freedom maxi, zero-knowledge wizard, taiwan expart, and a dear friend. an electric mix of sovereign energy! oskar is one of the most well spoken advocates for privacy, zk, and self-custody, and in this interview where we hiked xiangshan in taipei, he holds nothing back to give us banger insight after banger insight. we talked all things zk and privacy, including: how the snowden revelations ignited his passion his early work in Vac and Waku to create encrypted messaging back when early ethereum was only 3 pillars (eth/swarm/whisper) how it informed his passion for zero knowledge cryptography and the technical applications of it to privacy-preservation his contributions to MoPro, a zk mobile proving toolkit that's bringing zk ever closer to reality on our phones his work on https://zkintro.com where he creates friendly resources to zero-knowledge cryptography from beginners to engineers to researchers, how his latest venture as one of the co-leads in the EF's newest task force, the Institutional Privacy Task Force, is bringing cypherpunk-grade privacy to the world's biggest financial institutions, and his 3-pronged mindset to achieving self-sovereignty you can catch the full interview on my youtube channel at: https://youtu.be/_BWRyIqCmVI --------------------------- if we're meeting for the first time, hi 👋! i spread the good word on good work in crypto. it's a challenging road fighting the cesspool that is crypto youtube... but im energized by creating principles-led, values-driven content a like, sub, comment, share goes a long way <3
+
+🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 13h ago
 
 ---
 
@@ -206,11 +206,11 @@ The Motley Fool • 3d ago
 
 ---
 
-**[Ethereum ETFs Hit Six-Week High as Investors Rotate Within Crypto](https://decrypt.co/351800/ethereum-etfs-hit-six-week-high-as-investors-rotate-within-crypto)**
+**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
 
-Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
+Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 15h ago
+Decrypt • 2d ago
 
 ---
 
@@ -232,13 +232,23 @@ CoinDesk • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
+
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 16K • 👍 1K • 💬 131 • ⏱️ 10:23 • 3h ago
+
+---
+
 **[BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IOOEf_DuzzU)**
 
 BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
 📺 Crypto World
 
-👁️ 4K • 👍 214 • 💬 199 • ⏱️ 18:26 • 5h ago
+👁️ 6K • 👍 264 • 💬 127 • ⏱️ 18:26 • 5h ago
 
 ---
 
@@ -248,17 +258,17 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 9K • 👍 418 • 💬 47 • ⏱️ 1:10:46 • 13h ago
+👁️ 11K • 👍 471 • 💬 62 • ⏱️ 1:10:46 • 13h ago
 
 ---
 
-**[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K9yX0b6QpBE)**
 
-Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 The Bitcoin Revolution
+📺 More Crypto Online
 
-👁️ 17K • 👍 486 • 💬 236 • ⏱️ 12:46 • 2d ago
+👁️ 2K • 👍 129 • 💬 5 • ⏱️ 6:11 • 3h ago
 
 ---
 
@@ -268,7 +278,27 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 66 • 💬 13 • ⏱️ 8:36 • 16h ago
+👁️ 2K • 👍 66 • 💬 15 • ⏱️ 8:36 • 16h ago
+
+---
+
+**[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
+
+Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
+
+📺 The Bitcoin Revolution
+
+👁️ 17K • 👍 486 • 💬 252 • ⏱️ 12:46 • 2d ago
+
+---
+
+**[CRYPTO LIVE TRADING || 11 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=WNd053nPwP4)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 4K • 👍 668 • 1h ago
 
 ---
 
@@ -278,37 +308,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 69K • 👍 4K • 💬 266 • ⏱️ 12:03 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=0nAaZ5dUgig)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 240 • 💬 8 • ⏱️ 6:52 • 13h ago
-
----
-
-**[Ethereum Surpasses Visa and MasterCard #shorts #crypto](https://www.youtube.com/watch?v=YAMU0AfuDh8)**
-
-Mind-blowing! Ethereum's transaction volume is now bigger than Visa and MasterCard combined. Get ready for the future of ...
-
-📺 Crypto Doji
-
-👁️ 411 • 👍 1 • 💬 1 • ⏱️ 0:45 • 3h ago
-
----
-
-**[What Happens if ETH Doubles? Are BMNR Shares the Crypto Stock to Hold? (The 10X Math)](https://www.youtube.com/watch?v=vfDGBCTuugA)**
-
-if ETH Doubles — Are BMNR Shares the Crypto Stock to Hold? If Ethereum doubles from ~$3000 to $6000, what happens to ...
-
-📺 Wall Street Stockcast
-
-👁️ 1K • 👍 33 • 💬 3 • ⏱️ 8:31 • 16h ago
+👁️ 70K • 👍 4K • 💬 279 • ⏱️ 12:03 • 1d ago
 
 ---
 
@@ -318,17 +318,17 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 392 • 👍 15 • 💬 1 • ⏱️ 6:56 • 9h ago
+👁️ 447 • 👍 16 • 💬 1 • ⏱️ 6:56 • 10h ago
 
 ---
 
-**[Ethereum Surges Ahead of Fed Meeting🚨](https://www.youtube.com/watch?v=lGMmb25t_F8)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=0nAaZ5dUgig)**
 
-Bitcoin and Ethereum surged amid anticipation that the US central bank will cut rates tomorrow. ~This episode is sponsored by ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Paul Barron Network
+📺 More Crypto Online
 
-👁️ 48K • 👍 2K • 💬 109 • ⏱️ 20:14 • 1d ago
+👁️ 4K • 👍 240 • 💬 9 • ⏱️ 6:52 • 13h ago
 
 ---
 

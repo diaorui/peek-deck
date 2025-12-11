@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T05:43:28.449861+00:00'
+updated: '2025-12-11T05:56:11.533247+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 05:43 UTC  
+**Last Updated:** December 11, 2025 at 05:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,200.09
+### $90,305.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** +1.2%  
-**30d:** -11.4%  
-**90d:** -22.3%  
-**1y:** -9.8%  
+**24h:** -2.4%  
+**7d:** +1.5%  
+**30d:** -11.1%  
+**90d:** -22.0%  
+**1y:** -9.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.33B
+**Market Cap:** $1802.72B
 Rank #1
 
 **Circulating Supply:** 19,960,487 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.4%
 
 **All-Time Low:** $67.81
-+132915.8%
++133089.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 We back baby!
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ We back baby!
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-2h ago
+3h ago
 
 ---
 
@@ -115,17 +115,17 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 ---
 
+**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
+
+2h ago
+
+---
+
 **[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
 
 Bottom tex
 
 15h ago
-
----
-
-**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
-
-2h ago
 
 ---
 
@@ -147,7 +147,7 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -163,19 +163,11 @@ Bloomberg.com • 2h ago
 
 ---
 
-**[Bitcoin ETF (BTC) News: Boutique Firm Nicholas Files for Fund Skipping U.S. Trading Hours](https://www.coindesk.com/markets/2025/12/09/nicholas-proposes-afterdark-bitcoin-etf-that-skips-u-s-trading-hours)**
-
-The fund would hold bitcoin only overnight, betting on data showing bitcon gains mostly occur outside regular market hours.
-
-CoinDesk • 1d ago
-
----
-
 **[Night owl bitcoin traders: Soon there'll be an ETF just for you](https://www.cnbc.com/2025/12/10/night-owl-bitcoin-traders-soon-therell-be-an-etf-just-for-you.html)**
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-CNBC • 6h ago
+cnbc.com • 7h ago
 
 ---
 
@@ -187,33 +179,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
+**[XRP Price News: Bitcoin (BTC) Weakness Hits Ripple Even as ETF Flows Remain Strong](https://www.coindesk.com/markets/2025/12/11/xrp-slides-as-traders-take-bitcoin-profits-with-etf-flows-still-strong)**
 
-Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
+Institutional flows surged 54% above the weekly average, indicating strategic selling rather than retail panic.
 
-BBC • 5h ago
-
----
-
-**[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
-
-The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
-
-CNBC • 1d ago
-
----
-
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfad7csX8Sllq5ELjffPPUFRtz_WSJ41NvT4naWZnUzpg1JC1KKehOl&gaa_ts=693a581a&gaa_sig=y5fVDFioCylr3V7OZ8WOGmWHN_K3yRygKZuRWqNvu5P27hzY4nvmgE8Ei3wu2eD_wrWrevxggQOAfQ-3yRRPqQ%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
-
-Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
-
-Business Insider • 19h ago
+CoinDesk • 36m ago
 
 ---
 
@@ -225,11 +195,39 @@ NPR • 21h ago
 
 ---
 
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
+
+Reuters • 13m ago
+
+---
+
 **[Crypto Winter Squeezes Bitcoin Miners as AI Pivot Gains Urgency](https://www.bloomberg.com/news/articles/2025-12-10/crypto-winter-squeezes-bitcoin-miners-as-ai-pivot-gains-urgency)**
 
 The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
+
+---
+
+**[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
+
+Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
+
+BBC • 5h ago
+
+---
+
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqcptUoq9nEkEEtm0v4CrjSJZG9JTt8oSmBx55bp2Z2xCETJXPJC5_AE&gaa_ts=693a6062&gaa_sig=bsHUAKEXzXgNyvnGvR9zI4DjSnPhPU8aSpix66iB1my-ma6UTJk4R7q9wkY0oQr6K806fx_UqcQ46ci2HuGtow%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
+
+The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
+
+cnbc.com • 1d ago
 
 ---
 
@@ -319,17 +317,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 1K • 💬 375 • ⏱️ 8:26 • 4h ago
-
----
-
-**[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 13K • 👍 580 • 💬 108 • ⏱️ 8:34 • 8h ago
+👁️ 26K • 👍 1K • 💬 443 • ⏱️ 8:26 • 4h ago
 
 ---
 
@@ -339,27 +327,17 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 34K • 👍 2K • 💬 293 • ⏱️ 21:05 • 6h ago
+👁️ 51K • 👍 3K • 💬 260 • ⏱️ 21:05 • 6h ago
 
 ---
 
-**[Bitcoin vs. The Fed: Who Wins in 2026?](https://www.youtube.com/watch?v=VXZZYeCuM-U)**
+**[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
 
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the Fed's year-end shift ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 Anthony Pompliano
+📺 My Financial Friend
 
-👁️ 14K • 👍 583 • 💬 3 • ⏱️ 32:26 • 7h ago
-
----
-
-**[the bitcoin B**G is actually confirmed.... the Federal Reserve is ******](https://www.youtube.com/watch?v=OThYSHZpajc)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 14K • 👍 738 • 💬 169 • ⏱️ 5:12 • 8h ago
+👁️ 14K • 👍 600 • 💬 111 • ⏱️ 8:34 • 9h ago
 
 ---
 
@@ -369,17 +347,27 @@ Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled t
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 104 • ⏱️ 16:48 • 5h ago
+👁️ 18K • 👍 2K • 💬 123 • ⏱️ 16:48 • 5h ago
 
 ---
 
-**[Strategy (MSTR) CEO on Bitcoin Treasury, Balance Sheet &amp; MSCI Push Back](https://www.youtube.com/watch?v=5nuxfvER0VY)**
+**[Bitcoin vs. The Fed: Who Wins in 2026?](https://www.youtube.com/watch?v=VXZZYeCuM-U)**
 
-Phong Le, CEO of Strategy (MSTR), explains why he sees the company as a viable option amid the rise in cryptocurrencies.
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the Fed's year-end shift ...
 
-📺 Schwab Network
+📺 Anthony Pompliano
 
-👁️ 1K • 👍 50 • 💬 7 • ⏱️ 9:04 • 4h ago
+👁️ 18K • 👍 655 • 💬 3 • ⏱️ 32:26 • 7h ago
+
+---
+
+**[the bitcoin B**G is actually confirmed.... the Federal Reserve is ******](https://www.youtube.com/watch?v=OThYSHZpajc)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 16K • 👍 781 • 💬 148 • ⏱️ 5:12 • 9h ago
 
 ---
 
@@ -389,17 +377,15 @@ In this clip, I discuss the bottom signals that point towards a bitcoin reversal
 
 📺 CryptosRus Extra
 
-👁️ 2K • 👍 159 • 💬 139 • ⏱️ 9:23 • 5h ago
+👁️ 3K • 👍 192 • 💬 83 • ⏱️ 9:23 • 5h ago
 
 ---
 
-**[Bitcoin Is Repeating 2019 And Most People Are Completely Asleep - Ben Cowen](https://www.youtube.com/watch?v=mF6TOLw1IxU)**
+**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+📺 Matt & Justus
 
-📺 Savvy Finance
-
-👁️ 7K • 👍 291 • 💬 19 • ⏱️ 21:52 • 1d ago
+👁️ 2.5M • 👍 134K • 💬 338 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -409,7 +395,17 @@ Michael Saylor declares he's more bullish than ever, stating his team can buy mo
 
 📺 Bitcoin Magazine
 
-👁️ 12K • 👍 306 • 💬 24 • ⏱️ 0:36 • 1d ago
+👁️ 12K • 👍 308 • 💬 24 • ⏱️ 0:36 • 1d ago
+
+---
+
+**[Banks Are Pushing Bitcoin Into the Death Spiral](https://www.youtube.com/watch?v=7XTc2dC6Q00)**
+
+How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemini Credit Card: http://gemini.com/andrei ...
+
+📺 Andrei Jikh
+
+👁️ 589K • 👍 19K • 💬 2K • ⏱️ 20:03 • 2d ago
 
 ---
 

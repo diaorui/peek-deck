@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T05:43:28.457980+00:00'
+updated: '2025-12-11T05:56:11.542620+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 05:43 UTC  
+**Last Updated:** December 11, 2025 at 05:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -122,6 +122,14 @@ MLive.com • 1d ago
 
 ---
 
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
+
+Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
@@ -150,21 +158,13 @@ Decrypt • 2d ago
 
 $32 million investment will created 230 new jobs.
 
-WHMI • 13h ago
+WHMI • 14h ago
 
 ---
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
 Chron • 12h ago
-
----
-
-**[Serve Robotics Gains 28% in a Month: Is the Rally Still Worth Chasing?](https://finance.yahoo.com/news/serve-robotics-gains-28-month-133200034.html)**
-
-SERV stock is up 28% on robot delivery growth and policy buzz, but with deep losses, is the rally too far ahead of itself?
-
-Yahoo Finance • 16h ago
 
 ---
 
@@ -188,23 +188,13 @@ Business Insider • 11h ago
 
 ## YouTube Videos: "robotics"
 
-**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
-
-In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
-
-📺 Google DeepMind
-
-👁️ 40K • 👍 2K • 💬 168 • ⏱️ 17:44 • 13h ago
-
----
-
 **[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
 
 Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
 
 📺 TheAIGRID
 
-👁️ 16K • 👍 460 • 💬 108 • ⏱️ 42:48 • 3d ago
+👁️ 16K • 👍 462 • 💬 108 • ⏱️ 42:48 • 3d ago
 
 ---
 
@@ -214,7 +204,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 58K • 👍 1K • 💬 394 • ⏱️ 14:26 • 2d ago
+👁️ 61K • 👍 1K • 💬 406 • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -232,7 +222,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 33K • 👍 645 • 💬 158 • ⏱️ 18:46 • 5d ago
+👁️ 33K • 👍 645 • 💬 159 • ⏱️ 18:46 • 5d ago
 
 ---
 
@@ -242,7 +232,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 126K • 👍 6K • 💬 867 • ⏱️ 19:33 • 4d ago
+👁️ 127K • 👍 6K • 💬 873 • ⏱️ 19:33 • 4d ago
 
 ---
 
@@ -252,7 +242,7 @@ robots #irc #humanoid At the latest tech expo, a man shows off his brand new rob
 
 📺 She Shorts AI
 
-👁️ 128K • 👍 830 • 💬 7 • ⏱️ 0:11 • 6d ago
+👁️ 128K • 👍 831 • 💬 7 • ⏱️ 0:11 • 6d ago
 
 ---
 
@@ -270,7 +260,7 @@ At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the 
 
 📺 AI Robot Lab
 
-👁️ 211K • 👍 570 • 💬 20 • ⏱️ 0:20 • 16h ago
+👁️ 314K • 👍 729 • 💬 26 • ⏱️ 0:20 • 16h ago
 
 ---
 
@@ -280,7 +270,15 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 200K • 👍 912 • 💬 297 • ⏱️ 1:03 • 4d ago
+👁️ 200K • 👍 914 • 💬 297 • ⏱️ 1:03 • 4d ago
+
+---
+
+**[Bought the latest humanoid robot released in 2025. #robotics #airobot #humanoidrobot #ai #robot](https://www.youtube.com/watch?v=QJF1XWupoo4)**
+
+📺 AI . Robot
+
+👁️ 107K • 👍 1K • 💬 29 • ⏱️ 0:19 • 5d ago
 
 ---
 
