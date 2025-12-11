@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T23:33:53.740954+00:00'
+updated: '2025-12-11T23:46:27.918456+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 23:33 UTC  
+**Last Updated:** December 11, 2025 at 23:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-1h ago
+2h ago
 
 ---
 
@@ -68,7 +68,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-18h ago
+19h ago
 
 ---
 
@@ -90,7 +90,7 @@ Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into thre
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 12h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 13h ago
 
 ---
 
@@ -116,7 +116,7 @@ Here are the top developments today for those following the industry: 1. Agility
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
-Runway • 5h ago
+Runway • 6h ago
 
 ---
 
@@ -226,7 +226,7 @@ The maker of China's military Robowolf quadrupeds is now unleashing its humanoid
 
 📺 Kalil 4.0
 
-👁️ 244 • 👍 8 • ⏱️ 0:53 • 30m ago
+👁️ 244 • 👍 8 • ⏱️ 0:53 • 43m ago
 
 ---
 

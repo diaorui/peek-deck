@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T23:33:53.731753+00:00'
+updated: '2025-12-11T23:46:27.909042+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 23:33 UTC  
+**Last Updated:** December 11, 2025 at 23:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,196.14
+### $92,722.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +3.7%  
-**30d:** -9.3%  
-**90d:** -20.4%  
-**1y:** -7.6%  
+**24h:** +1.0%  
+**7d:** +3.8%  
+**30d:** -9.1%  
+**90d:** -20.2%  
+**1y:** -7.5%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -147,7 +147,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 1h ago
 
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -321,7 +321,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 6K • 👍 681 • 💬 269 • ⏱️ 14:43 • 3h ago
+👁️ 6K • 👍 681 • 💬 269 • ⏱️ 14:43 • 4h ago
 
 ---
 
