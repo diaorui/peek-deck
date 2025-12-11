@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T20:54:41.318970+00:00'
+updated: '2025-12-11T21:22:18.981385+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 20:54 UTC  
+**Last Updated:** December 11, 2025 at 21:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-19h ago
+20h ago
 
 ---
 
@@ -70,12 +70,6 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 ---
 
-**[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
-
-18h ago
-
----
-
 **[We’re now controlling a Unitree robot inside a Gaussian Splat world. In the browser!](https://www.reddit.com/r/robotics/comments/1pk0uav/were_now_controlling_a_unitree_robot_inside_a/)**
 
 Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into threejs - Run MuJoCo physics (decoupled from renderer) What do you think about this?!?
@@ -89,6 +83,12 @@ Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into thre
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
 🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 10h ago
+
+---
+
+**[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
+
+19h ago
 
 ---
 
@@ -126,11 +126,39 @@ Business Wire • 1d ago
 
 ---
 
-**[Watch Apollo humanoid robot tackle never-before-seen objects with Google DeepMind](https://interestingengineering.com/ai-robotics/google-deepmind-apollo-humanoid-robot)**
+**[World’s first six-armed humanoid robot that promises 30% more output unveiled in China](https://interestingengineering.com/ai-robotics/worlds-first-six-armed-humanoid-robot)**
 
-Google DeepMind shows Apollo humanoid handling unfamiliar objects and following voice commands, alongside Aloha robots performing tasks.
+Chinese home appliance company Midea has unveiled its six-armed super humanoid robot at the Greater Bay Area New Economy Forum in China.
 
-Interesting Engineering • 7h ago
+Interesting Engineering • 5h ago
+
+---
+
+**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+
+Chron • 1d ago
+
+---
+
+**[GWM-1 Robotics SDK](https://runwayml.com/research/introducing-runway-gwm-1)**
+
+GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
+
+Runway • 3h ago
+
+---
+
+**[Advanced Intralogistics and AlphaOne Robotics Partner to Deliver Automated Trailer Unloading & Receiving Automation](https://www.businesswire.com/news/home/20251211294951/en/Advanced-Intralogistics-and-AlphaOne-Robotics-Partner-to-Deliver-Automated-Trailer-Unloading-Receiving-Automation)**
+
+Business Wire • 2m ago
+
+---
+
+**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
+
+Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
+
+Shore Daily News • 11h ago
 
 ---
 
@@ -139,28 +167,6 @@ Interesting Engineering • 7h ago
 The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
 MLive.com • 2d ago
-
----
-
-**[AI & Robotics: Special Episode with Dean Johnson-Roberson](https://www.miragenews.com/ai-robotics-special-episode-with-dean-johnson-1588313/)**
-
-Matthew Johnson-Roberson, Dean of the College of Connected Computing, University Distinguished Professor of computer science and of electrical and
-
-Mirage News • 3h ago
-
----
-
-**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
-
-Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
-
-Shore Daily News • 10h ago
-
----
-
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
-
-Chron • 1d ago
 
 ---
 
@@ -180,14 +186,6 @@ AVweb • 1d ago
 
 ---
 
-**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
-
-Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
-
-Bloomberg.com • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +196,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 73K • 👍 2K • 💬 476 • ⏱️ 14:26 • 3d ago
+👁️ 75K • 👍 2K • 💬 488 • ⏱️ 14:26 • 3d ago
 
 ---
 
@@ -208,17 +206,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 93K • 👍 4K • 💬 299 • ⏱️ 17:44 • 1d ago
-
----
-
-**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
-
-Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
-
-📺 TheAIGRID
-
-👁️ 16K • 👍 473 • 💬 112 • ⏱️ 42:48 • 3d ago
+👁️ 98K • 👍 4K • 💬 306 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -228,7 +216,17 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 34K • 👍 654 • 💬 159 • ⏱️ 18:46 • 5d ago
+👁️ 34K • 👍 656 • 💬 159 • ⏱️ 18:46 • 5d ago
+
+---
+
+**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
+
+Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
+
+📺 The Military Show
+
+👁️ 113K • 👍 5K • 💬 272 • ⏱️ 16:55 • 7h ago
 
 ---
 
@@ -238,7 +236,17 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 82K • 👍 1K • 💬 425 • ⏱️ 0:41 • 3d ago
+👁️ 82K • 👍 1K • 💬 431 • ⏱️ 0:41 • 3d ago
+
+---
+
+**[Testing the Latest Girlfriend Robot: My Unexpected Expo Journey 🤖✨ #innovation #robot #expo2025](https://www.youtube.com/watch?v=4LQJIXJrbPs)**
+
+GirlfriendRobot #RobotExpo #InnovationJourney Join me as I dive into the fascinating world of robotics at Expo 2025! In this video ...
+
+📺 ps-robot_ai
+
+👁️ 125K • 👍 1K • 💬 14 • ⏱️ 0:09 • 6d ago
 
 ---
 
@@ -248,7 +256,17 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 129K • 👍 6K • 💬 885 • ⏱️ 19:33 • 5d ago
+👁️ 130K • 👍 7K • 💬 891 • ⏱️ 19:33 • 5d ago
+
+---
+
+**[The Robot Body](https://www.youtube.com/watch?v=TJFMMOlbyIw)**
+
+What should a robot look like? How necessary is a body? Where do the boundaries of ourselves begin and end? Exploring ...
+
+📺 Sarah Davis Baker
+
+👁️ 14K • 👍 2K • 💬 226 • ⏱️ 37:14 • 1d ago
 
 ---
 
@@ -256,17 +274,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 AI . Robot
 
-👁️ 110K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
-
----
-
-**[These NEW AI Robots Are Getting TOO REAL – Experts Are FREAKING Out](https://www.youtube.com/watch?v=JMG9_1lpdzw)**
-
-The line between humans and machines is disappearing faster than anyone expected. These new humanoid AI robots don't just ...
-
-📺 The AI Nexus
-
-👁️ 2K • 👍 115 • 💬 9 • ⏱️ 21:00 • 16h ago
+👁️ 111K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
 
 ---
 
@@ -276,17 +284,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 201K • 👍 920 • 💬 298 • ⏱️ 1:03 • 5d ago
-
----
-
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
-
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
-
-📺 The Straits Times
-
-👁️ 176K • 👍 802 • 💬 254 • ⏱️ 0:47 • 2d ago
+👁️ 202K • 👍 921 • 💬 298 • ⏱️ 1:03 • 5d ago
 
 ---
 

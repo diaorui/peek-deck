@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T20:54:41.301352+00:00'
+updated: '2025-12-11T21:22:18.963328+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 20:54 UTC  
+**Last Updated:** December 11, 2025 at 21:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 8h ago
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 5h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 6h ago
 
 ---
 
@@ -69,6 +69,14 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 ---
 
+**[Something Ominous Is Happening in the AI Economy](https://www.reddit.com/r/artificial/comments/1pk6avk/something_ominous_is_happening_in_the_ai_economy/)**
+
+The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
+
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 2h ago
+
+---
+
 **[AI Took My Job. Now It’s Interviewing Me For New Ones](https://www.reddit.com/r/artificial/comments/1pk56ll/ai_took_my_job_now_its_interviewing_me_for_new/)**
 
 When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
@@ -81,15 +89,7 @@ When my company pivoted to AI in 2023, I lost my job. As I struggle to find a ne
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 4h ago
-
----
-
-**[Something Ominous Is Happening in the AI Economy](https://www.reddit.com/r/artificial/comments/1pk6avk/something_ominous_is_happening_in_the_ai_economy/)**
-
-The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
-
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 1h ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 5h ago
 
 ---
 
@@ -97,7 +97,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal in which the artificial intelligence start-up will use Disney characters in its flagship products. As part of the three-year deal, announced on Thursday, Disney will make more than 200 Marvel, Pixar and Star Wars characters available within ChatGPT and Sora, OpenAI’s video-generation tool. The company will also take a $1bn stake in the $500bn start-up, as well as warrants to purchase additional equity at a later date. Read the full story for free with your email here: https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
 
-🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 5h ago
+🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 6h ago
 
 ---
 
@@ -109,9 +109,11 @@ The ChatGPT-maker is releasing its “best model yet” as it faces new pressure
 
 ---
 
-**[OpenAI warns new models pose 'high' cybersecurity risk](https://www.reddit.com/r/artificial/comments/1pk2rtl/openai_warns_new_models_pose_high_cybersecurity/)**
+**[The Disney-OpenAI Deal Redefines the AI Copyright War](https://www.reddit.com/r/artificial/comments/1pk922h/the_disneyopenai_deal_redefines_the_ai_copyright/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-warns-new-models-pose-high-cybersecurity-risk-2025-12-10/) • 3h ago
+Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.
+
+🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 13m ago
 
 ---
 
@@ -119,19 +121,19 @@ The ChatGPT-maker is releasing its “best model yet” as it faces new pressure
 
 ## Google News: "ai"
 
-**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
+**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
 
-The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
+TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
 
 Time Magazine • 8h ago
 
 ---
 
-**['Architects of AI' named Time magazine Person of the Year 2025](https://www.usatoday.com/story/news/nation/2025/12/11/time-person-of-the-year-2025-architects-ai/87714617007/)**
+**[Time's 2025 Person of the Year: The architects of AI](https://www.yahoo.com/news/us/article/times-2025-person-of-the-year-the-architects-of-ai-172342364.html)**
 
-Time's Person of the Year 2025 is not one individual. Here's what the magazine chose and why.
+The people behind the rise of artificial intelligence have been given the magazine’s annual title.
 
-USA Today • 2h ago
+Yahoo • 4h ago
 
 ---
 
@@ -143,45 +145,9 @@ CBS News • 1h ago
 
 ---
 
-**[Oracle stock sinks as AI costs jump past Wall Street estimates](https://finance.yahoo.com/news/oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-200454370.html)**
+**[Introducing GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)**
 
-Oracle stock fell as much as 15% Thursday after the tech firm's quarterly AI costs rose ahead of Wall Street's expectations and revenue fell short.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Oracle shares tank 15%, dragging down Nvidia, AMD, CoreWeave](https://www.cnbc.com/2025/12/11/oracle-shares-plummet-dragging-down-ai-stocks-nvidia-coreweave.html)**
-
-Shares in Nvidia, Micron and Microsoft were also lower in premarket trade on Thursday.
-
-CNBC • 11h ago
-
----
-
-**[Nasdaq slips as Oracle AI shock overshadows Fed relief](https://www.reuters.com/business/wall-street-futures-slide-oracles-forecast-revives-ai-bubble-fears-2025-12-11/)**
-
-Reuters • 1h ago
-
----
-
-**[New York Governor Signs AI Protection Bills As SAG-AFTRA Executives Tout Gains for Performers](https://www.hollywoodreporter.com/business/business-news/new-york-governor-signs-ai-protection-bills-sag-aftra-1236448250/)**
-
-“If we want the public to trust what they see, we must have guardrails on digital replicas and synthetic creations,” said SAG-AFTRA national executive director Duncan Crabtree-Ireland.
-
-The Hollywood Reporter • 1h ago
-
----
-
-**[MAGA scrambles to influence Trump's AI executive order](https://www.axios.com/2025/12/11/maga-scrambles-trump-ai-executive-order)**
-
-Axios • 56m ago
-
----
-
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqe1-dDCQQV52hGk0-qLHDju7PowGjtdRmvLNs3pq-ZSQv2QLf_U1Jyg&gaa_ts=693b2c0c&gaa_sig=KaGZLjH4nE6oQd72VzXfx5fjJ4E_ZHTP2Xohl1aI48sgf4FAZ_jVIsFKEYR7t86IEOST593-nu9-EVSHuXcoKA%3D%3D)**
-
-The Wall Street Journal • 7h ago
+OpenAI • 3h ago
 
 ---
 
@@ -189,7 +155,45 @@ The Wall Street Journal • 7h ago
 
 The new model will be available starting Thursday within OpenAI's ChatGPT chatbot and its API.
 
-CNBC • 2h ago
+cnbc.com • 3h ago
+
+---
+
+**[GPT-5.2 is OpenAI’s latest move in the agentic AI battle](https://www.theverge.com/ai-artificial-intelligence/842529/openai-gpt-5-2-new-model-chatgpt)**
+
+Ready to make a spreadsheet.
+
+The Verge • 3h ago
+
+---
+
+**[N.Y. Gov. Kathy Hochul proposes major changes to AI bill](https://www.axios.com/2025/12/11/ny-gov-kathy-hochul-major-changes-ai-bill)**
+
+Axios • 28m ago
+
+---
+
+**[New York Enacts Landmark AI Law Requiring Ads To Disclose Use Of Synthetic Performers](https://deadline.com/2025/12/new-york-ai-law-consumers-film-industry-1236646078/)**
+
+New York Gov. Kathy Hochul on Thursday signed the nation's first AI bill designed to both protect consumers and increase transparency in the film industry.
+
+Deadline • 2h ago
+
+---
+
+**[Hochul Caves to Big Tech on AI Safety Bill](https://prospect.org/2025/12/11/hochul-caves-big-tech-ai-safety-bill-new-york/)**
+
+A bill that passed the New York legislature was completely gutted and substituted with language perceived as friendlier to the industry.
+
+The American Prospect • 2h ago
+
+---
+
+**[Rivian Unveils AI Chip for Automated Driving, Ditches Nvidia](https://www.bloomberg.com/news/articles/2025-12-11/rivian-unveils-ai-chip-for-automated-driving-ditches-nvidia)**
+
+Rivian Automotive Inc. has developed its own artificial intelligence chip, replacing Nvidia Corp. technology as part of a broader push to add and enhance automated-driving features in future vehicles.
+
+Bloomberg.com • 2h ago
 
 ---
 
@@ -217,7 +221,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 318 • 💬 310 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 319 • 💬 310 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -225,7 +229,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 313 • 💬 255 • 6h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 318 • 💬 2 • 7h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -257,7 +261,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 115 • 💬 72 • 7h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 117 • 💬 74 • 7h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -273,7 +277,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 90 • 💬 61 • 4h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 94 • 💬 69 • 5h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -281,13 +285,13 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 ## YouTube Videos: "ai"
 
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=WbZ1pfinVTs)**
+**[In 2026, DON&#39;T Build AI Agents, Do This Instead..](https://www.youtube.com/watch?v=VASyr2DxEKE)**
 
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+Check out Nebius today: ...
 
-📺 Impossible AIs
+📺 The Cutting Edge School
 
-👁️ 82K • 👍 329 • 💬 15 • ⏱️ 8:01 • 1d ago
+👁️ 6K • 👍 524 • 💬 48 • ⏱️ 13:41 • 8h ago
 
 ---
 
@@ -297,47 +301,47 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 46K • 👍 2K • 💬 353 • ⏱️ 14:55 • 1d ago
+👁️ 47K • 👍 2K • 💬 356 • ⏱️ 14:55 • 1d ago
 
 ---
 
-**[McDonald’s Pulls ‘Creepy’ AI Christmas ad After Viewer Backlash: ‘As Real as Their Hamburgers’](https://www.youtube.com/watch?v=HpWCvItr55c)**
+**[Steve Eisman on AI: LLM improvements will begin to gradually slow but not selling AI stocks I own](https://www.youtube.com/watch?v=wSJMtTETOv8)**
 
-McDonald's has taken down a Christmas ad that was allegedly entirely produced with artificial intelligence after the brand was ...
+Steve Eisman, former Neuberger Berman senior portfolio manager, joins 'Squawk Box' to discuss Eisman's health troubles, the ...
 
-📺 New York Post
+📺 CNBC Television
 
-👁️ 38K • 👍 302 • 💬 210 • ⏱️ 2:58 • 21h ago
-
----
-
-**[See Inside the Data Center Helping to Power the AI Revolution](https://www.youtube.com/watch?v=KiRTHEV7wpo)**
-
-From emails to social media to online shopping, banking and chatting — everything we rely on everyday goes through an AI data ...
-
-📺 TODAY
-
-👁️ 11K • 👍 60 • 💬 15 • ⏱️ 3:20 • 1d ago
+👁️ 24K • 👍 333 • 💬 93 • ⏱️ 4:34 • 7h ago
 
 ---
 
-**[Breaking: Disney Goes ALL-IN on AI! Hands IP to Sora &amp; Chat GPT for Disney Plus! Box Office WOES!](https://www.youtube.com/watch?v=Io4tQjJpwwM)**
+**[Prompt Engineering Full Course 2026 | Generative AI | Prompt Engineering Tutorial| Simplilearn](https://www.youtube.com/watch?v=0NrZYT2VRJc)**
 
-Breaking: Disney Goes ALL-IN on AI! Hands IP to Sora & Chat GPT for Disney Plus! Box Office WOES! #disney #ai ...
+Professional Certificate Course in Generative AI and Machine Learning ...
 
-📺 WDW Pro
+📺 Simplilearn
 
-👁️ 2K • 👍 285 • 16h ago
+👁️ 3K • 👍 147 • 14h ago
 
 ---
 
-**[Google’s Titans Just Solved AI’s Biggest Weakness, But...](https://www.youtube.com/watch?v=GGdjty9pAtg)**
+**[YouTube AI is Getting Worse...](https://www.youtube.com/watch?v=QlBn_LbnxxQ)**
 
-Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS introduce a new long-term memory system that ...
+YouTube's CEO Neal Mohan is fighting the AI slop/moderation problem by adding more AI. Neal said YouTube will be expanding ...
+
+📺 Deep Humor
+
+👁️ 20K • 👍 2K • 💬 625 • ⏱️ 10:28 • 2d ago
+
+---
+
+**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
+
+Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 72 • ⏱️ 13:12 • 2d ago
+👁️ 42K • 👍 2K • 💬 73 • ⏱️ 12:50 • 1d ago
 
 ---
 
@@ -347,27 +351,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.1M • 👍 52K • 💬 5K • ⏱️ 8:35 • 2d ago
-
----
-
-**[AI News: GPT-5.2, Devstral 2, Boom Superpower, MCP Nonprofit and more!](https://www.youtube.com/watch?v=GMQ58GUpcD0)**
-
-Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia Download The Subtle ...
-
-📺 Matthew Berman
-
-👁️ 61K • 👍 2K • 💬 229 • ⏱️ 9:41 • 1d ago
-
----
-
-**[Which stairs would you take? Oddly Satisfying AI ASMR Pt.8😌🎧](https://www.youtube.com/watch?v=i8uBKUA3tVo)**
-
-Join Impossible AIs and unlock exclusive perks! ✨ https://www.youtube.com/@ImpossibleAIs-c9z/videos Ascend into tranquility ...
-
-📺 Impossible AIs
-
-👁️ 72K • 👍 286 • 💬 11 • ⏱️ 12:21 • 2d ago
+👁️ 1.1M • 👍 52K • 💬 6K • ⏱️ 8:35 • 2d ago
 
 ---
 
@@ -377,7 +361,27 @@ Go to https://ground.news/hank for a better way to stay informed. Subscribe for 
 
 📺 Hank Green
 
-👁️ 1.7M • 👍 84K • 💬 9K • ⏱️ 24:00 • 2d ago
+👁️ 1.7M • 👍 86K • 💬 9K • ⏱️ 24:00 • 2d ago
+
+---
+
+**[See Inside the Data Center Helping to Power the AI Revolution](https://www.youtube.com/watch?v=KiRTHEV7wpo)**
+
+From emails to social media to online shopping, banking and chatting — everything we rely on everyday goes through an AI data ...
+
+📺 TODAY
+
+👁️ 13K • 👍 63 • 💬 18 • ⏱️ 3:20 • 1d ago
+
+---
+
+**[OpenAI unveils GPT-5.2, its strongest AI model for professional use](https://www.youtube.com/watch?v=wXXvB8xVyPk)**
+
+CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The company said the model is better at ...
+
+📺 CNBC Television
+
+👁️ 5K • 👍 103 • 💬 44 • ⏱️ 3:04 • 2h ago
 
 ---
 
@@ -393,7 +397,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 722 • 2d ago
+⬇️ 80,162 • ❤️ 723 • 2d ago
 
 ---
 
@@ -405,7 +409,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,542 • 3d ago
+⬇️ 245,041 • ❤️ 2,543 • 3d ago
 
 ---
 
@@ -417,7 +421,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 18,587 • ❤️ 344 • 2d ago
+⬇️ 18,587 • ❤️ 346 • 2d ago
 
 ---
 
@@ -441,7 +445,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 261 • 1d ago
+⬇️ 7,222 • ❤️ 262 • 1d ago
 
 ---
 
@@ -453,7 +457,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 445,464 • ❤️ 208 • 2d ago
+⬇️ 445,464 • ❤️ 208 • 3d ago
 
 ---
 
@@ -465,7 +469,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 45,425 • ❤️ 880 • 10d ago
+⬇️ 45,425 • ❤️ 881 • 10d ago
 
 ---
 
@@ -477,7 +481,7 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 184 • 2d ago
+⬇️ 12,302 • ❤️ 185 • 2d ago
 
 ---
 
@@ -653,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 8.7k • 🔱 1.5k • 4h ago
+⭐ 8.7k • 🔱 1.5k • 5h ago
 
 ---
 
@@ -663,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.0k • 🔱 225 • 3h ago
+⭐ 2.0k • 🔱 225 • 4h ago
 
 ---
 
@@ -693,7 +697,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 5h ago
+⭐ 1.1k • 🔱 134 • 6h ago
 
 ---
 
