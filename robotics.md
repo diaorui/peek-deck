@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T23:13:25.797229+00:00'
+updated: '2025-12-11T23:33:53.740954+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 23:13 UTC  
+**Last Updated:** December 11, 2025 at 23:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -37,6 +37,14 @@ Robotics research and industry news
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
 8h ago
+
+---
+
+**[Major robotics company shuts down?](https://www.reddit.com/r/robotics/comments/1pk9ow0/major_robotics_company_shuts_down/)**
+
+https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
+
+1h ago
 
 ---
 
@@ -66,15 +74,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-19h ago
-
----
-
-**[Major robotics company shuts down?](https://www.reddit.com/r/robotics/comments/1pk9ow0/major_robotics_company_shuts_down/)**
-
-https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
-
-1h ago
+20h ago
 
 ---
 
@@ -112,6 +112,14 @@ Here are the top developments today for those following the industry: 1. Agility
 
 ## Google News: "robotics"
 
+**[GWM-1 Robotics SDK](https://runwayml.com/research/introducing-runway-gwm-1)**
+
+GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
+
+Runway • 5h ago
+
+---
+
 **[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
 
 Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
@@ -120,11 +128,11 @@ Deloitte • 1d ago
 
 ---
 
-**[Backflips are easy, stairs are hard: Robots still struggle with simple human movements, experts say](https://fortune.com/2025/12/11/backflips-are-easy-stairs-are-hard-humanoid-robots-challenges-potential-brainstorm-ai/)**
+**['Botnets in physical form' are top humanoid robot risk](https://www.theregister.com/2025/12/09/humanoid_robot_security/)**
 
-Yet the next generation of robots will soon be able to learn from experience, creating more adaptable machines—perfect for the home and the factory, according to speakers at Fortune's Brainstorm AI.
+Interview: Have we learned nothing from sci-fi films and TV shows?
 
-Fortune • 1h ago
+theregister.com • 2d ago
 
 ---
 
@@ -134,23 +142,9 @@ Business Wire • 1d ago
 
 ---
 
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
-
-Chron • 1d ago
-
----
-
 **[Advanced Intralogistics and AlphaOne Robotics Partner to Deliver Automated Trailer Unloading & Receiving Automation](https://www.businesswire.com/news/home/20251211294951/en/Advanced-Intralogistics-and-AlphaOne-Robotics-Partner-to-Deliver-Automated-Trailer-Unloading-Receiving-Automation)**
 
-Business Wire • 1h ago
-
----
-
-**[GWM-1 Robotics SDK](https://runwayml.com/research/introducing-runway-gwm-1)**
-
-GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
-
-Runway • 5h ago
+Business Wire • 2h ago
 
 ---
 
@@ -158,7 +152,13 @@ Runway • 5h ago
 
 Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
 
-Shore Daily News • 12h ago
+Shore Daily News • 13h ago
+
+---
+
+**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+
+Chron • 1d ago
 
 ---
 
@@ -178,11 +178,11 @@ AVweb • 1d ago
 
 ---
 
-**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
 
-Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
-Bloomberg.com • 3d ago
+MLive.com • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 75K • 👍 2K • 💬 488 • ⏱️ 14:26 • 3d ago
+👁️ 76K • 👍 2K • 💬 497 • ⏱️ 14:26 • 3d ago
 
 ---
 
@@ -206,7 +206,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 98K • 👍 4K • 💬 306 • ⏱️ 17:44 • 1d ago
+👁️ 103K • 👍 4K • 💬 321 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -220,13 +220,13 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 ---
 
-**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
+**[China&#39;s Robowolf Maker&#39;s New Humanoid #humanoidrobot #robot #robotics #china #airobot #defensetech](https://www.youtube.com/watch?v=hpRm11_DEP4)**
 
-Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
+The maker of China's military Robowolf quadrupeds is now unleashing its humanoid robots into industry after securing what it ...
 
-📺 The Military Show
+📺 Kalil 4.0
 
-👁️ 113K • 👍 5K • 💬 272 • ⏱️ 16:55 • 9h ago
+👁️ 244 • 👍 8 • ⏱️ 0:53 • 30m ago
 
 ---
 
@@ -236,17 +236,7 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 82K • 👍 1K • 💬 431 • ⏱️ 0:41 • 3d ago
-
----
-
-**[Testing the Latest Girlfriend Robot: My Unexpected Expo Journey 🤖✨ #innovation #robot #expo2025](https://www.youtube.com/watch?v=4LQJIXJrbPs)**
-
-GirlfriendRobot #RobotExpo #InnovationJourney Join me as I dive into the fascinating world of robotics at Expo 2025! In this video ...
-
-📺 ps-robot_ai
-
-👁️ 125K • 👍 1K • 💬 14 • ⏱️ 0:09 • 6d ago
+👁️ 83K • 👍 1K • 💬 429 • ⏱️ 0:41 • 3d ago
 
 ---
 
@@ -256,25 +246,17 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 130K • 👍 7K • 💬 891 • ⏱️ 19:33 • 5d ago
+👁️ 131K • 👍 7K • 💬 894 • ⏱️ 19:33 • 5d ago
 
 ---
 
-**[The Robot Body](https://www.youtube.com/watch?v=TJFMMOlbyIw)**
+**[Testing the Latest Girlfriend Robot: My Unexpected Expo Journey 🤖✨ #innovation #robot #expo2025](https://www.youtube.com/watch?v=4LQJIXJrbPs)**
 
-What should a robot look like? How necessary is a body? Where do the boundaries of ourselves begin and end? Exploring ...
+GirlfriendRobot #RobotExpo #InnovationJourney Join me as I dive into the fascinating world of robotics at Expo 2025! In this video ...
 
-📺 Sarah Davis Baker
+📺 ps-robot_ai
 
-👁️ 14K • 👍 2K • 💬 226 • ⏱️ 37:14 • 1d ago
-
----
-
-**[Bought the latest humanoid robot released in 2025. #robotics #airobot #humanoidrobot #ai #robot](https://www.youtube.com/watch?v=QJF1XWupoo4)**
-
-📺 AI . Robot
-
-👁️ 111K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
+👁️ 125K • 👍 1K • 💬 15 • ⏱️ 0:09 • 6d ago
 
 ---
 
@@ -284,7 +266,25 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 202K • 👍 921 • 💬 298 • ⏱️ 1:03 • 5d ago
+👁️ 202K • 👍 922 • 💬 298 • ⏱️ 1:03 • 5d ago
+
+---
+
+**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
+
+Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
+
+📺 The Military Show
+
+👁️ 146K • 👍 5K • 💬 316 • ⏱️ 16:55 • 9h ago
+
+---
+
+**[Bought the latest humanoid robot released in 2025. #robotics #airobot #humanoidrobot #ai #robot](https://www.youtube.com/watch?v=QJF1XWupoo4)**
+
+📺 AI . Robot
+
+👁️ 111K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
 
 ---
 

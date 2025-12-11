@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T23:13:25.779572+00:00'
+updated: '2025-12-11T23:33:53.723491+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 23:13 UTC  
+**Last Updated:** December 11, 2025 at 23:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 3h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 6h ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 7h ago
 
 ---
 
@@ -101,14 +101,6 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 
 ---
 
-**[The Disney-OpenAI Deal Redefines the AI Copyright War](https://www.reddit.com/r/artificial/comments/1pk922h/the_disneyopenai_deal_redefines_the_ai_copyright/)**
-
-Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.
-
-🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 2h ago
-
----
-
 **[OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’](https://www.reddit.com/r/artificial/comments/1pk5kij/openai_launches_gpt52_as_it_navigates_code_red/)**
 
 The ChatGPT-maker is releasing its “best model yet” as it faces new pressures from Google and other AI competitors.
@@ -117,13 +109,21 @@ The ChatGPT-maker is releasing its “best model yet” as it faces new pressure
 
 ---
 
+**[The Disney-OpenAI Deal Redefines the AI Copyright War](https://www.reddit.com/r/artificial/comments/1pk922h/the_disneyopenai_deal_redefines_the_ai_copyright/)**
+
+Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.
+
+🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 2h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
+**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
 
-TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
+The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
 Time Magazine • 10h ago
 
@@ -139,7 +139,7 @@ BBC • 9h ago
 
 **[Time's 2025 Person of the Year: The architects of AI](https://www.yahoo.com/news/us/article/times-2025-person-of-the-year-the-architects-of-ai-172342364.html)**
 
-The people behind the rise of artificial intelligence have been given the magazine’s annual title.
+The people behind the rise of artificial intelligence have been given the magazine's annual title.
 
 Yahoo • 6h ago
 
@@ -157,41 +157,43 @@ Yahoo Finance • 2h ago
 
 The cloud computing giant's revenue miss renews questions about its financial health.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
-**[US Stocks Fall as Oracle Revives Worries About Lofty AI Spending](https://www.bloomberg.com/news/articles/2025-12-11/us-stocks-fall-as-oracle-revives-worries-about-lofty-ai-spending)**
+**[Tech stocks tumble amid renewed AI worries on Wall Street](https://www.nbcnews.com/business/corporations/tech-stocks-oracle-nvidia-rcna248682)**
 
-Bloomberg.com • 1h ago
+The Nasdaq Composite was led lower by shares of Oracle, Nvidia, and Alphabet.
 
----
-
-**[Senators ask AI companies for safety disclosures after teen suicides](https://www.nbcnews.com/tech/tech-news/senators-ask-ai-companies-safety-disclosures-teen-suicides-rcna248612)**
-
-The bipartisan group of senators sent letters to eight companies: Anthropic, Character.AI, Google, Luka, Meta, Microsoft, OpenAI and xAI.
-
-NBC News • 51m ago
+NBC News • 38m ago
 
 ---
 
-**[Science Minister Seeks to Turn Korea Into a Global AI Powerhouse](https://www.bloomberg.com/news/articles/2025-12-11/science-minister-seeks-to-turn-korea-into-a-global-ai-powerhouse)**
+**[White House issues federal agency guidance against "woke" AI](https://www.axios.com/2025/12/11/white-house-woke-ai-guidance-federal-agencies)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Highlights from Fortune Brainstorm AI San Francisco](https://fortune.com/2025/12/11/highlights-from-fortune-brainstorm-ai-san-francisco/)**
-
-From OpenAI and Google to Intuit and Exelon, Fortune Brainstorm AI San Francisco provided a great snapshot of the current AI landscape
-
-Fortune • 35m ago
+Axios • 1h ago
 
 ---
 
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqfhNo7N0gRglWvJJoPDeVH4cFzeLjcQ6VATWU-rCHcp4JkcyVoscY84&gaa_ts=693b4e81&gaa_sig=tWv08Q7ajv3EQ7MoWH4E9L-zU-DjvDwoOfQoKIIRp1-JrsObBNOuqOiAby1aj9rCLMfc1Jhnmk9ptbaajl6GZw%3D%3D)**
+**[Broadcom Gives Upbeat Forecast After AI Deals Fuel Growth](https://www.bloomberg.com/news/articles/2025-12-11/broadcom-gives-upbeat-forecast-after-ai-deals-fuel-growth)**
 
-The Wall Street Journal • 1h ago
+Bloomberg.com • 45m ago
+
+---
+
+**[Broadcom beats on earnings and revenue, says AI chip sales will double in current quarter](https://www.cnbc.com/2025/12/11/broadcom-avgo-q4-earnings-2025.html)**
+
+Broadcom's stock is near an all-time high and has climbed 75% so far in 2025 as the company benefits from booming demand for AI infrastructure.
+
+cnbc.com • 6h ago
+
+---
+
+**[Broadcom Turned In Strong Earnings. But Will They Revive the AI Trade?](https://www.investopedia.com/broadcom-turned-in-strong-earnings-but-will-they-revive-the-ai-trade-avgo-11867531)**
+
+Broadcom posted better-than-expected earnings on AI demand, and said it sees that momentum continuing in the current quarter.
+
+Investopedia • 40m ago
 
 ---
 
@@ -239,19 +241,19 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 ---
 
+**[French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://news.ycombinator.com/item?id=46231187)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+⬆️ 175 • 💬 96 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+
+---
+
 **[NYC congestion pricing cuts air pollution by a fifth in six months](https://news.ycombinator.com/item?id=46213504)**
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
 ⬆️ 166 • 💬 201 • 1d ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
-
----
-
-**[French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://news.ycombinator.com/item?id=46231187)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-⬆️ 161 • 💬 93 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -275,7 +277,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 102 • 💬 69 • 7h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 104 • 💬 70 • 7h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -283,93 +285,13 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 ## YouTube Videos: "ai"
 
-**[In 2026, DON&#39;T Build AI Agents, Do This Instead..](https://www.youtube.com/watch?v=VASyr2DxEKE)**
+**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
 
-Check out Nebius today: ...
+I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
 
-📺 The Cutting Edge School
+📺 CaylusBlox
 
-👁️ 6K • 👍 524 • 💬 48 • ⏱️ 13:41 • 10h ago
-
----
-
-**[What Ilya Saw: The Truth That Could Change Everything About AI’s Future](https://www.youtube.com/watch?v=AGddzUqJT7g)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 47K • 👍 2K • 💬 356 • ⏱️ 14:55 • 1d ago
-
----
-
-**[Steve Eisman on AI: LLM improvements will begin to gradually slow but not selling AI stocks I own](https://www.youtube.com/watch?v=wSJMtTETOv8)**
-
-Steve Eisman, former Neuberger Berman senior portfolio manager, joins 'Squawk Box' to discuss Eisman's health troubles, the ...
-
-📺 CNBC Television
-
-👁️ 24K • 👍 333 • 💬 93 • ⏱️ 4:34 • 9h ago
-
----
-
-**[Prompt Engineering Full Course 2026 | Generative AI | Prompt Engineering Tutorial| Simplilearn](https://www.youtube.com/watch?v=0NrZYT2VRJc)**
-
-Professional Certificate Course in Generative AI and Machine Learning ...
-
-📺 Simplilearn
-
-👁️ 3K • 👍 147 • 16h ago
-
----
-
-**[YouTube AI is Getting Worse...](https://www.youtube.com/watch?v=QlBn_LbnxxQ)**
-
-YouTube's CEO Neal Mohan is fighting the AI slop/moderation problem by adding more AI. Neal said YouTube will be expanding ...
-
-📺 Deep Humor
-
-👁️ 20K • 👍 2K • 💬 625 • ⏱️ 10:28 • 2d ago
-
----
-
-**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
-
-Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
-
-📺 AI Revolution
-
-👁️ 42K • 👍 2K • 💬 73 • ⏱️ 12:50 • 1d ago
-
----
-
-**[Using AI to Raise Your Baby](https://www.youtube.com/watch?v=1voqPZSqSE4)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 1.1M • 👍 52K • 💬 6K • ⏱️ 8:35 • 2d ago
-
----
-
-**[Why is Everyone So Wrong About AI Water Use??](https://www.youtube.com/watch?v=H_c6MWk7PQc)**
-
-Go to https://ground.news/hank for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
-
-📺 Hank Green
-
-👁️ 1.7M • 👍 86K • 💬 9K • ⏱️ 24:00 • 3d ago
-
----
-
-**[See Inside the Data Center Helping to Power the AI Revolution](https://www.youtube.com/watch?v=KiRTHEV7wpo)**
-
-From emails to social media to online shopping, banking and chatting — everything we rely on everyday goes through an AI data ...
-
-📺 TODAY
-
-👁️ 13K • 👍 63 • 💬 18 • ⏱️ 3:20 • 1d ago
+👁️ 89K • 👍 4K • 💬 973 • ⏱️ 13:43 • 4h ago
 
 ---
 
@@ -379,7 +301,87 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 📺 CNBC Television
 
-👁️ 5K • 👍 103 • 💬 44 • ⏱️ 3:04 • 4h ago
+👁️ 9K • 👍 149 • 💬 58 • ⏱️ 3:04 • 5h ago
+
+---
+
+**[McDonald’s Pulls ‘Creepy’ AI Christmas ad After Viewer Backlash: ‘As Real as Their Hamburgers’](https://www.youtube.com/watch?v=HpWCvItr55c)**
+
+McDonald's has taken down a Christmas ad that was allegedly entirely produced with artificial intelligence after the brand was ...
+
+📺 New York Post
+
+👁️ 47K • 👍 332 • 💬 244 • ⏱️ 2:58 • 1d ago
+
+---
+
+**[In 2026, DON&#39;T Build AI Agents, Do This Instead..](https://www.youtube.com/watch?v=VASyr2DxEKE)**
+
+Check out Nebius today: ...
+
+📺 The Cutting Edge School
+
+👁️ 7K • 👍 554 • 💬 49 • ⏱️ 13:41 • 10h ago
+
+---
+
+**[What Ilya Saw: The Truth That Could Change Everything About AI’s Future](https://www.youtube.com/watch?v=AGddzUqJT7g)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 48K • 👍 2K • 💬 363 • ⏱️ 14:55 • 1d ago
+
+---
+
+**[Using AI to Raise Your Baby](https://www.youtube.com/watch?v=1voqPZSqSE4)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+
+📺 penguinz0
+
+👁️ 1.1M • 👍 53K • 💬 6K • ⏱️ 8:35 • 2d ago
+
+---
+
+**[McDonald&#39;s New AI Christmas Ad Disgusts Me](https://www.youtube.com/watch?v=I2IiAhsoSw4)**
+
+Jeremy's Razors - Visit https://jeremysrazors.com today! McDonald's has just released a fully AI generated Christmas ad. It's even ...
+
+📺 Matt Walsh
+
+👁️ 91K • 👍 5K • 💬 2K • ⏱️ 12:07 • 1d ago
+
+---
+
+**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
+
+Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
+
+📺 AI Revolution
+
+👁️ 43K • 👍 2K • 💬 75 • ⏱️ 12:50 • 1d ago
+
+---
+
+**[Steve Eisman on AI: LLM improvements will begin to gradually slow but not selling AI stocks I own](https://www.youtube.com/watch?v=wSJMtTETOv8)**
+
+Steve Eisman, former Neuberger Berman senior portfolio manager, joins 'Squawk Box' to discuss Eisman's health troubles, the ...
+
+📺 CNBC Television
+
+👁️ 30K • 👍 383 • 💬 100 • ⏱️ 4:34 • 9h ago
+
+---
+
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=WbZ1pfinVTs)**
+
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+
+📺 Impossible AIs
+
+👁️ 92K • 👍 365 • 💬 16 • ⏱️ 8:01 • 1d ago
 
 ---
 
@@ -391,11 +393,11 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 *Microsoft*
 
-VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimized for streaming input and long-form generation, achieving first audible speech in ~300ms. It's ideal for building real-time TTS services, narrating live data, and enabling LLMs to speak concurrently with text generation.
+VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~300ms latency, supporting streaming input for robust long-form generation, ideal for live narration and LLM integration.
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 725 • 2d ago
+⬇️ 80,162 • ❤️ 726 • 2d ago
 
 ---
 
@@ -403,7 +405,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 *Tongyi-MAI*
 
-Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimized for speed and resource usage, achieving sub-second inference with 8 NFEs and fitting within 16GB VRAM. It excels at photorealistic generation, bilingual text rendering (English/Chinese), and strong instruction adherence, making it suitable for rapid content creation on consumer hardware.
+Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model with 6B parameters, achieving sub-second inference on H800 GPUs with 8 NFEs. It excels at photorealistic generation, bilingual text rendering (English/Chinese), and instruction adherence, fitting within 16GB VRAM.
 
 `text-to-image`
 
@@ -415,11 +417,11 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 *Z.ai*
 
-GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, featuring native function calling for vision-driven tool use and interleaved image-text generation. It excels at multimodal document understanding and frontend replication, optimized for low-latency applications.
+GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, featuring native function calling for vision-driven tool use and interleaved content generation. It excels at multimodal document understanding, frontend replication, and low-latency applications.
 
 `image-text-to-text` `10.3B`
 
-⬇️ 18,587 • ❤️ 346 • 2d ago
+⬇️ 18,587 • ❤️ 347 • 2d ago
 
 ---
 
@@ -427,7 +429,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 *Z.ai*
 
-GLM-4.6V is a multimodal model supporting image-text-to-text generation with native function calling for vision-driven tool use. It excels at multimodal document understanding (up to 128k tokens), interleaved content generation, and frontend replication from UI screenshots.
+GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, featuring native function calling for vision-driven tool use, interleaved content generation, and advanced multimodal document understanding with a 128k context window. It's suitable for complex business scenarios requiring perception-to-action capabilities.
 
 `image-text-to-text` `107.7B`
 
@@ -439,11 +441,11 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 *Mistral AI_*
 
-Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for software engineering tasks, featuring a 256k context window and FP8 precision. It excels at tool usage, code exploration, and multi-file editing, making it ideal for AI code assistants and agentic coding applications.
+Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 262 • 1d ago
+⬇️ 7,222 • ❤️ 264 • 1d ago
 
 ---
 
@@ -451,7 +453,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 *Essential AI*
 
-Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and STEM tasks, excelling in code generation, agentic frameworks, and tool-calling.
+Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM, and agentic tasks, excelling at tool-calling and outperforming comparable models on benchmarks like SWE-bench.
 
 `text-generation` `8.3B`
 
@@ -463,7 +465,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 *DeepSeek*
 
-DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and agentic tasks, featuring DeepSeek Sparse Attention for long contexts and advanced RL training that rivals GPT-5, making it suitable for complex problem-solving and tool-use scenarios.
+DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and agentic AI, featuring DeepSeek Sparse Attention for long contexts and a scalable RL framework that achieves performance comparable to or exceeding GPT-5 and Gemini-3.0-Pro on complex tasks and benchmarks.
 
 `text-generation` `685.4B`
 
@@ -475,11 +477,11 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 *Z.ai*
 
-AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent assistance, capable of understanding smartphone screens via ADB and executing automated operations based on natural language commands for task completion.
+AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, enabling automated smartphone operations via ADB by understanding UI elements and executing natural language commands for task completion.
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 188 • 2d ago
+⬇️ 12,302 • ❤️ 190 • 2d ago
 
 ---
 
@@ -487,7 +489,7 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 *LongCat*
 
-LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusion model with 6B parameters, excelling in photorealism and accurate Chinese character rendering. It's designed for high performance and developer accessibility, suitable for diverse creative applications.
+LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image generation model known for its efficiency, superior Chinese text rendering, and photorealism, suitable for diverse creative applications.
 
 `text-to-image`
 
@@ -499,7 +501,7 @@ LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusi
 
 *Kashif Salahuddin*
 
-SamKash-Tolstoy is a LoRA adapter for DeepSeek-R1-Distill-Qwen-1.5B, specialized for generating text in the style of 19th-century Russian literature. It's ideal for creative writing, thematic analysis, and stylistic exploration within this domain.
+SamKash-Tolstoy is a lightweight LoRA adapter for text generation, specialized in emulating 19th-century Russian literature. It's trained on public-domain classics and academic articles, ideal for creators and scholars needing to draft scenes, analyze motifs, or explore stylistic transformations in that specific literary domain.
 
 `text-generation`
 
@@ -631,17 +633,17 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 ---
 
-**[TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows](https://huggingface.co/papers/2512.05150)**
+**[Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](https://huggingface.co/papers/2512.04926)**
 
-*Zhenglin Cheng, Peng Sun, Jianguo Li et al. (4 authors)*
+*Yueming Pan, Ruoyu Feng, Qi Dai et al. (8 authors)*
 
-🏢 inclusionAI
+🏢 Xi'an Jiaotong University
 
-TwinFlow is a 1-step generative model framework that enhances inference efficiency without requiring fixed pretrained teacher models or standard adversarial networks, achieving high performance on text-to-image tasks and scaling efficiently.
+Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 65 • 💬 8 • ⭐ 128 • 8d ago
+▲ 40 • 💬 2 • ⭐ 421 • 7d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2512.05150) • [💻 code](https://github.com/inclusionAI/TwinFlow) • [🔗 project](https://zhenglin-cheng.com/twinflow)
+[🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
 ---
 
@@ -705,7 +707,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 935 • 🔱 65 • 2d ago
+⭐ 936 • 🔱 65 • 2d ago
 
 ---
 
@@ -745,7 +747,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 610 • 🔱 88 • 8h ago
+⭐ 611 • 🔱 88 • 9h ago
 
 ---
 

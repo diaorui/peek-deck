@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T23:13:25.794014+00:00'
+updated: '2025-12-11T23:33:53.737749+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 23:13 UTC  
+**Last Updated:** December 11, 2025 at 23:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +7.4%  
-**30d:** -5.0%  
-**90d:** -30.2%  
-**1y:** -16.5%  
+**24h:** -1.0%  
+**7d:** +7.0%  
+**30d:** -5.3%  
+**90d:** -30.5%  
+**1y:** -16.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $390.75B
+**Market Cap:** $390.10B
 Rank #2
 
 **Circulating Supply:** 120,695,176 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.6%
+-34.7%
 
 **All-Time Low:** $0.43
-+747007.8%
++745987.0%
 
 ---
 
@@ -160,17 +160,29 @@ Decrypt • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, Ripple's XRP Slump After Fed Rate Cut. What It Means for Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcLeKZKnxXS6iuWiFUUkWaM5U8JEJPaDw7I1LplNgs2tabKaDDu4FRv&gaa_ts=693b582d&gaa_sig=ysiCpBp0zdMj4On4fW46PD5sAG1AokKw2Iv5uxXwi6bSAUzXPGuZvxQ0qIHg88LovpkRwn7OXTOXNQZ3QFkOpA%3D%3D)**
+
+Barron's • 11h ago
+
+---
+
+**[Bitcoin (BTC) Briefly Pumped Above $94,000, Ethereum (ETH) Jumped by 9%: Market Watch](https://cryptopotato.com/bitcoin-btc-briefly-pumped-above-94000-ethereum-eth-jumped-by-9-market-watch/)**
+
+CryptoPotato • 1d ago
+
+---
+
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
 The Block • 14h ago
 
 ---
 
-**[Ethereum Has Bottomed, Says BitMine Chairman Tom Lee—Here's Why](https://finance.yahoo.com/news/ethereum-bottomed-says-bitmine-chairman-183552349.html)**
+**[Why Did Ethereum Sink More Than 3% Today?](https://www.fool.com/investing/2025/12/11/why-did-ethereum-sink-more-than-3-today/)**
 
-BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
+There's one key reason why Ethereum is underperforming its mega-cap peers today.
 
-Yahoo Finance • 1d ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -179,6 +191,14 @@ Yahoo Finance • 1d ago
 The trading platform dives further into digital assets both domestically and globally.
 
 Fortune • 3d ago
+
+---
+
+**[Here's Why Ethereum Soared More than 6% Today, Breaking $3,300 for the First Time In Nearly a Month](https://www.nasdaq.com/articles/heres-why-ethereum-soared-more-6-today-breaking-3300-first-time-nearly-month)**
+
+Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -202,29 +222,7 @@ TradingView • 21h ago
 
 A Bitcoin OG has expanded their Ethereum long position to $392.5M on Hyperliquid, with liquidation set at $2,234 per ETH.
 
-Crypto Briefing • 21h ago
-
----
-
-**[Ethereum gains after BlackRock files for iShares Staked Ethereum Trust ETF (ETH-USD:Cryptocurrency)](https://seekingalpha.com/news/4529446-ethereum-gains-after-blackrock-files-for-ishares-staked-ethereum-trust-etf)**
-
-Ethereum (ETH-USD) was trading higherÂ after BlackRock (BLK) filed a preliminary prospectus with the U.S. Securities and Exchange Commission for its iShares Staked Ethereum Trust ETF.
-
-Seeking Alpha • 3d ago
-
----
-
-**[Vitalik Buterin Dismisses Ethereum Finality Concerns](https://coinmarketcap.com/academy/article/vitalik-buterin-dismisses-ethereum-finality-concerns)**
-
-Vitalik said hours-long delays caused by major bugs remain acceptable as long as the blockchain processes transactions without finalizing wrong information
-
-CoinMarketCap • 1d ago
-
----
-
-**[Bitcoin, Ethereum, Ripple's XRP Slump After Fed Rate Cut. What It Means for Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcPJoyM16Ul-ENk46ti9QxLLFSn7g0M7FlCoAVUTlxVPquN-0oFvlgR&gaa_ts=693b4e84&gaa_sig=2AwopXohHjquzxlooR84G3jym_D7smh3ZUt5ZX2YrT-S45arara7gz96bypwd4gsGtikNvzlGeKnuJEHoj_icQ%3D%3D)**
-
-Barron's • 11h ago
+Crypto Briefing • 22h ago
 
 ---
 
@@ -232,33 +230,33 @@ Barron's • 11h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee Just Flipped on Ethereum… Why?](https://www.youtube.com/watch?v=y48K7-hqmPQ)**
-
-Tom Lee just reversed his Ethereum outlook after previously calling for a drop to 20k before year-end. Now he says the next major ...
-
-📺 Ivan on Tech
-
-👁️ 16K • 👍 1K • 💬 97 • ⏱️ 10:42 • 7h ago
-
----
-
 **[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
 
 What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 609 • 💬 50 • ⏱️ 11:29 • 10h ago
+👁️ 14K • 👍 633 • 💬 80 • ⏱️ 11:29 • 11h ago
 
 ---
 
-**[BTC, ETH, &amp; SOL Slump Post FED](https://www.youtube.com/watch?v=jDJVJStCdIE)**
+**[Tom Lee Just Flipped on Ethereum… Why?](https://www.youtube.com/watch?v=y48K7-hqmPQ)**
 
-BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE THE TOP COINS (available ...
+Tom Lee just reversed his Ethereum outlook after previously calling for a drop to 20k before year-end. Now he says the next major ...
 
-📺 Lark Davis
+📺 Ivan on Tech
 
-👁️ 14K • 👍 752 • 💬 73 • ⏱️ 44:48 • 11h ago
+👁️ 19K • 👍 1K • 💬 117 • ⏱️ 10:42 • 8h ago
+
+---
+
+**[BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bCP9EbFyeeo)**
+
+BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 878 • 👍 94 • 💬 19 • ⏱️ 18:15 • 37m ago
 
 ---
 
@@ -268,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 174 • 💬 4 • ⏱️ 6:54 • 8h ago
+👁️ 3K • 👍 182 • 💬 4 • ⏱️ 6:54 • 9h ago
 
 ---
 
@@ -278,17 +276,17 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 342 • ⏱️ 10:23 • 20h ago
+👁️ 52K • 👍 3K • 💬 345 • ⏱️ 10:23 • 21h ago
 
 ---
 
-**[ETHEREUM ABOUT TO PUMP HIGHER?🔥 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=6RIo4D7ADGA)**
+**[BTC, ETH, &amp; SOL Slump Post FED](https://www.youtube.com/watch?v=jDJVJStCdIE)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE THE TOP COINS (available ...
 
-📺 Cilinix Crypto
+📺 Lark Davis
 
-👁️ 912 • 👍 43 • 💬 8 • ⏱️ 4:36 • 13h ago
+👁️ 15K • 👍 771 • 💬 74 • ⏱️ 44:48 • 11h ago
 
 ---
 
@@ -298,7 +296,17 @@ CRYPTO MARKET UPDATE Join the Premium Signal Group for trade setups, mentorship 
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 118 • 💬 13 • ⏱️ 9:38 • 8h ago
+👁️ 2K • 👍 124 • 💬 32 • ⏱️ 9:38 • 8h ago
+
+---
+
+**[ETHEREUM ABOUT TO PUMP HIGHER?🔥 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=6RIo4D7ADGA)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 961 • 👍 44 • 💬 9 • ⏱️ 4:36 • 13h ago
 
 ---
 
@@ -308,7 +316,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 19K • 👍 714 • 💬 103 • ⏱️ 1:10:46 • 1d ago
+👁️ 20K • 👍 736 • 💬 104 • ⏱️ 1:10:46 • 1d ago
 
 ---
 
@@ -318,17 +326,7 @@ ETH isn't just lagging — its story broke. It's down ~3× more than BTC from th
 
 📺 Ryan’s Money Lab
 
-👁️ 635 • 👍 59 • 💬 8 • ⏱️ 15:43 • 4h ago
-
----
-
-**[BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IOOEf_DuzzU)**
-
-BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 373 • 💬 157 • ⏱️ 18:26 • 22h ago
+👁️ 1K • 👍 87 • 💬 11 • ⏱️ 15:43 • 4h ago
 
 ---
 

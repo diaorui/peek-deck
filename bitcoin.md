@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T23:13:25.788013+00:00'
+updated: '2025-12-11T23:33:53.731753+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 23:13 UTC  
+**Last Updated:** December 11, 2025 at 23:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +3.9%  
-**30d:** -9.1%  
-**90d:** -20.2%  
-**1y:** -7.4%  
+**24h:** +0.9%  
+**7d:** +3.7%  
+**30d:** -9.3%  
+**90d:** -20.4%  
+**1y:** -7.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1843.10B
+**Market Cap:** $1847.19B
 Rank #1
 
-**Circulating Supply:** 19,960,843 BTC
+**Circulating Supply:** 19,960,865 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.8%
+-26.6%
 
 **All-Time Low:** $67.81
-+135962.5%
++136317.9%
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[Bitcoin vs Fiat, The Difference is Clear....!](https://www.reddit.com/r/Bitcoin/comments/1pk7vym/bitcoin_vs_fiat_the_difference_is_clear/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -117,21 +117,13 @@ Rank #1
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
 
-2h ago
+3h ago
 
 ---
 
 **[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
 
-3h ago
-
----
-
-**[Can you relate?](https://www.reddit.com/r/Bitcoin/comments/1pk1i4g/can_you_relate/)**
-
-For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
-
-6h ago
+4h ago
 
 ---
 
@@ -143,21 +135,27 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 ---
 
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
+
+3h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
+
+Reuters • 10h ago
+
+---
 
 **[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 22h ago
-
----
-
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
-
-Reuters • 10h ago
+BBC • 23h ago
 
 ---
 
@@ -169,29 +167,27 @@ Bloomberg.com • 1h ago
 
 ---
 
+**[Twenty One Capital Stock Falls 19% as Market Meets the New Bitcoin Company](https://www.barrons.com/articles/twenty-one-capital-stock-drops-39aef71b?gaa_at=eafs&gaa_n=AWEtsqcpQIvmOSHvVDzKJevvatjQw2euwiNAzIDZ3hecVAN4wicVTmsQ9sYh&gaa_ts=693b5828&gaa_sig=hhjwHT15cuPqofViAphfjKX30jpZFdSEX36wus7bIXDuNId3a5D0aMvC_yGDY9oLGD2AWfPhZIEhA6WRCi1vLA%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
 Investor's Business Daily • 1d ago
 
 ---
 
-**[Twenty One Capital Drops in NYSE Debut as Bitcoin Treasury Firms Face ‘Broader Re-Pricing’](https://finance.yahoo.com/news/twenty-one-capital-drops-nyse-115955127.html)**
-
-The debut underperformed its SPAC benchmark, as investors pull back from Bitcoin treasury plays in favor of clearer operating models.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqd41PvKxQQuZj-xv-L-fYx38LlAxRbMYXxUx9tJ1mLrxp05FGZzIgJe&gaa_ts=693b4e82&gaa_sig=ZNPRtYgqtGOG4t1MIjOHwM5FR5SGCCXDtKXyyVUCb5ZGNfTGDyi4cGdX7IlGwtsFPjKgziM4KFJ7eAWJ6dgkcg%3D%3D)**
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqd8mQ8PXkYbvxGlQzNLxEBqfLIjO93C67B1ReI4hBSRSZEpRqoHVufq&gaa_ts=693b5828&gaa_sig=eD5mIy7_n5sVIfJkIvRt8LibKCc5nz2WxuOStcccX4JwSZWhvO7D2oeVntTMYYdFFc7kfFIhMIZZuwmUnC8r7w%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Save the Children Launches Bitcoin Fund as Aid Groups Look for Faster Crisis Payments](https://finance.yahoo.com/news/save-children-launches-bitcoin-fund-214036857.html)**
+**[Here's Why Bitcoin Rallied 4% Off Of Today's Lows](https://finance.yahoo.com/news/heres-why-bitcoin-rallied-4-221418033.html)**
 
-Save the Children introduced a Bitcoin fund aimed at speeding cash assistance during emergencies and expanding its use of crypto tools.
+Bitcoin's choppy price action today could be a harbinger of what's to come for this sector.
 
 Yahoo Finance • 1h ago
 
@@ -203,17 +199,17 @@ Investor's Business Daily • 4h ago
 
 ---
 
-**[Strategy says MSCI’s 50% bitcoin test risks index ‘whiplash’ and conflicts with US pro-innovation policy](https://www.theblock.co/post/382068/strategy-msci-bitcoin-test-index-whiplash-conflicts-innovation)**
-
-The Block • 1d ago
-
----
-
 **['National Security' at Risk If MSCI Excludes Crypto Treasuries, Warns Bitcoin Giant Strategy](https://decrypt.co/351880/national-security-risk-msci-excludes-crypto-treasuries-warns-bitcoin-strategy)**
 
 Bitcoin treasury leader Strategy argued to MSCI that excluding a crypto-buying firms from its indices would hurt America’s national security.
 
 Decrypt • 1d ago
+
+---
+
+**[MicroStrategy sends sharp warning letter to MSCI](https://www.thestreet.com/crypto/markets/microstrategy-sends-sharp-warning-letter-to-msci)**
+
+TheStreet • 1d ago
 
 ---
 
@@ -230,6 +226,8 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 ---
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
+
+Track Bitcoin holdings of public companies, governments, and institutions. Live data on corporate BTC treasuries with real-time valuations.
 
 ⬆️ 2 • 💬 1 • 4d ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
@@ -253,7 +251,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 23h ago
+⬆️ 2 • 💬 0 • 1d ago
 
 ---
 
@@ -281,7 +279,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 5 • 💬 0 • 1h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 6 • 💬 0 • 1h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -303,67 +301,17 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 609 • 💬 50 • ⏱️ 11:29 • 10h ago
+👁️ 14K • 👍 633 • 💬 80 • ⏱️ 11:29 • 11h ago
 
 ---
 
-**[Oh Boy… Bitcoin Investors Didn’t Expect THIS Today](https://www.youtube.com/watch?v=dHLB-NAeSjg)**
+**[Why Bitcoin’s Next Big Move Is Closer Than Everyone Thinks](https://www.youtube.com/watch?v=JWUeyIQ-cb8)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 48K • 👍 2K • 💬 593 • ⏱️ 8:26 • 22h ago
-
----
-
-**[Bitcoin DUMPS As Fed Rate Cut Threatens Crypto Rally!](https://www.youtube.com/watch?v=vYI1COYtJU4)**
-
-Bitcoin #Crypto #Finance Guests Markus Thielen - https://youtube.com/live/vYI1COYtJU4 If you want to see how people are ...
-
-📺 The Wolf Of All Streets
-
-👁️ 14K • 👍 739 • 💬 272 • ⏱️ 35:32 • 8h ago
-
----
-
-**[Banks Are BENDING THE KNEE to Bitcoin... But There&#39;s a Catch (OCC Greenlight&#39;s Crypto Deals!)](https://www.youtube.com/watch?v=8U3dwE8Iz64)**
-
-The U.S. just gave banks the green light to dive into Bitcoin—no custody needed. From OCC approval to PNC offering real BTC to ...
-
-📺 Simply Bitcoin
-
-👁️ 12K • 👍 1K • 💬 103 • ⏱️ 15:31 • 9h ago
-
----
-
-**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
-
-LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
-
-📺 Altcoin Daily
-
-👁️ 51K • 👍 3K • 💬 342 • ⏱️ 10:23 • 20h ago
-
----
-
-**[Bitcoin vs. The Fed: Who Wins in 2026?](https://www.youtube.com/watch?v=VXZZYeCuM-U)**
-
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the Fed's year-end shift ...
+Mel Mattison is one of the leading macro strategists on the internet, known for his deep insights into global markets and digital ...
 
 📺 Anthony Pompliano
 
-👁️ 28K • 👍 944 • 💬 33 • ⏱️ 32:26 • 1d ago
-
----
-
-**[The Secret War Behind Bitcoin&#39;s Price Crash (Not What You Think)](https://www.youtube.com/watch?v=4cVGR6n7ttY)**
-
-Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be engineering your complete Wealth Operating ...
-
-📺 Mark Moss
-
-👁️ 107K • 👍 5K • 💬 408 • ⏱️ 21:05 • 1d ago
+👁️ 2K • 👍 237 • 💬 12 • ⏱️ 48:24 • 1h ago
 
 ---
 
@@ -373,25 +321,77 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 3K • 👍 394 • 💬 153 • ⏱️ 14:43 • 3h ago
+👁️ 6K • 👍 681 • 💬 269 • ⏱️ 14:43 • 3h ago
 
 ---
 
-**[The INEVITABLE Bitcoin Catch Up Trade Started Yesterday! [You Have 24H]](https://www.youtube.com/watch?v=65KgU0oEeOg)**
+**[Banks Are BENDING THE KNEE to Bitcoin... But There&#39;s a Catch (OCC Greenlight&#39;s Crypto Deals!)](https://www.youtube.com/watch?v=8U3dwE8Iz64)**
 
-The biggest crypto catch-up trade has begun, and Ran explains what's driving it. Bitcoin is breaking out, but key signals suggest ...
+The U.S. just gave banks the green light to dive into Bitcoin—no custody needed. From OCC approval to PNC offering real BTC to ...
 
-📺 Crypto Banter
+📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 42 • ⏱️ 29:14 • 1d ago
+👁️ 15K • 👍 1K • 💬 184 • ⏱️ 15:31 • 9h ago
 
 ---
 
-**[AMAZING XRP SOLANA PARTNERSHIP INCOMING?! #crypto #cryptocurrency #xrp #solana](https://www.youtube.com/watch?v=nxqrlvFuV3A)**
+**[Oh Boy… Bitcoin Investors Didn’t Expect THIS Today](https://www.youtube.com/watch?v=dHLB-NAeSjg)**
 
-📺 CryptoWendyO
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-👁️ 16K • 👍 1K • 💬 58 • ⏱️ 2:20 • 1d ago
+📺 CryptosRUs
+
+👁️ 49K • 👍 2K • 💬 613 • ⏱️ 8:26 • 22h ago
+
+---
+
+**[Bitcoin&#39;s Next HUGE Move After Fed Decision](https://www.youtube.com/watch?v=Xi1fXhubsjE)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 22K • 👍 1K • 💬 106 • ⏱️ 44:44 • 8h ago
+
+---
+
+**[The Secret War Behind Bitcoin&#39;s Price Crash (Not What You Think)](https://www.youtube.com/watch?v=4cVGR6n7ttY)**
+
+Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be engineering your complete Wealth Operating ...
+
+📺 Mark Moss
+
+👁️ 111K • 👍 5K • 💬 422 • ⏱️ 21:05 • 1d ago
+
+---
+
+**[Bitcoin DUMPS As Fed Rate Cut Threatens Crypto Rally!](https://www.youtube.com/watch?v=vYI1COYtJU4)**
+
+Bitcoin #Crypto #Finance Guests Markus Thielen - https://youtube.com/live/vYI1COYtJU4 If you want to see how people are ...
+
+📺 The Wolf Of All Streets
+
+👁️ 16K • 👍 780 • 💬 283 • ⏱️ 35:32 • 8h ago
+
+---
+
+**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
+
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 52K • 👍 3K • 💬 345 • ⏱️ 10:23 • 21h ago
+
+---
+
+**[Bitcoin vs. The Fed: Who Wins in 2026?](https://www.youtube.com/watch?v=VXZZYeCuM-U)**
+
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the Fed's year-end shift ...
+
+📺 Anthony Pompliano
+
+👁️ 29K • 👍 955 • 💬 33 • ⏱️ 32:26 • 1d ago
 
 ---
 
