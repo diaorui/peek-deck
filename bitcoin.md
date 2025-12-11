@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T02:32:55.029285+00:00'
+updated: '2025-12-11T03:47:48.478851+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 02:32 UTC  
+**Last Updated:** December 11, 2025 at 03:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,318.49
+### $89,680.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +1.0%  
-**30d:** -11.6%  
-**90d:** -22.4%  
-**1y:** -10.0%  
+**24h:** -3.0%  
+**7d:** +0.9%  
+**30d:** -11.7%  
+**90d:** -22.5%  
+**1y:** -10.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1799.98B
+**Market Cap:** $1792.78B
 Rank #1
 
 **Circulating Supply:** 19,960,431 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.8%
 
 **All-Time Low:** $67.81
-+132685.7%
++132330.3%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 We back baby!
 
-4h ago
+5h ago
 
 ---
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ We back baby!
 
 Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young and stupid”. Priority was go to the cinema with my GF (now wife). Now, we sometimes get back to that time and this ATM with that BTC price, crying about our stupidity not buying. Some years later, started to stack sats . Got married (sold all my stocks for the wedding), btw. I had AMD at ~7$, CDProject ~2$ and many more 😁 Bought a house, my son was born. Got mortgage (value of the house went like +200% now), 30% in ETF, 70% BTC. Be happy, DCA, HODL and be free 🔥🚀 Peace!
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +103,15 @@ Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young
 
 Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-5h ago
+6h ago
+
+---
+
+**[Companies Are Hoarding Bitcoin and It’s Starting To Get Crazy](https://www.reddit.com/r/Bitcoin/comments/1pjmhn0/companies_are_hoarding_bitcoin_and_its_starting/)**
+
+Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
+
+57m ago
 
 ---
 
@@ -111,19 +119,13 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 Bottom tex
 
-12h ago
+13h ago
 
 ---
 
 **[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
 
-4h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
-
-8h ago
+5h ago
 
 ---
 
@@ -131,7 +133,13 @@ Bottom tex
 
 2025: It’s no longer just one black sheep. We’re already the 4% who get what Bitcoin is really bringing… and we’re still learning. We’re a scattered pack of black sheep now… but getting more visible every day. nostr: npub1855ur6q8lf7pjfvceg3s5qd0zuujqyz59h8zmxpquflunfpwkv4s3x3y8v #Bitcoin #CryptoMemes #HODL #BitcoinMemes
 
-1h ago
+2h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
+
+9h ago
 
 ---
 
@@ -139,35 +147,13 @@ Bottom tex
 
 Hi all, I'm looking for a way to buy Bitcoin without KYC, I heard about localbitcoins back in the days but i noticed it was closed, I really couldn't fin anything else, do you have a place to do that?
 
-6h ago
-
----
-
-**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
-
-1d ago
+7h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
-
-BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
-
-Bloomberg.com • 2d ago
-
----
-
-**[Night owl bitcoin traders: Soon there'll be an ETF just for you](https://www.cnbc.com/2025/12/10/night-owl-bitcoin-traders-soon-therell-be-an-etf-just-for-you.html)**
-
-If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
-
-CNBC • 3h ago
-
----
 
 **[Bitcoin ETF (BTC) News: Boutique Firm Nicholas Files for Fund Skipping U.S. Trading Hours](https://www.coindesk.com/markets/2025/12/09/nicholas-proposes-afterdark-bitcoin-etf-that-skips-u-s-trading-hours)**
 
@@ -177,11 +163,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://decrypt.co/351847/bitcoin-ethereum-federal-reserve-cuts-rates)**
+**[Night owl bitcoin traders: Soon there'll be an ETF just for you](https://www.cnbc.com/2025/12/10/night-owl-bitcoin-traders-soon-therell-be-an-etf-just-for-you.html)**
 
-The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
+If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-Decrypt • 7h ago
+cnbc.com • 4h ago
+
+---
+
+**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
+
+BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
+
+Bloomberg.com • 2d ago
+
+---
+
+**[Bitcoin Slides Below $90,000 After Fed Cut Even as Stocks Rally](https://www.bloomberg.com/news/articles/2025-12-11/bitcoin-btc-slides-below-90-000-after-fed-cut-while-stocks-rally)**
+
+Bitcoin slipped in Asia trading hours while other risk assets gained after the US Federal Reserve cut interest rates and expressed optimism about the economy.
+
+Bloomberg.com • 46m ago
 
 ---
 
@@ -189,19 +191,37 @@ Decrypt • 7h ago
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 2h ago
+BBC • 3h ago
+
+---
+
+**[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
+
+If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
+
+NPR • 19h ago
+
+---
+
+**[Crypto Winter Squeezes Bitcoin Miners as AI Pivot Gains Urgency](https://www.bloomberg.com/news/articles/2025-12-10/crypto-winter-squeezes-bitcoin-miners-as-ai-pivot-gains-urgency)**
+
+The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
+
+Bloomberg.com • 13h ago
+
+---
+
+**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
+
+In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
+
+WIRED • 1d ago
 
 ---
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 14h ago
-
----
-
-**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqcZAhlfA_04VCDgeBm1h1cbnFL2caOEo0E_GPsTvXFDH5zj0UDZwlQk&gaa_ts=693a30c5&gaa_sig=1T73tU-sSqi4JOSBJ3bmgKu3tr5YFCtE5qPJv-MMzSeJaPm7raP_iphB80c9pRs_QuJ7oyuGauz1Bpacali7mw%3D%3D)**
-
-The Wall Street Journal • 1d ago
+Investor's Business Daily • 16h ago
 
 ---
 
@@ -210,22 +230,6 @@ The Wall Street Journal • 1d ago
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
 Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
-
-If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
-
-NPR • 18h ago
-
----
-
-**[Crypto Winter Squeezes Bitcoin Miners as AI Pivot Gains Urgency](https://www.bloomberg.com/news/articles/2025-12-10/crypto-winter-squeezes-bitcoin-miners-as-ai-pivot-gains-urgency)**
-
-The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
-
-Bloomberg.com • 12h ago
 
 ---
 
@@ -267,7 +271,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 15h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 16h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -281,7 +285,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 3h ago
+⬆️ 2 • 💬 0 • 4h ago
 
 ---
 
@@ -301,7 +305,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 14h ago
+⬆️ 3 • 💬 0 • 15h ago
 
 ---
 
@@ -309,23 +313,23 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ## YouTube Videos: "bitcoin"
 
+**[Oh Boy… Bitcoin Investors Didn’t Expect THIS Today](https://www.youtube.com/watch?v=dHLB-NAeSjg)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 1K • 💬 375 • ⏱️ 8:26 • 2h ago
+
+---
+
 **[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
 
 CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 525 • 💬 91 • ⏱️ 8:34 • 5h ago
-
----
-
-**[Bitcoin vs. The Fed: Who Wins in 2026?](https://www.youtube.com/watch?v=VXZZYeCuM-U)**
-
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the Fed's year-end shift ...
-
-📺 Anthony Pompliano
-
-👁️ 7K • 👍 426 • 💬 3 • ⏱️ 32:26 • 4h ago
+👁️ 13K • 👍 580 • 💬 108 • ⏱️ 8:34 • 6h ago
 
 ---
 
@@ -335,77 +339,77 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 10K • 👍 1K • 💬 95 • ⏱️ 21:05 • 3h ago
+👁️ 34K • 👍 2K • 💬 293 • ⏱️ 21:05 • 4h ago
 
 ---
 
-**[This Is the Perfect Setup for a NON-STOP Bitcoin Bull Run - Mike Novogratz](https://www.youtube.com/watch?v=OC0hUB_JN2o)**
+**[Bitcoin vs. The Fed: Who Wins in 2026?](https://www.youtube.com/watch?v=VXZZYeCuM-U)**
+
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the Fed's year-end shift ...
+
+📺 Anthony Pompliano
+
+👁️ 14K • 👍 583 • 💬 3 • ⏱️ 32:26 • 5h ago
+
+---
+
+**[the bitcoin B**G is actually confirmed.... the Federal Reserve is ******](https://www.youtube.com/watch?v=OThYSHZpajc)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 14K • 👍 738 • 💬 169 • ⏱️ 5:12 • 7h ago
+
+---
+
+**[Did the Federal Reserve Just DESTROY Bitcoin’s 4-Year Cycle?!](https://www.youtube.com/watch?v=0Wgyk7VAHBE)**
+
+Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled the trigger. With rate cuts incoming, QE ...
+
+📺 Simply Bitcoin
+
+👁️ 11K • 👍 1K • 💬 104 • ⏱️ 16:48 • 3h ago
+
+---
+
+**[Strategy (MSTR) CEO on Bitcoin Treasury, Balance Sheet &amp; MSCI Push Back](https://www.youtube.com/watch?v=5nuxfvER0VY)**
+
+Phong Le, CEO of Strategy (MSTR), explains why he sees the company as a viable option amid the rise in cryptocurrencies.
+
+📺 Schwab Network
+
+👁️ 1K • 👍 50 • 💬 7 • ⏱️ 9:04 • 2h ago
+
+---
+
+**[Three Bitcoin Bottoms Look Identical Signaling A Huge Move Coming Next](https://www.youtube.com/watch?v=hqeGptGT2MM)**
+
+In this clip, I discuss the bottom signals that point towards a bitcoin reversal. **Exchange Partners** Bitunix Exchange ...
+
+📺 CryptosRus Extra
+
+👁️ 2K • 👍 159 • 💬 139 • ⏱️ 9:23 • 3h ago
+
+---
+
+**[Bitcoin Is Repeating 2019 And Most People Are Completely Asleep - Ben Cowen](https://www.youtube.com/watch?v=mF6TOLw1IxU)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 142 • 💬 8 • ⏱️ 21:00 • 10h ago
+👁️ 7K • 👍 291 • 💬 19 • ⏱️ 21:52 • 1d ago
 
 ---
 
-**[The INEVITABLE Bitcoin Catch Up Trade Started Yesterday! [You Have 24H]](https://www.youtube.com/watch?v=65KgU0oEeOg)**
+**[Michael Saylor: “We’re Buying More Bitcoin Than Sellers Can Sell”](https://www.youtube.com/watch?v=Io3V7H-862c)**
 
-The biggest crypto catch-up trade has begun, and Ran explains what's driving it. Bitcoin is breaking out, but key signals suggest ...
+Michael Saylor declares he's more bullish than ever, stating his team can buy more Bitcoin than sellers can sell—and that they're ...
 
-📺 Crypto Banter
+📺 Bitcoin Magazine
 
-👁️ 24K • 👍 2K • 💬 31 • ⏱️ 29:14 • 11h ago
-
----
-
-**[This Is Actually Happening on Bitcoin.](https://www.youtube.com/watch?v=M_VN8SPMlNw)**
-
-Cyber Monday Special Offer! Get a 40% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING December 10, ...
-
-📺 Bravos Research Crypto
-
-👁️ 16K • 👍 922 • 💬 23 • ⏱️ 6:51 • 8h ago
-
----
-
-**[Bitcoin Investors...Get Ready for FOMC Press Conference](https://www.youtube.com/watch?v=Hw21byHsv_w)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 28K • 👍 1K • 💬 196 • ⏱️ 41:09 • 11h ago
-
----
-
-**[BREAKING: Michael Saylor Reveals That EVERY MAJOR Bank is Buying Bitcoin?! | EP 1394](https://www.youtube.com/watch?v=nYLaxkfPxis)**
-
-Michael Saylor drops a BOMBSHELL at Bitcoin MENA that PROVES 2026 is gonna be BULLISH AF!
-
-📺 Simply Bitcoin
-
-👁️ 14K • 👍 683 • 💬 112 • ⏱️ 1:20:17 • 1d ago
-
----
-
-**[Is the Fed About to Trigger the Next Bitcoin Boom?](https://www.youtube.com/watch?v=7CnyO1Ep3YU)**
-
-Anthony and John Pompliano dig into what's really at stake at the upcoming Federal Reserve meeting — whether the move ...
-
-📺 Anthony Pompliano
-
-👁️ 28K • 👍 993 • 💬 32 • ⏱️ 35:48 • 1d ago
-
----
-
-**[Did Jack Mallers Just Build Bitcoin’s FIRST $1 Trillion Company?!](https://www.youtube.com/watch?v=AJsTfBKSt4U)**
-
-Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most explosive Bitcoin-backed company in history—21 ...
-
-📺 Simply Bitcoin
-
-👁️ 60K • 👍 3K • 💬 275 • ⏱️ 16:39 • 1d ago
+👁️ 12K • 👍 306 • 💬 24 • ⏱️ 0:36 • 1d ago
 
 ---
 

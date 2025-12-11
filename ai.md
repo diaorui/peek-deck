@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T02:32:55.020666+00:00'
+updated: '2025-12-11T03:47:48.470270+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 02:32 UTC  
+**Last Updated:** December 11, 2025 at 03:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI companies basically:](https://www.reddit.com/r/artificial/comments/1pj41sq/ai_companies_basically/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 10h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 11h ago
 
 ---
 
@@ -55,7 +55,7 @@ The start-up is falling behind in the AI race.
 
 A lot of people use the term “AI hallucination,” but many don’t clearly understand what it actually means. In simple terms, AI hallucination is when a model produces information that sounds confident and well-structured, but is actually incorrect, fabricated, or impossible to verify. This includes things like made-up academic papers, fake book references, invented historical facts, or technical explanations that look right on the surface but fall apart under real checking. The real danger is not that it gets things wrong — it’s that it often gets them wrong in a way that sounds extremely convincing. Most people assume hallucination is just a bug that engineers haven’t fully fixed yet. In reality, it’s a natural side effect of how large language models work at a fundamental level. These systems don’t decide what is true. They predict what is most statistically likely to come next in a sequence of words. When the underlying information is missing, weak, or ambiguous, the model doesn’t stop — it completes the pattern anyway. That’s why hallucination often appears when context is vague, when questions demand certainty, or when the model is pushed to answer things beyond what its training data can reliably support. Interestingly, hallucination feels “human-like” for a reason. Humans also guess when they’re unsure, fill memory gaps with reconstructed stories, and sometimes speak confidently even when they’re wrong. In that sense, hallucination is not machine madness — it’s a very human-shaped failure mode expressed through probabilistic language generation. The model is doing exactly what it was trained to do: keep the sentence going in the most plausible way. There is no single trick that completely eliminates hallucination today, but there are practical ways to reduce it. Strong, precise context helps a lot. Explicitly allowing the model to express uncertainty also helps, because hallucination often worsens when the prompt demands absolute certainty. Forcing source grounding — asking the model to rely only on verifiable public information and to say when that’s not possible — reduces confident fabrication. Breaking complex questions into smaller steps is another underrated method, since hallucination tends to grow when everything is pushed into a single long, one-shot answer. And when accuracy really matters, cross-checking across different models or re-asking the same question in different forms often exposes structural inconsistencies that signal hallucination. The hard truth is that hallucination can be reduced, but it cannot be fully eliminated with today’s probabilistic generation models. It’s not just an accidental mistake — it’s a structural byproduct of how these systems generate language. No matter how good alignment and safety layers become, there will always be edge cases where the model fills a gap instead of stopping. This quietly creates a responsibility shift that many people underestimate. In the traditional world, humans handled judgment and machines handled execution. In the AI era, machines handle generation, but humans still have to handle judgment. If people fully outsource judgment to AI, hallucination feels like deception. If people keep judgment in the loop, hallucination becomes manageable noise instead of a catastrophic failure. If you’ve personally run into a strange or dangerous hallucination, I’d be curious to hear what it was — and whether you realized it immediately, or only after checking later.
 
-4h ago
+5h ago
 
 ---
 
@@ -69,7 +69,21 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 9h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 10h ago
+
+---
+
+**[Trump’s push for more AI data centers faces backlash from his own voters](https://www.reddit.com/r/artificial/comments/1pj7pr6/trumps_push_for_more_ai_data_centers_faces/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 10h ago
+
+---
+
+**[Tim Dettmers (CMU / Ai2 alumni) does not believe AGI will ever happen](https://www.reddit.com/r/artificial/comments/1pjn08v/tim_dettmers_cmu_ai2_alumni_does_not_believe_agi/)**
+
+If you are reading this, you probably have strong opinions about AGI, superintelligence, and the future of AI. Maybe you believe we are on the cusp of a transformative breakthrough. Maybe you are skeptical. This blog post is for those who want to think more carefully about these claims and examine them from a perspective […]
+
+🔗 [Tim Dettmers](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) • 32m ago
 
 ---
 
@@ -81,17 +95,11 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 ---
 
-**[Trump’s push for more AI data centers faces backlash from his own voters](https://www.reddit.com/r/artificial/comments/1pj7pr6/trumps_push_for_more_ai_data_centers_faces/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 9h ago
-
----
-
 **[Physical AI will automate ‘large sections’ of factory work in the next decade, Arm CEO Rene Haas says](https://www.reddit.com/r/artificial/comments/1piyfc1/physical_ai_will_automate_large_sections_of/)**
 
 Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 16h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 18h ago
 
 ---
 
@@ -99,15 +107,7 @@ Reprogrammable humanoid robots could level the global manufacturing playing fiel
 
 I’ve spent the last year really putting AI to work, writing content, handling client projects, digging into research, automating stuff, and even building my own custom GPTs. After hundreds of hours messing around, I picked up a few lessons I wish someone had just told me from the start. No hype here, just honest things that actually made my results better: 1. Stop asking AI “What should I do?”, ask “What options do I have?” AI’s not great at picking the perfect answer right away. But it shines when you use it to brainstorm possibilities. So, instead of: “What’s the best way to improve my landing page?” Say: “Give me 5 different ways to improve my landing page, each based on a different principle (UX, clarity, psychology, trust, layout). Rank them by impact.” You’ll get way better results. 2. Don’t skip the “requirements stage.” Most of the time, AI fails because people jump straight to the end. Slow down. Ask the model to question you first. Try this: “Before creating anything, ask me 5 clarification questions to make sure you get it right.” Just this step alone cuts out most of the junky outputs, way more than any fancy prompt trick. 3. Tell AI it’s okay to be wrong at first. AI actually does better when you take the pressure off early on. Say something like: “Give me a rough draft first. I’ll go over it with you.” That rough draft, then refining together, then finishing up, that’s how the actually get good outputs. 4. If things feel off, don’t bother fixing, just restart the thread. People waste so much time trying to patch up a weird conversation. If the model starts drifting in tone, logic, or style, the fastest fix is just to start fresh: “New conversation: You are [role]. Your goal is [objective]. Start from scratch.” AI memory in a thread gets messy fast. A reset clears up almost all the weirdness. 5. Always run 2 outputs and then merge them. One output? Total crapshoot. Two outputs? Much more consistent. Tell the AI: “Give me 2 versions with different angles. I’ll pick the best parts.” Then follow up with: “Merge both into one polished version.” You get way better quality with hardly any extra effort. 6. Stop using one giant prompt, start building mini workflows. Beginners try to do everything in one big prompt. The experts break it into 3–5 bite-size steps. Here’s a simple structure: - Ask questions - Generate options - Pick a direction - Draft it - Polish Just switching to this approach will make everything you do with AI better. If you want more tips, just let me know and i'll send you a document with more of them.
 
-10h ago
-
----
-
-**[This Changed how I see AI](https://www.reddit.com/r/artificial/comments/1pjkau2/this_changed_how_i_see_ai/)**
-
-This Changed How I See AI... I just watched this clip from DOAC w/ Steven Bartlett and honestly, it might be one of the most important conversations about AI you’ll see this year. If you care about where AI is taking us, real risks, timelines, and what insiders are actually warning us about (not the usual hype), this will hit hard. It made me rethink a lot of assumptions I had and I think more people should be talking about this. Watch or listen to it here: https://doac-perks.com/listen/bZLGE-d-kB?e=BFU1OCkhBwo Comment below what you think after watching! Curious how others are seeing this too..
-
-1h ago
+12h ago
 
 ---
 
@@ -115,9 +115,17 @@ This Changed How I See AI... I just watched this clip from DOAC w/ Steven Bartle
 
 ## Google News: "ai"
 
+**[Inside Meta’s Pivot From Open Source to Money-Making AI Model](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model)**
+
+Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
+
+Bloomberg.com • 13h ago
+
+---
+
 **[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -125,23 +133,7 @@ The New York Times • 11h ago
 
 Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-CNBC • 1d ago
-
----
-
-**[Inside Meta’s Pivot From Open Source to Money-Making AI Model](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model)**
-
-Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
-
-Bloomberg.com • 12h ago
-
----
-
-**[McDonald's pulls 'creepy' AI-generated Christmas ad after viewer backlash](https://www.foxbusiness.com/media/mcdonalds-pulls-creepy-ai-generated-christmas-ad-after-viewer-backlash)**
-
-McDonald's confirmed to Fox News Digital that it removed its artificial intelligence-generated Christmas advertisement from YouTube after viewer backlash.
-
-Fox Business • 2h ago
+cnbc.com • 1d ago
 
 ---
 
@@ -149,45 +141,55 @@ Fox Business • 2h ago
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
-**[McDonald’s Pulls Down AI-Generated Holiday Ad After Deluge of Mockery](https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial)**
+**[‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash](https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash)**
 
-McDonald's Netherlands is catching flak for a stupefying AI-generated video, which was roundly condemned on social media.
+Commercial in Netherlands depicting festival-season chaos at ‘most terrible time of year’ prompted flurry of criticism online
 
-Futurism • 1d ago
-
----
-
-**[How Trump’s AI push, energy prices and angry neighbors are colliding in the Arizona desert](https://www.cnn.com/2025/12/10/politics/data-center-arizona-kyrsten-sinema-trump)**
-
-The city of Chandler has spent years wrestling with the question of whether to build more data centers, just as communities around the country debate the economic and environmental tradeoffs of these hulking, resource-intensive warehouses.
-
-CNN • 15h ago
+The Guardian • 1h ago
 
 ---
 
-**[Newsom posts AI video of Trump in handcuffs](https://thehill.com/homenews/administration/5643618-trump-handcuffs-newsom-ai-video/)**
+**[McDonald's pulls 'creepy' AI-generated Christmas ad after viewer backlash](https://www.foxbusiness.com/media/mcdonalds-pulls-creepy-ai-generated-christmas-ad-after-viewer-backlash)**
 
-thehill.com • 40m ago
+McDonald's confirmed to Fox News Digital that it removed its artificial intelligence-generated Christmas advertisement from YouTube after viewer backlash.
 
----
-
-**[President Trump says he will sign AI executive order, sparking fears it would upend Minnesota's regulations](https://www.cbsnews.com/minnesota/news/trump-ai-executive-minnesota-regulations-impact/)**
-
-President Trump said he would soon provide "one rulebook" for regulations, sparking some concern a move by the White House would upend individual states' efforts at putting safeguards around the technology.
-
-CBS News • 1d ago
+Fox Business • 3h ago
 
 ---
 
-**[Nvidia responds to report that China's DeepSeek is using its banned Blackwell AI chips](https://www.cnbc.com/2025/12/10/nvidia-report-china-deepseek-ai-blackwell-chips.html)**
+**[Amazon announces $35 billion investment in India by 2030 to advance AI innovation, create jobs](https://www.aboutamazon.com/news/company-news/amazon-35-billion-india-investment)**
 
-The U.S. has blocked the export of Nvidia's Blackwell chips to China in an effort to stay ahead in the AI race.
+The investment will create jobs, boost cumulative exports to $80 billion, and deliver AI benefits to 15 million small businesses.
 
-CNBC • 11h ago
+About Amazon • 22h ago
+
+---
+
+**[Big tech bets big on AI - but can India keep pace in the global race?](https://www.bbc.com/news/articles/cd74gjw1j11o)**
+
+Experts have called India a hedge against AI - reflecting the absence of Indian companies in the global boom.
+
+BBC • 1h ago
+
+---
+
+**[Amazon pledges massive $35 billion worth of investments in India with focus on AI](https://www.cnbc.com/2025/12/10/amazon-pledges-35-billion-investments-in-indias-ai-space-through-2030-million-jobs.html)**
+
+Amazon has committed to investing $$35 billion in India’s cloud and AI space by 2030, as hyperscalers race to get a foothold in the market.
+
+cnbc.com • 22h ago
+
+---
+
+**[Something Ominous Is Happening in the AI Economy](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)**
+
+The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
+
+The Atlantic • 9h ago
 
 ---
 
@@ -199,7 +201,7 @@ CNBC • 11h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 571 • 💬 612 • 2d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 571 • 💬 616 • 2d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -215,7 +217,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 349 • 💬 416 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 350 • 💬 416 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -223,7 +225,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 285 • 💬 263 • 9h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 290 • 💬 272 • 11h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -231,7 +233,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 282 • 💬 129 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 282 • 💬 130 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -245,7 +247,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 161 • 💬 201 • 23h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 161 • 💬 201 • 1d ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -261,7 +263,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 101 • 💬 139 • 13h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 101 • 💬 139 • 14h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -283,27 +285,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 27K • 👍 2K • 💬 259 • ⏱️ 14:55 • 8h ago
-
----
-
-**[Silicon Valley’s Newest AI Diaper Changer Is Unreal 👶🤖 AI Baby Changer 4.0 — The Future Is Here](https://www.youtube.com/watch?v=x5P16JwG6fU)**
-
-At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the future of Smart Parenting, BabyTech and AI ...
-
-📺 AI Robot Lab
-
-👁️ 97K • 👍 339 • 💬 12 • ⏱️ 0:20 • 13h ago
-
----
-
-**[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
-
-JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
-
-📺 Fox Business
-
-👁️ 144K • 👍 2K • 💬 606 • ⏱️ 18:47 • 2d ago
+👁️ 36K • 👍 2K • 💬 280 • ⏱️ 14:55 • 10h ago
 
 ---
 
@@ -313,47 +295,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 1K • 👍 55 • 💬 24 • ⏱️ 2:58 • 3h ago
-
----
-
-**[AI News: GPT-5.2, Devstral 2, Boom Superpower, MCP Nonprofit and more!](https://www.youtube.com/watch?v=GMQ58GUpcD0)**
-
-Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia Download The Subtle ...
-
-📺 Matthew Berman
-
-👁️ 53K • 👍 2K • 💬 197 • ⏱️ 9:41 • 1d ago
-
----
-
-**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
-
-Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
-
-📺 AI Revolution
-
-👁️ 32K • 👍 1K • 💬 56 • ⏱️ 12:50 • 1d ago
-
----
-
-**[Google’s Titans Just Solved AI’s Biggest Weakness, But...](https://www.youtube.com/watch?v=GGdjty9pAtg)**
-
-Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS introduce a new long-term memory system that ...
-
-📺 AI Revolution
-
-👁️ 37K • 👍 1K • 💬 71 • ⏱️ 13:12 • 2d ago
-
----
-
-**[AI Christmas Short Films Compilation 🎄 For Your Holiday Viewing](https://www.youtube.com/watch?v=MLY1eH0XkA4)**
-
-Step inside a cozy winter world with this AI-generated Christmas video compilation, featuring a collection of my favorite holiday ...
-
-📺 Kelly Boesch AI Art
-
-👁️ 14K • 👍 1K • 💬 96 • ⏱️ 20:54 • 18h ago
+👁️ 7K • 👍 117 • 💬 88 • ⏱️ 2:58 • 4h ago
 
 ---
 
@@ -363,7 +305,47 @@ In this episode, I sit down with @elonmusk for a wide-ranging conversation on DO
 
 📺 Katie Miller Pod
 
-👁️ 242K • 👍 11K • 💬 3K • ⏱️ 52:58 • 1d ago
+👁️ 266K • 👍 12K • 💬 3K • ⏱️ 52:58 • 1d ago
+
+---
+
+**[Using AI to Raise Your Baby](https://www.youtube.com/watch?v=1voqPZSqSE4)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+
+📺 penguinz0
+
+👁️ 972K • 👍 47K • 💬 5K • ⏱️ 8:35 • 1d ago
+
+---
+
+**[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
+
+JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
+
+📺 Fox Business
+
+👁️ 149K • 👍 2K • 💬 635 • ⏱️ 18:47 • 2d ago
+
+---
+
+**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
+
+Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
+
+📺 AI Revolution
+
+👁️ 34K • 👍 1K • 💬 60 • ⏱️ 12:50 • 1d ago
+
+---
+
+**[Andrew Ross Sorkin On Affordability, What Happens If The AI Bubble Bursts, And Paramount vs. Netflix](https://www.youtube.com/watch?v=i8xmTFz8Z6k)**
+
+Best-selling author and co-anchor of CNBC's "Squawk Box," Andrew Ross Sorkin comments on the battle over Warner Bros., the ...
+
+📺 The Late Show with Stephen Colbert
+
+👁️ 110K • 👍 3K • 💬 311 • ⏱️ 9:06 • 19h ago
 
 ---
 
@@ -373,7 +355,27 @@ Go to https://ground.news/hank for a better way to stay informed. Subscribe for 
 
 📺 Hank Green
 
-👁️ 1.5M • 👍 73K • 💬 8K • ⏱️ 24:00 • 2d ago
+👁️ 1.5M • 👍 75K • 💬 8K • ⏱️ 24:00 • 2d ago
+
+---
+
+**[See Inside the Data Center Helping to Power the AI Revolution](https://www.youtube.com/watch?v=KiRTHEV7wpo)**
+
+From emails to social media to online shopping, banking and chatting — everything we rely on everyday goes through an AI data ...
+
+📺 TODAY
+
+👁️ 4K • 👍 44 • 💬 10 • ⏱️ 3:20 • 14h ago
+
+---
+
+**[AI Dress in REAL LIFE](https://www.youtube.com/watch?v=zreiL7w329o)**
+
+I Paid a dress maker to make an AI dress in real life! OTHER VIDEOS u might like: ✨ Temu, Amazon & Etsy Product ...
+
+📺 Mia Maples
+
+👁️ 102K • 👍 4K • 💬 78 • ⏱️ 0:36 • 2d ago
 
 ---
 
@@ -389,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 671 • 1d ago
+⬇️ 67,717 • ❤️ 676 • 1d ago
 
 ---
 
@@ -401,7 +403,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,491 • 2d ago
+⬇️ 232,896 • ❤️ 2,495 • 2d ago
 
 ---
 
@@ -413,7 +415,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 304 • 1d ago
+⬇️ 10,031 • ❤️ 307 • 1d ago
 
 ---
 
@@ -425,7 +427,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 1,305 • ❤️ 246 • 1d ago
+⬇️ 1,305 • ❤️ 249 • 1d ago
 
 ---
 
@@ -437,7 +439,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 40,667 • ❤️ 861 • 9d ago
+⬇️ 40,667 • ❤️ 862 • 9d ago
 
 ---
 
@@ -449,7 +451,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 226 • 9h ago
+⬇️ 2,414 • ❤️ 228 • 11h ago
 
 ---
 
@@ -513,7 +515,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 94 • 💬 3 • ⭐ 197 • 1d ago
+▲ 96 • 💬 3 • ⭐ 197 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move)
 
@@ -581,7 +583,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 54 • 💬 2 • ⭐ 995 • 8d ago
+▲ 55 • 💬 2 • ⭐ 995 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -593,7 +595,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 6 • 💬 2 • ⭐ 11,750 • 2d ago
+▲ 7 • 💬 2 • ⭐ 11,750 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -621,7 +623,7 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 TwinFlow is a 1-step generative model framework that enhances inference efficiency without requiring fixed pretrained teacher models or standard adversarial networks, achieving high performance on text-to-image tasks and scaling efficiently.
 
-▲ 60 • 💬 8 • ⭐ 92 • 7d ago
+▲ 60 • 💬 8 • ⭐ 92 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.05150) • [💻 code](https://github.com/inclusionAI/TwinFlow) • [🔗 project](https://zhenglin-cheng.com/twinflow)
 
@@ -651,7 +653,17 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 5.8k • 🔱 968 • 37m ago
+⭐ 6.1k • 🔱 1.0k • 1h ago
+
+---
+
+**[Anionex/banana-slides](https://github.com/Anionex/banana-slides)**
+
+一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
+
+`Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
+
+⭐ 1.7k • 🔱 197 • 6h ago
 
 ---
 
@@ -662,16 +674,6 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 `JavaScript` `banana` `gemini` `prompt`
 
 ⭐ 1.7k • 🔱 134 • 2d ago
-
----
-
-**[Anionex/banana-slides](https://github.com/Anionex/banana-slides)**
-
-一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
-
-`Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
-
-⭐ 1.7k • 🔱 194 • 5h ago
 
 ---
 
@@ -691,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 132 • 17h ago
+⭐ 1.0k • 🔱 132 • 18h ago
 
 ---
 
@@ -711,7 +713,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 877 • 🔱 278 • 4d ago
+⭐ 878 • 🔱 279 • 4d ago
 
 ---
 
@@ -731,7 +733,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 849 • 🔱 46 • 1d ago
+⭐ 850 • 🔱 46 • 2d ago
 
 ---
 
@@ -741,7 +743,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 585 • 🔱 45 • 7d ago
+⭐ 586 • 🔱 46 • 7d ago
 
 ---
 

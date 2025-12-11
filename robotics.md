@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T02:32:55.038570+00:00'
+updated: '2025-12-11T03:47:48.488114+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 02:32 UTC  
+**Last Updated:** December 11, 2025 at 03:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[My inverse kinematics are flawless and everything is going according to plan](https://www.reddit.com/r/robotics/comments/1pjka0v/my_inverse_kinematics_are_flawless_and_everything/)**
+
+I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
+
+2h ago
+
+---
+
 **[Robotic hands, a comprehensice infographic](https://www.reddit.com/r/robotics/comments/1pj3o6w/robotic_hands_a_comprehensice_infographic/)**
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-12h ago
+13h ago
 
 ---
 
@@ -44,21 +52,19 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-15h ago
-
----
-
-**[My inverse kinematics are flawless and everything is going according to plan](https://www.reddit.com/r/robotics/comments/1pjka0v/my_inverse_kinematics_are_flawless_and_everything/)**
-
-I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
-
-1h ago
+17h ago
 
 ---
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-36m ago
+1h ago
+
+---
+
+**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
+
+17m ago
 
 ---
 
@@ -66,7 +72,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-18h ago
+19h ago
 
 ---
 
@@ -74,19 +80,19 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-15h ago
+16h ago
 
 ---
 
 **[Humanoid: What’s Different About Their Wrist Design?](https://www.reddit.com/r/robotics/comments/1pj0xfe/humanoid_whats_different_about_their_wrist_design/)**
 
-14h ago
+15h ago
 
 ---
 
 **[ESP32 Robot with face tracking & personality](https://www.reddit.com/r/robotics/comments/1pjipl2/esp32_robot_with_face_tracking_personality/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -98,35 +104,19 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 ---
 
-**[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
+**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
+
+Business Wire • 14h ago
+
+---
+
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 9h ago
-
----
-
-**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
-
-The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
-
-MLive.com • 1d ago
-
----
-
-**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://finance.yahoo.com/news/mercado-libre-agility-robotics-announce-130000794.html)**
-
-MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
-
-Yahoo Finance • 13h ago
+Chron • 10h ago
 
 ---
 
@@ -138,11 +128,27 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
+**[Google DeepMind Will Open a Robotic AI Lab in the UK to Discover New Materials](https://www.bloomberg.com/news/articles/2025-12-11/google-deepmind-will-open-a-robotic-ai-lab-in-the-uk-to-discover-new-materials)**
 
-Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+Google DeepMind will open its first research lab for discovering new materials, like those used in batteries or semiconductors, as part of its push to apply artificial intelligence to more scientific fields.
 
-Decrypt • 2d ago
+Bloomberg.com • 3h ago
+
+---
+
+**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai/)**
+
+SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
+
+PYMNTS.com • 2d ago
+
+---
+
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
+
+Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -162,27 +168,19 @@ National Defense Magazine • 3d ago
 
 ---
 
-**[CEO of Chinese robotics company posts video of himself getting kicked by his robot in effort to combat skeptics](https://www.businessinsider.com/engineai-ceo-robot-kick-video-2025-12)**
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
 
-EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
-Business Insider • 8h ago
-
----
-
-**[‘World’s first’ AGI system: Tokyo firm claims it built model with human-level reasoning](https://interestingengineering.com/ai-robotics/worlds-first-agi-model)**
-
-The company, founded by an ex-Google veteran, claims its new system constitutes a 'fundamental leap' beyond existing AI technologies.
-
-Interesting Engineering • 1d ago
+MLive.com • 1d ago
 
 ---
 
-**[Move over, biomimicry – bio-derived robotic hand uses lobster shells for fingers](https://newatlas.com/robotics/bio-derived-robot-hand-lobster-shells-fingers/)**
+**[A Sober Look at Amazon’s Automation Drive](https://jacobin.com/2025/12/amazon-robots-automation-workforce-ai)**
 
-If you’re going to kill animals for food, don’t waste their parts – that’s just rude. Use everything, snout-to-tail, and not just bones for glue or stomachs for drink-bags, either. Get creative!
+As Amazon rolls out its millionth robot on the warehouse floor, it is important to recognize that the company is not any closer to ridding itself of the burden of human labor. Amazon can still be unionized.
 
-New Atlas • 1d ago
+Jacobin • 12h ago
 
 ---
 
@@ -190,21 +188,23 @@ New Atlas • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+
+In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+
+📺 Google DeepMind
+
+👁️ 40K • 👍 2K • 💬 168 • ⏱️ 17:44 • 11h ago
+
+---
+
 **[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
 
 Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
 
 📺 TheAIGRID
 
-👁️ 16K • 👍 458 • 💬 108 • ⏱️ 42:48 • 3d ago
-
----
-
-**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
-
-📺 AI . Robot
-
-👁️ 1.8M • 👍 9K • 💬 52 • ⏱️ 0:17 • 6d ago
+👁️ 16K • 👍 460 • 💬 108 • ⏱️ 42:48 • 3d ago
 
 ---
 
@@ -214,17 +214,15 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 55K • 👍 1K • 💬 382 • ⏱️ 14:26 • 2d ago
+👁️ 58K • 👍 1K • 💬 394 • ⏱️ 14:26 • 2d ago
 
 ---
 
-**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
 
-In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+📺 AI . Robot
 
-📺 Google DeepMind
-
-👁️ 29K • 👍 2K • 💬 128 • ⏱️ 17:44 • 10h ago
+👁️ 1.8M • 👍 9K • 💬 53 • ⏱️ 0:17 • 6d ago
 
 ---
 
@@ -234,7 +232,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 33K • 👍 644 • 💬 152 • ⏱️ 18:46 • 4d ago
+👁️ 33K • 👍 645 • 💬 158 • ⏱️ 18:46 • 5d ago
 
 ---
 
@@ -244,7 +242,17 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 125K • 👍 6K • 💬 860 • ⏱️ 19:33 • 4d ago
+👁️ 126K • 👍 6K • 💬 867 • ⏱️ 19:33 • 4d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=coZB_m41vvk)**
+
+robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
+
+📺 She Shorts AI
+
+👁️ 128K • 👍 830 • 💬 7 • ⏱️ 0:11 • 6d ago
 
 ---
 
@@ -252,7 +260,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 XRoboHub
 
-👁️ 526K • 👍 8K • 💬 873 • ⏱️ 0:22 • 6d ago
+👁️ 526K • 👍 8K • 💬 875 • ⏱️ 0:22 • 6d ago
 
 ---
 
@@ -262,7 +270,7 @@ At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the 
 
 📺 AI Robot Lab
 
-👁️ 97K • 👍 339 • 💬 12 • ⏱️ 0:20 • 13h ago
+👁️ 211K • 👍 570 • 💬 20 • ⏱️ 0:20 • 14h ago
 
 ---
 
@@ -272,17 +280,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 203K • 👍 911 • 💬 297 • ⏱️ 1:03 • 4d ago
-
----
-
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
-
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
-
-📺 AI Robot Lab
-
-👁️ 46K • 👍 493 • 💬 14 • ⏱️ 0:25 • 3d ago
+👁️ 200K • 👍 912 • 💬 297 • ⏱️ 1:03 • 4d ago
 
 ---
 
