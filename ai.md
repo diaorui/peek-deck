@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T07:47:18.888388+00:00'
+updated: '2025-12-11T07:58:10.565719+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 07:47 UTC  
+**Last Updated:** December 11, 2025 at 07:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 15h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 16h ago
 
 ---
 
@@ -69,7 +69,7 @@ This document proposes a graduated, evidence-based approach for ethical obligati
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 14h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 15h ago
 
 ---
 
@@ -93,7 +93,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 1h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 2h ago
 
 ---
 
@@ -101,7 +101,7 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 ‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash.[1] Google launches managed MCP servers that let AI agents simply plug into its tools.[2] From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion.[3] Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds.[4] Sources: [1] https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash [2] https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/ [3] https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html [4] https://time.com/7339513/ai-fei-fei-li-virtual-worlds/
 
-1h ago
+2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Anthropic • 1d ago
 
 BitsLab, an AI security company dedicated to safeguarding digital assets, is introducing a unified security architecture for the emerging on-chain agent economy as autonomous AI agents begin taking on real financial operations. With machine-driven transactions becoming more common, BitsLab aims to address a core industry challenge: keeping autonomous economic agents safe.
 
-Yahoo Finance • 33m ago
+Yahoo Finance • 44m ago
 
 ---
 
@@ -265,7 +265,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 106 • 💬 146 • 18h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 106 • 💬 146 • 19h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -281,13 +281,83 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 ## YouTube Videos: "ai"
 
-**[Using AI to Raise Your Baby](https://www.youtube.com/watch?v=1voqPZSqSE4)**
+**[What Ilya Saw: The Truth That Could Change Everything About AI’s Future](https://www.youtube.com/watch?v=AGddzUqJT7g)**
 
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
 
-📺 penguinz0
+📺 Julia McCoy
 
-👁️ 986K • 👍 48K • 💬 5K • ⏱️ 8:35 • 1d ago
+👁️ 41K • 👍 2K • 💬 311 • ⏱️ 14:55 • 14h ago
+
+---
+
+**[McDonald’s Pulls ‘Creepy’ AI Christmas ad After Viewer Backlash: ‘As Real as Their Hamburgers’](https://www.youtube.com/watch?v=HpWCvItr55c)**
+
+McDonald's has taken down a Christmas ad that was allegedly entirely produced with artificial intelligence after the brand was ...
+
+📺 New York Post
+
+👁️ 15K • 👍 164 • 💬 119 • ⏱️ 2:58 • 8h ago
+
+---
+
+**[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
+
+JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
+
+📺 Fox Business
+
+👁️ 156K • 👍 2K • 💬 643 • ⏱️ 18:47 • 2d ago
+
+---
+
+**[YouTube AI is Getting Worse...](https://www.youtube.com/watch?v=QlBn_LbnxxQ)**
+
+YouTube's CEO Neal Mohan is fighting the AI slop/moderation problem by adding more AI. Neal said YouTube will be expanding ...
+
+📺 Deep Humor
+
+👁️ 18K • 👍 2K • 💬 601 • ⏱️ 10:28 • 1d ago
+
+---
+
+**[Elon Musk on DOGE, AI, &amp; Are we in a Simulation? | KMP Ep.18](https://www.youtube.com/watch?v=bz5Hjk40FD4)**
+
+In this episode, I sit down with @elonmusk for a wide-ranging conversation on DOGE, AI, simulation theory, and much more.
+
+📺 Katie Miller Pod
+
+👁️ 297K • 👍 12K • 💬 3K • ⏱️ 52:58 • 1d ago
+
+---
+
+**[See Inside the Data Center Helping to Power the AI Revolution](https://www.youtube.com/watch?v=KiRTHEV7wpo)**
+
+From emails to social media to online shopping, banking and chatting — everything we rely on everyday goes through an AI data ...
+
+📺 TODAY
+
+👁️ 6K • 👍 50 • 💬 11 • ⏱️ 3:20 • 18h ago
+
+---
+
+**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
+
+Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
+
+📺 AI Revolution
+
+👁️ 36K • 👍 1K • 💬 61 • ⏱️ 12:50 • 1d ago
+
+---
+
+**[Why is Everyone So Wrong About AI Water Use??](https://www.youtube.com/watch?v=H_c6MWk7PQc)**
+
+Go to https://ground.news/hank for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
+
+📺 Hank Green
+
+👁️ 1.6M • 👍 78K • 💬 8K • ⏱️ 24:00 • 2d ago
 
 ---
 
@@ -297,85 +367,17 @@ I Paid a dress maker to make an AI dress in real life! OTHER VIDEOS u might like
 
 📺 Mia Maples
 
-👁️ 103K • 👍 4K • 💬 78 • ⏱️ 0:36 • 2d ago
+👁️ 104K • 👍 4K • 💬 79 • ⏱️ 0:36 • 2d ago
 
 ---
 
-**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
+**[Using AI to Raise Your Baby](https://www.youtube.com/watch?v=1voqPZSqSE4)**
 
-Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
 
-📺 hxsain
+📺 penguinz0
 
-👁️ 311K • 👍 24K • 💬 263 • ⏱️ 0:51 • 1d ago
-
----
-
-**[Bear on a Rope! #sharktank #ai #inventsions #bear](https://www.youtube.com/watch?v=L-K232I7TNU)**
-
-wtf!
-
-📺 Ai of Euphoria 
-
-👁️ 24K • 👍 116 • 💬 2 • ⏱️ 0:16 • 22h ago
-
----
-
-**[McDonald’s AI commercial was so bad they had to wipe it from the internet #carterpcs #tech #ai](https://www.youtube.com/watch?v=f0Frt-aPRc0)**
-
-McDonald's AI commercial was so bad they had to wipe it from the internet #carterpcs #tech #ai #mcdonalds.
-
-📺 CarterPCs
-
-👁️ 381K • 👍 27K • 💬 359 • ⏱️ 0:39 • 14h ago
-
----
-
-**[Everyone Thinks I&#39;m AI 😭](https://www.youtube.com/watch?v=HrqeHyN_2Zw)**
-
-Everyone in the comments always seems to think I'm AI, so I made this silly little video talking about it. #notai #ai.
-
-📺 Yap Emporium
-
-👁️ 126K • 👍 3K • 💬 182 • ⏱️ 0:17 • 2d ago
-
----
-
-**[Wow... Now McDonalds Is Making AI Generated Commercials...](https://www.youtube.com/watch?v=Dgjyeaz73s4)**
-
-https://youtu.be/uyiyBwNeEqc I hate this. At a time of economic crisis, the AI takeover only continues further as McDonalds have ...
-
-📺 DazzReviews
-
-👁️ 94K • 👍 5K • 💬 614 • ⏱️ 15:53 • 1d ago
-
----
-
-**[AI Images Are Destroying History Accounts](https://www.youtube.com/watch?v=6qiqWjO3Ldg)**
-
-📺 Miniminuteman
-
-👁️ 1.9M • 👍 172K • 💬 4K • ⏱️ 0:58 • 2d ago
-
----
-
-**[AI News: GPT-5.2, Devstral 2, Boom Superpower, MCP Nonprofit and more!](https://www.youtube.com/watch?v=GMQ58GUpcD0)**
-
-Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia Download The Subtle ...
-
-📺 Matthew Berman
-
-👁️ 56K • 👍 2K • 💬 200 • ⏱️ 9:41 • 1d ago
-
----
-
-**[What Ilya Saw: The Truth That Could Change Everything About AI’s Future](https://www.youtube.com/watch?v=AGddzUqJT7g)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 39K • 👍 2K • 💬 301 • ⏱️ 14:55 • 14h ago
+👁️ 999K • 👍 48K • 💬 5K • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -663,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.8k • 🔱 205 • 1h ago
+⭐ 1.8k • 🔱 205 • 2h ago
 
 ---
 

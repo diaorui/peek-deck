@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T07:47:18.895799+00:00'
+updated: '2025-12-11T07:58:10.574330+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 07:47 UTC  
+**Last Updated:** December 11, 2025 at 07:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -48,7 +48,7 @@ Live Bitcoin monitoring dashboard
 **7d:** +1.4%  
 **30d:** -11.3%  
 **90d:** -22.1%  
-**1y:** -9.6%  
+**1y:** -9.7%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 We back baby!
 
-9h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ We back baby!
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-4h ago
+5h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 4h ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -219,7 +219,7 @@ NPR • 23h ago
 
 The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -317,7 +317,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 443 • ⏱️ 8:26 • 6h ago
+👁️ 34K • 👍 2K • 💬 476 • ⏱️ 8:26 • 7h ago
 
 ---
 
@@ -327,17 +327,17 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 51K • 👍 3K • 💬 260 • ⏱️ 21:05 • 8h ago
+👁️ 62K • 👍 3K • 💬 296 • ⏱️ 21:05 • 8h ago
 
 ---
 
-**[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
+**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
 
-📺 My Financial Friend
+📺 Altcoin Daily
 
-👁️ 14K • 👍 600 • 💬 111 • ⏱️ 8:34 • 10h ago
+👁️ 24K • 👍 2K • 💬 151 • ⏱️ 10:23 • 5h ago
 
 ---
 
@@ -347,17 +347,17 @@ Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled t
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 123 • ⏱️ 16:48 • 7h ago
+👁️ 22K • 👍 2K • 💬 133 • ⏱️ 16:48 • 7h ago
 
 ---
 
-**[Bitcoin vs. The Fed: Who Wins in 2026?](https://www.youtube.com/watch?v=VXZZYeCuM-U)**
+**[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
 
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the Fed's year-end shift ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 Anthony Pompliano
+📺 My Financial Friend
 
-👁️ 18K • 👍 655 • 💬 3 • ⏱️ 32:26 • 9h ago
+👁️ 15K • 👍 610 • 💬 109 • ⏱️ 8:34 • 11h ago
 
 ---
 
@@ -367,7 +367,17 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 781 • 💬 148 • ⏱️ 5:12 • 11h ago
+👁️ 16K • 👍 808 • 💬 149 • ⏱️ 5:12 • 11h ago
+
+---
+
+**[Bitcoin vs. The Fed: Who Wins in 2026?](https://www.youtube.com/watch?v=VXZZYeCuM-U)**
+
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the Fed's year-end shift ...
+
+📺 Anthony Pompliano
+
+👁️ 20K • 👍 705 • 💬 3 • ⏱️ 32:26 • 9h ago
 
 ---
 
@@ -377,7 +387,7 @@ In this clip, I discuss the bottom signals that point towards a bitcoin reversal
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 192 • 💬 83 • ⏱️ 9:23 • 7h ago
+👁️ 4K • 👍 223 • 💬 101 • ⏱️ 9:23 • 7h ago
 
 ---
 
@@ -385,27 +395,17 @@ In this clip, I discuss the bottom signals that point towards a bitcoin reversal
 
 📺 Matt & Justus
 
-👁️ 2.5M • 👍 134K • 💬 338 • ⏱️ 1:00 • 2d ago
+👁️ 2.6M • 👍 136K • 💬 341 • ⏱️ 1:00 • 2d ago
 
 ---
 
-**[Michael Saylor: “We’re Buying More Bitcoin Than Sellers Can Sell”](https://www.youtube.com/watch?v=Io3V7H-862c)**
+**[&quot;HUGE! Jerome Powell Literally Just Changed EVERYTHING&quot; - Tom Lee Bitcoin](https://www.youtube.com/watch?v=hbuVFV5dyVY)**
 
-Michael Saylor declares he's more bullish than ever, stating his team can buy more Bitcoin than sellers can sell—and that they're ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 Bitcoin Magazine
+📺 Library Of Wealth
 
-👁️ 12K • 👍 308 • 💬 24 • ⏱️ 0:36 • 1d ago
-
----
-
-**[Banks Are Pushing Bitcoin Into the Death Spiral](https://www.youtube.com/watch?v=7XTc2dC6Q00)**
-
-How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemini Credit Card: http://gemini.com/andrei ...
-
-📺 Andrei Jikh
-
-👁️ 589K • 👍 19K • 💬 2K • ⏱️ 20:03 • 2d ago
+👁️ 1K • 👍 82 • 💬 95 • ⏱️ 15:40 • 2h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T07:47:18.903736+00:00'
+updated: '2025-12-11T07:58:10.583607+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 07:47 UTC  
+**Last Updated:** December 11, 2025 at 07:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -148,7 +148,7 @@ Tech Xplore • 2d ago
 
 $32 million investment will created 230 new jobs.
 
-WHMI • 15h ago
+WHMI • 16h ago
 
 ---
 
@@ -192,7 +192,17 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 16K • 👍 462 • 💬 108 • ⏱️ 42:48 • 3d ago
+👁️ 16K • 👍 466 • 💬 109 • ⏱️ 42:48 • 3d ago
+
+---
+
+**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+
+In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+
+📺 Google DeepMind
+
+👁️ 55K • 👍 2K • 💬 215 • ⏱️ 17:44 • 15h ago
 
 ---
 
@@ -202,7 +212,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 61K • 👍 1K • 💬 406 • ⏱️ 14:26 • 2d ago
+👁️ 64K • 👍 1K • 💬 430 • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -220,7 +230,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 33K • 👍 645 • 💬 159 • ⏱️ 18:46 • 5d ago
+👁️ 33K • 👍 647 • 💬 159 • ⏱️ 18:46 • 5d ago
 
 ---
 
@@ -240,25 +250,7 @@ robots #irc #humanoid At the latest tech expo, a man shows off his brand new rob
 
 📺 She Shorts AI
 
-👁️ 128K • 👍 831 • 💬 7 • ⏱️ 0:11 • 6d ago
-
----
-
-**[🏃🤖 Figure 03 Runs LIKE A HUMAN! Watch the PERFECT #RobotTurn. #figureai #humanoid #robotics](https://www.youtube.com/watch?v=DDrNbLVUBwU)**
-
-📺 XRoboHub
-
-👁️ 526K • 👍 8K • 💬 875 • ⏱️ 0:22 • 6d ago
-
----
-
-**[Silicon Valley’s Newest AI Diaper Changer Is Unreal 👶🤖 AI Baby Changer 4.0 — The Future Is Here](https://www.youtube.com/watch?v=x5P16JwG6fU)**
-
-At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the future of Smart Parenting, BabyTech and AI ...
-
-📺 AI Robot Lab
-
-👁️ 314K • 👍 729 • 💬 26 • ⏱️ 0:20 • 18h ago
+👁️ 128K • 👍 832 • 💬 7 • ⏱️ 0:11 • 6d ago
 
 ---
 
@@ -268,15 +260,27 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 200K • 👍 914 • 💬 297 • ⏱️ 1:03 • 4d ago
+👁️ 200K • 👍 917 • 💬 297 • ⏱️ 1:03 • 4d ago
 
 ---
 
-**[Bought the latest humanoid robot released in 2025. #robotics #airobot #humanoidrobot #ai #robot](https://www.youtube.com/watch?v=QJF1XWupoo4)**
+**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
 
-📺 AI . Robot
+After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
 
-👁️ 107K • 👍 1K • 💬 29 • ⏱️ 0:19 • 5d ago
+📺 Kalil 4.0
+
+👁️ 19K • 👍 359 • 💬 66 • ⏱️ 0:59 • 4d ago
+
+---
+
+**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+
+AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+
+📺 AI Robot Lab
+
+👁️ 51K • 👍 532 • 💬 14 • ⏱️ 0:25 • 3d ago
 
 ---
 

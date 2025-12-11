@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T07:47:18.900970+00:00'
+updated: '2025-12-11T07:58:10.580365+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 07:47 UTC  
+**Last Updated:** December 11, 2025 at 07:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-17h ago
+18h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Block • 2d ago
 
 Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -236,27 +236,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 1K • 💬 131 • ⏱️ 10:23 • 5h ago
-
----
-
-**[BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IOOEf_DuzzU)**
-
-BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 264 • 💬 127 • ⏱️ 18:26 • 7h ago
-
----
-
-**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
-
-In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
-
-📺 FAROKH RADIO
-
-👁️ 11K • 👍 471 • 💬 62 • ⏱️ 1:10:46 • 15h ago
+👁️ 24K • 👍 2K • 💬 151 • ⏱️ 10:23 • 5h ago
 
 ---
 
@@ -266,17 +246,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 5 • ⏱️ 6:11 • 5h ago
+👁️ 2K • 👍 168 • 💬 5 • ⏱️ 6:11 • 5h ago
 
 ---
 
-**[🚨 FED FLIP!! | ETH&#39;s Biggest Day of the Year (FOMC + QE)](https://www.youtube.com/watch?v=YPMRXtdCF88)**
+**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
 
-BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
+In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
 
-📺 Marzell Crypto
+📺 FAROKH RADIO
 
-👁️ 2K • 👍 66 • 💬 15 • ⏱️ 8:36 • 18h ago
+👁️ 13K • 👍 516 • 💬 69 • ⏱️ 1:10:46 • 15h ago
+
+---
+
+**[BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IOOEf_DuzzU)**
+
+BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 291 • 💬 123 • ⏱️ 18:26 • 7h ago
 
 ---
 
@@ -286,27 +276,17 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 17K • 👍 486 • 💬 252 • ⏱️ 12:46 • 2d ago
+👁️ 17K • 👍 487 • 💬 252 • ⏱️ 12:46 • 2d ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 11 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=WNd053nPwP4)**
+**[🚨 FED FLIP!! | ETH&#39;s Biggest Day of the Year (FOMC + QE)](https://www.youtube.com/watch?v=YPMRXtdCF88)**
 
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
 
-📺 Balraj Trading Tech
+📺 Marzell Crypto
 
-👁️ 4K • 👍 668 • 3h ago
-
----
-
-**[I Can’t Believe This Is Happening!! All Hell Is Breaking Loose In Crypto!!](https://www.youtube.com/watch?v=2ZqztKdMquI)**
-
-Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily Merch - While ...
-
-📺 Altcoin Daily
-
-👁️ 70K • 👍 4K • 💬 279 • ⏱️ 12:03 • 1d ago
+👁️ 2K • 👍 68 • 💬 17 • ⏱️ 8:36 • 18h ago
 
 ---
 
@@ -316,7 +296,17 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 447 • 👍 16 • 💬 1 • ⏱️ 6:56 • 11h ago
+👁️ 479 • 👍 17 • 💬 1 • ⏱️ 6:56 • 12h ago
+
+---
+
+**[I Can’t Believe This Is Happening!! All Hell Is Breaking Loose In Crypto!!](https://www.youtube.com/watch?v=2ZqztKdMquI)**
+
+Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily Merch - While ...
+
+📺 Altcoin Daily
+
+👁️ 70K • 👍 4K • 💬 291 • ⏱️ 12:03 • 1d ago
 
 ---
 
@@ -326,7 +316,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 240 • 💬 9 • ⏱️ 6:52 • 15h ago
+👁️ 4K • 👍 241 • 💬 9 • ⏱️ 6:52 • 15h ago
+
+---
+
+**[Ethereum Surpasses Visa and MasterCard #shorts #crypto](https://www.youtube.com/watch?v=YAMU0AfuDh8)**
+
+Mind-blowing! Ethereum's transaction volume is now bigger than Visa and MasterCard combined. Get ready for the future of ...
+
+📺 Crypto Doji
+
+👁️ 1K • 👍 1 • 💬 1 • ⏱️ 0:45 • 5h ago
 
 ---
 
