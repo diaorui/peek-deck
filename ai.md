@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T07:58:10.565719+00:00'
+updated: '2025-12-11T08:40:08.288022+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - repositories
 - news
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 07:58 UTC  
+**Last Updated:** December 11, 2025 at 08:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI companies basically:](https://www.reddit.com/r/artificial/comments/1pj41sq/ai_companies_basically/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -51,19 +51,35 @@ The start-up is falling behind in the AI race.
 
 ---
 
+**[OpenAI Is in Trouble](https://www.reddit.com/r/artificial/comments/1pjrq4n/openai_is_in_trouble/)**
+
+“Holy shit,” he wrote on X. “I’ve used ChatGPT every day for 3 years. Just spent 2 hours on Gemini 3. I’m not going back. The leap is insane.”
+
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 1h ago
+
+---
+
+**[Will we see a rise in birth defects from data center pollution similar to China's issue with pollution?](https://www.reddit.com/r/artificial/comments/1pjsepm/will_we_see_a_rise_in_birth_defects_from_data/)**
+
+Data centers can release the same kinds of pollutants (volatile organic compounds) that led to it an increase of birth defects in China. Article links air pollution to birth defects in China. Skimming Google scholar shows many other articles with similar topics, some of which also cover infertility and general adverse health effects associated with air pollution and VOCs. What are people's thoughts on this? Can the adverse effects be avoided? What kind of laws we need to go into place to offset the environmental/health impacts of data centers?
+
+🔗 [thelancet.com](https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(25)00012-3/fulltext) • 16m ago
+
+---
+
 **[What AI hallucination actually is, why it happens, and what we can realistically do about it](https://www.reddit.com/r/artificial/comments/1pjgh5w/what_ai_hallucination_actually_is_why_it_happens/)**
 
 A lot of people use the term “AI hallucination,” but many don’t clearly understand what it actually means. In simple terms, AI hallucination is when a model produces information that sounds confident and well-structured, but is actually incorrect, fabricated, or impossible to verify. This includes things like made-up academic papers, fake book references, invented historical facts, or technical explanations that look right on the surface but fall apart under real checking. The real danger is not that it gets things wrong — it’s that it often gets them wrong in a way that sounds extremely convincing. Most people assume hallucination is just a bug that engineers haven’t fully fixed yet. In reality, it’s a natural side effect of how large language models work at a fundamental level. These systems don’t decide what is true. They predict what is most statistically likely to come next in a sequence of words. When the underlying information is missing, weak, or ambiguous, the model doesn’t stop — it completes the pattern anyway. That’s why hallucination often appears when context is vague, when questions demand certainty, or when the model is pushed to answer things beyond what its training data can reliably support. Interestingly, hallucination feels “human-like” for a reason. Humans also guess when they’re unsure, fill memory gaps with reconstructed stories, and sometimes speak confidently even when they’re wrong. In that sense, hallucination is not machine madness — it’s a very human-shaped failure mode expressed through probabilistic language generation. The model is doing exactly what it was trained to do: keep the sentence going in the most plausible way. There is no single trick that completely eliminates hallucination today, but there are practical ways to reduce it. Strong, precise context helps a lot. Explicitly allowing the model to express uncertainty also helps, because hallucination often worsens when the prompt demands absolute certainty. Forcing source grounding — asking the model to rely only on verifiable public information and to say when that’s not possible — reduces confident fabrication. Breaking complex questions into smaller steps is another underrated method, since hallucination tends to grow when everything is pushed into a single long, one-shot answer. And when accuracy really matters, cross-checking across different models or re-asking the same question in different forms often exposes structural inconsistencies that signal hallucination. The hard truth is that hallucination can be reduced, but it cannot be fully eliminated with today’s probabilistic generation models. It’s not just an accidental mistake — it’s a structural byproduct of how these systems generate language. No matter how good alignment and safety layers become, there will always be edge cases where the model fills a gap instead of stopping. This quietly creates a responsibility shift that many people underestimate. In the traditional world, humans handled judgment and machines handled execution. In the AI era, machines handle generation, but humans still have to handle judgment. If people fully outsource judgment to AI, hallucination feels like deception. If people keep judgment in the loop, hallucination becomes manageable noise instead of a catastrophic failure. If you’ve personally run into a strange or dangerous hallucination, I’d be curious to hear what it was — and whether you realized it immediately, or only after checking later.
 
-9h ago
+10h ago
 
 ---
 
-**[Evidence-Based Framework for Ethical AI: Could AI Be Conscious? Discussion Encouraged](https://www.reddit.com/r/artificial/comments/1pjpfyq/evidencebased_framework_for_ethical_ai_could_ai/)**
+**[Oracle plummets 11% on weak revenue, pushing down AI stocks like Nvidia and CoreWeave](https://www.reddit.com/r/artificial/comments/1pjq2lu/oracle_plummets_11_on_weak_revenue_pushing_down/)**
 
-This document proposes a graduated, evidence-based approach for ethical obligations toward AI systems, anticipating potential consciousness. Critique, discussion, and collaboration are encouraged.
+Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1UliGp8LhwDsh6bE0tOKu9_A5cWZ93HEDpq2qcxdThzY/edit?usp=drivesdk) • 2h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 2h ago
 
 ---
 
@@ -77,7 +93,7 @@ This document proposes a graduated, evidence-based approach for ethical obligati
 
 If you are reading this, you probably have strong opinions about AGI, superintelligence, and the future of AI. Maybe you believe we are on the cusp of a transformative breakthrough. Maybe you are skeptical. This blog post is for those who want to think more carefully about these claims and examine them from a perspective […]
 
-🔗 [Tim Dettmers](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) • 4h ago
+🔗 [Tim Dettmers](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) • 5h ago
 
 ---
 
@@ -89,25 +105,9 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 ---
 
-**[Oracle plummets 11% on weak revenue, pushing down AI stocks like Nvidia and CoreWeave](https://www.reddit.com/r/artificial/comments/1pjq2lu/oracle_plummets_11_on_weak_revenue_pushing_down/)**
-
-Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 2h ago
-
----
-
 **[One-Minute Daily AI News 12/10/2025](https://www.reddit.com/r/artificial/comments/1pjpwhf/oneminute_daily_ai_news_12102025/)**
 
 ‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash.[1] Google launches managed MCP servers that let AI agents simply plug into its tools.[2] From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion.[3] Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds.[4] Sources: [1] https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash [2] https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/ [3] https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html [4] https://time.com/7339513/ai-fei-fei-li-virtual-worlds/
-
-2h ago
-
----
-
-**[Interesting convo](https://www.reddit.com/r/artificial/comments/1pjps3q/interesting_convo/)**
-
-I wanted to see what the computer itself thought about the ethics of AI chat bots, spoiler alert, they can be really harmful!
 
 2h ago
 
@@ -125,33 +125,11 @@ The Atlantic • 1d ago
 
 ---
 
-**[Inside Meta’s Pivot From Open Source to Money-Making AI Model](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model)**
-
-Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
-
-Bloomberg.com • 17h ago
-
----
-
-**[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
-
-The New York Times • 16h ago
-
----
-
-**[From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion](https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html)**
-
-Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
-
-CNBC • 1d ago
-
----
-
 **[McDonald's pulls AI-generated Christmas advert following backlash](https://www.bbc.com/news/articles/czdgrnvp082o)**
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
@@ -159,39 +137,61 @@ BBC • 19h ago
 
 Commercial in Netherlands depicting festival-season chaos at ‘most terrible time of year’ prompted flurry of criticism online
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
-**[McDonald's pulls 'creepy' AI-generated Christmas ad after viewer backlash](https://www.foxbusiness.com/media/mcdonalds-pulls-creepy-ai-generated-christmas-ad-after-viewer-backlash)**
+**[McDonald’s Pulls Down AI-Generated Holiday Ad After Deluge of Mockery](https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial)**
 
-McDonald's confirmed to Fox News Digital that it removed its artificial intelligence-generated Christmas advertisement from YouTube after viewer backlash.
+McDonald's Netherlands is catching flak for a stupefying AI-generated video, which was roundly condemned on social media.
 
-Fox Business • 7h ago
-
----
-
-**[AI companies want a new internet — and they think they’ve found the key](https://www.theverge.com/ai-artificial-intelligence/841156/ai-companies-aaif-anthropic-mcp-model-context-protocol)**
-
-“I’ve never seen anything like this,” says the Linux Foundation’s Jim Zemlin.
-
-The Verge • 17h ago
+Futurism • 1d ago
 
 ---
 
-**[Donating the Model Context Protocol and establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)**
+**[Bipartisan bill would force government agencies to label AI content](https://www.foxbusiness.com/politics/bipartisan-bill-would-force-government-agencies-label-ai-content)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+The bipartisan House bill would require agencies to label AI-generated content posted on official channels, in an effort to bring new transparency to federal AI use.
 
-Anthropic • 1d ago
+Fox Business • 1h ago
 
 ---
 
-**[BitsLab Introduces AI-Agent Security Stack to Safeguard the Emerging On-Chain Agent Economy](https://finance.yahoo.com/news/bitslab-introduces-ai-agent-security-071400905.html)**
+**[Intellistake Completes US$500,000 Investment in Orbit AI and Orbit AI Concludes Following Successful First Orbital Cloud Launch](https://finance.yahoo.com/news/intellistake-completes-us-500-000-080100843.html)**
 
-BitsLab, an AI security company dedicated to safeguarding digital assets, is introducing a unified security architecture for the emerging on-chain agent economy as autonomous AI agents begin taking on real financial operations. With machine-driven transactions becoming more common, BitsLab aims to address a core industry challenge: keeping autonomous economic agents safe.
+Intellistake Technologies Corp. (CSE: ISTK) (OTCQB: ISTKF) (FSE: E41) ("Intellistake" or the "Company") a developer of decentralized AI and blockchain infrastructure, today congratulated Orbit AI ("Orbit AI") on the successful launch of its first Orbital Cloud satellite and confirms it has now completed its previously announced US$500,000 strategic equity investment in the Singapore-based aerospace company.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 39m ago
+
+---
+
+**[Oracle shares slide as earnings fail to ease AI bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o)**
+
+The cloud computing giant's revenue miss renews questions about its financial health.
+
+BBC • 4h ago
+
+---
+
+**[Oracle shares slide as earnings fail to ease AI bubble fears – business live](https://www.theguardian.com/business/live/2025/dec/11/oracle-shares-slide-earnings-ai-bubble-stock-markets-bank-of-england-business-live-news-updates)**
+
+Rolling coverage of the latest economic and financial news
+
+The Guardian • 1h ago
+
+---
+
+**[Oracle’s mixed earnings fail to dispel AI fears, and the stock falls](https://www.marketwatch.com/story/oracles-mixed-earnings-fail-to-dispel-ai-fears-and-the-stock-falls-5533a383?gaa_at=eafs&gaa_n=AWEtsqeXZqu1L0w576OyMsNAgvYfwukIwJm-mrs8HYWkLQVfRd7eRDW3iPtd&gaa_ts=693a86ce&gaa_sig=VEGOtyK7oX45dDNW1SMyTaVQsYAaLyIYBNkQdVjjjD6HqNbpvj0vMC55BaEBe7l0P9StfBitjyF0Y0vc3Gcclw%3D%3D)**
+
+MarketWatch • 11h ago
+
+---
+
+**[AI face recognition technology is here to stay, so police oversight is paramount](https://www.dallasnews.com/opinion/editorials/2025/12/11/ai-face-recognition-technology-is-here-to-stay-so-police-oversight-is-paramount/)**
+
+The Dallas Police Department should continue to use high-tech tools, like AI face recognition, cautiously.
+
+Dallas News • 35m ago
 
 ---
 
@@ -227,7 +227,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 302 • 💬 283 • 15h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 303 • 💬 285 • 16h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -265,7 +265,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 106 • 💬 146 • 19h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 107 • 💬 148 • 19h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -287,7 +287,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 41K • 👍 2K • 💬 311 • ⏱️ 14:55 • 14h ago
+👁️ 41K • 👍 2K • 💬 311 • ⏱️ 14:55 • 15h ago
 
 ---
 
@@ -297,7 +297,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 15K • 👍 164 • 💬 119 • ⏱️ 2:58 • 8h ago
+👁️ 15K • 👍 164 • 💬 119 • ⏱️ 2:58 • 9h ago
 
 ---
 
@@ -337,7 +337,7 @@ From emails to social media to online shopping, banking and chatting — everyth
 
 📺 TODAY
 
-👁️ 6K • 👍 50 • 💬 11 • ⏱️ 3:20 • 18h ago
+👁️ 6K • 👍 50 • 💬 11 • ⏱️ 3:20 • 19h ago
 
 ---
 
@@ -393,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 688 • 2d ago
+⬇️ 67,717 • ❤️ 691 • 2d ago
 
 ---
 
@@ -405,7 +405,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,512 • 2d ago
+⬇️ 232,896 • ❤️ 2,513 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 318 • 1d ago
+⬇️ 10,031 • ❤️ 323 • 1d ago
 
 ---
 
@@ -429,7 +429,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 1,305 • ❤️ 256 • 2d ago
+⬇️ 1,305 • ❤️ 257 • 2d ago
 
 ---
 
@@ -441,7 +441,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 40,667 • ❤️ 869 • 9d ago
+⬇️ 40,667 • ❤️ 871 • 9d ago
 
 ---
 
@@ -453,7 +453,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 237 • 15h ago
+⬇️ 2,414 • ❤️ 239 • 16h ago
 
 ---
 
@@ -501,7 +501,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 15,773 • ❤️ 425 • 9d ago
+⬇️ 15,773 • ❤️ 427 • 9d ago
 
 ---
 
@@ -517,7 +517,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 181 • 💬 3 • ⭐ 6,353 • 13d ago
+▲ 183 • 💬 3 • ⭐ 6,353 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -531,9 +531,9 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 101 • 💬 3 • ⭐ 232 • 1d ago
+▲ 103 • 💬 3 • ⭐ 232 • 1d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move)
+[🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
 ---
 
@@ -571,7 +571,7 @@ Visionary is an open web-native platform enabling real-time rendering of 3D Gaus
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 164 • 💬 4 • ⭐ 837 • 7d ago
+▲ 165 • 💬 4 • ⭐ 837 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -603,6 +603,18 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 24 • 💬 0 • ⭐ 25,771 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -625,23 +637,9 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 TwinFlow is a 1-step generative model framework that enhances inference efficiency without requiring fixed pretrained teacher models or standard adversarial networks, achieving high performance on text-to-image tasks and scaling efficiently.
 
-▲ 61 • 💬 8 • ⭐ 92 • 8d ago
+▲ 62 • 💬 8 • ⭐ 114 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.05150) • [💻 code](https://github.com/inclusionAI/TwinFlow) • [🔗 project](https://zhenglin-cheng.com/twinflow)
-
----
-
-**[LongCat-Image Technical Report](https://huggingface.co/papers/2512.07584)**
-
-*Meituan LongCat Team, Hanghang Ma, Haoxian Tan et al. (13 authors)*
-
-🏢 LongCat
-
-LongCat-Image is a bilingual open-source foundation model for image generation that addresses multilingual text rendering, photorealism, and deployment efficiency through rigorous data curation, compact design, and comprehensive open-source support.
-
-▲ 15 • 💬 2 • ⭐ 350 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07584) • [💻 code](https://github.com/meituan-longcat/LongCat-Image) • [🔗 project](https://longcat.chat/)
 
 ---
 
@@ -655,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 6.7k • 🔱 1.1k • 2h ago
+⭐ 7.0k • 🔱 1.2k • 49m ago
 
 ---
 
@@ -665,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.8k • 🔱 205 • 2h ago
+⭐ 1.8k • 🔱 216 • 1h ago
 
 ---
 
@@ -695,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 132 • 22h ago
+⭐ 1.1k • 🔱 132 • 23h ago
 
 ---
 
@@ -715,7 +713,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 883 • 🔱 280 • 5d ago
+⭐ 884 • 🔱 282 • 5d ago
 
 ---
 
@@ -735,7 +733,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 852 • 🔱 46 • 2d ago
+⭐ 853 • 🔱 46 • 2d ago
 
 ---
 
@@ -745,7 +743,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 592 • 🔱 86 • 5h ago
+⭐ 598 • 🔱 87 • 6h ago
 
 ---
 

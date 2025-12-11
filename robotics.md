@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T07:58:10.583607+00:00'
+updated: '2025-12-11T08:40:08.306275+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 07:58 UTC  
+**Last Updated:** December 11, 2025 at 08:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-6h ago
+7h ago
 
 ---
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-3h ago
+4h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-17h ago
+18h ago
 
 ---
 
@@ -72,7 +72,15 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-21h ago
+22h ago
+
+---
+
+**[If you're learning RL and robotics, I wrote a tutorial about Discount Factor (gamma) Explained With Q-Learning + CartPole](https://www.reddit.com/r/robotics/comments/1pjrp3n/if_youre_learning_rl_and_robotics_i_wrote_a/)**
+
+In this tutorial you will learn: how γ affects convergence and stability in Q-Learning, how to choose the right value for your own RL environment, and what happens when γ exceeds the recommended limits (for example, γ > 1.0) and why the algorithm crashes. Link: Discount Factor (gamma) Explained With Q-Learning + CartPole
+
+1h ago
 
 ---
 
@@ -80,7 +88,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-20h ago
+21h ago
 
 ---
 
@@ -98,19 +106,13 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Web
 
 ---
 
-**[Humanoid: What’s Different About Their Wrist Design?](https://www.reddit.com/r/robotics/comments/1pj0xfe/humanoid_whats_different_about_their_wrist_design/)**
-
-19h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
 
-Business Wire • 18h ago
+Business Wire • 19h ago
 
 ---
 
@@ -144,6 +146,12 @@ Tech Xplore • 2d ago
 
 ---
 
+**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+
+Chron • 15h ago
+
+---
+
 **[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
 
 $32 million investment will created 230 new jobs.
@@ -152,17 +160,11 @@ WHMI • 16h ago
 
 ---
 
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
-
-Chron • 14h ago
-
----
-
 **[Vine-inspired robotic gripper gently lifts heavy and fragile objects](https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210)**
 
 Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
 
-MIT News • 12h ago
+MIT News • 13h ago
 
 ---
 
@@ -174,11 +176,11 @@ National Defense Magazine • 3d ago
 
 ---
 
-**[A Sober Look at Amazon’s Automation Drive](https://jacobin.com/2025/12/amazon-robots-automation-workforce-ai)**
+**[CEO of Chinese robotics company posts video of himself getting kicked by his robot in effort to combat skeptics](https://www.businessinsider.com/engineai-ceo-robot-kick-video-2025-12)**
 
-As Amazon rolls out its millionth robot on the warehouse floor, it is important to recognize that the company is not any closer to ridding itself of the burden of human labor. Amazon can still be unionized.
+EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
 
-Jacobin • 16h ago
+Business Insider • 14h ago
 
 ---
 
@@ -202,7 +204,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 55K • 👍 2K • 💬 215 • ⏱️ 17:44 • 15h ago
+👁️ 55K • 👍 2K • 💬 215 • ⏱️ 17:44 • 16h ago
 
 ---
 
