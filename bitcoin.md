@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T22:52:12.916392+00:00'
+updated: '2025-12-11T23:13:25.788013+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 22:52 UTC  
+**Last Updated:** December 11, 2025 at 23:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +3.6%  
-**30d:** -9.3%  
-**90d:** -20.4%  
-**1y:** -7.6%  
+**24h:** +1.1%  
+**7d:** +3.9%  
+**30d:** -9.1%  
+**90d:** -20.2%  
+**1y:** -7.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[I can’t wait to be rich guys](https://www.reddit.com/r/Bitcoin/comments/1pk4b3i/i_cant_wait_to_be_rich_guys/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 10h ago
 
 Emily Nicolle and David Pan take stock of Bitcoin treasury firm Twenty One Capital’s debut in New York — and question what might come next.
 
-Bloomberg.com • 51m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -281,7 +281,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 5 • 💬 0 • 57m ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 5 • 💬 0 • 1h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -313,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 48K • 👍 2K • 💬 593 • ⏱️ 8:26 • 21h ago
+👁️ 48K • 👍 2K • 💬 593 • ⏱️ 8:26 • 22h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin #Crypto #Finance Guests Markus Thielen - https://youtube.com/live/vYI1CO
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 739 • 💬 272 • ⏱️ 35:32 • 7h ago
+👁️ 14K • 👍 739 • 💬 272 • ⏱️ 35:32 • 8h ago
 
 ---
 
@@ -363,7 +363,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 107K • 👍 5K • 💬 408 • ⏱️ 21:05 • 23h ago
+👁️ 107K • 👍 5K • 💬 408 • ⏱️ 21:05 • 1d ago
 
 ---
 
