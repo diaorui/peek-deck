@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T17:57:46.378892+00:00'
+updated: '2025-12-11T18:41:05.977682+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 17:57 UTC  
+**Last Updated:** December 11, 2025 at 18:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 5h ago
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 2h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 3h ago
 
 ---
 
@@ -57,7 +57,39 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 1h ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 2h ago
+
+---
+
+**[At what point does smart parenting tech cross into spying?](https://www.reddit.com/r/artificial/comments/1pk3sxg/at_what_point_does_smart_parenting_tech_cross/)**
+
+Context: This ""parenting"" AI app called NurtureOS turned out to be satire made by an AI company. (I don't get the logic either, but that's not what I'm concerned about.) My gripe: Someone's going to try sell something like this for real sooner or later, and I can’t stop thinking about the long-term effects it could have on people and society as a whole. Where are we heading with AI in our homes? And especially when kids are involved? The idea behind the app (you can see the features on the site) implied a future where parents could offload actual emotional labour completely. Suppose for an instant that an AI can sooth tantrums, resolve petty fights, teach social skills, and even be tweaked to mold your child's behaviour in specific ways. First of all, is it unethical to use AI to condition your kids? We do it anyway when we teach them certain things are right or wrong, or launch them into specific social constructs. What makes it different when AI's the one doing it? Secondly, there's the emotional intelligence part. Kids learn empathy, boundaries, and emotional resilience through their interactions with other humans. If an AI took deciding how to handle a fight between siblings or how to discipline a child, what happens to the child’s understanding of relationships? Would they start responding to other humans with the expectation that some third party (electronic or otherwise) will always step in to facilitate or mediate? Would they have less room to make mistakes, experiment socially, or negotiate boundaries? Would they even have the skillset to do it with? Thirdly, there’s the impact on parents. If you rely on an app to make the “right” choices for your kid, does that slowly chip away at your confidence? Do you start assuming the AI knows better than your own judgement? Parenting is already full of anxiety. Imagine adding a third party that's constantly between you and your spouse telling you their concept of “ideal behavior”. Just you and you and your friend SteveAI. Finally, the privacy angle is huge. A real version of this app would basically normalise 24/7 emotional surveillance in the home. It would be recording behaviour, conversations, moods, and interactions, and feeding it all to company servers somewhere that you never get to see. They'd have your data forever. Just think about all the crap Meta got up to with the data we fecklessly gave it in our teenage Facebook days. This would be SO much worse than that. This app may have been fake, but the next one may not be, and it exposed a real cultural pressure point. Right now, we keep inviting AI deeper into our lives for convenience. At what point does that start reshaping childhood, parenthood, and just society as a whole in ways we don’t fully understand? Is delegating emotional or developmental tasks to AI inherently dangerous? Or is there a world where it can support parents without replacing them and putting us all at risk?
+
+57m ago
+
+---
+
+**[OpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy | Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.](https://www.reddit.com/r/artificial/comments/1pk1b2t/openai_staffer_quits_alleging_companys_economic/)**
+
+Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
+
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 2h ago
+
+---
+
+**[OpenAI Is in Trouble](https://www.reddit.com/r/artificial/comments/1pjrq4n/openai_is_in_trouble/)**
+
+“Holy shit,” he wrote on X. “I’ve used ChatGPT every day for 3 years. Just spent 2 hours on Gemini 3. I’m not going back. The leap is insane.”
+
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 11h ago
+
+---
+
+**[Disney to invest $1bn into OpenAI](https://www.reddit.com/r/artificial/comments/1pjzqjh/disney_to_invest_1bn_into_openai/)**
+
+The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal in which the artificial intelligence start-up will use Disney characters in its flagship products. As part of the three-year deal, announced on Thursday, Disney will make more than 200 Marvel, Pixar and Star Wars characters available within ChatGPT and Sora, OpenAI’s video-generation tool. The company will also take a $1bn stake in the $500bn start-up, as well as warrants to purchase additional equity at a later date. Read the full story for free with your email here: https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
+
+🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 3h ago
 
 ---
 
@@ -73,45 +105,15 @@ The start-up is falling behind in the AI race.
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-🔗 [TIME](https://time.com/7339685/person-of-the-year-2025-ai-architects/) • 3h ago
+🔗 [TIME](https://time.com/7339685/person-of-the-year-2025-ai-architects/) • 4h ago
 
 ---
 
-**[OpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy | Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.](https://www.reddit.com/r/artificial/comments/1pk1b2t/openai_staffer_quits_alleging_companys_economic/)**
+**[AI Took My Job. Now It’s Interviewing Me For New Ones](https://www.reddit.com/r/artificial/comments/1pk56ll/ai_took_my_job_now_its_interviewing_me_for_new/)**
 
-Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
+When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 1h ago
-
----
-
-**[OpenAI Is in Trouble](https://www.reddit.com/r/artificial/comments/1pjrq4n/openai_is_in_trouble/)**
-
-“Holy shit,” he wrote on X. “I’ve used ChatGPT every day for 3 years. Just spent 2 hours on Gemini 3. I’m not going back. The leap is insane.”
-
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 10h ago
-
----
-
-**[Disney to invest $1bn into OpenAI](https://www.reddit.com/r/artificial/comments/1pjzqjh/disney_to_invest_1bn_into_openai/)**
-
-The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal in which the artificial intelligence start-up will use Disney characters in its flagship products. As part of the three-year deal, announced on Thursday, Disney will make more than 200 Marvel, Pixar and Star Wars characters available within ChatGPT and Sora, OpenAI’s video-generation tool. The company will also take a $1bn stake in the $500bn start-up, as well as warrants to purchase additional equity at a later date. Read the full story for free with your email here: https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
-
-🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 2h ago
-
----
-
-**[Oracle plummets 11% on weak revenue, pushing down AI stocks like Nvidia and CoreWeave](https://www.reddit.com/r/artificial/comments/1pjq2lu/oracle_plummets_11_on_weak_revenue_pushing_down/)**
-
-Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 11h ago
-
----
-
-**[AI Hackers Are Coming Dangerously Close to Beating Humans | A recent Stanford experiment shows what happens when an artificial-intelligence hacking bot is unleashed on a network](https://www.reddit.com/r/artificial/comments/1pk2spw/ai_hackers_are_coming_dangerously_close_to/)**
-
-🔗 [wsj.com](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6) • 53m ago
+🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 4m ago
 
 ---
 
@@ -119,25 +121,65 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 ## Google News: "ai"
 
-**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
+**[OpenAI announces latest AI model — GPT-5.2 — and says it's better at professional tasks](https://www.cnbc.com/2025/12/11/openai-intros-new-ai-model-gpt-5point2-says-better-at-professional-tasks.html)**
 
-The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
+The new model will be available starting Thursday within OpenAI's ChatGPT chatbot and its API.
+
+cnbc.com • 40m ago
+
+---
+
+**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
+
+TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
 
 Time Magazine • 5h ago
 
 ---
 
-**['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o)**
+**[Time magazine names ‘Architects of AI’ as its person of the year for 2025](https://apnews.com/article/time-person-of-year-2025-77ec65c6792bc99ec2ce1919c5f421ea)**
 
-Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.
+The “Architects of AI” were named Time magazine’s person of the year for 2025. The magazine on Thursday cited 2025 as the year when the potential of artificial intelligence “roared into view” with no turning back.
 
-BBC • 4h ago
+AP News • 47m ago
 
 ---
 
-**[These Are the Key AI Players on the Cover of Time's 'Architects of AI' Magazine](https://www.usnews.com/news/us/articles/2025-12-11/these-are-the-key-ai-players-on-the-cover-of-times-architects-of-ai-magazine)**
+**[The architects of AI are Time's 2025 Person of the Year](https://www.cbsnews.com/news/the-architects-of-ai-are-times-2025-person-of-the-year/)**
 
-U.S. News & World Report • 43m ago
+Time magazine named "the architects of AI" its 2025 Person of the Year on Thursday, calling out tech industry leaders behind the rise in artificial intelligence.
+
+CBS News • 19m ago
+
+---
+
+**[New York Enacts Landmark AI Law Requiring Ads To Disclose Use Of Synthetic Performers](https://deadline.com/2025/12/new-york-ai-law-consumers-film-industry-1236646078/)**
+
+New York Gov. Kathy Hochul on Thursday signed the nation's first AI bill designed to both protect consumers and increase transparency in the film industry.
+
+Deadline • 16m ago
+
+---
+
+**[McDonald's pulls 'creepy' AI-generated Christmas ad after viewer backlash](https://www.foxbusiness.com/media/mcdonalds-pulls-creepy-ai-generated-christmas-ad-after-viewer-backlash)**
+
+McDonald's confirmed to Fox News Digital that it removed its artificial intelligence-generated Christmas advertisement from YouTube after viewer backlash.
+
+Fox Business • 18h ago
+
+---
+
+**[‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash](https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash)**
+
+Commercial in Netherlands depicting festival-season chaos at ‘most terrible time of year’ prompted flurry of criticism online
+
+The Guardian • 5h ago
+
+---
+
+**[Matt Walsh rips McDonalds ‘AI’ ad: ‘awful’ | RISING](https://thehill.com/video/matt-walsh-rips-mcdonalds-ai-ad-awful-rising/11341261/)**
+
+thehill.com • 32m ago
 
 ---
 
@@ -145,7 +187,7 @@ U.S. News & World Report • 43m ago
 
 Oracle stock fell as much as 15% Thursday after the tech firm's quarterly AI costs rose ahead of Wall Street's expectations and revenue fell short.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -153,45 +195,7 @@ Yahoo Finance • 1h ago
 
 Shares in Nvidia, Micron and Microsoft were also lower in premarket trade on Thursday.
 
-CNBC • 8h ago
-
----
-
-**[Rotation away from AI trade may continue after Oracle earnings dud, Fed decision](https://www.cnbc.com/2025/12/11/rotation-away-from-ai-trade-may-continue-after-oracle-earnings-dud-fed-decision.html)**
-
-The gains of the last several years could broaden out to other sectors.
-
-CNBC • 49m ago
-
----
-
-**[Rivian Unveils AI Chip for Automated Driving, Ditches Nvidia](https://www.bloomberg.com/news/articles/2025-12-11/rivian-unveils-ai-chip-for-automated-driving-ditches-nvidia)**
-
-Rivian Automotive Inc. has developed its own artificial intelligence chip, replacing Nvidia Corp. technology as part of a broader push to add and enhance automated-driving features in future vehicles.
-
-Bloomberg.com • 37m ago
-
----
-
-**[Rivian is building its own powerful AI chips for autonomous driving](https://www.theverge.com/news/842213/rivian-ai-autonomous-chip-specs)**
-
-Rivian’s AI chips can perform 1,600 trillion operations a second.
-
-The Verge • 37m ago
-
----
-
-**[What To Expect From Rivian's 'Autonomy & AI Day'](https://www.investors.com/news/rivian-autonomy-ai-day-stock-market/)**
-
-Investor's Business Daily • 2h ago
-
----
-
-**[Disney making $1 billion investment in OpenAI, will allow characters on Sora AI video generator](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)**
-
-Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
-
-CNBC • 3h ago
+cnbc.com • 9h ago
 
 ---
 
@@ -211,7 +215,7 @@ AI progress is steady. Human equivalence is sudden.
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 354 • 💬 419 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 355 • 💬 419 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -219,7 +223,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 315 • 💬 308 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 317 • 💬 310 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -227,7 +231,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 286 • 💬 132 • 2d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 286 • 💬 134 • 2d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -235,13 +239,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 233 • 💬 188 • 3h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
-
----
-
-**[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
-
-⬆️ 196 • 💬 177 • 3d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 281 • 💬 223 • 4h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -273,7 +271,15 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 105 • 💬 69 • 4h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 111 • 💬 72 • 5h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+
+---
+
+**[The AI-Education Death Spiral a.k.a. Let the Kids Cheat](https://news.ycombinator.com/item?id=46213045)**
+
+Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
+
+⬆️ 68 • 💬 93 • 1d ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -297,7 +303,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 32K • 👍 276 • 💬 188 • ⏱️ 2:58 • 18h ago
+👁️ 32K • 👍 276 • 💬 188 • ⏱️ 2:58 • 19h ago
 
 ---
 
@@ -393,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 714 • 2d ago
+⬇️ 80,162 • ❤️ 718 • 2d ago
 
 ---
 
@@ -405,7 +411,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,538 • 3d ago
+⬇️ 245,041 • ❤️ 2,541 • 3d ago
 
 ---
 
@@ -417,7 +423,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 18,587 • ❤️ 340 • 1d ago
+⬇️ 18,587 • ❤️ 341 • 2d ago
 
 ---
 
@@ -429,7 +435,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,209 • ❤️ 264 • 2d ago
+⬇️ 2,209 • ❤️ 265 • 2d ago
 
 ---
 
@@ -441,7 +447,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 257 • 1d ago
+⬇️ 7,222 • ❤️ 258 • 1d ago
 
 ---
 
@@ -653,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 8.5k • 🔱 1.4k • 1h ago
+⭐ 8.6k • 🔱 1.4k • 2h ago
 
 ---
 
@@ -663,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.0k • 🔱 225 • 58m ago
+⭐ 2.0k • 🔱 225 • 1h ago
 
 ---
 
@@ -693,7 +699,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 2h ago
+⭐ 1.1k • 🔱 134 • 3h ago
 
 ---
 
@@ -743,7 +749,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 608 • 🔱 87 • 3h ago
+⭐ 608 • 🔱 87 • 4h ago
 
 ---
 

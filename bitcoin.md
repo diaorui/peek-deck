@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T17:57:46.387279+00:00'
+updated: '2025-12-11T18:41:05.986107+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 17:57 UTC  
+**Last Updated:** December 11, 2025 at 18:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,136.06
+### $90,349.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** +1.2%  
-**30d:** -11.4%  
-**90d:** -22.2%  
-**1y:** -9.8%  
+**24h:** -2.7%  
+**7d:** +1.7%  
+**30d:** -11.0%  
+**90d:** -21.9%  
+**1y:** -9.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1798.50B
+**Market Cap:** $1804.33B
 Rank #1
 
-**Circulating Supply:** 19,960,762 BTC
+**Circulating Supply:** 19,960,778 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.2%
 
 **All-Time Low:** $67.81
-+132675.4%
++133361.1%
 
 ---
 
@@ -79,19 +79,25 @@ Rank #1
 
 **[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-2h ago
+3h ago
 
 ---
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-6h ago
+7h ago
+
+---
+
+**[I can’t wait to be rich guys](https://www.reddit.com/r/Bitcoin/comments/1pk4b3i/i_cant_wait_to_be_rich_guys/)**
+
+38m ago
 
 ---
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -103,23 +109,25 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 ---
 
-**[SUPERCYCLE😂](https://www.reddit.com/r/Bitcoin/comments/1pjzrml/supercycle/)**
+**[Can you relate?](https://www.reddit.com/r/Bitcoin/comments/1pk1i4g/can_you_relate/)**
+
+For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
 
 2h ago
 
 ---
 
-**[Can you relate?](https://www.reddit.com/r/Bitcoin/comments/1pk1i4g/can_you_relate/)**
+**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
-
-1h ago
+15h ago
 
 ---
 
-**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
+**[BITCOIN Selloff always seems to follow FOMC.](https://www.reddit.com/r/Bitcoin/comments/1pk1qys/bitcoin_selloff_always_seems_to_follow_fomc/)**
 
-14h ago
+Iooking at the the last 4 FOMC meetings and we see this on the chart: June 18 -> $BTC DUMP July 30 -> $BTC DUMP Sep 17 -> $BTC DUMP Oct 29 -> $BTC DUMP After yesterday’s meeting, I fear we could be heading for a drop below $80,000 ... but then that will be a sweet price to enter some more.
+
+2h ago
 
 ---
 
@@ -131,19 +139,11 @@ We back baby!
 
 ---
 
-**[BITCOIN Selloff always seems to follow FOMC.](https://www.reddit.com/r/Bitcoin/comments/1pk1qys/bitcoin_selloff_always_seems_to_follow_fomc/)**
-
-Iooking at the the last 4 FOMC meetings and we see this on the chart: June 18 -> $BTC DUMP July 30 -> $BTC DUMP Sep 17 -> $BTC DUMP Oct 29 -> $BTC DUMP After yesterday’s meeting, I fear we could be heading for a drop below $80,000 ... but then that will be a sweet price to enter some more.
-
-1h ago
-
----
-
 **[There is no environment where you cannot run a mining operation. This video PROVES it can be done.](https://www.reddit.com/r/Bitcoin/comments/1pjzwus/there_is_no_environment_where_you_cannot_run_a/)**
 
 50°C outside but 27 °C inside the facility. Triple filtration, 24 tons of water circulating daily, on-site hydro conversions. 800 ASICs running 24/7 in one of the harshest climates on earth.
 
-2h ago
+3h ago
 
 ---
 
@@ -155,7 +155,7 @@ Iooking at the the last 4 FOMC meetings and we see this on the chart: June 18 ->
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
@@ -165,11 +165,25 @@ Reuters • 5h ago
 
 ---
 
-**[Bitcoin’s $732B Capital Inflow Proves This Isn’t Crypto Winter But a Mid-Cycle Reset](https://finance.yahoo.com/news/bitcoin-732b-capital-inflow-proves-171026139.html)**
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqduROg_hc2B-jp7d1c0YnYLNn_MUx_GiSLGM51Bgj8NBmvDTUijG-dJ&gaa_ts=693b13ac&gaa_sig=opIpdNvwp_MkjKhx9r8gb2RIuUVJd5kGx6o895dgTVoJywa71L-jzYmzU03DSsHJ8om2a1PGPXsq1NM2MBDoKw%3D%3D)**
 
-Bitcoin (CRYPTO: BTC) has seen $732 billion in new capital inflows since its 2022 cycle low, exceeding all previous bull runs combined. This surge in institutional and ETF-driven investment has pushed Bitcoin’s realized market cap to record highs—$1.1 trillion—even as prices consolidate below peak levels. Past crypto winters brought panic but this wave of capital ... Bitcoin’s $732B Capital Inflow Proves This Isn’t Crypto Winter But a Mid-Cycle Reset
+Barron's • 1d ago
 
-Yahoo Finance • 47m ago
+---
+
+**['Not Worth Anything': Michael Burry Says Bitcoin Is The 'Tulip Bulb Of Our Time'](https://finance.yahoo.com/news/not-worth-anything-michael-burry-173105419.html)**
+
+Bitcoin’s valuation is “ridiculous,” according to “The Big Short” investor Michael Burry, who predicted the 2008 housing market crash years in advance. “I think that Bitcoin at $100,000 is the most ridiculous thing,” Burry told author Michael Lewis in ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Altcoin Season Shows Flickers As Bitcoin Tests Support Near $90,000](https://finance.yahoo.com/news/altcoin-season-shows-flickers-bitcoin-170344918.html)**
+
+Market conditions appear steadier today, even though risk appetite has not recovered fully. The Fear and Greed Index sits at 29, down slightly from 30 yesterday but still clear of the extreme fear zone that dominated most of last week.The Altcoin Season Index has climbed to 20 from 18, showing ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -185,7 +199,7 @@ Business Insider • 1d ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 1d ago
+cnbc.com • 2d ago
 
 ---
 
@@ -197,12 +211,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqfFxM_rZYiGGiUwxY_GTIhS26FUfdqBjojFKu5HhC1XQHuJAFb41T4n&gaa_ts=693b0499&gaa_sig=2H3bHHu0IQWCCNijB0YjKbkxORw8NNT394T7GO63vs0HYTH8nMFFmnJ4Fk5uoB19ZmT0G56Z8x24hB8J-df6xg%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[Some Bitcoin Buying Firms Are Selling as Losses Pile Up on Paper: Report](https://decrypt.co/352002/some-bitcoin-buying-firms-selling-losses-pile-up)**
 
 A report found that most Bitcoin-stacking firms sit on unrealized losses, with a handful selling the asset as its price fell last month.
@@ -211,19 +219,11 @@ Decrypt • 2h ago
 
 ---
 
-**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
+**[How to buy Bitcoin Hyper before it launches](https://nypost.com/business/how-to-buy-bitcoin-hyper-presale/)**
 
-In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
+Its presales have been gaining attention among the crypto community, since the token claims to promise quicker, cheaper Bitcoin transactions.
 
-WIRED • 2d ago
-
----
-
-**[Crypto Winter Squeezes Bitcoin Miners as AI Pivot Gains Urgency](https://www.bloomberg.com/news/articles/2025-12-10/crypto-winter-squeezes-bitcoin-miners-as-ai-pivot-gains-urgency)**
-
-The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
-
-Bloomberg.com • 1d ago
+New York Post • 8h ago
 
 ---
 
@@ -263,7 +263,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 18h ago
+⬆️ 2 • 💬 0 • 19h ago
 
 ---
 
@@ -315,7 +315,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 7K • 👍 469 • 💬 25 • ⏱️ 11:29 • 5h ago
+👁️ 7K • 👍 469 • 💬 25 • ⏱️ 11:29 • 6h ago
 
 ---
 
@@ -325,7 +325,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 332 • ⏱️ 10:23 • 15h ago
+👁️ 46K • 👍 2K • 💬 332 • ⏱️ 10:23 • 16h ago
 
 ---
 
@@ -335,7 +335,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 96K • 👍 5K • 💬 438 • ⏱️ 21:05 • 18h ago
+👁️ 96K • 👍 5K • 💬 438 • ⏱️ 21:05 • 19h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled t
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 194 • ⏱️ 16:48 • 17h ago
+👁️ 30K • 👍 2K • 💬 194 • ⏱️ 16:48 • 18h ago
 
 ---
 
@@ -355,7 +355,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 875 • 💬 33 • ⏱️ 32:26 • 19h ago
+👁️ 26K • 👍 875 • 💬 33 • ⏱️ 32:26 • 20h ago
 
 ---
 
@@ -363,7 +363,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Matt & Justus
 
-👁️ 2.7M • 👍 144K • 💬 354 • ⏱️ 1:00 • 2d ago
+👁️ 2.7M • 👍 144K • 💬 354 • ⏱️ 1:00 • 3d ago
 
 ---
 
@@ -383,7 +383,7 @@ Jeff Walton joins the show for a deep dive into the state of Bitcoin treasury co
 
 📺 What Bitcoin Did
 
-👁️ 10K • 👍 451 • 💬 83 • ⏱️ 48:22 • 22h ago
+👁️ 10K • 👍 451 • 💬 83 • ⏱️ 48:22 • 23h ago
 
 ---
 

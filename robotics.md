@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T17:57:46.396461+00:00'
+updated: '2025-12-11T18:41:05.995462+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 17:57 UTC  
+**Last Updated:** December 11, 2025 at 18:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,14 +40,6 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 ---
 
-**[My inverse kinematics are flawless and everything is going according to plan](https://www.reddit.com/r/robotics/comments/1pjka0v/my_inverse_kinematics_are_flawless_and_everything/)**
-
-I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
-
-16h ago
-
----
-
 **[IR-Sim is, a Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning](https://www.reddit.com/r/robotics/comments/1pjumrm/irsim_is_a_pythonbased_lightweight_robot/)**
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
@@ -56,17 +48,25 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 ---
 
+**[My inverse kinematics are flawless and everything is going according to plan](https://www.reddit.com/r/robotics/comments/1pjka0v/my_inverse_kinematics_are_flawless_and_everything/)**
+
+I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
+
+17h ago
+
+---
+
 **[What could be possible in humanoid elderly care (ROBOTGYM)](https://www.reddit.com/r/robotics/comments/1pjoo5e/what_could_be_possible_in_humanoid_elderly_care/)**
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-13h ago
+14h ago
 
 ---
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -118,6 +118,22 @@ Business Wire • 1d ago
 
 ---
 
+**[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
+
+Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
+
+Deloitte • 1d ago
+
+---
+
+**[Watch Apollo humanoid robot tackle never-before-seen objects with Google DeepMind](https://interestingengineering.com/ai-robotics/google-deepmind-apollo-humanoid-robot)**
+
+Google DeepMind shows Apollo humanoid handling unfamiliar objects and following voice commands, alongside Aloha robots performing tasks.
+
+Interesting Engineering • 5h ago
+
+---
+
 **[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
 
 The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
@@ -130,7 +146,7 @@ MLive.com • 2d ago
 
 Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
 
-Shore Daily News • 7h ago
+Shore Daily News • 8h ago
 
 ---
 
@@ -138,7 +154,7 @@ Shore Daily News • 7h ago
 
 Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
 
-IEEE Spectrum • 2h ago
+IEEE Spectrum • 3h ago
 
 ---
 
@@ -148,11 +164,11 @@ Chron • 1d ago
 
 ---
 
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
+**[Naperville teens make history at international robotics competition](https://www.nctv17.org/news/naperville-teens-make-history-at-international-robotics-competition/)**
 
-Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
+Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
 
-Yahoo Finance • 3d ago
+NCTV17 • 1d ago
 
 ---
 
@@ -169,22 +185,6 @@ AVweb • 1d ago
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
 Bloomberg.com • 3d ago
-
----
-
-**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
-
-$32 million investment will created 230 new jobs.
-
-WHMI • 1d ago
-
----
-
-**[Vine-inspired robotic gripper gently lifts heavy and fragile objects](https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210)**
-
-Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
-
-MIT News • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ What should a robot look like? How necessary is a body? Where do the boundaries 
 
 📺 Sarah Davis Baker
 
-👁️ 12K • 👍 2K • 💬 200 • ⏱️ 37:14 • 23h ago
+👁️ 12K • 👍 2K • 💬 200 • ⏱️ 37:14 • 1d ago
 
 ---
 
