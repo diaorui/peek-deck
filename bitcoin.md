@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T10:58:29.355663+00:00'
+updated: '2025-12-11T11:27:19.299741+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 10:58 UTC  
+**Last Updated:** December 11, 2025 at 11:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** +1.1%  
-**30d:** -11.5%  
-**90d:** -22.3%  
-**1y:** -9.9%  
+**24h:** -2.0%  
+**7d:** +1.2%  
+**30d:** -11.4%  
+**90d:** -22.2%  
+**1y:** -9.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ We back baby!
 
 **[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-13h ago
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 2025: It’s no longer just one black sheep. We’re already the 4% who get what Bitcoin is really bringing… and we’re still learning. We’re a scattered pack of black sheep now… but getting more visible every day. nostr: npub1855ur6q8lf7pjfvceg3s5qd0zuujqyz59h8zmxpquflunfpwkv4s3x3y8v #Bitcoin #CryptoMemes #HODL #BitcoinMemes
 
-9h ago
+10h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bottom tex
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -171,7 +171,7 @@ cnbc.com • 12h ago
 
 Institutional flows surged 54% above the weekly average, indicating strategic selling rather than retail panic.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 2d ago
 
 PNC Financial Services Group (PNC) just became the first major U.S. bank to let eligible private bank clients trade spot bitcoin directly inside its own platform, a meaningful expansion of its digital asset toolbox. See our latest analysis for PNC Financial Services Group. The move into direct bitcoin trading lands at a time when momentum is quietly building, with an 11.82 percent 1 month share price return and a robust 56.14 percent 3 year total shareholder return that together underscore...
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Barron's • 21h ago
 
 The price of bitcoin and ether slipped lower on Thursday as Fed chair Jerome Powell signalled the central bank will proceed cautiously into 2026.
 
-Yahoo Finance UK • 45m ago
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -209,7 +209,7 @@ Yahoo Finance UK • 45m ago
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -263,7 +263,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 23h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -277,7 +277,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 11h ago
+⬆️ 2 • 💬 0 • 12h ago
 
 ---
 
@@ -297,7 +297,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 22h ago
+⬆️ 3 • 💬 0 • 23h ago
 
 ---
 
@@ -321,7 +321,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 73K • 👍 4K • 💬 337 • ⏱️ 21:05 • 11h ago
+👁️ 73K • 👍 4K • 💬 337 • ⏱️ 21:05 • 12h ago
 
 ---
 
@@ -351,7 +351,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 249 • ⏱️ 10:23 • 8h ago
+👁️ 32K • 👍 2K • 💬 249 • ⏱️ 10:23 • 9h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled t
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 151 • ⏱️ 16:48 • 10h ago
+👁️ 25K • 👍 2K • 💬 151 • ⏱️ 16:48 • 11h ago
 
 ---
 
@@ -381,7 +381,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 740 • 💬 3 • ⏱️ 32:26 • 12h ago
+👁️ 22K • 👍 740 • 💬 3 • ⏱️ 32:26 • 13h ago
 
 ---
 

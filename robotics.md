@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T10:58:29.365062+00:00'
+updated: '2025-12-11T11:27:19.309893+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 10:58 UTC  
+**Last Updated:** December 11, 2025 at 11:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-9h ago
+10h ago
 
 ---
 
@@ -72,7 +72,7 @@ Here are the top developments today for those following the industry: 1. Agility
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-20h ago
+21h ago
 
 ---
 
@@ -96,7 +96,7 @@ In this tutorial you will learn: how γ affects convergence and stability in Q-L
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-6m ago
+35m ago
 
 ---
 
@@ -104,7 +104,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 16m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 44m ago
 
 ---
 
@@ -130,7 +130,7 @@ Bloomberg.com • 2d ago
 
 LimX Dynamics’ humanoid robot Oli navigates sand, rocks, and debris with impressive balance and stability in new demo video.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -158,7 +158,7 @@ Tech Xplore • 2d ago
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 17h ago
+Chron • 18h ago
 
 ---
 
@@ -174,7 +174,7 @@ WHMI • 19h ago
 
 Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
 
-MIT News • 15h ago
+MIT News • 16h ago
 
 ---
 
@@ -182,7 +182,7 @@ MIT News • 15h ago
 
 EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
 
-Business Insider • 16h ago
+Business Insider • 17h ago
 
 ---
 
@@ -216,7 +216,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 64K • 👍 3K • 💬 239 • ⏱️ 17:44 • 18h ago
+👁️ 64K • 👍 3K • 💬 239 • ⏱️ 17:44 • 19h ago
 
 ---
 
@@ -284,7 +284,7 @@ At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the 
 
 📺 AI Robot Lab
 
-👁️ 573K • 👍 1K • 💬 35 • ⏱️ 0:20 • 21h ago
+👁️ 573K • 👍 1K • 💬 35 • ⏱️ 0:20 • 22h ago
 
 ---
 
