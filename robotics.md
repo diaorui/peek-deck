@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T11:54:50.626102+00:00'
+updated: '2025-12-11T12:46:26.749966+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 11:54 UTC  
+**Last Updated:** December 11, 2025 at 12:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-10h ago
+11h ago
 
 ---
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-7h ago
+8h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -76,11 +76,19 @@ Here are the top developments today for those following the industry: 1. Agility
 
 ---
 
+**[Hyundai MobED](https://www.reddit.com/r/robotics/comments/1pjuhk2/hyundai_mobed/)**
+
+The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 2h ago
+
+---
+
 **[Robotic hands, a comprehensice infographic](https://www.reddit.com/r/robotics/comments/1pj3o6w/robotic_hands_a_comprehensice_infographic/)**
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-21h ago
+22h ago
 
 ---
 
@@ -92,19 +100,9 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 ---
 
-**[Hyundai MobED](https://www.reddit.com/r/robotics/comments/1pjuhk2/hyundai_mobed/)**
+**[Would a sub-millisecond, CPU-only command-validation layer be useful in real robotic systems? Looking for technical feedback.](https://www.reddit.com/r/robotics/comments/1pjwmb7/would_a_submillisecond_cpuonly_commandvalidation/)**
 
-The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 1h ago
-
----
-
-**[If you're learning RL and robotics, I wrote a tutorial about Discount Factor (gamma) Explained With Q-Learning + CartPole](https://www.reddit.com/r/robotics/comments/1pjrp3n/if_youre_learning_rl_and_robotics_i_wrote_a/)**
-
-In this tutorial you will learn: how γ affects convergence and stability in Q-Learning, how to choose the right value for your own RL environment, and what happens when γ exceeds the recommended limits (for example, γ > 1.0) and why the algorithm crashes. Link: Discount Factor (gamma) Explained With Q-Learning + CartPole
-
-4h ago
+1m ago
 
 ---
 
@@ -124,7 +122,7 @@ Bloomberg.com • 2d ago
 
 LimX Dynamics’ humanoid robot Oli navigates sand, rocks, and debris with impressive balance and stability in new demo video.
 
-Interesting Engineering • 22h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -132,7 +130,7 @@ Interesting Engineering • 22h ago
 
 Partnership will integrate Digit robots into fulfillment operations beginning in Texas, with future expansion capabilities for Latin America.
 
-The Robot Report • 22h ago
+The Robot Report • 23h ago
 
 ---
 
@@ -144,31 +142,25 @@ MLive.com • 1d ago
 
 ---
 
-**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
+**[Medra Raises $52 Million to Speed Drug Discovery With AI Robots](https://www.bloomberg.com/news/articles/2025-12-11/medra-raises-52-million-to-speed-drug-discovery-with-ai-robots)**
 
-$32 million investment will created 230 new jobs.
+Medra, which programs robots with artificial intelligence to conduct and improve biological experiments, has raised $52 million to build what it says will be one of the largest autonomous labs in the United States.
 
-WHMI • 19h ago
-
----
-
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
-
-Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Speech-to-reality system creates objects on demand using AI and robotics](https://techxplore.com/news/2025-12-speech-reality-demand-ai-robotics.html)**
-
-Tech Xplore • 2d ago
+Bloomberg.com • 46m ago
 
 ---
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 18h ago
+Chron • 19h ago
+
+---
+
+**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
+
+$32 million investment will created 230 new jobs.
+
+WHMI • 20h ago
 
 ---
 
@@ -176,7 +168,7 @@ Chron • 18h ago
 
 Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
 
-MIT News • 16h ago
+MIT News • 17h ago
 
 ---
 
@@ -185,6 +177,14 @@ MIT News • 16h ago
 Analog cameras are nowhere near as efficient as biological eyes. If you’ve ever handled a single-lens reflex (SLR) camera, especially if it had a zoom lens attached, you know how heavy they are, and how tricky and time-consuming adjusting their focus can be.
 
 New Atlas • 17h ago
+
+---
+
+**[Google DeepMind to build robotic science laboratory in the UK; Mexico imposes tariffs of up to 50% – business live](https://www.theguardian.com/business/live/2025/dec/11/oracle-shares-slide-earnings-ai-bubble-stock-markets-bank-of-england-business-live-news-updates)**
+
+Rolling coverage of the latest economic and financial news
+
+The Guardian • 5h ago
 
 ---
 
@@ -198,17 +198,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 16K • 👍 467 • 💬 110 • ⏱️ 42:48 • 3d ago
-
----
-
-**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
-
-EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
-
-📺 AI Tech Academy
-
-👁️ 67K • 👍 1K • 💬 447 • ⏱️ 14:26 • 2d ago
+👁️ 16K • 👍 468 • 💬 110 • ⏱️ 42:48 • 3d ago
 
 ---
 
@@ -218,7 +208,17 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 64K • 👍 3K • 💬 239 • ⏱️ 17:44 • 19h ago
+👁️ 73K • 👍 3K • 💬 266 • ⏱️ 17:44 • 20h ago
+
+---
+
+**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
+
+EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
+
+📺 AI Tech Academy
+
+👁️ 69K • 👍 1K • 💬 453 • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 34K • 👍 647 • 💬 159 • ⏱️ 18:46 • 5d ago
+👁️ 34K • 👍 649 • 💬 159 • ⏱️ 18:46 • 5d ago
 
 ---
 
@@ -246,7 +246,7 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 80K • 👍 1K • 💬 419 • ⏱️ 0:41 • 3d ago
+👁️ 80K • 👍 1K • 💬 420 • ⏱️ 0:41 • 3d ago
 
 ---
 
@@ -256,7 +256,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 128K • 👍 6K • 💬 873 • ⏱️ 19:33 • 4d ago
+👁️ 128K • 👍 6K • 💬 876 • ⏱️ 19:33 • 4d ago
 
 ---
 
@@ -276,7 +276,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 200K • 👍 918 • 💬 297 • ⏱️ 1:03 • 4d ago
+👁️ 201K • 👍 918 • 💬 297 • ⏱️ 1:03 • 4d ago
 
 ---
 
@@ -286,7 +286,7 @@ At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the 
 
 📺 AI Robot Lab
 
-👁️ 573K • 👍 1K • 💬 35 • ⏱️ 0:20 • 22h ago
+👁️ 667K • 👍 1K • 💬 36 • ⏱️ 0:20 • 23h ago
 
 ---
 

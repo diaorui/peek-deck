@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T11:54:50.616841+00:00'
+updated: '2025-12-11T12:46:26.740736+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 11:54 UTC  
+**Last Updated:** December 11, 2025 at 12:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
+**24h:** -2.0%  
 **7d:** +1.4%  
 **30d:** -11.2%  
 **90d:** -22.1%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.79B
+**Market Cap:** $1802.33B
 Rank #1
 
 **Circulating Supply:** 19,960,621 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.4%
 
 **All-Time Low:** $67.81
-+133107.5%
++133057.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -99,17 +99,23 @@ We back baby!
 
 ---
 
+**[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
+
+1h ago
+
+---
+
 **[Is there any one as confused as I am after the fed cut](https://www.reddit.com/r/Bitcoin/comments/1pjm05j/is_there_any_one_as_confused_as_i_am_after_the/)**
 
 All precious metals are moving higher after yhe dovish fed move Why is bitcoin dropping? Is that a conflicting temporary move? Or is there anything else I am missing?
 
-9h ago
+10h ago
 
 ---
 
 **[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -117,29 +123,7 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-14h ago
-
----
-
-**[It’s no longer just one black sheep](https://www.reddit.com/r/Bitcoin/comments/1pjkiei/its_no_longer_just_one_black_sheep/)**
-
-2025: It’s no longer just one black sheep. We’re already the 4% who get what Bitcoin is really bringing… and we’re still learning. We’re a scattered pack of black sheep now… but getting more visible every day. nostr: npub1855ur6q8lf7pjfvceg3s5qd0zuujqyz59h8zmxpquflunfpwkv4s3x3y8v #Bitcoin #CryptoMemes #HODL #BitcoinMemes
-
-10h ago
-
----
-
-**[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
-
-Bottom tex
-
-21h ago
-
----
-
-**[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
-
-19h ago
+15h ago
 
 ---
 
@@ -147,7 +131,23 @@ Bottom tex
 
 Seeing a lot of confusion about grey market crypto casinos so let me break it down: Traditional casino model: Casino holds all funds in opaque accounts. You deposit, they promise to pay. If you win big, it's a direct hit to their operations. This is why they limit winners - your win threatens their business. Grey casino model (the good ones): Bankroll is separated from operations. Often backed by a larger liquidity pool shared across multiple operators. Your win is absorbed by the liquidity layer, not the casino's operating budget. Casin0x uses this model - they're built on something called the DeGaming platform which provides the liquidity backing. This is why they can offer no withdrawal limits and don't panic when you win. Key thing to verify: Can you see the bankroll? Is it on-chain?
 
-50m ago
+1h ago
+
+---
+
+**[It’s no longer just one black sheep](https://www.reddit.com/r/Bitcoin/comments/1pjkiei/its_no_longer_just_one_black_sheep/)**
+
+2025: It’s no longer just one black sheep. We’re already the 4% who get what Bitcoin is really bringing… and we’re still learning. We’re a scattered pack of black sheep now… but getting more visible every day. nostr: npub1855ur6q8lf7pjfvceg3s5qd0zuujqyz59h8zmxpquflunfpwkv4s3x3y8v #Bitcoin #CryptoMemes #HODL #BitcoinMemes
+
+11h ago
+
+---
+
+**[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
+
+Bottom tex
+
+22h ago
 
 ---
 
@@ -157,7 +157,7 @@ Seeing a lot of confusion about grey market crypto casinos so let me break it do
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 6h ago
+Reuters • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 6h ago
 
 <body><p>STORY: Bitcoin fell below $90,000 on Thursday (December 11) and dragged other cryptocurrencies down with it.</p><p>The fall followed fresh market worries about AI profits.</p><p>Risk appetite fell after U.S. cloud firm Oracle's profit and revenue outlook came in below forecasts the day before, and the firm said it expected higher spending.</p><p>Investors took that as a sign AI infrastructure outlays aren't turning profits as fast as they hoped.</p><p>Bitcoin did rise back just above the $90,000 mark by morning in Europe, but&nbsp;remained down around 2% on the day.&nbsp;</p><p>The moves undid two days of gains and showed further weakness that began in the U.S. trading session on Wednesday after the Federal Reserve cut interest rates.</p><p>Thursday's decline came days after Standard Chartered slashed its expectations for bitcoin.</p><p>The lender had projected the crypto token to hit $200,000 by the end of this year, but has now lowered its forecast to $100,000.</p></body>
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -173,49 +173,7 @@ Yahoo Finance • 58m ago
 
 The fall signals renewed market jitters after the historic crypto crash in October.
 
-South China Morning Post • 3h ago
-
----
-
-**[Night owl bitcoin traders: Soon there'll be an ETF just for you](https://www.cnbc.com/2025/12/10/night-owl-bitcoin-traders-soon-therell-be-an-etf-just-for-you.html)**
-
-If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
-
-cnbc.com • 13h ago
-
----
-
-**[Coinbase and PNC Partner to Expand Direct Bitcoin Access for Clients](https://www.coinbase.com/blog/coinbase-and-pnc-partner-to-expand-direct-bitcoin-access-for-clients)**
-
-Coinbase • 1d ago
-
----
-
-**[PNC rolls out direct bitcoin trading for high-net-worth clients through Coinbase tie-up](https://www.theblock.co/post/381903/pnc-bitcoin-trading-high-net-worth-clients-coinbase-tie-up)**
-
-The Block • 1d ago
-
----
-
-**[A Look at PNC (PNC) Valuation as It Launches Direct Spot Bitcoin Trading for Private Bank Clients](https://finance.yahoo.com/news/look-pnc-pnc-valuation-launches-101625870.html)**
-
-PNC Financial Services Group (PNC) just became the first major U.S. bank to let eligible private bank clients trade spot bitcoin directly inside its own platform, a meaningful expansion of its digital asset toolbox. See our latest analysis for PNC Financial Services Group. The move into direct bitcoin trading lands at a time when momentum is quietly building, with an 11.82 percent 1 month share price return and a robust 56.14 percent 3 year total shareholder return that together underscore...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin price slides lower despite Fed interest rate cut](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-fed-interest-rate-cut-101325419.html)**
-
-The price of bitcoin and ether slipped lower on Thursday as Fed chair Jerome Powell signalled the central bank will proceed cautiously into 2026.
-
-Yahoo Finance UK • 1h ago
-
----
-
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqf8QXoHWWCme-V-ONmVqrK_JlppSMVdEPPnBjb4avI6_U_ISuvkez-v&gaa_ts=693ab1d7&gaa_sig=QAZwKenBFHr-cQl9wutGaPrZEgJkSdt2ibYQpm23DByFEp66GVkxkMPuisy1M42hbJTn9yfLbpnLfL-JFg-XIQ%3D%3D)**
-
-Barron's • 22h ago
+South China Morning Post • 4h ago
 
 ---
 
@@ -223,21 +181,55 @@ Barron's • 22h ago
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 11h ago
+BBC • 12h ago
+
+---
+
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqdcMjSGpoeKtDXxDyugragfiPkwmtpCKzC1vSdOH_jQozLkhaXYzEii&gaa_ts=693ac08e&gaa_sig=8ntY3ppPE7qpl3oyVXd_PJEGg3xnIQLiA6EvUoB6ryHA8T86Wuhoop_FIpttt6fyyUBgwRB8oc9X4hFI1u8tMw%3D%3D)**
+
+Barron's • 23h ago
+
+---
+
+**[A Look at PNC (PNC) Valuation as It Launches Direct Spot Bitcoin Trading for Private Bank Clients](https://finance.yahoo.com/news/look-pnc-pnc-valuation-launches-101625870.html)**
+
+PNC Financial Services Group (PNC) just became the first major U.S. bank to let eligible private bank clients trade spot bitcoin directly inside its own platform, a meaningful expansion of its digital asset toolbox. See our latest analysis for PNC Financial Services Group. The move into direct bitcoin trading lands at a time when momentum is quietly building, with an 11.82 percent 1 month share price return and a robust 56.14 percent 3 year total shareholder return that together underscore...
+
+Yahoo Finance • 2h ago
+
+---
+
+**['Santa rally' now unlikely as bitcoin slips after Fed delivers 'hawkish cut': analysts](https://www.theblock.co/post/382164/santa-rally-hawkish-cut-bitcoin?utm_source=news.xml&utm_medium=rss)**
+
+The Block • 53m ago
+
+---
+
+**[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
+
+The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
+
+cnbc.com • 1d ago
+
+---
+
+**[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[Bitcoin Firm Twenty One Falls 20% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
+
+Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
+
+Bloomberg.com • 1d ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[₿OSS Challenge 2026 – Start Your Career in Bitcoin Open Source Software](https://news.ycombinator.com/item?id=46146551)**
-
-₿OSS Challenge - start your career in bitcoin open source
-
-⬆️ 7 • 💬 1 • 7d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
-
----
 
 **[The Bitcoin Ultras vs. Broken Britain](https://news.ycombinator.com/item?id=46147501)**
 
@@ -279,7 +271,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 12h ago
+⬆️ 2 • 💬 0 • 13h ago
 
 ---
 
@@ -299,7 +291,15 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 23h ago
+⬆️ 3 • 💬 0 • 1d ago
+
+---
+
+**[Ethereum Fusaka upgrade set for early December rollout](https://news.ycombinator.com/item?id=46217004)**
+
+The Ethereum Fusaka upgrade adds PeerDAS and scalability gains, enhancing Ethereum’s performance and supporting faster growth across Layer 2 solutions.
+
+⬆️ 1 • 💬 0 • 1d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/learn/ethereum-fusaka-upgrade-set-for-early-december-rollout-will-we-finally-see-altseason/)
 
 ---
 
@@ -313,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 39K • 👍 2K • 💬 499 • ⏱️ 8:26 • 10h ago
+👁️ 43K • 👍 2K • 💬 519 • ⏱️ 8:26 • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 73K • 👍 4K • 💬 337 • ⏱️ 21:05 • 12h ago
+👁️ 81K • 👍 4K • 💬 362 • ⏱️ 21:05 • 13h ago
 
 ---
 
@@ -333,27 +333,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 147 • 💬 118 • ⏱️ 15:40 • 5h ago
-
----
-
-**[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 15K • 👍 613 • 💬 126 • ⏱️ 8:34 • 15h ago
-
----
-
-**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
-
-LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
-
-📺 Altcoin Daily
-
-👁️ 32K • 👍 2K • 💬 249 • ⏱️ 10:23 • 9h ago
+👁️ 5K • 👍 228 • 💬 130 • ⏱️ 15:40 • 6h ago
 
 ---
 
@@ -363,7 +343,27 @@ Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled t
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 151 • ⏱️ 16:48 • 11h ago
+👁️ 27K • 👍 2K • 💬 158 • ⏱️ 16:48 • 12h ago
+
+---
+
+**[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 16K • 👍 616 • 💬 148 • ⏱️ 8:34 • 15h ago
+
+---
+
+**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
+
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 37K • 👍 2K • 💬 278 • ⏱️ 10:23 • 10h ago
 
 ---
 
@@ -373,7 +373,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 17K • 👍 824 • 💬 150 • ⏱️ 5:12 • 15h ago
+👁️ 18K • 👍 844 • 💬 160 • ⏱️ 5:12 • 16h ago
 
 ---
 
@@ -383,7 +383,17 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 740 • 💬 3 • ⏱️ 32:26 • 13h ago
+👁️ 23K • 👍 800 • 💬 3 • ⏱️ 32:26 • 14h ago
+
+---
+
+**[Bitcoin Investors...Get Ready for FOMC Press Conference](https://www.youtube.com/watch?v=Hw21byHsv_w)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 30K • 👍 1K • 💬 138 • ⏱️ 41:09 • 21h ago
 
 ---
 
@@ -393,17 +403,7 @@ Bitcoin is grinding higher from the $80K lows, sitting ~25% below its $126K all-
 
 📺 Swan Bitcoin
 
-👁️ 37K • 👍 2K • 💬 83 • ⏱️ 18:41 • 1d ago
-
----
-
-**[Bitcoin Pre-FOMC](https://www.youtube.com/watch?v=kZGHzEGRyAM)**
-
-Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
-
-📺 Benjamin Cowen
-
-👁️ 85K • 👍 5K • 💬 175 • ⏱️ 9:09 • 1d ago
+👁️ 38K • 👍 2K • 💬 83 • ⏱️ 18:41 • 1d ago
 
 ---
 
