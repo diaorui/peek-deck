@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T16:29:45.670997+00:00'
+updated: '2025-12-11T16:59:41.752510+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 16:29 UTC  
+**Last Updated:** December 11, 2025 at 16:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.2%  
-**7d:** +4.8%  
-**30d:** -7.3%  
-**90d:** -31.9%  
-**1y:** -18.5%  
+**24h:** -6.0%  
+**7d:** +4.9%  
+**30d:** -7.1%  
+**90d:** -31.8%  
+**1y:** -18.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $382.94B
+**Market Cap:** $383.72B
 Rank #2
 
 **Circulating Supply:** 120,695,176 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.9%
+-35.8%
 
 **All-Time Low:** $0.43
-+732658.4%
++733464.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, total crypto newbie here. I need some guidance and expert advice on the best way to approach my financial needs. Context: I live in a developing country, and I am in desperate need of financial freedom. I started looking into stablecoins, especially USDT. I am not really looking into trading. My use case: Relative or friend in europe, they buy USDT on Binance or any other exchange platform, send that USDT to my Trust wallet. I store it, and occasionally send some pocket money to Redotpay to spend using their virtual visa card. That is pretty much about it. Storing it and spending with Redotpay. Not super interested in p2p market. So i dont think i will need to sell my USDT that often, almost never. So the market standard for p2p transactions isnt really a big concern. Might be interested in trading one day, but not for now. This is just for my personal finances and spending. The question I need help with: Should I use Ethereum or Tron. My findings with the research I did: Tron has cheaper gas fee, for when I transfer to Redotpay. But apparently Eth have dropped their transfer rates for USDT, and a lot of people claim it is around the same price now. Because the numbers I found are a little worrying: around 1 USD for Tron and between 3-8 USD for Eth. If you have any information about the rates that would be great. I am more inclined towards Eth to be fair. I just like the idea of a trully decentralized chain. And it has been king over a decade for good reasons. Also it is more secure. With the new EIP-7702 on Eth, you can now pay gas fee for transfers with USDT, which is very interesting, as I am not very comfortable with juggling two currencies. Since per my understanding, I need to always have TRX reserve in my Trust wallet to be able to send to Redotpay. Are the fees really that different to justify skipping on EIP-7702 ? Some people mentioned using an L2 on Eth. I honestly have no idea what that is. If i have got any concepts misunderstood, I would appreciate any clarifications and guidance. I still got a lot to learn about this field.
 
-31m ago
+1h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 1d ago
 
 BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -186,7 +186,7 @@ Fortune • 2d ago
 
 **[October 10 Crash Whale Adds $100M+ in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-adds-100m-in-ethereum-longs-can-eth-hit-5000-by-2026/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -230,13 +230,13 @@ Decrypt • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
+**[ETHEREUM ABOUT TO PUMP HIGHER?🔥 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=6RIo4D7ADGA)**
 
-LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Altcoin Daily
+📺 Cilinix Crypto
 
-👁️ 42K • 👍 2K • 💬 325 • ⏱️ 10:23 • 14h ago
+👁️ 688 • 👍 40 • 💬 8 • ⏱️ 4:36 • 7h ago
 
 ---
 
@@ -246,27 +246,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 7K • 👍 553 • 💬 46 • ⏱️ 44:48 • 4h ago
-
----
-
-**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
-
-What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
-
-📺 Thomas Kralow
-
-👁️ 3K • 👍 313 • 💬 18 • ⏱️ 11:29 • 3h ago
-
----
-
-**[ETHEREUM ABOUT TO PUMP HIGHER?🔥 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=6RIo4D7ADGA)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 483 • 👍 37 • 💬 5 • ⏱️ 4:36 • 6h ago
+👁️ 11K • 👍 661 • 💬 61 • ⏱️ 44:48 • 5h ago
 
 ---
 
@@ -276,47 +256,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 260 • 👍 33 • 💬 2 • ⏱️ 6:54 • 2h ago
+👁️ 1K • 👍 120 • 💬 3 • ⏱️ 6:54 • 2h ago
 
 ---
 
-**[Tom Lee’s BMNR Adds $112M in ETH - &quot;Ethereum Has Already Bottomed&quot;](https://www.youtube.com/watch?v=p2NmbGfcwvU)**
+**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
 
-'Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury The bottom is officially in, ...
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
 
-📺 Wall Street Stockcast
+📺 Altcoin Daily
 
-👁️ 188 • 👍 10 • 💬 17 • ⏱️ 6:13 • 3h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K9yX0b6QpBE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 220 • 💬 9 • ⏱️ 6:11 • 14h ago
+👁️ 46K • 👍 2K • 💬 332 • ⏱️ 10:23 • 14h ago
 
 ---
 
-**[Crypto Live Trading 11 Dec  ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=ckXyzlXM8u0)**
+**[Tom Lee Just Flipped on Ethereum… Why?](https://www.youtube.com/watch?v=y48K7-hqmPQ)**
 
-ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.exchange/?code=JFWJTR LIFE ...
+Tom Lee just reversed his Ethereum outlook after previously calling for a drop to 20k before year-end. Now he says the next major ...
 
-📺 Vibe With Sahil
+📺 Ivan on Tech
 
-👁️ 3K • 👍 432 • 2h ago
+👁️ 5K • 👍 626 • 💬 54 • ⏱️ 10:42 • 1h ago
 
 ---
 
-**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
+**[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
 
-In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
+Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
 
-📺 FAROKH RADIO
+📺 The Bitcoin Revolution
 
-👁️ 16K • 👍 633 • 💬 84 • ⏱️ 1:10:46 • 23h ago
+👁️ 17K • 👍 489 • 💬 253 • ⏱️ 12:46 • 2d ago
 
 ---
 
@@ -326,7 +296,37 @@ BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 10K • 👍 345 • 💬 155 • ⏱️ 18:26 • 16h ago
+👁️ 11K • 👍 353 • 💬 155 • ⏱️ 18:26 • 16h ago
+
+---
+
+**[I Can’t Believe This Is Happening!! All Hell Is Breaking Loose In Crypto!!](https://www.youtube.com/watch?v=2ZqztKdMquI)**
+
+Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily Merch - While ...
+
+📺 Altcoin Daily
+
+👁️ 71K • 👍 4K • 💬 322 • ⏱️ 12:03 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K9yX0b6QpBE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 221 • 💬 9 • ⏱️ 6:11 • 14h ago
+
+---
+
+**[🚨 FED FLIP!! | ETH&#39;s Biggest Day of the Year (FOMC + QE)](https://www.youtube.com/watch?v=YPMRXtdCF88)**
+
+BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
+
+📺 Marzell Crypto
+
+👁️ 2K • 👍 68 • 💬 18 • ⏱️ 8:36 • 1d ago
 
 ---
 

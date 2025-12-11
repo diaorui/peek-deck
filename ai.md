@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T16:29:45.656621+00:00'
+updated: '2025-12-11T16:59:41.737676+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 16:29 UTC  
+**Last Updated:** December 11, 2025 at 16:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,6 +53,20 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 ---
 
+**[New Research Says AI Hype Is Everywhere, But the Public Still Doesn’t Trust It](https://www.reddit.com/r/artificial/comments/1pk1w9q/new_research_says_ai_hype_is_everywhere_but_the/)**
+
+A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
+
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 29m ago
+
+---
+
+**["I've had a lot of AI nightmares ... many days in a row. If I could, I would certainly slow down AI and robotics. It's advancing at a very rapid pace, whether I like it or not." -Guy building the thing right in front of you with his own hands](https://www.reddit.com/r/artificial/comments/1pk2h97/ive_had_a_lot_of_ai_nightmares_many_days_in_a_row/)**
+
+7m ago
+
+---
+
 **[OpenAI Is in Trouble](https://www.reddit.com/r/artificial/comments/1pj66p2/openai_is_in_trouble/)**
 
 The start-up is falling behind in the AI race.
@@ -69,11 +83,19 @@ The Architects of AI drove the economy, shaped geopolitics, and changed the way 
 
 ---
 
+**[OpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy | Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.](https://www.reddit.com/r/artificial/comments/1pk1b2t/openai_staffer_quits_alleging_companys_economic/)**
+
+Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
+
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 52m ago
+
+---
+
 **[OpenAI Is in Trouble](https://www.reddit.com/r/artificial/comments/1pjrq4n/openai_is_in_trouble/)**
 
 “Holy shit,” he wrote on X. “I’ve used ChatGPT every day for 3 years. Just spent 2 hours on Gemini 3. I’m not going back. The leap is insane.”
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 8h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 9h ago
 
 ---
 
@@ -89,31 +111,7 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 
 Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 10h ago
-
----
-
-**[Disney making $1 billion investment in OpenAI](https://www.reddit.com/r/artificial/comments/1pk1e2d/disney_making_1_billion_investment_in_openai/)**
-
-Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html) • 19m ago
-
----
-
-**[OpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy | Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.](https://www.reddit.com/r/artificial/comments/1pk1b2t/openai_staffer_quits_alleging_companys_economic/)**
-
-Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
-
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 22m ago
-
----
-
-**[Nvidia can now track the location of AI GPUs, but only if operators sign up to its new GPU health service](https://www.reddit.com/r/artificial/comments/1pjziui/nvidia_can_now_track_the_location_of_ai_gpus_but/)**
-
-Nvidia has unveiled an optional service for its data center partners. The opt-in service allows them to monitor the health of AI GPUs.
-
-🔗 [PC Guide](https://www.pcguide.com/news/nvidia-can-now-track-the-location-of-ai-gpus-but-only-if-operators-sign-up-to-its-new-gpu-health-service/) • 1h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 11h ago
 
 ---
 
@@ -125,7 +123,7 @@ Nvidia has unveiled an optional service for its data center partners. The opt-in
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Time Magazine • 3h ago
+Time Magazine • 4h ago
 
 ---
 
@@ -133,7 +131,7 @@ Time Magazine • 3h ago
 
 The people behind the rise of artificial intelligence have been given the magazine’s annual title.
 
-Yahoo • 2h ago
+Yahoo • 3h ago
 
 ---
 
@@ -141,7 +139,7 @@ Yahoo • 2h ago
 
 Time's Person of the Year 2025 is not one individual. Here's what the magazine chose and why.
 
-USA Today • 1h ago
+USA Today • 2h ago
 
 ---
 
@@ -149,13 +147,13 @@ USA Today • 1h ago
 
 Weaker-than-forecast quarterly data for Larry Ellison’s tech company shows slowdown in revenue growth but big rise in spending
 
-The Guardian • 49m ago
+The Guardian • 1h ago
 
 ---
 
 **[Oracle slumps as gloomy forecasts, soaring spending fan AI bubble worries](https://www.reuters.com/business/oracle-shares-drop-12-europe-after-forecasts-miss-wall-st-targets-2025-12-11/)**
 
-Reuters • 15m ago
+Reuters • 45m ago
 
 ---
 
@@ -163,7 +161,7 @@ Reuters • 15m ago
 
 Nvidia was still the single heaviest weight for the S&P 500.
 
-Fortune • 25m ago
+Fortune • 55m ago
 
 ---
 
@@ -171,13 +169,13 @@ Fortune • 25m ago
 
 These AI startups founded by bright young minds in their teens and early 20s are disrupting industries and attracting top investors in the AI boom.
 
-Business Insider • 8m ago
+Business Insider • 38m ago
 
 ---
 
 **[Mark Zuckerberg eyes a big change to how Meta does AI](https://qz.com/meta-new-ai-model-closed-source-avocado)**
 
-qz.com • 6m ago
+qz.com • 36m ago
 
 ---
 
@@ -203,15 +201,7 @@ CNBC • 2h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 572 • 💬 621 • 2d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
-
----
-
-**[Microsoft has a problem: lack of demand for its AI products](https://news.ycombinator.com/item?id=46194615)**
-
-A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
-
-⬆️ 420 • 💬 370 • 2d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 572 • 💬 622 • 2d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -227,7 +217,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 313 • 💬 306 • 23h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 315 • 💬 308 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -236,6 +226,14 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
 ⬆️ 286 • 💬 132 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+
+---
+
+**[Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://news.ycombinator.com/item?id=46231585)**
+
+Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
+
+⬆️ 204 • 💬 160 • 2h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -265,15 +263,15 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 113 • 💬 154 • 1d ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 114 • 💬 156 • 1d ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
-**[The AI-Education Death Spiral a.k.a. Let the Kids Cheat](https://news.ycombinator.com/item?id=46213045)**
+**[French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://news.ycombinator.com/item?id=46231187)**
 
-Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 68 • 💬 93 • 1d ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 104 • 💬 67 • 3h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -287,7 +285,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 44K • 👍 2K • 💬 340 • ⏱️ 14:55 • 22h ago
+👁️ 45K • 👍 2K • 💬 348 • ⏱️ 14:55 • 23h ago
 
 ---
 
@@ -297,7 +295,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 26K • 👍 233 • 💬 165 • ⏱️ 2:58 • 17h ago
+👁️ 32K • 👍 276 • 💬 188 • ⏱️ 2:58 • 17h ago
 
 ---
 
@@ -307,17 +305,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 39K • 👍 2K • 💬 65 • ⏱️ 12:50 • 1d ago
-
----
-
-**[See Inside the Data Center Helping to Power the AI Revolution](https://www.youtube.com/watch?v=KiRTHEV7wpo)**
-
-From emails to social media to online shopping, banking and chatting — everything we rely on everyday goes through an AI data ...
-
-📺 TODAY
-
-👁️ 8K • 👍 54 • 💬 12 • ⏱️ 3:20 • 1d ago
+👁️ 40K • 👍 2K • 💬 69 • ⏱️ 12:50 • 1d ago
 
 ---
 
@@ -327,7 +315,7 @@ In this episode, I sit down with @elonmusk for a wide-ranging conversation on DO
 
 📺 Katie Miller Pod
 
-👁️ 329K • 👍 13K • 💬 3K • ⏱️ 52:58 • 1d ago
+👁️ 341K • 👍 14K • 💬 3K • ⏱️ 52:58 • 1d ago
 
 ---
 
@@ -337,17 +325,27 @@ Go to https://ground.news/hank for a better way to stay informed. Subscribe for 
 
 📺 Hank Green
 
-👁️ 1.6M • 👍 81K • 💬 9K • ⏱️ 24:00 • 2d ago
+👁️ 1.7M • 👍 83K • 💬 9K • ⏱️ 24:00 • 2d ago
 
 ---
 
-**[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
+**[See Inside the Data Center Helping to Power the AI Revolution](https://www.youtube.com/watch?v=KiRTHEV7wpo)**
 
-JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
+From emails to social media to online shopping, banking and chatting — everything we rely on everyday goes through an AI data ...
 
-📺 Fox Business
+📺 TODAY
 
-👁️ 162K • 👍 2K • 💬 656 • ⏱️ 18:47 • 3d ago
+👁️ 10K • 👍 59 • 💬 13 • ⏱️ 3:20 • 1d ago
+
+---
+
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=WbZ1pfinVTs)**
+
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+
+📺 Impossible AIs
+
+👁️ 73K • 👍 302 • 💬 15 • ⏱️ 8:01 • 1d ago
 
 ---
 
@@ -357,27 +355,27 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.0M • 👍 50K • 💬 5K • ⏱️ 8:35 • 1d ago
+👁️ 1.0M • 👍 51K • 💬 5K • ⏱️ 8:35 • 1d ago
 
 ---
 
-**[Google’s Titans Just Solved AI’s Biggest Weakness, But...](https://www.youtube.com/watch?v=GGdjty9pAtg)**
+**[AI Dress in REAL LIFE](https://www.youtube.com/watch?v=zreiL7w329o)**
 
-Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS introduce a new long-term memory system that ...
+I Paid a dress maker to make an AI dress in real life! OTHER VIDEOS u might like: ✨ Temu, Amazon & Etsy Product ...
 
-📺 AI Revolution
+📺 Mia Maples
 
-👁️ 39K • 👍 1K • 💬 71 • ⏱️ 13:12 • 2d ago
+👁️ 107K • 👍 4K • 💬 80 • ⏱️ 0:36 • 2d ago
 
 ---
 
-**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
+**[Andrew Ross Sorkin On Affordability, What Happens If The AI Bubble Bursts, And Paramount vs. Netflix](https://www.youtube.com/watch?v=i8xmTFz8Z6k)**
 
-Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
+Best-selling author and co-anchor of CNBC's "Squawk Box," Andrew Ross Sorkin comments on the battle over Warner Bros., the ...
 
-📺 hxsain
+📺 The Late Show with Stephen Colbert
 
-👁️ 321K • 👍 25K • 💬 266 • ⏱️ 0:51 • 1d ago
+👁️ 147K • 👍 3K • 💬 355 • ⏱️ 9:06 • 1d ago
 
 ---
 
@@ -405,7 +403,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,537 • 2d ago
+⬇️ 245,041 • ❤️ 2,537 • 3d ago
 
 ---
 
@@ -441,7 +439,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 255 • 23h ago
+⬇️ 7,222 • ❤️ 255 • 1d ago
 
 ---
 
@@ -653,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 8.4k • 🔱 1.4k • 27m ago
+⭐ 8.4k • 🔱 1.4k • 57m ago
 
 ---
 
@@ -663,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.0k • 🔱 224 • 29m ago
+⭐ 2.0k • 🔱 224 • 59m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T16:29:45.674286+00:00'
+updated: '2025-12-11T16:59:41.755788+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 16:29 UTC  
+**Last Updated:** December 11, 2025 at 16:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-1h ago
+2h ago
 
 ---
 
@@ -48,31 +48,31 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 ---
 
-**[What could be possible in humanoid elderly care (ROBOTGYM)](https://www.reddit.com/r/robotics/comments/1pjoo5e/what_could_be_possible_in_humanoid_elderly_care/)**
-
-From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
-
-11h ago
-
----
-
 **[IR-Sim is, a Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning](https://www.reddit.com/r/robotics/comments/1pjumrm/irsim_is_a_pythonbased_lightweight_robot/)**
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-5h ago
+6h ago
 
 ---
 
-**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
+**[What could be possible in humanoid elderly care (ROBOTGYM)](https://www.reddit.com/r/robotics/comments/1pjoo5e/what_could_be_possible_in_humanoid_elderly_care/)**
+
+From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 12h ago
 
 ---
 
+**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
+
+13h ago
+
+---
+
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,15 @@ Here are the top developments today for those following the industry: 1. Agility
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 6h ago
+
+---
+
+**[We’re now controlling a Unitree robot inside a Gaussian Splat world. In the browser!](https://www.reddit.com/r/robotics/comments/1pk0uav/were_now_controlling_a_unitree_robot_inside_a/)**
+
+Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into threejs - Run MuJoCo physics (decoupled from renderer) What do you think about this?!?
+
+1h ago
 
 ---
 
@@ -96,15 +104,7 @@ The strongest counter against robot legs that I've seen. Sure, I have yet to see
 
 https://youtu.be/7YZupSKnvC8
 
-1h ago
-
----
-
-**[Robotic hands, a comprehensice infographic](https://www.reddit.com/r/robotics/comments/1pj3o6w/robotic_hands_a_comprehensice_infographic/)**
-
-We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
-
-1d ago
+2h ago
 
 ---
 
@@ -194,17 +194,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 71K • 👍 1K • 💬 460 • ⏱️ 14:26 • 2d ago
-
----
-
-**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
-
-In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
-
-📺 Google DeepMind
-
-👁️ 79K • 👍 3K • 💬 287 • ⏱️ 17:44 • 1d ago
+👁️ 72K • 👍 2K • 💬 470 • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -214,7 +204,17 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 16K • 👍 469 • 💬 111 • ⏱️ 42:48 • 3d ago
+👁️ 16K • 👍 472 • 💬 112 • ⏱️ 42:48 • 3d ago
+
+---
+
+**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+
+In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+
+📺 Google DeepMind
+
+👁️ 87K • 👍 3K • 💬 298 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 34K • 👍 651 • 💬 159 • ⏱️ 18:46 • 5d ago
+👁️ 34K • 👍 653 • 💬 159 • ⏱️ 18:46 • 5d ago
 
 ---
 
@@ -234,7 +234,7 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 80K • 👍 1K • 💬 422 • ⏱️ 0:41 • 3d ago
+👁️ 81K • 👍 1K • 💬 424 • ⏱️ 0:41 • 3d ago
 
 ---
 
@@ -244,7 +244,7 @@ What should a robot look like? How necessary is a body? Where do the boundaries 
 
 📺 Sarah Davis Baker
 
-👁️ 11K • 👍 1K • 💬 184 • ⏱️ 37:14 • 22h ago
+👁️ 12K • 👍 2K • 💬 200 • ⏱️ 37:14 • 23h ago
 
 ---
 
@@ -254,7 +254,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 128K • 👍 6K • 💬 880 • ⏱️ 19:33 • 5d ago
+👁️ 129K • 👍 6K • 💬 883 • ⏱️ 19:33 • 5d ago
 
 ---
 
@@ -262,7 +262,17 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 AI . Robot
 
-👁️ 108K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
+👁️ 109K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
+
+---
+
+**[These NEW AI Robots Are Getting TOO REAL – Experts Are FREAKING Out](https://www.youtube.com/watch?v=JMG9_1lpdzw)**
+
+The line between humans and machines is disappearing faster than anyone expected. These new humanoid AI robots don't just ...
+
+📺 The AI Nexus
+
+👁️ 2K • 👍 106 • 💬 7 • ⏱️ 21:00 • 12h ago
 
 ---
 
@@ -272,17 +282,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 201K • 👍 918 • 💬 297 • ⏱️ 1:03 • 5d ago
-
----
-
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
-
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
-
-📺 The Straits Times
-
-👁️ 169K • 👍 775 • 💬 245 • ⏱️ 0:47 • 2d ago
+👁️ 201K • 👍 920 • 💬 298 • ⏱️ 1:03 • 5d ago
 
 ---
 

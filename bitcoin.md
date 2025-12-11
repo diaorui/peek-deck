@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T16:29:45.664979+00:00'
+updated: '2025-12-11T16:59:41.746475+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 16:29 UTC  
+**Last Updated:** December 11, 2025 at 16:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.1%  
-**7d:** +0.4%  
-**30d:** -12.2%  
-**90d:** -22.9%  
-**1y:** -10.6%  
+**24h:** -2.6%  
+**7d:** +0.9%  
+**30d:** -11.7%  
+**90d:** -22.5%  
+**1y:** -10.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.69B
+**Market Cap:** $1792.10B
 Rank #1
 
-**Circulating Supply:** 19,960,721 BTC
+**Circulating Supply:** 19,960,746 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.9%
 
 **All-Time Low:** $67.81
-+132044.2%
++132144.5%
 
 ---
 
@@ -79,13 +79,19 @@ Rank #1
 
 **[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-1h ago
+2h ago
 
 ---
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-4h ago
+5h ago
+
+---
+
+**[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
+
+3h ago
 
 ---
 
@@ -93,13 +99,7 @@ Rank #1
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-13h ago
-
----
-
-**[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
-
-2h ago
+14h ago
 
 ---
 
@@ -115,19 +115,27 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 ---
 
-**[The printer is going brrr-illiant this Friday, ready to blast the balance sheet with a $40 BILLION a month.](https://www.reddit.com/r/Bitcoin/comments/1pjfpa3/the_printer_is_going_brrrilliant_this_friday/)**
-
-We back baby!
-
-18h ago
-
----
-
 **[Can you relate?](https://www.reddit.com/r/Bitcoin/comments/1pk1i4g/can_you_relate/)**
 
 For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
 
-15m ago
+45m ago
+
+---
+
+**[The printer is going brrr-illiant this Friday, ready to blast the balance sheet with a $40 BILLION a month.](https://www.reddit.com/r/Bitcoin/comments/1pjfpa3/the_printer_is_going_brrrilliant_this_friday/)**
+
+We back baby!
+
+19h ago
+
+---
+
+**[BITCOIN Selloff always seems to follow FOMC.](https://www.reddit.com/r/Bitcoin/comments/1pk1qys/bitcoin_selloff_always_seems_to_follow_fomc/)**
+
+Iooking at the the last 4 FOMC meetings and we see this on the chart: June 18 -> $BTC DUMP July 30 -> $BTC DUMP Sep 17 -> $BTC DUMP Oct 29 -> $BTC DUMP After yesterday’s meeting, I fear we could be heading for a drop below $80,000 ... but then that will be a sweet price to enter some more.
+
+35m ago
 
 ---
 
@@ -136,14 +144,6 @@ For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
 50°C outside but 27 °C inside the facility. Triple filtration, 24 tons of water circulating daily, on-site hydro conversions. 800 ASICs running 24/7 in one of the harshest climates on earth.
 
 1h ago
-
----
-
-**[Is there any one as confused as I am after the fed cut](https://www.reddit.com/r/Bitcoin/comments/1pjm05j/is_there_any_one_as_confused_as_i_am_after_the/)**
-
-All precious metals are moving higher after yhe dovish fed move Why is bitcoin dropping? Is that a conflicting temporary move? Or is there anything else I am missing?
-
-14h ago
 
 ---
 
@@ -161,7 +161,7 @@ BBC • 16h ago
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -199,7 +199,7 @@ Decrypt • 20h ago
 
 A report found that most Bitcoin-stacking firms sit on unrealized losses, with a handful selling the asset as its price fell last month.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -305,27 +305,17 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 45K • 👍 2K • 💬 568 • ⏱️ 8:26 • 15h ago
+👁️ 47K • 👍 2K • 💬 582 • ⏱️ 8:26 • 16h ago
 
 ---
 
-**[The Secret War Behind Bitcoin&#39;s Price Crash (Not What You Think)](https://www.youtube.com/watch?v=4cVGR6n7ttY)**
+**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
 
-Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be engineering your complete Wealth Operating ...
+What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
 
-📺 Mark Moss
+📺 Thomas Kralow
 
-👁️ 89K • 👍 5K • 💬 425 • ⏱️ 21:05 • 17h ago
-
----
-
-**[&quot;HUGE! Jerome Powell Literally Just Changed EVERYTHING&quot; - Tom Lee Bitcoin](https://www.youtube.com/watch?v=hbuVFV5dyVY)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 8K • 👍 273 • 💬 159 • ⏱️ 15:40 • 10h ago
+👁️ 7K • 👍 469 • 💬 25 • ⏱️ 11:29 • 4h ago
 
 ---
 
@@ -335,17 +325,27 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 325 • ⏱️ 10:23 • 14h ago
+👁️ 46K • 👍 2K • 💬 332 • ⏱️ 10:23 • 14h ago
 
 ---
 
-**[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
+**[The Secret War Behind Bitcoin&#39;s Price Crash (Not What You Think)](https://www.youtube.com/watch?v=4cVGR6n7ttY)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be engineering your complete Wealth Operating ...
 
-📺 My Financial Friend
+📺 Mark Moss
 
-👁️ 16K • 👍 616 • 💬 177 • ⏱️ 8:34 • 19h ago
+👁️ 96K • 👍 5K • 💬 438 • ⏱️ 21:05 • 17h ago
+
+---
+
+**[Did the Federal Reserve Just DESTROY Bitcoin’s 4-Year Cycle?!](https://www.youtube.com/watch?v=0Wgyk7VAHBE)**
+
+Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled the trigger. With rate cuts incoming, QE ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 2K • 💬 194 • ⏱️ 16:48 • 16h ago
 
 ---
 
@@ -355,37 +355,15 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 840 • 💬 33 • ⏱️ 32:26 • 18h ago
+👁️ 26K • 👍 875 • 💬 33 • ⏱️ 32:26 • 18h ago
 
 ---
 
-**[I HAVE SOMETHING IMPORTANT TO SAY ABOUT BITCOIN](https://www.youtube.com/watch?v=TfGehJwtZtE)**
+**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
 
-ONLY FOR THE FIRST 100 USERS !!! BloFin: https://themoon.co/blofin1000 Deposit & earn up to $1000 BYBIT TradFi: ...
+📺 Matt & Justus
 
-📺 The Moon Show
-
-👁️ 9K • 👍 614 • 💬 72 • ⏱️ 3:56 • 8h ago
-
----
-
-**[Are You Ready for the Death of Bitcoin’s Four-Year Cycle?](https://www.youtube.com/watch?v=KdVShbNSHbc)**
-
-Bitcoin is grinding higher from the $80K lows, sitting ~25% below its $126K all-time high as some of the sharpest minds in macro ...
-
-📺 Swan Bitcoin
-
-👁️ 38K • 👍 2K • 💬 86 • ⏱️ 18:41 • 1d ago
-
----
-
-**[MSTR, Bitcoin Treasuries &amp; The Shakeout | Jeff Walton](https://www.youtube.com/watch?v=AYVo5ajtq7M)**
-
-Jeff Walton joins the show for a deep dive into the state of Bitcoin treasury companies, the rise of digital credit, and why we may be ...
-
-📺 What Bitcoin Did
-
-👁️ 10K • 👍 433 • 💬 76 • ⏱️ 48:22 • 21h ago
+👁️ 2.7M • 👍 144K • 💬 354 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -395,7 +373,27 @@ The biggest crypto catch-up trade has begun, and Ran explains what's driving it.
 
 📺 Crypto Banter
 
-👁️ 29K • 👍 2K • 💬 41 • ⏱️ 29:14 • 1d ago
+👁️ 29K • 👍 2K • 💬 42 • ⏱️ 29:14 • 1d ago
+
+---
+
+**[MSTR, Bitcoin Treasuries &amp; The Shakeout | Jeff Walton](https://www.youtube.com/watch?v=AYVo5ajtq7M)**
+
+Jeff Walton joins the show for a deep dive into the state of Bitcoin treasury companies, the rise of digital credit, and why we may be ...
+
+📺 What Bitcoin Did
+
+👁️ 10K • 👍 451 • 💬 83 • ⏱️ 48:22 • 21h ago
+
+---
+
+**[the bitcoin B**G is actually confirmed.... the Federal Reserve is ******](https://www.youtube.com/watch?v=OThYSHZpajc)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 18K • 👍 872 • 💬 188 • ⏱️ 5:12 • 20h ago
 
 ---
 
