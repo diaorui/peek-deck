@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T19:54:58.210658+00:00'
+updated: '2025-12-11T20:25:12.760073+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 19:54 UTC  
+**Last Updated:** December 11, 2025 at 20:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 7h ago
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 4h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 5h ago
 
 ---
 
@@ -81,7 +81,15 @@ When my company pivoted to AI in 2023, I lost my job. As I struggle to find a ne
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 3h ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 4h ago
+
+---
+
+**[Something Ominous Is Happening in the AI Economy](https://www.reddit.com/r/artificial/comments/1pk6avk/something_ominous_is_happening_in_the_ai_economy/)**
+
+The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
+
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 1h ago
 
 ---
 
@@ -89,29 +97,21 @@ Four sources close to the situation claim OpenAI has become hesitant to publish 
 
 The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal in which the artificial intelligence start-up will use Disney characters in its flagship products. As part of the three-year deal, announced on Thursday, Disney will make more than 200 Marvel, Pixar and Star Wars characters available within ChatGPT and Sora, OpenAI’s video-generation tool. The company will also take a $1bn stake in the $500bn start-up, as well as warrants to purchase additional equity at a later date. Read the full story for free with your email here: https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
 
-🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 4h ago
+🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 5h ago
+
+---
+
+**[OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’](https://www.reddit.com/r/artificial/comments/1pk5kij/openai_launches_gpt52_as_it_navigates_code_red/)**
+
+The ChatGPT-maker is releasing its “best model yet” as it faces new pressures from Google and other AI competitors.
+
+🔗 [WIRED](https://www.wired.com/story/openai-gpt-launch-gemini-code-red/) • 1h ago
 
 ---
 
 **[OpenAI warns new models pose 'high' cybersecurity risk](https://www.reddit.com/r/artificial/comments/1pk2rtl/openai_warns_new_models_pose_high_cybersecurity/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/openai-warns-new-models-pose-high-cybersecurity-risk-2025-12-10/) • 2h ago
-
----
-
-**[AI Detecting Patterns](https://www.reddit.com/r/artificial/comments/1pk5h6g/ai_detecting_patterns/)**
-
-I’ve been using stratablue to analyze documents and meeting notes. It can detect repeated issues or flag unusual phrases, which helps catch things I might overlook. When combining multiple sources, sometimes the insights conflict, but it’s impressive how confidently it presents results. I’m trying to figure out how to trust outputs without double-checking everything manually. Does Strata AI handle structured vs unstructured data differently? How do you know when its insight is reliable versus misleading? Has anyone tested it systematically, and how do you decide which patterns are actually worth acting on?
-
-1h ago
-
----
-
-**[AI toys for kids talk about sex and issue Chinese Communist Party talking points, tests show](https://www.reddit.com/r/artificial/comments/1pk5e75/ai_toys_for_kids_talk_about_sex_and_issue_chinese/)**
-
-New research from Public Interest Research Group and tests conducted by NBC News found that a wide range of AI toys have loose guardrails.
-
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/ai-toys-gift-present-safe-kids-robot-child-miko-grok-alilo-miiloo-rcna246956) • 1h ago
+🔗 [reuters.com](https://www.reuters.com/business/openai-warns-new-models-pose-high-cybersecurity-risk-2025-12-10/) • 3h ago
 
 ---
 
@@ -119,81 +119,77 @@ New research from Public Interest Research Group and tests conducted by NBC News
 
 ## Google News: "ai"
 
-**[OpenAI announces latest AI model — GPT-5.2 — and says it's better at professional tasks](https://www.cnbc.com/2025/12/11/openai-intros-new-ai-model-gpt-5point2-says-better-at-professional-tasks.html)**
+**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
 
-The new model will be available starting Thursday within OpenAI's ChatGPT chatbot and its API.
-
-cnbc.com • 1h ago
-
----
-
-**[OpenAI aims to silence concerns it is falling behind in the AI race with release of new model GPT-5.2](https://fortune.com/2025/12/11/openai-gpt-5-2-launch-aims-to-silence-concerns-it-is-falling-behind-google-anthropic-code-red/)**
-
-Open AI said it beats competing models from Google and Anthropic across a wide range of benchmarks.
-
-Fortune • 58m ago
-
----
-
-**[GPT-5.2 is OpenAI’s latest move in the agentic AI battle](https://www.theverge.com/ai-artificial-intelligence/842529/openai-gpt-5-2-new-model-chatgpt)**
-
-Ready to make a spreadsheet.
-
-The Verge • 1h ago
-
----
-
-**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
-
-TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
+The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
 Time Magazine • 7h ago
 
 ---
 
-**[Time magazine names ‘Architects of AI’ as its person of the year for 2025](https://apnews.com/article/time-person-of-year-2025-77ec65c6792bc99ec2ce1919c5f421ea)**
+**['Architects of AI' named Time magazine Person of the Year 2025](https://www.usatoday.com/story/news/nation/2025/12/11/time-person-of-the-year-2025-architects-ai/87714617007/)**
 
-The “Architects of AI” were named Time magazine’s person of the year for 2025. The magazine on Thursday cited 2025 as the year when the potential of artificial intelligence “roared into view” with no turning back.
+Time's Person of the Year 2025 is not one individual. Here's what the magazine chose and why.
 
-AP News • 2h ago
-
----
-
-**[Time honors AI architects; researcher urges more human recognition](https://www.yahoo.com/news/videos/time-honors-ai-architects-researcher-190349723.html)**
-
-<body><p>STORY: :: TIME / TIME Person of the Year</p><p>:: Released December 11, 2025</p><p>:: &nbsp;Time Magazine names 'The Architects of AI' as its 'Person of the Year'</p><p>:: Fabian Stephany, AI Researcher and Lecturer, University of Oxford</p><p>"AI is not a person. AI wouldn't exist without people. But I still advocate for including more humans into this than just those big tech names or big names from, from the machine learning industry. //</p><p>"It needs a lot of work to build this technology. It needs a lot of work to create the data that is fed into this technology, there are millions of people working around the world //</p><p>"And I think what people should generally remember is that there is no technological revolution without humans, without human skills, because it’s us creating, maintaining and governing this technology. So ultimately, the decision of where this ride is going to go is up to us."</p><p>The 2025 "Person of the Year" issue features a cover story that explores how AI changed the world over the year in new and "sometimes frightening ways.” It includes interviews with Nvidia Chief Executive Jensen Huang, whose chips are powering the AI boom, and AI investors such as SoftBank CEO Masayoshi Son.</p><p>It also explores such troubling aspects of AI as the death of a 16-year-old Californian who committed suicide, after which his parents sued ChatGPT maker OpenAI, blaming the company for their son’s death because of conversations he had with the chatbot.</p><p>Time is among many media outlets partnering with AI firms to license content and develop new tools. In June 2024 it signed a multi-year content deal with OpenAI that gave the ChatGPT maker access to its archived news content. In response to user queries, the chatbot cites and links back to the source on Time.com.</p></body>
-
-Yahoo • 51m ago
+USA Today • 1h ago
 
 ---
 
-**[If Google wins AI race, Nvidia is 'in trouble,' says author of Jensen Huang biography](https://finance.yahoo.com/news/if-google-wins-ai-race-nvidia-is-in-trouble-says-author-of-jensen-huang-biography-184624884.html)**
+**[Time magazine selects "architects of AI" as 2025 Person of the Year](https://www.cbsnews.com/video/time-magazine-selects-architects-of-ai-as-2025-person-of-the-year/)**
 
-Jensen Huang biography author Stephen Witt explains why Google's self-developed AI model, Gemini, could pose a threat to Nvidia's AI dominance
+Time magazine has just announced its 2025 Person of the Year, recognizing not just one person, but a group its calling "the architects of AI." The digital article is out now.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Amazon’s Official ‘Fallout’ Season 1 Recap Is AI Garbage Filled With Mistakes](https://gizmodo.com/fallout-ai-recap-prime-video-amazon-2000698573)**
-
-Prime Video's latest needle-poke into generative AI's bubble comes on the heels of its anime dubbing debacle.
-
-Gizmodo • 46m ago
+CBS News • 1h ago
 
 ---
 
-**[With Fed rate cuts behind us, AI and bonds are now on Wall Street’s mind](https://www.cnn.com/2025/12/11/investing/bond-market-yields-trump)**
+**[Oracle stock sinks as AI costs jump past Wall Street estimates](https://finance.yahoo.com/news/oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-200454370.html)**
 
-Wall Street got the rate cut it wanted. But with the Federal Reserve set to take a more cautious approach to trimming interest rates in 2026, investors are now left to wrestle with other concerns that had been put on the back burner while Fed rate cuts were top of mind.
+Oracle stock fell as much as 15% Thursday after the tech firm's quarterly AI costs rose ahead of Wall Street's expectations and revenue fell short.
 
-CNN • 1h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqevH37pPAVZnNoW9H0tLsVRzmC-8r06zmt6kjqITNb8KwkfzJR19x1X&gaa_ts=693b1ed0&gaa_sig=sg01q9pJfvAJ9yUk3AJy0P91Q5xk3ScztUgy7AfWJ5nrXyMijprJakjpohXwGdd-ShhAmIE82TuMgBdTbZsksA%3D%3D)**
+**[Oracle shares tank 15%, dragging down Nvidia, AMD, CoreWeave](https://www.cnbc.com/2025/12/11/oracle-shares-plummet-dragging-down-ai-stocks-nvidia-coreweave.html)**
 
-The Wall Street Journal • 6h ago
+Shares in Nvidia, Micron and Microsoft were also lower in premarket trade on Thursday.
+
+CNBC • 10h ago
+
+---
+
+**[Nasdaq slips as Oracle AI shock overshadows Fed relief](https://www.reuters.com/business/wall-street-futures-slide-oracles-forecast-revives-ai-bubble-fears-2025-12-11/)**
+
+Reuters • 35m ago
+
+---
+
+**[New York Governor Signs AI Protection Bills As SAG-AFTRA Executives Tout Gains for Performers](https://www.hollywoodreporter.com/business/business-news/new-york-governor-signs-ai-protection-bills-sag-aftra-1236448250/)**
+
+“If we want the public to trust what they see, we must have guardrails on digital replicas and synthetic creations,” said SAG-AFTRA national executive director Duncan Crabtree-Ireland.
+
+The Hollywood Reporter • 54m ago
+
+---
+
+**[MAGA scrambles to influence Trump's AI executive order](https://www.axios.com/2025/12/11/maga-scrambles-trump-ai-executive-order)**
+
+Axios • 26m ago
+
+---
+
+**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqe1-dDCQQV52hGk0-qLHDju7PowGjtdRmvLNs3pq-ZSQv2QLf_U1Jyg&gaa_ts=693b2c0c&gaa_sig=KaGZLjH4nE6oQd72VzXfx5fjJ4E_ZHTP2Xohl1aI48sgf4FAZ_jVIsFKEYR7t86IEOST593-nu9-EVSHuXcoKA%3D%3D)**
+
+The Wall Street Journal • 7h ago
+
+---
+
+**[Sam Altman expects OpenAI to exit 'code red' by January after launch of GPT-5.2 model](https://www.cnbc.com/2025/12/11/openai-intros-new-ai-model-gpt-5point2-says-better-at-professional-tasks.html)**
+
+The new model will be available starting Thursday within OpenAI's ChatGPT chatbot and its API.
+
+CNBC • 2h ago
 
 ---
 
@@ -221,7 +217,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 317 • 💬 310 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 318 • 💬 310 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -229,7 +225,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 301 • 💬 249 • 5h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 313 • 💬 255 • 6h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -253,15 +249,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 126 • 💬 26 • 1d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
-
----
-
-**[McDonald's pulls AI Christmas ad after backlash](https://news.ycombinator.com/item?id=46217176)**
-
-McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
-
-⬆️ 114 • 💬 156 • 1d ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 126 • 💬 26 • 2d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -269,7 +257,15 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 113 • 💬 72 • 6h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 115 • 💬 72 • 6h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+
+---
+
+**[McDonald's pulls AI Christmas ad after backlash](https://news.ycombinator.com/item?id=46217176)**
+
+McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
+
+⬆️ 114 • 💬 157 • 1d ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -277,7 +273,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 80 • 💬 55 • 3h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 90 • 💬 61 • 4h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -311,7 +307,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 38K • 👍 302 • 💬 210 • ⏱️ 2:58 • 20h ago
+👁️ 38K • 👍 302 • 💬 210 • ⏱️ 2:58 • 21h ago
 
 ---
 
@@ -351,7 +347,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.1M • 👍 52K • 💬 5K • ⏱️ 8:35 • 1d ago
+👁️ 1.1M • 👍 52K • 💬 5K • ⏱️ 8:35 • 2d ago
 
 ---
 
@@ -397,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 721 • 2d ago
+⬇️ 80,162 • ❤️ 722 • 2d ago
 
 ---
 
@@ -409,7 +405,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,541 • 3d ago
+⬇️ 245,041 • ❤️ 2,542 • 3d ago
 
 ---
 
@@ -433,7 +429,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,209 • ❤️ 266 • 2d ago
+⬇️ 2,209 • ❤️ 267 • 2d ago
 
 ---
 
@@ -445,7 +441,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 260 • 1d ago
+⬇️ 7,222 • ❤️ 261 • 1d ago
 
 ---
 
@@ -457,7 +453,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 445,464 • ❤️ 206 • 2d ago
+⬇️ 445,464 • ❤️ 208 • 2d ago
 
 ---
 
@@ -481,7 +477,7 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 182 • 2d ago
+⬇️ 12,302 • ❤️ 184 • 2d ago
 
 ---
 
@@ -657,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 8.6k • 🔱 1.4k • 3h ago
+⭐ 8.6k • 🔱 1.4k • 4h ago
 
 ---
 
@@ -667,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.0k • 🔱 225 • 2h ago
+⭐ 2.0k • 🔱 225 • 3h ago
 
 ---
 
@@ -697,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 4h ago
+⭐ 1.1k • 🔱 134 • 5h ago
 
 ---
 
@@ -747,7 +743,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 608 • 🔱 87 • 5h ago
+⭐ 608 • 🔱 87 • 6h ago
 
 ---
 

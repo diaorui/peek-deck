@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T19:54:58.228877+00:00'
+updated: '2025-12-11T20:25:12.777672+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 19:54 UTC  
+**Last Updated:** December 11, 2025 at 20:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-18h ago
+19h ago
 
 ---
 
@@ -72,15 +72,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-17h ago
-
----
-
-**[Hyundai MobED](https://www.reddit.com/r/robotics/comments/1pjuhk2/hyundai_mobed/)**
-
-The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 9h ago
+18h ago
 
 ---
 
@@ -89,6 +81,14 @@ The strongest counter against robot legs that I've seen. Sure, I have yet to see
 Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into threejs - Run MuJoCo physics (decoupled from renderer) What do you think about this?!?
 
 4h ago
+
+---
+
+**[Hyundai MobED](https://www.reddit.com/r/robotics/comments/1pjuhk2/hyundai_mobed/)**
+
+The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 9h ago
 
 ---
 
@@ -112,17 +112,17 @@ https://youtu.be/7YZupSKnvC8
 
 ## Google News: "robotics"
 
-**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
-
-Business Wire • 1d ago
-
----
-
 **[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
 
 Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
 
 Deloitte • 1d ago
+
+---
+
+**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
+
+Business Wire • 1d ago
 
 ---
 
@@ -142,9 +142,11 @@ MLive.com • 2d ago
 
 ---
 
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+**[AI & Robotics: Special Episode with Dean Johnson-Roberson](https://www.miragenews.com/ai-robotics-special-episode-with-dean-johnson-1588313/)**
 
-Chron • 1d ago
+Matthew Johnson-Roberson, Dean of the College of Connected Computing, University Distinguished Professor of computer science and of electrical and
+
+Mirage News • 3h ago
 
 ---
 
@@ -152,15 +154,13 @@ Chron • 1d ago
 
 Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
 
-Shore Daily News • 9h ago
+Shore Daily News • 10h ago
 
 ---
 
-**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
+**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
-
-IEEE Spectrum • 4h ago
+Chron • 1d ago
 
 ---
 
@@ -172,19 +172,19 @@ NCTV17 • 1d ago
 
 ---
 
-**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
-
-$32 million investment will created 230 new jobs.
-
-WHMI • 1d ago
-
----
-
 **[NASA, Reliable Robotics Begin Autonomous C208 Trials](https://avweb.com/aviation-news/nasa-reliable-robotics-c208-uav-trials/)**
 
 Data from automated Reliable Robotics Caravan tests to inform national standards work.
 
 AVweb • 1d ago
+
+---
+
+**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
+
+Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
+
+Bloomberg.com • 3d ago
 
 ---
 
