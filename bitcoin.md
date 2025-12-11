@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T19:00:56.659603+00:00'
+updated: '2025-12-11T19:28:47.989653+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 19:00 UTC  
+**Last Updated:** December 11, 2025 at 19:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,557.20
+### $90,969.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +1.8%  
-**30d:** -10.8%  
-**90d:** -21.8%  
-**1y:** -9.2%  
+**24h:** -1.7%  
+**7d:** +2.3%  
+**30d:** -10.5%  
+**90d:** -21.4%  
+**1y:** -8.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1804.33B
+**Market Cap:** $1819.43B
 Rank #1
 
 **Circulating Supply:** 19,960,778 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-27.7%
 
 **All-Time Low:** $67.81
-+133361.1%
++134235.6%
 
 ---
 
@@ -83,21 +83,29 @@ Rank #1
 
 ---
 
+**[I can’t wait to be rich guys](https://www.reddit.com/r/Bitcoin/comments/1pk4b3i/i_cant_wait_to_be_rich_guys/)**
+
+1h ago
+
+---
+
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
 7h ago
 
 ---
 
-**[I can’t wait to be rich guys](https://www.reddit.com/r/Bitcoin/comments/1pk4b3i/i_cant_wait_to_be_rich_guys/)**
-
-58m ago
-
----
-
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
 5h ago
+
+---
+
+**[Can you relate?](https://www.reddit.com/r/Bitcoin/comments/1pk1i4g/can_you_relate/)**
+
+For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
+
+3h ago
 
 ---
 
@@ -109,17 +117,9 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 ---
 
-**[Can you relate?](https://www.reddit.com/r/Bitcoin/comments/1pk1i4g/can_you_relate/)**
-
-For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
-
-2h ago
-
----
-
 **[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -127,7 +127,7 @@ For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
 
 Iooking at the the last 4 FOMC meetings and we see this on the chart: June 18 -> $BTC DUMP July 30 -> $BTC DUMP Sep 17 -> $BTC DUMP Oct 29 -> $BTC DUMP After yesterday’s meeting, I fear we could be heading for a drop below $80,000 ... but then that will be a sweet price to enter some more.
 
-2h ago
+3h ago
 
 ---
 
@@ -139,11 +139,11 @@ We back baby!
 
 ---
 
-**[There is no environment where you cannot run a mining operation. This video PROVES it can be done.](https://www.reddit.com/r/Bitcoin/comments/1pjzwus/there_is_no_environment_where_you_cannot_run_a/)**
+**[Whales Are Selling, Market Stays Weak](https://www.reddit.com/r/Bitcoin/comments/1pk2ulf/whales_are_selling_market_stays_weak/)**
 
-50°C outside but 27 °C inside the facility. Triple filtration, 24 tons of water circulating daily, on-site hydro conversions. 800 ASICs running 24/7 in one of the harshest climates on earth.
+Right now whales are reducing their Bitcoin holdings, and this is creating a weakeness in the market. This same pattern appeared in past cycles before periods of sideways or falling prices. Until whales start buying again, Bitcoin is likely to stay under pressure. A stronger trend usually returns only after big holders move back into accumulation.
 
-3h ago
+2h ago
 
 ---
 
@@ -155,19 +155,13 @@ We back baby!
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
 Reuters • 6h ago
-
----
-
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqduROg_hc2B-jp7d1c0YnYLNn_MUx_GiSLGM51Bgj8NBmvDTUijG-dJ&gaa_ts=693b13ac&gaa_sig=opIpdNvwp_MkjKhx9r8gb2RIuUVJd5kGx6o895dgTVoJywa71L-jzYmzU03DSsHJ8om2a1PGPXsq1NM2MBDoKw%3D%3D)**
-
-Barron's • 1d ago
 
 ---
 
@@ -179,19 +173,35 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Altcoin Season Shows Flickers As Bitcoin Tests Support Near $90,000](https://finance.yahoo.com/news/altcoin-season-shows-flickers-bitcoin-170344918.html)**
+**[Strategy: Index Exclusion Is Anti-Trump, Anti-Bitcoin](https://www.investors.com/news/strategy-mstr-stock-msci-index-exclusion-anti-trump-bitcoin-price-impact/)**
 
-Market conditions appear steadier today, even though risk appetite has not recovered fully. The Fear and Greed Index sits at 29, down slightly from 30 yesterday but still clear of the extreme fear zone that dominated most of last week.The Altcoin Season Index has climbed to 20 from 18, showing ...
-
-Yahoo Finance • 1h ago
+Investor's Business Daily • 4h ago
 
 ---
 
-**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
+**[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
+Investor's Business Daily • 43m ago
 
-Business Insider • 1d ago
+---
+
+**[MicroStrategy sends sharp warning letter to MSCI](https://www.thestreet.com/crypto/markets/microstrategy-sends-sharp-warning-letter-to-msci)**
+
+TheStreet • 1d ago
+
+---
+
+**[Bitcoin Slides Below $90,000 After Fed Cut Even as Stocks Rally](https://www.bloomberg.com/news/articles/2025-12-11/bitcoin-btc-slides-below-90-000-after-fed-cut-while-stocks-rally)**
+
+Bitcoin slipped in Asia trading hours while other risk assets gained after the US Federal Reserve cut interest rates and expressed optimism about the economy.
+
+Bloomberg.com • 1h ago
+
+---
+
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqc01b6__AuUjK73yKIn2DZ5QBw971yIESoeJje-jTzwyyv2i0V-ltGd&gaa_ts=693b1ed2&gaa_sig=CLW5wltAOGD3jwpUwz_qJlk1Wke4furLMPi46A-V8EI6RGSKBnaYXhkxAWoIP8TXQ6dCHc9X0Fq3qnk7t7p-mg%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -203,27 +213,11 @@ cnbc.com • 2d ago
 
 ---
 
-**[Bitcoin Will Clinch New Highs In 2026, 4-Year Cycle Over, Grayscale Says](https://finance.yahoo.com/news/bitcoin-clinch-highs-2026-4-170104061.html)**
+**[Bitcoin Bulls Standard Chartered, Bernstein Pare Back Ambitious Year-End Forecasts](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-bulls-standard-chartered-bernstein-pare-back-most-ambitious-forecasts)**
 
-Bitcoin will likely reach a new price record in 2026, according to cryptocurrency asset manager Grayscale. “We believe the four-year cycle thesis will prove to be incorrect, and that Bitcoin’s price will potentially make new highs next year,” ...
+Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Some Bitcoin Buying Firms Are Selling as Losses Pile Up on Paper: Report](https://decrypt.co/352002/some-bitcoin-buying-firms-selling-losses-pile-up)**
-
-A report found that most Bitcoin-stacking firms sit on unrealized losses, with a handful selling the asset as its price fell last month.
-
-Decrypt • 3h ago
-
----
-
-**[How to buy Bitcoin Hyper before it launches](https://nypost.com/business/how-to-buy-bitcoin-hyper-presale/)**
-
-Its presales have been gaining attention among the crypto community, since the token claims to promise quicker, cheaper Bitcoin transactions.
-
-New York Post • 9h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -263,7 +257,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 19h ago
+⬆️ 2 • 💬 0 • 20h ago
 
 ---
 
@@ -345,7 +339,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 335 • ⏱️ 10:23 • 16h ago
+👁️ 48K • 👍 3K • 💬 335 • ⏱️ 10:23 • 17h ago
 
 ---
 
@@ -365,7 +359,7 @@ Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled t
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 2K • 💬 211 • ⏱️ 16:48 • 18h ago
+👁️ 31K • 👍 2K • 💬 211 • ⏱️ 16:48 • 19h ago
 
 ---
 
@@ -395,7 +389,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Crypto Cam
 
-👁️ 14K • 👍 405 • 💬 46 • ⏱️ 0:27 • 18h ago
+👁️ 14K • 👍 405 • 💬 46 • ⏱️ 0:27 • 19h ago
 
 ---
 
