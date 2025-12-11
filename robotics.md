@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T15:00:53.753908+00:00'
+updated: '2025-12-11T15:36:24.731956+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 15:00 UTC  
+**Last Updated:** December 11, 2025 at 15:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Update: I gave the robot finger a knife](https://www.reddit.com/r/robotics/comments/1pjzi0f/update_i_gave_the_robot_finger_a_knife/)**
+
+A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
+
+41m ago
+
+---
+
 **[My inverse kinematics are flawless and everything is going according to plan](https://www.reddit.com/r/robotics/comments/1pjka0v/my_inverse_kinematics_are_flawless_and_everything/)**
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-13h ago
+14h ago
 
 ---
 
@@ -48,17 +56,17 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 ---
 
+**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
+
+12h ago
+
+---
+
 **[IR-Sim is, a Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning](https://www.reddit.com/r/robotics/comments/1pjumrm/irsim_is_a_pythonbased_lightweight_robot/)**
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
 4h ago
-
----
-
-**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
-
-11h ago
 
 ---
 
@@ -84,27 +92,19 @@ The strongest counter against robot legs that I've seen. Sure, I have yet to see
 
 ---
 
+**[Booster Robotics in Action: Live Demo](https://www.reddit.com/r/robotics/comments/1pjzcx6/booster_robotics_in_action_live_demo/)**
+
+https://youtu.be/7YZupSKnvC8
+
+46m ago
+
+---
+
 **[Robotic hands, a comprehensice infographic](https://www.reddit.com/r/robotics/comments/1pj3o6w/robotic_hands_a_comprehensice_infographic/)**
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
 1d ago
-
----
-
-**[When an operator performs a backflip while wearing the VR headset, NEO doesn't follow, instead remaining upright and balanced](https://www.reddit.com/r/robotics/comments/1pize07/when_an_operator_performs_a_backflip_while/)**
-
-From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
-
-1d ago
-
----
-
-**[Update: I gave the robot finger a knife](https://www.reddit.com/r/robotics/comments/1pjzi0f/update_i_gave_the_robot_finger_a_knife/)**
-
-A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
-
-5m ago
 
 ---
 
@@ -126,11 +126,19 @@ MLive.com • 1d ago
 
 ---
 
+**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
+
+Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
+
+IEEE Spectrum • 25m ago
+
+---
+
 **[One of Europe’s largest online grocers automates order picking in Prague fulfillment center](https://ifr.org/case-studies/one-of-europes-largest-online-grocers-automates-order-picking-in-prague-fulfillment-center)**
 
 The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
 
-International Federation of Robotics • 47m ago
+International Federation of Robotics • 1h ago
 
 ---
 
@@ -142,11 +150,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
+**[NASA, Reliable Robotics Begin Autonomous C208 Trials](https://avweb.com/aviation-news/nasa-reliable-robotics-c208-uav-trials/)**
 
-$32 million investment will created 230 new jobs.
+Data from automated Reliable Robotics Caravan tests to inform national standards work.
 
-WHMI • 23h ago
+AVweb • 22h ago
 
 ---
 
@@ -158,33 +166,25 @@ Bloomberg.com • 3d ago
 
 ---
 
-**[China's humanoid robot handles rough terrain with human-like motion](https://interestingengineering.com/ai-robotics/china-limx-oli-humanoid-robot)**
+**[Watch Apollo humanoid robot tackle never-before-seen objects with Google DeepMind](https://interestingengineering.com/ai-robotics/google-deepmind-apollo-humanoid-robot)**
 
-LimX Dynamics’ humanoid robot Oli navigates sand, rocks, and debris with impressive balance and stability in new demo video.
+Google DeepMind shows Apollo humanoid handling unfamiliar objects and following voice commands, alongside Aloha robots performing tasks.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 2h ago
 
 ---
 
-**[Digit humanoid joins Mercado Libre warehouse](https://www.therobotreport.com/agility-mercado-libre-embargoed/)**
+**['Botnets in physical form' are top humanoid robot risk](https://www.theregister.com/2025/12/09/humanoid_robot_security/)**
 
-Partnership will integrate Digit robots into fulfillment operations beginning in Texas, with future expansion capabilities for Latin America.
+Interview: Have we learned nothing from sci-fi films and TV shows?
 
-The Robot Report • 1d ago
+theregister.com • 2d ago
 
 ---
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 21h ago
-
----
-
-**[Soft robots can now see with a self-focusing squishy eye](https://newatlas.com/robotics/physl-light-activated-soft-robotic-eye/)**
-
-Analog cameras are nowhere near as efficient as biological eyes. If you’ve ever handled a single-lens reflex (SLR) camera, especially if it had a zoom lens attached, you know how heavy they are, and how tricky and time-consuming adjusting their focus can be.
-
-New Atlas • 20h ago
+Chron • 22h ago
 
 ---
 
@@ -208,7 +208,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 79K • 👍 3K • 💬 287 • ⏱️ 17:44 • 22h ago
+👁️ 79K • 👍 3K • 💬 287 • ⏱️ 17:44 • 23h ago
 
 ---
 

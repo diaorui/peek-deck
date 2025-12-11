@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T15:00:53.743751+00:00'
+updated: '2025-12-11T15:36:24.721514+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 15:00 UTC  
+**Last Updated:** December 11, 2025 at 15:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,334.55
+### $90,109.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.1%  
-**7d:** +0.5%  
-**30d:** -12.0%  
-**90d:** -22.8%  
-**1y:** -10.4%  
+**24h:** -2.2%  
+**7d:** +1.4%  
+**30d:** -11.3%  
+**90d:** -22.1%  
+**1y:** -9.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1785.75B
+**Market Cap:** $1800.09B
 Rank #1
 
-**Circulating Supply:** 19,960,712 BTC
+**Circulating Supply:** 19,960,721 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-28.5%
 
 **All-Time Low:** $67.81
-+131985.2%
++132831.7%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
+**[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-11h ago
+4h ago
 
 ---
 
-**[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
+**[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-3h ago
+37m ago
 
 ---
 
@@ -103,6 +103,12 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 ---
 
+**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
+
+12h ago
+
+---
+
 **[The printer is going brrr-illiant this Friday, ready to blast the balance sheet with a $40 BILLION a month.](https://www.reddit.com/r/Bitcoin/comments/1pjfpa3/the_printer_is_going_brrrilliant_this_friday/)**
 
 We back baby!
@@ -113,7 +119,7 @@ We back baby!
 
 **[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -121,31 +127,21 @@ We back baby!
 
 All precious metals are moving higher after yhe dovish fed move Why is bitcoin dropping? Is that a conflicting temporary move? Or is there anything else I am missing?
 
-12h ago
-
----
-
-**[All in! at 92k](https://www.reddit.com/r/Bitcoin/comments/1pjen83/all_in_at_92k/)**
-
-Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
-
-17h ago
-
----
-
-**[It’s no longer just one black sheep](https://www.reddit.com/r/Bitcoin/comments/1pjkiei/its_no_longer_just_one_black_sheep/)**
-
-2025: It’s no longer just one black sheep. We’re already the 4% who get what Bitcoin is really bringing… and we’re still learning. We’re a scattered pack of black sheep now… but getting more visible every day. nostr: npub1855ur6q8lf7pjfvceg3s5qd0zuujqyz59h8zmxpquflunfpwkv4s3x3y8v #Bitcoin #CryptoMemes #HODL #BitcoinMemes
-
 13h ago
 
 ---
 
-**[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
+**[SUPERCYCLE😂](https://www.reddit.com/r/Bitcoin/comments/1pjzrml/supercycle/)**
 
-Bottom tex
+30m ago
 
-1d ago
+---
+
+**[There is no environment where you cannot run a mining operation. This video PROVES it can be done.](https://www.reddit.com/r/Bitcoin/comments/1pjzwus/there_is_no_environment_where_you_cannot_run_a/)**
+
+50°C outside but 27 °C inside the facility. Triple filtration, 24 tons of water circulating daily, on-site hydro conversions. 800 ASICs running 24/7 in one of the harshest climates on earth.
+
+24m ago
 
 ---
 
@@ -155,7 +151,7 @@ Bottom tex
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 4h ago
+Reuters • 2h ago
 
 ---
 
@@ -163,17 +159,11 @@ Reuters • 4h ago
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqehy-8UkCFg56DEidYjSd8wI6inpWwbANnpQrKOz60ITcJ2z-t0LDu2&gaa_ts=693ad8ee&gaa_sig=9OKRYD8pV09iCBgttVOYEwsSBuSNWHBeBWjJyrAQgNzPWyIDEsvuDCzpzbIYSFRN_RkkEA3pSK4YrbWPsBTquw%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[GameStop’s bitcoin holdings — and sales — slide](https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?gaa_at=eafs&gaa_n=AWEtsqe7bil0mlL5I2ggeLx9WRt5XtdEuID7nONRoHgeGgB4I9scth0Nz3Hq&gaa_ts=693ad8ee&gaa_sig=6xyVJ2YL_SYTZUGlziE8K7skBP35kXfnshZipFhSpFPx6ucRW-GLl2kPBf1jjpw_dxge4MBR41FJdLVAIR9nYg%3D%3D)**
+**[GameStop’s bitcoin holdings — and sales — slide](https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?gaa_at=eafs&gaa_n=AWEtsqedvj9J7QlvM3ZbGGYsThU-oR35A2RNLI3R_uBTjMQaUcS-2-Lpw85e&gaa_ts=693ae85d&gaa_sig=K2e1pr7XS-gh4rOhD7HcK-wo5o3e8d9EdUSBJ6lnIa3RuzWQK1gPd0pHtzykQxr4f2ftQwhZAIerI15uz80nuA%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -183,7 +173,7 @@ MarketWatch • 1d ago
 
 Company's aggressive cost cuts weren't enough to offset sliding sales and crypto volatility.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,15 +181,23 @@ Yahoo Finance • 59m ago
 
 Markets haven’t reacted well to GameStop’s latest earnings call, where it revealed sinking Bitcoin value and retail sales alike.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
-**[Satoshi Nakamoto Arrives at the Stock Exchange? Bitcoin’s Mainstream Moment May Have Just Landed](https://finance.yahoo.com/news/satoshi-nakamoto-arrives-stock-exchange-124932757.html)**
+**[Bitcoin and equity futures fall alongside mining stocks as Oracle leads AI stock decline](https://finance.yahoo.com/news/bitcoin-equity-futures-fall-alongside-150949775.html)**
 
-A Satoshi Nakamoto sculpture has been installed inside the New York Stock Exchange. The artwork is part of a 21-piece global series by artist Valentina ...
+Oracle shares plunged over 13% following a revenue miss, while Bitcoin’s slide below $91,000 exerted broad downward pressure on digital asset miners.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 26m ago
+
+---
+
+**[Bitcoin Cracks Below $90K as Wall Street Surges in a Stunning Post?Fed Split](https://finance.yahoo.com/news/bitcoin-cracks-below-90k-wall-135214264.html)**
+
+A quarter?point Fed cut lifted equities to near records, but Bitcoin's latest drop signals a market pulling in two directions.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -211,15 +209,17 @@ CNBC • 1d ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqcXPyZtsXrbb6eD81tCTjluLWw2Pe4-l3m4eE3ZEY4EdKvbKgsEskE-&gaa_ts=693ad8ee&gaa_sig=ShefWo6ffQEA76KwcC9pXpszu7gM47nJQbu-rh8T9mLtzGumV-7nM9fyvQRWjtgJXKl36YqPySunsOiPSl1ibw%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqffk-Yz1qoNJC8F0twpr0nMl3YSVxF145z80J9w_K3oN8PmTRVkT5wy&gaa_ts=693ae85d&gaa_sig=p83-QStMn2hFQ0U9OmRU0EMydu5lJUt9kTc38mUaKHzBGH8yBIPp_dqsD-ThZCzz0MFwsxTrerd7zmO2o3nCBg%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[Bitcoin Won’t Hit $200,000 in 2025, Crypto Bull Concedes. Where It’s Going Instead.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-price-crypto-bull-01f83bf7?gaa_at=eafs&gaa_n=AWEtsqe0yFcosvb5pQo_nigTHrEt9a9IEuAHPz9pvDZGVeIazEIKnJEjEQM4&gaa_ts=693ad8ee&gaa_sig=wXOyzsr5GirYXm8SNj8ePAyfHGA51Zq7g9Q_kiydhw81a4uiN2rtZbmMUFI9WnZ27Y9--v-RvOOjIs4tPgonKQ%3D%3D)**
+**[Bitcoin Will Clinch New Highs In 2026, 4-Year Cycle Over, Grayscale Says](https://finance.yahoo.com/news/bitcoin-clinch-highs-2026-4-170104061.html)**
 
-Barron's • 2d ago
+Bitcoin will likely reach a new price record in 2026, according to cryptocurrency asset manager Grayscale. “We believe the four-year cycle thesis will prove to be incorrect, and that Bitcoin’s price will potentially make new highs next year,” ...
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -237,7 +237,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 3d ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 4d ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -259,7 +259,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 15h ago
+⬆️ 2 • 💬 0 • 16h ago
 
 ---
 
@@ -331,7 +331,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 325 • ⏱️ 10:23 • 12h ago
+👁️ 42K • 👍 2K • 💬 325 • ⏱️ 10:23 • 13h ago
 
 ---
 
@@ -361,7 +361,7 @@ ONLY FOR THE FIRST 100 USERS !!! BloFin: https://themoon.co/blofin1000 Deposit &
 
 📺 The Moon Show
 
-👁️ 9K • 👍 614 • 💬 72 • ⏱️ 3:56 • 6h ago
+👁️ 9K • 👍 614 • 💬 72 • ⏱️ 3:56 • 7h ago
 
 ---
 
@@ -381,7 +381,7 @@ Jeff Walton joins the show for a deep dive into the state of Bitcoin treasury co
 
 📺 What Bitcoin Did
 
-👁️ 10K • 👍 433 • 💬 76 • ⏱️ 48:22 • 19h ago
+👁️ 10K • 👍 433 • 💬 76 • ⏱️ 48:22 • 20h ago
 
 ---
 
@@ -391,7 +391,7 @@ The biggest crypto catch-up trade has begun, and Ran explains what's driving it.
 
 📺 Crypto Banter
 
-👁️ 29K • 👍 2K • 💬 41 • ⏱️ 29:14 • 23h ago
+👁️ 29K • 👍 2K • 💬 41 • ⏱️ 29:14 • 1d ago
 
 ---
 

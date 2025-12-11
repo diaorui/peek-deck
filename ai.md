@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T15:00:53.734153+00:00'
+updated: '2025-12-11T15:36:24.711983+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 15:00 UTC  
+**Last Updated:** December 11, 2025 at 15:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 2h ago
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 3h ago
 
 ---
 
@@ -53,11 +53,35 @@ The start-up is falling behind in the AI race.
 
 ---
 
+**[Oracle just revived fears that tech giants are spending too much on AI](https://www.reddit.com/r/artificial/comments/1pjzxcf/oracle_just_revived_fears_that_tech_giants_are/)**
+
+AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
+
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 23m ago
+
+---
+
+**[Disney to invest $1bn into OpenAI](https://www.reddit.com/r/artificial/comments/1pjzqjh/disney_to_invest_1bn_into_openai/)**
+
+The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal in which the artificial intelligence start-up will use Disney characters in its flagship products. As part of the three-year deal, announced on Thursday, Disney will make more than 200 Marvel, Pixar and Star Wars characters available within ChatGPT and Sora, OpenAI’s video-generation tool. The company will also take a $1bn stake in the $500bn start-up, as well as warrants to purchase additional equity at a later date. Read the full story for free with your email here: https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
+
+🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 31m ago
+
+---
+
 **[Nvidia can now track the location of AI GPUs, but only if operators sign up to its new GPU health service](https://www.reddit.com/r/artificial/comments/1pjziui/nvidia_can_now_track_the_location_of_ai_gpus_but/)**
 
 Nvidia has unveiled an optional service for its data center partners. The opt-in service allows them to monitor the health of AI GPUs.
 
-🔗 [PC Guide](https://www.pcguide.com/news/nvidia-can-now-track-the-location-of-ai-gpus-but-only-if-operators-sign-up-to-its-new-gpu-health-service/) • 4m ago
+🔗 [PC Guide](https://www.pcguide.com/news/nvidia-can-now-track-the-location-of-ai-gpus-but-only-if-operators-sign-up-to-its-new-gpu-health-service/) • 40m ago
+
+---
+
+**[The Architects of AI Are TIME's 2025 Person of the Year](https://www.reddit.com/r/artificial/comments/1pjybze/the_architects_of_ai_are_times_2025_person_of_the/)**
+
+The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
+
+🔗 [TIME](https://time.com/7339685/person-of-the-year-2025-ai-architects/) • 1h ago
 
 ---
 
@@ -77,25 +101,11 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 ---
 
-**[The Architects of AI Are TIME's 2025 Person of the Year](https://www.reddit.com/r/artificial/comments/1pjybze/the_architects_of_ai_are_times_2025_person_of_the/)**
-
-The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
-
-🔗 [TIME](https://time.com/7339685/person-of-the-year-2025-ai-architects/) • 55m ago
-
----
-
 **[What AI hallucination actually is, why it happens, and what we can realistically do about it](https://www.reddit.com/r/artificial/comments/1pjgh5w/what_ai_hallucination_actually_is_why_it_happens/)**
 
 A lot of people use the term “AI hallucination,” but many don’t clearly understand what it actually means. In simple terms, AI hallucination is when a model produces information that sounds confident and well-structured, but is actually incorrect, fabricated, or impossible to verify. This includes things like made-up academic papers, fake book references, invented historical facts, or technical explanations that look right on the surface but fall apart under real checking. The real danger is not that it gets things wrong — it’s that it often gets them wrong in a way that sounds extremely convincing. Most people assume hallucination is just a bug that engineers haven’t fully fixed yet. In reality, it’s a natural side effect of how large language models work at a fundamental level. These systems don’t decide what is true. They predict what is most statistically likely to come next in a sequence of words. When the underlying information is missing, weak, or ambiguous, the model doesn’t stop — it completes the pattern anyway. That’s why hallucination often appears when context is vague, when questions demand certainty, or when the model is pushed to answer things beyond what its training data can reliably support. Interestingly, hallucination feels “human-like” for a reason. Humans also guess when they’re unsure, fill memory gaps with reconstructed stories, and sometimes speak confidently even when they’re wrong. In that sense, hallucination is not machine madness — it’s a very human-shaped failure mode expressed through probabilistic language generation. The model is doing exactly what it was trained to do: keep the sentence going in the most plausible way. There is no single trick that completely eliminates hallucination today, but there are practical ways to reduce it. Strong, precise context helps a lot. Explicitly allowing the model to express uncertainty also helps, because hallucination often worsens when the prompt demands absolute certainty. Forcing source grounding — asking the model to rely only on verifiable public information and to say when that’s not possible — reduces confident fabrication. Breaking complex questions into smaller steps is another underrated method, since hallucination tends to grow when everything is pushed into a single long, one-shot answer. And when accuracy really matters, cross-checking across different models or re-asking the same question in different forms often exposes structural inconsistencies that signal hallucination. The hard truth is that hallucination can be reduced, but it cannot be fully eliminated with today’s probabilistic generation models. It’s not just an accidental mistake — it’s a structural byproduct of how these systems generate language. No matter how good alignment and safety layers become, there will always be edge cases where the model fills a gap instead of stopping. This quietly creates a responsibility shift that many people underestimate. In the traditional world, humans handled judgment and machines handled execution. In the AI era, machines handle generation, but humans still have to handle judgment. If people fully outsource judgment to AI, hallucination feels like deception. If people keep judgment in the loop, hallucination becomes manageable noise instead of a catastrophic failure. If you’ve personally run into a strange or dangerous hallucination, I’d be curious to hear what it was — and whether you realized it immediately, or only after checking later.
 
-16h ago
-
----
-
-**[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
-
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 22h ago
+17h ago
 
 ---
 
@@ -103,29 +113,13 @@ A lot of people use the term “AI hallucination,” but many don’t clearly un
 
 If you are reading this, you probably have strong opinions about AGI, superintelligence, and the future of AI. Maybe you believe we are on the cusp of a transformative breakthrough. Maybe you are skeptical. This blog post is for those who want to think more carefully about these claims and examine them from a perspective […]
 
-🔗 [Tim Dettmers](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) • 11h ago
-
----
-
-**[Pete Hegseth Says the Pentagon's New Chatbot Will Make America 'More Lethal'. The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'](https://www.reddit.com/r/artificial/comments/1piors1/pete_hegseth_says_the_pentagons_new_chatbot_will/)**
-
-The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
-
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 1d ago
+🔗 [Tim Dettmers](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) • 12h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[Time’s 2025 Person of the Year: The architects of AI](https://www.yahoo.com/news/us/article/times-2025-person-of-the-year-the-architects-of-ai-172342364.html)**
-
-The people behind the rise of artificial intelligence have been given the magazine’s annual title.
-
-Yahoo • 1h ago
-
----
 
 **[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
 
@@ -135,31 +129,39 @@ Time Magazine • 2h ago
 
 ---
 
-**[AI architects named Time ‘Person of the Year’](https://thehill.com/policy/technology/5643971-architects-ai-time-magazine/)**
+**[Time’s 2025 Person of the Year: The architects of AI](https://www.yahoo.com/news/us/article/times-2025-person-of-the-year-the-architects-of-ai-172342364.html)**
 
-thehill.com • 41m ago
+The people behind the rise of artificial intelligence have been given the magazine’s annual title.
 
----
-
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqd8tuAiKmEzNzYmwZP_O0iHIsSpekkOHJBbPwpfWKzAUTHOLjmHd-vk&gaa_ts=693ad8ed&gaa_sig=2ZjsFUUqXOPAqB4TwgDKhA4hyvAZkhPUUFhh3Vi4yWXdBZoaj8RFrc2h-LKLpZOhIF5GzofVURYN15ndMT78nQ%3D%3D)**
-
-The Wall Street Journal • 1h ago
+Yahoo • 1h ago
 
 ---
 
-**[Microsoft Co-Founder Bill Gates Weighs in on AI Bubble Debate](https://www.investopedia.com/bill-gates-has-a-warning-for-ai-investors-stocks-nvidia-nvda-11866392)**
+**[TIME names ‘Architects of AI’ its Person of the Year](https://techcrunch.com/2025/12/11/time-names-architects-of-ai-its-person-of-the-year/)**
 
-Bill Gates on Wednesday warned the AI industry will be "hyper-competitive," and that "a reasonable percentage" of today's pricey tech stocks will lose a lot of their value.
+TIME Magazine has named the 'Architects of AI' its Person of the Year, who include Jensen Huang, Elon Musk, Sam Altman, Mark Zuckerberg, Lisa Su, Dario Amodei, Demis Hassabis, and Fei-Fei Li
 
-Investopedia • 42m ago
+TechCrunch • 58m ago
 
 ---
 
-**[‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash](https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash)**
+**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqfuxWwKM8ukZKCoJ8HsA3RMhldH8qiE8AcvY1gYBeoHnj1BKmgwW2Gh&gaa_ts=693ae85c&gaa_sig=DOSh0kocx-Rk08IorhKIdp2isuzerKFgGd2s19oEs2JjxDzHH0-yGnjKbH4JLZ0HRPMlrfi0yuR573DO2eiaBA%3D%3D)**
 
-Commercial in Netherlands depicting festival-season chaos at ‘most terrible time of year’ prompted flurry of criticism online
+The Wall Street Journal • 2h ago
 
-The Guardian • 1h ago
+---
+
+**[Boom Supersonic jet startup pivots to power AI data centers](https://qz.com/boom-supersonic-jet-startup-ai-data-center-power)**
+
+qz.com • 12m ago
+
+---
+
+**[Where Retail AI Is Headed In 2026](https://www.forbes.com/sites/richardkestenbaum/2025/12/11/where-retail-ai-is-headed-in-2026/)**
+
+Retail AI in 2026 shifts from broad promises to function-specific tools; change management becomes a competitive edge and consolidation is near.
+
+Forbes • 5m ago
 
 ---
 
@@ -171,25 +173,25 @@ Fox Business • 15h ago
 
 ---
 
+**[‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash](https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash)**
+
+Commercial in Netherlands depicting festival-season chaos at ‘most terrible time of year’ prompted flurry of criticism online
+
+The Guardian • 2h ago
+
+---
+
 **[Not lovin' it: McDonald's pulls AI-generated Christmas ad after social media backlash](https://www.nbcnews.com/world/europe/mcdonalds-ai-generated-christmas-advert-social-media-backlash-rcna248590)**
 
 Entitled “the most terrible time of the year,” the 45-second ad featured a series of mishaps befalling people at Christmas.
 
-NBC News • 56m ago
+NBC News • 1h ago
 
 ---
 
-**[Oracle shares plummet over 12% in premarket, dragging down AI stocks](https://www.cnbc.com/2025/12/11/oracle-shares-plummet-dragging-down-ai-stocks-nvidia-coreweave.html)**
+**[The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters from across Disney’s brands to Sora](https://openai.com/index/disney-sora-agreement/)**
 
-Shares in Nvidia, Micron and Microsoft were also lower in premarket trade on Thursday.
-
-CNBC • 5h ago
-
----
-
-**[Why Oracle Is Worrying Investors About the A.I. Boom](https://www.nytimes.com/2025/12/11/business/dealbook/ai-spending-oracle-openai.html)**
-
-The New York Times • 1h ago
+OpenAI • 1h ago
 
 ---
 
@@ -217,7 +219,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 354 • 💬 419 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 354 • 💬 419 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -225,7 +227,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 313 • 💬 306 • 22h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 313 • 💬 306 • 23h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -285,7 +287,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 44K • 👍 2K • 💬 340 • ⏱️ 14:55 • 21h ago
+👁️ 44K • 👍 2K • 💬 340 • ⏱️ 14:55 • 22h ago
 
 ---
 
@@ -295,7 +297,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 26K • 👍 233 • 💬 165 • ⏱️ 2:58 • 15h ago
+👁️ 26K • 👍 233 • 💬 165 • ⏱️ 2:58 • 16h ago
 
 ---
 
@@ -439,7 +441,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 253 • 22h ago
+⬇️ 7,222 • ❤️ 254 • 22h ago
 
 ---
 
@@ -451,7 +453,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 445,464 • ❤️ 200 • 2d ago
+⬇️ 445,464 • ❤️ 201 • 2d ago
 
 ---
 
@@ -487,7 +489,7 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 176 • 2d ago
+⬇️ 12,302 • ❤️ 177 • 2d ago
 
 ---
 
@@ -651,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 8.1k • 🔱 1.4k • 3h ago
+⭐ 8.1k • 🔱 1.4k • 4h ago
 
 ---
 
@@ -661,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.0k • 🔱 223 • 20m ago
+⭐ 2.0k • 🔱 223 • 56m ago
 
 ---
 
@@ -691,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 133 • 18m ago
+⭐ 1.1k • 🔱 133 • 54m ago
 
 ---
 
@@ -741,7 +743,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 608 • 🔱 87 • 37m ago
+⭐ 608 • 🔱 87 • 1h ago
 
 ---
 
