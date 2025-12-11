@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T23:46:27.900476+00:00'
+updated: '2025-12-11T23:57:30.597598+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
-- repositories
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 23:46 UTC  
+**Last Updated:** December 11, 2025 at 23:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -105,7 +105,7 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 
 The ChatGPT-maker is releasing its “best model yet” as it faces new pressures from Google and other AI competitors.
 
-🔗 [WIRED](https://www.wired.com/story/openai-gpt-launch-gemini-code-red/) • 4h ago
+🔗 [WIRED](https://www.wired.com/story/openai-gpt-launch-gemini-code-red/) • 5h ago
 
 ---
 
@@ -133,7 +133,7 @@ Time Magazine • 11h ago
 
 Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -165,7 +165,7 @@ BBC • 7h ago
 
 The Nasdaq Composite was led lower by shares of Oracle, Nvidia, and Alphabet.
 
-NBC News • 50m ago
+NBC News • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Axios • 1h ago
 
 **[Broadcom Gives Upbeat Forecast After AI Deals Fuel Growth](https://www.bloomberg.com/news/articles/2025-12-11/broadcom-gives-upbeat-forecast-after-ai-deals-fuel-growth)**
 
-Bloomberg.com • 57m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ cnbc.com • 6h ago
 
 Broadcom posted better-than-expected earnings on AI demand, and said it sees that momentum continuing in the current quarter.
 
-Investopedia • 52m ago
+Investopedia • 1h ago
 
 ---
 
@@ -321,7 +321,7 @@ Check out Nebius today: ...
 
 📺 The Cutting Edge School
 
-👁️ 7K • 👍 554 • 💬 49 • ⏱️ 13:41 • 10h ago
+👁️ 7K • 👍 554 • 💬 49 • ⏱️ 13:41 • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T23:46:27.915126+00:00'
+updated: '2025-12-11T23:57:30.612562+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 23:46 UTC  
+**Last Updated:** December 11, 2025 at 23:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +7.4%  
-**30d:** -5.0%  
-**90d:** -30.2%  
-**1y:** -16.5%  
+**24h:** -0.9%  
+**7d:** +7.2%  
+**30d:** -5.2%  
+**90d:** -30.4%  
+**1y:** -16.7%  
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 1d ago
 
 **[Bitcoin, Ethereum, Ripple's XRP Slump After Fed Rate Cut. What It Means for Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcLeKZKnxXS6iuWiFUUkWaM5U8JEJPaDw7I1LplNgs2tabKaDDu4FRv&gaa_ts=693b582d&gaa_sig=ysiCpBp0zdMj4On4fW46PD5sAG1AokKw2Iv5uxXwi6bSAUzXPGuZvxQ0qIHg88LovpkRwn7OXTOXNQZ3QFkOpA%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
@@ -174,7 +174,7 @@ CryptoPotato • 1d ago
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -198,7 +198,7 @@ Fortune • 3d ago
 
 Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
 
-Nasdaq • 1d ago
+Nasdaq • 2d ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 878 • 👍 94 • 💬 19 • ⏱️ 18:15 • 50m ago
+👁️ 878 • 👍 94 • 💬 19 • ⏱️ 18:15 • 1h ago
 
 ---
 
@@ -286,7 +286,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 15K • 👍 771 • 💬 74 • ⏱️ 44:48 • 11h ago
+👁️ 15K • 👍 771 • 💬 74 • ⏱️ 44:48 • 12h ago
 
 ---
 
@@ -306,7 +306,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 961 • 👍 44 • 💬 9 • ⏱️ 4:36 • 13h ago
+👁️ 961 • 👍 44 • 💬 9 • ⏱️ 4:36 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T23:46:27.909042+00:00'
+updated: '2025-12-11T23:57:30.606248+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 23:46 UTC  
+**Last Updated:** December 11, 2025 at 23:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -103,7 +103,7 @@ Rank #1
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -131,13 +131,13 @@ Made a little edit on the pump it up song to include the current craziness going
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-20h ago
+21h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -279,7 +279,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 6 • 💬 0 • 1h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 6 • 💬 0 • 2h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -331,7 +331,7 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 184 • ⏱️ 15:31 • 9h ago
+👁️ 15K • 👍 1K • 💬 184 • ⏱️ 15:31 • 10h ago
 
 ---
 
@@ -341,7 +341,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 49K • 👍 2K • 💬 613 • ⏱️ 8:26 • 22h ago
+👁️ 49K • 👍 2K • 💬 613 • ⏱️ 8:26 • 23h ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitcoin #Crypto #Finance Guests Markus Thielen - https://youtube.com/live/vYI1CO
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 780 • 💬 283 • ⏱️ 35:32 • 8h ago
+👁️ 16K • 👍 780 • 💬 283 • ⏱️ 35:32 • 9h ago
 
 ---
 
