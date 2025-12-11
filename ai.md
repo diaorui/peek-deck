@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T19:28:47.981053+00:00'
+updated: '2025-12-11T19:44:19.736156+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 19:28 UTC  
+**Last Updated:** December 11, 2025 at 19:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 2h ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ A new survey finds corporations and investors are overwhelmingly optimistic abou
 
 Context: This ""parenting"" AI app called NurtureOS turned out to be satire made by an AI company. (I don't get the logic either, but that's not what I'm concerned about.) My gripe: Someone's going to try sell something like this for real sooner or later, and I can’t stop thinking about the long-term effects it could have on people and society as a whole. Where are we heading with AI in our homes? And especially when kids are involved? The idea behind the app (you can see the features on the site) implied a future where parents could offload actual emotional labour completely. Suppose for an instant that an AI can sooth tantrums, resolve petty fights, teach social skills, and even be tweaked to mold your child's behaviour in specific ways. First of all, is it unethical to use AI to condition your kids? We do it anyway when we teach them certain things are right or wrong, or launch them into specific social constructs. What makes it different when AI's the one doing it? Secondly, there's the emotional intelligence part. Kids learn empathy, boundaries, and emotional resilience through their interactions with other humans. If an AI took deciding how to handle a fight between siblings or how to discipline a child, what happens to the child’s understanding of relationships? Would they start responding to other humans with the expectation that some third party (electronic or otherwise) will always step in to facilitate or mediate? Would they have less room to make mistakes, experiment socially, or negotiate boundaries? Would they even have the skillset to do it with? Thirdly, there’s the impact on parents. If you rely on an app to make the “right” choices for your kid, does that slowly chip away at your confidence? Do you start assuming the AI knows better than your own judgement? Parenting is already full of anxiety. Imagine adding a third party that's constantly between you and your spouse telling you their concept of “ideal behavior”. Just you and you and your friend SteveAI. Finally, the privacy angle is huge. A real version of this app would basically normalise 24/7 emotional surveillance in the home. It would be recording behaviour, conversations, moods, and interactions, and feeding it all to company servers somewhere that you never get to see. They'd have your data forever. Just think about all the crap Meta got up to with the data we fecklessly gave it in our teenage Facebook days. This would be SO much worse than that. This app may have been fake, but the next one may not be, and it exposed a real cultural pressure point. Right now, we keep inviting AI deeper into our lives for convenience. At what point does that start reshaping childhood, parenthood, and just society as a whole in ways we don’t fully understand? Is delegating emotional or developmental tasks to AI inherently dangerous? Or is there a world where it can support parents without replacing them and putting us all at risk?
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
 
-🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 52m ago
+🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 1h ago
 
 ---
 
@@ -103,7 +103,7 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 
 I’ve been using stratablue to analyze documents and meeting notes. It can detect repeated issues or flag unusual phrases, which helps catch things I might overlook. When combining multiple sources, sometimes the insights conflict, but it’s impressive how confidently it presents results. I’m trying to figure out how to trust outputs without double-checking everything manually. Does Strata AI handle structured vs unstructured data differently? How do you know when its insight is reliable versus misleading? Has anyone tested it systematically, and how do you decide which patterns are actually worth acting on?
 
-41m ago
+56m ago
 
 ---
 
@@ -111,7 +111,7 @@ I’ve been using stratablue to analyze documents and meeting notes. It can dete
 
 New research from Public Interest Research Group and tests conducted by NBC News found that a wide range of AI toys have loose guardrails.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/ai-toys-gift-present-safe-kids-robot-child-miko-grok-alilo-miiloo-rcna246956) • 44m ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/ai-toys-gift-present-safe-kids-robot-child-miko-grok-alilo-miiloo-rcna246956) • 1h ago
 
 ---
 
@@ -131,7 +131,7 @@ cnbc.com • 1h ago
 
 Open AI said it beats competing models from Google and Anthropic across a wide range of benchmarks.
 
-Fortune • 32m ago
+Fortune • 48m ago
 
 ---
 
@@ -163,7 +163,7 @@ AP News • 1h ago
 
 <body><p>STORY: :: TIME / TIME Person of the Year</p><p>:: Released December 11, 2025</p><p>:: &nbsp;Time Magazine names 'The Architects of AI' as its 'Person of the Year'</p><p>:: Fabian Stephany, AI Researcher and Lecturer, University of Oxford</p><p>"AI is not a person. AI wouldn't exist without people. But I still advocate for including more humans into this than just those big tech names or big names from, from the machine learning industry. //</p><p>"It needs a lot of work to build this technology. It needs a lot of work to create the data that is fed into this technology, there are millions of people working around the world //</p><p>"And I think what people should generally remember is that there is no technological revolution without humans, without human skills, because it’s us creating, maintaining and governing this technology. So ultimately, the decision of where this ride is going to go is up to us."</p><p>The 2025 "Person of the Year" issue features a cover story that explores how AI changed the world over the year in new and "sometimes frightening ways.” It includes interviews with Nvidia Chief Executive Jensen Huang, whose chips are powering the AI boom, and AI investors such as SoftBank CEO Masayoshi Son.</p><p>It also explores such troubling aspects of AI as the death of a 16-year-old Californian who committed suicide, after which his parents sued ChatGPT maker OpenAI, blaming the company for their son’s death because of conversations he had with the chatbot.</p><p>Time is among many media outlets partnering with AI firms to license content and develop new tools. In June 2024 it signed a multi-year content deal with OpenAI that gave the ChatGPT maker access to its archived news content. In response to user queries, the chatbot cites and links back to the source on Time.com.</p></body>
 
-Yahoo • 24m ago
+Yahoo • 40m ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo • 24m ago
 
 Jensen Huang biography author Stephen Witt explains why Google's self-developed AI model, Gemini, could pose a threat to Nvidia's AI dominance
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 42m ago
 
 Prime Video's latest needle-poke into generative AI's bubble comes on the heels of its anime dubbing debacle.
 
-Gizmodo • 20m ago
+Gizmodo • 35m ago
 
 ---
 
@@ -187,7 +187,7 @@ Gizmodo • 20m ago
 
 Wall Street got the rate cut it wanted. But with the Federal Reserve set to take a more cautious approach to trimming interest rates in 2026, investors are now left to wrestle with other concerns that had been put on the back burner while Fed rate cuts were top of mind.
 
-CNN • 38m ago
+CNN • 53m ago
 
 ---
 
@@ -269,7 +269,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 113 • 💬 72 • 5h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 113 • 💬 72 • 6h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -513,20 +513,6 @@ SamKash-Tolstoy is a LoRA adapter for DeepSeek-R1-Distill-Qwen-1.5B, specialized
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 183 • 💬 3 • ⭐ 6,453 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -538,6 +524,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 23 • 💬 2 • ⭐ 6,464 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 183 • 💬 3 • ⭐ 6,516 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -561,7 +561,7 @@ Wan-Move enhances motion control in video generative models by integrating motio
 
 Visionary is an open web-native platform enabling real-time rendering of 3D Gaussian Splatting and meshes with efficient GPU-based inference, supporting dynamic content and generative models.
 
-▲ 70 • 💬 4 • ⭐ 250 • 2d ago
+▲ 70 • 💬 4 • ⭐ 263 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
 
@@ -737,7 +737,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 856 • 🔱 46 • 2d ago
+⭐ 856 • 🔱 47 • 2d ago
 
 ---
 

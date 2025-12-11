@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T19:28:47.989653+00:00'
+updated: '2025-12-11T19:44:19.744929+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 19:28 UTC  
+**Last Updated:** December 11, 2025 at 19:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,969.47
+### $91,415.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +2.3%  
-**30d:** -10.5%  
-**90d:** -21.4%  
-**1y:** -8.8%  
+**24h:** -1.3%  
+**7d:** +2.6%  
+**30d:** -10.1%  
+**90d:** -21.1%  
+**1y:** -8.5%  
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-7h ago
+8h ago
 
 ---
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -169,7 +169,7 @@ Reuters • 6h ago
 
 Bitcoin’s valuation is “ridiculous,” according to “The Big Short” investor Michael Burry, who predicted the 2008 housing market crash years in advance. “I think that Bitcoin at $100,000 is the most ridiculous thing,” Burry told author Michael Lewis in ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Investor's Business Daily • 4h ago
 
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 43m ago
+Investor's Business Daily • 59m ago
 
 ---
 
@@ -195,7 +195,7 @@ TheStreet • 1d ago
 
 Bitcoin slipped in Asia trading hours while other risk assets gained after the US Federal Reserve cut interest rates and expressed optimism about the economy.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -309,7 +309,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 553 • 💬 30 • ⏱️ 11:29 • 6h ago
+👁️ 10K • 👍 553 • 💬 30 • ⏱️ 11:29 • 7h ago
 
 ---
 
