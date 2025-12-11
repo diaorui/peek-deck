@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T15:36:24.711983+00:00'
+updated: '2025-12-11T15:54:22.899077+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 15:36 UTC  
+**Last Updated:** December 11, 2025 at 15:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The start-up is falling behind in the AI race.
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 23m ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 41m ago
 
 ---
 
@@ -65,7 +65,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal in which the artificial intelligence start-up will use Disney characters in its flagship products. As part of the three-year deal, announced on Thursday, Disney will make more than 200 Marvel, Pixar and Star Wars characters available within ChatGPT and Sora, OpenAI’s video-generation tool. The company will also take a $1bn stake in the $500bn start-up, as well as warrants to purchase additional equity at a later date. Read the full story for free with your email here: https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
 
-🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 31m ago
+🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 49m ago
 
 ---
 
@@ -73,7 +73,7 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 
 Nvidia has unveiled an optional service for its data center partners. The opt-in service allows them to monitor the health of AI GPUs.
 
-🔗 [PC Guide](https://www.pcguide.com/news/nvidia-can-now-track-the-location-of-ai-gpus-but-only-if-operators-sign-up-to-its-new-gpu-health-service/) • 40m ago
+🔗 [PC Guide](https://www.pcguide.com/news/nvidia-can-now-track-the-location-of-ai-gpus-but-only-if-operators-sign-up-to-its-new-gpu-health-service/) • 58m ago
 
 ---
 
@@ -89,7 +89,7 @@ The Architects of AI drove the economy, shaped geopolitics, and changed the way 
 
 “Holy shit,” he wrote on X. “I’ve used ChatGPT every day for 3 years. Just spent 2 hours on Gemini 3. I’m not going back. The leap is insane.”
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 7h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 8h ago
 
 ---
 
@@ -125,7 +125,7 @@ If you are reading this, you probably have strong opinions about AGI, superintel
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Time Magazine • 2h ago
+Time Magazine • 3h ago
 
 ---
 
@@ -133,7 +133,7 @@ Time Magazine • 2h ago
 
 The people behind the rise of artificial intelligence have been given the magazine’s annual title.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Yahoo • 1h ago
 
 TIME Magazine has named the 'Architects of AI' its Person of the Year, who include Jensen Huang, Elon Musk, Sam Altman, Mark Zuckerberg, Lisa Su, Dario Amodei, Demis Hassabis, and Fei-Fei Li
 
-TechCrunch • 58m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Wall Street Journal • 2h ago
 
 **[Boom Supersonic jet startup pivots to power AI data centers](https://qz.com/boom-supersonic-jet-startup-ai-data-center-power)**
 
-qz.com • 12m ago
+qz.com • 30m ago
 
 ---
 
@@ -161,7 +161,7 @@ qz.com • 12m ago
 
 Retail AI in 2026 shifts from broad promises to function-specific tools; change management becomes a competitive edge and consolidation is near.
 
-Forbes • 5m ago
+Forbes • 23m ago
 
 ---
 
@@ -441,7 +441,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 254 • 22h ago
+⬇️ 7,222 • ❤️ 254 • 23h ago
 
 ---
 
@@ -663,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.0k • 🔱 223 • 56m ago
+⭐ 2.0k • 🔱 223 • 1h ago
 
 ---
 
@@ -673,7 +673,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.7k • 🔱 135 • 2d ago
+⭐ 1.7k • 🔱 135 • 3d ago
 
 ---
 
@@ -693,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 133 • 54m ago
+⭐ 1.1k • 🔱 133 • 1h ago
 
 ---
 

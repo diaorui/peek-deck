@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T15:36:24.721514+00:00'
+updated: '2025-12-11T15:54:22.907442+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 15:36 UTC  
+**Last Updated:** December 11, 2025 at 15:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,109.31
+### $89,718.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** +1.4%  
-**30d:** -11.3%  
-**90d:** -22.1%  
-**1y:** -9.6%  
+**24h:** -3.0%  
+**7d:** +0.6%  
+**30d:** -12.0%  
+**90d:** -22.7%  
+**1y:** -10.4%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-37m ago
+54m ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-12h ago
+13h ago
 
 ---
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 We back baby!
 
-17h ago
+18h ago
 
 ---
 
@@ -133,7 +133,7 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 **[SUPERCYCLE😂](https://www.reddit.com/r/Bitcoin/comments/1pjzrml/supercycle/)**
 
-30m ago
+48m ago
 
 ---
 
@@ -141,7 +141,7 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 50°C outside but 27 °C inside the facility. Triple filtration, 24 tons of water circulating daily, on-site hydro conversions. 800 ASICs running 24/7 in one of the harshest climates on earth.
 
-24m ago
+42m ago
 
 ---
 
@@ -151,7 +151,7 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ Decrypt • 19h ago
 
 Oracle shares plunged over 13% following a revenue miss, while Bitcoin’s slide below $91,000 exerted broad downward pressure on digital asset miners.
 
-Yahoo Finance • 26m ago
+Yahoo Finance • 44m ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 26m ago
 
 A quarter?point Fed cut lifted equities to near records, but Bitcoin's latest drop signals a market pulling in two directions.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -273,7 +273,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 1d ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 2d ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -341,7 +341,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 16K • 👍 616 • 💬 177 • ⏱️ 8:34 • 18h ago
+👁️ 16K • 👍 616 • 💬 177 • ⏱️ 8:34 • 19h ago
 
 ---
 

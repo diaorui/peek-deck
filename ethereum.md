@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T15:36:24.728237+00:00'
+updated: '2025-12-11T15:54:22.913446+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 15:36 UTC  
+**Last Updated:** December 11, 2025 at 15:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,191.01
+### $3,178.46
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.3%  
-**7d:** +5.2%  
-**30d:** -6.9%  
-**90d:** -31.7%  
-**1y:** -18.2%  
+**24h:** -5.2%  
+**7d:** +5.3%  
+**30d:** -6.8%  
+**90d:** -31.6%  
+**1y:** -18.1%  
 
 ---
 
@@ -248,7 +248,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 7K • 👍 553 • 💬 46 • ⏱️ 44:48 • 3h ago
+👁️ 7K • 👍 553 • 💬 46 • ⏱️ 44:48 • 4h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 483 • 👍 37 • 💬 5 • ⏱️ 4:36 • 5h ago
+👁️ 483 • 👍 37 • 💬 5 • ⏱️ 4:36 • 6h ago
 
 ---
 
@@ -308,7 +308,7 @@ ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.excha
 
 📺 Vibe With Sahil
 
-👁️ 3K • 👍 432 • 1h ago
+👁️ 3K • 👍 432 • 2h ago
 
 ---
 
@@ -318,7 +318,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 16K • 👍 633 • 💬 84 • ⏱️ 1:10:46 • 22h ago
+👁️ 16K • 👍 633 • 💬 84 • ⏱️ 1:10:46 • 23h ago
 
 ---
 
