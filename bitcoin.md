@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T14:30:42.736135+00:00'
+updated: '2025-12-11T14:49:26.331333+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 14:30 UTC  
+**Last Updated:** December 11, 2025 at 14:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,035.05
+### $89,831.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +1.4%  
-**30d:** -11.3%  
-**90d:** -22.1%  
-**1y:** -9.6%  
+**24h:** -2.3%  
+**7d:** +1.0%  
+**30d:** -11.6%  
+**90d:** -22.4%  
+**1y:** -10.0%  
 
 ---
 
@@ -93,13 +93,13 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-2h ago
+3h ago
 
 ---
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -181,7 +181,7 @@ MarketWatch • 1d ago
 
 Company's aggressive cost cuts weren't enough to offset sliding sales and crypto volatility.
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 48m ago
 
 ---
 
@@ -299,7 +299,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 43K • 👍 2K • 💬 519 • ⏱️ 8:26 • 13h ago
+👁️ 45K • 👍 2K • 💬 568 • ⏱️ 8:26 • 13h ago
 
 ---
 
@@ -309,7 +309,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 81K • 👍 4K • 💬 362 • ⏱️ 21:05 • 15h ago
+👁️ 89K • 👍 5K • 💬 425 • ⏱️ 21:05 • 15h ago
 
 ---
 
@@ -319,27 +319,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 228 • 💬 130 • ⏱️ 15:40 • 8h ago
-
----
-
-**[Did the Federal Reserve Just DESTROY Bitcoin’s 4-Year Cycle?!](https://www.youtube.com/watch?v=0Wgyk7VAHBE)**
-
-Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled the trigger. With rate cuts incoming, QE ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 158 • ⏱️ 16:48 • 14h ago
-
----
-
-**[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 16K • 👍 616 • 💬 148 • ⏱️ 8:34 • 17h ago
+👁️ 8K • 👍 273 • 💬 159 • ⏱️ 15:40 • 8h ago
 
 ---
 
@@ -349,17 +329,17 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 278 • ⏱️ 10:23 • 12h ago
+👁️ 42K • 👍 2K • 💬 325 • ⏱️ 10:23 • 12h ago
 
 ---
 
-**[the bitcoin B**G is actually confirmed.... the Federal Reserve is ******](https://www.youtube.com/watch?v=OThYSHZpajc)**
+**[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
 
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 Tyler S
+📺 My Financial Friend
 
-👁️ 18K • 👍 844 • 💬 160 • ⏱️ 5:12 • 17h ago
+👁️ 16K • 👍 616 • 💬 177 • ⏱️ 8:34 • 17h ago
 
 ---
 
@@ -369,17 +349,17 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 800 • 💬 3 • ⏱️ 32:26 • 16h ago
+👁️ 25K • 👍 840 • 💬 33 • ⏱️ 32:26 • 16h ago
 
 ---
 
-**[Bitcoin Investors...Get Ready for FOMC Press Conference](https://www.youtube.com/watch?v=Hw21byHsv_w)**
+**[I HAVE SOMETHING IMPORTANT TO SAY ABOUT BITCOIN](https://www.youtube.com/watch?v=TfGehJwtZtE)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+ONLY FOR THE FIRST 100 USERS !!! BloFin: https://themoon.co/blofin1000 Deposit & earn up to $1000 BYBIT TradFi: ...
 
-📺 CryptosRUs
+📺 The Moon Show
 
-👁️ 30K • 👍 1K • 💬 138 • ⏱️ 41:09 • 23h ago
+👁️ 9K • 👍 614 • 💬 72 • ⏱️ 3:56 • 6h ago
 
 ---
 
@@ -389,7 +369,27 @@ Bitcoin is grinding higher from the $80K lows, sitting ~25% below its $126K all-
 
 📺 Swan Bitcoin
 
-👁️ 38K • 👍 2K • 💬 83 • ⏱️ 18:41 • 1d ago
+👁️ 38K • 👍 2K • 💬 86 • ⏱️ 18:41 • 1d ago
+
+---
+
+**[MSTR, Bitcoin Treasuries &amp; The Shakeout | Jeff Walton](https://www.youtube.com/watch?v=AYVo5ajtq7M)**
+
+Jeff Walton joins the show for a deep dive into the state of Bitcoin treasury companies, the rise of digital credit, and why we may be ...
+
+📺 What Bitcoin Did
+
+👁️ 10K • 👍 433 • 💬 76 • ⏱️ 48:22 • 19h ago
+
+---
+
+**[The INEVITABLE Bitcoin Catch Up Trade Started Yesterday! [You Have 24H]](https://www.youtube.com/watch?v=65KgU0oEeOg)**
+
+The biggest crypto catch-up trade has begun, and Ran explains what's driving it. Bitcoin is breaking out, but key signals suggest ...
+
+📺 Crypto Banter
+
+👁️ 29K • 👍 2K • 💬 41 • ⏱️ 29:14 • 23h ago
 
 ---
 

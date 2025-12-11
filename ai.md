@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T14:30:42.727563+00:00'
+updated: '2025-12-11T14:49:26.322889+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- social
 - videos
 - news
-- social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 14:30 UTC  
+**Last Updated:** December 11, 2025 at 14:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The start-up is falling behind in the AI race.
 
 “Holy shit,” he wrote on X. “I’ve used ChatGPT every day for 3 years. Just spent 2 hours on Gemini 3. I’m not going back. The leap is insane.”
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 6h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 7h ago
 
 ---
 
@@ -73,7 +73,7 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-🔗 [TIME](https://time.com/7339685/person-of-the-year-2025-ai-architects/) • 25m ago
+🔗 [TIME](https://time.com/7339685/person-of-the-year-2025-ai-architects/) • 43m ago
 
 ---
 
@@ -111,7 +111,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 ‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash.[1] Google launches managed MCP servers that let AI agents simply plug into its tools.[2] From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion.[3] Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds.[4] Sources: [1] https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash [2] https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/ [3] https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html [4] https://time.com/7339513/ai-fei-fei-li-virtual-worlds/
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 The people behind the rise of artificial intelligence have been given the magazine’s annual title.
 
-Yahoo • 37m ago
+Yahoo • 56m ago
 
 ---
 
@@ -131,13 +131,13 @@ Yahoo • 37m ago
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Time Magazine • 1h ago
+Time Magazine • 2h ago
 
 ---
 
 **[AI architects named Time ‘Person of the Year’](https://thehill.com/policy/technology/5643971-architects-ai-time-magazine/)**
 
-thehill.com • 11m ago
+thehill.com • 30m ago
 
 ---
 
@@ -151,7 +151,7 @@ The Wall Street Journal • 1h ago
 
 Bill Gates on Wednesday warned the AI industry will be "hyper-competitive," and that "a reasonable percentage" of today's pricey tech stocks will lose a lot of their value.
 
-Investopedia • 11m ago
+Investopedia • 30m ago
 
 ---
 
@@ -159,7 +159,7 @@ Investopedia • 11m ago
 
 Commercial in Netherlands depicting festival-season chaos at ‘most terrible time of year’ prompted flurry of criticism online
 
-The Guardian • 59m ago
+The Guardian • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Fox Business • 14h ago
 
 Entitled “the most terrible time of the year,” the 45-second ad featured a series of mishaps befalling people at Christmas.
 
-NBC News • 26m ago
+NBC News • 45m ago
 
 ---
 
@@ -183,13 +183,13 @@ NBC News • 26m ago
 
 Shares in Nvidia, Micron and Microsoft were also lower in premarket trade on Thursday.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[Why Oracle Is Worrying Investors About the A.I. Boom](https://www.nytimes.com/2025/12/11/business/dealbook/ai-spending-oracle-openai.html)**
 
-The New York Times • 53m ago
+The New York Times • 1h ago
 
 ---
 
@@ -225,7 +225,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 313 • 💬 307 • 21h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 313 • 💬 307 • 22h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -285,7 +285,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 43K • 👍 2K • 💬 336 • ⏱️ 14:55 • 20h ago
+👁️ 44K • 👍 2K • 💬 340 • ⏱️ 14:55 • 21h ago
 
 ---
 
@@ -295,37 +295,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 22K • 👍 202 • 💬 148 • ⏱️ 2:58 • 15h ago
-
----
-
-**[See Inside the Data Center Helping to Power the AI Revolution](https://www.youtube.com/watch?v=KiRTHEV7wpo)**
-
-From emails to social media to online shopping, banking and chatting — everything we rely on everyday goes through an AI data ...
-
-📺 TODAY
-
-👁️ 7K • 👍 53 • 💬 12 • ⏱️ 3:20 • 1d ago
-
----
-
-**[Elon Musk on DOGE, AI, &amp; Are we in a Simulation? | KMP Ep.18](https://www.youtube.com/watch?v=bz5Hjk40FD4)**
-
-In this episode, I sit down with @elonmusk for a wide-ranging conversation on DOGE, AI, simulation theory, and much more.
-
-📺 Katie Miller Pod
-
-👁️ 319K • 👍 13K • 💬 3K • ⏱️ 52:58 • 1d ago
-
----
-
-**[Andrew Ross Sorkin On Affordability, What Happens If The AI Bubble Bursts, And Paramount vs. Netflix](https://www.youtube.com/watch?v=i8xmTFz8Z6k)**
-
-Best-selling author and co-anchor of CNBC's "Squawk Box," Andrew Ross Sorkin comments on the battle over Warner Bros., the ...
-
-📺 The Late Show with Stephen Colbert
-
-👁️ 138K • 👍 3K • 💬 340 • ⏱️ 9:06 • 1d ago
+👁️ 26K • 👍 233 • 💬 165 • ⏱️ 2:58 • 15h ago
 
 ---
 
@@ -335,7 +305,27 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 38K • 👍 1K • 💬 62 • ⏱️ 12:50 • 1d ago
+👁️ 39K • 👍 2K • 💬 65 • ⏱️ 12:50 • 1d ago
+
+---
+
+**[See Inside the Data Center Helping to Power the AI Revolution](https://www.youtube.com/watch?v=KiRTHEV7wpo)**
+
+From emails to social media to online shopping, banking and chatting — everything we rely on everyday goes through an AI data ...
+
+📺 TODAY
+
+👁️ 8K • 👍 54 • 💬 12 • ⏱️ 3:20 • 1d ago
+
+---
+
+**[Elon Musk on DOGE, AI, &amp; Are we in a Simulation? | KMP Ep.18](https://www.youtube.com/watch?v=bz5Hjk40FD4)**
+
+In this episode, I sit down with @elonmusk for a wide-ranging conversation on DOGE, AI, simulation theory, and much more.
+
+📺 Katie Miller Pod
+
+👁️ 329K • 👍 13K • 💬 3K • ⏱️ 52:58 • 1d ago
 
 ---
 
@@ -345,7 +335,17 @@ Go to https://ground.news/hank for a better way to stay informed. Subscribe for 
 
 📺 Hank Green
 
-👁️ 1.6M • 👍 79K • 💬 8K • ⏱️ 24:00 • 2d ago
+👁️ 1.6M • 👍 81K • 💬 9K • ⏱️ 24:00 • 2d ago
+
+---
+
+**[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
+
+JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
+
+📺 Fox Business
+
+👁️ 162K • 👍 2K • 💬 656 • ⏱️ 18:47 • 2d ago
 
 ---
 
@@ -355,17 +355,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.0M • 👍 49K • 💬 5K • ⏱️ 8:35 • 1d ago
-
----
-
-**[AI Dress in REAL LIFE](https://www.youtube.com/watch?v=zreiL7w329o)**
-
-I Paid a dress maker to make an AI dress in real life! OTHER VIDEOS u might like: ✨ Temu, Amazon & Etsy Product ...
-
-📺 Mia Maples
-
-👁️ 106K • 👍 4K • 💬 79 • ⏱️ 0:36 • 2d ago
+👁️ 1.0M • 👍 50K • 💬 5K • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -375,7 +365,17 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 
 📺 AI Revolution
 
-👁️ 38K • 👍 1K • 💬 71 • ⏱️ 13:12 • 2d ago
+👁️ 39K • 👍 1K • 💬 71 • ⏱️ 13:12 • 2d ago
+
+---
+
+**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
+
+Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
+
+📺 hxsain
+
+👁️ 321K • 👍 25K • 💬 266 • ⏱️ 0:51 • 1d ago
 
 ---
 
@@ -439,7 +439,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 252 • 21h ago
+⬇️ 7,222 • ❤️ 252 • 22h ago
 
 ---
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.9k • 🔱 221 • 36m ago
+⭐ 1.9k • 🔱 221 • 54m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T14:30:42.745389+00:00'
+updated: '2025-12-11T14:49:26.340552+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 14:30 UTC  
+**Last Updated:** December 11, 2025 at 14:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-9h ago
+10h ago
 
 ---
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -72,7 +72,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Here are the top developments today for those following the industry: 1. Agility
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 4h ago
 
 ---
 
@@ -102,7 +102,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 **[Would a sub-millisecond, CPU-only command-validation layer be useful in real robotic systems? Looking for technical feedback.](https://www.reddit.com/r/robotics/comments/1pjwmb7/would_a_submillisecond_cpuonly_commandvalidation/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -128,7 +128,7 @@ MLive.com • 1d ago
 
 The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
 
-International Federation of Robotics • 17m ago
+International Federation of Robotics • 36m ago
 
 ---
 
@@ -190,13 +190,13 @@ New Atlas • 19h ago
 
 ## YouTube Videos: "robotics"
 
-**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
+**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
 
-Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
+EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
 
-📺 TheAIGRID
+📺 AI Tech Academy
 
-👁️ 16K • 👍 468 • 💬 110 • ⏱️ 42:48 • 3d ago
+👁️ 71K • 👍 1K • 💬 460 • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -206,25 +206,17 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 73K • 👍 3K • 💬 266 • ⏱️ 17:44 • 22h ago
+👁️ 79K • 👍 3K • 💬 287 • ⏱️ 17:44 • 22h ago
 
 ---
 
-**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
+**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
 
-EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
+Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
 
-📺 AI Tech Academy
+📺 TheAIGRID
 
-👁️ 69K • 👍 1K • 💬 453 • ⏱️ 14:26 • 2d ago
-
----
-
-**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
-
-📺 AI . Robot
-
-👁️ 1.8M • 👍 9K • 💬 54 • ⏱️ 0:17 • 7d ago
+👁️ 16K • 👍 469 • 💬 111 • ⏱️ 42:48 • 3d ago
 
 ---
 
@@ -234,7 +226,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 34K • 👍 649 • 💬 159 • ⏱️ 18:46 • 5d ago
+👁️ 34K • 👍 651 • 💬 159 • ⏱️ 18:46 • 5d ago
 
 ---
 
@@ -244,7 +236,17 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 80K • 👍 1K • 💬 420 • ⏱️ 0:41 • 3d ago
+👁️ 80K • 👍 1K • 💬 422 • ⏱️ 0:41 • 3d ago
+
+---
+
+**[The Robot Body](https://www.youtube.com/watch?v=TJFMMOlbyIw)**
+
+What should a robot look like? How necessary is a body? Where do the boundaries of ourselves begin and end? Exploring ...
+
+📺 Sarah Davis Baker
+
+👁️ 11K • 👍 1K • 💬 184 • ⏱️ 37:14 • 20h ago
 
 ---
 
@@ -254,17 +256,15 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 128K • 👍 6K • 💬 876 • ⏱️ 19:33 • 4d ago
+👁️ 128K • 👍 6K • 💬 880 • ⏱️ 19:33 • 4d ago
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=coZB_m41vvk)**
+**[Bought the latest humanoid robot released in 2025. #robotics #airobot #humanoidrobot #ai #robot](https://www.youtube.com/watch?v=QJF1XWupoo4)**
 
-robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
+📺 AI . Robot
 
-📺 She Shorts AI
-
-👁️ 128K • 👍 833 • 💬 7 • ⏱️ 0:11 • 6d ago
+👁️ 108K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
 
 ---
 
@@ -278,13 +278,13 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 ---
 
-**[Silicon Valley’s Newest AI Diaper Changer Is Unreal 👶🤖 AI Baby Changer 4.0 — The Future Is Here](https://www.youtube.com/watch?v=x5P16JwG6fU)**
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
 
-At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the future of Smart Parenting, BabyTech and AI ...
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
 
-📺 AI Robot Lab
+📺 The Straits Times
 
-👁️ 667K • 👍 1K • 💬 36 • ⏱️ 0:20 • 1d ago
+👁️ 169K • 👍 775 • 💬 245 • ⏱️ 0:47 • 2d ago
 
 ---
 

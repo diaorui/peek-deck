@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T14:30:42.742149+00:00'
+updated: '2025-12-11T14:49:26.337322+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 14:30 UTC  
+**Last Updated:** December 11, 2025 at 14:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,194.35
+### $3,182.60
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** +5.5%  
-**30d:** -6.7%  
-**90d:** -31.5%  
-**1y:** -18.1%  
+**24h:** -4.7%  
+**7d:** +5.2%  
+**30d:** -6.9%  
+**90d:** -31.6%  
+**1y:** -18.2%  
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 1h ago
 
 **[October 10 Crash Whale Adds $100M+ in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-adds-100m-in-ethereum-longs-can-eth-hit-5000-by-2026/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -222,7 +222,7 @@ Decrypt • 1d ago
 
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
-The Block • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -230,23 +230,33 @@ The Block • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BTC, ETH, &amp; SOL Slump Post FED](https://www.youtube.com/watch?v=jDJVJStCdIE)**
-
-BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE THE TOP COINS (available ...
-
-📺 Lark Davis
-
-👁️ 4K • 👍 324 • 💬 13 • ⏱️ 44:48 • 2h ago
-
----
-
 **[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
 
 LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 278 • ⏱️ 10:23 • 12h ago
+👁️ 42K • 👍 2K • 💬 325 • ⏱️ 10:23 • 12h ago
+
+---
+
+**[BTC, ETH, &amp; SOL Slump Post FED](https://www.youtube.com/watch?v=jDJVJStCdIE)**
+
+BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 7K • 👍 553 • 💬 46 • ⏱️ 44:48 • 2h ago
+
+---
+
+**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
+
+What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
+
+📺 Thomas Kralow
+
+👁️ 3K • 👍 313 • 💬 18 • ⏱️ 11:29 • 2h ago
 
 ---
 
@@ -256,17 +266,27 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 292 • 👍 22 • 💬 5 • ⏱️ 4:36 • 4h ago
+👁️ 483 • 👍 37 • 💬 5 • ⏱️ 4:36 • 5h ago
 
 ---
 
-**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=J5P5LCylqlM)**
 
-In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 FAROKH RADIO
+📺 More Crypto Online
 
-👁️ 15K • 👍 589 • 💬 82 • ⏱️ 1:10:46 • 21h ago
+👁️ 260 • 👍 33 • 💬 2 • ⏱️ 6:54 • 24m ago
+
+---
+
+**[Tom Lee’s BMNR Adds $112M in ETH - &quot;Ethereum Has Already Bottomed&quot;](https://www.youtube.com/watch?v=p2NmbGfcwvU)**
+
+'Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury The bottom is officially in, ...
+
+📺 Wall Street Stockcast
+
+👁️ 188 • 👍 10 • 💬 17 • ⏱️ 6:13 • 1h ago
 
 ---
 
@@ -276,17 +296,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 211 • 💬 9 • ⏱️ 6:11 • 12h ago
+👁️ 3K • 👍 220 • 💬 9 • ⏱️ 6:11 • 12h ago
 
 ---
 
-**[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
+**[Crypto Live Trading 11 Dec  ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=ckXyzlXM8u0)**
 
-Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
+ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.exchange/?code=JFWJTR LIFE ...
 
-📺 The Bitcoin Revolution
+📺 Vibe With Sahil
 
-👁️ 17K • 👍 487 • 💬 252 • ⏱️ 12:46 • 2d ago
+👁️ 3K • 👍 432 • 56m ago
+
+---
+
+**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
+
+In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
+
+📺 FAROKH RADIO
+
+👁️ 16K • 👍 633 • 💬 84 • ⏱️ 1:10:46 • 22h ago
 
 ---
 
@@ -296,37 +326,7 @@ BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 10K • 👍 337 • 💬 128 • ⏱️ 18:26 • 14h ago
-
----
-
-**[I Can’t Believe This Is Happening!! All Hell Is Breaking Loose In Crypto!!](https://www.youtube.com/watch?v=2ZqztKdMquI)**
-
-Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily Merch - While ...
-
-📺 Altcoin Daily
-
-👁️ 71K • 👍 4K • 💬 321 • ⏱️ 12:03 • 1d ago
-
----
-
-**[🚨 FED FLIP!! | ETH&#39;s Biggest Day of the Year (FOMC + QE)](https://www.youtube.com/watch?v=YPMRXtdCF88)**
-
-BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 68 • 💬 18 • ⏱️ 8:36 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum. SO sollte es weitergehen für Bitcoin!! Das mache ich JETZT](https://www.youtube.com/watch?v=37USsWNRib4)**
-
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
-
-📺 Krypto Trading & Investing
-
-👁️ 5K • 👍 815 • 💬 141 • ⏱️ 15:50 • 8h ago
+👁️ 10K • 👍 345 • 💬 155 • ⏱️ 18:26 • 14h ago
 
 ---
 
