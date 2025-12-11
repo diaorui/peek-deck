@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T09:35:13.087394+00:00'
+updated: '2025-12-11T09:52:01.375424+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 09:35 UTC  
+**Last Updated:** December 11, 2025 at 09:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** +6.3%  
-**30d:** -5.9%  
-**90d:** -30.9%  
-**1y:** -17.3%  
+**24h:** -3.4%  
+**7d:** +6.0%  
+**30d:** -6.2%  
+**90d:** -31.1%  
+**1y:** -17.6%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-19h ago
+20h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView • 7h ago
 
 Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 13K • 👍 516 • 💬 69 • ⏱️ 1:10:46 • 16h ago
+👁️ 13K • 👍 516 • 💬 69 • ⏱️ 1:10:46 • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 479 • 👍 17 • 💬 1 • ⏱️ 6:56 • 13h ago
+👁️ 479 • 👍 17 • 💬 1 • ⏱️ 6:56 • 14h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 241 • 💬 9 • ⏱️ 6:52 • 16h ago
+👁️ 4K • 👍 241 • 💬 9 • ⏱️ 6:52 • 17h ago
 
 ---
 

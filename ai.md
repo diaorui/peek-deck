@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T09:35:13.073100+00:00'
+updated: '2025-12-11T09:52:01.360805+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 09:35 UTC  
+**Last Updated:** December 11, 2025 at 09:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 “Holy shit,” he wrote on X. “I’ve used ChatGPT every day for 3 years. Just spent 2 hours on Gemini 3. I’m not going back. The leap is insane.”
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 1h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 2h ago
 
 ---
 
@@ -77,7 +77,7 @@ A lot of people use the term “AI hallucination,” but many don’t clearly un
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 16h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 17h ago
 
 ---
 
@@ -93,7 +93,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 ‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash.[1] Google launches managed MCP servers that let AI agents simply plug into its tools.[2] From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion.[3] Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds.[4] Sources: [1] https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash [2] https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/ [3] https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html [4] https://time.com/7339513/ai-fei-fei-li-virtual-worlds/
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 I wanted to see what the computer itself thought about the ethics of AI chat bots, spoiler alert, they can be really harmful!
 
-3h ago
+4h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Verge • 16h ago
 
 **[Gemini deals ChatGPT a fresh blow as Google’s AI momentum builds](https://www.marketwatch.com/story/googles-ai-momentum-continues-as-gemini-scores-another-victory-over-chatgpt-16946689?gaa_at=eafs&gaa_n=AWEtsqdUKhBXqofUwrkK05J8Mz3exHBJ0HNcnNXaxd03RiBUJzsQYtI6pWIn&gaa_ts=693a93ba&gaa_sig=qD6p23ar1fbUmdF7HWTTxTMs0Hh9lVeCmBkgejCcnBsk8X4ANyb9whaOqL3MTkcMede17J617T42MsmRhUot7w%3D%3D)**
 
-MarketWatch • 14h ago
+MarketWatch • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 1d ago
 
 **[Here’s how to spot AI-written content](https://www.fastcompany.com/91453689/heres-how-to-spot-ai-written-content)**
 
-Fast Company • 35m ago
+Fast Company • 52m ago
 
 ---
 
@@ -283,7 +283,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 41K • 👍 2K • 💬 311 • ⏱️ 14:55 • 15h ago
+👁️ 41K • 👍 2K • 💬 311 • ⏱️ 14:55 • 16h ago
 
 ---
 
@@ -449,7 +449,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 246 • 16h ago
+⬇️ 2,414 • ❤️ 246 • 17h ago
 
 ---
 
@@ -527,7 +527,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 103 • 💬 3 • ⭐ 232 • 1d ago
+▲ 105 • 💬 3 • ⭐ 232 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 7.0k • 🔱 1.2k • 1h ago
+⭐ 7.3k • 🔱 1.2k • 4m ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.8k • 🔱 216 • 2h ago
+⭐ 1.9k • 🔱 216 • 34m ago
 
 ---
 
@@ -699,7 +699,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 929 • 🔱 65 • 1d ago
+⭐ 930 • 🔱 65 • 1d ago
 
 ---
 
@@ -709,7 +709,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 884 • 🔱 282 • 5d ago
+⭐ 887 • 🔱 284 • 5d ago
 
 ---
 
@@ -739,7 +739,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 598 • 🔱 87 • 7h ago
+⭐ 600 • 🔱 87 • 7h ago
 
 ---
 

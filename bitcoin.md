@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T09:35:13.081414+00:00'
+updated: '2025-12-11T09:52:01.369389+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 09:35 UTC  
+**Last Updated:** December 11, 2025 at 09:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 We back baby!
 
-11h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ We back baby!
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-6h ago
+7h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bottom tex
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bottom tex
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 3h ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Block • 22h ago
 
 **[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqfdsPxfbwrHxMChTgruiHe2cl8M6l-bhxYbdunSIcOJJxcwC7NYJXTi&gaa_ts=693a93bb&gaa_sig=7Uf-YS9aDFbcu_14Va7K72ZfVMlIz1O6elXkJyg3-I9-OWEZa_gFeka3XvJfSIfPvAgPi2F6GatZfguXKY4aeg%3D%3D)**
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
@@ -353,7 +353,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 15K • 👍 610 • 💬 109 • ⏱️ 8:34 • 12h ago
+👁️ 15K • 👍 610 • 💬 109 • ⏱️ 8:34 • 13h ago
 
 ---
 
@@ -363,7 +363,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 808 • 💬 149 • ⏱️ 5:12 • 12h ago
+👁️ 16K • 👍 808 • 💬 149 • ⏱️ 5:12 • 13h ago
 
 ---
 

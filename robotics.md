@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T09:35:13.090634+00:00'
+updated: '2025-12-11T09:52:01.378672+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 09:35 UTC  
+**Last Updated:** December 11, 2025 at 09:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-4h ago
+5h ago
 
 ---
 
@@ -72,7 +72,7 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
 
-47m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Here are the top developments today for those following the industry: 1. Agility
 
 In this tutorial you will learn: how γ affects convergence and stability in Q-Learning, how to choose the right value for your own RL environment, and what happens when γ exceeds the recommended limits (for example, γ > 1.0) and why the algorithm crashes. Link: Discount Factor (gamma) Explained With Q-Learning + CartPole
 
-1h ago
+2h ago
 
 ---
 
