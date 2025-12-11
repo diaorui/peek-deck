@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T05:20:46.111006+00:00'
+updated: '2025-12-11T05:43:28.457980+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 05:20 UTC  
+**Last Updated:** December 11, 2025 at 05:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -64,7 +64,7 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-18h ago
+19h ago
 
 ---
 
@@ -72,7 +72,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-40m ago
+1h ago
 
 ---
 
@@ -164,7 +164,7 @@ Chron • 12h ago
 
 SERV stock is up 28% on robot delivery growth and policy buzz, but with deep losses, is the rally too far ahead of itself?
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -180,7 +180,7 @@ MIT News • 10h ago
 
 EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -270,7 +270,7 @@ At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the 
 
 📺 AI Robot Lab
 
-👁️ 211K • 👍 570 • 💬 20 • ⏱️ 0:20 • 15h ago
+👁️ 211K • 👍 570 • 💬 20 • ⏱️ 0:20 • 16h ago
 
 ---
 

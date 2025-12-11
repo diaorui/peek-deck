@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T05:20:46.107752+00:00'
+updated: '2025-12-11T05:43:28.455156+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 05:20 UTC  
+**Last Updated:** December 11, 2025 at 05:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -3.6%  
-**7d:** +6.0%  
-**30d:** -6.2%  
-**90d:** -31.1%  
-**1y:** -17.5%  
+**7d:** +6.1%  
+**30d:** -6.1%  
+**90d:** -31.0%  
+**1y:** -17.4%  
 
 ---
 
@@ -104,7 +104,7 @@ oskar thorén is one of the leads in ethereum foundation's newest IPTF, or insti
 
 I never thought I’d be writing something like this, but here we are. I had a little over $123K on Nexo. I was holding NEXO tokens, had Platinum status, and was even part of their Private Clients program with the x2 portfolio boost. On October 10, 2025, around 23:00 CET, the Nexo app completely stopped working for me. I couldn’t add USDT, couldn’t swap, nothing. I was literally inside the app while it froze, and I have screen-time proof showing I was online the entire time. Then it started. At 23:12 CET I got an email saying my LTV jumped to 76.92%. At 23:20 CET another email arrived saying my collateral was fully liquidated. When I finally managed to get back into the app at 00:26 CET, my entire portfolio was gone. All $123,000 of it. This didn’t feel like a liquidation. It felt like I got robbed while the platform itself was broken and I had zero ability to protect my own position. And this isn’t the first time something like this has been reported. Coinfomania wrote back in April 2025 that Nexo had already been accused of $10 million worth of unfair liquidations where users got two emails and no functioning app. The exact same pattern. Nexo is registered in the Cayman Islands, dodging EU and US legal pressure. People have already sent lawyer letters and gotten nothing back. Meanwhile Antoni Trenchev, one of the faces of the company, says nothing. Does he really not know what’s happening, or is this simply being ignored? Look at Binance. When their system failed in the past, they compensated users. Nexo didn’t even acknowledge what happened. They didn’t just liquidate me. They took $123,000 while their system was down and left me with no explanation. Since posting about this, more people have contacted me with almost identical experiences. Same timing issues, same emails, same silence from Nexo. This isn’t a “one user issue”. It’s a pattern. If this has happened to you, reach out. We need to organize and push back together because individually they’re ignoring everyone.
 
-4h ago
+5h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 10h ago
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 4K • 👍 214 • 💬 199 • ⏱️ 18:26 • 4h ago
+👁️ 4K • 👍 214 • 💬 199 • ⏱️ 18:26 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 9K • 👍 418 • 💬 47 • ⏱️ 1:10:46 • 12h ago
+👁️ 9K • 👍 418 • 💬 47 • ⏱️ 1:10:46 • 13h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 240 • 💬 8 • ⏱️ 6:52 • 12h ago
+👁️ 4K • 👍 240 • 💬 8 • ⏱️ 6:52 • 13h ago
 
 ---
 
@@ -308,7 +308,7 @@ if ETH Doubles — Are BMNR Shares the Crypto Stock to Hold? If Ethereum doubles
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 33 • 💬 3 • ⏱️ 8:31 • 15h ago
+👁️ 1K • 👍 33 • 💬 3 • ⏱️ 8:31 • 16h ago
 
 ---
 

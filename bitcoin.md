@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T05:20:46.101633+00:00'
+updated: '2025-12-11T05:43:28.449861+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 05:20 UTC  
+**Last Updated:** December 11, 2025 at 05:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,189.07
+### $90,200.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** +1.4%  
-**30d:** -11.2%  
-**90d:** -22.1%  
-**1y:** -9.6%  
+**24h:** -2.7%  
+**7d:** +1.2%  
+**30d:** -11.4%  
+**90d:** -22.3%  
+**1y:** -9.8%  
 
 ---
 
@@ -119,13 +119,13 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 Bottom tex
 
-14h ago
+15h ago
 
 ---
 
 **[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bottom tex
 
 All precious metals are moving higher after yhe dovish fed move Why is bitcoin dropping? Is that a conflicting temporary move? Or is there anything else I am missing?
 
-2h ago
+3h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bloomberg.com • 2d ago
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -271,7 +271,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 17h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 18h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -285,7 +285,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 5h ago
+⬆️ 2 • 💬 0 • 6h ago
 
 ---
 
@@ -305,7 +305,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 16h ago
+⬆️ 3 • 💬 0 • 17h ago
 
 ---
 
@@ -389,7 +389,7 @@ In this clip, I discuss the bottom signals that point towards a bitcoin reversal
 
 📺 CryptosRus Extra
 
-👁️ 2K • 👍 159 • 💬 139 • ⏱️ 9:23 • 4h ago
+👁️ 2K • 👍 159 • 💬 139 • ⏱️ 9:23 • 5h ago
 
 ---
 
