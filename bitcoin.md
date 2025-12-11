@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T16:59:41.746475+00:00'
+updated: '2025-12-11T17:37:08.819191+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 16:59 UTC  
+**Last Updated:** December 11, 2025 at 17:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,443.13
+### $90,094.12
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -2.6%  
-**7d:** +0.9%  
-**30d:** -11.7%  
-**90d:** -22.5%  
-**1y:** -10.1%  
+**7d:** +1.0%  
+**30d:** -11.6%  
+**90d:** -22.4%  
+**1y:** -10.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1792.10B
+**Market Cap:** $1798.50B
 Rank #1
 
-**Circulating Supply:** 19,960,746 BTC
+**Circulating Supply:** 19,960,762 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-28.6%
 
 **All-Time Low:** $67.81
-+132144.5%
++132675.4%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -105,13 +105,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 **[SUPERCYCLE😂](https://www.reddit.com/r/Bitcoin/comments/1pjzrml/supercycle/)**
 
-1h ago
-
----
-
-**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
-
-13h ago
+2h ago
 
 ---
 
@@ -119,7 +113,13 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
 
-45m ago
+1h ago
+
+---
+
+**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
+
+14h ago
 
 ---
 
@@ -135,7 +135,7 @@ We back baby!
 
 Iooking at the the last 4 FOMC meetings and we see this on the chart: June 18 -> $BTC DUMP July 30 -> $BTC DUMP Sep 17 -> $BTC DUMP Oct 29 -> $BTC DUMP After yesterday’s meeting, I fear we could be heading for a drop below $80,000 ... but then that will be a sweet price to enter some more.
 
-35m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Iooking at the the last 4 FOMC meetings and we see this on the chart: June 18 ->
 
 50°C outside but 27 °C inside the facility. Triple filtration, 24 tons of water circulating daily, on-site hydro conversions. 800 ASICs running 24/7 in one of the harshest climates on earth.
 
-1h ago
+2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Iooking at the the last 4 FOMC meetings and we see this on the chart: June 18 ->
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
@@ -165,41 +165,19 @@ Reuters • 4h ago
 
 ---
 
-**[Bitcoin and equity futures fall alongside mining stocks as Oracle leads AI stock decline](https://finance.yahoo.com/news/bitcoin-equity-futures-fall-alongside-150949775.html)**
+**[Bitcoin’s $732B Capital Inflow Proves This Isn’t Crypto Winter But a Mid-Cycle Reset](https://finance.yahoo.com/news/bitcoin-732b-capital-inflow-proves-171026139.html)**
 
-Oracle shares plunged over 13% following a revenue miss, while Bitcoin’s slide below $91,000 exerted broad downward pressure on digital asset miners.
+Bitcoin (CRYPTO: BTC) has seen $732 billion in new capital inflows since its 2022 cycle low, exceeding all previous bull runs combined. This surge in institutional and ETF-driven investment has pushed Bitcoin’s realized market cap to record highs—$1.1 trillion—even as prices consolidate below peak levels. Past crypto winters brought panic but this wave of capital ... Bitcoin’s $732B Capital Inflow Proves This Isn’t Crypto Winter But a Mid-Cycle Reset
 
-Yahoo Finance • 1h ago
-
----
-
-**[GameStop’s bitcoin holdings — and sales — slide](https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?gaa_at=eafs&gaa_n=AWEtsqdlJu02txk9K8ZDxafkmqHr8Tt_XA8Nmnna5I3ZA612OeySpvIQRISR&gaa_ts=693af499&gaa_sig=-zXaG3Gd1OJjQjf6wOE-rrrrPcy4QPkPmHBk6FAh_vzypFBKroFdO_w1ekJ7Qckc-496dW8GZhMvCUQMJnodBg%3D%3D)**
-
-MarketWatch • 1d ago
+Yahoo Finance • 26m ago
 
 ---
 
-**[GameStop Shares Drop After Revenue Miss and Bitcoin Loss Overshadow Profit Turnaround](https://finance.yahoo.com/news/gamestop-shares-drop-revenue-miss-140108737.html)**
+**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
 
-Company's aggressive cost cuts weren't enough to offset sliding sales and crypto volatility.
+Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
 
-Yahoo Finance • 2h ago
-
----
-
-**[GameStop Stock Falls After Bitcoin Holdings Lose Value, Firm Says It Could Sell BTC](https://decrypt.co/351849/gamestop-stock-falls-bitcoin-holdings-lose-value-firm-could-sell-btc)**
-
-Markets haven’t reacted well to GameStop’s latest earnings call, where it revealed sinking Bitcoin value and retail sales alike.
-
-Decrypt • 20h ago
-
----
-
-**[Some Bitcoin Buying Firms Are Selling as Losses Pile Up on Paper for Many: Report](https://finance.yahoo.com/news/bitcoin-buying-firms-selling-losses-155734023.html)**
-
-A report found that most Bitcoin-stacking firms sit on unrealized losses, with a handful selling the asset as its price fell last month.
-
-Yahoo Finance • 1h ago
+Business Insider • 1d ago
 
 ---
 
@@ -211,19 +189,41 @@ CNBC • 1d ago
 
 ---
 
-**[This bitcoin bull just slashed their price forecast](https://seekingalpha.com/news/4529976-this-bitcoin-bull-just-slashed-their-price-forecast)**
-
-Explore Standard Chartered's updated outlook for bitcoin.
-
-Seeking Alpha • 1d ago
-
----
-
 **[Bitcoin Will Clinch New Highs In 2026, 4-Year Cycle Over, Grayscale Says](https://finance.yahoo.com/news/bitcoin-clinch-highs-2026-4-170104061.html)**
 
 Bitcoin will likely reach a new price record in 2026, according to cryptocurrency asset manager Grayscale. “We believe the four-year cycle thesis will prove to be incorrect, and that Bitcoin’s price will potentially make new highs next year,” ...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqfFxM_rZYiGGiUwxY_GTIhS26FUfdqBjojFKu5HhC1XQHuJAFb41T4n&gaa_ts=693b0499&gaa_sig=2H3bHHu0IQWCCNijB0YjKbkxORw8NNT394T7GO63vs0HYTH8nMFFmnJ4Fk5uoB19ZmT0G56Z8x24hB8J-df6xg%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Some Bitcoin Buying Firms Are Selling as Losses Pile Up on Paper: Report](https://decrypt.co/352002/some-bitcoin-buying-firms-selling-losses-pile-up)**
+
+A report found that most Bitcoin-stacking firms sit on unrealized losses, with a handful selling the asset as its price fell last month.
+
+Decrypt • 1h ago
+
+---
+
+**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
+
+In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
+
+WIRED • 2d ago
+
+---
+
+**[Crypto Winter Squeezes Bitcoin Miners as AI Pivot Gains Urgency](https://www.bloomberg.com/news/articles/2025-12-10/crypto-winter-squeezes-bitcoin-miners-as-ai-pivot-gains-urgency)**
+
+The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -257,13 +257,13 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 17h ago
+⬆️ 2 • 💬 0 • 18h ago
 
 ---
 
@@ -315,7 +315,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 7K • 👍 469 • 💬 25 • ⏱️ 11:29 • 4h ago
+👁️ 7K • 👍 469 • 💬 25 • ⏱️ 11:29 • 5h ago
 
 ---
 
@@ -325,7 +325,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 332 • ⏱️ 10:23 • 14h ago
+👁️ 46K • 👍 2K • 💬 332 • ⏱️ 10:23 • 15h ago
 
 ---
 
@@ -335,7 +335,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 96K • 👍 5K • 💬 438 • ⏱️ 21:05 • 17h ago
+👁️ 96K • 👍 5K • 💬 438 • ⏱️ 21:05 • 18h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled t
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 194 • ⏱️ 16:48 • 16h ago
+👁️ 30K • 👍 2K • 💬 194 • ⏱️ 16:48 • 17h ago
 
 ---
 
@@ -355,7 +355,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 875 • 💬 33 • ⏱️ 32:26 • 18h ago
+👁️ 26K • 👍 875 • 💬 33 • ⏱️ 32:26 • 19h ago
 
 ---
 
@@ -383,7 +383,7 @@ Jeff Walton joins the show for a deep dive into the state of Bitcoin treasury co
 
 📺 What Bitcoin Did
 
-👁️ 10K • 👍 451 • 💬 83 • ⏱️ 48:22 • 21h ago
+👁️ 10K • 👍 451 • 💬 83 • ⏱️ 48:22 • 22h ago
 
 ---
 

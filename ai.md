@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T16:59:41.737676+00:00'
+updated: '2025-12-11T17:37:08.810383+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 16:59 UTC  
+**Last Updated:** December 11, 2025 at 17:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 4h ago
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 1h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 2h ago
 
 ---
 
@@ -57,13 +57,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 29m ago
-
----
-
-**["I've had a lot of AI nightmares ... many days in a row. If I could, I would certainly slow down AI and robotics. It's advancing at a very rapid pace, whether I like it or not." -Guy building the thing right in front of you with his own hands](https://www.reddit.com/r/artificial/comments/1pk2h97/ive_had_a_lot_of_ai_nightmares_many_days_in_a_row/)**
-
-7m ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 1h ago
 
 ---
 
@@ -79,7 +73,7 @@ The start-up is falling behind in the AI race.
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-🔗 [TIME](https://time.com/7339685/person-of-the-year-2025-ai-architects/) • 2h ago
+🔗 [TIME](https://time.com/7339685/person-of-the-year-2025-ai-architects/) • 3h ago
 
 ---
 
@@ -87,7 +81,7 @@ The Architects of AI drove the economy, shaped geopolitics, and changed the way 
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 52m ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 1h ago
 
 ---
 
@@ -103,7 +97,7 @@ Four sources close to the situation claim OpenAI has become hesitant to publish 
 
 The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal in which the artificial intelligence start-up will use Disney characters in its flagship products. As part of the three-year deal, announced on Thursday, Disney will make more than 200 Marvel, Pixar and Star Wars characters available within ChatGPT and Sora, OpenAI’s video-generation tool. The company will also take a $1bn stake in the $500bn start-up, as well as warrants to purchase additional equity at a later date. Read the full story for free with your email here: https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
 
-🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 1h ago
+🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 2h ago
 
 ---
 
@@ -112,6 +106,12 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
 
 🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 11h ago
+
+---
+
+**[AI Hackers Are Coming Dangerously Close to Beating Humans | A recent Stanford experiment shows what happens when an artificial-intelligence hacking bot is unleashed on a network](https://www.reddit.com/r/artificial/comments/1pk2spw/ai_hackers_are_coming_dangerously_close_to/)**
+
+🔗 [wsj.com](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6) • 32m ago
 
 ---
 
@@ -127,61 +127,63 @@ Time Magazine • 4h ago
 
 ---
 
-**[Time’s 2025 Person of the Year: The architects of AI](https://www.yahoo.com/news/us/article/times-2025-person-of-the-year-the-architects-of-ai-172342364.html)**
+**['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o)**
 
-The people behind the rise of artificial intelligence have been given the magazine’s annual title.
+Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.
 
-Yahoo • 3h ago
-
----
-
-**['Architects of AI' named Time magazine Person of the Year 2025](https://www.usatoday.com/story/news/nation/2025/12/11/time-person-of-the-year-2025-architects-ai/87714617007/)**
-
-Time's Person of the Year 2025 is not one individual. Here's what the magazine chose and why.
-
-USA Today • 2h ago
+BBC • 3h ago
 
 ---
 
-**[Disappointing Oracle results knock $80bn off value amid AI bubble fears](https://www.theguardian.com/business/2025/dec/11/disappointing-oracle-results-knock-70bn-off-value-amid-ai-bubble-fears)**
+**[These Are the Key AI Players on the Cover of Time's 'Architects of AI' Magazine](https://www.usnews.com/news/us/articles/2025-12-11/these-are-the-key-ai-players-on-the-cover-of-times-architects-of-ai-magazine)**
 
-Weaker-than-forecast quarterly data for Larry Ellison’s tech company shows slowdown in revenue growth but big rise in spending
-
-The Guardian • 1h ago
+U.S. News & World Report • 23m ago
 
 ---
 
-**[Oracle slumps as gloomy forecasts, soaring spending fan AI bubble worries](https://www.reuters.com/business/oracle-shares-drop-12-europe-after-forecasts-miss-wall-st-targets-2025-12-11/)**
+**[Oracle stock sinks as AI costs jump past Wall Street estimates](https://finance.yahoo.com/news/oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-200454370.html)**
 
-Reuters • 45m ago
+Oracle stock fell as much as 15% Thursday after the tech firm's quarterly AI costs rose ahead of Wall Street's expectations and revenue fell short.
 
----
-
-**[Oracle's huge AI bets are spooking Wall Street—a 12% plunge wiped out the market’s early gains](https://fortune.com/2025/12/11/oracle-stock-plunging-ai-worries-nvidia/)**
-
-Nvidia was still the single heaviest weight for the S&P 500.
-
-Fortune • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[These 16 AI startup founders have collectively raised over $100M — and they're all under 27](https://www.businessinsider.com/young-founders-raising-millions-for-their-ai-startups-2025-12)**
+**[Oracle shares tank 15%, dragging down Nvidia, AMD, CoreWeave](https://www.cnbc.com/2025/12/11/oracle-shares-plummet-dragging-down-ai-stocks-nvidia-coreweave.html)**
 
-These AI startups founded by bright young minds in their teens and early 20s are disrupting industries and attracting top investors in the AI boom.
+Shares in Nvidia, Micron and Microsoft were also lower in premarket trade on Thursday.
 
-Business Insider • 38m ago
-
----
-
-**[Mark Zuckerberg eyes a big change to how Meta does AI](https://qz.com/meta-new-ai-model-closed-source-avocado)**
-
-qz.com • 36m ago
+CNBC • 7h ago
 
 ---
 
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqeSGyBce6Ev73A_IsIXA1DZyJSwX6L7XP-h7VlDQV3hMWaQRhEua96M&gaa_ts=693af4dd&gaa_sig=GKxvJyU84csBWeLHjoljVMXILZgXZeUqVjAHNO0mYIdiMTZH9VJQ2rKHhn5xfln560CEaDtyGXsj81FtHZYQCA%3D%3D)**
+**[Rotation away from AI trade may continue after Oracle earnings dud, Fed decision](https://www.cnbc.com/2025/12/11/rotation-away-from-ai-trade-may-continue-after-oracle-earnings-dud-fed-decision.html)**
 
-The Wall Street Journal • 3h ago
+The gains of the last several years could broaden out to other sectors.
+
+CNBC • 28m ago
+
+---
+
+**[Rivian Unveils AI Chip for Automated Driving, Ditches Nvidia](https://www.bloomberg.com/news/articles/2025-12-11/rivian-unveils-ai-chip-for-automated-driving-ditches-nvidia)**
+
+Rivian Automotive Inc. has developed its own artificial intelligence chip, replacing Nvidia Corp. technology as part of a broader push to add and enhance automated-driving features in future vehicles.
+
+Bloomberg.com • 17m ago
+
+---
+
+**[Rivian is building its own powerful AI chips for autonomous driving](https://www.theverge.com/news/842213/rivian-ai-autonomous-chip-specs)**
+
+Rivian’s AI chips can perform 1,600 trillion operations a second.
+
+The Verge • 17m ago
+
+---
+
+**[What To Expect From Rivian's 'Autonomy & AI Day'](https://www.investors.com/news/rivian-autonomy-ai-day-stock-market/)**
+
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -189,7 +191,7 @@ The Wall Street Journal • 3h ago
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -225,7 +227,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 286 • 💬 132 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 286 • 💬 132 • 2d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -233,7 +235,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 204 • 💬 160 • 2h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 233 • 💬 188 • 3h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -271,7 +273,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 104 • 💬 67 • 3h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 105 • 💬 69 • 4h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -285,7 +287,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 45K • 👍 2K • 💬 348 • ⏱️ 14:55 • 23h ago
+👁️ 45K • 👍 2K • 💬 348 • ⏱️ 14:55 • 1d ago
 
 ---
 
@@ -295,7 +297,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 32K • 👍 276 • 💬 188 • ⏱️ 2:58 • 17h ago
+👁️ 32K • 👍 276 • 💬 188 • ⏱️ 2:58 • 18h ago
 
 ---
 
@@ -391,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 710 • 2d ago
+⬇️ 80,162 • ❤️ 714 • 2d ago
 
 ---
 
@@ -403,7 +405,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,537 • 3d ago
+⬇️ 245,041 • ❤️ 2,538 • 3d ago
 
 ---
 
@@ -415,7 +417,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 18,587 • ❤️ 338 • 1d ago
+⬇️ 18,587 • ❤️ 340 • 1d ago
 
 ---
 
@@ -427,7 +429,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,209 • ❤️ 262 • 2d ago
+⬇️ 2,209 • ❤️ 264 • 2d ago
 
 ---
 
@@ -439,7 +441,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 255 • 1d ago
+⬇️ 7,222 • ❤️ 257 • 1d ago
 
 ---
 
@@ -451,7 +453,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 445,464 • ❤️ 203 • 2d ago
+⬇️ 445,464 • ❤️ 205 • 2d ago
 
 ---
 
@@ -467,6 +469,18 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 ---
 
+**[AutoGLM-Phone-9B](https://huggingface.co/zai-org/AutoGLM-Phone-9B)**
+
+*Z.ai*
+
+AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent assistance, capable of understanding smartphone screens via ADB and executing automated operations based on natural language commands for task completion.
+
+`image-text-to-text` `934,400`
+
+⬇️ 12,302 • ❤️ 181 • 2d ago
+
+---
+
 **[LongCat-Image](https://huggingface.co/meituan-longcat/LongCat-Image)**
 
 *LongCat*
@@ -476,18 +490,6 @@ LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusi
 `text-to-image`
 
 ⬇️ 583 • ❤️ 179 • 2d ago
-
----
-
-**[AutoGLM-Phone-9B](https://huggingface.co/zai-org/AutoGLM-Phone-9B)**
-
-*Z.ai*
-
-AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent assistance, capable of understanding smartphone screens via ADB and executing automated operations based on natural language commands for task completion.
-
-`image-text-to-text` `934,400`
-
-⬇️ 12,302 • ❤️ 179 • 2d ago
 
 ---
 
@@ -595,7 +597,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 9 • 💬 2 • ⭐ 11,801 • 3d ago
+▲ 10 • 💬 2 • ⭐ 11,801 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -651,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 8.4k • 🔱 1.4k • 57m ago
+⭐ 8.5k • 🔱 1.4k • 1h ago
 
 ---
 
@@ -661,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.0k • 🔱 224 • 59m ago
+⭐ 2.0k • 🔱 225 • 37m ago
 
 ---
 
@@ -691,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 133 • 1h ago
+⭐ 1.1k • 🔱 134 • 2h ago
 
 ---
 
@@ -701,7 +703,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 932 • 🔱 65 • 2d ago
+⭐ 933 • 🔱 65 • 2d ago
 
 ---
 
@@ -711,7 +713,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 891 • 🔱 285 • 5d ago
+⭐ 892 • 🔱 285 • 5d ago
 
 ---
 
@@ -741,7 +743,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 608 • 🔱 87 • 2h ago
+⭐ 608 • 🔱 87 • 3h ago
 
 ---
 
