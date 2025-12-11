@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T14:49:26.340552+00:00'
+updated: '2025-12-11T15:00:53.753908+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 14:49 UTC  
+**Last Updated:** December 11, 2025 at 15:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,23 +48,23 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 ---
 
+**[IR-Sim is, a Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning](https://www.reddit.com/r/robotics/comments/1pjumrm/irsim_is_a_pythonbased_lightweight_robot/)**
+
+From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
+
+4h ago
+
+---
+
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
 11h ago
 
 ---
 
-**[IR-Sim is, a Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning](https://www.reddit.com/r/robotics/comments/1pjumrm/irsim_is_a_pythonbased_lightweight_robot/)**
-
-From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
-
-3h ago
-
----
-
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -100,9 +100,11 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 ---
 
-**[Would a sub-millisecond, CPU-only command-validation layer be useful in real robotic systems? Looking for technical feedback.](https://www.reddit.com/r/robotics/comments/1pjwmb7/would_a_submillisecond_cpuonly_commandvalidation/)**
+**[Update: I gave the robot finger a knife](https://www.reddit.com/r/robotics/comments/1pjzi0f/update_i_gave_the_robot_finger_a_knife/)**
 
-2h ago
+A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
+
+5m ago
 
 ---
 
@@ -128,13 +130,23 @@ MLive.com • 1d ago
 
 The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
 
-International Federation of Robotics • 36m ago
+International Federation of Robotics • 47m ago
 
 ---
 
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
 
-Chron • 21h ago
+Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
+
+$32 million investment will created 230 new jobs.
+
+WHMI • 23h ago
 
 ---
 
@@ -162,19 +174,9 @@ The Robot Report • 1d ago
 
 ---
 
-**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
+**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-$32 million investment will created 230 new jobs.
-
-WHMI • 22h ago
-
----
-
-**[Serve Robotics Expands to D.C. Area Bringing Autonomous Delivery to the City of Alexandria, Va.](https://finance.yahoo.com/news/serve-robotics-expands-d-c-213000798.html)**
-
-ALEXANDRIA, Va., Dec. 10, 2025 (GLOBE NEWSWIRE) -- Serve Robotics Inc. (Nasdaq: SERV), a leading autonomous sidewalk delivery company, and the City of Alexandria today announced the launch of Serve’s on-demand robotic delivery service in Alexandria, Virginia. In partnership with Uber Eats, the delivery-platform of Uber Technologies (NYSE: UBER), residents and businesses in North East Alexandria, Del Rey, Potomac West, Old Town North, and nearby neighborhoods will now have the option to receive t
-
-Yahoo Finance • 17h ago
+Chron • 21h ago
 
 ---
 
@@ -182,7 +184,7 @@ Yahoo Finance • 17h ago
 
 Analog cameras are nowhere near as efficient as biological eyes. If you’ve ever handled a single-lens reflex (SLR) camera, especially if it had a zoom lens attached, you know how heavy they are, and how tricky and time-consuming adjusting their focus can be.
 
-New Atlas • 19h ago
+New Atlas • 20h ago
 
 ---
 
@@ -246,7 +248,7 @@ What should a robot look like? How necessary is a body? Where do the boundaries 
 
 📺 Sarah Davis Baker
 
-👁️ 11K • 👍 1K • 💬 184 • ⏱️ 37:14 • 20h ago
+👁️ 11K • 👍 1K • 💬 184 • ⏱️ 37:14 • 21h ago
 
 ---
 
@@ -256,7 +258,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 128K • 👍 6K • 💬 880 • ⏱️ 19:33 • 4d ago
+👁️ 128K • 👍 6K • 💬 880 • ⏱️ 19:33 • 5d ago
 
 ---
 

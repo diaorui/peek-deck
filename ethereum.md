@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T14:49:26.337322+00:00'
+updated: '2025-12-11T15:00:53.750355+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 14:49 UTC  
+**Last Updated:** December 11, 2025 at 15:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.7%  
-**7d:** +5.2%  
-**30d:** -6.9%  
-**90d:** -31.6%  
-**1y:** -18.2%  
+**24h:** -5.6%  
+**7d:** +4.9%  
+**30d:** -7.2%  
+**90d:** -31.9%  
+**1y:** -18.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $385.28B
+**Market Cap:** $380.76B
 Rank #2
 
 **Circulating Supply:** 120,695,176 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.5%
+-36.0%
 
 **All-Time Low:** $0.43
-+736769.5%
++730884.6%
 
 ---
 
@@ -184,12 +184,6 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[October 10 Crash Whale Adds $100M+ in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-adds-100m-in-ethereum-longs-can-eth-hit-5000-by-2026/)**
-
-CCN.com • 4h ago
-
----
-
 **[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
 
 The trading platform dives further into digital assets both domestically and globally.
@@ -198,17 +192,17 @@ Fortune • 2d ago
 
 ---
 
+**[October 10 Crash Whale Adds $100M+ in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-adds-100m-in-ethereum-longs-can-eth-hit-5000-by-2026/)**
+
+CCN.com • 4h ago
+
+---
+
 **[Ethereum Should Be Valued Like Amazon, Says Dragonfly’s Qureshi](https://www.tradingview.com/news/newsbtc:6aa89382f094b:0-ethereum-should-be-valued-like-amazon-says-dragonfly-s-qureshi/)**
 
 Dragonfly managing partner Haseeb Qureshi has sharpened his defense of Ethereum’s valuation, arguing that critics are using the wrong financial framework and that ETH should be analyzed more like an early-stage Amazon than a mature “value” stock.Speaking on the Milk Road Show on 9 December 2025, Qu…
 
-TradingView • 12h ago
-
----
-
-**[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
-
-The Block • 3d ago
+TradingView • 13h ago
 
 ---
 
@@ -223,6 +217,14 @@ Decrypt • 1d ago
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
 The Block • 3d ago
+
+---
+
+**[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
+
+The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
+
+CoinDesk • 3d ago
 
 ---
 
@@ -246,7 +248,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 7K • 👍 553 • 💬 46 • ⏱️ 44:48 • 2h ago
+👁️ 7K • 👍 553 • 💬 46 • ⏱️ 44:48 • 3h ago
 
 ---
 
@@ -276,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 260 • 👍 33 • 💬 2 • ⏱️ 6:54 • 24m ago
+👁️ 260 • 👍 33 • 💬 2 • ⏱️ 6:54 • 35m ago
 
 ---
 
@@ -306,7 +308,7 @@ ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.excha
 
 📺 Vibe With Sahil
 
-👁️ 3K • 👍 432 • 56m ago
+👁️ 3K • 👍 432 • 1h ago
 
 ---
 

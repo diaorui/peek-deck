@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T14:49:26.322889+00:00'
+updated: '2025-12-11T15:00:53.734153+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 14:49 UTC  
+**Last Updated:** December 11, 2025 at 15:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,15 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 22h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 23h ago
+
+---
+
+**[Nvidia can now track the location of AI GPUs, but only if operators sign up to its new GPU health service](https://www.reddit.com/r/artificial/comments/1pjziui/nvidia_can_now_track_the_location_of_ai_gpus_but/)**
+
+Nvidia has unveiled an optional service for its data center partners. The opt-in service allows them to monitor the health of AI GPUs.
+
+🔗 [PC Guide](https://www.pcguide.com/news/nvidia-can-now-track-the-location-of-ai-gpus-but-only-if-operators-sign-up-to-its-new-gpu-health-service/) • 4m ago
 
 ---
 
@@ -65,7 +73,7 @@ The start-up is falling behind in the AI race.
 
 Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 8h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 9h ago
 
 ---
 
@@ -73,7 +81,7 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-🔗 [TIME](https://time.com/7339685/person-of-the-year-2025-ai-architects/) • 43m ago
+🔗 [TIME](https://time.com/7339685/person-of-the-year-2025-ai-architects/) • 55m ago
 
 ---
 
@@ -87,7 +95,7 @@ A lot of people use the term “AI hallucination,” but many don’t clearly un
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 21h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 22h ago
 
 ---
 
@@ -107,14 +115,6 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 ---
 
-**[One-Minute Daily AI News 12/10/2025](https://www.reddit.com/r/artificial/comments/1pjpwhf/oneminute_daily_ai_news_12102025/)**
-
-‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash.[1] Google launches managed MCP servers that let AI agents simply plug into its tools.[2] From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion.[3] Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds.[4] Sources: [1] https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash [2] https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/ [3] https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html [4] https://time.com/7339513/ai-fei-fei-li-virtual-worlds/
-
-9h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,7 +123,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 The people behind the rise of artificial intelligence have been given the magazine’s annual title.
 
-Yahoo • 56m ago
+Yahoo • 1h ago
 
 ---
 
@@ -137,7 +137,7 @@ Time Magazine • 2h ago
 
 **[AI architects named Time ‘Person of the Year’](https://thehill.com/policy/technology/5643971-architects-ai-time-magazine/)**
 
-thehill.com • 30m ago
+thehill.com • 41m ago
 
 ---
 
@@ -151,7 +151,7 @@ The Wall Street Journal • 1h ago
 
 Bill Gates on Wednesday warned the AI industry will be "hyper-competitive," and that "a reasonable percentage" of today's pricey tech stocks will lose a lot of their value.
 
-Investopedia • 30m ago
+Investopedia • 42m ago
 
 ---
 
@@ -167,7 +167,7 @@ The Guardian • 1h ago
 
 McDonald's confirmed to Fox News Digital that it removed its artificial intelligence-generated Christmas advertisement from YouTube after viewer backlash.
 
-Fox Business • 14h ago
+Fox Business • 15h ago
 
 ---
 
@@ -175,7 +175,7 @@ Fox Business • 14h ago
 
 Entitled “the most terrible time of the year,” the 45-second ad featured a series of mishaps befalling people at Christmas.
 
-NBC News • 45m ago
+NBC News • 56m ago
 
 ---
 
@@ -201,7 +201,7 @@ The New York Times • 1h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 572 • 💬 620 • 2d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 572 • 💬 621 • 2d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -225,7 +225,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 313 • 💬 307 • 22h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 313 • 💬 306 • 22h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -239,7 +239,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 195 • 💬 177 • 2d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 196 • 💬 177 • 2d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -247,7 +247,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 164 • 💬 201 • 1d ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 165 • 💬 201 • 1d ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -263,7 +263,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 111 • 💬 154 • 1d ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 113 • 💬 154 • 1d ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -391,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 703 • 2d ago
+⬇️ 80,162 • ❤️ 706 • 2d ago
 
 ---
 
@@ -403,7 +403,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,528 • 2d ago
+⬇️ 245,041 • ❤️ 2,531 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 18,587 • ❤️ 335 • 1d ago
+⬇️ 18,587 • ❤️ 336 • 1d ago
 
 ---
 
@@ -439,7 +439,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 252 • 22h ago
+⬇️ 7,222 • ❤️ 253 • 22h ago
 
 ---
 
@@ -487,7 +487,7 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 174 • 2d ago
+⬇️ 12,302 • ❤️ 176 • 2d ago
 
 ---
 
@@ -543,7 +543,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 107 • 💬 3 • ⭐ 257 • 2d ago
+▲ 108 • 💬 3 • ⭐ 257 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -569,7 +569,7 @@ Visionary is an open web-native platform enabling real-time rendering of 3D Gaus
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 166 • 💬 4 • ⭐ 837 • 7d ago
+▲ 166 • 💬 4 • ⭐ 869 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -621,7 +621,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 109 • 💬 4 • ⭐ 5,616 • 21d ago
+▲ 109 • 💬 4 • ⭐ 5,650 • 21d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
@@ -651,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 8.0k • 🔱 1.3k • 3h ago
+⭐ 8.1k • 🔱 1.4k • 3h ago
 
 ---
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.9k • 🔱 221 • 54m ago
+⭐ 2.0k • 🔱 223 • 20m ago
 
 ---
 
@@ -671,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.7k • 🔱 134 • 2d ago
+⭐ 1.7k • 🔱 135 • 2d ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 133 • 3h ago
+⭐ 1.1k • 🔱 133 • 18m ago
 
 ---
 
@@ -711,7 +711,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 890 • 🔱 284 • 5d ago
+⭐ 890 • 🔱 285 • 5d ago
 
 ---
 
@@ -741,7 +741,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 607 • 🔱 87 • 12h ago
+⭐ 608 • 🔱 87 • 37m ago
 
 ---
 

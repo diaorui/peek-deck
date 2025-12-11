@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T14:49:26.331333+00:00'
+updated: '2025-12-11T15:00:53.743751+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 14:49 UTC  
+**Last Updated:** December 11, 2025 at 15:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,831.33
+### $89,334.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** +1.0%  
-**30d:** -11.6%  
-**90d:** -22.4%  
-**1y:** -10.0%  
+**24h:** -3.1%  
+**7d:** +0.5%  
+**30d:** -12.0%  
+**90d:** -22.8%  
+**1y:** -10.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.86B
+**Market Cap:** $1785.75B
 Rank #1
 
-**Circulating Supply:** 19,960,684 BTC
+**Circulating Supply:** 19,960,712 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-29.0%
 
 **All-Time Low:** $67.81
-+132902.5%
++131985.2%
 
 ---
 
@@ -83,17 +83,17 @@ Rank #1
 
 ---
 
+**[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
+
+3h ago
+
+---
+
 **[Companies Are Hoarding Bitcoin and It’s Starting To Get Crazy](https://www.reddit.com/r/Bitcoin/comments/1pjmhn0/companies_are_hoarding_bitcoin_and_its_starting/)**
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-11h ago
-
----
-
-**[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
-
-3h ago
+12h ago
 
 ---
 
@@ -107,13 +107,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 We back baby!
 
-16h ago
-
----
-
-**[true a hundred per cent](https://www.reddit.com/r/Bitcoin/comments/1pjvr1p/true_a_hundred_per_cent/)**
-
-2h ago
+17h ago
 
 ---
 
@@ -131,6 +125,14 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 ---
 
+**[All in! at 92k](https://www.reddit.com/r/Bitcoin/comments/1pjen83/all_in_at_92k/)**
+
+Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
+
+17h ago
+
+---
+
 **[It’s no longer just one black sheep](https://www.reddit.com/r/Bitcoin/comments/1pjkiei/its_no_longer_just_one_black_sheep/)**
 
 2025: It’s no longer just one black sheep. We’re already the 4% who get what Bitcoin is really bringing… and we’re still learning. We’re a scattered pack of black sheep now… but getting more visible every day. nostr: npub1855ur6q8lf7pjfvceg3s5qd0zuujqyz59h8zmxpquflunfpwkv4s3x3y8v #Bitcoin #CryptoMemes #HODL #BitcoinMemes
@@ -139,11 +141,11 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 ---
 
-**[All in! at 92k](https://www.reddit.com/r/Bitcoin/comments/1pjen83/all_in_at_92k/)**
+**[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
 
-Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
+Bottom tex
 
-17h ago
+1d ago
 
 ---
 
@@ -153,7 +155,7 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -181,7 +183,7 @@ MarketWatch • 1d ago
 
 Company's aggressive cost cuts weren't enough to offset sliding sales and crypto volatility.
 
-Yahoo Finance • 48m ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -197,7 +199,7 @@ Decrypt • 18h ago
 
 A Satoshi Nakamoto sculpture has been installed inside the New York Stock Exchange. The artwork is part of a 21-piece global series by artist Valentina ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -299,7 +301,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 45K • 👍 2K • 💬 568 • ⏱️ 8:26 • 13h ago
+👁️ 45K • 👍 2K • 💬 568 • ⏱️ 8:26 • 14h ago
 
 ---
 
@@ -309,7 +311,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 89K • 👍 5K • 💬 425 • ⏱️ 21:05 • 15h ago
+👁️ 89K • 👍 5K • 💬 425 • ⏱️ 21:05 • 16h ago
 
 ---
 
@@ -319,7 +321,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 8K • 👍 273 • 💬 159 • ⏱️ 15:40 • 8h ago
+👁️ 8K • 👍 273 • 💬 159 • ⏱️ 15:40 • 9h ago
 
 ---
 
@@ -339,7 +341,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 16K • 👍 616 • 💬 177 • ⏱️ 8:34 • 17h ago
+👁️ 16K • 👍 616 • 💬 177 • ⏱️ 8:34 • 18h ago
 
 ---
 
@@ -349,7 +351,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 840 • 💬 33 • ⏱️ 32:26 • 16h ago
+👁️ 25K • 👍 840 • 💬 33 • ⏱️ 32:26 • 17h ago
 
 ---
 
