@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T11:27:19.299741+00:00'
+updated: '2025-12-11T11:43:46.767674+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 11:27 UTC  
+**Last Updated:** December 11, 2025 at 11:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +1.2%  
-**30d:** -11.4%  
-**90d:** -22.2%  
-**1y:** -9.8%  
+**24h:** -2.1%  
+**7d:** +1.1%  
+**30d:** -11.5%  
+**90d:** -22.3%  
+**1y:** -9.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.52B
+**Market Cap:** $1802.79B
 Rank #1
 
-**Circulating Supply:** 19,960,543 BTC
+**Circulating Supply:** 19,960,621 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.4%
 
 **All-Time Low:** $67.81
-+133095.7%
++133107.5%
 
 ---
 
@@ -99,17 +99,17 @@ We back baby!
 
 ---
 
-**[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
-
-13h ago
-
----
-
 **[Is there any one as confused as I am after the fed cut](https://www.reddit.com/r/Bitcoin/comments/1pjm05j/is_there_any_one_as_confused_as_i_am_after_the/)**
 
 All precious metals are moving higher after yhe dovish fed move Why is bitcoin dropping? Is that a conflicting temporary move? Or is there anything else I am missing?
 
-8h ago
+9h ago
+
+---
+
+**[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
+
+13h ago
 
 ---
 
@@ -133,7 +133,7 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 Bottom tex
 
-20h ago
+21h ago
 
 ---
 
@@ -143,9 +143,11 @@ Bottom tex
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
+**[The 'grey crypto casino' model explained: Why it works for whales](https://www.reddit.com/r/Bitcoin/comments/1pjutwi/the_grey_crypto_casino_model_explained_why_it/)**
 
-17h ago
+Seeing a lot of confusion about grey market crypto casinos so let me break it down: Traditional casino model: Casino holds all funds in opaque accounts. You deposit, they promise to pay. If you win big, it's a direct hit to their operations. This is why they limit winners - your win threatens their business. Grey casino model (the good ones): Bankroll is separated from operations. Often backed by a larger liquidity pool shared across multiple operators. Your win is absorbed by the liquidity layer, not the casino's operating budget. Casin0x uses this model - they're built on something called the DeGaming platform which provides the liquidity backing. This is why they can offer no withdrawal limits and don't panic when you win. Key thing to verify: Can you see the bankroll? Is it on-chain?
+
+39m ago
 
 ---
 
@@ -155,7 +157,23 @@ Bottom tex
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
+
+---
+
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://finance.yahoo.com/video/bitcoin-dips-below-90-000-105614199.html)**
+
+<body><p>STORY: Bitcoin fell below $90,000 on Thursday (December 11) and dragged other cryptocurrencies down with it.</p><p>The fall followed fresh market worries about AI profits.</p><p>Risk appetite fell after U.S. cloud firm Oracle's profit and revenue outlook came in below forecasts the day before, and the firm said it expected higher spending.</p><p>Investors took that as a sign AI infrastructure outlays aren't turning profits as fast as they hoped.</p><p>Bitcoin did rise back just above the $90,000 mark by morning in Europe, but&nbsp;remained down around 2% on the day.&nbsp;</p><p>The moves undid two days of gains and showed further weakness that began in the U.S. trading session on Wednesday after the Federal Reserve cut interest rates.</p><p>Thursday's decline came days after Standard Chartered slashed its expectations for bitcoin.</p><p>The lender had projected the crypto token to hit $200,000 by the end of this year, but has now lowered its forecast to $100,000.</p></body>
+
+Yahoo Finance • 47m ago
+
+---
+
+**[Bitcoin drops below US$90,000 as AI worries sour risk appetite](https://www.scmp.com/tech/blockchain/article/3336042/bitcoin-drops-below-us90000-ai-worries-sour-risk-appetite)**
+
+The fall signals renewed market jitters after the historic crypto crash in October.
+
+South China Morning Post • 3h ago
 
 ---
 
@@ -167,19 +185,15 @@ cnbc.com • 12h ago
 
 ---
 
-**[XRP Price News: Bitcoin (BTC) Weakness Hits Ripple Even as ETF Flows Remain Strong](https://www.coindesk.com/markets/2025/12/11/xrp-slides-as-traders-take-bitcoin-profits-with-etf-flows-still-strong)**
+**[Coinbase and PNC Partner to Expand Direct Bitcoin Access for Clients](https://www.coinbase.com/blog/coinbase-and-pnc-partner-to-expand-direct-bitcoin-access-for-clients)**
 
-Institutional flows surged 54% above the weekly average, indicating strategic selling rather than retail panic.
-
-CoinDesk • 6h ago
+Coinbase • 1d ago
 
 ---
 
-**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
+**[PNC rolls out direct bitcoin trading for high-net-worth clients through Coinbase tie-up](https://www.theblock.co/post/381903/pnc-bitcoin-trading-high-net-worth-clients-coinbase-tie-up)**
 
-BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
-
-Bloomberg.com • 2d ago
+The Block • 1d ago
 
 ---
 
@@ -191,12 +205,6 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqegXcUW8HHkgQWepATkTSac2bbIHWZY6lvQfPX4a0Hzz7ZcVl3GliVD&gaa_ts=693aa73a&gaa_sig=bA1T0To61UEJHD_iVMJMrKWm8wGujPIVeicwwwoADsKtB0gZeH23b72CEGtO7HSjhSuvbUBZiEnjZfrVRr3ASQ%3D%3D)**
-
-Barron's • 21h ago
-
----
-
 **[Bitcoin price slides lower despite Fed interest rate cut](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-fed-interest-rate-cut-101325419.html)**
 
 The price of bitcoin and ether slipped lower on Thursday as Fed chair Jerome Powell signalled the central bank will proceed cautiously into 2026.
@@ -205,23 +213,17 @@ Yahoo Finance UK • 1h ago
 
 ---
 
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqf8QXoHWWCme-V-ONmVqrK_JlppSMVdEPPnBjb4avI6_U_ISuvkez-v&gaa_ts=693ab1d7&gaa_sig=QAZwKenBFHr-cQl9wutGaPrZEgJkSdt2ibYQpm23DByFEp66GVkxkMPuisy1M42hbJTn9yfLbpnLfL-JFg-XIQ%3D%3D)**
+
+Barron's • 21h ago
+
+---
+
 **[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
 BBC • 11h ago
-
----
-
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfdTEUdSS6laBijrmyfkicXmtd3j8UmYf_7-qx0axnpAG1i0CTs6Sw6&gaa_ts=693aa73a&gaa_sig=dGkMhSITLC-x1eKNIDZAvQJvDFUeVQsEABp_H4Ugw2CgM6gJD4vdNyRzXbKpwTGEpN8ThYmla4wkYElZ09O1Pw%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
-
-Investor's Business Daily • 23h ago
 
 ---
 

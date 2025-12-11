@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T11:27:19.309893+00:00'
+updated: '2025-12-11T11:43:46.778251+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 11:27 UTC  
+**Last Updated:** December 11, 2025 at 11:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -50,7 +50,15 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-6h ago
+7h ago
+
+---
+
+**[IR-Sim is, a Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning](https://www.reddit.com/r/robotics/comments/1pjumrm/irsim_is_a_pythonbased_lightweight_robot/)**
+
+From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
+
+52m ago
 
 ---
 
@@ -84,39 +92,25 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 ---
 
-**[If you're learning RL and robotics, I wrote a tutorial about Discount Factor (gamma) Explained With Q-Learning + CartPole](https://www.reddit.com/r/robotics/comments/1pjrp3n/if_youre_learning_rl_and_robotics_i_wrote_a/)**
-
-In this tutorial you will learn: how γ affects convergence and stability in Q-Learning, how to choose the right value for your own RL environment, and what happens when γ exceeds the recommended limits (for example, γ > 1.0) and why the algorithm crashes. Link: Discount Factor (gamma) Explained With Q-Learning + CartPole
-
-3h ago
-
----
-
-**[IR-Sim is, a Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning](https://www.reddit.com/r/robotics/comments/1pjumrm/irsim_is_a_pythonbased_lightweight_robot/)**
-
-From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
-
-35m ago
-
----
-
 **[Hyundai MobED](https://www.reddit.com/r/robotics/comments/1pjuhk2/hyundai_mobed/)**
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 44m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 1h ago
+
+---
+
+**[If you're learning RL and robotics, I wrote a tutorial about Discount Factor (gamma) Explained With Q-Learning + CartPole](https://www.reddit.com/r/robotics/comments/1pjrp3n/if_youre_learning_rl_and_robotics_i_wrote_a/)**
+
+In this tutorial you will learn: how γ affects convergence and stability in Q-Learning, how to choose the right value for your own RL environment, and what happens when γ exceeds the recommended limits (for example, γ > 1.0) and why the algorithm crashes. Link: Discount Factor (gamma) Explained With Q-Learning + CartPole
+
+4h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Analysts Warn of Cybersecurity Risks in Humanoid Robots](https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots)**
-
-Dark Reading • 1d ago
-
----
 
 **[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
 
@@ -134,11 +128,27 @@ Interesting Engineering • 22h ago
 
 ---
 
+**[Digit humanoid joins Mercado Libre warehouse](https://www.therobotreport.com/agility-mercado-libre-embargoed/)**
+
+Partnership will integrate Digit robots into fulfillment operations beginning in Texas, with future expansion capabilities for Latin America.
+
+The Robot Report • 22h ago
+
+---
+
 **[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
 
 The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
 MLive.com • 1d ago
+
+---
+
+**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
+
+$32 million investment will created 230 new jobs.
+
+WHMI • 19h ago
 
 ---
 
@@ -162,14 +172,6 @@ Chron • 18h ago
 
 ---
 
-**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
-
-$32 million investment will created 230 new jobs.
-
-WHMI • 19h ago
-
----
-
 **[Vine-inspired robotic gripper gently lifts heavy and fragile objects](https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210)**
 
 Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
@@ -178,11 +180,11 @@ MIT News • 16h ago
 
 ---
 
-**[CEO of Chinese robotics company posts video of himself getting kicked by his robot in effort to combat skeptics](https://www.businessinsider.com/engineai-ceo-robot-kick-video-2025-12)**
+**[Soft robots can now see with a self-focusing squishy eye](https://newatlas.com/robotics/physl-light-activated-soft-robotic-eye/)**
 
-EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
+Analog cameras are nowhere near as efficient as biological eyes. If you’ve ever handled a single-lens reflex (SLR) camera, especially if it had a zoom lens attached, you know how heavy they are, and how tricky and time-consuming adjusting their focus can be.
 
-Business Insider • 17h ago
+New Atlas • 16h ago
 
 ---
 

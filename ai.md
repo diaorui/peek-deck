@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T11:27:19.291037+00:00'
+updated: '2025-12-11T11:43:46.753266+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 11:27 UTC  
+**Last Updated:** December 11, 2025 at 11:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,6 +53,14 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 ---
 
+**[OpenAI Is in Trouble](https://www.reddit.com/r/artificial/comments/1pjrq4n/openai_is_in_trouble/)**
+
+“Holy shit,” he wrote on X. “I’ve used ChatGPT every day for 3 years. Just spent 2 hours on Gemini 3. I’m not going back. The leap is insane.”
+
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 4h ago
+
+---
+
 **[What AI hallucination actually is, why it happens, and what we can realistically do about it](https://www.reddit.com/r/artificial/comments/1pjgh5w/what_ai_hallucination_actually_is_why_it_happens/)**
 
 A lot of people use the term “AI hallucination,” but many don’t clearly understand what it actually means. In simple terms, AI hallucination is when a model produces information that sounds confident and well-structured, but is actually incorrect, fabricated, or impossible to verify. This includes things like made-up academic papers, fake book references, invented historical facts, or technical explanations that look right on the surface but fall apart under real checking. The real danger is not that it gets things wrong — it’s that it often gets them wrong in a way that sounds extremely convincing. Most people assume hallucination is just a bug that engineers haven’t fully fixed yet. In reality, it’s a natural side effect of how large language models work at a fundamental level. These systems don’t decide what is true. They predict what is most statistically likely to come next in a sequence of words. When the underlying information is missing, weak, or ambiguous, the model doesn’t stop — it completes the pattern anyway. That’s why hallucination often appears when context is vague, when questions demand certainty, or when the model is pushed to answer things beyond what its training data can reliably support. Interestingly, hallucination feels “human-like” for a reason. Humans also guess when they’re unsure, fill memory gaps with reconstructed stories, and sometimes speak confidently even when they’re wrong. In that sense, hallucination is not machine madness — it’s a very human-shaped failure mode expressed through probabilistic language generation. The model is doing exactly what it was trained to do: keep the sentence going in the most plausible way. There is no single trick that completely eliminates hallucination today, but there are practical ways to reduce it. Strong, precise context helps a lot. Explicitly allowing the model to express uncertainty also helps, because hallucination often worsens when the prompt demands absolute certainty. Forcing source grounding — asking the model to rely only on verifiable public information and to say when that’s not possible — reduces confident fabrication. Breaking complex questions into smaller steps is another underrated method, since hallucination tends to grow when everything is pushed into a single long, one-shot answer. And when accuracy really matters, cross-checking across different models or re-asking the same question in different forms often exposes structural inconsistencies that signal hallucination. The hard truth is that hallucination can be reduced, but it cannot be fully eliminated with today’s probabilistic generation models. It’s not just an accidental mistake — it’s a structural byproduct of how these systems generate language. No matter how good alignment and safety layers become, there will always be edge cases where the model fills a gap instead of stopping. This quietly creates a responsibility shift that many people underestimate. In the traditional world, humans handled judgment and machines handled execution. In the AI era, machines handle generation, but humans still have to handle judgment. If people fully outsource judgment to AI, hallucination feels like deception. If people keep judgment in the loop, hallucination becomes manageable noise instead of a catastrophic failure. If you’ve personally run into a strange or dangerous hallucination, I’d be curious to hear what it was — and whether you realized it immediately, or only after checking later.
@@ -61,17 +69,17 @@ A lot of people use the term “AI hallucination,” but many don’t clearly un
 
 ---
 
-**[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
+**[Forensic artist shows what JFK would have looked like at 108 years old](https://www.reddit.com/r/artificial/comments/1pjurej/forensic_artist_shows_what_jfk_would_have_looked/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 18h ago
+Forensic artist Marcel van Adrichem has created a stunning facial reconstruction of this US leader at 108 years old, using cutting-edge technology
+
+🔗 [The Mirror US](https://www.themirror.com/news/us-news/jfk-face-if-he-lived-1555445) • 43m ago
 
 ---
 
-**[OpenAI Is in Trouble](https://www.reddit.com/r/artificial/comments/1pjrq4n/openai_is_in_trouble/)**
+**[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-“Holy shit,” he wrote on X. “I’ve used ChatGPT every day for 3 years. Just spent 2 hours on Gemini 3. I’m not going back. The leap is insane.”
-
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 3h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 18h ago
 
 ---
 
@@ -103,15 +111,7 @@ This document proposes a graduated, evidence-based approach for ethical obligati
 
 I’ve spent the last year really putting AI to work, writing content, handling client projects, digging into research, automating stuff, and even building my own custom GPTs. After hundreds of hours messing around, I picked up a few lessons I wish someone had just told me from the start. No hype here, just honest things that actually made my results better: 1. Stop asking AI “What should I do?”, ask “What options do I have?” AI’s not great at picking the perfect answer right away. But it shines when you use it to brainstorm possibilities. So, instead of: “What’s the best way to improve my landing page?” Say: “Give me 5 different ways to improve my landing page, each based on a different principle (UX, clarity, psychology, trust, layout). Rank them by impact.” You’ll get way better results. 2. Don’t skip the “requirements stage.” Most of the time, AI fails because people jump straight to the end. Slow down. Ask the model to question you first. Try this: “Before creating anything, ask me 5 clarification questions to make sure you get it right.” Just this step alone cuts out most of the junky outputs, way more than any fancy prompt trick. 3. Tell AI it’s okay to be wrong at first. AI actually does better when you take the pressure off early on. Say something like: “Give me a rough draft first. I’ll go over it with you.” That rough draft, then refining together, then finishing up, that’s how the actually get good outputs. 4. If things feel off, don’t bother fixing, just restart the thread. People waste so much time trying to patch up a weird conversation. If the model starts drifting in tone, logic, or style, the fastest fix is just to start fresh: “New conversation: You are [role]. Your goal is [objective]. Start from scratch.” AI memory in a thread gets messy fast. A reset clears up almost all the weirdness. 5. Always run 2 outputs and then merge them. One output? Total crapshoot. Two outputs? Much more consistent. Tell the AI: “Give me 2 versions with different angles. I’ll pick the best parts.” Then follow up with: “Merge both into one polished version.” You get way better quality with hardly any extra effort. 6. Stop using one giant prompt, start building mini workflows. Beginners try to do everything in one big prompt. The experts break it into 3–5 bite-size steps. Here’s a simple structure: - Ask questions - Generate options - Pick a direction - Draft it - Polish Just switching to this approach will make everything you do with AI better. If you want more tips, just let me know and i'll send you a document with more of them.
 
-19h ago
-
----
-
-**[LLMs can understand Base64 encoded instructions](https://www.reddit.com/r/artificial/comments/1pioxt4/llms_can_understand_base64_encoded_instructions/)**
-
-Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
-
-1d ago
+20h ago
 
 ---
 
@@ -119,33 +119,11 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 ## Google News: "ai"
 
-**[EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o)**
-
-It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
-
-BBC • 1d ago
-
----
-
-**[OpenAI Is in Trouble](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/)**
-
-The start-up is falling behind in the AI race.
-
-The Atlantic • 1d ago
-
----
-
-**[Gemini deals ChatGPT a fresh blow as Google’s AI momentum builds](https://www.marketwatch.com/story/googles-ai-momentum-continues-as-gemini-scores-another-victory-over-chatgpt-16946689?gaa_at=eafs&gaa_n=AWEtsqdrbpbzjOowg954T5Uj7Kl0U5YoYLXj-ljfuDM87LgD6Y_lXA0-JWi_&gaa_ts=693aa739&gaa_sig=0IUBVW3GSSs_9ToukFGNj4Q1xI0GmU-o2TvNw9LjNP1xT2F1n_wTQ_F3yZsy7VNHHHc1DspB-UCXY1vH-bSkyA%3D%3D)**
-
-MarketWatch • 16h ago
-
----
-
 **[‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash](https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash)**
 
 Commercial in Netherlands depicting festival-season chaos at ‘most terrible time of year’ prompted flurry of criticism online
 
-The Guardian • 9h ago
+The Guardian • 1h ago
 
 ---
 
@@ -173,11 +151,31 @@ BBC • 10h ago
 
 ---
 
+**[AI divides Pennsylvania as fears grow over job loss](https://www.axios.com/local/pittsburgh/2025/12/11/ai-economy-data-centers-pennsylvania-poll)**
+
+Axios • 20m ago
+
+---
+
+**[From Garlic to Avocado: the Goofy AI Model Codenames You Should Know](https://www.businessinsider.com/ai-models-codenames-meta-avocado-openai-garlic-strawberry-2025-12)**
+
+Leading tech and AI companies are thinking with their stomachs when it comes to naming their secretive AI advancements.
+
+Business Insider • 46m ago
+
+---
+
+**[Watch Square, AWS, Salesforce & Workday on AI for Business](https://www.bloomberg.com/news/videos/2025-12-11/square-aws-salesforce-workday-on-ai-for-business-video)**
+
+Bloomberg.com • 56m ago
+
+---
+
 **[Oracle shares plummet 11% in premarket, dragging down AI stocks](https://www.cnbc.com/2025/12/11/oracle-shares-plummet-dragging-down-ai-stocks-nvidia-coreweave.html)**
 
 Shares in Nvidia, Micron and Microsoft were also lower in premarket trade on Thursday.
 
-cnbc.com • 1h ago
+cnbc.com • 2h ago
 
 ---
 
@@ -185,15 +183,15 @@ cnbc.com • 1h ago
 
 Fiscal second-quarter cloud sales increased 34% to $7.98 billion, while revenue in the company’s closely watched infrastructure business gained 68% to $4.08 billion.  Known for its database software, Oracle has recently found success in the competitive cloud computing market.  It’s engaging in a massive data center build-out to power AI work for OpenAI and also counts companies such as ByteDance Ltd.’s TikTok and Meta Platforms Inc. as major cloud customers.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Disappointing Oracle results knock $70bn off value amid AI bubble fears](https://www.theguardian.com/business/2025/dec/11/disappointing-oracle-results-knock-70bn-off-value-amid-ai-bubble-fears)**
+**[Oracle shares slide as earnings fail to ease AI bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o)**
 
-Weaker-than-forecast quarterly data for Larry Ellison’s tech company shows slowdown in revenue growth but big rise in spending
+The cloud computing giant's revenue miss renews questions about its financial health.
 
-The Guardian • 1h ago
+BBC • 4h ago
 
 ---
 
@@ -205,7 +203,7 @@ The Guardian • 1h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 572 • 💬 617 • 2d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 572 • 💬 620 • 2d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -213,7 +211,7 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 419 • 💬 370 • 2d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 420 • 💬 370 • 2d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -229,7 +227,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 308 • 💬 291 • 18h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 308 • 💬 293 • 19h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -237,7 +235,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 285 • 💬 130 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 286 • 💬 130 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -259,7 +257,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 125 • 💬 24 • 1d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 126 • 💬 26 • 1d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -267,7 +265,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 110 • 💬 149 • 22h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 110 • 💬 152 • 22h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -289,7 +287,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 43K • 👍 2K • 💬 323 • ⏱️ 14:55 • 17h ago
+👁️ 43K • 👍 2K • 💬 323 • ⏱️ 14:55 • 18h ago
 
 ---
 
@@ -395,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 695 • 2d ago
+⬇️ 80,162 • ❤️ 697 • 2d ago
 
 ---
 
@@ -407,7 +405,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,520 • 2d ago
+⬇️ 245,041 • ❤️ 2,522 • 2d ago
 
 ---
 
@@ -419,7 +417,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 18,587 • ❤️ 328 • 1d ago
+⬇️ 18,587 • ❤️ 330 • 1d ago
 
 ---
 
@@ -443,7 +441,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 247 • 18h ago
+⬇️ 7,222 • ❤️ 247 • 19h ago
 
 ---
 
@@ -455,7 +453,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 445,464 • ❤️ 198 • 2d ago
+⬇️ 445,464 • ❤️ 199 • 2d ago
 
 ---
 
@@ -467,7 +465,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 45,425 • ❤️ 876 • 10d ago
+⬇️ 45,425 • ❤️ 877 • 10d ago
 
 ---
 
@@ -479,7 +477,7 @@ LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusi
 
 `text-to-image`
 
-⬇️ 583 • ❤️ 177 • 2d ago
+⬇️ 583 • ❤️ 178 • 2d ago
 
 ---
 
@@ -655,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 7.5k • 🔱 1.3k • 30m ago
+⭐ 7.5k • 🔱 1.3k • 46m ago
 
 ---
 

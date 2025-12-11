@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T11:27:19.306486+00:00'
+updated: '2025-12-11T11:43:46.775053+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 11:27 UTC  
+**Last Updated:** December 11, 2025 at 11:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** +6.0%  
-**30d:** -6.2%  
-**90d:** -31.1%  
-**1y:** -17.6%  
+**24h:** -3.4%  
+**7d:** +5.8%  
+**30d:** -6.3%  
+**90d:** -31.2%  
+**1y:** -17.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $385.83B
+**Market Cap:** $386.04B
 Rank #2
 
 **Circulating Supply:** 120,695,176 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.4%
+-35.3%
 
 **All-Time Low:** $0.43
-+738199.1%
++738504.0%
 
 ---
 
@@ -164,7 +164,13 @@ Decrypt • 16h ago
 
 BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
+
+---
+
+**[October 10 Crash Whale Adds $100M+ in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-adds-100m-in-ethereum-longs-can-eth-hit-5000-by-2026/)**
+
+CCN.com • 1h ago
 
 ---
 
@@ -192,25 +198,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum ETFs Hit Six-Week High as Investors Rotate Within Crypto](https://decrypt.co/351800/ethereum-etfs-hit-six-week-high-as-investors-rotate-within-crypto)**
+**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
-
-Decrypt • 21h ago
-
----
-
-**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
-
-The Block • 2d ago
-
----
-
-**[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
-
-The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
-
-CoinDesk • 2d ago
+The Block • 2h ago
 
 ---
 
@@ -222,11 +212,15 @@ TradingView • 9h ago
 
 ---
 
-**[Bitcoin OG expands Ethereum long position to $392.5M on Hyperliquid](https://cryptobriefing.com/ethereum-long-position-hyperliquid/)**
+**[The Daily: Robinhood's expansion plans, BlackRock's staked Ethereum ETF filing, Strategy's biggest Bitcoin buy since July, and more](https://www.theblock.co/post/381770/the-daily-robinhoods-expansion-plans-blackrocks-staked-ethereum-etf-filing-strategys-biggest-bitcoin-buy-since-july-and-more)**
 
-A Bitcoin OG has expanded their Ethereum long position to $392.5M on Hyperliquid, with liquidation set at $2,234 per ETH.
+The Block • 2d ago
 
-Crypto Briefing • 10h ago
+---
+
+**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
+
+The Block • 2d ago
 
 ---
 
@@ -250,7 +244,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 14K • 👍 549 • 💬 65 • ⏱️ 1:10:46 • 18h ago
+👁️ 14K • 👍 549 • 💬 65 • ⏱️ 1:10:46 • 19h ago
 
 ---
 
@@ -330,7 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 241 • 💬 9 • ⏱️ 6:52 • 18h ago
+👁️ 4K • 👍 241 • 💬 9 • ⏱️ 6:52 • 19h ago
 
 ---
 
