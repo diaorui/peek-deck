@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T04:24:00.665934+00:00'
+updated: '2025-12-11T04:53:49.410240+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 04:24 UTC  
+**Last Updated:** December 11, 2025 at 04:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-17h ago
+18h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -150,7 +150,7 @@ Decrypt • 2d ago
 
 EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
@@ -270,7 +270,7 @@ At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the 
 
 📺 AI Robot Lab
 
-👁️ 211K • 👍 570 • 💬 20 • ⏱️ 0:20 • 14h ago
+👁️ 211K • 👍 570 • 💬 20 • ⏱️ 0:20 • 15h ago
 
 ---
 

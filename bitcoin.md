@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T04:24:00.656590+00:00'
+updated: '2025-12-11T04:53:49.400942+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 04:24 UTC  
+**Last Updated:** December 11, 2025 at 04:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,819.33
+### $90,189.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** +1.1%  
-**30d:** -11.5%  
-**90d:** -22.3%  
-**1y:** -9.8%  
+**24h:** -2.6%  
+**7d:** +1.3%  
+**30d:** -11.3%  
+**90d:** -22.1%  
+**1y:** -9.7%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 We back baby!
 
-6h ago
+7h ago
 
 ---
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 Bottom tex
 
-13h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bottom tex
 
 **[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-57m ago
+1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bottom tex
 
 All precious metals are moving higher after yhe dovish fed move Why is bitcoin dropping? Is that a conflicting temporary move? Or is there anything else I am missing?
 
-1h ago
+2h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 1d ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -207,7 +207,7 @@ NPR • 20h ago
 
 The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -221,7 +221,7 @@ WIRED • 1d ago
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 17h ago
 
 ---
 
@@ -269,7 +269,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 16h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 17h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -283,7 +283,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 4h ago
+⬆️ 2 • 💬 0 • 5h ago
 
 ---
 
@@ -327,7 +327,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 580 • 💬 108 • ⏱️ 8:34 • 7h ago
+👁️ 13K • 👍 580 • 💬 108 • ⏱️ 8:34 • 8h ago
 
 ---
 
@@ -357,7 +357,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 14K • 👍 738 • 💬 169 • ⏱️ 5:12 • 7h ago
+👁️ 14K • 👍 738 • 💬 169 • ⏱️ 5:12 • 8h ago
 
 ---
 
@@ -387,7 +387,7 @@ In this clip, I discuss the bottom signals that point towards a bitcoin reversal
 
 📺 CryptosRus Extra
 
-👁️ 2K • 👍 159 • 💬 139 • ⏱️ 9:23 • 3h ago
+👁️ 2K • 👍 159 • 💬 139 • ⏱️ 9:23 • 4h ago
 
 ---
 
