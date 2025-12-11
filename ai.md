@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T18:41:05.977682+00:00'
+updated: '2025-12-11T19:00:56.651184+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 18:41 UTC  
+**Last Updated:** December 11, 2025 at 19:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ A new survey finds corporations and investors are overwhelmingly optimistic abou
 
 Context: This ""parenting"" AI app called NurtureOS turned out to be satire made by an AI company. (I don't get the logic either, but that's not what I'm concerned about.) My gripe: Someone's going to try sell something like this for real sooner or later, and I can’t stop thinking about the long-term effects it could have on people and society as a whole. Where are we heading with AI in our homes? And especially when kids are involved? The idea behind the app (you can see the features on the site) implied a future where parents could offload actual emotional labour completely. Suppose for an instant that an AI can sooth tantrums, resolve petty fights, teach social skills, and even be tweaked to mold your child's behaviour in specific ways. First of all, is it unethical to use AI to condition your kids? We do it anyway when we teach them certain things are right or wrong, or launch them into specific social constructs. What makes it different when AI's the one doing it? Secondly, there's the emotional intelligence part. Kids learn empathy, boundaries, and emotional resilience through their interactions with other humans. If an AI took deciding how to handle a fight between siblings or how to discipline a child, what happens to the child’s understanding of relationships? Would they start responding to other humans with the expectation that some third party (electronic or otherwise) will always step in to facilitate or mediate? Would they have less room to make mistakes, experiment socially, or negotiate boundaries? Would they even have the skillset to do it with? Thirdly, there’s the impact on parents. If you rely on an app to make the “right” choices for your kid, does that slowly chip away at your confidence? Do you start assuming the AI knows better than your own judgement? Parenting is already full of anxiety. Imagine adding a third party that's constantly between you and your spouse telling you their concept of “ideal behavior”. Just you and you and your friend SteveAI. Finally, the privacy angle is huge. A real version of this app would basically normalise 24/7 emotional surveillance in the home. It would be recording behaviour, conversations, moods, and interactions, and feeding it all to company servers somewhere that you never get to see. They'd have your data forever. Just think about all the crap Meta got up to with the data we fecklessly gave it in our teenage Facebook days. This would be SO much worse than that. This app may have been fake, but the next one may not be, and it exposed a real cultural pressure point. Right now, we keep inviting AI deeper into our lives for convenience. At what point does that start reshaping childhood, parenthood, and just society as a whole in ways we don’t fully understand? Is delegating emotional or developmental tasks to AI inherently dangerous? Or is there a world where it can support parents without replacing them and putting us all at risk?
 
-57m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ The Architects of AI drove the economy, shaped geopolitics, and changed the way 
 
 When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
 
-🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 4m ago
+🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 24m ago
 
 ---
 
@@ -125,7 +125,7 @@ When my company pivoted to AI in 2023, I lost my job. As I struggle to find a ne
 
 The new model will be available starting Thursday within OpenAI's ChatGPT chatbot and its API.
 
-cnbc.com • 40m ago
+cnbc.com • 1h ago
 
 ---
 
@@ -133,7 +133,7 @@ cnbc.com • 40m ago
 
 TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
 
-Time Magazine • 5h ago
+Time Magazine • 6h ago
 
 ---
 
@@ -141,7 +141,7 @@ Time Magazine • 5h ago
 
 The “Architects of AI” were named Time magazine’s person of the year for 2025. The magazine on Thursday cited 2025 as the year when the potential of artificial intelligence “roared into view” with no turning back.
 
-AP News • 47m ago
+AP News • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ AP News • 47m ago
 
 Time magazine named "the architects of AI" its 2025 Person of the Year on Thursday, calling out tech industry leaders behind the rise in artificial intelligence.
 
-CBS News • 19m ago
+CBS News • 39m ago
 
 ---
 
@@ -157,7 +157,7 @@ CBS News • 19m ago
 
 New York Gov. Kathy Hochul on Thursday signed the nation's first AI bill designed to both protect consumers and increase transparency in the film industry.
 
-Deadline • 16m ago
+Deadline • 35m ago
 
 ---
 
@@ -165,7 +165,7 @@ Deadline • 16m ago
 
 McDonald's confirmed to Fox News Digital that it removed its artificial intelligence-generated Christmas advertisement from YouTube after viewer backlash.
 
-Fox Business • 18h ago
+Fox Business • 19h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Guardian • 5h ago
 
 **[Matt Walsh rips McDonalds ‘AI’ ad: ‘awful’ | RISING](https://thehill.com/video/matt-walsh-rips-mcdonalds-ai-ad-awful-rising/11341261/)**
 
-thehill.com • 32m ago
+thehill.com • 51m ago
 
 ---
 
@@ -287,13 +287,23 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 ## YouTube Videos: "ai"
 
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=WbZ1pfinVTs)**
+
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+
+📺 Impossible AIs
+
+👁️ 82K • 👍 329 • 💬 15 • ⏱️ 8:01 • 1d ago
+
+---
+
 **[What Ilya Saw: The Truth That Could Change Everything About AI’s Future](https://www.youtube.com/watch?v=AGddzUqJT7g)**
 
 JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
 
 📺 Julia McCoy
 
-👁️ 45K • 👍 2K • 💬 348 • ⏱️ 14:55 • 1d ago
+👁️ 46K • 👍 2K • 💬 353 • ⏱️ 14:55 • 1d ago
 
 ---
 
@@ -303,37 +313,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 32K • 👍 276 • 💬 188 • ⏱️ 2:58 • 19h ago
-
----
-
-**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
-
-Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
-
-📺 AI Revolution
-
-👁️ 40K • 👍 2K • 💬 69 • ⏱️ 12:50 • 1d ago
-
----
-
-**[Elon Musk on DOGE, AI, &amp; Are we in a Simulation? | KMP Ep.18](https://www.youtube.com/watch?v=bz5Hjk40FD4)**
-
-In this episode, I sit down with @elonmusk for a wide-ranging conversation on DOGE, AI, simulation theory, and much more.
-
-📺 Katie Miller Pod
-
-👁️ 341K • 👍 14K • 💬 3K • ⏱️ 52:58 • 1d ago
-
----
-
-**[Why is Everyone So Wrong About AI Water Use??](https://www.youtube.com/watch?v=H_c6MWk7PQc)**
-
-Go to https://ground.news/hank for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
-
-📺 Hank Green
-
-👁️ 1.7M • 👍 83K • 💬 9K • ⏱️ 24:00 • 2d ago
+👁️ 38K • 👍 302 • 💬 210 • ⏱️ 2:58 • 19h ago
 
 ---
 
@@ -343,17 +323,27 @@ From emails to social media to online shopping, banking and chatting — everyth
 
 📺 TODAY
 
-👁️ 10K • 👍 59 • 💬 13 • ⏱️ 3:20 • 1d ago
+👁️ 11K • 👍 60 • 💬 15 • ⏱️ 3:20 • 1d ago
 
 ---
 
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=WbZ1pfinVTs)**
+**[Breaking: Disney Goes ALL-IN on AI! Hands IP to Sora &amp; Chat GPT for Disney Plus! Box Office WOES!](https://www.youtube.com/watch?v=Io4tQjJpwwM)**
 
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+Breaking: Disney Goes ALL-IN on AI! Hands IP to Sora & Chat GPT for Disney Plus! Box Office WOES! #disney #ai ...
 
-📺 Impossible AIs
+📺 WDW Pro
 
-👁️ 73K • 👍 302 • 💬 15 • ⏱️ 8:01 • 1d ago
+👁️ 2K • 👍 285 • 14h ago
+
+---
+
+**[Google’s Titans Just Solved AI’s Biggest Weakness, But...](https://www.youtube.com/watch?v=GGdjty9pAtg)**
+
+Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS introduce a new long-term memory system that ...
+
+📺 AI Revolution
+
+👁️ 39K • 👍 1K • 💬 72 • ⏱️ 13:12 • 2d ago
 
 ---
 
@@ -363,27 +353,37 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.0M • 👍 51K • 💬 5K • ⏱️ 8:35 • 1d ago
+👁️ 1.1M • 👍 52K • 💬 5K • ⏱️ 8:35 • 1d ago
 
 ---
 
-**[AI Dress in REAL LIFE](https://www.youtube.com/watch?v=zreiL7w329o)**
+**[AI News: GPT-5.2, Devstral 2, Boom Superpower, MCP Nonprofit and more!](https://www.youtube.com/watch?v=GMQ58GUpcD0)**
 
-I Paid a dress maker to make an AI dress in real life! OTHER VIDEOS u might like: ✨ Temu, Amazon & Etsy Product ...
+Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia Download The Subtle ...
 
-📺 Mia Maples
+📺 Matthew Berman
 
-👁️ 107K • 👍 4K • 💬 80 • ⏱️ 0:36 • 2d ago
+👁️ 61K • 👍 2K • 💬 229 • ⏱️ 9:41 • 1d ago
 
 ---
 
-**[Andrew Ross Sorkin On Affordability, What Happens If The AI Bubble Bursts, And Paramount vs. Netflix](https://www.youtube.com/watch?v=i8xmTFz8Z6k)**
+**[Which stairs would you take? Oddly Satisfying AI ASMR Pt.8😌🎧](https://www.youtube.com/watch?v=i8uBKUA3tVo)**
 
-Best-selling author and co-anchor of CNBC's "Squawk Box," Andrew Ross Sorkin comments on the battle over Warner Bros., the ...
+Join Impossible AIs and unlock exclusive perks! ✨ https://www.youtube.com/@ImpossibleAIs-c9z/videos Ascend into tranquility ...
 
-📺 The Late Show with Stephen Colbert
+📺 Impossible AIs
 
-👁️ 147K • 👍 3K • 💬 355 • ⏱️ 9:06 • 1d ago
+👁️ 72K • 👍 286 • 💬 11 • ⏱️ 12:21 • 2d ago
+
+---
+
+**[Why is Everyone So Wrong About AI Water Use??](https://www.youtube.com/watch?v=H_c6MWk7PQc)**
+
+Go to https://ground.news/hank for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
+
+📺 Hank Green
+
+👁️ 1.7M • 👍 84K • 💬 9K • ⏱️ 24:00 • 2d ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.0k • 🔱 225 • 1h ago
+⭐ 2.0k • 🔱 225 • 2h ago
 
 ---
 
@@ -729,7 +729,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 873 • 🔱 22 • 3d ago
+⭐ 873 • 🔱 22 • 4d ago
 
 ---
 

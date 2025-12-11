@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T18:41:05.986107+00:00'
+updated: '2025-12-11T19:00:56.659603+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 18:41 UTC  
+**Last Updated:** December 11, 2025 at 19:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,349.30
+### $90,557.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** +1.7%  
-**30d:** -11.0%  
-**90d:** -21.9%  
-**1y:** -9.4%  
+**24h:** -2.1%  
+**7d:** +1.8%  
+**30d:** -10.8%  
+**90d:** -21.8%  
+**1y:** -9.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[I can’t wait to be rich guys](https://www.reddit.com/r/Bitcoin/comments/1pk4b3i/i_cant_wait_to_be_rich_guys/)**
 
-38m ago
+58m ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-15h ago
+16h ago
 
 ---
 
@@ -135,7 +135,7 @@ Iooking at the the last 4 FOMC meetings and we see this on the chart: June 18 ->
 
 We back baby!
 
-20h ago
+21h ago
 
 ---
 
@@ -161,7 +161,7 @@ BBC • 18h ago
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -215,7 +215,7 @@ Yahoo Finance • 1d ago
 
 A report found that most Bitcoin-stacking firms sit on unrealized losses, with a handful selling the asset as its price fell last month.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -223,7 +223,7 @@ Decrypt • 2h ago
 
 Its presales have been gaining attention among the crypto community, since the token claims to promise quicker, cheaper Bitcoin transactions.
 
-New York Post • 8h ago
+New York Post • 9h ago
 
 ---
 
@@ -305,7 +305,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 47K • 👍 2K • 💬 582 • ⏱️ 8:26 • 17h ago
+👁️ 48K • 👍 2K • 💬 592 • ⏱️ 8:26 • 18h ago
 
 ---
 
@@ -315,7 +315,27 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 7K • 👍 469 • 💬 25 • ⏱️ 11:29 • 6h ago
+👁️ 10K • 👍 553 • 💬 30 • ⏱️ 11:29 • 6h ago
+
+---
+
+**[Banks Are BENDING THE KNEE to Bitcoin... But There&#39;s a Catch (OCC Greenlight&#39;s Crypto Deals!)](https://www.youtube.com/watch?v=8U3dwE8Iz64)**
+
+The U.S. just gave banks the green light to dive into Bitcoin—no custody needed. From OCC approval to PNC offering real BTC to ...
+
+📺 Simply Bitcoin
+
+👁️ 9K • 👍 838 • 💬 95 • ⏱️ 15:31 • 5h ago
+
+---
+
+**[Bitcoin DUMPS As Fed Rate Cut Threatens Crypto Rally!](https://www.youtube.com/watch?v=vYI1COYtJU4)**
+
+Bitcoin #Crypto #Finance Guests Markus Thielen - https://youtube.com/live/vYI1COYtJU4 If you want to see how people are ...
+
+📺 The Wolf Of All Streets
+
+👁️ 11K • 👍 649 • 💬 246 • ⏱️ 35:32 • 4h ago
 
 ---
 
@@ -325,7 +345,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 332 • ⏱️ 10:23 • 16h ago
+👁️ 48K • 👍 3K • 💬 335 • ⏱️ 10:23 • 16h ago
 
 ---
 
@@ -335,7 +355,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 96K • 👍 5K • 💬 438 • ⏱️ 21:05 • 19h ago
+👁️ 102K • 👍 5K • 💬 381 • ⏱️ 21:05 • 20h ago
 
 ---
 
@@ -345,7 +365,17 @@ Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled t
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 194 • ⏱️ 16:48 • 18h ago
+👁️ 31K • 👍 2K • 💬 211 • ⏱️ 16:48 • 18h ago
+
+---
+
+**[&quot;HUGE! Jerome Powell Literally Just Changed EVERYTHING&quot; - Tom Lee Bitcoin](https://www.youtube.com/watch?v=hbuVFV5dyVY)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 10K • 👍 295 • 💬 186 • ⏱️ 15:40 • 13h ago
 
 ---
 
@@ -355,45 +385,17 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 875 • 💬 33 • ⏱️ 32:26 • 20h ago
+👁️ 27K • 👍 906 • 💬 33 • ⏱️ 32:26 • 21h ago
 
 ---
 
-**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
+**[5 Bitcoin for WHAT?!😨🤯](https://www.youtube.com/watch?v=QxYP-j8DAPs)**
 
-📺 Matt & Justus
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
 
-👁️ 2.7M • 👍 144K • 💬 354 • ⏱️ 1:00 • 3d ago
+📺 Crypto Cam
 
----
-
-**[The INEVITABLE Bitcoin Catch Up Trade Started Yesterday! [You Have 24H]](https://www.youtube.com/watch?v=65KgU0oEeOg)**
-
-The biggest crypto catch-up trade has begun, and Ran explains what's driving it. Bitcoin is breaking out, but key signals suggest ...
-
-📺 Crypto Banter
-
-👁️ 29K • 👍 2K • 💬 42 • ⏱️ 29:14 • 1d ago
-
----
-
-**[MSTR, Bitcoin Treasuries &amp; The Shakeout | Jeff Walton](https://www.youtube.com/watch?v=AYVo5ajtq7M)**
-
-Jeff Walton joins the show for a deep dive into the state of Bitcoin treasury companies, the rise of digital credit, and why we may be ...
-
-📺 What Bitcoin Did
-
-👁️ 10K • 👍 451 • 💬 83 • ⏱️ 48:22 • 23h ago
-
----
-
-**[the bitcoin B**G is actually confirmed.... the Federal Reserve is ******](https://www.youtube.com/watch?v=OThYSHZpajc)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 18K • 👍 872 • 💬 188 • ⏱️ 5:12 • 21h ago
+👁️ 14K • 👍 405 • 💬 46 • ⏱️ 0:27 • 18h ago
 
 ---
 

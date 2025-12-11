@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T18:41:05.995462+00:00'
+updated: '2025-12-11T19:00:56.668801+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 18:41 UTC  
+**Last Updated:** December 11, 2025 at 19:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-7h ago
+8h ago
 
 ---
 
@@ -72,7 +72,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into threejs - Run MuJoCo physics (decoupled from renderer) What do you think about this?!?
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into thre
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 8h ago
 
 ---
 
@@ -96,7 +96,7 @@ The strongest counter against robot legs that I've seen. Sure, I have yet to see
 
 Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
 
-9h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Here are the top developments today for those following the industry: 1. Agility
 
 https://youtu.be/7YZupSKnvC8
 
-3h ago
+4h ago
 
 ---
 
@@ -198,17 +198,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 72K • 👍 2K • 💬 470 • ⏱️ 14:26 • 2d ago
-
----
-
-**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
-
-Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
-
-📺 TheAIGRID
-
-👁️ 16K • 👍 472 • 💬 112 • ⏱️ 42:48 • 3d ago
+👁️ 73K • 👍 2K • 💬 476 • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -218,7 +208,17 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 87K • 👍 3K • 💬 298 • ⏱️ 17:44 • 1d ago
+👁️ 93K • 👍 4K • 💬 299 • ⏱️ 17:44 • 1d ago
+
+---
+
+**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
+
+Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
+
+📺 TheAIGRID
+
+👁️ 16K • 👍 473 • 💬 112 • ⏱️ 42:48 • 3d ago
 
 ---
 
@@ -228,7 +228,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 34K • 👍 653 • 💬 159 • ⏱️ 18:46 • 5d ago
+👁️ 34K • 👍 654 • 💬 159 • ⏱️ 18:46 • 5d ago
 
 ---
 
@@ -238,17 +238,7 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 81K • 👍 1K • 💬 424 • ⏱️ 0:41 • 3d ago
-
----
-
-**[The Robot Body](https://www.youtube.com/watch?v=TJFMMOlbyIw)**
-
-What should a robot look like? How necessary is a body? Where do the boundaries of ourselves begin and end? Exploring ...
-
-📺 Sarah Davis Baker
-
-👁️ 12K • 👍 2K • 💬 200 • ⏱️ 37:14 • 1d ago
+👁️ 82K • 👍 1K • 💬 425 • ⏱️ 0:41 • 3d ago
 
 ---
 
@@ -258,7 +248,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 129K • 👍 6K • 💬 883 • ⏱️ 19:33 • 5d ago
+👁️ 129K • 👍 6K • 💬 885 • ⏱️ 19:33 • 5d ago
 
 ---
 
@@ -266,7 +256,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 AI . Robot
 
-👁️ 109K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
+👁️ 110K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
 
 ---
 
@@ -276,7 +266,7 @@ The line between humans and machines is disappearing faster than anyone expected
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 106 • 💬 7 • ⏱️ 21:00 • 13h ago
+👁️ 2K • 👍 115 • 💬 9 • ⏱️ 21:00 • 14h ago
 
 ---
 
@@ -287,6 +277,16 @@ The race to build a truly humanlike running robot just got a major update, and t
 📺 DPCcars
 
 👁️ 201K • 👍 920 • 💬 298 • ⏱️ 1:03 • 5d ago
+
+---
+
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+
+📺 The Straits Times
+
+👁️ 176K • 👍 802 • 💬 254 • ⏱️ 0:47 • 2d ago
 
 ---
 
