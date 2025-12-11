@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T21:39:36.898458+00:00'
+updated: '2025-12-11T21:51:14.078905+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - cryptocurrency
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 21:39 UTC  
+**Last Updated:** December 11, 2025 at 21:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** +7.7%  
-**30d:** -4.7%  
-**90d:** -30.0%  
-**1y:** -16.2%  
+**24h:** -2.5%  
+**7d:** +8.1%  
+**30d:** -4.3%  
+**90d:** -29.8%  
+**1y:** -15.9%  
 
 ---
 
@@ -162,13 +162,13 @@ Decrypt • 1d ago
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
 **[Myriad Moves: Will Santa Bring a Pump or Dump for Bitcoin, Ethereum and Solana?](https://finance.yahoo.com/news/myriad-moves-santa-bring-pump-204508855.html)**
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -288,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 912 • 👍 43 • 💬 8 • ⏱️ 4:36 • 11h ago
+👁️ 912 • 👍 43 • 💬 8 • ⏱️ 4:36 • 12h ago
 
 ---
 

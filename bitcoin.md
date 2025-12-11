@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T21:39:36.892459+00:00'
+updated: '2025-12-11T21:51:14.072495+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - cryptocurrency
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 21:39 UTC  
+**Last Updated:** December 11, 2025 at 21:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +4.6%  
-**30d:** -8.5%  
-**90d:** -19.7%  
-**1y:** -6.8%  
+**24h:** +0.3%  
+**7d:** +4.3%  
+**30d:** -8.7%  
+**90d:** -19.9%  
+**1y:** -7.0%  
 
 ---
 
@@ -133,7 +133,7 @@ For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-18h ago
+19h ago
 
 ---
 
@@ -157,7 +157,7 @@ BBC • 21h ago
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
@@ -173,13 +173,13 @@ Investopedia • 1d ago
 
 Only The Blockchain Group outperformed the S&P 500 among Bitcoin treasury companies in 2025. Approximately 60% of Bitcoin treasuries are underwater on their purchases. Treasury buying collapsed to just 28 Bitcoin in November from 168 Bitcoin in July.
 
-dlnews.com • 59m ago
+dlnews.com • 1h ago
 
 ---
 
 **[Myriad Moves: Will Santa Bring a Pump or Dump for Bitcoin, Ethereum and Solana?](https://finance.yahoo.com/news/myriad-moves-santa-bring-pump-204508855.html)**
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ cnbc.com • 2d ago
 
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -327,7 +327,7 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 103 • ⏱️ 15:31 • 7h ago
+👁️ 12K • 👍 1K • 💬 103 • ⏱️ 15:31 • 8h ago
 
 ---
 
@@ -367,7 +367,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 3K • 👍 394 • 💬 153 • ⏱️ 14:43 • 1h ago
+👁️ 3K • 👍 394 • 💬 153 • ⏱️ 14:43 • 2h ago
 
 ---
 
