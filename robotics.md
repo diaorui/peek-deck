@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T08:59:19.694249+00:00'
+updated: '2025-12-11T09:35:13.090634+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 08:59 UTC  
+**Last Updated:** December 11, 2025 at 09:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-7h ago
+8h ago
 
 ---
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-18h ago
+19h ago
 
 ---
 
@@ -73,6 +73,14 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
 22h ago
+
+---
+
+**[Daily Robotics Recap: Agility deploys humanoids in Texas, Samsung backs "printed" motors and iCub creators raise $81M](https://www.reddit.com/r/robotics/comments/1pjsrck/daily_robotics_recap_agility_deploys_humanoids_in/)**
+
+Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
+
+47m ago
 
 ---
 
@@ -96,13 +104,7 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-21h ago
-
----
-
-**[AI-driven Teddy Ruxpin using only a Bluetooth cassette adapter and software (no mods)](https://www.reddit.com/r/robotics/comments/1pjqw3w/aidriven_teddy_ruxpin_using_only_a_bluetooth/)**
-
-2h ago
+22h ago
 
 ---
 
@@ -112,7 +114,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Web
 
 **[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
 
-Business Wire • 19h ago
+Business Wire • 20h ago
 
 ---
 
@@ -124,11 +126,9 @@ MLive.com • 1d ago
 
 ---
 
-**[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
+**[Speech-to-reality system creates objects on demand using AI and robotics](https://techxplore.com/news/2025-12-speech-reality-demand-ai-robotics.html)**
 
-Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
-
-Deloitte • 1d ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -140,15 +140,23 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Speech-to-reality system creates objects on demand using AI and robotics](https://techxplore.com/news/2025-12-speech-reality-demand-ai-robotics.html)**
+**[China's humanoid robot handles rough terrain with human-like motion](https://interestingengineering.com/ai-robotics/china-limx-oli-humanoid-robot)**
 
-Tech Xplore • 2d ago
+LimX Dynamics’ humanoid robot Oli navigates sand, rocks, and debris with impressive balance and stability in new demo video.
+
+Interesting Engineering • 20h ago
+
+---
+
+**[Analysts Warn of Cybersecurity Risks in Humanoid Robots](https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots)**
+
+Dark Reading • 1d ago
 
 ---
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 15h ago
+Chron • 16h ago
 
 ---
 
@@ -160,27 +168,19 @@ WHMI • 17h ago
 
 ---
 
+**[Serve Robotics Gains 28% in a Month: Is the Rally Still Worth Chasing?](https://finance.yahoo.com/news/serve-robotics-gains-28-month-133200034.html)**
+
+SERV stock is up 28% on robot delivery growth and policy buzz, but with deep losses, is the rally too far ahead of itself?
+
+Yahoo Finance • 20h ago
+
+---
+
 **[Vine-inspired robotic gripper gently lifts heavy and fragile objects](https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210)**
 
 Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
 
-MIT News • 13h ago
-
----
-
-**[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
-
-Army Special Forces Embracing Robots in All Domains
-
-National Defense Magazine • 3d ago
-
----
-
-**[CEO of Chinese robotics company posts video of himself getting kicked by his robot in effort to combat skeptics](https://www.businessinsider.com/engineai-ceo-robot-kick-video-2025-12)**
-
-EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
-
-Business Insider • 14h ago
+MIT News • 14h ago
 
 ---
 
@@ -204,7 +204,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 55K • 👍 2K • 💬 215 • ⏱️ 17:44 • 16h ago
+👁️ 55K • 👍 2K • 💬 215 • ⏱️ 17:44 • 17h ago
 
 ---
 
@@ -282,7 +282,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 51K • 👍 532 • 💬 14 • ⏱️ 0:25 • 3d ago
+👁️ 51K • 👍 532 • 💬 14 • ⏱️ 0:25 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T08:59:19.681883+00:00'
+updated: '2025-12-11T09:35:13.081414+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 08:59 UTC  
+**Last Updated:** December 11, 2025 at 09:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.2%  
-**7d:** +0.9%  
-**30d:** -11.6%  
-**90d:** -22.4%  
-**1y:** -10.0%  
+**24h:** -2.1%  
+**7d:** +1.6%  
+**30d:** -11.1%  
+**90d:** -21.9%  
+**1y:** -9.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1797.48B
+**Market Cap:** $1806.03B
 Rank #1
 
 **Circulating Supply:** 19,960,543 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.2%
 
 **All-Time Low:** $67.81
-+132641.5%
++133319.8%
 
 ---
 
@@ -87,7 +87,7 @@ We back baby!
 
 **[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -99,11 +99,9 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 ---
 
-**[All in! at 92k](https://www.reddit.com/r/Bitcoin/comments/1pjen83/all_in_at_92k/)**
+**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
-
-11h ago
+6h ago
 
 ---
 
@@ -111,13 +109,7 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young and stupid”. Priority was go to the cinema with my GF (now wife). Now, we sometimes get back to that time and this ATM with that BTC price, crying about our stupidity not buying. Some years later, started to stack sats . Got married (sold all my stocks for the wedding), btw. I had AMD at ~7$, CDProject ~2$ and many more 😁 Bought a house, my son was born. Got mortgage (value of the house went like +200% now), 30% in ETF, 70% BTC. Be happy, DCA, HODL and be free 🔥🚀 Peace!
 
-12h ago
-
----
-
-**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
-
-5h ago
+13h ago
 
 ---
 
@@ -125,15 +117,15 @@ Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young
 
 All precious metals are moving higher after yhe dovish fed move Why is bitcoin dropping? Is that a conflicting temporary move? Or is there anything else I am missing?
 
-6h ago
+7h ago
 
 ---
 
-**[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
+**[All in! at 92k](https://www.reddit.com/r/Bitcoin/comments/1pjen83/all_in_at_92k/)**
 
-Bottom tex
+Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-18h ago
+12h ago
 
 ---
 
@@ -141,7 +133,15 @@ Bottom tex
 
 2025: It’s no longer just one black sheep. We’re already the 4% who get what Bitcoin is really bringing… and we’re still learning. We’re a scattered pack of black sheep now… but getting more visible every day. nostr: npub1855ur6q8lf7pjfvceg3s5qd0zuujqyz59h8zmxpquflunfpwkv4s3x3y8v #Bitcoin #CryptoMemes #HODL #BitcoinMemes
 
-7h ago
+8h ago
+
+---
+
+**[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
+
+Bottom tex
+
+19h ago
 
 ---
 
@@ -155,9 +155,9 @@ Bottom tex
 
 ## Google News: "bitcoin"
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqcnVR4Klh1nH1L1g9ZilINk-c-bBomPDfrKU5xbAL47QeND89xUNgQu&gaa_ts=693a86cf&gaa_sig=syHIn_lMTSOLFN9R_1be2OriGEdq9vSv0UeQSKdfv2pbXQwCawwcIYQV3avXYIAWWE5D8NvD-kEgMU6ZghvMoQ%3D%3D)**
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Barron's • 19h ago
+Reuters • 3h ago
 
 ---
 
@@ -177,27 +177,15 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin Slips Toward ETF Break-Even Level as Inflows Slow, but Support May Be Building](https://decrypt.co/351573/bitcoin-etf-break-even-level-inflows-slow-support-building)**
+**[Bitcoin ETFs turn positive with $152 million in inflows ahead of Fed rate decision, while traders stay defensive amid expected volatility: analysts](https://www.theblock.co/post/382038/bitcoin-etfs-turn-positive-with-152-million-in-inflows-ahead-of-fed-rate-decision-while-traders-stay-defensive-amid-expected-volatility-analysts)**
 
-Bitcoin is drifting back toward the price where ETF buyers break even, as inflows slow and investors look to the Fed’s decision this week.
-
-Decrypt • 2d ago
+The Block • 22h ago
 
 ---
 
-**[Why is Crypto Down Today? ETH, SOL, DOGE Slump After Bitcoin Early-Week Breakout](https://www.coindesk.com/markets/2025/12/11/ether-dogecoin-solana-slide-as-bitcoin-fails-to-sustain-early-week-breakout)**
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqfdsPxfbwrHxMChTgruiHe2cl8M6l-bhxYbdunSIcOJJxcwC7NYJXTi&gaa_ts=693a93bb&gaa_sig=7Uf-YS9aDFbcu_14Va7K72ZfVMlIz1O6elXkJyg3-I9-OWEZa_gFeka3XvJfSIfPvAgPi2F6GatZfguXKY4aeg%3D%3D)**
 
-The pullback followed Tuesday's brief spike above $94,500, a move that triggered a minor short squeeze but failed to break the resistance that has capped bitcoin for most of the past three weeks.
-
-CoinDesk • 1h ago
-
----
-
-**[Crypto Market to Crash? Here’s What Bitcoin On-Chain Data and BTC Options Signal](https://finance.yahoo.com/news/crypto-market-crash-bitcoin-chain-072343317.html)**
-
-Bitcoin price slipped to $89K lows in Asia hours, dragging the broader crypto market lower. The crypto market cap tumbled from $3.22 trillion to $3.06 trillion, erasing $160 billion after the Fed cut rates by 25 bps as expected. ETH price plunges nearly 4% to a low of $3,170. Other top altcoins such as XRP,
-
-Yahoo Finance • 1h ago
+Barron's • 19h ago
 
 ---
 
@@ -205,17 +193,11 @@ Yahoo Finance • 1h ago
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
-
-Reuters • 3h ago
-
----
-
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqcHUw8u2ElP7zQp5ydIgEojqJ9lplsP2cQS6IoqALLMFXoUXKjWopjz&gaa_ts=693a86cf&gaa_sig=qORAZ9fhyx2kGjT95-C0PzxLj1Q50ox2f1kXAKOVtFmoOc3oOGoW2QF1tPyulhPtn3DO6i043jPX9bVXj8NvOw%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqejXFFvlxXZA8BXVB_Fo5TvhwSk7wT7UFTzFNaNm0y5HLabsfm1d6Gd&gaa_ts=693a93bb&gaa_sig=YMESGKs-0ZSqsPWrUGTPJRKNl2Om5jPClyvCoJ6RkH5W_ygIlaO_e6V93gNG3kgcX0vQy47BJkExZmGU_n6ckg%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -226,6 +208,22 @@ MarketWatch • 1d ago
 If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
 NPR • 1d ago
+
+---
+
+**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
+
+In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
+
+WIRED • 1d ago
+
+---
+
+**[Crypto Winter Squeezes Bitcoin Miners as AI Pivot Gains Urgency](https://www.bloomberg.com/news/articles/2025-12-10/crypto-winter-squeezes-bitcoin-miners-as-ai-pivot-gains-urgency)**
+
+The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
+
+Bloomberg.com • 19h ago
 
 ---
 
@@ -267,7 +265,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 21h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 22h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -281,7 +279,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 9h ago
+⬆️ 2 • 💬 0 • 10h ago
 
 ---
 
@@ -301,7 +299,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 20h ago
+⬆️ 3 • 💬 0 • 21h ago
 
 ---
 
@@ -325,7 +323,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 62K • 👍 3K • 💬 296 • ⏱️ 21:05 • 9h ago
+👁️ 62K • 👍 3K • 💬 296 • ⏱️ 21:05 • 10h ago
 
 ---
 
@@ -335,7 +333,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 151 • ⏱️ 10:23 • 6h ago
+👁️ 24K • 👍 2K • 💬 151 • ⏱️ 10:23 • 7h ago
 
 ---
 
@@ -345,7 +343,7 @@ Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled t
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 133 • ⏱️ 16:48 • 8h ago
+👁️ 22K • 👍 2K • 💬 133 • ⏱️ 16:48 • 9h ago
 
 ---
 
@@ -375,7 +373,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 20K • 👍 705 • 💬 3 • ⏱️ 32:26 • 10h ago
+👁️ 20K • 👍 705 • 💬 3 • ⏱️ 32:26 • 11h ago
 
 ---
 
@@ -385,7 +383,7 @@ In this clip, I discuss the bottom signals that point towards a bitcoin reversal
 
 📺 CryptosRus Extra
 
-👁️ 4K • 👍 223 • 💬 101 • ⏱️ 9:23 • 8h ago
+👁️ 4K • 👍 223 • 💬 101 • ⏱️ 9:23 • 9h ago
 
 ---
 

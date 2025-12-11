@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T08:59:19.690781+00:00'
+updated: '2025-12-11T09:35:13.087394+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 08:59 UTC  
+**Last Updated:** December 11, 2025 at 09:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,190.15
+### $3,196.16
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.7%  
-**7d:** +5.6%  
-**30d:** -6.6%  
-**90d:** -31.4%  
-**1y:** -17.9%  
+**24h:** -3.1%  
+**7d:** +6.3%  
+**30d:** -5.9%  
+**90d:** -30.9%  
+**1y:** -17.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $384.70B
+**Market Cap:** $387.31B
 Rank #2
 
 **Circulating Supply:** 120,695,176 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.6%
+-35.1%
 
 **All-Time Low:** $0.43
-+735695.5%
++741476.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 (This is an EVMavericks production.) During Devconnect 2025 in Buenos Aires, payment apps that bridge stablecoins to Argentina's peso economy were launching, updating, and competing for users. I tested as many of them as I could. Here's what worked, what didn't, and what you should know if you're planning a trip to Argentina with stablecoins in your wallet. Stablecoin Cards I had two debit cards before I started: Metamask and GnosisPay. These worked in most places that accept cards, but were denied a few times. Generally, if one card was denied, the other was as well, so clearly there is something slightly different about them from the card reader point of view. The most noticeable instance of this was Subte turnstiles, which accept bank-issued cards for subway travel, but rejected both of the stablecoin cards consistently. I didn't dare try the cards on the bus, for fear of the driver kicking me off. QR code Payments Many merchants, ranging from kiosks to grocery stores to restaurants accept payment via QR code, usually through Mercado Pago or MODO. The QR payment system is regulated by the Central Bank of Argentina under the Transferencias 3.0 initiative, which requires that all payment service providers and banks use the same standardized QR code generator. There are a number of Web3 apps which plug into this QR scaffolding, making it easy to pay using stablecoins via the apps, as long as you have Internet access. Usually, the merchant generates a QR code for you at the point of sale. You scan this code in the app and then confirm the transaction. Some smaller shops have a static QR code displayed near the cash register. You scan that for the merchant information and then enter the amount yourself, which then sends a confirmation of the amount paid to the checkout. Either way, once you confirm, the funds are debited from your account and the merchant receives pesos with a confirmation on their terminal that you paid. It's all very easy and straightforward. Merchants often reacted with surprise that I, clearly a tourist, was able to pay by QR code, so being able to interact with this system as an outsider is clearly still new. Some merchants only accepted direct transfers and did not have the terminal in order to generate a QR code. None of these apps were able to do a direct transfer in this way. P2P(dot)me The only payment system that I found which felt aligned to Decentralized Finance (permissionless and trustless within a reputation framework) was P2P(dot)me, a decentralized bridge between stablecoins and local bank/payment rails. They match USDC-fiat swaps using smart contracts on Base and a network of "human liquidity providers". At a coffee shop, I entered the cost of my order into the app, where I was matched with an offer taker who wanted to buy my USDC. Then I asked the server for a QR code to pay. I scanned that QR code, which was passed to the taker, who bought my USDC and paid my bill in pesos. It was a little bit slow but well within the tolerances of my coffee shop waitress. I tried it again in a shop where I didn't know how much the bill would be in advance. Even so, it was just fast enough for me to wait for my offer to be accepted and then scan the QR code before the terminal timed out, needing just a little patience from the shopkeeper. You are limited to one transaction a day up to a value of $10 USD unless you go through their zero-knowledge KYC to verify yourself as a user. The limit is raised to 10 transactions and a $100 limit if you verify using a social media account (X, Instagram, Facebook, GitHub). If you verify with LinkedIn or ZKpassport, the limit is raised to $200 per day. I can vouch for the fact that P2P(dot)me worked great in Buenos Aires. It is apparently also popular in India, Brazil and Indonesia. Peanut Cash The belle of the ball was Peanut Cash, with their hot pink messaging and aggressive social media campaign. Peanut allows you to send/request money from other users and to pay for services using QR codes. In order to use QR code payments, you have to KYC with an identity document and your residential information. The actual KYC is done by a third-party and varies somewhat by nationality. The payments are handled by Peanut and their banking/payment partners. Peanut offers perks, up to 20% cashback on specific transactions, based on a tier-based system of referrals and usage. The Chromium app uses passkeys saved with Apple or Google. You can transfer money out of the wallet that they created on your behalf but there is no way to gain control of it: you cannot access or export the private keys. They claim to be self-custodial, as they don't actually hold the funds and can't seize or spend them. I would call the wallet not custodial. During the conference, Peanut announced that you could now use RedATM cash points to withdraw cash from the app via QR, up to 500,000 pesos, which is much more than bank ATMs using foreign cards. This is a big deal: when I tried to use a debit card at a bank ATM, I was limited to 30,000 pesos, about twenty dollars, with a seven dollar transaction fee. Peanut Cash with RedATM allows withdrawals of up to 500,000 pesos with a fee of under $5, which was very useful for getting cash quickly. Yodl Yodl Pay allows you to deposit USDT and pay using QR payment systems in Argentina, Brazil, the Philippines and Vietnam. They also offer Yodl Go for P2P payments among other app users. It is non-KYC with the exception of Argentina. KYC for using the QR payment system within Argentina was through a third-party and asked for government-issued ID and address information. The Yodl mobile app is available through Apple Store/Google Play for iOS and Android users. On first use, the app generates an embedded wallet using Privy, allowing you to bypass Yodl completely and use Privy options to export your keys. I have no idea how to do this and I had to wade through their terms and conditions to even find that information. Instead, I simply withdrew the funds back to my own wallet. I had no issues paying with Yodl at any merchants who accepted QR payments; my only complaint would be that the app was sometimes slow to load. Settle Settle is a Farcaster-native wallet that offers crypto-to-crypto payments between users. Settle does not require KYC although obviously you must have a Farcaster account. They spent the week of the conference onboarding local cafés and restaurants and ended up with about two dozen locations in Buenos Aires by the time I left. The big difference between Settle and the other apps is that there is no conversion: the buyer and the seller are trading in stablecoins, rather than a conversion to pesos at the point of sale. Rather than cashback, specific locations offered discounts for paying with Settle, similar to existing discounts offered for paying in cash. I saw a few conference goers speak positively about crypto-adoption in Buenos Aires having seen the Settle signs. So far, they only have about two dozen merchants who accept direct crypto payments via Settle, but I hope the high profile of their merchant onboarding campaign might increase local acceptance of crypto payments. I didn't test it. Loading Farcaster and then the mini-app within Farcaster made me impatient, but mostly because I never ended up walking into any Settle-enabled locations. Takenos The Takenos app was aggressively marketed during the final days of the conference with friendly young locals handing out flyers in English and Spanish offering $5 free for immediate sign-up with a referral code. Takenos is a custodial "global wallet" that allows you to hold USDC/USDT as well as various fiat (USD/EUR/BRL/ARS). It is aimed at LatAM freelancers and small businesses and available in Spanish only. Takenos runs on bank/FinTech rails and offers users payment card options along with QR payments within Argentina, with conversion to Argentine pesos happening at the point of sale. There are two cards available, a "Spicy Card" for payments in Argentina and a US-issued "Take Card" for use abroad and online in foreign currencies. KYC is required. I went through the KYC requirements to be told three days later that my application was unsuccessful. I have a particular dislike for protocols that use KYC as an invisible application process for their supposedly permissionless service. If there are requirements, they should be made known before KYC. I emailed their support for comment. I did not receive a reply. Buenos Aires felt closer to crypto-native payments than anywhere else I've been. The solutions weren't perfect but they worked. Scan a code, send some stablecoins, walk away with an empanada. I'm currently visiting in the US, where the guy at the Walmart checkout laughed when I pulled out my phone to pay. No, they can't do contactless yet—do I have a physical card? I wouldn't wish the financial insecurity of Argentina on anyone, but I find myself missing these apps, especially the excitement of watching them grow and add features almost every day.
 
-6h ago
-
----
-
-**[Transaction stuck for hours, is this normal?](https://www.reddit.com/r/ethereum/comments/1pjsdcp/transaction_stuck_for_hours_is_this_normal/)**
-
-Just curious if this happens to anyone else. I sent some XMR through Changelly yesterday, and the transaction is still not confirmed. It’s just sitting there, and I’m not sure if I should wait longer or try something else next time. Has anyone experienced this before? How long did it take for you to get your coins?
-
-38m ago
+7h ago
 
 ---
 
@@ -112,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Guys although I want to make flash loan bots and stuff, but can’t find any good posts on it which teaches from start, so any u recommend?
 
-49m ago
+1h ago
 
 ---
 
@@ -120,7 +112,7 @@ Guys although I want to make flash loan bots and stuff, but can’t find any goo
 
 oskar thorén is one of the leads in ethereum foundation's newest IPTF, or institutional privacy task force. he's a freedom maxi, zero-knowledge wizard, taiwan expart, and a dear friend. an electric mix of sovereign energy! oskar is one of the most well spoken advocates for privacy, zk, and self-custody, and in this interview where we hiked xiangshan in taipei, he holds nothing back to give us banger insight after banger insight. we talked all things zk and privacy, including: how the snowden revelations ignited his passion his early work in Vac and Waku to create encrypted messaging back when early ethereum was only 3 pillars (eth/swarm/whisper) how it informed his passion for zero knowledge cryptography and the technical applications of it to privacy-preservation his contributions to MoPro, a zk mobile proving toolkit that's bringing zk ever closer to reality on our phones his work on https://zkintro.com where he creates friendly resources to zero-knowledge cryptography from beginners to engineers to researchers, how his latest venture as one of the co-leads in the EF's newest task force, the Institutional Privacy Task Force, is bringing cypherpunk-grade privacy to the world's biggest financial institutions, and his 3-pronged mindset to achieving self-sovereignty you can catch the full interview on my youtube channel at: https://youtu.be/_BWRyIqCmVI --------------------------- if we're meeting for the first time, hi 👋! i spread the good word on good work in crypto. it's a challenging road fighting the cesspool that is crypto youtube... but im energized by creating principles-led, values-driven content a like, sub, comment, share goes a long way <3
 
-🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 16h ago
+🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 17h ago
 
 ---
 
@@ -128,7 +120,7 @@ oskar thorén is one of the leads in ethereum foundation's newest IPTF, or insti
 
 Hi everyone, I just wanted to ask for some advice because something feels off. I was expecting a money transfer, and I received an email saying that the payment had arrived, but the funds are "locked." To unlock the money, they say I must first make a €200 transaction. The email address they used is norplybitpaypronton.pay@gmail.com Pretty sure it's a fraud but I'd like to know your opinions. Thanks!
 
-13h ago
+14h ago
 
 ---
 
@@ -148,6 +140,14 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 ---
 
+**[Any hot wallet with custom derivation + BIP39 passphrase? I found TokenPocket — thoughts?](https://www.reddit.com/r/ethereum/comments/1piahn4/any_hot_wallet_with_custom_derivation_bip39/)**
+
+Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -188,7 +188,7 @@ Fortune • 2d ago
 
 Dragonfly managing partner Haseeb Qureshi has sharpened his defense of Ethereum’s valuation, arguing that critics are using the wrong financial framework and that ETH should be analyzed more like an early-stage Amazon than a mature “value” stock.Speaking on the Milk Road Show on 9 December 2025, Qu…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -222,11 +222,9 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin OG expands Ethereum long position to $392.5M on Hyperliquid](https://cryptobriefing.com/ethereum-long-position-hyperliquid/)**
+**[Bitcoin (BTC) Briefly Pumped Above $94,000, Ethereum (ETH) Jumped by 9%: Market Watch](https://cryptopotato.com/bitcoin-btc-briefly-pumped-above-94000-ethereum-eth-jumped-by-9-market-watch/)**
 
-A Bitcoin OG has expanded their Ethereum long position to $392.5M on Hyperliquid, with liquidation set at $2,234 per ETH.
-
-Crypto Briefing • 7h ago
+CryptoPotato • 22h ago
 
 ---
 
@@ -240,7 +238,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 151 • ⏱️ 10:23 • 6h ago
+👁️ 24K • 👍 2K • 💬 151 • ⏱️ 10:23 • 7h ago
 
 ---
 
@@ -250,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 168 • 💬 5 • ⏱️ 6:11 • 6h ago
+👁️ 2K • 👍 168 • 💬 5 • ⏱️ 6:11 • 7h ago
 
 ---
 
@@ -270,7 +268,7 @@ BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 291 • 💬 123 • ⏱️ 18:26 • 8h ago
+👁️ 8K • 👍 291 • 💬 123 • ⏱️ 18:26 • 9h ago
 
 ---
 
@@ -290,7 +288,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 68 • 💬 17 • ⏱️ 8:36 • 19h ago
+👁️ 2K • 👍 68 • 💬 17 • ⏱️ 8:36 • 20h ago
 
 ---
 
@@ -330,7 +328,7 @@ Mind-blowing! Ethereum's transaction volume is now bigger than Visa and MasterCa
 
 📺 Crypto Doji
 
-👁️ 1K • 👍 1 • 💬 1 • ⏱️ 0:45 • 6h ago
+👁️ 1K • 👍 1 • 💬 1 • ⏱️ 0:45 • 7h ago
 
 ---
 
