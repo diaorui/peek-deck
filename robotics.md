@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T04:53:49.410240+00:00'
+updated: '2025-12-11T05:20:46.111006+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 04:53 UTC  
+**Last Updated:** December 11, 2025 at 05:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,6 +36,18 @@ Robotics research and industry news
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
+4h ago
+
+---
+
+**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
+
+1h ago
+
+---
+
+**[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
+
 3h ago
 
 ---
@@ -44,7 +56,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-14h ago
+15h ago
 
 ---
 
@@ -56,15 +68,11 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 ---
 
-**[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
+**[What could be possible in humanoid elderly care (ROBOTGYM)](https://www.reddit.com/r/robotics/comments/1pjoo5e/what_could_be_possible_in_humanoid_elderly_care/)**
 
-2h ago
+From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
----
-
-**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
-
-1h ago
+40m ago
 
 ---
 
@@ -72,7 +80,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-20h ago
+21h ago
 
 ---
 
@@ -80,27 +88,19 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-17h ago
+18h ago
 
 ---
 
 **[Humanoid: What’s Different About Their Wrist Design?](https://www.reddit.com/r/robotics/comments/1pj0xfe/humanoid_whats_different_about_their_wrist_design/)**
 
-16h ago
+17h ago
 
 ---
 
 **[ESP32 Robot with face tracking & personality](https://www.reddit.com/r/robotics/comments/1pjipl2/esp32_robot_with_face_tracking_personality/)**
 
-4h ago
-
----
-
-**[Real-Robot Experiment with Pedestrians - A team at TU Delft has introduced DRA-MPPI, a new motion-planning method that lets robots move safely through dense pedestrian traffic without freezing or taking overly conservative paths](https://www.reddit.com/r/robotics/comments/1pi6p63/realrobot_experiment_with_pedestrians_a_team_at/)**
-
-Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
-
-1d ago
+5h ago
 
 ---
 
@@ -110,7 +110,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 **[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
 
-Business Wire • 15h ago
+Business Wire • 16h ago
 
 ---
 
@@ -122,19 +122,19 @@ MLive.com • 1d ago
 
 ---
 
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
-
-Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
-
-Yahoo Finance • 2d ago
-
----
-
 **[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
 Bloomberg.com • 2d ago
+
+---
+
+**[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
+
+Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
+
+Deloitte • 23h ago
 
 ---
 
@@ -146,41 +146,41 @@ Decrypt • 2d ago
 
 ---
 
-**[CEO of Chinese robotics company posts video of himself getting kicked by his robot in effort to combat skeptics](https://www.businessinsider.com/engineai-ceo-robot-kick-video-2025-12)**
+**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
 
-EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
+$32 million investment will created 230 new jobs.
 
-Business Insider • 10h ago
+WHMI • 13h ago
 
 ---
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 11h ago
+Chron • 12h ago
 
 ---
 
-**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
+**[Serve Robotics Gains 28% in a Month: Is the Rally Still Worth Chasing?](https://finance.yahoo.com/news/serve-robotics-gains-28-month-133200034.html)**
 
-$32 million investment will created 230 new jobs.
+SERV stock is up 28% on robot delivery growth and policy buzz, but with deep losses, is the rally too far ahead of itself?
 
-WHMI • 12h ago
-
----
-
-**[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
-
-Army Special Forces Embracing Robots in All Domains
-
-National Defense Magazine • 3d ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Soft robots, time to ditch your slow brittle eyes for fast squishy ones](https://newatlas.com/robotics/physl-light-activated-soft-robotic-eye/)**
+**[Vine-inspired robotic gripper gently lifts heavy and fragile objects](https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210)**
 
-Analog cameras are nowhere near as efficient as biological eyes. If you’ve ever handled a single-lens reflex (SLR) camera, especially if it had a zoom lens attached, you know how heavy they are, and how tricky and time-consuming adjusting their focus can be.
+Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
 
-New Atlas • 9h ago
+MIT News • 10h ago
+
+---
+
+**[CEO of Chinese robotics company posts video of himself getting kicked by his robot in effort to combat skeptics](https://www.businessinsider.com/engineai-ceo-robot-kick-video-2025-12)**
+
+EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
+
+Business Insider • 10h ago
 
 ---
 
@@ -194,7 +194,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 40K • 👍 2K • 💬 168 • ⏱️ 17:44 • 12h ago
+👁️ 40K • 👍 2K • 💬 168 • ⏱️ 17:44 • 13h ago
 
 ---
 

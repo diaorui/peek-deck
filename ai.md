@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T04:53:49.392497+00:00'
+updated: '2025-12-11T05:20:46.093161+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- videos
 - news
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 04:53 UTC  
+**Last Updated:** December 11, 2025 at 05:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 12h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 13h ago
 
 ---
 
@@ -59,6 +59,12 @@ A lot of people use the term “AI hallucination,” but many don’t clearly un
 
 ---
 
+**[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
+
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 12h ago
+
+---
+
 **[Pete Hegseth Says the Pentagon's New Chatbot Will Make America 'More Lethal'. The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'](https://www.reddit.com/r/artificial/comments/1piors1/pete_hegseth_says_the_pentagons_new_chatbot_will/)**
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
@@ -67,15 +73,9 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 ---
 
-**[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
-
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 12h ago
-
----
-
 **[Trump’s push for more AI data centers faces backlash from his own voters](https://www.reddit.com/r/artificial/comments/1pj7pr6/trumps_push_for_more_ai_data_centers_faces/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 11h ago
+🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 12h ago
 
 ---
 
@@ -83,7 +83,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 If you are reading this, you probably have strong opinions about AGI, superintelligence, and the future of AI. Maybe you believe we are on the cusp of a transformative breakthrough. Maybe you are skeptical. This blog post is for those who want to think more carefully about these claims and examine them from a perspective […]
 
-🔗 [Tim Dettmers](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) • 1h ago
+🔗 [Tim Dettmers](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) • 2h ago
 
 ---
 
@@ -123,17 +123,23 @@ The Atlantic • 1d ago
 
 ---
 
-**[Inside Meta’s Pivot From Open Source to Money-Making AI Model](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model)**
+**[Gemini deals ChatGPT a fresh blow as Google’s AI momentum builds](https://www.marketwatch.com/story/googles-ai-momentum-continues-as-gemini-scores-another-victory-over-chatgpt-16946689?gaa_at=eafs&gaa_n=AWEtsqdHEUj7sDuJhwuwaVxfc8nJsvJiGdX5KC0oSjiNzJ0b8Co_Gs4GSeB_&gaa_ts=693a5819&gaa_sig=1F5N-Vv5lZbqAeJZwQNS3T_H03ZBPISu9xuzmkkNVizmatp2nw1qXz2b0nVhOdsxCmgbA0jt2Nn6yTA_bENsEw%3D%3D)**
 
-Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
+MarketWatch • 10h ago
 
-Bloomberg.com • 14h ago
+---
+
+**[EU opens investigation into Google’s use of online content for AI models](https://www.theguardian.com/technology/2025/dec/09/eu-investigation-google-ai-models-gemini)**
+
+European Commission to assess whether Gemini owner is putting rival companies at a disadvantage
+
+The Guardian • 1d ago
 
 ---
 
 **[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -145,11 +151,19 @@ CNBC • 1d ago
 
 ---
 
+**[Inside Meta’s Pivot From Open Source to Money-Making AI Model](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model)**
+
+Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
+
+Bloomberg.com • 15h ago
+
+---
+
 **[McDonald's pulls AI-generated Christmas advert following backlash](https://www.bbc.com/news/articles/czdgrnvp082o)**
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
@@ -157,37 +171,21 @@ BBC • 16h ago
 
 Commercial in Netherlands depicting festival-season chaos at ‘most terrible time of year’ prompted flurry of criticism online
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
-**[AI slop ad backfires for McDonald’s](https://www.latimes.com/business/story/2025-12-10/ai-slop-ad-backfires-for-mcdonalds)**
+**[McDonald’s Pulls Down AI-Generated Holiday Ad After Deluge of Mockery](https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial)**
 
-Viewers blasted McDonald's satirical commercial as offensive, with critics questioning why anyone would 'ditch your family and hide in McDonald's.'
+McDonald's Netherlands is catching flak for a stupefying AI-generated video, which was roundly condemned on social media.
 
-Los Angeles Times • 1d ago
-
----
-
-**[Georgia lawmakers push bipartisan plan to make social media, AI safer for children](https://www.fox5atlanta.com/news/georgia-lawmakers-push-bipartisan-plan-make-social-media-ai-safer-children)**
-
-Georgia lawmakers are preparing bipartisan bills targeting addictive platform designs and child safety in social media and AI.
-
-FOX 5 Atlanta • 49m ago
+Futurism • 1d ago
 
 ---
 
-**[How Trump’s AI push, energy prices and angry neighbors are colliding in the Arizona desert](https://www.cnn.com/2025/12/10/politics/data-center-arizona-kyrsten-sinema-trump)**
+**[Chinese AI Unicorns MiniMax and Zhepu Said to Target Hong Kong IPOs Soon](https://www.bloomberg.com/news/articles/2025-12-11/chinese-ai-unicorns-minimax-and-zhepu-said-to-target-hong-kong-ipos-soon)**
 
-The city of Chandler has spent years wrestling with the question of whether to build more data centers, just as communities around the country debate the economic and environmental tradeoffs of these hulking, resource-intensive warehouses.
-
-CNN • 17h ago
-
----
-
-**[Asia’s inexpensive AI stocks should worry American investors](https://www.economist.com/finance-and-economics/2025/12/10/asias-inexpensive-ai-stocks-should-worry-american-investors)**
-
-The Economist • 9h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -199,7 +197,7 @@ The Economist • 9h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 571 • 💬 616 • 2d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 572 • 💬 616 • 2d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -215,7 +213,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 350 • 💬 416 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 351 • 💬 418 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -223,7 +221,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 292 • 💬 278 • 12h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 294 • 💬 279 • 12h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -231,7 +229,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 282 • 💬 130 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 284 • 💬 130 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -253,7 +251,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 121 • 💬 24 • 1d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 122 • 💬 24 • 1d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -261,7 +259,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 103 • 💬 139 • 15h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 105 • 💬 141 • 16h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -293,7 +291,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 7K • 👍 117 • 💬 88 • ⏱️ 2:58 • 5h ago
+👁️ 7K • 👍 117 • 💬 88 • ⏱️ 2:58 • 6h ago
 
 ---
 
@@ -363,7 +361,7 @@ From emails to social media to online shopping, banking and chatting — everyth
 
 📺 TODAY
 
-👁️ 4K • 👍 44 • 💬 10 • ⏱️ 3:20 • 15h ago
+👁️ 4K • 👍 44 • 💬 10 • ⏱️ 3:20 • 16h ago
 
 ---
 
@@ -401,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,497 • 2d ago
+⬇️ 232,896 • ❤️ 2,498 • 2d ago
 
 ---
 
@@ -413,7 +411,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 310 • 1d ago
+⬇️ 10,031 • ❤️ 311 • 1d ago
 
 ---
 
@@ -437,7 +435,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 40,667 • ❤️ 863 • 9d ago
+⬇️ 40,667 • ❤️ 864 • 9d ago
 
 ---
 
@@ -449,7 +447,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 229 • 12h ago
+⬇️ 2,414 • ❤️ 230 • 12h ago
 
 ---
 
@@ -497,7 +495,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 15,773 • ❤️ 424 • 8d ago
+⬇️ 15,773 • ❤️ 425 • 8d ago
 
 ---
 
@@ -581,7 +579,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 55 • 💬 2 • ⭐ 1,008 • 8d ago
+▲ 55 • 💬 2 • ⭐ 1,008 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -651,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 6.2k • 🔱 1.1k • 19m ago
+⭐ 6.2k • 🔱 1.1k • 46m ago
 
 ---
 
@@ -661,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.7k • 🔱 197 • 7h ago
+⭐ 1.7k • 🔱 197 • 8h ago
 
 ---
 
@@ -681,7 +679,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python`
 
-⭐ 1.1k • 🔱 209 • 10d ago
+⭐ 1.1k • 🔱 209 • 11d ago
 
 ---
 
@@ -691,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 132 • 19h ago
+⭐ 1.0k • 🔱 132 • 20h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T04:53:49.400942+00:00'
+updated: '2025-12-11T05:20:46.101633+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 04:53 UTC  
+**Last Updated:** December 11, 2025 at 05:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +1.3%  
-**30d:** -11.3%  
+**24h:** -2.5%  
+**7d:** +1.4%  
+**30d:** -11.2%  
 **90d:** -22.1%  
-**1y:** -9.7%  
+**1y:** -9.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1796.14B
+**Market Cap:** $1802.33B
 Rank #1
 
 **Circulating Supply:** 19,960,487 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.5%
 
 **All-Time Low:** $67.81
-+132634.1%
++132915.8%
 
 ---
 
@@ -85,9 +85,11 @@ We back baby!
 
 ---
 
-**[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
+**[Companies Are Hoarding Bitcoin and It’s Starting To Get Crazy](https://www.reddit.com/r/Bitcoin/comments/1pjmhn0/companies_are_hoarding_bitcoin_and_its_starting/)**
 
-12h ago
+Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
+
+2h ago
 
 ---
 
@@ -95,7 +97,7 @@ We back baby!
 
 Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young and stupid”. Priority was go to the cinema with my GF (now wife). Now, we sometimes get back to that time and this ATM with that BTC price, crying about our stupidity not buying. Some years later, started to stack sats . Got married (sold all my stocks for the wedding), btw. I had AMD at ~7$, CDProject ~2$ and many more 😁 Bought a house, my son was born. Got mortgage (value of the house went like +200% now), 30% in ETF, 70% BTC. Be happy, DCA, HODL and be free 🔥🚀 Peace!
 
-8h ago
+9h ago
 
 ---
 
@@ -103,15 +105,13 @@ Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young
 
 Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-7h ago
+8h ago
 
 ---
 
-**[Companies Are Hoarding Bitcoin and It’s Starting To Get Crazy](https://www.reddit.com/r/Bitcoin/comments/1pjmhn0/companies_are_hoarding_bitcoin_and_its_starting/)**
+**[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
 
-Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
-
-2h ago
+7h ago
 
 ---
 
@@ -123,9 +123,9 @@ Bottom tex
 
 ---
 
-**[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
+**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-6h ago
+1h ago
 
 ---
 
@@ -133,13 +133,7 @@ Bottom tex
 
 2025: It’s no longer just one black sheep. We’re already the 4% who get what Bitcoin is really bringing… and we’re still learning. We’re a scattered pack of black sheep now… but getting more visible every day. nostr: npub1855ur6q8lf7pjfvceg3s5qd0zuujqyz59h8zmxpquflunfpwkv4s3x3y8v #Bitcoin #CryptoMemes #HODL #BitcoinMemes
 
-3h ago
-
----
-
-**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
-
-1h ago
+4h ago
 
 ---
 
@@ -151,6 +145,12 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 ---
 
+**[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
+
+12h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -159,7 +159,7 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 Bitcoin slipped in Asia trading hours while other risk assets gained after the US Federal Reserve cut interest rates and expressed optimism about the economy.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -195,11 +195,33 @@ BBC • 4h ago
 
 ---
 
+**[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
+
+The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
+
+CNBC • 1d ago
+
+---
+
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfad7csX8Sllq5ELjffPPUFRtz_WSJ41NvT4naWZnUzpg1JC1KKehOl&gaa_ts=693a581a&gaa_sig=y5fVDFioCylr3V7OZ8WOGmWHN_K3yRygKZuRWqNvu5P27hzY4nvmgE8Ei3wu2eD_wrWrevxggQOAfQ-3yRRPqQ%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
+
+Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
+
+Business Insider • 19h ago
+
+---
+
 **[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
 
 If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
-NPR • 20h ago
+NPR • 21h ago
 
 ---
 
@@ -208,26 +230,6 @@ NPR • 20h ago
 The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
 
 Bloomberg.com • 15h ago
-
----
-
-**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
-
-In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
-
-WIRED • 1d ago
-
----
-
-**[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
-
-Investor's Business Daily • 17h ago
-
----
-
-**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqeEhm6-3HMMiiDs8ZE2oMny2huwZbmg3dLwkrSsoJik5erF8MZ1XiiU&gaa_ts=693a4ace&gaa_sig=X_HqjOnWyBw3SFe310LcHX5RyAtwF6mEaL6TjiitxqgJ6UBfkdxU0EK18vEJyVGE2sq6EUhnuf_6M3gYf9jvNQ%3D%3D)**
-
-The Wall Street Journal • 1d ago
 
 ---
 
@@ -317,7 +319,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 1K • 💬 375 • ⏱️ 8:26 • 3h ago
+👁️ 14K • 👍 1K • 💬 375 • ⏱️ 8:26 • 4h ago
 
 ---
 
@@ -337,7 +339,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 34K • 👍 2K • 💬 293 • ⏱️ 21:05 • 5h ago
+👁️ 34K • 👍 2K • 💬 293 • ⏱️ 21:05 • 6h ago
 
 ---
 
@@ -347,7 +349,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 583 • 💬 3 • ⏱️ 32:26 • 6h ago
+👁️ 14K • 👍 583 • 💬 3 • ⏱️ 32:26 • 7h ago
 
 ---
 
@@ -367,7 +369,7 @@ Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled t
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 104 • ⏱️ 16:48 • 4h ago
+👁️ 11K • 👍 1K • 💬 104 • ⏱️ 16:48 • 5h ago
 
 ---
 
@@ -377,7 +379,7 @@ Phong Le, CEO of Strategy (MSTR), explains why he sees the company as a viable o
 
 📺 Schwab Network
 
-👁️ 1K • 👍 50 • 💬 7 • ⏱️ 9:04 • 3h ago
+👁️ 1K • 👍 50 • 💬 7 • ⏱️ 9:04 • 4h ago
 
 ---
 
