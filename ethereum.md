@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T09:52:01.375424+00:00'
+updated: '2025-12-11T10:16:31.976006+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 09:52 UTC  
+**Last Updated:** December 11, 2025 at 10:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
+**24h:** -3.5%  
 **7d:** +6.0%  
 **30d:** -6.2%  
 **90d:** -31.1%  
-**1y:** -17.6%  
+**1y:** -17.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $387.31B
+**Market Cap:** $386.44B
 Rank #2
 
 **Circulating Supply:** 120,695,176 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.1%
+-35.3%
 
 **All-Time Low:** $0.43
-+741476.4%
++739113.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 (This is an EVMavericks production.) During Devconnect 2025 in Buenos Aires, payment apps that bridge stablecoins to Argentina's peso economy were launching, updating, and competing for users. I tested as many of them as I could. Here's what worked, what didn't, and what you should know if you're planning a trip to Argentina with stablecoins in your wallet. Stablecoin Cards I had two debit cards before I started: Metamask and GnosisPay. These worked in most places that accept cards, but were denied a few times. Generally, if one card was denied, the other was as well, so clearly there is something slightly different about them from the card reader point of view. The most noticeable instance of this was Subte turnstiles, which accept bank-issued cards for subway travel, but rejected both of the stablecoin cards consistently. I didn't dare try the cards on the bus, for fear of the driver kicking me off. QR code Payments Many merchants, ranging from kiosks to grocery stores to restaurants accept payment via QR code, usually through Mercado Pago or MODO. The QR payment system is regulated by the Central Bank of Argentina under the Transferencias 3.0 initiative, which requires that all payment service providers and banks use the same standardized QR code generator. There are a number of Web3 apps which plug into this QR scaffolding, making it easy to pay using stablecoins via the apps, as long as you have Internet access. Usually, the merchant generates a QR code for you at the point of sale. You scan this code in the app and then confirm the transaction. Some smaller shops have a static QR code displayed near the cash register. You scan that for the merchant information and then enter the amount yourself, which then sends a confirmation of the amount paid to the checkout. Either way, once you confirm, the funds are debited from your account and the merchant receives pesos with a confirmation on their terminal that you paid. It's all very easy and straightforward. Merchants often reacted with surprise that I, clearly a tourist, was able to pay by QR code, so being able to interact with this system as an outsider is clearly still new. Some merchants only accepted direct transfers and did not have the terminal in order to generate a QR code. None of these apps were able to do a direct transfer in this way. P2P(dot)me The only payment system that I found which felt aligned to Decentralized Finance (permissionless and trustless within a reputation framework) was P2P(dot)me, a decentralized bridge between stablecoins and local bank/payment rails. They match USDC-fiat swaps using smart contracts on Base and a network of "human liquidity providers". At a coffee shop, I entered the cost of my order into the app, where I was matched with an offer taker who wanted to buy my USDC. Then I asked the server for a QR code to pay. I scanned that QR code, which was passed to the taker, who bought my USDC and paid my bill in pesos. It was a little bit slow but well within the tolerances of my coffee shop waitress. I tried it again in a shop where I didn't know how much the bill would be in advance. Even so, it was just fast enough for me to wait for my offer to be accepted and then scan the QR code before the terminal timed out, needing just a little patience from the shopkeeper. You are limited to one transaction a day up to a value of $10 USD unless you go through their zero-knowledge KYC to verify yourself as a user. The limit is raised to 10 transactions and a $100 limit if you verify using a social media account (X, Instagram, Facebook, GitHub). If you verify with LinkedIn or ZKpassport, the limit is raised to $200 per day. I can vouch for the fact that P2P(dot)me worked great in Buenos Aires. It is apparently also popular in India, Brazil and Indonesia. Peanut Cash The belle of the ball was Peanut Cash, with their hot pink messaging and aggressive social media campaign. Peanut allows you to send/request money from other users and to pay for services using QR codes. In order to use QR code payments, you have to KYC with an identity document and your residential information. The actual KYC is done by a third-party and varies somewhat by nationality. The payments are handled by Peanut and their banking/payment partners. Peanut offers perks, up to 20% cashback on specific transactions, based on a tier-based system of referrals and usage. The Chromium app uses passkeys saved with Apple or Google. You can transfer money out of the wallet that they created on your behalf but there is no way to gain control of it: you cannot access or export the private keys. They claim to be self-custodial, as they don't actually hold the funds and can't seize or spend them. I would call the wallet not custodial. During the conference, Peanut announced that you could now use RedATM cash points to withdraw cash from the app via QR, up to 500,000 pesos, which is much more than bank ATMs using foreign cards. This is a big deal: when I tried to use a debit card at a bank ATM, I was limited to 30,000 pesos, about twenty dollars, with a seven dollar transaction fee. Peanut Cash with RedATM allows withdrawals of up to 500,000 pesos with a fee of under $5, which was very useful for getting cash quickly. Yodl Yodl Pay allows you to deposit USDT and pay using QR payment systems in Argentina, Brazil, the Philippines and Vietnam. They also offer Yodl Go for P2P payments among other app users. It is non-KYC with the exception of Argentina. KYC for using the QR payment system within Argentina was through a third-party and asked for government-issued ID and address information. The Yodl mobile app is available through Apple Store/Google Play for iOS and Android users. On first use, the app generates an embedded wallet using Privy, allowing you to bypass Yodl completely and use Privy options to export your keys. I have no idea how to do this and I had to wade through their terms and conditions to even find that information. Instead, I simply withdrew the funds back to my own wallet. I had no issues paying with Yodl at any merchants who accepted QR payments; my only complaint would be that the app was sometimes slow to load. Settle Settle is a Farcaster-native wallet that offers crypto-to-crypto payments between users. Settle does not require KYC although obviously you must have a Farcaster account. They spent the week of the conference onboarding local cafés and restaurants and ended up with about two dozen locations in Buenos Aires by the time I left. The big difference between Settle and the other apps is that there is no conversion: the buyer and the seller are trading in stablecoins, rather than a conversion to pesos at the point of sale. Rather than cashback, specific locations offered discounts for paying with Settle, similar to existing discounts offered for paying in cash. I saw a few conference goers speak positively about crypto-adoption in Buenos Aires having seen the Settle signs. So far, they only have about two dozen merchants who accept direct crypto payments via Settle, but I hope the high profile of their merchant onboarding campaign might increase local acceptance of crypto payments. I didn't test it. Loading Farcaster and then the mini-app within Farcaster made me impatient, but mostly because I never ended up walking into any Settle-enabled locations. Takenos The Takenos app was aggressively marketed during the final days of the conference with friendly young locals handing out flyers in English and Spanish offering $5 free for immediate sign-up with a referral code. Takenos is a custodial "global wallet" that allows you to hold USDC/USDT as well as various fiat (USD/EUR/BRL/ARS). It is aimed at LatAM freelancers and small businesses and available in Spanish only. Takenos runs on bank/FinTech rails and offers users payment card options along with QR payments within Argentina, with conversion to Argentine pesos happening at the point of sale. There are two cards available, a "Spicy Card" for payments in Argentina and a US-issued "Take Card" for use abroad and online in foreign currencies. KYC is required. I went through the KYC requirements to be told three days later that my application was unsuccessful. I have a particular dislike for protocols that use KYC as an invisible application process for their supposedly permissionless service. If there are requirements, they should be made known before KYC. I emailed their support for comment. I did not receive a reply. Buenos Aires felt closer to crypto-native payments than anywhere else I've been. The solutions weren't perfect but they worked. Scan a code, send some stablecoins, walk away with an empanada. I'm currently visiting in the US, where the guy at the Walmart checkout laughed when I pulled out my phone to pay. No, they can't do contactless yet—do I have a physical card? I wouldn't wish the financial insecurity of Argentina on anyone, but I find myself missing these apps, especially the excitement of watching them grow and add features almost every day.
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Guys although I want to make flash loan bots and stuff, but can’t find any good posts on it which teaches from start, so any u recommend?
 
-1h ago
+2h ago
 
 ---
 
@@ -120,7 +120,7 @@ oskar thorén is one of the leads in ethereum foundation's newest IPTF, or insti
 
 Hi everyone, I just wanted to ask for some advice because something feels off. I was expecting a money transfer, and I received an email saying that the payment had arrived, but the funds are "locked." To unlock the money, they say I must first make a €200 transaction. The email address they used is norplybitpaypronton.pay@gmail.com Pretty sure it's a fraud but I'd like to know your opinions. Thanks!
 
-14h ago
+15h ago
 
 ---
 
@@ -160,11 +160,11 @@ Decrypt • 14h ago
 
 ---
 
-**[Dogecoin (DOGE), Ethereum (ETH) News: Memecoin Spikes as Ether Surges](https://www.coindesk.com/markets/2025/12/10/breakout-or-bull-trap-doge-jumps-above-resistance-on-ethereum-strength)**
+**[Ethereum Has Bottomed, Says BitMine Chairman Tom Lee—Here's Why](https://decrypt.co/351828/ethereum-bottomed-bitmine-chairman-tom-lee)**
 
-Despite the breakout, DOGE faces significant structural resistance from major EMAs.
+BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
 
-CoinDesk • 1d ago
+Decrypt • 15h ago
 
 ---
 
@@ -184,19 +184,27 @@ Fortune • 2d ago
 
 ---
 
+**[Dogecoin (DOGE), Ethereum (ETH) News: Memecoin Spikes as Ether Surges](https://www.coindesk.com/markets/2025/12/10/breakout-or-bull-trap-doge-jumps-above-resistance-on-ethereum-strength)**
+
+Despite the breakout, DOGE faces significant structural resistance from major EMAs.
+
+CoinDesk • 1d ago
+
+---
+
 **[Ethereum Should Be Valued Like Amazon, Says Dragonfly’s Qureshi](https://www.tradingview.com/news/newsbtc:6aa89382f094b:0-ethereum-should-be-valued-like-amazon-says-dragonfly-s-qureshi/)**
 
 Dragonfly managing partner Haseeb Qureshi has sharpened his defense of Ethereum’s valuation, arguing that critics are using the wrong financial framework and that ETH should be analyzed more like an early-stage Amazon than a mature “value” stock.Speaking on the Milk Road Show on 9 December 2025, Qu…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
-**[Ethereum ETFs Hit Six-Week High as Investors Rotate Within Crypto](https://decrypt.co/351800/ethereum-etfs-hit-six-week-high-as-investors-rotate-within-crypto)**
+**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
 
-Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
+Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 20h ago
+Decrypt • 2d ago
 
 ---
 
@@ -214,17 +222,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
+**[Bitcoin OG expands Ethereum long position to $392.5M on Hyperliquid](https://cryptobriefing.com/ethereum-long-position-hyperliquid/)**
 
-Japan is considering a big change to how it taxes crypto.
+A Bitcoin OG has expanded their Ethereum long position to $392.5M on Hyperliquid, with liquidation set at $2,234 per ETH.
 
-The Motley Fool • 2d ago
-
----
-
-**[Bitcoin (BTC) Briefly Pumped Above $94,000, Ethereum (ETH) Jumped by 9%: Market Watch](https://cryptopotato.com/bitcoin-btc-briefly-pumped-above-94000-ethereum-eth-jumped-by-9-market-watch/)**
-
-CryptoPotato • 22h ago
+Crypto Briefing • 8h ago
 
 ---
 
@@ -238,17 +240,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 151 • ⏱️ 10:23 • 7h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K9yX0b6QpBE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 168 • 💬 5 • ⏱️ 6:11 • 7h ago
+👁️ 32K • 👍 2K • 💬 249 • ⏱️ 10:23 • 7h ago
 
 ---
 
@@ -258,17 +250,17 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 13K • 👍 516 • 💬 69 • ⏱️ 1:10:46 • 17h ago
+👁️ 14K • 👍 549 • 💬 65 • ⏱️ 1:10:46 • 17h ago
 
 ---
 
-**[BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IOOEf_DuzzU)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K9yX0b6QpBE)**
 
-BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 8K • 👍 291 • 💬 123 • ⏱️ 18:26 • 9h ago
+👁️ 3K • 👍 199 • 💬 8 • ⏱️ 6:11 • 8h ago
 
 ---
 
@@ -282,23 +274,23 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 ---
 
+**[BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IOOEf_DuzzU)**
+
+BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 323 • 💬 122 • ⏱️ 18:26 • 9h ago
+
+---
+
 **[🚨 FED FLIP!! | ETH&#39;s Biggest Day of the Year (FOMC + QE)](https://www.youtube.com/watch?v=YPMRXtdCF88)**
 
 BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 68 • 💬 17 • ⏱️ 8:36 • 20h ago
-
----
-
-**[Ethereum Just Hit an Overextended Signal: MAJOR Crash Warning?](https://www.youtube.com/watch?v=2sJ6nV7u_t0)**
-
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 479 • 👍 17 • 💬 1 • ⏱️ 6:56 • 14h ago
+👁️ 2K • 👍 68 • 💬 17 • ⏱️ 8:36 • 21h ago
 
 ---
 
@@ -308,7 +300,27 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 70K • 👍 4K • 💬 291 • ⏱️ 12:03 • 1d ago
+👁️ 71K • 👍 4K • 💬 299 • ⏱️ 12:03 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum. SO sollte es weitergehen für Bitcoin!! Das mache ich JETZT](https://www.youtube.com/watch?v=37USsWNRib4)**
+
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+
+📺 Krypto Trading & Investing
+
+👁️ 4K • 👍 749 • 💬 134 • ⏱️ 15:50 • 4h ago
+
+---
+
+**[Ethereum Surpasses Visa and MasterCard #shorts #crypto](https://www.youtube.com/watch?v=YAMU0AfuDh8)**
+
+Mind-blowing! Ethereum's transaction volume is now bigger than Visa and MasterCard combined. Get ready for the future of ...
+
+📺 Crypto Doji
+
+👁️ 1K • 👍 1 • 💬 1 • ⏱️ 0:45 • 8h ago
 
 ---
 
@@ -319,16 +331,6 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 4K • 👍 241 • 💬 9 • ⏱️ 6:52 • 17h ago
-
----
-
-**[Ethereum Surpasses Visa and MasterCard #shorts #crypto](https://www.youtube.com/watch?v=YAMU0AfuDh8)**
-
-Mind-blowing! Ethereum's transaction volume is now bigger than Visa and MasterCard combined. Get ready for the future of ...
-
-📺 Crypto Doji
-
-👁️ 1K • 👍 1 • 💬 1 • ⏱️ 0:45 • 7h ago
 
 ---
 

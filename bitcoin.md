@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T09:52:01.369389+00:00'
+updated: '2025-12-11T10:16:31.970711+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 09:52 UTC  
+**Last Updated:** December 11, 2025 at 10:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,158.23
+### $90,211.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +1.6%  
-**30d:** -11.1%  
-**90d:** -21.9%  
-**1y:** -9.4%  
+**24h:** -1.9%  
+**7d:** +1.5%  
+**30d:** -11.2%  
+**90d:** -22.0%  
+**1y:** -9.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1806.03B
+**Market Cap:** $1801.85B
 Rank #1
 
 **Circulating Supply:** 19,960,543 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.4%
 
 **All-Time Low:** $67.81
-+133319.8%
++133101.6%
 
 ---
 
@@ -77,17 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[The printer is going brrr-illiant this Friday, ready to blast the balance sheet with a $40 BILLION a month.](https://www.reddit.com/r/Bitcoin/comments/1pjfpa3/the_printer_is_going_brrrilliant_this_friday/)**
+**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-We back baby!
-
-12h ago
-
----
-
-**[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
-
-11h ago
+6h ago
 
 ---
 
@@ -99,17 +91,17 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 ---
 
-**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
+**[The printer is going brrr-illiant this Friday, ready to blast the balance sheet with a $40 BILLION a month.](https://www.reddit.com/r/Bitcoin/comments/1pjfpa3/the_printer_is_going_brrrilliant_this_friday/)**
 
-6h ago
+We back baby!
+
+12h ago
 
 ---
 
-**[0,1 Shrimp 🦐](https://www.reddit.com/r/Bitcoin/comments/1pjd889/01_shrimp/)**
+**[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
 
-Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young and stupid”. Priority was go to the cinema with my GF (now wife). Now, we sometimes get back to that time and this ATM with that BTC price, crying about our stupidity not buying. Some years later, started to stack sats . Got married (sold all my stocks for the wedding), btw. I had AMD at ~7$, CDProject ~2$ and many more 😁 Bought a house, my son was born. Got mortgage (value of the house went like +200% now), 30% in ETF, 70% BTC. Be happy, DCA, HODL and be free 🔥🚀 Peace!
-
-13h ago
+12h ago
 
 ---
 
@@ -125,7 +117,7 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-12h ago
+13h ago
 
 ---
 
@@ -151,6 +143,12 @@ Bottom tex
 
 ---
 
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
+
+15h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -165,25 +163,11 @@ Reuters • 4h ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-CNBC • 11h ago
+cnbc.com • 11h ago
 
 ---
 
-**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
-
-BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
-
-Bloomberg.com • 2d ago
-
----
-
-**[Bitcoin ETFs turn positive with $152 million in inflows ahead of Fed rate decision, while traders stay defensive amid expected volatility: analysts](https://www.theblock.co/post/382038/bitcoin-etfs-turn-positive-with-152-million-in-inflows-ahead-of-fed-rate-decision-while-traders-stay-defensive-amid-expected-volatility-analysts)**
-
-The Block • 22h ago
-
----
-
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqfdsPxfbwrHxMChTgruiHe2cl8M6l-bhxYbdunSIcOJJxcwC7NYJXTi&gaa_ts=693a93bb&gaa_sig=7Uf-YS9aDFbcu_14Va7K72ZfVMlIz1O6elXkJyg3-I9-OWEZa_gFeka3XvJfSIfPvAgPi2F6GatZfguXKY4aeg%3D%3D)**
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqeIjLDpXEYE3qIWY-LDyzH6Ij-ktln_94OWLceHzxCWPG7fSVKXId-Z&gaa_ts=693a9d63&gaa_sig=m1ol_w-ytoZmcZShDXFORfdi9VS5wmkbmXa0MoeLUIBk2vvYJhyaGeYQKLR2jCAxypN1vrCy1OtC60cz-Nsvqw%3D%3D)**
 
 Barron's • 20h ago
 
@@ -197,9 +181,37 @@ BBC • 9h ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqejXFFvlxXZA8BXVB_Fo5TvhwSk7wT7UFTzFNaNm0y5HLabsfm1d6Gd&gaa_ts=693a93bb&gaa_sig=YMESGKs-0ZSqsPWrUGTPJRKNl2Om5jPClyvCoJ6RkH5W_ygIlaO_e6V93gNG3kgcX0vQy47BJkExZmGU_n6ckg%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqf2L1kKjrlS1ohUTlNKcT5Xph9_tQQAQeaBShkxKgxqVg4fn9gB1sdV&gaa_ts=693a9d63&gaa_sig=Jjo1CiyA1hqPhM50D6ScASwMX8vHTYQPcAJOADzpXpUSYuUbuIHpJ2kjOMqPOlDVzIUQcSbtsGNEa1ncavmWHQ%3D%3D)**
 
 MarketWatch • 1d ago
+
+---
+
+**[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
+
+Investor's Business Daily • 22h ago
+
+---
+
+**[Bitcoin Firm Twenty One Falls 20% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
+
+Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqfzLHo9wVYDd3VnN5lcnveu61DRtC7ARg9ByOlotVNFXG0EoOrUe5jb&gaa_ts=693a9d63&gaa_sig=gsLchGWLrnjgnH9CqnOd9awoTntf85R4KsMp5IJnJuJYY2HsHDhK5GQTHXEUSqV78h5HsYcLE6aDDmc7HT35_w%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[How to buy Bitcoin Hyper before it launches](https://nypost.com/business/how-to-buy-bitcoin-hyper-presale/)**
+
+Its presales have been gaining attention among the crypto community, since the token claims to promise quicker, cheaper Bitcoin transactions.
+
+New York Post • 21m ago
 
 ---
 
@@ -208,22 +220,6 @@ MarketWatch • 1d ago
 If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
 NPR • 1d ago
-
----
-
-**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
-
-In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
-
-WIRED • 1d ago
-
----
-
-**[Crypto Winter Squeezes Bitcoin Miners as AI Pivot Gains Urgency](https://www.bloomberg.com/news/articles/2025-12-10/crypto-winter-squeezes-bitcoin-miners-as-ai-pivot-gains-urgency)**
-
-The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
-
-Bloomberg.com • 19h ago
 
 ---
 
@@ -313,7 +309,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 476 • ⏱️ 8:26 • 8h ago
+👁️ 39K • 👍 2K • 💬 499 • ⏱️ 8:26 • 9h ago
 
 ---
 
@@ -323,75 +319,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 62K • 👍 3K • 💬 296 • ⏱️ 21:05 • 10h ago
-
----
-
-**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
-
-LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
-
-📺 Altcoin Daily
-
-👁️ 24K • 👍 2K • 💬 151 • ⏱️ 10:23 • 7h ago
-
----
-
-**[Did the Federal Reserve Just DESTROY Bitcoin’s 4-Year Cycle?!](https://www.youtube.com/watch?v=0Wgyk7VAHBE)**
-
-Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled the trigger. With rate cuts incoming, QE ...
-
-📺 Simply Bitcoin
-
-👁️ 22K • 👍 2K • 💬 133 • ⏱️ 16:48 • 9h ago
-
----
-
-**[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 15K • 👍 610 • 💬 109 • ⏱️ 8:34 • 13h ago
-
----
-
-**[the bitcoin B**G is actually confirmed.... the Federal Reserve is ******](https://www.youtube.com/watch?v=OThYSHZpajc)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 16K • 👍 808 • 💬 149 • ⏱️ 5:12 • 13h ago
-
----
-
-**[Bitcoin vs. The Fed: Who Wins in 2026?](https://www.youtube.com/watch?v=VXZZYeCuM-U)**
-
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the Fed's year-end shift ...
-
-📺 Anthony Pompliano
-
-👁️ 20K • 👍 705 • 💬 3 • ⏱️ 32:26 • 11h ago
-
----
-
-**[Three Bitcoin Bottoms Look Identical Signaling A Huge Move Coming Next](https://www.youtube.com/watch?v=hqeGptGT2MM)**
-
-In this clip, I discuss the bottom signals that point towards a bitcoin reversal. **Exchange Partners** Bitunix Exchange ...
-
-📺 CryptosRus Extra
-
-👁️ 4K • 👍 223 • 💬 101 • ⏱️ 9:23 • 9h ago
-
----
-
-**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
-
-📺 Matt & Justus
-
-👁️ 2.6M • 👍 136K • 💬 341 • ⏱️ 1:00 • 2d ago
+👁️ 73K • 👍 4K • 💬 337 • ⏱️ 21:05 • 11h ago
 
 ---
 
@@ -401,7 +329,77 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 82 • 💬 95 • ⏱️ 15:40 • 3h ago
+👁️ 3K • 👍 147 • 💬 118 • ⏱️ 15:40 • 4h ago
+
+---
+
+**[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 15K • 👍 613 • 💬 126 • ⏱️ 8:34 • 13h ago
+
+---
+
+**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
+
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 32K • 👍 2K • 💬 249 • ⏱️ 10:23 • 7h ago
+
+---
+
+**[Did the Federal Reserve Just DESTROY Bitcoin’s 4-Year Cycle?!](https://www.youtube.com/watch?v=0Wgyk7VAHBE)**
+
+Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled the trigger. With rate cuts incoming, QE ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 151 • ⏱️ 16:48 • 10h ago
+
+---
+
+**[the bitcoin B**G is actually confirmed.... the Federal Reserve is ******](https://www.youtube.com/watch?v=OThYSHZpajc)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 17K • 👍 824 • 💬 150 • ⏱️ 5:12 • 13h ago
+
+---
+
+**[Bitcoin vs. The Fed: Who Wins in 2026?](https://www.youtube.com/watch?v=VXZZYeCuM-U)**
+
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the Fed's year-end shift ...
+
+📺 Anthony Pompliano
+
+👁️ 22K • 👍 740 • 💬 3 • ⏱️ 32:26 • 12h ago
+
+---
+
+**[Are You Ready for the Death of Bitcoin’s Four-Year Cycle?](https://www.youtube.com/watch?v=KdVShbNSHbc)**
+
+Bitcoin is grinding higher from the $80K lows, sitting ~25% below its $126K all-time high as some of the sharpest minds in macro ...
+
+📺 Swan Bitcoin
+
+👁️ 37K • 👍 2K • 💬 83 • ⏱️ 18:41 • 1d ago
+
+---
+
+**[Bitcoin Pre-FOMC](https://www.youtube.com/watch?v=kZGHzEGRyAM)**
+
+Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
+
+📺 Benjamin Cowen
+
+👁️ 85K • 👍 5K • 💬 175 • ⏱️ 9:09 • 1d ago
 
 ---
 

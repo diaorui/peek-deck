@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T09:52:01.378672+00:00'
+updated: '2025-12-11T10:16:31.978828+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 09:52 UTC  
+**Last Updated:** December 11, 2025 at 10:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +56,15 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-7h ago
+8h ago
+
+---
+
+**[Daily Robotics Recap: Agility deploys humanoids in Texas, Samsung backs "printed" motors and iCub creators raise $81M](https://www.reddit.com/r/robotics/comments/1pjsrck/daily_robotics_recap_agility_deploys_humanoids_in/)**
+
+Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
+
+1h ago
 
 ---
 
@@ -73,14 +81,6 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
 23h ago
-
----
-
-**[Daily Robotics Recap: Agility deploys humanoids in Texas, Samsung backs "printed" motors and iCub creators raise $81M](https://www.reddit.com/r/robotics/comments/1pjsrck/daily_robotics_recap_agility_deploys_humanoids_in/)**
-
-Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
-
-1h ago
 
 ---
 
@@ -104,7 +104,7 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-22h ago
+23h ago
 
 ---
 
@@ -114,7 +114,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Web
 
 **[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
 
-Business Wire • 20h ago
+Business Wire • 21h ago
 
 ---
 
@@ -123,6 +123,14 @@ Business Wire • 20h ago
 The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
 MLive.com • 1d ago
+
+---
+
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
+
+Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -156,7 +164,7 @@ Dark Reading • 1d ago
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 16h ago
+Chron • 17h ago
 
 ---
 
@@ -164,15 +172,7 @@ Chron • 16h ago
 
 $32 million investment will created 230 new jobs.
 
-WHMI • 17h ago
-
----
-
-**[Serve Robotics Gains 28% in a Month: Is the Rally Still Worth Chasing?](https://finance.yahoo.com/news/serve-robotics-gains-28-month-133200034.html)**
-
-SERV stock is up 28% on robot delivery growth and policy buzz, but with deep losses, is the rally too far ahead of itself?
-
-Yahoo Finance • 20h ago
+WHMI • 18h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 20h ago
 
 Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
 
-MIT News • 14h ago
+MIT News • 15h ago
 
 ---
 
@@ -194,17 +194,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 16K • 👍 466 • 💬 109 • ⏱️ 42:48 • 3d ago
-
----
-
-**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
-
-In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
-
-📺 Google DeepMind
-
-👁️ 55K • 👍 2K • 💬 215 • ⏱️ 17:44 • 17h ago
+👁️ 16K • 👍 467 • 💬 110 • ⏱️ 42:48 • 3d ago
 
 ---
 
@@ -214,7 +204,17 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 64K • 👍 1K • 💬 430 • ⏱️ 14:26 • 2d ago
+👁️ 67K • 👍 1K • 💬 447 • ⏱️ 14:26 • 2d ago
+
+---
+
+**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+
+In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+
+📺 Google DeepMind
+
+👁️ 64K • 👍 3K • 💬 239 • ⏱️ 17:44 • 17h ago
 
 ---
 
@@ -222,7 +222,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI . Robot
 
-👁️ 1.8M • 👍 9K • 💬 53 • ⏱️ 0:17 • 6d ago
+👁️ 1.8M • 👍 9K • 💬 54 • ⏱️ 0:17 • 6d ago
 
 ---
 
@@ -232,7 +232,17 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 33K • 👍 647 • 💬 159 • ⏱️ 18:46 • 5d ago
+👁️ 34K • 👍 647 • 💬 159 • ⏱️ 18:46 • 5d ago
+
+---
+
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
+
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
+
+📺 CNN
+
+👁️ 80K • 👍 1K • 💬 419 • ⏱️ 0:41 • 3d ago
 
 ---
 
@@ -242,7 +252,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 127K • 👍 6K • 💬 873 • ⏱️ 19:33 • 4d ago
+👁️ 128K • 👍 6K • 💬 873 • ⏱️ 19:33 • 4d ago
 
 ---
 
@@ -252,7 +262,7 @@ robots #irc #humanoid At the latest tech expo, a man shows off his brand new rob
 
 📺 She Shorts AI
 
-👁️ 128K • 👍 832 • 💬 7 • ⏱️ 0:11 • 6d ago
+👁️ 128K • 👍 833 • 💬 7 • ⏱️ 0:11 • 6d ago
 
 ---
 
@@ -262,27 +272,17 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 200K • 👍 917 • 💬 297 • ⏱️ 1:03 • 4d ago
+👁️ 200K • 👍 918 • 💬 297 • ⏱️ 1:03 • 4d ago
 
 ---
 
-**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+**[Silicon Valley’s Newest AI Diaper Changer Is Unreal 👶🤖 AI Baby Changer 4.0 — The Future Is Here](https://www.youtube.com/watch?v=x5P16JwG6fU)**
 
-After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
-
-📺 Kalil 4.0
-
-👁️ 19K • 👍 359 • 💬 66 • ⏱️ 0:59 • 4d ago
-
----
-
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
-
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the future of Smart Parenting, BabyTech and AI ...
 
 📺 AI Robot Lab
 
-👁️ 51K • 👍 532 • 💬 14 • ⏱️ 0:25 • 4d ago
+👁️ 573K • 👍 1K • 💬 35 • ⏱️ 0:20 • 20h ago
 
 ---
 
