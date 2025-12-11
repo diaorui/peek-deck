@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T08:40:08.306275+00:00'
+updated: '2025-12-11T08:59:19.694249+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 08:40 UTC  
+**Last Updated:** December 11, 2025 at 08:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -102,7 +102,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Web
 
 **[AI-driven Teddy Ruxpin using only a Bluetooth cassette adapter and software (no mods)](https://www.reddit.com/r/robotics/comments/1pjqw3w/aidriven_teddy_ruxpin_using_only_a_bluetooth/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -156,7 +156,7 @@ Chron • 15h ago
 
 $32 million investment will created 230 new jobs.
 
-WHMI • 16h ago
+WHMI • 17h ago
 
 ---
 

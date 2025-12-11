@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T08:40:08.302915+00:00'
+updated: '2025-12-11T08:59:19.690781+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 08:40 UTC  
+**Last Updated:** December 11, 2025 at 08:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.9%  
-**7d:** +5.4%  
-**30d:** -6.8%  
-**90d:** -31.6%  
-**1y:** -18.1%  
+**24h:** -4.7%  
+**7d:** +5.6%  
+**30d:** -6.6%  
+**90d:** -31.4%  
+**1y:** -17.9%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Just curious if this happens to anyone else. I sent some XMR through Changelly yesterday, and the transaction is still not confirmed. It’s just sitting there, and I’m not sure if I should wait longer or try something else next time. Has anyone experienced this before? How long did it take for you to get your coins?
 
-18m ago
+38m ago
 
 ---
 
@@ -96,7 +96,7 @@ Just curious if this happens to anyone else. I sent some XMR through Changelly y
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-18h ago
+19h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Guys although I want to make flash loan bots and stuff, but can’t find any good posts on it which teaches from start, so any u recommend?
 
-30m ago
+49m ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView • 6h ago
 
 Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -260,7 +260,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 13K • 👍 516 • 💬 69 • ⏱️ 1:10:46 • 15h ago
+👁️ 13K • 👍 516 • 💬 69 • ⏱️ 1:10:46 • 16h ago
 
 ---
 
@@ -300,7 +300,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 479 • 👍 17 • 💬 1 • ⏱️ 6:56 • 12h ago
+👁️ 479 • 👍 17 • 💬 1 • ⏱️ 6:56 • 13h ago
 
 ---
 

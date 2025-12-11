@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T08:40:08.288022+00:00'
+updated: '2025-12-11T08:59:19.671782+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 08:40 UTC  
+**Last Updated:** December 11, 2025 at 08:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 16h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 17h ago
 
 ---
 
@@ -63,7 +63,7 @@ The start-up is falling behind in the AI race.
 
 Data centers can release the same kinds of pollutants (volatile organic compounds) that led to it an increase of birth defects in China. Article links air pollution to birth defects in China. Skimming Google scholar shows many other articles with similar topics, some of which also cover infertility and general adverse health effects associated with air pollution and VOCs. What are people's thoughts on this? Can the adverse effects be avoided? What kind of laws we need to go into place to offset the environmental/health impacts of data centers?
 
-🔗 [thelancet.com](https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(25)00012-3/fulltext) • 16m ago
+🔗 [thelancet.com](https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(25)00012-3/fulltext) • 35m ago
 
 ---
 
@@ -79,13 +79,13 @@ A lot of people use the term “AI hallucination,” but many don’t clearly un
 
 Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 2h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 3h ago
 
 ---
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 15h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 16h ago
 
 ---
 
@@ -109,7 +109,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 ‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash.[1] Google launches managed MCP servers that let AI agents simply plug into its tools.[2] From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion.[3] Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds.[4] Sources: [1] https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash [2] https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/ [3] https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html [4] https://time.com/7339513/ai-fei-fei-li-virtual-worlds/
 
-2h ago
+3h ago
 
 ---
 
@@ -153,7 +153,7 @@ Futurism • 1d ago
 
 The bipartisan House bill would require agencies to label AI-generated content posted on official channels, in an effort to bring new transparency to federal AI use.
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Fox Business • 1h ago
 
 Intellistake Technologies Corp. (CSE: ISTK) (OTCQB: ISTKF) (FSE: E41) ("Intellistake" or the "Company") a developer of decentralized AI and blockchain infrastructure, today congratulated Orbit AI ("Orbit AI") on the successful launch of its first Orbital Cloud satellite and confirms it has now completed its previously announced US$500,000 strategic equity investment in the Singapore-based aerospace company.
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 58m ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 39m ago
 
 The cloud computing giant's revenue miss renews questions about its financial health.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -191,7 +191,7 @@ MarketWatch • 11h ago
 
 The Dallas Police Department should continue to use high-tech tools, like AI face recognition, cautiously.
 
-Dallas News • 35m ago
+Dallas News • 54m ago
 
 ---
 
@@ -265,7 +265,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 107 • 💬 148 • 19h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 107 • 💬 148 • 20h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 7.0k • 🔱 1.2k • 49m ago
+⭐ 7.0k • 🔱 1.2k • 1h ago
 
 ---
 
