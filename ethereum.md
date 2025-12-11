@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T19:44:19.750945+00:00'
+updated: '2025-12-11T19:54:58.225529+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 19:44 UTC  
+**Last Updated:** December 11, 2025 at 19:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.9%  
-**7d:** +6.6%  
-**30d:** -5.7%  
-**90d:** -30.8%  
-**1y:** -17.1%  
+**24h:** -4.1%  
+**7d:** +6.3%  
+**30d:** -5.9%  
+**90d:** -30.9%  
+**1y:** -17.3%  
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 6h ago
 
 The world's second-largest cryptocurrency still has considerable upside potential.
 
-The Motley Fool • 44m ago
+The Motley Fool • 54m ago
 
 ---
 
@@ -270,7 +270,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 13K • 👍 715 • 💬 71 • ⏱️ 44:48 • 7h ago
+👁️ 13K • 👍 715 • 💬 71 • ⏱️ 44:48 • 8h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 722 • 👍 40 • 💬 8 • ⏱️ 4:36 • 9h ago
+👁️ 722 • 👍 40 • 💬 8 • ⏱️ 4:36 • 10h ago
 
 ---
 

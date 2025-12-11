@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T19:44:19.736156+00:00'
+updated: '2025-12-11T19:54:58.210658+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 19:44 UTC  
+**Last Updated:** December 11, 2025 at 19:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -103,7 +103,7 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 
 I’ve been using stratablue to analyze documents and meeting notes. It can detect repeated issues or flag unusual phrases, which helps catch things I might overlook. When combining multiple sources, sometimes the insights conflict, but it’s impressive how confidently it presents results. I’m trying to figure out how to trust outputs without double-checking everything manually. Does Strata AI handle structured vs unstructured data differently? How do you know when its insight is reliable versus misleading? Has anyone tested it systematically, and how do you decide which patterns are actually worth acting on?
 
-56m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ cnbc.com • 1h ago
 
 Open AI said it beats competing models from Google and Anthropic across a wide range of benchmarks.
 
-Fortune • 48m ago
+Fortune • 58m ago
 
 ---
 
@@ -147,7 +147,7 @@ The Verge • 1h ago
 
 TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
 
-Time Magazine • 6h ago
+Time Magazine • 7h ago
 
 ---
 
@@ -155,7 +155,7 @@ Time Magazine • 6h ago
 
 The “Architects of AI” were named Time magazine’s person of the year for 2025. The magazine on Thursday cited 2025 as the year when the potential of artificial intelligence “roared into view” with no turning back.
 
-AP News • 1h ago
+AP News • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ AP News • 1h ago
 
 <body><p>STORY: :: TIME / TIME Person of the Year</p><p>:: Released December 11, 2025</p><p>:: &nbsp;Time Magazine names 'The Architects of AI' as its 'Person of the Year'</p><p>:: Fabian Stephany, AI Researcher and Lecturer, University of Oxford</p><p>"AI is not a person. AI wouldn't exist without people. But I still advocate for including more humans into this than just those big tech names or big names from, from the machine learning industry. //</p><p>"It needs a lot of work to build this technology. It needs a lot of work to create the data that is fed into this technology, there are millions of people working around the world //</p><p>"And I think what people should generally remember is that there is no technological revolution without humans, without human skills, because it’s us creating, maintaining and governing this technology. So ultimately, the decision of where this ride is going to go is up to us."</p><p>The 2025 "Person of the Year" issue features a cover story that explores how AI changed the world over the year in new and "sometimes frightening ways.” It includes interviews with Nvidia Chief Executive Jensen Huang, whose chips are powering the AI boom, and AI investors such as SoftBank CEO Masayoshi Son.</p><p>It also explores such troubling aspects of AI as the death of a 16-year-old Californian who committed suicide, after which his parents sued ChatGPT maker OpenAI, blaming the company for their son’s death because of conversations he had with the chatbot.</p><p>Time is among many media outlets partnering with AI firms to license content and develop new tools. In June 2024 it signed a multi-year content deal with OpenAI that gave the ChatGPT maker access to its archived news content. In response to user queries, the chatbot cites and links back to the source on Time.com.</p></body>
 
-Yahoo • 40m ago
+Yahoo • 51m ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo • 40m ago
 
 Jensen Huang biography author Stephen Witt explains why Google's self-developed AI model, Gemini, could pose a threat to Nvidia's AI dominance
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 57m ago
 
 Prime Video's latest needle-poke into generative AI's bubble comes on the heels of its anime dubbing debacle.
 
-Gizmodo • 35m ago
+Gizmodo • 46m ago
 
 ---
 
@@ -187,7 +187,7 @@ Gizmodo • 35m ago
 
 Wall Street got the rate cut it wanted. But with the Federal Reserve set to take a more cautious approach to trimming interest rates in 2026, investors are now left to wrestle with other concerns that had been put on the back burner while Fed rate cuts were top of mind.
 
-CNN • 53m ago
+CNN • 1h ago
 
 ---
 
@@ -331,7 +331,7 @@ Breaking: Disney Goes ALL-IN on AI! Hands IP to Sora & Chat GPT for Disney Plus!
 
 📺 WDW Pro
 
-👁️ 2K • 👍 285 • 14h ago
+👁️ 2K • 👍 285 • 15h ago
 
 ---
 

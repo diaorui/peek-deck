@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T19:44:19.744929+00:00'
+updated: '2025-12-11T19:54:58.219339+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 19:44 UTC  
+**Last Updated:** December 11, 2025 at 19:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +2.6%  
-**30d:** -10.1%  
-**90d:** -21.1%  
-**1y:** -8.5%  
+**24h:** -1.9%  
+**7d:** +2.1%  
+**30d:** -10.7%  
+**90d:** -21.6%  
+**1y:** -9.0%  
 
 ---
 
@@ -113,7 +113,7 @@ For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-16h ago
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ Iooking at the the last 4 FOMC meetings and we see this on the chart: June 18 ->
 
 We back baby!
 
-21h ago
+22h ago
 
 ---
 
@@ -161,7 +161,7 @@ BBC • 19h ago
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -181,7 +181,7 @@ Investor's Business Daily • 4h ago
 
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 59m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -319,7 +319,7 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 838 • 💬 95 • ⏱️ 15:31 • 5h ago
+👁️ 9K • 👍 838 • 💬 95 • ⏱️ 15:31 • 6h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin #Crypto #Finance Guests Markus Thielen - https://youtube.com/live/vYI1CO
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 649 • 💬 246 • ⏱️ 35:32 • 4h ago
+👁️ 11K • 👍 649 • 💬 246 • ⏱️ 35:32 • 5h ago
 
 ---
 
