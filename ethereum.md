@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T13:30:20.351590+00:00'
+updated: '2025-12-11T13:58:01.150560+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 13:30 UTC  
+**Last Updated:** December 11, 2025 at 13:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** +5.9%  
+**24h:** -3.6%  
+**7d:** +5.8%  
 **30d:** -6.3%  
 **90d:** -31.2%  
-**1y:** -17.6%  
+**1y:** -17.7%  
 
 ---
 
@@ -96,7 +96,7 @@ Guys although I want to make flash loan bots and stuff, but can’t find any goo
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-23h ago
+1d ago
 
 ---
 
@@ -186,13 +186,13 @@ CoinDesk • 1d ago
 
 BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
 **[October 10 Crash Whale Adds $100M+ in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-adds-100m-in-ethereum-longs-can-eth-hit-5000-by-2026/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Block • 2d ago
 
 Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 4K • 👍 324 • 💬 13 • ⏱️ 44:48 • 1h ago
+👁️ 4K • 👍 324 • 💬 13 • ⏱️ 44:48 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 292 • 👍 22 • 💬 5 • ⏱️ 4:36 • 3h ago
+👁️ 292 • 👍 22 • 💬 5 • ⏱️ 4:36 • 4h ago
 
 ---
 
@@ -266,7 +266,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 15K • 👍 589 • 💬 82 • ⏱️ 1:10:46 • 20h ago
+👁️ 15K • 👍 589 • 💬 82 • ⏱️ 1:10:46 • 21h ago
 
 ---
 
@@ -326,7 +326,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 5K • 👍 815 • 💬 141 • ⏱️ 15:50 • 7h ago
+👁️ 5K • 👍 815 • 💬 141 • ⏱️ 15:50 • 8h ago
 
 ---
 

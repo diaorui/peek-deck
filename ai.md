@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T13:30:20.336938+00:00'
+updated: '2025-12-11T13:58:01.135321+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 13:30 UTC  
+**Last Updated:** December 11, 2025 at 13:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 21h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 22h ago
 
 ---
 
@@ -57,7 +57,7 @@ The start-up is falling behind in the AI race.
 
 “Holy shit,” he wrote on X. “I’ve used ChatGPT every day for 3 years. Just spent 2 hours on Gemini 3. I’m not going back. The leap is insane.”
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 5h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ The start-up is falling behind in the AI race.
 
 Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 7h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 Key Points In under 24 hours, India received investments of more than $50 billion from Amazon and Microsoft. Google is investing $15 billion, while AI companies like ChatGPT, Google and Perplexity are offering free access to AI tools for millions of Indians. India has abundance of resources for data centers, large talent and digital user pool and market opportunity.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/11/big-tech-microsoft-amazon-google-india-billions-in-investment.html) • 26m ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/11/big-tech-microsoft-amazon-google-india-billions-in-investment.html) • 54m ago
 
 ---
 
@@ -87,7 +87,7 @@ A lot of people use the term “AI hallucination,” but many don’t clearly un
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 20h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 21h ago
 
 ---
 
@@ -103,7 +103,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 ‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash.[1] Google launches managed MCP servers that let AI agents simply plug into its tools.[2] From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion.[3] Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds.[4] Sources: [1] https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash [2] https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/ [3] https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html [4] https://time.com/7339513/ai-fei-fei-li-virtual-worlds/
 
-7h ago
+8h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Atlantic • 1d ago
 
 The suot alleges the artificial intelligence chatbot intensified a man's "paranoid delusions" and helped direct them at his mother before he died by suicide.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ New York Post • 2h ago
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Time Magazine • 47m ago
+Time Magazine • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Time Magazine • 47m ago
 
 The people behind the rise of artificial intelligence have been given the magazine’s annual title.
 
-Yahoo • 14m ago
+Yahoo • 42m ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo • 14m ago
 
 The magazine is recognizing how artificial intelligence is influencing our lives, for better or for worse.
 
-TODAY.com • 31m ago
+TODAY.com • 58m ago
 
 ---
 
@@ -171,7 +171,7 @@ TODAY.com • 31m ago
 
 Shares in Nvidia, Micron and Microsoft were also lower in premarket trade on Thursday.
 
-cnbc.com • 3h ago
+cnbc.com • 4h ago
 
 ---
 
@@ -179,7 +179,7 @@ cnbc.com • 3h ago
 
 Weaker-than-forecast quarterly data for Larry Ellison’s tech company shows slowdown in revenue growth but big rise in spending
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 3h ago
 
 Leaders say agents should handle the busywork so human managers can be more connected to their teams.
 
-Fortune • 15m ago
+Fortune • 43m ago
 
 ---
 
@@ -231,7 +231,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 311 • 💬 301 • 20h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 311 • 💬 301 • 21h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -291,7 +291,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 43K • 👍 2K • 💬 336 • ⏱️ 14:55 • 19h ago
+👁️ 43K • 👍 2K • 💬 336 • ⏱️ 14:55 • 20h ago
 
 ---
 
@@ -445,7 +445,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 251 • 20h ago
+⬇️ 7,222 • ❤️ 251 • 21h ago
 
 ---
 
@@ -521,7 +521,7 @@ SamKash-Tolstoy is a LoRA adapter for DeepSeek-R1-Distill-Qwen-1.5B, specialized
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 183 • 💬 3 • ⭐ 6,453 • 13d ago
+▲ 183 • 💬 3 • ⭐ 6,453 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -549,7 +549,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 106 • 💬 3 • ⭐ 257 • 2d ago
+▲ 107 • 💬 3 • ⭐ 257 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -589,7 +589,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 55 • 💬 2 • ⭐ 1,019 • 9d ago
+▲ 56 • 💬 2 • ⭐ 1,019 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -601,7 +601,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 9 • 💬 2 • ⭐ 11,781 • 3d ago
+▲ 9 • 💬 2 • ⭐ 11,801 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -641,7 +641,7 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 TwinFlow is a 1-step generative model framework that enhances inference efficiency without requiring fixed pretrained teacher models or standard adversarial networks, achieving high performance on text-to-image tasks and scaling efficiently.
 
-▲ 63 • 💬 8 • ⭐ 114 • 8d ago
+▲ 64 • 💬 8 • ⭐ 114 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.05150) • [💻 code](https://github.com/inclusionAI/TwinFlow) • [🔗 project](https://zhenglin-cheng.com/twinflow)
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 7.8k • 🔱 1.3k • 2h ago
+⭐ 8.0k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -667,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.9k • 🔱 219 • 4h ago
+⭐ 1.9k • 🔱 221 • 3m ago
 
 ---
 
@@ -717,7 +717,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 889 • 🔱 284 • 5d ago
+⭐ 890 • 🔱 284 • 5d ago
 
 ---
 
@@ -747,7 +747,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 606 • 🔱 87 • 11h ago
+⭐ 607 • 🔱 87 • 11h ago
 
 ---
 

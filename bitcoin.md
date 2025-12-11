@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T13:30:20.345444+00:00'
+updated: '2025-12-11T13:58:01.144342+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 13:30 UTC  
+**Last Updated:** December 11, 2025 at 13:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,998.05
+### $90,035.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** +1.2%  
-**30d:** -11.4%  
-**90d:** -22.2%  
-**1y:** -9.8%  
+**24h:** -2.1%  
+**7d:** +1.0%  
+**30d:** -11.6%  
+**90d:** -22.4%  
+**1y:** -10.0%  
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-10h ago
+11h ago
 
 ---
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 We back baby!
 
-15h ago
+16h ago
 
 ---
 
@@ -163,7 +163,7 @@ Reuters • 2h ago
 
 <body><p>STORY: Bitcoin fell below $90,000 on Thursday (December 11) and dragged other cryptocurrencies down with it.</p><p>The fall followed fresh market worries about AI profits.</p><p>Risk appetite fell after U.S. cloud firm Oracle's profit and revenue outlook came in below forecasts the day before, and the firm said it expected higher spending.</p><p>Investors took that as a sign AI infrastructure outlays aren't turning profits as fast as they hoped.</p><p>Bitcoin did rise back just above the $90,000 mark by morning in Europe, but&nbsp;remained down around 2% on the day.&nbsp;</p><p>The moves undid two days of gains and showed further weakness that began in the U.S. trading session on Wednesday after the Federal Reserve cut interest rates.</p><p>Thursday's decline came days after Standard Chartered slashed its expectations for bitcoin.</p><p>The lender had projected the crypto token to hit $200,000 by the end of this year, but has now lowered its forecast to $100,000.</p></body>
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ BBC • 13h ago
 
 **[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqfEtkbOypv56KhCsoJLH369aEYJX0Yh1daeL53HPTd0AwsNbBLn_YsB&gaa_ts=693acacf&gaa_sig=5O9JK7VYMDXen6IcEh8nStshkJtPviXDtBuP42Fn5Jb3zhNNnG03YCRw4alZuHqhgdmLEYvHPKsntkb2gu7N6w%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -193,7 +193,7 @@ Barron's • 23h ago
 
 Bitcoin price is still correcting, but two key metrics hint at a shift. Can a 4% breakout finally end the downturn?
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -233,7 +233,7 @@ Yahoo Finance • 1d ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 6d ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 7d ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -311,7 +311,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 43K • 👍 2K • 💬 519 • ⏱️ 8:26 • 12h ago
+👁️ 43K • 👍 2K • 💬 519 • ⏱️ 8:26 • 13h ago
 
 ---
 
@@ -351,7 +351,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 16K • 👍 616 • 💬 148 • ⏱️ 8:34 • 16h ago
+👁️ 16K • 👍 616 • 💬 148 • ⏱️ 8:34 • 17h ago
 
 ---
 
@@ -371,7 +371,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 18K • 👍 844 • 💬 160 • ⏱️ 5:12 • 16h ago
+👁️ 18K • 👍 844 • 💬 160 • ⏱️ 5:12 • 17h ago
 
 ---
 

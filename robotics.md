@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T13:30:20.354848+00:00'
+updated: '2025-12-11T13:58:01.153882+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 13:30 UTC  
+**Last Updated:** December 11, 2025 at 13:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-8h ago
+9h ago
 
 ---
 
@@ -58,13 +58,13 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-2h ago
+3h ago
 
 ---
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Here are the top developments today for those following the industry: 1. Agility
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 3h ago
 
 ---
 
@@ -102,7 +102,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 **[Would a sub-millisecond, CPU-only command-validation layer be useful in real robotic systems? Looking for technical feedback.](https://www.reddit.com/r/robotics/comments/1pjwmb7/would_a_submillisecond_cpuonly_commandvalidation/)**
 
-45m ago
+1h ago
 
 ---
 
@@ -150,7 +150,7 @@ Chron • 20h ago
 
 $32 million investment will created 230 new jobs.
 
-WHMI • 21h ago
+WHMI • 22h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Robot Report • 1d ago
 
 Analog cameras are nowhere near as efficient as biological eyes. If you’ve ever handled a single-lens reflex (SLR) camera, especially if it had a zoom lens attached, you know how heavy they are, and how tricky and time-consuming adjusting their focus can be.
 
-New Atlas • 18h ago
+New Atlas • 19h ago
 
 ---
 
