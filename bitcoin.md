@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T23:50:06.777937+00:00'
+updated: '2025-12-11T00:45:11.243334+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 23:50 UTC  
+**Last Updated:** December 11, 2025 at 00:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,44 +38,52 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,981.29
+### $91,401.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.2%  
-**30d:** -10.9%  
-**90d:** -20.8%  
-**1y:** -9.0%  
+**24h:** -1.2%  
+**7d:** +2.4%  
+**30d:** -10.4%  
+**90d:** -21.3%  
+**1y:** -8.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1843.48B
+**Market Cap:** $1822.57B
 Rank #1
 
-**Circulating Supply:** 19,960,371 BTC
+**Circulating Supply:** 19,960,396 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.8%
+-27.6%
 
 **All-Time Low:** $67.81
-+135992.0%
++134530.6%
 
 ---
 
 ## Fear & Greed Index
 
-### 26
+### 29
 **FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
+
+**[The printer is going brrr-illiant this Friday, ready to blast the balance sheet with a $40 BILLION a month.](https://www.reddit.com/r/Bitcoin/comments/1pjfpa3/the_printer_is_going_brrrilliant_this_friday/)**
+
+We back baby!
+
+2h ago
+
+---
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
@@ -87,7 +95,7 @@ Rank #1
 
 Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young and stupid”. Priority was go to the cinema with my GF (now wife). Now, we sometimes get back to that time and this ATM with that BTC price, crying about our stupidity not buying. Some years later, started to stack sats . Got married (sold all my stocks for the wedding), btw. I had AMD at ~7$, CDProject ~2$ and many more 😁 Bought a house, my son was born. Got mortgage (value of the house went like +200% now), 30% in ETF, 70% BTC. Be happy, DCA, HODL and be free 🔥🚀 Peace!
 
-3h ago
+4h ago
 
 ---
 
@@ -95,15 +103,7 @@ Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young
 
 Bottom tex
 
-9h ago
-
----
-
-**[The printer is going brrr-illiant this Friday, ready to blast the balance sheet with a $40 BILLION a month.](https://www.reddit.com/r/Bitcoin/comments/1pjfpa3/the_printer_is_going_brrrilliant_this_friday/)**
-
-We back baby!
-
-1h ago
+10h ago
 
 ---
 
@@ -111,39 +111,39 @@ We back baby!
 
 Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-2h ago
+3h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
 
-5h ago
-
----
-
-**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
-
-23h ago
-
----
-
-**[Fed goes brrrrrrrrrrr again](https://www.reddit.com/r/Bitcoin/comments/1pjd02r/fed_goes_brrrrrrrrrrr_again/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/finance/fed-says-will-start-reserve-management-treasury-bill-buying-2025-12-10/) • 3h ago
+6h ago
 
 ---
 
 **[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
-**[Account drained on exchange - Help!](https://www.reddit.com/r/Bitcoin/comments/1pizdbr/account_drained_on_exchange_help/)**
+**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
+1d ago
 
-13h ago
+---
+
+**[Reliable Non-KYC Exchange?](https://www.reddit.com/r/Bitcoin/comments/1pjdbeg/reliable_nonkyc_exchange/)**
+
+Hi all, I'm looking for a way to buy Bitcoin without KYC, I heard about localbitcoins back in the days but i noticed it was closed, I really couldn't fin anything else, do you have a place to do that?
+
+4h ago
+
+---
+
+**[Fed goes brrrrrrrrrrr again](https://www.reddit.com/r/Bitcoin/comments/1pjd02r/fed_goes_brrrrrrrrrrr_again/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/finance/fed-says-will-start-reserve-management-treasury-bill-buying-2025-12-10/) • 4h ago
 
 ---
 
@@ -151,31 +151,11 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://finance.yahoo.com/news/bitcoin-ethereum-waver-fed-delivers-191812651.html)**
+**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
 
-The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
+BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Yahoo Finance • 4h ago
-
----
-
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqeR5aqCHJC80dnDjyh6VAyW6Rf4hBDZ7sbZIvRGuJslV64i00jy3Ebx&gaa_ts=693a048b&gaa_sig=KkjnvOTj9Lft1Y9AhmDjEuVXOW-aozK0Z7smg3fnQHTtSaknoxtNSDOoe-HRCiV_3GA_DnQqoh_oV95wRHdUCg%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
-
-Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
-
-Business Insider • 13h ago
-
----
-
-**[Bitcoin Won’t Hit $200,000 in 2025, Crypto Bull Concedes. Where It’s Going Instead.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-price-crypto-bull-01f83bf7?gaa_at=eafs&gaa_n=AWEtsqcbYtAhIFTzLbPJaLSMKO7U6TUk4V_Llm9DcUV5-a9FdOAGAGC3jHMj&gaa_ts=693a048b&gaa_sig=8FDB62IvLhaa7wwK5PKeRs60IzacM3oStOCoiacYbOKdgz3r7naymmJ58XabMqGLDHYzmDD1upgBUPKPs1lrKg%3D%3D)**
-
-Barron's • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -187,39 +167,61 @@ CNBC • 1h ago
 
 ---
 
-**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
-
-BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
-
-Bloomberg.com • 2d ago
-
----
-
 **[Bitcoin ETFs turn positive with $152 million in inflows ahead of Fed rate decision, while traders stay defensive amid expected volatility: analysts](https://www.theblock.co/post/382038/bitcoin-etfs-turn-positive-with-152-million-in-inflows-ahead-of-fed-rate-decision-while-traders-stay-defensive-amid-expected-volatility-analysts)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
-**[SpaceX Moves $95M in Bitcoin Ahead of Potential Mega IPO](https://bitcoinmagazine.com/news/spacex-moves-95m-in-bitcoin-ipo)**
+**[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://finance.yahoo.com/news/bitcoin-ethereum-waver-fed-delivers-191812651.html)**
 
-SpaceX moved 1,021 BTC worth $94.5, part of a series of transfers this year totaling 8,910 BTC as the company consolidates and upgrades its bitcoin holdings.
+The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
 
-Bitcoin Magazine • 5h ago
-
----
-
-**[Elon Musk's SpaceX Moves Bitcoin Ahead of Potential Record IPO](https://finance.yahoo.com/news/elon-musks-spacex-moves-bitcoin-222009020.html)**
-
-Elon Musk's private aerospace company SpaceX moved more of its Bitcoin holdings on Wednesday ahead of reported blockbuster IPO plans.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Elon Musk's SpaceX moves another $95 million of its bitcoin stash amid reported 2026 IPO plans: Arkham](https://www.theblock.co/post/382034/elon-musk-spacex-moves-95-million-usd-bitcoin-amid-ipo-plans-arkham)**
+**[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
 
-The Block • 12h ago
+Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
+
+BBC • 22m ago
+
+---
+
+**[Bitcoin Exchange Paxful Agrees to Plead Guilty, Hit With $7.5 Million in Penalties](https://finance.yahoo.com/news/bitcoin-exchange-paxful-agrees-plead-235649599.html)**
+
+Authorities say Paxful was used by money launderers and other criminals—and that the Bitcoin exchange knew about it.
+
+Yahoo Finance • 48m ago
+
+---
+
+**[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
+
+The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
+
+CNBC • 1d ago
+
+---
+
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqcEocDWxQz-DqwaxJoXTLSIShPmWnLZ0VLA5tbvZ50bzi8_zSVhA-nC&gaa_ts=693a1783&gaa_sig=H1m1aozLfqX7bh6P-0zE5aMcDDBAKD31Lk99MmxeOtWeb3DUJBmoeT_g-yhbtoHRGuvWLiG9a0wA7Nbpny08bg%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
+
+Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
+
+Business Insider • 14h ago
+
+---
+
+**[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
+
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -261,7 +263,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 12h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 13h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -270,6 +272,12 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
 ⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+
+---
+
+**[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
+
+⬆️ 1 • 💬 0 • 1h ago
 
 ---
 
@@ -289,15 +297,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 11h ago
-
----
-
-**[Ethereum Fusaka upgrade set for early December rollout](https://news.ycombinator.com/item?id=46217004)**
-
-The Ethereum Fusaka upgrade adds PeerDAS and scalability gains, enhancing Ethereum’s performance and supporting faster growth across Layer 2 solutions.
-
-⬆️ 1 • 💬 0 • 11h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/learn/ethereum-fusaka-upgrade-set-for-early-december-rollout-will-we-finally-see-altseason/)
+⬆️ 3 • 💬 0 • 12h ago
 
 ---
 
@@ -305,43 +305,63 @@ The Ethereum Fusaka upgrade adds PeerDAS and scalability gains, enhancing Ethere
 
 ## YouTube Videos: "bitcoin"
 
+**[BITCOIN  - THE FED JUST IGNITED THE MARKET!!](https://www.youtube.com/watch?v=hb65Hdq0_sY)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 9K • 👍 525 • 💬 91 • ⏱️ 8:34 • 3h ago
+
+---
+
+**[Bitcoin vs. The Fed: Who Wins in 2026?](https://www.youtube.com/watch?v=VXZZYeCuM-U)**
+
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the Fed's year-end shift ...
+
+📺 Anthony Pompliano
+
+👁️ 7K • 👍 426 • 💬 3 • ⏱️ 32:26 • 2h ago
+
+---
+
+**[The Secret War Behind Bitcoin&#39;s Price Crash (Not What You Think)](https://www.youtube.com/watch?v=4cVGR6n7ttY)**
+
+Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be engineering your complete Wealth Operating ...
+
+📺 Mark Moss
+
+👁️ 10K • 👍 1K • 💬 95 • ⏱️ 21:05 • 1h ago
+
+---
+
+**[This Is the Perfect Setup for a NON-STOP Bitcoin Bull Run - Mike Novogratz](https://www.youtube.com/watch?v=OC0hUB_JN2o)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 3K • 👍 142 • 💬 8 • ⏱️ 21:00 • 8h ago
+
+---
+
 **[The INEVITABLE Bitcoin Catch Up Trade Started Yesterday! [You Have 24H]](https://www.youtube.com/watch?v=65KgU0oEeOg)**
 
 The biggest crypto catch-up trade has begun, and Ran explains what's driving it. Bitcoin is breaking out, but key signals suggest ...
 
 📺 Crypto Banter
 
-👁️ 22K • 👍 2K • 💬 31 • ⏱️ 29:14 • 8h ago
+👁️ 24K • 👍 2K • 💬 31 • ⏱️ 29:14 • 9h ago
 
 ---
 
-**[Bitcoin Has Only Done This 5 Times In HISTORY](https://www.youtube.com/watch?v=IgPE2JZ2N-A)**
+**[This Is Actually Happening on Bitcoin.](https://www.youtube.com/watch?v=M_VN8SPMlNw)**
 
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+Cyber Monday Special Offer! Get a 40% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING December 10, ...
 
-📺 Crypto Tips
+📺 Bravos Research Crypto
 
-👁️ 5K • 👍 629 • 💬 47 • ⏱️ 8:36 • 5h ago
-
----
-
-**[BREAKING: Michael Saylor Reveals That EVERY MAJOR Bank is Buying Bitcoin?! | EP 1394](https://www.youtube.com/watch?v=nYLaxkfPxis)**
-
-Michael Saylor drops a BOMBSHELL at Bitcoin MENA that PROVES 2026 is gonna be BULLISH AF!
-
-📺 Simply Bitcoin
-
-👁️ 14K • 👍 683 • 💬 131 • ⏱️ 1:20:17 • 1d ago
-
----
-
-**[the bitcoin B**G is actually confirmed.... the Federal Reserve is ******](https://www.youtube.com/watch?v=OThYSHZpajc)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 5K • 👍 472 • 💬 121 • ⏱️ 5:12 • 3h ago
+👁️ 16K • 👍 922 • 💬 23 • ⏱️ 6:51 • 6h ago
 
 ---
 
@@ -351,17 +371,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 117 • ⏱️ 41:09 • 8h ago
+👁️ 28K • 👍 1K • 💬 196 • ⏱️ 41:09 • 9h ago
 
 ---
 
-**[bitcoin just broke the model](https://www.youtube.com/watch?v=hWFQHVBrJN8)**
+**[BREAKING: Michael Saylor Reveals That EVERY MAJOR Bank is Buying Bitcoin?! | EP 1394](https://www.youtube.com/watch?v=nYLaxkfPxis)**
 
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+Michael Saylor drops a BOMBSHELL at Bitcoin MENA that PROVES 2026 is gonna be BULLISH AF!
 
-📺 Tyler S
+📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 349 • ⏱️ 7:23 • 1d ago
+👁️ 14K • 👍 683 • 💬 112 • ⏱️ 1:20:17 • 1d ago
 
 ---
 
@@ -371,17 +391,7 @@ Anthony and John Pompliano dig into what's really at stake at the upcoming Feder
 
 📺 Anthony Pompliano
 
-👁️ 27K • 👍 987 • 💬 32 • ⏱️ 35:48 • 1d ago
-
----
-
-**[Bitcoin PUMPS As U.S. Banks Finally Get Crypto Trading Approval! Is The Bottom In?](https://www.youtube.com/watch?v=wOaOqLIdWiM)**
-
-Bitcoin #Crypto #Finance Bitcoin enters a historic new era as U.S. regulators officially approve banks to act as crypto ...
-
-📺 The Wolf Of All Streets
-
-👁️ 13K • 👍 688 • 💬 124 • ⏱️ 37:24 • 9h ago
+👁️ 28K • 👍 993 • 💬 32 • ⏱️ 35:48 • 1d ago
 
 ---
 
@@ -391,17 +401,7 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 58K • 👍 3K • 💬 287 • ⏱️ 16:39 • 23h ago
-
----
-
-**[Bitcoin Is Repeating 2019 And Most People Are Completely Asleep - Ben Cowen](https://www.youtube.com/watch?v=mF6TOLw1IxU)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 285 • 💬 59 • ⏱️ 21:52 • 1d ago
+👁️ 60K • 👍 3K • 💬 275 • ⏱️ 16:39 • 1d ago
 
 ---
 
