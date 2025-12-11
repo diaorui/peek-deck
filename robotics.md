@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T10:16:31.978828+00:00'
+updated: '2025-12-11T10:45:13.610508+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 10:16 UTC  
+**Last Updated:** December 11, 2025 at 10:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-5h ago
+6h ago
 
 ---
 
@@ -72,7 +72,7 @@ Here are the top developments today for those following the industry: 1. Agility
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-19h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 In this tutorial you will learn: how γ affects convergence and stability in Q-Learning, how to choose the right value for your own RL environment, and what happens when γ exceeds the recommended limits (for example, γ > 1.0) and why the algorithm crashes. Link: Discount Factor (gamma) Explained With Q-Learning + CartPole
 
-2h ago
+3h ago
 
 ---
 
@@ -152,7 +152,7 @@ Bloomberg.com • 2d ago
 
 LimX Dynamics’ humanoid robot Oli navigates sand, rocks, and debris with impressive balance and stability in new demo video.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 21h ago
 
 ---
 
@@ -214,7 +214,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 64K • 👍 3K • 💬 239 • ⏱️ 17:44 • 17h ago
+👁️ 64K • 👍 3K • 💬 239 • ⏱️ 17:44 • 18h ago
 
 ---
 
@@ -282,7 +282,7 @@ At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the 
 
 📺 AI Robot Lab
 
-👁️ 573K • 👍 1K • 💬 35 • ⏱️ 0:20 • 20h ago
+👁️ 573K • 👍 1K • 💬 35 • ⏱️ 0:20 • 21h ago
 
 ---
 

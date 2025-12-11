@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T10:16:31.976006+00:00'
+updated: '2025-12-11T10:45:13.607252+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 10:16 UTC  
+**Last Updated:** December 11, 2025 at 10:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** +6.0%  
-**30d:** -6.2%  
-**90d:** -31.1%  
-**1y:** -17.5%  
+**24h:** -3.6%  
+**7d:** +5.9%  
+**30d:** -6.3%  
+**90d:** -31.2%  
+**1y:** -17.7%  
 
 ---
 
@@ -112,7 +112,7 @@ Guys although I want to make flash loan bots and stuff, but can’t find any goo
 
 oskar thorén is one of the leads in ethereum foundation's newest IPTF, or institutional privacy task force. he's a freedom maxi, zero-knowledge wizard, taiwan expart, and a dear friend. an electric mix of sovereign energy! oskar is one of the most well spoken advocates for privacy, zk, and self-custody, and in this interview where we hiked xiangshan in taipei, he holds nothing back to give us banger insight after banger insight. we talked all things zk and privacy, including: how the snowden revelations ignited his passion his early work in Vac and Waku to create encrypted messaging back when early ethereum was only 3 pillars (eth/swarm/whisper) how it informed his passion for zero knowledge cryptography and the technical applications of it to privacy-preservation his contributions to MoPro, a zk mobile proving toolkit that's bringing zk ever closer to reality on our phones his work on https://zkintro.com where he creates friendly resources to zero-knowledge cryptography from beginners to engineers to researchers, how his latest venture as one of the co-leads in the EF's newest task force, the Institutional Privacy Task Force, is bringing cypherpunk-grade privacy to the world's biggest financial institutions, and his 3-pronged mindset to achieving self-sovereignty you can catch the full interview on my youtube channel at: https://youtu.be/_BWRyIqCmVI --------------------------- if we're meeting for the first time, hi 👋! i spread the good word on good work in crypto. it's a challenging road fighting the cesspool that is crypto youtube... but im energized by creating principles-led, values-driven content a like, sub, comment, share goes a long way <3
 
-🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 17h ago
+🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 18h ago
 
 ---
 
@@ -156,7 +156,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 14h ago
 
 BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -226,7 +226,7 @@ CoinDesk • 2d ago
 
 A Bitcoin OG has expanded their Ethereum long position to $392.5M on Hyperliquid, with liquidation set at $2,234 per ETH.
 
-Crypto Briefing • 8h ago
+Crypto Briefing • 9h ago
 
 ---
 
@@ -240,7 +240,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 249 • ⏱️ 10:23 • 7h ago
+👁️ 32K • 👍 2K • 💬 249 • ⏱️ 10:23 • 8h ago
 
 ---
 
@@ -250,7 +250,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 14K • 👍 549 • 💬 65 • ⏱️ 1:10:46 • 17h ago
+👁️ 14K • 👍 549 • 💬 65 • ⏱️ 1:10:46 • 18h ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 323 • 💬 122 • ⏱️ 18:26 • 9h ago
+👁️ 9K • 👍 323 • 💬 122 • ⏱️ 18:26 • 10h ago
 
 ---
 
@@ -330,7 +330,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 241 • 💬 9 • ⏱️ 6:52 • 17h ago
+👁️ 4K • 👍 241 • 💬 9 • ⏱️ 6:52 • 18h ago
 
 ---
 

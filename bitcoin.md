@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T10:16:31.970711+00:00'
+updated: '2025-12-11T10:45:13.601218+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 10:16 UTC  
+**Last Updated:** December 11, 2025 at 10:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,211.29
+### $90,208.01
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.9%  
-**7d:** +1.5%  
+**7d:** +1.4%  
 **30d:** -11.2%  
-**90d:** -22.0%  
+**90d:** -22.1%  
 **1y:** -9.6%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -109,7 +109,7 @@ We back baby!
 
 All precious metals are moving higher after yhe dovish fed move Why is bitcoin dropping? Is that a conflicting temporary move? Or is there anything else I am missing?
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 2025: It’s no longer just one black sheep. We’re already the 4% who get what Bitcoin is really bringing… and we’re still learning. We’re a scattered pack of black sheep now… but getting more visible every day. nostr: npub1855ur6q8lf7pjfvceg3s5qd0zuujqyz59h8zmxpquflunfpwkv4s3x3y8v #Bitcoin #CryptoMemes #HODL #BitcoinMemes
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 Bottom tex
 
-19h ago
+20h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bottom tex
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bottom tex
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -177,7 +177,7 @@ Barron's • 20h ago
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -189,7 +189,7 @@ MarketWatch • 1d ago
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 22h ago
+Investor's Business Daily • 23h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Wall Street Journal • 2d ago
 
 Its presales have been gaining attention among the crypto community, since the token claims to promise quicker, cheaper Bitcoin transactions.
 
-New York Post • 21m ago
+New York Post • 50m ago
 
 ---
 
@@ -261,7 +261,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 22h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 23h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -275,7 +275,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 10h ago
+⬆️ 2 • 💬 0 • 11h ago
 
 ---
 
@@ -295,7 +295,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 21h ago
+⬆️ 3 • 💬 0 • 22h ago
 
 ---
 
@@ -349,7 +349,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 249 • ⏱️ 10:23 • 7h ago
+👁️ 32K • 👍 2K • 💬 249 • ⏱️ 10:23 • 8h ago
 
 ---
 
@@ -369,7 +369,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 17K • 👍 824 • 💬 150 • ⏱️ 5:12 • 13h ago
+👁️ 17K • 👍 824 • 💬 150 • ⏱️ 5:12 • 14h ago
 
 ---
 
