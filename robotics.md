@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T00:45:11.252581+00:00'
+updated: '2025-12-11T02:32:55.038570+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 00:45 UTC  
+**Last Updated:** December 11, 2025 at 02:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-10h ago
+12h ago
 
 ---
 
@@ -44,7 +44,21 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-14h ago
+15h ago
+
+---
+
+**[My inverse kinematics are flawless and everything is going according to plan](https://www.reddit.com/r/robotics/comments/1pjka0v/my_inverse_kinematics_are_flawless_and_everything/)**
+
+I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
+
+1h ago
+
+---
+
+**[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
+
+36m ago
 
 ---
 
@@ -52,7 +66,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-16h ago
+18h ago
 
 ---
 
@@ -60,19 +74,19 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-13h ago
+15h ago
 
 ---
 
 **[Humanoid: What’s Different About Their Wrist Design?](https://www.reddit.com/r/robotics/comments/1pj0xfe/humanoid_whats_different_about_their_wrist_design/)**
 
-12h ago
+14h ago
 
 ---
 
 **[ESP32 Robot with face tracking & personality](https://www.reddit.com/r/robotics/comments/1pjipl2/esp32_robot_with_face_tracking_personality/)**
 
-48m ago
+2h ago
 
 ---
 
@@ -84,25 +98,9 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 ---
 
-**[How doomed im I if I do robotics?](https://www.reddit.com/r/robotics/comments/1pjcf1o/how_doomed_im_i_if_i_do_robotics/)**
-
-Ok so basically I am a student currently studying in college (Not I live in the uk) and ngl since I was a kid I was a mega fan of robots and watched a lot of shows related to that. I have also bought some robotic kits for me to practice. However I have a major concern and it's the fact that is there a high chance for me to find work im the future? I know it is still a little but too soon for this since im not even at university However I have realised that not a lot of people (at least that I know) are into it and everytime someone ask me what I am going to do in the future, when I say I want to be a robotic engineer they mostly look at me like I am speaking in a different language so I just want to know if the job market for it is really bad or if there is still some type of hope for it.
-
-5h ago
-
----
-
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
 1d ago
-
----
-
-**[Become a Build Farm Backer and help support the ROS Build Farm!](https://www.reddit.com/r/robotics/comments/1pj8guh/become_a_build_farm_backer_and_help_support_the/)**
-
-Ever wonder how sudo apt install just  works  for ROS? That’s the magic of the OSRF Build Farm!  This beast serves over half a billion packages a year, saving us all from the headache of compiling from source. But maintaining this critical utility takes massive server power and a dedicated team of e
-
-🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 7h ago
 
 ---
 
@@ -112,7 +110,7 @@ Ever wonder how sudo apt install just  works  for ROS? That’s the magic of the
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 7h ago
+Chron • 9h ago
 
 ---
 
@@ -124,19 +122,19 @@ MLive.com • 1d ago
 
 ---
 
+**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://finance.yahoo.com/news/mercado-libre-agility-robotics-announce-130000794.html)**
+
+MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
+
+Yahoo Finance • 13h ago
+
+---
+
 **[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
 Bloomberg.com • 2d ago
-
----
-
-**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://finance.yahoo.com/news/mercado-libre-agility-robotics-announce-130000794.html)**
-
-MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
-
-Yahoo Finance • 11h ago
 
 ---
 
@@ -152,23 +150,7 @@ Decrypt • 2d ago
 
 Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
 
-NCTV17 • 23h ago
-
----
-
-**[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
-
-The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
-
-Breaking Defense • 2d ago
-
----
-
-**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai/)**
-
-SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
-
-PYMNTS.com • 2d ago
+NCTV17 • 1d ago
 
 ---
 
@@ -184,7 +166,23 @@ National Defense Magazine • 3d ago
 
 EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
 
-Business Insider • 6h ago
+Business Insider • 8h ago
+
+---
+
+**[‘World’s first’ AGI system: Tokyo firm claims it built model with human-level reasoning](https://interestingengineering.com/ai-robotics/worlds-first-agi-model)**
+
+The company, founded by an ex-Google veteran, claims its new system constitutes a 'fundamental leap' beyond existing AI technologies.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Move over, biomimicry – bio-derived robotic hand uses lobster shells for fingers](https://newatlas.com/robotics/bio-derived-robot-hand-lobster-shells-fingers/)**
+
+If you’re going to kill animals for food, don’t waste their parts – that’s just rude. Use everything, snout-to-tail, and not just bones for glue or stomachs for drink-bags, either. Get creative!
+
+New Atlas • 1d ago
 
 ---
 
@@ -226,7 +224,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 29K • 👍 2K • 💬 128 • ⏱️ 17:44 • 8h ago
+👁️ 29K • 👍 2K • 💬 128 • ⏱️ 17:44 • 10h ago
 
 ---
 
@@ -264,7 +262,7 @@ At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the 
 
 📺 AI Robot Lab
 
-👁️ 97K • 👍 339 • 💬 12 • ⏱️ 0:20 • 11h ago
+👁️ 97K • 👍 339 • 💬 12 • ⏱️ 0:20 • 13h ago
 
 ---
 

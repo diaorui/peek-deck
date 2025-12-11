@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T00:45:11.243334+00:00'
+updated: '2025-12-11T02:32:55.029285+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 00:45 UTC  
+**Last Updated:** December 11, 2025 at 02:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,401.04
+### $90,318.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +2.4%  
-**30d:** -10.4%  
-**90d:** -21.3%  
-**1y:** -8.7%  
+**24h:** -2.6%  
+**7d:** +1.0%  
+**30d:** -11.6%  
+**90d:** -22.4%  
+**1y:** -10.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1822.57B
+**Market Cap:** $1799.98B
 Rank #1
 
-**Circulating Supply:** 19,960,396 BTC
+**Circulating Supply:** 19,960,431 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.6%
+-28.6%
 
 **All-Time Low:** $67.81
-+134530.6%
++132685.7%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 We back baby!
 
-2h ago
+4h ago
 
 ---
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -95,15 +95,7 @@ We back baby!
 
 Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young and stupid”. Priority was go to the cinema with my GF (now wife). Now, we sometimes get back to that time and this ATM with that BTC price, crying about our stupidity not buying. Some years later, started to stack sats . Got married (sold all my stocks for the wedding), btw. I had AMD at ~7$, CDProject ~2$ and many more 😁 Bought a house, my son was born. Got mortgage (value of the house went like +200% now), 30% in ETF, 70% BTC. Be happy, DCA, HODL and be free 🔥🚀 Peace!
 
-4h ago
-
----
-
-**[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
-
-Bottom tex
-
-10h ago
+6h ago
 
 ---
 
@@ -111,25 +103,35 @@ Bottom tex
 
 Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-3h ago
+5h ago
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
+**[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
 
-6h ago
+Bottom tex
+
+12h ago
 
 ---
 
 **[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
 
-2h ago
+4h ago
 
 ---
 
-**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
 
-1d ago
+8h ago
+
+---
+
+**[It’s no longer just one black sheep](https://www.reddit.com/r/Bitcoin/comments/1pjkiei/its_no_longer_just_one_black_sheep/)**
+
+2025: It’s no longer just one black sheep. We’re already the 4% who get what Bitcoin is really bringing… and we’re still learning. We’re a scattered pack of black sheep now… but getting more visible every day. nostr: npub1855ur6q8lf7pjfvceg3s5qd0zuujqyz59h8zmxpquflunfpwkv4s3x3y8v #Bitcoin #CryptoMemes #HODL #BitcoinMemes
+
+1h ago
 
 ---
 
@@ -137,13 +139,13 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 Hi all, I'm looking for a way to buy Bitcoin without KYC, I heard about localbitcoins back in the days but i noticed it was closed, I really couldn't fin anything else, do you have a place to do that?
 
-4h ago
+6h ago
 
 ---
 
-**[Fed goes brrrrrrrrrrr again](https://www.reddit.com/r/Bitcoin/comments/1pjd02r/fed_goes_brrrrrrrrrrr_again/)**
+**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/finance/fed-says-will-start-reserve-management-treasury-bill-buying-2025-12-10/) • 4h ago
+1d ago
 
 ---
 
@@ -163,21 +165,23 @@ Bloomberg.com • 2d ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-CNBC • 1h ago
+CNBC • 3h ago
 
 ---
 
-**[Bitcoin ETFs turn positive with $152 million in inflows ahead of Fed rate decision, while traders stay defensive amid expected volatility: analysts](https://www.theblock.co/post/382038/bitcoin-etfs-turn-positive-with-152-million-in-inflows-ahead-of-fed-rate-decision-while-traders-stay-defensive-amid-expected-volatility-analysts)**
+**[Bitcoin ETF (BTC) News: Boutique Firm Nicholas Files for Fund Skipping U.S. Trading Hours](https://www.coindesk.com/markets/2025/12/09/nicholas-proposes-afterdark-bitcoin-etf-that-skips-u-s-trading-hours)**
 
-The Block • 13h ago
+The fund would hold bitcoin only overnight, betting on data showing bitcon gains mostly occur outside regular market hours.
+
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://finance.yahoo.com/news/bitcoin-ethereum-waver-fed-delivers-191812651.html)**
+**[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://decrypt.co/351847/bitcoin-ethereum-federal-reserve-cuts-rates)**
 
 The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
 
-Yahoo Finance • 5h ago
+Decrypt • 7h ago
 
 ---
 
@@ -185,43 +189,43 @@ Yahoo Finance • 5h ago
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 22m ago
-
----
-
-**[Bitcoin Exchange Paxful Agrees to Plead Guilty, Hit With $7.5 Million in Penalties](https://finance.yahoo.com/news/bitcoin-exchange-paxful-agrees-plead-235649599.html)**
-
-Authorities say Paxful was used by money launderers and other criminals—and that the Bitcoin exchange knew about it.
-
-Yahoo Finance • 48m ago
-
----
-
-**[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
-
-The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
-
-CNBC • 1d ago
-
----
-
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqcEocDWxQz-DqwaxJoXTLSIShPmWnLZ0VLA5tbvZ50bzi8_zSVhA-nC&gaa_ts=693a1783&gaa_sig=H1m1aozLfqX7bh6P-0zE5aMcDDBAKD31Lk99MmxeOtWeb3DUJBmoeT_g-yhbtoHRGuvWLiG9a0wA7Nbpny08bg%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
-
-Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
-
-Business Insider • 14h ago
+BBC • 2h ago
 
 ---
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
+
+---
+
+**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqcZAhlfA_04VCDgeBm1h1cbnFL2caOEo0E_GPsTvXFDH5zj0UDZwlQk&gaa_ts=693a30c5&gaa_sig=1T73tU-sSqi4JOSBJ3bmgKu3tr5YFCtE5qPJv-MMzSeJaPm7raP_iphB80c9pRs_QuJ7oyuGauz1Bpacali7mw%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
+**[Bitcoin Firm Twenty One Falls 20% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
+
+Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
+
+If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
+
+NPR • 18h ago
+
+---
+
+**[Crypto Winter Squeezes Bitcoin Miners as AI Pivot Gains Urgency](https://www.bloomberg.com/news/articles/2025-12-10/crypto-winter-squeezes-bitcoin-miners-as-ai-pivot-gains-urgency)**
+
+The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
+
+Bloomberg.com • 12h ago
 
 ---
 
@@ -249,7 +253,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 4d ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -263,7 +267,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 13h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 15h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -277,7 +281,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 1 • 💬 0 • 1h ago
+⬆️ 2 • 💬 0 • 3h ago
 
 ---
 
@@ -297,7 +301,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 12h ago
+⬆️ 3 • 💬 0 • 14h ago
 
 ---
 
@@ -311,7 +315,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 525 • 💬 91 • ⏱️ 8:34 • 3h ago
+👁️ 9K • 👍 525 • 💬 91 • ⏱️ 8:34 • 5h ago
 
 ---
 
@@ -321,7 +325,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 7K • 👍 426 • 💬 3 • ⏱️ 32:26 • 2h ago
+👁️ 7K • 👍 426 • 💬 3 • ⏱️ 32:26 • 4h ago
 
 ---
 
@@ -331,7 +335,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 10K • 👍 1K • 💬 95 • ⏱️ 21:05 • 1h ago
+👁️ 10K • 👍 1K • 💬 95 • ⏱️ 21:05 • 3h ago
 
 ---
 
@@ -341,7 +345,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 142 • 💬 8 • ⏱️ 21:00 • 8h ago
+👁️ 3K • 👍 142 • 💬 8 • ⏱️ 21:00 • 10h ago
 
 ---
 
@@ -351,7 +355,7 @@ The biggest crypto catch-up trade has begun, and Ran explains what's driving it.
 
 📺 Crypto Banter
 
-👁️ 24K • 👍 2K • 💬 31 • ⏱️ 29:14 • 9h ago
+👁️ 24K • 👍 2K • 💬 31 • ⏱️ 29:14 • 11h ago
 
 ---
 
@@ -361,7 +365,7 @@ Cyber Monday Special Offer! Get a 40% DISCOUNT at https://go.bravosresearch.com/
 
 📺 Bravos Research Crypto
 
-👁️ 16K • 👍 922 • 💬 23 • ⏱️ 6:51 • 6h ago
+👁️ 16K • 👍 922 • 💬 23 • ⏱️ 6:51 • 8h ago
 
 ---
 
@@ -371,7 +375,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 196 • ⏱️ 41:09 • 9h ago
+👁️ 28K • 👍 1K • 💬 196 • ⏱️ 41:09 • 11h ago
 
 ---
 
