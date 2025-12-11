@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T22:12:39.327158+00:00'
+updated: '2025-12-11T22:38:12.954786+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - social
-- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 22:12 UTC  
+**Last Updated:** December 11, 2025 at 22:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 5h ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ A new survey finds corporations and investors are overwhelmingly optimistic abou
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 2h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
 
-🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 3h ago
+🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 4h ago
 
 ---
 
@@ -149,7 +149,7 @@ Yahoo • 5h ago
 
 Oracle stock fell as much as 15% Thursday after the tech firm's quarterly AI costs rose ahead of Wall Street's expectations and revenue fell short.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -157,25 +157,25 @@ Yahoo Finance • 59m ago
 
 Oracle and other AI stocks tumbled on Thursday after the company reported surging expenditures related to its AI data center buildout, reinforcing concerns on Wall Street about debt-fueled spending on the fledgling technology.
 
-Investopedia • 2h ago
+Investopedia • 3h ago
 
 ---
 
 **[Watch Oracle Slides by Most Since January on Mounting AI Spending](https://www.bloomberg.com/news/videos/2025-12-11/oracle-slides-by-most-since-january-video)**
 
-Bloomberg.com • 29m ago
+Bloomberg.com • 54m ago
 
 ---
 
 **[Broadcom forecasts upbeat quarterly revenue on AI chip demand](https://www.reuters.com/business/broadcom-forecasts-upbeat-quarterly-revenue-strong-ai-chip-demand-2025-12-11/)**
 
-Reuters • 31m ago
+Reuters • 57m ago
 
 ---
 
 **[Broadcom Gives Upbeat Forecast After AI Deals Fuel Growth](https://www.bloomberg.com/news/articles/2025-12-11/broadcom-gives-upbeat-forecast-after-ai-deals-fuel-growth)**
 
-Bloomberg.com • 52m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -251,7 +251,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 144 • 💬 81 • 8h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 144 • 💬 81 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -379,7 +379,7 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 📺 CNBC Television
 
-👁️ 5K • 👍 103 • 💬 44 • ⏱️ 3:04 • 3h ago
+👁️ 5K • 👍 103 • 💬 44 • ⏱️ 3:04 • 4h ago
 
 ---
 
@@ -745,7 +745,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 610 • 🔱 88 • 7h ago
+⭐ 610 • 🔱 88 • 8h ago
 
 ---
 

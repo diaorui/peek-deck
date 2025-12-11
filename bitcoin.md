@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T22:12:39.335552+00:00'
+updated: '2025-12-11T22:38:12.962541+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 22:12 UTC  
+**Last Updated:** December 11, 2025 at 22:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,015.41
+### $92,596.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +4.1%  
-**30d:** -8.9%  
-**90d:** -20.0%  
-**1y:** -7.2%  
+**24h:** +0.6%  
+**7d:** +3.8%  
+**30d:** -9.1%  
+**90d:** -20.2%  
+**1y:** -7.5%  
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Bitcoin vs Fiat, The Difference is Clear....!](https://www.reddit.com/r/Bitcoin/comments/1pk7vym/bitcoin_vs_fiat_the_difference_is_clear/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -111,13 +111,13 @@ Rank #1
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
 
-1h ago
+2h ago
 
 ---
 
 **[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ Made a little edit on the pump it up song to include the current craziness going
 
 For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-22m ago
+48m ago
 
 ---
 
@@ -151,7 +151,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 2d ago
 
 Emily Nicolle and David Pan take stock of Bitcoin treasury firm Twenty One Capital’s debut in New York — and question what might come next.
 
-Bloomberg.com • 12m ago
+Bloomberg.com • 37m ago
 
 ---
 
@@ -255,7 +255,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 22h ago
+⬆️ 2 • 💬 0 • 23h ago
 
 ---
 
@@ -283,7 +283,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 2 • 💬 0 • 17m ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 2 • 💬 0 • 43m ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -305,7 +305,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 609 • 💬 50 • ⏱️ 11:29 • 9h ago
+👁️ 13K • 👍 609 • 💬 50 • ⏱️ 11:29 • 10h ago
 
 ---
 
@@ -345,7 +345,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 342 • ⏱️ 10:23 • 19h ago
+👁️ 51K • 👍 3K • 💬 342 • ⏱️ 10:23 • 20h ago
 
 ---
 

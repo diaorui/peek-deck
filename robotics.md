@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T22:12:39.344820+00:00'
+updated: '2025-12-11T22:38:12.971387+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 22:12 UTC  
+**Last Updated:** December 11, 2025 at 22:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,13 +68,13 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-38m ago
+1h ago
 
 ---
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -124,7 +124,7 @@ Deloitte • 1d ago
 
 Chinese home appliance company Midea has unveiled its six-armed super humanoid robot at the Greater Bay Area New Economy Forum in China.
 
-Interesting Engineering • 6h ago
+Interesting Engineering • 7h ago
 
 ---
 
@@ -144,7 +144,7 @@ Chron • 1d ago
 
 **[Advanced Intralogistics and AlphaOne Robotics Partner to Deliver Automated Trailer Unloading & Receiving Automation](https://www.businesswire.com/news/home/20251211294951/en/Advanced-Intralogistics-and-AlphaOne-Robotics-Partner-to-Deliver-Automated-Trailer-Unloading-Receiving-Automation)**
 
-Business Wire • 52m ago
+Business Wire • 1h ago
 
 ---
 
@@ -160,7 +160,7 @@ Runway • 4h ago
 
 Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
 
-Shore Daily News • 11h ago
+Shore Daily News • 12h ago
 
 ---
 
