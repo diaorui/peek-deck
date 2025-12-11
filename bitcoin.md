@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T05:56:11.533247+00:00'
+updated: '2025-12-11T06:37:57.209573+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 05:56 UTC  
+**Last Updated:** December 11, 2025 at 06:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,305.93
+### $90,225.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** +1.5%  
-**30d:** -11.1%  
-**90d:** -22.0%  
-**1y:** -9.5%  
+**24h:** -2.6%  
+**7d:** +1.4%  
+**30d:** -11.2%  
+**90d:** -22.1%  
+**1y:** -9.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.72B
+**Market Cap:** $1797.84B
 Rank #1
 
 **Circulating Supply:** 19,960,487 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.4%
 
 **All-Time Low:** $67.81
-+133089.8%
++133048.5%
 
 ---
 
@@ -85,6 +85,12 @@ We back baby!
 
 ---
 
+**[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
+
+8h ago
+
+---
+
 **[Companies Are Hoarding Bitcoin and It’s Starting To Get Crazy](https://www.reddit.com/r/Bitcoin/comments/1pjmhn0/companies_are_hoarding_bitcoin_and_its_starting/)**
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
@@ -97,7 +103,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young and stupid”. Priority was go to the cinema with my GF (now wife). Now, we sometimes get back to that time and this ATM with that BTC price, crying about our stupidity not buying. Some years later, started to stack sats . Got married (sold all my stocks for the wedding), btw. I had AMD at ~7$, CDProject ~2$ and many more 😁 Bought a house, my son was born. Got mortgage (value of the house went like +200% now), 30% in ETF, 70% BTC. Be happy, DCA, HODL and be free 🔥🚀 Peace!
 
-9h ago
+10h ago
 
 ---
 
@@ -105,19 +111,13 @@ Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young
 
 Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-8h ago
-
----
-
-**[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
-
-7h ago
+9h ago
 
 ---
 
 **[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 Bottom tex
 
-15h ago
+16h ago
 
 ---
 
@@ -133,7 +133,7 @@ Bottom tex
 
 2025: It’s no longer just one black sheep. We’re already the 4% who get what Bitcoin is really bringing… and we’re still learning. We’re a scattered pack of black sheep now… but getting more visible every day. nostr: npub1855ur6q8lf7pjfvceg3s5qd0zuujqyz59h8zmxpquflunfpwkv4s3x3y8v #Bitcoin #CryptoMemes #HODL #BitcoinMemes
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bottom tex
 
 All precious metals are moving higher after yhe dovish fed move Why is bitcoin dropping? Is that a conflicting temporary move? Or is there anything else I am missing?
 
-3h ago
+4h ago
 
 ---
 
@@ -159,7 +159,15 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 Bitcoin slipped in Asia trading hours while other risk assets gained after the US Federal Reserve cut interest rates and expressed optimism about the economy.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
+
+---
+
+**[Bitcoin ETF (BTC) News: Boutique Firm Nicholas Files for Fund Skipping U.S. Trading Hours](https://www.coindesk.com/markets/2025/12/09/nicholas-proposes-afterdark-bitcoin-etf-that-skips-u-s-trading-hours)**
+
+The fund would hold bitcoin only overnight, betting on data showing bitcon gains mostly occur outside regular market hours.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -179,33 +187,9 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[XRP Price News: Bitcoin (BTC) Weakness Hits Ripple Even as ETF Flows Remain Strong](https://www.coindesk.com/markets/2025/12/11/xrp-slides-as-traders-take-bitcoin-profits-with-etf-flows-still-strong)**
-
-Institutional flows surged 54% above the weekly average, indicating strategic selling rather than retail panic.
-
-CoinDesk • 36m ago
-
----
-
-**[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
-
-If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
-
-NPR • 21h ago
-
----
-
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 13m ago
-
----
-
-**[Crypto Winter Squeezes Bitcoin Miners as AI Pivot Gains Urgency](https://www.bloomberg.com/news/articles/2025-12-10/crypto-winter-squeezes-bitcoin-miners-as-ai-pivot-gains-urgency)**
-
-The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
-
-Bloomberg.com • 16h ago
+Reuters • 54m ago
 
 ---
 
@@ -213,13 +197,7 @@ Bloomberg.com • 16h ago
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 5h ago
-
----
-
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqcptUoq9nEkEEtm0v4CrjSJZG9JTt8oSmBx55bp2Z2xCETJXPJC5_AE&gaa_ts=693a6062&gaa_sig=bsHUAKEXzXgNyvnGvR9zI4DjSnPhPU8aSpix66iB1my-ma6UTJk4R7q9wkY0oQr6K806fx_UqcQ46ci2HuGtow%3D%3D)**
-
-MarketWatch • 1d ago
+BBC • 6h ago
 
 ---
 
@@ -228,6 +206,28 @@ MarketWatch • 1d ago
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
 cnbc.com • 1d ago
+
+---
+
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqdNY0Yhw1FnpaEPpH9Nysu0FX7DiYl18v71YuYW8oy2c8tZ7XLowCh_&gaa_ts=693a6a32&gaa_sig=C9sUI2Zd37brNMWBQ2sD-nU_m-3pG0SjDSoVmZfu2ZRm3UR2uEHmQA5f_KjpjZcIOnz2TjfFut5IbrYOIh4ffA%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Bitcoin Bulls Standard Chartered, Bernstein Pare Back Ambitious Year-End Forecasts](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-bulls-standard-chartered-bernstein-pare-back-most-ambitious-forecasts)**
+
+Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
+
+If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
+
+NPR • 22h ago
 
 ---
 
@@ -269,7 +269,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 18h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 19h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -283,7 +283,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 6h ago
+⬆️ 2 • 💬 0 • 7h ago
 
 ---
 
@@ -303,7 +303,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 17h ago
+⬆️ 3 • 💬 0 • 18h ago
 
 ---
 
@@ -317,7 +317,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 443 • ⏱️ 8:26 • 4h ago
+👁️ 26K • 👍 1K • 💬 443 • ⏱️ 8:26 • 5h ago
 
 ---
 
@@ -327,7 +327,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 51K • 👍 3K • 💬 260 • ⏱️ 21:05 • 6h ago
+👁️ 51K • 👍 3K • 💬 260 • ⏱️ 21:05 • 7h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled t
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 123 • ⏱️ 16:48 • 5h ago
+👁️ 18K • 👍 2K • 💬 123 • ⏱️ 16:48 • 6h ago
 
 ---
 
@@ -357,7 +357,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 655 • 💬 3 • ⏱️ 32:26 • 7h ago
+👁️ 18K • 👍 655 • 💬 3 • ⏱️ 32:26 • 8h ago
 
 ---
 
@@ -377,7 +377,7 @@ In this clip, I discuss the bottom signals that point towards a bitcoin reversal
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 192 • 💬 83 • ⏱️ 9:23 • 5h ago
+👁️ 3K • 👍 192 • 💬 83 • ⏱️ 9:23 • 6h ago
 
 ---
 
