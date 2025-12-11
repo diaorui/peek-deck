@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T20:43:12.688751+00:00'
+updated: '2025-12-11T20:54:41.301352+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 20:43 UTC  
+**Last Updated:** December 11, 2025 at 20:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ A new survey finds corporations and investors are overwhelmingly optimistic abou
 
 Context: This ""parenting"" AI app called NurtureOS turned out to be satire made by an AI company. (I don't get the logic either, but that's not what I'm concerned about.) My gripe: Someone's going to try sell something like this for real sooner or later, and I can’t stop thinking about the long-term effects it could have on people and society as a whole. Where are we heading with AI in our homes? And especially when kids are involved? The idea behind the app (you can see the features on the site) implied a future where parents could offload actual emotional labour completely. Suppose for an instant that an AI can sooth tantrums, resolve petty fights, teach social skills, and even be tweaked to mold your child's behaviour in specific ways. First of all, is it unethical to use AI to condition your kids? We do it anyway when we teach them certain things are right or wrong, or launch them into specific social constructs. What makes it different when AI's the one doing it? Secondly, there's the emotional intelligence part. Kids learn empathy, boundaries, and emotional resilience through their interactions with other humans. If an AI took deciding how to handle a fight between siblings or how to discipline a child, what happens to the child’s understanding of relationships? Would they start responding to other humans with the expectation that some third party (electronic or otherwise) will always step in to facilitate or mediate? Would they have less room to make mistakes, experiment socially, or negotiate boundaries? Would they even have the skillset to do it with? Thirdly, there’s the impact on parents. If you rely on an app to make the “right” choices for your kid, does that slowly chip away at your confidence? Do you start assuming the AI knows better than your own judgement? Parenting is already full of anxiety. Imagine adding a third party that's constantly between you and your spouse telling you their concept of “ideal behavior”. Just you and you and your friend SteveAI. Finally, the privacy angle is huge. A real version of this app would basically normalise 24/7 emotional surveillance in the home. It would be recording behaviour, conversations, moods, and interactions, and feeding it all to company servers somewhere that you never get to see. They'd have your data forever. Just think about all the crap Meta got up to with the data we fecklessly gave it in our teenage Facebook days. This would be SO much worse than that. This app may have been fake, but the next one may not be, and it exposed a real cultural pressure point. Right now, we keep inviting AI deeper into our lives for convenience. At what point does that start reshaping childhood, parenthood, and just society as a whole in ways we don’t fully understand? Is delegating emotional or developmental tasks to AI inherently dangerous? Or is there a world where it can support parents without replacing them and putting us all at risk?
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 
 The ChatGPT-maker is releasing its “best model yet” as it faces new pressures from Google and other AI competitors.
 
-🔗 [WIRED](https://www.wired.com/story/openai-gpt-launch-gemini-code-red/) • 1h ago
+🔗 [WIRED](https://www.wired.com/story/openai-gpt-launch-gemini-code-red/) • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ Time Magazine • 8h ago
 
 Time's Person of the Year 2025 is not one individual. Here's what the magazine chose and why.
 
-USA Today • 1h ago
+USA Today • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 11h ago
 
 **[Nasdaq slips as Oracle AI shock overshadows Fed relief](https://www.reuters.com/business/wall-street-futures-slide-oracles-forecast-revives-ai-bubble-fears-2025-12-11/)**
 
-Reuters • 53m ago
+Reuters • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Hollywood Reporter • 1h ago
 
 **[MAGA scrambles to influence Trump's AI executive order](https://www.axios.com/2025/12/11/maga-scrambles-trump-ai-executive-order)**
 
-Axios • 44m ago
+Axios • 56m ago
 
 ---
 
@@ -327,7 +327,7 @@ Breaking: Disney Goes ALL-IN on AI! Hands IP to Sora & Chat GPT for Disney Plus!
 
 📺 WDW Pro
 
-👁️ 2K • 👍 285 • 15h ago
+👁️ 2K • 👍 285 • 16h ago
 
 ---
 
@@ -597,7 +597,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 10 • 💬 2 • ⭐ 11,801 • 3d ago
+▲ 11 • 💬 2 • ⭐ 11,801 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 8.6k • 🔱 1.4k • 4h ago
+⭐ 8.7k • 🔱 1.5k • 4h ago
 
 ---
 
@@ -703,7 +703,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 933 • 🔱 65 • 2d ago
+⭐ 935 • 🔱 65 • 2d ago
 
 ---
 
@@ -713,7 +713,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 892 • 🔱 285 • 5d ago
+⭐ 893 • 🔱 285 • 5d ago
 
 ---
 
@@ -733,7 +733,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 856 • 🔱 47 • 2d ago
+⭐ 857 • 🔱 47 • 2d ago
 
 ---
 
@@ -743,7 +743,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 608 • 🔱 87 • 6h ago
+⭐ 609 • 🔱 88 • 6h ago
 
 ---
 

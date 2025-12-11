@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T20:43:12.703250+00:00'
+updated: '2025-12-11T20:54:41.315705+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 20:43 UTC  
+**Last Updated:** December 11, 2025 at 20:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.7%  
-**7d:** +6.6%  
-**30d:** -5.7%  
-**90d:** -30.7%  
-**1y:** -17.1%  
+**24h:** -3.8%  
+**7d:** +6.4%  
+**30d:** -5.8%  
+**90d:** -30.8%  
+**1y:** -17.2%  
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 1d ago
 
 **[Bitcoin, Ethereum, Ripple's XRP Slump After Fed Rate Cut. What It Means for Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqe_NbE6Tj-p37-geyQkbEz1YLUDAFVmdSf_P9G2xW9XNgpqFWPa0B0X&gaa_ts=693b2c0f&gaa_sig=0BuZVN6j9giX0z9J0TihdbvjZ_j8ZdT8nw3wbYkcIyWa6SMFcQ_j5rcvzjOMHIn4i2PqKl5u_DMfuCHHYQyNoA%3D%3D)**
 
-Barron's • 8h ago
+Barron's • 9h ago
 
 ---
 
@@ -190,7 +190,7 @@ Decrypt • 1d ago
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -266,7 +266,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 13K • 👍 715 • 💬 71 • ⏱️ 44:48 • 8h ago
+👁️ 13K • 👍 715 • 💬 71 • ⏱️ 44:48 • 9h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 722 • 👍 40 • 💬 8 • ⏱️ 4:36 • 10h ago
+👁️ 722 • 👍 40 • 💬 8 • ⏱️ 4:36 • 11h ago
 
 ---
 
