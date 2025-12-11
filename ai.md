@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T22:38:12.954786+00:00'
+updated: '2025-12-11T22:52:12.907852+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 22:38 UTC  
+**Last Updated:** December 11, 2025 at 22:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -36,6 +36,14 @@ AI news, discussions, and developments
 ---
 
 ## Reddit: r/artificial
+
+**[Something Ominous Is Happening in the AI Economy](https://www.reddit.com/r/artificial/comments/1pk6avk/something_ominous_is_happening_in_the_ai_economy/)**
+
+The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
+
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 3h ago
+
+---
 
 **[Videos of sexually suggestive, AI-generated children are racking up millions of likes on TikTok, study finds](https://www.reddit.com/r/artificial/comments/1pjvzwq/videos_of_sexually_suggestive_aigenerated/)**
 
@@ -61,14 +69,6 @@ A new survey finds corporations and investors are overwhelmingly optimistic abou
 
 ---
 
-**[Something Ominous Is Happening in the AI Economy](https://www.reddit.com/r/artificial/comments/1pk6avk/something_ominous_is_happening_in_the_ai_economy/)**
-
-The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
-
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 3h ago
-
----
-
 **[AI Took My Job. Now It’s Interviewing Me For New Ones](https://www.reddit.com/r/artificial/comments/1pk56ll/ai_took_my_job_now_its_interviewing_me_for_new/)**
 
 When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
@@ -81,7 +81,7 @@ When my company pivoted to AI in 2023, I lost my job. As I struggle to find a ne
 
 Context: This ""parenting"" AI app called NurtureOS turned out to be satire made by an AI company. (I don't get the logic either, but that's not what I'm concerned about.) My gripe: Someone's going to try sell something like this for real sooner or later, and I can’t stop thinking about the long-term effects it could have on people and society as a whole. Where are we heading with AI in our homes? And especially when kids are involved? The idea behind the app (you can see the features on the site) implied a future where parents could offload actual emotional labour completely. Suppose for an instant that an AI can sooth tantrums, resolve petty fights, teach social skills, and even be tweaked to mold your child's behaviour in specific ways. First of all, is it unethical to use AI to condition your kids? We do it anyway when we teach them certain things are right or wrong, or launch them into specific social constructs. What makes it different when AI's the one doing it? Secondly, there's the emotional intelligence part. Kids learn empathy, boundaries, and emotional resilience through their interactions with other humans. If an AI took deciding how to handle a fight between siblings or how to discipline a child, what happens to the child’s understanding of relationships? Would they start responding to other humans with the expectation that some third party (electronic or otherwise) will always step in to facilitate or mediate? Would they have less room to make mistakes, experiment socially, or negotiate boundaries? Would they even have the skillset to do it with? Thirdly, there’s the impact on parents. If you rely on an app to make the “right” choices for your kid, does that slowly chip away at your confidence? Do you start assuming the AI knows better than your own judgement? Parenting is already full of anxiety. Imagine adding a third party that's constantly between you and your spouse telling you their concept of “ideal behavior”. Just you and you and your friend SteveAI. Finally, the privacy angle is huge. A real version of this app would basically normalise 24/7 emotional surveillance in the home. It would be recording behaviour, conversations, moods, and interactions, and feeding it all to company servers somewhere that you never get to see. They'd have your data forever. Just think about all the crap Meta got up to with the data we fecklessly gave it in our teenage Facebook days. This would be SO much worse than that. This app may have been fake, but the next one may not be, and it exposed a real cultural pressure point. Right now, we keep inviting AI deeper into our lives for convenience. At what point does that start reshaping childhood, parenthood, and just society as a whole in ways we don’t fully understand? Is delegating emotional or developmental tasks to AI inherently dangerous? Or is there a world where it can support parents without replacing them and putting us all at risk?
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Disney is hedging against the future. OpenAI is clearing a path for Sora. And to
 
 The ChatGPT-maker is releasing its “best model yet” as it faces new pressures from Google and other AI competitors.
 
-🔗 [WIRED](https://www.wired.com/story/openai-gpt-launch-gemini-code-red/) • 3h ago
+🔗 [WIRED](https://www.wired.com/story/openai-gpt-launch-gemini-code-red/) • 4h ago
 
 ---
 
@@ -121,11 +121,11 @@ The ChatGPT-maker is releasing its “best model yet” as it faces new pressure
 
 ## Google News: "ai"
 
-**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
+**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
 
-The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
+TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
 
-Time Magazine • 9h ago
+Time Magazine • 10h ago
 
 ---
 
@@ -133,7 +133,7 @@ Time Magazine • 9h ago
 
 Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -153,45 +153,45 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Oracle Stock Is Getting Whacked. Is the AI Trade a 'Show Me Story' Now?](https://www.investopedia.com/oracle-stock-is-getting-whacked-is-the-ai-trade-a-show-me-story-now-orcl-11867042)**
+**[Oracle shares slide as earnings fail to ease AI bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o)**
 
-Oracle and other AI stocks tumbled on Thursday after the company reported surging expenditures related to its AI data center buildout, reinforcing concerns on Wall Street about debt-fueled spending on the fledgling technology.
+The cloud computing giant's revenue miss renews questions about its financial health.
 
-Investopedia • 3h ago
-
----
-
-**[Watch Oracle Slides by Most Since January on Mounting AI Spending](https://www.bloomberg.com/news/videos/2025-12-11/oracle-slides-by-most-since-january-video)**
-
-Bloomberg.com • 54m ago
+BBC • 6h ago
 
 ---
 
-**[Broadcom forecasts upbeat quarterly revenue on AI chip demand](https://www.reuters.com/business/broadcom-forecasts-upbeat-quarterly-revenue-strong-ai-chip-demand-2025-12-11/)**
-
-Reuters • 57m ago
-
----
-
-**[Broadcom Gives Upbeat Forecast After AI Deals Fuel Growth](https://www.bloomberg.com/news/articles/2025-12-11/broadcom-gives-upbeat-forecast-after-ai-deals-fuel-growth)**
+**[US Stocks Fall as Oracle Revives Worries About Lofty AI Spending](https://www.bloomberg.com/news/articles/2025-12-11/us-stocks-fall-as-oracle-revives-worries-about-lofty-ai-spending)**
 
 Bloomberg.com • 1h ago
 
 ---
 
-**[Broadcom Stock: The Silent Winner in the AI Monetization Supercycle](https://io-fund.com/ai-stocks/broadcom-stock-silent-winner-ai-monetization)**
+**[Senators ask AI companies for safety disclosures after teen suicides](https://www.nbcnews.com/tech/tech-news/senators-ask-ai-companies-safety-disclosures-teen-suicides-rcna248612)**
 
-The AI accelerator market will inevitably widen beyond Nvidia’s GPUs - the keyword is widen. More players will sell more AI systems as the market expands, and that growth supports both the clear leader (Nvidia) and those already in pole position, such as Broadcom.
+The bipartisan group of senators sent letters to eight companies: Anthropic, Character.AI, Google, Luka, Meta, Microsoft, OpenAI and xAI.
 
-IO Fund • 1d ago
+NBC News • 29m ago
 
 ---
 
-**[AI kids' toys give explicit and dangerous responses in tests](https://www.nbcnews.com/tech/tech-news/ai-toys-gift-present-safe-kids-robot-child-miko-grok-alilo-miiloo-rcna246956)**
+**[Science Minister Seeks to Turn Korea Into a Global AI Powerhouse](https://www.bloomberg.com/news/articles/2025-12-11/science-minister-seeks-to-turn-korea-into-a-global-ai-powerhouse)**
 
-New research from Public Interest Research Group and tests conducted by NBC News found that a wide range of AI toys have loose guardrails.
+Bloomberg.com • 52m ago
 
-NBC News • 12h ago
+---
+
+**[Highlights from Fortune Brainstorm AI San Francisco](https://fortune.com/2025/12/11/highlights-from-fortune-brainstorm-ai-san-francisco/)**
+
+From OpenAI and Google to Intuit and Exelon, Fortune Brainstorm AI San Francisco provided a great snapshot of the current AI landscape
+
+Fortune • 14m ago
+
+---
+
+**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqfhNo7N0gRglWvJJoPDeVH4cFzeLjcQ6VATWU-rCHcp4JkcyVoscY84&gaa_ts=693b4e81&gaa_sig=tWv08Q7ajv3EQ7MoWH4E9L-zU-DjvDwoOfQoKIIRp1-JrsObBNOuqOiAby1aj9rCLMfc1Jhnmk9ptbaajl6GZw%3D%3D)**
+
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -219,7 +219,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 320 • 💬 310 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 321 • 💬 310 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -235,7 +235,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 286 • 💬 138 • 2d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 286 • 💬 140 • 2d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -251,7 +251,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 144 • 💬 81 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 161 • 💬 93 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -275,7 +275,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 99 • 💬 69 • 6h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 102 • 💬 69 • 6h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -289,7 +289,7 @@ Check out Nebius today: ...
 
 📺 The Cutting Edge School
 
-👁️ 6K • 👍 524 • 💬 48 • ⏱️ 13:41 • 9h ago
+👁️ 6K • 👍 524 • 💬 48 • ⏱️ 13:41 • 10h ago
 
 ---
 
@@ -395,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 724 • 2d ago
+⬇️ 80,162 • ❤️ 725 • 2d ago
 
 ---
 
@@ -455,7 +455,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 445,464 • ❤️ 208 • 3d ago
+⬇️ 445,464 • ❤️ 209 • 3d ago
 
 ---
 
@@ -479,7 +479,7 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 187 • 2d ago
+⬇️ 12,302 • ❤️ 188 • 2d ago
 
 ---
 

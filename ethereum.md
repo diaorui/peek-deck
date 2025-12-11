@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T22:38:12.968268+00:00'
+updated: '2025-12-11T22:52:12.922418+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 22:38 UTC  
+**Last Updated:** December 11, 2025 at 22:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** +7.6%  
-**30d:** -4.8%  
-**90d:** -30.1%  
-**1y:** -16.3%  
+**24h:** -2.6%  
+**7d:** +7.2%  
+**30d:** -5.2%  
+**90d:** -30.4%  
+**1y:** -16.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $392.45B
+**Market Cap:** $390.75B
 Rank #2
 
 **Circulating Supply:** 120,695,176 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.2%
+-34.6%
 
 **All-Time Low:** $0.43
-+751576.2%
++747007.8%
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 1d ago
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -214,19 +214,17 @@ Seeking Alpha • 3d ago
 
 ---
 
-**[Here's Why Ethereum Soared More than 6% Today, Breaking $3,300 for the First Time In Nearly a Month](https://www.nasdaq.com/articles/heres-why-ethereum-soared-more-6-today-breaking-3300-first-time-nearly-month)**
+**[Vitalik Buterin Dismisses Ethereum Finality Concerns](https://coinmarketcap.com/academy/article/vitalik-buterin-dismisses-ethereum-finality-concerns)**
 
-Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
+Vitalik said hours-long delays caused by major bugs remain acceptable as long as the blockchain processes transactions without finalizing wrong information
 
-Nasdaq • 1d ago
+CoinMarketCap • 1d ago
 
 ---
 
-**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
+**[Bitcoin, Ethereum, Ripple's XRP Slump After Fed Rate Cut. What It Means for Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcPJoyM16Ul-ENk46ti9QxLLFSn7g0M7FlCoAVUTlxVPquN-0oFvlgR&gaa_ts=693b4e84&gaa_sig=2AwopXohHjquzxlooR84G3jym_D7smh3ZUt5ZX2YrT-S45arara7gz96bypwd4gsGtikNvzlGeKnuJEHoj_icQ%3D%3D)**
 
-BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
-
-CryptoSlate • 8h ago
+Barron's • 10h ago
 
 ---
 
@@ -260,7 +258,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 14K • 👍 752 • 💬 73 • ⏱️ 44:48 • 10h ago
+👁️ 14K • 👍 752 • 💬 73 • ⏱️ 44:48 • 11h ago
 
 ---
 
@@ -290,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 912 • 👍 43 • 💬 8 • ⏱️ 4:36 • 12h ago
+👁️ 912 • 👍 43 • 💬 8 • ⏱️ 4:36 • 13h ago
 
 ---
 

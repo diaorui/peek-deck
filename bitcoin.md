@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T22:38:12.962541+00:00'
+updated: '2025-12-11T22:52:12.916392+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 22:38 UTC  
+**Last Updated:** December 11, 2025 at 22:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,596.29
+### $92,196.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +3.8%  
-**30d:** -9.1%  
-**90d:** -20.2%  
-**1y:** -7.5%  
+**24h:** +0.4%  
+**7d:** +3.6%  
+**30d:** -9.3%  
+**90d:** -20.4%  
+**1y:** -7.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1854.38B
+**Market Cap:** $1843.10B
 Rank #1
 
 **Circulating Supply:** 19,960,843 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.3%
+-26.8%
 
 **All-Time Low:** $67.81
-+136944.7%
++135962.5%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -98,6 +98,12 @@ Rank #1
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
 11h ago
+
+---
+
+**[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
+
+1h ago
 
 ---
 
@@ -133,13 +139,7 @@ For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-19h ago
-
----
-
-**[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
-
-48m ago
+20h ago
 
 ---
 
@@ -157,15 +157,7 @@ BBC • 22h ago
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 9h ago
-
----
-
-**[Bitcoin Firm Twenty One Falls 20% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
-
-Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
-
-Bloomberg.com • 2d ago
+Reuters • 10h ago
 
 ---
 
@@ -173,7 +165,7 @@ Bloomberg.com • 2d ago
 
 Emily Nicolle and David Pan take stock of Bitcoin treasury firm Twenty One Capital’s debut in New York — and question what might come next.
 
-Bloomberg.com • 37m ago
+Bloomberg.com • 51m ago
 
 ---
 
@@ -183,39 +175,45 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[Myriad Moves: Will Santa Bring a Pump or Dump for Bitcoin, Ethereum and Solana?](https://finance.yahoo.com/news/myriad-moves-santa-bring-pump-204508855.html)**
+**[Twenty One Capital Drops in NYSE Debut as Bitcoin Treasury Firms Face ‘Broader Re-Pricing’](https://finance.yahoo.com/news/twenty-one-capital-drops-nyse-115955127.html)**
+
+The debut underperformed its SPAC benchmark, as investors pull back from Bitcoin treasury plays in favor of clearer operating models.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqd41PvKxQQuZj-xv-L-fYx38LlAxRbMYXxUx9tJ1mLrxp05FGZzIgJe&gaa_ts=693b4e82&gaa_sig=ZNPRtYgqtGOG4t1MIjOHwM5FR5SGCCXDtKXyyVUCb5ZGNfTGDyi4cGdX7IlGwtsFPjKgziM4KFJ7eAWJ6dgkcg%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Save the Children Launches Bitcoin Fund as Aid Groups Look for Faster Crisis Payments](https://finance.yahoo.com/news/save-children-launches-bitcoin-fund-214036857.html)**
+
+Save the Children introduced a Bitcoin fund aimed at speeding cash assistance during emergencies and expanding its use of crypto tools.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[‘Premium era is over’ as all but one Bitcoin treasury firm fails to beat S&P 500](https://www.dlnews.com/articles/markets/premium-era-over-for-bitcoin-treasuries-as-sp500-beats-all/)**
+**[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Only The Blockchain Group outperformed the S&P 500 among Bitcoin treasury companies in 2025. Approximately 60% of Bitcoin treasuries are underwater on their purchases. Treasury buying collapsed to just 28 Bitcoin in November from 168 Bitcoin in July.
-
-dlnews.com • 1h ago
+Investor's Business Daily • 4h ago
 
 ---
 
-**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
+**[Strategy says MSCI’s 50% bitcoin test risks index ‘whiplash’ and conflicts with US pro-innovation policy](https://www.theblock.co/post/382068/strategy-msci-bitcoin-test-index-whiplash-conflicts-innovation)**
 
-Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
-
-Business Insider • 1d ago
+The Block • 1d ago
 
 ---
 
-**[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
+**['National Security' at Risk If MSCI Excludes Crypto Treasuries, Warns Bitcoin Giant Strategy](https://decrypt.co/351880/national-security-risk-msci-excludes-crypto-treasuries-warns-bitcoin-strategy)**
 
-The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
+Bitcoin treasury leader Strategy argued to MSCI that excluding a crypto-buying firms from its indices would hurt America’s national security.
 
-cnbc.com • 2d ago
-
----
-
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqclET5sVLd5TN0r3o_OC19ryAjv26h_Bf_6KrWUJEXgjbbW7iQlTYli&gaa_ts=693b453d&gaa_sig=DysXnWI1PS5qDh_XiCM7jBsIr9-W5qvI9atrIR3PlsVVsmE-hh0jjvsEn0eQTfyDC6F_l1hM3zFApu8rp2xqQw%3D%3D)**
-
-MarketWatch • 1d ago
+Decrypt • 1d ago
 
 ---
 
@@ -283,7 +281,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 2 • 💬 0 • 43m ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 5 • 💬 0 • 57m ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -335,7 +333,7 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 103 • ⏱️ 15:31 • 8h ago
+👁️ 12K • 👍 1K • 💬 103 • ⏱️ 15:31 • 9h ago
 
 ---
 
@@ -375,7 +373,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 3K • 👍 394 • 💬 153 • ⏱️ 14:43 • 2h ago
+👁️ 3K • 👍 394 • 💬 153 • ⏱️ 14:43 • 3h ago
 
 ---
 

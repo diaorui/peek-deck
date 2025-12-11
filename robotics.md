@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T22:38:12.971387+00:00'
+updated: '2025-12-11T22:52:12.925657+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 22:38 UTC  
+**Last Updated:** December 11, 2025 at 22:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-11h ago
+12h ago
 
 ---
 
@@ -60,7 +60,13 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-17h ago
+18h ago
+
+---
+
+**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
+
+19h ago
 
 ---
 
@@ -72,17 +78,11 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 ---
 
-**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
-
-19h ago
-
----
-
 **[We’re now controlling a Unitree robot inside a Gaussian Splat world. In the browser!](https://www.reddit.com/r/robotics/comments/1pk0uav/were_now_controlling_a_unitree_robot_inside_a/)**
 
 Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into threejs - Run MuJoCo physics (decoupled from renderer) What do you think about this?!?
 
-6h ago
+7h ago
 
 ---
 
@@ -90,7 +90,7 @@ Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into thre
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 11h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 12h ago
 
 ---
 
@@ -104,7 +104,7 @@ The strongest counter against robot legs that I've seen. Sure, I have yet to see
 
 Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
 
-13h ago
+14h ago
 
 ---
 
@@ -120,19 +120,17 @@ Deloitte • 1d ago
 
 ---
 
-**[World’s first six-armed humanoid robot that promises 30% more output unveiled in China](https://interestingengineering.com/ai-robotics/worlds-first-six-armed-humanoid-robot)**
+**[Backflips are easy, stairs are hard: Robots still struggle with simple human movements, experts say](https://fortune.com/2025/12/11/backflips-are-easy-stairs-are-hard-humanoid-robots-challenges-potential-brainstorm-ai/)**
 
-Chinese home appliance company Midea has unveiled its six-armed super humanoid robot at the Greater Bay Area New Economy Forum in China.
+Yet the next generation of robots will soon be able to learn from experience, creating more adaptable machines—perfect for the home and the factory, according to speakers at Fortune's Brainstorm AI.
 
-Interesting Engineering • 7h ago
+Fortune • 1h ago
 
 ---
 
-**['Botnets in physical form' are top humanoid robot risk](https://www.theregister.com/2025/12/09/humanoid_robot_security/)**
+**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
 
-Interview: Have we learned nothing from sci-fi films and TV shows?
-
-theregister.com • 2d ago
+Business Wire • 1d ago
 
 ---
 
@@ -152,7 +150,7 @@ Business Wire • 1h ago
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
-Runway • 4h ago
+Runway • 5h ago
 
 ---
 
@@ -164,19 +162,19 @@ Shore Daily News • 12h ago
 
 ---
 
-**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
+**[Naperville teens make history at international robotics competition](https://www.nctv17.org/news/naperville-teens-make-history-at-international-robotics-competition/)**
 
-The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
+Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
 
-MLive.com • 2d ago
+NCTV17 • 1d ago
 
 ---
 
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
+**[NASA, Reliable Robotics Begin Autonomous C208 Trials](https://avweb.com/aviation-news/nasa-reliable-robotics-c208-uav-trials/)**
 
-Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
+Data from automated Reliable Robotics Caravan tests to inform national standards work.
 
-Yahoo Finance • 3d ago
+AVweb • 1d ago
 
 ---
 
