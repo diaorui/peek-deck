@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T20:25:12.777672+00:00'
+updated: '2025-12-11T20:43:12.706539+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 20:25 UTC  
+**Last Updated:** December 11, 2025 at 20:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,13 +60,13 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-15h ago
+16h ago
 
 ---
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into thre
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 10h ago
 
 ---
 
@@ -130,7 +130,7 @@ Business Wire • 1d ago
 
 Google DeepMind shows Apollo humanoid handling unfamiliar objects and following voice commands, alongside Aloha robots performing tasks.
 
-Interesting Engineering • 6h ago
+Interesting Engineering • 7h ago
 
 ---
 

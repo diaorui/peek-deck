@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T20:25:12.774430+00:00'
+updated: '2025-12-11T20:43:12.703250+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 20:25 UTC  
+**Last Updated:** December 11, 2025 at 20:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.9%  
-**7d:** +6.4%  
-**30d:** -5.9%  
-**90d:** -30.9%  
-**1y:** -17.3%  
+**24h:** -3.7%  
+**7d:** +6.6%  
+**30d:** -5.7%  
+**90d:** -30.7%  
+**1y:** -17.1%  
 
 ---
 
@@ -236,7 +236,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 553 • 💬 30 • ⏱️ 11:29 • 7h ago
+👁️ 10K • 👍 553 • 💬 30 • ⏱️ 11:29 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 154 • 💬 4 • ⏱️ 6:54 • 5h ago
+👁️ 2K • 👍 154 • 💬 4 • ⏱️ 6:54 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T20:25:12.768462+00:00'
+updated: '2025-12-11T20:43:12.697208+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 20:25 UTC  
+**Last Updated:** December 11, 2025 at 20:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +2.5%  
-**30d:** -10.3%  
-**90d:** -21.2%  
-**1y:** -8.6%  
+**24h:** -1.1%  
+**7d:** +2.7%  
+**30d:** -10.1%  
+**90d:** -21.1%  
+**1y:** -8.4%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 **[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -141,7 +141,7 @@ Iooking at the the last 4 FOMC meetings and we see this on the chart: June 18 ->
 
 This means a lot for me, I'm growing slowly but steadily
 
-43m ago
+1h ago
 
 ---
 
@@ -305,7 +305,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 553 • 💬 30 • ⏱️ 11:29 • 7h ago
+👁️ 10K • 👍 553 • 💬 30 • ⏱️ 11:29 • 8h ago
 
 ---
 
@@ -385,7 +385,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Crypto Cam
 
-👁️ 14K • 👍 405 • 💬 46 • ⏱️ 0:27 • 19h ago
+👁️ 14K • 👍 405 • 💬 46 • ⏱️ 0:27 • 20h ago
 
 ---
 

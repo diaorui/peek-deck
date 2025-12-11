@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T20:25:12.760073+00:00'
+updated: '2025-12-11T20:43:12.688751+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 20:25 UTC  
+**Last Updated:** December 11, 2025 at 20:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 3h ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
 
-🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 1h ago
+🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 2h ago
 
 ---
 
@@ -123,7 +123,7 @@ The ChatGPT-maker is releasing its “best model yet” as it faces new pressure
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Time Magazine • 7h ago
+Time Magazine • 8h ago
 
 ---
 
@@ -155,13 +155,13 @@ Yahoo Finance • 4h ago
 
 Shares in Nvidia, Micron and Microsoft were also lower in premarket trade on Thursday.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
 **[Nasdaq slips as Oracle AI shock overshadows Fed relief](https://www.reuters.com/business/wall-street-futures-slide-oracles-forecast-revives-ai-bubble-fears-2025-12-11/)**
 
-Reuters • 35m ago
+Reuters • 53m ago
 
 ---
 
@@ -169,13 +169,13 @@ Reuters • 35m ago
 
 “If we want the public to trust what they see, we must have guardrails on digital replicas and synthetic creations,” said SAG-AFTRA national executive director Duncan Crabtree-Ireland.
 
-The Hollywood Reporter • 54m ago
+The Hollywood Reporter • 1h ago
 
 ---
 
 **[MAGA scrambles to influence Trump's AI executive order](https://www.axios.com/2025/12/11/maga-scrambles-trump-ai-executive-order)**
 
-Axios • 26m ago
+Axios • 44m ago
 
 ---
 
@@ -257,7 +257,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 115 • 💬 72 • 6h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 115 • 💬 72 • 7h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
