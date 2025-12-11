@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T07:32:38.873434+00:00'
+updated: '2025-12-11T07:47:18.895799+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 07:32 UTC  
+**Last Updated:** December 11, 2025 at 07:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,225.06
+### $90,162.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** +1.5%  
-**30d:** -11.2%  
-**90d:** -22.0%  
-**1y:** -9.5%  
+**24h:** -2.6%  
+**7d:** +1.4%  
+**30d:** -11.3%  
+**90d:** -22.1%  
+**1y:** -9.6%  
 
 ---
 
@@ -147,7 +147,7 @@ Bottom tex
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -197,7 +197,7 @@ BBC • 7h ago
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -367,7 +367,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 781 • 💬 148 • ⏱️ 5:12 • 10h ago
+👁️ 16K • 👍 781 • 💬 148 • ⏱️ 5:12 • 11h ago
 
 ---
 

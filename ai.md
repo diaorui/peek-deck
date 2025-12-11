@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T07:32:38.864790+00:00'
+updated: '2025-12-11T07:47:18.888388+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 07:32 UTC  
+**Last Updated:** December 11, 2025 at 07:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -109,7 +109,7 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 I wanted to see what the computer itself thought about the ethics of AI chat bots, spoiler alert, they can be really harmful!
 
-1h ago
+2h ago
 
 ---
 
@@ -175,7 +175,7 @@ Fox Business • 7h ago
 
 “I’ve never seen anything like this,” says the Linux Foundation’s Jim Zemlin.
 
-The Verge • 16h ago
+The Verge • 17h ago
 
 ---
 
@@ -191,7 +191,7 @@ Anthropic • 1d ago
 
 BitsLab, an AI security company dedicated to safeguarding digital assets, is introducing a unified security architecture for the emerging on-chain agent economy as autonomous AI agents begin taking on real financial operations. With machine-driven transactions becoming more common, BitsLab aims to address a core industry challenge: keeping autonomous economic agents safe.
 
-Yahoo Finance • 18m ago
+Yahoo Finance • 33m ago
 
 ---
 
@@ -227,7 +227,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 302 • 💬 283 • 14h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 302 • 💬 283 • 15h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -375,7 +375,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 39K • 👍 2K • 💬 301 • ⏱️ 14:55 • 13h ago
+👁️ 39K • 👍 2K • 💬 301 • ⏱️ 14:55 • 14h ago
 
 ---
 
@@ -451,7 +451,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 237 • 14h ago
+⬇️ 2,414 • ❤️ 237 • 15h ago
 
 ---
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 6.7k • 🔱 1.1k • 1h ago
+⭐ 6.7k • 🔱 1.1k • 2h ago
 
 ---
 

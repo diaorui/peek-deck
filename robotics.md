@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T07:32:38.883010+00:00'
+updated: '2025-12-11T07:47:18.903736+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 07:32 UTC  
+**Last Updated:** December 11, 2025 at 07:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-20h ago
+21h ago
 
 ---
 
@@ -94,7 +94,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Web
 
 **[AI-driven Teddy Ruxpin using only a Bluetooth cassette adapter and software (no mods)](https://www.reddit.com/r/robotics/comments/1pjqw3w/aidriven_teddy_ruxpin_using_only_a_bluetooth/)**
 
-46m ago
+1h ago
 
 ---
 

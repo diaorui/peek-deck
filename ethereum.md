@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T07:32:38.879616+00:00'
+updated: '2025-12-11T07:47:18.900970+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 07:32 UTC  
+**Last Updated:** December 11, 2025 at 07:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -256,7 +256,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 11K • 👍 471 • 💬 62 • ⏱️ 1:10:46 • 14h ago
+👁️ 11K • 👍 471 • 💬 62 • ⏱️ 1:10:46 • 15h ago
 
 ---
 
@@ -296,7 +296,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 4K • 👍 668 • 2h ago
+👁️ 4K • 👍 668 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 240 • 💬 9 • ⏱️ 6:52 • 14h ago
+👁️ 4K • 👍 240 • 💬 9 • ⏱️ 6:52 • 15h ago
 
 ---
 
