@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T12:46:26.732230+00:00'
+updated: '2025-12-11T13:30:20.336938+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- social
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 12:46 UTC  
+**Last Updated:** December 11, 2025 at 13:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 34m ago
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1h ago
 
 ---
 
@@ -49,15 +49,7 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 20h ago
-
----
-
-**[Oracle plummets 11% on weak revenue, pushing down AI stocks like Nvidia and CoreWeave](https://www.reddit.com/r/artificial/comments/1pjq2lu/oracle_plummets_11_on_weak_revenue_pushing_down/)**
-
-Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 6h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 21h ago
 
 ---
 
@@ -69,17 +61,33 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 ---
 
+**[Oracle plummets 11% on weak revenue, pushing down AI stocks like Nvidia and CoreWeave](https://www.reddit.com/r/artificial/comments/1pjq2lu/oracle_plummets_11_on_weak_revenue_pushing_down/)**
+
+Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
+
+🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 7h ago
+
+---
+
+**[Over $50 billion in under 24 hours: Why Big Tech is doubling down on investing in India](https://www.reddit.com/r/artificial/comments/1pjwzs4/over_50_billion_in_under_24_hours_why_big_tech_is/)**
+
+Key Points In under 24 hours, India received investments of more than $50 billion from Amazon and Microsoft. Google is investing $15 billion, while AI companies like ChatGPT, Google and Perplexity are offering free access to AI tools for millions of Indians. India has abundance of resources for data centers, large talent and digital user pool and market opportunity.
+
+🔗 [CNBC](https://www.cnbc.com/2025/12/11/big-tech-microsoft-amazon-google-india-billions-in-investment.html) • 26m ago
+
+---
+
 **[What AI hallucination actually is, why it happens, and what we can realistically do about it](https://www.reddit.com/r/artificial/comments/1pjgh5w/what_ai_hallucination_actually_is_why_it_happens/)**
 
 A lot of people use the term “AI hallucination,” but many don’t clearly understand what it actually means. In simple terms, AI hallucination is when a model produces information that sounds confident and well-structured, but is actually incorrect, fabricated, or impossible to verify. This includes things like made-up academic papers, fake book references, invented historical facts, or technical explanations that look right on the surface but fall apart under real checking. The real danger is not that it gets things wrong — it’s that it often gets them wrong in a way that sounds extremely convincing. Most people assume hallucination is just a bug that engineers haven’t fully fixed yet. In reality, it’s a natural side effect of how large language models work at a fundamental level. These systems don’t decide what is true. They predict what is most statistically likely to come next in a sequence of words. When the underlying information is missing, weak, or ambiguous, the model doesn’t stop — it completes the pattern anyway. That’s why hallucination often appears when context is vague, when questions demand certainty, or when the model is pushed to answer things beyond what its training data can reliably support. Interestingly, hallucination feels “human-like” for a reason. Humans also guess when they’re unsure, fill memory gaps with reconstructed stories, and sometimes speak confidently even when they’re wrong. In that sense, hallucination is not machine madness — it’s a very human-shaped failure mode expressed through probabilistic language generation. The model is doing exactly what it was trained to do: keep the sentence going in the most plausible way. There is no single trick that completely eliminates hallucination today, but there are practical ways to reduce it. Strong, precise context helps a lot. Explicitly allowing the model to express uncertainty also helps, because hallucination often worsens when the prompt demands absolute certainty. Forcing source grounding — asking the model to rely only on verifiable public information and to say when that’s not possible — reduces confident fabrication. Breaking complex questions into smaller steps is another underrated method, since hallucination tends to grow when everything is pushed into a single long, one-shot answer. And when accuracy really matters, cross-checking across different models or re-asking the same question in different forms often exposes structural inconsistencies that signal hallucination. The hard truth is that hallucination can be reduced, but it cannot be fully eliminated with today’s probabilistic generation models. It’s not just an accidental mistake — it’s a structural byproduct of how these systems generate language. No matter how good alignment and safety layers become, there will always be edge cases where the model fills a gap instead of stopping. This quietly creates a responsibility shift that many people underestimate. In the traditional world, humans handled judgment and machines handled execution. In the AI era, machines handle generation, but humans still have to handle judgment. If people fully outsource judgment to AI, hallucination feels like deception. If people keep judgment in the loop, hallucination becomes manageable noise instead of a catastrophic failure. If you’ve personally run into a strange or dangerous hallucination, I’d be curious to hear what it was — and whether you realized it immediately, or only after checking later.
 
-14h ago
+15h ago
 
 ---
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 19h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 20h ago
 
 ---
 
@@ -95,7 +103,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 ‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash.[1] Google launches managed MCP servers that let AI agents simply plug into its tools.[2] From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion.[3] Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds.[4] Sources: [1] https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash [2] https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/ [3] https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html [4] https://time.com/7339513/ai-fei-fei-li-virtual-worlds/
 
-6h ago
+7h ago
 
 ---
 
@@ -103,15 +111,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 This document proposes a graduated, evidence-based approach for ethical obligations toward AI systems, anticipating potential consciousness. Critique, discussion, and collaboration are encouraged.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1UliGp8LhwDsh6bE0tOKu9_A5cWZ93HEDpq2qcxdThzY/edit?usp=drivesdk) • 7h ago
-
----
-
-**[If Your AI Outputs Still Suck, Try These Fixes](https://www.reddit.com/r/artificial/comments/1pj5tsb/if_your_ai_outputs_still_suck_try_these_fixes/)**
-
-I’ve spent the last year really putting AI to work, writing content, handling client projects, digging into research, automating stuff, and even building my own custom GPTs. After hundreds of hours messing around, I picked up a few lessons I wish someone had just told me from the start. No hype here, just honest things that actually made my results better: 1. Stop asking AI “What should I do?”, ask “What options do I have?” AI’s not great at picking the perfect answer right away. But it shines when you use it to brainstorm possibilities. So, instead of: “What’s the best way to improve my landing page?” Say: “Give me 5 different ways to improve my landing page, each based on a different principle (UX, clarity, psychology, trust, layout). Rank them by impact.” You’ll get way better results. 2. Don’t skip the “requirements stage.” Most of the time, AI fails because people jump straight to the end. Slow down. Ask the model to question you first. Try this: “Before creating anything, ask me 5 clarification questions to make sure you get it right.” Just this step alone cuts out most of the junky outputs, way more than any fancy prompt trick. 3. Tell AI it’s okay to be wrong at first. AI actually does better when you take the pressure off early on. Say something like: “Give me a rough draft first. I’ll go over it with you.” That rough draft, then refining together, then finishing up, that’s how the actually get good outputs. 4. If things feel off, don’t bother fixing, just restart the thread. People waste so much time trying to patch up a weird conversation. If the model starts drifting in tone, logic, or style, the fastest fix is just to start fresh: “New conversation: You are [role]. Your goal is [objective]. Start from scratch.” AI memory in a thread gets messy fast. A reset clears up almost all the weirdness. 5. Always run 2 outputs and then merge them. One output? Total crapshoot. Two outputs? Much more consistent. Tell the AI: “Give me 2 versions with different angles. I’ll pick the best parts.” Then follow up with: “Merge both into one polished version.” You get way better quality with hardly any extra effort. 6. Stop using one giant prompt, start building mini workflows. Beginners try to do everything in one big prompt. The experts break it into 3–5 bite-size steps. Here’s a simple structure: - Ask questions - Generate options - Pick a direction - Draft it - Polish Just switching to this approach will make everything you do with AI better. If you want more tips, just let me know and i'll send you a document with more of them.
-
-21h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1UliGp8LhwDsh6bE0tOKu9_A5cWZ93HEDpq2qcxdThzY/edit?usp=drivesdk) • 8h ago
 
 ---
 
@@ -127,7 +127,47 @@ The Atlantic • 1d ago
 
 ---
 
-**[Oracle shares plummet 11% in premarket, dragging down AI stocks](https://www.cnbc.com/2025/12/11/oracle-shares-plummet-dragging-down-ai-stocks-nvidia-coreweave.html)**
+**[Open AI, Microsoft sued over ChatGPT's alleged role in fueling man's "paranoid delusions" before murder-suicide in Connecticut](https://www.cbsnews.com/news/open-ai-microsoft-sued-chatgpt-murder-suicide-connecticut/)**
+
+The suot alleges the artificial intelligence chatbot intensified a man's "paranoid delusions" and helped direct them at his mother before he died by suicide.
+
+CBS News • 1h ago
+
+---
+
+**[ChatGPT accused of being complicit in murder for the first time in bombshell suit: ‘Scarier than Terminator’](https://nypost.com/2025/12/11/tech/chatgpt-accused-of-being-complicit-in-murder-for-the-first-time-in-bombshell-suit/)**
+
+The explosive lawsuit against OpenAI over the murder of Suzanne Eberson Adams is the first known of its kind to accuse AI of being culpable for murder.
+
+New York Post • 2h ago
+
+---
+
+**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
+
+The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
+
+Time Magazine • 47m ago
+
+---
+
+**[Time’s 2025 Person of the Year: The architects of AI](https://www.yahoo.com/news/us/article/times-2025-person-of-the-year-the-architects-of-ai-172342364.html)**
+
+The people behind the rise of artificial intelligence have been given the magazine’s annual title.
+
+Yahoo • 14m ago
+
+---
+
+**[Time Reveals 2025 Person of the Year: ‘Architects of AI’](https://www.today.com/news/time-2025-person-of-the-year-architects-of-ai-rcna248591)**
+
+The magazine is recognizing how artificial intelligence is influencing our lives, for better or for worse.
+
+TODAY.com • 31m ago
+
+---
+
+**[Oracle shares plummet over 12% in premarket, dragging down AI stocks](https://www.cnbc.com/2025/12/11/oracle-shares-plummet-dragging-down-ai-stocks-nvidia-coreweave.html)**
 
 Shares in Nvidia, Micron and Microsoft were also lower in premarket trade on Thursday.
 
@@ -135,65 +175,27 @@ cnbc.com • 3h ago
 
 ---
 
+**[Disappointing Oracle results knock $70bn off value amid AI bubble fears](https://www.theguardian.com/business/2025/dec/11/disappointing-oracle-results-knock-70bn-off-value-amid-ai-bubble-fears)**
+
+Weaker-than-forecast quarterly data for Larry Ellison’s tech company shows slowdown in revenue growth but big rise in spending
+
+The Guardian • 3h ago
+
+---
+
 **[Oracle Drops on Disappointing Cloud Sales, More AI Spending](https://finance.yahoo.com/news/oracle-drops-disappointing-cloud-sales-011724718.html)**
 
 Fiscal second-quarter cloud sales increased 34% to $7.98 billion, while revenue in the company’s closely watched infrastructure business gained 68% to $4.08 billion.  Known for its database software, Oracle has recently found success in the competitive cloud computing market.  It’s engaging in a massive data center build-out to power AI work for OpenAI and also counts companies such as ByteDance Ltd.’s TikTok and Meta Platforms Inc. as major cloud customers.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[AI Bubble: Oracle Is Having Its Own Code Red Moment](https://www.bloomberg.com/opinion/articles/2025-12-11/ai-bubble-oracle-is-having-its-own-code-red-moment)**
+**[When AI takes the tasks, managers take the relationships](https://fortune.com/2025/12/11/when-ai-takes-the-tasks-managers-take-the-relationships/)**
 
-Anyone wanting reassurance that building the infrastructure for artificial intelligence isn’t going to break the bank, won’t have enjoyed Oracle Corp.’s latest earnings report. Wall Street’s de facto barometer of AI fears served up several unwelcome surprises, including $10 billion of quarterly cash burn and a massive increase in capital spending.
+Leaders say agents should handle the busywork so human managers can be more connected to their teams.
 
-Bloomberg.com • 31m ago
-
----
-
-**[McDonald's pulls 'creepy' AI-generated Christmas ad after viewer backlash](https://www.foxbusiness.com/media/mcdonalds-pulls-creepy-ai-generated-christmas-ad-after-viewer-backlash)**
-
-McDonald's confirmed to Fox News Digital that it removed its artificial intelligence-generated Christmas advertisement from YouTube after viewer backlash.
-
-Fox Business • 12h ago
-
----
-
-**[‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash](https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash)**
-
-Commercial in Netherlands depicting festival-season chaos at ‘most terrible time of year’ prompted flurry of criticism online
-
-The Guardian • 2h ago
-
----
-
-**[McDonald's pulls AI-generated Christmas advert following backlash](https://www.bbc.com/news/articles/czdgrnvp082o)**
-
-McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
-
-BBC • 1d ago
-
----
-
-**[AI divides Pennsylvania as fears grow over job loss](https://www.axios.com/local/pittsburgh/2025/12/11/ai-economy-data-centers-pennsylvania-poll)**
-
-Axios • 1h ago
-
----
-
-**[Hinge’s founder and CEO is stepping down to start a new AI-first dating app](https://fortune.com/2025/12/11/justin-mcleod-hinge-overtone-ai-dating-app/)**
-
-The new venture will use AI “to help people connect in a more thoughtful and personal way.”
-
-Fortune • 43m ago
-
----
-
-**[The 'Godmother of AI' says your college diploma is losing power — here's what she looks for instead](https://www.businessinsider.com/godmother-of-ai-value-of-college-degrees-silicon-valley-2025-12)**
-
-Fei-Fei Li, founder of the AI startup World Labs, says she now favors fast learners who embrace AI tools over candidates with traditional degrees.
-
-Business Insider • 25m ago
+Fortune • 15m ago
 
 ---
 
@@ -229,7 +231,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 309 • 💬 295 • 20h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 311 • 💬 301 • 20h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -237,13 +239,13 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 286 • 💬 130 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 286 • 💬 132 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 194 • 💬 177 • 2d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 195 • 💬 177 • 2d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -251,7 +253,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 163 • 💬 201 • 1d ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 164 • 💬 201 • 1d ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -267,7 +269,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 110 • 💬 152 • 23h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 110 • 💬 152 • 1d ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -299,7 +301,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 22K • 👍 202 • 💬 148 • ⏱️ 2:58 • 13h ago
+👁️ 22K • 👍 202 • 💬 148 • ⏱️ 2:58 • 14h ago
 
 ---
 
@@ -309,7 +311,7 @@ From emails to social media to online shopping, banking and chatting — everyth
 
 📺 TODAY
 
-👁️ 7K • 👍 53 • 💬 12 • ⏱️ 3:20 • 23h ago
+👁️ 7K • 👍 53 • 💬 12 • ⏱️ 3:20 • 1d ago
 
 ---
 
@@ -395,7 +397,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 701 • 2d ago
+⬇️ 80,162 • ❤️ 702 • 2d ago
 
 ---
 
@@ -407,7 +409,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,523 • 2d ago
+⬇️ 245,041 • ❤️ 2,524 • 2d ago
 
 ---
 
@@ -419,7 +421,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 18,587 • ❤️ 333 • 1d ago
+⬇️ 18,587 • ❤️ 335 • 1d ago
 
 ---
 
@@ -443,7 +445,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 248 • 20h ago
+⬇️ 7,222 • ❤️ 251 • 20h ago
 
 ---
 
@@ -467,7 +469,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 45,425 • ❤️ 877 • 10d ago
+⬇️ 45,425 • ❤️ 878 • 10d ago
 
 ---
 
@@ -491,7 +493,7 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 171 • 2d ago
+⬇️ 12,302 • ❤️ 173 • 2d ago
 
 ---
 
@@ -533,7 +535,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 23 • 💬 2 • ⭐ 6,464 • 13d ago
+▲ 23 • 💬 2 • ⭐ 6,464 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -655,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 7.8k • 🔱 1.3k • 1h ago
+⭐ 7.8k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -665,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.9k • 🔱 219 • 3h ago
+⭐ 1.9k • 🔱 219 • 4h ago
 
 ---
 
@@ -695,7 +697,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 133 • 1h ago
+⭐ 1.1k • 🔱 133 • 2h ago
 
 ---
 
@@ -745,7 +747,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 606 • 🔱 87 • 10h ago
+⭐ 606 • 🔱 87 • 11h ago
 
 ---
 

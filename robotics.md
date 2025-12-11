@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T12:46:26.749966+00:00'
+updated: '2025-12-11T13:30:20.354848+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 12:46 UTC  
+**Last Updated:** December 11, 2025 at 13:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-11h ago
+12h ago
 
 ---
 
@@ -58,13 +58,13 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-1h ago
+2h ago
 
 ---
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -72,7 +72,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ The strongest counter against robot legs that I've seen. Sure, I have yet to see
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-22h ago
+23h ago
 
 ---
 
@@ -102,7 +102,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 **[Would a sub-millisecond, CPU-only command-validation layer be useful in real robotic systems? Looking for technical feedback.](https://www.reddit.com/r/robotics/comments/1pjwmb7/would_a_submillisecond_cpuonly_commandvalidation/)**
 
-1m ago
+45m ago
 
 ---
 
@@ -110,27 +110,9 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 ## Google News: "robotics"
 
-**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
+**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
 
-Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
-
-Bloomberg.com • 2d ago
-
----
-
-**[China's humanoid robot handles rough terrain with human-like motion](https://interestingengineering.com/ai-robotics/china-limx-oli-humanoid-robot)**
-
-LimX Dynamics’ humanoid robot Oli navigates sand, rocks, and debris with impressive balance and stability in new demo video.
-
-Interesting Engineering • 23h ago
-
----
-
-**[Digit humanoid joins Mercado Libre warehouse](https://www.therobotreport.com/agility-mercado-libre-embargoed/)**
-
-Partnership will integrate Digit robots into fulfillment operations beginning in Texas, with future expansion capabilities for Latin America.
-
-The Robot Report • 23h ago
+Business Wire • 1d ago
 
 ---
 
@@ -146,13 +128,21 @@ MLive.com • 1d ago
 
 Medra, which programs robots with artificial intelligence to conduct and improve biological experiments, has raised $52 million to build what it says will be one of the largest autonomous labs in the United States.
 
-Bloomberg.com • 46m ago
+Bloomberg.com • 1h ago
+
+---
+
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
+
+Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
+
+Yahoo Finance • 2d ago
 
 ---
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 19h ago
+Chron • 20h ago
 
 ---
 
@@ -160,15 +150,31 @@ Chron • 19h ago
 
 $32 million investment will created 230 new jobs.
 
-WHMI • 20h ago
+WHMI • 21h ago
 
 ---
 
-**[Vine-inspired robotic gripper gently lifts heavy and fragile objects](https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210)**
+**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
 
-Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
+Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-MIT News • 17h ago
+Bloomberg.com • 2d ago
+
+---
+
+**[China's humanoid robot handles rough terrain with human-like motion](https://interestingengineering.com/ai-robotics/china-limx-oli-humanoid-robot)**
+
+LimX Dynamics’ humanoid robot Oli navigates sand, rocks, and debris with impressive balance and stability in new demo video.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Digit humanoid joins Mercado Libre warehouse](https://www.therobotreport.com/agility-mercado-libre-embargoed/)**
+
+Partnership will integrate Digit robots into fulfillment operations beginning in Texas, with future expansion capabilities for Latin America.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -176,15 +182,7 @@ MIT News • 17h ago
 
 Analog cameras are nowhere near as efficient as biological eyes. If you’ve ever handled a single-lens reflex (SLR) camera, especially if it had a zoom lens attached, you know how heavy they are, and how tricky and time-consuming adjusting their focus can be.
 
-New Atlas • 17h ago
-
----
-
-**[Google DeepMind to build robotic science laboratory in the UK; Mexico imposes tariffs of up to 50% – business live](https://www.theguardian.com/business/live/2025/dec/11/oracle-shares-slide-earnings-ai-bubble-stock-markets-bank-of-england-business-live-news-updates)**
-
-Rolling coverage of the latest economic and financial news
-
-The Guardian • 5h ago
+New Atlas • 18h ago
 
 ---
 
@@ -208,7 +206,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 73K • 👍 3K • 💬 266 • ⏱️ 17:44 • 20h ago
+👁️ 73K • 👍 3K • 💬 266 • ⏱️ 17:44 • 21h ago
 
 ---
 
@@ -226,7 +224,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI . Robot
 
-👁️ 1.8M • 👍 9K • 💬 54 • ⏱️ 0:17 • 6d ago
+👁️ 1.8M • 👍 9K • 💬 54 • ⏱️ 0:17 • 7d ago
 
 ---
 
@@ -286,7 +284,7 @@ At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the 
 
 📺 AI Robot Lab
 
-👁️ 667K • 👍 1K • 💬 36 • ⏱️ 0:20 • 23h ago
+👁️ 667K • 👍 1K • 💬 36 • ⏱️ 0:20 • 1d ago
 
 ---
 
