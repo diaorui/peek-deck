@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T15:54:22.907442+00:00'
+updated: '2025-12-11T16:29:45.664979+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 15:54 UTC  
+**Last Updated:** December 11, 2025 at 16:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,718.91
+### $89,443.13
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.0%  
-**7d:** +0.6%  
-**30d:** -12.0%  
-**90d:** -22.7%  
-**1y:** -10.4%  
+**24h:** -3.1%  
+**7d:** +0.4%  
+**30d:** -12.2%  
+**90d:** -22.9%  
+**1y:** -10.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.09B
+**Market Cap:** $1788.69B
 Rank #1
 
 **Circulating Supply:** 19,960,721 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.9%
 
 **All-Time Low:** $67.81
-+132831.7%
++132044.2%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
+**[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-4h ago
+1h ago
 
 ---
 
-**[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
+**[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-54m ago
+4h ago
 
 ---
 
@@ -103,9 +103,15 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 ---
 
+**[SUPERCYCLE😂](https://www.reddit.com/r/Bitcoin/comments/1pjzrml/supercycle/)**
+
+1h ago
+
+---
+
 **[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -117,23 +123,11 @@ We back baby!
 
 ---
 
-**[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
+**[Can you relate?](https://www.reddit.com/r/Bitcoin/comments/1pk1i4g/can_you_relate/)**
 
-17h ago
+For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
 
----
-
-**[Is there any one as confused as I am after the fed cut](https://www.reddit.com/r/Bitcoin/comments/1pjm05j/is_there_any_one_as_confused_as_i_am_after_the/)**
-
-All precious metals are moving higher after yhe dovish fed move Why is bitcoin dropping? Is that a conflicting temporary move? Or is there anything else I am missing?
-
-13h ago
-
----
-
-**[SUPERCYCLE😂](https://www.reddit.com/r/Bitcoin/comments/1pjzrml/supercycle/)**
-
-48m ago
+15m ago
 
 ---
 
@@ -141,7 +135,15 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 50°C outside but 27 °C inside the facility. Triple filtration, 24 tons of water circulating daily, on-site hydro conversions. 800 ASICs running 24/7 in one of the harshest climates on earth.
 
-42m ago
+1h ago
+
+---
+
+**[Is there any one as confused as I am after the fed cut](https://www.reddit.com/r/Bitcoin/comments/1pjm05j/is_there_any_one_as_confused_as_i_am_after_the/)**
+
+All precious metals are moving higher after yhe dovish fed move Why is bitcoin dropping? Is that a conflicting temporary move? Or is there anything else I am missing?
+
+14h ago
 
 ---
 
@@ -149,21 +151,29 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 ## Google News: "bitcoin"
 
+**[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
+
+Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
+
+BBC • 16h ago
+
+---
+
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
 Reuters • 3h ago
 
 ---
 
-**[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
+**[Bitcoin and equity futures fall alongside mining stocks as Oracle leads AI stock decline](https://finance.yahoo.com/news/bitcoin-equity-futures-fall-alongside-150949775.html)**
 
-Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
+Oracle shares plunged over 13% following a revenue miss, while Bitcoin’s slide below $91,000 exerted broad downward pressure on digital asset miners.
 
-BBC • 15h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[GameStop’s bitcoin holdings — and sales — slide](https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?gaa_at=eafs&gaa_n=AWEtsqedvj9J7QlvM3ZbGGYsThU-oR35A2RNLI3R_uBTjMQaUcS-2-Lpw85e&gaa_ts=693ae85d&gaa_sig=K2e1pr7XS-gh4rOhD7HcK-wo5o3e8d9EdUSBJ6lnIa3RuzWQK1gPd0pHtzykQxr4f2ftQwhZAIerI15uz80nuA%3D%3D)**
+**[GameStop’s bitcoin holdings — and sales — slide](https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?gaa_at=eafs&gaa_n=AWEtsqdlJu02txk9K8ZDxafkmqHr8Tt_XA8Nmnna5I3ZA612OeySpvIQRISR&gaa_ts=693af499&gaa_sig=-zXaG3Gd1OJjQjf6wOE-rrrrPcy4QPkPmHBk6FAh_vzypFBKroFdO_w1ekJ7Qckc-496dW8GZhMvCUQMJnodBg%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -173,7 +183,7 @@ MarketWatch • 1d ago
 
 Company's aggressive cost cuts weren't enough to offset sliding sales and crypto volatility.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,23 +191,15 @@ Yahoo Finance • 1h ago
 
 Markets haven’t reacted well to GameStop’s latest earnings call, where it revealed sinking Bitcoin value and retail sales alike.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
-**[Bitcoin and equity futures fall alongside mining stocks as Oracle leads AI stock decline](https://finance.yahoo.com/news/bitcoin-equity-futures-fall-alongside-150949775.html)**
+**[Some Bitcoin Buying Firms Are Selling as Losses Pile Up on Paper for Many: Report](https://finance.yahoo.com/news/bitcoin-buying-firms-selling-losses-155734023.html)**
 
-Oracle shares plunged over 13% following a revenue miss, while Bitcoin’s slide below $91,000 exerted broad downward pressure on digital asset miners.
+A report found that most Bitcoin-stacking firms sit on unrealized losses, with a handful selling the asset as its price fell last month.
 
-Yahoo Finance • 44m ago
-
----
-
-**[Bitcoin Cracks Below $90K as Wall Street Surges in a Stunning Post?Fed Split](https://finance.yahoo.com/news/bitcoin-cracks-below-90k-wall-135214264.html)**
-
-A quarter?point Fed cut lifted equities to near records, but Bitcoin's latest drop signals a market pulling in two directions.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 32m ago
 
 ---
 
@@ -209,9 +211,11 @@ CNBC • 1d ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqffk-Yz1qoNJC8F0twpr0nMl3YSVxF145z80J9w_K3oN8PmTRVkT5wy&gaa_ts=693ae85d&gaa_sig=p83-QStMn2hFQ0U9OmRU0EMydu5lJUt9kTc38mUaKHzBGH8yBIPp_dqsD-ThZCzz0MFwsxTrerd7zmO2o3nCBg%3D%3D)**
+**[This bitcoin bull just slashed their price forecast](https://seekingalpha.com/news/4529976-this-bitcoin-bull-just-slashed-their-price-forecast)**
 
-MarketWatch • 1d ago
+Explore Standard Chartered's updated outlook for bitcoin.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -219,7 +223,7 @@ MarketWatch • 1d ago
 
 Bitcoin will likely reach a new price record in 2026, according to cryptocurrency asset manager Grayscale. “We believe the four-year cycle thesis will prove to be incorrect, and that Bitcoin’s price will potentially make new highs next year,” ...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -259,7 +263,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 16h ago
+⬆️ 2 • 💬 0 • 17h ago
 
 ---
 
@@ -301,7 +305,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 45K • 👍 2K • 💬 568 • ⏱️ 8:26 • 14h ago
+👁️ 45K • 👍 2K • 💬 568 • ⏱️ 8:26 • 15h ago
 
 ---
 
@@ -311,7 +315,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 89K • 👍 5K • 💬 425 • ⏱️ 21:05 • 16h ago
+👁️ 89K • 👍 5K • 💬 425 • ⏱️ 21:05 • 17h ago
 
 ---
 
@@ -321,7 +325,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 8K • 👍 273 • 💬 159 • ⏱️ 15:40 • 9h ago
+👁️ 8K • 👍 273 • 💬 159 • ⏱️ 15:40 • 10h ago
 
 ---
 
@@ -331,7 +335,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 325 • ⏱️ 10:23 • 13h ago
+👁️ 42K • 👍 2K • 💬 325 • ⏱️ 10:23 • 14h ago
 
 ---
 
@@ -351,7 +355,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 840 • 💬 33 • ⏱️ 32:26 • 17h ago
+👁️ 25K • 👍 840 • 💬 33 • ⏱️ 32:26 • 18h ago
 
 ---
 
@@ -361,7 +365,7 @@ ONLY FOR THE FIRST 100 USERS !!! BloFin: https://themoon.co/blofin1000 Deposit &
 
 📺 The Moon Show
 
-👁️ 9K • 👍 614 • 💬 72 • ⏱️ 3:56 • 7h ago
+👁️ 9K • 👍 614 • 💬 72 • ⏱️ 3:56 • 8h ago
 
 ---
 
@@ -381,7 +385,7 @@ Jeff Walton joins the show for a deep dive into the state of Bitcoin treasury co
 
 📺 What Bitcoin Did
 
-👁️ 10K • 👍 433 • 💬 76 • ⏱️ 48:22 • 20h ago
+👁️ 10K • 👍 433 • 💬 76 • ⏱️ 48:22 • 21h ago
 
 ---
 

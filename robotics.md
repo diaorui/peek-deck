@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T15:54:22.916683+00:00'
+updated: '2025-12-11T16:29:45.674286+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 15:54 UTC  
+**Last Updated:** December 11, 2025 at 16:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-59m ago
+1h ago
 
 ---
 
@@ -44,7 +44,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-14h ago
+15h ago
 
 ---
 
@@ -56,12 +56,6 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 ---
 
-**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
-
-12h ago
-
----
-
 **[IR-Sim is, a Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning](https://www.reddit.com/r/robotics/comments/1pjumrm/irsim_is_a_pythonbased_lightweight_robot/)**
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
@@ -70,9 +64,15 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 ---
 
+**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
+
+12h ago
+
+---
+
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -126,11 +126,23 @@ MLive.com • 1d ago
 
 ---
 
-**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
+**[EQT Cuts Deal For 10,000 Humanoids From Robot Startup It Backs](https://www.bloomberg.com/news/articles/2025-12-11/eqt-to-send-10-000-humanoid-robots-from-startup-1x-to-portfolio-companies)**
 
-Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
+Bloomberg.com • 2h ago
 
-IEEE Spectrum • 43m ago
+---
+
+**[Watch Apollo humanoid robot tackle never-before-seen objects with Google DeepMind](https://interestingengineering.com/ai-robotics/google-deepmind-apollo-humanoid-robot)**
+
+Google DeepMind shows Apollo humanoid handling unfamiliar objects and following voice commands, alongside Aloha robots performing tasks.
+
+Interesting Engineering • 3h ago
+
+---
+
+**[Analysts Warn of Cybersecurity Risks in Humanoid Robots](https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots)**
+
+Dark Reading • 1d ago
 
 ---
 
@@ -138,7 +150,29 @@ IEEE Spectrum • 43m ago
 
 The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
 
-International Federation of Robotics • 1h ago
+International Federation of Robotics • 2h ago
+
+---
+
+**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
+
+Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
+
+IEEE Spectrum • 1h ago
+
+---
+
+**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
+
+$32 million investment will created 230 new jobs.
+
+WHMI • 1d ago
+
+---
+
+**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+
+Chron • 23h ago
 
 ---
 
@@ -147,44 +181,6 @@ International Federation of Robotics • 1h ago
 Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
 
 Yahoo Finance • 3d ago
-
----
-
-**[NASA, Reliable Robotics Begin Autonomous C208 Trials](https://avweb.com/aviation-news/nasa-reliable-robotics-c208-uav-trials/)**
-
-Data from automated Reliable Robotics Caravan tests to inform national standards work.
-
-AVweb • 23h ago
-
----
-
-**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
-
-Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
-
-Bloomberg.com • 3d ago
-
----
-
-**[Watch Apollo humanoid robot tackle never-before-seen objects with Google DeepMind](https://interestingengineering.com/ai-robotics/google-deepmind-apollo-humanoid-robot)**
-
-Google DeepMind shows Apollo humanoid handling unfamiliar objects and following voice commands, alongside Aloha robots performing tasks.
-
-Interesting Engineering • 2h ago
-
----
-
-**['Botnets in physical form' are top humanoid robot risk](https://www.theregister.com/2025/12/09/humanoid_robot_security/)**
-
-Interview: Have we learned nothing from sci-fi films and TV shows?
-
-theregister.com • 2d ago
-
----
-
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
-
-Chron • 22h ago
 
 ---
 
@@ -208,7 +204,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 79K • 👍 3K • 💬 287 • ⏱️ 17:44 • 23h ago
+👁️ 79K • 👍 3K • 💬 287 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -248,7 +244,7 @@ What should a robot look like? How necessary is a body? Where do the boundaries 
 
 📺 Sarah Davis Baker
 
-👁️ 11K • 👍 1K • 💬 184 • ⏱️ 37:14 • 21h ago
+👁️ 11K • 👍 1K • 💬 184 • ⏱️ 37:14 • 22h ago
 
 ---
 
@@ -276,7 +272,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 201K • 👍 918 • 💬 297 • ⏱️ 1:03 • 4d ago
+👁️ 201K • 👍 918 • 💬 297 • ⏱️ 1:03 • 5d ago
 
 ---
 
