@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T11:43:46.778251+00:00'
+updated: '2025-12-11T11:54:50.626102+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 11:43 UTC  
+**Last Updated:** December 11, 2025 at 11:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-52m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
 
-2h ago
+3h ago
 
 ---
 
@@ -184,7 +184,7 @@ MIT News • 16h ago
 
 Analog cameras are nowhere near as efficient as biological eyes. If you’ve ever handled a single-lens reflex (SLR) camera, especially if it had a zoom lens attached, you know how heavy they are, and how tricky and time-consuming adjusting their focus can be.
 
-New Atlas • 16h ago
+New Atlas • 17h ago
 
 ---
 

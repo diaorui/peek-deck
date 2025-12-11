@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T11:43:46.767674+00:00'
+updated: '2025-12-11T11:54:50.616841+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 11:43 UTC  
+**Last Updated:** December 11, 2025 at 11:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +1.1%  
-**30d:** -11.5%  
-**90d:** -22.3%  
-**1y:** -9.9%  
+**24h:** -1.8%  
+**7d:** +1.4%  
+**30d:** -11.2%  
+**90d:** -22.1%  
+**1y:** -9.6%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 We back baby!
 
-13h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bottom tex
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bottom tex
 
 Seeing a lot of confusion about grey market crypto casinos so let me break it down: Traditional casino model: Casino holds all funds in opaque accounts. You deposit, they promise to pay. If you win big, it's a direct hit to their operations. This is why they limit winners - your win threatens their business. Grey casino model (the good ones): Bankroll is separated from operations. Often backed by a larger liquidity pool shared across multiple operators. Your win is absorbed by the liquidity layer, not the casino's operating budget. Casin0x uses this model - they're built on something called the DeGaming platform which provides the liquidity backing. This is why they can offer no withdrawal limits and don't panic when you win. Key thing to verify: Can you see the bankroll? Is it on-chain?
 
-39m ago
+50m ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 6h ago
 
 <body><p>STORY: Bitcoin fell below $90,000 on Thursday (December 11) and dragged other cryptocurrencies down with it.</p><p>The fall followed fresh market worries about AI profits.</p><p>Risk appetite fell after U.S. cloud firm Oracle's profit and revenue outlook came in below forecasts the day before, and the firm said it expected higher spending.</p><p>Investors took that as a sign AI infrastructure outlays aren't turning profits as fast as they hoped.</p><p>Bitcoin did rise back just above the $90,000 mark by morning in Europe, but&nbsp;remained down around 2% on the day.&nbsp;</p><p>The moves undid two days of gains and showed further weakness that began in the U.S. trading session on Wednesday after the Federal Reserve cut interest rates.</p><p>Thursday's decline came days after Standard Chartered slashed its expectations for bitcoin.</p><p>The lender had projected the crypto token to hit $200,000 by the end of this year, but has now lowered its forecast to $100,000.</p></body>
 
-Yahoo Finance • 47m ago
+Yahoo Finance • 58m ago
 
 ---
 
@@ -181,7 +181,7 @@ South China Morning Post • 3h ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-cnbc.com • 12h ago
+cnbc.com • 13h ago
 
 ---
 
@@ -215,7 +215,7 @@ Yahoo Finance UK • 1h ago
 
 **[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqf8QXoHWWCme-V-ONmVqrK_JlppSMVdEPPnBjb4avI6_U_ISuvkez-v&gaa_ts=693ab1d7&gaa_sig=QAZwKenBFHr-cQl9wutGaPrZEgJkSdt2ibYQpm23DByFEp66GVkxkMPuisy1M42hbJTn9yfLbpnLfL-JFg-XIQ%3D%3D)**
 
-Barron's • 21h ago
+Barron's • 22h ago
 
 ---
 
@@ -235,7 +235,7 @@ BBC • 11h ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 7 • 💬 1 • 6d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 7 • 💬 1 • 7d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
@@ -343,7 +343,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 15K • 👍 613 • 💬 126 • ⏱️ 8:34 • 14h ago
+👁️ 15K • 👍 613 • 💬 126 • ⏱️ 8:34 • 15h ago
 
 ---
 
@@ -373,7 +373,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 17K • 👍 824 • 💬 150 • ⏱️ 5:12 • 14h ago
+👁️ 17K • 👍 824 • 💬 150 • ⏱️ 5:12 • 15h ago
 
 ---
 

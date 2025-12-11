@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T11:43:46.753266+00:00'
+updated: '2025-12-11T11:54:50.608460+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
+- repositories
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 11:43 UTC  
+**Last Updated:** December 11, 2025 at 11:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,13 +73,13 @@ A lot of people use the term “AI hallucination,” but many don’t clearly un
 
 Forensic artist Marcel van Adrichem has created a stunning facial reconstruction of this US leader at 108 years old, using cutting-edge technology
 
-🔗 [The Mirror US](https://www.themirror.com/news/us-news/jfk-face-if-he-lived-1555445) • 43m ago
+🔗 [The Mirror US](https://www.themirror.com/news/us-news/jfk-face-if-he-lived-1555445) • 54m ago
 
 ---
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 18h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 19h ago
 
 ---
 
@@ -95,7 +95,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 ‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash.[1] Google launches managed MCP servers that let AI agents simply plug into its tools.[2] From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion.[3] Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds.[4] Sources: [1] https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash [2] https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/ [3] https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html [4] https://time.com/7339513/ai-fei-fei-li-virtual-worlds/
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’ve spent the last year really putting AI to work, writing content, handling 
 
 Commercial in Netherlands depicting festival-season chaos at ‘most terrible time of year’ prompted flurry of criticism online
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -147,13 +147,13 @@ Fox Business • 11h ago
 
 From deepfake teachers to remote maths lessons - how are schools using tech and AI in the classroom?
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
 **[AI divides Pennsylvania as fears grow over job loss](https://www.axios.com/local/pittsburgh/2025/12/11/ai-economy-data-centers-pennsylvania-poll)**
 
-Axios • 20m ago
+Axios • 31m ago
 
 ---
 
@@ -161,13 +161,13 @@ Axios • 20m ago
 
 Leading tech and AI companies are thinking with their stomachs when it comes to naming their secretive AI advancements.
 
-Business Insider • 46m ago
+Business Insider • 57m ago
 
 ---
 
 **[Watch Square, AWS, Salesforce & Workday on AI for Business](https://www.bloomberg.com/news/videos/2025-12-11/square-aws-salesforce-workday-on-ai-for-business-video)**
 
-Bloomberg.com • 56m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 7.5k • 🔱 1.3k • 46m ago
+⭐ 7.5k • 🔱 1.3k • 57m ago
 
 ---
 
