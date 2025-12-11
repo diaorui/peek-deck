@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T21:22:18.971889+00:00'
+updated: '2025-12-11T21:39:36.892459+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 21:22 UTC  
+**Last Updated:** December 11, 2025 at 21:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,877.93
+### $93,368.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +3.9%  
-**30d:** -9.0%  
-**90d:** -20.1%  
-**1y:** -7.4%  
+**24h:** +0.6%  
+**7d:** +4.6%  
+**30d:** -8.5%  
+**90d:** -19.7%  
+**1y:** -6.8%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -139,7 +139,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 **[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -151,7 +151,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 8h ago
 
 The Fed could shake the world's most well-known cryptocurrency out of its rut.
 
-Investopedia • 23h ago
+Investopedia • 1d ago
 
 ---
 
@@ -173,13 +173,13 @@ Investopedia • 23h ago
 
 Only The Blockchain Group outperformed the S&P 500 among Bitcoin treasury companies in 2025. Approximately 60% of Bitcoin treasuries are underwater on their purchases. Treasury buying collapsed to just 28 Bitcoin in November from 168 Bitcoin in July.
 
-dlnews.com • 42m ago
+dlnews.com • 59m ago
 
 ---
 
 **[Myriad Moves: Will Santa Bring a Pump or Dump for Bitcoin, Ethereum and Solana?](https://finance.yahoo.com/news/myriad-moves-santa-bring-pump-204508855.html)**
 
-Yahoo Finance • 37m ago
+Yahoo Finance • 54m ago
 
 ---
 
@@ -255,7 +255,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 21h ago
+⬆️ 2 • 💬 0 • 22h ago
 
 ---
 
@@ -297,7 +297,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 609 • 💬 50 • ⏱️ 11:29 • 8h ago
+👁️ 13K • 👍 609 • 💬 50 • ⏱️ 11:29 • 9h ago
 
 ---
 

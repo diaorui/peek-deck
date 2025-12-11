@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T21:22:18.978043+00:00'
+updated: '2025-12-11T21:39:36.898458+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 21:22 UTC  
+**Last Updated:** December 11, 2025 at 21:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** +7.5%  
-**30d:** -4.9%  
-**90d:** -30.2%  
-**1y:** -16.4%  
+**24h:** -2.9%  
+**7d:** +7.7%  
+**30d:** -4.7%  
+**90d:** -30.0%  
+**1y:** -16.2%  
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 12h ago
 
 **[Myriad Moves: Will Santa Bring a Pump or Dump for Bitcoin, Ethereum and Solana?](https://finance.yahoo.com/news/myriad-moves-santa-bring-pump-204508855.html)**
 
-Yahoo Finance • 37m ago
+Yahoo Finance • 54m ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView • 19h ago
 
 A Bitcoin OG has expanded their Ethereum long position to $392.5M on Hyperliquid, with liquidation set at $2,234 per ETH.
 
-Crypto Briefing • 19h ago
+Crypto Briefing • 20h ago
 
 ---
 
@@ -248,7 +248,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 609 • 💬 50 • ⏱️ 11:29 • 8h ago
+👁️ 13K • 👍 609 • 💬 50 • ⏱️ 11:29 • 9h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 174 • 💬 4 • ⏱️ 6:54 • 6h ago
+👁️ 2K • 👍 174 • 💬 4 • ⏱️ 6:54 • 7h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITCOIN: History is Repeating (PREPARE NOW)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 11K • 👍 373 • 💬 157 • ⏱️ 18:26 • 20h ago
+👁️ 11K • 👍 373 • 💬 157 • ⏱️ 18:26 • 21h ago
 
 ---
 

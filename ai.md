@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T21:22:18.963328+00:00'
+updated: '2025-12-11T21:39:36.884021+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- videos
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 21:22 UTC  
+**Last Updated:** December 11, 2025 at 21:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 4h ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 5h ago
 
 ---
 
@@ -81,7 +81,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
 
-🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 2h ago
+🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 3h ago
 
 ---
 
@@ -113,7 +113,7 @@ The ChatGPT-maker is releasing its “best model yet” as it faces new pressure
 
 Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.
 
-🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 13m ago
+🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 30m ago
 
 ---
 
@@ -141,7 +141,7 @@ Yahoo • 4h ago
 
 Time magazine has just announced its 2025 Person of the Year, recognizing not just one person, but a group its calling "the architects of AI." The digital article is out now.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Verge • 3h ago
 
 **[N.Y. Gov. Kathy Hochul proposes major changes to AI bill](https://www.axios.com/2025/12/11/ny-gov-kathy-hochul-major-changes-ai-bill)**
 
-Axios • 28m ago
+Axios • 45m ago
 
 ---
 
@@ -177,7 +177,7 @@ Axios • 28m ago
 
 New York Gov. Kathy Hochul on Thursday signed the nation's first AI bill designed to both protect consumers and increase transparency in the film industry.
 
-Deadline • 2h ago
+Deadline • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ The American Prospect • 2h ago
 
 Rivian Automotive Inc. has developed its own artificial intelligence chip, replacing Nvidia Corp. technology as part of a broader push to add and enhance automated-driving features in future vehicles.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -261,7 +261,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 117 • 💬 74 • 7h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 117 • 💬 74 • 8h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -381,7 +381,7 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 📺 CNBC Television
 
-👁️ 5K • 👍 103 • 💬 44 • ⏱️ 3:04 • 2h ago
+👁️ 5K • 👍 103 • 💬 44 • ⏱️ 3:04 • 3h ago
 
 ---
 
@@ -747,7 +747,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 609 • 🔱 88 • 6h ago
+⭐ 609 • 🔱 88 • 7h ago
 
 ---
 
