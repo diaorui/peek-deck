@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T17:37:08.819191+00:00'
+updated: '2025-12-11T17:57:46.387279+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 17:37 UTC  
+**Last Updated:** December 11, 2025 at 17:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,094.12
+### $90,136.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +1.0%  
-**30d:** -11.6%  
-**90d:** -22.4%  
-**1y:** -10.0%  
+**24h:** -2.3%  
+**7d:** +1.2%  
+**30d:** -11.4%  
+**90d:** -22.2%  
+**1y:** -9.8%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-14h ago
+15h ago
 
 ---
 
@@ -127,7 +127,7 @@ For perspective: Originally this meme said $ 1k and $ 20k. Way to go.
 
 We back baby!
 
-19h ago
+20h ago
 
 ---
 
@@ -161,7 +161,7 @@ BBC • 17h ago
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -169,7 +169,7 @@ Reuters • 4h ago
 
 Bitcoin (CRYPTO: BTC) has seen $732 billion in new capital inflows since its 2022 cycle low, exceeding all previous bull runs combined. This surge in institutional and ETF-driven investment has pushed Bitcoin’s realized market cap to record highs—$1.1 trillion—even as prices consolidate below peak levels. Past crypto winters brought panic but this wave of capital ... Bitcoin’s $732B Capital Inflow Proves This Isn’t Crypto Winter But a Mid-Cycle Reset
 
-Yahoo Finance • 26m ago
+Yahoo Finance • 47m ago
 
 ---
 
@@ -207,7 +207,7 @@ Barron's • 1d ago
 
 A report found that most Bitcoin-stacking firms sit on unrealized losses, with a handful selling the asset as its price fell last month.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -305,7 +305,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 47K • 👍 2K • 💬 582 • ⏱️ 8:26 • 16h ago
+👁️ 47K • 👍 2K • 💬 582 • ⏱️ 8:26 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 18K • 👍 872 • 💬 188 • ⏱️ 5:12 • 20h ago
+👁️ 18K • 👍 872 • 💬 188 • ⏱️ 5:12 • 21h ago
 
 ---
 

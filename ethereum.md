@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T17:37:08.825431+00:00'
+updated: '2025-12-11T17:57:46.393213+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 17:37 UTC  
+**Last Updated:** December 11, 2025 at 17:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,194.93
+### $3,185.48
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.9%  
-**7d:** +5.9%  
-**30d:** -6.3%  
-**90d:** -31.2%  
-**1y:** -17.6%  
+**24h:** -5.3%  
+**7d:** +5.6%  
+**30d:** -6.8%  
+**90d:** -31.6%  
+**1y:** -18.1%  
 
 ---
 
@@ -168,7 +168,7 @@ CryptoPotato • 1d ago
 
 **[Bitcoin, Ethereum, Ripple's XRP Slump After Fed Rate Cut. What It Means for Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqelyhzbw4FmZYJtrpTVR27CJgVsoYUpjqk35zLPhoIXcEdDWTRKW-XH&gaa_ts=693b049a&gaa_sig=76yLnTBu7ohgeHhPPHmmiQgXn_i8X8gnvBh9xRf73HCWsZ7wWa72WuVq3CdvdmBww5nmN7SHT8hE_oeo-YPOeQ%3D%3D)**
 
-Barron's • 5h ago
+Barron's • 6h ago
 
 ---
 
@@ -234,7 +234,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 688 • 👍 40 • 💬 8 • ⏱️ 4:36 • 7h ago
+👁️ 688 • 👍 40 • 💬 8 • ⏱️ 4:36 • 8h ago
 
 ---
 
@@ -244,7 +244,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 11K • 👍 661 • 💬 61 • ⏱️ 44:48 • 5h ago
+👁️ 11K • 👍 661 • 💬 61 • ⏱️ 44:48 • 6h ago
 
 ---
 

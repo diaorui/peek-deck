@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T17:37:08.810383+00:00'
+updated: '2025-12-11T17:57:46.378892+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 17:37 UTC  
+**Last Updated:** December 11, 2025 at 17:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Four sources close to the situation claim OpenAI has become hesitant to publish 
 
 “Holy shit,” he wrote on X. “I’ve used ChatGPT every day for 3 years. Just spent 2 hours on Gemini 3. I’m not going back. The leap is insane.”
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 9h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201) • 10h ago
 
 ---
 
@@ -111,7 +111,7 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 **[AI Hackers Are Coming Dangerously Close to Beating Humans | A recent Stanford experiment shows what happens when an artificial-intelligence hacking bot is unleashed on a network](https://www.reddit.com/r/artificial/comments/1pk2spw/ai_hackers_are_coming_dangerously_close_to/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6) • 32m ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6) • 53m ago
 
 ---
 
@@ -123,7 +123,7 @@ Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Time Magazine • 4h ago
+Time Magazine • 5h ago
 
 ---
 
@@ -131,13 +131,13 @@ Time Magazine • 4h ago
 
 Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
 **[These Are the Key AI Players on the Cover of Time's 'Architects of AI' Magazine](https://www.usnews.com/news/us/articles/2025-12-11/these-are-the-key-ai-players-on-the-cover-of-times-architects-of-ai-magazine)**
 
-U.S. News & World Report • 23m ago
+U.S. News & World Report • 43m ago
 
 ---
 
@@ -153,7 +153,7 @@ Yahoo Finance • 1h ago
 
 Shares in Nvidia, Micron and Microsoft were also lower in premarket trade on Thursday.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 7h ago
 
 The gains of the last several years could broaden out to other sectors.
 
-CNBC • 28m ago
+CNBC • 49m ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 28m ago
 
 Rivian Automotive Inc. has developed its own artificial intelligence chip, replacing Nvidia Corp. technology as part of a broader push to add and enhance automated-driving features in future vehicles.
 
-Bloomberg.com • 17m ago
+Bloomberg.com • 37m ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg.com • 17m ago
 
 Rivian’s AI chips can perform 1,600 trillion operations a second.
 
-The Verge • 17m ago
+The Verge • 37m ago
 
 ---
 
@@ -241,7 +241,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 196 • 💬 177 • 2d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 196 • 💬 177 • 3d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -663,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.0k • 🔱 225 • 37m ago
+⭐ 2.0k • 🔱 225 • 58m ago
 
 ---
 
