@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T21:51:14.082244+00:00'
+updated: '2025-12-11T22:12:39.344820+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 21:51 UTC  
+**Last Updated:** December 11, 2025 at 22:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-10h ago
+11h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-20h ago
+21h ago
 
 ---
 
@@ -61,6 +61,14 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 17h ago
+
+---
+
+**[Major robotics company shuts down?](https://www.reddit.com/r/robotics/comments/1pk9ow0/major_robotics_company_shuts_down/)**
+
+https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
+
+38m ago
 
 ---
 
@@ -88,7 +96,7 @@ The strongest counter against robot legs that I've seen. Sure, I have yet to see
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -97,14 +105,6 @@ The strongest counter against robot legs that I've seen. Sure, I have yet to see
 Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
 
 13h ago
-
----
-
-**[Booster Robotics in Action: Live Demo](https://www.reddit.com/r/robotics/comments/1pjzcx6/booster_robotics_in_action_live_demo/)**
-
-https://youtu.be/7YZupSKnvC8
-
-7h ago
 
 ---
 
@@ -120,17 +120,19 @@ Deloitte • 1d ago
 
 ---
 
-**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
-
-Business Wire • 1d ago
-
----
-
 **[World’s first six-armed humanoid robot that promises 30% more output unveiled in China](https://interestingengineering.com/ai-robotics/worlds-first-six-armed-humanoid-robot)**
 
 Chinese home appliance company Midea has unveiled its six-armed super humanoid robot at the Greater Bay Area New Economy Forum in China.
 
 Interesting Engineering • 6h ago
+
+---
+
+**['Botnets in physical form' are top humanoid robot risk](https://www.theregister.com/2025/12/09/humanoid_robot_security/)**
+
+Interview: Have we learned nothing from sci-fi films and TV shows?
+
+theregister.com • 2d ago
 
 ---
 
@@ -140,17 +142,17 @@ Chron • 1d ago
 
 ---
 
+**[Advanced Intralogistics and AlphaOne Robotics Partner to Deliver Automated Trailer Unloading & Receiving Automation](https://www.businesswire.com/news/home/20251211294951/en/Advanced-Intralogistics-and-AlphaOne-Robotics-Partner-to-Deliver-Automated-Trailer-Unloading-Receiving-Automation)**
+
+Business Wire • 52m ago
+
+---
+
 **[GWM-1 Robotics SDK](https://runwayml.com/research/introducing-runway-gwm-1)**
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
 Runway • 4h ago
-
----
-
-**[Advanced Intralogistics and AlphaOne Robotics Partner to Deliver Automated Trailer Unloading & Receiving Automation](https://www.businesswire.com/news/home/20251211294951/en/Advanced-Intralogistics-and-AlphaOne-Robotics-Partner-to-Deliver-Automated-Trailer-Unloading-Receiving-Automation)**
-
-Business Wire • 31m ago
 
 ---
 
@@ -170,19 +172,19 @@ MLive.com • 2d ago
 
 ---
 
-**[Naperville teens make history at international robotics competition](https://www.nctv17.org/news/naperville-teens-make-history-at-international-robotics-competition/)**
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
 
-Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
+Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
 
-NCTV17 • 1d ago
+Yahoo Finance • 3d ago
 
 ---
 
-**[NASA, Reliable Robotics Begin Autonomous C208 Trials](https://avweb.com/aviation-news/nasa-reliable-robotics-c208-uav-trials/)**
+**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
 
-Data from automated Reliable Robotics Caravan tests to inform national standards work.
+Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-AVweb • 1d ago
+Bloomberg.com • 3d ago
 
 ---
 
@@ -226,7 +228,7 @@ Ukraine's battlefield is changing fast as ground robots move from support roles 
 
 📺 The Military Show
 
-👁️ 113K • 👍 5K • 💬 272 • ⏱️ 16:55 • 7h ago
+👁️ 113K • 👍 5K • 💬 272 • ⏱️ 16:55 • 8h ago
 
 ---
 

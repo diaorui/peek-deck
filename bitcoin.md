@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T21:51:14.072495+00:00'
+updated: '2025-12-11T22:12:39.335552+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 21:51 UTC  
+**Last Updated:** December 11, 2025 at 22:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,368.53
+### $93,015.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +4.3%  
-**30d:** -8.7%  
-**90d:** -19.9%  
-**1y:** -7.0%  
+**24h:** +0.9%  
+**7d:** +4.1%  
+**30d:** -8.9%  
+**90d:** -20.0%  
+**1y:** -7.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1839.52B
+**Market Cap:** $1854.38B
 Rank #1
 
-**Circulating Supply:** 19,960,809 BTC
+**Circulating Supply:** 19,960,843 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -26.3%
 
 **All-Time Low:** $67.81
-+136963.9%
++136944.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[I can’t wait to be rich guys](https://www.reddit.com/r/Bitcoin/comments/1pk4b3i/i_cant_wait_to_be_rich_guys/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -107,17 +107,17 @@ Rank #1
 
 ---
 
-**[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
-
-2h ago
-
----
-
 **[!Pump it up!](https://www.reddit.com/r/Bitcoin/comments/1pk7wcf/pump_it_up/)**
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
 
 1h ago
+
+---
+
+**[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
+
+2h ago
 
 ---
 
@@ -137,9 +137,9 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 ---
 
-**[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
+**[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-18h ago
+22m ago
 
 ---
 
@@ -161,11 +161,31 @@ Reuters • 9h ago
 
 ---
 
-**[Bitcoin's Price Is Still Off Its Highs. Did The Fed's Latest Interest-Rate Cut Help?](https://www.investopedia.com/bitcoin-s-price-is-still-off-its-highs-did-the-fed-s-latest-interest-rate-cut-help-11866032)**
+**[Bitcoin Firm Twenty One Falls 20% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
 
-The Fed could shake the world's most well-known cryptocurrency out of its rut.
+Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Investopedia • 1d ago
+Bloomberg.com • 2d ago
+
+---
+
+**[Tether’s Big Bet on a New Bitcoin Era Gets Off to a Sour Start](https://www.bloomberg.com/news/newsletters/2025-12-11/tether-s-big-bet-on-a-new-bitcoin-era-gets-off-to-a-sour-start)**
+
+Emily Nicolle and David Pan take stock of Bitcoin treasury firm Twenty One Capital’s debut in New York — and question what might come next.
+
+Bloomberg.com • 12m ago
+
+---
+
+**[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[Myriad Moves: Will Santa Bring a Pump or Dump for Bitcoin, Ethereum and Solana?](https://finance.yahoo.com/news/myriad-moves-santa-bring-pump-204508855.html)**
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,9 +197,11 @@ dlnews.com • 1h ago
 
 ---
 
-**[Myriad Moves: Will Santa Bring a Pump or Dump for Bitcoin, Ethereum and Solana?](https://finance.yahoo.com/news/myriad-moves-santa-bring-pump-204508855.html)**
+**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
 
-Yahoo Finance • 1h ago
+Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
+
+Business Insider • 1d ago
 
 ---
 
@@ -191,31 +213,9 @@ cnbc.com • 2d ago
 
 ---
 
-**[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqclET5sVLd5TN0r3o_OC19ryAjv26h_Bf_6KrWUJEXgjbbW7iQlTYli&gaa_ts=693b453d&gaa_sig=DysXnWI1PS5qDh_XiCM7jBsIr9-W5qvI9atrIR3PlsVVsmE-hh0jjvsEn0eQTfyDC6F_l1hM3zFApu8rp2xqQw%3D%3D)**
 
-Investor's Business Daily • 3h ago
-
----
-
-**['National Security' at Risk If MSCI Excludes Crypto Treasuries, Warns Bitcoin Giant Strategy](https://decrypt.co/351880/national-security-risk-msci-excludes-crypto-treasuries-warns-bitcoin-strategy)**
-
-Bitcoin treasury leader Strategy argued to MSCI that excluding a crypto-buying firms from its indices would hurt America’s national security.
-
-Decrypt • 1d ago
-
----
-
-**[MicroStrategy sends sharp warning letter to MSCI](https://www.thestreet.com/crypto/markets/microstrategy-sends-sharp-warning-letter-to-msci)**
-
-TheStreet • 1d ago
-
----
-
-**[Some Bitcoin Buying Firms Are Selling as Losses Pile Up on Paper: Report](https://decrypt.co/352002/some-bitcoin-buying-firms-selling-losses-pile-up)**
-
-A report found that most Bitcoin-stacking firms sit on unrealized losses, with a handful selling the asset as its price fell last month.
-
-Decrypt • 5h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -279,6 +279,14 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ---
 
+**[ChatGPT Is Helping Federal Officers Misrepresent Confrontations With Protesters](https://news.ycombinator.com/item?id=46237740)**
+
+We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
+
+⬆️ 2 • 💬 0 • 17m ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+
+---
+
 **[Ethereum Fusaka upgrade set for early December rollout](https://news.ycombinator.com/item?id=46217004)**
 
 The Ethereum Fusaka upgrade adds PeerDAS and scalability gains, enhancing Ethereum’s performance and supporting faster growth across Layer 2 solutions.
@@ -307,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 48K • 👍 2K • 💬 593 • ⏱️ 8:26 • 20h ago
+👁️ 48K • 👍 2K • 💬 593 • ⏱️ 8:26 • 21h ago
 
 ---
 
@@ -317,7 +325,7 @@ Bitcoin #Crypto #Finance Guests Markus Thielen - https://youtube.com/live/vYI1CO
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 739 • 💬 272 • ⏱️ 35:32 • 6h ago
+👁️ 14K • 👍 739 • 💬 272 • ⏱️ 35:32 • 7h ago
 
 ---
 
@@ -347,7 +355,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 28K • 👍 944 • 💬 33 • ⏱️ 32:26 • 23h ago
+👁️ 28K • 👍 944 • 💬 33 • ⏱️ 32:26 • 1d ago
 
 ---
 
@@ -357,7 +365,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 107K • 👍 5K • 💬 408 • ⏱️ 21:05 • 22h ago
+👁️ 107K • 👍 5K • 💬 408 • ⏱️ 21:05 • 23h ago
 
 ---
 

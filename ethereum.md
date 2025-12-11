@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T21:51:14.078905+00:00'
+updated: '2025-12-11T22:12:39.341615+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 21:51 UTC  
+**Last Updated:** December 11, 2025 at 22:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** +8.1%  
-**30d:** -4.3%  
-**90d:** -29.8%  
-**1y:** -15.9%  
+**24h:** -1.9%  
+**7d:** +7.9%  
+**30d:** -4.5%  
+**90d:** -29.9%  
+**1y:** -16.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $389.89B
+**Market Cap:** $392.45B
 Rank #2
 
 **Circulating Supply:** 120,695,176 ETH
@@ -62,7 +62,7 @@ No max supply
 -34.2%
 
 **All-Time Low:** $0.43
-+751627.0%
++751576.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, total crypto newbie here. I need some guidance and expert advice on the best way to approach my financial needs. Context: I live in a developing country, and I am in desperate need of financial freedom. I started looking into stablecoins, especially USDT. I am not really looking into trading. My use case: Relative or friend in europe, they buy USDT on Binance or any other exchange platform, send that USDT to my Trust wallet. I store it, and occasionally send some pocket money to Redotpay to spend using their virtual visa card. That is pretty much about it. Storing it and spending with Redotpay. Not super interested in p2p market. So i dont think i will need to sell my USDT that often, almost never. So the market standard for p2p transactions isnt really a big concern. Might be interested in trading one day, but not for now. This is just for my personal finances and spending. The question I need help with: Should I use Ethereum or Tron. My findings with the research I did: Tron has cheaper gas fee, for when I transfer to Redotpay. But apparently Eth have dropped their transfer rates for USDT, and a lot of people claim it is around the same price now. Because the numbers I found are a little worrying: around 1 USD for Tron and between 3-8 USD for Eth. If you have any information about the rates that would be great. I am more inclined towards Eth to be fair. I just like the idea of a trully decentralized chain. And it has been king over a decade for good reasons. Also it is more secure. With the new EIP-7702 on Eth, you can now pay gas fee for transfers with USDT, which is very interesting, as I am not very comfortable with juggling two currencies. Since per my understanding, I need to always have TRX reserve in my Trust wallet to be able to send to Redotpay. Are the fees really that different to justify skipping on EIP-7702 ? Some people mentioned using an L2 on Eth. I honestly have no idea what that is. If i have got any concepts misunderstood, I would appreciate any clarifications and guidance. I still got a lot to learn about this field.
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi, total crypto newbie here. I need some guidance and expert advice on the best
 
 Guys although I want to make flash loan bots and stuff, but can’t find any good posts on it which teaches from start, so any u recommend?
 
-13h ago
+14h ago
 
 ---
 
@@ -166,9 +166,11 @@ The Block • 13h ago
 
 ---
 
-**[Myriad Moves: Will Santa Bring a Pump or Dump for Bitcoin, Ethereum and Solana?](https://finance.yahoo.com/news/myriad-moves-santa-bring-pump-204508855.html)**
+**[Ethereum Has Bottomed, Says BitMine Chairman Tom Lee—Here's Why](https://finance.yahoo.com/news/ethereum-bottomed-says-bitmine-chairman-183552349.html)**
 
-Yahoo Finance • 1h ago
+BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -176,7 +178,7 @@ Yahoo Finance • 1h ago
 
 The trading platform dives further into digital assets both domestically and globally.
 
-Fortune • 2d ago
+Fortune • 3d ago
 
 ---
 
@@ -192,7 +194,7 @@ CoinDesk • 1d ago
 
 Dragonfly managing partner Haseeb Qureshi has sharpened his defense of Ethereum’s valuation, arguing that critics are using the wrong financial framework and that ETH should be analyzed more like an early-stage Amazon than a mature “value” stock.Speaking on the Milk Road Show on 9 December 2025, Qu…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -224,7 +226,7 @@ Nasdaq • 1d ago
 
 BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
 
-CryptoSlate • 7h ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -258,7 +260,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 14K • 👍 752 • 💬 73 • ⏱️ 44:48 • 9h ago
+👁️ 14K • 👍 752 • 💬 73 • ⏱️ 44:48 • 10h ago
 
 ---
 
@@ -298,7 +300,7 @@ CRYPTO MARKET UPDATE Join the Premium Signal Group for trade setups, mentorship 
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 118 • 💬 13 • ⏱️ 9:38 • 6h ago
+👁️ 2K • 👍 118 • 💬 13 • ⏱️ 9:38 • 7h ago
 
 ---
 
@@ -318,7 +320,7 @@ ETH isn't just lagging — its story broke. It's down ~3× more than BTC from th
 
 📺 Ryan’s Money Lab
 
-👁️ 635 • 👍 59 • 💬 8 • ⏱️ 15:43 • 2h ago
+👁️ 635 • 👍 59 • 💬 8 • ⏱️ 15:43 • 3h ago
 
 ---
 
