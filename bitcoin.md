@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T13:58:01.144342+00:00'
+updated: '2025-12-11T14:30:42.736135+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - social
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 13:58 UTC  
+**Last Updated:** December 11, 2025 at 14:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +1.0%  
-**30d:** -11.6%  
-**90d:** -22.4%  
-**1y:** -10.0%  
+**24h:** -1.9%  
+**7d:** +1.4%  
+**30d:** -11.3%  
+**90d:** -22.1%  
+**1y:** -9.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1798.50B
+**Market Cap:** $1800.86B
 Rank #1
 
-**Circulating Supply:** 19,960,621 BTC
+**Circulating Supply:** 19,960,684 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.5%
 
 **All-Time Low:** $67.81
-+132777.2%
++132902.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Always remember HODL](https://www.reddit.com/r/Bitcoin/comments/1pjn8l1/always_remember_hodl/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -97,6 +97,12 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 ---
 
+**[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
+
+51m ago
+
+---
+
 **[The printer is going brrr-illiant this Friday, ready to blast the balance sheet with a $40 BILLION a month.](https://www.reddit.com/r/Bitcoin/comments/1pjfpa3/the_printer_is_going_brrrilliant_this_friday/)**
 
 We back baby!
@@ -105,11 +111,15 @@ We back baby!
 
 ---
 
-**[The 'grey crypto casino' model explained: Why it works for whales](https://www.reddit.com/r/Bitcoin/comments/1pjutwi/the_grey_crypto_casino_model_explained_why_it/)**
-
-Seeing a lot of confusion about grey market crypto casinos so let me break it down: Traditional casino model: Casino holds all funds in opaque accounts. You deposit, they promise to pay. If you win big, it's a direct hit to their operations. This is why they limit winners - your win threatens their business. Grey casino model (the good ones): Bankroll is separated from operations. Often backed by a larger liquidity pool shared across multiple operators. Your win is absorbed by the liquidity layer, not the casino's operating budget. Casin0x uses this model - they're built on something called the DeGaming platform which provides the liquidity backing. This is why they can offer no withdrawal limits and don't panic when you win. Key thing to verify: Can you see the bankroll? Is it on-chain?
+**[true a hundred per cent](https://www.reddit.com/r/Bitcoin/comments/1pjvr1p/true_a_hundred_per_cent/)**
 
 2h ago
+
+---
+
+**[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
+
+16h ago
 
 ---
 
@@ -117,19 +127,7 @@ Seeing a lot of confusion about grey market crypto casinos so let me break it do
 
 All precious metals are moving higher after yhe dovish fed move Why is bitcoin dropping? Is that a conflicting temporary move? Or is there anything else I am missing?
 
-11h ago
-
----
-
-**[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
-
-15h ago
-
----
-
-**[true a hundred per cent](https://www.reddit.com/r/Bitcoin/comments/1pjvr1p/true_a_hundred_per_cent/)**
-
-1h ago
+12h ago
 
 ---
 
@@ -137,7 +135,7 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 2025: It’s no longer just one black sheep. We’re already the 4% who get what Bitcoin is really bringing… and we’re still learning. We’re a scattered pack of black sheep now… but getting more visible every day. nostr: npub1855ur6q8lf7pjfvceg3s5qd0zuujqyz59h8zmxpquflunfpwkv4s3x3y8v #Bitcoin #CryptoMemes #HODL #BitcoinMemes
 
-12h ago
+13h ago
 
 ---
 
@@ -145,7 +143,7 @@ All precious metals are moving higher after yhe dovish fed move Why is bitcoin d
 
 Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-16h ago
+17h ago
 
 ---
 
@@ -155,23 +153,7 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 2h ago
-
----
-
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://finance.yahoo.com/video/bitcoin-dips-below-90-000-105614199.html)**
-
-<body><p>STORY: Bitcoin fell below $90,000 on Thursday (December 11) and dragged other cryptocurrencies down with it.</p><p>The fall followed fresh market worries about AI profits.</p><p>Risk appetite fell after U.S. cloud firm Oracle's profit and revenue outlook came in below forecasts the day before, and the firm said it expected higher spending.</p><p>Investors took that as a sign AI infrastructure outlays aren't turning profits as fast as they hoped.</p><p>Bitcoin did rise back just above the $90,000 mark by morning in Europe, but&nbsp;remained down around 2% on the day.&nbsp;</p><p>The moves undid two days of gains and showed further weakness that began in the U.S. trading session on Wednesday after the Federal Reserve cut interest rates.</p><p>Thursday's decline came days after Standard Chartered slashed its expectations for bitcoin.</p><p>The lender had projected the crypto token to hit $200,000 by the end of this year, but has now lowered its forecast to $100,000.</p></body>
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin drops below US$90,000 as AI worries sour risk appetite](https://www.scmp.com/tech/blockchain/article/3336042/bitcoin-drops-below-us90000-ai-worries-sour-risk-appetite)**
-
-The fall signals renewed market jitters after the historic crypto crash in October.
-
-South China Morning Post • 5h ago
+Reuters • 3h ago
 
 ---
 
@@ -179,21 +161,43 @@ South China Morning Post • 5h ago
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqfEtkbOypv56KhCsoJLH369aEYJX0Yh1daeL53HPTd0AwsNbBLn_YsB&gaa_ts=693acacf&gaa_sig=5O9JK7VYMDXen6IcEh8nStshkJtPviXDtBuP42Fn5Jb3zhNNnG03YCRw4alZuHqhgdmLEYvHPKsntkb2gu7N6w%3D%3D)**
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqehy-8UkCFg56DEidYjSd8wI6inpWwbANnpQrKOz60ITcJ2z-t0LDu2&gaa_ts=693ad8ee&gaa_sig=9OKRYD8pV09iCBgttVOYEwsSBuSNWHBeBWjJyrAQgNzPWyIDEsvuDCzpzbIYSFRN_RkkEA3pSK4YrbWPsBTquw%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Bitcoin Is Just One Push Away From Ending Its Correction — Here’s How](https://finance.yahoo.com/news/bitcoin-just-one-push-away-113759861.html)**
+**[GameStop’s bitcoin holdings — and sales — slide](https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?gaa_at=eafs&gaa_n=AWEtsqe7bil0mlL5I2ggeLx9WRt5XtdEuID7nONRoHgeGgB4I9scth0Nz3Hq&gaa_ts=693ad8ee&gaa_sig=6xyVJ2YL_SYTZUGlziE8K7skBP35kXfnshZipFhSpFPx6ucRW-GLl2kPBf1jjpw_dxge4MBR41FJdLVAIR9nYg%3D%3D)**
 
-Bitcoin price is still correcting, but two key metrics hint at a shift. Can a 4% breakout finally end the downturn?
+MarketWatch • 1d ago
 
-Yahoo Finance • 2h ago
+---
+
+**[GameStop Shares Drop After Revenue Miss and Bitcoin Loss Overshadow Profit Turnaround](https://finance.yahoo.com/news/gamestop-shares-drop-revenue-miss-140108737.html)**
+
+Company's aggressive cost cuts weren't enough to offset sliding sales and crypto volatility.
+
+Yahoo Finance • 29m ago
+
+---
+
+**[GameStop Stock Falls After Bitcoin Holdings Lose Value, Firm Says It Could Sell BTC](https://decrypt.co/351849/gamestop-stock-falls-bitcoin-holdings-lose-value-firm-could-sell-btc)**
+
+Markets haven’t reacted well to GameStop’s latest earnings call, where it revealed sinking Bitcoin value and retail sales alike.
+
+Decrypt • 18h ago
+
+---
+
+**[Satoshi Nakamoto Arrives at the Stock Exchange? Bitcoin’s Mainstream Moment May Have Just Landed](https://finance.yahoo.com/news/satoshi-nakamoto-arrives-stock-exchange-124932757.html)**
+
+A Satoshi Nakamoto sculpture has been installed inside the New York Stock Exchange. The artwork is part of a 21-piece global series by artist Valentina ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,41 +205,25 @@ Yahoo Finance • 2h ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-cnbc.com • 1d ago
+CNBC • 1d ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqeTNlmN7JAEn6udDEn2SG5Kf6P9garl2EUF000TxDZcsGkS4oc962aO&gaa_ts=693acacf&gaa_sig=nl27mPyjh7Mb2Ay8pZqXmFvOG5uFHwSulJjwS_oIX4VICDXwCLvN7TzZ2m-2uDCKOIw6HQxKjnfw9kjmOFVGgA%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqcXPyZtsXrbb6eD81tCTjluLWw2Pe4-l3m4eE3ZEY4EdKvbKgsEskE-&gaa_ts=693ad8ee&gaa_sig=ShefWo6ffQEA76KwcC9pXpszu7gM47nJQbu-rh8T9mLtzGumV-7nM9fyvQRWjtgJXKl36YqPySunsOiPSl1ibw%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[Bitcoin Won’t Hit $200,000 in 2025, Crypto Bull Concedes. Where It’s Going Instead.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-price-crypto-bull-01f83bf7?gaa_at=eafs&gaa_n=AWEtsqexsNs8bKxTk0Y7yTHbALjA0q0ggg8k1wG543TU1CfMU8SMYzeDA10I&gaa_ts=693acacf&gaa_sig=fqarycbCmC23HTNo5ykHjSnZ_ujz15cMURGv-VRjhoPGE0kMoYvY_jJDNjLaYClDBa4cRcQTNzG_keHG6Sqr8w%3D%3D)**
+**[Bitcoin Won’t Hit $200,000 in 2025, Crypto Bull Concedes. Where It’s Going Instead.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-price-crypto-bull-01f83bf7?gaa_at=eafs&gaa_n=AWEtsqe0yFcosvb5pQo_nigTHrEt9a9IEuAHPz9pvDZGVeIazEIKnJEjEQM4&gaa_ts=693ad8ee&gaa_sig=wXOyzsr5GirYXm8SNj8ePAyfHGA51Zq7g9Q_kiydhw81a4uiN2rtZbmMUFI9WnZ27Y9--v-RvOOjIs4tPgonKQ%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**[Twenty One Capital Drops in NYSE Debut as Bitcoin Treasury Firms Face ‘Broader Re-Pricing’](https://finance.yahoo.com/news/twenty-one-capital-drops-nyse-115955127.html)**
-
-The debut underperformed its SPAC benchmark, as investors pull back from Bitcoin treasury plays in favor of clearer operating models.
-
-Yahoo Finance • 1d ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[The Bitcoin Ultras vs. Broken Britain](https://news.ycombinator.com/item?id=46147501)**
-
-Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
-
-⬆️ 5 • 💬 0 • 7d ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
-
----
 
 **[A Full Bitcoin-Style Blockchain Implemented in Pure PHP and Sockets](https://news.ycombinator.com/item?id=46178258)**
 
@@ -269,7 +257,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 14h ago
+⬆️ 2 • 💬 0 • 15h ago
 
 ---
 
@@ -321,7 +309,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 81K • 👍 4K • 💬 362 • ⏱️ 21:05 • 14h ago
+👁️ 81K • 👍 4K • 💬 362 • ⏱️ 21:05 • 15h ago
 
 ---
 
@@ -331,7 +319,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 228 • 💬 130 • ⏱️ 15:40 • 7h ago
+👁️ 5K • 👍 228 • 💬 130 • ⏱️ 15:40 • 8h ago
 
 ---
 
@@ -341,7 +329,7 @@ Bitcoin's famous 4-year cycle may be dead, and Jerome Powell might have pulled t
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 158 • ⏱️ 16:48 • 13h ago
+👁️ 27K • 👍 2K • 💬 158 • ⏱️ 16:48 • 14h ago
 
 ---
 
@@ -361,7 +349,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 278 • ⏱️ 10:23 • 11h ago
+👁️ 37K • 👍 2K • 💬 278 • ⏱️ 10:23 • 12h ago
 
 ---
 
@@ -381,7 +369,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 800 • 💬 3 • ⏱️ 32:26 • 15h ago
+👁️ 23K • 👍 800 • 💬 3 • ⏱️ 32:26 • 16h ago
 
 ---
 
@@ -391,7 +379,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 138 • ⏱️ 41:09 • 22h ago
+👁️ 30K • 👍 1K • 💬 138 • ⏱️ 41:09 • 23h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T13:58:01.153882+00:00'
+updated: '2025-12-11T14:30:42.745389+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 13:58 UTC  
+**Last Updated:** December 11, 2025 at 14:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,7 @@ Robotics research and industry news
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-12h ago
-
----
-
-**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
-
-10h ago
+13h ago
 
 ---
 
@@ -51,6 +45,12 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 9h ago
+
+---
+
+**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
+
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ The strongest counter against robot legs that I've seen. Sure, I have yet to see
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-23h ago
+1d ago
 
 ---
 
@@ -124,33 +124,17 @@ MLive.com • 1d ago
 
 ---
 
-**[Medra Raises $52 Million to Speed Drug Discovery With AI Robots](https://www.bloomberg.com/news/articles/2025-12-11/medra-raises-52-million-to-speed-drug-discovery-with-ai-robots)**
+**[One of Europe’s largest online grocers automates order picking in Prague fulfillment center](https://ifr.org/case-studies/one-of-europes-largest-online-grocers-automates-order-picking-in-prague-fulfillment-center)**
 
-Medra, which programs robots with artificial intelligence to conduct and improve biological experiments, has raised $52 million to build what it says will be one of the largest autonomous labs in the United States.
+The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
 
-Bloomberg.com • 1h ago
-
----
-
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
-
-Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
-
-Yahoo Finance • 2d ago
+International Federation of Robotics • 17m ago
 
 ---
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 20h ago
-
----
-
-**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
-
-$32 million investment will created 230 new jobs.
-
-WHMI • 22h ago
+Chron • 21h ago
 
 ---
 
@@ -158,7 +142,7 @@ WHMI • 22h ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 2d ago
+Bloomberg.com • 3d ago
 
 ---
 
@@ -175,6 +159,22 @@ Interesting Engineering • 1d ago
 Partnership will integrate Digit robots into fulfillment operations beginning in Texas, with future expansion capabilities for Latin America.
 
 The Robot Report • 1d ago
+
+---
+
+**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
+
+$32 million investment will created 230 new jobs.
+
+WHMI • 22h ago
+
+---
+
+**[Serve Robotics Expands to D.C. Area Bringing Autonomous Delivery to the City of Alexandria, Va.](https://finance.yahoo.com/news/serve-robotics-expands-d-c-213000798.html)**
+
+ALEXANDRIA, Va., Dec. 10, 2025 (GLOBE NEWSWIRE) -- Serve Robotics Inc. (Nasdaq: SERV), a leading autonomous sidewalk delivery company, and the City of Alexandria today announced the launch of Serve’s on-demand robotic delivery service in Alexandria, Virginia. In partnership with Uber Eats, the delivery-platform of Uber Technologies (NYSE: UBER), residents and businesses in North East Alexandria, Del Rey, Potomac West, Old Town North, and nearby neighborhoods will now have the option to receive t
+
+Yahoo Finance • 17h ago
 
 ---
 
@@ -206,7 +206,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 73K • 👍 3K • 💬 266 • ⏱️ 17:44 • 21h ago
+👁️ 73K • 👍 3K • 💬 266 • ⏱️ 17:44 • 22h ago
 
 ---
 
