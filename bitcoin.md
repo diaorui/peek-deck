@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-11T10:45:13.601218+00:00'
+updated: '2025-12-11T10:58:29.355663+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 10:45 UTC  
+**Last Updated:** December 11, 2025 at 10:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +1.4%  
-**30d:** -11.2%  
-**90d:** -22.1%  
-**1y:** -9.6%  
+**24h:** -2.2%  
+**7d:** +1.1%  
+**30d:** -11.5%  
+**90d:** -22.3%  
+**1y:** -9.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1801.85B
+**Market Cap:** $1802.52B
 Rank #1
 
 **Circulating Supply:** 19,960,543 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.4%
 
 **All-Time Low:** $67.81
-+133101.6%
++133095.7%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million BTC in 2025. This is almost 5% of all Bitcoin. Big mining companies like MARA, RIOT, and CLSK increased their BTC by 30–60%, and they did not sell even when the price dropped in late 2025. Their total BTC stayed almost the same, showing they want to hold for long term. Because companies are keeping more than 1 million BTC and not selling, the available Bitcoin in the market is becoming less. This makes future price moves much stronger when new buyers come.
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ Corporate Bitcoin holdings grew from about 70k BTC in 2023 to over 1.1 Million B
 
 We back baby!
 
-12h ago
+13h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bottom tex
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -163,13 +163,45 @@ Reuters • 5h ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-cnbc.com • 11h ago
+cnbc.com • 12h ago
 
 ---
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqeIjLDpXEYE3qIWY-LDyzH6Ij-ktln_94OWLceHzxCWPG7fSVKXId-Z&gaa_ts=693a9d63&gaa_sig=m1ol_w-ytoZmcZShDXFORfdi9VS5wmkbmXa0MoeLUIBk2vvYJhyaGeYQKLR2jCAxypN1vrCy1OtC60cz-Nsvqw%3D%3D)**
+**[XRP Price News: Bitcoin (BTC) Weakness Hits Ripple Even as ETF Flows Remain Strong](https://www.coindesk.com/markets/2025/12/11/xrp-slides-as-traders-take-bitcoin-profits-with-etf-flows-still-strong)**
 
-Barron's • 20h ago
+Institutional flows surged 54% above the weekly average, indicating strategic selling rather than retail panic.
+
+CoinDesk • 5h ago
+
+---
+
+**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
+
+BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
+
+Bloomberg.com • 2d ago
+
+---
+
+**[A Look at PNC (PNC) Valuation as It Launches Direct Spot Bitcoin Trading for Private Bank Clients](https://finance.yahoo.com/news/look-pnc-pnc-valuation-launches-101625870.html)**
+
+PNC Financial Services Group (PNC) just became the first major U.S. bank to let eligible private bank clients trade spot bitcoin directly inside its own platform, a meaningful expansion of its digital asset toolbox. See our latest analysis for PNC Financial Services Group. The move into direct bitcoin trading lands at a time when momentum is quietly building, with an 11.82 percent 1 month share price return and a robust 56.14 percent 3 year total shareholder return that together underscore...
+
+Yahoo Finance • 42m ago
+
+---
+
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqegXcUW8HHkgQWepATkTSac2bbIHWZY6lvQfPX4a0Hzz7ZcVl3GliVD&gaa_ts=693aa73a&gaa_sig=bA1T0To61UEJHD_iVMJMrKWm8wGujPIVeicwwwoADsKtB0gZeH23b72CEGtO7HSjhSuvbUBZiEnjZfrVRr3ASQ%3D%3D)**
+
+Barron's • 21h ago
+
+---
+
+**[Bitcoin price slides lower despite Fed interest rate cut](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-fed-interest-rate-cut-101325419.html)**
+
+The price of bitcoin and ether slipped lower on Thursday as Fed chair Jerome Powell signalled the central bank will proceed cautiously into 2026.
+
+Yahoo Finance UK • 45m ago
 
 ---
 
@@ -181,7 +213,7 @@ BBC • 10h ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqf2L1kKjrlS1ohUTlNKcT5Xph9_tQQAQeaBShkxKgxqVg4fn9gB1sdV&gaa_ts=693a9d63&gaa_sig=Jjo1CiyA1hqPhM50D6ScASwMX8vHTYQPcAJOADzpXpUSYuUbuIHpJ2kjOMqPOlDVzIUQcSbtsGNEa1ncavmWHQ%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfdTEUdSS6laBijrmyfkicXmtd3j8UmYf_7-qx0axnpAG1i0CTs6Sw6&gaa_ts=693aa73a&gaa_sig=dGkMhSITLC-x1eKNIDZAvQJvDFUeVQsEABp_H4Ugw2CgM6gJD4vdNyRzXbKpwTGEpN8ThYmla4wkYElZ09O1Pw%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -190,36 +222,6 @@ MarketWatch • 1d ago
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
 Investor's Business Daily • 23h ago
-
----
-
-**[Bitcoin Firm Twenty One Falls 20% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
-
-Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqfzLHo9wVYDd3VnN5lcnveu61DRtC7ARg9ByOlotVNFXG0EoOrUe5jb&gaa_ts=693a9d63&gaa_sig=gsLchGWLrnjgnH9CqnOd9awoTntf85R4KsMp5IJnJuJYY2HsHDhK5GQTHXEUSqV78h5HsYcLE6aDDmc7HT35_w%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
-**[How to buy Bitcoin Hyper before it launches](https://nypost.com/business/how-to-buy-bitcoin-hyper-presale/)**
-
-Its presales have been gaining attention among the crypto community, since the token claims to promise quicker, cheaper Bitcoin transactions.
-
-New York Post • 50m ago
-
----
-
-**[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
-
-If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
-
-NPR • 1d ago
 
 ---
 
@@ -309,7 +311,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 39K • 👍 2K • 💬 499 • ⏱️ 8:26 • 9h ago
+👁️ 39K • 👍 2K • 💬 499 • ⏱️ 8:26 • 10h ago
 
 ---
 
@@ -329,7 +331,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 147 • 💬 118 • ⏱️ 15:40 • 4h ago
+👁️ 3K • 👍 147 • 💬 118 • ⏱️ 15:40 • 5h ago
 
 ---
 
@@ -339,7 +341,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 15K • 👍 613 • 💬 126 • ⏱️ 8:34 • 13h ago
+👁️ 15K • 👍 613 • 💬 126 • ⏱️ 8:34 • 14h ago
 
 ---
 

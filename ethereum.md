@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-11T10:45:13.607252+00:00'
+updated: '2025-12-11T10:58:29.361752+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 11, 2025 at 10:45 UTC  
+**Last Updated:** December 11, 2025 at 10:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -46,23 +46,23 @@ Live Ethereum monitoring dashboard
 **7d:** +5.9%  
 **30d:** -6.3%  
 **90d:** -31.2%  
-**1y:** -17.7%  
+**1y:** -17.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $386.44B
+**Market Cap:** $385.83B
 Rank #2
 
 **Circulating Supply:** 120,695,176 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.3%
+-35.4%
 
 **All-Time Low:** $0.43
-+739113.7%
++738199.1%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-20h ago
+21h ago
 
 ---
 
@@ -192,19 +192,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Should Be Valued Like Amazon, Says Dragonfly’s Qureshi](https://www.tradingview.com/news/newsbtc:6aa89382f094b:0-ethereum-should-be-valued-like-amazon-says-dragonfly-s-qureshi/)**
+**[Ethereum ETFs Hit Six-Week High as Investors Rotate Within Crypto](https://decrypt.co/351800/ethereum-etfs-hit-six-week-high-as-investors-rotate-within-crypto)**
 
-Dragonfly managing partner Haseeb Qureshi has sharpened his defense of Ethereum’s valuation, arguing that critics are using the wrong financial framework and that ETH should be analyzed more like an early-stage Amazon than a mature “value” stock.Speaking on the Milk Road Show on 9 December 2025, Qu…
+Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
 
-TradingView • 8h ago
-
----
-
-**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
-
-Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
-
-Decrypt • 2d ago
+Decrypt • 21h ago
 
 ---
 
@@ -219,6 +211,14 @@ The Block • 2d ago
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
 CoinDesk • 2d ago
+
+---
+
+**[Ethereum Should Be Valued Like Amazon, Says Dragonfly’s Qureshi](https://www.tradingview.com/news/newsbtc:6aa89382f094b:0-ethereum-should-be-valued-like-amazon-says-dragonfly-s-qureshi/)**
+
+Dragonfly managing partner Haseeb Qureshi has sharpened his defense of Ethereum’s valuation, arguing that critics are using the wrong financial framework and that ETH should be analyzed more like an early-stage Amazon than a mature “value” stock.Speaking on the Milk Road Show on 9 December 2025, Qu…
+
+TradingView • 8h ago
 
 ---
 
@@ -310,7 +310,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 749 • 💬 134 • ⏱️ 15:50 • 4h ago
+👁️ 4K • 👍 749 • 💬 134 • ⏱️ 15:50 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-11T10:45:13.592735+00:00'
+updated: '2025-12-11T10:58:29.347063+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 11, 2025 at 10:45 UTC  
+**Last Updated:** December 11, 2025 at 10:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 18h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 19h ago
 
 ---
 
@@ -49,7 +49,7 @@ The start-up is falling behind in the AI race.
 
 Oracle flagged new business from Meta and Nvidia in reporting a 438% increase in remaining performance obligations.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 4h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html) • 5h ago
 
 ---
 
@@ -63,7 +63,7 @@ A lot of people use the term “AI hallucination,” but many don’t clearly un
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 17h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 18h ago
 
 ---
 
@@ -87,14 +87,6 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 ‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash.[1] Google launches managed MCP servers that let AI agents simply plug into its tools.[2] From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion.[3] Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds.[4] Sources: [1] https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash [2] https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/ [3] https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html [4] https://time.com/7339513/ai-fei-fei-li-virtual-worlds/
 
-4h ago
-
----
-
-**[Interesting convo](https://www.reddit.com/r/artificial/comments/1pjps3q/interesting_convo/)**
-
-I wanted to see what the computer itself thought about the ethics of AI chat bots, spoiler alert, they can be really harmful!
-
 5h ago
 
 ---
@@ -115,21 +107,23 @@ I’ve spent the last year really putting AI to work, writing content, handling 
 
 ---
 
+**[LLMs can understand Base64 encoded instructions](https://www.reddit.com/r/artificial/comments/1pioxt4/llms_can_understand_base64_encoded_instructions/)**
+
+Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Gemini deals ChatGPT a fresh blow as Google’s AI momentum builds](https://www.marketwatch.com/story/googles-ai-momentum-continues-as-gemini-scores-another-victory-over-chatgpt-16946689?gaa_at=eafs&gaa_n=AWEtsqfIFRyQJxWfHtCSZdzhK1yM9WnthGaOytaxe-gJzI5iYMvjAc5h0iRV&gaa_ts=693a9d61&gaa_sig=oluv31bTXgf5uG1g5SIT1etm9HKdjd1sTWVw533DahXr7VoWM88ldzSlIw-rsm4FlCdH26InkOcWPGJc6XDPxQ%3D%3D)**
+**[EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o)**
 
-MarketWatch • 16h ago
+It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
----
-
-**[Google says it will link to more sources in AI Mode](https://www.theverge.com/news/841603/google-ai-mode-source-links-web-guide)**
-
-Google will let more people personalize news sources, too.
-
-The Verge • 17h ago
+BBC • 1d ago
 
 ---
 
@@ -141,11 +135,9 @@ The Atlantic • 1d ago
 
 ---
 
-**[McDonald's pulls AI-generated Christmas advert following backlash](https://www.bbc.com/news/articles/czdgrnvp082o)**
+**[Gemini deals ChatGPT a fresh blow as Google’s AI momentum builds](https://www.marketwatch.com/story/googles-ai-momentum-continues-as-gemini-scores-another-victory-over-chatgpt-16946689?gaa_at=eafs&gaa_n=AWEtsqdrbpbzjOowg954T5Uj7Kl0U5YoYLXj-ljfuDM87LgD6Y_lXA0-JWi_&gaa_ts=693aa739&gaa_sig=0IUBVW3GSSs_9ToukFGNj4Q1xI0GmU-o2TvNw9LjNP1xT2F1n_wTQ_F3yZsy7VNHHHc1DspB-UCXY1vH-bSkyA%3D%3D)**
 
-McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
-
-BBC • 22h ago
+MarketWatch • 16h ago
 
 ---
 
@@ -154,6 +146,14 @@ BBC • 22h ago
 Commercial in Netherlands depicting festival-season chaos at ‘most terrible time of year’ prompted flurry of criticism online
 
 The Guardian • 8h ago
+
+---
+
+**[McDonald's pulls AI-generated Christmas advert following backlash](https://www.bbc.com/news/articles/czdgrnvp082o)**
+
+McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
+
+BBC • 22h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fox Business • 10h ago
 
 From deepfake teachers to remote maths lessons - how are schools using tech and AI in the classroom?
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -181,19 +181,19 @@ cnbc.com • 1h ago
 
 ---
 
+**[Oracle Drops on Disappointing Cloud Sales, More AI Spending](https://finance.yahoo.com/news/oracle-drops-disappointing-cloud-sales-011724718.html)**
+
+Fiscal second-quarter cloud sales increased 34% to $7.98 billion, while revenue in the company’s closely watched infrastructure business gained 68% to $4.08 billion.  Known for its database software, Oracle has recently found success in the competitive cloud computing market.  It’s engaging in a massive data center build-out to power AI work for OpenAI and also counts companies such as ByteDance Ltd.’s TikTok and Meta Platforms Inc. as major cloud customers.
+
+Yahoo Finance • 9h ago
+
+---
+
 **[Disappointing Oracle results knock $70bn off value amid AI bubble fears](https://www.theguardian.com/business/2025/dec/11/disappointing-oracle-results-knock-70bn-off-value-amid-ai-bubble-fears)**
 
 Weaker-than-forecast quarterly data for Larry Ellison’s tech company shows slowdown in revenue growth but big rise in spending
 
 The Guardian • 1h ago
-
----
-
-**[Oracle shares slide as earnings fail to ease AI bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o)**
-
-The cloud computing giant's revenue miss renews questions about its financial health.
-
-BBC • 3h ago
 
 ---
 
@@ -221,7 +221,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 352 • 💬 419 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 353 • 💬 419 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -229,7 +229,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 305 • 💬 291 • 18h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 308 • 💬 291 • 18h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -237,7 +237,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 284 • 💬 130 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 285 • 💬 130 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -251,7 +251,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 162 • 💬 201 • 1d ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 163 • 💬 201 • 1d ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -259,7 +259,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 123 • 💬 24 • 1d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 125 • 💬 24 • 1d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -267,7 +267,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 110 • 💬 148 • 21h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 110 • 💬 149 • 22h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -395,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 694 • 2d ago
+⬇️ 80,162 • ❤️ 695 • 2d ago
 
 ---
 
@@ -407,7 +407,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,519 • 2d ago
+⬇️ 245,041 • ❤️ 2,520 • 2d ago
 
 ---
 
@@ -419,7 +419,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 18,587 • ❤️ 327 • 1d ago
+⬇️ 18,587 • ❤️ 328 • 1d ago
 
 ---
 
@@ -455,7 +455,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 445,464 • ❤️ 197 • 2d ago
+⬇️ 445,464 • ❤️ 198 • 2d ago
 
 ---
 
@@ -467,7 +467,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 45,425 • ❤️ 875 • 9d ago
+⬇️ 45,425 • ❤️ 876 • 9d ago
 
 ---
 
@@ -491,7 +491,7 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 163 • 2d ago
+⬇️ 12,302 • ❤️ 168 • 2d ago
 
 ---
 
@@ -599,7 +599,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 7 • 💬 2 • ⭐ 11,781 • 2d ago
+▲ 9 • 💬 2 • ⭐ 11,781 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 7.3k • 🔱 1.2k • 57m ago
+⭐ 7.5k • 🔱 1.3k • 1m ago
 
 ---
 
@@ -689,13 +689,13 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 ---
 
-**[bscript/rep](https://github.com/bscript/rep)**
+**[repplus/rep](https://github.com/repplus/rep)**
 
 rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 132 • 1d ago
+⭐ 1.1k • 🔱 132 • 45m ago
 
 ---
 
@@ -705,7 +705,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 930 • 🔱 65 • 1d ago
+⭐ 931 • 🔱 65 • 1d ago
 
 ---
 
@@ -735,7 +735,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 853 • 🔱 46 • 2d ago
+⭐ 854 • 🔱 46 • 2d ago
 
 ---
 
@@ -745,7 +745,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 600 • 🔱 87 • 8h ago
+⭐ 603 • 🔱 87 • 8h ago
 
 ---
 

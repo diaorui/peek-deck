@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T10:45:13.610508+00:00'
+updated: '2025-12-11T10:58:29.365062+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 10:45 UTC  
+**Last Updated:** December 11, 2025 at 10:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
 
-1h ago
+2h ago
 
 ---
 
@@ -92,19 +92,19 @@ In this tutorial you will learn: how γ affects convergence and stability in Q-L
 
 ---
 
-**[University of Utah engineers just gave a bionic hand "mind of its own" using AI. Aligns user intent with hand's grip automatically.](https://www.reddit.com/r/robotics/comments/1pix2wp/university_of_utah_engineers_just_gave_a_bionic/)**
+**[IR-Sim is, a Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning](https://www.reddit.com/r/robotics/comments/1pjumrm/irsim_is_a_pythonbased_lightweight_robot/)**
 
-Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
+From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-1d ago
+6m ago
 
 ---
 
-**[To unpack LimX Oli: just plug in the battery, press the switch, and Oli walks out by itself. No more need for people to lift it.](https://www.reddit.com/r/robotics/comments/1pizul3/to_unpack_limx_oli_just_plug_in_the_battery_press/)**
+**[Hyundai MobED](https://www.reddit.com/r/robotics/comments/1pjuhk2/hyundai_mobed/)**
 
-From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
+The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-23h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 16m ago
 
 ---
 
@@ -112,9 +112,25 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Web
 
 ## Google News: "robotics"
 
-**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
+**[Analysts Warn of Cybersecurity Risks in Humanoid Robots](https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots)**
 
-Business Wire • 21h ago
+Dark Reading • 1d ago
+
+---
+
+**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
+
+Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
+
+Bloomberg.com • 2d ago
+
+---
+
+**[China's humanoid robot handles rough terrain with human-like motion](https://interestingengineering.com/ai-robotics/china-limx-oli-humanoid-robot)**
+
+LimX Dynamics’ humanoid robot Oli navigates sand, rocks, and debris with impressive balance and stability in new demo video.
+
+Interesting Engineering • 21h ago
 
 ---
 
@@ -140,28 +156,6 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
-
-Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
-
-Bloomberg.com • 2d ago
-
----
-
-**[China's humanoid robot handles rough terrain with human-like motion](https://interestingengineering.com/ai-robotics/china-limx-oli-humanoid-robot)**
-
-LimX Dynamics’ humanoid robot Oli navigates sand, rocks, and debris with impressive balance and stability in new demo video.
-
-Interesting Engineering • 21h ago
-
----
-
-**[Analysts Warn of Cybersecurity Risks in Humanoid Robots](https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots)**
-
-Dark Reading • 1d ago
-
----
-
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
 Chron • 17h ago
@@ -172,7 +166,7 @@ Chron • 17h ago
 
 $32 million investment will created 230 new jobs.
 
-WHMI • 18h ago
+WHMI • 19h ago
 
 ---
 
@@ -181,6 +175,14 @@ WHMI • 18h ago
 Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
 
 MIT News • 15h ago
+
+---
+
+**[CEO of Chinese robotics company posts video of himself getting kicked by his robot in effort to combat skeptics](https://www.businessinsider.com/engineai-ceo-robot-kick-video-2025-12)**
+
+EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
+
+Business Insider • 16h ago
 
 ---
 
