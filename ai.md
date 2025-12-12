@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T17:49:59.103078+00:00'
+updated: '2025-12-12T18:01:02.495122+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 17:49 UTC  
+**Last Updated:** December 12, 2025 at 18:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 58m ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey guys, I(M18) am completely new to content creation. I always wanted to be a 
 
 Hey everyone, here is the 11th issue of Hacker News x AI newsletter, a newsletter I started 11 weeks ago as an experiment to see if there is an audience for such content. This is a weekly AI related links from Hacker News and the discussions around them. See below some of the links included: Is It a Bubble? - Marks questions whether AI enthusiasm is a bubble, urging caution amid real transformative potential. Link If You’re Going to Vibe Code, Why Not Do It in C? - An exploration of intuition-driven “vibe” coding and how AI is reshaping modern development culture. Link Has the cost of software just dropped 90 percent? - Argues that AI coding agents may drastically reduce software development costs. Link AI should only run as fast as we can catch up - Discussion on pacing AI progress so humans and systems can keep up. Link If you want to subscribe to this newsletter, you can do it here: https://hackernewsai.com/
 
-8m ago
+19m ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 1h ago
 
 McDonald's pulls AI-generated ad after online backlash
 
-NBC News • 1h ago
+NBC News • 2h ago
 
 ---
 
@@ -161,13 +161,13 @@ Seeking Alpha • 1h ago
 
 **[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 23m ago
+The Washington Post • 34m ago
 
 ---
 
 **[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 12h ago
 
 Fears about AI data centers’ water use have exploded. Experts say the reality is far more complicated than people think.
 
-WIRED • 1h ago
+WIRED • 2h ago
 
 ---
 
@@ -259,7 +259,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 113 • 💬 74 • 9h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 113 • 💬 74 • 10h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -287,7 +287,7 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 30K • 👍 1K • 💬 227 • ⏱️ 14:58 • 17h ago
+👁️ 30K • 👍 1K • 💬 227 • ⏱️ 14:58 • 18h ago
 
 ---
 
@@ -357,7 +357,7 @@ shorts.
 
 📺 Brian Tyler Cohen
 
-👁️ 644K • 👍 37K • 💬 4K • ⏱️ 0:19 • 20h ago
+👁️ 644K • 👍 37K • 💬 4K • ⏱️ 0:19 • 21h ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 12.0k • 🔱 1.9k • 50m ago
+⭐ 12.0k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -742,7 +742,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 648 • 🔱 95 • 7h ago
+⭐ 648 • 🔱 95 • 8h ago
 
 ---
 
