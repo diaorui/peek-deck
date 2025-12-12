@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T15:57:18.946432+00:00'
+updated: '2025-12-12T16:33:28.630446+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 15:57 UTC  
+**Last Updated:** December 12, 2025 at 16:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
 
-🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 2h ago
+🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 3h ago
 
 ---
 
@@ -49,15 +49,7 @@ A new study has found that artificial intelligence systems struggle to distingui
 
 An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 46m ago
-
----
-
-**[Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws](https://www.reddit.com/r/artificial/comments/1pkegoe/trump_signs_executive_order_that_threatens_to/)**
-
-The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
-
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 14h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 1h ago
 
 ---
 
@@ -69,11 +61,27 @@ Everyone is reading the December 11 Executive Order as a "deregulation holiday."
 
 ---
 
+**[Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws](https://www.reddit.com/r/artificial/comments/1pkegoe/trump_signs_executive_order_that_threatens_to/)**
+
+The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
+
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 15h ago
+
+---
+
 **[Something Ominous Is Happening in the AI Economy](https://www.reddit.com/r/artificial/comments/1pk6avk/something_ominous_is_happening_in_the_ai_economy/)**
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 20h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 21h ago
+
+---
+
+**[Hochul Caves to Big Tech on AI Safety Bill | A bill that passed the New York legislature was completely gutted and substituted with language perceived as friendlier to the industry.](https://www.reddit.com/r/artificial/comments/1pkvyol/hochul_caves_to_big_tech_on_ai_safety_bill_a_bill/)**
+
+A bill that passed the New York legislature was completely gutted and substituted with language perceived as friendlier to the industry.
+
+🔗 [The American Prospect](https://prospect.org/2025/12/11/hochul-caves-big-tech-ai-safety-bill-new-york/) • 15m ago
 
 ---
 
@@ -85,35 +93,27 @@ Cameron Berg is Research Director at AE Studio, where he leads research explorin
 
 ---
 
-**[Oracle just revived fears that tech giants are spending too much on AI](https://www.reddit.com/r/artificial/comments/1pjzxcf/oracle_just_revived_fears_that_tech_giants_are/)**
+**[Google’s AI search has single-handedly done unfathomable damage to the public’s trust in AI.](https://www.reddit.com/r/artificial/comments/1pkwakm/googles_ai_search_has_singlehandedly_done/)**
 
-AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
+Google created an AI feature that seems almost deliberately engineered to undermine the public’s faith in AI. It uses as few resources as possible, so it constantly gives terrible answers. It’s very difficult to turn off, so people frustrated with its nearly-useless nature are constantly confronted by it against their will. But despite being objectively inferior to models like Gemini, it’s presented as equivalent to them, right up to stylistic habits like the infamous em dashes and endless lists. Why did Google do this? There’s no way they’re stupid enough not to realize the consequences of deliberately creating the dumbest AI on earth and then shoving it down everyone’s throats when they use the most popular search engine in the world. I know I’m late to this party and it’s existed a while, but I’ve only recently realized that for a massive amount of people, the only AI they’ve ever interacted with is the automatic can’t-turn-it-off Google search AI. Was Google deliberately trying to make a portion of the population distrust AI? If so, maybe that’s a good thing, since without exposure to such a deliberately bad AI, some people might trust AI too much. Was this their secret goal, or is Google a lot stupider than we previously thought?
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 1d ago
-
----
-
-**[New Research Says AI Hype Is Everywhere, But the Public Still Doesn’t Trust It](https://www.reddit.com/r/artificial/comments/1pk1w9q/new_research_says_ai_hype_is_everywhere_but_the/)**
-
-A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
-
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 23h ago
+2m ago
 
 ---
 
-**[Videos of sexually suggestive, AI-generated children are racking up millions of likes on TikTok, study finds](https://www.reddit.com/r/artificial/comments/1pjvzwq/videos_of_sexually_suggestive_aigenerated/)**
+**[ChatGPT's 'Adult Mode' Is Coming in 2026](https://www.reddit.com/r/artificial/comments/1pkvxli/chatgpts_adult_mode_is_coming_in_2026/)**
 
-AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
+Gooners rejoice.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1d ago
+🔗 [Gizmodo](https://gizmodo.com/chatgpts-adult-mode-is-coming-in-2026-2000698677) • 16m ago
 
 ---
 
-**[OpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy | Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.](https://www.reddit.com/r/artificial/comments/1pk1b2t/openai_staffer_quits_alleging_companys_economic/)**
+**[Need your valuable suggestions](https://www.reddit.com/r/artificial/comments/1pkvn8c/need_your_valuable_suggestions/)**
 
-Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
+Hey guys, I(M18) am completely new to content creation. I always wanted to be a content creator but was hesitant to start. Finally I started my journey by making an Insta reel. Now obviously I am feeling like it's the best reel in the world as I put so much effort into it (😅🥲). But I want you guys' genuine suggestions on what can I improve more. Thank You 🥰😉
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 23h ago
+28m ago
 
 ---
 
@@ -125,13 +125,13 @@ Four sources close to the situation claim OpenAI has become hesitant to publish 
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-BBC • 54m ago
+BBC • 1h ago
 
 ---
 
-**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
+**[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-Politico • 4h ago
+The Washington Post • 1h ago
 
 ---
 
@@ -139,15 +139,15 @@ Politico • 4h ago
 
 McDonald's pulls AI-generated ad after online backlash
 
-NBC News • 7m ago
+NBC News • 43m ago
 
 ---
 
-**[AI is filling the God void for many – but is ChatGPT really something to worship? | Brigid Delaney](https://www.theguardian.com/commentisfree/2025/dec/13/ai-is-filling-the-god-void-for-many-but-is-chatgpt-really-something-to-worship)**
+**[AI Billionaires’ 2026 Intimidation Campaign Is Already Working](https://www.rollingstone.com/politics/politics-features/ai-pac-2026-anti-regulation-campaign-kathy-hochul-1235483075/)**
 
-Comforting reassurance was once the work of the church. Now it’s increasingly being sought from the machine
+New York Gov. Kathy Hochul gutted an AI regulation bill a day after the Leading the Future PAC started attacking congressional candidate Alex Bores.
 
-The Guardian • 1h ago
+Rolling Stone • 33m ago
 
 ---
 
@@ -159,9 +159,9 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
+**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
 
-The Washington Post • 24m ago
+Politico • 5h ago
 
 ---
 
@@ -169,13 +169,7 @@ The Washington Post • 24m ago
 
 AI-related names have made losses since Oracle's mixed results on Wednesday.
 
-CNBC • 6h ago
-
----
-
-**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
-
-The New York Times • 11h ago
+CNBC • 7h ago
 
 ---
 
@@ -183,7 +177,13 @@ The New York Times • 11h ago
 
 The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
 
-The New Yorker • 4h ago
+The New Yorker • 5h ago
+
+---
+
+**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+
+The New York Times • 11h ago
 
 ---
 
@@ -203,7 +203,7 @@ Time Magazine • 1d ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 438 • 💬 252 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 439 • 💬 254 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -211,7 +211,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 323 • 💬 310 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 323 • 💬 312 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -259,7 +259,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 114 • 💬 87 • 23h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 114 • 💬 87 • 1d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -267,7 +267,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 92 • 💬 58 • 8h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 98 • 💬 68 • 8h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -289,7 +289,7 @@ Google has made some big shifts in the AI space! ☆SIGN UP FOR MY NEWSLETTER TO
 
 📺 Success With Sam
 
-👁️ 18K • 👍 848 • 💬 33 • ⏱️ 19:09 • 23h ago
+👁️ 18K • 👍 848 • 💬 33 • ⏱️ 19:09 • 1d ago
 
 ---
 
@@ -299,7 +299,7 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 28K • 👍 1K • 💬 213 • ⏱️ 14:58 • 15h ago
+👁️ 28K • 👍 1K • 💬 213 • ⏱️ 14:58 • 16h ago
 
 ---
 
@@ -309,7 +309,7 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 287K • 👍 8K • 💬 1K • ⏱️ 13:43 • 20h ago
+👁️ 287K • 👍 8K • 💬 1K • ⏱️ 13:43 • 21h ago
 
 ---
 
@@ -339,7 +339,7 @@ While everyone's chasing the AI boom, Oracle just exposed the ugly truth: Their 
 
 📺 Steven Van Metre
 
-👁️ 35K • 👍 2K • 💬 243 • ⏱️ 13:13 • 16h ago
+👁️ 35K • 👍 2K • 💬 243 • ⏱️ 13:13 • 17h ago
 
 ---
 
@@ -377,7 +377,7 @@ Brave Lady Soldier Rescue Grandmother from Giant Crocodile! #ai #cocodile #rescu
 
 📺 AiStory A2.0
 
-👁️ 37K • 💬 1 • ⏱️ 0:20 • 12h ago
+👁️ 37K • 💬 1 • ⏱️ 0:20 • 13h ago
 
 ---
 
@@ -393,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 766 • 21m ago
+⬇️ 105,962 • ❤️ 766 • 57m ago
 
 ---
 
@@ -429,7 +429,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 285 • 6h ago
+⬇️ 10,352 • ❤️ 286 • 6h ago
 
 ---
 
@@ -477,7 +477,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 662 • ❤️ 189 • 7h ago
+⬇️ 662 • ❤️ 189 • 8h ago
 
 ---
 
@@ -489,7 +489,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 50,491 • ❤️ 896 • 11d ago
+⬇️ 50,491 • ❤️ 897 • 11d ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 11.9k • 🔱 1.9k • 10h ago
+⭐ 11.9k • 🔱 1.9k • 11h ago
 
 ---
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.3k • 🔱 255 • 9h ago
+⭐ 2.3k • 🔱 255 • 10h ago
 
 ---
 

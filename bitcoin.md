@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T15:57:18.954925+00:00'
+updated: '2025-12-12T16:33:28.638852+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 15:57 UTC  
+**Last Updated:** December 12, 2025 at 16:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,221.21
+### $90,007.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +1.2%  
+**24h:** +0.2%  
+**7d:** +1.1%  
 **30d:** -9.5%  
 **90d:** -21.7%  
-**1y:** -11.2%  
+**1y:** -10.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.44B
+**Market Cap:** $1803.51B
 Rank #1
 
 **Circulating Supply:** 19,961,181 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.5%
 
 **All-Time Low:** $67.81
-+133061.8%
++132906.9%
 
 ---
 
@@ -77,21 +77,29 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
-
-14h ago
-
----
-
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
 4h ago
 
 ---
 
+**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
+
+15h ago
+
+---
+
 **[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
 
-2h ago
+3h ago
+
+---
+
+**[Daily meme until $92,450](https://www.reddit.com/r/Bitcoin/comments/1pkriyo/daily_meme_until_92450/)**
+
+C’mon Bitcoin, you can do it
+
+3h ago
 
 ---
 
@@ -105,7 +113,7 @@ Rank #1
 
 PNC Bank just started selling Bitcoin to their clients. Not through some sketchy app. Through their regular banking platform. Powered by Coinbase. The seventh-largest bank in America looked at bitcoin and didn't see an enemy. They saw a partner. For years, the debate was Bitcoin versus banks. Us versus them. Choose a side. Turns out the winners weren't choosing. They were combining. I co-founded India's first Bitcoin exchange in 2013. We survived a central bank ban. We won in the Supreme Court. We've served over two million people. And the whole time, the loudest voices kept telling me to pick a lane. Bitcoin OR banks. Disruption OR compliance. Revolution OR evolution. I refused. Here's what I learned: The people who change industries don't burn bridges. They build them. When we started our Bitcoin meetups in Bangalore, we held them at the Leela Palace—a six-star hotel. Not because we had money to burn. Because bankers and lawyers and skeptics don't show up to basements. If you're only talking to people who already agree with you, you're not evangelizing. You're just having a meeting. PNC didn't become a bitcoin company. Coinbase didn't become a bank. They each brought what they were good at. That's not compromise. That's leverage. The question isn't Bitcoin or blockchain. The question is: Who have you written off that's actually ready to listen?
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +121,7 @@ PNC Bank just started selling Bitcoin to their clients. Not through some sketchy
 
 Trinidad and Tobago amends the original two‑year blanket ban on crypto. The strict ban has been significantly softened: the bill has passed with 200+
 
-🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 2h ago
+🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 3h ago
 
 ---
 
@@ -129,19 +137,11 @@ Trinidad and Tobago amends the original two‑year blanket ban on crypto. The st
 
 ---
 
-**[Daily meme until $92,450](https://www.reddit.com/r/Bitcoin/comments/1pkriyo/daily_meme_until_92450/)**
-
-C’mon Bitcoin, you can do it
-
-2h ago
-
----
-
 **[Solo miner from CKpool has mined a block](https://www.reddit.com/r/Bitcoin/comments/1pkh0d8/solo_miner_from_ckpool_has_mined_a_block/)**
 
 The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
 
-12h ago
+13h ago
 
 ---
 
@@ -149,11 +149,9 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Slides Below $90,000 After Fed Cut Even as Stocks Rally](https://www.bloomberg.com/news/articles/2025-12-11/bitcoin-btc-slides-below-90-000-after-fed-cut-while-stocks-rally)**
+**[Strategy And Bitcoin Face A Defining Test Today](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Bitcoin veered back toward the lower portion of its recent trading range amid lingering concern about demand for risky assets.
-
-Bloomberg.com • 22h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -165,59 +163,63 @@ BBC • 1d ago
 
 ---
 
-**[Bitcoin Giant Strategy's Cash Reserve Was a 'Smart' Move, Says BitMine's Tom Lee](https://finance.yahoo.com/news/bitcoin-giant-strategys-cash-smart-152357482.html)**
+**[Bitcoin Price (BTC) News: Plunges Below $90K as AI Bubble Worries Weigh on Tech Stocks](https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down)**
 
-BitMine Immersion Technologies Chairman Tom Lee praised Bitcoin treasury firm Strategy's massive new cash reserve. Here's why.
+Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026.
 
-Yahoo Finance • 33m ago
+CoinDesk • 27m ago
 
 ---
 
-**[Coinbase Sentiment Hits Rock Bottom as Bitcoin Correlation Crushes Options Traders](https://finance.yahoo.com/news/coinbase-sentiment-hits-rock-bottom-151040234.html)**
+**[Bitcoin Winter Has Begun: Why A Major Crash May Still Be Ahead](https://www.forbes.com/sites/digital-assets/2025/12/12/bitcoin-winter-has-begun-why-a-major-crash-may-still-be-ahead/)**
 
-Shares of Coinbase (NASDAQ:COIN) closed at $275.09 on December 10 as retail investor sentiment on Reddit remains deeply negative. The stock carries a sentiment score of just 17.2 out of 100, placing it in the “very bearish” category. Bitcoin’s 17.8% decline from its November peak of $107,482 to around $90,000 has dragged Coinbase down 36% ... Coinbase Sentiment Hits Rock Bottom as Bitcoin Correlation Crushes Options Traders
+I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
-Yahoo Finance • 46m ago
+Forbes • 6h ago
 
 ---
 
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 1h ago
+x.com • 2h ago
 
 ---
 
-**[Strategy And Bitcoin Face A Defining Test Today](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
 
-Investor's Business Daily • 2h ago
+Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
 
----
-
-**[65% Of Bitcoin Treasuries Are Sitting On Unrealized Losses](https://bitcoinmagazine.com/featured/corporate-bt-treasuries-are-underwater)**
-
-Corporate Bitcoin treasuries swung into widespread unrealized losses in November, as Bitcoin’s brief drop below $90,000 left roughly 65% of measurable corporate holders in the red.
-
-Bitcoin Magazine • 1d ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
+**[Michael Saylor: Strategy’s Bitcoin Bet Could Drive $10M BTC](https://bitbo.io/news/saylor-bitcoin-10m-warning/)**
 
-Reuters • 1d ago
+Michael Saylor claims Strategy’s aggressive accumulation is accelerating Bitcoin adoption, potentially driving its price to $10 million, though analysts warn of a possible bear market.
+
+Bitbo • 5h ago
 
 ---
 
-**[American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy.](https://www.barrons.com/articles/american-bitcoin-stock-price-eric-trump-426a9d3b?gaa_at=eafs&gaa_n=AWEtsqfhjzG4-o0JDTLBOlp0tBHOr8o3M6ODcZeJn-0EVFQzOBfd7Gqkdw_p&gaa_ts=693c3ec6&gaa_sig=crKe1f44IvgHjLcjwfqQO3VdwXu2tkbt7vSiXRMAnJxexKynS3h6JOaiTqML0h3rBXqiebMkiXLkz54_hQ-0oQ%3D%3D)**
+**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
+
+Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Slides Below $90,000 After Fed Cut Even as Stocks Rally](https://www.bloomberg.com/news/articles/2025-12-11/bitcoin-btc-slides-below-90-000-after-fed-cut-while-stocks-rally)**
+
+Bitcoin veered back toward the lower portion of its recent trading range amid lingering concern about demand for risky assets.
+
+Bloomberg.com • 22h ago
+
+---
+
+**[American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy.](https://www.barrons.com/articles/american-bitcoin-stock-price-eric-trump-426a9d3b?gaa_at=eafs&gaa_n=AWEtsqeEB4Y3U6-ljnzGp88BmJ3Tkkg9uTeAgguh_taV4ns4BEvN2uB8Es5T&gaa_ts=693c4742&gaa_sig=XBnTRl-3Gvv5Vh6CvgcdDCxao2Tp1RxxIYXjJlaYpA-R0DBqZJ2-oQPgOYCowkyxuppINx0K2Oh6oygFBy14Wg%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Bitcoin Giant Strategy's Cash Reserve Was a 'Smart' Move, Says BitMine's Tom Lee](https://decrypt.co/352014/bitcoin-giant-strategy-cash-reserve-smart-move-bitmine-tom-lee)**
-
-BitMine Immersion Technologies Chairman Tom Lee praised Bitcoin treasury firm Strategy's massive new cash reserve. Here's why.
-
-Decrypt • 33m ago
 
 ---
 
@@ -311,7 +313,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 19K • 👍 969 • 💬 12 • ⏱️ 48:24 • 17h ago
+👁️ 19K • 👍 969 • 💬 12 • ⏱️ 48:24 • 18h ago
 
 ---
 
@@ -321,7 +323,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 181 • ⏱️ 18:22 • 15h ago
+👁️ 24K • 👍 2K • 💬 181 • ⏱️ 18:22 • 16h ago
 
 ---
 
@@ -341,7 +343,7 @@ Bear or Bull? Bearish short term, but buying every day! The links below may incl
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 760 • 💬 56 • ⏱️ 44:51 • 20h ago
+👁️ 11K • 👍 760 • 💬 56 • ⏱️ 44:51 • 21h ago
 
 ---
 
@@ -381,7 +383,7 @@ TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE 
 
 📺 Jason Pizzino
 
-👁️ 11K • 👍 713 • 💬 233 • ⏱️ 27:57 • 9h ago
+👁️ 11K • 👍 713 • 💬 233 • ⏱️ 27:57 • 10h ago
 
 ---
 
