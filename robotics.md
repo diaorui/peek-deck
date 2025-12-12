@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T07:44:07.695423+00:00'
+updated: '2025-12-12T07:55:33.953443+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 07:44 UTC  
+**Last Updated:** December 12, 2025 at 07:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-16h ago
+17h ago
 
 ---
 
@@ -52,7 +52,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-20h ago
+21h ago
 
 ---
 
@@ -84,13 +84,13 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on these hands - anyone here purchased one or is thinking of purchasing one? I ask because I've been thinking about buying
 
-3h ago
+4h ago
 
 ---
 
 **[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
 
-26m ago
+38m ago
 
 ---
 
@@ -98,7 +98,7 @@ https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on
 
 Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into threejs - Run MuJoCo physics (decoupled from renderer) What do you think about this?!?
 
-15h ago
+16h ago
 
 ---
 

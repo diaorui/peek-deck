@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T07:44:07.692151+00:00'
+updated: '2025-12-12T07:55:33.950172+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 07:44 UTC  
+**Last Updated:** December 12, 2025 at 07:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,9 +43,9 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.9%  
-**7d:** +6.9%  
-**30d:** +0.2%  
-**90d:** -29.5%  
+**7d:** +7.0%  
+**30d:** +0.3%  
+**90d:** -29.4%  
 **1y:** -16.9%  
 
 ---
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ Decrypt • 1d ago
 
 **[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfjs_Gw_PulHIqsc5xvuMJEHeeWiQNjPuONqNd3dI8vycDGq-eVS5YY&gaa_ts=693bc723&gaa_sig=D7jT0NSYIAaY6T0lpzE3mGTVwj7h44XmyvuY-CopXUAeBUNESA22Q5k0Co8i6Bz8Sgum9m2wMFkX081J-z1ZNw%3D%3D)**
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
@@ -316,7 +316,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 15K • 👍 801 • 💬 79 • ⏱️ 44:48 • 19h ago
+👁️ 15K • 👍 801 • 💬 79 • ⏱️ 44:48 • 20h ago
 
 ---
 

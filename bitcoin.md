@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T07:44:07.686000+00:00'
+updated: '2025-12-12T07:55:33.944071+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 07:44 UTC  
+**Last Updated:** December 12, 2025 at 07:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Made a little edit on the pump it up song to include the current craziness going
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -149,7 +149,7 @@ For context I never touched any crypto before. Is 100€ as starting too little?
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 18h ago
+Reuters • 19h ago
 
 ---
 
@@ -185,7 +185,7 @@ Investopedia • 14h ago
 
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -243,7 +243,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 1h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 2h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -315,7 +315,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 9K • 👍 102 • 💬 76 • ⏱️ 4:06 • 12h ago
+👁️ 9K • 👍 102 • 💬 76 • ⏱️ 4:06 • 13h ago
 
 ---
 
@@ -375,7 +375,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 12K • 👍 908 • 💬 312 • ⏱️ 14:43 • 11h ago
+👁️ 12K • 👍 908 • 💬 312 • ⏱️ 14:43 • 12h ago
 
 ---
 

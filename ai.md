@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T07:44:07.677602+00:00'
+updated: '2025-12-12T07:55:33.935564+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- news
 - videos
 - social
-- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 07:44 UTC  
+**Last Updated:** December 12, 2025 at 07:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -123,7 +123,7 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 **[Trump threatens funding for states over AI regulations](https://www.reuters.com/world/trump-says-he-will-sign-order-curbing-state-ai-laws-2025-12-11/)**
 
-Reuters • 47m ago
+Reuters • 58m ago
 
 ---
 
@@ -287,7 +287,7 @@ Get ready for a multiverse-melting fan-made concept trailer for Avengers: Doomsd
 
 📺 J10effect 
 
-👁️ 205K • 👍 838 • 💬 79 • ⏱️ 1:10 • 17h ago
+👁️ 205K • 👍 838 • 💬 79 • ⏱️ 1:10 • 18h ago
 
 ---
 
@@ -327,7 +327,7 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 31K • 👍 455 • 💬 88 • ⏱️ 10:31 • 16h ago
+👁️ 31K • 👍 455 • 💬 88 • ⏱️ 10:31 • 17h ago
 
 ---
 
