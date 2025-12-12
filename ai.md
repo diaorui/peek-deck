@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T06:26:44.982388+00:00'
+updated: '2025-12-12T06:56:17.389269+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 06:26 UTC  
+**Last Updated:** December 12, 2025 at 06:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 13h ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 14h ago
 
 ---
 
@@ -89,7 +89,7 @@ Four sources close to the situation claim OpenAI has become hesitant to publish 
 
 When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
 
-🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 11h ago
+🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 12h ago
 
 ---
 
@@ -105,7 +105,7 @@ Disney is hedging against the future. OpenAI is clearing a path for Sora. And to
 
 Context: This ""parenting"" AI app called NurtureOS turned out to be satire made by an AI company. (I don't get the logic either, but that's not what I'm concerned about.) My gripe: Someone's going to try sell something like this for real sooner or later, and I can’t stop thinking about the long-term effects it could have on people and society as a whole. Where are we heading with AI in our homes? And especially when kids are involved? The idea behind the app (you can see the features on the site) implied a future where parents could offload actual emotional labour completely. Suppose for an instant that an AI can sooth tantrums, resolve petty fights, teach social skills, and even be tweaked to mold your child's behaviour in specific ways. First of all, is it unethical to use AI to condition your kids? We do it anyway when we teach them certain things are right or wrong, or launch them into specific social constructs. What makes it different when AI's the one doing it? Secondly, there's the emotional intelligence part. Kids learn empathy, boundaries, and emotional resilience through their interactions with other humans. If an AI took deciding how to handle a fight between siblings or how to discipline a child, what happens to the child’s understanding of relationships? Would they start responding to other humans with the expectation that some third party (electronic or otherwise) will always step in to facilitate or mediate? Would they have less room to make mistakes, experiment socially, or negotiate boundaries? Would they even have the skillset to do it with? Thirdly, there’s the impact on parents. If you rely on an app to make the “right” choices for your kid, does that slowly chip away at your confidence? Do you start assuming the AI knows better than your own judgement? Parenting is already full of anxiety. Imagine adding a third party that's constantly between you and your spouse telling you their concept of “ideal behavior”. Just you and you and your friend SteveAI. Finally, the privacy angle is huge. A real version of this app would basically normalise 24/7 emotional surveillance in the home. It would be recording behaviour, conversations, moods, and interactions, and feeding it all to company servers somewhere that you never get to see. They'd have your data forever. Just think about all the crap Meta got up to with the data we fecklessly gave it in our teenage Facebook days. This would be SO much worse than that. This app may have been fake, but the next one may not be, and it exposed a real cultural pressure point. Right now, we keep inviting AI deeper into our lives for convenience. At what point does that start reshaping childhood, parenthood, and just society as a whole in ways we don’t fully understand? Is delegating emotional or developmental tasks to AI inherently dangerous? Or is there a world where it can support parents without replacing them and putting us all at risk?
 
-12h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 
 **[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 1h ago
 
 The executive order is the latest in a series of attempts by the Trump administration to hold back state-level AI rules. But many Republicans are also uncomfortable with the effort.
 
-NPR • 5h ago
+NPR • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ NPR • 5h ago
 
 Taiwan's tech-heavy stocks show few signs of slowing a rally even as AI bubble worries cast a shadow over global markets,  underscoring home-grown confidence in the structural advantages in AI that foreign investors may have overlooked.  Taiwan's benchmark index is poised to breach a record 30,000 points in 2026, investors ​say, extending a three-year surge that has seen the stock market nearly double as the island rides a wave of demand for chips that power artificial intelligence.  While foreign ‌money worries about stretched AI valuations, Taiwanese investors have enthusiastically ploughed into the market.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 16h ago
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Time Magazine • 17h ago
+Time Magazine • 18h ago
 
 ---
 
@@ -237,7 +237,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 281 • 💬 151 • 16h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 281 • 💬 151 • 17h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -291,7 +291,7 @@ Get ready for a multiverse-melting fan-made concept trailer for Avengers: Doomsd
 
 📺 J10effect 
 
-👁️ 205K • 👍 838 • 💬 79 • ⏱️ 1:10 • 16h ago
+👁️ 205K • 👍 838 • 💬 79 • ⏱️ 1:10 • 17h ago
 
 ---
 
@@ -331,7 +331,7 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 31K • 👍 455 • 💬 88 • ⏱️ 10:31 • 15h ago
+👁️ 31K • 👍 455 • 💬 88 • ⏱️ 10:31 • 16h ago
 
 ---
 
@@ -381,7 +381,7 @@ Oracle's latest quarterly results sent shockwaves through the tech world, with t
 
 📺 Firstpost
 
-👁️ 27K • 👍 314 • 💬 32 • ⏱️ 5:39 • 12h ago
+👁️ 27K • 👍 314 • 💬 32 • ⏱️ 5:39 • 13h ago
 
 ---
 
@@ -521,7 +521,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 184 • 💬 3 • ⭐ 6,551 • 14d ago
+▲ 185 • 💬 3 • ⭐ 6,551 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -581,6 +581,18 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 ---
 
+**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+
+*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+
+DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+
+▲ 13 • 💬 2 • ⭐ 11,848 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
 **[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://huggingface.co/papers/2512.02589)**
 
 *Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)*
@@ -595,15 +607,17 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 ---
 
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
 
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+🏢 AI at Meta
 
-▲ 13 • 💬 2 • ⭐ 11,819 • 3d ago
+Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+▲ 109 • 💬 4 • ⭐ 5,690 • 21d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
 ---
 
@@ -619,31 +633,15 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 ---
 
-**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
+**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
 
-*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
+*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
 
-🏢 AI at Meta
+MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
 
-Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
+▲ 35 • 💬 4 • ⭐ 50,265 • 14mo ago
 
-▲ 109 • 💬 4 • ⭐ 5,665 • 21d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
-
----
-
-**[Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](https://huggingface.co/papers/2512.04926)**
-
-*Yueming Pan, Ruoyu Feng, Qi Dai et al. (8 authors)*
-
-🏢 Xi'an Jiaotong University
-
-Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
-
-▲ 40 • 💬 2 • ⭐ 421 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
 ---
 
@@ -657,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 10.2k • 🔱 1.7k • 1h ago
+⭐ 10.4k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -667,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.1k • 🔱 234 • 13h ago
+⭐ 2.1k • 🔱 237 • 22m ago
 
 ---
 
@@ -697,7 +695,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 15h ago
+⭐ 1.1k • 🔱 134 • 12m ago
 
 ---
 
@@ -707,7 +705,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 975 • 🔱 291 • 5d ago
+⭐ 995 • 🔱 292 • 5d ago
 
 ---
 
@@ -727,7 +725,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 875 • 🔱 22 • 4d ago
+⭐ 876 • 🔱 22 • 4d ago
 
 ---
 
@@ -747,7 +745,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 632 • 🔱 93 • 16h ago
+⭐ 635 • 🔱 93 • 16h ago
 
 ---
 

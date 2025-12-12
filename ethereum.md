@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T06:26:44.997152+00:00'
+updated: '2025-12-12T06:56:17.403794+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 06:26 UTC  
+**Last Updated:** December 12, 2025 at 06:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +7.5%  
-**30d:** +0.8%  
-**90d:** -29.1%  
-**1y:** -16.5%  
+**24h:** +1.7%  
+**7d:** +7.2%  
+**30d:** +0.5%  
+**90d:** -29.3%  
+**1y:** -16.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-25m ago
+55m ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 21h ago
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ Decrypt • 1d ago
 
 **[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdt-iETvdEUrydbnxe43P7iD-mctLUFjYqKsEFGmIC_motLziE_6TA6&gaa_ts=693bb910&gaa_sig=QLx8zaZd7DBDUxfALG0IFlycPzO07SeZ4FIgq4DNqUcuHKIghTSLsKUXTScerVDLqd8eWs6IpaRmpEakHKPB_A%3D%3D)**
 
-Barron's • 18h ago
+Barron's • 19h ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView • 1d ago
 
 There's one key reason why Ethereum is underperforming its mega-cap peers today.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 653 • 💬 44 • ⏱️ 11:29 • 17h ago
+👁️ 16K • 👍 653 • 💬 44 • ⏱️ 11:29 • 18h ago
 
 ---
 
@@ -266,7 +266,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 4K • 👍 792 • 1h ago
+👁️ 4K • 👍 792 • 2h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 304 • 💬 78 • ⏱️ 18:15 • 7h ago
+👁️ 6K • 👍 304 • 💬 78 • ⏱️ 18:15 • 8h ago
 
 ---
 
@@ -316,7 +316,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 15K • 👍 801 • 💬 79 • ⏱️ 44:48 • 18h ago
+👁️ 15K • 👍 801 • 💬 79 • ⏱️ 44:48 • 19h ago
 
 ---
 

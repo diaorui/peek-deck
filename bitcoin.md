@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T06:26:44.991005+00:00'
+updated: '2025-12-12T06:56:17.397757+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 06:26 UTC  
+**Last Updated:** December 12, 2025 at 06:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,746.09
+### $92,678.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.6%  
+**24h:** +2.4%  
 **7d:** +3.6%  
 **30d:** -7.3%  
 **90d:** -19.8%  
-**1y:** -8.6%  
+**1y:** -8.7%  
 
 ---
 
@@ -93,13 +93,13 @@ Made a little edit on the pump it up song to include the current craziness going
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -131,13 +131,13 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-16h ago
+17h ago
 
 ---
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -155,7 +155,7 @@ BBC • 1d ago
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -171,13 +171,13 @@ Yahoo Finance • 1h ago
 
 Experts remain cautiously optimistic as macro hurdles clear amid Bitcoin whale accumulation and liquidity drying up ahead of the holidays.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -241,7 +241,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 33m ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 1h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -289,7 +289,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Show HN: I got my site down to 237kb by ditching Google Analytics](https://news.ycombinator.com/item?id=46240998)**
 
-⬆️ 2 • 💬 0 • 1h ago • [deadstack.net](https://deadstack.net/)
+⬆️ 2 • 💬 0 • 2h ago • [deadstack.net](https://deadstack.net/)
 
 ---
 
@@ -313,7 +313,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 9K • 👍 102 • 💬 76 • ⏱️ 4:06 • 11h ago
+👁️ 9K • 👍 102 • 💬 76 • ⏱️ 4:06 • 12h ago
 
 ---
 
@@ -373,7 +373,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 12K • 👍 908 • 💬 312 • ⏱️ 14:43 • 10h ago
+👁️ 12K • 👍 908 • 💬 312 • ⏱️ 14:43 • 11h ago
 
 ---
 
@@ -391,7 +391,7 @@ The biggest shift in U.S. Bitcoin regulation just happened — and almost nobody
 
 📺 Andrei Jikh
 
-👁️ 22K • 👍 455 • 💬 37 • ⏱️ 0:35 • 7h ago
+👁️ 22K • 👍 455 • 💬 37 • ⏱️ 0:35 • 8h ago
 
 ---
 
