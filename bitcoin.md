@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T21:15:24.503749+00:00'
+updated: '2025-12-12T21:33:30.321023+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 21:15 UTC  
+**Last Updated:** December 12, 2025 at 21:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +1.2%  
-**30d:** -9.5%  
-**90d:** -21.7%  
-**1y:** -10.8%  
+**24h:** -2.5%  
+**7d:** +0.7%  
+**30d:** -9.9%  
+**90d:** -22.1%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.70B
+**Market Cap:** $1800.88B
 Rank #1
 
-**Circulating Supply:** 19,961,265 BTC
+**Circulating Supply:** 19,961,278 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.4%
 
 **All-Time Low:** $67.81
-+132932.0%
++132964.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -103,15 +103,15 @@ C’mon Bitcoin, you can do it
 
 ---
 
-**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
+**[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-19h ago
+3h ago
 
 ---
 
-**[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
+**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-2h ago
+20h ago
 
 ---
 
@@ -125,13 +125,7 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 **[Here we go again.](https://www.reddit.com/r/Bitcoin/comments/1pkw7mc/here_we_go_again/)**
 
-4h ago
-
----
-
-**[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
-
-8h ago
+5h ago
 
 ---
 
@@ -139,7 +133,13 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 I’m new to this. I’m thinking 10% of my total portfolio. What’s your percentage?
 
-2h ago
+3h ago
+
+---
+
+**[Bitcoin’s not volatile, it’s just dramatic.](https://www.reddit.com/r/Bitcoin/comments/1pkz5u5/bitcoins_not_volatile_its_just_dramatic/)**
+
+3h ago
 
 ---
 
@@ -149,7 +149,7 @@ I’m new to this. I’m thinking 10% of my total portfolio. What’s your perce
 
 **[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -161,9 +161,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[MicroStrategy sends sharp warning letter to MSCI](https://www.thestreet.com/crypto/markets/microstrategy-sends-sharp-warning-letter-to-msci)**
+**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-TheStreet • 2d ago
+x.com • 7h ago
+
+---
+
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://finance.yahoo.com/news/bitcoin-dips-below-90-000-054156466.html)**
+
+"What we saw last night was even though risk assets ‌were doing well, crypto didn't really want to know about it," said Tony Sycamore, market analyst at IG in Sydney.  "As ⁠a result, we now think future Bitcoin price increases will effectively be ‌driven by one leg only – ETF buying."
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -175,25 +183,11 @@ CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
-
-Reuters • 1d ago
-
----
-
 **[Bitcoin just exposed a terrifying link to the AI bubble that guarantees it crashes first when tech breaks](https://cryptoslate.com/if-an-ai-bubble-pops-does-btc-bleed-or-benefit/)**
 
 Oracle's earnings miss and $80B market cap wipeout show how tightly Bitcoin now tracks AI-driven tech risk, but the policy response to a credit crunch could recreate the liquidity conditions.
 
 CryptoSlate • 11h ago
-
----
-
-**[Solo bitcoin miner wins ‘lottery,’ hauls in $288k with 0.00002% of network hashrate](https://finance.yahoo.com/news/solo-bitcoin-miner-wins-8216-194907112.html)**
-
-Solo bitcoin miner 1Ng9~VoQz utilized 270 TH/s to win a block reward valued at over $288,000.
-
-Yahoo Finance • 1h ago
 
 ---
 
@@ -205,17 +199,27 @@ Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
-
-x.com • 7h ago
-
----
-
 **[Bitcoin Winter Has Begun: Why A Major Crash May Still Be Ahead](https://www.forbes.com/sites/digital-assets/2025/12/12/bitcoin-winter-has-begun-why-a-major-crash-may-still-be-ahead/)**
 
 I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
-Forbes • 10h ago
+Forbes • 11h ago
+
+---
+
+**[What’s Next for Bitcoin? VanEck’s Sigel on the Crypto Plunge and Outlook](https://www.morningstar.com/alternative-investments/whats-next-bitcoin-vanecks-sigel-crypto-plunge-outlook)**
+
+Sigel explains the leverage-driven selloff and his view of the long-term bull case for crypto.
+
+Morningstar • 10h ago
+
+---
+
+**[Ark Invest’s Cathie Wood: Bitcoin’s Four-Year Cycle Will Be ‘Disrupted’](https://decrypt.co/351790/ark-invests-cathie-wood-bitcoins-four-year-cycle-will-be-disrupted)**
+
+The Ark Invest CEO believes that Bitcoin has now switched to being ‘a risk-on asset,’ in contrast to gold.
+
+Decrypt • 2d ago
 
 ---
 
@@ -309,7 +313,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 185 • 💬 16 • ⏱️ 22:05 • 21h ago
+👁️ 5K • 👍 185 • 💬 16 • ⏱️ 22:05 • 22h ago
 
 ---
 
@@ -329,7 +333,7 @@ Bitcoin bear flag. 300k scenario revisit. What I will do in 2026. Larsson Line P
 
 📺 CTO LARSSON
 
-👁️ 13K • 👍 2K • 💬 120 • ⏱️ 13:21 • 7h ago
+👁️ 13K • 👍 2K • 💬 120 • ⏱️ 13:21 • 8h ago
 
 ---
 
@@ -379,7 +383,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 160 • 💬 57 • ⏱️ 29:06 • 5h ago
+👁️ 2K • 👍 160 • 💬 57 • ⏱️ 29:06 • 6h ago
 
 ---
 
