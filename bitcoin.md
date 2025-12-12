@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T13:13:17.247188+00:00'
+updated: '2025-12-12T13:48:25.057610+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 13:13 UTC  
+**Last Updated:** December 12, 2025 at 13:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,473.85
+### $92,435.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.2%  
-**7d:** +3.3%  
-**30d:** -7.5%  
-**90d:** -20.0%  
-**1y:** -8.9%  
+**24h:** +3.0%  
+**7d:** +3.2%  
+**30d:** -7.7%  
+**90d:** -20.2%  
+**1y:** -9.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1843.43B
+**Market Cap:** $1843.60B
 Rank #1
 
 **Circulating Supply:** 19,961,125 BTC
@@ -64,7 +64,7 @@ Rank #1
 -26.8%
 
 **All-Time Low:** $67.81
-+136090.8%
++136005.3%
 
 ---
 
@@ -79,7 +79,19 @@ Rank #1
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-11h ago
+12h ago
+
+---
+
+**[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
+
+2h ago
+
+---
+
+**[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
+
+46m ago
 
 ---
 
@@ -95,7 +107,9 @@ Rank #1
 
 ---
 
-**[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
+**[AND](https://www.reddit.com/r/Bitcoin/comments/1pkqkkd/and/)**
+
+PNC Bank just started selling Bitcoin to their clients. Not through some sketchy app. Through their regular banking platform. Powered by Coinbase. The seventh-largest bank in America looked at bitcoin and didn't see an enemy. They saw a partner. For years, the debate was Bitcoin versus banks. Us versus them. Choose a side. Turns out the winners weren't choosing. They were combining. I co-founded India's first Bitcoin exchange in 2013. We survived a central bank ban. We won in the Supreme Court. We've served over two million people. And the whole time, the loudest voices kept telling me to pick a lane. Bitcoin OR banks. Disruption OR compliance. Revolution OR evolution. I refused. Here's what I learned: The people who change industries don't burn bridges. They build them. When we started our Bitcoin meetups in Bangalore, we held them at the Leela Palace—a six-star hotel. Not because we had money to burn. Because bankers and lawyers and skeptics don't show up to basements. If you're only talking to people who already agree with you, you're not evangelizing. You're just having a meeting. PNC didn't become a bitcoin company. Coinbase didn't become a bank. They each brought what they were good at. That's not compromise. That's leverage. The question isn't Bitcoin or blockchain. The question is: Who have you written off that's actually ready to listen?
 
 1h ago
 
@@ -113,33 +127,19 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
 
-16h ago
-
----
-
-**[AND](https://www.reddit.com/r/Bitcoin/comments/1pkqkkd/and/)**
-
-PNC Bank just started selling Bitcoin to their clients. Not through some sketchy app. Through their regular banking platform. Powered by Coinbase. The seventh-largest bank in America looked at bitcoin and didn't see an enemy. They saw a partner. For years, the debate was Bitcoin versus banks. Us versus them. Choose a side. Turns out the winners weren't choosing. They were combining. I co-founded India's first Bitcoin exchange in 2013. We survived a central bank ban. We won in the Supreme Court. We've served over two million people. And the whole time, the loudest voices kept telling me to pick a lane. Bitcoin OR banks. Disruption OR compliance. Revolution OR evolution. I refused. Here's what I learned: The people who change industries don't burn bridges. They build them. When we started our Bitcoin meetups in Bangalore, we held them at the Leela Palace—a six-star hotel. Not because we had money to burn. Because bankers and lawyers and skeptics don't show up to basements. If you're only talking to people who already agree with you, you're not evangelizing. You're just having a meeting. PNC didn't become a bitcoin company. Coinbase didn't become a bank. They each brought what they were good at. That's not compromise. That's leverage. The question isn't Bitcoin or blockchain. The question is: Who have you written off that's actually ready to listen?
-
-49m ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
-
 17h ago
 
 ---
 
-**[Is the selloff overdone?](https://www.reddit.com/r/Bitcoin/comments/1pkm7dv/is_the_selloff_overdone/)**
+**[Trinidad And Tobago To Reverse Bitcoin Ban - Lightning News](https://www.reddit.com/r/Bitcoin/comments/1pkrvzd/trinidad_and_tobago_to_reverse_bitcoin_ban/)**
 
-are we coming out of the worst of it? stock market is at highs, and even the AI stock are stubbornly up (with a few exceptions)… yet crypto is still struggling. have we bottomed, or is a bigger crypto dip coming?
+Trinidad and Tobago amends the original two‑year blanket ban on crypto. The strict ban has been significantly softened: the bill has passed with 200+
 
-5h ago
+🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 19m ago
 
 ---
 
-**[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
 
 17h ago
 
@@ -153,7 +153,7 @@ are we coming out of the worst of it? stock market is at highs, and even the AI 
 
 Bitcoin veered back toward the lower portion of its recent trading range amid lingering concern about demand for risky assets.
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -165,31 +165,31 @@ BBC • 1d ago
 
 ---
 
-**[Bitcoin Winter Has Begun: Why A Major Crash May Still Be Ahead](https://www.forbes.com/sites/digital-assets/2025/12/12/bitcoin-winter-has-begun-why-a-major-crash-may-still-be-ahead/)**
-
-I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
-
-Forbes • 2h ago
-
----
-
-**[Bitcoin, Crypto Stocks Are Under Pressure. Cathie Wood’s ARK Buys More Robinhood Shares.](https://www.barrons.com/articles/bitcoin-robinhood-cathie-wood-ark-crypto-xrp-46a8c473?gaa_at=eafs&gaa_n=AWEtsqd0bcIPaNqEnzdTO5ChsTYYtfpgSTBKmIRcBq7lrkx3ghD9uvbYabuE&gaa_ts=693c1847&gaa_sig=5bQ47LBpzSdPmoXte_a_R8z6ojC4DscoibKzyulVmes0yaHaaKaxzGyobJ4slEDLpGYssx5s07lhREvypyLqaQ%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
-
-Investor's Business Daily • 28m ago
-
----
-
 **[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
 
 Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, Crypto Stocks Are Under Pressure. Cathie Wood’s ARK Buys More Robinhood Shares.](https://www.barrons.com/articles/bitcoin-robinhood-cathie-wood-ark-crypto-xrp-46a8c473?gaa_at=eafs&gaa_n=AWEtsqd3WF5FMGwKxem68kQ4zLJu3YJCWuo_K5Uran9FEE0BUnViuQX-Xei0&gaa_ts=693c2094&gaa_sig=Ym5uLdYks5Ii8g_bQWOpPykAM-KP6JQYxYscbdxq5CHoLNVzrC2G_HOSA4YAhXPeVqpcW-oTg0R2gQl8dkiQ3g%3D%3D)**
+
+Barron's • 2h ago
+
+---
+
+**[Ark Invest’s Cathie Wood: Bitcoin’s Four-Year Cycle Will Be ‘Disrupted’](https://decrypt.co/351790/ark-invests-cathie-wood-bitcoins-four-year-cycle-will-be-disrupted)**
+
+The Ark Invest CEO believes that Bitcoin has now switched to being ‘a risk-on asset,’ in contrast to gold.
+
+Decrypt • 2d ago
+
+---
+
+**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
+
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -201,17 +201,11 @@ Bitcoin Magazine • 23h ago
 
 ---
 
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
-
-Reuters • 1d ago
-
----
-
 **[Michael Saylor Outlines Corporate Bitcoin Central Bank Vision](https://bitbo.io/news/saylor-bitcoin-central-bank/)**
 
 At the Bitcoin MENA conference, Michael Saylor detailed his plan for a corporate-driven, multi-layered financial system built on bitcoin, likening it to a private central bank.
 
-Bitbo • 13h ago
+Bitbo • 14h ago
 
 ---
 
@@ -220,6 +214,14 @@ Bitbo • 13h ago
 Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
 
 Yahoo Finance • 18h ago
+
+---
+
+**[Saylor’s Plan To Build A Bitcoin Powered Shadow Central Bank](https://www.forbes.com/sites/digital-assets/2025/12/11/saylors-plan-to-build-a-bitcoin-powered-shadow-central-bank/)**
+
+Saylor’s bitcoin based monetary engine built on reserves, credit and digital money that could act like a stablecoin, supported by a plan to buy and hold bitcoin at scale.
+
+Forbes • 1d ago
 
 ---
 
@@ -313,7 +315,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 166 • 💬 42 • ⏱️ 22:05 • 13h ago
+👁️ 4K • 👍 166 • 💬 42 • ⏱️ 22:05 • 14h ago
 
 ---
 
@@ -363,7 +365,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 14K • 👍 1K • 💬 315 • ⏱️ 14:43 • 17h ago
+👁️ 14K • 👍 1K • 💬 315 • ⏱️ 14:43 • 18h ago
 
 ---
 
@@ -403,7 +405,7 @@ TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE 
 
 📺 Jason Pizzino
 
-👁️ 9K • 👍 616 • 💬 131 • ⏱️ 27:57 • 6h ago
+👁️ 9K • 👍 616 • 💬 131 • ⏱️ 27:57 • 7h ago
 
 ---
 

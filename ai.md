@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T13:13:17.238635+00:00'
+updated: '2025-12-12T13:48:25.048998+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 13:13 UTC  
+**Last Updated:** December 12, 2025 at 13:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,19 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 ---
 
+**[Scientists just uncovered a major limitation in how AI models understand truth and belief](https://www.reddit.com/r/artificial/comments/1pkrazu/scientists_just_uncovered_a_major_limitation_in/)**
+
+A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
+
+🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 47m ago
+
+---
+
 **[Something Ominous Is Happening in the AI Economy](https://www.reddit.com/r/artificial/comments/1pk6avk/something_ominous_is_happening_in_the_ai_economy/)**
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 17h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 18h ago
 
 ---
 
@@ -57,15 +65,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 Everyone is reading the December 11 Executive Order as a "deregulation holiday." I think that's dead wrong. It’s actually a litigation trigger. By trying to preempt state AI laws with an EO, the administration isn't clearing the board—they are picking a fight with 38 state legislatures and a Senate that already voted 99-1 against this exact approach. The trap: If you're a vendor, you might be tempted to delete your state-level compliance code today. Don't. We just moved from a patchwork of laws to a constitutional crisis. When the lawsuits stall this EO, you don't want to be the one caught naked on liability. The only safe bet right now? Architect for the EU AI Act. It's the only stable floor left. I wrote a deep dive on why this is a "volatility event" rather than deregulation. https://www.linkedin.com/pulse/50-states-rules-hidden-tax-every-ai-deployment-collin-hogue-spears-eptie
 
-33m ago
-
----
-
-**[Scientists just uncovered a major limitation in how AI models understand truth and belief](https://www.reddit.com/r/artificial/comments/1pkrazu/scientists_just_uncovered_a_major_limitation_in/)**
-
-A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
-
-🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 12m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 20h ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 21h ago
 
 ---
 
@@ -105,13 +105,13 @@ Four sources close to the situation claim OpenAI has become hesitant to publish 
 
 Cameron Berg is Research Director at AE Studio, where he leads research exploring markers for subjective experience in machine learning systems. With a background in cognitive science from Yale and previous work at Meta AI, Cameron investigates the intersection of AI alignment and potential consciousness. In this episode, Cameron shares his empirical research into whether current Large Language Models are merely mimicking human text, or potentially developing internal states that resemble subjective experience. Including: New experimental evidence where LLMs report "vivid and alien" subjective experiences when engaging in self-referential processing Mechanistic interpretability findings showing that suppressing "deception" features in models actually increases claims of consciousness—challenging the idea that AI is simply telling us what we want to hear Why Cameron has shifted from skepticism to a 20-30% credence that current models possess subjective experience The "convergent evidence" strategy, including findings that models report internal dissonance and frustration when facing logical paradoxes The existential implications of "mind crime" and the urgent need to identify negative valence (suffering) computationally—to avoid creating vast amounts of artificial suffering
 
-🔗 [open.spotify.com](https://open.spotify.com/episode/2TOkdi9ReHER53JhZoiyQT?si=01be273788504c87) • 23m ago
+🔗 [open.spotify.com](https://open.spotify.com/episode/2TOkdi9ReHER53JhZoiyQT?si=01be273788504c87) • 58m ago
 
 ---
 
 **[It’s not necessarily the fact that they can access and retrieve information from previous conversations. I don’t see anything wrong with that what I do see as alarming is the fact that they’re being programmed to lie and I wanna know what meta is hiding.](https://www.reddit.com/r/artificial/comments/1pkqjci/its_not_necessarily_the_fact_that_they_can_access/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -123,13 +123,13 @@ Cameron Berg is Research Director at AE Studio, where he leads research explorin
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
-**[Can OpenAI Respond After Google Closes the A.I. Technology Gap?](https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html)**
+**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-The New York Times • 17h ago
+The New York Times • 8h ago
 
 ---
 
@@ -141,25 +141,23 @@ CNBC • 1h ago
 
 ---
 
-**[Pennsylvania judge questions AI hallucinations in arguments for gender-identity suit](https://www.wesa.fm/politics-government/2025-12-12/pa-court-judge-ai-gender-identity-suit)**
-
-The case involves a challenge to the Pennsylvania Human Relations Commission’s application of anti-discrimination protections to transgender students in public schools.
-
-90.5 WESA • 1h ago
-
----
-
 **[Will AI make research on humans… less human?](https://www.vox.com/future-perfect/472017/human-subjects-research-ai-irb-tamiko-eto)**
 
 ﻿It’s been a long road to ensure that testing on human subjects is ethical. AI could send us backward.
 
-Vox • 43m ago
+Vox • 1h ago
+
+---
+
+**[Where to Invest in AI in 2026](https://www.bloomberg.com/news/features/2025-12-12/where-to-invest-in-ai-robotaxis-health-care-copper)**
+
+Bloomberg.com • 1h ago
 
 ---
 
 **[To AI-proof exams, professors turn to the oldest technique of all](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 40m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -171,19 +169,19 @@ Time Magazine • 1d ago
 
 ---
 
+**[Is A.I. Actually a Bubble?](https://www.newyorker.com/culture/open-questions/is-ai-actually-a-bubble)**
+
+The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
+
+The New Yorker • 2h ago
+
+---
+
 **[Trump targets state AI laws and major flooding in the Pacific Northwest: Morning Rundown](https://www.nbcnews.com/news/us-news/trump-targets-state-ai-laws-major-flooding-pacific-northwest-morning-r-rcna248795)**
 
 Plus, the medical professionals influencing how you pick your fantasy football team.
 
-NBC News • 58m ago
-
----
-
-**[Amputees often feel disconnected from their bionic hands. AI could bridge the gap : Shots - Health News](https://www.npr.org/sections/shots-health-news/2025/12/12/nx-s1-5639925/bionic-hand-prosthetic-artificial-intelligence)**
-
-Sensors and artificial intelligence help a prosthetic hand act more like a natural one, new research shows.
-
-NPR • 2h ago
+NBC News • 1h ago
 
 ---
 
@@ -191,7 +189,7 @@ NPR • 2h ago
 
 "​I think the reason this bidding is approaching $100 billion-plus is the content library and the potential to do a Disney-OpenAI type of deal."
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -203,7 +201,7 @@ Fortune • 14h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 405 • 💬 220 • 23h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 420 • 💬 229 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -267,7 +265,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 113 • 💬 85 • 21h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 113 • 💬 87 • 21h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -289,7 +287,7 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 267K • 👍 7K • 💬 1K • ⏱️ 13:43 • 17h ago
+👁️ 267K • 👍 7K • 💬 1K • ⏱️ 13:43 • 18h ago
 
 ---
 
@@ -319,7 +317,7 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 📺 CNBC Television
 
-👁️ 23K • 👍 233 • 💬 71 • ⏱️ 3:04 • 18h ago
+👁️ 23K • 👍 233 • 💬 71 • ⏱️ 3:04 • 19h ago
 
 ---
 
@@ -379,7 +377,7 @@ Oracle's latest quarterly results sent shockwaves through the tech world, with t
 
 📺 Firstpost
 
-👁️ 38K • 👍 425 • 💬 42 • ⏱️ 5:39 • 19h ago
+👁️ 38K • 👍 425 • 💬 42 • ⏱️ 5:39 • 20h ago
 
 ---
 
@@ -395,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 756 • 3d ago
+⬇️ 105,962 • ❤️ 758 • 3d ago
 
 ---
 
@@ -407,7 +405,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,576 • 3d ago
+⬇️ 257,048 • ❤️ 2,578 • 3d ago
 
 ---
 
@@ -419,7 +417,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 33,217 • ❤️ 368 • 2d ago
+⬇️ 33,217 • ❤️ 369 • 2d ago
 
 ---
 
@@ -431,7 +429,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 279 • 3h ago
+⬇️ 10,352 • ❤️ 281 • 4h ago
 
 ---
 
@@ -443,7 +441,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,519 • ❤️ 277 • 3d ago
+⬇️ 2,519 • ❤️ 278 • 3d ago
 
 ---
 
@@ -455,7 +453,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 23,012 • ❤️ 238 • 3d ago
+⬇️ 23,012 • ❤️ 239 • 3d ago
 
 ---
 
@@ -491,7 +489,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 50,491 • ❤️ 892 • 11d ago
+⬇️ 50,491 • ❤️ 893 • 11d ago
 
 ---
 
@@ -503,27 +501,13 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 457 • ❤️ 166 • 5h ago
+⬇️ 457 • ❤️ 166 • 6h ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 24 • 💬 2 • ⭐ 6,561 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
 
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
@@ -539,6 +523,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 24 • 💬 2 • ⭐ 6,605 • 15d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance](https://huggingface.co/papers/2512.08765)**
 
 *Ruihang Chu, Yefei He, Zhekai Chen et al. (13 authors)*
@@ -547,7 +545,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 114 • 💬 3 • ⭐ 283 • 3d ago
+▲ 114 • 💬 3 • ⭐ 299 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -653,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 11.5k • 🔱 1.9k • 8h ago
+⭐ 11.6k • 🔱 1.9k • 8h ago
 
 ---
 
@@ -663,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.2k • 🔱 244 • 6h ago
+⭐ 2.2k • 🔱 249 • 7h ago
 
 ---
 
@@ -693,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 6h ago
+⭐ 1.1k • 🔱 134 • 7h ago
 
 ---
 
@@ -713,7 +711,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 939 • 🔱 65 • 3d ago
+⭐ 940 • 🔱 65 • 3d ago
 
 ---
 
@@ -723,7 +721,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 877 • 🔱 22 • 4d ago
+⭐ 878 • 🔱 22 • 4d ago
 
 ---
 
@@ -743,7 +741,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 638 • 🔱 93 • 3h ago
+⭐ 639 • 🔱 94 • 3h ago
 
 ---
 
