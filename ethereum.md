@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T21:55:06.547855+00:00'
+updated: '2025-12-12T22:20:53.785702+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 21:55 UTC  
+**Last Updated:** December 12, 2025 at 22:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.7%  
-**7d:** +1.6%  
-**30d:** -4.8%  
-**90d:** -33.0%  
-**1y:** -21.1%  
+**24h:** -4.6%  
+**7d:** +1.7%  
+**30d:** -4.7%  
+**90d:** -32.9%  
+**1y:** -21.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.47B
+**Market Cap:** $372.34B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.6%
+-37.5%
 
 **All-Time Low:** $0.43
-+712911.5%
++713378.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 8h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 9h ago
 
 ---
 
@@ -160,15 +160,15 @@ The Block • 1d ago
 
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
-Binance • 18h ago
+Binance • 19h ago
 
 ---
 
-**[Arthur Hayes Makes Wild Ethereum Prediction for 2026 and Beyond](https://finance.yahoo.com/news/arthur-hayes-makes-wild-ethereum-185705661.html)**
+**[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://finance.yahoo.com/news/tom-lee-claims-p-500-115052298.html)**
 
-Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
+Tom Lee expects the S&P 500 to reach 7,700 by 2026. Lee argues Ethereum is “grossly undervalued” at current levels. The bullish analyst claimed Bitcoin ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -188,19 +188,19 @@ Decrypt • 2d ago
 
 ---
 
+**[Arthur Hayes Makes Wild Ethereum Prediction for 2026 and Beyond](https://www.tradingview.com/news/beincrypto:f3ccde85e094b:0-arthur-hayes-makes-wild-ethereum-prediction-for-2026-and-beyond/)**
+
+Ethereum’s long-term trajectory has become a focal point again after Arthur Hayes laid out a sweeping forecast for the asset’s institutional future, price potential, and competitive space. His comments arrived as Ethereum trades near $3,200, fluctuating between $3,060 and $3,440 over the past week…
+
+TradingView • 1d ago
+
+---
+
 **[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://www.fool.com/investing/2025/12/12/why-ethereum-sank-5-today-while-the-crypto-market/)**
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
 The Motley Fool • 4h ago
-
----
-
-**[Solana Will ‘Flip’ Ethereum, Predicts Skybridge Capital’s Scaramucci](https://www.tradingview.com/news/newsbtc:1dae68157094b:0-solana-will-flip-ethereum-predicts-skybridge-capital-s-scaramucci/)**
-
-Anthony Scaramucci showed up to Solana Breakpoint in Abu Dhabi wearing a tie — a small act of rebellion in a sea of hoodies — and then proceeded to make a much bigger one on stage: Solana is going to “flip” Ethereum.Scaramucci’s Solana PredictionNot in the Twitter-war, zero-sum, “ETH is dead” kind…
-
-TradingView • 13h ago
 
 ---
 
@@ -214,7 +214,7 @@ CCN.com • 4h ago
 
 Bitcoin (BTC) is trading above $92,000 at the time of writing on Friday, as volatility across the cryptocurrency market cools following the Federal Reserve’s (Fed) hawkish interest rate cut.
 
-FXStreet • 9h ago
+FXStreet • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 12K • 👍 610 • 💬 59 • ⏱️ 48:17 • 9h ago
+👁️ 12K • 👍 610 • 💬 59 • ⏱️ 48:17 • 10h ago
 
 ---
 
@@ -326,7 +326,7 @@ Full stream link: https://youtube.com/live/RU85HgstU0Y?feature=share all my link
 
 📺 Dollar Cost Crypto
 
-👁️ 34 • 👍 2 • ⏱️ 3:01 • 4h ago
+👁️ 34 • 👍 2 • ⏱️ 3:01 • 5h ago
 
 ---
 

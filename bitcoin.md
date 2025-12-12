@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T21:55:06.541791+00:00'
+updated: '2025-12-12T22:20:53.779675+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 21:55 UTC  
+**Last Updated:** December 12, 2025 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,250.00
+### $89,844.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** +0.8%  
-**30d:** -9.8%  
-**90d:** -22.0%  
-**1y:** -11.2%  
+**24h:** -2.3%  
+**7d:** +1.2%  
+**30d:** -9.5%  
+**90d:** -21.7%  
+**1y:** -10.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.88B
+**Market Cap:** $1801.32B
 Rank #1
 
-**Circulating Supply:** 19,961,278 BTC
+**Circulating Supply:** 19,961,296 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.4%
 
 **All-Time Low:** $67.81
-+132964.4%
++133119.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 C’mon Bitcoin, you can do it
 
-8h ago
+9h ago
 
 ---
 
 **[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -105,13 +105,13 @@ C’mon Bitcoin, you can do it
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -129,15 +129,17 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 ---
 
-**[What’s a good Bitcoin allocation percentage?](https://www.reddit.com/r/Bitcoin/comments/1pkze32/whats_a_good_bitcoin_allocation_percentage/)**
+**[Does anyone else feel like silently flipping tf out all the time because you've discovered the way to financial freedom and you're working on it but everyone around you is oblivious and thinks you're an idiot?](https://www.reddit.com/r/Bitcoin/comments/1pl3m9e/does_anyone_else_feel_like_silently_flipping_tf/)**
 
-I’m new to this. I’m thinking 10% of my total portfolio. What’s your percentage?
+I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-3h ago
+56m ago
 
 ---
 
-**[Bitcoin’s not volatile, it’s just dramatic.](https://www.reddit.com/r/Bitcoin/comments/1pkz5u5/bitcoins_not_volatile_its_just_dramatic/)**
+**[What’s a good Bitcoin allocation percentage?](https://www.reddit.com/r/Bitcoin/comments/1pkze32/whats_a_good_bitcoin_allocation_percentage/)**
+
+I’m new to this. I’m thinking 10% of my total portfolio. What’s your percentage?
 
 3h ago
 
@@ -147,9 +149,23 @@ I’m new to this. I’m thinking 10% of my total portfolio. What’s your perce
 
 ## Google News: "bitcoin"
 
+**[Bitcoin Drifts Lower With Any Push Higher Being Met by Fresh Sellers](https://www.bloomberg.com/news/articles/2025-12-12/bitcoin-drifts-lower-with-any-push-higher-being-met-by-fresh-sellers)**
+
+Bitcoin continues to drift toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October.
+
+Bloomberg.com • 4h ago
+
+---
+
 **[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
+
+---
+
+**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+
+x.com • 8h ago
 
 ---
 
@@ -161,41 +177,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
-x.com • 7h ago
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
----
-
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://finance.yahoo.com/news/bitcoin-dips-below-90-000-054156466.html)**
-
-"What we saw last night was even though risk assets ‌were doing well, crypto didn't really want to know about it," said Tony Sycamore, market analyst at IG in Sydney.  "As ⁠a result, we now think future Bitcoin price increases will effectively be ‌driven by one leg only – ETF buying."
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Price (BTC) News: Plunges Below $90K as AI Bubble Worries Weigh on Tech Stocks](https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down)**
-
-Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026.
-
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin just exposed a terrifying link to the AI bubble that guarantees it crashes first when tech breaks](https://cryptoslate.com/if-an-ai-bubble-pops-does-btc-bleed-or-benefit/)**
-
-Oracle's earnings miss and $80B market cap wipeout show how tightly Bitcoin now tracks AI-driven tech risk, but the policy response to a credit crunch could recreate the liquidity conditions.
-
-CryptoSlate • 11h ago
-
----
-
-**[Bitcoin Drifts Lower With Any Push Higher Being Met by Fresh Sellers](https://www.bloomberg.com/news/articles/2025-12-12/bitcoin-drifts-lower-with-any-push-higher-being-met-by-fresh-sellers)**
-
-Bitcoin continues to drift toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October.
-
-Bloomberg.com • 3h ago
+Forbes • 9h ago
 
 ---
 
@@ -211,7 +197,21 @@ Forbes • 11h ago
 
 Sigel explains the leverage-driven selloff and his view of the long-term bull case for crypto.
 
-Morningstar • 10h ago
+Morningstar • 11h ago
+
+---
+
+**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
+
+Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Cathie Wood's Ark Invest picks up $15.4 million in Robinhood shares and more of its own Bitcoin ETF](https://www.theblock.co/post/382324/cathie-wood-ark-invest-buys-robinhood-shares-own-bitcoin-etf)**
+
+The Block • 11h ago
 
 ---
 
@@ -291,7 +291,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 12h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 13h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -313,7 +313,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 1K • 💬 12 • ⏱️ 48:24 • 23h ago
+👁️ 22K • 👍 1K • 💬 12 • ⏱️ 48:24 • 1d ago
 
 ---
 
@@ -323,7 +323,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 193 • 💬 18 • ⏱️ 22:05 • 22h ago
+👁️ 5K • 👍 193 • 💬 18 • ⏱️ 22:05 • 23h ago
 
 ---
 
@@ -353,7 +353,7 @@ Stay informed with the latest insights on **bitcoin today**, focusing on effecti
 
 📺 Krown
 
-👁️ 5K • 👍 406 • 💬 145 • ⏱️ 1:29:53 • 3h ago
+👁️ 5K • 👍 406 • 💬 145 • ⏱️ 1:29:53 • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 178 • ⏱️ 18:22 • 21h ago
+👁️ 27K • 👍 2K • 💬 178 • ⏱️ 18:22 • 22h ago
 
 ---
 
