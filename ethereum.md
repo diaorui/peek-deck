@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T11:41:12.654791+00:00'
+updated: '2025-12-12T11:52:02.147905+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 11:41 UTC  
+**Last Updated:** December 12, 2025 at 11:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.1%  
-**7d:** +6.7%  
-**30d:** +0.0%  
+**7d:** +6.6%  
+**30d:** -0.0%  
 **90d:** -29.7%  
-**1y:** -17.1%  
+**1y:** -17.2%  
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1h ago
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -200,7 +200,7 @@ Decrypt • 1d ago
 
 Bitcoin (BTC) and Ethereum (ETH) are nearing the key resistance levels at the time of writing on Friday, and a successful breakout could open the door for a fresh rally. Meanwhile, Ripple (XRP) is stabilizing around a crucial support zone, hinting at a potential rebound if buyers maintain control.
 
-FXStreet • 7h ago
+FXStreet • 8h ago
 
 ---
 
@@ -306,7 +306,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 747 • 💬 117 • ⏱️ 15:03 • 5h ago
+👁️ 4K • 👍 747 • 💬 117 • ⏱️ 15:03 • 6h ago
 
 ---
 

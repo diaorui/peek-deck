@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T11:41:12.648620+00:00'
+updated: '2025-12-12T11:52:02.141996+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 11:41 UTC  
+**Last Updated:** December 12, 2025 at 11:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +3.1%  
-**30d:** -7.7%  
-**90d:** -20.2%  
-**1y:** -9.1%  
+**24h:** +2.3%  
+**7d:** +3.4%  
+**30d:** -7.5%  
+**90d:** -20.0%  
+**1y:** -8.8%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -127,7 +127,7 @@ Made a little edit on the pump it up song to include the current craziness going
 
 are we coming out of the worst of it? stock market is at highs, and even the AI stock are stubbornly up (with a few exceptions)… yet crypto is still struggling. have we bottomed, or is a bigger crypto dip coming?
 
-3h ago
+4h ago
 
 ---
 
@@ -175,7 +175,7 @@ Forbes • 1h ago
 
 **[Bitcoin, Crypto Stocks Are Under Pressure. Cathie Wood’s ARK Buys More Robinhood Shares.](https://www.barrons.com/articles/bitcoin-robinhood-cathie-wood-ark-crypto-xrp-46a8c473?gaa_at=eafs&gaa_n=AWEtsqdp2qM7biPNDWpx0kCYtcw30jlMYU52VlLsTw1zzgsziWwqVFxgOMyH&gaa_ts=693c02c4&gaa_sig=ar1kio-j-a_2iBoB2vFCzG8lmOgRfnhKttiQhHaqPVNwk-IiO_SqCuiiBCAU63exLaLKi4VVYBKOSf_eXyYFCQ%3D%3D)**
 
-Barron's • 7m ago
+Barron's • 18m ago
 
 ---
 
@@ -197,13 +197,13 @@ Bitcoin Magazine • 21h ago
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 22h ago
+Reuters • 23h ago
 
 ---
 
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 17h ago
 
 ---
 
@@ -331,7 +331,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 13K • 👍 982 • 💬 301 • ⏱️ 14:43 • 15h ago
+👁️ 13K • 👍 982 • 💬 301 • ⏱️ 14:43 • 16h ago
 
 ---
 
@@ -381,7 +381,7 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 133 • ⏱️ 15:31 • 21h ago
+👁️ 21K • 👍 1K • 💬 133 • ⏱️ 15:31 • 22h ago
 
 ---
 

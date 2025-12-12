@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T11:41:12.658148+00:00'
+updated: '2025-12-12T11:52:02.151144+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 11:41 UTC  
+**Last Updated:** December 12, 2025 at 11:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ Hi guys, I'm interested to know what you guys think. Opinionate away! I've been 
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1999106881114312756 Website: https://www.aheadform.com/
 
-28m ago
+38m ago
 
 ---
 
@@ -132,7 +132,7 @@ Business Wire • 1d ago
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
-Runway • 17h ago
+Runway • 18h ago
 
 ---
 
