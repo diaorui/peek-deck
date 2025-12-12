@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T14:28:38.337842+00:00'
+updated: '2025-12-12T14:43:50.881711+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 14:28 UTC  
+**Last Updated:** December 12, 2025 at 14:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,435.71
+### $92,215.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** +3.0%  
-**30d:** -7.8%  
-**90d:** -20.3%  
-**1y:** -9.2%  
+**24h:** +2.9%  
+**7d:** +3.5%  
+**30d:** -7.4%  
+**90d:** -19.9%  
+**1y:** -8.8%  
 
 ---
 
@@ -119,7 +119,7 @@ PNC Bank just started selling Bitcoin to their clients. Not through some sketchy
 
 Exactly 15 years ago, on December 12, 2010, Satoshi Nakamoto made his last public appearance. It was a short, technical comment on BitcoinTalk about potential risks to the network. After that, he disappeared completely. No farewell, no explanations, no confirmed activity under any other identity. And maybe that was the point. Bitcoin was left without a leader, without a face, without a center of control. Code instead of authority. Consensus instead of trust. Fifteen years later, the network still runs. And Satoshi was never needed again
 
-28m ago
+43m ago
 
 ---
 
@@ -127,13 +127,13 @@ Exactly 15 years ago, on December 12, 2010, Satoshi Nakamoto made his last publi
 
 Trinidad and Tobago amends the original two‑year blanket ban on crypto. The strict ban has been significantly softened: the bill has passed with 200+
 
-🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 59m ago
+🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 1h ago
 
 ---
 
 **[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -153,7 +153,7 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 Bitcoin veered back toward the lower portion of its recent trading range amid lingering concern about demand for risky assets.
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 1d ago
 
 **[Cathie Wood's Ark Invest picks up $15.4 million in Robinhood shares and more of its own Bitcoin ETF](https://www.theblock.co/post/382324/cathie-wood-ark-invest-buys-robinhood-shares-own-bitcoin-etf)**
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Block • 3h ago
 
 Bitcoin gains from fading macro headwinds, rising institutional adoption, liquidity trends and ETF flows shaping structural price floors. See why BTC-USD is a buy.
 
-Seeking Alpha • 58m ago
+Seeking Alpha • 1h ago
 
 ---
 

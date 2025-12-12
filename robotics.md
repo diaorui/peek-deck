@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T14:28:38.347187+00:00'
+updated: '2025-12-12T14:43:50.890899+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 14:28 UTC  
+**Last Updated:** December 12, 2025 at 14:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-16h ago
+17h ago
 
 ---
 
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
-16m ago
+32m ago
 
 ---
 
@@ -70,7 +70,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
-2m ago
+17m ago
 
 ---
 
@@ -128,7 +128,7 @@ Business Wire • 2d ago
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
-Runway • 20h ago
+Runway • 21h ago
 
 ---
 

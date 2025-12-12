@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T14:28:38.343937+00:00'
+updated: '2025-12-12T14:43:50.887694+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 14:28 UTC  
+**Last Updated:** December 12, 2025 at 14:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +6.2%  
-**30d:** -0.4%  
-**90d:** -30.0%  
-**1y:** -17.5%  
+**24h:** +1.6%  
+**7d:** +6.4%  
+**30d:** -0.2%  
+**90d:** -29.8%  
+**1y:** -17.3%  
 
 ---
 
@@ -224,7 +224,7 @@ Yahoo Finance • 2d ago
 
 **[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -318,7 +318,7 @@ Crypto - Delta exchange India - https://www.delta.exchange/?code=Karol FOREX- EX
 
 📺 ALPHA TRADES
 
-👁️ 20K • 👍 687 • 4h ago
+👁️ 20K • 👍 687 • 5h ago
 
 ---
 
