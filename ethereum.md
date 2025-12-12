@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T22:40:46.828478+00:00'
+updated: '2025-12-12T22:52:29.012377+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 22:40 UTC  
+**Last Updated:** December 12, 2025 at 22:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.4%  
+**24h:** -4.3%  
 **7d:** +1.9%  
-**30d:** -4.5%  
-**90d:** -32.9%  
-**1y:** -20.9%  
+**30d:** -4.4%  
+**90d:** -32.8%  
+**1y:** -20.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.34B
+**Market Cap:** $373.16B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.5%
 
 **All-Time Low:** $0.43
-+713378.0%
++713405.7%
 
 ---
 
@@ -158,17 +158,17 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
 
-Binance • 19h ago
+Sentiment around Ethereum has been bouncing around considerably in recent days.
+
+Yahoo Finance • 4h ago
 
 ---
 
-**[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://finance.yahoo.com/news/tom-lee-claims-p-500-115052298.html)**
+**[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
-Tom Lee expects the S&P 500 to reach 7,700 by 2026. Lee argues Ethereum is “grossly undervalued” at current levels. The bullish analyst claimed Bitcoin ...
-
-Yahoo Finance • 10h ago
+Binance • 19h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 10h ago
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -196,17 +196,9 @@ TradingView • 1d ago
 
 ---
 
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://www.fool.com/investing/2025/12/12/why-ethereum-sank-5-today-while-the-crypto-market/)**
-
-Sentiment around Ethereum has been bouncing around considerably in recent days.
-
-The Motley Fool • 4h ago
-
----
-
 **[BitMine’s 5% Ethereum Accumulation Bet: Supply Shock and Market Implications](https://www.ccn.com/education/crypto/bitmine-5-ethereum-accumulation-supply-shock-market-implications/)**
 
-CCN.com • 4h ago
+CCN.com • 5h ago
 
 ---
 
@@ -223,6 +215,14 @@ FXStreet • 10h ago
 BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
 
 CryptoSlate • 1d ago
+
+---
+
+**[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://finance.yahoo.com/news/tom-lee-claims-p-500-115052298.html)**
+
+Tom Lee expects the S&P 500 to reach 7,700 by 2026. Lee argues Ethereum is “grossly undervalued” at current levels. The bullish analyst claimed Bitcoin ...
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -266,7 +266,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 210 • 👍 18 • 💬 13 • ⏱️ 8:14 • 4h ago
+👁️ 210 • 👍 18 • 💬 13 • ⏱️ 8:14 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ The "Opening Bell" has finally rung on the legacy banking system. With 21 Capita
 
 📺 Crypto Noble
 
-👁️ 2K • 👍 101 • 💬 9 • ⏱️ 39:43 • 8h ago
+👁️ 2K • 👍 101 • 💬 9 • ⏱️ 39:43 • 9h ago
 
 ---
 
@@ -316,7 +316,7 @@ How $BMNR Uses Staking Yield Like "Insurance Float" BMNR = “The ETH Berkshire 
 
 📺 Wall Street Stockcast
 
-👁️ 453 • 👍 24 • 💬 1 • ⏱️ 9:10 • 7h ago
+👁️ 453 • 👍 24 • 💬 1 • ⏱️ 9:10 • 8h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T22:40:46.822400+00:00'
+updated: '2025-12-12T22:52:29.006355+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 22:40 UTC  
+**Last Updated:** December 12, 2025 at 22:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** +1.1%  
-**30d:** -9.5%  
-**90d:** -21.7%  
-**1y:** -10.8%  
+**24h:** -2.6%  
+**7d:** +0.9%  
+**30d:** -9.7%  
+**90d:** -21.9%  
+**1y:** -11.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1801.32B
+**Market Cap:** $1802.34B
 Rank #1
 
 **Circulating Supply:** 19,961,296 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.4%
 
 **All-Time Low:** $67.81
-+133119.3%
++133045.6%
 
 ---
 
@@ -99,7 +99,7 @@ C’mon Bitcoin, you can do it
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -115,17 +115,9 @@ C’mon Bitcoin, you can do it
 
 ---
 
-**[BTC Is Running Without Leverage](https://www.reddit.com/r/Bitcoin/comments/1pkwo64/btc_is_running_without_leverage/)**
+**[💪](https://www.reddit.com/r/Bitcoin/comments/1pl4afq/_/)**
 
-Bitcoin’s Open Interest has dropped sharply since October, and that’s the most important part of the current market structure. Low OI means the market is running with very little leverage, so the recent price move isn’t coming from futures traders it’s mostly spot demand. At the same time, a huge amount of BTC is still locked in long-term hands (corporate treasuries, miners, and illiquid wallets). So supply pressure is low, but momentum is also weak because fewer traders are participating. Low OI means cleaner, healthier price action, But low OI also means less support if demand slows. So direction will depend on spot buyers, not leverage It’s a neutral setup, stable, but waiting for a catalyst.If OI starts rising again, that’s usually when stronger trends begin. Note : Bitcoin’s Open Interest has been falling over the past few weeks, but the interesting part is that BTC is slowly moving up at the same time. This tells us that the price is rising without heavy leverage, Futures traders are stepping back and Spot buyers or long-term demand are doing most of the work. BTC is rising, but not because of leveraged longs, it’s rising because actual buyers are still active.
-
-5h ago
-
----
-
-**[Here we go again.](https://www.reddit.com/r/Bitcoin/comments/1pkw7mc/here_we_go_again/)**
-
-6h ago
+59m ago
 
 ---
 
@@ -137,11 +129,17 @@ I've been quietly stacking bitcoin for almost four years now and it blows my min
 
 ---
 
-**[What’s a good Bitcoin allocation percentage?](https://www.reddit.com/r/Bitcoin/comments/1pkze32/whats_a_good_bitcoin_allocation_percentage/)**
+**[BTC Is Running Without Leverage](https://www.reddit.com/r/Bitcoin/comments/1pkwo64/btc_is_running_without_leverage/)**
 
-I’m new to this. I’m thinking 10% of my total portfolio. What’s your percentage?
+Bitcoin’s Open Interest has dropped sharply since October, and that’s the most important part of the current market structure. Low OI means the market is running with very little leverage, so the recent price move isn’t coming from futures traders it’s mostly spot demand. At the same time, a huge amount of BTC is still locked in long-term hands (corporate treasuries, miners, and illiquid wallets). So supply pressure is low, but momentum is also weak because fewer traders are participating. Low OI means cleaner, healthier price action, But low OI also means less support if demand slows. So direction will depend on spot buyers, not leverage It’s a neutral setup, stable, but waiting for a catalyst.If OI starts rising again, that’s usually when stronger trends begin. Note : Bitcoin’s Open Interest has been falling over the past few weeks, but the interesting part is that BTC is slowly moving up at the same time. This tells us that the price is rising without heavy leverage, Futures traders are stepping back and Spot buyers or long-term demand are doing most of the work. BTC is rising, but not because of leveraged longs, it’s rising because actual buyers are still active.
 
-4h ago
+6h ago
+
+---
+
+**[Here we go again.](https://www.reddit.com/r/Bitcoin/comments/1pkw7mc/here_we_go_again/)**
+
+6h ago
 
 ---
 
@@ -149,23 +147,31 @@ I’m new to this. I’m thinking 10% of my total portfolio. What’s your perce
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Drifts Lower With Any Push Higher Being Met by Fresh Sellers](https://www.bloomberg.com/news/articles/2025-12-12/bitcoin-drifts-lower-with-any-push-higher-being-met-by-fresh-sellers)**
+**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
 
-Bitcoin continues to drift toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October.
+Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
+
+Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://finance.yahoo.com/news/vanguard-exec-calls-bitcoin-digital-215932676.html)**
+
+Yahoo Finance • 52m ago
 
 ---
 
 **[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
 Investor's Business Daily • 6h ago
-
----
-
-**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
-
-x.com • 8h ago
 
 ---
 
@@ -177,11 +183,15 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+**[MicroStrategy sends sharp warning letter to MSCI](https://www.thestreet.com/crypto/markets/microstrategy-sends-sharp-warning-letter-to-msci)**
 
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+TheStreet • 2d ago
 
-Forbes • 9h ago
+---
+
+**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+
+x.com • 8h ago
 
 ---
 
@@ -193,33 +203,19 @@ Forbes • 12h ago
 
 ---
 
-**[What’s Next for Bitcoin? VanEck’s Sigel on the Crypto Plunge and Outlook](https://www.morningstar.com/alternative-investments/whats-next-bitcoin-vanecks-sigel-crypto-plunge-outlook)**
+**[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
 
-Sigel explains the leverage-driven selloff and his view of the long-term bull case for crypto.
+Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-Morningstar • 11h ago
-
----
-
-**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
-
-Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
-
-Yahoo Finance • 2d ago
+BBC • 1d ago
 
 ---
 
-**[Cathie Wood's Ark Invest picks up $15.4 million in Robinhood shares and more of its own Bitcoin ETF](https://www.theblock.co/post/382324/cathie-wood-ark-invest-buys-robinhood-shares-own-bitcoin-etf)**
+**[Crypto Markets Today: Bitcoin Treads Water After Fed Cut as Altcoin Slump Deepens](https://www.coindesk.com/markets/2025/12/12/crypto-markets-today-bitcoin-stuck-in-post-fed-range-as-altcoins-continue-to-lag)**
 
-The Block • 12h ago
+Bitcoin remains trapped in a range despite the U.S. rate cut, while altcoins and memecoins struggle to attract risk appetite amid shifting investor behavior.
 
----
-
-**[Ark Invest’s Cathie Wood: Bitcoin’s Four-Year Cycle Will Be ‘Disrupted’](https://decrypt.co/351790/ark-invests-cathie-wood-bitcoins-four-year-cycle-will-be-disrupted)**
-
-The Ark Invest CEO believes that Bitcoin has now switched to being ‘a risk-on asset,’ in contrast to gold.
-
-Decrypt • 2d ago
+CoinDesk • 11h ago
 
 ---
 
@@ -393,7 +389,7 @@ Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
 
 📺 100XClub
 
-👁️ 7K • 👍 709 • 💬 189 • ⏱️ 7:18 • 13h ago
+👁️ 7K • 👍 709 • 💬 189 • ⏱️ 7:18 • 14h ago
 
 ---
 

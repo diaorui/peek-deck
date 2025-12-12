@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T22:40:46.813941+00:00'
+updated: '2025-12-12T22:52:28.997782+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 22:40 UTC  
+**Last Updated:** December 12, 2025 at 22:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 5h ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 6h ago
 
 ---
 
@@ -77,6 +77,20 @@ Everyone is reading the December 11 Executive Order as a "deregulation holiday."
 
 ---
 
+**[Creative workers won't be replaced by AI, they will become 'directors' managing AI agents | Fortune](https://www.reddit.com/r/artificial/comments/1pl4u1n/creative_workers_wont_be_replaced_by_ai_they_will/)**
+
+AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
+
+🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 36m ago
+
+---
+
+**[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
+
+🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 41m ago
+
+---
+
 **[Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws](https://www.reddit.com/r/artificial/comments/1pkegoe/trump_signs_executive_order_that_threatens_to/)**
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
@@ -85,31 +99,17 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 ---
 
-**[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
+**[None of the IT Service provider validating SOW(Statement of Work) using AI](https://www.reddit.com/r/artificial/comments/1pl5dum/none_of_the_it_service_provider_validating/)**
 
-🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 29m ago
+All the IT Service companies braying "AI first", but the moment, it comes to SOW, they are not using AI to validate feasibility, check estimates, violation of labor laws, etc. Once SOW is signed, IT Service companies hiring few contractors on hire and fire basis to deliver the project, they are forcing those contractors work 15x7 citing SOW contract(no delivery, no payment), when the project is failing, all blames are put on those contractors. The cost of project failure, legal costs could have been completely avoided by simply validating SOW and amending the SOW. Are these IT Service companies hypocrites to bray "AI First" but not ready to validate SOW with AI?
+
+12m ago
 
 ---
 
 **[The Ouroboros at the Heart of Artificial Intelligence](https://www.reddit.com/r/artificial/comments/1pkznif/the_ouroboros_at_the_heart_of_artificial/)**
 
-🔗 [substack.com](https://substack.com/inbox/post/181416869) • 3h ago
-
----
-
-**[Creative workers won't be replaced by AI, they will become 'directors' managing AI agents | Fortune](https://www.reddit.com/r/artificial/comments/1pl4u1n/creative_workers_wont_be_replaced_by_ai_they_will/)**
-
-AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
-
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 24m ago
-
----
-
-**[Something Ominous Is Happening in the AI Economy](https://www.reddit.com/r/artificial/comments/1pk6avk/something_ominous_is_happening_in_the_ai_economy/)**
-
-The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
-
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 1d ago
+🔗 [substack.com](https://substack.com/inbox/post/181416869) • 4h ago
 
 ---
 
@@ -133,31 +133,19 @@ The Washington Post • 3h ago
 
 **[AI reshapes the venture unicorn landscape](https://www.axios.com/pro/all-deals/2025/12/12/ai-boosts-us-vc-dominance)**
 
-Axios • 1h ago
+Axios • 43m ago
 
 ---
 
-**[Dem lawmakers cry foul as Hochul guts AI safety bill amid Big Tech pressure](https://www.foxnews.com/politics/dem-state-lawmakers-blame-big-tech-pressure-after-ny-gov-hochul-severely-scales-back-ai-safety-legislation)**
+**[Broadcom Follows Oracle in Disappointing AI-Focused Investors | Bloomberg Tech 12/12/2025](https://www.bloomberg.com/news/videos/2025-12-12/bloomberg-tech-12-12-2025-video)**
 
-New York Dems Alex Bores and Andrew Gounardes say New York Gov. Kathy Hochul gutted their AI safety bill, citing pressure from industry leaders who Bores says have targeted him.
-
-Fox News • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Google Researchers Find the Best AI Model Is 69% Right](https://www.businessinsider.com/google-researchers-find-best-ai-model-69-right-2025-12)**
+**[Fresh Concerns About AI Spending Are Rattling Wall Street](https://www.wsj.com/finance/stocks/ai-fed-interest-rate-stock-market-749e18e2?gaa_at=eafs&gaa_n=AWEtsqeWXTJte-W32Hsql3dJFwFibqF_UFf1DbZlG3W9tZE3E-SAmryrA0Hr&gaa_ts=693ca018&gaa_sig=oqxotBN6fbqKSB-AL4SYR153X7EM1uOuenAzlHOwHd3EQNh9JiXOUighASiRhLvBV9u0C_zdWlwFzPRQ1TtY2g%3D%3D)**
 
-Here's what this means for law firms and other businesses that are betting on AI.
-
-Business Insider • 1h ago
-
----
-
-**[AI-led tech slide extends into third day as Oracle, Broadcom fall](https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html)**
-
-AI-related names have made losses since Oracle's mixed results on Wednesday.
-
-CNBC • 13h ago
+The Wall Street Journal • 25m ago
 
 ---
 
@@ -175,17 +163,25 @@ Politico • 11h ago
 
 ---
 
-**[Oracle’s $300 Billion AI Bet Has Fast Become a Bubble Barometer](https://www.bloomberg.com/news/features/2025-12-12/oracle-s-300-billion-openai-deal-has-investors-worried-about-its-ai-spending)**
-
-Bloomberg.com • 6h ago
-
----
-
 **[Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o)**
 
 The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
 
 BBC • 4h ago
+
+---
+
+**[Can OpenAI Respond After Google Closes the A.I. Technology Gap?](https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Most people aren’t fretting about an AI bubble. What they fear is mass layoffs | Steven Greenhouse](https://www.theguardian.com/commentisfree/2025/dec/12/ai-bubble-mass-layoffs-income-inequality)**
+
+Artificial intelligence could make income inequality even worse and create a new underclass. Governments and society must take action
+
+The Guardian • 7h ago
 
 ---
 
@@ -197,7 +193,7 @@ BBC • 4h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 463 • 💬 272 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 466 • 💬 273 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -213,7 +209,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 322 • 💬 2 • 1d ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 323 • 💬 2 • 1d ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -229,7 +225,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 146 • 💬 95 • 14h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 149 • 💬 97 • 15h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -241,6 +237,14 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 ---
 
+**[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://news.ycombinator.com/item?id=46248644)**
+
+Update your apps to use new features, and test your apps against API changes.
+
+⬆️ 118 • 💬 44 • 2h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+
+---
+
 **[A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://news.ycombinator.com/item?id=46233067)**
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
@@ -249,19 +253,11 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 ---
 
-**[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://news.ycombinator.com/item?id=46248644)**
-
-Update your apps to use new features, and test your apps against API changes.
-
-⬆️ 90 • 💬 21 • 1h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
-
----
-
 **[Secondary school maths showing that AI systems don't think](https://news.ycombinator.com/item?id=46245731)**
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 70 • 💬 148 • 6h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 78 • 💬 166 • 6h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -425,7 +421,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 291 • 13h ago
+⬇️ 10,352 • ❤️ 292 • 13h ago
 
 ---
 
@@ -437,7 +433,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,519 • ❤️ 280 • 3d ago
+⬇️ 2,519 • ❤️ 281 • 3d ago
 
 ---
 
@@ -449,7 +445,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 23,012 • ❤️ 249 • 3d ago
+⬇️ 23,012 • ❤️ 250 • 3d ago
 
 ---
 
@@ -485,7 +481,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 50,491 • ❤️ 900 • 11d ago
+⬇️ 50,491 • ❤️ 901 • 11d ago
 
 ---
 
@@ -699,7 +695,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 15h ago
+⭐ 1.1k • 🔱 134 • 16h ago
 
 ---
 
