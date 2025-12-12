@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T17:35:13.618185+00:00'
+updated: '2025-12-12T17:49:59.117339+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 17:35 UTC  
+**Last Updated:** December 12, 2025 at 17:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** +0.9%  
-**30d:** -5.4%  
-**90d:** -33.5%  
-**1y:** -21.6%  
+**24h:** -3.5%  
+**7d:** +1.4%  
+**30d:** -4.9%  
+**90d:** -33.1%  
+**1y:** -21.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $370.91B
+**Market Cap:** $370.82B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.6%
+-37.8%
 
 **All-Time Low:** $0.43
-+713144.8%
++710437.9%
 
 ---
 
@@ -174,6 +174,14 @@ CoinDesk • 2h ago
 
 ---
 
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://www.fool.com/investing/2025/12/12/why-ethereum-sank-5-today-while-the-crypto-market/)**
+
+Sentiment around Ethereum has been bouncing around considerably in recent days.
+
+The Motley Fool • 4m ago
+
+---
+
 **[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://decrypt.co/351847/bitcoin-ethereum-federal-reserve-cuts-rates)**
 
 The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
@@ -182,25 +190,23 @@ Decrypt • 1d ago
 
 ---
 
-**[Should You Buy Ethereum While It's Under $5,000?](https://finance.yahoo.com/news/buy-ethereum-while-under-5-115000941.html)**
+**[Solana Will ‘Flip’ Ethereum, Predicts Skybridge Capital’s Scaramucci](https://www.tradingview.com/news/newsbtc:1dae68157094b:0-solana-will-flip-ethereum-predicts-skybridge-capital-s-scaramucci/)**
 
-After an unexpected pullback, could Ethereum be ready to skyrocket in value?
+Anthony Scaramucci showed up to Solana Breakpoint in Abu Dhabi wearing a tie — a small act of rebellion in a sea of hoodies — and then proceeded to make a much bigger one on stage: Solana is going to “flip” Ethereum.Scaramucci’s Solana PredictionNot in the Twitter-war, zero-sum, “ETH is dead” kind…
 
-Yahoo Finance • 5h ago
+TradingView • 9h ago
 
 ---
 
 **[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
-**[Here's Why Ethereum Soared More than 6% Today, Breaking $3,300 for the First Time In Nearly a Month](https://www.nasdaq.com/articles/heres-why-ethereum-soared-more-6-today-breaking-3300-first-time-nearly-month)**
+**[Should you buy Ethereum while it's under $5,000?](https://www.msn.com/en-us/money/markets/should-you-buy-ethereum-while-it-s-under-5-000/ar-AA1SdEi3?ocid=finance-verthp-feeds)**
 
-Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
-
-Nasdaq • 2d ago
+MSN • 5h ago
 
 ---
 
@@ -212,17 +218,9 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqe7LLUUH21gxgKjIXPctC3RJVKnkFs-ETjJ6QT_4XXlCwBoZ5u9Drtc&gaa_ts=693c5045&gaa_sig=NO0kvlkiMBlzcP7cszuKB6xgGIOr0SullXSW6QVnL1S0-KczBp8ttowRPgcCN8oKvvGjLPeNu25HpfTqFYUJzw%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdqkH4HomM5mpJ6sew-brJ0370z3kZ8guZaLW0z8xfFXQYVoQ_DCCki&gaa_ts=693c5934&gaa_sig=sy_83Qaq3pF3Md5XR8_ENnEWg2OHJht0bxCXraIHURI0w7rk0_cVcOVTUROAIDfoli5GBFRr3RrXqrExhAh0tQ%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
-
-Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
-
-CoinDesk • 12h ago
 
 ---
 

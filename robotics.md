@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T17:35:13.621443+00:00'
+updated: '2025-12-12T17:49:59.120561+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 17:35 UTC  
+**Last Updated:** December 12, 2025 at 17:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,11 +66,19 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 ---
 
+**[RL meeting classical algorithms](https://www.reddit.com/r/robotics/comments/1pkxvhs/rl_meeting_classical_algorithms/)**
+
+Hi guys, I want to know what you guys think where we can use RL to actually fill the gaps for classical algorithms.. I really really think this can be a good to overcoming adaptation of tuning used for visual odometry pipeline( Davide's published a paper on this)..but still it would need a sim to make it learn..and then there will be sim to real transfer...am thinking is there a way to just use datasets and go ahead with it.. Am trying to find the relevant problems in visual odometry..
+
+17m ago
+
+---
+
 **[Visual odom understanding](https://www.reddit.com/r/robotics/comments/1pkx7ly/visual_odom_understanding/)**
 
 Hi everyone, Am working on a monocular VIO frontend, and I shall really appreciate feedback on whether our current triangulation approach is geometrically sound compared to more common SLAM pipelines (e.g., ORB-SLAM, SVO, DSO, VINS-Mono). Current approach used in our system We maintain a keyframe (KF), and for each incoming frame we do the following: 1. Track features from KF → Prev → Current. 2. For features that are visible in all three (KF, Prev, Current): We triangulate their depth using only KF and Prev. This triangulated depth is used as a measurement for a depth filter (inverse-depth / Gaussian filter). 3. After updating depth, we express the feature in the KF coordinate frame. 4. We then run PnP between: A. 3D points in the KF frame, and B. 2D observations in the Current frame. This gives us the pose of the Current frame wrt keyframe They use wheel odom and GTSAM backend to add every odom factor between keyframe and current frame and frontend frame factor between keyframe and current and then run optimization This means: triangulation is repeated every frame always between KF ↔ Prev, not KF ↔ Current depth filter is fed many measurements from almost the same two viewpoints, especially right after KF creation This seems to produce very sparse and scattered points. Questions 1. Is repeatedly triangulating between KF and the immediate previous frame (even when baseline/parallax is very small) considered a valid approach in monocular VO/VIO? Or is it fundamentally ill-conditioned, even if we use depth filters in this case? From what I understand, ORB-SLAM (monocular): Triangulates only between keyframes, not per-frame.. Which gives it a good parallex to triangulate the feature.. Should I use this?
 
-28m ago
+43m ago
 
 ---
 
@@ -78,7 +86,7 @@ Hi everyone, Am working on a monocular VIO frontend, and I shall really apprecia
 
 Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
 
-45m ago
+1h ago
 
 ---
 
@@ -98,31 +106,9 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 ---
 
-**[My inverse kinematics are flawless and everything is going according to plan](https://www.reddit.com/r/robotics/comments/1pjka0v/my_inverse_kinematics_are_flawless_and_everything/)**
-
-I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
-
-Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
-
-IEEE Spectrum • 2d ago
-
----
-
-**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
-
-Business Wire • 2d ago
-
----
 
 **[Zebra Technologies winding down Fetch-based mobile robot group](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/)**
 
@@ -132,9 +118,17 @@ The Robot Report • 3h ago
 
 ---
 
+**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
+
+Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
+
+IEEE Spectrum • 2d ago
+
+---
+
 **[Bay Area Robotics Association Launches to Connect Capital and Industry Between Silicon Valley and the World](https://www.businesswire.com/news/home/20251212588764/en/Bay-Area-Robotics-Association-Launches-to-Connect-Capital-and-Industry-Between-Silicon-Valley-and-the-World)**
 
-Business Wire • 35m ago
+Business Wire • 49m ago
 
 ---
 
@@ -142,7 +136,7 @@ Business Wire • 35m ago
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
-Runway • 23h ago
+Runway • 1d ago
 
 ---
 
@@ -154,17 +148,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[1X struck a deal to send its ‘home’ humanoids to factories and warehouses](https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/)**
+**[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
 
-Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.
+Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
 
-TechCrunch • 19h ago
+NVIDIA Developer • 1d ago
 
 ---
 
-**[EQT Cuts Deal For 10,000 Humanoids From Robot Startup It Backs](https://www.bloomberg.com/news/articles/2025-12-11/eqt-to-send-10-000-humanoid-robots-from-startup-1x-to-portfolio-companies)**
+**[Analysts Warn of Cybersecurity Risks in Humanoid Robots](https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots)**
 
-Bloomberg.com • 1d ago
+Dark Reading • 3d ago
 
 ---
 
@@ -181,6 +175,14 @@ Deloitte • 2d ago
 Data from automated Reliable Robotics Caravan tests to inform national standards work.
 
 AVweb • 2d ago
+
+---
+
+**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
+
+Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
+
+Shore Daily News • 1d ago
 
 ---
 

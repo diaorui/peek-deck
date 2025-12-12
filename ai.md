@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T17:35:13.603600+00:00'
+updated: '2025-12-12T17:49:59.103078+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- news
 - social
 - videos
-- news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 17:35 UTC  
+**Last Updated:** December 12, 2025 at 17:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,11 +53,19 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 ---
 
+**[Professors are turning to this old-school method to stop AI use on exams: A growing number of educators are finding that oral exams allow them to test their students’ learning without the benefit of AI platforms such as ChatGPT.](https://www.reddit.com/r/artificial/comments/1pkwtpo/professors_are_turning_to_this_oldschool_method/)**
+
+Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
+
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 58m ago
+
+---
+
 **[Trump’s new AI order isn't a fix; it’s a compliance trap for vendors.](https://www.reddit.com/r/artificial/comments/1pkqvts/trumps_new_ai_order_isnt_a_fix_its_a_compliance/)**
 
 Everyone is reading the December 11 Executive Order as a "deregulation holiday." I think that's dead wrong. It’s actually a litigation trigger. By trying to preempt state AI laws with an EO, the administration isn't clearing the board—they are picking a fight with 38 state legislatures and a Senate that already voted 99-1 against this exact approach. The trap: If you're a vendor, you might be tempted to delete your state-level compliance code today. Don't. We just moved from a patchwork of laws to a constitutional crisis. When the lawsuits stall this EO, you don't want to be the one caught naked on liability. The only safe bet right now? Architect for the EU AI Act. It's the only stable floor left. I wrote a deep dive on why this is a "volatility event" rather than deregulation. https://www.linkedin.com/pulse/50-states-rules-hidden-tax-every-ai-deployment-collin-hogue-spears-eptie
 
-4h ago
+5h ago
 
 ---
 
@@ -77,22 +85,6 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 ---
 
-**[Professors are turning to this old-school method to stop AI use on exams: A growing number of educators are finding that oral exams allow them to test their students’ learning without the benefit of AI platforms such as ChatGPT.](https://www.reddit.com/r/artificial/comments/1pkwtpo/professors_are_turning_to_this_oldschool_method/)**
-
-Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.”
-
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 43m ago
-
----
-
-**[Hochul Caves to Big Tech on AI Safety Bill | A bill that passed the New York legislature was completely gutted and substituted with language perceived as friendlier to the industry.](https://www.reddit.com/r/artificial/comments/1pkvyol/hochul_caves_to_big_tech_on_ai_safety_bill_a_bill/)**
-
-A bill that passed the New York legislature was completely gutted and substituted with language perceived as friendlier to the industry.
-
-🔗 [The American Prospect](https://prospect.org/2025/12/11/hochul-caves-big-tech-ai-safety-bill-new-york/) • 1h ago
-
----
-
 **[Need your valuable suggestions](https://www.reddit.com/r/artificial/comments/1pkvn8c/need_your_valuable_suggestions/)**
 
 Hey guys, I(M18) am completely new to content creation. I always wanted to be a content creator but was hesitant to start. Finally I started my journey by making an Insta reel. Now obviously I am feeling like it's the best reel in the world as I put so much effort into it (😅🥲). But I want you guys' genuine suggestions on what can I improve more. Thank You 🥰😉
@@ -101,11 +93,11 @@ Hey guys, I(M18) am completely new to content creation. I always wanted to be a 
 
 ---
 
-**[You’re Thinking About AI and Water All Wrong](https://www.reddit.com/r/artificial/comments/1pkx7m8/youre_thinking_about_ai_and_water_all_wrong/)**
+**[Is It a Bubble?, Has the cost of software just dropped 90 percent? and many other AI links from Hacker News](https://www.reddit.com/r/artificial/comments/1pky3ka/is_it_a_bubble_has_the_cost_of_software_just/)**
 
-Fears about AI data centers’ water use have exploded. Experts say the reality is far more complicated than people think.
+Hey everyone, here is the 11th issue of Hacker News x AI newsletter, a newsletter I started 11 weeks ago as an experiment to see if there is an audience for such content. This is a weekly AI related links from Hacker News and the discussions around them. See below some of the links included: Is It a Bubble? - Marks questions whether AI enthusiasm is a bubble, urging caution amid real transformative potential. Link If You’re Going to Vibe Code, Why Not Do It in C? - An exploration of intuition-driven “vibe” coding and how AI is reshaping modern development culture. Link Has the cost of software just dropped 90 percent? - Argues that AI coding agents may drastically reduce software development costs. Link AI should only run as fast as we can catch up - Discussion on pacing AI progress so humans and systems can keep up. Link If you want to subscribe to this newsletter, you can do it here: https://hackernewsai.com/
 
-🔗 [WIRED](https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/) • 28m ago
+8m ago
 
 ---
 
@@ -113,7 +105,15 @@ Fears about AI data centers’ water use have exploded. Experts say the reality 
 
 12/11 OpenAI releases ChatGPT 5.2: The release came amid increasing competition from Google and was pitched as designed for developers and everyday professional use. 12/11 ChatGPT’s ‘adult mode’ is expected to debut in Q1 2026: The company wants to get better at age prediction before introducing the new feature. 12/11 Disney signs deal with OpenAI to allow Sora to generate AI videos featuring its characters: The three-year partnership with OpenAI will bring its iconic characters to the company’s Sora AI video generator. The company is also making a $1 billion equity investment in OpenAI. There was a leak the same day that Disney hit Google with a cease-and-desist claiming ‘massive’ copyright infringement. 12/11 TIME names ‘Architects of AI’ its Person of the Year: Some of those people appear to be Nvidia’s Jensen Huang, Tesla’s Elon Musk, OpenAI’s Sam Altman, Meta’s Mark Zuckerberg, AMD’s Lisa Su, Anthropic’s Dario Amodei, Google DeepMind’s Demis Hassabis, and World Labs’ Fei-Fei Li. 12/11 Runway releases its first world model: Dubbed GWM-1, the model works through frame-by-frame prediction, creating a simulation with an understanding of physics and how the world actually behaves over time. 12/10 Adobe Photoshop comes to ChatGPT: The partnership will reportedly let users harness the natural language processing power of ChatGPT to do the photoshopping for them, like fine tuning details, blurring backgrounds, and applying custom effects. 12/10 OpenAI report reveals a 6x productivity gap between AI power users and everyone else: According to a new report from OpenAI analyzing usage patterns across its more than one million business customers, workers at the 95th percentile of AI adoption are sending six times as many messages to ChatGPT as the median employee at the same companies. 12/9 EU launches antitrust probe into Google’s AI search tools: The European Commission has launched an investigation into whether Google may have breached EU’s competition laws by using content from websites without compensating owners to generate answers for its AI summaries that appear above search results. 12/9 Amazon’s Ring rolls out controversial, AI-powered facial-recognition feature to video doorbells: The feature lets users identify the people who regularly come to their door by creating a catalog of up to 50 faces. 12/9 Mistral launches Devstral 2 models: The release includes a new pair of models optimized for software engineering tasks, with one small enough to run on a single laptop, offline and privately—as well as Mistral Vibe, a CLI agent designed to allow developers to call the models up directly within their terminal environments. 12/9 McDonald’s pulls AI-generated holiday ad after deluge of mockery: McDonald’s decided to get in on the corporate slopfest with a 45-second Christmas spot cooked up for its Netherlands division by the ad agency TBWA\Neboko. The ad was removed in infamy but it can viewed it here. 12/9 OpenAI announces ‘AI Foundations’: It will be a certification course designed to standardize how employees learn and apply AI. The company intends to certify 10 million Americans by 2030. 12/8 Trump greenlights Nvidia H200 AI chip sales to China: 25% of the chip sales will be paid to the U.S. government as part of the deal. 12/8 Users can buy Instacart groceries without leaving ChatGPT: OpenAI and Instacart are launching a grocery shopping experience inside of ChatGPT, allowing customers to brainstorm meal ideas, make a grocery list, and check out, all without leaving the chat interface. 12/5 Claude Code is coming to Slack: Previously, developers could only get lightweight coding help via Claude in Slack—like writing snippets, debugging, and explanations. Now users can tag u/Claude to spin up a complete coding session using Slack context like bug reports or feature requests. Get more events details and links from my AI Timeline.
 
-56m ago
+1h ago
+
+---
+
+**[Google’s AI search has single-handedly done unfathomable damage to the public’s trust in AI.](https://www.reddit.com/r/artificial/comments/1pkwakm/googles_ai_search_has_singlehandedly_done/)**
+
+Google created an AI feature that seems almost deliberately engineered to undermine the public’s faith in AI. It uses as few resources as possible, so it constantly gives terrible answers. It’s very difficult to turn off, so people frustrated with its nearly-useless nature are constantly confronted by it against their will. But despite being objectively inferior to models like Gemini, it’s presented as equivalent to them, right up to stylistic habits like the infamous em dashes and endless lists. Why did Google do this? There’s no way they’re stupid enough not to realize the consequences of deliberately creating the dumbest AI on earth and then shoving it down everyone’s throats when they use the most popular search engine in the world. I know I’m late to this party and it’s existed a while, but I’ve only recently realized that for a massive amount of people, the only AI they’ve ever interacted with is the automatic can’t-turn-it-off Google search AI. Was Google deliberately trying to make a portion of the population distrust AI? If so, maybe that’s a good thing, since without exposure to such a deliberately bad AI, some people might trust AI too much. Was this their secret goal, or is Google a lot stupider than we previously thought?
+
+1h ago
 
 ---
 
@@ -135,6 +135,14 @@ Politico • 6h ago
 
 ---
 
+**[Rivian's AI, autonomy impress Wall Street, but EV and capital concerns remain](https://www.cnbc.com/2025/12/12/rivian-rivn-ai-ev.html)**
+
+Rivian impressed Wall Street with its plans for AI and automation, but significant challenges involving demand and capital remain for the EV maker.
+
+CNBC • 1h ago
+
+---
+
 **[McDonald's pulls AI-generated ad after online backlash](https://www.nbcnews.com/video/shorts/mcdonald-s-pulls-ai-generated-ad-after-online-backlash-254297157984)**
 
 McDonald's pulls AI-generated ad after online backlash
@@ -143,33 +151,31 @@ NBC News • 1h ago
 
 ---
 
-**['Godmother of AI' says degrees are less important than 'how quickly can you superpower yourself'](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/)**
+**[AI stocks sink on Broadcom, Oracle worries (NVDA:NASDAQ)](https://seekingalpha.com/news/4531073-ai-stocks-sink-on-broadcom-oracle-worries)**
 
-Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
+Artificial intelligence related stocks fell sharply on Friday amid separate concerns about a group of the largest companies in the space. Read for more.
 
-Fortune • 41m ago
-
----
-
-**[AI Billionaires’ 2026 Intimidation Campaign Is Already Working](https://www.rollingstone.com/politics/politics-features/ai-pac-2026-anti-regulation-campaign-kathy-hochul-1235483075/)**
-
-New York Gov. Kathy Hochul gutted an AI regulation bill a day after the Leading the Future PAC started attacking congressional candidate Alex Bores.
-
-Rolling Stone • 1h ago
-
----
-
-**[AI-led tech slide extends into third day as Oracle, Broadcom fall](https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html)**
-
-AI-related names have made losses since Oracle's mixed results on Wednesday.
-
-CNBC • 8h ago
+Seeking Alpha • 1h ago
 
 ---
 
 **[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 32m ago
+The Washington Post • 23m ago
+
+---
+
+**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+
+The New York Times • 12h ago
+
+---
+
+**[You’re Thinking About AI and Water All Wrong](https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/)**
+
+Fears about AI data centers’ water use have exploded. Experts say the reality is far more complicated than people think.
+
+WIRED • 1h ago
 
 ---
 
@@ -181,17 +187,11 @@ The New Yorker • 6h ago
 
 ---
 
-**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+**['We're not just going to want to be fed AI slop for 16 hours a day': Analyst sees Disney/OpenAI deal as a dividing line in entertainment history](https://fortune.com/2025/12/11/pre-post-ai-content-disney-openai-netflix-warner-slop-analysis-ark-invest/)**
 
-The New York Times • 12h ago
+"​I think the reason this bidding is approaching $100 billion-plus is the content library and the potential to do a Disney-OpenAI type of deal."
 
----
-
-**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
-
-The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
-
-Time Magazine • 1d ago
+Fortune • 19h ago
 
 ---
 
@@ -203,7 +203,7 @@ Time Magazine • 1d ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 443 • 💬 258 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 443 • 💬 260 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -211,7 +211,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 323 • 💬 314 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 324 • 💬 314 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -251,7 +251,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 114 • 💬 88 • 1d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 115 • 💬 89 • 1d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -259,7 +259,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 109 • 💬 70 • 9h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 113 • 💬 74 • 9h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -317,7 +317,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 51K • 👍 3K • 💬 372 • ⏱️ 14:55 • 1d ago
+👁️ 51K • 👍 3K • 💬 372 • ⏱️ 14:55 • 2d ago
 
 ---
 
@@ -377,7 +377,7 @@ CNBC's "The Exchange" team discusses OpenAI's GPT-5.2 AI model announcement and 
 
 📺 CNBC Television
 
-👁️ 16K • 👍 133 • 💬 68 • ⏱️ 4:03 • 22h ago
+👁️ 16K • 👍 133 • 💬 68 • ⏱️ 4:03 • 23h ago
 
 ---
 
@@ -393,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 766 • 1h ago
+⬇️ 105,962 • ❤️ 766 • 2h ago
 
 ---
 
@@ -405,7 +405,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,588 • 4d ago
+⬇️ 257,048 • ❤️ 2,589 • 4d ago
 
 ---
 
@@ -429,7 +429,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 286 • 8h ago
+⬇️ 10,352 • ❤️ 287 • 8h ago
 
 ---
 
@@ -501,7 +501,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 457 • ❤️ 167 • 9h ago
+⬇️ 457 • ❤️ 167 • 10h ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 12.0k • 🔱 1.9k • 35m ago
+⭐ 12.0k • 🔱 1.9k • 50m ago
 
 ---
 
@@ -702,7 +702,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 10h ago
+⭐ 1.1k • 🔱 134 • 11h ago
 
 ---
 

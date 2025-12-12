@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T17:35:13.612057+00:00'
+updated: '2025-12-12T17:49:59.111398+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 17:35 UTC  
+**Last Updated:** December 12, 2025 at 17:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,16 +45,16 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.5%  
-**7d:** +1.0%  
-**30d:** -9.6%  
-**90d:** -21.8%  
+**7d:** +0.9%  
+**30d:** -9.7%  
+**90d:** -21.9%  
 **1y:** -11.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1798.83B
+**Market Cap:** $1801.83B
 Rank #1
 
 **Circulating Supply:** 19,961,209 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.4%
 
 **All-Time Low:** $67.81
-+133002.8%
++133017.5%
 
 ---
 
@@ -79,19 +79,13 @@ Rank #1
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
 16h ago
-
----
-
-**[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
-
-4h ago
 
 ---
 
@@ -103,7 +97,7 @@ C’mon Bitcoin, you can do it
 
 ---
 
-**[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
+**[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
 
 4h ago
 
@@ -112,6 +106,20 @@ C’mon Bitcoin, you can do it
 **[Here we go again.](https://www.reddit.com/r/Bitcoin/comments/1pkw7mc/here_we_go_again/)**
 
 1h ago
+
+---
+
+**[BTC Is Running Without Leverage](https://www.reddit.com/r/Bitcoin/comments/1pkwo64/btc_is_running_without_leverage/)**
+
+Bitcoin’s Open Interest has dropped sharply since October, and that’s the most important part of the current market structure. Low OI means the market is running with very little leverage, so the recent price move isn’t coming from futures traders it’s mostly spot demand. At the same time, a huge amount of BTC is still locked in long-term hands (corporate treasuries, miners, and illiquid wallets). So supply pressure is low, but momentum is also weak because fewer traders are participating. Low OI means cleaner, healthier price action, But low OI also means less support if demand slows. So direction will depend on spot buyers, not leverage It’s a neutral setup, stable, but waiting for a catalyst.If OI starts rising again, that’s usually when stronger trends begin. Note : Bitcoin’s Open Interest has been falling over the past few weeks, but the interesting part is that BTC is slowly moving up at the same time. This tells us that the price is rising without heavy leverage, Futures traders are stepping back and Spot buyers or long-term demand are doing most of the work. BTC is rising, but not because of leveraged longs, it’s rising because actual buyers are still active.
+
+1h ago
+
+---
+
+**[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
+
+5h ago
 
 ---
 
@@ -133,13 +141,7 @@ Trinidad and Tobago amends the original two‑year blanket ban on crypto. The st
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-19h ago
-
----
-
-**[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
-
-1d ago
+20h ago
 
 ---
 
@@ -153,17 +155,11 @@ Investor's Business Daily • 1h ago
 
 ---
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqfc6r1TegxtoEU3shscib9tqmptwhs6vQs93sLqfqH7gmvyu3uqZ48r&gaa_ts=693c5043&gaa_sig=Bpqja8CLa4d_eG2Zb4Jf4nrxBpPG4IR99sUW6el26PZmYhtmtxWR9d3_6mAr0z16yeJMHC5p73ftmeeHU9zDcg%3D%3D)**
+**[Crypto Markets Today: Bitcoin Treads Water After Fed Cut as Altcoin Slump Deepens](https://www.coindesk.com/markets/2025/12/12/crypto-markets-today-bitcoin-stuck-in-post-fed-range-as-altcoins-continue-to-lag)**
 
-Barron's • 2d ago
+Bitcoin remains trapped in a range despite the U.S. rate cut, while altcoins and memecoins struggle to attract risk appetite amid shifting investor behavior.
 
----
-
-**[New Hampshire Approves World's First Bitcoin-Backed Municipal Bond. 'It's the Opening of a New Debt Market'](https://finance.yahoo.com/news/hampshire-approves-worlds-first-bitcoin-164617754.html)**
-
-A $100 million Bitcoin-backed municipal bond, the first to be collateralized by the cryptocurrency, was approved in New Hampshire last month.The bond still has to be approved by New Hampshire Gov. Kelly Ayotte and the state Executive Council before ...
-
-Yahoo Finance • 48m ago
+CoinDesk • 6h ago
 
 ---
 
@@ -172,6 +168,14 @@ Yahoo Finance • 48m ago
 I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
 Forbes • 7h ago
+
+---
+
+**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
+
+Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
+
+Bloomberg.com • 58m ago
 
 ---
 
@@ -197,6 +201,14 @@ Yahoo Finance • 22h ago
 
 ---
 
+**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
+
+Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
+
+Yahoo Finance • 1d ago
+
+---
+
 **[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
@@ -208,14 +220,6 @@ BBC • 1d ago
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
 Reuters • 1d ago
-
----
-
-**[Bitcoin Giant Strategy's Cash Reserve Was a 'Smart' Move, Says BitMine's Tom Lee](https://decrypt.co/352014/bitcoin-giant-strategy-cash-reserve-smart-move-bitmine-tom-lee)**
-
-BitMine Immersion Technologies Chairman Tom Lee praised Bitcoin treasury firm Strategy's massive new cash reserve. Here's why.
-
-Decrypt • 2h ago
 
 ---
 
