@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T19:00:47.765430+00:00'
+updated: '2025-12-12T19:26:24.076401+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 19:00 UTC  
+**Last Updated:** December 12, 2025 at 19:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +1.3%  
-**30d:** -9.4%  
-**90d:** -21.6%  
-**1y:** -10.7%  
+**24h:** -1.6%  
+**7d:** +0.9%  
+**30d:** -9.7%  
+**90d:** -21.9%  
+**1y:** -11.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1808.09B
+**Market Cap:** $1800.58B
 Rank #1
 
-**Circulating Supply:** 19,961,228 BTC
+**Circulating Supply:** 19,961,237 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.1%
+-28.4%
 
 **All-Time Low:** $67.81
-+133547.0%
++132949.7%
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
+
+1h ago
+
+---
+
 **[Daily meme until $92,450](https://www.reddit.com/r/Bitcoin/comments/1pkriyo/daily_meme_until_92450/)**
 
 C’mon Bitcoin, you can do it
 
-5h ago
+6h ago
 
 ---
 
@@ -93,19 +99,19 @@ C’mon Bitcoin, you can do it
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-17h ago
-
----
-
-**["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
-
-44m ago
+18h ago
 
 ---
 
 **[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
 
-5h ago
+6h ago
+
+---
+
+**[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
+
+1h ago
 
 ---
 
@@ -114,12 +120,6 @@ C’mon Bitcoin, you can do it
 Bitcoin’s Open Interest has dropped sharply since October, and that’s the most important part of the current market structure. Low OI means the market is running with very little leverage, so the recent price move isn’t coming from futures traders it’s mostly spot demand. At the same time, a huge amount of BTC is still locked in long-term hands (corporate treasuries, miners, and illiquid wallets). So supply pressure is low, but momentum is also weak because fewer traders are participating. Low OI means cleaner, healthier price action, But low OI also means less support if demand slows. So direction will depend on spot buyers, not leverage It’s a neutral setup, stable, but waiting for a catalyst.If OI starts rising again, that’s usually when stronger trends begin. Note : Bitcoin’s Open Interest has been falling over the past few weeks, but the interesting part is that BTC is slowly moving up at the same time. This tells us that the price is rising without heavy leverage, Futures traders are stepping back and Spot buyers or long-term demand are doing most of the work. BTC is rising, but not because of leveraged longs, it’s rising because actual buyers are still active.
 
 2h ago
-
----
-
-**[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
-
-43m ago
 
 ---
 
@@ -147,19 +147,17 @@ Trinidad and Tobago amends the original two‑year blanket ban on crypto. The st
 
 ## Google News: "bitcoin"
 
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://finance.yahoo.com/news/bitcoin-dips-below-90-000-054156466.html)**
-
-"What we saw last night was even though risk assets ‌were doing well, crypto didn't really want to know about it," said Tony Sycamore, market analyst at IG in Sydney.  "As ⁠a result, we now think future Bitcoin price increases will effectively be ‌driven by one leg only – ETF buying."
-
-Yahoo Finance • 1d ago
-
----
-
 **[Bitcoin Price (BTC) News: Plunges Below $90K as AI Bubble Worries Weigh on Tech Stocks](https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down)**
 
 Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -173,7 +171,7 @@ CryptoSlate • 9h ago
 
 **[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -185,11 +183,9 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[Solo Bitcoin Miner Beats the Odds, Winning $282K Reward](https://finance.yahoo.com/news/solo-bitcoin-miner-beats-odds-181347598.html)**
+**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-A solo Bitcoin miner defied the odds and won a block reward worth around $282,000 with the help of mining service, Solo CKPool.
-
-Yahoo Finance • 47m ago
+x.com • 5h ago
 
 ---
 
@@ -201,25 +197,27 @@ Forbes • 8h ago
 
 ---
 
-**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
 
-x.com • 4h ago
-
----
-
-**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
-
-Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
+Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Michael Saylor: Strategy’s Bitcoin Bet Could Drive $10M BTC](https://bitbo.io/news/saylor-bitcoin-10m-warning/)**
+**[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
 
-Michael Saylor claims Strategy’s aggressive accumulation is accelerating Bitcoin adoption, potentially driving its price to $10 million, though analysts warn of a possible bear market.
+Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-Bitbo • 7h ago
+BBC • 1d ago
+
+---
+
+**[What’s Next for Bitcoin? VanEck’s Sigel on the Crypto Plunge and Outlook](https://www.morningstar.com/alternative-investments/whats-next-bitcoin-vanecks-sigel-crypto-plunge-outlook)**
+
+Sigel explains the leverage-driven selloff and his view of the long-term bull case for crypto.
+
+Morningstar • 8h ago
 
 ---
 
@@ -343,7 +341,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 163 • ⏱️ 18:22 • 18h ago
+👁️ 25K • 👍 2K • 💬 163 • ⏱️ 18:22 • 19h ago
 
 ---
 
@@ -373,7 +371,7 @@ How can Bitcoin look so weak on the charts despite getting some of the most bull
 
 📺 Coin Bureau Trading
 
-👁️ 5K • 👍 459 • 💬 62 • ⏱️ 13:24 • 9h ago
+👁️ 5K • 👍 459 • 💬 62 • ⏱️ 13:24 • 10h ago
 
 ---
 

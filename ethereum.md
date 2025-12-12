@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T19:00:47.773912+00:00'
+updated: '2025-12-12T19:26:24.082303+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 19:00 UTC  
+**Last Updated:** December 12, 2025 at 19:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.4%  
-**7d:** +1.4%  
-**30d:** -4.9%  
-**90d:** -33.1%  
-**1y:** -21.2%  
+**24h:** -4.6%  
+**7d:** +1.2%  
+**30d:** -5.2%  
+**90d:** -33.3%  
+**1y:** -21.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.31B
+**Market Cap:** $371.21B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.4%
+-37.8%
 
 **All-Time Low:** $0.43
-+714953.2%
++710135.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -174,11 +174,47 @@ Decrypt • 2d ago
 
 ---
 
-**[Arthur Hayes Predicts How to Become a Millionaire With Ethereum](https://beincrypto.com/arthur-hayes-ethereum-prediction-millionaire-roadmap/)**
+**[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://www.ccn.com/news/crypto/tom-lee-claims-sp-500-will-hit-7700-by-2026-says-ethereum-will-exceed-12000/)**
 
-Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
+CCN.com • 7h ago
 
-BeInCrypto • 1d ago
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-latest-news-analyst-forecasts-and-whats-driving-the-ethereum-treasury-trade-dec-12-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
+
+ts2.tech • 4h ago
+
+---
+
+**[Tom Lee Says “Investors Are Still Early” as Bitcoin and Ethereum Enter Super-Cycle](https://www.tradingview.com/news/coinpedia:de92ffdf6094b:0-tom-lee-says-investors-are-still-early-as-bitcoin-and-ethereum-enter-super-cycle/)**
+
+Bitcoin price today is moving toward a critical retest of the $91.8K resistance level, a level it lost after the recent FOMC meeting that triggered a broad market correction. Despite growing concern, the market structure still shows higher lows across lower timeframes, indicating that the broader u…
+
+TradingView • 1d ago
+
+---
+
+**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://decrypt.co/351466/tom-lee-bitmine-buys-429-million-ethereum-eth-rebounds)**
+
+Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
+
+Decrypt • 4d ago
+
+---
+
+**[Here’s why BitMine stock price is ripe for a strong comeback](https://www.tradingview.com/news/invezz:c0178bc83094b:0-here-s-why-bitmine-stock-price-is-ripe-for-a-strong-comeback/)**
+
+The BitMine stock price has suffered a harsh reversal in the past few months as demand for crypto treasury companies waned in Wall Street and as Ethereum retreated from its all-time high. Still, fundamentals suggest that the stock will rebound, and possibly blast past $70, its highest level in Octo…
+
+TradingView • 2d ago
+
+---
+
+**[BitMine’s 5% Ethereum Accumulation Bet: Supply Shock and Market Implications](https://www.ccn.com/education/crypto/bitmine-5-ethereum-accumulation-supply-shock-market-implications/)**
+
+CCN.com • 1h ago
 
 ---
 
@@ -187,42 +223,6 @@ BeInCrypto • 1d ago
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
 The Motley Fool • 1h ago
-
----
-
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
-
-Sentiment around Ethereum has been bouncing around considerably in recent days.
-
-Yahoo Finance • 55m ago
-
----
-
-**[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
-
-Binance • 16h ago
-
----
-
-**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
-
-Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
-
-CoinDesk • 14h ago
-
----
-
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfSyvKaMJNjEP-oDOLHLjUb1GY76YBIAORArF5Fn7zONdHUFquBOtix&gaa_ts=693c65ad&gaa_sig=e5vq8aK1wCqL4nG-6uRl_Y8oruRTHAlhWaqIKP3lPCdT5mYmTME-ppC4jZcC5HKix6nfJ5BKlkAKAHU6qA8jgQ%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://decrypt.co/351847/bitcoin-ethereum-federal-reserve-cuts-rates)**
-
-The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
-
-Decrypt • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 299 • 💬 6 • ⏱️ 48:44 • 2h ago
+👁️ 2K • 👍 299 • 💬 6 • ⏱️ 48:44 • 3h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 106 • 💬 8 • ⏱️ 5:04 • 5h ago
+👁️ 1K • 👍 106 • 💬 8 • ⏱️ 5:04 • 6h ago
 
 ---
 

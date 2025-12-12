@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T19:00:47.779764+00:00'
+updated: '2025-12-12T19:26:24.085486+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 19:00 UTC  
+**Last Updated:** December 12, 2025 at 19:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
-4h ago
+5h ago
 
 ---
 
 **[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -78,7 +78,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 Hi everyone, Am working on a monocular VIO frontend, and I shall really appreciate feedback on whether our current triangulation approach is geometrically sound compared to more common SLAM pipelines (e.g., ORB-SLAM, SVO, DSO, VINS-Mono). Current approach used in our system We maintain a keyframe (KF), and for each incoming frame we do the following: 1. Track features from KF → Prev → Current. 2. For features that are visible in all three (KF, Prev, Current): We triangulate their depth using only KF and Prev. This triangulated depth is used as a measurement for a depth filter (inverse-depth / Gaussian filter). 3. After updating depth, we express the feature in the KF coordinate frame. 4. We then run PnP between: A. 3D points in the KF frame, and B. 2D observations in the Current frame. This gives us the pose of the Current frame wrt keyframe They use wheel odom and GTSAM backend to add every odom factor between keyframe and current frame and frontend frame factor between keyframe and current and then run optimization This means: triangulation is repeated every frame always between KF ↔ Prev, not KF ↔ Current depth filter is fed many measurements from almost the same two viewpoints, especially right after KF creation This seems to produce very sparse and scattered points. Questions 1. Is repeatedly triangulating between KF and the immediate previous frame (even when baseline/parallax is very small) considered a valid approach in monocular VO/VIO? Or is it fundamentally ill-conditioned, even if we use depth filters in this case? From what I understand, ORB-SLAM (monocular): Triangulates only between keyframes, not per-frame.. Which gives it a good parallex to triangulate the feature.. Should I use this?
 
-1h ago
+2h ago
 
 ---
 
@@ -110,6 +110,14 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 ## Google News: "robotics"
 
+**[Zebra Technologies winding down Fetch-based mobile robot group](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/)**
+
+Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
+
+The Robot Report • 5h ago
+
+---
+
 **[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
 
 Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
@@ -118,19 +126,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Zebra Technologies winding down Fetch-based mobile robot group](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/)**
-
-Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
-
-The Robot Report • 4h ago
-
----
-
 **[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://abcnews.go.com/Technology/wireStory/humanoid-robots-center-stage-silicon-valley-summit-skepticism-128353889)**
 
 The commercial boom in artificial intelligence has sparked interest in humanoid robots
 
-ABC News • 27m ago
+ABC News • 53m ago
 
 ---
 
@@ -206,7 +206,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 89K • 👍 2K • 💬 575 • ⏱️ 14:26 • 3d ago
+👁️ 89K • 👍 2K • 💬 575 • ⏱️ 14:26 • 4d ago
 
 ---
 
@@ -284,7 +284,7 @@ Researchers at EPFL in Switzerland have developed functional robot components fr
 
 📺 Rowan Cheung
 
-👁️ 10K • 👍 677 • 💬 13 • ⏱️ 1:14 • 22h ago
+👁️ 10K • 👍 677 • 💬 13 • ⏱️ 1:14 • 23h ago
 
 ---
 
