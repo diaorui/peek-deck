@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T14:55:17.310308+00:00'
+updated: '2025-12-12T15:24:57.221688+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 14:55 UTC  
+**Last Updated:** December 12, 2025 at 15:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,215.96
+### $91,797.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** +3.4%  
-**30d:** -7.5%  
-**90d:** -20.0%  
-**1y:** -8.8%  
+**24h:** +2.0%  
+**7d:** +2.5%  
+**30d:** -8.3%  
+**90d:** -20.7%  
+**1y:** -9.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1840.58B
+**Market Cap:** $1832.60B
 Rank #1
 
-**Circulating Supply:** 19,961,137 BTC
+**Circulating Supply:** 19,961,165 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.9%
+-27.2%
 
 **All-Time Low:** $67.81
-+135879.9%
++135272.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -91,19 +91,13 @@ Rank #1
 
 **[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
 
-1h ago
+2h ago
 
 ---
 
-**[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
+**[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
 
-17h ago
-
----
-
-**[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
-
-23h ago
+2h ago
 
 ---
 
@@ -111,15 +105,13 @@ Rank #1
 
 PNC Bank just started selling Bitcoin to their clients. Not through some sketchy app. Through their regular banking platform. Powered by Coinbase. The seventh-largest bank in America looked at bitcoin and didn't see an enemy. They saw a partner. For years, the debate was Bitcoin versus banks. Us versus them. Choose a side. Turns out the winners weren't choosing. They were combining. I co-founded India's first Bitcoin exchange in 2013. We survived a central bank ban. We won in the Supreme Court. We've served over two million people. And the whole time, the loudest voices kept telling me to pick a lane. Bitcoin OR banks. Disruption OR compliance. Revolution OR evolution. I refused. Here's what I learned: The people who change industries don't burn bridges. They build them. When we started our Bitcoin meetups in Bangalore, we held them at the Leela Palace—a six-star hotel. Not because we had money to burn. Because bankers and lawyers and skeptics don't show up to basements. If you're only talking to people who already agree with you, you're not evangelizing. You're just having a meeting. PNC didn't become a bitcoin company. Coinbase didn't become a bank. They each brought what they were good at. That's not compromise. That's leverage. The question isn't Bitcoin or blockchain. The question is: Who have you written off that's actually ready to listen?
 
-2h ago
+3h ago
 
 ---
 
-**[15 years without Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pkskvh/15_years_without_satoshi_nakamoto/)**
+**[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-Exactly 15 years ago, on December 12, 2010, Satoshi Nakamoto made his last public appearance. It was a short, technical comment on BitcoinTalk about potential risks to the network. After that, he disappeared completely. No farewell, no explanations, no confirmed activity under any other identity. And maybe that was the point. Bitcoin was left without a leader, without a face, without a center of control. Code instead of authority. Consensus instead of trust. Fifteen years later, the network still runs. And Satoshi was never needed again
-
-55m ago
+17h ago
 
 ---
 
@@ -131,9 +123,9 @@ Trinidad and Tobago amends the original two‑year blanket ban on crypto. The st
 
 ---
 
-**[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
+**[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-2h ago
+1d ago
 
 ---
 
@@ -141,7 +133,15 @@ Trinidad and Tobago amends the original two‑year blanket ban on crypto. The st
 
 The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
 
-11h ago
+12h ago
+
+---
+
+**[!Pump it up!](https://www.reddit.com/r/Bitcoin/comments/1pk7wcf/pump_it_up/)**
+
+Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
+
+19h ago
 
 ---
 
@@ -165,45 +165,23 @@ BBC • 1d ago
 
 ---
 
-**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
+**[Bitcoin, Trump and DB Plans](https://www.benefitsandpensionsmonitor.com/news/opinion/bitcoin-trump-and-db-plans/392876)**
+
+Benefits and Pensions Monitor • 48m ago
+
+---
+
+**[Coinbase Sentiment Hits Rock Bottom as Bitcoin Correlation Crushes Options Traders](https://finance.yahoo.com/news/coinbase-sentiment-hits-rock-bottom-151040234.html)**
+
+Shares of Coinbase (NASDAQ:COIN) closed at $275.09 on December 10 as retail investor sentiment on Reddit remains deeply negative. The stock carries a sentiment score of just 17.2 out of 100, placing it in the “very bearish” category. Bitcoin’s 17.8% decline from its November peak of $107,482 to around $90,000 has dragged Coinbase down 36% ... Coinbase Sentiment Hits Rock Bottom as Bitcoin Correlation Crushes Options Traders
+
+Yahoo Finance • 14m ago
+
+---
+
+**[Strategy And Bitcoin Face A Defining Test Today](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
 Investor's Business Daily • 2h ago
-
----
-
-**[Bitcoin's Volatility Meltdown: Crypto Daybook Americas](https://www.coindesk.com/daybook-us/2025/12/12/bitcoin-s-volatility-meltdown-crypto-daybook-americas)**
-
-The day ahead in crypto: Dec. 12, 2025
-
-CoinDesk • 2h ago
-
----
-
-**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
-
-Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Cathie Wood's Ark Invest picks up $15.4 million in Robinhood shares and more of its own Bitcoin ETF](https://www.theblock.co/post/382324/cathie-wood-ark-invest-buys-robinhood-shares-own-bitcoin-etf)**
-
-The Block • 4h ago
-
----
-
-**[Bitcoin Stock: Set For The 2026 Macro Reset (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4852771-bitcoin-set-for-the-2026-macro-reset)**
-
-Bitcoin gains from fading macro headwinds, rising institutional adoption, liquidity trends and ETF flows shaping structural price floors. See why BTC-USD is a buy.
-
-Seeking Alpha • 1h ago
-
----
-
-**[American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy.](https://www.barrons.com/articles/american-bitcoin-stock-price-eric-trump-426a9d3b?gaa_at=eafs&gaa_n=AWEtsqczs7EamX4OdJQGM7g5J8ZTUF4oL_qbjHze8CrWnXsoeTsei_3b8Uw6&gaa_ts=693c29fb&gaa_sig=AjWNwH62DUW6DMguORTYQ1MlitbINMtXIfn0J0eTGMw4Pp4i8pihDcb38OELzS4_wTiTXjsdtJwT4SB-Jrx2SQ%3D%3D)**
-
-Barron's • 1d ago
 
 ---
 
@@ -218,6 +196,26 @@ Bitcoin Magazine • 1d ago
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
 Reuters • 1d ago
+
+---
+
+**[American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy.](https://www.barrons.com/articles/american-bitcoin-stock-price-eric-trump-426a9d3b?gaa_at=eafs&gaa_n=AWEtsqeXOmoDo7KCL1-9x12EQhM0N_9g3BTPMpeifZu27e0jmXqv6Bm4C1Tm&gaa_ts=693c3728&gaa_sig=AVw14R75wVulxUKQyh1IWhCohO_JXzV34OEb0msXIascFix7Z1QbQycAloOGro54Q7KZrXs91ep1gH5fGGFgEw%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Save the Children Launches Bitcoin Fund, Breaking Ground in Humanitarian Innovation](https://www.savethechildren.org/us/about-us/media-and-news/2025-press-releases/bitcoin-fund-launched)**
+
+Save the Children US • 1d ago
+
+---
+
+**[Bitcoin Winter Has Begun: Why A Major Crash May Still Be Ahead](https://www.forbes.com/sites/digital-assets/2025/12/12/bitcoin-winter-has-begun-why-a-major-crash-may-still-be-ahead/)**
+
+I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
+
+Forbes • 4h ago
 
 ---
 
@@ -237,7 +235,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 Track Bitcoin holdings of public companies, governments, and institutions. Live data on corporate BTC treasuries with real-time valuations.
 
-⬆️ 2 • 💬 1 • 4d ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 5d ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -289,7 +287,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 5h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 6h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -305,23 +303,13 @@ We’ve already written several times about the danger posed by adding AI to law
 
 ## YouTube Videos: "bitcoin"
 
-**[&quot;This Is Why the Next Bitcoin Run Will Shock Everyone&quot; - Matt Hougan](https://www.youtube.com/watch?v=GN00YmQ8Tv8)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 166 • 💬 42 • ⏱️ 22:05 • 15h ago
-
----
-
 **[Why Bitcoin’s Next Big Move Is Closer Than Everyone Thinks](https://www.youtube.com/watch?v=JWUeyIQ-cb8)**
 
 Mel Mattison is one of the leading macro strategists on the internet, known for his deep insights into global markets and digital ...
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 901 • 💬 12 • ⏱️ 48:24 • 16h ago
+👁️ 19K • 👍 969 • 💬 12 • ⏱️ 48:24 • 17h ago
 
 ---
 
@@ -331,7 +319,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 143 • ⏱️ 18:22 • 14h ago
+👁️ 24K • 👍 2K • 💬 181 • ⏱️ 18:22 • 15h ago
 
 ---
 
@@ -341,7 +329,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 11K • 👍 122 • 💬 87 • ⏱️ 4:06 • 20h ago
+👁️ 12K • 👍 136 • 💬 85 • ⏱️ 4:06 • 20h ago
 
 ---
 
@@ -351,17 +339,17 @@ Bear or Bull? Bearish short term, but buying every day! The links below may incl
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 740 • 💬 51 • ⏱️ 44:51 • 19h ago
+👁️ 11K • 👍 760 • 💬 56 • ⏱️ 44:51 • 20h ago
 
 ---
 
-**[🚨 FED CUTS AND BITCOIN DUMPS?!?!?!?! 🤷🏽‍♂️](https://www.youtube.com/watch?v=eN0aGirkevM)**
+**[Banks Are BENDING THE KNEE to Bitcoin... But There&#39;s a Catch (OCC Greenlight&#39;s Crypto Deals!)](https://www.youtube.com/watch?v=8U3dwE8Iz64)**
 
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+The U.S. just gave banks the green light to dive into Bitcoin—no custody needed. From OCC approval to PNC offering real BTC to ...
 
-📺 BRITISH HODL
+📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 315 • ⏱️ 14:43 • 19h ago
+👁️ 22K • 👍 1K • 💬 134 • ⏱️ 15:31 • 1d ago
 
 ---
 
@@ -381,17 +369,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 120K • 👍 6K • 💬 390 • ⏱️ 21:05 • 1d ago
-
----
-
-**[Banks Are BENDING THE KNEE to Bitcoin... But There&#39;s a Catch (OCC Greenlight&#39;s Crypto Deals!)](https://www.youtube.com/watch?v=8U3dwE8Iz64)**
-
-The U.S. just gave banks the green light to dive into Bitcoin—no custody needed. From OCC approval to PNC offering real BTC to ...
-
-📺 Simply Bitcoin
-
-👁️ 21K • 👍 1K • 💬 133 • ⏱️ 15:31 • 1d ago
+👁️ 122K • 👍 6K • 💬 394 • ⏱️ 21:05 • 1d ago
 
 ---
 
@@ -401,7 +379,27 @@ TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE 
 
 📺 Jason Pizzino
 
-👁️ 9K • 👍 616 • 💬 131 • ⏱️ 27:57 • 8h ago
+👁️ 11K • 👍 713 • 💬 233 • ⏱️ 27:57 • 8h ago
+
+---
+
+**[🚨 FED CUTS AND BITCOIN DUMPS?!?!?!?! 🤷🏽‍♂️](https://www.youtube.com/watch?v=eN0aGirkevM)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 14K • 👍 1K • 💬 327 • ⏱️ 14:43 • 19h ago
+
+---
+
+**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
+
+What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
+
+📺 Thomas Kralow
+
+👁️ 17K • 👍 697 • 💬 41 • ⏱️ 11:29 • 1d ago
 
 ---
 

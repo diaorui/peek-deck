@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T14:55:17.316327+00:00'
+updated: '2025-12-12T15:24:57.227650+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 14:55 UTC  
+**Last Updated:** December 12, 2025 at 15:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,242.34
+### $3,205.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +6.5%  
-**30d:** -0.2%  
-**90d:** -29.8%  
-**1y:** -17.3%  
+**24h:** +0.7%  
+**7d:** +5.4%  
+**30d:** -1.2%  
+**90d:** -30.5%  
+**1y:** -18.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $390.07B
+**Market Cap:** $386.98B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.7%
+-35.2%
 
 **All-Time Low:** $0.43
-+746326.5%
++739614.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, total crypto newbie here. I need some guidance and expert advice on the best way to approach my financial needs. Context: I live in a developing country, and I am in desperate need of financial freedom. I started looking into stablecoins, especially USDT. I am not really looking into trading. My use case: Relative or friend in europe, they buy USDT on Binance or any other exchange platform, send that USDT to my Trust wallet. I store it, and occasionally send some pocket money to Redotpay to spend using their virtual visa card. That is pretty much about it. Storing it and spending with Redotpay. Not super interested in p2p market. So i dont think i will need to sell my USDT that often, almost never. So the market standard for p2p transactions isnt really a big concern. Might be interested in trading one day, but not for now. This is just for my personal finances and spending. The question I need help with: Should I use Ethereum or Tron. My findings with the research I did: Tron has cheaper gas fee, for when I transfer to Redotpay. But apparently Eth have dropped their transfer rates for USDT, and a lot of people claim it is around the same price now. Because the numbers I found are a little worrying: around 1 USD for Tron and between 3-8 USD for Eth. If you have any information about the rates that would be great. I am more inclined towards Eth to be fair. I just like the idea of a trully decentralized chain. And it has been king over a decade for good reasons. Also it is more secure. With the new EIP-7702 on Eth, you can now pay gas fee for transfers with USDT, which is very interesting, as I am not very comfortable with juggling two currencies. Since per my understanding, I need to always have TRX reserve in my Trust wallet to be able to send to Redotpay. Are the fees really that different to justify skipping on EIP-7702 ? Some people mentioned using an L2 on Eth. I honestly have no idea what that is. If i have got any concepts misunderstood, I would appreciate any clarifications and guidance. I still got a lot to learn about this field.
 
-22h ago
+23h ago
 
 ---
 
@@ -160,14 +160,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://finance.yahoo.com/news/tom-lee-claims-p-500-115052298.html)**
-
-Tom Lee expects the S&P 500 to reach 7,700 by 2026. Lee argues Ethereum is “grossly undervalued” at current levels. The bullish analyst claimed Bitcoin ...
-
-Yahoo Finance • 3h ago
-
----
-
 **[Ethereum Has Bottomed, Says BitMine Chairman Tom Lee—Here's Why](https://decrypt.co/351828/ethereum-bottomed-bitmine-chairman-tom-lee)**
 
 BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
@@ -176,27 +168,25 @@ Decrypt • 1d ago
 
 ---
 
+**[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://www.ccn.com/news/crypto/tom-lee-claims-sp-500-will-hit-7700-by-2026-says-ethereum-will-exceed-12000/)**
+
+CCN.com • 3h ago
+
+---
+
 **[Arthur Hayes Predicts How to Become a Millionaire With Ethereum](https://beincrypto.com/arthur-hayes-ethereum-prediction-millionaire-roadmap/)**
 
 Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
 
-BeInCrypto • 19h ago
+BeInCrypto • 20h ago
 
 ---
 
-**[Should You Buy Ethereum While It's Under $5,000?](https://finance.yahoo.com/news/buy-ethereum-while-under-5-115000941.html)**
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
 
-After an unexpected pullback, could Ethereum be ready to skyrocket in value?
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-Yahoo Finance • 3h ago
-
----
-
-**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
-
-Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
-
-CoinDesk • 10h ago
+CoinDesk • 21m ago
 
 ---
 
@@ -208,7 +198,7 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqeHn8QiQyt74ueBTE3GVQcCSOJv9KVnlkiYDH3EFFz3M7iY0FDR2l3X&gaa_ts=693c29fd&gaa_sig=7bogxgLGWPp_7Z4SVDk5x42tyEmKTLLhrQQxAJsxqzmt3k0pe98HiOL8k0Wgq0feYEf5JBOIdx-rNtYqqUOXyQ%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqc9fD2YgjAxPYMJTC_wfOeukJz2vBq6r4wSvDV-CLlq4BFgUV7s1xJE&gaa_ts=693c372a&gaa_sig=yHH6V8CdjX6bB3BDcKM3LlX3AXZd6xXybrIJ8cf63yAJagkIloPXOB855_tlKmsH9_DL6R7FnpTIVBGg-zlvuw%3D%3D)**
 
 Barron's • 1d ago
 
@@ -222,6 +212,14 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Should You Buy Ethereum While It's Under $5,000?](https://finance.yahoo.com/news/buy-ethereum-while-under-5-115000941.html)**
+
+After an unexpected pullback, could Ethereum be ready to skyrocket in value?
+
+Yahoo Finance • 3h ago
+
+---
+
 **[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
 
 CCN.com • 4h ago
@@ -232,13 +230,23 @@ CCN.com • 4h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BTC, ETH, &amp; Crypto Refuse To Pump In Face Of Insane News!](https://www.youtube.com/watch?v=-2iVyJP6LAs)**
+
+Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 7K • 👍 530 • 💬 39 • ⏱️ 48:17 • 3h ago
+
+---
+
 **[Tom Lee Just Flipped on Ethereum… Why?](https://www.youtube.com/watch?v=y48K7-hqmPQ)**
 
 Tom Lee just reversed his Ethereum outlook after previously calling for a drop to 20k before year-end. Now he says the next major ...
 
 📺 Ivan on Tech
 
-👁️ 26K • 👍 2K • 💬 122 • ⏱️ 10:42 • 23h ago
+👁️ 26K • 👍 2K • 💬 122 • ⏱️ 10:42 • 1d ago
 
 ---
 
@@ -248,7 +256,17 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 692 • 💬 41 • ⏱️ 11:29 • 1d ago
+👁️ 17K • 👍 697 • 💬 41 • ⏱️ 11:29 • 1d ago
+
+---
+
+**[📈 Rally Starts Now 👑 BTC, ETH, XRP &amp; ZEC Price Analysis [Silver up 120%] #shorts](https://www.youtube.com/watch?v=IAWE9I7Kjsc)**
+
+The "Opening Bell" has finally rung on the legacy banking system. With 21 Capital and Tether forming a volatile alliance to build ...
+
+📺 Crypto Noble
+
+👁️ 741 • 👍 67 • 💬 4 • ⏱️ 39:43 • 1h ago
 
 ---
 
@@ -262,73 +280,53 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 ---
 
+**[&quot;It Will Flip Ethereum&quot; - Scaramucci on Solana&#39;s Future](https://www.youtube.com/watch?v=4JXiR5vSw_I)**
+
+Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author of the new book Solana Rising, joins ...
+
+📺 CoinDesk
+
+👁️ 2K • 👍 82 • 💬 21 • ⏱️ 13:45 • 20h ago
+
+---
+
+**[Crypto Live Trading 12 Dec  ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=tY07-3bKEB4)**
+
+ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.exchange/?code=JFWJTR LIFE ...
+
+📺 Vibe With Sahil
+
+👁️ 5K • 👍 934 • 1h ago
+
+---
+
+**[THE $ICP UPDATE | Ethereum BULLISH Breakout](https://www.youtube.com/watch?v=lzsCtuoTXwk)**
+
+MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
+
+📺 The Cryptoviser
+
+👁️ 194 • 👍 36 • 💬 1 • ⏱️ 32:06 • 1h ago
+
+---
+
+**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
+
+In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
+
+📺 FAROKH RADIO
+
+👁️ 22K • 👍 803 • 💬 114 • ⏱️ 1:10:46 • 1d ago
+
+---
+
 **[This is Not Normal For Ethereum](https://www.youtube.com/watch?v=agl0Kf2d7cQ)**
 
 ETH isn't just lagging — its story broke. It's down ~3× more than BTC from the highs, ETH/BTC is sitting at multi-year lows, and ...
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 162 • 💬 19 • ⏱️ 15:43 • 19h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=J5P5LCylqlM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 202 • 💬 7 • ⏱️ 6:54 • 1d ago
-
----
-
-**[BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bCP9EbFyeeo)**
-
-BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 347 • 💬 84 • ⏱️ 18:15 • 15h ago
-
----
-
-**[I Can’t Believe This Is Happening!! All Hell Is Breaking Loose In Crypto!!](https://www.youtube.com/watch?v=2ZqztKdMquI)**
-
-Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily Merch - While ...
-
-📺 Altcoin Daily
-
-👁️ 73K • 👍 4K • 💬 309 • ⏱️ 12:03 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Auf der Grossen Zeiteinheit immer noch im Downtrend, Russel 2k als Katalysator?](https://www.youtube.com/watch?v=pt_RHhPRxP4)**
-
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
-
-📺 Krypto Trading & Investing
-
-👁️ 4K • 👍 806 • 💬 127 • ⏱️ 15:03 • 9h ago
-
----
-
-**[BTC , FOREX &amp; GOLD LIVE TRADING l ALPHA TRADES l #btc #gold #live](https://www.youtube.com/watch?v=23gzaHRQ0vA)**
-
-Crypto - Delta exchange India - https://www.delta.exchange/?code=Karol FOREX- EXNESS- ...
-
-📺 ALPHA TRADES
-
-👁️ 20K • 👍 687 • 5h ago
-
----
-
-**[LIVE TRADING BTC GOLD | 12/12/2025 |#crypto  #livetrading #btc #forex #forextrading](https://www.youtube.com/watch?v=kcGxVdXcyjY)**
-
-OPEN ACCOUNT & DEPOSIT & TRADE & VIP GROUP ACCESS ( LIFETIME ) --- 1. XM - https://affs.click/MKgCB ( Partner code ...
-
-📺 The Scalper King
-
-👁️ 48K • 👍 1K • 10h ago
+👁️ 3K • 👍 168 • 💬 18 • ⏱️ 15:43 • 20h ago
 
 ---
 

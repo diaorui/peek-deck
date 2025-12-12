@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T14:55:17.319574+00:00'
+updated: '2025-12-12T15:24:57.230889+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 14:55 UTC  
+**Last Updated:** December 12, 2025 at 15:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,13 @@ Robotics research and industry news
 
 **[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
 
-7h ago
+8h ago
+
+---
+
+**[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
+
+58m ago
 
 ---
 
@@ -48,7 +54,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
-43m ago
+1h ago
 
 ---
 
@@ -68,17 +74,11 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 ---
 
-**[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
-
-29m ago
-
----
-
 **[Robotics development platform / toy / collectible - SPOOK](https://www.reddit.com/r/robotics/comments/1pkmnaa/robotics_development_platform_toy_collectible/)**
 
 Hi guys, I'm interested to know what you guys think. Opinionate away! I've been in the robotics industry for a few years now. I was speaking to my colleague whos a really good software engineer and he said he has no experience in hardware and is lowsy at connecting and building stuff...which surprised me alot. But then it got me thinking about products for those types of engineers... Do you think there is a market for a pre-built robotics platforms as a toy/collectible? I'm not talking YAHBOOM dev kits, im talking pretty well detailed and finished robot/toy that gives you full access to the inside to develop ontop of. i think the closest ive seen is the unitree go2 but you cant really jailbreak or dev ontop of that unless you get the $10K 'edu' version. I'd imagine there'd be alot of engineers out there who love the idea of having a robot for the home/office but cbf to build themselves...especially if you can just remote in and build software for it and deploy it from your couch. Testing chat bots w/ TTS and vice verse would be way more fun if you were talking to something reactive, no? I kinda wanna experiment with speech-to-action. so maybe i'll build something and show you guys in the future... To give you the synopsis, i designed this robot named SPOOK that im going to build when the parts arrive. My prototype is a hacked roomba. I made it a ghost to symbolise how the world is a little bit spooked by AI and Robotics (particularly the humanoids in your house idea). I also made it a ghost because my wife and i are talking about having kids and i thought this was kinda cute. When im done, you should be able to talk to it and do all kinds of stuff (thinking more an animate object, electronic pet robot with a personality) kind of thing. It will have all the functionality youd expect from something decent (return to charger, object detection, obstacle avoidance etc.). and im thinking of trying to build it for under $2500. In the meanwhile, what does reddit think? My colleague thinks its a cool idea. another friend told me he wanted to learn robotics and it would be cool to build this from an educational angle also....keen to know your thoughts!
 
-6h ago
+7h ago
 
 ---
 
@@ -102,7 +102,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
 
-11h ago
+12h ago
 
 ---
 
@@ -140,9 +140,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[EQT Cuts Deal For 10,000 Humanoids From Robot Startup It Backs](https://www.bloomberg.com/news/articles/2025-12-11/eqt-to-send-10-000-humanoid-robots-from-startup-1x-to-portfolio-companies)**
+**[1X struck a deal to send its ‘home’ humanoids to factories and warehouses](https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/)**
 
-Bloomberg.com • 1d ago
+Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.
+
+TechCrunch • 17h ago
 
 ---
 
@@ -192,17 +194,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 119K • 👍 4K • 💬 348 • ⏱️ 17:44 • 1d ago
-
----
-
-**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
-
-Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
-
-📺 The Military Show
-
-👁️ 273K • 👍 8K • 💬 439 • ⏱️ 16:55 • 1d ago
+👁️ 122K • 👍 4K • 💬 371 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -212,7 +204,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 87K • 👍 2K • 💬 565 • ⏱️ 14:26 • 3d ago
+👁️ 88K • 👍 2K • 💬 572 • ⏱️ 14:26 • 3d ago
 
 ---
 
@@ -222,7 +214,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 35K • 👍 665 • 💬 162 • ⏱️ 18:46 • 6d ago
+👁️ 35K • 👍 665 • 💬 164 • ⏱️ 18:46 • 6d ago
 
 ---
 
@@ -242,7 +234,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 135K • 👍 7K • 💬 917 • ⏱️ 19:33 • 5d ago
+👁️ 135K • 👍 7K • 💬 920 • ⏱️ 19:33 • 6d ago
 
 ---
 
@@ -252,7 +244,17 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 200K • 👍 927 • 💬 298 • ⏱️ 1:03 • 5d ago
+👁️ 201K • 👍 928 • 💬 298 • ⏱️ 1:03 • 5d ago
+
+---
+
+**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
+
+Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
+
+📺 The Military Show
+
+👁️ 280K • 👍 8K • 💬 453 • ⏱️ 16:55 • 1d ago
 
 ---
 
@@ -266,21 +268,21 @@ GirlfriendRobot #RobotExpo #InnovationJourney Join me as I dive into the fascina
 
 ---
 
-**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
-
-After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
-
-📺 Kalil 4.0
-
-👁️ 20K • 👍 373 • 💬 71 • ⏱️ 0:59 • 5d ago
-
----
-
 **[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
 
 📺 AI . Robot
 
-👁️ 123K • 👍 2K • 💬 24 • ⏱️ 0:19 • 4d ago
+👁️ 124K • 👍 2K • 💬 24 • ⏱️ 0:19 • 4d ago
+
+---
+
+**[Robots made from lobster shells? 🦞👀 #trendingshorts #ai #robotics #research #science](https://www.youtube.com/watch?v=7vLGkPLNWv0)**
+
+Researchers at EPFL in Switzerland have developed functional robot components from discarded langoustine shells, ...
+
+📺 Rowan Cheung
+
+👁️ 8K • 👍 652 • 💬 13 • ⏱️ 1:14 • 19h ago
 
 ---
 

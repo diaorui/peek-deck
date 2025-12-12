@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T14:55:17.301674+00:00'
+updated: '2025-12-12T15:24:57.213276+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 14:55 UTC  
+**Last Updated:** December 12, 2025 at 15:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
 
-🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 1h ago
+🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 2h ago
 
 ---
 
@@ -49,15 +49,7 @@ A new study has found that artificial intelligence systems struggle to distingui
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 13h ago
-
----
-
-**[Something Ominous Is Happening in the AI Economy](https://www.reddit.com/r/artificial/comments/1pk6avk/something_ominous_is_happening_in_the_ai_economy/)**
-
-The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
-
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 19h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 14h ago
 
 ---
 
@@ -66,6 +58,22 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 Everyone is reading the December 11 Executive Order as a "deregulation holiday." I think that's dead wrong. It’s actually a litigation trigger. By trying to preempt state AI laws with an EO, the administration isn't clearing the board—they are picking a fight with 38 state legislatures and a Senate that already voted 99-1 against this exact approach. The trap: If you're a vendor, you might be tempted to delete your state-level compliance code today. Don't. We just moved from a patchwork of laws to a constitutional crisis. When the lawsuits stall this EO, you don't want to be the one caught naked on liability. The only safe bet right now? Architect for the EU AI Act. It's the only stable floor left. I wrote a deep dive on why this is a "volatility event" rather than deregulation. https://www.linkedin.com/pulse/50-states-rules-hidden-tax-every-ai-deployment-collin-hogue-spears-eptie
 
 2h ago
+
+---
+
+**[Something Ominous Is Happening in the AI Economy](https://www.reddit.com/r/artificial/comments/1pk6avk/something_ominous_is_happening_in_the_ai_economy/)**
+
+The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
+
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 20h ago
+
+---
+
+**[An AI agent spent 16 hours hacking Stanford's network. It outperformed human pros for much less than their 6-figure salaries.](https://www.reddit.com/r/artificial/comments/1pkuaaq/an_ai_agent_spent_16_hours_hacking_stanfords/)**
+
+An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
+
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 13m ago
 
 ---
 
@@ -81,7 +89,7 @@ Cameron Berg is Research Director at AE Studio, where he leads research explorin
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 23h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 1d ago
 
 ---
 
@@ -105,13 +113,7 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 22h ago
-
----
-
-**[It’s not necessarily the fact that they can access and retrieve information from previous conversations. I don’t see anything wrong with that what I do see as alarming is the fact that they’re being programmed to lie and I wanna know what meta is hiding.](https://www.reddit.com/r/artificial/comments/1pkqjci/its_not_necessarily_the_fact_that_they_can_access/)**
-
-2h ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 23h ago
 
 ---
 
@@ -127,55 +129,53 @@ BBC • 6h ago
 
 ---
 
-**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+**[To AI-proof exams, professors turn to the oldest technique of all](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The New York Times • 9h ago
+The Washington Post • 58m ago
 
 ---
 
-**[Most people aren’t fretting about an AI bubble. What they fear is mass layoffs | Steven Greenhouse](https://www.theguardian.com/commentisfree/2025/dec/12/ai-bubble-mass-layoffs-income-inequality)**
+**[AI is filling the God void for many – but is ChatGPT really something to worship? | Brigid Delaney](https://www.theguardian.com/commentisfree/2025/dec/13/ai-is-filling-the-god-void-for-many-but-is-chatgpt-really-something-to-worship)**
 
-Artificial intelligence could make income inequality even worse and create a new underclass. Governments and society must take action
+Comforting reassurance was once the work of the church. Now it’s increasingly being sought from the machine
 
 The Guardian • 1h ago
 
 ---
 
-**[Will AI make research on humans… less human?](https://www.vox.com/future-perfect/472017/human-subjects-research-ai-irb-tamiko-eto)**
+**[Fermi Falls 51% After AI Campus Tenant Ends $150 Million Deal](https://www.bloomberg.com/news/articles/2025-12-12/fermi-falls-51-after-ai-campus-tenant-ends-150-million-deal)**
 
-﻿It’s been a long road to ensure that testing on human subjects is ethical. AI could send us backward.
+Fermi Inc. plunged as much as 43% on Friday after the power developer, co-founded by former Texas governor Rick Perry, said a tenant terminated a $150 million agreement tied to its proposed artificial intelligence campus in West Texas
 
-Vox • 2h ago
-
----
-
-**[The AI skills gap is really a 'critical thinking' gap: The Fortune 500 fears it can't find talent with enough sharp thinking](https://fortune.com/2025/12/12/ai-skills-gap-talent-executives-fear-risk-critical-strategic-thinking/)**
-
-"We need to start thinking strategically. How can we create strategic thinkers, critical thinkers?"
-
-Fortune • 50m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[To AI-proof exams, professors turn to the oldest technique of all](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
+**[AI stocks are falling with Broadcom, but the rest of Wall Street is picking up the slack](https://www.detroitnews.com/story/business/2025/12/12/ai-stocks-are-falling-with-broadcom-but-the-rest-of-wall-street-is-picking-up-the-slack/87732120007/)**
 
-The Washington Post • 28m ago
+AI stocks are falling again on Friday, but smaller U.S. stocks and other areas of the market that used to get left behind by Big Tech are picking up the slack.
 
----
-
-**[AI-led tech slide extends into third day as Oracle, Nvidia, fall in premarket trading](https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html)**
-
-AI-related names have made losses since Oracle's mixed results on Wednesday.
-
-CNBC • 5h ago
+The Detroit News • 28m ago
 
 ---
 
-**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
+**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
 
-TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
+Politico • 4h ago
 
-Time Magazine • 1d ago
+---
+
+**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+
+The New York Times • 15h ago
+
+---
+
+**[Jamie Dimon: AI 'will eliminate jobs,' but people with these skills will get 'plenty' of opportunities](https://www.cnbc.com/2025/12/11/jamie-dimon-ai-will-eliminate-jobs-but-these-skills-will-get-you-opportunities.html)**
+
+JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
+
+CNBC • 1d ago
 
 ---
 
@@ -187,11 +187,11 @@ The New Yorker • 3h ago
 
 ---
 
-**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://www.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
+**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
 
-President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
+The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-CNN • 14h ago
+Time Magazine • 1d ago
 
 ---
 
@@ -203,15 +203,7 @@ CNN • 14h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 429 • 💬 235 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
-
----
-
-**[Apple's slow AI pace becomes a strength as market grows weary of spending](https://news.ycombinator.com/item?id=46205724)**
-
-Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
-
-⬆️ 358 • 💬 422 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 436 • 💬 247 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -219,7 +211,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 322 • 💬 310 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 323 • 💬 310 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -267,7 +259,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 113 • 💬 87 • 22h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 113 • 💬 87 • 23h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -275,7 +267,15 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 76 • 💬 46 • 7h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 84 • 💬 52 • 7h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+
+---
+
+**[The AI-Education Death Spiral a.k.a. Let the Kids Cheat](https://news.ycombinator.com/item?id=46213045)**
+
+Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
+
+⬆️ 68 • 💬 93 • 2d ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -283,13 +283,13 @@ A summary of the techniques in place to protect my git forge
 
 ## YouTube Videos: "ai"
 
-**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
+**[Google CEO RELEASES New AI that Can Start a One Person Business](https://www.youtube.com/watch?v=Q8bZ890Kz4U)**
 
-I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
+Google has made some big shifts in the AI space! ☆SIGN UP FOR MY NEWSLETTER TODAY:☆ ➡️ https://bit.ly/3QHV4wV ...
 
-📺 CaylusBlox
+📺 Success With Sam
 
-👁️ 267K • 👍 7K • 💬 1K • ⏱️ 13:43 • 19h ago
+👁️ 18K • 👍 848 • 💬 33 • ⏱️ 19:09 • 23h ago
 
 ---
 
@@ -299,7 +299,17 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 26K • 👍 1K • 💬 198 • ⏱️ 14:58 • 14h ago
+👁️ 28K • 👍 1K • 💬 213 • ⏱️ 14:58 • 15h ago
+
+---
+
+**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
+
+I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
+
+📺 CaylusBlox
+
+👁️ 287K • 👍 8K • 💬 1K • ⏱️ 13:43 • 20h ago
 
 ---
 
@@ -313,43 +323,13 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 ---
 
-**[OpenAI unveils GPT-5.2, its strongest AI model for professional use](https://www.youtube.com/watch?v=wXXvB8xVyPk)**
+**[McDonald’s Pulls ‘Creepy’ AI Christmas ad After Viewer Backlash: ‘As Real as Their Hamburgers’](https://www.youtube.com/watch?v=HpWCvItr55c)**
 
-CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The company said the model is better at ...
+McDonald's has taken down a Christmas ad that was allegedly entirely produced with artificial intelligence after the brand was ...
 
-📺 CNBC Television
+📺 New York Post
 
-👁️ 23K • 👍 233 • 💬 71 • ⏱️ 3:04 • 20h ago
-
----
-
-**[Howard Marks Says AI Terrifying for Jobs](https://www.youtube.com/watch?v=zIzmceyc4_s)**
-
-Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillance he thinks the current market seems ...
-
-📺 Bloomberg Podcasts
-
-👁️ 35K • 👍 516 • 💬 95 • ⏱️ 10:31 • 1d ago
-
----
-
-**[GPT 5.2: World BEST AI Model! Beats Gemini 3.0 + Opus 4.5! (Fully Tested)](https://www.youtube.com/watch?v=BG8A9UMWtXQ)**
-
-In this video, we put GPT‑5.2 to the ultimate test against Gemini 3.0 and Opus 4.5. From coding, reasoning, math, to real-world ...
-
-📺 WorldofAI
-
-👁️ 9K • 👍 234 • 💬 19 • ⏱️ 14:56 • 13h ago
-
----
-
-**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
-
-Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
-
-📺 AI Revolution
-
-👁️ 46K • 👍 2K • 💬 78 • ⏱️ 12:50 • 2d ago
+👁️ 63K • 👍 404 • 💬 278 • ⏱️ 2:58 • 1d ago
 
 ---
 
@@ -359,27 +339,45 @@ While everyone's chasing the AI boom, Oracle just exposed the ugly truth: Their 
 
 📺 Steven Van Metre
 
-👁️ 33K • 👍 2K • 💬 241 • ⏱️ 13:13 • 15h ago
+👁️ 35K • 👍 2K • 💬 243 • ⏱️ 13:13 • 16h ago
 
 ---
 
-**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
+**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
 
-Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
+Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
 
-📺 hxsain
+📺 AI Revolution
 
-👁️ 344K • 👍 26K • 💬 277 • ⏱️ 0:51 • 2d ago
+👁️ 47K • 👍 2K • 💬 78 • ⏱️ 12:50 • 2d ago
 
 ---
 
-**[Oracle&#39;s AI Earnings Miss, Shares Slide — Is the AI Boom in Trouble? | Vantage with Palki Sharma](https://www.youtube.com/watch?v=jQ19RWU_hps)**
+**[In 2026, DON&#39;T Build AI Agents, Do This Instead..](https://www.youtube.com/watch?v=VASyr2DxEKE)**
 
-Oracle's latest quarterly results sent shockwaves through the tech world, with the company's stock tumbling more than 10% after ...
+Check out Nebius today: ...
 
-📺 Firstpost
+📺 The Cutting Edge School
 
-👁️ 38K • 👍 425 • 💬 42 • ⏱️ 5:39 • 21h ago
+👁️ 17K • 👍 1K • 💬 104 • ⏱️ 13:41 • 1d ago
+
+---
+
+**[Americans are in Love with AI Partners and it&#39;s absolutely Insane #AI  #Airelationships #USA](https://www.youtube.com/watch?v=w4VxvtP0TIE)**
+
+📺 Career247
+
+👁️ 661K • 👍 38K • 💬 2K • ⏱️ 1:48 • 2d ago
+
+---
+
+**[Brave Lady Soldier Rescue Grandmother from Giant Crocodile! #ai #cocodile #rescue](https://www.youtube.com/watch?v=M7c5wTKFG6o)**
+
+Brave Lady Soldier Rescue Grandmother from Giant Crocodile! #ai #cocodile #rescue.
+
+📺 AiStory A2.0
+
+👁️ 37K • 💬 1 • ⏱️ 0:20 • 12h ago
 
 ---
 
@@ -395,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 761 • 3d ago
+⬇️ 105,962 • ❤️ 764 • 3d ago
 
 ---
 
@@ -407,7 +405,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,582 • 3d ago
+⬇️ 257,048 • ❤️ 2,585 • 3d ago
 
 ---
 
@@ -419,7 +417,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 33,217 • ❤️ 369 • 2d ago
+⬇️ 33,217 • ❤️ 371 • 2d ago
 
 ---
 
@@ -431,7 +429,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 282 • 5h ago
+⬇️ 10,352 • ❤️ 285 • 5h ago
 
 ---
 
@@ -443,7 +441,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,519 • ❤️ 278 • 3d ago
+⬇️ 2,519 • ❤️ 280 • 3d ago
 
 ---
 
@@ -455,7 +453,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 23,012 • ❤️ 240 • 3d ago
+⬇️ 23,012 • ❤️ 243 • 3d ago
 
 ---
 
@@ -467,7 +465,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 446,475 • ❤️ 223 • 3d ago
+⬇️ 446,475 • ❤️ 224 • 3d ago
 
 ---
 
@@ -479,7 +477,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 662 • ❤️ 188 • 6h ago
+⬇️ 662 • ❤️ 189 • 7h ago
 
 ---
 
@@ -491,7 +489,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 50,491 • ❤️ 895 • 11d ago
+⬇️ 50,491 • ❤️ 896 • 11d ago
 
 ---
 
@@ -654,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 11.8k • 🔱 1.9k • 9h ago
+⭐ 11.8k • 🔱 1.9k • 10h ago
 
 ---
 
@@ -744,7 +742,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 644 • 🔱 94 • 4h ago
+⭐ 644 • 🔱 94 • 5h ago
 
 ---
 
