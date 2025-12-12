@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T15:44:37.021445+00:00'
+updated: '2025-12-12T15:57:18.954925+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 15:44 UTC  
+**Last Updated:** December 12, 2025 at 15:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,748.25
+### $90,221.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +1.0%  
-**30d:** -9.6%  
-**90d:** -21.8%  
-**1y:** -10.9%  
+**24h:** +0.6%  
+**7d:** +1.2%  
+**30d:** -9.5%  
+**90d:** -21.7%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1832.60B
+**Market Cap:** $1802.44B
 Rank #1
 
-**Circulating Supply:** 19,961,165 BTC
+**Circulating Supply:** 19,961,181 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.2%
+-28.4%
 
 **All-Time Low:** $67.81
-+135272.4%
++133061.8%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -109,17 +109,17 @@ PNC Bank just started selling Bitcoin to their clients. Not through some sketchy
 
 ---
 
-**[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
-
-17h ago
-
----
-
 **[Trinidad And Tobago To Reverse Bitcoin Ban - Lightning News](https://www.reddit.com/r/Bitcoin/comments/1pkrvzd/trinidad_and_tobago_to_reverse_bitcoin_ban/)**
 
 Trinidad and Tobago amends the original two‑year blanket ban on crypto. The strict ban has been significantly softened: the bill has passed with 200+
 
 🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 2h ago
+
+---
+
+**[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
+
+18h ago
 
 ---
 
@@ -129,19 +129,19 @@ Trinidad and Tobago amends the original two‑year blanket ban on crypto. The st
 
 ---
 
+**[Daily meme until $92,450](https://www.reddit.com/r/Bitcoin/comments/1pkriyo/daily_meme_until_92450/)**
+
+C’mon Bitcoin, you can do it
+
+2h ago
+
+---
+
 **[Solo miner from CKpool has mined a block](https://www.reddit.com/r/Bitcoin/comments/1pkh0d8/solo_miner_from_ckpool_has_mined_a_block/)**
 
 The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
 
 12h ago
-
----
-
-**[!Pump it up!](https://www.reddit.com/r/Bitcoin/comments/1pk7wcf/pump_it_up/)**
-
-Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
-
-19h ago
 
 ---
 
@@ -165,9 +165,11 @@ BBC • 1d ago
 
 ---
 
-**[Bitcoin, Trump and DB Plans](https://www.benefitsandpensionsmonitor.com/news/opinion/bitcoin-trump-and-db-plans/392876)**
+**[Bitcoin Giant Strategy's Cash Reserve Was a 'Smart' Move, Says BitMine's Tom Lee](https://finance.yahoo.com/news/bitcoin-giant-strategys-cash-smart-152357482.html)**
 
-Benefits and Pensions Monitor • 1h ago
+BitMine Immersion Technologies Chairman Tom Lee praised Bitcoin treasury firm Strategy's massive new cash reserve. Here's why.
+
+Yahoo Finance • 33m ago
 
 ---
 
@@ -175,7 +177,13 @@ Benefits and Pensions Monitor • 1h ago
 
 Shares of Coinbase (NASDAQ:COIN) closed at $275.09 on December 10 as retail investor sentiment on Reddit remains deeply negative. The stock carries a sentiment score of just 17.2 out of 100, placing it in the “very bearish” category. Bitcoin’s 17.8% decline from its November peak of $107,482 to around $90,000 has dragged Coinbase down 36% ... Coinbase Sentiment Hits Rock Bottom as Bitcoin Correlation Crushes Options Traders
 
-Yahoo Finance • 33m ago
+Yahoo Finance • 46m ago
+
+---
+
+**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+
+x.com • 1h ago
 
 ---
 
@@ -199,23 +207,17 @@ Reuters • 1d ago
 
 ---
 
-**[American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy.](https://www.barrons.com/articles/american-bitcoin-stock-price-eric-trump-426a9d3b?gaa_at=eafs&gaa_n=AWEtsqeXOmoDo7KCL1-9x12EQhM0N_9g3BTPMpeifZu27e0jmXqv6Bm4C1Tm&gaa_ts=693c3728&gaa_sig=AVw14R75wVulxUKQyh1IWhCohO_JXzV34OEb0msXIascFix7Z1QbQycAloOGro54Q7KZrXs91ep1gH5fGGFgEw%3D%3D)**
+**[American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy.](https://www.barrons.com/articles/american-bitcoin-stock-price-eric-trump-426a9d3b?gaa_at=eafs&gaa_n=AWEtsqfhjzG4-o0JDTLBOlp0tBHOr8o3M6ODcZeJn-0EVFQzOBfd7Gqkdw_p&gaa_ts=693c3ec6&gaa_sig=crKe1f44IvgHjLcjwfqQO3VdwXu2tkbt7vSiXRMAnJxexKynS3h6JOaiTqML0h3rBXqiebMkiXLkz54_hQ-0oQ%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Save the Children Launches Bitcoin Fund, Breaking Ground in Humanitarian Innovation](https://www.savethechildren.org/us/about-us/media-and-news/2025-press-releases/bitcoin-fund-launched)**
+**[Bitcoin Giant Strategy's Cash Reserve Was a 'Smart' Move, Says BitMine's Tom Lee](https://decrypt.co/352014/bitcoin-giant-strategy-cash-reserve-smart-move-bitmine-tom-lee)**
 
-Save the Children US • 1d ago
+BitMine Immersion Technologies Chairman Tom Lee praised Bitcoin treasury firm Strategy's massive new cash reserve. Here's why.
 
----
-
-**[Bitcoin Winter Has Begun: Why A Major Crash May Still Be Ahead](https://www.forbes.com/sites/digital-assets/2025/12/12/bitcoin-winter-has-begun-why-a-major-crash-may-still-be-ahead/)**
-
-I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
-
-Forbes • 5h ago
+Decrypt • 33m ago
 
 ---
 
@@ -243,7 +245,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 9h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 10h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -279,7 +281,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 2d ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 3d ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -287,7 +289,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 6h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 7h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -295,7 +297,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 7 • 💬 0 • 17h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 7 • 💬 0 • 18h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -329,7 +331,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 12K • 👍 136 • 💬 85 • ⏱️ 4:06 • 20h ago
+👁️ 12K • 👍 136 • 💬 85 • ⏱️ 4:06 • 21h ago
 
 ---
 
@@ -389,7 +391,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 14K • 👍 1K • 💬 327 • ⏱️ 14:43 • 19h ago
+👁️ 14K • 👍 1K • 💬 327 • ⏱️ 14:43 • 20h ago
 
 ---
 

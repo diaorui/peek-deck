@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T15:44:37.027555+00:00'
+updated: '2025-12-12T15:57:18.960978+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 15:44 UTC  
+**Last Updated:** December 12, 2025 at 15:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,149.69
+### $3,084.90
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +2.1%  
-**30d:** -4.3%  
-**90d:** -32.7%  
-**1y:** -20.7%  
+**24h:** -2.7%  
+**7d:** +1.8%  
+**30d:** -3.8%  
+**90d:** -32.4%  
+**1y:** -20.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $386.98B
+**Market Cap:** $375.50B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.2%
+-37.7%
 
 **All-Time Low:** $0.43
-+739614.9%
++712098.5%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 2h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 2h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 3h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 1d ago
 
 **[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://www.ccn.com/news/crypto/tom-lee-claims-sp-500-will-hit-7700-by-2026-says-ethereum-will-exceed-12000/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -178,7 +178,7 @@ CCN.com • 3h ago
 
 Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
 
-BeInCrypto • 20h ago
+BeInCrypto • 21h ago
 
 ---
 
@@ -186,7 +186,7 @@ BeInCrypto • 20h ago
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 41m ago
+CoinDesk • 53m ago
 
 ---
 
@@ -198,12 +198,6 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqc9fD2YgjAxPYMJTC_wfOeukJz2vBq6r4wSvDV-CLlq4BFgUV7s1xJE&gaa_ts=693c372a&gaa_sig=yHH6V8CdjX6bB3BDcKM3LlX3AXZd6xXybrIJ8cf63yAJagkIloPXOB855_tlKmsH9_DL6R7FnpTIVBGg-zlvuw%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://finance.yahoo.com/news/crypto-shorts-rekt-bitcoin-ethereum-170437408.html)**
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
@@ -212,11 +206,17 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqd330tte6yfzmQhPCXQzP31FNPVAd9TL4PCDWZHQvrTJNpU-aVAg9IY&gaa_ts=693c3ec7&gaa_sig=pP7tUBIGF-0IYc3BDgY7q6kbHTH_AJBuUWNNZ6lcOCD5u8S0NlyuH3JiaU37OF6738TTe1ARbwXmQNrGBf0lvQ%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
 **[Should You Buy Ethereum While It's Under $5,000?](https://finance.yahoo.com/news/buy-ethereum-while-under-5-115000941.html)**
 
 After an unexpected pullback, could Ethereum be ready to skyrocket in value?
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -266,7 +266,7 @@ The "Opening Bell" has finally rung on the legacy banking system. With 21 Capita
 
 📺 Crypto Noble
 
-👁️ 741 • 👍 67 • 💬 4 • ⏱️ 39:43 • 1h ago
+👁️ 741 • 👍 67 • 💬 4 • ⏱️ 39:43 • 2h ago
 
 ---
 

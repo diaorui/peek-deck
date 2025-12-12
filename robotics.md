@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T15:44:37.030781+00:00'
+updated: '2025-12-12T15:57:18.964205+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 15:44 UTC  
+**Last Updated:** December 12, 2025 at 15:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,15 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
-
-8h ago
-
----
-
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
 1h ago
+
+---
+
+**[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
+
+8h ago
 
 ---
 
@@ -62,7 +62,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
 
-5h ago
+6h ago
 
 ---
 
@@ -124,6 +124,14 @@ Business Wire • 2d ago
 
 ---
 
+**[Zebra Technologies winding down Fetch-based mobile robot group](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/)**
+
+Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
+
+The Robot Report • 1h ago
+
+---
+
 **[GWM-1 Robotics SDK](https://runwayml.com/research/introducing-runway-gwm-1)**
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
@@ -140,17 +148,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[1X struck a deal to send its ‘home’ humanoids to factories and warehouses](https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/)**
+**[EQT Cuts Deal For 10,000 Humanoids From Robot Startup It Backs](https://www.bloomberg.com/news/articles/2025-12-11/eqt-to-send-10-000-humanoid-robots-from-startup-1x-to-portfolio-companies)**
 
-Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.
-
-TechCrunch • 17h ago
-
----
-
-**[Analysts Warn of Cybersecurity Risks in Humanoid Robots](https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots)**
-
-Dark Reading • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -159,6 +159,14 @@ Dark Reading • 2d ago
 Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
 
 Deloitte • 2d ago
+
+---
+
+**[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
+
+Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
+
+NVIDIA Developer • 23h ago
 
 ---
 
@@ -175,12 +183,6 @@ Shore Daily News • 1d ago
 Data from automated Reliable Robotics Caravan tests to inform national standards work.
 
 AVweb • 1d ago
-
----
-
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
-
-Chron • 1d ago
 
 ---
 

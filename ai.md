@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T15:44:37.013012+00:00'
+updated: '2025-12-12T15:57:18.946432+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 15:44 UTC  
+**Last Updated:** December 12, 2025 at 15:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -42,6 +42,14 @@ AI news, discussions, and developments
 A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
 
 🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 2h ago
+
+---
+
+**[An AI agent spent 16 hours hacking Stanford's network. It outperformed human pros for much less than their 6-figure salaries.](https://www.reddit.com/r/artificial/comments/1pkuaaq/an_ai_agent_spent_16_hours_hacking_stanfords/)**
+
+An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
+
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 46m ago
 
 ---
 
@@ -69,19 +77,11 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 ---
 
-**[An AI agent spent 16 hours hacking Stanford's network. It outperformed human pros for much less than their 6-figure salaries.](https://www.reddit.com/r/artificial/comments/1pkuaaq/an_ai_agent_spent_16_hours_hacking_stanfords/)**
-
-An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
-
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 33m ago
-
----
-
 **[Cameron Berg: Why Do LLMs Report Subjective Experience?](https://www.reddit.com/r/artificial/comments/1pkr2ul/cameron_berg_why_do_llms_report_subjective/)**
 
 Cameron Berg is Research Director at AE Studio, where he leads research exploring markers for subjective experience in machine learning systems. With a background in cognitive science from Yale and previous work at Meta AI, Cameron investigates the intersection of AI alignment and potential consciousness. In this episode, Cameron shares his empirical research into whether current Large Language Models are merely mimicking human text, or potentially developing internal states that resemble subjective experience. Including: New experimental evidence where LLMs report "vivid and alien" subjective experiences when engaging in self-referential processing Mechanistic interpretability findings showing that suppressing "deception" features in models actually increases claims of consciousness—challenging the idea that AI is simply telling us what we want to hear Why Cameron has shifted from skepticism to a 20-30% credence that current models possess subjective experience The "convergent evidence" strategy, including findings that models report internal dissonance and frustration when facing logical paradoxes The existential implications of "mind crime" and the urgent need to identify negative valence (suffering) computationally—to avoid creating vast amounts of artificial suffering
 
-🔗 [open.spotify.com](https://open.spotify.com/episode/2TOkdi9ReHER53JhZoiyQT?si=01be273788504c87) • 2h ago
+🔗 [open.spotify.com](https://open.spotify.com/episode/2TOkdi9ReHER53JhZoiyQT?si=01be273788504c87) • 3h ago
 
 ---
 
@@ -125,13 +125,21 @@ Four sources close to the situation claim OpenAI has become hesitant to publish 
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-BBC • 7h ago
+BBC • 54m ago
 
 ---
 
-**[To AI-proof exams, professors turn to the oldest technique of all](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
+**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
 
-The Washington Post • 1h ago
+Politico • 4h ago
+
+---
+
+**[McDonald's pulls AI-generated ad after online backlash](https://www.nbcnews.com/video/shorts/mcdonald-s-pulls-ai-generated-ad-after-online-backlash-254297157984)**
+
+McDonald's pulls AI-generated ad after online backlash
+
+NBC News • 7m ago
 
 ---
 
@@ -143,7 +151,7 @@ The Guardian • 1h ago
 
 ---
 
-**[Fermi Falls 51% After AI Campus Tenant Ends $150 Million Deal](https://www.bloomberg.com/news/articles/2025-12-12/fermi-falls-51-after-ai-campus-tenant-ends-150-million-deal)**
+**[Fermi Down 43% After AI Campus Tenant Ends $150 Million Deal](https://www.bloomberg.com/news/articles/2025-12-12/fermi-falls-51-after-ai-campus-tenant-ends-150-million-deal)**
 
 Fermi Inc. plunged as much as 43% on Friday after the power developer, co-founded by former Texas governor Rick Perry, said a tenant terminated a $150 million agreement tied to its proposed artificial intelligence campus in West Texas
 
@@ -151,31 +159,23 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[AI stocks are falling with Broadcom, but the rest of Wall Street is picking up the slack](https://www.detroitnews.com/story/business/2025/12/12/ai-stocks-are-falling-with-broadcom-but-the-rest-of-wall-street-is-picking-up-the-slack/87732120007/)**
+**[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-AI stocks are falling again on Friday, but smaller U.S. stocks and other areas of the market that used to get left behind by Big Tech are picking up the slack.
-
-The Detroit News • 48m ago
+The Washington Post • 24m ago
 
 ---
 
-**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
+**[AI-led tech slide extends into third day as Oracle, Broadcom fall](https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html)**
 
-Politico • 4h ago
+AI-related names have made losses since Oracle's mixed results on Wednesday.
+
+CNBC • 6h ago
 
 ---
 
 **[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-The New York Times • 15h ago
-
----
-
-**[Jamie Dimon: AI 'will eliminate jobs,' but people with these skills will get 'plenty' of opportunities](https://www.cnbc.com/2025/12/11/jamie-dimon-ai-will-eliminate-jobs-but-these-skills-will-get-you-opportunities.html)**
-
-JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
-
-CNBC • 1d ago
+The New York Times • 11h ago
 
 ---
 
@@ -203,7 +203,7 @@ Time Magazine • 1d ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 436 • 💬 247 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 438 • 💬 252 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -259,7 +259,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 113 • 💬 87 • 23h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 114 • 💬 87 • 23h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -267,7 +267,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 84 • 💬 52 • 7h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 92 • 💬 58 • 8h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -393,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 764 • 3d ago
+⬇️ 105,962 • ❤️ 766 • 21m ago
 
 ---
 
@@ -405,7 +405,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,585 • 3d ago
+⬇️ 257,048 • ❤️ 2,587 • 3d ago
 
 ---
 
@@ -453,7 +453,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 23,012 • ❤️ 243 • 3d ago
+⬇️ 23,012 • ❤️ 244 • 3d ago
 
 ---
 
@@ -501,7 +501,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 457 • ❤️ 167 • 7h ago
+⬇️ 457 • ❤️ 167 • 8h ago
 
 ---
 
@@ -545,7 +545,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 115 • 💬 3 • ⭐ 299 • 3d ago
+▲ 116 • 💬 3 • ⭐ 299 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -571,7 +571,7 @@ Visionary is an open web-native platform enabling real-time rendering of 3D Gaus
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 166 • 💬 4 • ⭐ 903 • 8d ago
+▲ 166 • 💬 4 • ⭐ 917 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -583,7 +583,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 15 • 💬 2 • ⭐ 11,887 • 4d ago
+▲ 16 • 💬 2 • ⭐ 11,887 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -609,7 +609,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 109 • 💬 4 • ⭐ 5,690 • 22d ago
+▲ 109 • 💬 4 • ⭐ 5,720 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 11.8k • 🔱 1.9k • 10h ago
+⭐ 11.9k • 🔱 1.9k • 10h ago
 
 ---
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.3k • 🔱 252 • 9h ago
+⭐ 2.3k • 🔱 255 • 9h ago
 
 ---
 
@@ -672,7 +672,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.7k • 🔱 135 • 3d ago
+⭐ 1.7k • 🔱 135 • 4d ago
 
 ---
 
@@ -692,7 +692,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.1k • 🔱 299 • 6d ago
+⭐ 1.1k • 🔱 300 • 6d ago
 
 ---
 
@@ -722,7 +722,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 879 • 🔱 22 • 4d ago
+⭐ 880 • 🔱 22 • 4d ago
 
 ---
 
@@ -742,7 +742,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 644 • 🔱 94 • 5h ago
+⭐ 646 • 🔱 95 • 6h ago
 
 ---
 
