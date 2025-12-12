@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T16:33:28.630446+00:00'
+updated: '2025-12-12T16:51:02.034160+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 16:33 UTC  
+**Last Updated:** December 12, 2025 at 16:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 Everyone is reading the December 11 Executive Order as a "deregulation holiday." I think that's dead wrong. It’s actually a litigation trigger. By trying to preempt state AI laws with an EO, the administration isn't clearing the board—they are picking a fight with 38 state legislatures and a Senate that already voted 99-1 against this exact approach. The trap: If you're a vendor, you might be tempted to delete your state-level compliance code today. Don't. We just moved from a patchwork of laws to a constitutional crisis. When the lawsuits stall this EO, you don't want to be the one caught naked on liability. The only safe bet right now? Architect for the EU AI Act. It's the only stable floor left. I wrote a deep dive on why this is a "volatility event" rather than deregulation. https://www.linkedin.com/pulse/50-states-rules-hidden-tax-every-ai-deployment-collin-hogue-spears-eptie
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 A bill that passed the New York legislature was completely gutted and substituted with language perceived as friendlier to the industry.
 
-🔗 [The American Prospect](https://prospect.org/2025/12/11/hochul-caves-big-tech-ai-safety-bill-new-york/) • 15m ago
+🔗 [The American Prospect](https://prospect.org/2025/12/11/hochul-caves-big-tech-ai-safety-bill-new-york/) • 33m ago
 
 ---
 
@@ -89,7 +89,7 @@ A bill that passed the New York legislature was completely gutted and substitute
 
 Cameron Berg is Research Director at AE Studio, where he leads research exploring markers for subjective experience in machine learning systems. With a background in cognitive science from Yale and previous work at Meta AI, Cameron investigates the intersection of AI alignment and potential consciousness. In this episode, Cameron shares his empirical research into whether current Large Language Models are merely mimicking human text, or potentially developing internal states that resemble subjective experience. Including: New experimental evidence where LLMs report "vivid and alien" subjective experiences when engaging in self-referential processing Mechanistic interpretability findings showing that suppressing "deception" features in models actually increases claims of consciousness—challenging the idea that AI is simply telling us what we want to hear Why Cameron has shifted from skepticism to a 20-30% credence that current models possess subjective experience The "convergent evidence" strategy, including findings that models report internal dissonance and frustration when facing logical paradoxes The existential implications of "mind crime" and the urgent need to identify negative valence (suffering) computationally—to avoid creating vast amounts of artificial suffering
 
-🔗 [open.spotify.com](https://open.spotify.com/episode/2TOkdi9ReHER53JhZoiyQT?si=01be273788504c87) • 3h ago
+🔗 [open.spotify.com](https://open.spotify.com/episode/2TOkdi9ReHER53JhZoiyQT?si=01be273788504c87) • 4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Cameron Berg is Research Director at AE Studio, where he leads research explorin
 
 Google created an AI feature that seems almost deliberately engineered to undermine the public’s faith in AI. It uses as few resources as possible, so it constantly gives terrible answers. It’s very difficult to turn off, so people frustrated with its nearly-useless nature are constantly confronted by it against their will. But despite being objectively inferior to models like Gemini, it’s presented as equivalent to them, right up to stylistic habits like the infamous em dashes and endless lists. Why did Google do this? There’s no way they’re stupid enough not to realize the consequences of deliberately creating the dumbest AI on earth and then shoving it down everyone’s throats when they use the most popular search engine in the world. I know I’m late to this party and it’s existed a while, but I’ve only recently realized that for a massive amount of people, the only AI they’ve ever interacted with is the automatic can’t-turn-it-off Google search AI. Was Google deliberately trying to make a portion of the population distrust AI? If so, maybe that’s a good thing, since without exposure to such a deliberately bad AI, some people might trust AI too much. Was this their secret goal, or is Google a lot stupider than we previously thought?
 
-2m ago
+20m ago
 
 ---
 
@@ -105,7 +105,7 @@ Google created an AI feature that seems almost deliberately engineered to underm
 
 Gooners rejoice.
 
-🔗 [Gizmodo](https://gizmodo.com/chatgpts-adult-mode-is-coming-in-2026-2000698677) • 16m ago
+🔗 [Gizmodo](https://gizmodo.com/chatgpts-adult-mode-is-coming-in-2026-2000698677) • 34m ago
 
 ---
 
@@ -113,7 +113,7 @@ Gooners rejoice.
 
 Hey guys, I(M18) am completely new to content creation. I always wanted to be a content creator but was hesitant to start. Finally I started my journey by making an Insta reel. Now obviously I am feeling like it's the best reel in the world as I put so much effort into it (😅🥲). But I want you guys' genuine suggestions on what can I improve more. Thank You 🥰😉
 
-28m ago
+45m ago
 
 ---
 
@@ -139,7 +139,7 @@ The Washington Post • 1h ago
 
 McDonald's pulls AI-generated ad after online backlash
 
-NBC News • 43m ago
+NBC News • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ NBC News • 43m ago
 
 New York Gov. Kathy Hochul gutted an AI regulation bill a day after the Leading the Future PAC started attacking congressional candidate Alex Bores.
 
-Rolling Stone • 33m ago
+Rolling Stone • 51m ago
 
 ---
 
@@ -155,7 +155,7 @@ Rolling Stone • 33m ago
 
 Fermi Inc. plunged as much as 43% on Friday after the power developer, co-founded by former Texas governor Rick Perry, said a tenant terminated a $150 million agreement tied to its proposed artificial intelligence campus in West Texas
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -211,7 +211,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 323 • 💬 312 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 323 • 💬 312 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -393,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 766 • 57m ago
+⬇️ 105,962 • ❤️ 766 • 1h ago
 
 ---
 
@@ -405,7 +405,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,587 • 3d ago
+⬇️ 257,048 • ❤️ 2,587 • 4d ago
 
 ---
 
@@ -429,7 +429,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 286 • 6h ago
+⬇️ 10,352 • ❤️ 286 • 7h ago
 
 ---
 
@@ -501,7 +501,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 457 • ❤️ 167 • 8h ago
+⬇️ 457 • ❤️ 167 • 9h ago
 
 ---
 
@@ -702,7 +702,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 9h ago
+⭐ 1.1k • 🔱 134 • 10h ago
 
 ---
 

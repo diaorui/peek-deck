@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T16:33:28.638852+00:00'
+updated: '2025-12-12T16:51:02.042717+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 16:33 UTC  
+**Last Updated:** December 12, 2025 at 16:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,007.56
+### $89,735.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +1.1%  
-**30d:** -9.5%  
-**90d:** -21.7%  
-**1y:** -10.8%  
+**24h:** -0.3%  
+**7d:** +0.5%  
+**30d:** -10.0%  
+**90d:** -22.2%  
+**1y:** -11.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ C’mon Bitcoin, you can do it
 
 **[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Trinidad and Tobago amends the original two‑year blanket ban on crypto. The st
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -167,7 +167,7 @@ BBC • 1d ago
 
 Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026.
 
-CoinDesk • 27m ago
+CoinDesk • 45m ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin veered back toward the lower portion of its recent trading range amid lingering concern about demand for risky assets.
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -393,7 +393,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 14K • 👍 1K • 💬 327 • ⏱️ 14:43 • 20h ago
+👁️ 14K • 👍 1K • 💬 327 • ⏱️ 14:43 • 21h ago
 
 ---
 

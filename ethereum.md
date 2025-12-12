@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T16:33:28.644873+00:00'
+updated: '2025-12-12T16:51:02.048824+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 16:33 UTC  
+**Last Updated:** December 12, 2025 at 16:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,050.00
+### $3,061.03
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 1d ago
 
 **[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://www.ccn.com/news/crypto/tom-lee-claims-sp-500-will-hit-7700-by-2026-says-ethereum-will-exceed-12000/)**
 
-CCN.com • 4h ago
+CCN.com • 5h ago
 
 ---
 
@@ -216,13 +216,13 @@ Yahoo Finance • 2d ago
 
 After an unexpected pullback, could Ethereum be ready to skyrocket in value?
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -316,7 +316,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 22K • 👍 803 • 💬 114 • ⏱️ 1:10:46 • 1d ago
+👁️ 22K • 👍 803 • 💬 114 • ⏱️ 1:10:46 • 2d ago
 
 ---
 
