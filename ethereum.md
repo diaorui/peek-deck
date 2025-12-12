@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T23:45:43.462927+00:00'
+updated: '2025-12-12T23:56:47.763543+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 23:45 UTC  
+**Last Updated:** December 12, 2025 at 23:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** +1.7%  
-**30d:** -4.7%  
-**90d:** -32.9%  
-**1y:** -21.0%  
+**24h:** -3.3%  
+**7d:** +1.5%  
+**30d:** -4.8%  
+**90d:** -33.1%  
+**1y:** -21.1%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 10h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 11h ago
 
 ---
 
@@ -88,7 +88,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 10h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 11h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 5h ago
 
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
-Binance • 20h ago
+Binance • 21h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView • 1d ago
 
 **[BitMine’s 5% Ethereum Accumulation Bet: Supply Shock and Market Implications](https://www.ccn.com/education/crypto/bitmine-5-ethereum-accumulation-supply-shock-market-implications/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -222,7 +222,7 @@ CryptoSlate • 1d ago
 
 Tom Lee expects the S&P 500 to reach 7,700 by 2026. Lee argues Ethereum is “grossly undervalued” at current levels. The bullish analyst claimed Bitcoin ...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -316,7 +316,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 285 • 👍 21 • 💬 13 • ⏱️ 8:14 • 5h ago
+👁️ 285 • 👍 21 • 💬 13 • ⏱️ 8:14 • 6h ago
 
 ---
 
