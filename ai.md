@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T20:13:58.426760+00:00'
+updated: '2025-12-12T20:38:50.104037+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- social
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 20:13 UTC  
+**Last Updated:** December 12, 2025 at 20:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -111,7 +111,7 @@ Hey everyone, here is the 11th issue of Hacker News x AI newsletter, a newslette
 
 12/11 OpenAI releases ChatGPT 5.2: The release came amid increasing competition from Google and was pitched as designed for developers and everyday professional use. 12/11 ChatGPT’s ‘adult mode’ is expected to debut in Q1 2026: The company wants to get better at age prediction before introducing the new feature. 12/11 Disney signs deal with OpenAI to allow Sora to generate AI videos featuring its characters: The three-year partnership with OpenAI will bring its iconic characters to the company’s Sora AI video generator. The company is also making a $1 billion equity investment in OpenAI. There was a leak the same day that Disney hit Google with a cease-and-desist claiming ‘massive’ copyright infringement. 12/11 TIME names ‘Architects of AI’ its Person of the Year: Some of those people appear to be Nvidia’s Jensen Huang, Tesla’s Elon Musk, OpenAI’s Sam Altman, Meta’s Mark Zuckerberg, AMD’s Lisa Su, Anthropic’s Dario Amodei, Google DeepMind’s Demis Hassabis, and World Labs’ Fei-Fei Li. 12/11 Runway releases its first world model: Dubbed GWM-1, the model works through frame-by-frame prediction, creating a simulation with an understanding of physics and how the world actually behaves over time. 12/10 Adobe Photoshop comes to ChatGPT: The partnership will reportedly let users harness the natural language processing power of ChatGPT to do the photoshopping for them, like fine tuning details, blurring backgrounds, and applying custom effects. 12/10 OpenAI report reveals a 6x productivity gap between AI power users and everyone else: According to a new report from OpenAI analyzing usage patterns across its more than one million business customers, workers at the 95th percentile of AI adoption are sending six times as many messages to ChatGPT as the median employee at the same companies. 12/9 EU launches antitrust probe into Google’s AI search tools: The European Commission has launched an investigation into whether Google may have breached EU’s competition laws by using content from websites without compensating owners to generate answers for its AI summaries that appear above search results. 12/9 Amazon’s Ring rolls out controversial, AI-powered facial-recognition feature to video doorbells: The feature lets users identify the people who regularly come to their door by creating a catalog of up to 50 faces. 12/9 Mistral launches Devstral 2 models: The release includes a new pair of models optimized for software engineering tasks, with one small enough to run on a single laptop, offline and privately—as well as Mistral Vibe, a CLI agent designed to allow developers to call the models up directly within their terminal environments. 12/9 McDonald’s pulls AI-generated holiday ad after deluge of mockery: McDonald’s decided to get in on the corporate slopfest with a 45-second Christmas spot cooked up for its Netherlands division by the ad agency TBWA\Neboko. The ad was removed in infamy but it can viewed it here. 12/9 OpenAI announces ‘AI Foundations’: It will be a certification course designed to standardize how employees learn and apply AI. The company intends to certify 10 million Americans by 2030. 12/8 Trump greenlights Nvidia H200 AI chip sales to China: 25% of the chip sales will be paid to the U.S. government as part of the deal. 12/8 Users can buy Instacart groceries without leaving ChatGPT: OpenAI and Instacart are launching a grocery shopping experience inside of ChatGPT, allowing customers to brainstorm meal ideas, make a grocery list, and check out, all without leaving the chat interface. 12/5 Claude Code is coming to Slack: Previously, developers could only get lightweight coding help via Claude in Slack—like writing snippets, debugging, and explanations. Now users can tag u/Claude to spin up a complete coding session using Slack context like bug reports or feature requests. Get more events details and links from my AI Timeline.
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hey everyone, here is the 11th issue of Hacker News x AI newsletter, a newslette
 
 President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
 
-CNN • 19h ago
+CNN • 20h ago
 
 ---
 
@@ -153,7 +153,7 @@ BBC • 2h ago
 
 “It’s not about only running fast, but also having trust along the way,” said chief product officer Sudip Datta.
 
-Fortune • 42m ago
+Fortune • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Politico • 9h ago
 
 The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
 
-The New Yorker • 8h ago
+The New Yorker • 9h ago
 
 ---
 
@@ -285,7 +285,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 76K • 👍 3K • 💬 390 • ⏱️ 14:18 • 19h ago
+👁️ 76K • 👍 3K • 💬 390 • ⏱️ 14:18 • 20h ago
 
 ---
 
@@ -389,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 770 • 4h ago
+⬇️ 105,962 • ❤️ 770 • 5h ago
 
 ---
 
@@ -425,7 +425,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 290 • 10h ago
+⬇️ 10,352 • ❤️ 290 • 11h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.3k • 🔱 262 • 13h ago
+⭐ 2.3k • 🔱 262 • 14h ago
 
 ---
 

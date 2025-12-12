@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T20:13:58.435259+00:00'
+updated: '2025-12-12T20:38:50.112545+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 20:13 UTC  
+**Last Updated:** December 12, 2025 at 20:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** +1.0%  
-**30d:** -9.7%  
-**90d:** -21.9%  
-**1y:** -11.0%  
+**24h:** -3.2%  
+**7d:** +0.6%  
+**30d:** -10.0%  
+**90d:** -22.2%  
+**1y:** -11.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -99,13 +99,13 @@ C’mon Bitcoin, you can do it
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 **[Here we go again.](https://www.reddit.com/r/Bitcoin/comments/1pkw7mc/here_we_go_again/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 Trinidad and Tobago amends the original two‑year blanket ban on crypto. The strict ban has been significantly softened: the bill has passed with 200+
 
-🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 6h ago
+🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 7h ago
 
 ---
 
@@ -171,7 +171,7 @@ CryptoSlate • 10h ago
 
 **[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -201,7 +201,7 @@ Forbes • 7h ago
 
 I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -311,7 +311,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 185 • 💬 16 • ⏱️ 22:05 • 20h ago
+👁️ 5K • 👍 185 • 💬 16 • ⏱️ 22:05 • 21h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin bear flag. 300k scenario revisit. What I will do in 2026. Larsson Line P
 
 📺 CTO LARSSON
 
-👁️ 13K • 👍 2K • 💬 120 • ⏱️ 13:21 • 6h ago
+👁️ 13K • 👍 2K • 💬 120 • ⏱️ 13:21 • 7h ago
 
 ---
 
@@ -381,7 +381,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 160 • 💬 57 • ⏱️ 29:06 • 4h ago
+👁️ 2K • 👍 160 • 💬 57 • ⏱️ 29:06 • 5h ago
 
 ---
 

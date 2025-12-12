@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T20:13:58.441260+00:00'
+updated: '2025-12-12T20:38:50.118581+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 20:13 UTC  
+**Last Updated:** December 12, 2025 at 20:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,074.77
+### $3,070.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.3%  
-**7d:** +1.4%  
-**30d:** -5.0%  
-**90d:** -33.2%  
-**1y:** -21.3%  
+**24h:** -5.5%  
+**7d:** +1.1%  
+**30d:** -5.3%  
+**90d:** -33.4%  
+**1y:** -21.5%  
 
 ---
 
@@ -88,7 +88,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 42m ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 1h ago
 
 ---
 
@@ -266,7 +266,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 363 • 💬 9 • ⏱️ 48:44 • 3h ago
+👁️ 4K • 👍 363 • 💬 9 • ⏱️ 48:44 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 122 • 💬 8 • ⏱️ 5:04 • 6h ago
+👁️ 2K • 👍 122 • 💬 8 • ⏱️ 5:04 • 7h ago
 
 ---
 

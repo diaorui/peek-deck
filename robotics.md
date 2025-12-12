@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T20:13:58.444475+00:00'
+updated: '2025-12-12T20:38:50.121820+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 20:13 UTC  
+**Last Updated:** December 12, 2025 at 20:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
-5h ago
+6h ago
 
 ---
 
 **[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 Hi guys, I want to know what you guys think where we can use RL to actually fill the gaps for classical algorithms.. I really really think this can be a good to overcoming adaptation of tuning used for visual odometry pipeline( Davide's published a paper on this)..but still it would need a sim to make it learn..and then there will be sim to real transfer...am thinking is there a way to just use datasets and go ahead with it.. Am trying to find the relevant problems in visual odometry..
 
-2h ago
+3h ago
 
 ---
 
@@ -70,7 +70,7 @@ The whole setup (belt motion, detection triggers, timing, etc.) is built inside 
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-22h ago
+23h ago
 
 ---
 
@@ -114,7 +114,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-The Robot Report • 5h ago
+The Robot Report • 6h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 2d ago
 
 The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
 
-AP News • 1h ago
+AP News • 2h ago
 
 ---
 
