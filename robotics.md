@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T19:26:24.085486+00:00'
+updated: '2025-12-12T19:40:27.915154+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 19:26 UTC  
+**Last Updated:** December 12, 2025 at 19:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 Hi guys, I want to know what you guys think where we can use RL to actually fill the gaps for classical algorithms.. I really really think this can be a good to overcoming adaptation of tuning used for visual odometry pipeline( Davide's published a paper on this)..but still it would need a sim to make it learn..and then there will be sim to real transfer...am thinking is there a way to just use datasets and go ahead with it.. Am trying to find the relevant problems in visual odometry..
 
-1h ago
+2h ago
 
 ---
 
@@ -70,7 +70,7 @@ The whole setup (belt motion, detection triggers, timing, etc.) is built inside 
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-21h ago
+22h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 2d ago
 
 The commercial boom in artificial intelligence has sparked interest in humanoid robots
 
-ABC News • 53m ago
+ABC News • 1h ago
 
 ---
 
@@ -196,7 +196,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 129K • 👍 5K • 💬 397 • ⏱️ 17:44 • 2d ago
+👁️ 137K • 👍 5K • 💬 399 • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -206,7 +206,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 89K • 👍 2K • 💬 575 • ⏱️ 14:26 • 4d ago
+👁️ 90K • 👍 2K • 💬 575 • ⏱️ 14:26 • 4d ago
 
 ---
 
@@ -216,7 +216,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 35K • 👍 666 • 💬 165 • ⏱️ 18:46 • 6d ago
+👁️ 35K • 👍 669 • 💬 165 • ⏱️ 18:46 • 6d ago
 
 ---
 
@@ -226,7 +226,25 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 85K • 👍 1K • 💬 434 • ⏱️ 0:41 • 4d ago
+👁️ 86K • 👍 1K • 💬 436 • ⏱️ 0:41 • 4d ago
+
+---
+
+**[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
+
+📺 AI . Robot
+
+👁️ 127K • 👍 2K • 💬 24 • ⏱️ 0:19 • 4d ago
+
+---
+
+**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 136K • 👍 7K • 💬 925 • ⏱️ 19:33 • 6d ago
 
 ---
 
@@ -240,51 +258,31 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 ---
 
-**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
 
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
 
-📺 Julia McCoy
+📺 Gen Women AI
 
-👁️ 136K • 👍 7K • 💬 923 • ⏱️ 19:33 • 6d ago
-
----
-
-**[Testing the Latest Girlfriend Robot: My Unexpected Expo Journey 🤖✨ #innovation #robot #expo2025](https://www.youtube.com/watch?v=4LQJIXJrbPs)**
-
-GirlfriendRobot #RobotExpo #InnovationJourney Join me as I dive into the fascinating world of robotics at Expo 2025! In this video ...
-
-📺 ps-robot_ai
-
-👁️ 126K • 👍 1K • 💬 15 • ⏱️ 0:09 • 7d ago
+👁️ 2K • 👍 61 • ⏱️ 0:09 • 3h ago
 
 ---
 
-**[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
+**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
+
+Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
+
+📺 The Military Show
+
+👁️ 292K • 👍 8K • 💬 469 • ⏱️ 16:55 • 1d ago
+
+---
+
+**[First Humanoid Robot Spotted on Korean Streets. #humanoid #robot  #robotics #ai](https://www.youtube.com/watch?v=42ZwncHFVak)**
 
 📺 AI . Robot
 
-👁️ 126K • 👍 2K • 💬 24 • ⏱️ 0:19 • 4d ago
-
----
-
-**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
-
-After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
-
-📺 Kalil 4.0
-
-👁️ 20K • 👍 374 • 💬 71 • ⏱️ 0:59 • 5d ago
-
----
-
-**[Robots made from lobster shells? 🦞👀 #trendingshorts #ai #robotics #research #science](https://www.youtube.com/watch?v=7vLGkPLNWv0)**
-
-Researchers at EPFL in Switzerland have developed functional robot components from discarded langoustine shells, ...
-
-📺 Rowan Cheung
-
-👁️ 10K • 👍 677 • 💬 13 • ⏱️ 1:14 • 23h ago
+👁️ 12K • 👍 212 • 💬 10 • ⏱️ 0:10 • 1d ago
 
 ---
 

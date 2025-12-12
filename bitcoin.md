@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T19:26:24.076401+00:00'
+updated: '2025-12-12T19:40:27.907102+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 19:26 UTC  
+**Last Updated:** December 12, 2025 at 19:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +0.9%  
-**30d:** -9.7%  
-**90d:** -21.9%  
-**1y:** -11.0%  
+**24h:** -1.4%  
+**7d:** +1.1%  
+**30d:** -9.6%  
+**90d:** -21.8%  
+**1y:** -10.9%  
 
 ---
 
@@ -125,7 +125,7 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 **[Here we go again.](https://www.reddit.com/r/Bitcoin/comments/1pkw7mc/here_we_go_again/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 Trinidad and Tobago amends the original two‑year blanket ban on crypto. The strict ban has been significantly softened: the bill has passed with 200+
 
-🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 5h ago
+🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 6h ago
 
 ---
 
@@ -193,7 +193,7 @@ x.com • 5h ago
 
 I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -305,13 +305,23 @@ We’ve already written several times about the danger posed by adding AI to law
 
 ## YouTube Videos: "bitcoin"
 
+**[&quot;This Is Why the Next Bitcoin Run Will Shock Everyone&quot; - Matt Hougan](https://www.youtube.com/watch?v=GN00YmQ8Tv8)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 185 • 💬 16 • ⏱️ 22:05 • 20h ago
+
+---
+
 **[Why Bitcoin’s Next Big Move Is Closer Than Everyone Thinks](https://www.youtube.com/watch?v=JWUeyIQ-cb8)**
 
 Mel Mattison is one of the leading macro strategists on the internet, known for his deep insights into global markets and digital ...
 
 📺 Anthony Pompliano
 
-👁️ 20K • 👍 1K • 💬 12 • ⏱️ 48:24 • 21h ago
+👁️ 21K • 👍 1K • 💬 12 • ⏱️ 48:24 • 21h ago
 
 ---
 
@@ -321,7 +331,7 @@ Bitcoin bear flag. 300k scenario revisit. What I will do in 2026. Larsson Line P
 
 📺 CTO LARSSON
 
-👁️ 8K • 👍 1K • 💬 99 • ⏱️ 13:21 • 5h ago
+👁️ 13K • 👍 2K • 💬 120 • ⏱️ 13:21 • 6h ago
 
 ---
 
@@ -331,7 +341,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 13K • 👍 145 • 💬 88 • ⏱️ 4:06 • 1d ago
+👁️ 14K • 👍 154 • 💬 88 • ⏱️ 4:06 • 1d ago
 
 ---
 
@@ -341,7 +351,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 163 • ⏱️ 18:22 • 19h ago
+👁️ 26K • 👍 2K • 💬 170 • ⏱️ 18:22 • 19h ago
 
 ---
 
@@ -351,7 +361,37 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Crypto Cam
 
-👁️ 18K • 👍 455 • 💬 37 • ⏱️ 0:27 • 1d ago
+👁️ 18K • 👍 454 • 💬 37 • ⏱️ 0:27 • 1d ago
+
+---
+
+**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
+
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 57K • 👍 3K • 💬 256 • ⏱️ 10:23 • 1d ago
+
+---
+
+**[Bitcoin and Altcoins: Dubious Speculation](https://www.youtube.com/watch?v=bcHNiLDPqmw)**
+
+WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 ITC: ...
+
+📺 Crypto Kid
+
+👁️ 2K • 👍 160 • 💬 57 • ⏱️ 29:06 • 4h ago
+
+---
+
+**[The Secret War Behind Bitcoin&#39;s Price Crash (Not What You Think)](https://www.youtube.com/watch?v=4cVGR6n7ttY)**
+
+Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be engineering your complete Wealth Operating ...
+
+📺 Mark Moss
+
+👁️ 127K • 👍 6K • 💬 417 • ⏱️ 21:05 • 1d ago
 
 ---
 
@@ -362,46 +402,6 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 📺 Simply Bitcoin
 
 👁️ 22K • 👍 1K • 💬 134 • ⏱️ 15:31 • 1d ago
-
----
-
-**[Why Isn&#39;t Bitcoin Pumping on all of this Good News???](https://www.youtube.com/watch?v=Oj4_3sMbmhQ)**
-
-How can Bitcoin look so weak on the charts despite getting some of the most bullish macro headlines we've ever seen? With talk ...
-
-📺 Coin Bureau Trading
-
-👁️ 5K • 👍 459 • 💬 62 • ⏱️ 13:24 • 10h ago
-
----
-
-**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
-
-LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
-
-📺 Altcoin Daily
-
-👁️ 56K • 👍 3K • 💬 256 • ⏱️ 10:23 • 1d ago
-
----
-
-**[The Secret War Behind Bitcoin&#39;s Price Crash (Not What You Think)](https://www.youtube.com/watch?v=4cVGR6n7ttY)**
-
-Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be engineering your complete Wealth Operating ...
-
-📺 Mark Moss
-
-👁️ 124K • 👍 6K • 💬 410 • ⏱️ 21:05 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
-
-What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
-
-📺 Thomas Kralow
-
-👁️ 17K • 👍 701 • 💬 41 • ⏱️ 11:29 • 1d ago
 
 ---
 

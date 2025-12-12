@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T19:26:24.082303+00:00'
+updated: '2025-12-12T19:40:27.912352+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 19:26 UTC  
+**Last Updated:** December 12, 2025 at 19:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.6%  
-**7d:** +1.2%  
+**24h:** -4.7%  
+**7d:** +1.1%  
 **30d:** -5.2%  
-**90d:** -33.3%  
-**1y:** -21.4%  
+**90d:** -33.4%  
+**1y:** -21.5%  
 
 ---
 
@@ -236,7 +236,7 @@ Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 9K • 👍 607 • 💬 48 • ⏱️ 48:17 • 7h ago
+👁️ 11K • 👍 580 • 💬 53 • ⏱️ 48:17 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 📺 Ivan on Tech
 
-👁️ 26K • 👍 2K • 💬 122 • ⏱️ 10:42 • 1d ago
+👁️ 27K • 👍 2K • 💬 122 • ⏱️ 10:42 • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 701 • 💬 41 • ⏱️ 11:29 • 1d ago
+👁️ 17K • 👍 705 • 💬 41 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 299 • 💬 6 • ⏱️ 48:44 • 3h ago
+👁️ 4K • 👍 363 • 💬 9 • ⏱️ 48:44 • 3h ago
 
 ---
 
@@ -276,17 +276,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 106 • 💬 8 • ⏱️ 5:04 • 6h ago
+👁️ 2K • 👍 122 • 💬 8 • ⏱️ 5:04 • 6h ago
 
 ---
 
-**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
+**[This is Not Normal For Ethereum](https://www.youtube.com/watch?v=agl0Kf2d7cQ)**
 
-LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
+ETH isn't just lagging — its story broke. It's down ~3× more than BTC from the highs, ETH/BTC is sitting at multi-year lows, and ...
 
-📺 Altcoin Daily
+📺 Ryan’s Money Lab
 
-👁️ 56K • 👍 3K • 💬 256 • ⏱️ 10:23 • 1d ago
+👁️ 3K • 👍 168 • 💬 23 • ⏱️ 15:43 • 1d ago
 
 ---
 
@@ -300,23 +300,13 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
+**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
 
-In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
 
-📺 FAROKH RADIO
+📺 Altcoin Daily
 
-👁️ 23K • 👍 815 • 💬 116 • ⏱️ 1:10:46 • 2d ago
-
----
-
-**[This is Not Normal For Ethereum](https://www.youtube.com/watch?v=agl0Kf2d7cQ)**
-
-ETH isn't just lagging — its story broke. It's down ~3× more than BTC from the highs, ETH/BTC is sitting at multi-year lows, and ...
-
-📺 Ryan’s Money Lab
-
-👁️ 3K • 👍 173 • 💬 23 • ⏱️ 15:43 • 1d ago
+👁️ 57K • 👍 3K • 💬 256 • ⏱️ 10:23 • 1d ago
 
 ---
 
@@ -326,7 +316,17 @@ BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 360 • 💬 140 • ⏱️ 18:15 • 20h ago
+👁️ 10K • 👍 360 • 💬 141 • ⏱️ 18:15 • 20h ago
+
+---
+
+**[&quot;It Will Flip Ethereum&quot; - Scaramucci on Solana&#39;s Future](https://www.youtube.com/watch?v=4JXiR5vSw_I)**
+
+Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author of the new book Solana Rising, joins ...
+
+📺 CoinDesk
+
+👁️ 3K • 👍 88 • 💬 26 • ⏱️ 13:45 • 1d ago
 
 ---
 
