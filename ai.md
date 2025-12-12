@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T03:40:58.535712+00:00'
+updated: '2025-12-12T04:20:33.804601+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 03:40 UTC  
+**Last Updated:** December 12, 2025 at 04:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 8h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 2h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 15h ago
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 16h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 12h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 13h ago
 
 ---
 
@@ -81,7 +81,7 @@ A new survey finds corporations and investors are overwhelmingly optimistic abou
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 11h ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 12h ago
 
 ---
 
@@ -97,7 +97,7 @@ When my company pivoted to AI in 2023, I lost my job. As I struggle to find a ne
 
 Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.
 
-🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 6h ago
+🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 7h ago
 
 ---
 
@@ -105,7 +105,7 @@ Disney is hedging against the future. OpenAI is clearing a path for Sora. And to
 
 Context: This ""parenting"" AI app called NurtureOS turned out to be satire made by an AI company. (I don't get the logic either, but that's not what I'm concerned about.) My gripe: Someone's going to try sell something like this for real sooner or later, and I can’t stop thinking about the long-term effects it could have on people and society as a whole. Where are we heading with AI in our homes? And especially when kids are involved? The idea behind the app (you can see the features on the site) implied a future where parents could offload actual emotional labour completely. Suppose for an instant that an AI can sooth tantrums, resolve petty fights, teach social skills, and even be tweaked to mold your child's behaviour in specific ways. First of all, is it unethical to use AI to condition your kids? We do it anyway when we teach them certain things are right or wrong, or launch them into specific social constructs. What makes it different when AI's the one doing it? Secondly, there's the emotional intelligence part. Kids learn empathy, boundaries, and emotional resilience through their interactions with other humans. If an AI took deciding how to handle a fight between siblings or how to discipline a child, what happens to the child’s understanding of relationships? Would they start responding to other humans with the expectation that some third party (electronic or otherwise) will always step in to facilitate or mediate? Would they have less room to make mistakes, experiment socially, or negotiate boundaries? Would they even have the skillset to do it with? Thirdly, there’s the impact on parents. If you rely on an app to make the “right” choices for your kid, does that slowly chip away at your confidence? Do you start assuming the AI knows better than your own judgement? Parenting is already full of anxiety. Imagine adding a third party that's constantly between you and your spouse telling you their concept of “ideal behavior”. Just you and you and your friend SteveAI. Finally, the privacy angle is huge. A real version of this app would basically normalise 24/7 emotional surveillance in the home. It would be recording behaviour, conversations, moods, and interactions, and feeding it all to company servers somewhere that you never get to see. They'd have your data forever. Just think about all the crap Meta got up to with the data we fecklessly gave it in our teenage Facebook days. This would be SO much worse than that. This app may have been fake, but the next one may not be, and it exposed a real cultural pressure point. Right now, we keep inviting AI deeper into our lives for convenience. At what point does that start reshaping childhood, parenthood, and just society as a whole in ways we don’t fully understand? Is delegating emotional or developmental tasks to AI inherently dangerous? Or is there a world where it can support parents without replacing them and putting us all at risk?
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal in which the artificial intelligence start-up will use Disney characters in its flagship products. As part of the three-year deal, announced on Thursday, Disney will make more than 200 Marvel, Pixar and Star Wars characters available within ChatGPT and Sora, OpenAI’s video-generation tool. The company will also take a $1bn stake in the $500bn start-up, as well as warrants to purchase additional equity at a later date. Read the full story for free with your email here: https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
 
-🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 12h ago
+🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 13h ago
 
 ---
 
@@ -123,7 +123,7 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 
 **[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -131,37 +131,37 @@ The New York Times • 1h ago
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Time Magazine • 14h ago
+Time Magazine • 15h ago
 
 ---
 
-**[Altman and Musk launched OpenAI as a nonprofit 10 years ago. Now they’re rivals in a trillion-dollar market](https://www.cnbc.com/2025/12/11/openai-began-decade-ago-as-nonprofit-lab-musk-and-altman-now-rivals.html)**
+**[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
 
-As OpenAI turns 10, the former nonprofit AI lab is at the center of a roughly $1.4 trillion bet on AI infrastructure.
+California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-CNBC • 1h ago
-
----
-
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqfAAcFDo4B5pB0zju1JcQI4BYFJeYRE8amQH3Ctqp1z4Da38UxDcwTM&gaa_ts=693b9229&gaa_sig=q4pt6u3akJ5UznP7A9Op2jaOMYKl6lFtTLh3H0hqyjX1vl2w0x-q9AGN5_KpDMqNl2xtg4-N7QksGDtCLGCwdw%3D%3D)**
-
-The Wall Street Journal • 6h ago
+BBC • 1h ago
 
 ---
 
-**[AI kids' toys give explicit and dangerous responses in tests](https://www.nbcnews.com/tech/tech-news/ai-toys-gift-present-safe-kids-robot-child-miko-grok-alilo-miiloo-rcna246956)**
+**[Jamie Dimon: AI 'will eliminate jobs,' but people with these skills will get 'plenty' of opportunities](https://www.cnbc.com/2025/12/11/jamie-dimon-ai-will-eliminate-jobs-but-these-skills-will-get-you-opportunities.html)**
 
-New research from Public Interest Research Group and tests conducted by NBC News found that a wide range of AI toys have loose guardrails.
+JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
 
-NBC News • 17h ago
+cnbc.com • 14h ago
 
 ---
 
-**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://www.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
+**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqeR3VvJV2DjyPKwHrHwzLiZIyQW6Fc-7RLZgeOVckJvX7E0kw51yGw5&gaa_ts=693b9b78&gaa_sig=BHjJXXhNfL7zpR4tggWE08wENqZo-mIHEqD42T8WBr6YQCU3oCBWFoWYS4Cve1L_uPcVAhMza_zo2RI3n8hPEA%3D%3D)**
 
-President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
+The Wall Street Journal • 7h ago
 
-CNN • 3h ago
+---
+
+**[Not lovin' it: McDonald's pulls AI-generated Christmas ad after social media backlash](https://www.nbcnews.com/world/europe/mcdonalds-ai-generated-christmas-advert-social-media-backlash-rcna248590)**
+
+Titled “the most terrible time of the year,” the 45-second ad featured a series of mishaps befalling people at Christmas.
+
+NBC News • 14h ago
 
 ---
 
@@ -173,25 +173,25 @@ NPR • 3h ago
 
 ---
 
-**[The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters from across Disney’s brands to Sora](https://openai.com/index/disney-sora-agreement/)**
-
-OpenAI • 13h ago
-
----
-
-**[SoftBank Eyes Data Center Group Switch as Son Hunts for AI](https://www.bloomberg.com/news/articles/2025-12-12/softbank-eyes-data-center-group-switch-as-son-hunts-for-ai-plays)**
-
-SoftBank Group Corp. is studying potential acquisitions including data center operator Switch Inc., a sign billionaire founder Masayoshi Son aims to ride an AI-fueled boom in digital infrastructure, people with knowledge of the matter said.
-
-Bloomberg.com • 43m ago
-
----
-
 **[Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/)**
 
 Explore GPT‑5.2 in Microsoft Foundry—advanced reasoning, agentic execution, and compliance-ready AI for enterprise scale.
 
-Microsoft Azure • 9h ago
+Microsoft Azure • 10h ago
+
+---
+
+**[The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters from across Disney’s brands to Sora](https://openai.com/index/disney-sora-agreement/)**
+
+OpenAI • 14h ago
+
+---
+
+**[Cursor Launches an AI Coding Tool For Designers](https://www.wired.com/story/cursor-launches-pro-design-tools-figma/)**
+
+The 300-person startup hopes bringing designers aboard will give it an edge in an increasingly competitive AI software market.
+
+WIRED • 12h ago
 
 ---
 
@@ -219,7 +219,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 320 • 💬 2 • 13h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 320 • 💬 2 • 14h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -227,7 +227,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 286 • 💬 143 • 2d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 286 • 💬 144 • 2d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -235,7 +235,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 243 • 💬 137 • 14h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 247 • 💬 142 • 14h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -267,7 +267,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 106 • 💬 80 • 11h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 106 • 💬 80 • 12h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -283,23 +283,23 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 ## YouTube Videos: "ai"
 
+**[SpongeBob’s New AI Ad is HORRIBLE](https://www.youtube.com/watch?v=UU7pfSjvfj0)**
+
+A new SpongeBob SquarePants: Krusty Cook Off advertisement on social media uses artificial intelligence and looks horrible.
+
+📺 Vailskibum
+
+👁️ 89K • 👍 6K • 💬 1K • ⏱️ 3:09 • 8h ago
+
+---
+
 **[OpenAI unveils GPT-5.2, its strongest AI model for professional use](https://www.youtube.com/watch?v=wXXvB8xVyPk)**
 
 CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The company said the model is better at ...
 
 📺 CNBC Television
 
-👁️ 15K • 👍 185 • 💬 66 • ⏱️ 3:04 • 9h ago
-
----
-
-**[McDonald’s Pulls ‘Creepy’ AI Christmas ad After Viewer Backlash: ‘As Real as Their Hamburgers’](https://www.youtube.com/watch?v=HpWCvItr55c)**
-
-McDonald's has taken down a Christmas ad that was allegedly entirely produced with artificial intelligence after the brand was ...
-
-📺 New York Post
-
-👁️ 50K • 👍 350 • 💬 248 • ⏱️ 2:58 • 1d ago
+👁️ 17K • 👍 199 • 💬 68 • ⏱️ 3:04 • 9h ago
 
 ---
 
@@ -309,7 +309,17 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 49K • 👍 2K • 💬 364 • ⏱️ 14:55 • 1d ago
+👁️ 49K • 👍 2K • 💬 366 • ⏱️ 14:55 • 1d ago
+
+---
+
+**[McDonald’s Pulls ‘Creepy’ AI Christmas ad After Viewer Backlash: ‘As Real as Their Hamburgers’](https://www.youtube.com/watch?v=HpWCvItr55c)**
+
+McDonald's has taken down a Christmas ad that was allegedly entirely produced with artificial intelligence after the brand was ...
+
+📺 New York Post
+
+👁️ 53K • 👍 357 • 💬 254 • ⏱️ 2:58 • 1d ago
 
 ---
 
@@ -319,17 +329,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 4K • 👍 257 • 💬 9 • ⏱️ 13:12 • 9h ago
-
----
-
-**[In 2026, DON&#39;T Build AI Agents, Do This Instead..](https://www.youtube.com/watch?v=VASyr2DxEKE)**
-
-Check out Nebius today: ...
-
-📺 The Cutting Edge School
-
-👁️ 8K • 👍 574 • 💬 50 • ⏱️ 13:41 • 14h ago
+👁️ 4K • 👍 277 • 💬 9 • ⏱️ 13:12 • 9h ago
 
 ---
 
@@ -339,7 +339,7 @@ In this episode, I sit down with @elonmusk for a wide-ranging conversation on DO
 
 📺 Katie Miller Pod
 
-👁️ 376K • 👍 15K • 💬 4K • ⏱️ 52:58 • 2d ago
+👁️ 383K • 👍 15K • 💬 4K • ⏱️ 52:58 • 2d ago
 
 ---
 
@@ -349,7 +349,17 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 44K • 👍 2K • 💬 76 • ⏱️ 12:50 • 2d ago
+👁️ 44K • 👍 2K • 💬 77 • ⏱️ 12:50 • 2d ago
+
+---
+
+**[In 2026, DON&#39;T Build AI Agents, Do This Instead..](https://www.youtube.com/watch?v=VASyr2DxEKE)**
+
+Check out Nebius today: ...
+
+📺 The Cutting Edge School
+
+👁️ 8K • 👍 642 • 💬 57 • ⏱️ 13:41 • 15h ago
 
 ---
 
@@ -359,17 +369,7 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 25K • 👍 406 • 💬 81 • ⏱️ 10:31 • 12h ago
-
----
-
-**[Steve Eisman on AI: LLM improvements will begin to gradually slow but not selling AI stocks I own](https://www.youtube.com/watch?v=wSJMtTETOv8)**
-
-Steve Eisman, former Neuberger Berman senior portfolio manager, joins 'Squawk Box' to discuss Eisman's health troubles, the ...
-
-📺 CNBC Television
-
-👁️ 36K • 👍 427 • 💬 126 • ⏱️ 4:34 • 13h ago
+👁️ 28K • 👍 430 • 💬 84 • ⏱️ 10:31 • 13h ago
 
 ---
 
@@ -379,7 +379,7 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 hxsain
 
-👁️ 337K • 👍 26K • 💬 276 • ⏱️ 0:51 • 2d ago
+👁️ 338K • 👍 26K • 💬 276 • ⏱️ 0:51 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 736 • 2d ago
+⬇️ 80,162 • ❤️ 737 • 2d ago
 
 ---
 
@@ -407,7 +407,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,553 • 3d ago
+⬇️ 245,041 • ❤️ 2,557 • 3d ago
 
 ---
 
@@ -419,7 +419,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 18,587 • ❤️ 353 • 2d ago
+⬇️ 18,587 • ❤️ 354 • 2d ago
 
 ---
 
@@ -431,7 +431,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,209 • ❤️ 269 • 2d ago
+⬇️ 2,209 • ❤️ 270 • 2d ago
 
 ---
 
@@ -443,7 +443,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 267 • 1d ago
+⬇️ 7,222 • ❤️ 269 • 1d ago
 
 ---
 
@@ -467,7 +467,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 205 • 2d ago
+⬇️ 12,302 • ❤️ 207 • 2d ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 9.7k • 🔱 1.6k • 37m ago
+⭐ 9.7k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -665,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.1k • 🔱 233 • 10h ago
+⭐ 2.1k • 🔱 233 • 11h ago
 
 ---
 
@@ -695,7 +695,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 12h ago
+⭐ 1.1k • 🔱 134 • 13h ago
 
 ---
 

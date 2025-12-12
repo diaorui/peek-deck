@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T03:40:58.543365+00:00'
+updated: '2025-12-12T04:20:33.812928+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 03:40 UTC  
+**Last Updated:** December 12, 2025 at 04:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,563.31
+### $92,204.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
+**24h:** +2.1%  
 **7d:** +3.3%  
 **30d:** -7.6%  
-**90d:** -20.2%  
-**1y:** -9.1%  
+**90d:** -20.1%  
+**1y:** -9.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1841.67B
+**Market Cap:** $1842.11B
 Rank #1
 
-**Circulating Supply:** 19,960,950 BTC
+**Circulating Supply:** 19,960,962 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -26.8%
 
 **All-Time Low:** $67.81
-+136058.4%
++135912.4%
 
 ---
 
@@ -87,31 +87,31 @@ Made a little edit on the pump it up song to include the current craziness going
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-5h ago
-
----
-
-**[I can’t wait to be rich guys](https://www.reddit.com/r/Bitcoin/comments/1pk4b3i/i_cant_wait_to_be_rich_guys/)**
-
-9h ago
-
----
-
-**[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
-
-12h ago
-
----
-
-**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
-
-2h ago
+6h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
 
-7h ago
+8h ago
+
+---
+
+**[I can’t wait to be rich guys](https://www.reddit.com/r/Bitcoin/comments/1pk4b3i/i_cant_wait_to_be_rich_guys/)**
+
+10h ago
+
+---
+
+**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
+
+3h ago
+
+---
+
+**[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
+
+13h ago
 
 ---
 
@@ -127,17 +127,17 @@ Made a little edit on the pump it up song to include the current craziness going
 
 ---
 
-**[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
+**[Solo miner from CKpool has mined a block](https://www.reddit.com/r/Bitcoin/comments/1pkh0d8/solo_miner_from_ckpool_has_mined_a_block/)**
 
-16h ago
+The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
+
+1h ago
 
 ---
 
-**[Is today a good day to start investing in Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1pk7kak/is_today_a_good_day_to_start_investing_in_bitcoin/)**
+**[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-For context I never touched any crypto before. Is 100€ as starting too little? What would you put in?
-
-7h ago
+16h ago
 
 ---
 
@@ -145,37 +145,37 @@ For context I never touched any crypto before. Is 100€ as starting too little?
 
 ## Google News: "bitcoin"
 
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
+
+Reuters • 15h ago
+
+---
+
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
 
 ---
 
 **[Strategy: Index Exclusion Is Anti-Trump, Anti-Bitcoin](https://www.investors.com/news/strategy-mstr-stock-msci-index-exclusion-anti-trump-bitcoin-price-impact/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
-**['National Security' at Risk If MSCI Excludes Crypto Treasuries, Warns Bitcoin Giant Strategy](https://decrypt.co/351880/national-security-risk-msci-excludes-crypto-treasuries-warns-bitcoin-strategy)**
+**[Crypto pros blast a potential move to exclude bitcoin holding companies from MSCI indexes](https://www.businessinsider.com/msci-crypto-index-bitcoin-treasury-strategy-btc-price-2025-12)**
 
-Bitcoin treasury leader Strategy argued to MSCI that excluding a crypto-buying firms from its indices would hurt America’s national security.
+MSCI could exclude crypto treasury firms from its widely followed indexes. The move is drawing sharp criticism from industry players.
 
-Decrypt • 1d ago
-
----
-
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
-
-Reuters • 14h ago
+Business Insider • 2d ago
 
 ---
 
-**[Bitcoin and Ethereum Price Prediction: Will BTC’s Weekly Structure and ETH’s Reversal Signal Hold Under Growing Market Risk?](https://finance.yahoo.com/news/bitcoin-ethereum-price-prediction-btc-020007627.html)**
+**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
 
-Traders have long sought the optimal time to trade crypto, and at different points over the years, European, US, and Asian time zones have all had their turn, offering the best returns. However, a newly proposed ETF now offers Bitcoin exposure with a twist. The Nicholas Bitcoin and Treasuries AfterDark ...
+Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -187,13 +187,7 @@ BBC • 1d ago
 
 ---
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqd7mThGTCHsKDzuBpM4LzS2r6_sAR7BpLUfatKSAkZ8vs2oRHtYd4w1&gaa_ts=693b922a&gaa_sig=OXpNdu4DbdzAAvPfBoCI-LxJGhv4qfCJIeGPSlN5OwB64BYG-66-wDpE77uN5WKyO8Rar2hBAFGjzJX2JIahoQ%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy.](https://www.barrons.com/articles/american-bitcoin-stock-price-eric-trump-426a9d3b?gaa_at=eafs&gaa_n=AWEtsqeLDcpIHt8-1gcsqrAbM8dMsDDncewStyOINpKQumBKGSE5c8FsgeDN&gaa_ts=693b922a&gaa_sig=VS-0bsiwOhgASLZLzF3kspkNjS3FhhqRkDeefgf-SD_wTZvO3jF7y_5SaDWyQRZj3nNzvlovdyKWWeEkewtyBQ%3D%3D)**
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqceKJ0SCrxssKyRVyF-cFA2vkIXwsMJsrT54cqTDzej42dwmWTIuhXR&gaa_ts=693b9b79&gaa_sig=cNyRLPKsnDhr7xI0AOA3WXEVTg0gnqw3m6Q54Rdi5JtXi0tJXAity5UP6q_cvU1M1cwt79xHBsSYbnNPzUNJkg%3D%3D)**
 
 Barron's • 1d ago
 
@@ -203,15 +197,21 @@ Barron's • 1d ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-CNBC • 1d ago
+cnbc.com • 1d ago
 
 ---
 
-**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
+**[Twenty One Capital Drops in NYSE Debut as Bitcoin Treasury Firms Face ‘Broader Re-Pricing’](https://finance.yahoo.com/news/twenty-one-capital-drops-nyse-115955127.html)**
 
-Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
+The debut underperformed its SPAC benchmark, as investors pull back from Bitcoin treasury plays in favor of clearer operating models.
 
-Business Insider • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -281,7 +281,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 6 • 💬 0 • 5h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 6 • 💬 0 • 6h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -303,7 +303,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 6K • 👍 468 • 💬 12 • ⏱️ 48:24 • 5h ago
+👁️ 9K • 👍 591 • 💬 12 • ⏱️ 48:24 • 6h ago
 
 ---
 
@@ -313,37 +313,17 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 6K • 👍 84 • 💬 77 • ⏱️ 4:06 • 8h ago
+👁️ 7K • 👍 93 • 💬 75 • ⏱️ 4:06 • 9h ago
 
 ---
 
-**[🚨 FED CUTS AND BITCOIN DUMPS?!?!?!?! 🤷🏽‍♂️](https://www.youtube.com/watch?v=eN0aGirkevM)**
+**[The Fed CUTS… and Bitcoin DROPS Below $90K?!](https://www.youtube.com/watch?v=u_H9gXNc630)**
 
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 10K • 👍 795 • 💬 304 • ⏱️ 14:43 • 7h ago
-
----
-
-**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
-
-What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
-
-📺 Thomas Kralow
-
-👁️ 15K • 👍 644 • 💬 45 • ⏱️ 11:29 • 15h ago
-
----
-
-**[Banks Are BENDING THE KNEE to Bitcoin... But There&#39;s a Catch (OCC Greenlight&#39;s Crypto Deals!)](https://www.youtube.com/watch?v=8U3dwE8Iz64)**
-
-The U.S. just gave banks the green light to dive into Bitcoin—no custody needed. From OCC approval to PNC offering real BTC to ...
+Jerome Powell just went full-dovish — QT is winding down, liquidity is returning, and rate hikes are off the table. Bitcoin dipped ...
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 150 • ⏱️ 15:31 • 13h ago
+👁️ 10K • 👍 1K • 💬 79 • ⏱️ 18:22 • 4h ago
 
 ---
 
@@ -353,17 +333,47 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 761 • 👍 67 • 💬 12 • ⏱️ 22:05 • 4h ago
+👁️ 1K • 👍 99 • 💬 47 • ⏱️ 22:05 • 5h ago
 
 ---
 
-**[The FED UNLEASHES the Money Printer… and Bitcoin DROPS Below $90K?!](https://www.youtube.com/watch?v=u_H9gXNc630)**
+**[🚨 FED CUTS AND BITCOIN DUMPS?!?!?!?! 🤷🏽‍♂️](https://www.youtube.com/watch?v=eN0aGirkevM)**
 
-Jerome Powell just went full-dovish — QT is winding down, liquidity is returning, and rate hikes are off the table. Bitcoin dipped ...
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 11K • 👍 852 • 💬 310 • ⏱️ 14:43 • 8h ago
+
+---
+
+**[What Harvard’s $450M Bitcoin Bet Really Means](https://www.youtube.com/watch?v=gOXkRc2RW_Q)**
+
+The richest universities on Earth aren't just studying Bitcoin — they're buying it. This video breaks down how the legendary Yale ...
+
+📺 Swan Bitcoin
+
+👁️ 2K • 👍 118 • 💬 10 • ⏱️ 1:55 • 13h ago
+
+---
+
+**[Banks Are BENDING THE KNEE to Bitcoin... But There&#39;s a Catch (OCC Greenlight&#39;s Crypto Deals!)](https://www.youtube.com/watch?v=8U3dwE8Iz64)**
+
+The U.S. just gave banks the green light to dive into Bitcoin—no custody needed. From OCC approval to PNC offering real BTC to ...
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 824 • 💬 64 • ⏱️ 18:22 • 3h ago
+👁️ 19K • 👍 1K • 💬 158 • ⏱️ 15:31 • 14h ago
+
+---
+
+**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
+
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 54K • 👍 3K • 💬 339 • ⏱️ 10:23 • 1d ago
 
 ---
 
@@ -373,7 +383,7 @@ Bear or Bull? Bearish short term, but buying every day! The links below may incl
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 596 • 💬 42 • ⏱️ 44:51 • 8h ago
+👁️ 9K • 👍 631 • 💬 45 • ⏱️ 44:51 • 9h ago
 
 ---
 
@@ -383,17 +393,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 49K • 👍 2K • 💬 639 • ⏱️ 8:26 • 1d ago
-
----
-
-**[The Secret War Behind Bitcoin&#39;s Price Crash (Not What You Think)](https://www.youtube.com/watch?v=4cVGR6n7ttY)**
-
-Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be engineering your complete Wealth Operating ...
-
-📺 Mark Moss
-
-👁️ 114K • 👍 5K • 💬 423 • ⏱️ 21:05 • 1d ago
+👁️ 50K • 👍 2K • 💬 644 • ⏱️ 8:26 • 1d ago
 
 ---
 

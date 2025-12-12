@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T03:40:58.551609+00:00'
+updated: '2025-12-12T04:20:33.822185+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 03:40 UTC  
+**Last Updated:** December 12, 2025 at 04:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
 
-41m ago
+1h ago
 
 ---
 
@@ -60,7 +60,7 @@ I see all kinds of demos and examples from mujoco that looks splashy, but I’ve
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-16h ago
+17h ago
 
 ---
 
@@ -84,7 +84,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into threejs - Run MuJoCo physics (decoupled from renderer) What do you think about this?!?
 
-11h ago
+12h ago
 
 ---
 
@@ -94,19 +94,19 @@ Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into thre
 
 ---
 
+**[Thoughts on TetherIA's Open Aero Hand](https://www.reddit.com/r/robotics/comments/1pki1vp/thoughts_on_tetherias_open_aero_hand/)**
+
+https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on these hands - anyone here purchased one or is thinking of purchasing one? I ask because I've been thinking about buying
+
+28m ago
+
+---
+
 **[Hyundai MobED](https://www.reddit.com/r/robotics/comments/1pjuhk2/hyundai_mobed/)**
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 16h ago
-
----
-
-**[Generating an SDF Gazebo World from a geojson file](https://www.reddit.com/r/robotics/comments/1pkfoge/generating_an_sdf_gazebo_world_from_a_geojson_file/)**
-
-We have a GIS team who gives us a geojson of parking lots for shipping containers and trucks. The geojson polygons are of the individual parking lots with different layouts at each site. Looking for recommendations on how to convert these geojsons into a gazebo world of just an empty parking lot, and (hopefully) systematically generate trucks and containers randomly in the parking lot. Currently thinking about creating a python script that takes in the geojson as input and creating a world matching the origin and lat/lon coordinates and generating parking lines at the long side intersection of 2 bounding boxes with the appropriate label/property (Spot 32, 33, 34,...) I assume the truck and shipping container generation will be part of the next step where i take preexisiting models convert them to be gazebo compatible and disperse them into random spots on the parking lot. Are there any similar projects yall have worked on? how did you approach them and are there any tools I should be aware of? Creating gazebo worlds seems is a bit of a pain, but our current code base is very depending on this geojson in real life so I would need to replicate the usage of that geojson and its quirks in the simulator to catch edge cases. Ive attached a snippet of the 1 of the geojsons for context https://preview.redd.it/053m45b4ko6g1.png?width=2250&format=png&auto=webp&s=49ccf973666e708cb7605bb2c944556604df4a81
-
-1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 17h ago
 
 ---
 
@@ -130,7 +130,7 @@ Business Wire • 1d ago
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
-Runway • 9h ago
+Runway • 10h ago
 
 ---
 
@@ -146,7 +146,7 @@ IEEE Spectrum • 1d ago
 
 Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
 
-Shore Daily News • 17h ago
+Shore Daily News • 18h ago
 
 ---
 
@@ -158,17 +158,17 @@ Deloitte • 1d ago
 
 ---
 
-**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
+**[EQT Cuts Deal For 10,000 Humanoids From Robot Startup It Backs](https://www.bloomberg.com/news/articles/2025-12-11/eqt-to-send-10-000-humanoid-robots-from-startup-1x-to-portfolio-companies)**
 
-Making safe and regulated humanoids is a core mission of the summit and participants.
-
-ABC7 San Francisco • 2h ago
+Bloomberg.com • 14h ago
 
 ---
 
-**[EQT Cuts Deal For 10,000 Humanoids From Robot Startup It Backs](https://www.bloomberg.com/news/articles/2025-12-11/eqt-to-send-10-000-humanoid-robots-from-startup-1x-to-portfolio-companies)**
+**[World’s first six-armed humanoid robot that promises 30% more output unveiled in China](https://interestingengineering.com/ai-robotics/worlds-first-six-armed-humanoid-robot)**
 
-Bloomberg.com • 13h ago
+Chinese home appliance company Midea has unveiled its six-armed super humanoid robot at the Greater Bay Area New Economy Forum in China.
+
+Interesting Engineering • 12h ago
 
 ---
 
@@ -198,7 +198,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 78K • 👍 2K • 💬 510 • ⏱️ 14:26 • 3d ago
+👁️ 80K • 👍 2K • 💬 513 • ⏱️ 14:26 • 3d ago
 
 ---
 
@@ -208,7 +208,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 107K • 👍 4K • 💬 328 • ⏱️ 17:44 • 1d ago
+👁️ 110K • 👍 4K • 💬 332 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -218,27 +218,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 35K • 👍 658 • 💬 159 • ⏱️ 18:46 • 5d ago
-
----
-
-**[China&#39;s Robowolf Maker&#39;s New Humanoid #humanoidrobot #robot #robotics #china #airobot #defensetech](https://www.youtube.com/watch?v=hpRm11_DEP4)**
-
-The maker of China's military Robowolf quadrupeds is now unleashing its humanoid robots into industry after securing what it ...
-
-📺 Kalil 4.0
-
-👁️ 821 • 👍 43 • 💬 1 • ⏱️ 0:53 • 4h ago
-
----
-
-**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
-
-Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
-
-📺 CNN
-
-👁️ 83K • 👍 1K • 💬 429 • ⏱️ 0:41 • 3d ago
+👁️ 35K • 👍 658 • 💬 161 • ⏱️ 18:46 • 6d ago
 
 ---
 
@@ -248,7 +228,17 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 132K • 👍 7K • 💬 900 • ⏱️ 19:33 • 5d ago
+👁️ 132K • 👍 7K • 💬 902 • ⏱️ 19:33 • 5d ago
+
+---
+
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
+
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
+
+📺 CNN
+
+👁️ 84K • 👍 1K • 💬 431 • ⏱️ 0:41 • 4d ago
 
 ---
 
@@ -268,17 +258,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 199K • 👍 923 • 💬 298 • ⏱️ 1:03 • 5d ago
-
----
-
-**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
-
-Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
-
-📺 The Military Show
-
-👁️ 183K • 👍 6K • 💬 358 • ⏱️ 16:55 • 13h ago
+👁️ 200K • 👍 923 • 💬 298 • ⏱️ 1:03 • 5d ago
 
 ---
 
@@ -286,7 +266,27 @@ Ukraine's battlefield is changing fast as ground robots move from support roles 
 
 📺 AI . Robot
 
-👁️ 111K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
+👁️ 112K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
+
+---
+
+**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+
+After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+
+📺 Kalil 4.0
+
+👁️ 20K • 👍 372 • 💬 71 • ⏱️ 0:59 • 4d ago
+
+---
+
+**[Humanoid Robots Are Moving in Ways We’ve NEVER Seen Before.](https://www.youtube.com/watch?v=vHoyHfzhfBY)**
+
+Want to stay up to date with ai news - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid ...
+
+📺 TheAIGRID
+
+👁️ 26K • 👍 823 • 💬 175 • ⏱️ 10:33 • 6d ago
 
 ---
 
