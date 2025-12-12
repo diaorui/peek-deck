@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T21:33:30.330697+00:00'
+updated: '2025-12-12T21:44:22.806817+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 21:33 UTC  
+**Last Updated:** December 12, 2025 at 21:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,7 +62,7 @@ Hi guys, I want to know what you guys think where we can use RL to actually fill
 
 ROS News for the Week of December 8th, 2025    🎄 All we want for Christmas is for you to become a Build Farm Backer! The ROS Build Farm is one of the largest public Jenkins instances in the world, and it is also one of our largest expenses. If you’ve ever saved yourself a few hours of compile time by downloading one of our pre-compiled ROS binaries, please consider pitching in to support our server costs. The money raised by this campaign goes directly to the OSRF, a 501(c)(3) non...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 49m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 1h ago
 
 ---
 
@@ -78,7 +78,7 @@ The whole setup (belt motion, detection triggers, timing, etc.) is built inside 
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-23h ago
+1d ago
 
 ---
 
@@ -198,7 +198,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 137K • 👍 5K • 💬 399 • ⏱️ 17:44 • 2d ago
+👁️ 143K • 👍 5K • 💬 407 • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 90K • 👍 2K • 💬 575 • ⏱️ 14:26 • 4d ago
+👁️ 91K • 👍 2K • 💬 583 • ⏱️ 14:26 • 4d ago
 
 ---
 
@@ -218,25 +218,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 35K • 👍 669 • 💬 165 • ⏱️ 18:46 • 6d ago
-
----
-
-**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
-
-Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
-
-📺 CNN
-
-👁️ 86K • 👍 1K • 💬 436 • ⏱️ 0:41 • 4d ago
-
----
-
-**[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
-
-📺 AI . Robot
-
-👁️ 127K • 👍 2K • 💬 24 • ⏱️ 0:19 • 4d ago
+👁️ 35K • 👍 671 • 💬 165 • ⏱️ 18:46 • 6d ago
 
 ---
 
@@ -246,7 +228,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 136K • 👍 7K • 💬 925 • ⏱️ 19:33 • 6d ago
+👁️ 136K • 👍 7K • 💬 929 • ⏱️ 19:33 • 6d ago
 
 ---
 
@@ -256,7 +238,17 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 201K • 👍 929 • 💬 298 • ⏱️ 1:03 • 6d ago
+👁️ 201K • 👍 931 • 💬 298 • ⏱️ 1:03 • 6d ago
+
+---
+
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
+
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
+
+📺 CNN
+
+👁️ 86K • 👍 1K • 💬 438 • ⏱️ 0:41 • 4d ago
 
 ---
 
@@ -266,25 +258,35 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 2K • 👍 61 • ⏱️ 0:09 • 5h ago
+👁️ 5K • 👍 111 • ⏱️ 0:09 • 6h ago
 
 ---
 
-**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
-
-Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
-
-📺 The Military Show
-
-👁️ 292K • 👍 8K • 💬 469 • ⏱️ 16:55 • 1d ago
-
----
-
-**[First Humanoid Robot Spotted on Korean Streets. #humanoid #robot  #robotics #ai](https://www.youtube.com/watch?v=42ZwncHFVak)**
+**[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
 
 📺 AI . Robot
 
-👁️ 12K • 👍 212 • 💬 10 • ⏱️ 0:10 • 1d ago
+👁️ 129K • 👍 2K • 💬 24 • ⏱️ 0:19 • 4d ago
+
+---
+
+**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+
+After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+
+📺 Kalil 4.0
+
+👁️ 20K • 👍 377 • 💬 71 • ⏱️ 0:59 • 5d ago
+
+---
+
+**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
+
+Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
+
+📺 TheAIGRID
+
+👁️ 18K • 👍 487 • 💬 112 • ⏱️ 42:48 • 4d ago
 
 ---
 

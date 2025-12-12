@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T21:33:30.321023+00:00'
+updated: '2025-12-12T21:44:22.797527+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 21:33 UTC  
+**Last Updated:** December 12, 2025 at 21:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** +0.7%  
-**30d:** -9.9%  
-**90d:** -22.1%  
-**1y:** -11.2%  
+**24h:** -2.2%  
+**7d:** +1.0%  
+**30d:** -9.6%  
+**90d:** -21.8%  
+**1y:** -10.9%  
 
 ---
 
@@ -307,33 +307,23 @@ We’ve already written several times about the danger posed by adding AI to law
 
 ## YouTube Videos: "bitcoin"
 
-**[&quot;This Is Why the Next Bitcoin Run Will Shock Everyone&quot; - Matt Hougan](https://www.youtube.com/watch?v=GN00YmQ8Tv8)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 185 • 💬 16 • ⏱️ 22:05 • 22h ago
-
----
-
 **[Why Bitcoin’s Next Big Move Is Closer Than Everyone Thinks](https://www.youtube.com/watch?v=JWUeyIQ-cb8)**
 
 Mel Mattison is one of the leading macro strategists on the internet, known for his deep insights into global markets and digital ...
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 1K • 💬 12 • ⏱️ 48:24 • 23h ago
+👁️ 22K • 👍 1K • 💬 12 • ⏱️ 48:24 • 23h ago
 
 ---
 
-**[BITCOIN BAD: GET OUT?](https://www.youtube.com/watch?v=mlzJcGVs2eI)**
+**[&quot;This Is Why the Next Bitcoin Run Will Shock Everyone&quot; - Matt Hougan](https://www.youtube.com/watch?v=GN00YmQ8Tv8)**
 
-Bitcoin bear flag. 300k scenario revisit. What I will do in 2026. Larsson Line Pro https://www.ctolarsson.com ❌ X ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 CTO LARSSON
+📺 Savvy Finance
 
-👁️ 13K • 👍 2K • 💬 120 • ⏱️ 13:21 • 8h ago
+👁️ 5K • 👍 193 • 💬 18 • ⏱️ 22:05 • 22h ago
 
 ---
 
@@ -343,17 +333,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 14K • 👍 154 • 💬 88 • ⏱️ 4:06 • 1d ago
-
----
-
-**[The Fed CUTS… and Bitcoin DROPS Below $90K?!](https://www.youtube.com/watch?v=u_H9gXNc630)**
-
-Jerome Powell just went full-dovish — QT is winding down, liquidity is returning, and rate hikes are off the table. Bitcoin dipped ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 170 • ⏱️ 18:22 • 21h ago
+👁️ 15K • 👍 157 • 💬 90 • ⏱️ 4:06 • 1d ago
 
 ---
 
@@ -363,27 +343,37 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Crypto Cam
 
-👁️ 18K • 👍 454 • 💬 37 • ⏱️ 0:27 • 1d ago
+👁️ 18K • 👍 455 • 💬 37 • ⏱️ 0:27 • 1d ago
 
 ---
 
-**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
+**[Bitcoin Price Action LIVE - The Signal Has Fired](https://www.youtube.com/watch?v=7DkPDZ961mA)**
 
-LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
+Stay informed with the latest insights on **bitcoin today**, focusing on effective **trading strategy** and essential **technical ...
 
-📺 Altcoin Daily
+📺 Krown
 
-👁️ 57K • 👍 3K • 💬 256 • ⏱️ 10:23 • 1d ago
+👁️ 5K • 👍 406 • 💬 145 • ⏱️ 1:29:53 • 3h ago
 
 ---
 
-**[Bitcoin and Altcoins: Dubious Speculation](https://www.youtube.com/watch?v=bcHNiLDPqmw)**
+**[BITCOIN BAD: GET OUT?](https://www.youtube.com/watch?v=mlzJcGVs2eI)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 ITC: ...
+Bitcoin bear flag. 300k scenario revisit. What I will do in 2026. Larsson Line Pro https://www.ctolarsson.com ❌ X ...
 
-📺 Crypto Kid
+📺 CTO LARSSON
 
-👁️ 2K • 👍 160 • 💬 57 • ⏱️ 29:06 • 6h ago
+👁️ 16K • 👍 2K • 💬 134 • ⏱️ 13:21 • 8h ago
+
+---
+
+**[The Fed CUTS… and Bitcoin DROPS Below $90K?!](https://www.youtube.com/watch?v=u_H9gXNc630)**
+
+Jerome Powell just went full-dovish — QT is winding down, liquidity is returning, and rate hikes are off the table. Bitcoin dipped ...
+
+📺 Simply Bitcoin
+
+👁️ 27K • 👍 2K • 💬 178 • ⏱️ 18:22 • 21h ago
 
 ---
 
@@ -393,17 +383,27 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 127K • 👍 6K • 💬 417 • ⏱️ 21:05 • 1d ago
+👁️ 130K • 👍 6K • 💬 423 • ⏱️ 21:05 • 1d ago
 
 ---
 
-**[Banks Are BENDING THE KNEE to Bitcoin... But There&#39;s a Catch (OCC Greenlight&#39;s Crypto Deals!)](https://www.youtube.com/watch?v=8U3dwE8Iz64)**
+**[BITCOIN WILL CRASH HARD!!! (URGENT)](https://www.youtube.com/watch?v=aZQl57cscHQ)**
 
-The U.S. just gave banks the green light to dive into Bitcoin—no custody needed. From OCC approval to PNC offering real BTC to ...
+Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
 
-📺 Simply Bitcoin
+📺 100XClub
 
-👁️ 22K • 👍 1K • 💬 134 • ⏱️ 15:31 • 1d ago
+👁️ 7K • 👍 709 • 💬 189 • ⏱️ 7:18 • 12h ago
+
+---
+
+**[Bitcoin and Altcoins: Dubious Speculation](https://www.youtube.com/watch?v=bcHNiLDPqmw)**
+
+WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 ITC: ...
+
+📺 Crypto Kid
+
+👁️ 3K • 👍 198 • 💬 85 • ⏱️ 29:06 • 6h ago
 
 ---
 
