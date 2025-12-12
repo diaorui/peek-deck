@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T05:38:48.711496+00:00'
+updated: '2025-12-12T05:53:16.588803+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 05:38 UTC  
+**Last Updated:** December 12, 2025 at 05:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +6.7%  
-**30d:** +0.0%  
-**90d:** -29.7%  
-**1y:** -17.1%  
+**24h:** +1.4%  
+**7d:** +6.9%  
+**30d:** +0.2%  
+**90d:** -29.5%  
+**1y:** -17.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $392.32B
+**Market Cap:** $391.89B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.3%
+-34.4%
 
 **All-Time Low:** $0.43
-+750490.7%
++749703.1%
 
 ---
 
@@ -154,7 +154,15 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-The Block • 20h ago
+The Block • 21h ago
+
+---
+
+**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
+
+Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -174,23 +182,15 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqe0GQ6fHqJ-EMqBTDQ5cbsOheBczcn_7NbuRoaEFQulxQd7aD3p3LQ_&gaa_ts=693ba77e&gaa_sig=5spoz0ll2HxizLUgn26w9uXCnjI3LvduxNynFCFUZ0F_oPMFwxs48Tvrf4gBeATQ2bgnHKiEkaK8S4WzQze_Ig%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfc_g8eqy-jEGawqTFRtDQhdRIVzFXcNEFZQfaOPStrK8EVsYSZvOY3&gaa_ts=693bb139&gaa_sig=EDB9YQsDbH8SinVgjor6cvRt5tkp93miYSDBDTDVlgIaq93CKfEN_opnwgiwNq6PQ-pAp4ErpaJBu7WyMio8jw%3D%3D)**
 
-Barron's • 17h ago
+Barron's • 18h ago
 
 ---
 
 **[Bitcoin (BTC) Briefly Pumped Above $94,000, Ethereum (ETH) Jumped by 9%: Market Watch](https://cryptopotato.com/bitcoin-btc-briefly-pumped-above-94000-ethereum-eth-jumped-by-9-market-watch/)**
 
 CryptoPotato • 1d ago
-
----
-
-**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
-
-Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
-
-CoinDesk • 51m ago
 
 ---
 
@@ -210,19 +210,19 @@ Nasdaq • 2d ago
 
 ---
 
-**[Why Did Ethereum Sink More Than 3% Today?](https://www.fool.com/investing/2025/12/11/why-did-ethereum-sink-more-than-3-today/)**
-
-There's one key reason why Ethereum is underperforming its mega-cap peers today.
-
-The Motley Fool • 7h ago
-
----
-
 **[Ethereum Should Be Valued Like Amazon, Says Dragonfly’s Qureshi](https://www.tradingview.com/news/newsbtc:6aa89382f094b:0-ethereum-should-be-valued-like-amazon-says-dragonfly-s-qureshi/)**
 
 Dragonfly managing partner Haseeb Qureshi has sharpened his defense of Ethereum’s valuation, arguing that critics are using the wrong financial framework and that ETH should be analyzed more like an early-stage Amazon than a mature “value” stock.Speaking on the Milk Road Show on 9 December 2025, Qu…
 
 TradingView • 1d ago
+
+---
+
+**[Why Did Ethereum Sink More Than 3% Today?](https://www.fool.com/investing/2025/12/11/why-did-ethereum-sink-more-than-3-today/)**
+
+There's one key reason why Ethereum is underperforming its mega-cap peers today.
+
+The Motley Fool • 7h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 45 • 💬 10 • ⏱️ 4:36 • 19h ago
+👁️ 1K • 👍 45 • 💬 10 • ⏱️ 4:36 • 20h ago
 
 ---
 
@@ -286,7 +286,7 @@ BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 15K • 👍 793 • 💬 79 • ⏱️ 44:48 • 17h ago
+👁️ 15K • 👍 793 • 💬 79 • ⏱️ 44:48 • 18h ago
 
 ---
 
@@ -306,7 +306,7 @@ Ethereum BitMine acquired $112 million in Ethereum from FalconX, bringing holdin
 
 📺 Crypto World Daily
 
-👁️ 5 • 💬 1 • ⏱️ 9:29 • 13h ago
+👁️ 5 • 💬 1 • ⏱️ 9:29 • 14h ago
 
 ---
 

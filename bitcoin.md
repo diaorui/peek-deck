@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T05:38:48.705487+00:00'
+updated: '2025-12-12T05:53:16.582711+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 05:38 UTC  
+**Last Updated:** December 12, 2025 at 05:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** +3.0%  
+**24h:** +2.3%  
+**7d:** +3.1%  
 **30d:** -7.8%  
-**90d:** -20.3%  
-**1y:** -9.2%  
+**90d:** -20.2%  
+**1y:** -9.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1845.37B
+**Market Cap:** $1845.01B
 Rank #1
 
 **Circulating Supply:** 19,960,984 BTC
@@ -93,7 +93,7 @@ Made a little edit on the pump it up song to include the current craziness going
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -115,12 +115,6 @@ Made a little edit on the pump it up song to include the current craziness going
 
 ---
 
-**[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
-
-10h ago
-
----
-
 **[Solo miner from CKpool has mined a block](https://www.reddit.com/r/Bitcoin/comments/1pkh0d8/solo_miner_from_ckpool_has_mined_a_block/)**
 
 The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
@@ -129,9 +123,15 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 ---
 
+**[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
+
+10h ago
+
+---
+
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -147,7 +147,7 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 16h ago
+Reuters • 17h ago
 
 ---
 
@@ -163,13 +163,13 @@ BBC • 1d ago
 
 Experts remain cautiously optimistic as macro hurdles clear amid Bitcoin whale accumulation and liquidity drying up ahead of the holidays.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -191,21 +191,21 @@ Decrypt • 1d ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-CNBC • 1d ago
+cnbc.com • 1d ago
 
 ---
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqevBu3cKNn05z5Hs-9pW7lRqCGJReDFGZmpshfvLO2lOlcyLAovMIzt&gaa_ts=693ba77d&gaa_sig=DqCilawx_gwLsp1PBjUdcUsTvfsoyTSaAwEFjsUOuaLL0MZE49frJLTD_5cxoJdBmHMA1tNC4tqLYY5xEMnjgA%3D%3D)**
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqfYttCSwWzZpME6vgahrWfOKcvkJlupOuLobfocmxtXHn_2DgK1DU3q&gaa_ts=693bb138&gaa_sig=SfOO1u4TiscmGZZPCscgB5FB07K1hk2kpeRU7lykdTK_e5Lc4lddEQnJ5ptKO5N7L_qQOdpYYXx_lX_QwSLZcA%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Twenty One Capital Drops in NYSE Debut as Bitcoin Treasury Firms Face ‘Broader Re-Pricing’](https://finance.yahoo.com/news/twenty-one-capital-drops-nyse-115955127.html)**
+**[Bitcoin Firm Twenty One Falls 20% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
 
-The debut underperformed its SPAC benchmark, as investors pull back from Bitcoin treasury plays in favor of clearer operating models.
+Shares of Twenty One Capital Inc. declined 20% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Yahoo Finance • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -279,7 +279,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Show HN: I got my site down to 237kb by ditching Google Analytics](https://news.ycombinator.com/item?id=46240998)**
 
-⬆️ 1 • 💬 0 • 43m ago • [deadstack.net](https://deadstack.net/)
+⬆️ 1 • 💬 0 • 57m ago • [deadstack.net](https://deadstack.net/)
 
 ---
 
@@ -341,7 +341,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 11K • 👍 852 • 💬 310 • ⏱️ 14:43 • 9h ago
+👁️ 11K • 👍 852 • 💬 310 • ⏱️ 14:43 • 10h ago
 
 ---
 
@@ -361,7 +361,7 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 158 • ⏱️ 15:31 • 15h ago
+👁️ 19K • 👍 1K • 💬 158 • ⏱️ 15:31 • 16h ago
 
 ---
 

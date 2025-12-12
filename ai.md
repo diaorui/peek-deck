@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T05:38:48.697038+00:00'
+updated: '2025-12-12T05:53:16.574226+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 05:38 UTC  
+**Last Updated:** December 12, 2025 at 05:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -105,15 +105,15 @@ Disney is hedging against the future. OpenAI is clearing a path for Sora. And to
 
 Context: This ""parenting"" AI app called NurtureOS turned out to be satire made by an AI company. (I don't get the logic either, but that's not what I'm concerned about.) My gripe: Someone's going to try sell something like this for real sooner or later, and I can’t stop thinking about the long-term effects it could have on people and society as a whole. Where are we heading with AI in our homes? And especially when kids are involved? The idea behind the app (you can see the features on the site) implied a future where parents could offload actual emotional labour completely. Suppose for an instant that an AI can sooth tantrums, resolve petty fights, teach social skills, and even be tweaked to mold your child's behaviour in specific ways. First of all, is it unethical to use AI to condition your kids? We do it anyway when we teach them certain things are right or wrong, or launch them into specific social constructs. What makes it different when AI's the one doing it? Secondly, there's the emotional intelligence part. Kids learn empathy, boundaries, and emotional resilience through their interactions with other humans. If an AI took deciding how to handle a fight between siblings or how to discipline a child, what happens to the child’s understanding of relationships? Would they start responding to other humans with the expectation that some third party (electronic or otherwise) will always step in to facilitate or mediate? Would they have less room to make mistakes, experiment socially, or negotiate boundaries? Would they even have the skillset to do it with? Thirdly, there’s the impact on parents. If you rely on an app to make the “right” choices for your kid, does that slowly chip away at your confidence? Do you start assuming the AI knows better than your own judgement? Parenting is already full of anxiety. Imagine adding a third party that's constantly between you and your spouse telling you their concept of “ideal behavior”. Just you and you and your friend SteveAI. Finally, the privacy angle is huge. A real version of this app would basically normalise 24/7 emotional surveillance in the home. It would be recording behaviour, conversations, moods, and interactions, and feeding it all to company servers somewhere that you never get to see. They'd have your data forever. Just think about all the crap Meta got up to with the data we fecklessly gave it in our teenage Facebook days. This would be SO much worse than that. This app may have been fake, but the next one may not be, and it exposed a real cultural pressure point. Right now, we keep inviting AI deeper into our lives for convenience. At what point does that start reshaping childhood, parenthood, and just society as a whole in ways we don’t fully understand? Is delegating emotional or developmental tasks to AI inherently dangerous? Or is there a world where it can support parents without replacing them and putting us all at risk?
 
-11h ago
+12h ago
 
 ---
 
-**[OpenAI and Disney just ended the ‘war’ between AI and Hollywood with their $1 billion Sora deal—and OpenAI made itself ‘indispensable,’ expert says | Fortune](https://www.reddit.com/r/artificial/comments/1pkac2w/openai_and_disney_just_ended_the_war_between_ai/)**
+**[Disney to invest $1bn into OpenAI](https://www.reddit.com/r/artificial/comments/1pjzqjh/disney_to_invest_1bn_into_openai/)**
 
-“Google has YouTube. OpenAI now has the Magic Kingdom,” copyright expert Matthew Sag said.
+The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal in which the artificial intelligence start-up will use Disney characters in its flagship products. As part of the three-year deal, announced on Thursday, Disney will make more than 200 Marvel, Pixar and Star Wars characters available within ChatGPT and Sora, OpenAI’s video-generation tool. The company will also take a $1bn stake in the $500bn start-up, as well as warrants to purchase additional equity at a later date. Read the full story for free with your email here: https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
 
-🔗 [Fortune](https://fortune.com/2025/12/11/openai-disney-sora-deal-hollywood-war-ended-matthew-sag/) • 7h ago
+🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 14h ago
 
 ---
 
@@ -131,15 +131,15 @@ The New York Times • 3h ago
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Time Magazine • 16h ago
+Time Magazine • 17h ago
 
 ---
 
-**[The Post’s A.I. ‘Disaster’](https://www.status.news/p/washington-post-ai-podcast-errors)**
+**[Ignoring AI bubble fears, investors bet Nvidia and Google will fuel Taiwan stocks to record](https://finance.yahoo.com/news/ignoring-ai-bubble-fears-investors-053150245.html)**
 
-Staffers at The Washington Post revolted en masse after the newspaper debuted an error-prone A.I. podcast feature, according to Slack messages obtained by Status.
+Taiwan's tech-heavy stocks show few signs of slowing a rally even as AI bubble worries cast a shadow over global markets,  underscoring home-grown confidence in the structural advantages in AI that foreign investors may have overlooked.  Taiwan's benchmark index is poised to breach a record 30,000 points in 2026, investors ​say, extending a three-year surge that has seen the stock market nearly double as the island rides a wave of demand for chips that power artificial intelligence.  While foreign ‌money worries about stretched AI valuations, Taiwanese investors have enthusiastically ploughed into the market.
 
-status.news • 1h ago
+Yahoo Finance • 22m ago
 
 ---
 
@@ -147,15 +147,15 @@ status.news • 1h ago
 
 The Dutch company’s machines are needed to make the AI chips that power ChatGPT and other models
 
-Bloomberg.com • 38m ago
+Bloomberg.com • 53m ago
 
 ---
 
-**['Big Short' investor Michael Burry says there is 'no way to time or predict' when the AI bubble will burst](https://www.businessinsider.com/michael-burry-big-short-ai-bubbles-burst-cannot-be-predicted-2025-12)**
+**[Trump signs executive order on AI](https://www.nbcnews.com/video/shorts/trump-signs-executive-order-on-ai-254276677543)**
 
-In a lengthy blog post, Bury advised against attempting to short the current AI bubble and said the bubble may grow even larger.
+Trump signs executive order on AI
 
-Business Insider • 32m ago
+NBC News • 31m ago
 
 ---
 
@@ -163,29 +163,7 @@ Business Insider • 32m ago
 
 JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
 
-CNBC • 15h ago
-
----
-
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqf6GGpWCb-MyVQLD9K9fdwPzVVPGXsC74YPRboaSVqc_nfcu0ra8ruM&gaa_ts=693ba77b&gaa_sig=wgb5q_D5bHGXLD2mBuVyI630Rq0ufv2B3MUGZbABHHolEEM4QYA4EFA398pJ26HABx_jGf--Z_esyiA_aGc5DQ%3D%3D)**
-
-The Wall Street Journal • 8h ago
-
----
-
-**[Trump is trying to preempt state AI laws via an executive order. It may not be legal](https://www.npr.org/2025/12/11/nx-s1-5638562/trump-ai-david-sacks-executive-order)**
-
-The executive order is the latest in a series of attempts by the Trump administration to hold back state-level AI rules. But many Republicans are also uncomfortable with the effort.
-
-NPR • 4h ago
-
----
-
-**[Not lovin' it: McDonald's pulls AI-generated Christmas ad after social media backlash](https://www.nbcnews.com/world/europe/mcdonalds-ai-generated-christmas-advert-social-media-backlash-rcna248590)**
-
-Titled “the most terrible time of the year,” the 45-second ad featured a series of mishaps befalling people at Christmas.
-
-NBC News • 15h ago
+cnbc.com • 15h ago
 
 ---
 
@@ -194,6 +172,28 @@ NBC News • 15h ago
 President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
 
 CNN • 5h ago
+
+---
+
+**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqfQamllFT8e4ogIEo_aSzQj_FEgUoNnMecPLcyokZHgiSCJQHGHrba-&gaa_ts=693bb136&gaa_sig=tAIizNkQVMH24JVT7Pj6SgsCM1UDVg3FhV5GrOs21kxhBybAk1-la3wNIwDXTy8ECIykilIDl7F-fnSscY1KXA%3D%3D)**
+
+The Wall Street Journal • 8h ago
+
+---
+
+**[Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/)**
+
+Explore GPT‑5.2 in Microsoft Foundry—advanced reasoning, agentic execution, and compliance-ready AI for enterprise scale.
+
+Microsoft Azure • 11h ago
+
+---
+
+**[Trump is trying to preempt state AI laws via an executive order. It may not be legal](https://www.npr.org/2025/12/11/nx-s1-5638562/trump-ai-david-sacks-executive-order)**
+
+The executive order is the latest in a series of attempts by the Trump administration to hold back state-level AI rules. But many Republicans are also uncomfortable with the effort.
+
+NPR • 5h ago
 
 ---
 
@@ -237,7 +237,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 262 • 💬 143 • 16h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 273 • 💬 146 • 16h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -269,7 +269,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 107 • 💬 81 • 13h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 107 • 💬 82 • 13h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -361,7 +361,7 @@ Check out Nebius today: ...
 
 📺 The Cutting Edge School
 
-👁️ 8K • 👍 642 • 💬 57 • ⏱️ 13:41 • 16h ago
+👁️ 8K • 👍 642 • 💬 57 • ⏱️ 13:41 • 17h ago
 
 ---
 
@@ -371,7 +371,7 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 28K • 👍 430 • 💬 84 • ⏱️ 10:31 • 14h ago
+👁️ 28K • 👍 430 • 💬 84 • ⏱️ 10:31 • 15h ago
 
 ---
 
@@ -409,7 +409,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,557 • 3d ago
+⬇️ 245,041 • ❤️ 2,559 • 3d ago
 
 ---
 
@@ -425,6 +425,18 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 ---
 
+**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
+
+*Mistral AI_*
+
+Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
+
+`24.0B`
+
+⬇️ 7,222 • ❤️ 270 • 1d ago
+
+---
+
 **[GLM-4.6V](https://huggingface.co/zai-org/GLM-4.6V)**
 
 *Z.ai*
@@ -437,18 +449,6 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 ---
 
-**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
-
-*Mistral AI_*
-
-Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
-
-`24.0B`
-
-⬇️ 7,222 • ❤️ 269 • 1d ago
-
----
-
 **[rnj-1-instruct](https://huggingface.co/EssentialAI/rnj-1-instruct)**
 
 *Essential AI*
@@ -457,7 +457,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 445,464 • ❤️ 213 • 3d ago
+⬇️ 445,464 • ❤️ 214 • 3d ago
 
 ---
 
@@ -481,7 +481,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 45,425 • ❤️ 888 • 10d ago
+⬇️ 45,425 • ❤️ 889 • 10d ago
 
 ---
 
@@ -513,20 +513,6 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 23 • 💬 2 • ⭐ 6,521 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -541,6 +527,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 23 • 💬 2 • ⭐ 6,561 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance](https://huggingface.co/papers/2512.08765)**
 
 *Ruihang Chu, Yefei He, Zhekai Chen et al. (13 authors)*
@@ -549,7 +549,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 110 • 💬 3 • ⭐ 270 • 2d ago
+▲ 110 • 💬 3 • ⭐ 283 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -589,7 +589,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 56 • 💬 2 • ⭐ 1,034 • 10d ago
+▲ 57 • 💬 2 • ⭐ 1,039 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 9.9k • 🔱 1.7k • 1h ago
+⭐ 10.2k • 🔱 1.7k • 44m ago
 
 ---
 
@@ -667,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.1k • 🔱 233 • 12h ago
+⭐ 2.1k • 🔱 234 • 12h ago
 
 ---
 
@@ -707,7 +707,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 961 • 🔱 290 • 5d ago
+⭐ 975 • 🔱 291 • 5d ago
 
 ---
 
@@ -727,7 +727,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 874 • 🔱 22 • 4d ago
+⭐ 875 • 🔱 22 • 4d ago
 
 ---
 
@@ -747,7 +747,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 628 • 🔱 92 • 15h ago
+⭐ 632 • 🔱 93 • 15h ago
 
 ---
 
