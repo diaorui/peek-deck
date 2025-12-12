@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T06:56:17.397757+00:00'
+updated: '2025-12-12T07:26:48.311031+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 06:56 UTC  
+**Last Updated:** December 12, 2025 at 07:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,678.70
+### $92,473.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** +3.6%  
-**30d:** -7.3%  
-**90d:** -19.8%  
+**24h:** +2.9%  
+**7d:** +3.5%  
+**30d:** -7.4%  
+**90d:** -19.9%  
 **1y:** -8.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1849.27B
+**Market Cap:** $1845.46B
 Rank #1
 
-**Circulating Supply:** 19,960,996 BTC
+**Circulating Supply:** 19,961,025 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.5%
+-26.7%
 
 **All-Time Low:** $67.81
-+136549.5%
++136226.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
 
-10h ago
+11h ago
 
 ---
 
@@ -103,15 +103,9 @@ Made a little edit on the pump it up song to include the current craziness going
 
 ---
 
-**[I can’t wait to be rich guys](https://www.reddit.com/r/Bitcoin/comments/1pk4b3i/i_cant_wait_to_be_rich_guys/)**
-
-12h ago
-
----
-
 **[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -119,13 +113,13 @@ Made a little edit on the pump it up song to include the current craziness going
 
 The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
 
-3h ago
+4h ago
 
 ---
 
 **[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -141,9 +135,31 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 ---
 
+**[Is today a good day to start investing in Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1pk7kak/is_today_a_good_day_to_start_investing_in_bitcoin/)**
+
+For context I never touched any crypto before. Is 100€ as starting too little? What would you put in?
+
+11h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
+
+Reuters • 18h ago
+
+---
+
+**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
+
+Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
+
+Yahoo Finance • 1d ago
+
+---
 
 **[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
 
@@ -153,37 +169,23 @@ BBC • 1d ago
 
 ---
 
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqfoTSV09iF48_BJWp9VZiIatl0T_U-WtvilTI4IKl68vQ8KYZ0WcBjg&gaa_ts=693bc722&gaa_sig=CliTEuaGKBLSr4ahzAdx2F6Ruw5FdNDYIdAkPogKjCRrZWgew1_1jLDqdrdBbWjm5mubNbcRLJ97FoRGQ9W5lA%3D%3D)**
 
-Reuters • 18h ago
-
----
-
-**[Bitcoin Whales Unload $3.4B in December; BTC Stalls at $92K Resistance: Glassnode](https://finance.yahoo.com/news/bitcoin-whales-unload-3-4b-050921423.html)**
-
-Bitcoin’s largest non-exchange holders are de-risking. The 10,000 to 100,000 BTC cohort has sold or redistributed 36,500 BTC (approx. $3.4 billion) since December 1, according to Glassnode data.The distribution coincides with Bitcoin’s struggle to break the $94,000 resistance level following Wednesday’s Federal Reserve rate cut. BTC traded at $92,250 (-0.2%) ...
-
-Yahoo Finance • 1h ago
+Barron's • 1d ago
 
 ---
 
-**[Bitcoin's Persistent Long-Term Buyers Step In as Market Struggles For Liquidity](https://finance.yahoo.com/news/bitcoins-persistent-long-term-buyers-043916036.html)**
+**[Thinking About Giving Bitcoin as a Christmas Gift? Read This First](https://www.investopedia.com/thinking-about-giving-bitcoin-as-a-christmas-gift-read-this-first-11854300)**
 
-Experts remain cautiously optimistic as macro hurdles clear amid Bitcoin whale accumulation and liquidity drying up ahead of the holidays.
+Bitcoin can be a fun and meaningful Christmas gift, but only if the person you’re giving it to is the right fit. Explore the many ways to gift Bitcoin, and then decide if it's the right present this year.
 
-Yahoo Finance • 2h ago
+Investopedia • 14h ago
 
 ---
 
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
 Investor's Business Daily • 12h ago
-
----
-
-**[Strategy: Index Exclusion Is Anti-Trump, Anti-Bitcoin](https://www.investors.com/news/strategy-mstr-stock-msci-index-exclusion-anti-trump-bitcoin-price-impact/)**
-
-Investor's Business Daily • 15h ago
 
 ---
 
@@ -195,9 +197,17 @@ Decrypt • 1d ago
 
 ---
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqegiPvo05TGCMvU6mZhex-aBq51Fd-pIWRY8kFgPoGN00N6Q3KmbhcE&gaa_ts=693bb90e&gaa_sig=pC1iQmKMuiF4foxkP7L9vN9FSYVa8hKaCngyKt5e6MtKfEvA0kDXbvgWYR28_v-JStk20SSMcoS28SWS5SRLKg%3D%3D)**
+**[MicroStrategy sends sharp warning letter to MSCI](https://www.thestreet.com/crypto/markets/microstrategy-sends-sharp-warning-letter-to-msci)**
 
-Barron's • 1d ago
+TheStreet • 1d ago
+
+---
+
+**[65% Of Bitcoin Treasuries Are Sitting On Unrealized Losses](https://bitcoinmagazine.com/featured/corporate-bt-treasuries-are-underwater)**
+
+Corporate Bitcoin treasuries swung into widespread unrealized losses in November, as Bitcoin’s brief drop below $90,000 left roughly 65% of measurable corporate holders in the red.
+
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -206,14 +216,6 @@ Barron's • 1d ago
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
 CNBC • 1d ago
-
----
-
-**[Bitcoin Firm Twenty One Falls 20% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
-
-Shares of Twenty One Capital Inc. declined 20% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
-
-Bloomberg.com • 2d ago
 
 ---
 
@@ -271,7 +273,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 9 • 💬 0 • 3d ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 9 • 💬 0 • 4d ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -303,7 +305,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 676 • 💬 12 • ⏱️ 48:24 • 8h ago
+👁️ 12K • 👍 676 • 💬 12 • ⏱️ 48:24 • 9h ago
 
 ---
 
@@ -323,7 +325,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 89 • ⏱️ 18:22 • 6h ago
+👁️ 15K • 👍 1K • 💬 89 • ⏱️ 18:22 • 7h ago
 
 ---
 
@@ -333,7 +335,7 @@ Bear or Bull? Bearish short term, but buying every day! The links below may incl
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 668 • 💬 48 • ⏱️ 44:51 • 11h ago
+👁️ 9K • 👍 668 • 💬 48 • ⏱️ 44:51 • 12h ago
 
 ---
 
@@ -343,7 +345,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 128 • 💬 49 • ⏱️ 22:05 • 7h ago
+👁️ 2K • 👍 128 • 💬 49 • ⏱️ 22:05 • 8h ago
 
 ---
 
@@ -383,7 +385,7 @@ The biggest shift in U.S. Bitcoin regulation just happened — and almost nobody
 
 📺 Tim Talks Finance
 
-👁️ 2K • 👍 99 • 💬 19 • ⏱️ 11:48 • 10h ago
+👁️ 2K • 👍 99 • 💬 19 • ⏱️ 11:48 • 11h ago
 
 ---
 

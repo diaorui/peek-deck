@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T06:56:17.407030+00:00'
+updated: '2025-12-12T07:26:48.320499+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 06:56 UTC  
+**Last Updated:** December 12, 2025 at 07:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,13 +60,21 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
 
-3h ago
+4h ago
 
 ---
 
 **[My inverse kinematics are flawless and everything is going according to plan](https://www.reddit.com/r/robotics/comments/1pjka0v/my_inverse_kinematics_are_flawless_and_everything/)**
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
+
+1d ago
+
+---
+
+**[What could be possible in humanoid elderly care (ROBOTGYM)](https://www.reddit.com/r/robotics/comments/1pjoo5e/what_could_be_possible_in_humanoid_elderly_care/)**
+
+From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 1d ago
 
@@ -80,11 +88,9 @@ https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on
 
 ---
 
-**[What could be possible in humanoid elderly care (ROBOTGYM)](https://www.reddit.com/r/robotics/comments/1pjoo5e/what_could_be_possible_in_humanoid_elderly_care/)**
+**[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
 
-From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
-
-1d ago
+9m ago
 
 ---
 
@@ -96,17 +102,11 @@ Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into thre
 
 ---
 
-**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
+**[Autel EVO III is half drone, half robot](https://www.reddit.com/r/robotics/comments/1pkkyk8/autel_evo_iii_is_half_drone_half_robot/)**
 
-1d ago
+Just tell this drone what you want him to do (in voice or text), he will plan it and do it. So its basically inteligent robot, he just doesn’t look similar to human: he is robotic ant
 
----
-
-**[Hyundai MobED](https://www.reddit.com/r/robotics/comments/1pjuhk2/hyundai_mobed/)**
-
-The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 20h ago
+🔗 [DroneXL.co](https://dronexl.co/2025/12/11/autel-evo-iii-big-claims/) • 58m ago
 
 ---
 
@@ -122,9 +122,9 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
 
-Chron • 1d ago
+Business Wire • 1d ago
 
 ---
 
@@ -144,19 +144,19 @@ Deloitte • 2d ago
 
 ---
 
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
+
+Making safe and regulated humanoids is a core mission of the summit and participants.
+
+ABC7 San Francisco • 6h ago
+
+---
+
 **[1X struck a deal to send its ‘home’ humanoids to factories and warehouses](https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/)**
 
 Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.
 
-TechCrunch • 8h ago
-
----
-
-**[World’s first six-armed humanoid robot that promises 30% more output unveiled in China](https://interestingengineering.com/ai-robotics/worlds-first-six-armed-humanoid-robot)**
-
-Chinese home appliance company Midea has unveiled its six-armed super humanoid robot at the Greater Bay Area New Economy Forum in China.
-
-Interesting Engineering • 15h ago
+TechCrunch • 9h ago
 
 ---
 
@@ -164,7 +164,7 @@ Interesting Engineering • 15h ago
 
 Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
 
-Shore Daily News • 20h ago
+Shore Daily News • 21h ago
 
 ---
 
@@ -176,17 +176,17 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
+**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
-
-MLive.com • 2d ago
+Chron • 1d ago
 
 ---
 
-**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
+**[Naperville teens make history at international robotics competition](https://www.nctv17.org/news/naperville-teens-make-history-at-international-robotics-competition/)**
 
-Business Wire • 1d ago
+Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
+
+NCTV17 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T06:56:17.389269+00:00'
+updated: '2025-12-12T07:26:48.302403+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 06:56 UTC  
+**Last Updated:** December 12, 2025 at 07:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 5h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 11h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 15h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 16h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 18h ago
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 19h ago
 
 ---
 
@@ -81,7 +81,7 @@ A new survey finds corporations and investors are overwhelmingly optimistic abou
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 14h ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 15h ago
 
 ---
 
@@ -97,7 +97,7 @@ When my company pivoted to AI in 2023, I lost my job. As I struggle to find a ne
 
 Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.
 
-🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 9h ago
+🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 10h ago
 
 ---
 
@@ -109,11 +109,11 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 ---
 
-**[Disney to invest $1bn into OpenAI](https://www.reddit.com/r/artificial/comments/1pjzqjh/disney_to_invest_1bn_into_openai/)**
+**[OpenAI and Disney just ended the ‘war’ between AI and Hollywood with their $1 billion Sora deal—and OpenAI made itself ‘indispensable,’ expert says | Fortune](https://www.reddit.com/r/artificial/comments/1pkac2w/openai_and_disney_just_ended_the_war_between_ai/)**
 
-The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal in which the artificial intelligence start-up will use Disney characters in its flagship products. As part of the three-year deal, announced on Thursday, Disney will make more than 200 Marvel, Pixar and Star Wars characters available within ChatGPT and Sora, OpenAI’s video-generation tool. The company will also take a $1bn stake in the $500bn start-up, as well as warrants to purchase additional equity at a later date. Read the full story for free with your email here: https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
+“Google has YouTube. OpenAI now has the Magic Kingdom,” copyright expert Matthew Sag said.
 
-🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 15h ago
+🔗 [Fortune](https://fortune.com/2025/12/11/openai-disney-sora-deal-hollywood-war-ended-matthew-sag/) • 9h ago
 
 ---
 
@@ -121,41 +121,23 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 
 ## Google News: "ai"
 
+**[Trump threatens funding for states over AI regulations](https://www.reuters.com/world/trump-says-he-will-sign-order-curbing-state-ai-laws-2025-12-11/)**
+
+Reuters • 29m ago
+
+---
+
 **[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-The New York Times • 2h ago
+The New York Times • 7h ago
 
 ---
 
-**[Trump is trying to preempt state AI laws via an executive order. It may not be legal](https://www.npr.org/2025/12/11/nx-s1-5638562/trump-ai-david-sacks-executive-order)**
+**[Watch The Man Driving Microsoft’s New AI Strategy](https://www.bloomberg.com/news/videos/2025-12-12/the-man-driving-microsoft-s-new-ai-strategy)**
 
-The executive order is the latest in a series of attempts by the Trump administration to hold back state-level AI rules. But many Republicans are also uncomfortable with the effort.
-
-NPR • 6h ago
-
----
-
-**[Ignoring AI bubble fears, investors bet Nvidia and Google will fuel Taiwan stocks to record](https://finance.yahoo.com/news/ignoring-ai-bubble-fears-investors-053150245.html)**
-
-Taiwan's tech-heavy stocks show few signs of slowing a rally even as AI bubble worries cast a shadow over global markets,  underscoring home-grown confidence in the structural advantages in AI that foreign investors may have overlooked.  Taiwan's benchmark index is poised to breach a record 30,000 points in 2026, investors ​say, extending a three-year surge that has seen the stock market nearly double as the island rides a wave of demand for chips that power artificial intelligence.  While foreign ‌money worries about stretched AI valuations, Taiwanese investors have enthusiastically ploughed into the market.
-
-Yahoo Finance • 1h ago
-
----
-
-**[How ASML’s CEO Plans to Keep Pace With Soaring AI Demand](https://www.bloomberg.com/news/features/2025-12-12/how-asml-plans-to-keep-pace-with-nvidia-s-growth-and-soaring-ai-demand)**
-
-The Dutch company’s machines are needed to make the AI chips that power ChatGPT and other models
+Mustafa Suleyman made his name in tech when he co-founded AI lab DeepMind at age 26. Now he’s Microsoft AI’s CEO. He tells Mishal Husain about the company’s deal with OpenAI, tech’s talent war and how he winds down with Copilot. (Source: Bloomberg)
 
 Bloomberg.com • 1h ago
-
----
-
-**[Trump signs executive order on AI](https://www.nbcnews.com/video/shorts/trump-signs-executive-order-on-ai-254276677543)**
-
-Trump signs executive order on AI
-
-NBC News • 1h ago
 
 ---
 
@@ -163,7 +145,7 @@ NBC News • 1h ago
 
 JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -175,25 +157,39 @@ Time Magazine • 18h ago
 
 ---
 
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqcKnUBsPmiv4O_ruI-NsDP60TgVbPxehS9OLdlXNZKAO4IZECJM7g_e&gaa_ts=693bb90d&gaa_sig=RHRRZ7k4eIM-gqPdPxCF7z3C6JfPmxFzdSPnxGWo9PzYgdydisGSpd4ZjQBbFNVer2_syyTukFh5UHZMjTr7JQ%3D%3D)**
+**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqccuuHl1_SYdtj34bTgVJDbCFZcFy1a2v32-jVGYrA2irvPezbfwbmS&gaa_ts=693bc720&gaa_sig=yUthP4ooQZrni75bhAQk2e3ZgdHv4FSb_xsfGrsEytyNjRyG14jciPD21Z9wA7d51Qltvc9s2jN1zk8DtIBjFw%3D%3D)**
 
-The Wall Street Journal • 9h ago
-
----
-
-**[Cursor Launches an AI Coding Tool For Designers](https://www.wired.com/story/cursor-launches-pro-design-tools-figma/)**
-
-The 300-person startup hopes bringing designers aboard will give it an edge in an increasingly competitive AI software market.
-
-WIRED • 14h ago
+The Wall Street Journal • 10h ago
 
 ---
 
-**[Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/)**
+**[Not lovin' it: McDonald's pulls AI-generated Christmas ad after social media backlash](https://www.nbcnews.com/world/europe/mcdonalds-ai-generated-christmas-advert-social-media-backlash-rcna248590)**
 
-Explore GPT‑5.2 in Microsoft Foundry—advanced reasoning, agentic execution, and compliance-ready AI for enterprise scale.
+Titled “the most terrible time of the year,” the 45-second ad featured a series of mishaps befalling people at Christmas.
 
-Microsoft Azure • 12h ago
+NBC News • 17h ago
+
+---
+
+**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://www.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
+
+President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
+
+CNN • 7h ago
+
+---
+
+**[Trump is trying to preempt state AI laws via an executive order. It may not be legal](https://www.npr.org/2025/12/11/nx-s1-5638562/trump-ai-david-sacks-executive-order)**
+
+The executive order is the latest in a series of attempts by the Trump administration to hold back state-level AI rules. But many Republicans are also uncomfortable with the effort.
+
+NPR • 6h ago
+
+---
+
+**[The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters from across Disney’s brands to Sora](https://openai.com/index/disney-sora-agreement/)**
+
+OpenAI • 17h ago
 
 ---
 
@@ -221,7 +217,15 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 320 • 💬 2 • 16h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 320 • 💬 2 • 17h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+
+---
+
+**[French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://news.ycombinator.com/item?id=46231187)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+⬆️ 297 • 💬 155 • 17h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -230,14 +234,6 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
 ⬆️ 286 • 💬 144 • 2d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
-
----
-
-**[French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://news.ycombinator.com/item?id=46231187)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-⬆️ 281 • 💬 151 • 17h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -269,7 +265,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 108 • 💬 82 • 14h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 108 • 💬 83 • 15h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -301,7 +297,7 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 📺 CNBC Television
 
-👁️ 19K • 👍 217 • 💬 73 • ⏱️ 3:04 • 12h ago
+👁️ 19K • 👍 217 • 💬 73 • ⏱️ 3:04 • 13h ago
 
 ---
 
@@ -341,7 +337,7 @@ shorts.
 
 📺 Brian Tyler Cohen
 
-👁️ 436K • 👍 29K • 💬 3K • ⏱️ 0:19 • 9h ago
+👁️ 436K • 👍 29K • 💬 3K • ⏱️ 0:19 • 10h ago
 
 ---
 
@@ -397,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 739 • 3d ago
+⬇️ 80,162 • ❤️ 741 • 3d ago
 
 ---
 
@@ -409,7 +405,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,559 • 3d ago
+⬇️ 245,041 • ❤️ 2,564 • 3d ago
 
 ---
 
@@ -421,19 +417,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 18,587 • ❤️ 357 • 2d ago
-
----
-
-**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
-
-*Mistral AI_*
-
-Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
-
-`24.0B`
-
-⬇️ 7,222 • ❤️ 271 • 1d ago
+⬇️ 18,587 • ❤️ 360 • 2d ago
 
 ---
 
@@ -445,7 +429,19 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,209 • ❤️ 271 • 3d ago
+⬇️ 2,209 • ❤️ 274 • 3d ago
+
+---
+
+**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
+
+*Mistral AI_*
+
+Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
+
+`24.0B`
+
+⬇️ 7,222 • ❤️ 273 • 1d ago
 
 ---
 
@@ -457,7 +453,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 445,464 • ❤️ 215 • 3d ago
+⬇️ 445,464 • ❤️ 218 • 3d ago
 
 ---
 
@@ -469,7 +465,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 209 • 2d ago
+⬇️ 12,302 • ❤️ 215 • 2d ago
 
 ---
 
@@ -493,7 +489,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 583 • ❤️ 182 • 3d ago
+⬇️ 583 • ❤️ 183 • 3d ago
 
 ---
 
@@ -505,7 +501,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 425 • ❤️ 162 • 5d ago
+⬇️ 425 • ❤️ 163 • 5d ago
 
 ---
 
@@ -655,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 10.4k • 🔱 1.7k • 1h ago
+⭐ 10.4k • 🔱 1.7k • 2h ago
 
 ---
 
@@ -665,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.1k • 🔱 237 • 22m ago
+⭐ 2.1k • 🔱 237 • 53m ago
 
 ---
 
@@ -695,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 12m ago
+⭐ 1.1k • 🔱 134 • 43m ago
 
 ---
 
@@ -705,7 +701,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 995 • 🔱 292 • 5d ago
+⭐ 995 • 🔱 292 • 6d ago
 
 ---
 
@@ -745,7 +741,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 635 • 🔱 93 • 16h ago
+⭐ 635 • 🔱 93 • 17h ago
 
 ---
 
