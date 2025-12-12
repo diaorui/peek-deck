@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T07:55:33.953443+00:00'
+updated: '2025-12-12T08:32:59.298655+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 07:55 UTC  
+**Last Updated:** December 12, 2025 at 08:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,6 +48,12 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 ---
 
+**[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
+
+1h ago
+
+---
+
 **[IR-Sim is, a Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning](https://www.reddit.com/r/robotics/comments/1pjumrm/irsim_is_a_pythonbased_lightweight_robot/)**
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
@@ -60,7 +66,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
 
-4h ago
+5h ago
 
 ---
 
@@ -69,6 +75,14 @@ I see all kinds of demos and examples from mujoco that looks splashy, but I’ve
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
 1d ago
+
+---
+
+**[Robotics development platform / toy / collectible - SPOOK](https://www.reddit.com/r/robotics/comments/1pkmnaa/robotics_development_platform_toy_collectible/)**
+
+Hi guys, I'm interested to know what you guys think. Opinionate away! I've been in the robotics industry for a few years now. I was speaking to my colleague whos a really good software engineer and he said he has no experience in hardware and is lowsy at connecting and building stuff...which surprised me alot. But then it got me thinking about products for those types of engineers... Do you think there is a market for a pre-built robotics platforms as a toy/collectible? I'm not talking YAHBOOM dev kits, im talking pretty well detailed and finished robot/toy that gives you full access to the inside to develop ontop of. i think the closest ive seen is the unitree go2 but you cant really jailbreak or dev ontop of that unless you get the $10K 'edu' version. I'd imagine there'd be alot of engineers out there who love the idea of having a robot for the home/office but cbf to build themselves...especially if you can just remote in and build software for it and deploy it from your couch. Testing chat bots w/ TTS and vice verse would be way more fun if you were talking to something reactive, no? I kinda wanna experiment with speech-to-action. so maybe i'll build something and show you guys in the future... To give you the synopsis, i designed this robot named SPOOK that im going to build when the parts arrive. My prototype is a hacked roomba. I made it a ghost to symbolise how the world is a little bit spooked by AI and Robotics (particularly the humanoids in your house idea). I also made it a ghost because my wife and i are talking about having kids and i thought this was kinda cute. When im done, you should be able to talk to it and do all kinds of stuff (thinking more an animate object, electronic pet robot with a personality) kind of thing. It will have all the functionality youd expect from something decent (return to charger, object detection, obstacle avoidance etc.). and im thinking of trying to build it for under $2500. In the meanwhile, what does reddit think? My colleague thinks its a cool idea. another friend told me he wanted to learn robotics and it would be cool to build this from an educational angle also....keen to know your thoughts!
+
+17m ago
 
 ---
 
@@ -88,25 +102,11 @@ https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on
 
 ---
 
-**[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
-
-38m ago
-
----
-
 **[We’re now controlling a Unitree robot inside a Gaussian Splat world. In the browser!](https://www.reddit.com/r/robotics/comments/1pk0uav/were_now_controlling_a_unitree_robot_inside_a/)**
 
 Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into threejs - Run MuJoCo physics (decoupled from renderer) What do you think about this?!?
 
 16h ago
-
----
-
-**[Autel EVO III is half drone, half robot](https://www.reddit.com/r/robotics/comments/1pkkyk8/autel_evo_iii_is_half_drone_half_robot/)**
-
-Just tell this drone what you want him to do (in voice or text), he will plan it and do it. So its basically inteligent robot, he just doesn’t look similar to human: he is robotic ant
-
-🔗 [DroneXL.co](https://dronexl.co/2025/12/11/autel-evo-iii-big-claims/) • 1h ago
 
 ---
 
@@ -118,7 +118,7 @@ Just tell this drone what you want him to do (in voice or text), he will plan it
 
 Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -144,27 +144,17 @@ Deloitte • 2d ago
 
 ---
 
-**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
+**[World’s first six-armed humanoid robot that promises 30% more output unveiled in China](https://interestingengineering.com/ai-robotics/worlds-first-six-armed-humanoid-robot)**
 
-Making safe and regulated humanoids is a core mission of the summit and participants.
+Chinese home appliance company Midea has unveiled its six-armed super humanoid robot at the Greater Bay Area New Economy Forum in China.
 
-ABC7 San Francisco • 6h ago
-
----
-
-**[1X struck a deal to send its ‘home’ humanoids to factories and warehouses](https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/)**
-
-Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.
-
-TechCrunch • 9h ago
+Interesting Engineering • 16h ago
 
 ---
 
-**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
+**[EQT Cuts Deal For 10,000 Humanoids From Robot Startup It Backs](https://www.bloomberg.com/news/articles/2025-12-11/eqt-to-send-10-000-humanoid-robots-from-startup-1x-to-portfolio-companies)**
 
-Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
-
-Shore Daily News • 21h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -173,6 +163,14 @@ Shore Daily News • 21h ago
 Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
 
 Yahoo Finance • 3d ago
+
+---
+
+**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
+
+Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
+
+Shore Daily News • 22h ago
 
 ---
 
@@ -194,23 +192,23 @@ NCTV17 • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
-
-EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
-
-📺 AI Tech Academy
-
-👁️ 82K • 👍 2K • 💬 521 • ⏱️ 14:26 • 3d ago
-
----
-
 **[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
 
 In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
 
 📺 Google DeepMind
 
-👁️ 112K • 👍 4K • 💬 336 • ⏱️ 17:44 • 1d ago
+👁️ 114K • 👍 4K • 💬 340 • ⏱️ 17:44 • 1d ago
+
+---
+
+**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
+
+EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
+
+📺 AI Tech Academy
+
+👁️ 83K • 👍 2K • 💬 533 • ⏱️ 14:26 • 3d ago
 
 ---
 
@@ -220,27 +218,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 35K • 👍 660 • 💬 162 • ⏱️ 18:46 • 6d ago
-
----
-
-**[Testing the Latest Girlfriend Robot: My Unexpected Expo Journey 🤖✨ #innovation #robot #expo2025](https://www.youtube.com/watch?v=4LQJIXJrbPs)**
-
-GirlfriendRobot #RobotExpo #InnovationJourney Join me as I dive into the fascinating world of robotics at Expo 2025! In this video ...
-
-📺 ps-robot_ai
-
-👁️ 125K • 👍 1K • 💬 15 • ⏱️ 0:09 • 6d ago
-
----
-
-**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 133K • 👍 7K • 💬 903 • ⏱️ 19:33 • 5d ago
+👁️ 35K • 👍 661 • 💬 162 • ⏱️ 18:46 • 6d ago
 
 ---
 
@@ -250,7 +228,17 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 84K • 👍 1K • 💬 433 • ⏱️ 0:41 • 4d ago
+👁️ 84K • 👍 1K • 💬 434 • ⏱️ 0:41 • 4d ago
+
+---
+
+**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 134K • 👍 7K • 💬 915 • ⏱️ 19:33 • 5d ago
 
 ---
 
@@ -260,25 +248,17 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 200K • 👍 925 • 💬 298 • ⏱️ 1:03 • 5d ago
+👁️ 200K • 👍 927 • 💬 298 • ⏱️ 1:03 • 5d ago
 
 ---
 
-**[Bought the latest humanoid robot released in 2025. #robotics #airobot #humanoidrobot #ai #robot](https://www.youtube.com/watch?v=QJF1XWupoo4)**
+**[Testing the Latest Girlfriend Robot: My Unexpected Expo Journey 🤖✨ #innovation #robot #expo2025](https://www.youtube.com/watch?v=4LQJIXJrbPs)**
 
-📺 AI . Robot
+GirlfriendRobot #RobotExpo #InnovationJourney Join me as I dive into the fascinating world of robotics at Expo 2025! In this video ...
 
-👁️ 112K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
+📺 ps-robot_ai
 
----
-
-**[The Robot Body](https://www.youtube.com/watch?v=TJFMMOlbyIw)**
-
-What should a robot look like? How necessary is a body? Where do the boundaries of ourselves begin and end? Exploring ...
-
-📺 Sarah Davis Baker
-
-👁️ 16K • 👍 2K • 💬 248 • ⏱️ 37:14 • 1d ago
+👁️ 126K • 👍 1K • 💬 15 • ⏱️ 0:09 • 6d ago
 
 ---
 
@@ -289,6 +269,26 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 📺 Kalil 4.0
 
 👁️ 20K • 👍 372 • 💬 71 • ⏱️ 0:59 • 5d ago
+
+---
+
+**[The Robot Body](https://www.youtube.com/watch?v=TJFMMOlbyIw)**
+
+What should a robot look like? How necessary is a body? Where do the boundaries of ourselves begin and end? Exploring ...
+
+📺 Sarah Davis Baker
+
+👁️ 16K • 👍 2K • 💬 249 • ⏱️ 37:14 • 1d ago
+
+---
+
+**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
+
+Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
+
+📺 Kalil 4.0
+
+👁️ 10K • 👍 173 • 💬 13 • ⏱️ 0:27 • 4d ago
 
 ---
 
