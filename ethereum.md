@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T10:42:05.549309+00:00'
+updated: '2025-12-12T10:56:41.126946+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 10:42 UTC  
+**Last Updated:** December 12, 2025 at 10:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -162,7 +162,7 @@ The Block • 1d ago
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -186,13 +186,27 @@ Decrypt • 1d ago
 
 Bitcoin (BTC) and Ethereum (ETH) are nearing the key resistance levels at the time of writing on Friday, and a successful breakout could open the door for a fresh rally. Meanwhile, Ripple (XRP) is stabilizing around a crucial support zone, hinting at a potential rebound if buyers maintain control.
 
-FXStreet • 6h ago
+FXStreet • 7h ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdPz9FFATx5aW8gkQ8lIAvwitAtWCuOBrAryy8RtgdxlHxq5bSvE3sd&gaa_ts=693bedd0&gaa_sig=HnrEQTe-fU6L2j8_oHl9126VNjv-2XpD_lBMmc1U0GcTLsuYsdecvvhDCTbfaxH-lpzNPWNbZRWyGW26-G3Wbg%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfbEE2mdeak71gHgLbEjM9cYOE5FTxvHzHnb3tYNeK6nSp4iOuh0_Vm&gaa_ts=693bf855&gaa_sig=xCPnHmd73h2NGZN5gUYl2fGuPty0WlCdtLlpymsaVV7NUDQIEnpB9a0oQkqpEF8jSNTnMaOp7Ok7mtWmm04R-w%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
+
+---
+
+**[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
+
+CCN.com • 19m ago
+
+---
+
+**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
+
+The trading platform dives further into digital assets both domestically and globally.
+
+Fortune • 3d ago
 
 ---
 
@@ -209,22 +223,6 @@ TradingView • 2h ago
 Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
 
 Nasdaq • 2d ago
-
----
-
-**[Better Buy: XRP vs. Ethereum](https://www.fool.com/investing/2025/12/09/better-buy-xrp-vs-ethereum/)**
-
-They're both among the five largest cryptocurrencies, but one is much further ahead in its journey.
-
-The Motley Fool • 2d ago
-
----
-
-**[Ethereum gains after BlackRock files for iShares Staked Ethereum Trust ETF (ETH-USD:Cryptocurrency)](https://seekingalpha.com/news/4529446-ethereum-gains-after-blackrock-files-for-ishares-staked-ethereum-trust-etf)**
-
-Ethereum (ETH-USD) was trading higherÂ after BlackRock (BLK) filed a preliminary prospectus with the U.S. Securities and Exchange Commission for its iShares Staked Ethereum Trust ETF.
-
-Seeking Alpha • 3d ago
 
 ---
 
@@ -288,7 +286,7 @@ BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 336 • 💬 81 • ⏱️ 18:15 • 11h ago
+👁️ 8K • 👍 336 • 💬 81 • ⏱️ 18:15 • 12h ago
 
 ---
 
@@ -308,7 +306,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 747 • 💬 117 • ⏱️ 15:03 • 4h ago
+👁️ 4K • 👍 747 • 💬 117 • ⏱️ 15:03 • 5h ago
 
 ---
 

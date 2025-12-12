@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T10:42:05.532757+00:00'
+updated: '2025-12-12T10:56:41.112146+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 10:42 UTC  
+**Last Updated:** December 12, 2025 at 10:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -113,7 +113,7 @@ Disney is hedging against the future. OpenAI is clearing a path for Sora. And to
 
 Context: This ""parenting"" AI app called NurtureOS turned out to be satire made by an AI company. (I don't get the logic either, but that's not what I'm concerned about.) My gripe: Someone's going to try sell something like this for real sooner or later, and I can’t stop thinking about the long-term effects it could have on people and society as a whole. Where are we heading with AI in our homes? And especially when kids are involved? The idea behind the app (you can see the features on the site) implied a future where parents could offload actual emotional labour completely. Suppose for an instant that an AI can sooth tantrums, resolve petty fights, teach social skills, and even be tweaked to mold your child's behaviour in specific ways. First of all, is it unethical to use AI to condition your kids? We do it anyway when we teach them certain things are right or wrong, or launch them into specific social constructs. What makes it different when AI's the one doing it? Secondly, there's the emotional intelligence part. Kids learn empathy, boundaries, and emotional resilience through their interactions with other humans. If an AI took deciding how to handle a fight between siblings or how to discipline a child, what happens to the child’s understanding of relationships? Would they start responding to other humans with the expectation that some third party (electronic or otherwise) will always step in to facilitate or mediate? Would they have less room to make mistakes, experiment socially, or negotiate boundaries? Would they even have the skillset to do it with? Thirdly, there’s the impact on parents. If you rely on an app to make the “right” choices for your kid, does that slowly chip away at your confidence? Do you start assuming the AI knows better than your own judgement? Parenting is already full of anxiety. Imagine adding a third party that's constantly between you and your spouse telling you their concept of “ideal behavior”. Just you and you and your friend SteveAI. Finally, the privacy angle is huge. A real version of this app would basically normalise 24/7 emotional surveillance in the home. It would be recording behaviour, conversations, moods, and interactions, and feeding it all to company servers somewhere that you never get to see. They'd have your data forever. Just think about all the crap Meta got up to with the data we fecklessly gave it in our teenage Facebook days. This would be SO much worse than that. This app may have been fake, but the next one may not be, and it exposed a real cultural pressure point. Right now, we keep inviting AI deeper into our lives for convenience. At what point does that start reshaping childhood, parenthood, and just society as a whole in ways we don’t fully understand? Is delegating emotional or developmental tasks to AI inherently dangerous? Or is there a world where it can support parents without replacing them and putting us all at risk?
 
-16h ago
+17h ago
 
 ---
 
@@ -121,19 +121,17 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 ## Google News: "ai"
 
-**[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
-
-California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
-
-BBC • 7h ago
-
----
-
 **[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Time Magazine • 21h ago
+Time Magazine • 22h ago
+
+---
+
+**[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+
+The New York Times • 10h ago
 
 ---
 
@@ -147,7 +145,7 @@ CNBC • 1h ago
 
 **[Exclusive: Linda McMahon bets on AI as agency shrinks](https://www.axios.com/2025/12/12/linda-mcmahon-ai-education)**
 
-Axios • 41m ago
+Axios • 56m ago
 
 ---
 
@@ -155,13 +153,21 @@ Axios • 41m ago
 
 David Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
 
-NPR • 51m ago
+NPR • 1h ago
 
 ---
 
-**[Can OpenAI Respond After Google Closes the A.I. Technology Gap?](https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html)**
+**[Trump signs executive order blocking states from regulating AI](https://www.theguardian.com/us-news/2025/dec/11/trump-executive-order-artificial-intelligence)**
 
-The New York Times • 9h ago
+Order, which lacks the force of law, also creates taskforce whose ‘sole responsibility’ will be challenging states’ AI laws
+
+The Guardian • 10h ago
+
+---
+
+**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqfZSi1xo-Tp7qLYmJ1-S0oMI0uWWoGAgoPgvgWqPYGEo3DpH2P8ZlXJ&gaa_ts=693bf852&gaa_sig=JvxrITpSHNwt3-VnGfU_c9kE4SmwgwJPx_jZ6NlBA8pN0tsiqXPvG4hZbf8AmX4TWFQDHMKQUhza_pikM01-DA%3D%3D)**
+
+The Wall Street Journal • 13h ago
 
 ---
 
@@ -179,19 +185,9 @@ NBC News • 20h ago
 
 ---
 
-**[Take the web for a fresh spin with GenTabs, built with Gemini 3](https://blog.google/technology/google-labs/gentabs-gemini-3/)**
+**[Trump threatens funding for states over AI regulations](https://www.reuters.com/world/trump-says-he-will-sign-order-curbing-state-ai-laws-2025-12-11/)**
 
-GenTabs is part of a new Google Labs experiment that proactively creates custom web applications to help you navigate the web
-
-The Keyword • 16h ago
-
----
-
-**[SoftBank’s Son Eyes Data Center Group Switch to Expand in AI](https://www.bloomberg.com/news/articles/2025-12-12/softbank-eyes-data-center-group-switch-as-son-hunts-for-ai-plays)**
-
-SoftBank Group Corp. is studying potential acquisitions including data center operator Switch Inc., a sign billionaire founder Masayoshi Son aims to ride an AI-fueled boom in digital infrastructure, people with knowledge of the matter said.
-
-Bloomberg.com • 3h ago
+Reuters • 3h ago
 
 ---
 
@@ -319,7 +315,7 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 34K • 👍 476 • 💬 93 • ⏱️ 10:31 • 19h ago
+👁️ 34K • 👍 476 • 💬 93 • ⏱️ 10:31 • 20h ago
 
 ---
 
@@ -503,7 +499,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 457 • ❤️ 166 • 2h ago
+⬇️ 457 • ❤️ 166 • 3h ago
 
 ---
 
@@ -637,7 +633,7 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
 
-▲ 35 • 💬 4 • ⭐ 50,265 • 14mo ago
+▲ 35 • 💬 4 • ⭐ 50,303 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
@@ -653,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 11.1k • 🔱 1.8k • 5h ago
+⭐ 11.3k • 🔱 1.8k • 5h ago
 
 ---
 
@@ -693,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 3h ago
+⭐ 1.1k • 🔱 134 • 4h ago
 
 ---
 
@@ -703,7 +699,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.0k • 🔱 296 • 6d ago
+⭐ 1.0k • 🔱 297 • 6d ago
 
 ---
 
@@ -713,7 +709,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 937 • 🔱 65 • 2d ago
+⭐ 939 • 🔱 65 • 2d ago
 
 ---
 
@@ -733,7 +729,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 857 • 🔱 48 • 3d ago
+⭐ 858 • 🔱 48 • 3d ago
 
 ---
 
@@ -743,7 +739,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 636 • 🔱 93 • 20h ago
+⭐ 636 • 🔱 93 • 1h ago
 
 ---
 

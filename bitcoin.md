@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T10:42:05.542092+00:00'
+updated: '2025-12-12T10:56:41.120798+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 10:42 UTC  
+**Last Updated:** December 12, 2025 at 10:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +3.6%  
-**30d:** -7.3%  
-**90d:** -19.8%  
-**1y:** -8.7%  
+**24h:** +2.1%  
+**7d:** +3.2%  
+**30d:** -7.6%  
+**90d:** -20.1%  
+**1y:** -9.0%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -119,7 +119,7 @@ Made a little edit on the pump it up song to include the current craziness going
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -133,7 +133,7 @@ Made a little edit on the pump it up song to include the current craziness going
 
 are we coming out of the worst of it? stock market is at highs, and even the AI stock are stubbornly up (with a few exceptions)… yet crypto is still struggling. have we bottomed, or is a bigger crypto dip coming?
 
-2h ago
+3h ago
 
 ---
 
@@ -163,6 +163,14 @@ BBC • 1d ago
 
 ---
 
+**[Bitcoin Winter Has Begun: Why A Major Crash May Still Be Ahead](https://www.forbes.com/sites/digital-assets/2025/12/12/bitcoin-winter-has-begun-why-a-major-crash-may-still-be-ahead/)**
+
+I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
+
+Forbes • 25m ago
+
+---
+
 **[Fidelity Says Bitcoin’s Current Cycle Is Maturing — A New Wave May Follow](https://finance.yahoo.com/news/fidelity-says-bitcoin-current-cycle-093009257.html)**
 
 Fidelity projects Bitcoin entering a mature fifth wave while analysts debate bullish or weak performance heading into 2026.
@@ -171,23 +179,23 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[65% Of Bitcoin Treasuries Are Sitting On Unrealized Losses](https://bitcoinmagazine.com/featured/corporate-bt-treasuries-are-underwater)**
+**[What Is A Bitcoin Treasury Company?](https://bitcoinmagazine.com/glossary/what-is-a-bitcoin-treasury-company)**
 
-Corporate Bitcoin treasuries swung into widespread unrealized losses in November, as Bitcoin’s brief drop below $90,000 left roughly 65% of measurable corporate holders in the red.
+Bitcoin treasury companies are redefining capital preservation. By placing bitcoin at the center of their balance sheet strategy, these firms unlock access to capital and absorb bitcoin's supply.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 1h ago
 
 ---
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 21h ago
+Reuters • 22h ago
 
 ---
 
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 15h ago
+Investor's Business Daily • 16h ago
 
 ---
 
@@ -205,17 +213,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Will Bitcoin Crash in 2026?](https://www.fool.com/investing/2025/12/11/will-bitcoin-crash-in-2026/)**
+**[Night owl bitcoin traders: Soon there'll be an ETF just for you](https://www.cnbc.com/2025/12/10/night-owl-bitcoin-traders-soon-therell-be-an-etf-just-for-you.html)**
 
-You may not like the answer.
+If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-The Motley Fool • 23h ago
-
----
-
-**[Twenty One Capital Stock Falls 19% as Market Meets the New Bitcoin Company](https://www.barrons.com/articles/twenty-one-capital-stock-drops-39aef71b?gaa_at=eafs&gaa_n=AWEtsqf0tQrqU8EyW6zOBw1fBipsM9LheBG2Ri_P5IMU61gbxe_MJyaWLUdj&gaa_ts=693bedcf&gaa_sig=l75R5Xq-PAMc3rRc4ecG748uct2Nge-apUBSBiwtbHlii_6wAcplnEL2foREAaY5hBEZ3Ducfke3oh7eYur3uA%3D%3D)**
-
-Barron's • 2d ago
+CNBC • 1d ago
 
 ---
 
@@ -243,7 +245,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 4h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 5h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -287,7 +289,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 1h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 2h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -295,7 +297,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 7 • 💬 0 • 12h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 7 • 💬 0 • 13h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -329,7 +331,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 13K • 👍 982 • 💬 301 • ⏱️ 14:43 • 14h ago
+👁️ 13K • 👍 982 • 💬 301 • ⏱️ 14:43 • 15h ago
 
 ---
 
@@ -339,7 +341,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 11K • 👍 112 • 💬 85 • ⏱️ 4:06 • 15h ago
+👁️ 11K • 👍 112 • 💬 85 • ⏱️ 4:06 • 16h ago
 
 ---
 
@@ -379,7 +381,7 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 133 • ⏱️ 15:31 • 20h ago
+👁️ 21K • 👍 1K • 💬 133 • ⏱️ 15:31 • 21h ago
 
 ---
 
