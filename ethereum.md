@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T19:40:27.912352+00:00'
+updated: '2025-12-12T19:51:22.597256+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 19:40 UTC  
+**Last Updated:** December 12, 2025 at 19:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,8 +45,8 @@ Live Ethereum monitoring dashboard
 **24h:** -4.7%  
 **7d:** +1.1%  
 **30d:** -5.2%  
-**90d:** -33.4%  
-**1y:** -21.5%  
+**90d:** -33.3%  
+**1y:** -21.4%  
 
 ---
 
@@ -176,7 +176,7 @@ Decrypt • 2d ago
 
 **[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://www.ccn.com/news/crypto/tom-lee-claims-sp-500-will-hit-7700-by-2026-says-ethereum-will-exceed-12000/)**
 
-CCN.com • 7h ago
+CCN.com • 8h ago
 
 ---
 
@@ -222,7 +222,7 @@ CCN.com • 1h ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 

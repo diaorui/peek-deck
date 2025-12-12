@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T19:40:27.907102+00:00'
+updated: '2025-12-12T19:51:22.591166+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 19:40 UTC  
+**Last Updated:** December 12, 2025 at 19:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +1.1%  
-**30d:** -9.6%  
-**90d:** -21.8%  
-**1y:** -10.9%  
+**24h:** -1.8%  
+**7d:** +0.7%  
+**30d:** -9.9%  
+**90d:** -22.0%  
+**1y:** -11.2%  
 
 ---
 
@@ -93,7 +93,7 @@ C’mon Bitcoin, you can do it
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ C’mon Bitcoin, you can do it
 
 Bitcoin’s Open Interest has dropped sharply since October, and that’s the most important part of the current market structure. Low OI means the market is running with very little leverage, so the recent price move isn’t coming from futures traders it’s mostly spot demand. At the same time, a huge amount of BTC is still locked in long-term hands (corporate treasuries, miners, and illiquid wallets). So supply pressure is low, but momentum is also weak because fewer traders are participating. Low OI means cleaner, healthier price action, But low OI also means less support if demand slows. So direction will depend on spot buyers, not leverage It’s a neutral setup, stable, but waiting for a catalyst.If OI starts rising again, that’s usually when stronger trends begin. Note : Bitcoin’s Open Interest has been falling over the past few weeks, but the interesting part is that BTC is slowly moving up at the same time. This tells us that the price is rising without heavy leverage, Futures traders are stepping back and Spot buyers or long-term demand are doing most of the work. BTC is rising, but not because of leveraged longs, it’s rising because actual buyers are still active.
 
-2h ago
+3h ago
 
 ---
 
@@ -131,7 +131,7 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 **[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
 
-6h ago
+7h ago
 
 ---
 
