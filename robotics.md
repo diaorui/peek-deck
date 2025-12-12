@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T11:24:28.242966+00:00'
+updated: '2025-12-12T11:41:12.658148+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 11:24 UTC  
+**Last Updated:** December 12, 2025 at 11:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-13h ago
+14h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi guys, I'm interested to know what you guys think. Opinionate away! I've been 
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1999106881114312756 Website: https://www.aheadform.com/
 
-11m ago
+28m ago
 
 ---
 
@@ -278,7 +278,7 @@ Robotics revolution raises questions about what it means to be human Ezra Levant
 
 📺 Rebel News
 
-👁️ 10K • 👍 462 • 💬 50 • ⏱️ 0:31 • 15h ago
+👁️ 10K • 👍 462 • 💬 50 • ⏱️ 0:31 • 16h ago
 
 ---
 

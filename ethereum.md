@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T11:24:28.239750+00:00'
+updated: '2025-12-12T11:41:12.654791+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 11:24 UTC  
+**Last Updated:** December 12, 2025 at 11:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +6.5%  
-**30d:** -0.2%  
-**90d:** -29.8%  
-**1y:** -17.3%  
+**24h:** +1.1%  
+**7d:** +6.7%  
+**30d:** +0.0%  
+**90d:** -29.7%  
+**1y:** -17.1%  
 
 ---
 
@@ -158,6 +158,22 @@ The Block • 1d ago
 
 ---
 
+**[Arthur Hayes Predicts How to Become a Millionaire With Ethereum](https://beincrypto.com/arthur-hayes-ethereum-prediction-millionaire-roadmap/)**
+
+Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
+
+BeInCrypto • 16h ago
+
+---
+
+**[Ethereum Price Flashes A Big Breakout Hope — But It’s Still 7% Away From Confirmation](https://finance.yahoo.com/news/ethereum-price-flashes-big-breakout-100000000.html)**
+
+Ethereum price prediction hints a key breakout at above 7%. Whale buying and chart signals hint the move may be close.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
@@ -166,11 +182,9 @@ CoinDesk • 6h ago
 
 ---
 
-**[Arthur Hayes Makes Wild Ethereum Prediction for 2026 and Beyond](https://finance.yahoo.com/news/arthur-hayes-makes-wild-ethereum-185705661.html)**
+**[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
 
-Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
-
-Yahoo Finance • 16h ago
+CCN.com • 1h ago
 
 ---
 
@@ -190,23 +204,9 @@ FXStreet • 7h ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfbEE2mdeak71gHgLbEjM9cYOE5FTxvHzHnb3tYNeK6nSp4iOuh0_Vm&gaa_ts=693bf855&gaa_sig=xCPnHmd73h2NGZN5gUYl2fGuPty0WlCdtLlpymsaVV7NUDQIEnpB9a0oQkqpEF8jSNTnMaOp7Ok7mtWmm04R-w%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqf5b4jVN0tJnnYKUTsjRq6fc17ldz7o1kJjlr9qbA6dInCftyjzq5cu&gaa_ts=693c02c5&gaa_sig=yRyWQcayPlaiuBEx69LD5jevfNVeI75q6YB-6CMnxKY7rBQC4D3IJaG2bQe_kZrEhLaMAtw_vop82HeatbWyYA%3D%3D)**
 
 Barron's • 23h ago
-
----
-
-**[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
-
-CCN.com • 47m ago
-
----
-
-**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
-
-The trading platform dives further into digital assets both domestically and globally.
-
-Fortune • 3d ago
 
 ---
 
@@ -246,7 +246,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 682 • 💬 41 • ⏱️ 11:29 • 22h ago
+👁️ 16K • 👍 682 • 💬 41 • ⏱️ 11:29 • 23h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 200 • 💬 7 • ⏱️ 6:54 • 20h ago
+👁️ 3K • 👍 200 • 💬 7 • ⏱️ 6:54 • 21h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T11:24:28.233799+00:00'
+updated: '2025-12-12T11:41:12.648620+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 11:24 UTC  
+**Last Updated:** December 12, 2025 at 11:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
+**24h:** +2.1%  
 **7d:** +3.1%  
-**30d:** -7.8%  
+**30d:** -7.7%  
 **90d:** -20.2%  
 **1y:** -9.1%  
 
@@ -133,7 +133,7 @@ are we coming out of the worst of it? stock market is at highs, and even the AI 
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -153,7 +153,7 @@ For context I never touched any crypto before. Is 100€ as starting too little?
 
 Bitcoin veered back toward the lower portion of its recent trading range amid lingering concern about demand for risky assets.
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -169,7 +169,13 @@ BBC • 1d ago
 
 I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
-Forbes • 52m ago
+Forbes • 1h ago
+
+---
+
+**[Bitcoin, Crypto Stocks Are Under Pressure. Cathie Wood’s ARK Buys More Robinhood Shares.](https://www.barrons.com/articles/bitcoin-robinhood-cathie-wood-ark-crypto-xrp-46a8c473?gaa_at=eafs&gaa_n=AWEtsqdp2qM7biPNDWpx0kCYtcw30jlMYU52VlLsTw1zzgsziWwqVFxgOMyH&gaa_ts=693c02c4&gaa_sig=ar1kio-j-a_2iBoB2vFCzG8lmOgRfnhKttiQhHaqPVNwk-IiO_SqCuiiBCAU63exLaLKi4VVYBKOSf_eXyYFCQ%3D%3D)**
+
+Barron's • 7m ago
 
 ---
 
@@ -177,15 +183,15 @@ Forbes • 52m ago
 
 Fidelity projects Bitcoin entering a mature fifth wave while analysts debate bullish or weak performance heading into 2026.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[What Is A Bitcoin Treasury Company?](https://bitcoinmagazine.com/glossary/what-is-a-bitcoin-treasury-company)**
+**[65% Of Bitcoin Treasuries Are Sitting On Unrealized Losses](https://bitcoinmagazine.com/featured/corporate-bt-treasuries-are-underwater)**
 
-Bitcoin treasury companies are redefining capital preservation. By placing bitcoin at the center of their balance sheet strategy, these firms unlock access to capital and absorb bitcoin's supply.
+Corporate Bitcoin treasuries swung into widespread unrealized losses in November, as Bitcoin’s brief drop below $90,000 left roughly 65% of measurable corporate holders in the red.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
@@ -201,9 +207,9 @@ Investor's Business Daily • 16h ago
 
 ---
 
-**[Strategy: Index Exclusion Is Anti-Trump, Anti-Bitcoin](https://www.investors.com/news/strategy-mstr-stock-msci-index-exclusion-anti-trump-bitcoin-price-impact/)**
+**[MicroStrategy sends sharp warning letter to MSCI](https://www.thestreet.com/crypto/markets/microstrategy-sends-sharp-warning-letter-to-msci)**
 
-Investor's Business Daily • 20h ago
+TheStreet • 1d ago
 
 ---
 
@@ -212,14 +218,6 @@ Investor's Business Daily • 20h ago
 Bitcoin treasury leader Strategy argued to MSCI that excluding a crypto-buying firms from its indices would hurt America’s national security.
 
 Decrypt • 1d ago
-
----
-
-**[Night owl bitcoin traders: Soon there'll be an ETF just for you](https://www.cnbc.com/2025/12/10/night-owl-bitcoin-traders-soon-therell-be-an-etf-just-for-you.html)**
-
-If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
-
-CNBC • 1d ago
 
 ---
 
@@ -255,7 +253,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -403,7 +401,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 682 • 💬 41 • ⏱️ 11:29 • 22h ago
+👁️ 16K • 👍 682 • 💬 41 • ⏱️ 11:29 • 23h ago
 
 ---
 

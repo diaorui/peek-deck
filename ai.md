@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T11:24:28.225323+00:00'
+updated: '2025-12-12T11:41:12.639970+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 11:24 UTC  
+**Last Updated:** December 12, 2025 at 11:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 18h ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 19h ago
 
 ---
 
@@ -89,7 +89,7 @@ Four sources close to the situation claim OpenAI has become hesitant to publish 
 
 When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
 
-🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 16h ago
+🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 17h ago
 
 ---
 
@@ -97,7 +97,7 @@ When my company pivoted to AI in 2023, I lost my job. As I struggle to find a ne
 
 Trump signs order to block states from enforcing own AI rules.[1] Disney making $1 billion investment in OpenAI, will allow characters on Sora AI video generator.[2] Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2.[3] Amazon Prime Video pulls AI-powered recaps after Fallout flub.[4] Sources: [1] https://www.bbc.com/news/articles/crmddnge9yro [2] https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html [3] https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/ [4] https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap
 
-5h ago
+6h ago
 
 ---
 
@@ -121,6 +121,14 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 ## Google News: "ai"
 
+**[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
+
+California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
+
+BBC • 8h ago
+
+---
+
 **[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
@@ -129,17 +137,11 @@ Time Magazine • 22h ago
 
 ---
 
-**[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+**[Amputees often feel disconnected from their bionic hands. AI could bridge the gap : Shots - Health News](https://www.npr.org/sections/shots-health-news/2025/12/12/nx-s1-5639925/bionic-hand-prosthetic-artificial-intelligence)**
 
-The New York Times • 11h ago
+Sensors and artificial intelligence help a prosthetic hand act more like a natural one, new research shows.
 
----
-
-**[AI-led tech slide extends into third day as Oracle, Nvidia, fall in premarket trading](https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html)**
-
-AI-related names have made losses since Oracle's mixed results on Wednesday.
-
-CNBC • 1h ago
+NPR • 41m ago
 
 ---
 
@@ -149,23 +151,27 @@ Axios • 1h ago
 
 ---
 
-**[Trump's AI adviser faces questions over use of position to advance his own interests](https://www.npr.org/2025/12/12/nx-s1-5631823/trumps-ai-adviser-faces-questions-over-use-of-position-to-advance-his-own-interests)**
+**[Goldman’s Snider Sees AI, Strong Macro Driving 12% Earnings Jump](https://www.bloomberg.com/news/articles/2025-12-12/goldman-s-snider-sees-ai-strong-macro-driving-12-earnings-jump)**
 
-David Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
-
-NPR • 1h ago
+Bloomberg.com • 54m ago
 
 ---
 
-**[Trump signs executive order blocking states from regulating AI](https://www.theguardian.com/us-news/2025/dec/11/trump-executive-order-artificial-intelligence)**
+**[Jamie Dimon: AI 'will eliminate jobs,' but people with these skills will get 'plenty' of opportunities](https://www.cnbc.com/2025/12/11/jamie-dimon-ai-will-eliminate-jobs-but-these-skills-will-get-you-opportunities.html)**
 
-Order, which lacks the force of law, also creates taskforce whose ‘sole responsibility’ will be challenging states’ AI laws
+JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
 
-The Guardian • 10h ago
+CNBC • 21h ago
 
 ---
 
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqfZSi1xo-Tp7qLYmJ1-S0oMI0uWWoGAgoPgvgWqPYGEo3DpH2P8ZlXJ&gaa_ts=693bf852&gaa_sig=JvxrITpSHNwt3-VnGfU_c9kE4SmwgwJPx_jZ6NlBA8pN0tsiqXPvG4hZbf8AmX4TWFQDHMKQUhza_pikM01-DA%3D%3D)**
+**[Can OpenAI Respond After Google Closes the A.I. Technology Gap?](https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html)**
+
+The New York Times • 16h ago
+
+---
+
+**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqe623aqj5jUKHNMoe8zXMTNMrIkYo2LtyU8c09BtNHIE2DRx5he3M3F&gaa_ts=693c02c2&gaa_sig=rpdCPGYXeSK3kfJJQRV--EN3IDuOB-_bfrycRLKXyg892U2-5C09CLGpUgdLrCVShpK5TDqMKXSx0IUXFfPsyA%3D%3D)**
 
 The Wall Street Journal • 14h ago
 
@@ -185,12 +191,6 @@ NBC News • 21h ago
 
 ---
 
-**[Trump threatens funding for states over AI regulations](https://www.reuters.com/world/trump-says-he-will-sign-order-curbing-state-ai-laws-2025-12-11/)**
-
-Reuters • 4h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -199,7 +199,7 @@ Reuters • 4h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 374 • 💬 191 • 21h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 374 • 💬 191 • 22h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -305,7 +305,7 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 📺 CNBC Television
 
-👁️ 22K • 👍 223 • 💬 70 • ⏱️ 3:04 • 16h ago
+👁️ 22K • 👍 223 • 💬 70 • ⏱️ 3:04 • 17h ago
 
 ---
 
@@ -355,7 +355,7 @@ Oracle's latest quarterly results sent shockwaves through the tech world, with t
 
 📺 Firstpost
 
-👁️ 35K • 👍 387 • 💬 36 • ⏱️ 5:39 • 17h ago
+👁️ 35K • 👍 387 • 💬 36 • ⏱️ 5:39 • 18h ago
 
 ---
 
@@ -365,7 +365,7 @@ AI is NOT the bubble... the real bubble is jobs. Entire industries are on the ve
 
 📺 Glenn Beck Clips
 
-👁️ 23K • 👍 870 • 💬 252 • ⏱️ 11:23 • 21h ago
+👁️ 23K • 👍 870 • 💬 252 • ⏱️ 11:23 • 22h ago
 
 ---
 
@@ -427,7 +427,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 277 • 1h ago
+⬇️ 10,352 • ❤️ 277 • 2h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.2k • 🔱 243 • 4h ago
+⭐ 2.2k • 🔱 243 • 5h ago
 
 ---
 
