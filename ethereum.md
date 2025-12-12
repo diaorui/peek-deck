@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T05:11:49.379455+00:00'
+updated: '2025-12-12T05:38:48.711496+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 05:11 UTC  
+**Last Updated:** December 12, 2025 at 05:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +6.9%  
-**30d:** +0.2%  
-**90d:** -29.5%  
-**1y:** -17.0%  
+**24h:** +1.2%  
+**7d:** +6.7%  
+**30d:** +0.0%  
+**90d:** -29.7%  
+**1y:** -17.1%  
 
 ---
 
@@ -190,7 +190,7 @@ CryptoPotato • 1d ago
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
 
-CoinDesk • 24m ago
+CoinDesk • 51m ago
 
 ---
 
@@ -214,7 +214,7 @@ Nasdaq • 2d ago
 
 There's one key reason why Ethereum is underperforming its mega-cap peers today.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -266,7 +266,7 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 📺 Ivan on Tech
 
-👁️ 23K • 👍 1K • 💬 123 • ⏱️ 10:42 • 13h ago
+👁️ 23K • 👍 1K • 💬 123 • ⏱️ 10:42 • 14h ago
 
 ---
 
@@ -296,7 +296,7 @@ Get ready for a deep dive into the massive shift happening in European banking! 
 
 📺 CryptoStock Lab
 
-👁️ 144 • 👍 8 • ⏱️ 6:46 • 14h ago
+👁️ 144 • 👍 8 • ⏱️ 6:46 • 15h ago
 
 ---
 

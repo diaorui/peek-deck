@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T05:11:49.373428+00:00'
+updated: '2025-12-12T05:38:48.705487+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 05:11 UTC  
+**Last Updated:** December 12, 2025 at 05:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,459.56
+### $92,247.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
-**7d:** +3.5%  
-**30d:** -7.4%  
-**90d:** -19.9%  
-**1y:** -8.8%  
+**24h:** +2.2%  
+**7d:** +3.0%  
+**30d:** -7.8%  
+**90d:** -20.3%  
+**1y:** -9.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
 
-8h ago
+9h ago
 
 ---
 
@@ -117,7 +117,7 @@ Made a little edit on the pump it up song to include the current craziness going
 
 **[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -137,7 +137,7 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -163,7 +163,7 @@ BBC • 1d ago
 
 Experts remain cautiously optimistic as macro hurdles clear amid Bitcoin whale accumulation and liquidity drying up ahead of the holidays.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -279,7 +279,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Show HN: I got my site down to 237kb by ditching Google Analytics](https://news.ycombinator.com/item?id=46240998)**
 
-⬆️ 1 • 💬 0 • 16m ago • [deadstack.net](https://deadstack.net/)
+⬆️ 1 • 💬 0 • 43m ago • [deadstack.net](https://deadstack.net/)
 
 ---
 
@@ -331,7 +331,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 1K • 👍 99 • 💬 47 • ⏱️ 22:05 • 5h ago
+👁️ 1K • 👍 99 • 💬 47 • ⏱️ 22:05 • 6h ago
 
 ---
 

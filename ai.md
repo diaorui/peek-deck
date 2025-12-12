@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T05:11:49.365074+00:00'
+updated: '2025-12-12T05:38:48.697038+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- social
 - videos
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 05:11 UTC  
+**Last Updated:** December 12, 2025 at 05:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 9h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 16h ago
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 17h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 13h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 14h ago
 
 ---
 
@@ -73,7 +73,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 12h ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 13h ago
 
 ---
 
@@ -89,7 +89,7 @@ Four sources close to the situation claim OpenAI has become hesitant to publish 
 
 When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
 
-🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 10h ago
+🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 11h ago
 
 ---
 
@@ -147,7 +147,7 @@ status.news • 1h ago
 
 The Dutch company’s machines are needed to make the AI chips that power ChatGPT and other models
 
-Bloomberg.com • 11m ago
+Bloomberg.com • 38m ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 11m ago
 
 In a lengthy blog post, Bury advised against attempting to short the current AI bubble and said the bubble may grow even larger.
 
-Business Insider • 5m ago
+Business Insider • 32m ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 15h ago
 
 **[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqf6GGpWCb-MyVQLD9K9fdwPzVVPGXsC74YPRboaSVqc_nfcu0ra8ruM&gaa_ts=693ba77b&gaa_sig=wgb5q_D5bHGXLD2mBuVyI630Rq0ufv2B3MUGZbABHHolEEM4QYA4EFA398pJ26HABx_jGf--Z_esyiA_aGc5DQ%3D%3D)**
 
-The Wall Street Journal • 7h ago
+The Wall Street Journal • 8h ago
 
 ---
 
@@ -193,7 +193,7 @@ NBC News • 15h ago
 
 President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
@@ -221,7 +221,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 320 • 💬 2 • 14h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 320 • 💬 2 • 15h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -237,7 +237,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 262 • 💬 143 • 15h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 262 • 💬 143 • 16h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -301,7 +301,7 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 📺 CNBC Television
 
-👁️ 17K • 👍 199 • 💬 68 • ⏱️ 3:04 • 10h ago
+👁️ 17K • 👍 199 • 💬 68 • ⏱️ 3:04 • 11h ago
 
 ---
 
@@ -331,7 +331,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 4K • 👍 277 • 💬 9 • ⏱️ 13:12 • 10h ago
+👁️ 4K • 👍 277 • 💬 9 • ⏱️ 13:12 • 11h ago
 
 ---
 
@@ -433,7 +433,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,209 • ❤️ 270 • 2d ago
+⬇️ 2,209 • ❤️ 270 • 3d ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 9.9k • 🔱 1.7k • 56m ago
+⭐ 9.9k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -747,7 +747,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 628 • 🔱 92 • 14h ago
+⭐ 628 • 🔱 92 • 15h ago
 
 ---
 
