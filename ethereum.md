@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T18:44:53.808016+00:00'
+updated: '2025-12-12T19:00:47.773912+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - cryptocurrency
 - social
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 18:44 UTC  
+**Last Updated:** December 12, 2025 at 19:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** +1.8%  
-**30d:** -4.6%  
-**90d:** -32.9%  
-**1y:** -20.9%  
+**24h:** -4.4%  
+**7d:** +1.4%  
+**30d:** -4.9%  
+**90d:** -33.1%  
+**1y:** -21.2%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 5h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 6h ago
 
 ---
 
@@ -88,7 +88,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 5h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 6h ago
 
 ---
 
@@ -178,7 +178,7 @@ Decrypt • 2d ago
 
 Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
 
-BeInCrypto • 23h ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -186,7 +186,7 @@ BeInCrypto • 23h ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-The Motley Fool • 59m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -194,13 +194,13 @@ The Motley Fool • 59m ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 55m ago
 
 ---
 
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
-Binance • 15h ago
+Binance • 16h ago
 
 ---
 
@@ -208,7 +208,7 @@ Binance • 15h ago
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -236,7 +236,7 @@ Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 9K • 👍 607 • 💬 48 • ⏱️ 48:17 • 6h ago
+👁️ 9K • 👍 607 • 💬 48 • ⏱️ 48:17 • 7h ago
 
 ---
 
@@ -316,7 +316,7 @@ ETH isn't just lagging — its story broke. It's down ~3× more than BTC from th
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 173 • 💬 23 • ⏱️ 15:43 • 23h ago
+👁️ 3K • 👍 173 • 💬 23 • ⏱️ 15:43 • 1d ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 360 • 💬 140 • ⏱️ 18:15 • 19h ago
+👁️ 10K • 👍 360 • 💬 140 • ⏱️ 18:15 • 20h ago
 
 ---
 

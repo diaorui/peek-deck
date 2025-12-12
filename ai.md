@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T18:44:53.793508+00:00'
+updated: '2025-12-12T19:00:47.756493+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - news
 - videos
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 18:44 UTC  
+**Last Updated:** December 12, 2025 at 19:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ A new study has found that artificial intelligence systems struggle to distingui
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 1h ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Fears about AI data centers’ water use have exploded. Experts say the reality 
 
 **[The Ouroboros at the Heart of Artificial Intelligence](https://www.reddit.com/r/artificial/comments/1pkznif/the_ouroboros_at_the_heart_of_artificial/)**
 
-🔗 [substack.com](https://substack.com/inbox/post/181416869) • 2m ago
+🔗 [substack.com](https://substack.com/inbox/post/181416869) • 18m ago
 
 ---
 
@@ -129,7 +129,7 @@ BBC • 3h ago
 
 **[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 12m ago
+The Washington Post • 28m ago
 
 ---
 
@@ -137,7 +137,7 @@ The Washington Post • 12m ago
 
 Even with better-than-expected earnings and revenue, Broadcom slid on Friday as investors  continued to grow concerned about the AI trade.
 
-CNBC • 52m ago
+CNBC • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 52m ago
 
 "It was intended to reflect the stressful moments that can occur during the holidays in the Netherlands," McDonald's Netherlands told PEOPLE in a statement about the advertisement.
 
-People.com • 59m ago
+People.com • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ The New Yorker • 7h ago
 
 **[Can OpenAI Respond After Google Closes the A.I. Technology Gap?](https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -187,7 +187,7 @@ Time Magazine • 1d ago
 
 AI podcasts are flooding the airways as California companies make thousands to see what sticks
 
-Los Angeles Times • 7h ago
+Los Angeles Times • 8h ago
 
 ---
 
@@ -239,7 +239,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 120 • 💬 78 • 10h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 120 • 💬 78 • 11h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -283,7 +283,7 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 30K • 👍 1K • 💬 227 • ⏱️ 14:58 • 18h ago
+👁️ 30K • 👍 1K • 💬 227 • ⏱️ 14:58 • 19h ago
 
 ---
 
@@ -353,7 +353,7 @@ shorts.
 
 📺 Brian Tyler Cohen
 
-👁️ 644K • 👍 37K • 💬 4K • ⏱️ 0:19 • 21h ago
+👁️ 644K • 👍 37K • 💬 4K • ⏱️ 0:19 • 22h ago
 
 ---
 
@@ -719,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 881 • 🔱 22 • 4d ago
+⭐ 881 • 🔱 22 • 5d ago
 
 ---
 
@@ -739,7 +739,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 651 • 🔱 95 • 8h ago
+⭐ 651 • 🔱 95 • 9h ago
 
 ---
 
