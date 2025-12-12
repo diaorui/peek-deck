@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T18:01:02.503471+00:00'
+updated: '2025-12-12T18:44:53.802008+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 18:01 UTC  
+**Last Updated:** December 12, 2025 at 18:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,831.33
+### $90,556.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +0.9%  
-**30d:** -9.7%  
-**90d:** -21.9%  
-**1y:** -11.0%  
+**24h:** -0.1%  
+**7d:** +1.4%  
+**30d:** -9.3%  
+**90d:** -21.6%  
+**1y:** -10.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1801.83B
+**Market Cap:** $1808.09B
 Rank #1
 
-**Circulating Supply:** 19,961,209 BTC
+**Circulating Supply:** 19,961,228 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.1%
 
 **All-Time Low:** $67.81
-+133017.5%
++133547.0%
 
 ---
 
@@ -77,6 +77,14 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Daily meme until $92,450](https://www.reddit.com/r/Bitcoin/comments/1pkriyo/daily_meme_until_92450/)**
+
+C’mon Bitcoin, you can do it
+
+5h ago
+
+---
+
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
 6h ago
@@ -85,27 +93,19 @@ Rank #1
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-16h ago
+17h ago
 
 ---
 
-**[Daily meme until $92,450](https://www.reddit.com/r/Bitcoin/comments/1pkriyo/daily_meme_until_92450/)**
+**["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-C’mon Bitcoin, you can do it
-
-4h ago
+28m ago
 
 ---
 
 **[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
 
-4h ago
-
----
-
-**[Here we go again.](https://www.reddit.com/r/Bitcoin/comments/1pkw7mc/here_we_go_again/)**
-
-1h ago
+5h ago
 
 ---
 
@@ -117,17 +117,21 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 ---
 
-**[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
+**[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-5h ago
+28m ago
 
 ---
 
-**[AND](https://www.reddit.com/r/Bitcoin/comments/1pkqkkd/and/)**
+**[Here we go again.](https://www.reddit.com/r/Bitcoin/comments/1pkw7mc/here_we_go_again/)**
 
-PNC Bank just started selling Bitcoin to their clients. Not through some sketchy app. Through their regular banking platform. Powered by Coinbase. The seventh-largest bank in America looked at bitcoin and didn't see an enemy. They saw a partner. For years, the debate was Bitcoin versus banks. Us versus them. Choose a side. Turns out the winners weren't choosing. They were combining. I co-founded India's first Bitcoin exchange in 2013. We survived a central bank ban. We won in the Supreme Court. We've served over two million people. And the whole time, the loudest voices kept telling me to pick a lane. Bitcoin OR banks. Disruption OR compliance. Revolution OR evolution. I refused. Here's what I learned: The people who change industries don't burn bridges. They build them. When we started our Bitcoin meetups in Bangalore, we held them at the Leela Palace—a six-star hotel. Not because we had money to burn. Because bankers and lawyers and skeptics don't show up to basements. If you're only talking to people who already agree with you, you're not evangelizing. You're just having a meeting. PNC didn't become a bitcoin company. Coinbase didn't become a bank. They each brought what they were good at. That's not compromise. That's leverage. The question isn't Bitcoin or blockchain. The question is: Who have you written off that's actually ready to listen?
+2h ago
 
-5h ago
+---
+
+**[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
+
+6h ago
 
 ---
 
@@ -135,13 +139,7 @@ PNC Bank just started selling Bitcoin to their clients. Not through some sketchy
 
 Trinidad and Tobago amends the original two‑year blanket ban on crypto. The strict ban has been significantly softened: the bill has passed with 200+
 
-🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 4h ago
-
----
-
-**[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
-
-20h ago
+🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 5h ago
 
 ---
 
@@ -149,17 +147,49 @@ Trinidad and Tobago amends the original two‑year blanket ban on crypto. The st
 
 ## Google News: "bitcoin"
 
-**[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://finance.yahoo.com/news/bitcoin-dips-below-90-000-054156466.html)**
 
-Investor's Business Daily • 1h ago
+"What we saw last night was even though risk assets ‌were doing well, crypto didn't really want to know about it," said Tony Sycamore, market analyst at IG in Sydney.  "As ⁠a result, we now think future Bitcoin price increases will effectively be ‌driven by one leg only – ETF buying."
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Crypto Markets Today: Bitcoin Treads Water After Fed Cut as Altcoin Slump Deepens](https://www.coindesk.com/markets/2025/12/12/crypto-markets-today-bitcoin-stuck-in-post-fed-range-as-altcoins-continue-to-lag)**
+**[Bitcoin Price (BTC) News: Plunges Below $90K as AI Bubble Worries Weigh on Tech Stocks](https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down)**
 
-Bitcoin remains trapped in a range despite the U.S. rate cut, while altcoins and memecoins struggle to attract risk appetite amid shifting investor behavior.
+Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026.
 
-CoinDesk • 6h ago
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin just exposed a terrifying link to the AI bubble that guarantees it crashes first when tech breaks](https://cryptoslate.com/if-an-ai-bubble-pops-does-btc-bleed-or-benefit/)**
+
+Oracle's earnings miss and $80B market cap wipeout show how tightly Bitcoin now tracks AI-driven tech risk, but the policy response to a credit crunch could recreate the liquidity conditions.
+
+CryptoSlate • 8h ago
+
+---
+
+**[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+
+Investor's Business Daily • 2h ago
+
+---
+
+**[Bitcoin Drifts Lower With Any Push Higher Being Met by Fresh Sellers](https://www.bloomberg.com/news/articles/2025-12-12/bitcoin-drifts-lower-with-any-push-higher-being-met-by-fresh-sellers)**
+
+Bitcoin continues to drift toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October.
+
+Bloomberg.com • 45m ago
+
+---
+
+**[Solo Bitcoin Miner Beats the Odds, Winning $282K Reward](https://finance.yahoo.com/news/solo-bitcoin-miner-beats-odds-181347598.html)**
+
+A solo Bitcoin miner defied the odds and won a block reward worth around $282,000 with the help of mining service, Solo CKPool.
+
+Yahoo Finance • 31m ago
 
 ---
 
@@ -167,29 +197,13 @@ CoinDesk • 6h ago
 
 I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
-Forbes • 7h ago
-
----
-
-**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
-
-Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
-
-Bloomberg.com • 1h ago
+Forbes • 8h ago
 
 ---
 
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 3h ago
-
----
-
-**[Michael Saylor: Strategy’s Bitcoin Bet Could Drive $10M BTC](https://bitbo.io/news/saylor-bitcoin-10m-warning/)**
-
-Michael Saylor claims Strategy’s aggressive accumulation is accelerating Bitcoin adoption, potentially driving its price to $10 million, though analysts warn of a possible bear market.
-
-Bitbo • 6h ago
+x.com • 4h ago
 
 ---
 
@@ -201,25 +215,11 @@ Yahoo Finance • 23h ago
 
 ---
 
-**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
+**[Michael Saylor: Strategy’s Bitcoin Bet Could Drive $10M BTC](https://bitbo.io/news/saylor-bitcoin-10m-warning/)**
 
-Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
+Michael Saylor claims Strategy’s aggressive accumulation is accelerating Bitcoin adoption, potentially driving its price to $10 million, though analysts warn of a possible bear market.
 
-Yahoo Finance • 1d ago
-
----
-
-**[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
-
-Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
-
-BBC • 1d ago
-
----
-
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
-
-Reuters • 1d ago
+Bitbo • 7h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin bear flag. 300k scenario revisit. What I will do in 2026. Larsson Line P
 
 📺 CTO LARSSON
 
-👁️ 8K • 👍 1K • 💬 99 • ⏱️ 13:21 • 4h ago
+👁️ 8K • 👍 1K • 💬 99 • ⏱️ 13:21 • 5h ago
 
 ---
 
@@ -343,7 +343,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 163 • ⏱️ 18:22 • 17h ago
+👁️ 25K • 👍 2K • 💬 163 • ⏱️ 18:22 • 18h ago
 
 ---
 
@@ -373,7 +373,7 @@ How can Bitcoin look so weak on the charts despite getting some of the most bull
 
 📺 Coin Bureau Trading
 
-👁️ 5K • 👍 459 • 💬 62 • ⏱️ 13:24 • 8h ago
+👁️ 5K • 👍 459 • 💬 62 • ⏱️ 13:24 • 9h ago
 
 ---
 

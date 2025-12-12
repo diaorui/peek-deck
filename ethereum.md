@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T18:01:02.509500+00:00'
+updated: '2025-12-12T18:44:53.808016+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 18:01 UTC  
+**Last Updated:** December 12, 2025 at 18:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,096.98
+### $3,074.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** +0.9%  
-**30d:** -5.4%  
-**90d:** -33.5%  
-**1y:** -21.6%  
+**24h:** -3.4%  
+**7d:** +1.8%  
+**30d:** -4.6%  
+**90d:** -32.9%  
+**1y:** -20.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $370.82B
+**Market Cap:** $373.31B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.8%
+-37.4%
 
 **All-Time Low:** $0.43
-+710437.9%
++714953.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -152,9 +152,25 @@ oskar thorén is one of the leads in ethereum foundation's newest IPTF, or insti
 
 ## Google News: "ethereum"
 
+**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://finance.yahoo.com/news/tom-lee-bitmine-adds-112m-132425778.html)**
+
+Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
+
+Yahoo Finance • 1d ago
+
+---
+
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
 The Block • 1d ago
+
+---
+
+**[Ethereum Has Bottomed, Says BitMine Chairman Tom Lee—Here's Why](https://decrypt.co/351828/ethereum-bottomed-bitmine-chairman-tom-lee)**
+
+BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
+
+Decrypt • 2d ago
 
 ---
 
@@ -166,19 +182,39 @@ BeInCrypto • 23h ago
 
 ---
 
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
-
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
-
-CoinDesk • 2h ago
-
----
-
 **[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://www.fool.com/investing/2025/12/12/why-ethereum-sank-5-today-while-the-crypto-market/)**
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-The Motley Fool • 16m ago
+The Motley Fool • 59m ago
+
+---
+
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
+
+Sentiment around Ethereum has been bouncing around considerably in recent days.
+
+Yahoo Finance • 39m ago
+
+---
+
+**[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
+
+Binance • 15h ago
+
+---
+
+**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
+
+Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
+
+CoinDesk • 13h ago
+
+---
+
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfSyvKaMJNjEP-oDOLHLjUb1GY76YBIAORArF5Fn7zONdHUFquBOtix&gaa_ts=693c65ad&gaa_sig=e5vq8aK1wCqL4nG-6uRl_Y8oruRTHAlhWaqIKP3lPCdT5mYmTME-ppC4jZcC5HKix6nfJ5BKlkAKAHU6qA8jgQ%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -187,40 +223,6 @@ The Motley Fool • 16m ago
 The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
 
 Decrypt • 1d ago
-
----
-
-**[Solana Will ‘Flip’ Ethereum, Predicts Skybridge Capital’s Scaramucci](https://www.tradingview.com/news/newsbtc:1dae68157094b:0-solana-will-flip-ethereum-predicts-skybridge-capital-s-scaramucci/)**
-
-Anthony Scaramucci showed up to Solana Breakpoint in Abu Dhabi wearing a tie — a small act of rebellion in a sea of hoodies — and then proceeded to make a much bigger one on stage: Solana is going to “flip” Ethereum.Scaramucci’s Solana PredictionNot in the Twitter-war, zero-sum, “ETH is dead” kind…
-
-TradingView • 9h ago
-
----
-
-**[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
-
-CCN.com • 7h ago
-
----
-
-**[Should you buy Ethereum while it's under $5,000?](https://www.msn.com/en-us/money/markets/should-you-buy-ethereum-while-it-s-under-5-000/ar-AA1SdEi3?ocid=finance-verthp-feeds)**
-
-MSN • 5h ago
-
----
-
-**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
-
-BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
-
-CryptoSlate • 1d ago
-
----
-
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdqkH4HomM5mpJ6sew-brJ0370z3kZ8guZaLW0z8xfFXQYVoQ_DCCki&gaa_ts=693c5934&gaa_sig=sy_83Qaq3pF3Md5XR8_ENnEWg2OHJht0bxCXraIHURI0w7rk0_cVcOVTUROAIDfoli5GBFRr3RrXqrExhAh0tQ%3D%3D)**
-
-Barron's • 1d ago
 
 ---
 
@@ -264,7 +266,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 299 • 💬 6 • ⏱️ 48:44 • 1h ago
+👁️ 2K • 👍 299 • 💬 6 • ⏱️ 48:44 • 2h ago
 
 ---
 
@@ -274,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 106 • 💬 8 • ⏱️ 5:04 • 4h ago
+👁️ 1K • 👍 106 • 💬 8 • ⏱️ 5:04 • 5h ago
 
 ---
 
