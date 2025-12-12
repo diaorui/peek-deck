@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T15:24:57.227650+00:00'
+updated: '2025-12-12T15:44:37.027555+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 15:24 UTC  
+**Last Updated:** December 12, 2025 at 15:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,205.45
+### $3,149.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +5.4%  
-**30d:** -1.2%  
-**90d:** -30.5%  
-**1y:** -18.1%  
+**24h:** -2.4%  
+**7d:** +2.1%  
+**30d:** -4.3%  
+**90d:** -32.7%  
+**1y:** -20.7%  
 
 ---
 
@@ -186,7 +186,7 @@ BeInCrypto • 20h ago
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 21m ago
+CoinDesk • 41m ago
 
 ---
 
@@ -222,7 +222,7 @@ Yahoo Finance • 3h ago
 
 **[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
 
-CCN.com • 4h ago
+CCN.com • 5h ago
 
 ---
 

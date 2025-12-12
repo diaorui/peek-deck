@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T15:24:57.213276+00:00'
+updated: '2025-12-12T15:44:37.013012+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
-- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 15:24 UTC  
+**Last Updated:** December 12, 2025 at 15:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 Everyone is reading the December 11 Executive Order as a "deregulation holiday." I think that's dead wrong. It’s actually a litigation trigger. By trying to preempt state AI laws with an EO, the administration isn't clearing the board—they are picking a fight with 38 state legislatures and a Senate that already voted 99-1 against this exact approach. The trap: If you're a vendor, you might be tempted to delete your state-level compliance code today. Don't. We just moved from a patchwork of laws to a constitutional crisis. When the lawsuits stall this EO, you don't want to be the one caught naked on liability. The only safe bet right now? Architect for the EU AI Act. It's the only stable floor left. I wrote a deep dive on why this is a "volatility event" rather than deregulation. https://www.linkedin.com/pulse/50-states-rules-hidden-tax-every-ai-deployment-collin-hogue-spears-eptie
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 13m ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 33m ago
 
 ---
 
@@ -97,7 +97,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 22h ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 23h ago
 
 ---
 
@@ -125,13 +125,13 @@ Four sources close to the situation claim OpenAI has become hesitant to publish 
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
 **[To AI-proof exams, professors turn to the oldest technique of all](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 58m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 1h ago
 
 AI stocks are falling again on Friday, but smaller U.S. stocks and other areas of the market that used to get left behind by Big Tech are picking up the slack.
 
-The Detroit News • 28m ago
+The Detroit News • 48m ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 1d ago
 
 The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
 
-The New Yorker • 3h ago
+The New Yorker • 4h ago
 
 ---
 
@@ -429,7 +429,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 285 • 5h ago
+⬇️ 10,352 • ❤️ 285 • 6h ago
 
 ---
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.3k • 🔱 252 • 8h ago
+⭐ 2.3k • 🔱 252 • 9h ago
 
 ---
 
@@ -702,7 +702,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 8h ago
+⭐ 1.1k • 🔱 134 • 9h ago
 
 ---
 

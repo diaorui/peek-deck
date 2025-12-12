@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T15:24:57.221688+00:00'
+updated: '2025-12-12T15:44:37.021445+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 15:24 UTC  
+**Last Updated:** December 12, 2025 at 15:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,797.73
+### $90,748.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +2.5%  
-**30d:** -8.3%  
-**90d:** -20.7%  
-**1y:** -9.6%  
+**24h:** +0.5%  
+**7d:** +1.0%  
+**30d:** -9.6%  
+**90d:** -21.8%  
+**1y:** -10.9%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ PNC Bank just started selling Bitcoin to their clients. Not through some sketchy
 
 Trinidad and Tobago amends the original two‑year blanket ban on crypto. The strict ban has been significantly softened: the bill has passed with 200+
 
-🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 1h ago
+🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Made a little edit on the pump it up song to include the current craziness going
 
 Bitcoin veered back toward the lower portion of its recent trading range amid lingering concern about demand for risky assets.
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -167,7 +167,7 @@ BBC • 1d ago
 
 **[Bitcoin, Trump and DB Plans](https://www.benefitsandpensionsmonitor.com/news/opinion/bitcoin-trump-and-db-plans/392876)**
 
-Benefits and Pensions Monitor • 48m ago
+Benefits and Pensions Monitor • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Benefits and Pensions Monitor • 48m ago
 
 Shares of Coinbase (NASDAQ:COIN) closed at $275.09 on December 10 as retail investor sentiment on Reddit remains deeply negative. The stock carries a sentiment score of just 17.2 out of 100, placing it in the “very bearish” category. Bitcoin’s 17.8% decline from its November peak of $107,482 to around $90,000 has dragged Coinbase down 36% ... Coinbase Sentiment Hits Rock Bottom as Bitcoin Correlation Crushes Options Traders
 
-Yahoo Finance • 14m ago
+Yahoo Finance • 33m ago
 
 ---
 
@@ -215,7 +215,7 @@ Save the Children US • 1d ago
 
 I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -379,7 +379,7 @@ TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE 
 
 📺 Jason Pizzino
 
-👁️ 11K • 👍 713 • 💬 233 • ⏱️ 27:57 • 8h ago
+👁️ 11K • 👍 713 • 💬 233 • ⏱️ 27:57 • 9h ago
 
 ---
 
