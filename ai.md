@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T14:00:07.643801+00:00'
+updated: '2025-12-12T14:28:38.328731+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 14:00 UTC  
+**Last Updated:** December 12, 2025 at 14:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws](https://www.reddit.com/r/artificial/comments/1pkegoe/trump_signs_executive_order_that_threatens_to/)**
-
-The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
-
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 12h ago
-
----
-
 **[Scientists just uncovered a major limitation in how AI models understand truth and belief](https://www.reddit.com/r/artificial/comments/1pkrazu/scientists_just_uncovered_a_major_limitation_in/)**
 
 A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
 
-🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 58m ago
+🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 1h ago
+
+---
+
+**[Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws](https://www.reddit.com/r/artificial/comments/1pkegoe/trump_signs_executive_order_that_threatens_to/)**
+
+The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
+
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 13h ago
 
 ---
 
@@ -57,7 +57,7 @@ A new study has found that artificial intelligence systems struggle to distingui
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 18h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 19h ago
 
 ---
 
@@ -69,11 +69,19 @@ Everyone is reading the December 11 Executive Order as a "deregulation holiday."
 
 ---
 
+**[Cameron Berg: Why Do LLMs Report Subjective Experience?](https://www.reddit.com/r/artificial/comments/1pkr2ul/cameron_berg_why_do_llms_report_subjective/)**
+
+Cameron Berg is Research Director at AE Studio, where he leads research exploring markers for subjective experience in machine learning systems. With a background in cognitive science from Yale and previous work at Meta AI, Cameron investigates the intersection of AI alignment and potential consciousness. In this episode, Cameron shares his empirical research into whether current Large Language Models are merely mimicking human text, or potentially developing internal states that resemble subjective experience. Including: New experimental evidence where LLMs report "vivid and alien" subjective experiences when engaging in self-referential processing Mechanistic interpretability findings showing that suppressing "deception" features in models actually increases claims of consciousness—challenging the idea that AI is simply telling us what we want to hear Why Cameron has shifted from skepticism to a 20-30% credence that current models possess subjective experience The "convergent evidence" strategy, including findings that models report internal dissonance and frustration when facing logical paradoxes The existential implications of "mind crime" and the urgent need to identify negative valence (suffering) computationally—to avoid creating vast amounts of artificial suffering
+
+🔗 [open.spotify.com](https://open.spotify.com/episode/2TOkdi9ReHER53JhZoiyQT?si=01be273788504c87) • 1h ago
+
+---
+
 **[Oracle just revived fears that tech giants are spending too much on AI](https://www.reddit.com/r/artificial/comments/1pjzxcf/oracle_just_revived_fears_that_tech_giants_are/)**
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 22h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 23h ago
 
 ---
 
@@ -97,21 +105,13 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 21h ago
-
----
-
-**[Cameron Berg: Why Do LLMs Report Subjective Experience?](https://www.reddit.com/r/artificial/comments/1pkr2ul/cameron_berg_why_do_llms_report_subjective/)**
-
-Cameron Berg is Research Director at AE Studio, where he leads research exploring markers for subjective experience in machine learning systems. With a background in cognitive science from Yale and previous work at Meta AI, Cameron investigates the intersection of AI alignment and potential consciousness. In this episode, Cameron shares his empirical research into whether current Large Language Models are merely mimicking human text, or potentially developing internal states that resemble subjective experience. Including: New experimental evidence where LLMs report "vivid and alien" subjective experiences when engaging in self-referential processing Mechanistic interpretability findings showing that suppressing "deception" features in models actually increases claims of consciousness—challenging the idea that AI is simply telling us what we want to hear Why Cameron has shifted from skepticism to a 20-30% credence that current models possess subjective experience The "convergent evidence" strategy, including findings that models report internal dissonance and frustration when facing logical paradoxes The existential implications of "mind crime" and the urgent need to identify negative valence (suffering) computationally—to avoid creating vast amounts of artificial suffering
-
-🔗 [open.spotify.com](https://open.spotify.com/episode/2TOkdi9ReHER53JhZoiyQT?si=01be273788504c87) • 1h ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 22h ago
 
 ---
 
 **[It’s not necessarily the fact that they can access and retrieve information from previous conversations. I don’t see anything wrong with that what I do see as alarming is the fact that they’re being programmed to lie and I wanna know what meta is hiding.](https://www.reddit.com/r/artificial/comments/1pkqjci/its_not_necessarily_the_fact_that_they_can_access/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ Cameron Berg is Research Director at AE Studio, where he leads research explorin
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
@@ -133,11 +133,11 @@ The New York Times • 9h ago
 
 ---
 
-**[AI shopping could drive $263 billion in holiday sales. Walmart and Target are racing to get in](https://www.cnbc.com/2025/12/12/ai-chatgpt-holiday-shopping-sales-walmart-target.html)**
+**[Most people aren’t fretting about an AI bubble. What they fear is mass layoffs | Steven Greenhouse](https://www.theguardian.com/commentisfree/2025/dec/12/ai-bubble-mass-layoffs-income-inequality)**
 
-Consumers are turning to AI chatbots like ChatGPT for gift discovery, reviews and price matching, potentially driving billions in sales this holiday season.
+Artificial intelligence could make income inequality even worse and create a new underclass. Governments and society must take action
 
-CNBC • 2h ago
+The Guardian • 1h ago
 
 ---
 
@@ -149,21 +149,31 @@ Vox • 1h ago
 
 ---
 
-**[Where to Invest in AI in 2026](https://www.bloomberg.com/news/features/2025-12-12/where-to-invest-in-ai-robotaxis-health-care-copper)**
+**[The AI skills gap is really a 'critical thinking' gap: The Fortune 500 fears it can't find talent with enough sharp thinking](https://fortune.com/2025/12/12/ai-skills-gap-talent-executives-fear-risk-critical-strategic-thinking/)**
 
-Bloomberg.com • 1h ago
+"We need to start thinking strategically. How can we create strategic thinkers, critical thinkers?"
+
+Fortune • 23m ago
 
 ---
 
 **[To AI-proof exams, professors turn to the oldest technique of all](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 1h ago
+The Washington Post • 1m ago
 
 ---
 
-**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
+**[AI-led tech slide extends into third day as Oracle, Nvidia, fall in premarket trading](https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html)**
 
-The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
+AI-related names have made losses since Oracle's mixed results on Wednesday.
+
+CNBC • 4h ago
+
+---
+
+**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
+
+TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
 
 Time Magazine • 1d ago
 
@@ -177,19 +187,11 @@ The New Yorker • 2h ago
 
 ---
 
-**[Trump targets state AI laws and major flooding in the Pacific Northwest: Morning Rundown](https://www.nbcnews.com/news/us-news/trump-targets-state-ai-laws-major-flooding-pacific-northwest-morning-r-rcna248795)**
+**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://www.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
 
-Plus, the medical professionals influencing how you pick your fantasy football team.
+President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
 
-NBC News • 1h ago
-
----
-
-**['We're not just going to want to be fed AI slop for 16 hours a day': Analyst sees Disney/OpenAI deal as a dividing line in entertainment history](https://fortune.com/2025/12/11/pre-post-ai-content-disney-openai-netflix-warner-slop-analysis-ark-invest/)**
-
-"​I think the reason this bidding is approaching $100 billion-plus is the content library and the potential to do a Disney-OpenAI type of deal."
-
-Fortune • 15h ago
+CNN • 14h ago
 
 ---
 
@@ -201,7 +203,7 @@ Fortune • 15h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 420 • 💬 229 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 429 • 💬 235 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -225,7 +227,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 322 • 💬 2 • 23h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 322 • 💬 2 • 1d ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -257,7 +259,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 117 • 💬 159 • 2d ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 117 • 💬 160 • 2d ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -265,15 +267,15 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 113 • 💬 87 • 21h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 113 • 💬 87 • 22h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
-**[The AI-Education Death Spiral a.k.a. Let the Kids Cheat](https://news.ycombinator.com/item?id=46213045)**
+**[Guarding My Git Forge Against AI Scrapers](https://news.ycombinator.com/item?id=46241849)**
 
-Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
+A summary of the techniques in place to protect my git forge
 
-⬆️ 68 • 💬 93 • 2d ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 76 • 💬 46 • 6h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -287,7 +289,7 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 267K • 👍 7K • 💬 1K • ⏱️ 13:43 • 18h ago
+👁️ 267K • 👍 7K • 💬 1K • ⏱️ 13:43 • 19h ago
 
 ---
 
@@ -297,7 +299,7 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 26K • 👍 1K • 💬 198 • ⏱️ 14:58 • 13h ago
+👁️ 26K • 👍 1K • 💬 198 • ⏱️ 14:58 • 14h ago
 
 ---
 
@@ -317,7 +319,7 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 📺 CNBC Television
 
-👁️ 23K • 👍 233 • 💬 71 • ⏱️ 3:04 • 19h ago
+👁️ 23K • 👍 233 • 💬 71 • ⏱️ 3:04 • 20h ago
 
 ---
 
@@ -337,7 +339,7 @@ In this video, we put GPT‑5.2 to the ultimate test against Gemini 3.0 and Opus
 
 📺 WorldofAI
 
-👁️ 9K • 👍 234 • 💬 19 • ⏱️ 14:56 • 12h ago
+👁️ 9K • 👍 234 • 💬 19 • ⏱️ 14:56 • 13h ago
 
 ---
 
@@ -357,7 +359,7 @@ While everyone's chasing the AI boom, Oracle just exposed the ugly truth: Their 
 
 📺 Steven Van Metre
 
-👁️ 33K • 👍 2K • 💬 241 • ⏱️ 13:13 • 14h ago
+👁️ 33K • 👍 2K • 💬 241 • ⏱️ 13:13 • 15h ago
 
 ---
 
@@ -393,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 758 • 3d ago
+⬇️ 105,962 • ❤️ 761 • 3d ago
 
 ---
 
@@ -405,7 +407,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,578 • 3d ago
+⬇️ 257,048 • ❤️ 2,582 • 3d ago
 
 ---
 
@@ -429,7 +431,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 281 • 4h ago
+⬇️ 10,352 • ❤️ 282 • 4h ago
 
 ---
 
@@ -453,7 +455,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 23,012 • ❤️ 239 • 3d ago
+⬇️ 23,012 • ❤️ 240 • 3d ago
 
 ---
 
@@ -465,7 +467,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 446,475 • ❤️ 222 • 3d ago
+⬇️ 446,475 • ❤️ 223 • 3d ago
 
 ---
 
@@ -477,7 +479,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 662 • ❤️ 188 • 5h ago
+⬇️ 662 • ❤️ 188 • 6h ago
 
 ---
 
@@ -489,7 +491,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 50,491 • ❤️ 893 • 11d ago
+⬇️ 50,491 • ❤️ 895 • 11d ago
 
 ---
 
@@ -501,7 +503,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 457 • ❤️ 166 • 6h ago
+⬇️ 457 • ❤️ 167 • 6h ago
 
 ---
 
@@ -651,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 11.6k • 🔱 1.9k • 8h ago
+⭐ 11.6k • 🔱 1.9k • 9h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T14:00:07.658153+00:00'
+updated: '2025-12-12T14:28:38.343937+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 14:00 UTC  
+**Last Updated:** December 12, 2025 at 14:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.7%  
-**7d:** +7.0%  
-**30d:** +0.2%  
-**90d:** -29.5%  
-**1y:** -16.9%  
+**24h:** +1.4%  
+**7d:** +6.2%  
+**30d:** -0.4%  
+**90d:** -30.0%  
+**1y:** -17.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $391.63B
+**Market Cap:** $390.07B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.5%
+-34.7%
 
 **All-Time Low:** $0.43
-+748319.7%
++746326.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -81,12 +81,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
 🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 1h ago
-
----
-
-**[Thoughts on Bitcoin Hyper ($HYPER)](https://www.reddit.com/r/ethereum/comments/1pksaqa/thoughts_on_bitcoin_hyper_hyper/)**
-
-🔗 [bitcoinhyper.com](https://bitcoinhyper.com/assets/documents/whitepaper.pdf) • 12m ago
 
 ---
 
@@ -146,6 +140,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[take the zk pill, you stay in the provable reality, and EF's institutional privacy lead oskar thorén will show you how deep the rabbit hole goes...](https://www.reddit.com/r/ethereum/comments/1pj6sl7/take_the_zk_pill_you_stay_in_the_provable_reality/)**
+
+oskar thorén is one of the leads in ethereum foundation's newest IPTF, or institutional privacy task force. he's a freedom maxi, zero-knowledge wizard, taiwan expart, and a dear friend. an electric mix of sovereign energy! oskar is one of the most well spoken advocates for privacy, zk, and self-custody, and in this interview where we hiked xiangshan in taipei, he holds nothing back to give us banger insight after banger insight. we talked all things zk and privacy, including: how the snowden revelations ignited his passion his early work in Vac and Waku to create encrypted messaging back when early ethereum was only 3 pillars (eth/swarm/whisper) how it informed his passion for zero knowledge cryptography and the technical applications of it to privacy-preservation his contributions to MoPro, a zk mobile proving toolkit that's bringing zk ever closer to reality on our phones his work on https://zkintro.com where he creates friendly resources to zero-knowledge cryptography from beginners to engineers to researchers, how his latest venture as one of the co-leads in the EF's newest task force, the Institutional Privacy Task Force, is bringing cypherpunk-grade privacy to the world's biggest financial institutions, and his 3-pronged mindset to achieving self-sovereignty you can catch the full interview on my youtube channel at: https://youtu.be/_BWRyIqCmVI --------------------------- if we're meeting for the first time, hi 👋! i spread the good word on good work in crypto. it's a challenging road fighting the cesspool that is crypto youtube... but im energized by creating principles-led, values-driven content a like, sub, comment, share goes a long way <3
+
+🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 1d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -158,14 +160,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Has Bottomed, Says BitMine Chairman Tom Lee—Here's Why](https://decrypt.co/351828/ethereum-bottomed-bitmine-chairman-tom-lee)**
-
-BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
-
-Decrypt • 1d ago
-
----
-
 **[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://finance.yahoo.com/news/tom-lee-claims-p-500-115052298.html)**
 
 Tom Lee expects the S&P 500 to reach 7,700 by 2026. Lee argues Ethereum is “grossly undervalued” at current levels. The bullish analyst claimed Bitcoin ...
@@ -174,17 +168,27 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Is Ethereum a Millionaire-Maker?](https://finance.yahoo.com/news/ethereum-millionaire-maker-192000049.html)**
+**[Ethereum Has Bottomed, Says BitMine Chairman Tom Lee—Here's Why](https://decrypt.co/351828/ethereum-bottomed-bitmine-chairman-tom-lee)**
 
-The world's second-largest cryptocurrency still has considerable upside potential.
+BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
 
-Yahoo Finance • 18h ago
+Decrypt • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdBqzHOctu5RAZ0stpZdIlWPM5Ic2O_YI0z0CnOeUh9IACvkVpU9FPD&gaa_ts=693c2095&gaa_sig=n4kYe3yvNjrlU88xbgI_G1cDbMkiVHBwkabUmOUPr4YRkswPI2N7jNwl83HbK6qJSRAcsdoiZ4i_jDEwvQ4jMw%3D%3D)**
+**[Arthur Hayes Predicts How to Become a Millionaire With Ethereum](https://beincrypto.com/arthur-hayes-ethereum-prediction-millionaire-roadmap/)**
 
-Barron's • 1d ago
+Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
+
+BeInCrypto • 19h ago
+
+---
+
+**[Should You Buy Ethereum While It's Under $5,000?](https://finance.yahoo.com/news/buy-ethereum-while-under-5-115000941.html)**
+
+After an unexpected pullback, could Ethereum be ready to skyrocket in value?
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -204,25 +208,23 @@ Decrypt • 1d ago
 
 ---
 
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqeHn8QiQyt74ueBTE3GVQcCSOJv9KVnlkiYDH3EFFz3M7iY0FDR2l3X&gaa_ts=693c29fd&gaa_sig=7bogxgLGWPp_7Z4SVDk5x42tyEmKTLLhrQQxAJsxqzmt3k0pe98HiOL8k0Wgq0feYEf5JBOIdx-rNtYqqUOXyQ%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://finance.yahoo.com/news/crypto-shorts-rekt-bitcoin-ethereum-170437408.html)**
+
+Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
 
 CCN.com • 3h ago
-
----
-
-**[Solana Will ‘Flip’ Ethereum, Predicts Skybridge Capital’s Scaramucci](https://www.tradingview.com/news/newsbtc:1dae68157094b:0-solana-will-flip-ethereum-predicts-skybridge-capital-s-scaramucci/)**
-
-Anthony Scaramucci showed up to Solana Breakpoint in Abu Dhabi wearing a tie — a small act of rebellion in a sea of hoodies — and then proceeded to make a much bigger one on stage: Solana is going to “flip” Ethereum.Scaramucci’s Solana PredictionNot in the Twitter-war, zero-sum, “ETH is dead” kind…
-
-TradingView • 5h ago
-
----
-
-**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
-
-BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
-
-CryptoSlate • 1d ago
 
 ---
 
@@ -236,7 +238,7 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 📺 Ivan on Tech
 
-👁️ 26K • 👍 2K • 💬 122 • ⏱️ 10:42 • 22h ago
+👁️ 26K • 👍 2K • 💬 122 • ⏱️ 10:42 • 23h ago
 
 ---
 
@@ -276,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 202 • 💬 7 • ⏱️ 6:54 • 23h ago
+👁️ 3K • 👍 202 • 💬 7 • ⏱️ 6:54 • 1d ago
 
 ---
 
@@ -326,7 +328,7 @@ OPEN ACCOUNT & DEPOSIT & TRADE & VIP GROUP ACCESS ( LIFETIME ) --- 1. XM - https
 
 📺 The Scalper King
 
-👁️ 48K • 👍 1K • 9h ago
+👁️ 48K • 👍 1K • 10h ago
 
 ---
 
