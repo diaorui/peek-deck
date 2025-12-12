@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T05:53:16.592139+00:00'
+updated: '2025-12-12T06:26:45.000523+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 05:53 UTC  
+**Last Updated:** December 12, 2025 at 06:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-14h ago
+15h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
 
-2h ago
+3h ago
 
 ---
 
@@ -114,9 +114,11 @@ The strongest counter against robot legs that I've seen. Sure, I have yet to see
 
 ## Google News: "robotics"
 
-**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
+**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
 
-Business Wire • 1d ago
+Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
+
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -134,27 +136,11 @@ Runway • 12h ago
 
 ---
 
-**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
-
-Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
-
-IEEE Spectrum • 1d ago
-
----
-
-**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
-
-Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
-
-Shore Daily News • 19h ago
-
----
-
 **[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
 
 Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
 
-Deloitte • 1d ago
+Deloitte • 2d ago
 
 ---
 
@@ -162,7 +148,7 @@ Deloitte • 1d ago
 
 Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.
 
-TechCrunch • 7h ago
+TechCrunch • 8h ago
 
 ---
 
@@ -171,6 +157,14 @@ TechCrunch • 7h ago
 Chinese home appliance company Midea has unveiled its six-armed super humanoid robot at the Greater Bay Area New Economy Forum in China.
 
 Interesting Engineering • 14h ago
+
+---
+
+**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
+
+Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
+
+Shore Daily News • 20h ago
 
 ---
 
@@ -190,6 +184,12 @@ MLive.com • 2d ago
 
 ---
 
+**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
+
+Business Wire • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +200,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 80K • 👍 2K • 💬 513 • ⏱️ 14:26 • 3d ago
+👁️ 82K • 👍 2K • 💬 521 • ⏱️ 14:26 • 3d ago
 
 ---
 
@@ -210,7 +210,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 110K • 👍 4K • 💬 332 • ⏱️ 17:44 • 1d ago
+👁️ 112K • 👍 4K • 💬 336 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -220,27 +220,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 35K • 👍 658 • 💬 161 • ⏱️ 18:46 • 6d ago
-
----
-
-**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 132K • 👍 7K • 💬 902 • ⏱️ 19:33 • 5d ago
-
----
-
-**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
-
-Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
-
-📺 CNN
-
-👁️ 84K • 👍 1K • 💬 431 • ⏱️ 0:41 • 4d ago
+👁️ 35K • 👍 660 • 💬 162 • ⏱️ 18:46 • 6d ago
 
 ---
 
@@ -254,13 +234,33 @@ GirlfriendRobot #RobotExpo #InnovationJourney Join me as I dive into the fascina
 
 ---
 
+**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 133K • 👍 7K • 💬 903 • ⏱️ 19:33 • 5d ago
+
+---
+
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
+
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
+
+📺 CNN
+
+👁️ 84K • 👍 1K • 💬 433 • ⏱️ 0:41 • 4d ago
+
+---
+
 **[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
 
 The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
 
 📺 DPCcars
 
-👁️ 200K • 👍 923 • 💬 298 • ⏱️ 1:03 • 5d ago
+👁️ 200K • 👍 925 • 💬 298 • ⏱️ 1:03 • 5d ago
 
 ---
 
@@ -272,6 +272,16 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 ---
 
+**[The Robot Body](https://www.youtube.com/watch?v=TJFMMOlbyIw)**
+
+What should a robot look like? How necessary is a body? Where do the boundaries of ourselves begin and end? Exploring ...
+
+📺 Sarah Davis Baker
+
+👁️ 16K • 👍 2K • 💬 248 • ⏱️ 37:14 • 1d ago
+
+---
+
 **[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
 
 After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
@@ -279,16 +289,6 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 📺 Kalil 4.0
 
 👁️ 20K • 👍 372 • 💬 71 • ⏱️ 0:59 • 5d ago
-
----
-
-**[Humanoid Robots Are Moving in Ways We’ve NEVER Seen Before.](https://www.youtube.com/watch?v=vHoyHfzhfBY)**
-
-Want to stay up to date with ai news - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid ...
-
-📺 TheAIGRID
-
-👁️ 26K • 👍 823 • 💬 175 • ⏱️ 10:33 • 7d ago
 
 ---
 

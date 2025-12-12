@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T05:53:16.574226+00:00'
+updated: '2025-12-12T06:26:44.982388+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 05:53 UTC  
+**Last Updated:** December 12, 2025 at 06:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,27 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Something Ominous Is Happening in the AI Economy](https://www.reddit.com/r/artificial/comments/1pk6avk/something_ominous_is_happening_in_the_ai_economy/)**
-
-The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
-
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 10h ago
-
----
-
 **[Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws](https://www.reddit.com/r/artificial/comments/1pkegoe/trump_signs_executive_order_that_threatens_to/)**
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 4h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 5h ago
 
 ---
 
-**[Videos of sexually suggestive, AI-generated children are racking up millions of likes on TikTok, study finds](https://www.reddit.com/r/artificial/comments/1pjvzwq/videos_of_sexually_suggestive_aigenerated/)**
+**[Something Ominous Is Happening in the AI Economy](https://www.reddit.com/r/artificial/comments/1pk6avk/something_ominous_is_happening_in_the_ai_economy/)**
 
-AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
+The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 17h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 11h ago
 
 ---
 
@@ -65,7 +57,15 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 14h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 15h ago
+
+---
+
+**[Videos of sexually suggestive, AI-generated children are racking up millions of likes on TikTok, study finds](https://www.reddit.com/r/artificial/comments/1pjvzwq/videos_of_sexually_suggestive_aigenerated/)**
+
+AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
+
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 18h ago
 
 ---
 
@@ -81,7 +81,7 @@ A new survey finds corporations and investors are overwhelmingly optimistic abou
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 13h ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 14h ago
 
 ---
 
@@ -97,7 +97,7 @@ When my company pivoted to AI in 2023, I lost my job. As I struggle to find a ne
 
 Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.
 
-🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 8h ago
+🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 9h ago
 
 ---
 
@@ -113,7 +113,7 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal in which the artificial intelligence start-up will use Disney characters in its flagship products. As part of the three-year deal, announced on Thursday, Disney will make more than 200 Marvel, Pixar and Star Wars characters available within ChatGPT and Sora, OpenAI’s video-generation tool. The company will also take a $1bn stake in the $500bn start-up, as well as warrants to purchase additional equity at a later date. Read the full story for free with your email here: https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
 
-🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 14h ago
+🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 15h ago
 
 ---
 
@@ -121,9 +121,49 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 
 ## Google News: "ai"
 
-**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+**[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-The New York Times • 3h ago
+The New York Times • 1h ago
+
+---
+
+**[Trump is trying to preempt state AI laws via an executive order. It may not be legal](https://www.npr.org/2025/12/11/nx-s1-5638562/trump-ai-david-sacks-executive-order)**
+
+The executive order is the latest in a series of attempts by the Trump administration to hold back state-level AI rules. But many Republicans are also uncomfortable with the effort.
+
+NPR • 5h ago
+
+---
+
+**[Ignoring AI bubble fears, investors bet Nvidia and Google will fuel Taiwan stocks to record](https://finance.yahoo.com/news/ignoring-ai-bubble-fears-investors-053150245.html)**
+
+Taiwan's tech-heavy stocks show few signs of slowing a rally even as AI bubble worries cast a shadow over global markets,  underscoring home-grown confidence in the structural advantages in AI that foreign investors may have overlooked.  Taiwan's benchmark index is poised to breach a record 30,000 points in 2026, investors ​say, extending a three-year surge that has seen the stock market nearly double as the island rides a wave of demand for chips that power artificial intelligence.  While foreign ‌money worries about stretched AI valuations, Taiwanese investors have enthusiastically ploughed into the market.
+
+Yahoo Finance • 55m ago
+
+---
+
+**[How ASML’s CEO Plans to Keep Pace With Soaring AI Demand](https://www.bloomberg.com/news/features/2025-12-12/how-asml-plans-to-keep-pace-with-nvidia-s-growth-and-soaring-ai-demand)**
+
+The Dutch company’s machines are needed to make the AI chips that power ChatGPT and other models
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Trump signs executive order on AI](https://www.nbcnews.com/video/shorts/trump-signs-executive-order-on-ai-254276677543)**
+
+Trump signs executive order on AI
+
+NBC News • 1h ago
+
+---
+
+**[Jamie Dimon: AI 'will eliminate jobs,' but people with these skills will get 'plenty' of opportunities](https://www.cnbc.com/2025/12/11/jamie-dimon-ai-will-eliminate-jobs-but-these-skills-will-get-you-opportunities.html)**
+
+JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
+
+CNBC • 16h ago
 
 ---
 
@@ -135,49 +175,17 @@ Time Magazine • 17h ago
 
 ---
 
-**[Ignoring AI bubble fears, investors bet Nvidia and Google will fuel Taiwan stocks to record](https://finance.yahoo.com/news/ignoring-ai-bubble-fears-investors-053150245.html)**
+**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqcKnUBsPmiv4O_ruI-NsDP60TgVbPxehS9OLdlXNZKAO4IZECJM7g_e&gaa_ts=693bb90d&gaa_sig=RHRRZ7k4eIM-gqPdPxCF7z3C6JfPmxFzdSPnxGWo9PzYgdydisGSpd4ZjQBbFNVer2_syyTukFh5UHZMjTr7JQ%3D%3D)**
 
-Taiwan's tech-heavy stocks show few signs of slowing a rally even as AI bubble worries cast a shadow over global markets,  underscoring home-grown confidence in the structural advantages in AI that foreign investors may have overlooked.  Taiwan's benchmark index is poised to breach a record 30,000 points in 2026, investors ​say, extending a three-year surge that has seen the stock market nearly double as the island rides a wave of demand for chips that power artificial intelligence.  While foreign ‌money worries about stretched AI valuations, Taiwanese investors have enthusiastically ploughed into the market.
-
-Yahoo Finance • 22m ago
+The Wall Street Journal • 9h ago
 
 ---
 
-**[How ASML’s CEO Plans to Keep Pace With Soaring AI Demand](https://www.bloomberg.com/news/features/2025-12-12/how-asml-plans-to-keep-pace-with-nvidia-s-growth-and-soaring-ai-demand)**
+**[Cursor Launches an AI Coding Tool For Designers](https://www.wired.com/story/cursor-launches-pro-design-tools-figma/)**
 
-The Dutch company’s machines are needed to make the AI chips that power ChatGPT and other models
+The 300-person startup hopes bringing designers aboard will give it an edge in an increasingly competitive AI software market.
 
-Bloomberg.com • 53m ago
-
----
-
-**[Trump signs executive order on AI](https://www.nbcnews.com/video/shorts/trump-signs-executive-order-on-ai-254276677543)**
-
-Trump signs executive order on AI
-
-NBC News • 31m ago
-
----
-
-**[Jamie Dimon: AI 'will eliminate jobs,' but people with these skills will get 'plenty' of opportunities](https://www.cnbc.com/2025/12/11/jamie-dimon-ai-will-eliminate-jobs-but-these-skills-will-get-you-opportunities.html)**
-
-JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
-
-cnbc.com • 15h ago
-
----
-
-**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://www.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
-
-President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
-
-CNN • 5h ago
-
----
-
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqfQamllFT8e4ogIEo_aSzQj_FEgUoNnMecPLcyokZHgiSCJQHGHrba-&gaa_ts=693bb136&gaa_sig=tAIizNkQVMH24JVT7Pj6SgsCM1UDVg3FhV5GrOs21kxhBybAk1-la3wNIwDXTy8ECIykilIDl7F-fnSscY1KXA%3D%3D)**
-
-The Wall Street Journal • 8h ago
+WIRED • 14h ago
 
 ---
 
@@ -185,15 +193,7 @@ The Wall Street Journal • 8h ago
 
 Explore GPT‑5.2 in Microsoft Foundry—advanced reasoning, agentic execution, and compliance-ready AI for enterprise scale.
 
-Microsoft Azure • 11h ago
-
----
-
-**[Trump is trying to preempt state AI laws via an executive order. It may not be legal](https://www.npr.org/2025/12/11/nx-s1-5638562/trump-ai-david-sacks-executive-order)**
-
-The executive order is the latest in a series of attempts by the Trump administration to hold back state-level AI rules. But many Republicans are also uncomfortable with the effort.
-
-NPR • 5h ago
+Microsoft Azure • 12h ago
 
 ---
 
@@ -221,7 +221,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 320 • 💬 2 • 15h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 320 • 💬 2 • 16h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -237,7 +237,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 273 • 💬 146 • 16h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 281 • 💬 151 • 16h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -269,7 +269,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 107 • 💬 82 • 13h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 108 • 💬 82 • 14h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -285,13 +285,13 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 ## YouTube Videos: "ai"
 
-**[SpongeBob’s New AI Ad is HORRIBLE](https://www.youtube.com/watch?v=UU7pfSjvfj0)**
+**[Avengers: Doomsday - AI Concept Trailer (2026) | Dr. Strange Meets Loki](https://www.youtube.com/watch?v=jJB7jlxghgk)**
 
-A new SpongeBob SquarePants: Krusty Cook Off advertisement on social media uses artificial intelligence and looks horrible.
+Get ready for a multiverse-melting fan-made concept trailer for Avengers: Doomsday (2026), the Marvel Studios juggernaut that's ...
 
-📺 Vailskibum
+📺 J10effect 
 
-👁️ 89K • 👍 6K • 💬 1K • ⏱️ 3:09 • 9h ago
+👁️ 205K • 👍 838 • 💬 79 • ⏱️ 1:10 • 16h ago
 
 ---
 
@@ -301,7 +301,7 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 📺 CNBC Television
 
-👁️ 17K • 👍 199 • 💬 68 • ⏱️ 3:04 • 11h ago
+👁️ 19K • 👍 217 • 💬 73 • ⏱️ 3:04 • 12h ago
 
 ---
 
@@ -311,7 +311,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 49K • 👍 2K • 💬 366 • ⏱️ 14:55 • 1d ago
+👁️ 50K • 👍 3K • 💬 368 • ⏱️ 14:55 • 1d ago
 
 ---
 
@@ -321,47 +321,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 53K • 👍 357 • 💬 254 • ⏱️ 2:58 • 1d ago
-
----
-
-**[AI SEO: Why Your #1 Google Rankings Might Be Worthless in 2026](https://www.youtube.com/watch?v=z02RBAwhoM8)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 4K • 👍 277 • 💬 9 • ⏱️ 13:12 • 11h ago
-
----
-
-**[Elon Musk on DOGE, AI, &amp; Are we in a Simulation? | KMP Ep.18](https://www.youtube.com/watch?v=bz5Hjk40FD4)**
-
-In this episode, I sit down with @elonmusk for a wide-ranging conversation on DOGE, AI, simulation theory, and much more.
-
-📺 Katie Miller Pod
-
-👁️ 383K • 👍 15K • 💬 4K • ⏱️ 52:58 • 2d ago
-
----
-
-**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
-
-Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
-
-📺 AI Revolution
-
-👁️ 44K • 👍 2K • 💬 77 • ⏱️ 12:50 • 2d ago
-
----
-
-**[In 2026, DON&#39;T Build AI Agents, Do This Instead..](https://www.youtube.com/watch?v=VASyr2DxEKE)**
-
-Check out Nebius today: ...
-
-📺 The Cutting Edge School
-
-👁️ 8K • 👍 642 • 💬 57 • ⏱️ 13:41 • 17h ago
+👁️ 54K • 👍 364 • 💬 256 • ⏱️ 2:58 • 1d ago
 
 ---
 
@@ -371,17 +331,57 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 28K • 👍 430 • 💬 84 • ⏱️ 10:31 • 15h ago
+👁️ 31K • 👍 455 • 💬 88 • ⏱️ 10:31 • 15h ago
 
 ---
 
-**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
+**[Gavin Newsom posts AI-generated video of Trump admin getting arrested](https://www.youtube.com/watch?v=b8Pw-B1BqM0)**
 
-Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
+shorts.
 
-📺 hxsain
+📺 Brian Tyler Cohen
 
-👁️ 338K • 👍 26K • 💬 276 • ⏱️ 0:51 • 2d ago
+👁️ 436K • 👍 29K • 💬 3K • ⏱️ 0:19 • 9h ago
+
+---
+
+**[Elon Musk on DOGE, AI, &amp; Are we in a Simulation? | KMP Ep.18](https://www.youtube.com/watch?v=bz5Hjk40FD4)**
+
+In this episode, I sit down with @elonmusk for a wide-ranging conversation on DOGE, AI, simulation theory, and much more.
+
+📺 Katie Miller Pod
+
+👁️ 390K • 👍 15K • 💬 4K • ⏱️ 52:58 • 2d ago
+
+---
+
+**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
+
+Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
+
+📺 AI Revolution
+
+👁️ 45K • 👍 2K • 💬 77 • ⏱️ 12:50 • 2d ago
+
+---
+
+**[See Inside the Data Center Helping to Power the AI Revolution](https://www.youtube.com/watch?v=KiRTHEV7wpo)**
+
+From emails to social media to online shopping, banking and chatting — everything we rely on everyday goes through an AI data ...
+
+📺 TODAY
+
+👁️ 21K • 👍 75 • 💬 22 • ⏱️ 3:20 • 1d ago
+
+---
+
+**[Oracle&#39;s AI Earnings Miss, Shares Slide — Is the AI Boom in Trouble? | Vantage with Palki Sharma](https://www.youtube.com/watch?v=jQ19RWU_hps)**
+
+Oracle's latest quarterly results sent shockwaves through the tech world, with the company's stock tumbling more than 10% after ...
+
+📺 Firstpost
+
+👁️ 27K • 👍 314 • 💬 32 • ⏱️ 5:39 • 12h ago
 
 ---
 
@@ -397,7 +397,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 738 • 3d ago
+⬇️ 80,162 • ❤️ 739 • 3d ago
 
 ---
 
@@ -421,7 +421,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 18,587 • ❤️ 354 • 2d ago
+⬇️ 18,587 • ❤️ 357 • 2d ago
 
 ---
 
@@ -433,7 +433,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 270 • 1d ago
+⬇️ 7,222 • ❤️ 271 • 1d ago
 
 ---
 
@@ -445,7 +445,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,209 • ❤️ 270 • 3d ago
+⬇️ 2,209 • ❤️ 271 • 3d ago
 
 ---
 
@@ -457,7 +457,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 445,464 • ❤️ 214 • 3d ago
+⬇️ 445,464 • ❤️ 215 • 3d ago
 
 ---
 
@@ -469,7 +469,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 207 • 2d ago
+⬇️ 12,302 • ❤️ 209 • 2d ago
 
 ---
 
@@ -481,7 +481,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 45,425 • ❤️ 889 • 10d ago
+⬇️ 45,425 • ❤️ 890 • 10d ago
 
 ---
 
@@ -493,7 +493,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 583 • ❤️ 181 • 2d ago
+⬇️ 583 • ❤️ 182 • 3d ago
 
 ---
 
@@ -561,7 +561,7 @@ Wan-Move enhances motion control in video generative models by integrating motio
 
 Visionary is an open web-native platform enabling real-time rendering of 3D Gaussian Splatting and meshes with efficient GPU-based inference, supporting dynamic content and generative models.
 
-▲ 70 • 💬 4 • ⭐ 267 • 2d ago
+▲ 70 • 💬 4 • ⭐ 267 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
 
@@ -575,7 +575,7 @@ Visionary is an open web-native platform enabling real-time rendering of 3D Gaus
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 166 • 💬 4 • ⭐ 880 • 7d ago
+▲ 166 • 💬 4 • ⭐ 880 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 10.2k • 🔱 1.7k • 44m ago
+⭐ 10.2k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -667,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.1k • 🔱 234 • 12h ago
+⭐ 2.1k • 🔱 234 • 13h ago
 
 ---
 
@@ -697,7 +697,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 14h ago
+⭐ 1.1k • 🔱 134 • 15h ago
 
 ---
 
@@ -747,7 +747,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 632 • 🔱 93 • 15h ago
+⭐ 632 • 🔱 93 • 16h ago
 
 ---
 

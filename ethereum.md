@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T05:53:16.588803+00:00'
+updated: '2025-12-12T06:26:44.997152+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 05:53 UTC  
+**Last Updated:** December 12, 2025 at 06:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +6.9%  
-**30d:** +0.2%  
-**90d:** -29.5%  
-**1y:** -17.0%  
+**24h:** +2.0%  
+**7d:** +7.5%  
+**30d:** +0.8%  
+**90d:** -29.1%  
+**1y:** -16.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $391.89B
+**Market Cap:** $393.61B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.4%
+-34.1%
 
 **All-Time Low:** $0.43
-+749703.1%
++753183.6%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion December 12, 2025](https://www.reddit.com/r/ethereum/comments/1pkkhsl/daily_general_discussion_december_12_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+25m ago
+
+---
+
 **[Daily General Discussion December 11, 2025](https://www.reddit.com/r/ethereum/comments/1pjq4km/daily_general_discussion_december_11_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, total crypto newbie here. I need some guidance and expert advice on the best way to approach my financial needs. Context: I live in a developing country, and I am in desperate need of financial freedom. I started looking into stablecoins, especially USDT. I am not really looking into trading. My use case: Relative or friend in europe, they buy USDT on Binance or any other exchange platform, send that USDT to my Trust wallet. I store it, and occasionally send some pocket money to Redotpay to spend using their virtual visa card. That is pretty much about it. Storing it and spending with Redotpay. Not super interested in p2p market. So i dont think i will need to sell my USDT that often, almost never. So the market standard for p2p transactions isnt really a big concern. Might be interested in trading one day, but not for now. This is just for my personal finances and spending. The question I need help with: Should I use Ethereum or Tron. My findings with the research I did: Tron has cheaper gas fee, for when I transfer to Redotpay. But apparently Eth have dropped their transfer rates for USDT, and a lot of people claim it is around the same price now. Because the numbers I found are a little worrying: around 1 USD for Tron and between 3-8 USD for Eth. If you have any information about the rates that would be great. I am more inclined towards Eth to be fair. I just like the idea of a trully decentralized chain. And it has been king over a decade for good reasons. Also it is more secure. With the new EIP-7702 on Eth, you can now pay gas fee for transfers with USDT, which is very interesting, as I am not very comfortable with juggling two currencies. Since per my understanding, I need to always have TRX reserve in my Trust wallet to be able to send to Redotpay. Are the fees really that different to justify skipping on EIP-7702 ? Some people mentioned using an L2 on Eth. I honestly have no idea what that is. If i have got any concepts misunderstood, I would appreciate any clarifications and guidance. I still got a lot to learn about this field.
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +104,7 @@ Hi, total crypto newbie here. I need some guidance and expert advice on the best
 
 Guys although I want to make flash loan bots and stuff, but can’t find any good posts on it which teaches from start, so any u recommend?
 
-21h ago
+22h ago
 
 ---
 
@@ -112,7 +120,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -136,15 +144,7 @@ Hi everyone, I just wanted to ask for some advice because something feels off. I
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
-
----
-
-**[hows bitwage?](https://www.reddit.com/r/ethereum/comments/1pilkos/hows_bitwage/)**
-
-ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
-
-2d ago
+3d ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 1h ago
 
 Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -182,7 +182,7 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfc_g8eqy-jEGawqTFRtDQhdRIVzFXcNEFZQfaOPStrK8EVsYSZvOY3&gaa_ts=693bb139&gaa_sig=EDB9YQsDbH8SinVgjor6cvRt5tkp93miYSDBDTDVlgIaq93CKfEN_opnwgiwNq6PQ-pAp4ErpaJBu7WyMio8jw%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdt-iETvdEUrydbnxe43P7iD-mctLUFjYqKsEFGmIC_motLziE_6TA6&gaa_ts=693bb910&gaa_sig=QLx8zaZd7DBDUxfALG0IFlycPzO07SeZ4FIgq4DNqUcuHKIghTSLsKUXTScerVDLqd8eWs6IpaRmpEakHKPB_A%3D%3D)**
 
 Barron's • 18h ago
 
@@ -230,13 +230,23 @@ The Motley Fool • 7h ago
 
 ## YouTube Videos: "ethereum"
 
-**[HUGE VOLATILITY COMING!🚨 Bitcoin, Ethereum &amp; Altcoins Update](https://www.youtube.com/watch?v=guyms4R0FeE)**
+**[Tom Lee Just Flipped on Ethereum… Why?](https://www.youtube.com/watch?v=y48K7-hqmPQ)**
 
-CRYPTO MARKET UPDATE Join the Premium Signal Group for trade setups, mentorship & a community focused on real ...
+Tom Lee just reversed his Ethereum outlook after previously calling for a drop to 20k before year-end. Now he says the next major ...
 
-📺 Cilinix Crypto
+📺 Ivan on Tech
 
-👁️ 2K • 👍 131 • 💬 31 • ⏱️ 9:38 • 14h ago
+👁️ 23K • 👍 1K • 💬 127 • ⏱️ 10:42 • 15h ago
+
+---
+
+**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
+
+What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
+
+📺 Thomas Kralow
+
+👁️ 16K • 👍 653 • 💬 44 • ⏱️ 11:29 • 17h ago
 
 ---
 
@@ -246,7 +256,17 @@ Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author
 
 📺 CoinDesk
 
-👁️ 924 • 👍 40 • 💬 14 • ⏱️ 13:45 • 10h ago
+👁️ 1K • 👍 51 • 💬 19 • ⏱️ 13:45 • 11h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 12 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=WUWMiskLCyc)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 4K • 👍 792 • 1h ago
 
 ---
 
@@ -256,67 +276,27 @@ BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 5K • 👍 278 • 💬 67 • ⏱️ 18:15 • 6h ago
+👁️ 6K • 👍 304 • 💬 78 • ⏱️ 18:15 • 7h ago
 
 ---
 
-**[Tom Lee Just Flipped on Ethereum… Why?](https://www.youtube.com/watch?v=y48K7-hqmPQ)**
+**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
 
-Tom Lee just reversed his Ethereum outlook after previously calling for a drop to 20k before year-end. Now he says the next major ...
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
 
-📺 Ivan on Tech
+📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 123 • ⏱️ 10:42 • 14h ago
+👁️ 55K • 👍 3K • 💬 339 • ⏱️ 10:23 • 1d ago
 
 ---
 
-**[ETHEREUM ABOUT TO PUMP HIGHER?🔥 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=6RIo4D7ADGA)**
+**[HUGE VOLATILITY COMING!🚨 Bitcoin, Ethereum &amp; Altcoins Update](https://www.youtube.com/watch?v=guyms4R0FeE)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+CRYPTO MARKET UPDATE Join the Premium Signal Group for trade setups, mentorship & a community focused on real ...
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 45 • 💬 10 • ⏱️ 4:36 • 20h ago
-
----
-
-**[BTC, ETH, &amp; SOL Slump Post FED](https://www.youtube.com/watch?v=jDJVJStCdIE)**
-
-BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE THE TOP COINS (available ...
-
-📺 Lark Davis
-
-👁️ 15K • 👍 793 • 💬 79 • ⏱️ 44:48 • 18h ago
-
----
-
-**[Europe&#39;s Banks &amp; Ethereum: The Next Crypto Supercycle Ignites!](https://www.youtube.com/watch?v=SyCJuK4zpjY)**
-
-Get ready for a deep dive into the massive shift happening in European banking! In this video, we break down how major banks in ...
-
-📺 CryptoStock Lab
-
-👁️ 144 • 👍 8 • ⏱️ 6:46 • 15h ago
-
----
-
-**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://www.youtube.com/watch?v=v1rpsW5SzfA)**
-
-Ethereum BitMine acquired $112 million in Ethereum from FalconX, bringing holdings to 3.86 million ETH as chairman Tom Lee ...
-
-📺 Crypto World Daily
-
-👁️ 5 • 💬 1 • ⏱️ 9:29 • 14h ago
-
----
-
-**[Tom Lee’s BMNR Adds $112M in ETH - &quot;Ethereum Has Already Bottomed&quot;](https://www.youtube.com/watch?v=p2NmbGfcwvU)**
-
-'Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury The bottom is officially in, ...
-
-📺 Wall Street Stockcast
-
-👁️ 875 • 👍 27 • 💬 19 • ⏱️ 6:13 • 16h ago
+👁️ 2K • 👍 134 • 💬 31 • ⏱️ 9:38 • 15h ago
 
 ---
 
@@ -326,7 +306,27 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 21K • 👍 764 • 💬 107 • ⏱️ 1:10:46 • 1d ago
+👁️ 21K • 👍 772 • 💬 107 • ⏱️ 1:10:46 • 1d ago
+
+---
+
+**[BTC, ETH, &amp; SOL Slump Post FED](https://www.youtube.com/watch?v=jDJVJStCdIE)**
+
+BTC, ETH, and SOL down on FED news, here is what you need to know. BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 15K • 👍 801 • 💬 79 • ⏱️ 44:48 • 18h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=J5P5LCylqlM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 194 • 💬 6 • ⏱️ 6:54 • 16h ago
 
 ---
 
