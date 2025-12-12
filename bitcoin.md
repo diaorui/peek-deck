@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T23:14:35.765010+00:00'
+updated: '2025-12-12T23:33:16.434542+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 23:14 UTC  
+**Last Updated:** December 12, 2025 at 23:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
+**24h:** -1.3%  
 **7d:** +1.1%  
 **30d:** -9.6%  
 **90d:** -21.8%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.34B
+**Market Cap:** $1803.31B
 Rank #1
 
-**Circulating Supply:** 19,961,296 BTC
+**Circulating Supply:** 19,961,321 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.4%
 
 **All-Time Low:** $67.81
-+133045.6%
++133110.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -105,13 +105,15 @@ C’mon Bitcoin, you can do it
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-4h ago
+5h ago
 
 ---
 
-**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
+**[This pattern seems suspiciously consistent](https://www.reddit.com/r/Bitcoin/comments/1pl5b8l/this_pattern_seems_suspiciously_consistent/)**
 
-21h ago
+Any thoughts on what is causing it?
+
+56m ago
 
 ---
 
@@ -121,23 +123,23 @@ C’mon Bitcoin, you can do it
 
 ---
 
+**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
+
+22h ago
+
+---
+
 **[Does anyone else feel like silently flipping tf out all the time because you've discovered the way to financial freedom and you're working on it but everyone around you is oblivious and thinks you're an idiot?](https://www.reddit.com/r/Bitcoin/comments/1pl3m9e/does_anyone_else_feel_like_silently_flipping_tf/)**
 
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-1h ago
+2h ago
 
 ---
 
 **[BTC Is Running Without Leverage](https://www.reddit.com/r/Bitcoin/comments/1pkwo64/btc_is_running_without_leverage/)**
 
 Bitcoin’s Open Interest has dropped sharply since October, and that’s the most important part of the current market structure. Low OI means the market is running with very little leverage, so the recent price move isn’t coming from futures traders it’s mostly spot demand. At the same time, a huge amount of BTC is still locked in long-term hands (corporate treasuries, miners, and illiquid wallets). So supply pressure is low, but momentum is also weak because fewer traders are participating. Low OI means cleaner, healthier price action, But low OI also means less support if demand slows. So direction will depend on spot buyers, not leverage It’s a neutral setup, stable, but waiting for a catalyst.If OI starts rising again, that’s usually when stronger trends begin. Note : Bitcoin’s Open Interest has been falling over the past few weeks, but the interesting part is that BTC is slowly moving up at the same time. This tells us that the price is rising without heavy leverage, Futures traders are stepping back and Spot buyers or long-term demand are doing most of the work. BTC is rising, but not because of leveraged longs, it’s rising because actual buyers are still active.
-
-6h ago
-
----
-
-**[Here we go again.](https://www.reddit.com/r/Bitcoin/comments/1pkw7mc/here_we_go_again/)**
 
 6h ago
 
@@ -163,15 +165,17 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://finance.yahoo.com/news/vanguard-exec-calls-bitcoin-digital-215932676.html)**
+**[Vanguard Dismisses Bitcoin as Toy Despite U-Turn](https://www.tradingview.com/news/u_today:926fc464b094b:0-vanguard-dismisses-bitcoin-as-toy-despite-u-turn/)**
 
-Yahoo Finance • 1h ago
+According to Bloomberg, Vanguard’s perspective on Bitcoin remains largely skeptical despite the financial giant's recent U-turn on the leading cryptocurrency. The firm views Bitcoin not as a productive asset but as a speculative collectible, akin to a digital version of a viral plush toy, Labubu. J…
+
+TradingView • 4h ago
 
 ---
 
 **[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
@@ -199,7 +203,7 @@ x.com • 9h ago
 
 I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
-Forbes • 12h ago
+Forbes • 13h ago
 
 ---
 
@@ -211,11 +215,11 @@ BBC • 1d ago
 
 ---
 
-**[Crypto Markets Today: Bitcoin Treads Water After Fed Cut as Altcoin Slump Deepens](https://www.coindesk.com/markets/2025/12/12/crypto-markets-today-bitcoin-stuck-in-post-fed-range-as-altcoins-continue-to-lag)**
+**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
 
-Bitcoin remains trapped in a range despite the U.S. rate cut, while altcoins and memecoins struggle to attract risk appetite amid shifting investor behavior.
+Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
 
-CoinDesk • 11h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -265,7 +269,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 1d ago
+⬆️ 2 • 💬 0 • 2d ago
 
 ---
 
@@ -319,7 +323,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 193 • 💬 18 • ⏱️ 22:05 • 23h ago
+👁️ 5K • 👍 193 • 💬 18 • ⏱️ 22:05 • 1d ago
 
 ---
 
@@ -359,7 +363,7 @@ Bitcoin bear flag. 300k scenario revisit. What I will do in 2026. Larsson Line P
 
 📺 CTO LARSSON
 
-👁️ 16K • 👍 2K • 💬 134 • ⏱️ 13:21 • 9h ago
+👁️ 16K • 👍 2K • 💬 134 • ⏱️ 13:21 • 10h ago
 
 ---
 
@@ -399,7 +403,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 198 • 💬 85 • ⏱️ 29:06 • 7h ago
+👁️ 3K • 👍 198 • 💬 85 • ⏱️ 29:06 • 8h ago
 
 ---
 

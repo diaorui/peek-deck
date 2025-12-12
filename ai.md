@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T23:14:35.756824+00:00'
+updated: '2025-12-12T23:33:16.426070+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - news
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 23:14 UTC  
+**Last Updated:** December 12, 2025 at 23:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,15 @@ A new study has found that artificial intelligence systems struggle to distingui
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 2h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 3h ago
+
+---
+
+**[Creative workers won't be replaced by AI, they will become 'directors' managing AI agents | Fortune](https://www.reddit.com/r/artificial/comments/1pl4u1n/creative_workers_wont_be_replaced_by_ai_they_will/)**
+
+AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
+
+🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 1h ago
 
 ---
 
@@ -74,14 +82,6 @@ Lifting export controls on Nvidia’s second-best chip jeopardizes America’s A
 Everyone is reading the December 11 Executive Order as a "deregulation holiday." I think that's dead wrong. It’s actually a litigation trigger. By trying to preempt state AI laws with an EO, the administration isn't clearing the board—they are picking a fight with 38 state legislatures and a Senate that already voted 99-1 against this exact approach. The trap: If you're a vendor, you might be tempted to delete your state-level compliance code today. Don't. We just moved from a patchwork of laws to a constitutional crisis. When the lawsuits stall this EO, you don't want to be the one caught naked on liability. The only safe bet right now? Architect for the EU AI Act. It's the only stable floor left. I wrote a deep dive on why this is a "volatility event" rather than deregulation. https://www.linkedin.com/pulse/50-states-rules-hidden-tax-every-ai-deployment-collin-hogue-spears-eptie
 
 10h ago
-
----
-
-**[Creative workers won't be replaced by AI, they will become 'directors' managing AI agents | Fortune](https://www.reddit.com/r/artificial/comments/1pl4u1n/creative_workers_wont_be_replaced_by_ai_they_will/)**
-
-AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
-
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 58m ago
 
 ---
 
@@ -103,7 +103,7 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 All the IT Service companies braying "AI first", but the moment, it comes to SOW, they are not using AI to validate feasibility, check estimates, violation of labor laws, etc. Once SOW is signed, IT Service companies hiring few contractors on hire and fire basis to deliver the project, they are forcing those contractors work 15x7 citing SOW contract(no delivery, no payment), when the project is failing, all blames are put on those contractors. The cost of project failure, legal costs could have been completely avoided by simply validating SOW and amending the SOW. Are these IT Service companies hypocrites to bray "AI First" but not ready to validate SOW with AI?
 
-34m ago
+53m ago
 
 ---
 
@@ -117,11 +117,9 @@ All the IT Service companies braying "AI first", but the moment, it comes to SOW
 
 ## Google News: "ai"
 
-**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://www.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
+**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
-
-CNN • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -131,21 +129,21 @@ The Washington Post • 4h ago
 
 ---
 
-**[AI reshapes the venture unicorn landscape](https://www.axios.com/pro/all-deals/2025/12/12/ai-boosts-us-vc-dominance)**
+**[Exclusive | Trump’s OK of AI Chip Sales in China Called ‘Dangerous’ By Senate Democrats](https://www.wsj.com/world/china/trumps-ok-of-ai-chip-sales-in-china-called-dangerous-by-senate-democrats-ba0f84e9?gaa_at=eafs&gaa_n=AWEtsqc066PBkW3Eizvf2Dk4yJt_CS4dqOzZbHJQWad55RJ3k9DzLtNvCgdJ&gaa_ts=693ca9a3&gaa_sig=G3t4Q6VvPpArmLkDZP865Pm8MrgXs65Eraos56r28U9rD6GgfpsUodb-gZHpz3pG-mAhLBOASvEjMvVbW92uRA%3D%3D)**
 
-Axios • 1h ago
-
----
-
-**[Broadcom Follows Oracle in Disappointing AI-Focused Investors | Bloomberg Tech 12/12/2025](https://www.bloomberg.com/news/videos/2025-12-12/bloomberg-tech-12-12-2025-video)**
-
-Bloomberg.com • 1h ago
+The Wall Street Journal • 1h ago
 
 ---
 
-**[Fresh Concerns About AI Spending Are Rattling Wall Street](https://www.wsj.com/finance/stocks/ai-fed-interest-rate-stock-market-749e18e2?gaa_at=eafs&gaa_n=AWEtsqeWXTJte-W32Hsql3dJFwFibqF_UFf1DbZlG3W9tZE3E-SAmryrA0Hr&gaa_ts=693ca018&gaa_sig=oqxotBN6fbqKSB-AL4SYR153X7EM1uOuenAzlHOwHd3EQNh9JiXOUighASiRhLvBV9u0C_zdWlwFzPRQ1TtY2g%3D%3D)**
+**[Trump AI order inflames GOP battle](https://thehill.com/newsletters/technology/5647090-trump-ai-order-inflames-gop-battle/)**
 
-The Wall Street Journal • 47m ago
+thehill.com • 23m ago
+
+---
+
+**[Fresh Concerns About AI Spending Are Rattling Wall Street](https://www.wsj.com/finance/stocks/ai-fed-interest-rate-stock-market-749e18e2?gaa_at=eafs&gaa_n=AWEtsqej3SFqer7srJAI_TrmLvD7LOPhSqyfdAkXeR57xqY6RVGTG2Gmvn_o&gaa_ts=693ca9a3&gaa_sig=0wlLgo8ejvhJoXnYImzODQEn19Avv77gUyvUVMBHFRGUJoYInOmhDyFa7yqFwvGFGyAW3Qm_Qhux3_2JkdQvKA%3D%3D)**
+
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -153,13 +151,27 @@ The Wall Street Journal • 47m ago
 
 The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
 
-The New Yorker • 11h ago
+The New Yorker • 12h ago
 
 ---
 
 **[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
 
 Politico • 12h ago
+
+---
+
+**[Oracle’s $300 Billion AI Bet Has Fast Become a Bubble Barometer](https://www.bloomberg.com/news/features/2025-12-12/oracle-s-300-billion-openai-deal-has-investors-worried-about-its-ai-spending)**
+
+Bloomberg.com • 7h ago
+
+---
+
+**['We're not just going to want to be fed AI slop for 16 hours a day': Analyst sees Disney/OpenAI deal as a dividing line in entertainment history](https://fortune.com/2025/12/11/pre-post-ai-content-disney-openai-netflix-warner-slop-analysis-ark-invest/)**
+
+"​I think the reason this bidding is approaching $100 billion-plus is the content library and the potential to do a Disney-OpenAI type of deal."
+
+Fortune • 1d ago
 
 ---
 
@@ -171,20 +183,6 @@ BBC • 5h ago
 
 ---
 
-**[Can OpenAI Respond After Google Closes the A.I. Technology Gap?](https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Most people aren’t fretting about an AI bubble. What they fear is mass layoffs | Steven Greenhouse](https://www.theguardian.com/commentisfree/2025/dec/12/ai-bubble-mass-layoffs-income-inequality)**
-
-Artificial intelligence could make income inequality even worse and create a new underclass. Governments and society must take action
-
-The Guardian • 7h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -193,7 +191,7 @@ The Guardian • 7h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 466 • 💬 273 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 467 • 💬 274 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -209,7 +207,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 323 • 💬 2 • 1d ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 324 • 💬 2 • 1d ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -221,11 +219,19 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 ---
 
+**[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://news.ycombinator.com/item?id=46248644)**
+
+Update your apps to use new features, and test your apps against API changes.
+
+⬆️ 166 • 💬 74 • 2h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+
+---
+
 **[Guarding My Git Forge Against AI Scrapers](https://news.ycombinator.com/item?id=46241849)**
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 149 • 💬 97 • 15h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 150 • 💬 97 • 15h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -237,35 +243,27 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 ---
 
-**[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://news.ycombinator.com/item?id=46248644)**
-
-Update your apps to use new features, and test your apps against API changes.
-
-⬆️ 118 • 💬 44 • 2h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
-
----
-
 **[A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://news.ycombinator.com/item?id=46233067)**
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 117 • 💬 92 • 1d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 118 • 💬 92 • 1d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
-**[Secondary school maths showing that AI systems don't think](https://news.ycombinator.com/item?id=46245731)**
+**[Using secondary school maths to demystify AI](https://news.ycombinator.com/item?id=46245731)**
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 78 • 💬 166 • 6h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 87 • 💬 192 • 7h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
-**[The AI-Education Death Spiral a.k.a. Let the Kids Cheat](https://news.ycombinator.com/item?id=46213045)**
+**[New Kindle feature uses AI to answer questions about books](https://news.ycombinator.com/item?id=46248417)**
 
-Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
+The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 68 • 💬 93 • 2d ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 68 • 💬 107 • 3h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -289,7 +287,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 79K • 👍 3K • 💬 399 • ⏱️ 14:18 • 22h ago
+👁️ 79K • 👍 3K • 💬 399 • ⏱️ 14:18 • 23h ago
 
 ---
 
@@ -359,7 +357,7 @@ McDonald's has taken down a Christmas ad that was allegedly entirely produced wi
 
 📺 New York Post
 
-👁️ 70K • 👍 431 • 💬 311 • ⏱️ 2:58 • 1d ago
+👁️ 70K • 👍 431 • 💬 311 • ⏱️ 2:58 • 2d ago
 
 ---
 
@@ -369,7 +367,7 @@ President Trump signed executive orders on artificial intelligence and the econo
 
 📺 LiveNOW from FOX
 
-👁️ 9K • 👍 154 • 💬 123 • ⏱️ 8:26 • 22h ago
+👁️ 9K • 👍 154 • 💬 123 • ⏱️ 8:26 • 23h ago
 
 ---
 
@@ -385,7 +383,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 773 • 7h ago
+⬇️ 105,962 • ❤️ 774 • 7h ago
 
 ---
 
@@ -397,7 +395,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,592 • 4d ago
+⬇️ 257,048 • ❤️ 2,593 • 4d ago
 
 ---
 
@@ -421,7 +419,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 292 • 13h ago
+⬇️ 10,352 • ❤️ 293 • 13h ago
 
 ---
 
@@ -445,7 +443,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 23,012 • ❤️ 250 • 3d ago
+⬇️ 23,012 • ❤️ 252 • 3d ago
 
 ---
 
@@ -457,7 +455,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 446,475 • ❤️ 226 • 4d ago
+⬇️ 446,475 • ❤️ 227 • 4d ago
 
 ---
 
