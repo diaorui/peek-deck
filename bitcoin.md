@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T16:51:02.042717+00:00'
+updated: '2025-12-12T17:11:53.750490+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 16:51 UTC  
+**Last Updated:** December 12, 2025 at 17:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +0.5%  
-**30d:** -10.0%  
-**90d:** -22.2%  
-**1y:** -11.4%  
+**24h:** -0.4%  
+**7d:** +1.1%  
+**30d:** -9.5%  
+**90d:** -21.8%  
+**1y:** -10.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1803.51B
+**Market Cap:** $1798.83B
 Rank #1
 
-**Circulating Supply:** 19,961,181 BTC
+**Circulating Supply:** 19,961,209 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.4%
 
 **All-Time Low:** $67.81
-+132906.9%
++133002.8%
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -99,13 +99,19 @@ Rank #1
 
 C’mon Bitcoin, you can do it
 
-3h ago
+4h ago
 
 ---
 
 **[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
 
 4h ago
+
+---
+
+**[Here we go again.](https://www.reddit.com/r/Bitcoin/comments/1pkw7mc/here_we_go_again/)**
+
+44m ago
 
 ---
 
@@ -137,37 +143,27 @@ Trinidad and Tobago amends the original two‑year blanket ban on crypto. The st
 
 ---
 
-**[Solo miner from CKpool has mined a block](https://www.reddit.com/r/Bitcoin/comments/1pkh0d8/solo_miner_from_ckpool_has_mined_a_block/)**
-
-The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
-
-13h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Strategy And Bitcoin Face A Defining Test Today](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+**[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 3h ago
-
----
-
-**[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
-
-Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
-
-BBC • 1d ago
+Investor's Business Daily • 55m ago
 
 ---
 
-**[Bitcoin Price (BTC) News: Plunges Below $90K as AI Bubble Worries Weigh on Tech Stocks](https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down)**
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqfc6r1TegxtoEU3shscib9tqmptwhs6vQs93sLqfqH7gmvyu3uqZ48r&gaa_ts=693c5043&gaa_sig=Bpqja8CLa4d_eG2Zb4Jf4nrxBpPG4IR99sUW6el26PZmYhtmtxWR9d3_6mAr0z16yeJMHC5p73ftmeeHU9zDcg%3D%3D)**
 
-Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026.
+Barron's • 2d ago
 
-CoinDesk • 45m ago
+---
+
+**[New Hampshire Approves World's First Bitcoin-Backed Municipal Bond. 'It's the Opening of a New Debt Market'](https://finance.yahoo.com/news/hampshire-approves-worlds-first-bitcoin-164617754.html)**
+
+A $100 million Bitcoin-backed municipal bond, the first to be collateralized by the cryptocurrency, was approved in New Hampshire last month.The bond still has to be approved by New Hampshire Gov. Kelly Ayotte and the state Executive Council before ...
+
+Yahoo Finance • 25m ago
 
 ---
 
@@ -181,15 +177,7 @@ Forbes • 6h ago
 
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 2h ago
-
----
-
-**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
-
-Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
-
-Yahoo Finance • 21h ago
+x.com • 3h ago
 
 ---
 
@@ -201,25 +189,33 @@ Bitbo • 5h ago
 
 ---
 
-**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
+**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
 
-Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
+Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Slides Below $90,000 After Fed Cut Even as Stocks Rally](https://www.bloomberg.com/news/articles/2025-12-11/bitcoin-btc-slides-below-90-000-after-fed-cut-while-stocks-rally)**
-
-Bitcoin veered back toward the lower portion of its recent trading range amid lingering concern about demand for risky assets.
-
-Bloomberg.com • 23h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy.](https://www.barrons.com/articles/american-bitcoin-stock-price-eric-trump-426a9d3b?gaa_at=eafs&gaa_n=AWEtsqeEB4Y3U6-ljnzGp88BmJ3Tkkg9uTeAgguh_taV4ns4BEvN2uB8Es5T&gaa_ts=693c4742&gaa_sig=XBnTRl-3Gvv5Vh6CvgcdDCxao2Tp1RxxIYXjJlaYpA-R0DBqZJ2-oQPgOYCowkyxuppINx0K2Oh6oygFBy14Wg%3D%3D)**
+**[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
 
-Barron's • 1d ago
+Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
+
+BBC • 1d ago
+
+---
+
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
+
+Reuters • 1d ago
+
+---
+
+**[Bitcoin Giant Strategy's Cash Reserve Was a 'Smart' Move, Says BitMine's Tom Lee](https://decrypt.co/352014/bitcoin-giant-strategy-cash-reserve-smart-move-bitmine-tom-lee)**
+
+BitMine Immersion Technologies Chairman Tom Lee praised Bitcoin treasury firm Strategy's massive new cash reserve. Here's why.
+
+Decrypt • 1h ago
 
 ---
 
@@ -247,7 +243,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 10h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 11h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -291,7 +287,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 7h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 8h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -299,7 +295,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 7 • 💬 0 • 18h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 7 • 💬 0 • 19h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -313,7 +309,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 19K • 👍 969 • 💬 12 • ⏱️ 48:24 • 18h ago
+👁️ 19K • 👍 969 • 💬 12 • ⏱️ 48:24 • 19h ago
 
 ---
 
@@ -323,7 +319,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 181 • ⏱️ 18:22 • 16h ago
+👁️ 24K • 👍 2K • 💬 181 • ⏱️ 18:22 • 17h ago
 
 ---
 
@@ -333,7 +329,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 12K • 👍 136 • 💬 85 • ⏱️ 4:06 • 21h ago
+👁️ 12K • 👍 136 • 💬 85 • ⏱️ 4:06 • 22h ago
 
 ---
 
@@ -343,7 +339,7 @@ Bear or Bull? Bearish short term, but buying every day! The links below may incl
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 760 • 💬 56 • ⏱️ 44:51 • 21h ago
+👁️ 11K • 👍 760 • 💬 56 • ⏱️ 44:51 • 22h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T16:51:02.052128+00:00'
+updated: '2025-12-12T17:11:53.759926+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 16:51 UTC  
+**Last Updated:** December 12, 2025 at 17:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,6 +44,20 @@ Robotics research and industry news
 
 ---
 
+**[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
+
+3h ago
+
+---
+
+**[Industrial belt-pick scenario where a simple arm tries to track objects on a moving conveyor and place them aside.](https://www.reddit.com/r/robotics/comments/1pko2ov/industrial_beltpick_scenario_where_a_simple_arm/)**
+
+The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
+
+7h ago
+
+---
+
 **[Major robotics company shuts down?](https://www.reddit.com/r/robotics/comments/1pk9ow0/major_robotics_company_shuts_down/)**
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
@@ -52,25 +66,19 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 ---
 
-**[Industrial belt-pick scenario where a simple arm tries to track objects on a moving conveyor and place them aside.](https://www.reddit.com/r/robotics/comments/1pko2ov/industrial_beltpick_scenario_where_a_simple_arm/)**
+**[Visual odom understanding](https://www.reddit.com/r/robotics/comments/1pkx7ly/visual_odom_understanding/)**
 
-The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
+Hi everyone, Am working on a monocular VIO frontend, and I shall really appreciate feedback on whether our current triangulation approach is geometrically sound compared to more common SLAM pipelines (e.g., ORB-SLAM, SVO, DSO, VINS-Mono). Current approach used in our system We maintain a keyframe (KF), and for each incoming frame we do the following: 1. Track features from KF → Prev → Current. 2. For features that are visible in all three (KF, Prev, Current): We triangulate their depth using only KF and Prev. This triangulated depth is used as a measurement for a depth filter (inverse-depth / Gaussian filter). 3. After updating depth, we express the feature in the KF coordinate frame. 4. We then run PnP between: A. 3D points in the KF frame, and B. 2D observations in the Current frame. This gives us the pose of the Current frame wrt keyframe They use wheel odom and GTSAM backend to add every odom factor between keyframe and current frame and frontend frame factor between keyframe and current and then run optimization This means: triangulation is repeated every frame always between KF ↔ Prev, not KF ↔ Current depth filter is fed many measurements from almost the same two viewpoints, especially right after KF creation This seems to produce very sparse and scattered points. Questions 1. Is repeatedly triangulating between KF and the immediate previous frame (even when baseline/parallax is very small) considered a valid approach in monocular VO/VIO? Or is it fundamentally ill-conditioned, even if we use depth filters in this case? From what I understand, ORB-SLAM (monocular): Triangulates only between keyframes, not per-frame.. Which gives it a good parallex to triangulate the feature.. Should I use this?
 
-6h ago
-
----
-
-**[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
-
-2h ago
+5m ago
 
 ---
 
-**[Dual Ur5e controller setup](https://www.reddit.com/r/robotics/comments/1pkwbd5/dual_ur5e_controller_setup/)**
+**[How to run dual-arm UR5e with MoveIt 2 on real hardware](https://www.reddit.com/r/robotics/comments/1pkwrqq/how_to_run_dualarm_ur5e_with_moveit_2_on_real/)**
 
 Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
 
-19m ago
+22m ago
 
 ---
 
@@ -95,14 +103,6 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
 1d ago
-
----
-
-**[Question: Does anyone here actually use mujoco for work, or are they just things hobbyists and companies who made them use?](https://www.reddit.com/r/robotics/comments/1pkgxjv/question_does_anyone_here_actually_use_mujoco_for/)**
-
-I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
-
-13h ago
 
 ---
 
@@ -132,6 +132,12 @@ The Robot Report • 2h ago
 
 ---
 
+**[Bay Area Robotics Association Launches to Connect Capital and Industry Between Silicon Valley and the World](https://www.businesswire.com/news/home/20251212588764/en/Bay-Area-Robotics-Association-Launches-to-Connect-Capital-and-Industry-Between-Silicon-Valley-and-the-World)**
+
+Business Wire • 11m ago
+
+---
+
 **[GWM-1 Robotics SDK](https://runwayml.com/research/introducing-runway-gwm-1)**
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
@@ -140,11 +146,19 @@ Runway • 23h ago
 
 ---
 
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
+**[10X Gains? These 3 Robotics Stocks Could Explode by 2035](https://finance.yahoo.com/news/10x-gains-3-robotics-stocks-224600231.html)**
 
-Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
+Engineering expert Kuran outlines why Symbotic, Alphabet, and Hyundai are top robotics stocks for AI, automation and industrial growth.
 
-Yahoo Finance • 4d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[1X struck a deal to send its ‘home’ humanoids to factories and warehouses](https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/)**
+
+Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.
+
+TechCrunch • 19h ago
 
 ---
 
@@ -162,27 +176,11 @@ Deloitte • 2d ago
 
 ---
 
-**[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
-
-Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
-
-NVIDIA Developer • 1d ago
-
----
-
 **[NASA, Reliable Robotics Begin Autonomous C208 Trials](https://avweb.com/aviation-news/nasa-reliable-robotics-c208-uav-trials/)**
 
 Data from automated Reliable Robotics Caravan tests to inform national standards work.
 
 AVweb • 2d ago
-
----
-
-**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
-
-Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
-
-Shore Daily News • 1d ago
 
 ---
 

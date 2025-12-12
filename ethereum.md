@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T16:51:02.048824+00:00'
+updated: '2025-12-12T17:11:53.756634+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 16:51 UTC  
+**Last Updated:** December 12, 2025 at 17:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** +1.0%  
-**30d:** -5.4%  
-**90d:** -33.5%  
-**1y:** -21.6%  
+**24h:** -3.1%  
+**7d:** +1.9%  
+**30d:** -4.4%  
+**90d:** -32.8%  
+**1y:** -20.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.03B
+**Market Cap:** $370.91B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.8%
+-37.6%
 
 **All-Time Low:** $0.43
-+710825.9%
++713144.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 3h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 4h ago
 
 ---
 
@@ -88,7 +88,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 3h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 4h ago
 
 ---
 
@@ -152,25 +152,9 @@ oskar thorén is one of the leads in ethereum foundation's newest IPTF, or insti
 
 ## Google News: "ethereum"
 
-**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://finance.yahoo.com/news/tom-lee-bitmine-adds-112m-132425778.html)**
+**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Has Bottomed, Says BitMine Chairman Tom Lee—Here's Why](https://decrypt.co/351828/ethereum-bottomed-bitmine-chairman-tom-lee)**
-
-BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
-
-Decrypt • 1d ago
-
----
-
-**[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://www.ccn.com/news/crypto/tom-lee-claims-sp-500-will-hit-7700-by-2026-says-ethereum-will-exceed-12000/)**
-
-CCN.com • 5h ago
+The Block • 1d ago
 
 ---
 
@@ -178,7 +162,7 @@ CCN.com • 5h ago
 
 Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
 
-BeInCrypto • 21h ago
+BeInCrypto • 22h ago
 
 ---
 
@@ -186,7 +170,7 @@ BeInCrypto • 21h ago
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -195,20 +179,6 @@ CoinDesk • 1h ago
 The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
 
 Decrypt • 1d ago
-
----
-
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqca-Jr4m4gdmWLT9qlVAqmriVioW5XNoCogCgHoOaY6J5Tkl9MGz-_a&gaa_ts=693c4743&gaa_sig=yk03RAyXJV29BOcYYEGNLpGduMtuEMH27y0Wjn8r6SNJWd1j3vnJu_5OlO6-ZW0Lysu2rLPAAfm9MNBXzMI0uw%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://finance.yahoo.com/news/crypto-shorts-rekt-bitcoin-ethereum-170437408.html)**
-
-Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -226,6 +196,36 @@ CCN.com • 6h ago
 
 ---
 
+**[Here's Why Ethereum Soared More than 6% Today, Breaking $3,300 for the First Time In Nearly a Month](https://www.nasdaq.com/articles/heres-why-ethereum-soared-more-6-today-breaking-3300-first-time-nearly-month)**
+
+Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
+
+Nasdaq • 2d ago
+
+---
+
+**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
+
+BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqe7LLUUH21gxgKjIXPctC3RJVKnkFs-ETjJ6QT_4XXlCwBoZ5u9Drtc&gaa_ts=693c5045&gaa_sig=NO0kvlkiMBlzcP7cszuKB6xgGIOr0SullXSW6QVnL1S0-KczBp8ttowRPgcCN8oKvvGjLPeNu25HpfTqFYUJzw%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
+
+Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
+
+CoinDesk • 12h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 7K • 👍 530 • 💬 39 • ⏱️ 48:17 • 4h ago
+👁️ 7K • 👍 530 • 💬 39 • ⏱️ 48:17 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ The "Opening Bell" has finally rung on the legacy banking system. With 21 Capita
 
 📺 Crypto Noble
 
-👁️ 741 • 👍 67 • 💬 4 • ⏱️ 39:43 • 2h ago
+👁️ 741 • 👍 67 • 💬 4 • ⏱️ 39:43 • 3h ago
 
 ---
 
@@ -286,7 +286,7 @@ Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author
 
 📺 CoinDesk
 
-👁️ 2K • 👍 82 • 💬 21 • ⏱️ 13:45 • 21h ago
+👁️ 2K • 👍 82 • 💬 21 • ⏱️ 13:45 • 22h ago
 
 ---
 
@@ -296,7 +296,7 @@ ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.excha
 
 📺 Vibe With Sahil
 
-👁️ 5K • 👍 934 • 2h ago
+👁️ 5K • 👍 934 • 3h ago
 
 ---
 
@@ -306,7 +306,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 194 • 👍 36 • 💬 1 • ⏱️ 32:06 • 2h ago
+👁️ 194 • 👍 36 • 💬 1 • ⏱️ 32:06 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ ETH isn't just lagging — its story broke. It's down ~3× more than BTC from th
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 168 • 💬 18 • ⏱️ 15:43 • 21h ago
+👁️ 3K • 👍 168 • 💬 18 • ⏱️ 15:43 • 22h ago
 
 ---
 

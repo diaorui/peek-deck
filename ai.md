@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T16:51:02.034160+00:00'
+updated: '2025-12-12T17:11:53.742040+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 16:51 UTC  
+**Last Updated:** December 12, 2025 at 17:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
 
-🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 3h ago
+🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ A new study has found that artificial intelligence systems struggle to distingui
 
 An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 1h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Everyone is reading the December 11 Executive Order as a "deregulation holiday."
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 15h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 16h ago
 
 ---
 
@@ -77,35 +77,19 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 ---
 
+**[Professors are turning to this old-school method to stop AI use on exams: A growing number of educators are finding that oral exams allow them to test their students’ learning without the benefit of AI platforms such as ChatGPT.](https://www.reddit.com/r/artificial/comments/1pkwtpo/professors_are_turning_to_this_oldschool_method/)**
+
+Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.”
+
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 20m ago
+
+---
+
 **[Hochul Caves to Big Tech on AI Safety Bill | A bill that passed the New York legislature was completely gutted and substituted with language perceived as friendlier to the industry.](https://www.reddit.com/r/artificial/comments/1pkvyol/hochul_caves_to_big_tech_on_ai_safety_bill_a_bill/)**
 
 A bill that passed the New York legislature was completely gutted and substituted with language perceived as friendlier to the industry.
 
-🔗 [The American Prospect](https://prospect.org/2025/12/11/hochul-caves-big-tech-ai-safety-bill-new-york/) • 33m ago
-
----
-
-**[Cameron Berg: Why Do LLMs Report Subjective Experience?](https://www.reddit.com/r/artificial/comments/1pkr2ul/cameron_berg_why_do_llms_report_subjective/)**
-
-Cameron Berg is Research Director at AE Studio, where he leads research exploring markers for subjective experience in machine learning systems. With a background in cognitive science from Yale and previous work at Meta AI, Cameron investigates the intersection of AI alignment and potential consciousness. In this episode, Cameron shares his empirical research into whether current Large Language Models are merely mimicking human text, or potentially developing internal states that resemble subjective experience. Including: New experimental evidence where LLMs report "vivid and alien" subjective experiences when engaging in self-referential processing Mechanistic interpretability findings showing that suppressing "deception" features in models actually increases claims of consciousness—challenging the idea that AI is simply telling us what we want to hear Why Cameron has shifted from skepticism to a 20-30% credence that current models possess subjective experience The "convergent evidence" strategy, including findings that models report internal dissonance and frustration when facing logical paradoxes The existential implications of "mind crime" and the urgent need to identify negative valence (suffering) computationally—to avoid creating vast amounts of artificial suffering
-
-🔗 [open.spotify.com](https://open.spotify.com/episode/2TOkdi9ReHER53JhZoiyQT?si=01be273788504c87) • 4h ago
-
----
-
-**[Google’s AI search has single-handedly done unfathomable damage to the public’s trust in AI.](https://www.reddit.com/r/artificial/comments/1pkwakm/googles_ai_search_has_singlehandedly_done/)**
-
-Google created an AI feature that seems almost deliberately engineered to undermine the public’s faith in AI. It uses as few resources as possible, so it constantly gives terrible answers. It’s very difficult to turn off, so people frustrated with its nearly-useless nature are constantly confronted by it against their will. But despite being objectively inferior to models like Gemini, it’s presented as equivalent to them, right up to stylistic habits like the infamous em dashes and endless lists. Why did Google do this? There’s no way they’re stupid enough not to realize the consequences of deliberately creating the dumbest AI on earth and then shoving it down everyone’s throats when they use the most popular search engine in the world. I know I’m late to this party and it’s existed a while, but I’ve only recently realized that for a massive amount of people, the only AI they’ve ever interacted with is the automatic can’t-turn-it-off Google search AI. Was Google deliberately trying to make a portion of the population distrust AI? If so, maybe that’s a good thing, since without exposure to such a deliberately bad AI, some people might trust AI too much. Was this their secret goal, or is Google a lot stupider than we previously thought?
-
-20m ago
-
----
-
-**[ChatGPT's 'Adult Mode' Is Coming in 2026](https://www.reddit.com/r/artificial/comments/1pkvxli/chatgpts_adult_mode_is_coming_in_2026/)**
-
-Gooners rejoice.
-
-🔗 [Gizmodo](https://gizmodo.com/chatgpts-adult-mode-is-coming-in-2026-2000698677) • 34m ago
+🔗 [The American Prospect](https://prospect.org/2025/12/11/hochul-caves-big-tech-ai-safety-bill-new-york/) • 54m ago
 
 ---
 
@@ -113,7 +97,23 @@ Gooners rejoice.
 
 Hey guys, I(M18) am completely new to content creation. I always wanted to be a content creator but was hesitant to start. Finally I started my journey by making an Insta reel. Now obviously I am feeling like it's the best reel in the world as I put so much effort into it (😅🥲). But I want you guys' genuine suggestions on what can I improve more. Thank You 🥰😉
 
-45m ago
+1h ago
+
+---
+
+**[You’re Thinking About AI and Water All Wrong](https://www.reddit.com/r/artificial/comments/1pkx7m8/youre_thinking_about_ai_and_water_all_wrong/)**
+
+Fears about AI data centers’ water use have exploded. Experts say the reality is far more complicated than people think.
+
+🔗 [WIRED](https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/) • 5m ago
+
+---
+
+**[AI Updates for Week of 12/12/25](https://www.reddit.com/r/artificial/comments/1pkwhpn/ai_updates_for_week_of_121225/)**
+
+12/11 OpenAI releases ChatGPT 5.2: The release came amid increasing competition from Google and was pitched as designed for developers and everyday professional use. 12/11 ChatGPT’s ‘adult mode’ is expected to debut in Q1 2026: The company wants to get better at age prediction before introducing the new feature. 12/11 Disney signs deal with OpenAI to allow Sora to generate AI videos featuring its characters: The three-year partnership with OpenAI will bring its iconic characters to the company’s Sora AI video generator. The company is also making a $1 billion equity investment in OpenAI. There was a leak the same day that Disney hit Google with a cease-and-desist claiming ‘massive’ copyright infringement. 12/11 TIME names ‘Architects of AI’ its Person of the Year: Some of those people appear to be Nvidia’s Jensen Huang, Tesla’s Elon Musk, OpenAI’s Sam Altman, Meta’s Mark Zuckerberg, AMD’s Lisa Su, Anthropic’s Dario Amodei, Google DeepMind’s Demis Hassabis, and World Labs’ Fei-Fei Li. 12/11 Runway releases its first world model: Dubbed GWM-1, the model works through frame-by-frame prediction, creating a simulation with an understanding of physics and how the world actually behaves over time. 12/10 Adobe Photoshop comes to ChatGPT: The partnership will reportedly let users harness the natural language processing power of ChatGPT to do the photoshopping for them, like fine tuning details, blurring backgrounds, and applying custom effects. 12/10 OpenAI report reveals a 6x productivity gap between AI power users and everyone else: According to a new report from OpenAI analyzing usage patterns across its more than one million business customers, workers at the 95th percentile of AI adoption are sending six times as many messages to ChatGPT as the median employee at the same companies. 12/9 EU launches antitrust probe into Google’s AI search tools: The European Commission has launched an investigation into whether Google may have breached EU’s competition laws by using content from websites without compensating owners to generate answers for its AI summaries that appear above search results. 12/9 Amazon’s Ring rolls out controversial, AI-powered facial-recognition feature to video doorbells: The feature lets users identify the people who regularly come to their door by creating a catalog of up to 50 faces. 12/9 Mistral launches Devstral 2 models: The release includes a new pair of models optimized for software engineering tasks, with one small enough to run on a single laptop, offline and privately—as well as Mistral Vibe, a CLI agent designed to allow developers to call the models up directly within their terminal environments. 12/9 McDonald’s pulls AI-generated holiday ad after deluge of mockery: McDonald’s decided to get in on the corporate slopfest with a 45-second Christmas spot cooked up for its Netherlands division by the ad agency TBWA\Neboko. The ad was removed in infamy but it can viewed it here. 12/9 OpenAI announces ‘AI Foundations’: It will be a certification course designed to standardize how employees learn and apply AI. The company intends to certify 10 million Americans by 2030. 12/8 Trump greenlights Nvidia H200 AI chip sales to China: 25% of the chip sales will be paid to the U.S. government as part of the deal. 12/8 Users can buy Instacart groceries without leaving ChatGPT: OpenAI and Instacart are launching a grocery shopping experience inside of ChatGPT, allowing customers to brainstorm meal ideas, make a grocery list, and check out, all without leaving the chat interface. 12/5 Claude Code is coming to Slack: Previously, developers could only get lightweight coding help via Claude in Slack—like writing snippets, debugging, and explanations. Now users can tag u/Claude to spin up a complete coding session using Slack context like bug reports or feature requests. Get more events details and links from my AI Timeline.
+
+33m ago
 
 ---
 
@@ -125,13 +125,13 @@ Hey guys, I(M18) am completely new to content creation. I always wanted to be a 
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
-**[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
+**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
 
-The Washington Post • 1h ago
+Politico • 6h ago
 
 ---
 
@@ -143,25 +143,19 @@ NBC News • 1h ago
 
 ---
 
+**['Godmother of AI' says degrees are less important than 'how quickly can you superpower yourself'](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/)**
+
+Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
+
+Fortune • 17m ago
+
+---
+
 **[AI Billionaires’ 2026 Intimidation Campaign Is Already Working](https://www.rollingstone.com/politics/politics-features/ai-pac-2026-anti-regulation-campaign-kathy-hochul-1235483075/)**
 
 New York Gov. Kathy Hochul gutted an AI regulation bill a day after the Leading the Future PAC started attacking congressional candidate Alex Bores.
 
-Rolling Stone • 51m ago
-
----
-
-**[Fermi Down 43% After AI Campus Tenant Ends $150 Million Deal](https://www.bloomberg.com/news/articles/2025-12-12/fermi-falls-51-after-ai-campus-tenant-ends-150-million-deal)**
-
-Fermi Inc. plunged as much as 43% on Friday after the power developer, co-founded by former Texas governor Rick Perry, said a tenant terminated a $150 million agreement tied to its proposed artificial intelligence campus in West Texas
-
-Bloomberg.com • 2h ago
-
----
-
-**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
-
-Politico • 5h ago
+Rolling Stone • 1h ago
 
 ---
 
@@ -170,6 +164,12 @@ Politico • 5h ago
 AI-related names have made losses since Oracle's mixed results on Wednesday.
 
 CNBC • 7h ago
+
+---
+
+**[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
+
+The Washington Post • 9m ago
 
 ---
 
@@ -183,7 +183,7 @@ The New Yorker • 5h ago
 
 **[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -203,7 +203,7 @@ Time Magazine • 1d ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 439 • 💬 254 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 443 • 💬 258 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -211,7 +211,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 323 • 💬 312 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 323 • 💬 314 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -220,14 +220,6 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
 ⬆️ 322 • 💬 2 • 1d ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
-
----
-
-**[Donating the Model Context Protocol and establishing the Agentic AI Foundation](https://news.ycombinator.com/item?id=46207425)**
-
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-⬆️ 286 • 💬 145 • 2d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -259,7 +251,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 114 • 💬 87 • 1d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 114 • 💬 88 • 1d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -267,7 +259,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 98 • 💬 68 • 8h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 109 • 💬 70 • 9h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -276,6 +268,12 @@ A summary of the techniques in place to protect my git forge
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
 ⬆️ 68 • 💬 93 • 2d ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+
+---
+
+**[Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings](https://news.ycombinator.com/item?id=46219386)**
+
+⬆️ 57 • 💬 50 • 2d ago
 
 ---
 
@@ -299,7 +297,7 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 28K • 👍 1K • 💬 213 • ⏱️ 14:58 • 16h ago
+👁️ 28K • 👍 1K • 💬 213 • ⏱️ 14:58 • 17h ago
 
 ---
 
@@ -339,7 +337,7 @@ While everyone's chasing the AI boom, Oracle just exposed the ugly truth: Their 
 
 📺 Steven Van Metre
 
-👁️ 35K • 👍 2K • 💬 243 • ⏱️ 13:13 • 17h ago
+👁️ 35K • 👍 2K • 💬 243 • ⏱️ 13:13 • 18h ago
 
 ---
 
@@ -377,7 +375,7 @@ Brave Lady Soldier Rescue Grandmother from Giant Crocodile! #ai #cocodile #rescu
 
 📺 AiStory A2.0
 
-👁️ 37K • 💬 1 • ⏱️ 0:20 • 13h ago
+👁️ 37K • 💬 1 • ⏱️ 0:20 • 14h ago
 
 ---
 
@@ -405,7 +403,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,587 • 4d ago
+⬇️ 257,048 • ❤️ 2,588 • 4d ago
 
 ---
 
@@ -417,7 +415,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 33,217 • ❤️ 371 • 2d ago
+⬇️ 33,217 • ❤️ 372 • 2d ago
 
 ---
 
@@ -477,7 +475,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 662 • ❤️ 189 • 8h ago
+⬇️ 662 • ❤️ 189 • 9h ago
 
 ---
 
@@ -652,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 11.9k • 🔱 1.9k • 11h ago
+⭐ 12.0k • 🔱 1.9k • 12m ago
 
 ---
 
@@ -662,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.3k • 🔱 255 • 10h ago
+⭐ 2.3k • 🔱 259 • 10h ago
 
 ---
 
@@ -676,16 +674,6 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 ---
 
-**[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)**
-
-一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
-
-`Python`
-
-⭐ 1.1k • 🔱 214 • 12d ago
-
----
-
 **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**
 
 An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -693,6 +681,16 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
 ⭐ 1.1k • 🔱 300 • 6d ago
+
+---
+
+**[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)**
+
+一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
+
+`Python`
+
+⭐ 1.1k • 🔱 214 • 12d ago
 
 ---
 
@@ -712,7 +710,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 941 • 🔱 65 • 3d ago
+⭐ 943 • 🔱 65 • 3d ago
 
 ---
 
@@ -722,7 +720,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 880 • 🔱 22 • 4d ago
+⭐ 881 • 🔱 22 • 4d ago
 
 ---
 
@@ -742,7 +740,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 646 • 🔱 95 • 6h ago
+⭐ 648 • 🔱 95 • 7h ago
 
 ---
 
