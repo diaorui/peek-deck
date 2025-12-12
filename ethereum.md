@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T21:44:22.803559+00:00'
+updated: '2025-12-12T21:55:06.547855+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- videos
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 21:44 UTC  
+**Last Updated:** December 12, 2025 at 21:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.6%  
-**7d:** +1.7%  
-**30d:** -4.7%  
+**24h:** -4.7%  
+**7d:** +1.6%  
+**30d:** -4.8%  
 **90d:** -33.0%  
-**1y:** -21.0%  
+**1y:** -21.1%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 8h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 9h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1d ago
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -192,7 +192,7 @@ Decrypt • 2d ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -206,7 +206,7 @@ TradingView • 13h ago
 
 **[BitMine’s 5% Ethereum Accumulation Bet: Supply Shock and Market Implications](https://www.ccn.com/education/crypto/bitmine-5-ethereum-accumulation-supply-shock-market-implications/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -266,7 +266,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 210 • 👍 18 • 💬 13 • ⏱️ 8:14 • 3h ago
+👁️ 210 • 👍 18 • 💬 13 • ⏱️ 8:14 • 4h ago
 
 ---
 
@@ -296,7 +296,7 @@ The "Opening Bell" has finally rung on the legacy banking system. With 21 Capita
 
 📺 Crypto Noble
 
-👁️ 2K • 👍 101 • 💬 9 • ⏱️ 39:43 • 7h ago
+👁️ 2K • 👍 101 • 💬 9 • ⏱️ 39:43 • 8h ago
 
 ---
 
@@ -316,7 +316,7 @@ How $BMNR Uses Staking Yield Like "Insurance Float" BMNR = “The ETH Berkshire 
 
 📺 Wall Street Stockcast
 
-👁️ 453 • 👍 24 • 💬 1 • ⏱️ 9:10 • 6h ago
+👁️ 453 • 👍 24 • 💬 1 • ⏱️ 9:10 • 7h ago
 
 ---
 

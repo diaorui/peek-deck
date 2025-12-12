@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T21:44:22.797527+00:00'
+updated: '2025-12-12T21:55:06.541791+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - news
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 21:44 UTC  
+**Last Updated:** December 12, 2025 at 21:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** +1.0%  
-**30d:** -9.6%  
-**90d:** -21.8%  
-**1y:** -10.9%  
+**24h:** -2.5%  
+**7d:** +0.8%  
+**30d:** -9.8%  
+**90d:** -22.0%  
+**1y:** -11.2%  
 
 ---
 
@@ -99,7 +99,7 @@ C’mon Bitcoin, you can do it
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -119,7 +119,7 @@ C’mon Bitcoin, you can do it
 
 Bitcoin’s Open Interest has dropped sharply since October, and that’s the most important part of the current market structure. Low OI means the market is running with very little leverage, so the recent price move isn’t coming from futures traders it’s mostly spot demand. At the same time, a huge amount of BTC is still locked in long-term hands (corporate treasuries, miners, and illiquid wallets). So supply pressure is low, but momentum is also weak because fewer traders are participating. Low OI means cleaner, healthier price action, But low OI also means less support if demand slows. So direction will depend on spot buyers, not leverage It’s a neutral setup, stable, but waiting for a catalyst.If OI starts rising again, that’s usually when stronger trends begin. Note : Bitcoin’s Open Interest has been falling over the past few weeks, but the interesting part is that BTC is slowly moving up at the same time. This tells us that the price is rising without heavy leverage, Futures traders are stepping back and Spot buyers or long-term demand are doing most of the work. BTC is rising, but not because of leveraged longs, it’s rising because actual buyers are still active.
 
-4h ago
+5h ago
 
 ---
 
@@ -247,7 +247,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 15h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 16h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -299,7 +299,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 7 • 💬 0 • 23h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 7 • 💬 0 • 1d ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -393,7 +393,7 @@ Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
 
 📺 100XClub
 
-👁️ 7K • 👍 709 • 💬 189 • ⏱️ 7:18 • 12h ago
+👁️ 7K • 👍 709 • 💬 189 • ⏱️ 7:18 • 13h ago
 
 ---
 
