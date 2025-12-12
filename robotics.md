@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T23:33:16.443877+00:00'
+updated: '2025-12-12T23:45:43.466228+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 23:33 UTC  
+**Last Updated:** December 12, 2025 at 23:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,7 +62,7 @@ Hi guys, I want to know what you guys think where we can use RL to actually fill
 
 Hello, I am currently building a small biped. Ideally, I would like some flat BLDC motors; however, in America, it's nearly impossible to find affordable ones. Doesn't need to be anything crazy, but everything I find is 150-300 bucks, and given that I'll need ~6-8 of them, that's not affordable. With that, I was wondering if anyone had any sites/companies they prefer to go to for motors? If not, I am highly considering making my own. A $20 crucible to melt some Home Depot metal and make my own stators sounds much more appealing than spending hundreds of bucks. I am a student that can go to the makerspace at my school, so I do have options to manufacture from scratch, just not sure if its worth the time. Anyones take on this?
 
-51m ago
+1h ago
 
 ---
 
@@ -70,7 +70,7 @@ Hello, I am currently building a small biped. Ideally, I would like some flat BL
 
 ROS News for the Week of December 8th, 2025    🎄 All we want for Christmas is for you to become a Build Farm Backer! The ROS Build Farm is one of the largest public Jenkins instances in the world, and it is also one of our largest expenses. If you’ve ever saved yourself a few hours of compile time by downloading one of our pre-compiled ROS binaries, please consider pitching in to support our server costs. The money raised by this campaign goes directly to the OSRF, a 501(c)(3) non...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 2h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ Nasdaq • 4h ago
 
 The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
 
-AP News • 2h ago
+AP News • 3h ago
 
 ---
 
@@ -198,7 +198,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 143K • 👍 5K • 💬 407 • ⏱️ 17:44 • 2d ago
+👁️ 148K • 👍 5K • 💬 418 • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 91K • 👍 2K • 💬 583 • ⏱️ 14:26 • 4d ago
+👁️ 93K • 👍 2K • 💬 582 • ⏱️ 14:26 • 4d ago
 
 ---
 
@@ -218,7 +218,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 35K • 👍 671 • 💬 165 • ⏱️ 18:46 • 6d ago
+👁️ 36K • 👍 674 • 💬 165 • ⏱️ 18:46 • 6d ago
 
 ---
 
@@ -228,7 +228,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 136K • 👍 7K • 💬 929 • ⏱️ 19:33 • 6d ago
+👁️ 137K • 👍 7K • 💬 931 • ⏱️ 19:33 • 6d ago
 
 ---
 
@@ -248,7 +248,7 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 86K • 👍 1K • 💬 438 • ⏱️ 0:41 • 4d ago
+👁️ 86K • 👍 1K • 💬 439 • ⏱️ 0:41 • 4d ago
 
 ---
 
@@ -258,7 +258,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 5K • 👍 111 • ⏱️ 0:09 • 7h ago
+👁️ 8K • 👍 121 • 💬 2 • ⏱️ 0:09 • 8h ago
 
 ---
 
@@ -266,27 +266,27 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 AI . Robot
 
-👁️ 129K • 👍 2K • 💬 24 • ⏱️ 0:19 • 4d ago
+👁️ 130K • 👍 2K • 💬 24 • ⏱️ 0:19 • 4d ago
 
 ---
 
-**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=SbeWWtli99g)**
 
-After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 223K • 👍 1K • 💬 9 • ⏱️ 0:17 • 4d ago
+
+---
+
+**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
+
+Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
 
 📺 Kalil 4.0
 
-👁️ 20K • 👍 377 • 💬 71 • ⏱️ 0:59 • 5d ago
-
----
-
-**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
-
-Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
-
-📺 TheAIGRID
-
-👁️ 18K • 👍 487 • 💬 112 • ⏱️ 42:48 • 5d ago
+👁️ 16K • 👍 184 • 💬 15 • ⏱️ 0:27 • 5d ago
 
 ---
 

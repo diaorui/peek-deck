@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T23:33:16.440610+00:00'
+updated: '2025-12-12T23:45:43.462927+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 23:33 UTC  
+**Last Updated:** December 12, 2025 at 23:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** +1.8%  
-**30d:** -4.5%  
+**24h:** -3.1%  
+**7d:** +1.7%  
+**30d:** -4.7%  
 **90d:** -32.9%  
-**1y:** -20.9%  
+**1y:** -21.0%  
 
 ---
 
@@ -230,23 +230,23 @@ Yahoo Finance • 11h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BTC, ETH, &amp; Crypto Refuse To Pump In Face Of Insane News!](https://www.youtube.com/watch?v=-2iVyJP6LAs)**
-
-Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 12K • 👍 610 • 💬 59 • ⏱️ 48:17 • 11h ago
-
----
-
 **[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
 
 Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 389 • 💬 10 • ⏱️ 48:44 • 7h ago
+👁️ 5K • 👍 402 • 💬 10 • ⏱️ 48:44 • 7h ago
+
+---
+
+**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
+
+What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
+
+📺 Thomas Kralow
+
+👁️ 18K • 👍 712 • 💬 41 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -260,43 +260,13 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 ---
 
-**[ETH Ethereum Price Prediction: 12th of December](https://www.youtube.com/watch?v=FEl0jOMJrrU)**
+**[BTC, ETH, &amp; Crypto Refuse To Pump In Face Of Insane News!](https://www.youtube.com/watch?v=-2iVyJP6LAs)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 C-Zar Gets Crypto 
+📺 Lark Davis
 
-👁️ 210 • 👍 18 • 💬 13 • ⏱️ 8:14 • 5h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=34QIuyyS5dY)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 128 • 💬 9 • ⏱️ 5:04 • 10h ago
-
----
-
-**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
-
-What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
-
-📺 Thomas Kralow
-
-👁️ 18K • 👍 710 • 💬 41 • ⏱️ 11:29 • 1d ago
-
----
-
-**[📈 Rally Starts Now 👑 BTC, ETH, XRP &amp; ZEC Price Analysis [Silver up 120%] #shorts](https://www.youtube.com/watch?v=IAWE9I7Kjsc)**
-
-The "Opening Bell" has finally rung on the legacy banking system. With 21 Capital and Tether forming a volatile alliance to build ...
-
-📺 Crypto Noble
-
-👁️ 2K • 👍 101 • 💬 9 • ⏱️ 39:43 • 9h ago
+👁️ 13K • 👍 620 • 💬 59 • ⏱️ 48:17 • 11h ago
 
 ---
 
@@ -306,27 +276,57 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 256 • ⏱️ 10:23 • 1d ago
+👁️ 57K • 👍 3K • 💬 254 • ⏱️ 10:23 • 1d ago
 
 ---
 
-**[BMNR = &quot;The ETH Berkshire Hathaway&quot;: Why Tom Lee Is The &quot;Warren Buffett&quot; of Crypto](https://www.youtube.com/watch?v=Wzo2sdACaLA)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=34QIuyyS5dY)**
 
-How $BMNR Uses Staking Yield Like "Insurance Float" BMNR = “The ETH Berkshire Hathaway” Warren Buffett built the world's ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Wall Street Stockcast
+📺 More Crypto Online
 
-👁️ 453 • 👍 24 • 💬 1 • ⏱️ 9:10 • 8h ago
+👁️ 2K • 👍 140 • 💬 9 • ⏱️ 5:04 • 10h ago
 
 ---
 
-**[Winners Don’t Cry on Twitter; They Buy Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=i2Jc_fyhu40)**
+**[&quot;It Will Flip Ethereum&quot; - Scaramucci on Solana&#39;s Future](https://www.youtube.com/watch?v=4JXiR5vSw_I)**
 
-Full stream link: https://youtube.com/live/RU85HgstU0Y?feature=share all my links https://linktr.ee/dollarcostcrypto PLEASE ...
+Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author of the new book Solana Rising, joins ...
 
-📺 Dollar Cost Crypto
+📺 CoinDesk
 
-👁️ 34 • 👍 2 • ⏱️ 3:01 • 6h ago
+👁️ 3K • 👍 96 • 💬 28 • ⏱️ 13:45 • 1d ago
+
+---
+
+**[This is Not Normal For Ethereum](https://www.youtube.com/watch?v=agl0Kf2d7cQ)**
+
+ETH isn't just lagging — its story broke. It's down ~3× more than BTC from the highs, ETH/BTC is sitting at multi-year lows, and ...
+
+📺 Ryan’s Money Lab
+
+👁️ 4K • 👍 171 • 💬 22 • ⏱️ 15:43 • 1d ago
+
+---
+
+**[ETH Ethereum Price Prediction: 12th of December](https://www.youtube.com/watch?v=FEl0jOMJrrU)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 285 • 👍 21 • 💬 13 • ⏱️ 8:14 • 5h ago
+
+---
+
+**[MSTR &amp; Ethereum Dip: Market Sentiment Shift? #shorts](https://www.youtube.com/watch?v=AowT80gHyWk)**
+
+Street gets bearish on MSTR, but Bitcoin at 110k? MSTR rockets. Ethereum outperforming Bitcoin off the lows. TradFi and talking ...
+
+📺 Crypto 101
+
+👁️ 124 • 👍 7 • ⏱️ 1:29 • 21h ago
 
 ---
 

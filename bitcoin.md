@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T23:33:16.434542+00:00'
+updated: '2025-12-12T23:45:43.456839+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 23:33 UTC  
+**Last Updated:** December 12, 2025 at 23:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -113,7 +113,7 @@ C’mon Bitcoin, you can do it
 
 Any thoughts on what is causing it?
 
-56m ago
+1h ago
 
 ---
 
@@ -307,13 +307,33 @@ We’ve already written several times about the danger posed by adding AI to law
 
 ## YouTube Videos: "bitcoin"
 
+**[Fed Restarts QE? Why This $54B Pivot Changes Everything for Bitcoin!](https://www.youtube.com/watch?v=UT9Ok-n-G4I)**
+
+The Fed just restarted the money printer — call it “reserve management,” but liquidity is rising fast. Bitcoin is now approved as ...
+
+📺 Simply Bitcoin
+
+👁️ 4K • 👍 482 • 💬 26 • ⏱️ 16:27 • 1h ago
+
+---
+
 **[Why Bitcoin’s Next Big Move Is Closer Than Everyone Thinks](https://www.youtube.com/watch?v=JWUeyIQ-cb8)**
 
 Mel Mattison is one of the leading macro strategists on the internet, known for his deep insights into global markets and digital ...
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 1K • 💬 12 • ⏱️ 48:24 • 1d ago
+👁️ 23K • 👍 1K • 💬 12 • ⏱️ 48:24 • 1d ago
+
+---
+
+**[Bitcoin’s Big Year-End Move: Is the Breakout Finally Here?](https://www.youtube.com/watch?v=4_AuftIEzxk)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 21K • 👍 1K • 💬 156 • ⏱️ 46:26 • 7h ago
 
 ---
 
@@ -323,7 +343,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 193 • 💬 18 • ⏱️ 22:05 • 1d ago
+👁️ 6K • 👍 195 • 💬 19 • ⏱️ 22:05 • 1d ago
+
+---
+
+**[🚨 8 BULLISH THINGS YET BITCOIN DEAD?!?!?!?! 🤡](https://www.youtube.com/watch?v=cpWejE3vMFA)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 4K • 👍 449 • 💬 157 • ⏱️ 18:04 • 4h ago
 
 ---
 
@@ -333,7 +363,27 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 15K • 👍 157 • 💬 90 • ⏱️ 4:06 • 1d ago
+👁️ 15K • 👍 164 • 💬 92 • ⏱️ 4:06 • 1d ago
+
+---
+
+**[Bitcoin &amp; Crypto Demand SURGES As Banks &amp; Wall Street Go ALL IN!](https://www.youtube.com/watch?v=6kpRqY_zYeg)**
+
+Bitcoin #Crypto #Finance Today's episode breaks down one of the biggest developments in TradFi and crypto convergence yet ...
+
+📺 The Wolf Of All Streets
+
+👁️ 15K • 👍 967 • 💬 303 • ⏱️ 24:40 • 9h ago
+
+---
+
+**[Bitcoin Price Action LIVE - The Signal Has Fired](https://www.youtube.com/watch?v=7DkPDZ961mA)**
+
+Stay informed with the latest insights on **bitcoin today**, focusing on effective **trading strategy** and essential **technical ...
+
+📺 Krown
+
+👁️ 6K • 👍 445 • 💬 35 • ⏱️ 1:29:53 • 5h ago
 
 ---
 
@@ -347,63 +397,13 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 ---
 
-**[Bitcoin Price Action LIVE - The Signal Has Fired](https://www.youtube.com/watch?v=7DkPDZ961mA)**
-
-Stay informed with the latest insights on **bitcoin today**, focusing on effective **trading strategy** and essential **technical ...
-
-📺 Krown
-
-👁️ 5K • 👍 406 • 💬 145 • ⏱️ 1:29:53 • 5h ago
-
----
-
-**[BITCOIN BAD: GET OUT?](https://www.youtube.com/watch?v=mlzJcGVs2eI)**
-
-Bitcoin bear flag. 300k scenario revisit. What I will do in 2026. Larsson Line Pro https://www.ctolarsson.com ❌ X ...
-
-📺 CTO LARSSON
-
-👁️ 16K • 👍 2K • 💬 134 • ⏱️ 13:21 • 10h ago
-
----
-
 **[The Fed CUTS… and Bitcoin DROPS Below $90K?!](https://www.youtube.com/watch?v=u_H9gXNc630)**
 
 Jerome Powell just went full-dovish — QT is winding down, liquidity is returning, and rate hikes are off the table. Bitcoin dipped ...
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 178 • ⏱️ 18:22 • 23h ago
-
----
-
-**[The Secret War Behind Bitcoin&#39;s Price Crash (Not What You Think)](https://www.youtube.com/watch?v=4cVGR6n7ttY)**
-
-Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be engineering your complete Wealth Operating ...
-
-📺 Mark Moss
-
-👁️ 130K • 👍 6K • 💬 423 • ⏱️ 21:05 • 2d ago
-
----
-
-**[BITCOIN WILL CRASH HARD!!! (URGENT)](https://www.youtube.com/watch?v=aZQl57cscHQ)**
-
-Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
-
-📺 100XClub
-
-👁️ 7K • 👍 709 • 💬 189 • ⏱️ 7:18 • 14h ago
-
----
-
-**[Bitcoin and Altcoins: Dubious Speculation](https://www.youtube.com/watch?v=bcHNiLDPqmw)**
-
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 ITC: ...
-
-📺 Crypto Kid
-
-👁️ 3K • 👍 198 • 💬 85 • ⏱️ 29:06 • 8h ago
+👁️ 27K • 👍 2K • 💬 144 • ⏱️ 18:22 • 23h ago
 
 ---
 
