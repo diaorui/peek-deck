@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T11:52:02.151144+00:00'
+updated: '2025-12-12T12:28:49.213791+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 11:52 UTC  
+**Last Updated:** December 12, 2025 at 12:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,15 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-20h ago
+21h ago
+
+---
+
+**[Industrial belt-pick scenario where a simple arm tries to track objects on a moving conveyor and place them aside.](https://www.reddit.com/r/robotics/comments/1pko2ov/industrial_beltpick_scenario_where_a_simple_arm/)**
+
+The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
+
+2h ago
 
 ---
 
@@ -58,15 +66,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 Hi guys, I'm interested to know what you guys think. Opinionate away! I've been in the robotics industry for a few years now. I was speaking to my colleague whos a really good software engineer and he said he has no experience in hardware and is lowsy at connecting and building stuff...which surprised me alot. But then it got me thinking about products for those types of engineers... Do you think there is a market for a pre-built robotics platforms as a toy/collectible? I'm not talking YAHBOOM dev kits, im talking pretty well detailed and finished robot/toy that gives you full access to the inside to develop ontop of. i think the closest ive seen is the unitree go2 but you cant really jailbreak or dev ontop of that unless you get the $10K 'edu' version. I'd imagine there'd be alot of engineers out there who love the idea of having a robot for the home/office but cbf to build themselves...especially if you can just remote in and build software for it and deploy it from your couch. Testing chat bots w/ TTS and vice verse would be way more fun if you were talking to something reactive, no? I kinda wanna experiment with speech-to-action. so maybe i'll build something and show you guys in the future... To give you the synopsis, i designed this robot named SPOOK that im going to build when the parts arrive. My prototype is a hacked roomba. I made it a ghost to symbolise how the world is a little bit spooked by AI and Robotics (particularly the humanoids in your house idea). I also made it a ghost because my wife and i are talking about having kids and i thought this was kinda cute. When im done, you should be able to talk to it and do all kinds of stuff (thinking more an animate object, electronic pet robot with a personality) kind of thing. It will have all the functionality youd expect from something decent (return to charger, object detection, obstacle avoidance etc.). and im thinking of trying to build it for under $2500. In the meanwhile, what does reddit think? My colleague thinks its a cool idea. another friend told me he wanted to learn robotics and it would be cool to build this from an educational angle also....keen to know your thoughts!
 
-3h ago
-
----
-
-**[AheadForm from Hangzhou: when speaking, the mouth movements are now synchronized with the speech, and the subtle facial expressions around the eyes are more refined](https://www.reddit.com/r/robotics/comments/1pkpc9o/aheadform_from_hangzhou_when_speaking_the_mouth/)**
-
-From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1999106881114312756 Website: https://www.aheadform.com/
-
-38m ago
+4h ago
 
 ---
 
@@ -75,14 +75,6 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1999106881114312756 Web
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
 1d ago
-
----
-
-**[Industrial belt-pick scenario where a simple arm tries to track objects on a moving conveyor and place them aside.](https://www.reddit.com/r/robotics/comments/1pko2ov/industrial_beltpick_scenario_where_a_simple_arm/)**
-
-The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
-
-1h ago
 
 ---
 
@@ -98,7 +90,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
 
-8h ago
+9h ago
 
 ---
 
@@ -107,6 +99,14 @@ I see all kinds of demos and examples from mujoco that looks splashy, but I’ve
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 1d ago
+
+---
+
+**[Thoughts on TetherIA's Open Aero Hand](https://www.reddit.com/r/robotics/comments/1pki1vp/thoughts_on_tetherias_open_aero_hand/)**
+
+https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on these hands - anyone here purchased one or is thinking of purchasing one? I ask because I've been thinking about buying
+
+8h ago
 
 ---
 
@@ -148,7 +148,7 @@ Deloitte • 2d ago
 
 Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
 
-NVIDIA Developer • 19h ago
+NVIDIA Developer • 20h ago
 
 ---
 
@@ -156,7 +156,7 @@ NVIDIA Developer • 19h ago
 
 Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.
 
-TechCrunch • 13h ago
+TechCrunch • 14h ago
 
 ---
 
@@ -228,7 +228,7 @@ Ukraine's battlefield is changing fast as ground robots move from support roles 
 
 📺 The Military Show
 
-👁️ 262K • 👍 8K • 💬 430 • ⏱️ 16:55 • 21h ago
+👁️ 262K • 👍 8K • 💬 430 • ⏱️ 16:55 • 22h ago
 
 ---
 
@@ -268,7 +268,7 @@ Robotic arm wrist prototype assembly featuring my new three-ring cycloidal gearb
 
 📺 Mishin Machine
 
-👁️ 10K • 👍 439 • 💬 7 • ⏱️ 1:04 • 21h ago
+👁️ 10K • 👍 439 • 💬 7 • ⏱️ 1:04 • 22h ago
 
 ---
 

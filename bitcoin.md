@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T11:52:02.141996+00:00'
+updated: '2025-12-12T12:28:49.204343+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 11:52 UTC  
+**Last Updated:** December 12, 2025 at 12:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +3.4%  
+**24h:** +2.7%  
+**7d:** +3.3%  
 **30d:** -7.5%  
 **90d:** -20.0%  
-**1y:** -8.8%  
+**1y:** -8.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1842.94B
+**Market Cap:** $1841.64B
 Rank #1
 
-**Circulating Supply:** 19,961,093 BTC
+**Circulating Supply:** 19,961,112 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -26.8%
 
 **All-Time Low:** $67.81
-+136064.3%
++135959.6%
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-10h ago
+11h ago
+
+---
+
+**[is it a bear trap?](https://www.reddit.com/r/Bitcoin/comments/1pkpaw0/is_it_a_bear_trap/)**
+
+1h ago
 
 ---
 
@@ -91,7 +97,7 @@ Rank #1
 
 **[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -99,7 +105,7 @@ Rank #1
 
 The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
 
-8h ago
+9h ago
 
 ---
 
@@ -107,19 +113,25 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
 
-15h ago
+16h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
 
-15h ago
+16h ago
+
+---
+
+**[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
+
+40m ago
 
 ---
 
 **[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -128,20 +140,6 @@ Made a little edit on the pump it up song to include the current craziness going
 are we coming out of the worst of it? stock market is at highs, and even the AI stock are stubbornly up (with a few exceptions)… yet crypto is still struggling. have we bottomed, or is a bigger crypto dip coming?
 
 4h ago
-
----
-
-**[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
-
-22h ago
-
----
-
-**[Is today a good day to start investing in Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1pk7kak/is_today_a_good_day_to_start_investing_in_bitcoin/)**
-
-For context I never touched any crypto before. Is 100€ as starting too little? What would you put in?
-
-15h ago
 
 ---
 
@@ -173,17 +171,9 @@ Forbes • 1h ago
 
 ---
 
-**[Bitcoin, Crypto Stocks Are Under Pressure. Cathie Wood’s ARK Buys More Robinhood Shares.](https://www.barrons.com/articles/bitcoin-robinhood-cathie-wood-ark-crypto-xrp-46a8c473?gaa_at=eafs&gaa_n=AWEtsqdp2qM7biPNDWpx0kCYtcw30jlMYU52VlLsTw1zzgsziWwqVFxgOMyH&gaa_ts=693c02c4&gaa_sig=ar1kio-j-a_2iBoB2vFCzG8lmOgRfnhKttiQhHaqPVNwk-IiO_SqCuiiBCAU63exLaLKi4VVYBKOSf_eXyYFCQ%3D%3D)**
+**[Bitcoin, Crypto Stocks Are Under Pressure. Cathie Wood’s ARK Buys More Robinhood Shares.](https://www.barrons.com/articles/bitcoin-robinhood-cathie-wood-ark-crypto-xrp-46a8c473?gaa_at=eafs&gaa_n=AWEtsqdgeqJfmXJ0PsEDmGRhwGIZJaUpBZogbSdwEZ6sjiRQBSzVHQHGB6pv&gaa_ts=693c0dd9&gaa_sig=5ijfcyYJ-xG3afiPr9SAA79CF-GOdTGx5pHcPf0NMpNasoqEIUFNdI7qF-FF4No5v2jfnAKjlGUfQt3BylpJAA%3D%3D)**
 
-Barron's • 18m ago
-
----
-
-**[Fidelity Says Bitcoin’s Current Cycle Is Maturing — A New Wave May Follow](https://finance.yahoo.com/news/fidelity-says-bitcoin-current-cycle-093009257.html)**
-
-Fidelity projects Bitcoin entering a mature fifth wave while analysts debate bullish or weak performance heading into 2026.
-
-Yahoo Finance • 2h ago
+Barron's • 54m ago
 
 ---
 
@@ -191,7 +181,7 @@ Yahoo Finance • 2h ago
 
 Corporate Bitcoin treasuries swung into widespread unrealized losses in November, as Bitcoin’s brief drop below $90,000 left roughly 65% of measurable corporate holders in the red.
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
@@ -201,23 +191,33 @@ Reuters • 23h ago
 
 ---
 
+**[Michael Saylor Outlines Corporate Bitcoin Central Bank Vision](https://bitbo.io/news/saylor-bitcoin-central-bank/)**
+
+At the Bitcoin MENA conference, Michael Saylor detailed his plan for a corporate-driven, multi-layered financial system built on bitcoin, likening it to a private central bank.
+
+Bitbo • 13h ago
+
+---
+
+**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
+
+Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
+
+Yahoo Finance • 17h ago
+
+---
+
+**[Saylor’s Plan To Build A Bitcoin Powered Shadow Central Bank](https://www.forbes.com/sites/digital-assets/2025/12/11/saylors-plan-to-build-a-bitcoin-powered-shadow-central-bank/)**
+
+Saylor’s bitcoin based monetary engine built on reserves, credit and digital money that could act like a stablecoin, supported by a plan to buy and hold bitcoin at scale.
+
+Forbes • 22h ago
+
+---
+
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
 Investor's Business Daily • 17h ago
-
----
-
-**[MicroStrategy sends sharp warning letter to MSCI](https://www.thestreet.com/crypto/markets/microstrategy-sends-sharp-warning-letter-to-msci)**
-
-TheStreet • 1d ago
-
----
-
-**['National Security' at Risk If MSCI Excludes Crypto Treasuries, Warns Bitcoin Giant Strategy](https://decrypt.co/351880/national-security-risk-msci-excludes-crypto-treasuries-warns-bitcoin-strategy)**
-
-Bitcoin treasury leader Strategy argued to MSCI that excluding a crypto-buying firms from its indices would hurt America’s national security.
-
-Decrypt • 1d ago
 
 ---
 
@@ -245,7 +245,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 5h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 6h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -289,7 +289,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 2h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 3h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -297,7 +297,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 7 • 💬 0 • 13h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 7 • 💬 0 • 14h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -311,7 +311,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 814 • 💬 12 • ⏱️ 48:24 • 13h ago
+👁️ 16K • 👍 814 • 💬 12 • ⏱️ 48:24 • 14h ago
 
 ---
 
@@ -321,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 149 • 💬 42 • ⏱️ 22:05 • 12h ago
+👁️ 3K • 👍 149 • 💬 42 • ⏱️ 22:05 • 13h ago
 
 ---
 
@@ -341,7 +341,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 11K • 👍 112 • 💬 85 • ⏱️ 4:06 • 16h ago
+👁️ 11K • 👍 112 • 💬 85 • ⏱️ 4:06 • 17h ago
 
 ---
 
@@ -371,7 +371,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 153 • ⏱️ 18:22 • 11h ago
+👁️ 20K • 👍 2K • 💬 153 • ⏱️ 18:22 • 12h ago
 
 ---
 
@@ -391,7 +391,7 @@ Bear or Bull? Bearish short term, but buying every day! The links below may incl
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 720 • 💬 48 • ⏱️ 44:51 • 16h ago
+👁️ 11K • 👍 720 • 💬 48 • ⏱️ 44:51 • 17h ago
 
 ---
 

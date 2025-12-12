@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T11:52:02.147905+00:00'
+updated: '2025-12-12T12:28:49.210399+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 11:52 UTC  
+**Last Updated:** December 12, 2025 at 12:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
+**24h:** +1.3%  
 **7d:** +6.6%  
 **30d:** -0.0%  
 **90d:** -29.7%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $390.11B
+**Market Cap:** $390.81B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
@@ -62,7 +62,7 @@ No max supply
 -34.6%
 
 **All-Time Low:** $0.43
-+746573.6%
++747439.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, total crypto newbie here. I need some guidance and expert advice on the best way to approach my financial needs. Context: I live in a developing country, and I am in desperate need of financial freedom. I started looking into stablecoins, especially USDT. I am not really looking into trading. My use case: Relative or friend in europe, they buy USDT on Binance or any other exchange platform, send that USDT to my Trust wallet. I store it, and occasionally send some pocket money to Redotpay to spend using their virtual visa card. That is pretty much about it. Storing it and spending with Redotpay. Not super interested in p2p market. So i dont think i will need to sell my USDT that often, almost never. So the market standard for p2p transactions isnt really a big concern. Might be interested in trading one day, but not for now. This is just for my personal finances and spending. The question I need help with: Should I use Ethereum or Tron. My findings with the research I did: Tron has cheaper gas fee, for when I transfer to Redotpay. But apparently Eth have dropped their transfer rates for USDT, and a lot of people claim it is around the same price now. Because the numbers I found are a little worrying: around 1 USD for Tron and between 3-8 USD for Eth. If you have any information about the rates that would be great. I am more inclined towards Eth to be fair. I just like the idea of a trully decentralized chain. And it has been king over a decade for good reasons. Also it is more secure. With the new EIP-7702 on Eth, you can now pay gas fee for transfers with USDT, which is very interesting, as I am not very comfortable with juggling two currencies. Since per my understanding, I need to always have TRX reserve in my Trust wallet to be able to send to Redotpay. Are the fees really that different to justify skipping on EIP-7702 ? Some people mentioned using an L2 on Eth. I honestly have no idea what that is. If i have got any concepts misunderstood, I would appreciate any clarifications and guidance. I still got a lot to learn about this field.
 
-19h ago
+20h ago
 
 ---
 
@@ -152,25 +152,55 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
+**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://finance.yahoo.com/news/tom-lee-bitmine-adds-112m-132425778.html)**
 
-The Block • 1d ago
+Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
 
----
-
-**[Arthur Hayes Predicts How to Become a Millionaire With Ethereum](https://beincrypto.com/arthur-hayes-ethereum-prediction-millionaire-roadmap/)**
-
-Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
-
-BeInCrypto • 16h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Ethereum Price Flashes A Big Breakout Hope — But It’s Still 7% Away From Confirmation](https://finance.yahoo.com/news/ethereum-price-flashes-big-breakout-100000000.html)**
+**[Ethereum Has Bottomed, Says BitMine Chairman Tom Lee—Here's Why](https://decrypt.co/351828/ethereum-bottomed-bitmine-chairman-tom-lee)**
 
-Ethereum price prediction hints a key breakout at above 7%. Whale buying and chart signals hint the move may be close.
+BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
 
-Yahoo Finance • 1h ago
+Decrypt • 1d ago
+
+---
+
+**[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://finance.yahoo.com/news/tom-lee-claims-p-500-115052298.html)**
+
+Tom Lee expects the S&P 500 to reach 7,700 by 2026. Lee argues Ethereum is “grossly undervalued” at current levels. The bullish analyst claimed Bitcoin ...
+
+Yahoo Finance • 37m ago
+
+---
+
+**[Should You Buy Ethereum While It's Under $5,000?](https://www.fool.com/investing/2025/12/12/should-you-buy-ethereum-while-its-under-5000/)**
+
+After an unexpected pullback, could Ethereum be ready to skyrocket in value?
+
+The Motley Fool • 58m ago
+
+---
+
+**[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
+
+Binance • 9h ago
+
+---
+
+**[Here's Why Ethereum Soared More than 6% Today, Breaking $3,300 for the First Time In Nearly a Month](https://www.nasdaq.com/articles/heres-why-ethereum-soared-more-6-today-breaking-3300-first-time-nearly-month)**
+
+Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
+
+Nasdaq • 2d ago
+
+---
+
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfjTL3l6JGLwkjXKtW9Wtl_rliLC0I_8BT6-5Y8kb1bLzlEejzV-E6k&gaa_ts=693c0dda&gaa_sig=OnyRywXEKc-OmKJS0viPx4j0v5g4dtQlSKo8iON2daeXIebednxCYsqfMTnkX75_4FfN_F8g9gJEihk5gRGyOw%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -182,12 +212,6 @@ CoinDesk • 7h ago
 
 ---
 
-**[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
-
-CCN.com • 1h ago
-
----
-
 **[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://decrypt.co/351847/bitcoin-ethereum-federal-reserve-cuts-rates)**
 
 The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
@@ -196,33 +220,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH eyes breakout, XRP steadies at support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-eyes-breakout-xrp-steadies-at-support-202512120349)**
+**[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
 
-Bitcoin (BTC) and Ethereum (ETH) are nearing the key resistance levels at the time of writing on Friday, and a successful breakout could open the door for a fresh rally. Meanwhile, Ripple (XRP) is stabilizing around a crucial support zone, hinting at a potential rebound if buyers maintain control.
-
-FXStreet • 8h ago
-
----
-
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqf5b4jVN0tJnnYKUTsjRq6fc17ldz7o1kJjlr9qbA6dInCftyjzq5cu&gaa_ts=693c02c5&gaa_sig=yRyWQcayPlaiuBEx69LD5jevfNVeI75q6YB-6CMnxKY7rBQC4D3IJaG2bQe_kZrEhLaMAtw_vop82HeatbWyYA%3D%3D)**
-
-Barron's • 23h ago
-
----
-
-**[Solana Will ‘Flip’ Ethereum, Predicts Skybridge Capital’s Scaramucci](https://www.tradingview.com/news/newsbtc:1dae68157094b:0-solana-will-flip-ethereum-predicts-skybridge-capital-s-scaramucci/)**
-
-Anthony Scaramucci showed up to Solana Breakpoint in Abu Dhabi wearing a tie — a small act of rebellion in a sea of hoodies — and then proceeded to make a much bigger one on stage: Solana is going to “flip” Ethereum.Scaramucci’s Solana PredictionNot in the Twitter-war, zero-sum, “ETH is dead” kind…
-
-TradingView • 3h ago
-
----
-
-**[Here's Why Ethereum Soared More than 6% Today, Breaking $3,300 for the First Time In Nearly a Month](https://www.nasdaq.com/articles/heres-why-ethereum-soared-more-6-today-breaking-3300-first-time-nearly-month)**
-
-Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
-
-Nasdaq • 2d ago
+CCN.com • 1h ago
 
 ---
 
@@ -236,7 +236,7 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 📺 Ivan on Tech
 
-👁️ 25K • 👍 2K • 💬 120 • ⏱️ 10:42 • 20h ago
+👁️ 25K • 👍 2K • 💬 120 • ⏱️ 10:42 • 21h ago
 
 ---
 
@@ -266,7 +266,7 @@ Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author
 
 📺 CoinDesk
 
-👁️ 2K • 👍 64 • 💬 16 • ⏱️ 13:45 • 16h ago
+👁️ 2K • 👍 64 • 💬 16 • ⏱️ 13:45 • 17h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 200 • 💬 7 • ⏱️ 6:54 • 21h ago
+👁️ 3K • 👍 200 • 💬 7 • ⏱️ 6:54 • 22h ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 336 • 💬 81 • ⏱️ 18:15 • 12h ago
+👁️ 8K • 👍 336 • 💬 81 • ⏱️ 18:15 • 13h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETH isn't just lagging — its story broke. It's down ~3× more than BTC from th
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 147 • 💬 18 • ⏱️ 15:43 • 16h ago
+👁️ 3K • 👍 147 • 💬 18 • ⏱️ 15:43 • 17h ago
 
 ---
 

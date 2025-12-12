@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T11:52:02.133584+00:00'
+updated: '2025-12-12T12:28:49.195814+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 11:52 UTC  
+**Last Updated:** December 12, 2025 at 12:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 10h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 16h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 20h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 21h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 23h ago
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1d ago
 
 ---
 
@@ -81,7 +81,21 @@ A new survey finds corporations and investors are overwhelmingly optimistic abou
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 19h ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 20h ago
+
+---
+
+**[It’s not necessarily the fact that they can access and retrieve information from previous conversations. I don’t see anything wrong with that what I do see as alarming is the fact that they’re being programmed to lie and I wanna know what meta is hiding.](https://www.reddit.com/r/artificial/comments/1pkqjci/its_not_necessarily_the_fact_that_they_can_access/)**
+
+7m ago
+
+---
+
+**[Building specialized AI tools on top of foundation models — interior design case study](https://www.reddit.com/r/artificial/comments/1pkq6g1/building_specialized_ai_tools_on_top_of/)**
+
+I've been working on an app that uses AI for room redesign and wanted to share some interesting UX and technical challenges. The App: Decor AI upload a room photo, transform it with AI. Change walls, furniture, apply styles from reference images. Challenges I Faced: Precision vs Prompts Generic AI needs detailed text descriptions. But for room design, users want to just mark an area and pick a color. Had to build tools for area selection that translate to proper AI inputs. Style Transfer Without Words Users see rooms on Pinterest and want "that vibe" but can't describe it. Built a Reference Style feature where users upload an inspiration image and the AI extracts and applies the style. Consistency When users want variations, generic AI gives completely different rooms. Had to work on maintaining room structure while changing specific elements. Before/After UX Unlike chat-based AI, users need instant visual comparison. Built a slider view for this. History and Iteration Chat interfaces lose context. Had to build proper design history with ability to branch from any previous generation. Takeaway: Foundation models are powerful but generic. There's huge opportunity in building specialized UX on top of them for specific use cases. Anyone else building specialized tools on foundation models? What challenges have you faced? Happy to share more technical details if interested.
+
+26m ago
 
 ---
 
@@ -101,39 +115,21 @@ Trump signs order to block states from enforcing own AI rules.[1] Disney making 
 
 ---
 
-**[The Disney-OpenAI Deal Redefines the AI Copyright War](https://www.reddit.com/r/artificial/comments/1pk922h/the_disneyopenai_deal_redefines_the_ai_copyright/)**
-
-Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.
-
-🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 14h ago
-
----
-
-**[At what point does smart parenting tech cross into spying?](https://www.reddit.com/r/artificial/comments/1pk3sxg/at_what_point_does_smart_parenting_tech_cross/)**
-
-Context: This ""parenting"" AI app called NurtureOS turned out to be satire made by an AI company. (I don't get the logic either, but that's not what I'm concerned about.) My gripe: Someone's going to try sell something like this for real sooner or later, and I can’t stop thinking about the long-term effects it could have on people and society as a whole. Where are we heading with AI in our homes? And especially when kids are involved? The idea behind the app (you can see the features on the site) implied a future where parents could offload actual emotional labour completely. Suppose for an instant that an AI can sooth tantrums, resolve petty fights, teach social skills, and even be tweaked to mold your child's behaviour in specific ways. First of all, is it unethical to use AI to condition your kids? We do it anyway when we teach them certain things are right or wrong, or launch them into specific social constructs. What makes it different when AI's the one doing it? Secondly, there's the emotional intelligence part. Kids learn empathy, boundaries, and emotional resilience through their interactions with other humans. If an AI took deciding how to handle a fight between siblings or how to discipline a child, what happens to the child’s understanding of relationships? Would they start responding to other humans with the expectation that some third party (electronic or otherwise) will always step in to facilitate or mediate? Would they have less room to make mistakes, experiment socially, or negotiate boundaries? Would they even have the skillset to do it with? Thirdly, there’s the impact on parents. If you rely on an app to make the “right” choices for your kid, does that slowly chip away at your confidence? Do you start assuming the AI knows better than your own judgement? Parenting is already full of anxiety. Imagine adding a third party that's constantly between you and your spouse telling you their concept of “ideal behavior”. Just you and you and your friend SteveAI. Finally, the privacy angle is huge. A real version of this app would basically normalise 24/7 emotional surveillance in the home. It would be recording behaviour, conversations, moods, and interactions, and feeding it all to company servers somewhere that you never get to see. They'd have your data forever. Just think about all the crap Meta got up to with the data we fecklessly gave it in our teenage Facebook days. This would be SO much worse than that. This app may have been fake, but the next one may not be, and it exposed a real cultural pressure point. Right now, we keep inviting AI deeper into our lives for convenience. At what point does that start reshaping childhood, parenthood, and just society as a whole in ways we don’t fully understand? Is delegating emotional or developmental tasks to AI inherently dangerous? Or is there a world where it can support parents without replacing them and putting us all at risk?
-
-18h ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+
+The New York Times • 12h ago
+
+---
 
 **[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-BBC • 8h ago
-
----
-
-**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
-
-The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
-
-Time Magazine • 23h ago
+BBC • 9h ago
 
 ---
 
@@ -141,13 +137,13 @@ Time Magazine • 23h ago
 
 Sensors and artificial intelligence help a prosthetic hand act more like a natural one, new research shows.
 
-NPR • 52m ago
+NPR • 1h ago
 
 ---
 
-**[Exclusive: Linda McMahon bets on AI as agency shrinks](https://www.axios.com/2025/12/12/linda-mcmahon-ai-education)**
+**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
 
-Axios • 1h ago
+Politico • 1h ago
 
 ---
 
@@ -161,33 +157,35 @@ Bloomberg.com • 1h ago
 
 JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
-**[Can OpenAI Respond After Google Closes the A.I. Technology Gap?](https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html)**
+**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
 
-The New York Times • 16h ago
+The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
----
-
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqe623aqj5jUKHNMoe8zXMTNMrIkYo2LtyU8c09BtNHIE2DRx5he3M3F&gaa_ts=693c02c2&gaa_sig=rpdCPGYXeSK3kfJJQRV--EN3IDuOB-_bfrycRLKXyg892U2-5C09CLGpUgdLrCVShpK5TDqMKXSx0IUXFfPsyA%3D%3D)**
-
-The Wall Street Journal • 14h ago
+Time Magazine • 23h ago
 
 ---
 
-**[The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters from across Disney’s brands to Sora](https://openai.com/index/disney-sora-agreement/)**
+**[Trump targets state AI laws and major flooding in the Pacific Northwest: Morning Rundown](https://www.nbcnews.com/news/us-news/trump-targets-state-ai-laws-major-flooding-pacific-northwest-morning-r-rcna248795)**
 
-OpenAI • 21h ago
+Plus, the medical professionals influencing how you pick your fantasy football team.
+
+NBC News • 13m ago
 
 ---
 
-**[Not lovin' it: McDonald's pulls AI-generated Christmas ad after social media backlash](https://www.nbcnews.com/world/europe/mcdonalds-ai-generated-christmas-advert-social-media-backlash-rcna248590)**
+**[Trump defies GOP critics by signing controversial order threatening states over AI laws](https://www.washingtonpost.com/technology/2025/12/11/trump-executive-order-ai-states/)**
 
-Titled “the most terrible time of the year,” the 45-second ad featured a series of mishaps befalling people at Christmas.
+The Washington Post • 8h ago
 
-NBC News • 21h ago
+---
+
+**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqfHSoHfeyrJMqFZfzMYpP__46FYnk3vYUe5rj-fWMQQ5qgO9SalRPO8&gaa_ts=693c0dd8&gaa_sig=TfX4wEBU9CPcbdbGOisZmRWUNzTXTpJErsUF2tTyhakQkDPu9A_KSpKY0YHDQu81OQdnKJ6i-qcgh_O7BoCdFA%3D%3D)**
+
+The Wall Street Journal • 15h ago
 
 ---
 
@@ -199,7 +197,7 @@ NBC News • 21h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 374 • 💬 191 • 22h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 394 • 💬 208 • 22h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -207,7 +205,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 357 • 💬 422 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 358 • 💬 422 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -223,7 +221,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 322 • 💬 2 • 21h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 322 • 💬 2 • 22h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -239,7 +237,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 166 • 💬 201 • 2d ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 166 • 💬 202 • 2d ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -247,7 +245,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 126 • 💬 28 • 2d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 127 • 💬 28 • 2d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -263,7 +261,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 110 • 💬 84 • 19h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 113 • 💬 84 • 20h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -285,7 +283,7 @@ Google has made some big shifts in the AI space! ☆SIGN UP FOR MY NEWSLETTER TO
 
 📺 Success With Sam
 
-👁️ 15K • 👍 742 • 💬 27 • ⏱️ 19:09 • 19h ago
+👁️ 15K • 👍 742 • 💬 27 • ⏱️ 19:09 • 20h ago
 
 ---
 
@@ -305,7 +303,7 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 📺 CNBC Television
 
-👁️ 22K • 👍 223 • 💬 70 • ⏱️ 3:04 • 17h ago
+👁️ 22K • 👍 223 • 💬 70 • ⏱️ 3:04 • 18h ago
 
 ---
 
@@ -335,7 +333,7 @@ In this video, we put GPT‑5.2 to the ultimate test against Gemini 3.0 and Opus
 
 📺 WorldofAI
 
-👁️ 8K • 👍 205 • 💬 17 • ⏱️ 14:56 • 10h ago
+👁️ 8K • 👍 205 • 💬 17 • ⏱️ 14:56 • 11h ago
 
 ---
 
@@ -345,7 +343,7 @@ The video depicts a fictional scene inside a military warehouse, where Elon Musk
 
 📺 Zumi0101
 
-👁️ 11K • 👍 106 • 💬 2 • ⏱️ 0:17 • 11h ago
+👁️ 11K • 👍 106 • 💬 2 • ⏱️ 0:17 • 12h ago
 
 ---
 
@@ -391,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 752 • 3d ago
+⬇️ 105,962 • ❤️ 755 • 3d ago
 
 ---
 
@@ -403,7 +401,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,571 • 3d ago
+⬇️ 257,048 • ❤️ 2,574 • 3d ago
 
 ---
 
@@ -415,7 +413,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 33,217 • ❤️ 364 • 2d ago
+⬇️ 33,217 • ❤️ 366 • 2d ago
 
 ---
 
@@ -427,7 +425,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 277 • 2h ago
+⬇️ 10,352 • ❤️ 279 • 2h ago
 
 ---
 
@@ -439,7 +437,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,519 • ❤️ 274 • 3d ago
+⬇️ 2,519 • ❤️ 277 • 3d ago
 
 ---
 
@@ -451,7 +449,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 23,012 • ❤️ 235 • 3d ago
+⬇️ 23,012 • ❤️ 237 • 3d ago
 
 ---
 
@@ -463,7 +461,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 446,475 • ❤️ 221 • 3d ago
+⬇️ 446,475 • ❤️ 222 • 3d ago
 
 ---
 
@@ -475,7 +473,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 662 • ❤️ 188 • 3h ago
+⬇️ 662 • ❤️ 188 • 4h ago
 
 ---
 
@@ -507,20 +505,6 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 188 • 💬 3 • ⭐ 6,551 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -532,6 +516,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 24 • 💬 2 • ⭐ 6,561 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 188 • 💬 3 • ⭐ 6,599 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -555,7 +553,7 @@ Wan-Move enhances motion control in video generative models by integrating motio
 
 Visionary is an open web-native platform enabling real-time rendering of 3D Gaussian Splatting and meshes with efficient GPU-based inference, supporting dynamic content and generative models.
 
-▲ 71 • 💬 4 • ⭐ 267 • 3d ago
+▲ 71 • 💬 4 • ⭐ 281 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
 
@@ -649,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 11.3k • 🔱 1.8k • 6h ago
+⭐ 11.5k • 🔱 1.9k • 7h ago
 
 ---
 
@@ -659,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.2k • 🔱 243 • 5h ago
+⭐ 2.2k • 🔱 244 • 5h ago
 
 ---
 
@@ -699,7 +697,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.0k • 🔱 297 • 6d ago
+⭐ 1.1k • 🔱 297 • 6d ago
 
 ---
 
@@ -719,7 +717,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 876 • 🔱 22 • 4d ago
+⭐ 877 • 🔱 22 • 4d ago
 
 ---
 
@@ -729,7 +727,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 858 • 🔱 48 • 3d ago
+⭐ 858 • 🔱 49 • 3d ago
 
 ---
 
@@ -739,7 +737,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 636 • 🔱 93 • 1h ago
+⭐ 638 • 🔱 93 • 2h ago
 
 ---
 
