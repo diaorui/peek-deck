@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T22:52:28.997782+00:00'
+updated: '2025-12-12T23:14:35.756824+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 22:52 UTC  
+**Last Updated:** December 12, 2025 at 23:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 7h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
 
-🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 9h ago
+🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 10h ago
 
 ---
 
@@ -81,13 +81,13 @@ Everyone is reading the December 11 Executive Order as a "deregulation holiday."
 
 AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 36m ago
+🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 58m ago
 
 ---
 
 **[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
 
-🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 41m ago
+🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 1h ago
 
 ---
 
@@ -95,7 +95,7 @@ AI agents are taking over some routine creative tasks, but executives say the sh
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 21h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 22h ago
 
 ---
 
@@ -103,7 +103,7 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 All the IT Service companies braying "AI first", but the moment, it comes to SOW, they are not using AI to validate feasibility, check estimates, violation of labor laws, etc. Once SOW is signed, IT Service companies hiring few contractors on hire and fire basis to deliver the project, they are forcing those contractors work 15x7 citing SOW contract(no delivery, no payment), when the project is failing, all blames are put on those contractors. The cost of project failure, legal costs could have been completely avoided by simply validating SOW and amending the SOW. Are these IT Service companies hypocrites to bray "AI First" but not ready to validate SOW with AI?
 
-12m ago
+34m ago
 
 ---
 
@@ -127,13 +127,13 @@ CNN • 22h ago
 
 **[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
 
 ---
 
 **[AI reshapes the venture unicorn landscape](https://www.axios.com/pro/all-deals/2025/12/12/ai-boosts-us-vc-dominance)**
 
-Axios • 43m ago
+Axios • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bloomberg.com • 1h ago
 
 **[Fresh Concerns About AI Spending Are Rattling Wall Street](https://www.wsj.com/finance/stocks/ai-fed-interest-rate-stock-market-749e18e2?gaa_at=eafs&gaa_n=AWEtsqeWXTJte-W32Hsql3dJFwFibqF_UFf1DbZlG3W9tZE3E-SAmryrA0Hr&gaa_ts=693ca018&gaa_sig=oqxotBN6fbqKSB-AL4SYR153X7EM1uOuenAzlHOwHd3EQNh9JiXOUighASiRhLvBV9u0C_zdWlwFzPRQ1TtY2g%3D%3D)**
 
-The Wall Street Journal • 25m ago
+The Wall Street Journal • 47m ago
 
 ---
 
@@ -159,7 +159,7 @@ The New Yorker • 11h ago
 
 **[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
 
-Politico • 11h ago
+Politico • 12h ago
 
 ---
 
@@ -167,7 +167,7 @@ Politico • 11h ago
 
 The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -279,7 +279,7 @@ How to Create AI Influencer Ads with Nano Banana PRO that ACTUALLY look REAL Try
 
 📺 Dan Kieft
 
-👁️ 12K • 💬 8 • ⏱️ 13:22 • 8h ago
+👁️ 12K • 💬 8 • ⏱️ 13:22 • 9h ago
 
 ---
 
@@ -309,7 +309,7 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 34K • 👍 2K • 💬 250 • ⏱️ 14:58 • 22h ago
+👁️ 34K • 👍 2K • 💬 250 • ⏱️ 14:58 • 23h ago
 
 ---
 
@@ -469,7 +469,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 662 • ❤️ 191 • 14h ago
+⬇️ 662 • ❤️ 191 • 15h ago
 
 ---
 
@@ -515,20 +515,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 24 • 💬 2 • ⭐ 6,605 • 15d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -537,9 +523,23 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 189 • 💬 4 • ⭐ 6,646 • 15d ago
+▲ 190 • 💬 4 • ⭐ 6,646 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 24 • 💬 2 • ⭐ 6,653 • 15d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -551,7 +551,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 116 • 💬 3 • ⭐ 299 • 3d ago
+▲ 116 • 💬 3 • ⭐ 305 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -621,17 +621,15 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 ---
 
-**[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://huggingface.co/papers/2512.02589)**
+**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
 
-*Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)*
+*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
 
-🏢 National University of Singapore
+MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
 
-PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
+▲ 35 • 💬 4 • ⭐ 50,322 • 14mo ago
 
-▲ 58 • 💬 2 • ⭐ 1,052 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
+[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
 ---
 
@@ -645,7 +643,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 12.2k • 🔱 1.9k • 5h ago
+⭐ 12.3k • 🔱 1.9k • 6h ago
 
 ---
 
@@ -675,7 +673,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.1k • 🔱 301 • 6d ago
+⭐ 1.1k • 🔱 302 • 6d ago
 
 ---
 
@@ -735,7 +733,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 654 • 🔱 95 • 12h ago
+⭐ 654 • 🔱 95 • 13h ago
 
 ---
 

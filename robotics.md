@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T22:52:29.015655+00:00'
+updated: '2025-12-12T23:14:35.774190+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 22:52 UTC  
+**Last Updated:** December 12, 2025 at 23:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,7 +46,7 @@ Robotics research and industry news
 
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -62,7 +62,7 @@ Hi guys, I want to know what you guys think where we can use RL to actually fill
 
 Hello, I am currently building a small biped. Ideally, I would like some flat BLDC motors; however, in America, it's nearly impossible to find affordable ones. Doesn't need to be anything crazy, but everything I find is 150-300 bucks, and given that I'll need ~6-8 of them, that's not affordable. With that, I was wondering if anyone had any sites/companies they prefer to go to for motors? If not, I am highly considering making my own. A $20 crucible to melt some Home Depot metal and make my own stators sounds much more appealing than spending hundreds of bucks. I am a student that can go to the makerspace at my school, so I do have options to manufacture from scratch, just not sure if its worth the time. Anyones take on this?
 
-11m ago
+33m ago
 
 ---
 
@@ -78,7 +78,7 @@ ROS News for the Week of December 8th, 2025    🎄 All we want for Christmas is
 
 The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
 
-12h ago
+13h ago
 
 ---
 
@@ -94,7 +94,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 Hi everyone, Am working on a monocular VIO frontend, and I shall really appreciate feedback on whether our current triangulation approach is geometrically sound compared to more common SLAM pipelines (e.g., ORB-SLAM, SVO, DSO, VINS-Mono). Current approach used in our system We maintain a keyframe (KF), and for each incoming frame we do the following: 1. Track features from KF → Prev → Current. 2. For features that are visible in all three (KF, Prev, Current): We triangulate their depth using only KF and Prev. This triangulated depth is used as a measurement for a depth filter (inverse-depth / Gaussian filter). 3. After updating depth, we express the feature in the KF coordinate frame. 4. We then run PnP between: A. 3D points in the KF frame, and B. 2D observations in the Current frame. This gives us the pose of the Current frame wrt keyframe They use wheel odom and GTSAM backend to add every odom factor between keyframe and current frame and frontend frame factor between keyframe and current and then run optimization This means: triangulation is repeated every frame always between KF ↔ Prev, not KF ↔ Current depth filter is fed many measurements from almost the same two viewpoints, especially right after KF creation This seems to produce very sparse and scattered points. Questions 1. Is repeatedly triangulating between KF and the immediate previous frame (even when baseline/parallax is very small) considered a valid approach in monocular VO/VIO? Or is it fundamentally ill-conditioned, even if we use depth filters in this case? From what I understand, ORB-SLAM (monocular): Triangulates only between keyframes, not per-frame.. Which gives it a good parallex to triangulate the feature.. Should I use this?
 
-5h ago
+6h ago
 
 ---
 
@@ -170,7 +170,7 @@ Interesting Engineering • 2d ago
 
 About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T22:52:29.006355+00:00'
+updated: '2025-12-12T23:14:35.765010+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 22:52 UTC  
+**Last Updated:** December 12, 2025 at 23:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +0.9%  
-**30d:** -9.7%  
-**90d:** -21.9%  
-**1y:** -11.1%  
+**24h:** -1.2%  
+**7d:** +1.1%  
+**30d:** -9.6%  
+**90d:** -21.8%  
+**1y:** -10.9%  
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 C’mon Bitcoin, you can do it
 
-9h ago
+10h ago
 
 ---
 
 **[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ C’mon Bitcoin, you can do it
 
 **[💪](https://www.reddit.com/r/Bitcoin/comments/1pl4afq/_/)**
 
-59m ago
+1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bitcoin Magazine • 1d ago
 
 **[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://finance.yahoo.com/news/vanguard-exec-calls-bitcoin-digital-215932676.html)**
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ TheStreet • 2d ago
 
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 8h ago
+x.com • 9h ago
 
 ---
 
@@ -243,7 +243,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 16h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 17h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -287,7 +287,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 13h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 14h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -349,7 +349,7 @@ Stay informed with the latest insights on **bitcoin today**, focusing on effecti
 
 📺 Krown
 
-👁️ 5K • 👍 406 • 💬 145 • ⏱️ 1:29:53 • 4h ago
+👁️ 5K • 👍 406 • 💬 145 • ⏱️ 1:29:53 • 5h ago
 
 ---
 
@@ -369,7 +369,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 178 • ⏱️ 18:22 • 22h ago
+👁️ 27K • 👍 2K • 💬 178 • ⏱️ 18:22 • 23h ago
 
 ---
 
@@ -379,7 +379,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 130K • 👍 6K • 💬 423 • ⏱️ 21:05 • 1d ago
+👁️ 130K • 👍 6K • 💬 423 • ⏱️ 21:05 • 2d ago
 
 ---
 
