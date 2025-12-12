@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T08:57:10.906592+00:00'
+updated: '2025-12-12T09:31:56.569550+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 08:57 UTC  
+**Last Updated:** December 12, 2025 at 09:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,473.32
+### $92,345.04
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +2.0%  
-**7d:** +3.3%  
-**30d:** -7.6%  
-**90d:** -20.1%  
-**1y:** -8.9%  
+**7d:** +3.1%  
+**30d:** -7.8%  
+**90d:** -20.3%  
+**1y:** -9.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1841.39B
+**Market Cap:** $1842.09B
 Rank #1
 
-**Circulating Supply:** 19,961,037 BTC
+**Circulating Supply:** 19,961,046 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -26.9%
 
 **All-Time Low:** $67.81
-+135893.2%
++135794.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
 
-12h ago
+13h ago
 
 ---
 
@@ -107,7 +107,13 @@ Made a little edit on the pump it up song to include the current craziness going
 
 The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
 
-5h ago
+6h ago
+
+---
+
+**[Most of you guys will relate to this...](https://www.reddit.com/r/Bitcoin/comments/1pkmy47/most_of_you_guys_will_relate_to_this/)**
+
+56m ago
 
 ---
 
@@ -119,7 +125,7 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 **[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -129,17 +135,11 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 ---
 
-**[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
-
-21h ago
-
----
-
 **[Is today a good day to start investing in Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1pk7kak/is_today_a_good_day_to_start_investing_in_bitcoin/)**
 
 For context I never touched any crypto before. Is 100€ as starting too little? What would you put in?
 
-12h ago
+13h ago
 
 ---
 
@@ -147,33 +147,9 @@ For context I never touched any crypto before. Is 100€ as starting too little?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqcDPR7GwTnSuSiIIZvLmZM1-KDurAYN5KUPq9wAf9oHzvs0DKw-Xeto&gaa_ts=693be475&gaa_sig=fXWjOQ-iBqNy8e4vtMrRrElDxNQLcqHOd466eFC30NKcKiJGk1XFUsMkPQoeeUPg9r7YmkViNtYAjLWRMREJLQ%3D%3D)**
 
-Reuters • 20h ago
-
----
-
-**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
-
-Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Here's How Bitcoin (BTC) Could Trade Next](https://www.coindesk.com/markets/2025/12/12/boring-bitcoin-s-green-light-moment-incoming)**
-
-BTC continues to bore traders with its directionless price action. But some indicators are pointing to renewed bullishness.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin, Ether Steady as AI Fears Send Oracle Tumbling Down, Traders Next Wave of Rate Cuts](https://www.coindesk.com/markets/2025/12/12/bitcoin-ether-steady-as-ai-fears-send-oracle-tumbling-down-traders-next-wave-of-rate-cuts)**
-
-Traders appeared more focused on preserving trend structure than chasing upside, with flows concentrated in large-cap assets.
-
-CoinDesk • 2h ago
+Barron's • 1d ago
 
 ---
 
@@ -185,11 +161,25 @@ BBC • 1d ago
 
 ---
 
+**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
+
+Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
+
+Reuters • 20h ago
+
+---
+
 **[Thinking About Giving Bitcoin as a Christmas Gift? Read This First](https://www.investopedia.com/thinking-about-giving-bitcoin-as-a-christmas-gift-read-this-first-11854300)**
 
 Bitcoin can be a fun and meaningful Christmas gift, but only if the person you’re giving it to is the right fit. Explore the many ways to gift Bitcoin, and then decide if it's the right present this year.
 
-Investopedia • 15h ago
+Investopedia • 16h ago
 
 ---
 
@@ -213,9 +203,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqe_CV51ro5Wq2u4FYYFmLNlBEleP0ATpIu3jAucn0X2KayzzJnINsGK&gaa_ts=693bd6a5&gaa_sig=aFWKqBYbkl5bCJf81n5msz36SljjpcVOpk6ofHErQbBYmTRGinUvvnfGqeOtkNTGdm-Q6C_xtiV_IGU1Ug22lw%3D%3D)**
+**[Will Bitcoin Crash in 2026?](https://www.fool.com/investing/2025/12/11/will-bitcoin-crash-in-2026/)**
 
-Barron's • 1d ago
+You may not like the answer.
+
+The Motley Fool • 22h ago
+
+---
+
+**[Night owl bitcoin traders: Soon there'll be an ETF just for you](https://www.cnbc.com/2025/12/10/night-owl-bitcoin-traders-soon-therell-be-an-etf-just-for-you.html)**
+
+If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
+
+CNBC • 1d ago
 
 ---
 
@@ -283,6 +283,22 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ---
 
+**[Ditching PostgreSQL, 10M+ Users Web3 Analytics](https://news.ycombinator.com/item?id=46242193)**
+
+Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
+
+⬆️ 1 • 💬 0 • 36m ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+
+---
+
+**[ChatGPT Is Helping Federal Officers Misrepresent Confrontations With Protesters](https://news.ycombinator.com/item?id=46237740)**
+
+We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
+
+⬆️ 7 • 💬 0 • 11h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -293,7 +309,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 756 • 💬 12 • ⏱️ 48:24 • 10h ago
+👁️ 14K • 👍 756 • 💬 12 • ⏱️ 48:24 • 11h ago
 
 ---
 
@@ -303,7 +319,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 140 • 💬 42 • ⏱️ 22:05 • 9h ago
+👁️ 3K • 👍 140 • 💬 42 • ⏱️ 22:05 • 10h ago
 
 ---
 
@@ -323,7 +339,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 96 • ⏱️ 18:22 • 8h ago
+👁️ 18K • 👍 2K • 💬 96 • ⏱️ 18:22 • 9h ago
 
 ---
 
@@ -333,7 +349,7 @@ Bear or Bull? Bearish short term, but buying every day! The links below may incl
 
 📺 Digital Asset News
 
-👁️ 10K • 👍 696 • 💬 48 • ⏱️ 44:51 • 13h ago
+👁️ 10K • 👍 696 • 💬 48 • ⏱️ 44:51 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T08:57:10.912671+00:00'
+updated: '2025-12-12T09:31:56.575485+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 08:57 UTC  
+**Last Updated:** December 12, 2025 at 09:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.3%  
-**7d:** +6.8%  
-**30d:** +0.1%  
-**90d:** -29.6%  
+**7d:** +6.7%  
+**30d:** +0.0%  
+**90d:** -29.7%  
 **1y:** -17.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $390.94B
+**Market Cap:** $391.77B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.6%
+-34.5%
 
 **All-Time Low:** $0.43
-+747488.2%
++747728.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, total crypto newbie here. I need some guidance and expert advice on the best way to approach my financial needs. Context: I live in a developing country, and I am in desperate need of financial freedom. I started looking into stablecoins, especially USDT. I am not really looking into trading. My use case: Relative or friend in europe, they buy USDT on Binance or any other exchange platform, send that USDT to my Trust wallet. I store it, and occasionally send some pocket money to Redotpay to spend using their virtual visa card. That is pretty much about it. Storing it and spending with Redotpay. Not super interested in p2p market. So i dont think i will need to sell my USDT that often, almost never. So the market standard for p2p transactions isnt really a big concern. Might be interested in trading one day, but not for now. This is just for my personal finances and spending. The question I need help with: Should I use Ethereum or Tron. My findings with the research I did: Tron has cheaper gas fee, for when I transfer to Redotpay. But apparently Eth have dropped their transfer rates for USDT, and a lot of people claim it is around the same price now. Because the numbers I found are a little worrying: around 1 USD for Tron and between 3-8 USD for Eth. If you have any information about the rates that would be great. I am more inclined towards Eth to be fair. I just like the idea of a trully decentralized chain. And it has been king over a decade for good reasons. Also it is more secure. With the new EIP-7702 on Eth, you can now pay gas fee for transfers with USDT, which is very interesting, as I am not very comfortable with juggling two currencies. Since per my understanding, I need to always have TRX reserve in my Trust wallet to be able to send to Redotpay. Are the fees really that different to justify skipping on EIP-7702 ? Some people mentioned using an L2 on Eth. I honestly have no idea what that is. If i have got any concepts misunderstood, I would appreciate any clarifications and guidance. I still got a lot to learn about this field.
 
-16h ago
+17h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 14h ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdlFUnRt_4H6AIUmACWEictk3bLFZyqJA3hNm61lsvTw-z9jTt2P7G4&gaa_ts=693bd6a6&gaa_sig=hbF2j60RpBKsh94BIYc4JNH-re9DXMto1bLYwks5tKLbBrocnkklm-Swgu5uDWGFTzARrDItGLBIf9jPfyIvmQ%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcbp80mGdU7GozL7AuCf1i1r0Z67OpYP2Zl2RlwStRYgLXvRrgDEn-Q&gaa_ts=693be476&gaa_sig=_x6-47OdRaRugVSnfCDDaB-XudAM9JB6Rrj7L1Nn9cmtqevjFiro4qObwhg2zJ5OT3o-6i6Ry4O3hf7In11mYA%3D%3D)**
 
 Barron's • 21h ago
 
@@ -196,11 +196,11 @@ marketpulse.com • 1d ago
 
 ---
 
-**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
+**[Solana Will ‘Flip’ Ethereum, Predicts Skybridge Capital’s Scaramucci](https://www.tradingview.com/news/newsbtc:1dae68157094b:0-solana-will-flip-ethereum-predicts-skybridge-capital-s-scaramucci/)**
 
-The trading platform dives further into digital assets both domestically and globally.
+Anthony Scaramucci showed up to Solana Breakpoint in Abu Dhabi wearing a tie — a small act of rebellion in a sea of hoodies — and then proceeded to make a much bigger one on stage: Solana is going to “flip” Ethereum.Scaramucci’s Solana PredictionNot in the Twitter-war, zero-sum, “ETH is dead” kind…
 
-Fortune • 3d ago
+TradingView • 1h ago
 
 ---
 
@@ -212,19 +212,19 @@ Nasdaq • 2d ago
 
 ---
 
-**[Ethereum Should Be Valued Like Amazon, Says Dragonfly’s Qureshi](https://www.tradingview.com/news/newsbtc:6aa89382f094b:0-ethereum-should-be-valued-like-amazon-says-dragonfly-s-qureshi/)**
-
-Dragonfly managing partner Haseeb Qureshi has sharpened his defense of Ethereum’s valuation, arguing that critics are using the wrong financial framework and that ETH should be analyzed more like an early-stage Amazon than a mature “value” stock.Speaking on the Milk Road Show on 9 December 2025, Qu…
-
-TradingView • 1d ago
-
----
-
 **[Better Buy: XRP vs. Ethereum](https://www.fool.com/investing/2025/12/09/better-buy-xrp-vs-ethereum/)**
 
 They're both among the five largest cryptocurrencies, but one is much further ahead in its journey.
 
 The Motley Fool • 2d ago
+
+---
+
+**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
+
+BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
+
+CryptoSlate • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 📺 Ivan on Tech
 
-👁️ 24K • 👍 2K • 💬 121 • ⏱️ 10:42 • 17h ago
+👁️ 24K • 👍 2K • 💬 121 • ⏱️ 10:42 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 669 • 💬 41 • ⏱️ 11:29 • 20h ago
+👁️ 16K • 👍 669 • 💬 41 • ⏱️ 11:29 • 21h ago
 
 ---
 
@@ -258,7 +258,7 @@ Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author
 
 📺 CoinDesk
 
-👁️ 2K • 👍 58 • 💬 16 • ⏱️ 13:45 • 13h ago
+👁️ 2K • 👍 58 • 💬 16 • ⏱️ 13:45 • 14h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 198 • 💬 7 • ⏱️ 6:54 • 18h ago
+👁️ 3K • 👍 198 • 💬 7 • ⏱️ 6:54 • 19h ago
 
 ---
 
@@ -308,7 +308,7 @@ CRYPTO MARKET UPDATE Join the Premium Signal Group for trade setups, mentorship 
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 135 • 💬 14 • ⏱️ 9:38 • 17h ago
+👁️ 2K • 👍 135 • 💬 14 • ⏱️ 9:38 • 18h ago
 
 ---
 
