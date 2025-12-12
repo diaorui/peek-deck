@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T08:32:59.298655+00:00'
+updated: '2025-12-12T08:57:10.915959+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 08:32 UTC  
+**Last Updated:** December 12, 2025 at 08:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-21h ago
+22h ago
 
 ---
 
@@ -82,7 +82,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 Hi guys, I'm interested to know what you guys think. Opinionate away! I've been in the robotics industry for a few years now. I was speaking to my colleague whos a really good software engineer and he said he has no experience in hardware and is lowsy at connecting and building stuff...which surprised me alot. But then it got me thinking about products for those types of engineers... Do you think there is a market for a pre-built robotics platforms as a toy/collectible? I'm not talking YAHBOOM dev kits, im talking pretty well detailed and finished robot/toy that gives you full access to the inside to develop ontop of. i think the closest ive seen is the unitree go2 but you cant really jailbreak or dev ontop of that unless you get the $10K 'edu' version. I'd imagine there'd be alot of engineers out there who love the idea of having a robot for the home/office but cbf to build themselves...especially if you can just remote in and build software for it and deploy it from your couch. Testing chat bots w/ TTS and vice verse would be way more fun if you were talking to something reactive, no? I kinda wanna experiment with speech-to-action. so maybe i'll build something and show you guys in the future... To give you the synopsis, i designed this robot named SPOOK that im going to build when the parts arrive. My prototype is a hacked roomba. I made it a ghost to symbolise how the world is a little bit spooked by AI and Robotics (particularly the humanoids in your house idea). I also made it a ghost because my wife and i are talking about having kids and i thought this was kinda cute. When im done, you should be able to talk to it and do all kinds of stuff (thinking more an animate object, electronic pet robot with a personality) kind of thing. It will have all the functionality youd expect from something decent (return to charger, object detection, obstacle avoidance etc.). and im thinking of trying to build it for under $2500. In the meanwhile, what does reddit think? My colleague thinks its a cool idea. another friend told me he wanted to learn robotics and it would be cool to build this from an educational angle also....keen to know your thoughts!
 
-17m ago
+41m ago
 
 ---
 
@@ -98,7 +98,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on these hands - anyone here purchased one or is thinking of purchasing one? I ask because I've been thinking about buying
 
-4h ago
+5h ago
 
 ---
 
@@ -106,7 +106,7 @@ https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on
 
 Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into threejs - Run MuJoCo physics (decoupled from renderer) What do you think about this?!?
 
-16h ago
+17h ago
 
 ---
 
@@ -132,7 +132,7 @@ Business Wire • 1d ago
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
-Runway • 14h ago
+Runway • 15h ago
 
 ---
 
@@ -148,7 +148,7 @@ Deloitte • 2d ago
 
 Chinese home appliance company Midea has unveiled its six-armed super humanoid robot at the Greater Bay Area New Economy Forum in China.
 
-Interesting Engineering • 16h ago
+Interesting Engineering • 17h ago
 
 ---
 

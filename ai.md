@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T08:32:59.280901+00:00'
+updated: '2025-12-12T08:57:10.898058+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 08:32 UTC  
+**Last Updated:** December 12, 2025 at 08:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Four sources close to the situation claim OpenAI has become hesitant to publish 
 
 When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
 
-🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 13h ago
+🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 14h ago
 
 ---
 
@@ -105,7 +105,7 @@ Disney is hedging against the future. OpenAI is clearing a path for Sora. And to
 
 Trump signs order to block states from enforcing own AI rules.[1] Disney making $1 billion investment in OpenAI, will allow characters on Sora AI video generator.[2] Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2.[3] Amazon Prime Video pulls AI-powered recaps after Fallout flub.[4] Sources: [1] https://www.bbc.com/news/articles/crmddnge9yro [2] https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html [3] https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/ [4] https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Trump signs order to block states from enforcing own AI rules.[1] Disney making 
 
 Context: This ""parenting"" AI app called NurtureOS turned out to be satire made by an AI company. (I don't get the logic either, but that's not what I'm concerned about.) My gripe: Someone's going to try sell something like this for real sooner or later, and I can’t stop thinking about the long-term effects it could have on people and society as a whole. Where are we heading with AI in our homes? And especially when kids are involved? The idea behind the app (you can see the features on the site) implied a future where parents could offload actual emotional labour completely. Suppose for an instant that an AI can sooth tantrums, resolve petty fights, teach social skills, and even be tweaked to mold your child's behaviour in specific ways. First of all, is it unethical to use AI to condition your kids? We do it anyway when we teach them certain things are right or wrong, or launch them into specific social constructs. What makes it different when AI's the one doing it? Secondly, there's the emotional intelligence part. Kids learn empathy, boundaries, and emotional resilience through their interactions with other humans. If an AI took deciding how to handle a fight between siblings or how to discipline a child, what happens to the child’s understanding of relationships? Would they start responding to other humans with the expectation that some third party (electronic or otherwise) will always step in to facilitate or mediate? Would they have less room to make mistakes, experiment socially, or negotiate boundaries? Would they even have the skillset to do it with? Thirdly, there’s the impact on parents. If you rely on an app to make the “right” choices for your kid, does that slowly chip away at your confidence? Do you start assuming the AI knows better than your own judgement? Parenting is already full of anxiety. Imagine adding a third party that's constantly between you and your spouse telling you their concept of “ideal behavior”. Just you and you and your friend SteveAI. Finally, the privacy angle is huge. A real version of this app would basically normalise 24/7 emotional surveillance in the home. It would be recording behaviour, conversations, moods, and interactions, and feeding it all to company servers somewhere that you never get to see. They'd have your data forever. Just think about all the crap Meta got up to with the data we fecklessly gave it in our teenage Facebook days. This would be SO much worse than that. This app may have been fake, but the next one may not be, and it exposed a real cultural pressure point. Right now, we keep inviting AI deeper into our lives for convenience. At what point does that start reshaping childhood, parenthood, and just society as a whole in ways we don’t fully understand? Is delegating emotional or developmental tasks to AI inherently dangerous? Or is there a world where it can support parents without replacing them and putting us all at risk?
 
-14h ago
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 **[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -131,13 +131,13 @@ The New York Times • 3h ago
 
 The executive order is the latest in a series of attempts by the Trump administration to hold back state-level AI rules. But many Republicans are also uncomfortable with the effort.
 
-NPR • 7h ago
+NPR • 8h ago
 
 ---
 
 **[Trump threatens funding for states over AI regulations](https://www.reuters.com/world/trump-says-he-will-sign-order-curbing-state-ai-laws-2025-12-11/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ cnbc.com • 18h ago
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Time Magazine • 19h ago
+Time Magazine • 20h ago
 
 ---
 
@@ -225,7 +225,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 318 • 💬 164 • 18h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 318 • 💬 164 • 19h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -337,7 +337,7 @@ Check out Nebius today: ...
 
 📺 The Cutting Edge School
 
-👁️ 12K • 👍 865 • 💬 84 • ⏱️ 13:41 • 19h ago
+👁️ 12K • 👍 865 • 💬 84 • ⏱️ 13:41 • 20h ago
 
 ---
 
@@ -489,7 +489,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 583 • ❤️ 184 • 29m ago
+⬇️ 583 • ❤️ 184 • 53m ago
 
 ---
 
@@ -501,7 +501,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 425 • ❤️ 163 • 47m ago
+⬇️ 425 • ❤️ 163 • 1h ago
 
 ---
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.2k • 🔱 240 • 1h ago
+⭐ 2.2k • 🔱 240 • 2h ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 1h ago
+⭐ 1.1k • 🔱 134 • 2h ago
 
 ---
 

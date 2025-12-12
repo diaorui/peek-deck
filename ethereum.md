@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T08:32:59.295381+00:00'
+updated: '2025-12-12T08:57:10.912671+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 08:32 UTC  
+**Last Updated:** December 12, 2025 at 08:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +6.7%  
-**30d:** -0.0%  
-**90d:** -29.7%  
+**24h:** +1.3%  
+**7d:** +6.8%  
+**30d:** +0.1%  
+**90d:** -29.6%  
 **1y:** -17.1%  
 
 ---
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 23h ago
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -170,13 +170,13 @@ CoinDesk • 3h ago
 
 Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
 **[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdlFUnRt_4H6AIUmACWEictk3bLFZyqJA3hNm61lsvTw-z9jTt2P7G4&gaa_ts=693bd6a6&gaa_sig=hbF2j60RpBKsh94BIYc4JNH-re9DXMto1bLYwks5tKLbBrocnkklm-Swgu5uDWGFTzARrDItGLBIf9jPfyIvmQ%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 322 • 💬 79 • ⏱️ 18:15 • 9h ago
+👁️ 7K • 👍 322 • 💬 79 • ⏱️ 18:15 • 10h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 45 • 💬 11 • ⏱️ 4:36 • 22h ago
+👁️ 1K • 👍 45 • 💬 11 • ⏱️ 4:36 • 23h ago
 
 ---
 
@@ -328,7 +328,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 638 • 💬 99 • ⏱️ 15:03 • 2h ago
+👁️ 2K • 👍 638 • 💬 99 • ⏱️ 15:03 • 3h ago
 
 ---
 

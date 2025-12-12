@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T08:32:59.289332+00:00'
+updated: '2025-12-12T08:57:10.906592+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 08:32 UTC  
+**Last Updated:** December 12, 2025 at 08:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +3.4%  
-**30d:** -7.5%  
-**90d:** -20.0%  
+**24h:** +2.0%  
+**7d:** +3.3%  
+**30d:** -7.6%  
+**90d:** -20.1%  
 **1y:** -8.9%  
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -125,13 +125,13 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-18h ago
+19h ago
 
 ---
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -149,7 +149,7 @@ For context I never touched any crypto before. Is 100€ as starting too little?
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 19h ago
+Reuters • 20h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 1h ago
 
 Traders appeared more focused on preserving trend structure than chasing upside, with flows concentrated in large-cap assets.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -195,13 +195,13 @@ Investopedia • 15h ago
 
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
 **[Strategy: Index Exclusion Is Anti-Trump, Anti-Bitcoin](https://www.investors.com/news/strategy-mstr-stock-msci-index-exclusion-anti-trump-bitcoin-price-impact/)**
 
-Investor's Business Daily • 17h ago
+Investor's Business Daily • 18h ago
 
 ---
 
@@ -243,7 +243,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 2h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 3h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -313,7 +313,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 10K • 👍 107 • 💬 73 • ⏱️ 4:06 • 13h ago
+👁️ 10K • 👍 107 • 💬 73 • ⏱️ 4:06 • 14h ago
 
 ---
 
@@ -343,7 +343,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 13K • 👍 941 • 💬 276 • ⏱️ 14:43 • 12h ago
+👁️ 13K • 👍 941 • 💬 276 • ⏱️ 14:43 • 13h ago
 
 ---
 
@@ -373,7 +373,7 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 133 • ⏱️ 15:31 • 18h ago
+👁️ 21K • 👍 1K • 💬 133 • ⏱️ 15:31 • 19h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin #Crypto #Finance Guests Markus Thielen - https://youtube.com/live/vYI1CO
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 824 • 💬 291 • ⏱️ 35:32 • 17h ago
+👁️ 19K • 👍 824 • 💬 291 • ⏱️ 35:32 • 18h ago
 
 ---
 
