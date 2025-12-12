@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T20:53:20.689446+00:00'
+updated: '2025-12-12T21:15:24.513112+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 20:53 UTC  
+**Last Updated:** December 12, 2025 at 21:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,7 +46,7 @@ Robotics research and industry news
 
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -62,7 +62,7 @@ Hi guys, I want to know what you guys think where we can use RL to actually fill
 
 ROS News for the Week of December 8th, 2025    🎄 All we want for Christmas is for you to become a Build Farm Backer! The ROS Build Farm is one of the largest public Jenkins instances in the world, and it is also one of our largest expenses. If you’ve ever saved yourself a few hours of compile time by downloading one of our pre-compiled ROS binaries, please consider pitching in to support our server costs. The money raised by this campaign goes directly to the OSRF, a 501(c)(3) non...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 9m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 31m ago
 
 ---
 
@@ -86,7 +86,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 Hi everyone, Am working on a monocular VIO frontend, and I shall really appreciate feedback on whether our current triangulation approach is geometrically sound compared to more common SLAM pipelines (e.g., ORB-SLAM, SVO, DSO, VINS-Mono). Current approach used in our system We maintain a keyframe (KF), and for each incoming frame we do the following: 1. Track features from KF → Prev → Current. 2. For features that are visible in all three (KF, Prev, Current): We triangulate their depth using only KF and Prev. This triangulated depth is used as a measurement for a depth filter (inverse-depth / Gaussian filter). 3. After updating depth, we express the feature in the KF coordinate frame. 4. We then run PnP between: A. 3D points in the KF frame, and B. 2D observations in the Current frame. This gives us the pose of the Current frame wrt keyframe They use wheel odom and GTSAM backend to add every odom factor between keyframe and current frame and frontend frame factor between keyframe and current and then run optimization This means: triangulation is repeated every frame always between KF ↔ Prev, not KF ↔ Current depth filter is fed many measurements from almost the same two viewpoints, especially right after KF creation This seems to produce very sparse and scattered points. Questions 1. Is repeatedly triangulating between KF and the immediate previous frame (even when baseline/parallax is very small) considered a valid approach in monocular VO/VIO? Or is it fundamentally ill-conditioned, even if we use depth filters in this case? From what I understand, ORB-SLAM (monocular): Triangulates only between keyframes, not per-frame.. Which gives it a good parallex to triangulate the feature.. Should I use this?
 
-3h ago
+4h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 2d ago
 
 The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
 
-AP News • 2h ago
+AP News • 3h ago
 
 ---
 
@@ -144,7 +144,7 @@ Engineering News-Record • 1h ago
 
 **[Bay Area Robotics Association Launches to Connect Capital and Industry Between Silicon Valley and the World](https://www.businesswire.com/news/home/20251212588764/en/Bay-Area-Robotics-Association-Launches-to-Connect-Capital-and-Industry-Between-Silicon-Valley-and-the-World)**
 
-Business Wire • 3h ago
+Business Wire • 4h ago
 
 ---
 

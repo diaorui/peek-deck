@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T20:53:20.680300+00:00'
+updated: '2025-12-12T21:15:24.503749+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 20:53 UTC  
+**Last Updated:** December 12, 2025 at 21:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,556.63
+### $90,250.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** +0.9%  
-**30d:** -9.7%  
-**90d:** -21.9%  
-**1y:** -11.0%  
+**24h:** -2.1%  
+**7d:** +1.2%  
+**30d:** -9.5%  
+**90d:** -21.7%  
+**1y:** -10.8%  
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 C’mon Bitcoin, you can do it
 
-7h ago
+8h ago
 
 ---
 
 **[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -171,7 +171,7 @@ TheStreet • 2d ago
 
 Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -185,7 +185,7 @@ Reuters • 1d ago
 
 Oracle's earnings miss and $80B market cap wipeout show how tightly Bitcoin now tracks AI-driven tech risk, but the policy response to a credit crunch could recreate the liquidity conditions.
 
-CryptoSlate • 10h ago
+CryptoSlate • 11h ago
 
 ---
 
@@ -201,13 +201,13 @@ Yahoo Finance • 1h ago
 
 Bitcoin continues to drift toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 6h ago
+x.com • 7h ago
 
 ---
 
@@ -287,7 +287,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 11h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 12h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -295,7 +295,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 7 • 💬 0 • 22h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 7 • 💬 0 • 23h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -319,7 +319,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 1K • 💬 12 • ⏱️ 48:24 • 22h ago
+👁️ 21K • 👍 1K • 💬 12 • ⏱️ 48:24 • 23h ago
 
 ---
 
@@ -349,7 +349,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 170 • ⏱️ 18:22 • 20h ago
+👁️ 26K • 👍 2K • 💬 170 • ⏱️ 18:22 • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T20:53:20.672000+00:00'
+updated: '2025-12-12T21:15:24.495388+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 20:53 UTC  
+**Last Updated:** December 12, 2025 at 21:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 5h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
 
-🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 7h ago
+🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ Everyone is reading the December 11 Executive Order as a "deregulation holiday."
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 19h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 20h ago
 
 ---
 
@@ -95,7 +95,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 20m ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 42m ago
 
 ---
 
@@ -129,7 +129,7 @@ CNN • 20h ago
 
 **[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -161,13 +161,13 @@ Fortune • 1h ago
 
 The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
 **[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
 
-Politico • 9h ago
+Politico • 10h ago
 
 ---
 
@@ -307,7 +307,7 @@ Consumers' increasing use of AI for shopping ideas and deals is forcing retailer
 
 📺 CNBC
 
-👁️ 3K • 👍 125 • 💬 19 • ⏱️ 5:31 • 3h ago
+👁️ 3K • 👍 125 • 💬 19 • ⏱️ 5:31 • 4h ago
 
 ---
 
@@ -317,7 +317,7 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 31K • 👍 1K • 💬 240 • ⏱️ 14:58 • 20h ago
+👁️ 31K • 👍 1K • 💬 240 • ⏱️ 14:58 • 21h ago
 
 ---
 
@@ -463,7 +463,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 446,475 • ❤️ 225 • 3d ago
+⬇️ 446,475 • ❤️ 225 • 4d ago
 
 ---
 
@@ -475,7 +475,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 662 • ❤️ 190 • 12h ago
+⬇️ 662 • ❤️ 190 • 13h ago
 
 ---
 
@@ -651,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 12.2k • 🔱 1.9k • 3h ago
+⭐ 12.2k • 🔱 1.9k • 4h ago
 
 ---
 
@@ -741,7 +741,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 653 • 🔱 95 • 10h ago
+⭐ 653 • 🔱 95 • 11h ago
 
 ---
 
