@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T04:49:45.974456+00:00'
+updated: '2025-12-12T05:11:49.373428+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 04:49 UTC  
+**Last Updated:** December 12, 2025 at 05:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,204.12
+### $92,459.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +3.2%  
-**30d:** -7.7%  
-**90d:** -20.1%  
-**1y:** -9.0%  
+**24h:** +2.7%  
+**7d:** +3.5%  
+**30d:** -7.4%  
+**90d:** -19.9%  
+**1y:** -8.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1842.11B
+**Market Cap:** $1845.37B
 Rank #1
 
-**Circulating Supply:** 19,960,962 BTC
+**Circulating Supply:** 19,960,984 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.8%
+-26.7%
 
 **All-Time Low:** $67.81
-+135912.4%
++136166.0%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
+
+3h ago
+
+---
+
 **[!Pump it up!](https://www.reddit.com/r/Bitcoin/comments/1pk7wcf/pump_it_up/)**
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
@@ -87,31 +93,25 @@ Made a little edit on the pump it up song to include the current craziness going
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
 
-8h ago
+9h ago
 
 ---
 
 **[I can’t wait to be rich guys](https://www.reddit.com/r/Bitcoin/comments/1pk4b3i/i_cant_wait_to_be_rich_guys/)**
 
-10h ago
-
----
-
-**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
-
-3h ago
+11h ago
 
 ---
 
 **[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -121,17 +121,17 @@ Made a little edit on the pump it up song to include the current craziness going
 
 ---
 
-**[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
-
-15h ago
-
----
-
 **[Solo miner from CKpool has mined a block](https://www.reddit.com/r/Bitcoin/comments/1pkh0d8/solo_miner_from_ckpool_has_mined_a_block/)**
 
 The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
 
-1h ago
+2h ago
+
+---
+
+**[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
+
+15h ago
 
 ---
 
@@ -151,34 +151,6 @@ Reuters • 16h ago
 
 ---
 
-**[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
-
-Investor's Business Daily • 10h ago
-
----
-
-**[Strategy: Index Exclusion Is Anti-Trump, Anti-Bitcoin](https://www.investors.com/news/strategy-mstr-stock-msci-index-exclusion-anti-trump-bitcoin-price-impact/)**
-
-Investor's Business Daily • 13h ago
-
----
-
-**[Crypto pros blast a potential move to exclude bitcoin holding companies from MSCI indexes](https://www.businessinsider.com/msci-crypto-index-bitcoin-treasury-strategy-btc-price-2025-12)**
-
-MSCI could exclude crypto treasury firms from its widely followed indexes. The move is drawing sharp criticism from industry players.
-
-Business Insider • 2d ago
-
----
-
-**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
-
-Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
-
-Yahoo Finance • 1d ago
-
----
-
 **[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
@@ -187,9 +159,31 @@ BBC • 1d ago
 
 ---
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqceKJ0SCrxssKyRVyF-cFA2vkIXwsMJsrT54cqTDzej42dwmWTIuhXR&gaa_ts=693b9b79&gaa_sig=cNyRLPKsnDhr7xI0AOA3WXEVTg0gnqw3m6Q54Rdi5JtXi0tJXAity5UP6q_cvU1M1cwt79xHBsSYbnNPzUNJkg%3D%3D)**
+**[Bitcoin's Persistent Long-Term Buyers Step In as Market Struggles For Liquidity](https://finance.yahoo.com/news/bitcoins-persistent-long-term-buyers-043916036.html)**
 
-Barron's • 1d ago
+Experts remain cautiously optimistic as macro hurdles clear amid Bitcoin whale accumulation and liquidity drying up ahead of the holidays.
+
+Yahoo Finance • 32m ago
+
+---
+
+**[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
+
+Investor's Business Daily • 10h ago
+
+---
+
+**[Strategy: Index Exclusion Is Anti-Trump, Anti-Bitcoin](https://www.investors.com/news/strategy-mstr-stock-msci-index-exclusion-anti-trump-bitcoin-price-impact/)**
+
+Investor's Business Daily • 14h ago
+
+---
+
+**['National Security' at Risk If MSCI Excludes Crypto Treasuries, Warns Bitcoin Giant Strategy](https://decrypt.co/351880/national-security-risk-msci-excludes-crypto-treasuries-warns-bitcoin-strategy)**
+
+Bitcoin treasury leader Strategy argued to MSCI that excluding a crypto-buying firms from its indices would hurt America’s national security.
+
+Decrypt • 1d ago
 
 ---
 
@@ -197,7 +191,13 @@ Barron's • 1d ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-cnbc.com • 1d ago
+CNBC • 1d ago
+
+---
+
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqevBu3cKNn05z5Hs-9pW7lRqCGJReDFGZmpshfvLO2lOlcyLAovMIzt&gaa_ts=693ba77d&gaa_sig=DqCilawx_gwLsp1PBjUdcUsTvfsoyTSaAwEFjsUOuaLL0MZE49frJLTD_5cxoJdBmHMA1tNC4tqLYY5xEMnjgA%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -277,19 +277,17 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ---
 
+**[Show HN: I got my site down to 237kb by ditching Google Analytics](https://news.ycombinator.com/item?id=46240998)**
+
+⬆️ 1 • 💬 0 • 16m ago • [deadstack.net](https://deadstack.net/)
+
+---
+
 **[ChatGPT Is Helping Federal Officers Misrepresent Confrontations With Protesters](https://news.ycombinator.com/item?id=46237740)**
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 6 • 💬 0 • 6h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
-
----
-
-**[Ethereum Fusaka upgrade set for early December rollout](https://news.ycombinator.com/item?id=46217004)**
-
-The Ethereum Fusaka upgrade adds PeerDAS and scalability gains, enhancing Ethereum’s performance and supporting faster growth across Layer 2 solutions.
-
-⬆️ 1 • 💬 0 • 1d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/learn/ethereum-fusaka-upgrade-set-for-early-december-rollout-will-we-finally-see-altseason/)
+⬆️ 6 • 💬 0 • 7h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -303,7 +301,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 9K • 👍 591 • 💬 12 • ⏱️ 48:24 • 6h ago
+👁️ 9K • 👍 591 • 💬 12 • ⏱️ 48:24 • 7h ago
 
 ---
 
@@ -313,7 +311,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 7K • 👍 93 • 💬 75 • ⏱️ 4:06 • 9h ago
+👁️ 7K • 👍 93 • 💬 75 • ⏱️ 4:06 • 10h ago
 
 ---
 
@@ -323,7 +321,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 1K • 💬 79 • ⏱️ 18:22 • 4h ago
+👁️ 10K • 👍 1K • 💬 79 • ⏱️ 18:22 • 5h ago
 
 ---
 
@@ -353,7 +351,7 @@ The richest universities on Earth aren't just studying Bitcoin — they're buyin
 
 📺 Swan Bitcoin
 
-👁️ 2K • 👍 118 • 💬 10 • ⏱️ 1:55 • 13h ago
+👁️ 2K • 👍 118 • 💬 10 • ⏱️ 1:55 • 14h ago
 
 ---
 
@@ -363,7 +361,7 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 158 • ⏱️ 15:31 • 14h ago
+👁️ 19K • 👍 1K • 💬 158 • ⏱️ 15:31 • 15h ago
 
 ---
 
@@ -383,7 +381,7 @@ Bear or Bull? Bearish short term, but buying every day! The links below may incl
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 631 • 💬 45 • ⏱️ 44:51 • 9h ago
+👁️ 9K • 👍 631 • 💬 45 • ⏱️ 44:51 • 10h ago
 
 ---
 

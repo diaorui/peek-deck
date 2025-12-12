@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T04:49:45.966124+00:00'
+updated: '2025-12-12T05:11:49.365074+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 04:49 UTC  
+**Last Updated:** December 12, 2025 at 05:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 3h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 4h ago
 
 ---
 
@@ -81,7 +81,7 @@ A new survey finds corporations and investors are overwhelmingly optimistic abou
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 12h ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 13h ago
 
 ---
 
@@ -97,7 +97,7 @@ When my company pivoted to AI in 2023, I lost my job. As I struggle to find a ne
 
 Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.
 
-🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 7h ago
+🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 8h ago
 
 ---
 
@@ -109,11 +109,11 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 ---
 
-**[Disney to invest $1bn into OpenAI](https://www.reddit.com/r/artificial/comments/1pjzqjh/disney_to_invest_1bn_into_openai/)**
+**[OpenAI and Disney just ended the ‘war’ between AI and Hollywood with their $1 billion Sora deal—and OpenAI made itself ‘indispensable,’ expert says | Fortune](https://www.reddit.com/r/artificial/comments/1pkac2w/openai_and_disney_just_ended_the_war_between_ai/)**
 
-The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal in which the artificial intelligence start-up will use Disney characters in its flagship products. As part of the three-year deal, announced on Thursday, Disney will make more than 200 Marvel, Pixar and Star Wars characters available within ChatGPT and Sora, OpenAI’s video-generation tool. The company will also take a $1bn stake in the $500bn start-up, as well as warrants to purchase additional equity at a later date. Read the full story for free with your email here: https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
+“Google has YouTube. OpenAI now has the Magic Kingdom,” copyright expert Matthew Sag said.
 
-🔗 [ft.com](https://www.ft.com/content/37917e22-823a-40e2-9b8a-78779ed16efe?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 13h ago
+🔗 [Fortune](https://fortune.com/2025/12/11/openai-disney-sora-deal-hollywood-war-ended-matthew-sag/) • 7h ago
 
 ---
 
@@ -121,9 +121,9 @@ The Walt Disney Company has agreed to invest $1bn into OpenAI as part of a deal 
 
 ## Google News: "ai"
 
-**[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -135,11 +135,27 @@ Time Magazine • 16h ago
 
 ---
 
-**[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
+**[The Post’s A.I. ‘Disaster’](https://www.status.news/p/washington-post-ai-podcast-errors)**
 
-California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
+Staffers at The Washington Post revolted en masse after the newspaper debuted an error-prone A.I. podcast feature, according to Slack messages obtained by Status.
 
-BBC • 1h ago
+status.news • 1h ago
+
+---
+
+**[How ASML’s CEO Plans to Keep Pace With Soaring AI Demand](https://www.bloomberg.com/news/features/2025-12-12/how-asml-plans-to-keep-pace-with-nvidia-s-growth-and-soaring-ai-demand)**
+
+The Dutch company’s machines are needed to make the AI chips that power ChatGPT and other models
+
+Bloomberg.com • 11m ago
+
+---
+
+**['Big Short' investor Michael Burry says there is 'no way to time or predict' when the AI bubble will burst](https://www.businessinsider.com/michael-burry-big-short-ai-bubbles-burst-cannot-be-predicted-2025-12)**
+
+In a lengthy blog post, Bury advised against attempting to short the current AI bubble and said the bubble may grow even larger.
+
+Business Insider • 5m ago
 
 ---
 
@@ -147,21 +163,13 @@ BBC • 1h ago
 
 JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
 
-cnbc.com • 14h ago
+CNBC • 15h ago
 
 ---
 
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqeR3VvJV2DjyPKwHrHwzLiZIyQW6Fc-7RLZgeOVckJvX7E0kw51yGw5&gaa_ts=693b9b78&gaa_sig=BHjJXXhNfL7zpR4tggWE08wENqZo-mIHEqD42T8WBr6YQCU3oCBWFoWYS4Cve1L_uPcVAhMza_zo2RI3n8hPEA%3D%3D)**
+**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqf6GGpWCb-MyVQLD9K9fdwPzVVPGXsC74YPRboaSVqc_nfcu0ra8ruM&gaa_ts=693ba77b&gaa_sig=wgb5q_D5bHGXLD2mBuVyI630Rq0ufv2B3MUGZbABHHolEEM4QYA4EFA398pJ26HABx_jGf--Z_esyiA_aGc5DQ%3D%3D)**
 
 The Wall Street Journal • 7h ago
-
----
-
-**[Not lovin' it: McDonald's pulls AI-generated Christmas ad after social media backlash](https://www.nbcnews.com/world/europe/mcdonalds-ai-generated-christmas-advert-social-media-backlash-rcna248590)**
-
-Titled “the most terrible time of the year,” the 45-second ad featured a series of mishaps befalling people at Christmas.
-
-NBC News • 14h ago
 
 ---
 
@@ -173,25 +181,19 @@ NPR • 4h ago
 
 ---
 
-**[Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/)**
+**[Not lovin' it: McDonald's pulls AI-generated Christmas ad after social media backlash](https://www.nbcnews.com/world/europe/mcdonalds-ai-generated-christmas-advert-social-media-backlash-rcna248590)**
 
-Explore GPT‑5.2 in Microsoft Foundry—advanced reasoning, agentic execution, and compliance-ready AI for enterprise scale.
+Titled “the most terrible time of the year,” the 45-second ad featured a series of mishaps befalling people at Christmas.
 
-Microsoft Azure • 10h ago
-
----
-
-**[The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters from across Disney’s brands to Sora](https://openai.com/index/disney-sora-agreement/)**
-
-OpenAI • 14h ago
+NBC News • 15h ago
 
 ---
 
-**[Cursor Launches an AI Coding Tool For Designers](https://www.wired.com/story/cursor-launches-pro-design-tools-figma/)**
+**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://www.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
 
-The 300-person startup hopes bringing designers aboard will give it an edge in an increasingly competitive AI software market.
+President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
 
-WIRED • 12h ago
+CNN • 4h ago
 
 ---
 
@@ -203,7 +205,7 @@ WIRED • 12h ago
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 356 • 💬 422 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 357 • 💬 422 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -235,7 +237,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 247 • 💬 142 • 15h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 262 • 💬 143 • 15h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -267,7 +269,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 106 • 💬 80 • 12h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 107 • 💬 81 • 13h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -289,7 +291,7 @@ A new SpongeBob SquarePants: Krusty Cook Off advertisement on social media uses 
 
 📺 Vailskibum
 
-👁️ 89K • 👍 6K • 💬 1K • ⏱️ 3:09 • 8h ago
+👁️ 89K • 👍 6K • 💬 1K • ⏱️ 3:09 • 9h ago
 
 ---
 
@@ -369,7 +371,7 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 28K • 👍 430 • 💬 84 • ⏱️ 10:31 • 13h ago
+👁️ 28K • 👍 430 • 💬 84 • ⏱️ 10:31 • 14h ago
 
 ---
 
@@ -395,7 +397,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 737 • 3d ago
+⬇️ 80,162 • ❤️ 738 • 3d ago
 
 ---
 
@@ -455,7 +457,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 445,464 • ❤️ 212 • 3d ago
+⬇️ 445,464 • ❤️ 213 • 3d ago
 
 ---
 
@@ -503,7 +505,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 425 • ❤️ 161 • 5d ago
+⬇️ 425 • ❤️ 162 • 5d ago
 
 ---
 
@@ -587,7 +589,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 56 • 💬 2 • ⭐ 1,034 • 9d ago
+▲ 56 • 💬 2 • ⭐ 1,034 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -655,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 9.9k • 🔱 1.7k • 34m ago
+⭐ 9.9k • 🔱 1.7k • 56m ago
 
 ---
 
@@ -665,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.1k • 🔱 233 • 11h ago
+⭐ 2.1k • 🔱 233 • 12h ago
 
 ---
 
@@ -685,7 +687,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python`
 
-⭐ 1.1k • 🔱 210 • 11d ago
+⭐ 1.1k • 🔱 210 • 12d ago
 
 ---
 
@@ -695,7 +697,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 13h ago
+⭐ 1.1k • 🔱 134 • 14h ago
 
 ---
 

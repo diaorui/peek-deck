@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T04:49:45.983858+00:00'
+updated: '2025-12-12T05:11:49.382709+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 04:49 UTC  
+**Last Updated:** December 12, 2025 at 05:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,15 +44,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-13h ago
-
----
-
-**[Question: Does anyone here actually use mujoco for work, or are they just things hobbyists and companies who made them use?](https://www.reddit.com/r/robotics/comments/1pkgxjv/question_does_anyone_here_actually_use_mujoco_for/)**
-
-I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
-
-1h ago
+14h ago
 
 ---
 
@@ -60,7 +52,15 @@ I see all kinds of demos and examples from mujoco that looks splashy, but I’ve
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-17h ago
+18h ago
+
+---
+
+**[Question: Does anyone here actually use mujoco for work, or are they just things hobbyists and companies who made them use?](https://www.reddit.com/r/robotics/comments/1pkgxjv/question_does_anyone_here_actually_use_mujoco_for/)**
+
+I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
+
+2h ago
 
 ---
 
@@ -69,6 +69,14 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
 1d ago
+
+---
+
+**[Thoughts on TetherIA's Open Aero Hand](https://www.reddit.com/r/robotics/comments/1pki1vp/thoughts_on_tetherias_open_aero_hand/)**
+
+https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on these hands - anyone here purchased one or is thinking of purchasing one? I ask because I've been thinking about buying
+
+1h ago
 
 ---
 
@@ -91,14 +99,6 @@ Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into thre
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
 1d ago
-
----
-
-**[Thoughts on TetherIA's Open Aero Hand](https://www.reddit.com/r/robotics/comments/1pki1vp/thoughts_on_tetherias_open_aero_hand/)**
-
-https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on these hands - anyone here purchased one or is thinking of purchasing one? I ask because I've been thinking about buying
-
-57m ago
 
 ---
 
@@ -158,17 +158,17 @@ Deloitte • 1d ago
 
 ---
 
-**[EQT Cuts Deal For 10,000 Humanoids From Robot Startup It Backs](https://www.bloomberg.com/news/articles/2025-12-11/eqt-to-send-10-000-humanoid-robots-from-startup-1x-to-portfolio-companies)**
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
 
-Bloomberg.com • 14h ago
+Making safe and regulated humanoids is a core mission of the summit and participants.
+
+ABC7 San Francisco • 4h ago
 
 ---
 
-**[World’s first six-armed humanoid robot that promises 30% more output unveiled in China](https://interestingengineering.com/ai-robotics/worlds-first-six-armed-humanoid-robot)**
+**[EQT Cuts Deal For 10,000 Humanoids From Robot Startup It Backs](https://www.bloomberg.com/news/articles/2025-12-11/eqt-to-send-10-000-humanoid-robots-from-startup-1x-to-portfolio-companies)**
 
-Chinese home appliance company Midea has unveiled its six-armed super humanoid robot at the Greater Bay Area New Economy Forum in China.
-
-Interesting Engineering • 13h ago
+Bloomberg.com • 15h ago
 
 ---
 
