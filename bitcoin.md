@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T22:20:53.779675+00:00'
+updated: '2025-12-12T22:40:46.822400+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 22:20 UTC  
+**Last Updated:** December 12, 2025 at 22:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -2.3%  
-**7d:** +1.2%  
+**7d:** +1.1%  
 **30d:** -9.5%  
 **90d:** -21.7%  
 **1y:** -10.8%  
@@ -125,7 +125,7 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 **[Here we go again.](https://www.reddit.com/r/Bitcoin/comments/1pkw7mc/here_we_go_again/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -133,7 +133,7 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-56m ago
+1h ago
 
 ---
 
@@ -141,7 +141,7 @@ I've been quietly stacking bitcoin for almost four years now and it blows my min
 
 I’m new to this. I’m thinking 10% of my total portfolio. What’s your percentage?
 
-3h ago
+4h ago
 
 ---
 
@@ -189,7 +189,7 @@ Forbes • 9h ago
 
 I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
-Forbes • 11h ago
+Forbes • 12h ago
 
 ---
 
@@ -205,13 +205,13 @@ Morningstar • 11h ago
 
 Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
 **[Cathie Wood's Ark Invest picks up $15.4 million in Robinhood shares and more of its own Bitcoin ETF](https://www.theblock.co/post/382324/cathie-wood-ark-invest-buys-robinhood-shares-own-bitcoin-etf)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin bear flag. 300k scenario revisit. What I will do in 2026. Larsson Line P
 
 📺 CTO LARSSON
 
-👁️ 16K • 👍 2K • 💬 134 • ⏱️ 13:21 • 8h ago
+👁️ 16K • 👍 2K • 💬 134 • ⏱️ 13:21 • 9h ago
 
 ---
 
@@ -403,7 +403,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 198 • 💬 85 • ⏱️ 29:06 • 6h ago
+👁️ 3K • 👍 198 • 💬 85 • ⏱️ 29:06 • 7h ago
 
 ---
 
