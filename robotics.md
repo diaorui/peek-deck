@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T02:10:16.290957+00:00'
+updated: '2025-12-12T03:40:58.551609+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 02:10 UTC  
+**Last Updated:** December 12, 2025 at 03:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,27 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Update: I gave the robot finger a knife](https://www.reddit.com/r/robotics/comments/1pjzi0f/update_i_gave_the_robot_finger_a_knife/)**
-
-A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
-
-11h ago
-
----
-
 **[Major robotics company shuts down?](https://www.reddit.com/r/robotics/comments/1pk9ow0/major_robotics_company_shuts_down/)**
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-4h ago
+6h ago
+
+---
+
+**[Update: I gave the robot finger a knife](https://www.reddit.com/r/robotics/comments/1pjzi0f/update_i_gave_the_robot_finger_a_knife/)**
+
+A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
+
+12h ago
+
+---
+
+**[Question: Does anyone here actually use mujoco for work, or are they just things hobbyists and companies who made them use?](https://www.reddit.com/r/robotics/comments/1pkgxjv/question_does_anyone_here_actually_use_mujoco_for/)**
+
+I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
+
+41m ago
 
 ---
 
@@ -52,7 +60,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-15h ago
+16h ago
 
 ---
 
@@ -68,13 +76,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-21h ago
-
----
-
-**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
-
-22h ago
+23h ago
 
 ---
 
@@ -82,7 +84,13 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into threejs - Run MuJoCo physics (decoupled from renderer) What do you think about this?!?
 
-10h ago
+11h ago
+
+---
+
+**[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
+
+1d ago
 
 ---
 
@@ -90,7 +98,7 @@ Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into thre
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 16h ago
 
 ---
 
@@ -98,13 +106,7 @@ The strongest counter against robot legs that I've seen. Sure, I have yet to see
 
 We have a GIS team who gives us a geojson of parking lots for shipping containers and trucks. The geojson polygons are of the individual parking lots with different layouts at each site. Looking for recommendations on how to convert these geojsons into a gazebo world of just an empty parking lot, and (hopefully) systematically generate trucks and containers randomly in the parking lot. Currently thinking about creating a python script that takes in the geojson as input and creating a world matching the origin and lat/lon coordinates and generating parking lines at the long side intersection of 2 bounding boxes with the appropriate label/property (Spot 32, 33, 34,...) I assume the truck and shipping container generation will be part of the next step where i take preexisiting models convert them to be gazebo compatible and disperse them into random spots on the parking lot. Are there any similar projects yall have worked on? how did you approach them and are there any tools I should be aware of? Creating gazebo worlds seems is a bit of a pain, but our current code base is very depending on this geojson in real life so I would need to replicate the usage of that geojson and its quirks in the simulator to catch edge cases. Ive attached a snippet of the 1 of the geojsons for context https://preview.redd.it/053m45b4ko6g1.png?width=2250&format=png&auto=webp&s=49ccf973666e708cb7605bb2c944556604df4a81
 
-9m ago
-
----
-
-**[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
-
-1d ago
+1h ago
 
 ---
 
@@ -112,17 +114,23 @@ We have a GIS team who gives us a geojson of parking lots for shipping container
 
 ## Google News: "robotics"
 
-**[GWM-1 Robotics SDK](https://runwayml.com/research/introducing-runway-gwm-1)**
+**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
-
-Runway • 8h ago
+Chron • 1d ago
 
 ---
 
 **[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
 
 Business Wire • 1d ago
+
+---
+
+**[GWM-1 Robotics SDK](https://runwayml.com/research/introducing-runway-gwm-1)**
+
+GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
+
+Runway • 9h ago
 
 ---
 
@@ -138,7 +146,29 @@ IEEE Spectrum • 1d ago
 
 Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
 
-Shore Daily News • 15h ago
+Shore Daily News • 17h ago
+
+---
+
+**[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
+
+Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
+
+Deloitte • 1d ago
+
+---
+
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
+
+Making safe and regulated humanoids is a core mission of the summit and participants.
+
+ABC7 San Francisco • 2h ago
+
+---
+
+**[EQT Cuts Deal For 10,000 Humanoids From Robot Startup It Backs](https://www.bloomberg.com/news/articles/2025-12-11/eqt-to-send-10-000-humanoid-robots-from-startup-1x-to-portfolio-companies)**
+
+Bloomberg.com • 13h ago
 
 ---
 
@@ -150,39 +180,11 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
-
-Chron • 1d ago
-
----
-
 **[Naperville teens make history at international robotics competition](https://www.nctv17.org/news/naperville-teens-make-history-at-international-robotics-competition/)**
 
 Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
 
 NCTV17 • 2d ago
-
----
-
-**[NASA, Reliable Robotics Begin Autonomous C208 Trials](https://avweb.com/aviation-news/nasa-reliable-robotics-c208-uav-trials/)**
-
-Data from automated Reliable Robotics Caravan tests to inform national standards work.
-
-AVweb • 1d ago
-
----
-
-**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
-
-The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
-
-MLive.com • 2d ago
-
----
-
-**[Google DeepMind Will Open a Robotic AI Lab in the UK to Discover New Materials](https://www.bloomberg.com/news/articles/2025-12-11/google-deepmind-will-open-a-robotic-ai-lab-in-the-uk-to-discover-new-materials)**
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -226,7 +228,7 @@ The maker of China's military Robowolf quadrupeds is now unleashing its humanoid
 
 📺 Kalil 4.0
 
-👁️ 821 • 👍 43 • 💬 1 • ⏱️ 0:53 • 3h ago
+👁️ 821 • 👍 43 • 💬 1 • ⏱️ 0:53 • 4h ago
 
 ---
 
@@ -276,7 +278,7 @@ Ukraine's battlefield is changing fast as ground robots move from support roles 
 
 📺 The Military Show
 
-👁️ 183K • 👍 6K • 💬 358 • ⏱️ 16:55 • 12h ago
+👁️ 183K • 👍 6K • 💬 358 • ⏱️ 16:55 • 13h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T02:10:16.281776+00:00'
+updated: '2025-12-12T03:40:58.543365+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 02:10 UTC  
+**Last Updated:** December 12, 2025 at 03:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,898.97
+### $92,563.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
-**7d:** +3.1%  
-**30d:** -7.8%  
+**24h:** +2.0%  
+**7d:** +3.3%  
+**30d:** -7.6%  
 **90d:** -20.2%  
 **1y:** -9.1%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1836.77B
+**Market Cap:** $1841.67B
 Rank #1
 
-**Circulating Supply:** 19,960,931 BTC
+**Circulating Supply:** 19,960,950 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.0%
+-26.8%
 
 **All-Time Low:** $67.81
-+135627.8%
++136058.4%
 
 ---
 
@@ -77,59 +77,59 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
-
-4h ago
-
----
-
-**[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
-
-11h ago
-
----
-
-**[I can’t wait to be rich guys](https://www.reddit.com/r/Bitcoin/comments/1pk4b3i/i_cant_wait_to_be_rich_guys/)**
-
-8h ago
-
----
-
 **[!Pump it up!](https://www.reddit.com/r/Bitcoin/comments/1pk7wcf/pump_it_up/)**
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
+
+7h ago
+
+---
+
+**[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
 5h ago
 
 ---
 
-**[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
+**[I can’t wait to be rich guys](https://www.reddit.com/r/Bitcoin/comments/1pk4b3i/i_cant_wait_to_be_rich_guys/)**
 
-6h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
-
-6h ago
+9h ago
 
 ---
 
-**[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
+**[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
 12h ago
 
 ---
 
-**[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
+**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
+
+2h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
+
+7h ago
+
+---
+
+**[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
+
+8h ago
+
+---
+
+**[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
 14h ago
 
 ---
 
-**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
+**[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-51m ago
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ Made a little edit on the pump it up song to include the current craziness going
 
 For context I never touched any crypto before. Is 100€ as starting too little? What would you put in?
 
-6h ago
+7h ago
 
 ---
 
@@ -145,21 +145,15 @@ For context I never touched any crypto before. Is 100€ as starting too little?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
-
-Reuters • 13h ago
-
----
-
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
 **[Strategy: Index Exclusion Is Anti-Trump, Anti-Bitcoin](https://www.investors.com/news/strategy-mstr-stock-msci-index-exclusion-anti-trump-bitcoin-price-impact/)**
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -171,6 +165,20 @@ Decrypt • 1d ago
 
 ---
 
+**[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
+
+Reuters • 14h ago
+
+---
+
+**[Bitcoin and Ethereum Price Prediction: Will BTC’s Weekly Structure and ETH’s Reversal Signal Hold Under Growing Market Risk?](https://finance.yahoo.com/news/bitcoin-ethereum-price-prediction-btc-020007627.html)**
+
+Traders have long sought the optimal time to trade crypto, and at different points over the years, European, US, and Asian time zones have all had their turn, offering the best returns. However, a newly proposed ETF now offers Bitcoin exposure with a twist. The Nicholas Bitcoin and Treasuries AfterDark ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
@@ -179,11 +187,23 @@ BBC • 1d ago
 
 ---
 
-**[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
+**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqd7mThGTCHsKDzuBpM4LzS2r6_sAR7BpLUfatKSAkZ8vs2oRHtYd4w1&gaa_ts=693b922a&gaa_sig=OXpNdu4DbdzAAvPfBoCI-LxJGhv4qfCJIeGPSlN5OwB64BYG-66-wDpE77uN5WKyO8Rar2hBAFGjzJX2JIahoQ%3D%3D)**
 
-The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
+Barron's • 1d ago
 
-cnbc.com • 2d ago
+---
+
+**[American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy.](https://www.barrons.com/articles/american-bitcoin-stock-price-eric-trump-426a9d3b?gaa_at=eafs&gaa_n=AWEtsqeLDcpIHt8-1gcsqrAbM8dMsDDncewStyOINpKQumBKGSE5c8FsgeDN&gaa_ts=693b922a&gaa_sig=VS-0bsiwOhgASLZLzF3kspkNjS3FhhqRkDeefgf-SD_wTZvO3jF7y_5SaDWyQRZj3nNzvlovdyKWWeEkewtyBQ%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Night owl bitcoin traders: Soon there'll be an ETF just for you](https://www.cnbc.com/2025/12/10/night-owl-bitcoin-traders-soon-therell-be-an-etf-just-for-you.html)**
+
+If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
+
+CNBC • 1d ago
 
 ---
 
@@ -192,26 +212,6 @@ cnbc.com • 2d ago
 Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
 
 Business Insider • 1d ago
-
----
-
-**[Bitcoin Won’t Hit $200,000 in 2025, Crypto Bull Concedes. Where It’s Going Instead.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-price-crypto-bull-01f83bf7?gaa_at=eafs&gaa_n=AWEtsqdXWeZ8rgiDlfZ1XR9vFUUjrT1uSWiBhWMkqC5oN-k9wj1PhM_VdHfa&gaa_ts=693b7ce6&gaa_sig=UPbAuk4LKvEp_mvxLs9zvmJ5qnOgqsrgDQ_u_pjOZ-b4YpZLlDa8_0qT8aYEgFazrvtvMMAwRD4b7QTGAOS1ug%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy.](https://www.barrons.com/articles/american-bitcoin-stock-price-eric-trump-426a9d3b?gaa_at=eafs&gaa_n=AWEtsqc2HL27YBuEncsg5ltPW7jH_PqW74h0NywK5wn3-AB7H-E9G54IELE4&gaa_ts=693b7ce6&gaa_sig=DuL2NThXt4SCR6KY7m0igaNUs-TCOsEWK7m7gnt0F4q0ojAP4818q9m-kas4aBVsvcWod3IZKws263pIPk8E3Q%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Bitcoin jumps to $94,000, but 'hawkish' Fed cut threatens crypto rally](https://finance.yahoo.com/news/bitcoin-jumps-to-94000-but-hawkish-fed-cut-threatens-crypto-rally-164647910.html)**
-
-The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -281,7 +281,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 6 • 💬 0 • 4h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 6 • 💬 0 • 5h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -303,7 +303,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 6K • 👍 468 • 💬 12 • ⏱️ 48:24 • 4h ago
+👁️ 6K • 👍 468 • 💬 12 • ⏱️ 48:24 • 5h ago
 
 ---
 
@@ -313,7 +313,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 6K • 👍 84 • 💬 77 • ⏱️ 4:06 • 7h ago
+👁️ 6K • 👍 84 • 💬 77 • ⏱️ 4:06 • 8h ago
 
 ---
 
@@ -323,7 +323,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 10K • 👍 795 • 💬 304 • ⏱️ 14:43 • 6h ago
+👁️ 10K • 👍 795 • 💬 304 • ⏱️ 14:43 • 7h ago
 
 ---
 
@@ -333,7 +333,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 644 • 💬 45 • ⏱️ 11:29 • 13h ago
+👁️ 15K • 👍 644 • 💬 45 • ⏱️ 11:29 • 15h ago
 
 ---
 
@@ -343,7 +343,7 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 150 • ⏱️ 15:31 • 12h ago
+👁️ 18K • 👍 1K • 💬 150 • ⏱️ 15:31 • 13h ago
 
 ---
 
@@ -353,7 +353,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 761 • 👍 67 • 💬 12 • ⏱️ 22:05 • 2h ago
+👁️ 761 • 👍 67 • 💬 12 • ⏱️ 22:05 • 4h ago
 
 ---
 
@@ -363,7 +363,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 824 • 💬 64 • ⏱️ 18:22 • 2h ago
+👁️ 5K • 👍 824 • 💬 64 • ⏱️ 18:22 • 3h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bear or Bull? Bearish short term, but buying every day! The links below may incl
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 596 • 💬 42 • ⏱️ 44:51 • 7h ago
+👁️ 7K • 👍 596 • 💬 42 • ⏱️ 44:51 • 8h ago
 
 ---
 
