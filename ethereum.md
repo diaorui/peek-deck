@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T09:50:13.953340+00:00'
+updated: '2025-12-12T10:11:53.776850+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 09:50 UTC  
+**Last Updated:** December 12, 2025 at 10:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +6.9%  
-**30d:** +0.2%  
-**90d:** -29.5%  
-**1y:** -17.0%  
+**24h:** +1.7%  
+**7d:** +7.2%  
+**30d:** +0.4%  
+**90d:** -29.4%  
+**1y:** -16.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $391.77B
+**Market Cap:** $392.60B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.5%
+-34.2%
 
 **All-Time Low:** $0.43
-+747728.4%
++751520.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, total crypto newbie here. I need some guidance and expert advice on the best way to approach my financial needs. Context: I live in a developing country, and I am in desperate need of financial freedom. I started looking into stablecoins, especially USDT. I am not really looking into trading. My use case: Relative or friend in europe, they buy USDT on Binance or any other exchange platform, send that USDT to my Trust wallet. I store it, and occasionally send some pocket money to Redotpay to spend using their virtual visa card. That is pretty much about it. Storing it and spending with Redotpay. Not super interested in p2p market. So i dont think i will need to sell my USDT that often, almost never. So the market standard for p2p transactions isnt really a big concern. Might be interested in trading one day, but not for now. This is just for my personal finances and spending. The question I need help with: Should I use Ethereum or Tron. My findings with the research I did: Tron has cheaper gas fee, for when I transfer to Redotpay. But apparently Eth have dropped their transfer rates for USDT, and a lot of people claim it is around the same price now. Because the numbers I found are a little worrying: around 1 USD for Tron and between 3-8 USD for Eth. If you have any information about the rates that would be great. I am more inclined towards Eth to be fair. I just like the idea of a trully decentralized chain. And it has been king over a decade for good reasons. Also it is more secure. With the new EIP-7702 on Eth, you can now pay gas fee for transfers with USDT, which is very interesting, as I am not very comfortable with juggling two currencies. Since per my understanding, I need to always have TRX reserve in my Trust wallet to be able to send to Redotpay. Are the fees really that different to justify skipping on EIP-7702 ? Some people mentioned using an L2 on Eth. I honestly have no idea what that is. If i have got any concepts misunderstood, I would appreciate any clarifications and guidance. I still got a lot to learn about this field.
 
-17h ago
+18h ago
 
 ---
 
@@ -170,13 +170,7 @@ CoinDesk • 5h ago
 
 Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
 
-Yahoo Finance • 14h ago
-
----
-
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcbp80mGdU7GozL7AuCf1i1r0Z67OpYP2Zl2RlwStRYgLXvRrgDEn-Q&gaa_ts=693be476&gaa_sig=_x6-47OdRaRugVSnfCDDaB-XudAM9JB6Rrj7L1Nn9cmtqevjFiro4qObwhg2zJ5OT3o-6i6Ry4O3hf7In11mYA%3D%3D)**
-
-Barron's • 21h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -188,11 +182,17 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin (BTC), Ethereum (ETH), and Solana (SOL) levels for the FOMC](https://www.marketpulse.com/markets/bitcoin-btc-ethereum-eth-and-solana-sol-levels-for-the-fomc/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH eyes breakout, XRP steadies at support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-eyes-breakout-xrp-steadies-at-support-202512120349)**
 
-Crypto markets await the Federal Reserve decision. Will a rate cut spark a rally for Bitcoin, Ethereum, and Solana? We analyze the key intraday levels.
+Bitcoin (BTC) and Ethereum (ETH) are nearing the key resistance levels at the time of writing on Friday, and a successful breakout could open the door for a fresh rally. Meanwhile, Ripple (XRP) is stabilizing around a crucial support zone, hinting at a potential rebound if buyers maintain control.
 
-marketpulse.com • 1d ago
+FXStreet • 6h ago
+
+---
+
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdPz9FFATx5aW8gkQ8lIAvwitAtWCuOBrAryy8RtgdxlHxq5bSvE3sd&gaa_ts=693bedd0&gaa_sig=HnrEQTe-fU6L2j8_oHl9126VNjv-2XpD_lBMmc1U0GcTLsuYsdecvvhDCTbfaxH-lpzNPWNbZRWyGW26-G3Wbg%3D%3D)**
+
+Barron's • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ marketpulse.com • 1d ago
 
 Anthony Scaramucci showed up to Solana Breakpoint in Abu Dhabi wearing a tie — a small act of rebellion in a sea of hoodies — and then proceeded to make a much bigger one on stage: Solana is going to “flip” Ethereum.Scaramucci’s Solana PredictionNot in the Twitter-war, zero-sum, “ETH is dead” kind…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -220,11 +220,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
+**[Ethereum gains after BlackRock files for iShares Staked Ethereum Trust ETF (ETH-USD:Cryptocurrency)](https://seekingalpha.com/news/4529446-ethereum-gains-after-blackrock-files-for-ishares-staked-ethereum-trust-etf)**
 
-BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
+Ethereum (ETH-USD) was trading higherÂ after BlackRock (BLK) filed a preliminary prospectus with the U.S. Securities and Exchange Commission for its iShares Staked Ethereum Trust ETF.
 
-CryptoSlate • 19h ago
+Seeking Alpha • 3d ago
 
 ---
 
@@ -258,7 +258,7 @@ Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author
 
 📺 CoinDesk
 
-👁️ 2K • 👍 58 • 💬 16 • ⏱️ 13:45 • 14h ago
+👁️ 2K • 👍 58 • 💬 16 • ⏱️ 13:45 • 15h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 322 • 💬 79 • ⏱️ 18:15 • 10h ago
+👁️ 7K • 👍 322 • 💬 79 • ⏱️ 18:15 • 11h ago
 
 ---
 
@@ -308,7 +308,7 @@ CRYPTO MARKET UPDATE Join the Premium Signal Group for trade setups, mentorship 
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 135 • 💬 14 • ⏱️ 9:38 • 18h ago
+👁️ 2K • 👍 135 • 💬 14 • ⏱️ 9:38 • 19h ago
 
 ---
 

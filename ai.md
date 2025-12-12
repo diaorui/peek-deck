@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T09:50:13.939037+00:00'
+updated: '2025-12-12T10:11:53.762435+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 09:50 UTC  
+**Last Updated:** December 12, 2025 at 10:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 8h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 9h ago
 
 ---
 
@@ -81,7 +81,7 @@ A new survey finds corporations and investors are overwhelmingly optimistic abou
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 17h ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 18h ago
 
 ---
 
@@ -105,7 +105,7 @@ Trump signs order to block states from enforcing own AI rules.[1] Disney making 
 
 Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.
 
-🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 12h ago
+🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 13h ago
 
 ---
 
@@ -121,6 +121,14 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 ## Google News: "ai"
 
+**[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
+
+California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
+
+BBC • 6h ago
+
+---
+
 **[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
@@ -129,35 +137,37 @@ Time Magazine • 21h ago
 
 ---
 
-**[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+**[AI-led tech slide extends into third day as Oracle, Nvidia, fall in premarket trading](https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html)**
+
+AI-related names have made losses since Oracle's mixed results on Wednesday.
+
+CNBC • 38m ago
+
+---
+
+**[Exclusive: Linda McMahon bets on AI as agency shrinks](https://www.axios.com/2025/12/12/linda-mcmahon-ai-education)**
+
+Axios • 11m ago
+
+---
+
+**[Trump's AI adviser faces questions over use of position to advance his own interests](https://www.npr.org/2025/12/12/nx-s1-5631823/trumps-ai-adviser-faces-questions-over-use-of-position-to-advance-his-own-interests)**
+
+David Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
+
+NPR • 21m ago
+
+---
+
+**[Can OpenAI Respond After Google Closes the A.I. Technology Gap?](https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html)**
 
 The New York Times • 9h ago
 
 ---
 
-**[AI Needs Fewer Prophets and More Predictions](https://www.bloomberg.com/news/articles/2025-12-12/ai-forecasts-don-t-have-to-be-pure-guesswork)**
-
-Bloomberg.com • 49m ago
-
----
-
-**[Jamie Dimon: AI 'will eliminate jobs,' but people with these skills will get 'plenty' of opportunities](https://www.cnbc.com/2025/12/11/jamie-dimon-ai-will-eliminate-jobs-but-these-skills-will-get-you-opportunities.html)**
-
-JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
-
-CNBC • 19h ago
-
----
-
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqePK1yNyOlwccyMY22sIAwgaPFiy2TyfxKksAS-Op1vvKo4nt5Xx3_L&gaa_ts=693be474&gaa_sig=gUg2R3GA-EL0SLno28f2YCOYvkSgd__pFK1RWgnTdPpgGDoh9TsgsukNtvQ0JanQtxfCINEYCm7UsnoxpIVwuQ%3D%3D)**
-
-The Wall Street Journal • 12h ago
-
----
-
 **[The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters from across Disney’s brands to Sora](https://openai.com/index/disney-sora-agreement/)**
 
-OpenAI • 19h ago
+OpenAI • 20h ago
 
 ---
 
@@ -165,29 +175,23 @@ OpenAI • 19h ago
 
 Titled “the most terrible time of the year,” the 45-second ad featured a series of mishaps befalling people at Christmas.
 
-NBC News • 19h ago
+NBC News • 20h ago
 
 ---
 
-**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://www.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
+**[Take the web for a fresh spin with GenTabs, built with Gemini 3](https://blog.google/technology/google-labs/gentabs-gemini-3/)**
 
-President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
+GenTabs is part of a new Google Labs experiment that proactively creates custom web applications to help you navigate the web
 
-CNN • 9h ago
-
----
-
-**[Trump threatens funding for states over AI regulations](https://www.reuters.com/world/trump-says-he-will-sign-order-curbing-state-ai-laws-2025-12-11/)**
-
-Reuters • 2h ago
+The Keyword • 16h ago
 
 ---
 
-**[Trump is trying to preempt state AI laws via an executive order. It may not be legal](https://www.npr.org/2025/12/11/nx-s1-5638562/trump-ai-david-sacks-executive-order)**
+**[SoftBank’s Son Eyes Data Center Group Switch to Expand in AI](https://www.bloomberg.com/news/articles/2025-12-12/softbank-eyes-data-center-group-switch-as-son-hunts-for-ai-plays)**
 
-The executive order is the latest in a series of attempts by the Trump administration to hold back state-level AI rules. But many Republicans are also uncomfortable with the effort.
+SoftBank Group Corp. is studying potential acquisitions including data center operator Switch Inc., a sign billionaire founder Masayoshi Son aims to ride an AI-fueled boom in digital infrastructure, people with knowledge of the matter said.
 
-NPR • 9h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -207,7 +211,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 341 • 💬 168 • 20h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 349 • 💬 176 • 20h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -223,7 +227,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 321 • 💬 2 • 19h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 322 • 💬 2 • 19h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -247,7 +251,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 126 • 💬 26 • 2d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 126 • 💬 28 • 2d ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -263,7 +267,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 110 • 💬 83 • 17h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 110 • 💬 84 • 18h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -295,7 +299,7 @@ In this video, we put GPT‑5.2 to the ultimate test against Gemini 3.0 and Opus
 
 📺 WorldofAI
 
-👁️ 6K • 👍 166 • 💬 17 • ⏱️ 14:56 • 8h ago
+👁️ 6K • 👍 166 • 💬 17 • ⏱️ 14:56 • 9h ago
 
 ---
 
@@ -325,7 +329,7 @@ shorts.
 
 📺 Brian Tyler Cohen
 
-👁️ 494K • 👍 31K • 💬 3K • ⏱️ 0:19 • 12h ago
+👁️ 494K • 👍 31K • 💬 3K • ⏱️ 0:19 • 13h ago
 
 ---
 
@@ -365,7 +369,7 @@ Brave Lady Soldier Rescue Grandmother from Giant Crocodile! #ai #cocodile #rescu
 
 📺 AiStory A2.0
 
-👁️ 9K • ⏱️ 0:20 • 6h ago
+👁️ 9K • ⏱️ 0:20 • 7h ago
 
 ---
 
@@ -391,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 747 • 3d ago
+⬇️ 80,162 • ❤️ 749 • 3d ago
 
 ---
 
@@ -403,7 +407,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,571 • 3d ago
+⬇️ 245,041 • ❤️ 2,572 • 3d ago
 
 ---
 
@@ -427,7 +431,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 275 • 23m ago
+⬇️ 7,222 • ❤️ 275 • 37m ago
 
 ---
 
@@ -451,7 +455,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 230 • 3d ago
+⬇️ 12,302 • ❤️ 231 • 3d ago
 
 ---
 
@@ -487,7 +491,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 583 • ❤️ 184 • 1h ago
+⬇️ 583 • ❤️ 184 • 2h ago
 
 ---
 
@@ -499,7 +503,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 425 • ❤️ 163 • 2h ago
+⬇️ 425 • ❤️ 165 • 2h ago
 
 ---
 
@@ -649,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 11.1k • 🔱 1.8k • 4h ago
+⭐ 11.1k • 🔱 1.8k • 5h ago
 
 ---
 

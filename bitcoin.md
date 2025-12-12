@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T09:50:13.947375+00:00'
+updated: '2025-12-12T10:11:53.770866+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 09:50 UTC  
+**Last Updated:** December 12, 2025 at 10:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** +3.2%  
-**30d:** -7.6%  
-**90d:** -20.1%  
-**1y:** -9.0%  
+**24h:** +2.5%  
+**7d:** +3.6%  
+**30d:** -7.3%  
+**90d:** -19.8%  
+**1y:** -8.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1842.09B
+**Market Cap:** $1847.86B
 Rank #1
 
-**Circulating Supply:** 19,961,046 BTC
+**Circulating Supply:** 19,961,062 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.9%
+-26.6%
 
 **All-Time Low:** $67.81
-+135794.4%
++136444.8%
 
 ---
 
@@ -91,7 +91,21 @@ Rank #1
 
 **[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-18h ago
+19h ago
+
+---
+
+**[Most of you guys will relate to this...](https://www.reddit.com/r/Bitcoin/comments/1pkmy47/most_of_you_guys_will_relate_to_this/)**
+
+1h ago
+
+---
+
+**[Solo miner from CKpool has mined a block](https://www.reddit.com/r/Bitcoin/comments/1pkh0d8/solo_miner_from_ckpool_has_mined_a_block/)**
+
+The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
+
+7h ago
 
 ---
 
@@ -103,23 +117,9 @@ Made a little edit on the pump it up song to include the current craziness going
 
 ---
 
-**[Solo miner from CKpool has mined a block](https://www.reddit.com/r/Bitcoin/comments/1pkh0d8/solo_miner_from_ckpool_has_mined_a_block/)**
-
-The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
-
-6h ago
-
----
-
-**[Most of you guys will relate to this...](https://www.reddit.com/r/Bitcoin/comments/1pkmy47/most_of_you_guys_will_relate_to_this/)**
-
-1h ago
-
----
-
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pk78jb/daily_meme_until_100000/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -135,11 +135,11 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 ---
 
-**[Is today a good day to start investing in Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1pk7kak/is_today_a_good_day_to_start_investing_in_bitcoin/)**
+**[Is the selloff overdone?](https://www.reddit.com/r/Bitcoin/comments/1pkm7dv/is_the_selloff_overdone/)**
 
-For context I never touched any crypto before. Is 100€ as starting too little? What would you put in?
+are we coming out of the worst of it? stock market is at highs, and even the AI stock are stubbornly up (with a few exceptions)… yet crypto is still struggling. have we bottomed, or is a bigger crypto dip coming?
 
-13h ago
+2h ago
 
 ---
 
@@ -147,9 +147,11 @@ For context I never touched any crypto before. Is 100€ as starting too little?
 
 ## Google News: "bitcoin"
 
-**[Why Bitcoin Could Drop Below $90,000—Even After a Fed Rate Cut](https://www.barrons.com/articles/bitcoin-price-today-fed-rate-cut-crypto-419615db?gaa_at=eafs&gaa_n=AWEtsqcDPR7GwTnSuSiIIZvLmZM1-KDurAYN5KUPq9wAf9oHzvs0DKw-Xeto&gaa_ts=693be475&gaa_sig=fXWjOQ-iBqNy8e4vtMrRrElDxNQLcqHOd466eFC30NKcKiJGk1XFUsMkPQoeeUPg9r7YmkViNtYAjLWRMREJLQ%3D%3D)**
+**[Bitcoin Slides Below $90,000 After Fed Cut Even as Stocks Rally](https://www.bloomberg.com/news/articles/2025-12-11/bitcoin-btc-slides-below-90-000-after-fed-cut-while-stocks-rally)**
 
-Barron's • 1d ago
+Bitcoin veered back toward the lower portion of its recent trading range amid lingering concern about demand for risky assets.
+
+Bloomberg.com • 16h ago
 
 ---
 
@@ -161,25 +163,25 @@ BBC • 1d ago
 
 ---
 
-**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
+**[Fidelity Says Bitcoin’s Current Cycle Is Maturing — A New Wave May Follow](https://finance.yahoo.com/news/fidelity-says-bitcoin-current-cycle-093009257.html)**
 
-Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
+Fidelity projects Bitcoin entering a mature fifth wave while analysts debate bullish or weak performance heading into 2026.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 41m ago
+
+---
+
+**[65% Of Bitcoin Treasuries Are Sitting On Unrealized Losses](https://bitcoinmagazine.com/featured/corporate-bt-treasuries-are-underwater)**
+
+Corporate Bitcoin treasuries swung into widespread unrealized losses in November, as Bitcoin’s brief drop below $90,000 left roughly 65% of measurable corporate holders in the red.
+
+Bitcoin Magazine • 20h ago
 
 ---
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
 Reuters • 21h ago
-
----
-
-**[Thinking About Giving Bitcoin as a Christmas Gift? Read This First](https://www.investopedia.com/thinking-about-giving-bitcoin-as-a-christmas-gift-read-this-first-11854300)**
-
-Bitcoin can be a fun and meaningful Christmas gift, but only if the person you’re giving it to is the right fit. Explore the many ways to gift Bitcoin, and then decide if it's the right present this year.
-
-Investopedia • 16h ago
 
 ---
 
@@ -191,7 +193,7 @@ Investor's Business Daily • 15h ago
 
 **[Strategy: Index Exclusion Is Anti-Trump, Anti-Bitcoin](https://www.investors.com/news/strategy-mstr-stock-msci-index-exclusion-anti-trump-bitcoin-price-impact/)**
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -207,15 +209,13 @@ Decrypt • 1d ago
 
 You may not like the answer.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
-**[Night owl bitcoin traders: Soon there'll be an ETF just for you](https://www.cnbc.com/2025/12/10/night-owl-bitcoin-traders-soon-therell-be-an-etf-just-for-you.html)**
+**[Twenty One Capital Stock Falls 19% as Market Meets the New Bitcoin Company](https://www.barrons.com/articles/twenty-one-capital-stock-drops-39aef71b?gaa_at=eafs&gaa_n=AWEtsqf0tQrqU8EyW6zOBw1fBipsM9LheBG2Ri_P5IMU61gbxe_MJyaWLUdj&gaa_ts=693bedcf&gaa_sig=l75R5Xq-PAMc3rRc4ecG748uct2Nge-apUBSBiwtbHlii_6wAcplnEL2foREAaY5hBEZ3Ducfke3oh7eYur3uA%3D%3D)**
 
-If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
-
-CNBC • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -243,7 +243,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 3h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 4h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -287,7 +287,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 54m ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 1h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -295,7 +295,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 7 • 💬 0 • 11h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 7 • 💬 0 • 12h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -309,7 +309,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 756 • 💬 12 • ⏱️ 48:24 • 11h ago
+👁️ 14K • 👍 756 • 💬 12 • ⏱️ 48:24 • 12h ago
 
 ---
 
@@ -329,7 +329,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 10K • 👍 107 • 💬 73 • ⏱️ 4:06 • 14h ago
+👁️ 10K • 👍 107 • 💬 73 • ⏱️ 4:06 • 15h ago
 
 ---
 
@@ -339,7 +339,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 96 • ⏱️ 18:22 • 9h ago
+👁️ 18K • 👍 2K • 💬 96 • ⏱️ 18:22 • 10h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bear or Bull? Bearish short term, but buying every day! The links below may incl
 
 📺 Digital Asset News
 
-👁️ 10K • 👍 696 • 💬 48 • ⏱️ 44:51 • 14h ago
+👁️ 10K • 👍 696 • 💬 48 • ⏱️ 44:51 • 15h ago
 
 ---
 
@@ -389,7 +389,7 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 133 • ⏱️ 15:31 • 19h ago
+👁️ 21K • 👍 1K • 💬 133 • ⏱️ 15:31 • 20h ago
 
 ---
 
@@ -399,7 +399,7 @@ Bitcoin #Crypto #Finance Guests Markus Thielen - https://youtube.com/live/vYI1CO
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 824 • 💬 291 • ⏱️ 35:32 • 18h ago
+👁️ 19K • 👍 824 • 💬 291 • ⏱️ 35:32 • 19h ago
 
 ---
 

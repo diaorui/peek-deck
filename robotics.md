@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T09:50:13.956594+00:00'
+updated: '2025-12-12T10:11:53.780158+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 09:50 UTC  
+**Last Updated:** December 12, 2025 at 10:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,12 +32,6 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
-
-2h ago
-
----
-
 **[Major robotics company shuts down?](https://www.reddit.com/r/robotics/comments/1pk9ow0/major_robotics_company_shuts_down/)**
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
@@ -46,11 +40,17 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 ---
 
+**[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
+
+2h ago
+
+---
+
 **[Update: I gave the robot finger a knife](https://www.reddit.com/r/robotics/comments/1pjzi0f/update_i_gave_the_robot_finger_a_knife/)**
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-18h ago
+19h ago
 
 ---
 
@@ -66,13 +66,21 @@ Hi guys, I'm interested to know what you guys think. Opinionate away! I've been 
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-22h ago
+23h ago
+
+---
+
+**[Industrial belt-pick scenario where a simple arm tries to track objects on a moving conveyor and place them aside.](https://www.reddit.com/r/robotics/comments/1pko2ov/industrial_beltpick_scenario_where_a_simple_arm/)**
+
+The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
+
+19m ago
 
 ---
 
 **[Where can i find free courses for learning mechatronics?](https://www.reddit.com/r/robotics/comments/1pknnn5/where_can_i_find_free_courses_for_learning/)**
 
-25m ago
+47m ago
 
 ---
 
@@ -80,7 +88,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
 
-6h ago
+7h ago
 
 ---
 
@@ -97,14 +105,6 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 1d ago
-
----
-
-**[Thoughts on TetherIA's Open Aero Hand](https://www.reddit.com/r/robotics/comments/1pki1vp/thoughts_on_tetherias_open_aero_hand/)**
-
-https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on these hands - anyone here purchased one or is thinking of purchasing one? I ask because I've been thinking about buying
-
-5h ago
 
 ---
 
@@ -142,19 +142,19 @@ Deloitte • 2d ago
 
 ---
 
-**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
-
-Making safe and regulated humanoids is a core mission of the summit and participants.
-
-ABC7 San Francisco • 8h ago
-
----
-
 **[1X struck a deal to send its ‘home’ humanoids to factories and warehouses](https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/)**
 
 Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.
 
-TechCrunch • 11h ago
+TechCrunch • 12h ago
+
+---
+
+**[Watch Apollo humanoid robot tackle never-before-seen objects with Google DeepMind](https://interestingengineering.com/ai-robotics/google-deepmind-apollo-humanoid-robot)**
+
+Google DeepMind shows Apollo humanoid handling unfamiliar objects and following voice commands, alongside Aloha robots performing tasks.
+
+Interesting Engineering • 20h ago
 
 ---
 
