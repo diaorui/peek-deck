@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T20:38:50.112545+00:00'
+updated: '2025-12-12T20:53:20.680300+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 20:38 UTC  
+**Last Updated:** December 12, 2025 at 20:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.2%  
-**7d:** +0.6%  
-**30d:** -10.0%  
-**90d:** -22.2%  
-**1y:** -11.3%  
+**24h:** -2.9%  
+**7d:** +0.9%  
+**30d:** -9.7%  
+**90d:** -21.9%  
+**1y:** -11.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1801.03B
+**Market Cap:** $1800.70B
 Rank #1
 
 **Circulating Supply:** 19,961,265 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.5%
 
 **All-Time Low:** $67.81
-+132815.5%
++132932.0%
 
 ---
 
@@ -91,9 +91,15 @@ C’mon Bitcoin, you can do it
 
 ---
 
+**[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
+
+7h ago
+
+---
+
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -109,17 +115,11 @@ C’mon Bitcoin, you can do it
 
 ---
 
-**[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
-
-7h ago
-
----
-
 **[BTC Is Running Without Leverage](https://www.reddit.com/r/Bitcoin/comments/1pkwo64/btc_is_running_without_leverage/)**
 
 Bitcoin’s Open Interest has dropped sharply since October, and that’s the most important part of the current market structure. Low OI means the market is running with very little leverage, so the recent price move isn’t coming from futures traders it’s mostly spot demand. At the same time, a huge amount of BTC is still locked in long-term hands (corporate treasuries, miners, and illiquid wallets). So supply pressure is low, but momentum is also weak because fewer traders are participating. Low OI means cleaner, healthier price action, But low OI also means less support if demand slows. So direction will depend on spot buyers, not leverage It’s a neutral setup, stable, but waiting for a catalyst.If OI starts rising again, that’s usually when stronger trends begin. Note : Bitcoin’s Open Interest has been falling over the past few weeks, but the interesting part is that BTC is slowly moving up at the same time. This tells us that the price is rising without heavy leverage, Futures traders are stepping back and Spot buyers or long-term demand are doing most of the work. BTC is rising, but not because of leveraged longs, it’s rising because actual buyers are still active.
 
-3h ago
+4h ago
 
 ---
 
@@ -131,21 +131,41 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 **[Stay humble stack sats](https://www.reddit.com/r/Bitcoin/comments/1pkqxeq/stay_humble_stack_sats/)**
 
-7h ago
+8h ago
 
 ---
 
-**[Trinidad And Tobago To Reverse Bitcoin Ban - Lightning News](https://www.reddit.com/r/Bitcoin/comments/1pkrvzd/trinidad_and_tobago_to_reverse_bitcoin_ban/)**
+**[What’s a good Bitcoin allocation percentage?](https://www.reddit.com/r/Bitcoin/comments/1pkze32/whats_a_good_bitcoin_allocation_percentage/)**
 
-Trinidad and Tobago amends the original two‑year blanket ban on crypto. The strict ban has been significantly softened: the bill has passed with 200+
+I’m new to this. I’m thinking 10% of my total portfolio. What’s your percentage?
 
-🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 7h ago
+2h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+
+Investor's Business Daily • 4h ago
+
+---
+
+**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
+
+Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[MicroStrategy sends sharp warning letter to MSCI](https://www.thestreet.com/crypto/markets/microstrategy-sends-sharp-warning-letter-to-msci)**
+
+TheStreet • 2d ago
+
+---
 
 **[Bitcoin Price (BTC) News: Plunges Below $90K as AI Bubble Worries Weigh on Tech Stocks](https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down)**
 
@@ -169,39 +189,11 @@ CryptoSlate • 10h ago
 
 ---
 
-**[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+**[Solo bitcoin miner wins ‘lottery,’ hauls in $288k with 0.00002% of network hashrate](https://finance.yahoo.com/news/solo-bitcoin-miner-wins-8216-194907112.html)**
 
-Investor's Business Daily • 4h ago
+Solo bitcoin miner 1Ng9~VoQz utilized 270 TH/s to win a block reward valued at over $288,000.
 
----
-
-**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
-
-x.com • 6h ago
-
----
-
-**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
-
-Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
-
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
-
-Forbes • 7h ago
-
----
-
-**[Bitcoin Winter Has Begun: Why A Major Crash May Still Be Ahead](https://www.forbes.com/sites/digital-assets/2025/12/12/bitcoin-winter-has-begun-why-a-major-crash-may-still-be-ahead/)**
-
-I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
-
-Forbes • 10h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -213,11 +205,17 @@ Bloomberg.com • 2h ago
 
 ---
 
-**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
+**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
+x.com • 6h ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Bitcoin Winter Has Begun: Why A Major Crash May Still Be Ahead](https://www.forbes.com/sites/digital-assets/2025/12/12/bitcoin-winter-has-begun-why-a-major-crash-may-still-be-ahead/)**
+
+I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
+
+Forbes • 10h ago
 
 ---
 
@@ -245,7 +243,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 14h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 15h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 

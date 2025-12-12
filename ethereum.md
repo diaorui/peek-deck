@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T20:38:50.118581+00:00'
+updated: '2025-12-12T20:53:20.686199+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 20:38 UTC  
+**Last Updated:** December 12, 2025 at 20:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.5%  
-**7d:** +1.1%  
-**30d:** -5.3%  
-**90d:** -33.4%  
-**1y:** -21.5%  
+**24h:** -5.0%  
+**7d:** +1.6%  
+**30d:** -4.8%  
+**90d:** -33.0%  
+**1y:** -21.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $371.17B
+**Market Cap:** $371.85B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.9%
+-37.7%
 
 **All-Time Low:** $0.43
-+709712.7%
++711618.1%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 7h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 8h ago
 
 ---
 
@@ -152,25 +152,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://finance.yahoo.com/news/tom-lee-bitmine-adds-112m-132425778.html)**
+
+Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[BitMine’s 5% Ethereum Accumulation Bet: Supply Shock and Market Implications](https://www.ccn.com/education/crypto/bitmine-5-ethereum-accumulation-supply-shock-market-implications/)**
+
+CCN.com • 3h ago
+
+---
+
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
 The Block • 1d ago
-
----
-
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://www.fool.com/investing/2025/12/12/why-ethereum-sank-5-today-while-the-crypto-market/)**
-
-Sentiment around Ethereum has been bouncing around considerably in recent days.
-
-The Motley Fool • 2h ago
-
----
-
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
-
-Sentiment around Ethereum has been bouncing around considerably in recent days.
-
-Yahoo Finance • 2h ago
 
 ---
 
@@ -180,11 +178,19 @@ Binance • 17h ago
 
 ---
 
+**[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://finance.yahoo.com/news/tom-lee-claims-p-500-115052298.html)**
+
+Tom Lee expects the S&P 500 to reach 7,700 by 2026. Lee argues Ethereum is “grossly undervalued” at current levels. The bullish analyst claimed Bitcoin ...
+
+Yahoo Finance • 9h ago
+
+---
+
 **[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -196,6 +202,14 @@ Decrypt • 2d ago
 
 ---
 
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://www.fool.com/investing/2025/12/12/why-ethereum-sank-5-today-while-the-crypto-market/)**
+
+Sentiment around Ethereum has been bouncing around considerably in recent days.
+
+The Motley Fool • 3h ago
+
+---
+
 **[Arthur Hayes Makes Wild Ethereum Prediction for 2026 and Beyond](https://www.tradingview.com/news/beincrypto:f3ccde85e094b:0-arthur-hayes-makes-wild-ethereum-prediction-for-2026-and-beyond/)**
 
 Ethereum’s long-term trajectory has become a focal point again after Arthur Hayes laid out a sweeping forecast for the asset’s institutional future, price potential, and competitive space. His comments arrived as Ethereum trades near $3,200, fluctuating between $3,060 and $3,440 over the past week…
@@ -204,25 +218,11 @@ TradingView • 1d ago
 
 ---
 
-**[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://www.ccn.com/news/crypto/tom-lee-claims-sp-500-will-hit-7700-by-2026-says-ethereum-will-exceed-12000/)**
-
-CCN.com • 8h ago
-
----
-
 **[Crypto Today: Bitcoin, Ethereum hold steady as XRP ETF inflows surge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-aim-for-recovery-xrp-holds-key-support-202512121200)**
 
 Bitcoin (BTC) is trading above $92,000 at the time of writing on Friday, as volatility across the cryptocurrency market cools following the Federal Reserve’s (Fed) hawkish interest rate cut.
 
 FXStreet • 8h ago
-
----
-
-**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
-
-BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
-
-CryptoSlate • 1d ago
 
 ---
 
