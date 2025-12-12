@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-11T23:57:30.615947+00:00'
+updated: '2025-12-12T02:10:16.290957+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 11, 2025 at 23:57 UTC  
+**Last Updated:** December 12, 2025 at 02:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-9h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-2h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710066 Docs: https://ir-sim.readthedocs.io/en GitHub: https://github.com/hanruihua/ir-sim
 
-13h ago
+15h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
 
-22h ago
+1d ago
 
 ---
 
@@ -68,13 +68,13 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-19h ago
+21h ago
 
 ---
 
 **[We made a fully modular robot arm](https://www.reddit.com/r/robotics/comments/1pjnbd4/we_made_a_fully_modular_robot_arm/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -82,7 +82,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into threejs - Run MuJoCo physics (decoupled from renderer) What do you think about this?!?
 
-8h ago
+10h ago
 
 ---
 
@@ -90,21 +90,21 @@ Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into thre
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 13h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 15h ago
+
+---
+
+**[Generating an SDF Gazebo World from a geojson file](https://www.reddit.com/r/robotics/comments/1pkfoge/generating_an_sdf_gazebo_world_from_a_geojson_file/)**
+
+We have a GIS team who gives us a geojson of parking lots for shipping containers and trucks. The geojson polygons are of the individual parking lots with different layouts at each site. Looking for recommendations on how to convert these geojsons into a gazebo world of just an empty parking lot, and (hopefully) systematically generate trucks and containers randomly in the parking lot. Currently thinking about creating a python script that takes in the geojson as input and creating a world matching the origin and lat/lon coordinates and generating parking lines at the long side intersection of 2 bounding boxes with the appropriate label/property (Spot 32, 33, 34,...) I assume the truck and shipping container generation will be part of the next step where i take preexisiting models convert them to be gazebo compatible and disperse them into random spots on the parking lot. Are there any similar projects yall have worked on? how did you approach them and are there any tools I should be aware of? Creating gazebo worlds seems is a bit of a pain, but our current code base is very depending on this geojson in real life so I would need to replicate the usage of that geojson and its quirks in the simulator to catch edge cases. Ive attached a snippet of the 1 of the geojsons for context https://preview.redd.it/053m45b4ko6g1.png?width=2250&format=png&auto=webp&s=49ccf973666e708cb7605bb2c944556604df4a81
+
+9m ago
 
 ---
 
 **[Working with MIT Champ Controller on ROS2 Humble](https://www.reddit.com/r/robotics/comments/1pjlbu0/working_with_mit_champ_controller_on_ros2_humble/)**
 
-22h ago
-
----
-
-**[Daily Robotics Recap: Agility deploys humanoids in Texas, Samsung backs "printed" motors and iCub creators raise $81M](https://www.reddit.com/r/robotics/comments/1pjsrck/daily_robotics_recap_agility_deploys_humanoids_in/)**
-
-Here are the top developments today for those following the industry: 1. Agility Robotics x Mercado Libre (Deployment): Agility has signed a deal to deploy Digit robots at Mercado Libre’s fulfillment center in Texas. The Job: Digit will be handling "totes" (inventory bins) in a live warehouse setting. Why it matters: This isn't a pilot in a closed lab; It’s the first step into Latin American e-commerce logistics (Mercado Libre is huge there). Read the full update here 2. Samsung invests in "Ironless" Motors (Hardware): Samsung Electro-Mechanics has invested in Alva Industries, a Norwegian startup known for "FiberPrinting" technology. The Tech: They literally "print" the copper windings for motors, allowing for ironless, slotless stators. Impact: This means lighter, torque-dense actuators specifically designed for humanoid hands and arms—A major bottleneck in current designs. Deep dive on the tech 3. From iCub to Industry: Generative Bionics raises $81M: The team behind the famous iCub research robot (Italian Institute of Technology) has spun out as "Generative Bionics" and just raised a massive Series A. The Goal: They are moving from research platforms to building a "robust" humanoid for industrial use, with a reveal planned for 2026. Funding details 4. Robotics in India: Humanoids at EXCON: Indian manufacturer Mother India Forming showcased a humanoid and quadruped setup at the EXCON construction/manufacturing expo in Bengaluru. It's signaling a push for domestic automation in the cold-roll forming sector. See the announcement Which of these stories is the biggest mover for you? The "Printed Motors" tech seems like the one to watch for custom builds. Image-1: Daniele Pucci, the CEO and co-founder of Generative Bionics ; Source: Generative Bionics Image-2: Agility Robotics
-
-15h ago
+1d ago
 
 ---
 
@@ -116,23 +116,7 @@ Here are the top developments today for those following the industry: 1. Agility
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
-Runway • 6h ago
-
----
-
-**[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
-
-Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
-
-Deloitte • 1d ago
-
----
-
-**['Botnets in physical form' are top humanoid robot risk](https://www.theregister.com/2025/12/09/humanoid_robot_security/)**
-
-Interview: Have we learned nothing from sci-fi films and TV shows?
-
-theregister.com • 2d ago
+Runway • 8h ago
 
 ---
 
@@ -142,9 +126,11 @@ Business Wire • 1d ago
 
 ---
 
-**[Advanced Intralogistics and AlphaOne Robotics Partner to Deliver Automated Trailer Unloading & Receiving Automation](https://www.businesswire.com/news/home/20251211294951/en/Advanced-Intralogistics-and-AlphaOne-Robotics-Partner-to-Deliver-Automated-Trailer-Unloading-Receiving-Automation)**
+**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
 
-Business Wire • 2h ago
+Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
+
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -152,7 +138,15 @@ Business Wire • 2h ago
 
 Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
 
-Shore Daily News • 13h ago
+Shore Daily News • 15h ago
+
+---
+
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
+
+Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -166,7 +160,7 @@ Chron • 1d ago
 
 Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
 
-NCTV17 • 1d ago
+NCTV17 • 2d ago
 
 ---
 
@@ -186,6 +180,12 @@ MLive.com • 2d ago
 
 ---
 
+**[Google DeepMind Will Open a Robotic AI Lab in the UK to Discover New Materials](https://www.bloomberg.com/news/articles/2025-12-11/google-deepmind-will-open-a-robotic-ai-lab-in-the-uk-to-discover-new-materials)**
+
+Bloomberg.com • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +196,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 76K • 👍 2K • 💬 497 • ⏱️ 14:26 • 3d ago
+👁️ 78K • 👍 2K • 💬 510 • ⏱️ 14:26 • 3d ago
 
 ---
 
@@ -206,7 +206,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 103K • 👍 4K • 💬 321 • ⏱️ 17:44 • 1d ago
+👁️ 107K • 👍 4K • 💬 328 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 34K • 👍 656 • 💬 159 • ⏱️ 18:46 • 5d ago
+👁️ 35K • 👍 658 • 💬 159 • ⏱️ 18:46 • 5d ago
 
 ---
 
@@ -226,7 +226,7 @@ The maker of China's military Robowolf quadrupeds is now unleashing its humanoid
 
 📺 Kalil 4.0
 
-👁️ 244 • 👍 8 • ⏱️ 0:53 • 54m ago
+👁️ 821 • 👍 43 • 💬 1 • ⏱️ 0:53 • 3h ago
 
 ---
 
@@ -246,7 +246,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 131K • 👍 7K • 💬 894 • ⏱️ 19:33 • 5d ago
+👁️ 132K • 👍 7K • 💬 900 • ⏱️ 19:33 • 5d ago
 
 ---
 
@@ -266,7 +266,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 202K • 👍 922 • 💬 298 • ⏱️ 1:03 • 5d ago
+👁️ 199K • 👍 923 • 💬 298 • ⏱️ 1:03 • 5d ago
 
 ---
 
@@ -276,7 +276,7 @@ Ukraine's battlefield is changing fast as ground robots move from support roles 
 
 📺 The Military Show
 
-👁️ 146K • 👍 5K • 💬 316 • ⏱️ 16:55 • 9h ago
+👁️ 183K • 👍 6K • 💬 358 • ⏱️ 16:55 • 12h ago
 
 ---
 
