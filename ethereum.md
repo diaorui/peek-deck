@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T04:20:33.818941+00:00'
+updated: '2025-12-12T04:49:45.980610+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 04:20 UTC  
+**Last Updated:** December 12, 2025 at 04:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
+**24h:** +1.1%  
 **7d:** +6.9%  
 **30d:** +0.2%  
 **90d:** -29.5%  
-**1y:** -17.0%  
+**1y:** -16.9%  
 
 ---
 
@@ -154,7 +154,7 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -206,7 +206,7 @@ Nasdaq • 2d ago
 
 There's one key reason why Ethereum is underperforming its mega-cap peers today.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 45 • 💬 10 • ⏱️ 4:36 • 18h ago
+👁️ 1K • 👍 45 • 💬 10 • ⏱️ 4:36 • 19h ago
 
 ---
 
@@ -296,7 +296,7 @@ Get ready for a deep dive into the massive shift happening in European banking! 
 
 📺 CryptoStock Lab
 
-👁️ 144 • 👍 8 • ⏱️ 6:46 • 13h ago
+👁️ 144 • 👍 8 • ⏱️ 6:46 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ Ethereum BitMine acquired $112 million in Ethereum from FalconX, bringing holdin
 
 📺 Crypto World Daily
 
-👁️ 5 • 💬 1 • ⏱️ 9:29 • 12h ago
+👁️ 5 • 💬 1 • ⏱️ 9:29 • 13h ago
 
 ---
 

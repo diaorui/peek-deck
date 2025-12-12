@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T04:20:33.812928+00:00'
+updated: '2025-12-12T04:49:45.974456+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 04:20 UTC  
+**Last Updated:** December 12, 2025 at 04:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +3.3%  
-**30d:** -7.6%  
+**24h:** +2.0%  
+**7d:** +3.2%  
+**30d:** -7.7%  
 **90d:** -20.1%  
 **1y:** -9.0%  
 
@@ -81,7 +81,7 @@ Rank #1
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
 
-7h ago
+8h ago
 
 ---
 
@@ -117,13 +117,13 @@ Made a little edit on the pump it up song to include the current craziness going
 
 **[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
 
-8h ago
+9h ago
 
 ---
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -147,13 +147,13 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 **[Bitcoin dips below $90,000 as AI worries dent risk appetite](https://www.reuters.com/business/bitcoin-dips-below-90000-ai-worries-dent-risk-appetite-2025-12-11/)**
 
-Reuters • 15h ago
+Reuters • 16h ago
 
 ---
 
 **[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -343,7 +343,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 11K • 👍 852 • 💬 310 • ⏱️ 14:43 • 8h ago
+👁️ 11K • 👍 852 • 💬 310 • ⏱️ 14:43 • 9h ago
 
 ---
 

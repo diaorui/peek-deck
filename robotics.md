@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T04:20:33.822185+00:00'
+updated: '2025-12-12T04:49:45.983858+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 04:20 UTC  
+**Last Updated:** December 12, 2025 at 04:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-6h ago
+7h ago
 
 ---
 
@@ -76,7 +76,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
-23h ago
+1d ago
 
 ---
 
@@ -84,7 +84,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into threejs - Run MuJoCo physics (decoupled from renderer) What do you think about this?!?
 
-12h ago
+13h ago
 
 ---
 
@@ -98,7 +98,7 @@ Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into thre
 
 https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on these hands - anyone here purchased one or is thinking of purchasing one? I ask because I've been thinking about buying
 
-28m ago
+57m ago
 
 ---
 
@@ -106,7 +106,7 @@ https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on
 
 The strongest counter against robot legs that I've seen. Sure, I have yet to see it climb stairs but seems possible with bigger wheels and/or maybe an extra joint in its body to fold up or down.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 17h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=WfaYrxCwad0) • 18h ago
 
 ---
 
@@ -130,7 +130,7 @@ Business Wire • 1d ago
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
-Runway • 10h ago
+Runway • 11h ago
 
 ---
 
@@ -168,7 +168,7 @@ Bloomberg.com • 14h ago
 
 Chinese home appliance company Midea has unveiled its six-armed super humanoid robot at the Greater Bay Area New Economy Forum in China.
 
-Interesting Engineering • 12h ago
+Interesting Engineering • 13h ago
 
 ---
 
@@ -286,7 +286,7 @@ Want to stay up to date with ai news - https://aigrid.beehiiv.com/subscribe Foll
 
 📺 TheAIGRID
 
-👁️ 26K • 👍 823 • 💬 175 • ⏱️ 10:33 • 6d ago
+👁️ 26K • 👍 823 • 💬 175 • ⏱️ 10:33 • 7d ago
 
 ---
 
