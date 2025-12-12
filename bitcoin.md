@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T07:26:48.311031+00:00'
+updated: '2025-12-12T07:44:07.686000+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 07:26 UTC  
+**Last Updated:** December 12, 2025 at 07:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -48,7 +48,7 @@ Live Bitcoin monitoring dashboard
 **7d:** +3.5%  
 **30d:** -7.4%  
 **90d:** -19.9%  
-**1y:** -8.7%  
+**1y:** -8.8%  
 
 ---
 
@@ -125,13 +125,13 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
-17h ago
+18h ago
 
 ---
 
 **[zoom out bih!](https://www.reddit.com/r/Bitcoin/comments/1pjvc5p/zoom_out_bih/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -393,7 +393,7 @@ The biggest shift in U.S. Bitcoin regulation just happened — and almost nobody
 
 📺 Andrei Jikh
 
-👁️ 22K • 👍 455 • 💬 37 • ⏱️ 0:35 • 8h ago
+👁️ 22K • 👍 455 • 💬 37 • ⏱️ 0:35 • 9h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T07:26:48.320499+00:00'
+updated: '2025-12-12T07:44:07.695423+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 07:26 UTC  
+**Last Updated:** December 12, 2025 at 07:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-9h ago
+10h ago
 
 ---
 
@@ -90,7 +90,7 @@ https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on
 
 **[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
 
-9m ago
+26m ago
 
 ---
 
@@ -106,7 +106,7 @@ Workflow: - Generate world with Worldlabs Marble - Load Gaussian Splat into thre
 
 Just tell this drone what you want him to do (in voice or text), he will plan it and do it. So its basically inteligent robot, he just doesn’t look similar to human: he is robotic ant
 
-🔗 [DroneXL.co](https://dronexl.co/2025/12/11/autel-evo-iii-big-claims/) • 58m ago
+🔗 [DroneXL.co](https://dronexl.co/2025/12/11/autel-evo-iii-big-claims/) • 1h ago
 
 ---
 
@@ -132,7 +132,7 @@ Business Wire • 1d ago
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
-Runway • 13h ago
+Runway • 14h ago
 
 ---
 
