@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T10:56:41.112146+00:00'
+updated: '2025-12-12T11:24:28.225323+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 10:56 UTC  
+**Last Updated:** December 12, 2025 at 11:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 9h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 15h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 19h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 20h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 22h ago
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 23h ago
 
 ---
 
@@ -81,7 +81,7 @@ A new survey finds corporations and investors are overwhelmingly optimistic abou
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 18h ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 19h ago
 
 ---
 
@@ -105,7 +105,7 @@ Trump signs order to block states from enforcing own AI rules.[1] Disney making 
 
 Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.
 
-🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 13h ago
+🔗 [WIRED](https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/) • 14h ago
 
 ---
 
@@ -131,7 +131,7 @@ Time Magazine • 22h ago
 
 **[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 1h ago
 
 **[Exclusive: Linda McMahon bets on AI as agency shrinks](https://www.axios.com/2025/12/12/linda-mcmahon-ai-education)**
 
-Axios • 56m ago
+Axios • 1h ago
 
 ---
 
@@ -167,13 +167,13 @@ The Guardian • 10h ago
 
 **[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqfZSi1xo-Tp7qLYmJ1-S0oMI0uWWoGAgoPgvgWqPYGEo3DpH2P8ZlXJ&gaa_ts=693bf852&gaa_sig=JvxrITpSHNwt3-VnGfU_c9kE4SmwgwJPx_jZ6NlBA8pN0tsiqXPvG4hZbf8AmX4TWFQDHMKQUhza_pikM01-DA%3D%3D)**
 
-The Wall Street Journal • 13h ago
+The Wall Street Journal • 14h ago
 
 ---
 
 **[The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters from across Disney’s brands to Sora](https://openai.com/index/disney-sora-agreement/)**
 
-OpenAI • 20h ago
+OpenAI • 21h ago
 
 ---
 
@@ -181,13 +181,13 @@ OpenAI • 20h ago
 
 Titled “the most terrible time of the year,” the 45-second ad featured a series of mishaps befalling people at Christmas.
 
-NBC News • 20h ago
+NBC News • 21h ago
 
 ---
 
 **[Trump threatens funding for states over AI regulations](https://www.reuters.com/world/trump-says-he-will-sign-order-curbing-state-ai-laws-2025-12-11/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -199,7 +199,7 @@ Reuters • 3h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 360 • 💬 182 • 21h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 374 • 💬 191 • 21h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -223,7 +223,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 322 • 💬 2 • 20h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 322 • 💬 2 • 21h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -263,7 +263,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 110 • 💬 84 • 18h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 110 • 💬 84 • 19h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -285,7 +285,7 @@ Google has made some big shifts in the AI space! ☆SIGN UP FOR MY NEWSLETTER TO
 
 📺 Success With Sam
 
-👁️ 15K • 👍 742 • 💬 27 • ⏱️ 19:09 • 18h ago
+👁️ 15K • 👍 742 • 💬 27 • ⏱️ 19:09 • 19h ago
 
 ---
 
@@ -335,7 +335,7 @@ In this video, we put GPT‑5.2 to the ultimate test against Gemini 3.0 and Opus
 
 📺 WorldofAI
 
-👁️ 8K • 👍 205 • 💬 17 • ⏱️ 14:56 • 9h ago
+👁️ 8K • 👍 205 • 💬 17 • ⏱️ 14:56 • 10h ago
 
 ---
 
@@ -345,7 +345,7 @@ The video depicts a fictional scene inside a military warehouse, where Elon Musk
 
 📺 Zumi0101
 
-👁️ 11K • 👍 106 • 💬 2 • ⏱️ 0:17 • 10h ago
+👁️ 11K • 👍 106 • 💬 2 • ⏱️ 0:17 • 11h ago
 
 ---
 
@@ -391,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 750 • 3d ago
+⬇️ 105,962 • ❤️ 752 • 3d ago
 
 ---
 
@@ -415,7 +415,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 33,217 • ❤️ 363 • 2d ago
+⬇️ 33,217 • ❤️ 364 • 2d ago
 
 ---
 
@@ -427,7 +427,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 276 • 1h ago
+⬇️ 10,352 • ❤️ 277 • 1h ago
 
 ---
 
@@ -451,7 +451,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 23,012 • ❤️ 233 • 3d ago
+⬇️ 23,012 • ❤️ 235 • 3d ago
 
 ---
 
@@ -475,7 +475,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 662 • ❤️ 187 • 2h ago
+⬇️ 662 • ❤️ 188 • 3h ago
 
 ---
 
@@ -487,7 +487,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 50,491 • ❤️ 892 • 10d ago
+⬇️ 50,491 • ❤️ 892 • 11d ago
 
 ---
 
@@ -543,7 +543,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 114 • 💬 3 • ⭐ 283 • 2d ago
+▲ 114 • 💬 3 • ⭐ 283 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -581,7 +581,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 13 • 💬 2 • ⭐ 11,848 • 3d ago
+▲ 13 • 💬 2 • ⭐ 11,848 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 11.3k • 🔱 1.8k • 5h ago
+⭐ 11.3k • 🔱 1.8k • 6h ago
 
 ---
 
@@ -709,7 +709,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 939 • 🔱 65 • 2d ago
+⭐ 939 • 🔱 65 • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T10:56:41.126946+00:00'
+updated: '2025-12-12T11:24:28.239750+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 10:56 UTC  
+**Last Updated:** December 12, 2025 at 11:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,241.16
+### $3,242.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +6.9%  
-**30d:** +0.2%  
-**90d:** -29.5%  
-**1y:** -16.9%  
+**24h:** +0.9%  
+**7d:** +6.5%  
+**30d:** -0.2%  
+**90d:** -29.8%  
+**1y:** -17.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $391.81B
+**Market Cap:** $390.11B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.4%
+-34.6%
 
 **All-Time Low:** $0.43
-+749352.1%
++746573.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, total crypto newbie here. I need some guidance and expert advice on the best way to approach my financial needs. Context: I live in a developing country, and I am in desperate need of financial freedom. I started looking into stablecoins, especially USDT. I am not really looking into trading. My use case: Relative or friend in europe, they buy USDT on Binance or any other exchange platform, send that USDT to my Trust wallet. I store it, and occasionally send some pocket money to Redotpay to spend using their virtual visa card. That is pretty much about it. Storing it and spending with Redotpay. Not super interested in p2p market. So i dont think i will need to sell my USDT that often, almost never. So the market standard for p2p transactions isnt really a big concern. Might be interested in trading one day, but not for now. This is just for my personal finances and spending. The question I need help with: Should I use Ethereum or Tron. My findings with the research I did: Tron has cheaper gas fee, for when I transfer to Redotpay. But apparently Eth have dropped their transfer rates for USDT, and a lot of people claim it is around the same price now. Because the numbers I found are a little worrying: around 1 USD for Tron and between 3-8 USD for Eth. If you have any information about the rates that would be great. I am more inclined towards Eth to be fair. I just like the idea of a trully decentralized chain. And it has been king over a decade for good reasons. Also it is more secure. With the new EIP-7702 on Eth, you can now pay gas fee for transfers with USDT, which is very interesting, as I am not very comfortable with juggling two currencies. Since per my understanding, I need to always have TRX reserve in my Trust wallet to be able to send to Redotpay. Are the fees really that different to justify skipping on EIP-7702 ? Some people mentioned using an L2 on Eth. I honestly have no idea what that is. If i have got any concepts misunderstood, I would appreciate any clarifications and guidance. I still got a lot to learn about this field.
 
-18h ago
+19h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 6h ago
 
 Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ Barron's • 23h ago
 
 **[October 10 Crash Whale Adds $450M in Ethereum Longs — Can ETH Hit $5,000 by 2026?](https://www.ccn.com/news/crypto/october-10-crash-whale-450m-ethereum-longs-eth-hit-5000-by-2026/)**
 
-CCN.com • 19m ago
+CCN.com • 47m ago
 
 ---
 
@@ -214,7 +214,7 @@ Fortune • 3d ago
 
 Anthony Scaramucci showed up to Solana Breakpoint in Abu Dhabi wearing a tie — a small act of rebellion in a sea of hoodies — and then proceeded to make a much bigger one on stage: Solana is going to “flip” Ethereum.Scaramucci’s Solana PredictionNot in the Twitter-war, zero-sum, “ETH is dead” kind…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 📺 Ivan on Tech
 
-👁️ 25K • 👍 2K • 💬 120 • ⏱️ 10:42 • 19h ago
+👁️ 25K • 👍 2K • 💬 120 • ⏱️ 10:42 • 20h ago
 
 ---
 
@@ -266,7 +266,7 @@ Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author
 
 📺 CoinDesk
 
-👁️ 2K • 👍 64 • 💬 16 • ⏱️ 13:45 • 15h ago
+👁️ 2K • 👍 64 • 💬 16 • ⏱️ 13:45 • 16h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETH isn't just lagging — its story broke. It's down ~3× more than BTC from th
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 147 • 💬 18 • ⏱️ 15:43 • 15h ago
+👁️ 3K • 👍 147 • 💬 18 • ⏱️ 15:43 • 16h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T10:56:41.130223+00:00'
+updated: '2025-12-12T11:24:28.242966+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 10:56 UTC  
+**Last Updated:** December 12, 2025 at 11:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
+
+4h ago
+
+---
+
 **[Major robotics company shuts down?](https://www.reddit.com/r/robotics/comments/1pk9ow0/major_robotics_company_shuts_down/)**
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
 13h ago
-
----
-
-**[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
-
-3h ago
 
 ---
 
@@ -58,7 +58,15 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 Hi guys, I'm interested to know what you guys think. Opinionate away! I've been in the robotics industry for a few years now. I was speaking to my colleague whos a really good software engineer and he said he has no experience in hardware and is lowsy at connecting and building stuff...which surprised me alot. But then it got me thinking about products for those types of engineers... Do you think there is a market for a pre-built robotics platforms as a toy/collectible? I'm not talking YAHBOOM dev kits, im talking pretty well detailed and finished robot/toy that gives you full access to the inside to develop ontop of. i think the closest ive seen is the unitree go2 but you cant really jailbreak or dev ontop of that unless you get the $10K 'edu' version. I'd imagine there'd be alot of engineers out there who love the idea of having a robot for the home/office but cbf to build themselves...especially if you can just remote in and build software for it and deploy it from your couch. Testing chat bots w/ TTS and vice verse would be way more fun if you were talking to something reactive, no? I kinda wanna experiment with speech-to-action. so maybe i'll build something and show you guys in the future... To give you the synopsis, i designed this robot named SPOOK that im going to build when the parts arrive. My prototype is a hacked roomba. I made it a ghost to symbolise how the world is a little bit spooked by AI and Robotics (particularly the humanoids in your house idea). I also made it a ghost because my wife and i are talking about having kids and i thought this was kinda cute. When im done, you should be able to talk to it and do all kinds of stuff (thinking more an animate object, electronic pet robot with a personality) kind of thing. It will have all the functionality youd expect from something decent (return to charger, object detection, obstacle avoidance etc.). and im thinking of trying to build it for under $2500. In the meanwhile, what does reddit think? My colleague thinks its a cool idea. another friend told me he wanted to learn robotics and it would be cool to build this from an educational angle also....keen to know your thoughts!
 
-2h ago
+3h ago
+
+---
+
+**[AheadForm from Hangzhou: when speaking, the mouth movements are now synchronized with the speech, and the subtle facial expressions around the eyes are more refined](https://www.reddit.com/r/robotics/comments/1pkpc9o/aheadform_from_hangzhou_when_speaking_the_mouth/)**
+
+From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1999106881114312756 Website: https://www.aheadform.com/
+
+11m ago
 
 ---
 
@@ -78,14 +86,6 @@ The whole setup (belt motion, detection triggers, timing, etc.) is built inside 
 
 ---
 
-**[Question: Does anyone here actually use mujoco for work, or are they just things hobbyists and companies who made them use?](https://www.reddit.com/r/robotics/comments/1pkgxjv/question_does_anyone_here_actually_use_mujoco_for/)**
-
-I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
-
-7h ago
-
----
-
 **[My inverse kinematics are flawless and everything is going according to plan](https://www.reddit.com/r/robotics/comments/1pjka0v/my_inverse_kinematics_are_flawless_and_everything/)**
 
 I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a globe on my desk. I’ve got the servos, the custom 3d printed model, and most of the code sorted, but the inverse kinematics is still having a few tantrums. The endpoint is supposed to be following a circular path.
@@ -94,19 +94,19 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 ---
 
+**[Question: Does anyone here actually use mujoco for work, or are they just things hobbyists and companies who made them use?](https://www.reddit.com/r/robotics/comments/1pkgxjv/question_does_anyone_here_actually_use_mujoco_for/)**
+
+I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
+
+8h ago
+
+---
+
 **[What could be possible in humanoid elderly care (ROBOTGYM)](https://www.reddit.com/r/robotics/comments/1pjoo5e/what_could_be_possible_in_humanoid_elderly_care/)**
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 1d ago
-
----
-
-**[Thoughts on TetherIA's Open Aero Hand](https://www.reddit.com/r/robotics/comments/1pki1vp/thoughts_on_tetherias_open_aero_hand/)**
-
-https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on these hands - anyone here purchased one or is thinking of purchasing one? I ask because I've been thinking about buying
-
-7h ago
 
 ---
 
@@ -144,19 +144,19 @@ Deloitte • 2d ago
 
 ---
 
+**[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
+
+Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
+
+NVIDIA Developer • 19h ago
+
+---
+
 **[1X struck a deal to send its ‘home’ humanoids to factories and warehouses](https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/)**
 
 Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.
 
-TechCrunch • 12h ago
-
----
-
-**[Watch Apollo humanoid robot tackle never-before-seen objects with Google DeepMind](https://interestingengineering.com/ai-robotics/google-deepmind-apollo-humanoid-robot)**
-
-Google DeepMind shows Apollo humanoid handling unfamiliar objects and following voice commands, alongside Aloha robots performing tasks.
-
-Interesting Engineering • 21h ago
+TechCrunch • 13h ago
 
 ---
 
@@ -182,11 +182,11 @@ Chron • 1d ago
 
 ---
 
-**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
+**[Naperville teens make history at international robotics competition](https://www.nctv17.org/news/naperville-teens-make-history-at-international-robotics-competition/)**
 
-The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
+Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
 
-MLive.com • 2d ago
+NCTV17 • 2d ago
 
 ---
 
@@ -228,7 +228,7 @@ Ukraine's battlefield is changing fast as ground robots move from support roles 
 
 📺 The Military Show
 
-👁️ 262K • 👍 8K • 💬 430 • ⏱️ 16:55 • 20h ago
+👁️ 262K • 👍 8K • 💬 430 • ⏱️ 16:55 • 21h ago
 
 ---
 
@@ -268,7 +268,7 @@ Robotic arm wrist prototype assembly featuring my new three-ring cycloidal gearb
 
 📺 Mishin Machine
 
-👁️ 10K • 👍 439 • 💬 7 • ⏱️ 1:04 • 20h ago
+👁️ 10K • 👍 439 • 💬 7 • ⏱️ 1:04 • 21h ago
 
 ---
 

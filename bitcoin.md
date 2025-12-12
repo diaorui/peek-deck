@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T10:56:41.120798+00:00'
+updated: '2025-12-12T11:24:28.233799+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 10:56 UTC  
+**Last Updated:** December 12, 2025 at 11:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +3.2%  
-**30d:** -7.6%  
-**90d:** -20.1%  
-**1y:** -9.0%  
+**24h:** +2.0%  
+**7d:** +3.1%  
+**30d:** -7.8%  
+**90d:** -20.2%  
+**1y:** -9.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1845.10B
+**Market Cap:** $1842.94B
 Rank #1
 
-**Circulating Supply:** 19,961,062 BTC
+**Circulating Supply:** 19,961,093 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.7%
+-26.8%
 
 **All-Time Low:** $67.81
-+136213.2%
++136064.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -91,13 +91,7 @@ Rank #1
 
 **[Looking at early buyers, but knowing that soon $114K will look cheap too.](https://www.reddit.com/r/Bitcoin/comments/1pjzlqa/looking_at_early_buyers_but_knowing_that_soon/)**
 
-19h ago
-
----
-
-**[Most of you guys will relate to this...](https://www.reddit.com/r/Bitcoin/comments/1pkmy47/most_of_you_guys_will_relate_to_this/)**
-
-2h ago
+20h ago
 
 ---
 
@@ -105,7 +99,7 @@ Rank #1
 
 The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his hashrate is 268TH/s and Jesus! the difficulty he has hit is 2.6P!!! Way above the 150T network difficulty!
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +107,7 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +119,7 @@ Made a little edit on the pump it up song to include the current craziness going
 
 **[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -140,6 +134,14 @@ are we coming out of the worst of it? stock market is at highs, and even the AI 
 **[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
 
 21h ago
+
+---
+
+**[Is today a good day to start investing in Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1pk7kak/is_today_a_good_day_to_start_investing_in_bitcoin/)**
+
+For context I never touched any crypto before. Is 100€ as starting too little? What would you put in?
+
+15h ago
 
 ---
 
@@ -167,7 +169,7 @@ BBC • 1d ago
 
 I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
-Forbes • 25m ago
+Forbes • 52m ago
 
 ---
 
@@ -201,7 +203,7 @@ Investor's Business Daily • 16h ago
 
 **[Strategy: Index Exclusion Is Anti-Trump, Anti-Bitcoin](https://www.investors.com/news/strategy-mstr-stock-msci-index-exclusion-anti-trump-bitcoin-price-impact/)**
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 20h ago
 
 ---
 
@@ -311,7 +313,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 814 • 💬 12 • ⏱️ 48:24 • 12h ago
+👁️ 16K • 👍 814 • 💬 12 • ⏱️ 48:24 • 13h ago
 
 ---
 
@@ -321,7 +323,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 149 • 💬 42 • ⏱️ 22:05 • 11h ago
+👁️ 3K • 👍 149 • 💬 42 • ⏱️ 22:05 • 12h ago
 
 ---
 
@@ -371,7 +373,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 153 • ⏱️ 18:22 • 10h ago
+👁️ 20K • 👍 2K • 💬 153 • ⏱️ 18:22 • 11h ago
 
 ---
 
@@ -391,7 +393,7 @@ Bear or Bull? Bearish short term, but buying every day! The links below may incl
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 720 • 💬 48 • ⏱️ 44:51 • 15h ago
+👁️ 11K • 👍 720 • 💬 48 • ⏱️ 44:51 • 16h ago
 
 ---
 
