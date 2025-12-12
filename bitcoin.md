@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T19:51:22.591166+00:00'
+updated: '2025-12-12T20:13:58.435259+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 19:51 UTC  
+**Last Updated:** December 12, 2025 at 20:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** +0.7%  
-**30d:** -9.9%  
-**90d:** -22.0%  
-**1y:** -11.2%  
+**24h:** -2.9%  
+**7d:** +1.0%  
+**30d:** -9.7%  
+**90d:** -21.9%  
+**1y:** -11.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.58B
+**Market Cap:** $1801.03B
 Rank #1
 
-**Circulating Supply:** 19,961,237 BTC
+**Circulating Supply:** 19,961,265 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.5%
 
 **All-Time Low:** $67.81
-+132949.7%
++132815.5%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 C’mon Bitcoin, you can do it
 
-6h ago
+7h ago
 
 ---
 
@@ -103,15 +103,15 @@ C’mon Bitcoin, you can do it
 
 ---
 
-**[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
-
-6h ago
-
----
-
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
 1h ago
+
+---
+
+**[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
+
+7h ago
 
 ---
 
@@ -151,7 +151,7 @@ Trinidad and Tobago amends the original two‑year blanket ban on crypto. The st
 
 Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 1d ago
 
 Oracle's earnings miss and $80B market cap wipeout show how tightly Bitcoin now tracks AI-driven tech risk, but the policy response to a credit crunch could recreate the liquidity conditions.
 
-CryptoSlate • 9h ago
+CryptoSlate • 10h ago
 
 ---
 
@@ -175,17 +175,25 @@ Investor's Business Daily • 3h ago
 
 ---
 
-**[Bitcoin Drifts Lower With Any Push Higher Being Met by Fresh Sellers](https://www.bloomberg.com/news/articles/2025-12-12/bitcoin-drifts-lower-with-any-push-higher-being-met-by-fresh-sellers)**
+**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-Bitcoin continues to drift toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October.
-
-Bloomberg.com • 1h ago
+x.com • 6h ago
 
 ---
 
-**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
 
-x.com • 5h ago
+Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+
+Forbes • 7h ago
 
 ---
 
@@ -197,27 +205,19 @@ Forbes • 9h ago
 
 ---
 
+**[Bitcoin Drifts Lower With Any Push Higher Being Met by Fresh Sellers](https://www.bloomberg.com/news/articles/2025-12-12/bitcoin-drifts-lower-with-any-push-higher-being-met-by-fresh-sellers)**
+
+Bitcoin continues to drift toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October.
+
+Bloomberg.com • 2h ago
+
+---
+
 **[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
 
 Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
 
 Yahoo Finance • 1d ago
-
----
-
-**[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
-
-Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
-
-BBC • 1d ago
-
----
-
-**[What’s Next for Bitcoin? VanEck’s Sigel on the Crypto Plunge and Outlook](https://www.morningstar.com/alternative-investments/whats-next-bitcoin-vanecks-sigel-crypto-plunge-outlook)**
-
-Sigel explains the leverage-driven selloff and his view of the long-term bull case for crypto.
-
-Morningstar • 8h ago
 
 ---
 
@@ -245,7 +245,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 13h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 14h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -289,7 +289,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 10h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 11h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -297,7 +297,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 7 • 💬 0 • 21h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 7 • 💬 0 • 22h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -321,7 +321,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 1K • 💬 12 • ⏱️ 48:24 • 21h ago
+👁️ 21K • 👍 1K • 💬 12 • ⏱️ 48:24 • 22h ago
 
 ---
 
@@ -351,7 +351,7 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 170 • ⏱️ 18:22 • 19h ago
+👁️ 26K • 👍 2K • 💬 170 • ⏱️ 18:22 • 20h ago
 
 ---
 

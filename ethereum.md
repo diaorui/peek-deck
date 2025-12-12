@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T19:51:22.597256+00:00'
+updated: '2025-12-12T20:13:58.441260+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 19:51 UTC  
+**Last Updated:** December 12, 2025 at 20:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.7%  
-**7d:** +1.1%  
-**30d:** -5.2%  
-**90d:** -33.3%  
-**1y:** -21.4%  
+**24h:** -5.3%  
+**7d:** +1.4%  
+**30d:** -5.0%  
+**90d:** -33.2%  
+**1y:** -21.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $371.21B
+**Market Cap:** $371.17B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.8%
+-37.9%
 
 **All-Time Low:** $0.43
-+710135.4%
++709712.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 6h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 7h ago
+
+---
+
+**[1-Year Anniversary of EigenCloud's 1% Protocol Guild Pledge Contribution](https://www.reddit.com/r/ethereum/comments/1pl0vsm/1year_anniversary_of_eigenclouds_1_protocol_guild/)**
+
+One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
+
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 42m ago
 
 ---
 
@@ -88,7 +96,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 6h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 7h ago
 
 ---
 
@@ -140,25 +148,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[take the zk pill, you stay in the provable reality, and EF's institutional privacy lead oskar thorén will show you how deep the rabbit hole goes...](https://www.reddit.com/r/ethereum/comments/1pj6sl7/take_the_zk_pill_you_stay_in_the_provable_reality/)**
-
-oskar thorén is one of the leads in ethereum foundation's newest IPTF, or institutional privacy task force. he's a freedom maxi, zero-knowledge wizard, taiwan expart, and a dear friend. an electric mix of sovereign energy! oskar is one of the most well spoken advocates for privacy, zk, and self-custody, and in this interview where we hiked xiangshan in taipei, he holds nothing back to give us banger insight after banger insight. we talked all things zk and privacy, including: how the snowden revelations ignited his passion his early work in Vac and Waku to create encrypted messaging back when early ethereum was only 3 pillars (eth/swarm/whisper) how it informed his passion for zero knowledge cryptography and the technical applications of it to privacy-preservation his contributions to MoPro, a zk mobile proving toolkit that's bringing zk ever closer to reality on our phones his work on https://zkintro.com where he creates friendly resources to zero-knowledge cryptography from beginners to engineers to researchers, how his latest venture as one of the co-leads in the EF's newest task force, the Institutional Privacy Task Force, is bringing cypherpunk-grade privacy to the world's biggest financial institutions, and his 3-pronged mindset to achieving self-sovereignty you can catch the full interview on my youtube channel at: https://youtu.be/_BWRyIqCmVI --------------------------- if we're meeting for the first time, hi 👋! i spread the good word on good work in crypto. it's a challenging road fighting the cesspool that is crypto youtube... but im energized by creating principles-led, values-driven content a like, sub, comment, share goes a long way <3
-
-🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://finance.yahoo.com/news/tom-lee-bitmine-adds-112m-132425778.html)**
-
-Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
-
-Yahoo Finance • 1d ago
-
----
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
@@ -166,11 +158,49 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Has Bottomed, Says BitMine Chairman Tom Lee—Here's Why](https://decrypt.co/351828/ethereum-bottomed-bitmine-chairman-tom-lee)**
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://www.fool.com/investing/2025/12/12/why-ethereum-sank-5-today-while-the-crypto-market/)**
 
-BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
+Sentiment around Ethereum has been bouncing around considerably in recent days.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
+
+Sentiment around Ethereum has been bouncing around considerably in recent days.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
+
+Binance • 17h ago
+
+---
+
+**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
+
+Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
+
+CoinDesk • 15h ago
+
+---
+
+**[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://decrypt.co/351847/bitcoin-ethereum-federal-reserve-cuts-rates)**
+
+The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
 
 Decrypt • 2d ago
+
+---
+
+**[Arthur Hayes Makes Wild Ethereum Prediction for 2026 and Beyond](https://www.tradingview.com/news/beincrypto:f3ccde85e094b:0-arthur-hayes-makes-wild-ethereum-prediction-for-2026-and-beyond/)**
+
+Ethereum’s long-term trajectory has become a focal point again after Arthur Hayes laid out a sweeping forecast for the asset’s institutional future, price potential, and competitive space. His comments arrived as Ethereum trades near $3,200, fluctuating between $3,060 and $3,440 over the past week…
+
+TradingView • 1d ago
 
 ---
 
@@ -180,49 +210,19 @@ CCN.com • 8h ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-latest-news-analyst-forecasts-and-whats-driving-the-ethereum-treasury-trade-dec-12-2025/)**
+**[Crypto Today: Bitcoin, Ethereum hold steady as XRP ETF inflows surge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-aim-for-recovery-xrp-holds-key-support-202512121200)**
 
-BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
+Bitcoin (BTC) is trading above $92,000 at the time of writing on Friday, as volatility across the cryptocurrency market cools following the Federal Reserve’s (Fed) hawkish interest rate cut.
 
-ts2.tech • 4h ago
-
----
-
-**[Tom Lee Says “Investors Are Still Early” as Bitcoin and Ethereum Enter Super-Cycle](https://www.tradingview.com/news/coinpedia:de92ffdf6094b:0-tom-lee-says-investors-are-still-early-as-bitcoin-and-ethereum-enter-super-cycle/)**
-
-Bitcoin price today is moving toward a critical retest of the $91.8K resistance level, a level it lost after the recent FOMC meeting that triggered a broad market correction. Despite growing concern, the market structure still shows higher lows across lower timeframes, indicating that the broader u…
-
-TradingView • 1d ago
+FXStreet • 8h ago
 
 ---
 
-**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://decrypt.co/351466/tom-lee-bitmine-buys-429-million-ethereum-eth-rebounds)**
+**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
 
-Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
+BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
 
-Decrypt • 4d ago
-
----
-
-**[Here’s why BitMine stock price is ripe for a strong comeback](https://www.tradingview.com/news/invezz:c0178bc83094b:0-here-s-why-bitmine-stock-price-is-ripe-for-a-strong-comeback/)**
-
-The BitMine stock price has suffered a harsh reversal in the past few months as demand for crypto treasury companies waned in Wall Street and as Ethereum retreated from its all-time high. Still, fundamentals suggest that the stock will rebound, and possibly blast past $70, its highest level in Octo…
-
-TradingView • 2d ago
-
----
-
-**[BitMine’s 5% Ethereum Accumulation Bet: Supply Shock and Market Implications](https://www.ccn.com/education/crypto/bitmine-5-ethereum-accumulation-supply-shock-market-implications/)**
-
-CCN.com • 1h ago
-
----
-
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://www.fool.com/investing/2025/12/12/why-ethereum-sank-5-today-while-the-crypto-market/)**
-
-Sentiment around Ethereum has been bouncing around considerably in recent days.
-
-The Motley Fool • 2h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 11K • 👍 580 • 💬 53 • ⏱️ 48:17 • 7h ago
+👁️ 11K • 👍 580 • 💬 53 • ⏱️ 48:17 • 8h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 360 • 💬 141 • ⏱️ 18:15 • 20h ago
+👁️ 10K • 👍 360 • 💬 141 • ⏱️ 18:15 • 21h ago
 
 ---
 
