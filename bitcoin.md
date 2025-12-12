@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T17:11:53.750490+00:00'
+updated: '2025-12-12T17:35:13.612057+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 17:11 UTC  
+**Last Updated:** December 12, 2025 at 17:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,735.37
+### $89,831.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +1.1%  
-**30d:** -9.5%  
+**24h:** -0.5%  
+**7d:** +1.0%  
+**30d:** -9.6%  
 **90d:** -21.8%  
-**1y:** -10.9%  
+**1y:** -11.0%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -111,7 +111,7 @@ C’mon Bitcoin, you can do it
 
 **[Here we go again.](https://www.reddit.com/r/Bitcoin/comments/1pkw7mc/here_we_go_again/)**
 
-44m ago
+1h ago
 
 ---
 
@@ -119,7 +119,7 @@ C’mon Bitcoin, you can do it
 
 PNC Bank just started selling Bitcoin to their clients. Not through some sketchy app. Through their regular banking platform. Powered by Coinbase. The seventh-largest bank in America looked at bitcoin and didn't see an enemy. They saw a partner. For years, the debate was Bitcoin versus banks. Us versus them. Choose a side. Turns out the winners weren't choosing. They were combining. I co-founded India's first Bitcoin exchange in 2013. We survived a central bank ban. We won in the Supreme Court. We've served over two million people. And the whole time, the loudest voices kept telling me to pick a lane. Bitcoin OR banks. Disruption OR compliance. Revolution OR evolution. I refused. Here's what I learned: The people who change industries don't burn bridges. They build them. When we started our Bitcoin meetups in Bangalore, we held them at the Leela Palace—a six-star hotel. Not because we had money to burn. Because bankers and lawyers and skeptics don't show up to basements. If you're only talking to people who already agree with you, you're not evangelizing. You're just having a meeting. PNC didn't become a bitcoin company. Coinbase didn't become a bank. They each brought what they were good at. That's not compromise. That's leverage. The question isn't Bitcoin or blockchain. The question is: Who have you written off that's actually ready to listen?
 
-4h ago
+5h ago
 
 ---
 
@@ -127,7 +127,7 @@ PNC Bank just started selling Bitcoin to their clients. Not through some sketchy
 
 Trinidad and Tobago amends the original two‑year blanket ban on crypto. The strict ban has been significantly softened: the bill has passed with 200+
 
-🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 3h ago
+🔗 [Lightning News](https://lightning.news/trinidad-tobago-reverse-bitcoin-ban/) • 4h ago
 
 ---
 
@@ -149,7 +149,7 @@ Trinidad and Tobago amends the original two‑year blanket ban on crypto. The st
 
 **[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 55m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Barron's • 2d ago
 
 A $100 million Bitcoin-backed municipal bond, the first to be collateralized by the cryptocurrency, was approved in New Hampshire last month.The bond still has to be approved by New Hampshire Gov. Kelly Ayotte and the state Executive Council before ...
 
-Yahoo Finance • 25m ago
+Yahoo Finance • 48m ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 25m ago
 
 I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
@@ -185,7 +185,7 @@ x.com • 3h ago
 
 Michael Saylor claims Strategy’s aggressive accumulation is accelerating Bitcoin adoption, potentially driving its price to $10 million, though analysts warn of a possible bear market.
 
-Bitbo • 5h ago
+Bitbo • 6h ago
 
 ---
 
@@ -215,7 +215,7 @@ Reuters • 1d ago
 
 BitMine Immersion Technologies Chairman Tom Lee praised Bitcoin treasury firm Strategy's massive new cash reserve. Here's why.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -259,7 +259,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 3d ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -309,17 +309,17 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 19K • 👍 969 • 💬 12 • ⏱️ 48:24 • 19h ago
+👁️ 20K • 👍 1K • 💬 12 • ⏱️ 48:24 • 19h ago
 
 ---
 
-**[The Fed CUTS… and Bitcoin DROPS Below $90K?!](https://www.youtube.com/watch?v=u_H9gXNc630)**
+**[BITCOIN BAD: GET OUT?](https://www.youtube.com/watch?v=mlzJcGVs2eI)**
 
-Jerome Powell just went full-dovish — QT is winding down, liquidity is returning, and rate hikes are off the table. Bitcoin dipped ...
+Bitcoin bear flag. 300k scenario revisit. What I will do in 2026. Larsson Line Pro https://www.ctolarsson.com ❌ X ...
 
-📺 Simply Bitcoin
+📺 CTO LARSSON
 
-👁️ 24K • 👍 2K • 💬 181 • ⏱️ 18:22 • 17h ago
+👁️ 8K • 👍 1K • 💬 99 • ⏱️ 13:21 • 4h ago
 
 ---
 
@@ -329,17 +329,27 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 12K • 👍 136 • 💬 85 • ⏱️ 4:06 • 22h ago
+👁️ 13K • 👍 145 • 💬 88 • ⏱️ 4:06 • 22h ago
 
 ---
 
-**[Everything Says Bull Run for Bitcoin… Except the Price. Time to Take Action?](https://www.youtube.com/watch?v=Z1_Fq5oH0C0)**
+**[The Fed CUTS… and Bitcoin DROPS Below $90K?!](https://www.youtube.com/watch?v=u_H9gXNc630)**
 
-Bear or Bull? Bearish short term, but buying every day! The links below may include affiliate links, which means I may receive a ...
+Jerome Powell just went full-dovish — QT is winding down, liquidity is returning, and rate hikes are off the table. Bitcoin dipped ...
 
-📺 Digital Asset News
+📺 Simply Bitcoin
 
-👁️ 11K • 👍 760 • 💬 56 • ⏱️ 44:51 • 22h ago
+👁️ 25K • 👍 2K • 💬 163 • ⏱️ 18:22 • 17h ago
+
+---
+
+**[5 Bitcoin for WHAT?!😨🤯](https://www.youtube.com/watch?v=QxYP-j8DAPs)**
+
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+
+📺 Crypto Cam
+
+👁️ 18K • 👍 455 • 💬 37 • ⏱️ 0:27 • 1d ago
 
 ---
 
@@ -353,13 +363,23 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 ---
 
+**[Why Isn&#39;t Bitcoin Pumping on all of this Good News???](https://www.youtube.com/watch?v=Oj4_3sMbmhQ)**
+
+How can Bitcoin look so weak on the charts despite getting some of the most bullish macro headlines we've ever seen? With talk ...
+
+📺 Coin Bureau Trading
+
+👁️ 5K • 👍 459 • 💬 62 • ⏱️ 13:24 • 8h ago
+
+---
+
 **[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
 
 LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 253 • ⏱️ 10:23 • 1d ago
+👁️ 56K • 👍 3K • 💬 256 • ⏱️ 10:23 • 1d ago
 
 ---
 
@@ -369,27 +389,7 @@ Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be 
 
 📺 Mark Moss
 
-👁️ 122K • 👍 6K • 💬 394 • ⏱️ 21:05 • 1d ago
-
----
-
-**[Bitcoin: Historic Performance in Mid-Term Years (2026 Outlook)](https://www.youtube.com/watch?v=Hr_pS_z3wlk)**
-
-TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 11K • 👍 713 • 💬 233 • ⏱️ 27:57 • 10h ago
-
----
-
-**[🚨 FED CUTS AND BITCOIN DUMPS?!?!?!?! 🤷🏽‍♂️](https://www.youtube.com/watch?v=eN0aGirkevM)**
-
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 14K • 👍 1K • 💬 327 • ⏱️ 14:43 • 21h ago
+👁️ 124K • 👍 6K • 💬 410 • ⏱️ 21:05 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 697 • 💬 41 • ⏱️ 11:29 • 1d ago
+👁️ 17K • 👍 701 • 💬 41 • ⏱️ 11:29 • 1d ago
 
 ---
 

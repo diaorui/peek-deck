@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T17:11:53.742040+00:00'
+updated: '2025-12-12T17:35:13.603600+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 17:11 UTC  
+**Last Updated:** December 12, 2025 at 17:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 21h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 22h ago
 
 ---
 
@@ -81,7 +81,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.”
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 20m ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 43m ago
 
 ---
 
@@ -89,7 +89,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 A bill that passed the New York legislature was completely gutted and substituted with language perceived as friendlier to the industry.
 
-🔗 [The American Prospect](https://prospect.org/2025/12/11/hochul-caves-big-tech-ai-safety-bill-new-york/) • 54m ago
+🔗 [The American Prospect](https://prospect.org/2025/12/11/hochul-caves-big-tech-ai-safety-bill-new-york/) • 1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hey guys, I(M18) am completely new to content creation. I always wanted to be a 
 
 Fears about AI data centers’ water use have exploded. Experts say the reality is far more complicated than people think.
 
-🔗 [WIRED](https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/) • 5m ago
+🔗 [WIRED](https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/) • 28m ago
 
 ---
 
@@ -113,7 +113,7 @@ Fears about AI data centers’ water use have exploded. Experts say the reality 
 
 12/11 OpenAI releases ChatGPT 5.2: The release came amid increasing competition from Google and was pitched as designed for developers and everyday professional use. 12/11 ChatGPT’s ‘adult mode’ is expected to debut in Q1 2026: The company wants to get better at age prediction before introducing the new feature. 12/11 Disney signs deal with OpenAI to allow Sora to generate AI videos featuring its characters: The three-year partnership with OpenAI will bring its iconic characters to the company’s Sora AI video generator. The company is also making a $1 billion equity investment in OpenAI. There was a leak the same day that Disney hit Google with a cease-and-desist claiming ‘massive’ copyright infringement. 12/11 TIME names ‘Architects of AI’ its Person of the Year: Some of those people appear to be Nvidia’s Jensen Huang, Tesla’s Elon Musk, OpenAI’s Sam Altman, Meta’s Mark Zuckerberg, AMD’s Lisa Su, Anthropic’s Dario Amodei, Google DeepMind’s Demis Hassabis, and World Labs’ Fei-Fei Li. 12/11 Runway releases its first world model: Dubbed GWM-1, the model works through frame-by-frame prediction, creating a simulation with an understanding of physics and how the world actually behaves over time. 12/10 Adobe Photoshop comes to ChatGPT: The partnership will reportedly let users harness the natural language processing power of ChatGPT to do the photoshopping for them, like fine tuning details, blurring backgrounds, and applying custom effects. 12/10 OpenAI report reveals a 6x productivity gap between AI power users and everyone else: According to a new report from OpenAI analyzing usage patterns across its more than one million business customers, workers at the 95th percentile of AI adoption are sending six times as many messages to ChatGPT as the median employee at the same companies. 12/9 EU launches antitrust probe into Google’s AI search tools: The European Commission has launched an investigation into whether Google may have breached EU’s competition laws by using content from websites without compensating owners to generate answers for its AI summaries that appear above search results. 12/9 Amazon’s Ring rolls out controversial, AI-powered facial-recognition feature to video doorbells: The feature lets users identify the people who regularly come to their door by creating a catalog of up to 50 faces. 12/9 Mistral launches Devstral 2 models: The release includes a new pair of models optimized for software engineering tasks, with one small enough to run on a single laptop, offline and privately—as well as Mistral Vibe, a CLI agent designed to allow developers to call the models up directly within their terminal environments. 12/9 McDonald’s pulls AI-generated holiday ad after deluge of mockery: McDonald’s decided to get in on the corporate slopfest with a 45-second Christmas spot cooked up for its Netherlands division by the ad agency TBWA\Neboko. The ad was removed in infamy but it can viewed it here. 12/9 OpenAI announces ‘AI Foundations’: It will be a certification course designed to standardize how employees learn and apply AI. The company intends to certify 10 million Americans by 2030. 12/8 Trump greenlights Nvidia H200 AI chip sales to China: 25% of the chip sales will be paid to the U.S. government as part of the deal. 12/8 Users can buy Instacart groceries without leaving ChatGPT: OpenAI and Instacart are launching a grocery shopping experience inside of ChatGPT, allowing customers to brainstorm meal ideas, make a grocery list, and check out, all without leaving the chat interface. 12/5 Claude Code is coming to Slack: Previously, developers could only get lightweight coding help via Claude in Slack—like writing snippets, debugging, and explanations. Now users can tag u/Claude to spin up a complete coding session using Slack context like bug reports or feature requests. Get more events details and links from my AI Timeline.
 
-33m ago
+56m ago
 
 ---
 
@@ -147,7 +147,7 @@ NBC News • 1h ago
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-Fortune • 17m ago
+Fortune • 41m ago
 
 ---
 
@@ -163,13 +163,13 @@ Rolling Stone • 1h ago
 
 AI-related names have made losses since Oracle's mixed results on Wednesday.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
 **[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 9m ago
+The Washington Post • 32m ago
 
 ---
 
@@ -177,7 +177,7 @@ The Washington Post • 9m ago
 
 The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
 
-The New Yorker • 5h ago
+The New Yorker • 6h ago
 
 ---
 
@@ -281,33 +281,33 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 ## YouTube Videos: "ai"
 
-**[Google CEO RELEASES New AI that Can Start a One Person Business](https://www.youtube.com/watch?v=Q8bZ890Kz4U)**
-
-Google has made some big shifts in the AI space! ☆SIGN UP FOR MY NEWSLETTER TODAY:☆ ➡️ https://bit.ly/3QHV4wV ...
-
-📺 Success With Sam
-
-👁️ 18K • 👍 848 • 💬 33 • ⏱️ 19:09 • 1d ago
-
----
-
 **[AGI Just Became Real... It’s done!](https://www.youtube.com/watch?v=L8J3OSQfcT4)**
 
 A Tokyo startup just shocked the industry. Integral AI claims it built the first AGI-capable system — a model that learns new skills ...
 
 📺 AI Revolution
 
-👁️ 28K • 👍 1K • 💬 213 • ⏱️ 14:58 • 17h ago
+👁️ 30K • 👍 1K • 💬 227 • ⏱️ 14:58 • 17h ago
 
 ---
 
-**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
+**[Google CEO RELEASES New AI that Can Start a One Person Business](https://www.youtube.com/watch?v=Q8bZ890Kz4U)**
 
-I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
+Google has made some big shifts in the AI space! ☆SIGN UP FOR MY NEWSLETTER TODAY:☆ ➡️ https://bit.ly/3QHV4wV ...
 
-📺 CaylusBlox
+📺 Success With Sam
 
-👁️ 287K • 👍 8K • 💬 1K • ⏱️ 13:43 • 21h ago
+👁️ 20K • 👍 908 • 💬 35 • ⏱️ 19:09 • 1d ago
+
+---
+
+**[The AI Dilemma — with Tristan Harris](https://www.youtube.com/watch?v=MLvxRHlsMz0)**
+
+Tristan Harris, former Google design ethicist and co-founder of the Center for Humane Technology, joins Scott Galloway to explain ...
+
+📺 The Prof G Pod – Scott Galloway
+
+👁️ 42K • 👍 1K • 💬 222 • ⏱️ 57:16 • 20h ago
 
 ---
 
@@ -317,17 +317,27 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 51K • 👍 3K • 💬 371 • ⏱️ 14:55 • 1d ago
+👁️ 51K • 👍 3K • 💬 372 • ⏱️ 14:55 • 1d ago
 
 ---
 
-**[McDonald’s Pulls ‘Creepy’ AI Christmas ad After Viewer Backlash: ‘As Real as Their Hamburgers’](https://www.youtube.com/watch?v=HpWCvItr55c)**
+**[Howard Marks Says AI Terrifying for Jobs](https://www.youtube.com/watch?v=zIzmceyc4_s)**
 
-McDonald's has taken down a Christmas ad that was allegedly entirely produced with artificial intelligence after the brand was ...
+Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillance he thinks the current market seems ...
 
-📺 New York Post
+📺 Bloomberg Podcasts
 
-👁️ 63K • 👍 404 • 💬 278 • ⏱️ 2:58 • 1d ago
+👁️ 40K • 👍 604 • 💬 125 • ⏱️ 10:31 • 1d ago
+
+---
+
+**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
+
+I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
+
+📺 CaylusBlox
+
+👁️ 307K • 👍 8K • 💬 1K • ⏱️ 13:43 • 22h ago
 
 ---
 
@@ -337,7 +347,17 @@ While everyone's chasing the AI boom, Oracle just exposed the ugly truth: Their 
 
 📺 Steven Van Metre
 
-👁️ 35K • 👍 2K • 💬 243 • ⏱️ 13:13 • 18h ago
+👁️ 36K • 👍 2K • 💬 246 • ⏱️ 13:13 • 18h ago
+
+---
+
+**[Gavin Newsom posts AI-generated video of Trump admin getting arrested](https://www.youtube.com/watch?v=b8Pw-B1BqM0)**
+
+shorts.
+
+📺 Brian Tyler Cohen
+
+👁️ 644K • 👍 37K • 💬 4K • ⏱️ 0:19 • 20h ago
 
 ---
 
@@ -347,35 +367,17 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 47K • 👍 2K • 💬 78 • ⏱️ 12:50 • 2d ago
+👁️ 47K • 👍 2K • 💬 82 • ⏱️ 12:50 • 2d ago
 
 ---
 
-**[In 2026, DON&#39;T Build AI Agents, Do This Instead..](https://www.youtube.com/watch?v=VASyr2DxEKE)**
+**[Expect a fierce AI battle between OpenAI, Anthropic, Google: Big Technology&#39;s Kantrowitz](https://www.youtube.com/watch?v=LZMtKODB9hI)**
 
-Check out Nebius today: ...
+CNBC's "The Exchange" team discusses OpenAI's GPT-5.2 AI model announcement and what it means for the AI race with Alex ...
 
-📺 The Cutting Edge School
+📺 CNBC Television
 
-👁️ 17K • 👍 1K • 💬 104 • ⏱️ 13:41 • 1d ago
-
----
-
-**[Americans are in Love with AI Partners and it&#39;s absolutely Insane #AI  #Airelationships #USA](https://www.youtube.com/watch?v=w4VxvtP0TIE)**
-
-📺 Career247
-
-👁️ 661K • 👍 38K • 💬 2K • ⏱️ 1:48 • 2d ago
-
----
-
-**[Brave Lady Soldier Rescue Grandmother from Giant Crocodile! #ai #cocodile #rescue](https://www.youtube.com/watch?v=M7c5wTKFG6o)**
-
-Brave Lady Soldier Rescue Grandmother from Giant Crocodile! #ai #cocodile #rescue.
-
-📺 AiStory A2.0
-
-👁️ 37K • 💬 1 • ⏱️ 0:20 • 14h ago
+👁️ 16K • 👍 133 • 💬 68 • ⏱️ 4:03 • 22h ago
 
 ---
 
@@ -427,7 +429,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 286 • 7h ago
+⬇️ 10,352 • ❤️ 286 • 8h ago
 
 ---
 
@@ -650,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 12.0k • 🔱 1.9k • 12m ago
+⭐ 12.0k • 🔱 1.9k • 35m ago
 
 ---
 
@@ -660,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.3k • 🔱 259 • 10h ago
+⭐ 2.3k • 🔱 259 • 11h ago
 
 ---
 

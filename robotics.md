@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T17:11:53.759926+00:00'
+updated: '2025-12-12T17:35:13.621443+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 17:11 UTC  
+**Last Updated:** December 12, 2025 at 17:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
-2h ago
+3h ago
 
 ---
 
 **[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -62,7 +62,7 @@ The whole setup (belt motion, detection triggers, timing, etc.) is built inside 
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-19h ago
+20h ago
 
 ---
 
@@ -70,7 +70,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 Hi everyone, Am working on a monocular VIO frontend, and I shall really appreciate feedback on whether our current triangulation approach is geometrically sound compared to more common SLAM pipelines (e.g., ORB-SLAM, SVO, DSO, VINS-Mono). Current approach used in our system We maintain a keyframe (KF), and for each incoming frame we do the following: 1. Track features from KF → Prev → Current. 2. For features that are visible in all three (KF, Prev, Current): We triangulate their depth using only KF and Prev. This triangulated depth is used as a measurement for a depth filter (inverse-depth / Gaussian filter). 3. After updating depth, we express the feature in the KF coordinate frame. 4. We then run PnP between: A. 3D points in the KF frame, and B. 2D observations in the Current frame. This gives us the pose of the Current frame wrt keyframe They use wheel odom and GTSAM backend to add every odom factor between keyframe and current frame and frontend frame factor between keyframe and current and then run optimization This means: triangulation is repeated every frame always between KF ↔ Prev, not KF ↔ Current depth filter is fed many measurements from almost the same two viewpoints, especially right after KF creation This seems to produce very sparse and scattered points. Questions 1. Is repeatedly triangulating between KF and the immediate previous frame (even when baseline/parallax is very small) considered a valid approach in monocular VO/VIO? Or is it fundamentally ill-conditioned, even if we use depth filters in this case? From what I understand, ORB-SLAM (monocular): Triangulates only between keyframes, not per-frame.. Which gives it a good parallex to triangulate the feature.. Should I use this?
 
-5m ago
+28m ago
 
 ---
 
@@ -78,7 +78,7 @@ Hi everyone, Am working on a monocular VIO frontend, and I shall really apprecia
 
 Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
 
-22m ago
+45m ago
 
 ---
 
@@ -128,13 +128,13 @@ Business Wire • 2d ago
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
 **[Bay Area Robotics Association Launches to Connect Capital and Industry Between Silicon Valley and the World](https://www.businesswire.com/news/home/20251212588764/en/Bay-Area-Robotics-Association-Launches-to-Connect-Capital-and-Industry-Between-Silicon-Valley-and-the-World)**
 
-Business Wire • 11m ago
+Business Wire • 35m ago
 
 ---
 
@@ -194,7 +194,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 122K • 👍 4K • 💬 371 • ⏱️ 17:44 • 2d ago
+👁️ 129K • 👍 5K • 💬 397 • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -204,7 +204,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 88K • 👍 2K • 💬 572 • ⏱️ 14:26 • 3d ago
+👁️ 89K • 👍 2K • 💬 575 • ⏱️ 14:26 • 3d ago
 
 ---
 
@@ -214,7 +214,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 35K • 👍 665 • 💬 164 • ⏱️ 18:46 • 6d ago
+👁️ 35K • 👍 666 • 💬 165 • ⏱️ 18:46 • 6d ago
 
 ---
 
@@ -224,17 +224,7 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 85K • 👍 1K • 💬 435 • ⏱️ 0:41 • 4d ago
-
----
-
-**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 135K • 👍 7K • 💬 920 • ⏱️ 19:33 • 6d ago
+👁️ 85K • 👍 1K • 💬 434 • ⏱️ 0:41 • 4d ago
 
 ---
 
@@ -244,17 +234,17 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 201K • 👍 928 • 💬 298 • ⏱️ 1:03 • 6d ago
+👁️ 201K • 👍 929 • 💬 298 • ⏱️ 1:03 • 6d ago
 
 ---
 
-**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
+**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
 
-Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
 
-📺 The Military Show
+📺 Julia McCoy
 
-👁️ 280K • 👍 8K • 💬 453 • ⏱️ 16:55 • 1d ago
+👁️ 136K • 👍 7K • 💬 923 • ⏱️ 19:33 • 6d ago
 
 ---
 
@@ -272,7 +262,17 @@ GirlfriendRobot #RobotExpo #InnovationJourney Join me as I dive into the fascina
 
 📺 AI . Robot
 
-👁️ 124K • 👍 2K • 💬 24 • ⏱️ 0:19 • 4d ago
+👁️ 126K • 👍 2K • 💬 24 • ⏱️ 0:19 • 4d ago
+
+---
+
+**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+
+After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+
+📺 Kalil 4.0
+
+👁️ 20K • 👍 374 • 💬 71 • ⏱️ 0:59 • 5d ago
 
 ---
 
@@ -282,7 +282,7 @@ Researchers at EPFL in Switzerland have developed functional robot components fr
 
 📺 Rowan Cheung
 
-👁️ 8K • 👍 652 • 💬 13 • ⏱️ 1:14 • 20h ago
+👁️ 10K • 👍 677 • 💬 13 • ⏱️ 1:14 • 21h ago
 
 ---
 

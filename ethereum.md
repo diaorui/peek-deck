@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T17:11:53.756634+00:00'
+updated: '2025-12-12T17:35:13.618185+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - news
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 17:11 UTC  
+**Last Updated:** December 12, 2025 at 17:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,061.03
+### $3,096.98
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** +1.9%  
-**30d:** -4.4%  
-**90d:** -32.8%  
-**1y:** -20.8%  
+**24h:** -4.1%  
+**7d:** +0.9%  
+**30d:** -5.4%  
+**90d:** -33.5%  
+**1y:** -21.6%  
 
 ---
 
@@ -236,7 +236,7 @@ Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 7K • 👍 530 • 💬 39 • ⏱️ 48:17 • 5h ago
+👁️ 9K • 👍 607 • 💬 48 • ⏱️ 48:17 • 5h ago
 
 ---
 
@@ -256,17 +256,27 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 697 • 💬 41 • ⏱️ 11:29 • 1d ago
+👁️ 17K • 👍 701 • 💬 41 • ⏱️ 11:29 • 1d ago
 
 ---
 
-**[📈 Rally Starts Now 👑 BTC, ETH, XRP &amp; ZEC Price Analysis [Silver up 120%] #shorts](https://www.youtube.com/watch?v=IAWE9I7Kjsc)**
+**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
 
-The "Opening Bell" has finally rung on the legacy banking system. With 21 Capital and Tether forming a volatile alliance to build ...
+Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
 
-📺 Crypto Noble
+📺 Discover Crypto
 
-👁️ 741 • 👍 67 • 💬 4 • ⏱️ 39:43 • 3h ago
+👁️ 2K • 👍 299 • 💬 6 • ⏱️ 48:44 • 1h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=34QIuyyS5dY)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 106 • 💬 8 • ⏱️ 5:04 • 4h ago
 
 ---
 
@@ -276,37 +286,17 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 253 • ⏱️ 10:23 • 1d ago
+👁️ 56K • 👍 3K • 💬 256 • ⏱️ 10:23 • 1d ago
 
 ---
 
-**[&quot;It Will Flip Ethereum&quot; - Scaramucci on Solana&#39;s Future](https://www.youtube.com/watch?v=4JXiR5vSw_I)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=J5P5LCylqlM)**
 
-Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author of the new book Solana Rising, joins ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 CoinDesk
+📺 More Crypto Online
 
-👁️ 2K • 👍 82 • 💬 21 • ⏱️ 13:45 • 22h ago
-
----
-
-**[Crypto Live Trading 12 Dec  ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=tY07-3bKEB4)**
-
-ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.exchange/?code=JFWJTR LIFE ...
-
-📺 Vibe With Sahil
-
-👁️ 5K • 👍 934 • 3h ago
-
----
-
-**[THE $ICP UPDATE | Ethereum BULLISH Breakout](https://www.youtube.com/watch?v=lzsCtuoTXwk)**
-
-MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
-
-📺 The Cryptoviser
-
-👁️ 194 • 👍 36 • 💬 1 • ⏱️ 32:06 • 3h ago
+👁️ 3K • 👍 202 • 💬 7 • ⏱️ 6:54 • 1d ago
 
 ---
 
@@ -316,7 +306,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 22K • 👍 803 • 💬 114 • ⏱️ 1:10:46 • 2d ago
+👁️ 23K • 👍 815 • 💬 116 • ⏱️ 1:10:46 • 2d ago
 
 ---
 
@@ -326,7 +316,17 @@ ETH isn't just lagging — its story broke. It's down ~3× more than BTC from th
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 168 • 💬 18 • ⏱️ 15:43 • 22h ago
+👁️ 3K • 👍 173 • 💬 23 • ⏱️ 15:43 • 22h ago
+
+---
+
+**[BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bCP9EbFyeeo)**
+
+BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 360 • 💬 140 • ⏱️ 18:15 • 18h ago
 
 ---
 
