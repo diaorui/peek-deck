@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T12:28:49.213791+00:00'
+updated: '2025-12-12T13:13:17.256654+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 12:28 UTC  
+**Last Updated:** December 12, 2025 at 13:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-14h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 A few people suggested it and I finally got the inverse kinematics down so I’m gonna try to get it to chop some veggies! I don’t know why people say it’s so hard for people to create a robot maid/cook… /s It’s in a loop following circle paths in the x and y planes, proof I have IK working! The range of motion is a problem due to the middle link. If I want to more complex/extreme poses, I need to redesign and reprint that component. Also another problem, it’s too jerky so I need to figure out smoothing. But it’s getting there!
 
-21h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
 
-2h ago
+3h ago
 
 ---
 
@@ -90,7 +90,7 @@ I’m trying to recreate Mark Setrakian’s 5-fingered claw hand to rotate a glo
 
 I see all kinds of demos and examples from mujoco that looks splashy, but I’ve never actually met anyone that for real used it for their actual production robot. Are you a roboticist? Have you? Just curious if it’s real or if mujoco only works inside of google etc.
 
-9h ago
+10h ago
 
 ---
 
@@ -106,7 +106,7 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on these hands - anyone here purchased one or is thinking of purchasing one? I ask because I've been thinking about buying
 
-8h ago
+9h ago
 
 ---
 
@@ -124,7 +124,7 @@ IEEE Spectrum • 2d ago
 
 **[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://www.businesswire.com/news/home/20251210209226/en/Mercado-Libre-and-Agility-Robotics-Announce-Commercial-Agreement-to-Deploy-Humanoid-Robots)**
 
-Business Wire • 1d ago
+Business Wire • 2d ago
 
 ---
 
@@ -132,7 +132,15 @@ Business Wire • 1d ago
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
-Runway • 18h ago
+Runway • 19h ago
+
+---
+
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
+
+Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -148,7 +156,7 @@ Deloitte • 2d ago
 
 Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
 
-NVIDIA Developer • 20h ago
+NVIDIA Developer • 21h ago
 
 ---
 
@@ -156,15 +164,7 @@ NVIDIA Developer • 20h ago
 
 Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.
 
-TechCrunch • 14h ago
-
----
-
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
-
-Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
-
-Yahoo Finance • 3d ago
+TechCrunch • 15h ago
 
 ---
 
@@ -182,11 +182,11 @@ Chron • 1d ago
 
 ---
 
-**[Naperville teens make history at international robotics competition](https://www.nctv17.org/news/naperville-teens-make-history-at-international-robotics-competition/)**
+**[NASA, Reliable Robotics Begin Autonomous C208 Trials](https://avweb.com/aviation-news/nasa-reliable-robotics-c208-uav-trials/)**
 
-Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
+Data from automated Reliable Robotics Caravan tests to inform national standards work.
 
-NCTV17 • 2d ago
+AVweb • 1d ago
 
 ---
 
@@ -200,25 +200,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 116K • 👍 4K • 💬 341 • ⏱️ 17:44 • 1d ago
-
----
-
-**[The Robot Body](https://www.youtube.com/watch?v=TJFMMOlbyIw)**
-
-What should a robot look like? How necessary is a body? Where do the boundaries of ourselves begin and end? Exploring ...
-
-📺 Sarah Davis Baker
-
-👁️ 17K • 👍 2K • 💬 250 • ⏱️ 37:14 • 1d ago
-
----
-
-**[Bought the latest humanoid robot released in 2025. #robotics #airobot #humanoidrobot #ai #robot](https://www.youtube.com/watch?v=QJF1XWupoo4)**
-
-📺 AI . Robot
-
-👁️ 113K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
+👁️ 119K • 👍 4K • 💬 348 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -228,7 +210,57 @@ Ukraine's battlefield is changing fast as ground robots move from support roles 
 
 📺 The Military Show
 
-👁️ 262K • 👍 8K • 💬 430 • ⏱️ 16:55 • 22h ago
+👁️ 273K • 👍 8K • 💬 439 • ⏱️ 16:55 • 23h ago
+
+---
+
+**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
+
+EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
+
+📺 AI Tech Academy
+
+👁️ 87K • 👍 2K • 💬 565 • ⏱️ 14:26 • 3d ago
+
+---
+
+**[China Just Built the REAL-LIFE Terminator AI Robot — EngineAI&#39;s T800 Robot SHOCKS WORLD](https://www.youtube.com/watch?v=BF_VLuF3QxA)**
+
+China has officially unveiled a humanoid robot that looks straight out of a sci-fi movie — EngineAI's new T800. This real-life ...
+
+📺 The AI Nexus
+
+👁️ 35K • 👍 665 • 💬 162 • ⏱️ 18:46 • 6d ago
+
+---
+
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
+
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
+
+📺 CNN
+
+👁️ 85K • 👍 1K • 💬 435 • ⏱️ 0:41 • 4d ago
+
+---
+
+**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 135K • 👍 7K • 💬 917 • ⏱️ 19:33 • 5d ago
+
+---
+
+**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
+
+The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
+
+📺 DPCcars
+
+👁️ 200K • 👍 927 • 💬 298 • ⏱️ 1:03 • 5d ago
 
 ---
 
@@ -242,53 +274,21 @@ GirlfriendRobot #RobotExpo #InnovationJourney Join me as I dive into the fascina
 
 ---
 
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
 
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
-
-📺 The Straits Times
-
-👁️ 192K • 👍 854 • 💬 272 • ⏱️ 0:47 • 3d ago
-
----
-
-**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
-
-Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
+After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
 
 📺 Kalil 4.0
 
-👁️ 10K • 👍 174 • 💬 13 • ⏱️ 0:27 • 4d ago
+👁️ 20K • 👍 373 • 💬 71 • ⏱️ 0:59 • 5d ago
 
 ---
 
-**[Now I have my personal sign spinner!  #3dprinting #engineering #diy #robot #arduino #robotics](https://www.youtube.com/watch?v=IYJRErCpvI4)**
+**[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
 
-Robotic arm wrist prototype assembly featuring my new three-ring cycloidal gearboxes and a roller-pinion angular drive.
+📺 AI . Robot
 
-📺 Mishin Machine
-
-👁️ 10K • 👍 439 • 💬 7 • ⏱️ 1:04 • 22h ago
-
----
-
-**[The Future: Humanoid Robots Replacing Real Companions](https://www.youtube.com/watch?v=XCNiPLchzSE)**
-
-Robotics revolution raises questions about what it means to be human Ezra Levant warns humanity will be faced with challenging ...
-
-📺 Rebel News
-
-👁️ 10K • 👍 462 • 💬 50 • ⏱️ 0:31 • 16h ago
-
----
-
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=SbeWWtli99g)**
-
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
-
-📺 Humanoid Robot 🤖
-
-👁️ 221K • 👍 1K • 💬 9 • ⏱️ 0:17 • 4d ago
+👁️ 123K • 👍 2K • 💬 24 • ⏱️ 0:19 • 4d ago
 
 ---
 

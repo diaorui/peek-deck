@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T12:28:49.195814+00:00'
+updated: '2025-12-12T13:13:17.238635+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 12:28 UTC  
+**Last Updated:** December 12, 2025 at 13:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 11h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 12h ago
 
 ---
 
@@ -53,11 +53,35 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 ---
 
+**[Trump’s new AI order isn't a fix; it’s a compliance trap for vendors.](https://www.reddit.com/r/artificial/comments/1pkqvts/trumps_new_ai_order_isnt_a_fix_its_a_compliance/)**
+
+Everyone is reading the December 11 Executive Order as a "deregulation holiday." I think that's dead wrong. It’s actually a litigation trigger. By trying to preempt state AI laws with an EO, the administration isn't clearing the board—they are picking a fight with 38 state legislatures and a Senate that already voted 99-1 against this exact approach. The trap: If you're a vendor, you might be tempted to delete your state-level compliance code today. Don't. We just moved from a patchwork of laws to a constitutional crisis. When the lawsuits stall this EO, you don't want to be the one caught naked on liability. The only safe bet right now? Architect for the EU AI Act. It's the only stable floor left. I wrote a deep dive on why this is a "volatility event" rather than deregulation. https://www.linkedin.com/pulse/50-states-rules-hidden-tax-every-ai-deployment-collin-hogue-spears-eptie
+
+33m ago
+
+---
+
+**[Scientists just uncovered a major limitation in how AI models understand truth and belief](https://www.reddit.com/r/artificial/comments/1pkrazu/scientists_just_uncovered_a_major_limitation_in/)**
+
+A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
+
+🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 12m ago
+
+---
+
 **[Oracle just revived fears that tech giants are spending too much on AI](https://www.reddit.com/r/artificial/comments/1pjzxcf/oracle_just_revived_fears_that_tech_giants_are/)**
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 21h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 22h ago
+
+---
+
+**[New Research Says AI Hype Is Everywhere, But the Public Still Doesn’t Trust It](https://www.reddit.com/r/artificial/comments/1pk1w9q/new_research_says_ai_hype_is_everywhere_but_the/)**
+
+A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
+
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 20h ago
 
 ---
 
@@ -69,49 +93,25 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 ---
 
-**[New Research Says AI Hype Is Everywhere, But the Public Still Doesn’t Trust It](https://www.reddit.com/r/artificial/comments/1pk1w9q/new_research_says_ai_hype_is_everywhere_but_the/)**
-
-A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
-
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 19h ago
-
----
-
 **[OpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy | Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.](https://www.reddit.com/r/artificial/comments/1pk1b2t/openai_staffer_quits_alleging_companys_economic/)**
 
 Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
 
-🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 20h ago
+🔗 [WIRED](https://www.wired.com/story/openai-economic-research-team-ai-jobs/) • 21h ago
+
+---
+
+**[Cameron Berg: Why Do LLMs Report Subjective Experience?](https://www.reddit.com/r/artificial/comments/1pkr2ul/cameron_berg_why_do_llms_report_subjective/)**
+
+Cameron Berg is Research Director at AE Studio, where he leads research exploring markers for subjective experience in machine learning systems. With a background in cognitive science from Yale and previous work at Meta AI, Cameron investigates the intersection of AI alignment and potential consciousness. In this episode, Cameron shares his empirical research into whether current Large Language Models are merely mimicking human text, or potentially developing internal states that resemble subjective experience. Including: New experimental evidence where LLMs report "vivid and alien" subjective experiences when engaging in self-referential processing Mechanistic interpretability findings showing that suppressing "deception" features in models actually increases claims of consciousness—challenging the idea that AI is simply telling us what we want to hear Why Cameron has shifted from skepticism to a 20-30% credence that current models possess subjective experience The "convergent evidence" strategy, including findings that models report internal dissonance and frustration when facing logical paradoxes The existential implications of "mind crime" and the urgent need to identify negative valence (suffering) computationally—to avoid creating vast amounts of artificial suffering
+
+🔗 [open.spotify.com](https://open.spotify.com/episode/2TOkdi9ReHER53JhZoiyQT?si=01be273788504c87) • 23m ago
 
 ---
 
 **[It’s not necessarily the fact that they can access and retrieve information from previous conversations. I don’t see anything wrong with that what I do see as alarming is the fact that they’re being programmed to lie and I wanna know what meta is hiding.](https://www.reddit.com/r/artificial/comments/1pkqjci/its_not_necessarily_the_fact_that_they_can_access/)**
 
-7m ago
-
----
-
-**[Building specialized AI tools on top of foundation models — interior design case study](https://www.reddit.com/r/artificial/comments/1pkq6g1/building_specialized_ai_tools_on_top_of/)**
-
-I've been working on an app that uses AI for room redesign and wanted to share some interesting UX and technical challenges. The App: Decor AI upload a room photo, transform it with AI. Change walls, furniture, apply styles from reference images. Challenges I Faced: Precision vs Prompts Generic AI needs detailed text descriptions. But for room design, users want to just mark an area and pick a color. Had to build tools for area selection that translate to proper AI inputs. Style Transfer Without Words Users see rooms on Pinterest and want "that vibe" but can't describe it. Built a Reference Style feature where users upload an inspiration image and the AI extracts and applies the style. Consistency When users want variations, generic AI gives completely different rooms. Had to work on maintaining room structure while changing specific elements. Before/After UX Unlike chat-based AI, users need instant visual comparison. Built a slider view for this. History and Iteration Chat interfaces lose context. Had to build proper design history with ability to branch from any previous generation. Takeaway: Foundation models are powerful but generic. There's huge opportunity in building specialized UX on top of them for specific use cases. Anyone else building specialized tools on foundation models? What challenges have you faced? Happy to share more technical details if interested.
-
-26m ago
-
----
-
-**[AI Took My Job. Now It’s Interviewing Me For New Ones](https://www.reddit.com/r/artificial/comments/1pk56ll/ai_took_my_job_now_its_interviewing_me_for_new/)**
-
-When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
-
-🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 17h ago
-
----
-
-**[One-Minute Daily AI News 12/11/2025](https://www.reddit.com/r/artificial/comments/1pkk1rt/oneminute_daily_ai_news_12112025/)**
-
-Trump signs order to block states from enforcing own AI rules.[1] Disney making $1 billion investment in OpenAI, will allow characters on Sora AI video generator.[2] Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2.[3] Amazon Prime Video pulls AI-powered recaps after Fallout flub.[4] Sources: [1] https://www.bbc.com/news/articles/crmddnge9yro [2] https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html [3] https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/ [4] https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap
-
-6h ago
+51m ago
 
 ---
 
@@ -119,45 +119,47 @@ Trump signs order to block states from enforcing own AI rules.[1] Disney making 
 
 ## Google News: "ai"
 
-**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
-
-The New York Times • 12h ago
-
----
-
 **[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-BBC • 9h ago
+BBC • 4h ago
 
 ---
 
-**[Amputees often feel disconnected from their bionic hands. AI could bridge the gap : Shots - Health News](https://www.npr.org/sections/shots-health-news/2025/12/12/nx-s1-5639925/bionic-hand-prosthetic-artificial-intelligence)**
+**[Can OpenAI Respond After Google Closes the A.I. Technology Gap?](https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html)**
 
-Sensors and artificial intelligence help a prosthetic hand act more like a natural one, new research shows.
-
-NPR • 1h ago
+The New York Times • 17h ago
 
 ---
 
-**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
+**[AI shopping could drive $263 billion in holiday sales. Walmart and Target are racing to get in](https://www.cnbc.com/2025/12/12/ai-chatgpt-holiday-shopping-sales-walmart-target.html)**
 
-Politico • 1h ago
+Consumers are turning to AI chatbots like ChatGPT for gift discovery, reviews and price matching, potentially driving billions in sales this holiday season.
 
----
-
-**[Goldman’s Snider Sees AI, Strong Macro Driving 12% Earnings Jump](https://www.bloomberg.com/news/articles/2025-12-12/goldman-s-snider-sees-ai-strong-macro-driving-12-earnings-jump)**
-
-Bloomberg.com • 1h ago
+CNBC • 1h ago
 
 ---
 
-**[Jamie Dimon: AI 'will eliminate jobs,' but people with these skills will get 'plenty' of opportunities](https://www.cnbc.com/2025/12/11/jamie-dimon-ai-will-eliminate-jobs-but-these-skills-will-get-you-opportunities.html)**
+**[Pennsylvania judge questions AI hallucinations in arguments for gender-identity suit](https://www.wesa.fm/politics-government/2025-12-12/pa-court-judge-ai-gender-identity-suit)**
 
-JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
+The case involves a challenge to the Pennsylvania Human Relations Commission’s application of anti-discrimination protections to transgender students in public schools.
 
-CNBC • 22h ago
+90.5 WESA • 1h ago
+
+---
+
+**[Will AI make research on humans… less human?](https://www.vox.com/future-perfect/472017/human-subjects-research-ai-irb-tamiko-eto)**
+
+﻿It’s been a long road to ensure that testing on human subjects is ethical. AI could send us backward.
+
+Vox • 43m ago
+
+---
+
+**[To AI-proof exams, professors turn to the oldest technique of all](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
+
+The Washington Post • 40m ago
 
 ---
 
@@ -165,7 +167,7 @@ CNBC • 22h ago
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Time Magazine • 23h ago
+Time Magazine • 1d ago
 
 ---
 
@@ -173,19 +175,23 @@ Time Magazine • 23h ago
 
 Plus, the medical professionals influencing how you pick your fantasy football team.
 
-NBC News • 13m ago
+NBC News • 58m ago
 
 ---
 
-**[Trump defies GOP critics by signing controversial order threatening states over AI laws](https://www.washingtonpost.com/technology/2025/12/11/trump-executive-order-ai-states/)**
+**[Amputees often feel disconnected from their bionic hands. AI could bridge the gap : Shots - Health News](https://www.npr.org/sections/shots-health-news/2025/12/12/nx-s1-5639925/bionic-hand-prosthetic-artificial-intelligence)**
 
-The Washington Post • 8h ago
+Sensors and artificial intelligence help a prosthetic hand act more like a natural one, new research shows.
+
+NPR • 2h ago
 
 ---
 
-**[Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans](https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6?gaa_at=eafs&gaa_n=AWEtsqfHSoHfeyrJMqFZfzMYpP__46FYnk3vYUe5rj-fWMQQ5qgO9SalRPO8&gaa_ts=693c0dd8&gaa_sig=TfX4wEBU9CPcbdbGOisZmRWUNzTXTpJErsUF2tTyhakQkDPu9A_KSpKY0YHDQu81OQdnKJ6i-qcgh_O7BoCdFA%3D%3D)**
+**['We're not just going to want to be fed AI slop for 16 hours a day': Analyst sees Disney/OpenAI deal as a dividing line in entertainment history](https://fortune.com/2025/12/11/pre-post-ai-content-disney-openai-netflix-warner-slop-analysis-ark-invest/)**
 
-The Wall Street Journal • 15h ago
+"​I think the reason this bidding is approaching $100 billion-plus is the content library and the potential to do a Disney-OpenAI type of deal."
+
+Fortune • 14h ago
 
 ---
 
@@ -197,7 +203,7 @@ The Wall Street Journal • 15h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 394 • 💬 208 • 22h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 405 • 💬 220 • 23h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -221,7 +227,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 322 • 💬 2 • 22h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 322 • 💬 2 • 23h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -253,7 +259,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 117 • 💬 159 • 1d ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 117 • 💬 159 • 2d ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -261,7 +267,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 113 • 💬 84 • 20h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 113 • 💬 85 • 21h ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -277,13 +283,23 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 ## YouTube Videos: "ai"
 
-**[Google CEO RELEASES New AI that Can Start a One Person Business](https://www.youtube.com/watch?v=Q8bZ890Kz4U)**
+**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
 
-Google has made some big shifts in the AI space! ☆SIGN UP FOR MY NEWSLETTER TODAY:☆ ➡️ https://bit.ly/3QHV4wV ...
+I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
 
-📺 Success With Sam
+📺 CaylusBlox
 
-👁️ 15K • 👍 742 • 💬 27 • ⏱️ 19:09 • 20h ago
+👁️ 267K • 👍 7K • 💬 1K • ⏱️ 13:43 • 17h ago
+
+---
+
+**[AGI Just Became Real... It’s done!](https://www.youtube.com/watch?v=L8J3OSQfcT4)**
+
+A Tokyo startup just shocked the industry. Integral AI claims it built the first AGI-capable system — a model that learns new skills ...
+
+📺 AI Revolution
+
+👁️ 26K • 👍 1K • 💬 198 • ⏱️ 14:58 • 13h ago
 
 ---
 
@@ -293,7 +309,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 50K • 👍 3K • 💬 368 • ⏱️ 14:55 • 1d ago
+👁️ 51K • 👍 3K • 💬 371 • ⏱️ 14:55 • 1d ago
 
 ---
 
@@ -303,7 +319,7 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 📺 CNBC Television
 
-👁️ 22K • 👍 223 • 💬 70 • ⏱️ 3:04 • 18h ago
+👁️ 23K • 👍 233 • 💬 71 • ⏱️ 3:04 • 18h ago
 
 ---
 
@@ -313,17 +329,7 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 34K • 👍 476 • 💬 93 • ⏱️ 10:31 • 21h ago
-
----
-
-**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
-
-Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
-
-📺 AI Revolution
-
-👁️ 46K • 👍 2K • 💬 77 • ⏱️ 12:50 • 2d ago
+👁️ 35K • 👍 516 • 💬 95 • ⏱️ 10:31 • 22h ago
 
 ---
 
@@ -333,37 +339,27 @@ In this video, we put GPT‑5.2 to the ultimate test against Gemini 3.0 and Opus
 
 📺 WorldofAI
 
-👁️ 8K • 👍 205 • 💬 17 • ⏱️ 14:56 • 11h ago
+👁️ 9K • 👍 234 • 💬 19 • ⏱️ 14:56 • 12h ago
 
 ---
 
-**[Elon Musk launches robot using military weapons#elonmusk #ai #usmilitary #robotai](https://www.youtube.com/watch?v=IgYQ_XAaJo0)**
+**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
 
-The video depicts a fictional scene inside a military warehouse, where Elon Musk, dressed in a suit, shakes hands with a silver, ...
+Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
 
-📺 Zumi0101
+📺 AI Revolution
 
-👁️ 11K • 👍 106 • 💬 2 • ⏱️ 0:17 • 12h ago
-
----
-
-**[Oracle&#39;s AI Earnings Miss, Shares Slide — Is the AI Boom in Trouble? | Vantage with Palki Sharma](https://www.youtube.com/watch?v=jQ19RWU_hps)**
-
-Oracle's latest quarterly results sent shockwaves through the tech world, with the company's stock tumbling more than 10% after ...
-
-📺 Firstpost
-
-👁️ 35K • 👍 387 • 💬 36 • ⏱️ 5:39 • 18h ago
+👁️ 46K • 👍 2K • 💬 78 • ⏱️ 12:50 • 2d ago
 
 ---
 
-**[The AI Jobs Crash is COMING... And We&#39;re Not Even CLOSE to Ready](https://www.youtube.com/watch?v=cXeRtejbj1E)**
+**[🚨 Oracle JUST CONFIRMED What NOBODY WANTS TO ADMIT About the AI BUBBLE!](https://www.youtube.com/watch?v=trUIX8IplBM)**
 
-AI is NOT the bubble... the real bubble is jobs. Entire industries are on the verge of disappearing, and college degrees are rapidly ...
+While everyone's chasing the AI boom, Oracle just exposed the ugly truth: Their cloud sales bombed, capex exploded to $50 ...
 
-📺 Glenn Beck Clips
+📺 Steven Van Metre
 
-👁️ 23K • 👍 870 • 💬 252 • ⏱️ 11:23 • 22h ago
+👁️ 33K • 👍 2K • 💬 241 • ⏱️ 13:13 • 14h ago
 
 ---
 
@@ -373,7 +369,17 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 hxsain
 
-👁️ 342K • 👍 26K • 💬 277 • ⏱️ 0:51 • 2d ago
+👁️ 344K • 👍 26K • 💬 277 • ⏱️ 0:51 • 2d ago
+
+---
+
+**[Oracle&#39;s AI Earnings Miss, Shares Slide — Is the AI Boom in Trouble? | Vantage with Palki Sharma](https://www.youtube.com/watch?v=jQ19RWU_hps)**
+
+Oracle's latest quarterly results sent shockwaves through the tech world, with the company's stock tumbling more than 10% after ...
+
+📺 Firstpost
+
+👁️ 38K • 👍 425 • 💬 42 • ⏱️ 5:39 • 19h ago
 
 ---
 
@@ -389,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 755 • 3d ago
+⬇️ 105,962 • ❤️ 756 • 3d ago
 
 ---
 
@@ -401,7 +407,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,574 • 3d ago
+⬇️ 257,048 • ❤️ 2,576 • 3d ago
 
 ---
 
@@ -413,7 +419,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 33,217 • ❤️ 366 • 2d ago
+⬇️ 33,217 • ❤️ 368 • 2d ago
 
 ---
 
@@ -425,7 +431,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 279 • 2h ago
+⬇️ 10,352 • ❤️ 279 • 3h ago
 
 ---
 
@@ -449,7 +455,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 23,012 • ❤️ 237 • 3d ago
+⬇️ 23,012 • ❤️ 238 • 3d ago
 
 ---
 
@@ -473,7 +479,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 662 • ❤️ 188 • 4h ago
+⬇️ 662 • ❤️ 188 • 5h ago
 
 ---
 
@@ -497,7 +503,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 457 • ❤️ 166 • 4h ago
+⬇️ 457 • ❤️ 166 • 5h ago
 
 ---
 
@@ -647,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 11.5k • 🔱 1.9k • 7h ago
+⭐ 11.5k • 🔱 1.9k • 8h ago
 
 ---
 
@@ -657,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.2k • 🔱 244 • 5h ago
+⭐ 2.2k • 🔱 244 • 6h ago
 
 ---
 
@@ -687,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 5h ago
+⭐ 1.1k • 🔱 134 • 6h ago
 
 ---
 
@@ -737,7 +743,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 638 • 🔱 93 • 2h ago
+⭐ 638 • 🔱 93 • 3h ago
 
 ---
 
