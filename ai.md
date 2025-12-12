@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T10:11:53.762435+00:00'
+updated: '2025-12-12T10:42:05.532757+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 10:11 UTC  
+**Last Updated:** December 12, 2025 at 10:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 14h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 15h ago
 
 ---
 
@@ -57,7 +57,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 AI spending is front and center again for investors. Oracle plunged Thursday, with top hardware makers including Nvidia and Broadcom also dropping.
 
-🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 18h ago
+🔗 [Business Insider](https://www.businessinsider.com/oracle-earnings-ai-stocks-capex-overspending-orcl-nvda-avgo-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificla-sub-post) • 19h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI spending is front and center again for investors. Oracle plunged Thursday, wi
 
 AI-generated videos showing what appear to be underage girls in sexualized clothing or positions have together racked up millions of likes on TikTok, even though the platform’s rules prohibit such content, according to new research from an online safety non-profit.
 
-🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 21h ago
+🔗 [CNN](https://www.cnn.com/2025/12/11/tech/tiktok-ai-videos-children-report?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 22h ago
 
 ---
 
@@ -73,7 +73,7 @@ AI-generated videos showing what appear to be underage girls in sexualized cloth
 
 A new survey finds corporations and investors are overwhelmingly optimistic about AI, while public trust lags far behind—revealing a growing gap in values and priorities.
 
-🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 17h ago
+🔗 [Interview Query](https://www.interviewquery.com/p/ai-trust-gap-research) • 18h ago
 
 ---
 
@@ -89,7 +89,7 @@ Four sources close to the situation claim OpenAI has become hesitant to publish 
 
 When my company pivoted to AI in 2023, I lost my job. As I struggle to find a new one, it's clear how much AI has changed the employment landscape.
 
-🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 15h ago
+🔗 [Rolling Stone](http://rollingstone.com/culture/culture-commentary/ai-job-market-unemployment-1235481777) • 16h ago
 
 ---
 
@@ -97,7 +97,7 @@ When my company pivoted to AI in 2023, I lost my job. As I struggle to find a ne
 
 Trump signs order to block states from enforcing own AI rules.[1] Disney making $1 billion investment in OpenAI, will allow characters on Sora AI video generator.[2] Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2.[3] Amazon Prime Video pulls AI-powered recaps after Fallout flub.[4] Sources: [1] https://www.bbc.com/news/articles/crmddnge9yro [2] https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html [3] https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/ [4] https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ Context: This ""parenting"" AI app called NurtureOS turned out to be satire made
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -141,13 +141,13 @@ Time Magazine • 21h ago
 
 AI-related names have made losses since Oracle's mixed results on Wednesday.
 
-CNBC • 38m ago
+CNBC • 1h ago
 
 ---
 
 **[Exclusive: Linda McMahon bets on AI as agency shrinks](https://www.axios.com/2025/12/12/linda-mcmahon-ai-education)**
 
-Axios • 11m ago
+Axios • 41m ago
 
 ---
 
@@ -155,7 +155,7 @@ Axios • 11m ago
 
 David Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
 
-NPR • 21m ago
+NPR • 51m ago
 
 ---
 
@@ -191,7 +191,7 @@ The Keyword • 16h ago
 
 SoftBank Group Corp. is studying potential acquisitions including data center operator Switch Inc., a sign billionaire founder Masayoshi Son aims to ride an AI-fueled boom in digital infrastructure, people with knowledge of the matter said.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -199,19 +199,19 @@ Bloomberg.com • 2h ago
 
 ## HackerNews: "ai"
 
+**[French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://news.ycombinator.com/item?id=46231187)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+⬆️ 360 • 💬 182 • 21h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+
+---
+
 **[Apple's slow AI pace becomes a strength as market grows weary of spending](https://news.ycombinator.com/item?id=46205724)**
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
 ⬆️ 357 • 💬 422 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
-
----
-
-**[French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://news.ycombinator.com/item?id=46231187)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-⬆️ 349 • 💬 176 • 20h ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -227,7 +227,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 322 • 💬 2 • 19h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 322 • 💬 2 • 20h ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -283,33 +283,13 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 ## YouTube Videos: "ai"
 
-**[AI SEO: Why Your #1 Google Rankings Might Be Worthless in 2026](https://www.youtube.com/watch?v=z02RBAwhoM8)**
+**[Google CEO RELEASES New AI that Can Start a One Person Business](https://www.youtube.com/watch?v=Q8bZ890Kz4U)**
 
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+Google has made some big shifts in the AI space! ☆SIGN UP FOR MY NEWSLETTER TODAY:☆ ➡️ https://bit.ly/3QHV4wV ...
 
-📺 Julia McCoy
+📺 Success With Sam
 
-👁️ 5K • 👍 299 • 💬 10 • ⏱️ 13:12 • 15h ago
-
----
-
-**[GPT 5.2: World BEST AI Model! Beats Gemini 3.0 + Opus 4.5! (Fully Tested)](https://www.youtube.com/watch?v=BG8A9UMWtXQ)**
-
-In this video, we put GPT‑5.2 to the ultimate test against Gemini 3.0 and Opus 4.5. From coding, reasoning, math, to real-world ...
-
-📺 WorldofAI
-
-👁️ 6K • 👍 166 • 💬 17 • ⏱️ 14:56 • 9h ago
-
----
-
-**[McDonald’s Pulls ‘Creepy’ AI Christmas ad After Viewer Backlash: ‘As Real as Their Hamburgers’](https://www.youtube.com/watch?v=HpWCvItr55c)**
-
-McDonald's has taken down a Christmas ad that was allegedly entirely produced with artificial intelligence after the brand was ...
-
-📺 New York Post
-
-👁️ 56K • 👍 371 • 💬 259 • ⏱️ 2:58 • 1d ago
+👁️ 15K • 👍 742 • 💬 27 • ⏱️ 19:09 • 18h ago
 
 ---
 
@@ -323,23 +303,23 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 ---
 
-**[Gavin Newsom posts AI-generated video of Trump admin getting arrested](https://www.youtube.com/watch?v=b8Pw-B1BqM0)**
+**[OpenAI unveils GPT-5.2, its strongest AI model for professional use](https://www.youtube.com/watch?v=wXXvB8xVyPk)**
 
-shorts.
+CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The company said the model is better at ...
 
-📺 Brian Tyler Cohen
+📺 CNBC Television
 
-👁️ 494K • 👍 31K • 💬 3K • ⏱️ 0:19 • 13h ago
+👁️ 22K • 👍 223 • 💬 70 • ⏱️ 3:04 • 16h ago
 
 ---
 
-**[In 2026, DON&#39;T Build AI Agents, Do This Instead..](https://www.youtube.com/watch?v=VASyr2DxEKE)**
+**[Howard Marks Says AI Terrifying for Jobs](https://www.youtube.com/watch?v=zIzmceyc4_s)**
 
-Check out Nebius today: ...
+Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillance he thinks the current market seems ...
 
-📺 The Cutting Edge School
+📺 Bloomberg Podcasts
 
-👁️ 12K • 👍 865 • 💬 84 • ⏱️ 13:41 • 21h ago
+👁️ 34K • 👍 476 • 💬 93 • ⏱️ 10:31 • 19h ago
 
 ---
 
@@ -349,7 +329,27 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 45K • 👍 2K • 💬 77 • ⏱️ 12:50 • 2d ago
+👁️ 46K • 👍 2K • 💬 77 • ⏱️ 12:50 • 2d ago
+
+---
+
+**[GPT 5.2: World BEST AI Model! Beats Gemini 3.0 + Opus 4.5! (Fully Tested)](https://www.youtube.com/watch?v=BG8A9UMWtXQ)**
+
+In this video, we put GPT‑5.2 to the ultimate test against Gemini 3.0 and Opus 4.5. From coding, reasoning, math, to real-world ...
+
+📺 WorldofAI
+
+👁️ 8K • 👍 205 • 💬 17 • ⏱️ 14:56 • 9h ago
+
+---
+
+**[Elon Musk launches robot using military weapons#elonmusk #ai #usmilitary #robotai](https://www.youtube.com/watch?v=IgYQ_XAaJo0)**
+
+The video depicts a fictional scene inside a military warehouse, where Elon Musk, dressed in a suit, shakes hands with a silver, ...
+
+📺 Zumi0101
+
+👁️ 11K • 👍 106 • 💬 2 • ⏱️ 0:17 • 10h ago
 
 ---
 
@@ -359,27 +359,27 @@ Oracle's latest quarterly results sent shockwaves through the tech world, with t
 
 📺 Firstpost
 
-👁️ 32K • 👍 358 • 💬 32 • ⏱️ 5:39 • 16h ago
+👁️ 35K • 👍 387 • 💬 36 • ⏱️ 5:39 • 17h ago
 
 ---
 
-**[Brave Lady Soldier Rescue Grandmother from Giant Crocodile! #ai #cocodile #rescue](https://www.youtube.com/watch?v=M7c5wTKFG6o)**
+**[The AI Jobs Crash is COMING... And We&#39;re Not Even CLOSE to Ready](https://www.youtube.com/watch?v=cXeRtejbj1E)**
 
-Brave Lady Soldier Rescue Grandmother from Giant Crocodile! #ai #cocodile #rescue.
+AI is NOT the bubble... the real bubble is jobs. Entire industries are on the verge of disappearing, and college degrees are rapidly ...
 
-📺 AiStory A2.0
+📺 Glenn Beck Clips
 
-👁️ 9K • ⏱️ 0:20 • 7h ago
+👁️ 23K • 👍 870 • 💬 252 • ⏱️ 11:23 • 21h ago
 
 ---
 
-**[See Inside the Data Center Helping to Power the AI Revolution](https://www.youtube.com/watch?v=KiRTHEV7wpo)**
+**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
 
-From emails to social media to online shopping, banking and chatting — everything we rely on everyday goes through an AI data ...
+Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
 
-📺 TODAY
+📺 hxsain
 
-👁️ 21K • 👍 75 • 💬 23 • ⏱️ 3:20 • 1d ago
+👁️ 342K • 👍 26K • 💬 277 • ⏱️ 0:51 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 80,162 • ❤️ 749 • 3d ago
+⬇️ 105,962 • ❤️ 750 • 3d ago
 
 ---
 
@@ -407,7 +407,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 245,041 • ❤️ 2,572 • 3d ago
+⬇️ 257,048 • ❤️ 2,571 • 3d ago
 
 ---
 
@@ -419,7 +419,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 18,587 • ❤️ 363 • 2d ago
+⬇️ 33,217 • ❤️ 363 • 2d ago
 
 ---
 
@@ -431,7 +431,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 7,222 • ❤️ 275 • 37m ago
+⬇️ 10,352 • ❤️ 276 • 1h ago
 
 ---
 
@@ -443,7 +443,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,209 • ❤️ 274 • 3d ago
+⬇️ 2,519 • ❤️ 274 • 3d ago
 
 ---
 
@@ -455,7 +455,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 12,302 • ❤️ 231 • 3d ago
+⬇️ 23,012 • ❤️ 233 • 3d ago
 
 ---
 
@@ -467,19 +467,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 445,464 • ❤️ 220 • 3d ago
-
----
-
-**[DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2)**
-
-*DeepSeek*
-
-DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and agentic AI, featuring DeepSeek Sparse Attention for long contexts and a scalable RL framework that achieves performance comparable to or exceeding GPT-5 and Gemini-3.0-Pro on complex tasks and benchmarks.
-
-`text-generation` `685.4B`
-
-⬇️ 45,425 • ❤️ 892 • 10d ago
+⬇️ 446,475 • ❤️ 221 • 3d ago
 
 ---
 
@@ -491,7 +479,19 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 583 • ❤️ 184 • 2h ago
+⬇️ 662 • ❤️ 187 • 2h ago
+
+---
+
+**[DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2)**
+
+*DeepSeek*
+
+DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and agentic AI, featuring DeepSeek Sparse Attention for long contexts and a scalable RL framework that achieves performance comparable to or exceeding GPT-5 and Gemini-3.0-Pro on complex tasks and benchmarks.
+
+`text-generation` `685.4B`
+
+⬇️ 50,491 • ❤️ 892 • 10d ago
 
 ---
 
@@ -503,7 +503,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 425 • ❤️ 165 • 2h ago
+⬇️ 457 • ❤️ 166 • 2h ago
 
 ---
 
@@ -663,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.2k • 🔱 243 • 3h ago
+⭐ 2.2k • 🔱 243 • 4h ago
 
 ---
 
@@ -743,7 +743,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 636 • 🔱 93 • 19h ago
+⭐ 636 • 🔱 93 • 20h ago
 
 ---
 

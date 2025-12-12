@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-12T10:11:53.780158+00:00'
+updated: '2025-12-12T10:42:05.552929+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 12, 2025 at 10:11 UTC  
+**Last Updated:** December 12, 2025 at 10:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
 
-12h ago
+13h ago
 
 ---
 
 **[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ A few people suggested it and I finally got the inverse kinematics down so I’m
 
 Hi guys, I'm interested to know what you guys think. Opinionate away! I've been in the robotics industry for a few years now. I was speaking to my colleague whos a really good software engineer and he said he has no experience in hardware and is lowsy at connecting and building stuff...which surprised me alot. But then it got me thinking about products for those types of engineers... Do you think there is a market for a pre-built robotics platforms as a toy/collectible? I'm not talking YAHBOOM dev kits, im talking pretty well detailed and finished robot/toy that gives you full access to the inside to develop ontop of. i think the closest ive seen is the unitree go2 but you cant really jailbreak or dev ontop of that unless you get the $10K 'edu' version. I'd imagine there'd be alot of engineers out there who love the idea of having a robot for the home/office but cbf to build themselves...especially if you can just remote in and build software for it and deploy it from your couch. Testing chat bots w/ TTS and vice verse would be way more fun if you were talking to something reactive, no? I kinda wanna experiment with speech-to-action. so maybe i'll build something and show you guys in the future... To give you the synopsis, i designed this robot named SPOOK that im going to build when the parts arrive. My prototype is a hacked roomba. I made it a ghost to symbolise how the world is a little bit spooked by AI and Robotics (particularly the humanoids in your house idea). I also made it a ghost because my wife and i are talking about having kids and i thought this was kinda cute. When im done, you should be able to talk to it and do all kinds of stuff (thinking more an animate object, electronic pet robot with a personality) kind of thing. It will have all the functionality youd expect from something decent (return to charger, object detection, obstacle avoidance etc.). and im thinking of trying to build it for under $2500. In the meanwhile, what does reddit think? My colleague thinks its a cool idea. another friend told me he wanted to learn robotics and it would be cool to build this from an educational angle also....keen to know your thoughts!
 
-1h ago
+2h ago
 
 ---
 
@@ -74,13 +74,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/1998678070618710
 
 The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
 
-19m ago
-
----
-
-**[Where can i find free courses for learning mechatronics?](https://www.reddit.com/r/robotics/comments/1pknnn5/where_can_i_find_free_courses_for_learning/)**
-
-47m ago
+49m ago
 
 ---
 
@@ -108,6 +102,14 @@ From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1998775131376619617
 
 ---
 
+**[Thoughts on TetherIA's Open Aero Hand](https://www.reddit.com/r/robotics/comments/1pki1vp/thoughts_on_tetherias_open_aero_hand/)**
+
+https://youtu.be/w1GwRfy01Ag?si=sB_4t6GolTYwzLwG What are everyone's thoughts on these hands - anyone here purchased one or is thinking of purchasing one? I ask because I've been thinking about buying
+
+6h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
@@ -130,7 +132,7 @@ Business Wire • 1d ago
 
 GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
 
-Runway • 16h ago
+Runway • 17h ago
 
 ---
 
@@ -154,7 +156,7 @@ TechCrunch • 12h ago
 
 Google DeepMind shows Apollo humanoid handling unfamiliar objects and following voice commands, alongside Aloha robots performing tasks.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 21h ago
 
 ---
 
@@ -170,7 +172,7 @@ Yahoo Finance • 3d ago
 
 Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
 
-Shore Daily News • 23h ago
+Shore Daily News • 1d ago
 
 ---
 
@@ -180,11 +182,11 @@ Chron • 1d ago
 
 ---
 
-**[Naperville teens make history at international robotics competition](https://www.nctv17.org/news/naperville-teens-make-history-at-international-robotics-competition/)**
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
 
-Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
-NCTV17 • 2d ago
+MLive.com • 2d ago
 
 ---
 
@@ -198,57 +200,35 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 114K • 👍 4K • 💬 340 • ⏱️ 17:44 • 1d ago
+👁️ 116K • 👍 4K • 💬 341 • ⏱️ 17:44 • 1d ago
 
 ---
 
-**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
+**[The Robot Body](https://www.youtube.com/watch?v=TJFMMOlbyIw)**
 
-EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
+What should a robot look like? How necessary is a body? Where do the boundaries of ourselves begin and end? Exploring ...
 
-📺 AI Tech Academy
+📺 Sarah Davis Baker
 
-👁️ 83K • 👍 2K • 💬 533 • ⏱️ 14:26 • 3d ago
-
----
-
-**[China Just Built the REAL-LIFE Terminator AI Robot — EngineAI&#39;s T800 Robot SHOCKS WORLD](https://www.youtube.com/watch?v=BF_VLuF3QxA)**
-
-China has officially unveiled a humanoid robot that looks straight out of a sci-fi movie — EngineAI's new T800. This real-life ...
-
-📺 The AI Nexus
-
-👁️ 35K • 👍 661 • 💬 162 • ⏱️ 18:46 • 6d ago
+👁️ 17K • 👍 2K • 💬 250 • ⏱️ 37:14 • 1d ago
 
 ---
 
-**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
+**[Bought the latest humanoid robot released in 2025. #robotics #airobot #humanoidrobot #ai #robot](https://www.youtube.com/watch?v=QJF1XWupoo4)**
 
-Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
+📺 AI . Robot
 
-📺 CNN
-
-👁️ 84K • 👍 1K • 💬 434 • ⏱️ 0:41 • 4d ago
+👁️ 113K • 👍 1K • 💬 30 • ⏱️ 0:19 • 6d ago
 
 ---
 
-**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
 
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
 
-📺 Julia McCoy
+📺 The Military Show
 
-👁️ 134K • 👍 7K • 💬 915 • ⏱️ 19:33 • 5d ago
-
----
-
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
-
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
-
-📺 DPCcars
-
-👁️ 200K • 👍 927 • 💬 298 • ⏱️ 1:03 • 5d ago
+👁️ 262K • 👍 8K • 💬 430 • ⏱️ 16:55 • 20h ago
 
 ---
 
@@ -262,23 +242,13 @@ GirlfriendRobot #RobotExpo #InnovationJourney Join me as I dive into the fascina
 
 ---
 
-**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
 
-After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
 
-📺 Kalil 4.0
+📺 The Straits Times
 
-👁️ 20K • 👍 372 • 💬 71 • ⏱️ 0:59 • 5d ago
-
----
-
-**[The Robot Body](https://www.youtube.com/watch?v=TJFMMOlbyIw)**
-
-What should a robot look like? How necessary is a body? Where do the boundaries of ourselves begin and end? Exploring ...
-
-📺 Sarah Davis Baker
-
-👁️ 16K • 👍 2K • 💬 249 • ⏱️ 37:14 • 1d ago
+👁️ 192K • 👍 854 • 💬 272 • ⏱️ 0:47 • 3d ago
 
 ---
 
@@ -288,7 +258,37 @@ Midea Group, one of the world's largest home appliance manufacturers, just unvei
 
 📺 Kalil 4.0
 
-👁️ 10K • 👍 173 • 💬 13 • ⏱️ 0:27 • 4d ago
+👁️ 10K • 👍 174 • 💬 13 • ⏱️ 0:27 • 4d ago
+
+---
+
+**[Now I have my personal sign spinner!  #3dprinting #engineering #diy #robot #arduino #robotics](https://www.youtube.com/watch?v=IYJRErCpvI4)**
+
+Robotic arm wrist prototype assembly featuring my new three-ring cycloidal gearboxes and a roller-pinion angular drive.
+
+📺 Mishin Machine
+
+👁️ 10K • 👍 439 • 💬 7 • ⏱️ 1:04 • 20h ago
+
+---
+
+**[The Future: Humanoid Robots Replacing Real Companions](https://www.youtube.com/watch?v=XCNiPLchzSE)**
+
+Robotics revolution raises questions about what it means to be human Ezra Levant warns humanity will be faced with challenging ...
+
+📺 Rebel News
+
+👁️ 10K • 👍 462 • 💬 50 • ⏱️ 0:31 • 15h ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=SbeWWtli99g)**
+
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 221K • 👍 1K • 💬 9 • ⏱️ 0:17 • 4d ago
 
 ---
 

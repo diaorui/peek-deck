@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T10:11:53.776850+00:00'
+updated: '2025-12-12T10:42:05.549309+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 10:11 UTC  
+**Last Updated:** December 12, 2025 at 10:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +7.2%  
-**30d:** +0.4%  
-**90d:** -29.4%  
-**1y:** -16.8%  
+**24h:** +1.5%  
+**7d:** +6.9%  
+**30d:** +0.2%  
+**90d:** -29.5%  
+**1y:** -16.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $392.60B
+**Market Cap:** $391.81B
 Rank #2
 
 **Circulating Supply:** 120,695,147 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.2%
+-34.4%
 
 **All-Time Low:** $0.43
-+751520.7%
++749352.1%
 
 ---
 
@@ -238,7 +238,7 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 📺 Ivan on Tech
 
-👁️ 24K • 👍 2K • 💬 121 • ⏱️ 10:42 • 18h ago
+👁️ 25K • 👍 2K • 💬 120 • ⏱️ 10:42 • 19h ago
 
 ---
 
@@ -248,17 +248,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 669 • 💬 41 • ⏱️ 11:29 • 21h ago
-
----
-
-**[&quot;It Will Flip Ethereum&quot; - Scaramucci on Solana&#39;s Future](https://www.youtube.com/watch?v=4JXiR5vSw_I)**
-
-Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author of the new book Solana Rising, joins ...
-
-📺 CoinDesk
-
-👁️ 2K • 👍 58 • 💬 16 • ⏱️ 13:45 • 15h ago
+👁️ 16K • 👍 682 • 💬 41 • ⏱️ 11:29 • 22h ago
 
 ---
 
@@ -268,7 +258,17 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 247 • ⏱️ 10:23 • 1d ago
+👁️ 55K • 👍 3K • 💬 250 • ⏱️ 10:23 • 1d ago
+
+---
+
+**[&quot;It Will Flip Ethereum&quot; - Scaramucci on Solana&#39;s Future](https://www.youtube.com/watch?v=4JXiR5vSw_I)**
+
+Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author of the new book Solana Rising, joins ...
+
+📺 CoinDesk
+
+👁️ 2K • 👍 64 • 💬 16 • ⏱️ 13:45 • 15h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 198 • 💬 7 • ⏱️ 6:54 • 19h ago
+👁️ 3K • 👍 200 • 💬 7 • ⏱️ 6:54 • 20h ago
 
 ---
 
@@ -288,27 +288,37 @@ BITCOIN PRICE FLIP LOADING... (Target Revealed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 322 • 💬 79 • ⏱️ 18:15 • 11h ago
+👁️ 8K • 👍 336 • 💬 81 • ⏱️ 18:15 • 11h ago
 
 ---
 
-**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
+**[This is Not Normal For Ethereum](https://www.youtube.com/watch?v=agl0Kf2d7cQ)**
 
-In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
+ETH isn't just lagging — its story broke. It's down ~3× more than BTC from the highs, ETH/BTC is sitting at multi-year lows, and ...
 
-📺 FAROKH RADIO
+📺 Ryan’s Money Lab
 
-👁️ 22K • 👍 782 • 💬 107 • ⏱️ 1:10:46 • 1d ago
+👁️ 3K • 👍 147 • 💬 18 • ⏱️ 15:43 • 15h ago
 
 ---
 
-**[HUGE VOLATILITY COMING!🚨 Bitcoin, Ethereum &amp; Altcoins Update](https://www.youtube.com/watch?v=guyms4R0FeE)**
+**[Bitcoin &amp; Ethereum. Auf der Grossen Zeiteinheit immer noch im Downtrend, Russel 2k als Katalysator?](https://www.youtube.com/watch?v=pt_RHhPRxP4)**
 
-CRYPTO MARKET UPDATE Join the Premium Signal Group for trade setups, mentorship & a community focused on real ...
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
 
-📺 Cilinix Crypto
+📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 135 • 💬 14 • ⏱️ 9:38 • 19h ago
+👁️ 4K • 👍 747 • 💬 117 • ⏱️ 15:03 • 4h ago
+
+---
+
+**[I Can’t Believe This Is Happening!! All Hell Is Breaking Loose In Crypto!!](https://www.youtube.com/watch?v=2ZqztKdMquI)**
+
+Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily Merch - While ...
+
+📺 Altcoin Daily
+
+👁️ 73K • 👍 4K • 💬 308 • ⏱️ 12:03 • 2d ago
 
 ---
 
@@ -319,16 +329,6 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 📺 Cilinix Crypto
 
 👁️ 1K • 👍 45 • 💬 11 • ⏱️ 4:36 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Auf der Grossen Zeiteinheit immer noch im Downtrend, Russel 2k als Katalysator?](https://www.youtube.com/watch?v=pt_RHhPRxP4)**
-
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 638 • 💬 99 • ⏱️ 15:03 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T10:11:53.770866+00:00'
+updated: '2025-12-12T10:42:05.542092+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 10:11 UTC  
+**Last Updated:** December 12, 2025 at 10:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,166.52
+### $92,473.85
 
 ---
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1847.86B
+**Market Cap:** $1845.10B
 Rank #1
 
 **Circulating Supply:** 19,961,062 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.6%
+-26.7%
 
 **All-Time Low:** $67.81
-+136444.8%
++136213.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Most of you guys will relate to this...](https://www.reddit.com/r/Bitcoin/comments/1pkmy47/most_of_you_guys_will_relate_to_this/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ The user is 1Ng94bFQctzRnbGByBgTvT8ZH3TPMYVoQz. According to ckpool stats his ha
 
 Made a little edit on the pump it up song to include the current craziness going on, hope you all enjoy 🧡
 
-13h ago
+14h ago
 
 ---
 
@@ -125,13 +125,7 @@ Made a little edit on the pump it up song to include the current craziness going
 
 **[We got inflation laddie, dont worry - its normal.](https://www.reddit.com/r/Bitcoin/comments/1pk6cm3/we_got_inflation_laddie_dont_worry_its_normal/)**
 
-14h ago
-
----
-
-**[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
-
-20h ago
+15h ago
 
 ---
 
@@ -143,6 +137,12 @@ are we coming out of the worst of it? stock market is at highs, and even the AI 
 
 ---
 
+**[My Precious👹](https://www.reddit.com/r/Bitcoin/comments/1pjxr2j/my_precious/)**
+
+21h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -151,7 +151,7 @@ are we coming out of the worst of it? stock market is at highs, and even the AI 
 
 Bitcoin veered back toward the lower portion of its recent trading range amid lingering concern about demand for risky assets.
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -167,7 +167,7 @@ BBC • 1d ago
 
 Fidelity projects Bitcoin entering a mature fifth wave while analysts debate bullish or weak performance heading into 2026.
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -309,7 +309,7 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 756 • 💬 12 • ⏱️ 48:24 • 12h ago
+👁️ 16K • 👍 814 • 💬 12 • ⏱️ 48:24 • 12h ago
 
 ---
 
@@ -319,37 +319,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 140 • 💬 42 • ⏱️ 22:05 • 10h ago
-
----
-
-**[Crypto will be far more important in 10 years than it is today, says Bitwise CEO](https://www.youtube.com/watch?v=j-8hq9Nc87Q)**
-
-CNBC's "The Exchange" team discusses why the crypto market is under pressure and where cryptocurrencies like bitcoin may go ...
-
-📺 CNBC Television
-
-👁️ 10K • 👍 107 • 💬 73 • ⏱️ 4:06 • 15h ago
-
----
-
-**[The Fed CUTS… and Bitcoin DROPS Below $90K?!](https://www.youtube.com/watch?v=u_H9gXNc630)**
-
-Jerome Powell just went full-dovish — QT is winding down, liquidity is returning, and rate hikes are off the table. Bitcoin dipped ...
-
-📺 Simply Bitcoin
-
-👁️ 18K • 👍 2K • 💬 96 • ⏱️ 18:22 • 10h ago
-
----
-
-**[Everything Says Bull Run for Bitcoin… Except the Price. Time to Take Action?](https://www.youtube.com/watch?v=Z1_Fq5oH0C0)**
-
-Bear or Bull? Bearish short term, but buying every day! The links below may include affiliate links, which means I may receive a ...
-
-📺 Digital Asset News
-
-👁️ 10K • 👍 696 • 💬 48 • ⏱️ 44:51 • 15h ago
+👁️ 3K • 👍 149 • 💬 42 • ⏱️ 22:05 • 11h ago
 
 ---
 
@@ -359,7 +329,17 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 13K • 👍 941 • 💬 276 • ⏱️ 14:43 • 14h ago
+👁️ 13K • 👍 982 • 💬 301 • ⏱️ 14:43 • 14h ago
+
+---
+
+**[Crypto will be far more important in 10 years than it is today, says Bitwise CEO](https://www.youtube.com/watch?v=j-8hq9Nc87Q)**
+
+CNBC's "The Exchange" team discusses why the crypto market is under pressure and where cryptocurrencies like bitcoin may go ...
+
+📺 CNBC Television
+
+👁️ 11K • 👍 112 • 💬 85 • ⏱️ 4:06 • 15h ago
 
 ---
 
@@ -369,17 +349,27 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 247 • ⏱️ 10:23 • 1d ago
+👁️ 55K • 👍 3K • 💬 250 • ⏱️ 10:23 • 1d ago
 
 ---
 
-**[5 Bitcoin for WHAT?!😨🤯](https://www.youtube.com/watch?v=QxYP-j8DAPs)**
+**[The Secret War Behind Bitcoin&#39;s Price Crash (Not What You Think)](https://www.youtube.com/watch?v=4cVGR6n7ttY)**
 
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+Wealth isn't earned, it's engineered. Join me Jan 7-9 for 3 days where we'll be engineering your complete Wealth Operating ...
 
-📺 Crypto Cam
+📺 Mark Moss
 
-👁️ 17K • 👍 446 • 💬 49 • ⏱️ 0:27 • 1d ago
+👁️ 119K • 👍 6K • 💬 387 • ⏱️ 21:05 • 1d ago
+
+---
+
+**[The Fed CUTS… and Bitcoin DROPS Below $90K?!](https://www.youtube.com/watch?v=u_H9gXNc630)**
+
+Jerome Powell just went full-dovish — QT is winding down, liquidity is returning, and rate hikes are off the table. Bitcoin dipped ...
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 2K • 💬 153 • ⏱️ 18:22 • 10h ago
 
 ---
 
@@ -393,13 +383,23 @@ The U.S. just gave banks the green light to dive into Bitcoin—no custody neede
 
 ---
 
-**[Bitcoin DUMPS As Fed Rate Cut Threatens Crypto Rally!](https://www.youtube.com/watch?v=vYI1COYtJU4)**
+**[Everything Says Bull Run for Bitcoin… Except the Price. Time to Take Action?](https://www.youtube.com/watch?v=Z1_Fq5oH0C0)**
 
-Bitcoin #Crypto #Finance Guests Markus Thielen - https://youtube.com/live/vYI1COYtJU4 If you want to see how people are ...
+Bear or Bull? Bearish short term, but buying every day! The links below may include affiliate links, which means I may receive a ...
 
-📺 The Wolf Of All Streets
+📺 Digital Asset News
 
-👁️ 19K • 👍 824 • 💬 291 • ⏱️ 35:32 • 19h ago
+👁️ 11K • 👍 720 • 💬 48 • ⏱️ 44:51 • 15h ago
+
+---
+
+**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
+
+What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
+
+📺 Thomas Kralow
+
+👁️ 16K • 👍 682 • 💬 41 • ⏱️ 11:29 • 22h ago
 
 ---
 
