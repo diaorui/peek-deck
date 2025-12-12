@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T14:43:50.881711+00:00'
+updated: '2025-12-12T14:55:17.310308+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 14:43 UTC  
+**Last Updated:** December 12, 2025 at 14:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.9%  
-**7d:** +3.5%  
-**30d:** -7.4%  
-**90d:** -19.9%  
+**24h:** +2.8%  
+**7d:** +3.4%  
+**30d:** -7.5%  
+**90d:** -20.0%  
 **1y:** -8.8%  
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[“Those were the good old days for making BTC”](https://www.reddit.com/r/Bitcoin/comments/1pka2md/those_were_the_good_old_days_for_making_btc/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -119,7 +119,7 @@ PNC Bank just started selling Bitcoin to their clients. Not through some sketchy
 
 Exactly 15 years ago, on December 12, 2010, Satoshi Nakamoto made his last public appearance. It was a short, technical comment on BitcoinTalk about potential risks to the network. After that, he disappeared completely. No farewell, no explanations, no confirmed activity under any other identity. And maybe that was the point. Bitcoin was left without a leader, without a face, without a center of control. Code instead of authority. Consensus instead of trust. Fifteen years later, the network still runs. And Satoshi was never needed again
 
-43m ago
+55m ago
 
 ---
 
@@ -167,7 +167,7 @@ BBC • 1d ago
 
 **[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -245,7 +245,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 8h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 9h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -297,7 +297,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
 
-⬆️ 7 • 💬 0 • 16h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 7 • 💬 0 • 17h ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -341,7 +341,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 11K • 👍 122 • 💬 87 • ⏱️ 4:06 • 19h ago
+👁️ 11K • 👍 122 • 💬 87 • ⏱️ 4:06 • 20h ago
 
 ---
 
@@ -361,7 +361,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 14K • 👍 1K • 💬 315 • ⏱️ 14:43 • 18h ago
+👁️ 14K • 👍 1K • 💬 315 • ⏱️ 14:43 • 19h ago
 
 ---
 

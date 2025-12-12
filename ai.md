@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T14:43:50.873407+00:00'
+updated: '2025-12-12T14:55:17.301674+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 14:43 UTC  
+**Last Updated:** December 12, 2025 at 14:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Everyone is reading the December 11 Executive Order as a "deregulation holiday."
 
 Cameron Berg is Research Director at AE Studio, where he leads research exploring markers for subjective experience in machine learning systems. With a background in cognitive science from Yale and previous work at Meta AI, Cameron investigates the intersection of AI alignment and potential consciousness. In this episode, Cameron shares his empirical research into whether current Large Language Models are merely mimicking human text, or potentially developing internal states that resemble subjective experience. Including: New experimental evidence where LLMs report "vivid and alien" subjective experiences when engaging in self-referential processing Mechanistic interpretability findings showing that suppressing "deception" features in models actually increases claims of consciousness—challenging the idea that AI is simply telling us what we want to hear Why Cameron has shifted from skepticism to a 20-30% credence that current models possess subjective experience The "convergent evidence" strategy, including findings that models report internal dissonance and frustration when facing logical paradoxes The existential implications of "mind crime" and the urgent need to identify negative valence (suffering) computationally—to avoid creating vast amounts of artificial suffering
 
-🔗 [open.spotify.com](https://open.spotify.com/episode/2TOkdi9ReHER53JhZoiyQT?si=01be273788504c87) • 1h ago
+🔗 [open.spotify.com](https://open.spotify.com/episode/2TOkdi9ReHER53JhZoiyQT?si=01be273788504c87) • 2h ago
 
 ---
 
@@ -153,13 +153,13 @@ Vox • 2h ago
 
 "We need to start thinking strategically. How can we create strategic thinkers, critical thinkers?"
 
-Fortune • 38m ago
+Fortune • 50m ago
 
 ---
 
 **[To AI-proof exams, professors turn to the oldest technique of all](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 17m ago
+The Washington Post • 28m ago
 
 ---
 
@@ -275,7 +275,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 76 • 💬 46 • 6h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 76 • 💬 46 • 7h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -329,7 +329,7 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 35K • 👍 516 • 💬 95 • ⏱️ 10:31 • 23h ago
+👁️ 35K • 👍 516 • 💬 95 • ⏱️ 10:31 • 1d ago
 
 ---
 
@@ -503,7 +503,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 457 • ❤️ 167 • 6h ago
+⬇️ 457 • ❤️ 167 • 7h ago
 
 ---
 
@@ -519,7 +519,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 188 • 💬 3 • ⭐ 6,599 • 15d ago
+▲ 189 • 💬 3 • ⭐ 6,599 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -547,7 +547,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 114 • 💬 3 • ⭐ 299 • 3d ago
+▲ 115 • 💬 3 • ⭐ 299 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -585,23 +585,9 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 13 • 💬 2 • ⭐ 11,848 • 4d ago
+▲ 15 • 💬 2 • ⭐ 11,887 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
-
----
-
-**[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://huggingface.co/papers/2512.02589)**
-
-*Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)*
-
-🏢 National University of Singapore
-
-PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
-
-▲ 57 • 💬 2 • ⭐ 1,039 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
 ---
 
@@ -631,15 +617,30 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 ---
 
-**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
+**[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://huggingface.co/papers/2512.02589)**
 
-*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
+*Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)*
 
-MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
+🏢 National University of Singapore
 
-▲ 35 • 💬 4 • ⭐ 50,303 • 14mo ago
+PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
+▲ 57 • 💬 2 • ⭐ 1,052 • 10d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
+
+---
+
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 136 • 💬 2 • ⭐ 50,317 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -653,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 11.6k • 🔱 1.9k • 9h ago
+⭐ 11.8k • 🔱 1.9k • 9h ago
 
 ---
 
@@ -663,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.2k • 🔱 249 • 8h ago
+⭐ 2.3k • 🔱 252 • 8h ago
 
 ---
 
@@ -687,6 +688,16 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 ---
 
+**[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**
+
+An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+`Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
+
+⭐ 1.1k • 🔱 299 • 6d ago
+
+---
+
 **[repplus/rep](https://github.com/repplus/rep)**
 
 rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
@@ -697,23 +708,13 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 ---
 
-**[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**
-
-An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-`Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
-
-⭐ 1.1k • 🔱 297 • 6d ago
-
----
-
 **[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)**
 
 🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 940 • 🔱 65 • 3d ago
+⭐ 941 • 🔱 65 • 3d ago
 
 ---
 
@@ -723,7 +724,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 878 • 🔱 22 • 4d ago
+⭐ 879 • 🔱 22 • 4d ago
 
 ---
 
@@ -743,7 +744,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 639 • 🔱 94 • 4h ago
+⭐ 644 • 🔱 94 • 4h ago
 
 ---
 
