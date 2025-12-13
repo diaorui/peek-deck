@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T21:55:38.099853+00:00'
+updated: '2025-12-13T22:20:01.357959+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 21:55 UTC  
+**Last Updated:** December 13, 2025 at 22:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -67,7 +67,7 @@ My 8 year old son has just vibe coded his first video game with the help of Goog
 
 I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
 
-6h ago
+7h ago
 
 ---
 
@@ -75,7 +75,7 @@ I keep seeing tools that generate beautiful code and then fall apart when anythi
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 5h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 6h ago
 
 ---
 
@@ -91,7 +91,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 2m ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 26m ago
 
 ---
 
@@ -141,7 +141,7 @@ Fortune • 1d ago
 
 The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
@@ -173,7 +173,7 @@ BBC • 2d ago
 
 On Thursday's episode of "Jimmy Kimmel Live," host Jimmy Kimmel tore into Time magazine's 2025 Person of the Year cover featuring the "Architects of AI."
 
-Fox News • 6h ago
+Fox News • 7h ago
 
 ---
 
@@ -261,7 +261,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 48 • 💬 65 • 8h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 48 • 💬 65 • 9h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -283,7 +283,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 79K • 👍 2K • 💬 255 • ⏱️ 1:21:07 • 9h ago
+👁️ 79K • 👍 2K • 💬 255 • ⏱️ 1:21:07 • 10h ago
 
 ---
 
@@ -303,7 +303,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 290K • 👍 13K • 💬 747 • ⏱️ 4:01 • 23h ago
+👁️ 290K • 👍 13K • 💬 747 • ⏱️ 4:01 • 1d ago
 
 ---
 
@@ -313,7 +313,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 855 • 💬 298 • ⏱️ 16:19 • 6h ago
+👁️ 12K • 👍 855 • 💬 298 • ⏱️ 16:19 • 7h ago
 
 ---
 
@@ -333,7 +333,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 35K • 👍 1K • 💬 224 • ⏱️ 15:01 • 21h ago
+👁️ 35K • 👍 1K • 💬 224 • ⏱️ 15:01 • 22h ago
 
 ---
 
@@ -343,7 +343,7 @@ Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut 
 
 📺 Smart Tales
 
-👁️ 4K • 👍 43 • ⏱️ 0:08 • 1h ago
+👁️ 4K • 👍 43 • ⏱️ 0:08 • 2h ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.5k • 🔱 283 • 5h ago
+⭐ 2.5k • 🔱 283 • 6h ago
 
 ---
 

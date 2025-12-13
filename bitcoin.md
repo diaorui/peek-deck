@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T21:55:38.108260+00:00'
+updated: '2025-12-13T22:20:01.366285+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 21:55 UTC  
+**Last Updated:** December 13, 2025 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,902.87
+### $90,186.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.4%  
-**30d:** -4.9%  
-**90d:** -21.8%  
-**1y:** -11.2%  
+**24h:** +0.0%  
+**7d:** -0.1%  
+**30d:** -4.7%  
+**90d:** -21.7%  
+**1y:** -11.0%  
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Yes. Yes we are.
 
-5h ago
+6h ago
 
 ---
 
@@ -121,13 +121,13 @@ This will age well in 10 years. See you then.
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-17h ago
+18h ago
 
 ---
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-19m ago
+43m ago
 
 ---
 
@@ -153,13 +153,13 @@ Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid 
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 19h ago
+Reuters • 20h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 4h ago
 
 **[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://finance.yahoo.com/news/vanguard-exec-calls-bitcoin-digital-215932676.html)**
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -195,7 +195,7 @@ Bloomberg.com • 1d ago
 
 Brazil's top bank Itaú Unibanco has advised clients to allocate up to 3% of their portfolios to Bitcoin by 2026.
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -229,7 +229,7 @@ Yahoo Finance • 2d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 4h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 5h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -245,7 +245,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 5h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 6h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -311,7 +311,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 161 • 💬 8 • ⏱️ 21:14 • 6h ago
+👁️ 3K • 👍 161 • 💬 8 • ⏱️ 21:14 • 7h ago
 
 ---
 
@@ -321,7 +321,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • 💬 24 • ⏱️ 48:39 • 7h ago
+👁️ 25K • 👍 1K • 💬 24 • ⏱️ 48:39 • 8h ago
 
 ---
 
@@ -391,7 +391,7 @@ Join BroFi VIP ⁣ https://enter.brofi.com/ytdesc X: https://x.com/samiloyal_ �
 
 📺 Forflies
 
-👁️ 296 • 👍 41 • 💬 96 • ⏱️ 19:45 • 1h ago
+👁️ 296 • 👍 41 • 💬 96 • ⏱️ 19:45 • 2h ago
 
 ---
 
@@ -401,7 +401,7 @@ Join our FREE Crypto Telegram https://t.me/CryptoCacheTrading & Discord https://
 
 📺 CryptoCache
 
-👁️ 1K • 👍 134 • 💬 21 • ⏱️ 18:10 • 4h ago
+👁️ 1K • 👍 134 • 💬 21 • ⏱️ 18:10 • 5h ago
 
 ---
 

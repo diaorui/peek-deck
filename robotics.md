@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T21:55:38.117560+00:00'
+updated: '2025-12-13T22:20:01.375626+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 21:55 UTC  
+**Last Updated:** December 13, 2025 at 22:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
 
-10h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-49m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Zebra Technologies is looking to sell its autonomous mobile robot group or will 
 
 I just started working here and on friday afternoon the software crashed or to the screen in the picture, im scareed shitles. How do i get the software back The robot is KUKa KR150 i think
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ What's up guys, I posted about this PX4 SIL simulator earlier this year and got 
 
 Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon weekend — open to anyone who loves robots, ROS, automation, hardware, or just tinkering with cool tech. 📅 18–19 Dec ⏰ 7:30–9 PM 📍 Shivajinagar, Pune Very chill meetup: talk, share ideas, network, show what you're working on — all are welcome (even if you're not attending ROSCon). If you're interested, sign up here: 👉 https://forms.gle/EQ8MkikLLtnixcno9 Would love to know what topics you'd want to chat about!
 
-7h ago
+8h ago
 
 ---
 
@@ -148,7 +148,7 @@ NVIDIA Developer • 2d ago
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 10h ago
+Scientific American • 11h ago
 
 ---
 
@@ -230,7 +230,7 @@ PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *N
 
 📺 LIGHTS ARE OFF
 
-👁️ 332K • 👍 22K • 💬 2K • ⏱️ 8:45 • 13h ago
+👁️ 332K • 👍 22K • 💬 2K • ⏱️ 8:45 • 14h ago
 
 ---
 
@@ -260,7 +260,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 18K • 👍 500 • 💬 113 • ⏱️ 42:48 • 5d ago
+👁️ 18K • 👍 500 • 💬 113 • ⏱️ 42:48 • 6d ago
 
 ---
 
