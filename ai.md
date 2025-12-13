@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T05:36:07.700856+00:00'
+updated: '2025-12-13T05:50:37.456485+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 05:36 UTC  
+**Last Updated:** December 13, 2025 at 05:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -103,7 +103,7 @@ I’ve been working with multiple LLMs in long, sustained interactions, hundreds
 
 Everyone is reading the December 11 Executive Order as a "deregulation holiday." I think that's dead wrong. It’s actually a litigation trigger. By trying to preempt state AI laws with an EO, the administration isn't clearing the board—they are picking a fight with 38 state legislatures and a Senate that already voted 99-1 against this exact approach. The trap: If you're a vendor, you might be tempted to delete your state-level compliance code today. Don't. We just moved from a patchwork of laws to a constitutional crisis. When the lawsuits stall this EO, you don't want to be the one caught naked on liability. The only safe bet right now? Architect for the EU AI Act. It's the only stable floor left. I wrote a deep dive on why this is a "volatility event" rather than deregulation. https://www.linkedin.com/pulse/50-states-rules-hidden-tax-every-ai-deployment-collin-hogue-spears-eptie
 
-16h ago
+17h ago
 
 ---
 
@@ -119,9 +119,11 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 ## Google News: "ai"
 
-**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+**[WATCH: Trump signs executive order to override AI regulations by states](https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-to-override-ai-regulations-by-states)**
 
-The New York Times • 1d ago
+President Donald Trump signed an executive order Thursday pressuring states not to regulate artificial intelligence.
+
+PBS • 8h ago
 
 ---
 
@@ -133,11 +135,19 @@ Time Magazine • 1d ago
 
 ---
 
-**[Some Utah Republicans push back on Trump's order on AI regulation](https://www.ksl.com/article/51418501/some-utah-republicans-push-back-on-trumps-order-on-ai-regulation)**
+**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
 
-Several Utah Republicans have spoken out against an executive order from President Trump that aims to restrict state's abilities to regulate AI.
+TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
 
-KSL.com • 1h ago
+Time Magazine • 1d ago
+
+---
+
+**['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o)**
+
+Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.
+
+BBC • 1d ago
 
 ---
 
@@ -147,9 +157,25 @@ The Washington Post • 10h ago
 
 ---
 
-**[Chinese AI Euphoria Obscures a Gloomier Technological Reality](https://www.bloomberg.com/news/articles/2025-12-13/chinese-ai-euphoria-obscures-a-gloomier-technological-reality)**
+**[US tech stocks slide as fears over AI boom flare up](https://www.ft.com/content/8b9519df-9154-4eb5-ab3b-d3da0115b65e)**
 
-Bloomberg.com • 5h ago
+Chipmaker Broadcom tumbles 11.4% after financial forecast disappoints Wall Street
+
+Financial Times • 14h ago
+
+---
+
+**[Santoli's Friday market wrap-up: Stocks are caught in opposing currents of AI anxiety and economic enthusiasm](https://www.cnbc.com/2025/12/12/santolis-market-wrap-up-stocks-stuck-between-ai-anxiety-economic-enthusiasm.html)**
+
+Friday,  the AI pressure proved too heavy for the economically sensitive parts of the market to absorb fully, leaving the S&P 500 with a small weekly loss.
+
+CNBC • 8h ago
+
+---
+
+**[Oracle-Broadcom one-two punch hits AI trade, but investor optimism persists](https://www.reuters.com/business/finance/oracles-stumble-hits-ai-trade-many-remain-bullish-2025-12-12/)**
+
+Reuters • 10h ago
 
 ---
 
@@ -161,35 +187,9 @@ The New Yorker • 18h ago
 
 ---
 
-**[AI-led tech slide extends into third day as Oracle, Broadcom fall](https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html)**
+**[Chinese AI Euphoria Obscures a Gloomier Technological Reality](https://www.bloomberg.com/news/articles/2025-12-13/chinese-ai-euphoria-obscures-a-gloomier-technological-reality)**
 
-AI-related names have made losses since Oracle's mixed results on Wednesday.
-
-CNBC • 20h ago
-
----
-
-**[Arizona city unanimously rejects AI data center after residents' outcry](https://www.foxbusiness.com/politics/arizona-city-unanimously-rejects-ai-data-center-after-residents-outcry)**
-
-The Chandler, Arizona, city council unanimously voted against clearing the way to allow for construction of an artificial intelligence data center
-
-Fox Business • 9h ago
-
----
-
-**[The AI skills gap is really a ‘critical thinking’ gap: The Fortune 500 fears it can’t find talent with enough sharp thinking](https://fortune.com/2025/12/12/ai-skills-gap-talent-executives-fear-risk-critical-strategic-thinking/)**
-
-"We need to start thinking strategically. How can we create strategic thinkers, critical thinkers?"
-
-Fortune • 15h ago
-
----
-
-**[Podcast industry under siege as AI bots flood airways with thousands of programs](https://www.latimes.com/business/story/2025-12-12/ai-podcasting-is-changing-industry)**
-
-AI podcasts are flooding the airways as California companies make thousands to see what sticks
-
-Los Angeles Times • 18h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -205,19 +205,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://news.ycombinator.com/item?id=46248644)**
+
+Update your apps to use new features, and test your apps against API changes.
+
+⬆️ 331 • 💬 184 • 9h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+
+---
+
 **[DeepSeek uses banned Nvidia chips for AI model, report says](https://news.ycombinator.com/item?id=46219853)**
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
 ⬆️ 325 • 💬 315 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
-
----
-
-**[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://news.ycombinator.com/item?id=46248644)**
-
-Update your apps to use new features, and test your apps against API changes.
-
-⬆️ 325 • 💬 181 • 8h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -233,7 +233,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 156 • 💬 108 • 21h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 157 • 💬 110 • 21h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -257,7 +257,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 109 • 💬 217 • 13h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 110 • 💬 217 • 13h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -497,7 +497,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 2,971 • ❤️ 173 • 19h ago
+⬇️ 2,971 • ❤️ 173 • 20h ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.4k • 🔱 268 • 48m ago
+⭐ 2.4k • 🔱 268 • 1h ago
 
 ---
 
@@ -698,7 +698,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 22h ago
+⭐ 1.1k • 🔱 134 • 23h ago
 
 ---
 

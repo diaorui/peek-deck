@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T05:36:07.715361+00:00'
+updated: '2025-12-13T05:50:37.471278+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 05:36 UTC  
+**Last Updated:** December 13, 2025 at 05:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.05B
+**Market Cap:** $372.50B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.5%
+-37.6%
 
 **All-Time Low:** $0.43
-+713701.4%
++713015.4%
 
 ---
 
@@ -152,19 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
-
-The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
-
-Decrypt • 9h ago
-
----
-
 **[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
 CoinDesk • 14h ago
+
+---
+
+**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
+
+The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
+
+Decrypt • 9h ago
 
 ---
 
@@ -204,7 +204,7 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqc0j9KN8viAmhNXQIj_Rne2VDm4iB9-onJZi2xu_UnxAFtuwIXYMEPY&gaa_ts=693cf8ec&gaa_sig=2amVer4YX-Lj7TB-DQ-Y_NCzU9DWVi5DgumOSUB4gqcRzX61gxKy4eHUoGwkygRD6I6QTCBRuM2U2t1IkJUeDA%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcyVNBzhjaN3XG2WmgepX0U7QuvKAo5PmihN2-nE6WSZlS5QsRi3grg&gaa_ts=693d021d&gaa_sig=4CwKWSOCgOspr41lkQMpW5wRdQW9dfG1KnMIB1aHF8DKOstJPCLpiWiw_2Jrq1PXVLU7BNwKKz62E2nYyRHABQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -296,7 +296,7 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 3K • 👍 232 • 💬 53 • ⏱️ 18:06 • 6h ago
+👁️ 3K • 👍 232 • 💬 53 • ⏱️ 18:06 • 7h ago
 
 ---
 

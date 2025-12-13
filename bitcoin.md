@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T05:36:07.709287+00:00'
+updated: '2025-12-13T05:50:37.465125+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 05:36 UTC  
+**Last Updated:** December 13, 2025 at 05:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,24 +47,24 @@ Live Bitcoin monitoring dashboard
 **24h:** -2.4%  
 **7d:** -0.1%  
 **30d:** -4.7%  
-**90d:** -21.6%  
+**90d:** -21.7%  
 **1y:** -11.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1803.74B
+**Market Cap:** $1802.16B
 Rank #1
 
-**Circulating Supply:** 19,961,384 BTC
+**Circulating Supply:** 19,961,468 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.3%
+-28.4%
 
 **All-Time Low:** $67.81
-+133170.9%
++133054.4%
 
 ---
 
@@ -76,6 +76,12 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
+
+1h ago
+
+---
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
@@ -93,13 +99,7 @@ Rank #1
 
 Any thoughts on what is causing it?
 
-6h ago
-
----
-
-**[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
-
-1h ago
+7h ago
 
 ---
 
@@ -119,6 +119,12 @@ C’mon Bitcoin, you can do it
 
 ---
 
+**[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
+
+2h ago
+
+---
+
 **[And Bitcoin is going strong](https://www.reddit.com/r/Bitcoin/comments/1pl7ekk/and_bitcoin_is_going_strong/)**
 
 5h ago
@@ -127,7 +133,7 @@ C’mon Bitcoin, you can do it
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -139,15 +145,17 @@ How did people buy bitcoin before exchanges?
 
 ---
 
-**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin Drifts Lower With Any Push Higher Being Met by Fresh Sellers](https://www.bloomberg.com/news/articles/2025-12-12/bitcoin-drifts-lower-with-any-push-higher-being-met-by-fresh-sellers)**
+
+Bitcoin continues to drift toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October.
+
+Bloomberg.com • 11h ago
+
+---
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
@@ -157,7 +165,7 @@ Reuters • 3h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -166,30 +174,6 @@ Investor's Business Daily • 3h ago
 Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
-
-Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
-
-Bloomberg.com • 12h ago
-
----
-
-**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
-
-Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://decrypt.co/352201/vanguard-exec-calls-bitcoin-digital-labubu-firm-offers-crypto-etf-trading)**
-
-The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
-
-Decrypt • 7h ago
 
 ---
 
@@ -215,11 +199,27 @@ BBC • 2d ago
 
 ---
 
-**[Bitcoin Winter Has Begun: Why A Major Crash May Still Be Ahead](https://www.forbes.com/sites/digital-assets/2025/12/12/bitcoin-winter-has-begun-why-a-major-crash-may-still-be-ahead/)**
+**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
 
-I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
+Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Forbes • 19h ago
+Bloomberg.com • 12h ago
+
+---
+
+**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
+
+Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://decrypt.co/352201/vanguard-exec-calls-bitcoin-digital-labubu-firm-offers-crypto-etf-trading)**
+
+The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
+
+Decrypt • 7h ago
 
 ---
 
@@ -333,7 +333,7 @@ Welcome to the most blisteringly honest breakdown of the future you keep trying 
 
 📺 Swan Bitcoin
 
-👁️ 13K • 👍 830 • 💬 86 • ⏱️ 14:56 • 15h ago
+👁️ 13K • 👍 830 • 💬 86 • ⏱️ 14:56 • 16h ago
 
 ---
 
@@ -353,7 +353,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 8K • 👍 593 • 💬 241 • ⏱️ 18:04 • 9h ago
+👁️ 8K • 👍 593 • 💬 241 • ⏱️ 18:04 • 10h ago
 
 ---
 
