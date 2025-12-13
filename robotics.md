@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T22:20:01.375626+00:00'
+updated: '2025-12-13T22:38:52.687948+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 22:20 UTC  
+**Last Updated:** December 13, 2025 at 22:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 3h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 4h ago
 
 ---
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -72,7 +72,15 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/transitiverobotics/transact) • 3h ago
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 4h ago
+
+---
+
+**[Tampa robo sumo](https://www.reddit.com/r/robotics/comments/1plxcza/tampa_robo_sumo/)**
+
+Estou fazendo um robô sumo de 500g queria saber se alguém te alguma dica na hora de fazer as rampas. E ouvi falar que tem pessoas que usam imã na parte debaixo para ter mais atrito, queria saber se é verdade porque como que a arena é atraída por um imã
+
+34m ago
 
 ---
 
@@ -80,15 +88,7 @@ An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotic
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 9h ago
-
----
-
-**[How do i get to actual robot software from windows95?](https://www.reddit.com/r/robotics/comments/1plnjgu/how_do_i_get_to_actual_robot_software_from/)**
-
-I just started working here and on friday afternoon the software crashed or to the screen in the picture, im scareed shitles. How do i get the software back The robot is KUKa KR150 i think
-
-7h ago
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 10h ago
 
 ---
 
@@ -96,7 +96,7 @@ I just started working here and on friday afternoon the software crashed or to t
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or when modifying the PX4 flight controller. Hope it helps someone else now! Video below shows how it works. Side note: we're always open to feedback. Simulink based PX4 SIL Simulator
 
-1h ago
+2h ago
 
 ---
 
@@ -112,14 +112,6 @@ Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon 
 
 ## Google News: "robotics"
 
-**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
-
-Making safe and regulated humanoids is a core mission of the summit and participants.
-
-ABC7 San Francisco • 1d ago
-
----
-
 **[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
 
 Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
@@ -132,7 +124,7 @@ IEEE Spectrum • 3d ago
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -141,6 +133,14 @@ The Motley Fool • 2h ago
 Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
 
 NVIDIA Developer • 2d ago
+
+---
+
+**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
+
+The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
+
+AP News • 23h ago
 
 ---
 
@@ -160,11 +160,17 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
 
-The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
+Making safe and regulated humanoids is a core mission of the summit and participants.
 
-AP News • 23h ago
+ABC7 San Francisco • 1d ago
+
+---
+
+**[Houston robotics team headed to Dallas after HISD 'miscommunication'](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+
+Chron • 3d ago
 
 ---
 
@@ -181,12 +187,6 @@ MIT News • 3d ago
 Teradyne Robotics plans to open its U.S. headquarters near Detroit in 2026 to boost manufacturing for UR and MiR and better serve customers.
 
 The Robot Report • 1d ago
-
----
-
-**[Houston robotics team headed to Dallas after HISD 'miscommunication'](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
-
-Chron • 3d ago
 
 ---
 
@@ -220,7 +220,7 @@ Unitree welcomes users and developers worldwide to co-develop and share together
 
 📺 Unitree Robotics
 
-👁️ 7K • 👍 216 • 💬 42 • ⏱️ 0:35 • 16h ago
+👁️ 7K • 👍 216 • 💬 42 • ⏱️ 0:35 • 17h ago
 
 ---
 
@@ -250,7 +250,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 9K • 👍 59 • 💬 20 • ⏱️ 1:26 • 23h ago
+👁️ 9K • 👍 59 • 💬 20 • ⏱️ 1:26 • 1d ago
 
 ---
 

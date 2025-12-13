@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T22:20:01.366285+00:00'
+updated: '2025-12-13T22:38:52.678547+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 22:20 UTC  
+**Last Updated:** December 13, 2025 at 22:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,186.33
+### $90,072.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -0.1%  
+**24h:** -0.0%  
+**7d:** -0.2%  
 **30d:** -4.7%  
 **90d:** -21.7%  
 **1y:** -11.0%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1797.40B
+**Market Cap:** $1798.61B
 Rank #1
 
-**Circulating Supply:** 19,961,750 BTC
+**Circulating Supply:** 19,961,771 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.5%
 
 **All-Time Low:** $67.81
-+132715.2%
++132898.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -111,11 +111,15 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 ---
 
-**[I finally acquired 1 whole bitcoin at 28 years old.](https://www.reddit.com/r/Bitcoin/comments/1plhsu8/i_finally_acquired_1_whole_bitcoin_at_28_years_old/)**
+**[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-This will age well in 10 years. See you then.
+33m ago
 
-12h ago
+---
+
+**[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
+
+1h ago
 
 ---
 
@@ -125,23 +129,19 @@ This will age well in 10 years. See you then.
 
 ---
 
-**[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
-
-43m ago
-
----
-
 **[BTC Tracker v0.6.7 update released! – security, transfers & steady improvements 🚀](https://www.reddit.com/r/Bitcoin/comments/1plqu1y/btc_tracker_v067_update_released_security/)**
 
 Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid improvements to UI, security, and portfolio management. Some highlights of this release: Added 2FA Support for BTC transfers (not just buy/sell) Fixed and improved DB migrations Updated Next.js to address a critical security vulnerability I haven’t posted in a while, but during that time — driven by community requests — I added several bigger features, including: DCA calculator with goal tracking Auto DCA setup Portfolio analysis A dynamic dashboard with customizable widgets (and more) Along the way, I also revamped the UI (mobile still needs some polish), added theme presets, and cleaned things up overall. You can try it on Umbrel, run it with Docker, or install it standalone via npm. Repo: https://github.com/wilqq-the/BTC-Tracker Umbrel app: https://apps.umbrel.com/app/btctracker Feedback and ideas are always welcome — we’re slowly building this together 🙏 Discord: https://discord.gg/WyxSZv3a
 
-4h ago
+5h ago
 
 ---
 
-**["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
+**[How’s Everyone Doing?](https://www.reddit.com/r/Bitcoin/comments/1plu77e/hows_everyone_doing/)**
 
-1d ago
+I’m just curious how everyone is doing financially here on the bitcoin sub. I live in the upper east coast of US. And I gotta say inflation is starting to really grind me down. I make a pretty decent amount money but it’s doesn’t go far as it use to. Food, gas, rent and anything left over goes to investments. I even started digging into my savings and investments to plug unforeseen expenses. I don’t know how everyone is doing it. This fucked monetary system is stripping people to the bone until there’s nothing left. This may sound cheesy but Bitcoin is our last hope of salvaging this fucked situation.
+
+2h ago
 
 ---
 
@@ -169,20 +169,6 @@ Investor's Business Daily • 20h ago
 
 ---
 
-**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
-
-Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
-
-CoinDesk • 4h ago
-
----
-
-**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://finance.yahoo.com/news/vanguard-exec-calls-bitcoin-digital-215932676.html)**
-
-Yahoo Finance • 1d ago
-
----
-
 **[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
@@ -191,11 +177,33 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
+
+Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
+
+CoinDesk • 5h ago
+
+---
+
+**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
+
+Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
+
+Bitcoin Magazine • 1d ago
+
+---
+
 **[Brazil’s Largest Private Bank Advises 3% Bitcoin Allocation For Clients](https://finance.yahoo.com/news/brazil-largest-private-bank-advises-210131274.html)**
 
 Brazil's top bank Itaú Unibanco has advised clients to allocate up to 3% of their portfolios to Bitcoin by 2026.
 
 Yahoo Finance • 1h ago
+
+---
+
+**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
+
+x.com • 3h ago
 
 ---
 
@@ -210,14 +218,6 @@ Investor's Business Daily • 1d ago
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
 Forbes • 1d ago
-
----
-
-**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
-
-Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -331,7 +331,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 8K • 👍 378 • 💬 35 • ⏱️ 13:45 • 6h ago
+👁️ 8K • 👍 378 • 💬 35 • ⏱️ 13:45 • 7h ago
 
 ---
 
@@ -351,7 +351,7 @@ America is drowning in debt—and politicians aren't telling you the real soluti
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 138 • 💬 18 • ⏱️ 7:25 • 6h ago
+👁️ 2K • 👍 138 • 💬 18 • ⏱️ 7:25 • 7h ago
 
 ---
 

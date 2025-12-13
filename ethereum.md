@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T22:20:01.372398+00:00'
+updated: '2025-12-13T22:38:52.684633+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 22:20 UTC  
+**Last Updated:** December 13, 2025 at 22:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +1.6%  
+**24h:** +1.0%  
+**7d:** +1.7%  
 **30d:** +0.2%  
 **90d:** -31.1%  
 **1y:** -19.6%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.52B
+**Market Cap:** $375.29B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.3%
+-37.0%
 
 **All-Time Low:** $0.43
-+716470.5%
++719145.0%
 
 ---
 
@@ -160,35 +160,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
-
-Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
-
-CoinDesk • 1d ago
-
----
-
 **[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
 Decrypt • 1d ago
-
----
-
-**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
-
-The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
-
-Sentiment around Ethereum has been bouncing around considerably in recent days.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -198,11 +174,19 @@ Binance • 1d ago
 
 ---
 
-**[XRP Mildly Undervalued On MVRV: What About Bitcoin, Ethereum?](https://www.tradingview.com/news/newsbtc:800854a3e094b:0-xrp-mildly-undervalued-on-mvrv-what-about-bitcoin-ethereum/)**
+**[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://finance.yahoo.com/news/tom-lee-claims-p-500-115052298.html)**
 
-XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
+Tom Lee expects the S&P 500 to reach 7,700 by 2026. Lee argues Ethereum is “grossly undervalued” at current levels. The bullish analyst claimed Bitcoin ...
 
-TradingView • 16h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Solana Will ‘Flip’ Ethereum, Predicts Skybridge Capital’s Scaramucci](https://www.tradingview.com/news/newsbtc:1dae68157094b:0-solana-will-flip-ethereum-predicts-skybridge-capital-s-scaramucci/)**
+
+Anthony Scaramucci showed up to Solana Breakpoint in Abu Dhabi wearing a tie — a small act of rebellion in a sea of hoodies — and then proceeded to make a much bigger one on stage: Solana is going to “flip” Ethereum.Scaramucci’s Solana PredictionNot in the Twitter-war, zero-sum, “ETH is dead” kind…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -211,6 +195,14 @@ TradingView • 16h ago
 After an unexpected pullback, could Ethereum be ready to skyrocket in value?
 
 The Motley Fool • 1d ago
+
+---
+
+**[Ethereum Price Forecast: ETH breaches $3,100 as accumulation and whale buying persist](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-breaches-3-100-as-accumulation-and-whale-buying-persist-202512121905)**
+
+Ethereum (ETH) saw a 3% decline on Friday, briefly falling below $3,100 despite a strong buying activity across whale and accumulation addresses.
+
+FXStreet • 1d ago
 
 ---
 
@@ -227,6 +219,12 @@ CryptoSlate • 2d ago
 Ethereum was one of the best-performing cryptocurrencies in the market over the past week, with its price jumping mid-week to as high as $3,400.
 
 Bitcoinist.com • 1h ago
+
+---
+
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcN1zNNJPYeZCeu6bd1ldMlP-trSE_fwlLjUbipSnuZCTMTatMyLPtf&gaa_ts=693dee6a&gaa_sig=ukoQheOv4xifW4TAExFtCpcAe7xZKn_LyeNj_rENZZkid6JZvv_fn9zrtk_5e1bm3e9KDMjts4ugT6p2bBALgQ%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -260,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 97 • 💬 1 • ⏱️ 4:05 • 4h ago
+👁️ 1K • 👍 97 • 💬 1 • ⏱️ 4:05 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T22:20:01.357959+00:00'
+updated: '2025-12-13T22:38:52.669991+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 22:20 UTC  
+**Last Updated:** December 13, 2025 at 22:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,7 @@ AI news, discussions, and developments
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 6h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 7h ago
 
 ---
 
@@ -53,13 +53,19 @@ AI news, discussions, and developments
 
 My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
 
-3h ago
+4h ago
 
 ---
 
 **[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
 
 🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 10h ago
+
+---
+
+**[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
+
+18m ago
 
 ---
 
@@ -91,7 +97,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 26m ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 45m ago
 
 ---
 
@@ -100,14 +106,6 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
 🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 1d ago
-
----
-
-**[An AI agent spent 16 hours hacking Stanford's network. It outperformed human pros for much less than their 6-figure salaries.](https://www.reddit.com/r/artificial/comments/1pkuaaq/an_ai_agent_spent_16_hours_hacking_stanfords/)**
-
-An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
-
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 1d ago
 
 ---
 
@@ -125,7 +123,7 @@ The New York Times • 1d ago
 
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
 
-NBC News • 11h ago
+NBC News • 12h ago
 
 ---
 
@@ -149,13 +147,27 @@ Financial Times • 17h ago
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 8h ago
+Vox • 9h ago
+
+---
+
+**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
+
+Axios • 9h ago
 
 ---
 
 **[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
+
+Time Magazine • 2d ago
+
+---
+
+**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
+
+TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
 
 Time Magazine • 2d ago
 
@@ -169,25 +181,11 @@ BBC • 2d ago
 
 ---
 
-**[Jimmy Kimmel tears into Time's AI-focused Person of the Year cover featuring Musk, Altman and other tech CEOs](https://www.foxnews.com/media/jimmy-kimmel-tears-times-ai-focused-person-year-cover-featuring-musk-altman-other-tech-ceos)**
+**[Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o)**
 
-On Thursday's episode of "Jimmy Kimmel Live," host Jimmy Kimmel tore into Time magazine's 2025 Person of the Year cover featuring the "Architects of AI."
+The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
 
-Fox News • 7h ago
-
----
-
-**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
-
-Axios • 9h ago
-
----
-
-**[I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely.](https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12)**
-
-Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
-
-Business Insider • 11h ago
+BBC • 1d ago
 
 ---
 
@@ -207,7 +205,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 487 • 💬 283 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 487 • 💬 287 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -223,7 +221,13 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 165 • 💬 119 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 166 • 💬 120 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+
+---
+
+**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
+
+⬆️ 137 • 💬 185 • 7h ago
 
 ---
 
@@ -232,12 +236,6 @@ A summary of the techniques in place to protect my git forge
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
 ⬆️ 123 • 💬 238 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
-
----
-
-**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
-
-⬆️ 123 • 💬 153 • 6h ago
 
 ---
 
@@ -401,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 119,786 • ❤️ 801 • 1d ago
+⬇️ 119,786 • ❤️ 802 • 1d ago
 
 ---
 
@@ -425,7 +423,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 13,668 • ❤️ 313 • 1d ago
+⬇️ 13,668 • ❤️ 314 • 1d ago
 
 ---
 
@@ -449,7 +447,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 31,499 • ❤️ 263 • 4d ago
+⬇️ 31,499 • ❤️ 264 • 4d ago
 
 ---
 
@@ -485,7 +483,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,201 • ❤️ 183 • 1d ago
+⬇️ 4,201 • ❤️ 184 • 1d ago
 
 ---
 
@@ -648,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.6k • 🔱 2.1k • 17h ago
+⭐ 13.6k • 🔱 2.1k • 18h ago
 
 ---
 
