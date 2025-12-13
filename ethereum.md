@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T16:14:01.242093+00:00'
+updated: '2025-12-13T16:41:59.301507+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 16:14 UTC  
+**Last Updated:** December 13, 2025 at 16:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +1.6%  
-**30d:** +0.2%  
-**90d:** -31.2%  
-**1y:** -19.6%  
+**24h:** +1.4%  
+**7d:** +1.5%  
+**30d:** +0.0%  
+**90d:** -31.3%  
+**1y:** -19.8%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 20h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 1d ago
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -180,7 +180,7 @@ Decrypt • 19h ago
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Motley Fool • 1d ago
 
 A major crypto whale has opened a long position in Ethereum (ETH) worth more than half a billion dollars on the Hyperliquid exchange.
 
-FXStreet • 11h ago
+FXStreet • 12h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 439 • 💬 14 • ⏱️ 48:44 • 23h ago
+👁️ 6K • 👍 439 • 💬 14 • ⏱️ 48:44 • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 25K • 👍 869 • 💬 124 • ⏱️ 1:10:46 • 2d ago
+👁️ 25K • 👍 869 • 💬 124 • ⏱️ 1:10:46 • 3d ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 7K • 👍 321 • 💬 59 • ⏱️ 18:06 • 17h ago
+👁️ 7K • 👍 321 • 💬 59 • ⏱️ 18:06 • 18h ago
 
 ---
 

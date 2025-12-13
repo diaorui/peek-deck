@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T16:14:01.245676+00:00'
+updated: '2025-12-13T16:41:59.304757+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 16:14 UTC  
+**Last Updated:** December 13, 2025 at 16:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon 
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 3h ago
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 4h ago
 
 ---
 
@@ -74,7 +74,7 @@ Zebra Technologies is looking to sell its autonomous mobile robot group or will 
 
 Hello guys. I’m a mechanical engineering student and i’m mostly involved in aviation applications until now. My mum had cancer in 2012 and now I’m a bit curious about some engineering approaches to cancer. I’ve seen some researchers used micro robots to deliver drugs to tumor. Can you enlighten me about this, how future looks like on this matter?
 
-36m ago
+1h ago
 
 ---
 
@@ -138,7 +138,7 @@ AP News • 17h ago
 
 The summit aims to continue growing and fostering a better region through robotics.
 
-WHIO TV • 55m ago
+WHIO TV • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ Interesting Engineering • 3d ago
 
 Teradyne Robotics plans to open its U.S. headquarters near Detroit in 2026 to boost manufacturing for UR and MiR and better serve customers.
 
-The Robot Report • 20h ago
+The Robot Report • 21h ago
 
 ---
 
@@ -198,7 +198,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 178K • 👍 6K • 💬 440 • ⏱️ 17:44 • 2d ago
+👁️ 178K • 👍 6K • 💬 440 • ⏱️ 17:44 • 3d ago
 
 ---
 
@@ -288,7 +288,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 6K • 👍 51 • 💬 19 • ⏱️ 1:26 • 17h ago
+👁️ 6K • 👍 51 • 💬 19 • ⏱️ 1:26 • 18h ago
 
 ---
 

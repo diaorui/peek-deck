@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T16:14:01.236073+00:00'
+updated: '2025-12-13T16:41:59.295457+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 16:14 UTC  
+**Last Updated:** December 13, 2025 at 16:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.2%  
-**30d:** -4.7%  
-**90d:** -21.7%  
-**1y:** -11.0%  
+**24h:** +0.1%  
+**7d:** -0.4%  
+**30d:** -5.0%  
+**90d:** -21.9%  
+**1y:** -11.2%  
 
 ---
 
@@ -99,7 +99,7 @@ This will age well in 10 years. See you then.
 
 **[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -107,13 +107,13 @@ This will age well in 10 years. See you then.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-1h ago
+2h ago
 
 ---
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -121,19 +121,19 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 Any thoughts on what is causing it?
 
-17h ago
+18h ago
 
 ---
 
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -141,7 +141,7 @@ Any thoughts on what is causing it?
 
 Yes. Yes we are.
 
-10m ago
+38m ago
 
 ---
 
@@ -157,7 +157,7 @@ Reuters • 14h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 14h ago
+Investor's Business Daily • 15h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 23h ago
 
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
@@ -253,7 +253,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 1 • 💬 0 • 14m ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 1 • 💬 0 • 42m ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -295,7 +295,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Bringing Content Authenticity to Video Streaming: C2PA Integration with Bitmovin](https://news.ycombinator.com/item?id=46255322)**
 
-⬆️ 1 • 💬 0 • 33m ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
+⬆️ 1 • 💬 0 • 1h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
 
 ---
 
@@ -319,7 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 264 • ⏱️ 46:26 • 23h ago
+👁️ 25K • 👍 1K • 💬 264 • ⏱️ 46:26 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Chief Market Strategist Gareth Soloway gives institutional level analysis and in
 
 📺 Gareth Soloway
 
-👁️ 2K • 👍 303 • 💬 17 • ⏱️ 14:00 • 1h ago
+👁️ 2K • 👍 303 • 💬 17 • ⏱️ 14:00 • 2h ago
 
 ---
 
