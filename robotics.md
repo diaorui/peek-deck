@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T07:53:34.698581+00:00'
+updated: '2025-12-13T08:21:46.174043+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 07:53 UTC  
+**Last Updated:** December 13, 2025 at 08:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Mantaray, Biomimetic, ROS2, Pressure compensated underwater robot. I think.](https://www.reddit.com/r/robotics/comments/1plg0q6/mantaray_biomimetic_ros2_pressure_compensated/)**
+
+Been working on a pressure compensated, ros2 biomimetic robot. The idea is to build something that is cost effective, long autonomy, open source software to lower the cost of doing things underwater, to help science and conservation especially in areas and for teams that are priced out of participating. Working on a openCTD based CTD (montoring grade) to include in it. Pressure compensated camera. Aiming for about 1 m/s cruise. Im getting about ~6 hours runtime on a 5300mah for actuation (another of the same battery for compute), so including larger batteries is pretty simple, which should increase capacity both easily and cheaply. Lots of upgrade on the roadmap. And the one in the video is the previous structural design. Already have a new version but will make videos on that later. Oh, and because the design is pressure compensated, I estimate it can go VERY VERY DEEP. how deep? no idea yet. But there's essentially no air in the whole thing and i modified electronic components to help with pressure tolerance. Next step is replacing the cheap knockoff IMU i had, which just died on me for a more reliable, drop i2c and try spi or uart for it. Develop a dead reckoning package and start setting waypoints on the GUI. So it can work both tethered or in auv mode. If i can save some cash i will start playing with adding a DVL into the mix for more interesting autonomous missions. GUI is just a nicegui implementation. But it should allow me to control the robot remotely with tailscale or husarnet.
+
+29m ago
+
+---
+
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
 17h ago
@@ -42,7 +50,7 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 3h ago
 
 ---
 
@@ -62,7 +70,7 @@ Hello, I am currently building a small biped. Ideally, I would like some flat BL
 
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -98,14 +106,6 @@ Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Ro
 
 ---
 
-**[Major robotics company shuts down?](https://www.reddit.com/r/robotics/comments/1pk9ow0/major_robotics_company_shuts_down/)**
-
-https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75b84a3a6549c0ebae11a622bddf3d9dbe6867 Saw this on linkedIn. Anyone know what happened. The mentioned it being one of the greats, who could it be?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -114,7 +114,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-The Robot Report • 17h ago
+The Robot Report • 18h ago
 
 ---
 
@@ -122,7 +122,7 @@ The Robot Report • 17h ago
 
 Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -134,19 +134,19 @@ Deloitte • 3d ago
 
 ---
 
-**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
-
-The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
-
-AP News • 8h ago
-
----
-
 **[Video: How Boston Dynamics’ humanoid robot achieves creepy stand-up move](https://interestingengineering.com/ai-robotics/atlas-robot-standing-up-motion-explained)**
 
 A closer look at Atlas’s unconventional get-up motion shows how the robot tests balance and hardware before committing to a full stand.
 
 Interesting Engineering • 2d ago
+
+---
+
+**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
+
+The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
+
+AP News • 9h ago
 
 ---
 
@@ -196,7 +196,17 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 162K • 👍 5K • 💬 428 • ⏱️ 17:44 • 2d ago
+👁️ 165K • 👍 5K • 💬 429 • ⏱️ 17:44 • 2d ago
+
+---
+
+**[THEY THOUGHT IT WAS FAKE! 😭 The Robot Had to Prove Itself 😲](https://www.youtube.com/watch?v=3vHBiKkIuvc)**
+
+viral #techfail #technews #shocking #mustwatch #RobotProof #caughtoncamera #humanoidrobot #robotics #AI ...
+
+📺 KNOWL
+
+👁️ 946 • 💬 1 • ⏱️ 0:38 • 3h ago
 
 ---
 
@@ -206,17 +216,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 102K • 👍 2K • 💬 617 • ⏱️ 14:26 • 4d ago
-
----
-
-**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 138K • 👍 7K • 💬 931 • ⏱️ 19:33 • 6d ago
+👁️ 105K • 👍 2K • 💬 629 • ⏱️ 14:26 • 4d ago
 
 ---
 
@@ -230,13 +230,13 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 ---
 
-**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
+**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
 
-Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
 
-📺 CNN
+📺 Julia McCoy
 
-👁️ 87K • 👍 1K • 💬 449 • ⏱️ 0:41 • 5d ago
+👁️ 138K • 👍 7K • 💬 931 • ⏱️ 19:33 • 6d ago
 
 ---
 
@@ -246,17 +246,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 18K • 👍 496 • 💬 112 • ⏱️ 42:48 • 5d ago
-
----
-
-**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
-
-GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
-
-📺 Gen Women AI
-
-👁️ 21K • 👍 319 • 💬 5 • ⏱️ 0:09 • 16h ago
+👁️ 18K • 👍 497 • 💬 112 • ⏱️ 42:48 • 5d ago
 
 ---
 
@@ -270,23 +260,33 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 ---
 
-**[The lady soldier gave a robotic boat to Dadi. #shorts #ai #indianarmy](https://www.youtube.com/watch?v=mKH0d0dbuP4)**
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
 
-An emotional and powerful moment An Indian lady soldier surprises Dadi by gifting her a futuristic robotic boat This ...
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
 
-📺 Little chucha 
+📺 CNN
 
-👁️ 4K • ⏱️ 0:41 • 2h ago
+👁️ 87K • 👍 1K • 💬 449 • ⏱️ 0:41 • 5d ago
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=SbeWWtli99g)**
+**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
 
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
 
-📺 Humanoid Robot 🤖
+📺 Gen Women AI
 
-👁️ 223K • 👍 1K • 💬 9 • ⏱️ 0:17 • 5d ago
+👁️ 29K • 👍 376 • 💬 6 • ⏱️ 0:09 • 16h ago
+
+---
+
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+
+📺 The Straits Times
+
+👁️ 189K • 👍 878 • 💬 276 • ⏱️ 0:47 • 4d ago
 
 ---
 

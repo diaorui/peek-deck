@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T07:53:34.695296+00:00'
+updated: '2025-12-13T08:21:46.170742+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 07:53 UTC  
+**Last Updated:** December 13, 2025 at 08:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** +1.1%  
-**30d:** -0.4%  
-**90d:** -31.5%  
-**1y:** -20.1%  
+**24h:** -4.2%  
+**7d:** +1.9%  
+**30d:** +0.5%  
+**90d:** -30.9%  
+**1y:** -19.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.50B
+**Market Cap:** $375.76B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.4%
+-37.0%
 
 **All-Time Low:** $0.43
-+714641.4%
++719119.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 18h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 19h ago
 
 ---
 
@@ -136,7 +136,7 @@ Hi, total crypto newbie here. I need some guidance and expert advice on the best
 
 Guys although I want to make flash loan bots and stuff, but can’t find any good posts on it which teaches from start, so any u recommend?
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 11h ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -178,7 +178,7 @@ Binance • 1d ago
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -204,7 +204,15 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqeBwx7agdnuerLyWotv87oqdrlJfcHwACp9Gxj_QbUZ2KJTa983PQmE&gaa_ts=693d1921&gaa_sig=QtHc70wwQ1VolD5RIiXetSFLgBb-SsP5p51sRIhRoAxulEG9Kz054elPGLM1H6nvpnokcyZuAV3ofokzVfkRqw%3D%3D)**
+**[Ethereum Network Can Grow To A $20 Trillion Valuation By 2035, Researcher Claims](https://www.benzinga.com/crypto/cryptocurrency/25/12/49370689/ethereum-network-can-grow-to-a-20-trillion-valuation-by-2035-researcher-claims)**
+
+As Ethereum (CRYPTO: ETH) dropped almost 5% on Friday, a new research suggests the network&#8217;s long-term valuation may potentially grow
+
+Benzinga • 13h ago
+
+---
+
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfNX6NUFhpZHtzZGsIrhVlMUMusX5orLyuq7sAAnD_oXZ3GpxbNks_a&gaa_ts=693d2588&gaa_sig=95Zhr86n-_vgWklsxvbUjCYL0bmeh4KJkY3XXt0agJ0xHMtKtbJCqUHevSV4ZAnAJgLnDtB9ewbAMfGrML4rYA%3D%3D)**
 
 Barron's • 1d ago
 
@@ -214,15 +222,7 @@ Barron's • 1d ago
 
 BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
 
-ts2.tech • 16h ago
-
----
-
-**[Ethereum Leverage Hits Highest Level Ever – Market Enters Critical Risk Zone | Bitcoinist.com](https://bitcoinist.com/ethereum-leverage-hit-highest-level-market-critical/)**
-
-Ethereum drops below $3,200 post-Fed cut, as Binance Leverage Ratio hits an all-time high. This extreme leverage signals a highly unstable market
-
-Bitcoinist.com • 1d ago
+ts2.tech • 17h ago
 
 ---
 
@@ -236,7 +236,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 170 • ⏱️ 31:03 • 11h ago
+👁️ 29K • 👍 2K • 💬 181 • ⏱️ 31:03 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 424 • 💬 13 • ⏱️ 48:44 • 15h ago
+👁️ 6K • 👍 429 • 💬 14 • ⏱️ 48:44 • 15h ago
 
 ---
 
@@ -256,7 +256,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 720 • 💬 42 • ⏱️ 11:29 • 1d ago
+👁️ 18K • 👍 722 • 💬 42 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -280,33 +280,13 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 ---
 
-**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
-
-In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
-
-📺 FAROKH RADIO
-
-👁️ 25K • 👍 853 • 💬 122 • ⏱️ 1:10:46 • 2d ago
-
----
-
 **[A BTC EMERGENCY: Bitcoin &amp; ETH CRASH Now in Progress -  BTC has Begun the Next Leg Down of the CRASH](https://www.youtube.com/watch?v=AWBbOqm0Oxw)**
 
 Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 429 • ⏱️ 34:06 • 10h ago
-
----
-
-**[BITCOIN &amp; ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8B6ecgMBOf0)**
-
-BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 258 • 💬 55 • ⏱️ 18:06 • 9h ago
+👁️ 5K • 👍 440 • ⏱️ 34:06 • 11h ago
 
 ---
 
@@ -316,7 +296,17 @@ Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author
 
 📺 CoinDesk
 
-👁️ 3K • 👍 115 • 💬 29 • ⏱️ 13:45 • 1d ago
+👁️ 3K • 👍 117 • 💬 29 • ⏱️ 13:45 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8B6ecgMBOf0)**
+
+BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 275 • 💬 54 • ⏱️ 18:06 • 9h ago
 
 ---
 
@@ -327,6 +317,16 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 18h ago
+
+---
+
+**[This is Not Normal For Ethereum](https://www.youtube.com/watch?v=agl0Kf2d7cQ)**
+
+ETH isn't just lagging — its story broke. It's down ~3× more than BTC from the highs, ETH/BTC is sitting at multi-year lows, and ...
+
+📺 Ryan’s Money Lab
+
+👁️ 4K • 👍 176 • 💬 25 • ⏱️ 15:43 • 1d ago
 
 ---
 

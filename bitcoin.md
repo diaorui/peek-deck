@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T07:53:34.689247+00:00'
+updated: '2025-12-13T08:21:46.164644+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 07:53 UTC  
+**Last Updated:** December 13, 2025 at 08:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -0.1%  
-**30d:** -4.7%  
-**90d:** -21.6%  
-**1y:** -11.0%  
+**24h:** -2.1%  
+**7d:** +0.1%  
+**30d:** -4.5%  
+**90d:** -21.5%  
+**1y:** -10.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1804.55B
+**Market Cap:** $1803.09B
 Rank #1
 
 **Circulating Supply:** 19,961,525 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.3%
 
 **All-Time Low:** $67.81
-+133169.4%
++133255.0%
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-3h ago
+4h ago
+
+---
+
+**[Does anyone else feel like silently flipping tf out all the time because you've discovered the way to financial freedom and you're working on it but everyone around you is oblivious and thinks you're an idiot?](https://www.reddit.com/r/Bitcoin/comments/1pl3m9e/does_anyone_else_feel_like_silently_flipping_tf/)**
+
+I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
+
+10h ago
 
 ---
 
@@ -93,13 +101,13 @@ Any thoughts on what is causing it?
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -109,19 +117,11 @@ Any thoughts on what is causing it?
 
 ---
 
-**[Does anyone else feel like silently flipping tf out all the time because you've discovered the way to financial freedom and you're working on it but everyone around you is oblivious and thinks you're an idiot?](https://www.reddit.com/r/Bitcoin/comments/1pl3m9e/does_anyone_else_feel_like_silently_flipping_tf/)**
-
-I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
-
-10h ago
-
----
-
 **[Daily meme until $92,450](https://www.reddit.com/r/Bitcoin/comments/1pkriyo/daily_meme_until_92450/)**
 
 C’mon Bitcoin, you can do it
 
-18h ago
+19h ago
 
 ---
 
@@ -129,13 +129,13 @@ C’mon Bitcoin, you can do it
 
 How did people buy bitcoin before exchanges?
 
-6h ago
+7h ago
 
 ---
 
 **[And Bitcoin is going strong](https://www.reddit.com/r/Bitcoin/comments/1pl7ekk/and_bitcoin_is_going_strong/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -149,9 +149,33 @@ How did people buy bitcoin before exchanges?
 
 ## Google News: "bitcoin"
 
+**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
+
+Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
+
+Bloomberg.com • 15h ago
+
+---
+
+**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
+
+Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Vanguard Exec Says Bitcoin Is Like 'A Digital Labubu'](https://finance.yahoo.com/news/vanguard-exec-says-bitcoin-digital-043040748.html)**
+
+Bitcoin (CRYPTO: BTC) returned to the center of Wall Street's credibility debate after a senior Vanguard executive dismissed the asset as a speculative "digital toy." Vanguard Executive Doubles Down On Bitcoin Skepticism Vanguard Group Global Head of Quantitative Equity John Ameriks said Bitcoin lacks the income, compounding, and cash-flow characteristics the firm seeks in long-term investments. Speaking at Bloomberg's ETFs in Depth conference in New York on Thursday, Ameriks compared Bitcoin to
+
+Yahoo Finance • 3h ago
+
+---
+
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -169,37 +193,13 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Drifts Lower With Any Push Higher Being Met by Fresh Sellers](https://www.bloomberg.com/news/articles/2025-12-12/bitcoin-drifts-lower-with-any-push-higher-being-met-by-fresh-sellers)**
-
-Bitcoin continues to drift toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October.
-
-Bloomberg.com • 13h ago
-
----
-
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 17h ago
+x.com • 18h ago
 
 ---
 
-**[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
-
-Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
-
-BBC • 2d ago
-
----
-
-**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
-
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
-
-Forbes • 18h ago
-
----
-
-**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqdc8WwH-qk7b8bPfHkqHZuGDbGyXs69eByynvMP58k4LgJI_EAEBl1w&gaa_ts=693d191f&gaa_sig=ko00r40T7tF3KD4P9RCKQ3vjZOSLWmrfEOn1ZR26nv4SEd27MGvBZWTOoDbtqR5A6jvSpDGhXPg98yDapXt3zw%3D%3D)**
+**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqc89ejjEA7op9OmjXK9UlXJvN5Z7fBjPIqGLuwM5MisEHKNQGP7_EEK&gaa_ts=693d2586&gaa_sig=eQNLdF-Gc2OO7fPAYEguQGbBtQ01pGCQcK_cOblc8EwPB-cUg_uDxQyex6PeqE3bs6yLIREXO2Ham620m5RoUQ%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -209,7 +209,7 @@ MarketWatch • 1d ago
 
 Analysts say the Fed’s rate cut was priced in, driving Bitcoin lower as risks like sticky inflation and the 2026 election cycle mount.
 
-Decrypt • 2d ago
+Decrypt • 3d ago
 
 ---
 
@@ -289,7 +289,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 22h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 23h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -311,17 +311,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 96 • ⏱️ 16:27 • 9h ago
-
----
-
-**[$100k Bitcoin SHORT SQUEEZE LOADING! Why A MAJOR Bitcoin RALLY Could Happen SOON! Price prediction](https://www.youtube.com/watch?v=LRgyEqUjqNQ)**
-
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
-
-📺 Crypto Jebb
-
-👁️ 6K • 👍 365 • 💬 130 • ⏱️ 11:54 • 12h ago
+👁️ 21K • 👍 1K • 💬 104 • ⏱️ 16:27 • 10h ago
 
 ---
 
@@ -331,27 +321,17 @@ Everyone thinks Bitcoin still runs on a clean four-year cycle — but the data, 
 
 📺 Swan Bitcoin
 
-👁️ 8K • 👍 180 • 💬 11 • ⏱️ 0:50 • 18h ago
+👁️ 9K • 👍 187 • 💬 12 • ⏱️ 0:50 • 19h ago
 
 ---
 
-**[Bitcoin’s Big Year-End Move: Is the Breakout Finally Here?](https://www.youtube.com/watch?v=4_AuftIEzxk)**
+**[$100k Bitcoin SHORT SQUEEZE LOADING! Why A MAJOR Bitcoin RALLY Could Happen SOON! Price prediction](https://www.youtube.com/watch?v=LRgyEqUjqNQ)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
 
-📺 CryptosRUs
+📺 Crypto Jebb
 
-👁️ 23K • 👍 1K • 💬 213 • ⏱️ 46:26 • 15h ago
-
----
-
-**[Crypto will be far more important in 10 years than it is today, says Bitwise CEO](https://www.youtube.com/watch?v=j-8hq9Nc87Q)**
-
-CNBC's "The Exchange" team discusses why the crypto market is under pressure and where cryptocurrencies like bitcoin may go ...
-
-📺 CNBC Television
-
-👁️ 18K • 👍 188 • 💬 99 • ⏱️ 4:06 • 1d ago
+👁️ 6K • 👍 364 • 💬 128 • ⏱️ 11:54 • 13h ago
 
 ---
 
@@ -361,27 +341,27 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 📺 Anthony Pompliano
 
-👁️ 24K • 👍 1K • 💬 12 • ⏱️ 48:24 • 1d ago
+👁️ 25K • 👍 1K • 💬 12 • ⏱️ 48:24 • 1d ago
 
 ---
 
-**[The Scary Truth About Bitcoin, AI, and UBI!](https://www.youtube.com/watch?v=LS29MdNd5QY)**
+**[Bitcoin’s Big Year-End Move: Is the Breakout Finally Here?](https://www.youtube.com/watch?v=4_AuftIEzxk)**
 
-Welcome to the most blisteringly honest breakdown of the future you keep trying to scroll past. In the next three years, AI is coming ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Swan Bitcoin
+📺 CryptosRUs
 
-👁️ 14K • 👍 855 • 💬 87 • ⏱️ 14:56 • 18h ago
+👁️ 24K • 👍 1K • 💬 249 • ⏱️ 46:26 • 16h ago
 
 ---
 
-**[The Bitcoin Bull Market Hasn’t Started Yet | Eric Yakes](https://www.youtube.com/watch?v=QzqvMMs50Fc)**
+**[Crypto will be far more important in 10 years than it is today, says Bitwise CEO](https://www.youtube.com/watch?v=j-8hq9Nc87Q)**
 
-Eric Yakes joins the show to discuss what's really driving Bitcoin right now and why price is determined by fundamentals, not ...
+CNBC's "The Exchange" team discusses why the crypto market is under pressure and where cryptocurrencies like bitcoin may go ...
 
-📺 What Bitcoin Did
+📺 CNBC Television
 
-👁️ 4K • 👍 193 • 💬 74 • ⏱️ 56:41 • 15h ago
+👁️ 18K • 👍 192 • 💬 101 • ⏱️ 4:06 • 1d ago
 
 ---
 
@@ -391,17 +371,37 @@ Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com I
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 480 • 💬 13 • ⏱️ 0:43 • 13h ago
+👁️ 23K • 👍 513 • 💬 13 • ⏱️ 0:43 • 13h ago
 
 ---
 
-**[Bitcoin &amp; Crypto Demand SURGES As Banks &amp; Wall Street Go ALL IN!](https://www.youtube.com/watch?v=6kpRqY_zYeg)**
+**[The Scary Truth About Bitcoin, AI, and UBI!](https://www.youtube.com/watch?v=LS29MdNd5QY)**
 
-Bitcoin #Crypto #Finance Today's episode breaks down one of the biggest developments in TradFi and crypto convergence yet ...
+Welcome to the most blisteringly honest breakdown of the future you keep trying to scroll past. In the next three years, AI is coming ...
 
-📺 The Wolf Of All Streets
+📺 Swan Bitcoin
 
-👁️ 18K • 👍 1K • 💬 353 • ⏱️ 24:40 • 17h ago
+👁️ 14K • 👍 864 • 💬 88 • ⏱️ 14:56 • 18h ago
+
+---
+
+**[2026 Will Be The Biggest B*** Market For Crypto! [6 Reasons]](https://www.youtube.com/watch?v=KT3Cq0Aq4eg)**
+
+In today's Crypto Insider, Ran explains why he believes the 2026 crypto b*** market has already started, breaking down the 10 ...
+
+📺 Crypto Insider
+
+👁️ 36K • 👍 3K • 💬 123 • ⏱️ 20:35 • 21h ago
+
+---
+
+**[The Bitcoin Bull Market Hasn’t Started Yet | Eric Yakes](https://www.youtube.com/watch?v=QzqvMMs50Fc)**
+
+Eric Yakes joins the show to discuss what's really driving Bitcoin right now and why price is determined by fundamentals, not ...
+
+📺 What Bitcoin Did
+
+👁️ 5K • 👍 204 • 💬 74 • ⏱️ 56:41 • 16h ago
 
 ---
 
