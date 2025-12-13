@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T04:50:36.964964+00:00'
+updated: '2025-12-13T05:11:26.787899+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 04:50 UTC  
+**Last Updated:** December 13, 2025 at 05:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,087.48
+### $3,090.46
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.6%  
-**7d:** +1.1%  
-**30d:** -0.3%  
-**90d:** -31.5%  
-**1y:** -20.0%  
+**24h:** -5.0%  
+**7d:** +1.0%  
+**30d:** -0.5%  
+**90d:** -31.6%  
+**1y:** -20.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.10B
+**Market Cap:** $373.05B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.6%
+-37.5%
 
 **All-Time Low:** $0.43
-+713144.8%
++713701.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 15h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 16h ago
 
 ---
 
@@ -96,7 +96,7 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 15h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 16h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 8h ago
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 13h ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -204,7 +204,7 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqe6x4kiHEM7ftC-TCJRZAqQ2yFA1pYrcwoTC-o8uSb3LSvEZo-MzjLP&gaa_ts=693cefeb&gaa_sig=w0-HMAzi8txU2O8vI9ViKnzbnV2mbSaywcvQR0JsowLvTq6SGrlcBlswgEtrNaML3-j7HZ2rBWx6HNdjUZn-FQ%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqc0j9KN8viAmhNXQIj_Rne2VDm4iB9-onJZi2xu_UnxAFtuwIXYMEPY&gaa_ts=693cf8ec&gaa_sig=2amVer4YX-Lj7TB-DQ-Y_NCzU9DWVi5DgumOSUB4gqcRzX61gxKy4eHUoGwkygRD6I6QTCBRuM2U2t1IkJUeDA%3D%3D)**
 
 Barron's • 1d ago
 
@@ -214,7 +214,7 @@ Barron's • 1d ago
 
 BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
 
-ts2.tech • 13h ago
+ts2.tech • 14h ago
 
 ---
 
@@ -246,7 +246,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 130 • ⏱️ 31:03 • 7h ago
+👁️ 18K • 👍 1K • 💬 130 • ⏱️ 31:03 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 4K • 👍 398 • ⏱️ 34:06 • 7h ago
+👁️ 4K • 👍 398 • ⏱️ 34:06 • 8h ago
 
 ---
 

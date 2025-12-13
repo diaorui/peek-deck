@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T04:50:36.958242+00:00'
+updated: '2025-12-13T05:11:26.781867+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 04:50 UTC  
+**Last Updated:** December 13, 2025 at 05:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,211.05
+### $90,344.64
 
 ---
 
@@ -48,23 +48,23 @@ Live Bitcoin monitoring dashboard
 **7d:** +0.0%  
 **30d:** -4.5%  
 **90d:** -21.5%  
-**1y:** -10.8%  
+**1y:** -10.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.98B
+**Market Cap:** $1803.74B
 Rank #1
 
 **Circulating Supply:** 19,961,384 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.3%
 
 **All-Time Low:** $67.81
-+133072.1%
++133170.9%
 
 ---
 
@@ -99,7 +99,7 @@ Any thoughts on what is causing it?
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-44m ago
+1h ago
 
 ---
 
@@ -121,7 +121,7 @@ C’mon Bitcoin, you can do it
 
 **[And Bitcoin is going strong](https://www.reddit.com/r/Bitcoin/comments/1pl7ekk/and_bitcoin_is_going_strong/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -131,15 +131,17 @@ C’mon Bitcoin, you can do it
 
 ---
 
-**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
+**[How did people buy bitcoin before exchanges?](https://www.reddit.com/r/Bitcoin/comments/1pl8tko/how_did_people_buy_bitcoin_before_exchanges/)**
 
-1d ago
+How did people buy bitcoin before exchanges?
+
+3h ago
 
 ---
 
-**[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
+**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
 
-15h ago
+1d ago
 
 ---
 
@@ -147,33 +149,9 @@ C’mon Bitcoin, you can do it
 
 ## Google News: "bitcoin"
 
-**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
-
-Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
-
-Bloomberg.com • 11h ago
-
----
-
-**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
-
-Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://decrypt.co/352201/vanguard-exec-calls-bitcoin-digital-labubu-firm-offers-crypto-etf-trading)**
-
-The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
-
-Decrypt • 6h ago
-
----
-
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -191,9 +169,33 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
+
+Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
+
+Bloomberg.com • 12h ago
+
+---
+
+**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
+
+Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://decrypt.co/352201/vanguard-exec-calls-bitcoin-digital-labubu-firm-offers-crypto-etf-trading)**
+
+The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
+
+Decrypt • 7h ago
+
+---
+
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 14h ago
+x.com • 15h ago
 
 ---
 
@@ -245,7 +247,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 22h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 23h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -289,7 +291,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 19h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 20h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -311,7 +313,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 87 • ⏱️ 16:27 • 6h ago
+👁️ 15K • 👍 1K • 💬 87 • ⏱️ 16:27 • 7h ago
 
 ---
 
@@ -321,7 +323,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 351 • 💬 126 • ⏱️ 11:54 • 9h ago
+👁️ 6K • 👍 351 • 💬 126 • ⏱️ 11:54 • 10h ago
 
 ---
 
@@ -361,7 +363,7 @@ Everyone thinks Bitcoin still runs on a clean four-year cycle — but the data, 
 
 📺 Swan Bitcoin
 
-👁️ 7K • 👍 170 • 💬 11 • ⏱️ 0:50 • 15h ago
+👁️ 7K • 👍 170 • 💬 11 • ⏱️ 0:50 • 16h ago
 
 ---
 

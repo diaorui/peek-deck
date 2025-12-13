@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T04:50:36.968332+00:00'
+updated: '2025-12-13T05:11:26.791155+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 04:50 UTC  
+**Last Updated:** December 13, 2025 at 05:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,6 +52,14 @@ Hello, I am currently building a small biped. Ideally, I would like some flat BL
 
 ---
 
+**[Deep dive inside the first production electric robot - 1979 Unimate PUMA 260 - and controller](https://www.reddit.com/r/robotics/comments/1pld2j8/deep_dive_inside_the_first_production_electric/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 16m ago
+
+---
+
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
 14h ago
@@ -62,7 +70,7 @@ Hello, I am currently building a small biped. Ideally, I would like some flat BL
 
 The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
 
-18h ago
+19h ago
 
 ---
 
@@ -98,14 +106,6 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 ---
 
-**[Visual odom understanding](https://www.reddit.com/r/robotics/comments/1pkx7ly/visual_odom_understanding/)**
-
-Hi everyone, Am working on a monocular VIO frontend, and I shall really appreciate feedback on whether our current triangulation approach is geometrically sound compared to more common SLAM pipelines (e.g., ORB-SLAM, SVO, DSO, VINS-Mono). Current approach used in our system We maintain a keyframe (KF), and for each incoming frame we do the following: 1. Track features from KF → Prev → Current. 2. For features that are visible in all three (KF, Prev, Current): We triangulate their depth using only KF and Prev. This triangulated depth is used as a measurement for a depth filter (inverse-depth / Gaussian filter). 3. After updating depth, we express the feature in the KF coordinate frame. 4. We then run PnP between: A. 3D points in the KF frame, and B. 2D observations in the Current frame. This gives us the pose of the Current frame wrt keyframe They use wheel odom and GTSAM backend to add every odom factor between keyframe and current frame and frontend frame factor between keyframe and current and then run optimization This means: triangulation is repeated every frame always between KF ↔ Prev, not KF ↔ Current depth filter is fed many measurements from almost the same two viewpoints, especially right after KF creation This seems to produce very sparse and scattered points. Questions 1. Is repeatedly triangulating between KF and the immediate previous frame (even when baseline/parallax is very small) considered a valid approach in monocular VO/VIO? Or is it fundamentally ill-conditioned, even if we use depth filters in this case? From what I understand, ORB-SLAM (monocular): Triangulates only between keyframes, not per-frame.. Which gives it a good parallex to triangulate the feature.. Should I use this?
-
-11h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -134,14 +134,6 @@ Deloitte • 2d ago
 
 ---
 
-**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://finance.yahoo.com/news/mercado-libre-agility-robotics-announce-130000794.html)**
-
-MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
-
-Yahoo Finance • 2d ago
-
----
-
 **[Video: How Boston Dynamics’ humanoid robot achieves creepy stand-up move](https://interestingengineering.com/ai-robotics/atlas-robot-standing-up-motion-explained)**
 
 A closer look at Atlas’s unconventional get-up motion shows how the robot tests balance and hardware before committing to a full stand.
@@ -150,9 +142,11 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
 
-Chron • 2d ago
+The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
+
+AP News • 6h ago
 
 ---
 
@@ -161,6 +155,12 @@ Chron • 2d ago
 Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
 
 Shore Daily News • 1d ago
+
+---
+
+**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+
+Chron • 2d ago
 
 ---
 
