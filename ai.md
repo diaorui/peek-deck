@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T07:28:50.705146+00:00'
+updated: '2025-12-13T07:42:24.925582+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 07:28 UTC  
+**Last Updated:** December 13, 2025 at 07:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 10h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 11h ago
 
 ---
 
@@ -97,7 +97,7 @@ I'm not seeing enough people talk about this (or I see people only discuss one a
 
 The world's smallest AI supercomputer packs enough power to run 120 billion parameter models in a device small enough to slip into your pocket. Tiiny AI’s Pocket Lab pushes server-grade capabilities into a handheld form factor aimed at researchers, tinkerers, and everyday users.
 
-🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 49m ago
+🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 1h ago
 
 ---
 
@@ -111,7 +111,7 @@ The world's smallest AI supercomputer packs enough power to run 120 billion para
 
 Everyone is reading the December 11 Executive Order as a "deregulation holiday." I think that's dead wrong. It’s actually a litigation trigger. By trying to preempt state AI laws with an EO, the administration isn't clearing the board—they are picking a fight with 38 state legislatures and a Senate that already voted 99-1 against this exact approach. The trap: If you're a vendor, you might be tempted to delete your state-level compliance code today. Don't. We just moved from a patchwork of laws to a constitutional crisis. When the lawsuits stall this EO, you don't want to be the one caught naked on liability. The only safe bet right now? Architect for the EU AI Act. It's the only stable floor left. I wrote a deep dive on why this is a "volatility event" rather than deregulation. https://www.linkedin.com/pulse/50-states-rules-hidden-tax-every-ai-deployment-collin-hogue-spears-eptie
 
-18h ago
+19h ago
 
 ---
 
@@ -143,7 +143,7 @@ Financial Times • 15h ago
 
 **[S&P 500 Hits Record High Without AI Help. Why That’s a Good Thing and 5 Other Things to Know Today.](https://www.barrons.com/articles/stock-market-record-high-ai-things-to-know-today-cf3514c0?gaa_at=eafs&gaa_n=AWEtsqfp1SidzPGCjjP3Ny5lMGGcECIcee9fN_3A3ds7sEcWtXgw-OC0PSAL&gaa_ts=693d191e&gaa_sig=8NVI4mWreDYsqNV1isdRlM8x1OVFKXnx6ItH2cGu0jLtIopY3IuWOyfBMdx4dOMimGjee1Cg2f5M_E3pJessng%3D%3D)**
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
@@ -151,7 +151,7 @@ Barron's • 19h ago
 
 AI-related names have made losses since Oracle's mixed results on Wednesday.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 7h ago
 
 The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
 
-The New Yorker • 19h ago
+The New Yorker • 20h ago
 
 ---
 
@@ -207,7 +207,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 356 • 💬 194 • 10h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 356 • 💬 194 • 11h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -255,7 +255,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 111 • 💬 218 • 14h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 111 • 💬 218 • 15h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -313,7 +313,7 @@ FULL AI COURSE HERE https://brainprojectai.com/courses/launch-your-ai-influencer
 
 📺 Brain Project
 
-👁️ 4K • 👍 266 • 💬 38 • ⏱️ 14:19 • 15h ago
+👁️ 4K • 👍 266 • 💬 38 • ⏱️ 14:19 • 16h ago
 
 ---
 
@@ -389,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 784 • 15h ago
+⬇️ 105,962 • ❤️ 784 • 16h ago
 
 ---
 
@@ -425,7 +425,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 303 • 21h ago
+⬇️ 10,352 • ❤️ 303 • 22h ago
 
 ---
 
@@ -497,7 +497,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 2,971 • ❤️ 174 • 21h ago
+⬇️ 2,971 • ❤️ 174 • 22h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T07:28:50.723410+00:00'
+updated: '2025-12-13T07:42:24.943106+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 07:28 UTC  
+**Last Updated:** December 13, 2025 at 07:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hello, I am currently building a small biped. Ideally, I would like some flat BLDC motors; however, in America, it's nearly impossible to find affordable ones. Doesn't need to be anything crazy, but everything I find is 150-300 bucks, and given that I'll need ~6-8 of them, that's not affordable. With that, I was wondering if anyone had any sites/companies they prefer to go to for motors? If not, I am highly considering making my own. A $20 crucible to melt some Home Depot metal and make my own stators sounds much more appealing than spending hundreds of bucks. I am a student that can go to the makerspace at my school, so I do have options to manufacture from scratch, just not sure if its worth the time. Anyones take on this?
 
-8h ago
+9h ago
 
 ---
 
@@ -78,7 +78,7 @@ The whole setup (belt motion, detection triggers, timing, etc.) is built inside 
 
 Hi guys, I want to know what you guys think where we can use RL to actually fill the gaps for classical algorithms.. I really really think this can be a good to overcoming adaptation of tuning used for visual odometry pipeline( Davide's published a paper on this)..but still it would need a sim to make it learn..and then there will be sim to real transfer...am thinking is there a way to just use datasets and go ahead with it.. Am trying to find the relevant problems in visual odometry..
 
-13h ago
+14h ago
 
 ---
 
@@ -256,7 +256,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 21K • 👍 319 • 💬 5 • ⏱️ 0:09 • 15h ago
+👁️ 21K • 👍 319 • 💬 5 • ⏱️ 0:09 • 16h ago
 
 ---
 
@@ -276,7 +276,7 @@ An emotional and powerful moment An Indian lady soldier surprises Dadi by giftin
 
 📺 Little chucha 
 
-👁️ 4K • ⏱️ 0:41 • 1h ago
+👁️ 4K • ⏱️ 0:41 • 2h ago
 
 ---
 

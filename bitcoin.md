@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T07:28:50.713919+00:00'
+updated: '2025-12-13T07:42:24.933947+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 07:28 UTC  
+**Last Updated:** December 13, 2025 at 07:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,9 +45,9 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -2.1%  
-**7d:** +0.0%  
+**7d:** -0.0%  
 **30d:** -4.6%  
-**90d:** -21.5%  
+**90d:** -21.6%  
 **1y:** -10.9%  
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Any thoughts on what is causing it?
 
-8h ago
+9h ago
 
 ---
 
@@ -157,7 +157,7 @@ Reuters • 5h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -401,7 +401,7 @@ Bitcoin #Crypto #Finance Today's episode breaks down one of the biggest developm
 
 📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 1K • 💬 353 • ⏱️ 24:40 • 16h ago
+👁️ 18K • 👍 1K • 💬 353 • ⏱️ 24:40 • 17h ago
 
 ---
 

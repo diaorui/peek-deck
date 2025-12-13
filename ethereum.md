@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T07:28:50.720116+00:00'
+updated: '2025-12-13T07:42:24.939885+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 07:28 UTC  
+**Last Updated:** December 13, 2025 at 07:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** -4.5%  
 **7d:** +1.1%  
-**30d:** -0.3%  
+**30d:** -0.4%  
 **90d:** -31.5%  
 **1y:** -20.1%  
 
@@ -104,7 +104,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 11h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 12h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 5K • 👍 258 • 💬 55 • ⏱️ 18:06 • 8h ago
+👁️ 5K • 👍 258 • 💬 55 • ⏱️ 18:06 • 9h ago
 
 ---
 
