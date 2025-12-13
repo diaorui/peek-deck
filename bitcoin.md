@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T15:51:18.775352+00:00'
+updated: '2025-12-13T16:14:01.236073+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 15:51 UTC  
+**Last Updated:** December 13, 2025 at 16:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.4%  
 **7d:** -0.2%  
 **30d:** -4.7%  
 **90d:** -21.7%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1799.68B
+**Market Cap:** $1800.32B
 Rank #1
 
-**Circulating Supply:** 19,961,643 BTC
+**Circulating Supply:** 19,961,653 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.5%
 
 **All-Time Low:** $67.81
-+132855.3%
++132889.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 This will age well in 10 years. See you then.
 
-5h ago
+6h ago
 
 ---
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -137,11 +137,11 @@ Any thoughts on what is causing it?
 
 ---
 
-**[Does anyone else feel like silently flipping tf out all the time because you've discovered the way to financial freedom and you're working on it but everyone around you is oblivious and thinks you're an idiot?](https://www.reddit.com/r/Bitcoin/comments/1pl3m9e/does_anyone_else_feel_like_silently_flipping_tf/)**
+**[Are We Still Early?](https://www.reddit.com/r/Bitcoin/comments/1plottv/are_we_still_early/)**
 
-I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
+Yes. Yes we are.
 
-18h ago
+10m ago
 
 ---
 
@@ -151,7 +151,7 @@ I've been quietly stacking bitcoin for almost four years now and it blows my min
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1d ago
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -189,23 +189,7 @@ Bitcoin Magazine • 20h ago
 
 The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
 
-Decrypt • 17h ago
-
----
-
-**[Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?](https://finance.yahoo.com/news/bitcoin-2030-price-prediction-btc-144212543.html)**
-
-Bitcoin (CRYPTO: BTC) enters the final stretch of the decade with its biggest question yet: can BTC climb to the $500K–$1M range as adoption deepens and supply tightens? The past six months show how quickly momentum can shift, but the long-term picture depends on forces far bigger than short-term price swings. Spot Bitcoin ETFs, sovereign ... Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bank of Japan Set to Hike Rates to 30-Year High, Posing Another Threat to Bitcoin](https://www.coindesk.com/markets/2025/12/13/bank-of-japan-set-to-hike-rates-to-30-year-high-posing-another-threat-to-bitcoin)**
-
-Rising Japanese rates and a stronger yen threaten carry trades and could pressure crypto markets despite easing U.S. policy.
-
-CoinDesk • 1h ago
+Decrypt • 18h ago
 
 ---
 
@@ -213,13 +197,27 @@ CoinDesk • 1h ago
 
 American Bitcoin stock moves: recent slide puts valuation back in focus American Bitcoin (ABTC) has slipped sharply over the past month, with the stock down more than 60% and trailing Bitcoin itself, pushing investors to reassess how much downside may already be priced in. See our latest analysis for American Bitcoin. That sharp 30 day share price return of negative 63.89 percent has effectively flipped sentiment on American Bitcoin, with the latest $1.78 share price leaving year to date...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
 
 Investor's Business Daily • 1d ago
+
+---
+
+**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+
+Forbes • 1d ago
+
+---
+
+**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+
+x.com • 1d ago
 
 ---
 
@@ -248,6 +246,14 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
 ⬆️ 1 • 💬 1 • 1d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+
+---
+
+**[Silk Road-linked Bitcoin wallets move $3M to new address](https://news.ycombinator.com/item?id=46255488)**
+
+Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
+
+⬆️ 1 • 💬 0 • 14m ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -287,17 +293,9 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ---
 
-**[Ditching PostgreSQL, 10M+ Users Web3 Analytics](https://news.ycombinator.com/item?id=46242193)**
+**[Bringing Content Authenticity to Video Streaming: C2PA Integration with Bitmovin](https://news.ycombinator.com/item?id=46255322)**
 
-Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
-
-⬆️ 1 • 💬 0 • 1d ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
-
----
-
-**[Ask HN: Is there a local dev tool you wish existed because of a repeating issue?](https://news.ycombinator.com/item?id=46253198)**
-
-⬆️ 1 • 💬 0 • 6h ago
+⬆️ 1 • 💬 0 • 33m ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
 
 ---
 
@@ -311,7 +309,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 119 • ⏱️ 16:27 • 17h ago
+👁️ 25K • 👍 1K • 💬 119 • ⏱️ 16:27 • 18h ago
 
 ---
 
@@ -341,7 +339,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 238 • ⏱️ 31:03 • 18h ago
+👁️ 39K • 👍 2K • 💬 238 • ⏱️ 31:03 • 19h ago
 
 ---
 
@@ -381,7 +379,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 387 • 💬 141 • ⏱️ 11:54 • 20h ago
+👁️ 7K • 👍 387 • 💬 141 • ⏱️ 11:54 • 21h ago
 
 ---
 
@@ -401,7 +399,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 654 • 💬 104 • ⏱️ 11:48 • 22h ago
+👁️ 8K • 👍 654 • 💬 104 • ⏱️ 11:48 • 23h ago
 
 ---
 
