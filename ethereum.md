@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T13:51:47.175598+00:00'
+updated: '2025-12-13T14:11:28.863385+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 13:51 UTC  
+**Last Updated:** December 13, 2025 at 14:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** +1.6%  
-**30d:** +0.2%  
+**24h:** +1.3%  
+**7d:** +1.5%  
+**30d:** +0.1%  
 **90d:** -31.2%  
-**1y:** -19.6%  
+**1y:** -19.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 17h ago
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 2d ago
 
 XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -210,7 +210,7 @@ The Motley Fool • 1d ago
 
 BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
 
-CryptoSlate • 1d ago
+CryptoSlate • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ Benzinga • 19h ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -240,7 +240,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 195 • ⏱️ 31:03 • 16h ago
+👁️ 36K • 👍 2K • 💬 195 • ⏱️ 31:03 • 17h ago
 
 ---
 
@@ -270,7 +270,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Guitar Repair@StringTech
 
-👁️ 5K • 👍 4K • 4h ago
+👁️ 5K • 👍 4K • 5h ago
 
 ---
 
@@ -310,7 +310,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 467 • ⏱️ 34:06 • 16h ago
+👁️ 5K • 👍 467 • ⏱️ 34:06 • 17h ago
 
 ---
 

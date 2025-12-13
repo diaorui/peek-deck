@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T13:51:47.164649+00:00'
+updated: '2025-12-13T14:11:28.857330+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 13:51 UTC  
+**Last Updated:** December 13, 2025 at 14:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,211.15
+### $90,972.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
+**24h:** +0.7%  
 **7d:** -0.0%  
 **30d:** -4.6%  
 **90d:** -21.6%  
@@ -81,19 +81,19 @@ Rank #1
 
 This will age well in 10 years. See you then.
 
-3h ago
+4h ago
 
 ---
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ Any thoughts on what is causing it?
 
 **[regular crypto day](https://www.reddit.com/r/Bitcoin/comments/1plhv7r/regular_crypto_day/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -147,7 +147,7 @@ Any thoughts on what is causing it?
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 1d ago
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bitcoin Magazine • 18h ago
 
 The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -199,7 +199,7 @@ Forbes • 1d ago
 
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 23h ago
+x.com • 1d ago
 
 ---
 
@@ -291,7 +291,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 **[Ask HN: Is there a local dev tool you wish existed because of a repeating issue?](https://news.ycombinator.com/item?id=46253198)**
 
-⬆️ 1 • 💬 0 • 4h ago
+⬆️ 1 • 💬 0 • 5h ago
 
 ---
 
@@ -305,7 +305,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 121 • ⏱️ 16:27 • 15h ago
+👁️ 24K • 👍 1K • 💬 121 • ⏱️ 16:27 • 16h ago
 
 ---
 
@@ -325,7 +325,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 638 • 💬 101 • ⏱️ 11:48 • 20h ago
+👁️ 8K • 👍 638 • 💬 101 • ⏱️ 11:48 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 378 • 💬 129 • ⏱️ 11:54 • 18h ago
+👁️ 7K • 👍 378 • 💬 129 • ⏱️ 11:54 • 19h ago
 
 ---
 
@@ -375,7 +375,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 195 • ⏱️ 31:03 • 16h ago
+👁️ 36K • 👍 2K • 💬 195 • ⏱️ 31:03 • 17h ago
 
 ---
 

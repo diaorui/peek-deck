@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T13:51:47.153655+00:00'
+updated: '2025-12-13T14:11:28.848743+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- videos
 - news
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 13:51 UTC  
+**Last Updated:** December 13, 2025 at 14:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 20h ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 21h ago
 
 ---
 
@@ -63,7 +63,7 @@ Lifting export controls on Nvidia’s second-best chip jeopardizes America’s A
 
 An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 22h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 23h ago
 
 ---
 
@@ -71,7 +71,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 I keep seeing the same takes everywhere. "AI is just like the internet." "It's just another tool, like Excel was." "Every generation thinks their technology is special." No. This is different. The internet made information accessible. Excel made calculations faster. They helped us do our jobs better. AI doesn't help you do knowledge work, it DOES the knowledge work. That's not an incremental improvement. That's a different thing entirely. Look at what came out in the last few weeks alone. Opus 4.5. GPT-5.2. Gemini 3.0 Pro. OpenAI went from 5.1 to 5.2 in under a month. And these aren't demos anymore. They write production code. They analyze legal documents. They build entire presentations from scratch. A year ago this stuff was a party trick. Now it's getting integrated into actual business workflows. Here's what I think people aren't getting: We don't need AGI for this to be catastrophic. We don't need some sci-fi superintelligence. What we have right now, today, is already enough to massively cut headcount in knowledge work. The only reason it hasn't happened yet is that companies are slow. Integrating AI into real workflows takes time. Setting up guardrails takes time. Convincing middle management takes time. But that's not a technological barrier. That's just organizational inertia. And inertia runs out. And every time I bring this up, someone tells me: "But AI can't do [insert thing here]." Architecture. Security. Creative work. Strategy. Complex reasoning. Cool. In 2022, AI couldn't code. In 2023, it couldn't handle long context. In 2024, it couldn't reason through complex problems. Every single one of those "AI can't" statements is now embarrassingly wrong. So when someone tells me "but AI can't do system architecture" – okay, maybe not today. But that's a bet. You're betting that the thing that improved massively every single year for the past three years will suddenly stop improving at exactly the capability you need to keep your job. Good luck with that. What really gets me though is the silence. When manufacturing jobs disappeared, there was a political response. Unions. Protests. Entire campaigns. It wasn't enough, but at least people were fighting. What's happening now? Nothing. Absolute silence. We're looking at a scenario where companies might need 30%, 50%, 70% fewer people in the next 10 years or so. The entire professional class that we spent decades telling people to "upskill into" might be facing massive redundancy. And where's the debate? Where are the politicians talking about this? Where's the plan for retraining, for safety nets, for what happens when the jobs we told everyone were safe turn out not to be? Nowhere. Everyone's still arguing about problems from years ago while this thing is barreling toward us at full speed. I'm not saying civilization collapses. I'm not saying everyone loses their job next year. I'm saying that "just learn the next safe skill" is not a strategy. It's copium. It's the comforting lie we tell ourselves so we don't have to sit with the uncertainty. The "next safe skill" is going to get eaten by AI sooner or later as well. I don't know what the answer is. But pretending this isn't happening isn't it either. NOTE This sub does not allow cross posts. It was originally posted here: https://www.reddit.com/r/ArtificialInteligence/s/3U3CJv1eK5
 
-49m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ The world's smallest AI supercomputer packs enough power to run 120 billion para
 
 I'm not seeing enough people talk about this (or I see people only discuss one aspect of it, not its implications). There are two paths to AI profitability. The first is to replace large swathes of the workforce. Middle managers, desk jockeys--if your job is writing emails, AI may replace you, and companies are betting on this and investing in AI. This is the story I've most commonly seen. But there's another path to AI profitability: the subscription drug model. When articles talk about the future of AI, I don't see this one mentioned as much. ----------- Every website, no matter how altruistically it starts, has a long-term plan to squeeze as much money out of its users as possible. Youtube used to be totally free. Now every video has 2 ads every 5 minutes, and within the video creators embed their own ads and sponsors. Netflix used to have no ads. Now you have to pay extra to avoid them. You see the same enshittification playbook everywhere. Start as free service, grow, absorb competitors until you are a monopoly, then start introducing ads, monetization, subscription plans, worse product, etc. LLMs are getting the youth completely hooked on their product. Instead of learning how to type by practicing typing, students type half of a word and autocomplete fills in the rest. They're not getting the practice they need. That's just muscle memory and repetition though--I think it's worse for deeper skills, like critical thinking, work ethic, sustained focus on homework. Once students start using LLMs to do work for them, they lose the patience for work and don't develop crucial cognitive skills they will need in any career. Everyone knows this is happening, this shouldn't be news at all. There are plenty of articles about college students who don't know how to read, etc. What I don't see people mention is the actual business model. In another 10 years, when the problem has gotten much worse, once every high school or college student is unable to read or write and having LLMs basically function for them, then you'll see companies take advantage of this. That generation will NEED AI. They won't be able to do their job without it, they won't be able to send emails without it, they might not even be able to get groceries or plan a meal without it. (Let's not even get into how they will need it for friendship/emotional support/therapy, that is another can of worms entirely.) This, dear reader, is when the enshittification begins. At that point the companies can jack up pricing. The AI-heads will have no choice but to pay. They will need that shit to live. They can charge whatever they want! $400 a month to use ChatGPT. Hell, maybe more? 10% of your wages? If ChatGPT is doing your job for you, how is it fair for you to keep 100% of your earnings? What are you going to do, write those emails yourself, when you don't know how to read or write, and the LLM has been doing your homework for you since 3rd grade? At this point, it is worth considering the emotional state of the first generation of children/teens addicted to and utterly dependent on LLMs. They will use it to do homework in elementary/middle school. They may start to feel shame or embarrassment about this by the time they are in high school. They might even spend a semester trying to read and do homework without AI assistance--but at that point, it will be too late, and they will be stressed about their grades, and they will go back to AI and carry the secret burden of knowing that they stopped learning to read in elementary school. They will go to college, have AI write their essays, and their whole generation will be in on the secret which they will try to hide from their teachers and future employers (the employers, by the way, will think they understand the problem, as people have written about it before--but when the youth hear older folk talk about the problem, they will realize the older generations underestimate the true severity of the problem). When the LLM companies decide to extort this poor lost generation, they will already be well aware of the position they are in. Surely OpenAI has considered this potential future? Why aren't journalists writing about this as their potential secret business plan? It seems like it has been completely unspoken (maybe I just haven't seen the idea mentioned before, if somebody has seen any discussion of the topic in media please share a link). This seems to me to be one of the two paths to AI profitability, and the reason why so many companies are investing in it. I hear plenty about the other path to profitability (automating office work and firing large swathes of the workforce), but I don't hear as much about the subscription drug model of profitability.
 
-11h ago
+12h ago
 
 ---
 
@@ -109,7 +109,7 @@ I’ve been working with multiple LLMs in long, sustained interactions, hundreds
 
 **[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
 
-🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 15h ago
+🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 16h ago
 
 ---
 
@@ -129,7 +129,7 @@ Business Insider • 3h ago
 
 The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
@@ -137,7 +137,7 @@ BBC • 19h ago
 
 Amazon removed AI-generated video recaps it was testing in Prime Video after viewers noticed errors.
 
-Engadget • 15h ago
+Engadget • 16h ago
 
 ---
 
@@ -151,7 +151,7 @@ Forbes • 14h ago
 
 **[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
 
-Axios • 59m ago
+Axios • 1h ago
 
 ---
 
@@ -159,13 +159,13 @@ Axios • 59m ago
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 21m ago
+Vox • 41m ago
 
 ---
 
 **[Open-Source Code and Nuclear Energy Are the Building Blocks of AI](https://www.bloomberg.com/news/newsletters/2025-12-13/amd-ceo-lisa-su-and-ge-vernova-ceo-scott-strazik-explain-what-we-need-for-ai)**
 
-Bloomberg.com • 51m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Colorado Public Radio • 19h ago
 
 The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -189,7 +189,7 @@ Financial Times • 8h ago
 
 Even with better-than-expected earnings and revenue, Broadcom slid on Friday as investors  continued to grow concerned about the AI trade.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -303,7 +303,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 26K • 👍 874 • 💬 181 • ⏱️ 15:01 • 13h ago
+👁️ 26K • 👍 874 • 💬 181 • ⏱️ 15:01 • 14h ago
 
 ---
 
@@ -539,7 +539,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 190 • 💬 4 • ⭐ 6,730 • 15d ago
+▲ 190 • 💬 4 • ⭐ 6,730 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -618,7 +618,7 @@ Visionary is an open web-native platform enabling real-time rendering of 3D Gaus
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 110 • 💬 4 • ⭐ 5,751 • 22d ago
+▲ 110 • 💬 4 • ⭐ 5,751 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
