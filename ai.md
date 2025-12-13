@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T17:35:17.764376+00:00'
+updated: '2025-12-13T17:45:50.122975+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - social
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 17:35 UTC  
+**Last Updated:** December 13, 2025 at 17:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -107,7 +107,7 @@ AI agents are taking over some routine creative tasks, but executives say the sh
 
 The world's smallest AI supercomputer packs enough power to run 120 billion parameter models in a device small enough to slip into your pocket. Tiiny AI’s Pocket Lab pushes server-grade capabilities into a handheld form factor aimed at researchers, tinkerers, and everyday users.
 
-🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 10h ago
+🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 11h ago
 
 ---
 
@@ -199,7 +199,7 @@ The New York Times • 1d ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 495 • 💬 244 • 20h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 495 • 💬 244 • 21h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 

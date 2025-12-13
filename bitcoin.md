@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T17:35:17.772807+00:00'
+updated: '2025-12-13T17:45:50.131427+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 17:35 UTC  
+**Last Updated:** December 13, 2025 at 17:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -109,7 +109,7 @@ Yes. Yes we are.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-2h ago
+3h ago
 
 ---
 
@@ -129,7 +129,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 Any thoughts on what is causing it?
 
-18h ago
+19h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 4h ago
 
 The Nasdaq 100 rebalance saw six companies dropped and three new additions, with changes taking effect on December 22, but Strategy's bitcoin-heavy strategy secured its spot.
 
-CoinDesk • 9m ago
+CoinDesk • 20m ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 11m ago
+CoinDesk • 22m ago
 
 ---
 
@@ -199,7 +199,7 @@ Bitcoin Magazine • 22h ago
 
 The recommendation is in line with other global asset managers like BlackRock and Bank of America suggesting small portfolio allocations to the largest cryptocurrency.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ Investor's Business Daily • 1d ago
 
 Bitcoin (CRYPTO: BTC) enters the final stretch of the decade with its biggest question yet: can BTC climb to the $500K–$1M range as adoption deepens and supply tightens? The past six months show how quickly momentum can shift, but the long-term picture depends on forces far bigger than short-term price swings. Spot Bitcoin ETFs, sovereign ... Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -247,7 +247,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 2 • 💬 1 • 20m ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 2 • 💬 1 • 30m ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 

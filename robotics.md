@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T17:35:17.782023+00:00'
+updated: '2025-12-13T17:45:50.140558+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 17:35 UTC  
+**Last Updated:** December 13, 2025 at 17:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon 
 
 Hello guys. I’m a mechanical engineering student and i’m mostly involved in aviation applications until now. My mum had cancer in 2012 and now I’m a bit curious about some engineering approaches to cancer. I’ve seen some researchers used micro robots to deliver drugs to tumor. Can you enlighten me about this, how future looks like on this matter?
 
-1h ago
+2h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Robot Report • 22h ago
 
 About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
 
-Nasdaq • 20h ago
+Nasdaq • 21h ago
 
 ---
 
