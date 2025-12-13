@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T19:38:33.297247+00:00'
+updated: '2025-12-13T19:50:04.713229+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 19:38 UTC  
+**Last Updated:** December 13, 2025 at 19:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1799.35B
+**Market Cap:** $1800.76B
 Rank #1
 
 **Circulating Supply:** 19,961,700 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.5%
 
 **All-Time Low:** $67.81
-+132800.8%
++132927.6%
 
 ---
 
@@ -83,17 +83,17 @@ Rank #1
 
 ---
 
+**[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
+
+8h ago
+
+---
+
 **[Are We Still Early?](https://www.reddit.com/r/Bitcoin/comments/1plottv/are_we_still_early/)**
 
 Yes. Yes we are.
 
 3h ago
-
----
-
-**[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
-
-8h ago
 
 ---
 
@@ -109,7 +109,7 @@ This will age well in 10 years. See you then.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-4h ago
+5h ago
 
 ---
 
@@ -141,9 +141,11 @@ Any thoughts on what is causing it?
 
 ---
 
-**[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
+**[Fed Chair contender Kevin Warsh says “Bitcoin doesn’t make me nervous.”](https://www.reddit.com/r/Bitcoin/comments/1plr53b/fed_chair_contender_kevin_warsh_says_bitcoin/)**
 
-16h ago
+Interesting to hear someone being considered to replace Jay Powell speaking positively about Bitcoin...
+
+🔗 [youtu.be](https://youtu.be/KuL0izU2H9Q) • 2h ago
 
 ---
 
@@ -197,6 +199,14 @@ Bitcoin Magazine • 1d ago
 
 ---
 
+**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
+
+Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
+
+CoinDesk • 49m ago
+
+---
+
 **[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
 
 Investor's Business Daily • 1d ago
@@ -207,7 +217,7 @@ Investor's Business Daily • 1d ago
 
 Bitcoin may be down this year, but price targets for next year are off the charts.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -216,14 +226,6 @@ The Motley Fool • 8h ago
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
 Forbes • 1d ago
-
----
-
-**[Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?](https://finance.yahoo.com/news/bitcoin-2030-price-prediction-btc-144212543.html)**
-
-Bitcoin (CRYPTO: BTC) enters the final stretch of the decade with its biggest question yet: can BTC climb to the $500K–$1M range as adoption deepens and supply tightens? The past six months show how quickly momentum can shift, but the long-term picture depends on forces far bigger than short-term price swings. Spot Bitcoin ETFs, sovereign ... Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?
-
-Yahoo Finance • 4h ago
 
 ---
 

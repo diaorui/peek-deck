@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T19:38:33.304255+00:00'
+updated: '2025-12-13T19:50:04.719192+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 19:38 UTC  
+**Last Updated:** December 13, 2025 at 19:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +1.4%  
-**30d:** +0.0%  
-**90d:** -31.3%  
-**1y:** -19.8%  
+**24h:** +1.0%  
+**7d:** +1.6%  
+**30d:** +0.1%  
+**90d:** -31.2%  
+**1y:** -19.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.40B
+**Market Cap:** $375.38B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.3%
+-37.1%
 
 **All-Time Low:** $0.43
-+716542.1%
++718313.6%
 
 ---
 
@@ -152,11 +152,27 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 ## Google News: "ethereum"
 
+**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
+
+Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
+
+CoinDesk • 1d ago
+
+---
+
 **[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
 Decrypt • 23h ago
+
+---
+
+**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
+
+The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
+
+Yahoo Finance • 23h ago
 
 ---
 
@@ -168,12 +184,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
-
-Binance • 1d ago
-
----
-
 **[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
@@ -182,17 +192,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
+
+Binance • 1d ago
+
+---
+
 **[XRP Mildly Undervalued On MVRV: What About Bitcoin, Ethereum?](https://www.tradingview.com/news/newsbtc:800854a3e094b:0-xrp-mildly-undervalued-on-mvrv-what-about-bitcoin-ethereum/)**
 
 XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
 TradingView • 13h ago
-
----
-
-**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
-
-The Block • 2d ago
 
 ---
 
@@ -212,15 +222,7 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Ethereum Network Can Grow To A $20 Trillion Valuation By 2035, Researcher Claims](https://www.benzinga.com/crypto/cryptocurrency/25/12/49370689/ethereum-network-can-grow-to-a-20-trillion-valuation-by-2035-researcher-claims)**
-
-As Ethereum (CRYPTO: ETH) dropped almost 5% on Friday, a new research suggests the network&#8217;s long-term valuation may potentially grow
-
-Benzinga • 1d ago
-
----
-
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdoK6aljs3sG8cgJvaYhZwVWZzFp7Dl2tzzLaEw2nBvjSgOh-ovvzm-&gaa_ts=693dbd3f&gaa_sig=Ny9pHlJ9OuWYtJIZV9NaHauqJ5kSkVWOrrmp7URIqjYB9zk2aeXzLdgWn91ViqyXnEaQku1hV1dTNIt0EDE0Hw%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqeny5iwqaeXzVyohXB07cISbw7F51-15HSDoTwKJtaPMFytaOBoFPtA&gaa_ts=693dc6db&gaa_sig=vwxsmHlA6Iu4ezH0QHrm1__lf2Km-SNGNsHlzvG7VkNdY5NPaaBRXeA0kiY7-P7ptRwwGqht224fDvxdQEQVpg%3D%3D)**
 
 Barron's • 2d ago
 
@@ -316,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 2 • ⏱️ 4:36 • 17h ago
+👁️ 2K • 👍 129 • 💬 2 • ⏱️ 4:36 • 18h ago
 
 ---
 
@@ -326,7 +328,7 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 8K • 👍 337 • 💬 70 • ⏱️ 18:06 • 20h ago
+👁️ 8K • 👍 337 • 💬 70 • ⏱️ 18:06 • 21h ago
 
 ---
 

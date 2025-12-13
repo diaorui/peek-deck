@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T19:38:33.288999+00:00'
+updated: '2025-12-13T19:50:04.704838+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 19:38 UTC  
+**Last Updated:** December 13, 2025 at 19:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -51,7 +51,7 @@ AI news, discussions, and developments
 
 **[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
 
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 7h ago
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 8h ago
 
 ---
 
@@ -63,19 +63,19 @@ For now
 
 ---
 
-**[Professors are turning to this old-school method to stop AI use on exams: A growing number of educators are finding that oral exams allow them to test their students’ learning without the benefit of AI platforms such as ChatGPT.](https://www.reddit.com/r/artificial/comments/1pkwtpo/professors_are_turning_to_this_oldschool_method/)**
-
-Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
-
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 1d ago
-
----
-
 **[21yo ai founder drops paper on debugging-only llm ... real innovation or just solid PR?](https://www.reddit.com/r/artificial/comments/1plnm7p/21yo_ai_founder_drops_paper_on_debuggingonly_llm/)**
 
 I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
 
 4h ago
+
+---
+
+**[Professors are turning to this old-school method to stop AI use on exams: A growing number of educators are finding that oral exams allow them to test their students’ learning without the benefit of AI platforms such as ChatGPT.](https://www.reddit.com/r/artificial/comments/1pkwtpo/professors_are_turning_to_this_oldschool_method/)**
+
+Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
+
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 1d ago
 
 ---
 
@@ -99,7 +99,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
 
-59m ago
+1h ago
 
 ---
 
@@ -107,7 +107,7 @@ My 8 year old son has just vibe coded his first video game with the help of Goog
 
 I’m building an app, and don’t want to get saddled with crazy inference costs. It got me thinking, are consumers going to eventually have tastes for their own preferred models to the point that they’ll pay premiums for what they want or even bring their own API keys?
 
-1h ago
+2h ago
 
 ---
 
@@ -115,49 +115,9 @@ I’m building an app, and don’t want to get saddled with crazy inference cost
 
 ## Google News: "ai"
 
-**[Trump cites Colorado in new executive order banning states from creating ‘cumbersome’ AI laws](https://www.cpr.org/2025/12/12/trump-artificial-intelligence-executive-order/)**
+**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-Colorado's state law, passed in 2024, seeks to prevent discrimination in the AI systems that businesses and governments use in making key decisions, such as hiring, education and banking.
-
-Colorado Public Radio • 1d ago
-
----
-
-**[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
-
-What if the best use of AI is restarting the world’s idea machine?
-
-Vox • 6h ago
-
----
-
-**['We're not just going to want to be fed AI slop for 16 hours a day': Analyst sees Disney/OpenAI deal as a dividing line in entertainment history](https://fortune.com/2025/12/11/pre-post-ai-content-disney-openai-netflix-warner-slop-analysis-ark-invest/)**
-
-"​I think the reason this bidding is approaching $100 billion-plus is the content library and the potential to do a Disney-OpenAI type of deal."
-
-Fortune • 1d ago
-
----
-
-**[The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters from across Disney’s brands to Sora](https://openai.com/index/disney-sora-agreement/)**
-
-OpenAI • 2d ago
-
----
-
-**[Google Has Taken Down AI-Generated Content Following Disney’s Cease and Desist](https://gizmodo.com/google-has-taken-down-ai-generated-content-following-disneys-cease-and-desist-2000698254)**
-
-Disney has a licensing deal with OpenAI now, by the way.
-
-Gizmodo • 35m ago
-
----
-
-**[Grok AI in Tesla cars could be a recipe for disaster](https://www.usatoday.com/story/cars/news/2025/12/13/tesla-grok-ai-serious-concerns/87070442007/)**
-
-Some Tesla models now feature Grok, an AI assistant with a controversial track record. Could putting AI in the driver’s seat be a dangerous move?
-
-USA Today • 40m ago
+The New York Times • 1d ago
 
 ---
 
@@ -166,6 +126,30 @@ USA Today • 40m ago
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
 
 NBC News • 9h ago
+
+---
+
+**[AI data center boom could be bad news for other infrastructure projects](https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/)**
+
+Improvements to roads, bridges, and other infrastructure could take a hit as data center construction accelerates.
+
+TechCrunch • 12m ago
+
+---
+
+**[Israel joins US-led ‘Pax Silica’ initiative to cooperate on securing AI supply chains](https://www.timesofisrael.com/israel-joins-us-led-pax-silica-initiative-to-cooperate-on-securing-ai-supply-chains/)**
+
+PM's economic adviser touts 'mark of distinction for Israel,' as US, seven allies launch effort to 'shape a new, sustainable economic order for the age of artificial intelligence'
+
+The Times of Israel • 40m ago
+
+---
+
+**[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
+
+What if the best use of AI is restarting the world’s idea machine?
+
+Vox • 6h ago
 
 ---
 
@@ -193,6 +177,22 @@ Time Magazine • 2d ago
 
 ---
 
+**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
+
+TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
+
+Time Magazine • 2d ago
+
+---
+
+**['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o)**
+
+Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.
+
+BBC • 2d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +201,7 @@ Time Magazine • 2d ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 506 • 💬 260 • 22h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 509 • 💬 263 • 23h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -225,7 +225,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 164 • 💬 116 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 164 • 💬 117 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -233,7 +233,7 @@ A summary of the techniques in place to protect my git forge
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 121 • 💬 237 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 122 • 💬 237 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -255,7 +255,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 58 • 💬 57 • 4h ago
+⬆️ 71 • 💬 72 • 4h ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,637 • 5d ago
+⬇️ 268,534 • ❤️ 2,638 • 5d ago
 
 ---
 
@@ -415,7 +415,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 54,050 • ❤️ 388 • 4d ago
+⬇️ 54,050 • ❤️ 389 • 4d ago
 
 ---
 
@@ -439,7 +439,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 3,233 • ❤️ 289 • 4d ago
+⬇️ 3,233 • ❤️ 291 • 4d ago
 
 ---
 

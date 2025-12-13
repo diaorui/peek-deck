@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T19:38:33.307487+00:00'
+updated: '2025-12-13T19:50:04.722427+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 19:38 UTC  
+**Last Updated:** December 13, 2025 at 19:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,17 +48,17 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 ---
 
-**[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
-
-5h ago
-
----
-
 **[Why humanoid robots aren’t ready for the real world yet.](https://www.reddit.com/r/robotics/comments/1pls9at/why_humanoid_robots_arent_ready_for_the_real/)**
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
 🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 1h ago
+
+---
+
+**[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
+
+5h ago
 
 ---
 
@@ -94,17 +94,17 @@ Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon 
 
 ---
 
+**[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
+
+1d ago
+
+---
+
 **[Robotics on Cancer Research](https://www.reddit.com/r/robotics/comments/1plo7f6/robotics_on_cancer_research/)**
 
 Hello guys. I’m a mechanical engineering student and i’m mostly involved in aviation applications until now. My mum had cancer in 2012 and now I’m a bit curious about some engineering approaches to cancer. I’ve seen some researchers used micro robots to deliver drugs to tumor. Can you enlighten me about this, how future looks like on this matter?
 
 4h ago
-
----
-
-**[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
-
-1d ago
 
 ---
 
@@ -117,6 +117,30 @@ Hello guys. I’m a mechanical engineering student and i’m mostly involved in 
 Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
 
 IEEE Spectrum • 3d ago
+
+---
+
+**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
+
+“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
+
+Fortune • 4h ago
+
+---
+
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
+
+Making safe and regulated humanoids is a core mission of the summit and participants.
+
+ABC7 San Francisco • 1d ago
+
+---
+
+**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
+
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
+
+AP News • 21h ago
 
 ---
 
@@ -136,27 +160,11 @@ NVIDIA Developer • 2d ago
 
 ---
 
-**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
+**[10X Gains? These 3 Robotics Stocks Could Explode by 2035](https://finance.yahoo.com/news/10x-gains-3-robotics-stocks-224600231.html)**
 
-Making safe and regulated humanoids is a core mission of the summit and participants.
+Engineering expert Kuran outlines why Symbotic, Alphabet, and Hyundai are top robotics stocks for AI, automation and industrial growth.
 
-ABC7 San Francisco • 1d ago
-
----
-
-**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
-
-The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
-
-AP News • 20h ago
-
----
-
-**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
-
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
-
-AP News • 21h ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -165,12 +173,6 @@ AP News • 21h ago
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
 Scientific American • 8h ago
-
----
-
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
-
-Chron • 3d ago
 
 ---
 
@@ -186,7 +188,7 @@ The Robot Report • 1d ago
 
 About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
 
-Nasdaq • 22h ago
+Nasdaq • 23h ago
 
 ---
 
