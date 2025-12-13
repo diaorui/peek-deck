@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T19:50:04.713229+00:00'
+updated: '2025-12-13T20:00:31.497793+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 19:50 UTC  
+**Last Updated:** December 13, 2025 at 20:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.2%  
-**7d:** -0.1%  
+**7d:** -0.2%  
 **30d:** -4.7%  
 **90d:** -21.7%  
 **1y:** -11.0%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ Yes. Yes we are.
 
 This will age well in 10 years. See you then.
 
-9h ago
+10h ago
 
 ---
 
@@ -155,7 +155,7 @@ Interesting to hear someone being considered to replace Jay Powell speaking posi
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bitcoin Magazine • 1d ago
 
 Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
 
-CoinDesk • 49m ago
+CoinDesk • 59m ago
 
 ---
 
@@ -253,7 +253,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 3h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 4h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -329,7 +329,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 134 • 💬 7 • ⏱️ 21:14 • 4h ago
+👁️ 2K • 👍 134 • 💬 7 • ⏱️ 21:14 • 5h ago
 
 ---
 
@@ -359,7 +359,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 265 • ⏱️ 31:03 • 22h ago
+👁️ 45K • 👍 2K • 💬 265 • ⏱️ 31:03 • 23h ago
 
 ---
 
@@ -379,7 +379,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 122 • ⏱️ 16:27 • 21h ago
+👁️ 27K • 👍 2K • 💬 122 • ⏱️ 16:27 • 22h ago
 
 ---
 
@@ -409,7 +409,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 3K • 👍 492 • 💬 77 • ⏱️ 38:01 • 7h ago
+👁️ 3K • 👍 492 • 💬 77 • ⏱️ 38:01 • 8h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T19:50:04.722427+00:00'
+updated: '2025-12-13T20:00:31.507038+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 19:50 UTC  
+**Last Updated:** December 13, 2025 at 20:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 Been working on a pressure compensated, ros2 biomimetic robot. The idea is to build something that is cost effective, long autonomy, open source software to lower the cost of doing things underwater, to help science and conservation especially in areas and for teams that are priced out of participating. Working on a openCTD based CTD (montoring grade) to include in it. Pressure compensated camera. Aiming for about 1 m/s cruise. Im getting about ~6 hours runtime on a 5300mah for actuation (another of the same battery for compute), so including larger batteries is pretty simple, which should increase capacity both easily and cheaply. Lots of upgrade on the roadmap. And the one in the video is the previous structural design. Already have a new version but will make videos on that later. Oh, and because the design is pressure compensated, I estimate it can go VERY VERY DEEP. how deep? no idea yet. But there's essentially no air in the whole thing and i modified electronic components to help with pressure tolerance. Next step is replacing the cheap knockoff IMU i had, which just died on me for a more reliable, drop i2c and try spi or uart for it. Develop a dead reckoning package and start setting waypoints on the GUI. So it can work both tethered or in auv mode. If i can save some cash i will start playing with adding a DVL into the mix for more interesting autonomous missions. GUI is just a nicegui implementation. But it should allow me to control the robot remotely with tailscale or husarnet.
 
-11h ago
+12h ago
 
 ---
 

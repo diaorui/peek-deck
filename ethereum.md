@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T19:50:04.719192+00:00'
+updated: '2025-12-13T20:00:31.503803+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 19:50 UTC  
+**Last Updated:** December 13, 2025 at 20:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.0%  
-**7d:** +1.6%  
-**30d:** +0.1%  
-**90d:** -31.2%  
-**1y:** -19.7%  
+**7d:** +1.7%  
+**30d:** +0.3%  
+**90d:** -31.1%  
+**1y:** -19.5%  
 
 ---
 
@@ -202,7 +202,7 @@ Binance • 1d ago
 
 XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
@@ -238,7 +238,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 265 • ⏱️ 31:03 • 22h ago
+👁️ 45K • 👍 2K • 💬 265 • ⏱️ 31:03 • 23h ago
 
 ---
 

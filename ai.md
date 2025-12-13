@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T19:50:04.704838+00:00'
+updated: '2025-12-13T20:00:31.489409+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 19:50 UTC  
+**Last Updated:** December 13, 2025 at 20:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ NBC News • 9h ago
 
 Improvements to roads, bridges, and other infrastructure could take a hit as data center construction accelerates.
 
-TechCrunch • 12m ago
+TechCrunch • 22m ago
 
 ---
 
@@ -141,7 +141,7 @@ TechCrunch • 12m ago
 
 PM's economic adviser touts 'mark of distinction for Israel,' as US, seven allies launch effort to 'shape a new, sustainable economic order for the age of artificial intelligence'
 
-The Times of Israel • 40m ago
+The Times of Israel • 51m ago
 
 ---
 
@@ -157,7 +157,7 @@ Vox • 6h ago
 
 The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -305,7 +305,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 7K • 👍 673 • 💬 252 • ⏱️ 16:19 • 4h ago
+👁️ 7K • 👍 673 • 💬 252 • ⏱️ 16:19 • 5h ago
 
 ---
 
