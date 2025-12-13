@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T21:44:21.889314+00:00'
+updated: '2025-12-13T21:55:38.099853+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 21:44 UTC  
+**Last Updated:** December 13, 2025 at 21:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,17 +57,17 @@ My 8 year old son has just vibe coded his first video game with the help of Goog
 
 ---
 
+**[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
+
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 10h ago
+
+---
+
 **[21yo ai founder drops paper on debugging-only llm ... real innovation or just solid PR?](https://www.reddit.com/r/artificial/comments/1plnm7p/21yo_ai_founder_drops_paper_on_debuggingonly_llm/)**
 
 I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
 
 6h ago
-
----
-
-**[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
-
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 9h ago
 
 ---
 
@@ -87,11 +87,11 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 ---
 
-**[Clone Deceased Dad's Voice - Advice Needed](https://www.reddit.com/r/artificial/comments/1plv532/clone_deceased_dads_voice_advice_needed/)**
+**[Fei-Fei Li, a Stanford professor and CEO of AI startup World Labs, known as the 'Godmother of AI' says degrees are less important in hiring than how quickly you can ‘superpower yourself’ with new tools](https://www.reddit.com/r/artificial/comments/1plx3ah/feifei_li_a_stanford_professor_and_ceo_of_ai/)**
 
-I am looking to clone my dad's voice to surprise my sisters for Christmas. He passed away back in 2009. I only have about 5 minutes of recorded audio of his voice from saved voicemail message I have. From reading online it looks like ElevenLabs is the best option. With that limited amount of source material though, what are my chances of recreating something that is accurate? Any suggestions would be appreciated.
+Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-1h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 2m ago
 
 ---
 
@@ -129,14 +129,6 @@ NBC News • 11h ago
 
 ---
 
-**[Could America win the AI race but lose the war?](https://www.ft.com/content/12581344-6e37-45a0-a9d5-e3d6a9f8d9ba)**
-
-The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
-
-Financial Times • 16h ago
-
----
-
 **[The AI skills gap is really a ‘critical thinking’ gap: The Fortune 500 fears it can’t find talent with enough sharp thinking](https://fortune.com/2025/12/12/ai-skills-gap-talent-executives-fear-risk-critical-strategic-thinking/)**
 
 "We need to start thinking strategically. How can we create strategic thinkers, critical thinkers?"
@@ -145,23 +137,25 @@ Fortune • 1d ago
 
 ---
 
-**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
+**[Could America win the AI race but lose the war?](https://www.ft.com/content/12581344-6e37-45a0-a9d5-e3d6a9f8d9ba)**
 
-Axios • 8h ago
+The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
+
+Financial Times • 16h ago
+
+---
+
+**[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
+
+What if the best use of AI is restarting the world’s idea machine?
+
+Vox • 8h ago
 
 ---
 
 **[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
 
 The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
-
-Time Magazine • 2d ago
-
----
-
-**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
-
-TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
 
 Time Magazine • 2d ago
 
@@ -175,17 +169,25 @@ BBC • 2d ago
 
 ---
 
-**[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
+**[Jimmy Kimmel tears into Time's AI-focused Person of the Year cover featuring Musk, Altman and other tech CEOs](https://www.foxnews.com/media/jimmy-kimmel-tears-times-ai-focused-person-year-cover-featuring-musk-altman-other-tech-ceos)**
 
-What if the best use of AI is restarting the world’s idea machine?
+On Thursday's episode of "Jimmy Kimmel Live," host Jimmy Kimmel tore into Time magazine's 2025 Person of the Year cover featuring the "Architects of AI."
 
-Vox • 8h ago
+Fox News • 6h ago
 
 ---
 
-**[Introducing GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)**
+**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
 
-OpenAI • 2d ago
+Axios • 9h ago
+
+---
+
+**[I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely.](https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12)**
+
+Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
+
+Business Insider • 11h ago
 
 ---
 
@@ -221,7 +223,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 164 • 💬 119 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 165 • 💬 119 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -233,17 +235,17 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 ---
 
+**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
+
+⬆️ 123 • 💬 153 • 6h ago
+
+---
+
 **[A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://news.ycombinator.com/item?id=46233067)**
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
 ⬆️ 119 • 💬 92 • 2d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
-
----
-
-**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
-
-⬆️ 104 • 💬 132 • 6h ago
 
 ---
 
@@ -259,7 +261,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 48 • 💬 63 • 8h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 48 • 💬 65 • 8h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -517,20 +519,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 191 • 💬 4 • ⭐ 6,730 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -542,6 +530,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 24 • 💬 2 • ⭐ 6,733 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 191 • 💬 4 • ⭐ 6,770 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -596,18 +598,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform](https://huggingface.co/papers/2512.08478)**
-
-*Yuning Gong, Yifei Liu, Yifan Zhan et al. (24 authors)*
-
-Visionary is an open web-native platform enabling real-time rendering of 3D Gaussian Splatting and meshes with efficient GPU-based inference, supporting dynamic content and generative models.
-
-▲ 71 • 💬 4 • ⭐ 292 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
-
----
-
 **[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677)**
 
 *Yubo Huang, Hailong Guo, Fangtai Wu et al. (11 authors)*
@@ -633,6 +623,18 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 ▲ 111 • 💬 4 • ⭐ 5,767 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
+
+---
+
+**[Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform](https://huggingface.co/papers/2512.08478)**
+
+*Yuning Gong, Yifei Liu, Yifan Zhan et al. (24 authors)*
+
+Visionary is an open web-native platform enabling real-time rendering of 3D Gaussian Splatting and meshes with efficient GPU-based inference, supporting dynamic content and generative models.
+
+▲ 71 • 💬 4 • ⭐ 296 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
 
 ---
 
@@ -726,7 +728,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 860 • 🔱 49 • 4d ago
+⭐ 861 • 🔱 49 • 4d ago
 
 ---
 
@@ -736,7 +738,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 675 • 🔱 97 • 5d ago
+⭐ 677 • 🔱 97 • 5d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T21:44:21.903844+00:00'
+updated: '2025-12-13T21:55:38.114332+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 21:44 UTC  
+**Last Updated:** December 13, 2025 at 21:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** +0.4%  
 **7d:** +1.4%  
-**30d:** -0.0%  
+**30d:** +0.0%  
 **90d:** -31.3%  
 **1y:** -19.8%  
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.48B
+**Market Cap:** $374.52B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.3%
 
 **All-Time Low:** $0.43
-+716214.2%
++716470.5%
 
 ---
 
@@ -222,9 +222,11 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqesCKREMlxnVt2AHs18txPDviHAXlou_LKuxxf2iSvF6V3z1G0jCcXT&gaa_ts=693ddbca&gaa_sig=kyBQ_rqEKG1Sh5uXM7jgiAHGcjcE7pb4kUECp55Mb9uyrEmH_C3BmSdw5KzC91OuM6fCwEKUjIvD8GSVjKxMsw%3D%3D)**
+**[Ethereum Price Falls To $3,000 As Taker Volume Spikes To New High — What’s Happening? | Bitcoinist.com](https://bitcoinist.com/ethereum-price-falls-to-3000-as-taker-volume-spikes/)**
 
-Barron's • 2d ago
+Ethereum was one of the best-performing cryptocurrencies in the market over the past week, with its price jumping mid-week to as high as $3,400.
+
+Bitcoinist.com • 55m ago
 
 ---
 

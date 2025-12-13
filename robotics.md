@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T21:44:21.907094+00:00'
+updated: '2025-12-13T21:55:38.117560+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 21:44 UTC  
+**Last Updated:** December 13, 2025 at 21:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,13 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 Been working on a pressure compensated, ros2 biomimetic robot. The idea is to build something that is cost effective, long autonomy, open source software to lower the cost of doing things underwater, to help science and conservation especially in areas and for teams that are priced out of participating. Working on a openCTD based CTD (montoring grade) to include in it. Pressure compensated camera. Aiming for about 1 m/s cruise. Im getting about ~6 hours runtime on a 5300mah for actuation (another of the same battery for compute), so including larger batteries is pretty simple, which should increase capacity both easily and cheaply. Lots of upgrade on the roadmap. And the one in the video is the previous structural design. Already have a new version but will make videos on that later. Oh, and because the design is pressure compensated, I estimate it can go VERY VERY DEEP. how deep? no idea yet. But there's essentially no air in the whole thing and i modified electronic components to help with pressure tolerance. Next step is replacing the cheap knockoff IMU i had, which just died on me for a more reliable, drop i2c and try spi or uart for it. Develop a dead reckoning package and start setting waypoints on the GUI. So it can work both tethered or in auv mode. If i can save some cash i will start playing with adding a DVL into the mix for more interesting autonomous missions. GUI is just a nicegui implementation. But it should allow me to control the robot remotely with tailscale or husarnet.
 
-13h ago
+14h ago
+
+---
+
+**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
+
+49m ago
 
 ---
 
@@ -62,9 +68,11 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 ---
 
-**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
+**[GitHub - transitiverobotics/transact: An Open-source Robot Fleet Management Dashboard](https://www.reddit.com/r/robotics/comments/1pls89a/github_transitiveroboticstransact_an_opensource/)**
 
-37m ago
+An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
+
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 3h ago
 
 ---
 
@@ -100,17 +108,17 @@ Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon 
 
 ---
 
-**[GitHub - transitiverobotics/transact: An Open-source Robot Fleet Management Dashboard](https://www.reddit.com/r/robotics/comments/1pls89a/github_transitiveroboticstransact_an_opensource/)**
-
-An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
-
-🔗 [GitHub](https://github.com/transitiverobotics/transact) • 3h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
+
+Making safe and regulated humanoids is a core mission of the summit and participants.
+
+ABC7 San Francisco • 1d ago
+
+---
 
 **[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
 
@@ -136,30 +144,6 @@ NVIDIA Developer • 2d ago
 
 ---
 
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
-
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
-
-Fortune • 6h ago
-
----
-
-**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
-
-Making safe and regulated humanoids is a core mission of the summit and participants.
-
-ABC7 San Francisco • 1d ago
-
----
-
-**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
-
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
-
-AP News • 23h ago
-
----
-
 **[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
@@ -176,9 +160,11 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Houston robotics team headed to Dallas after HISD 'miscommunication'](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
 
-Chron • 3d ago
+The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
+
+AP News • 23h ago
 
 ---
 
@@ -187,6 +173,20 @@ Chron • 3d ago
 Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
 
 MIT News • 3d ago
+
+---
+
+**[Teradyne Robotics leaning into U.S. manufacturing reboot](https://www.therobotreport.com/teradyne-robotics-leaning-into-u-s-manufacturing-reboot/)**
+
+Teradyne Robotics plans to open its U.S. headquarters near Detroit in 2026 to boost manufacturing for UR and MiR and better serve customers.
+
+The Robot Report • 1d ago
+
+---
+
+**[Houston robotics team headed to Dallas after HISD 'miscommunication'](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+
+Chron • 3d ago
 
 ---
 
@@ -280,7 +280,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 24K • 👍 306 • 💬 2 • ⏱️ 0:18 • 14h ago
+👁️ 24K • 👍 306 • 💬 2 • ⏱️ 0:18 • 15h ago
 
 ---
 

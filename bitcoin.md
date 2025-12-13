@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T21:44:21.897760+00:00'
+updated: '2025-12-13T21:55:38.108260+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 21:44 UTC  
+**Last Updated:** December 13, 2025 at 21:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1797.58B
+**Market Cap:** $1797.40B
 Rank #1
 
 **Circulating Supply:** 19,961,750 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.6%
 
 **All-Time Low:** $67.81
-+132645.9%
++132715.2%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -103,14 +103,6 @@ Yes. Yes we are.
 
 ---
 
-**[I finally acquired 1 whole bitcoin at 28 years old.](https://www.reddit.com/r/Bitcoin/comments/1plhsu8/i_finally_acquired_1_whole_bitcoin_at_28_years_old/)**
-
-This will age well in 10 years. See you then.
-
-11h ago
-
----
-
 **[I've just set up my Secret Santa Miner](https://www.reddit.com/r/Bitcoin/comments/1plmw1n/ive_just_set_up_my_secret_santa_miner/)**
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
@@ -119,9 +111,23 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 ---
 
+**[I finally acquired 1 whole bitcoin at 28 years old.](https://www.reddit.com/r/Bitcoin/comments/1plhsu8/i_finally_acquired_1_whole_bitcoin_at_28_years_old/)**
+
+This will age well in 10 years. See you then.
+
+12h ago
+
+---
+
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
 17h ago
+
+---
+
+**[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
+
+19m ago
 
 ---
 
@@ -136,14 +142,6 @@ Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
 1d ago
-
----
-
-**[Fed Chair contender Kevin Warsh says “Bitcoin doesn’t make me nervous.”](https://www.reddit.com/r/Bitcoin/comments/1plr53b/fed_chair_contender_kevin_warsh_says_bitcoin/)**
-
-Interesting to hear someone being considered to replace Jay Powell speaking positively about Bitcoin...
-
-🔗 [youtu.be](https://youtu.be/KuL0izU2H9Q) • 4h ago
 
 ---
 
@@ -171,11 +169,11 @@ Investor's Business Daily • 20h ago
 
 ---
 
-**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
+**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
 
-Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
+Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-Bloomberg.com • 1d ago
+CoinDesk • 4h ago
 
 ---
 
@@ -185,11 +183,25 @@ Yahoo Finance • 23h ago
 
 ---
 
-**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
+**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
 
-Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
+Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bitcoin Magazine • 1d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Brazil’s Largest Private Bank Advises 3% Bitcoin Allocation For Clients](https://finance.yahoo.com/news/brazil-largest-private-bank-advises-210131274.html)**
+
+Brazil's top bank Itaú Unibanco has advised clients to allocate up to 3% of their portfolios to Bitcoin by 2026.
+
+Yahoo Finance • 54m ago
+
+---
+
+**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -206,18 +218,6 @@ Forbes • 1d ago
 Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
 
 Yahoo Finance • 2d ago
-
----
-
-**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
-
-x.com • 2h ago
-
----
-
-**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
-
-Investor's Business Daily • 1d ago
 
 ---
 
@@ -341,7 +341,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Starwin Narkthongpet
 
-👁️ 5K • 👍 3K • 1h ago
+👁️ 5K • 👍 3K • 2h ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin #BTC #CryptoCrash Michael Saylor returns to break down the shocking Bitc
 
 📺 Starwin Narkthongpet
 
-👁️ 3K • 👍 4K • 53m ago
+👁️ 3K • 👍 4K • 1h ago
 
 ---
 
