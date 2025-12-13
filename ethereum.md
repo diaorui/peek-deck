@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T07:42:24.939885+00:00'
+updated: '2025-12-13T07:53:34.695296+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 07:42 UTC  
+**Last Updated:** December 13, 2025 at 07:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by nu
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 18h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 170 • ⏱️ 31:03 • 10h ago
+👁️ 24K • 👍 1K • 💬 170 • ⏱️ 31:03 • 11h ago
 
 ---
 

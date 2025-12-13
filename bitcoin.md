@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T07:42:24.933947+00:00'
+updated: '2025-12-13T07:53:34.689247+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 07:42 UTC  
+**Last Updated:** December 13, 2025 at 07:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -0.0%  
-**30d:** -4.6%  
+**24h:** -2.2%  
+**7d:** -0.1%  
+**30d:** -4.7%  
 **90d:** -21.6%  
-**1y:** -10.9%  
+**1y:** -11.0%  
 
 ---
 
@@ -141,7 +141,7 @@ How did people buy bitcoin before exchanges?
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -371,7 +371,7 @@ Welcome to the most blisteringly honest breakdown of the future you keep trying 
 
 📺 Swan Bitcoin
 
-👁️ 14K • 👍 855 • 💬 87 • ⏱️ 14:56 • 17h ago
+👁️ 14K • 👍 855 • 💬 87 • ⏱️ 14:56 • 18h ago
 
 ---
 
@@ -391,7 +391,7 @@ Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com I
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 480 • 💬 13 • ⏱️ 0:43 • 12h ago
+👁️ 21K • 👍 480 • 💬 13 • ⏱️ 0:43 • 13h ago
 
 ---
 
