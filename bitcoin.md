@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T09:23:34.373506+00:00'
+updated: '2025-12-13T09:39:10.021707+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 09:23 UTC  
+**Last Updated:** December 13, 2025 at 09:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +0.0%  
-**30d:** -4.6%  
+**24h:** -1.9%  
+**7d:** +0.1%  
+**30d:** -4.4%  
 **90d:** -21.5%  
-**1y:** -10.9%  
+**1y:** -10.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1806.41B
+**Market Cap:** $1804.78B
 Rank #1
 
 **Circulating Supply:** 19,961,525 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.3%
 
 **All-Time Low:** $67.81
-+133333.1%
++133249.1%
 
 ---
 
@@ -83,19 +83,11 @@ Rank #1
 
 ---
 
-**[Does anyone else feel like silently flipping tf out all the time because you've discovered the way to financial freedom and you're working on it but everyone around you is oblivious and thinks you're an idiot?](https://www.reddit.com/r/Bitcoin/comments/1pl3m9e/does_anyone_else_feel_like_silently_flipping_tf/)**
-
-I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
-
-11h ago
-
----
-
 **[This pattern seems suspiciously consistent](https://www.reddit.com/r/Bitcoin/comments/1pl5b8l/this_pattern_seems_suspiciously_consistent/)**
 
 Any thoughts on what is causing it?
 
-10h ago
+11h ago
 
 ---
 
@@ -114,6 +106,14 @@ Any thoughts on what is causing it?
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
 15h ago
+
+---
+
+**[Does anyone else feel like silently flipping tf out all the time because you've discovered the way to financial freedom and you're working on it but everyone around you is oblivious and thinks you're an idiot?](https://www.reddit.com/r/Bitcoin/comments/1pl3m9e/does_anyone_else_feel_like_silently_flipping_tf/)**
+
+I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
+
+12h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg.com • 16h ago
 
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bitcoin Magazine • 13h ago
 
 Bitcoin (CRYPTO: BTC) returned to the center of Wall Street's credibility debate after a senior Vanguard executive dismissed the asset as a speculative "digital toy." Vanguard Executive Doubles Down On Bitcoin Skepticism Vanguard Group Global Head of Quantitative Equity John Ameriks said Bitcoin lacks the income, compounding, and cash-flow characteristics the firm seeks in long-term investments. Speaking at Bloomberg's ETFs in Depth conference in New York on Thursday, Ameriks compared Bitcoin to
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -181,7 +181,7 @@ Reuters • 7h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -201,25 +201,23 @@ Forbes • 20h ago
 
 ---
 
-**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqcWTOaiK_1LIMICtOBPTgQmxvoUGFjaTb147cXX5mla9UerzgO6JuaE&gaa_ts=693d2db0&gaa_sig=DbaHfaTgtD5Ump8AZDj1r8te9l-4e-33z0d19oKg3utd7Y8HReDqK4WsKVuTEC2edqZUXgYCVWJQbqR1Bvlkdw%3D%3D)**
+**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+
+x.com • 19h ago
+
+---
+
+**[Crypto Markets Today: Bitcoin Treads Water After Fed Cut as Altcoin Slump Deepens](https://www.coindesk.com/markets/2025/12/12/crypto-markets-today-bitcoin-stuck-in-post-fed-range-as-altcoins-continue-to-lag)**
+
+Bitcoin remains trapped in a range despite the U.S. rate cut, while altcoins and memecoins struggle to attract risk appetite amid shifting investor behavior.
+
+CoinDesk • 22h ago
+
+---
+
+**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqdQ66hdOHfCv1JsQSme7uf5fHc_U0Qci4X6Vn796pH7sYYvtpIU8Ecn&gaa_ts=693d37ac&gaa_sig=VYTeX1PVQWtg_laZGjKSH2ihe9wDi8GNCgSYV0C3aUCOpw26AUnR2Jzpyb9nqcsefvfVh6DJLpNII7a4k3eXfA%3D%3D)**
 
 MarketWatch • 1d ago
-
----
-
-**[Here’s Why Bitcoin Is Falling Despite the Fed's Rate Cut](https://decrypt.co/351949/heres-why-bitcoin-is-falling-despite-the-feds-rate-cut)**
-
-Analysts say the Fed’s rate cut was priced in, driving Bitcoin lower as risks like sticky inflation and the 2026 election cycle mount.
-
-Decrypt • 3d ago
-
----
-
-**[Bitcoin Isn’t Buying What the Fed Is Selling: Here’s What the Charts Suggest Happens Next](https://finance.yahoo.com/news/bitcoin-isn-t-buying-fed-182426754.html)**
-
-So much for that post-Fed relief rally. Bitcoin and Ethereum are again trending downwards, and the charts suggest bears are in control.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -295,11 +293,9 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 ---
 
-**[ChatGPT Is Helping Federal Officers Misrepresent Confrontations With Protesters](https://news.ycombinator.com/item?id=46237740)**
+**[Ask HN: Is there a local dev tool you wish existed because of a repeating issue?](https://news.ycombinator.com/item?id=46253198)**
 
-We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
-
-⬆️ 7 • 💬 0 • 1d ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
+⬆️ 1 • 💬 0 • 32m ago
 
 ---
 

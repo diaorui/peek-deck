@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T09:23:34.379485+00:00'
+updated: '2025-12-13T09:39:10.027724+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 09:23 UTC  
+**Last Updated:** December 13, 2025 at 09:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** +1.6%  
-**30d:** +0.2%  
+**24h:** -4.1%  
+**7d:** +1.7%  
+**30d:** +0.3%  
 **90d:** -31.1%  
-**1y:** -19.6%  
+**1y:** -19.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.25B
+**Market Cap:** $375.90B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.0%
 
 **All-Time Low:** $0.43
-+719895.7%
++719604.7%
 
 ---
 
@@ -84,6 +84,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[1-Year Anniversary of EigenCloud's 1% Protocol Guild Pledge Contribution](https://www.reddit.com/r/ethereum/comments/1pl0vsm/1year_anniversary_of_eigenclouds_1_protocol_guild/)**
+
+One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
+
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 14h ago
+
+---
+
 **[New Proposal for a Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1pkr6dl/new_proposal_for_a_simplified_standard_for/)**
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
@@ -97,14 +105,6 @@ Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by nu
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
 🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 20h ago
-
----
-
-**[1-Year Anniversary of EigenCloud's 1% Protocol Guild Pledge Contribution](https://www.reddit.com/r/ethereum/comments/1pl0vsm/1year_anniversary_of_eigenclouds_1_protocol_guild/)**
-
-One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
-
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 13h ago
 
 ---
 
@@ -174,19 +174,19 @@ Binance • 1d ago
 
 ---
 
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
-
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
-
-CoinDesk • 18h ago
-
----
-
 **[XRP Mildly Undervalued On MVRV: What About Bitcoin, Ethereum?](https://www.tradingview.com/news/newsbtc:800854a3e094b:0-xrp-mildly-undervalued-on-mvrv-what-about-bitcoin-ethereum/)**
 
 XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
 TradingView • 3h ago
+
+---
+
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
+
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
+
+CoinDesk • 18h ago
 
 ---
 
@@ -208,11 +208,11 @@ CryptoSlate • 1d ago
 
 As Ethereum (CRYPTO: ETH) dropped almost 5% on Friday, a new research suggests the network&#8217;s long-term valuation may potentially grow
 
-Benzinga • 14h ago
+Benzinga • 15h ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdZ9hBwjo34qwyMpTmxjhgmzGmoN-g8B6K5TAcWJ9FZtzzh2tAMSd89&gaa_ts=693d2db2&gaa_sig=82LBQtKd7sLAmcfIf8C50_MlzAFcPW_6koBTWTBIF2OHK2mTrA1jPmHzdcN6hRCd2p1gYyqKjppeva4L_xIa9g%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdYgTHufgVHHMy4hVk4n7VEhniyLztwux0Kyd8DXR3r_6Vuh9IUpfe8&gaa_ts=693d37ae&gaa_sig=l6NTqmHSQ--ALKIkMud0qDVcNT123fhTWD2Zlusx_ov7esVtR9SnA2ED5GiG9_c09KgiAzOvyEx88A-Y8erjgQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 19h ago
+👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 20h ago
 
 ---
 
