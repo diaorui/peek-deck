@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T21:33:12.065603+00:00'
+updated: '2025-12-13T21:44:21.897760+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 21:33 UTC  
+**Last Updated:** December 13, 2025 at 21:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,530.51
+### $89,902.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -0.6%  
-**30d:** -5.1%  
-**90d:** -22.0%  
-**1y:** -11.4%  
+**24h:** -0.1%  
+**7d:** -0.4%  
+**30d:** -4.9%  
+**90d:** -21.8%  
+**1y:** -11.2%  
 
 ---
 
@@ -115,7 +115,7 @@ This will age well in 10 years. See you then.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-6h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid 
 
 Interesting to hear someone being considered to replace Jay Powell speaking positively about Bitcoin...
 
-🔗 [youtu.be](https://youtu.be/KuL0izU2H9Q) • 3h ago
+🔗 [youtu.be](https://youtu.be/KuL0izU2H9Q) • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ Reuters • 19h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 20h ago
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo Finance • 2d ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 1h ago
+x.com • 2h ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin #BTC #CryptoCrash Michael Saylor returns to break down the shocking Bitc
 
 📺 Starwin Narkthongpet
 
-👁️ 3K • 👍 4K • 42m ago
+👁️ 3K • 👍 4K • 53m ago
 
 ---
 

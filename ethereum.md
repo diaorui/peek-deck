@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T21:33:12.071574+00:00'
+updated: '2025-12-13T21:44:21.903844+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 21:33 UTC  
+**Last Updated:** December 13, 2025 at 21:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,113.97
+### $3,104.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +0.9%  
-**30d:** -0.5%  
-**90d:** -31.6%  
-**1y:** -20.2%  
+**24h:** +0.4%  
+**7d:** +1.4%  
+**30d:** -0.0%  
+**90d:** -31.3%  
+**1y:** -19.8%  
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 97 • 💬 1 • ⏱️ 4:05 • 3h ago
+👁️ 1K • 👍 97 • 💬 1 • ⏱️ 4:05 • 4h ago
 
 ---
 
