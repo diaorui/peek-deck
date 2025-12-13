@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T13:18:25.923304+00:00'
+updated: '2025-12-13T13:40:33.964801+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 13:18 UTC  
+**Last Updated:** December 13, 2025 at 13:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -58,7 +58,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 51m ago
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 1h ago
 
 ---
 
@@ -102,7 +102,7 @@ The whole setup (belt motion, detection triggers, timing, etc.) is built inside 
 
 Hi guys, I want to know what you guys think where we can use RL to actually fill the gaps for classical algorithms.. I really really think this can be a good to overcoming adaptation of tuning used for visual odometry pipeline( Davide's published a paper on this)..but still it would need a sim to make it learn..and then there will be sim to real transfer...am thinking is there a way to just use datasets and go ahead with it.. Am trying to find the relevant problems in visual odometry..
 
-19h ago
+20h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi guys, I want to know what you guys think where we can use RL to actually fill
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-The Robot Report • 22h ago
+The Robot Report • 23h ago
 
 ---
 
@@ -138,7 +138,7 @@ ABC7 San Francisco • 1d ago
 
 A closer look at Atlas’s unconventional get-up motion shows how the robot tests balance and hardware before committing to a full stand.
 
-Interesting Engineering • 2d ago
+Interesting Engineering • 3d ago
 
 ---
 

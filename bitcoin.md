@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T13:18:25.913925+00:00'
+updated: '2025-12-13T13:40:33.955549+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 13:18 UTC  
+**Last Updated:** December 13, 2025 at 13:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,403.32
+### $90,211.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +0.1%  
-**30d:** -4.5%  
-**90d:** -21.5%  
-**1y:** -10.8%  
+**24h:** -2.2%  
+**7d:** -0.2%  
+**30d:** -4.8%  
+**90d:** -21.7%  
+**1y:** -11.1%  
 
 ---
 
@@ -107,25 +107,25 @@ This will age well in 10 years. See you then.
 
 Any thoughts on what is causing it?
 
-14h ago
+15h ago
 
 ---
 
 **[The anticipation](https://www.reddit.com/r/Bitcoin/comments/1plhlog/the_anticipation/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -139,7 +139,7 @@ Any thoughts on what is causing it?
 
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-15h ago
+16h ago
 
 ---
 
@@ -155,7 +155,7 @@ Reuters • 11h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 20h ago
 
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 18h ago
 
 ---
 

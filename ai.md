@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T13:18:25.904938+00:00'
+updated: '2025-12-13T13:40:33.947129+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 13:18 UTC  
+**Last Updated:** December 13, 2025 at 13:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 16h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 17h ago
 
 ---
 
@@ -65,7 +65,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 I keep seeing the same takes everywhere. "AI is just like the internet." "It's just another tool, like Excel was." "Every generation thinks their technology is special." No. This is different. The internet made information accessible. Excel made calculations faster. They helped us do our jobs better. AI doesn't help you do knowledge work, it DOES the knowledge work. That's not an incremental improvement. That's a different thing entirely. Look at what came out in the last few weeks alone. Opus 4.5. GPT-5.2. Gemini 3.0 Pro. OpenAI went from 5.1 to 5.2 in under a month. And these aren't demos anymore. They write production code. They analyze legal documents. They build entire presentations from scratch. A year ago this stuff was a party trick. Now it's getting integrated into actual business workflows. Here's what I think people aren't getting: We don't need AGI for this to be catastrophic. We don't need some sci-fi superintelligence. What we have right now, today, is already enough to massively cut headcount in knowledge work. The only reason it hasn't happened yet is that companies are slow. Integrating AI into real workflows takes time. Setting up guardrails takes time. Convincing middle management takes time. But that's not a technological barrier. That's just organizational inertia. And inertia runs out. And every time I bring this up, someone tells me: "But AI can't do [insert thing here]." Architecture. Security. Creative work. Strategy. Complex reasoning. Cool. In 2022, AI couldn't code. In 2023, it couldn't handle long context. In 2024, it couldn't reason through complex problems. Every single one of those "AI can't" statements is now embarrassingly wrong. So when someone tells me "but AI can't do system architecture" – okay, maybe not today. But that's a bet. You're betting that the thing that improved massively every single year for the past three years will suddenly stop improving at exactly the capability you need to keep your job. Good luck with that. What really gets me though is the silence. When manufacturing jobs disappeared, there was a political response. Unions. Protests. Entire campaigns. It wasn't enough, but at least people were fighting. What's happening now? Nothing. Absolute silence. We're looking at a scenario where companies might need 30%, 50%, 70% fewer people in the next 10 years or so. The entire professional class that we spent decades telling people to "upskill into" might be facing massive redundancy. And where's the debate? Where are the politicians talking about this? Where's the plan for retraining, for safety nets, for what happens when the jobs we told everyone were safe turn out not to be? Nowhere. Everyone's still arguing about problems from years ago while this thing is barreling toward us at full speed. I'm not saying civilization collapses. I'm not saying everyone loses their job next year. I'm saying that "just learn the next safe skill" is not a strategy. It's copium. It's the comforting lie we tell ourselves so we don't have to sit with the uncertainty. The "next safe skill" is going to get eaten by AI sooner or later as well. I don't know what the answer is. But pretending this isn't happening isn't it either. NOTE This sub does not allow cross posts. It was originally posted here: https://www.reddit.com/r/ArtificialInteligence/s/3U3CJv1eK5
 
-15m ago
+37m ago
 
 ---
 
@@ -87,7 +87,7 @@ AI agents are taking over some routine creative tasks, but executives say the sh
 
 The world's smallest AI supercomputer packs enough power to run 120 billion parameter models in a device small enough to slip into your pocket. Tiiny AI’s Pocket Lab pushes server-grade capabilities into a handheld form factor aimed at researchers, tinkerers, and everyday users.
 
-🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 6h ago
+🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 7h ago
 
 ---
 
@@ -137,7 +137,7 @@ Fortune • 3h ago
 
 ﻿Love, actually…is a chatbot?
 
-Vox • 48m ago
+Vox • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Vox • 48m ago
 
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ BBC • 22h ago
 
 The Chandler, Arizona, city council unanimously voted against clearing the way to allow for construction of an artificial intelligence data center
 
-Fox Business • 16h ago
+Fox Business • 17h ago
 
 ---
 
@@ -205,7 +205,7 @@ Futurism • 21h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 479 • 💬 282 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 479 • 💬 282 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -253,7 +253,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 116 • 💬 230 • 20h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 116 • 💬 230 • 21h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -261,7 +261,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 77 • 💬 120 • 16h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 77 • 💬 120 • 17h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -289,7 +289,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 214K • 👍 10K • 💬 619 • ⏱️ 4:01 • 14h ago
+👁️ 214K • 👍 10K • 💬 619 • ⏱️ 4:01 • 15h ago
 
 ---
 
@@ -393,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 119,786 • ❤️ 790 • 21h ago
+⬇️ 119,786 • ❤️ 790 • 22h ago
 
 ---
 
@@ -531,7 +531,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 24 • 💬 2 • ⭐ 6,693 • 15d ago
+▲ 24 • 💬 2 • ⭐ 6,693 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.3k • 🔱 2.1k • 8h ago
+⭐ 13.3k • 🔱 2.1k • 9h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T13:18:25.920049+00:00'
+updated: '2025-12-13T13:40:33.961546+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 13:18 UTC  
+**Last Updated:** December 13, 2025 at 13:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.0%  
-**7d:** +1.7%  
-**30d:** +0.2%  
-**90d:** -31.1%  
-**1y:** -19.6%  
+**24h:** -4.4%  
+**7d:** +1.3%  
+**30d:** -0.1%  
+**90d:** -31.4%  
+**1y:** -19.9%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 17h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 18h ago
 
 ---
 
@@ -178,7 +178,7 @@ Binance • 1d ago
 
 Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ Yahoo Finance • 19h ago
 
 As Ethereum (CRYPTO: ETH) dropped almost 5% on Friday, a new research suggests the network&#8217;s long-term valuation may potentially grow
 
-Benzinga • 18h ago
+Benzinga • 19h ago
 
 ---
 
@@ -248,7 +248,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 438 • 💬 14 • ⏱️ 48:44 • 20h ago
+👁️ 6K • 👍 438 • 💬 14 • ⏱️ 48:44 • 21h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 6K • 👍 308 • 💬 52 • ⏱️ 18:06 • 14h ago
+👁️ 6K • 👍 308 • 💬 52 • ⏱️ 18:06 • 15h ago
 
 ---
 
