@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T20:44:57.030473+00:00'
+updated: '2025-12-13T20:55:33.724339+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 20:44 UTC  
+**Last Updated:** December 13, 2025 at 20:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -51,7 +51,7 @@ AI news, discussions, and developments
 
 **[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
 
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 8h ago
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 9h ago
 
 ---
 
@@ -91,7 +91,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 I am looking to clone my dad's voice to surprise my sisters for Christmas. He passed away back in 2009. I only have about 5 minutes of recorded audio of his voice from saved voicemail message I have. From reading online it looks like ElevenLabs is the best option. With that limited amount of source material though, what are my chances of recreating something that is accurate? Any suggestions would be appreciated.
 
-17m ago
+28m ago
 
 ---
 
@@ -179,7 +179,7 @@ BBC • 2d ago
 
 **[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 

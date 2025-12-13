@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T20:44:57.038904+00:00'
+updated: '2025-12-13T20:55:33.733016+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 20:44 UTC  
+**Last Updated:** December 13, 2025 at 20:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,9 +46,9 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +0.1%  
 **7d:** -0.2%  
-**30d:** -4.7%  
+**30d:** -4.8%  
 **90d:** -21.7%  
-**1y:** -11.0%  
+**1y:** -11.1%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ Yes. Yes we are.
 
 This will age well in 10 years. See you then.
 
-10h ago
+11h ago
 
 ---
 
@@ -355,7 +355,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 265 • ⏱️ 31:03 • 23h ago
+👁️ 45K • 👍 2K • 💬 265 • ⏱️ 31:03 • 1d ago
 
 ---
 
