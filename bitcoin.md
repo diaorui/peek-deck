@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T06:59:40.674784+00:00'
+updated: '2025-12-13T07:28:50.713919+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 06:59 UTC  
+**Last Updated:** December 13, 2025 at 07:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
+**24h:** -2.1%  
 **7d:** +0.0%  
-**30d:** -4.5%  
+**30d:** -4.6%  
 **90d:** -21.5%  
-**1y:** -10.8%  
+**1y:** -10.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1803.20B
+**Market Cap:** $1804.55B
 Rank #1
 
-**Circulating Supply:** 19,961,468 BTC
+**Circulating Supply:** 19,961,525 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.3%
 
 **All-Time Low:** $67.81
-+133109.0%
++133169.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -93,19 +93,19 @@ Any thoughts on what is causing it?
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ Any thoughts on what is causing it?
 
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-9h ago
+10h ago
 
 ---
 
@@ -121,13 +121,7 @@ I've been quietly stacking bitcoin for almost four years now and it blows my min
 
 C’mon Bitcoin, you can do it
 
-17h ago
-
----
-
-**[And Bitcoin is going strong](https://www.reddit.com/r/Bitcoin/comments/1pl7ekk/and_bitcoin_is_going_strong/)**
-
-6h ago
+18h ago
 
 ---
 
@@ -135,7 +129,13 @@ C’mon Bitcoin, you can do it
 
 How did people buy bitcoin before exchanges?
 
-5h ago
+6h ago
+
+---
+
+**[And Bitcoin is going strong](https://www.reddit.com/r/Bitcoin/comments/1pl7ekk/and_bitcoin_is_going_strong/)**
+
+7h ago
 
 ---
 
@@ -149,17 +149,9 @@ How did people buy bitcoin before exchanges?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Drifts Lower With Any Push Higher Being Met by Fresh Sellers](https://www.bloomberg.com/news/articles/2025-12-12/bitcoin-drifts-lower-with-any-push-higher-being-met-by-fresh-sellers)**
-
-Bitcoin continues to drift toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October.
-
-Bloomberg.com • 13h ago
-
----
-
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -177,9 +169,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin Drifts Lower With Any Push Higher Being Met by Fresh Sellers](https://www.bloomberg.com/news/articles/2025-12-12/bitcoin-drifts-lower-with-any-push-higher-being-met-by-fresh-sellers)**
+
+Bitcoin continues to drift toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October.
+
+Bloomberg.com • 13h ago
+
+---
+
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 16h ago
+x.com • 17h ago
 
 ---
 
@@ -195,11 +195,11 @@ BBC • 2d ago
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
-**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqcTzzr3227xlAMUPZ8-epeF7ZRNl-ci3EZagcGNEJ63Jr-FFsOPhAE_&gaa_ts=693d0f86&gaa_sig=KPYGn1DbqrFOnsZ1pcNdbdz3m9J_ph1Daz30_K4fiPIBYgoGXJcI5X56I1UxLRjBPTqm954Sc9DNcxGx31nODw%3D%3D)**
+**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqdc8WwH-qk7b8bPfHkqHZuGDbGyXs69eByynvMP58k4LgJI_EAEBl1w&gaa_ts=693d191f&gaa_sig=ko00r40T7tF3KD4P9RCKQ3vjZOSLWmrfEOn1ZR26nv4SEd27MGvBZWTOoDbtqR5A6jvSpDGhXPg98yDapXt3zw%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -275,7 +275,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 9 • 💬 0 • 4d ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 9 • 💬 0 • 5d ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -311,7 +311,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 96 • ⏱️ 16:27 • 8h ago
+👁️ 18K • 👍 1K • 💬 96 • ⏱️ 16:27 • 9h ago
 
 ---
 
@@ -321,7 +321,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 365 • 💬 130 • ⏱️ 11:54 • 11h ago
+👁️ 6K • 👍 365 • 💬 130 • ⏱️ 11:54 • 12h ago
 
 ---
 
@@ -331,7 +331,7 @@ Everyone thinks Bitcoin still runs on a clean four-year cycle — but the data, 
 
 📺 Swan Bitcoin
 
-👁️ 8K • 👍 180 • 💬 11 • ⏱️ 0:50 • 17h ago
+👁️ 8K • 👍 180 • 💬 11 • ⏱️ 0:50 • 18h ago
 
 ---
 
@@ -341,7 +341,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 213 • ⏱️ 46:26 • 14h ago
+👁️ 23K • 👍 1K • 💬 213 • ⏱️ 46:26 • 15h ago
 
 ---
 
@@ -381,7 +381,7 @@ Eric Yakes joins the show to discuss what's really driving Bitcoin right now and
 
 📺 What Bitcoin Did
 
-👁️ 4K • 👍 193 • 💬 74 • ⏱️ 56:41 • 14h ago
+👁️ 4K • 👍 193 • 💬 74 • ⏱️ 56:41 • 15h ago
 
 ---
 

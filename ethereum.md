@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T06:59:40.680764+00:00'
+updated: '2025-12-13T07:28:50.720116+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 06:59 UTC  
+**Last Updated:** December 13, 2025 at 07:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.0%  
-**7d:** +0.8%  
-**30d:** -0.6%  
-**90d:** -31.7%  
-**1y:** -20.3%  
+**24h:** -4.5%  
+**7d:** +1.1%  
+**30d:** -0.3%  
+**90d:** -31.5%  
+**1y:** -20.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.99B
+**Market Cap:** $373.50B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.5%
+-37.4%
 
 **All-Time Low:** $0.43
-+713627.5%
++714641.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-58m ago
+1h ago
 
 ---
 
@@ -152,19 +152,11 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 ## Google News: "ethereum"
 
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
-
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
-
-CoinDesk • 15h ago
-
----
-
 **[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -172,13 +164,21 @@ Decrypt • 10h ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
 Binance • 1d ago
+
+---
+
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
+
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
+
+CoinDesk • 16h ago
 
 ---
 
@@ -204,7 +204,7 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqd1JRiFTrKFmguNPCmTgVs8-q3GxLj2svASyIMi22weUfaibD5qLpLe&gaa_ts=693d0f88&gaa_sig=UKny7DIJXgBS-fOYXKQlvyjsQzpgFCPCRz3VSNIvoVEAk5Uuh4tRz-oPCn3fAGtVH0u2xZCyV6JkOrao53SFAA%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqeBwx7agdnuerLyWotv87oqdrlJfcHwACp9Gxj_QbUZ2KJTa983PQmE&gaa_ts=693d1921&gaa_sig=QtHc70wwQ1VolD5RIiXetSFLgBb-SsP5p51sRIhRoAxulEG9Kz054elPGLM1H6nvpnokcyZuAV3ofokzVfkRqw%3D%3D)**
 
 Barron's • 1d ago
 
@@ -214,7 +214,7 @@ Barron's • 1d ago
 
 BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
 
-ts2.tech • 15h ago
+ts2.tech • 16h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 424 • 💬 13 • ⏱️ 48:44 • 14h ago
+👁️ 6K • 👍 424 • 💬 13 • ⏱️ 48:44 • 15h ago
 
 ---
 
@@ -296,7 +296,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 429 • ⏱️ 34:06 • 9h ago
+👁️ 5K • 👍 429 • ⏱️ 34:06 • 10h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 17h ago
+👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 18h ago
 
 ---
 

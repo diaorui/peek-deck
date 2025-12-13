@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T06:59:40.684263+00:00'
+updated: '2025-12-13T07:28:50.723410+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 06:59 UTC  
+**Last Updated:** December 13, 2025 at 07:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -48,7 +48,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -62,7 +62,7 @@ Hello, I am currently building a small biped. Ideally, I would like some flat BL
 
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -114,7 +114,7 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-The Robot Report • 16h ago
+The Robot Report • 17h ago
 
 ---
 
@@ -134,19 +134,19 @@ Deloitte • 3d ago
 
 ---
 
-**[Video: How Boston Dynamics’ humanoid robot achieves creepy stand-up move](https://interestingengineering.com/ai-robotics/atlas-robot-standing-up-motion-explained)**
-
-A closer look at Atlas’s unconventional get-up motion shows how the robot tests balance and hardware before committing to a full stand.
-
-Interesting Engineering • 2d ago
-
----
-
 **[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
 
 The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
 
 AP News • 8h ago
+
+---
+
+**[Video: How Boston Dynamics’ humanoid robot achieves creepy stand-up move](https://interestingengineering.com/ai-robotics/atlas-robot-standing-up-motion-explained)**
+
+A closer look at Atlas’s unconventional get-up motion shows how the robot tests balance and hardware before committing to a full stand.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -180,11 +180,9 @@ Chron • 2d ago
 
 ---
 
-**[WATCH: Kraken Robotics, TKMS ATLAS UK test KATFISH USV-LARS on ARCIMS USV](https://www.navaltoday.com/2025/12/11/watch-kraken-robotics-tkms-atlas-uk-test-katfish-usv-lars-on-arcims-usv/)**
+**[Medra Raises $52 Million to Speed Drug Discovery With AI Robots](https://www.bloomberg.com/news/articles/2025-12-11/medra-raises-52-million-to-speed-drug-discovery-with-ai-robots)**
 
-Kraken Robotics and TKMS ATLAS UK have demonstrated the KATFISH unmanned surface vessel launch and recovery system (USV-LARS) from TKMS ATLAS UK’s ARCIMS USV.
-
-Naval Today • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
