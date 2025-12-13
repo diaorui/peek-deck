@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T14:33:40.482384+00:00'
+updated: '2025-12-13T14:46:24.467553+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 14:33 UTC  
+**Last Updated:** December 13, 2025 at 14:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -0.5%  
-**30d:** -5.0%  
-**90d:** -21.9%  
-**1y:** -11.3%  
+**24h:** +0.5%  
+**7d:** -0.2%  
+**30d:** -4.8%  
+**90d:** -21.7%  
+**1y:** -11.1%  
 
 ---
 
@@ -113,7 +113,7 @@ This will age well in 10 years. See you then.
 
 Any thoughts on what is causing it?
 
-15h ago
+16h ago
 
 ---
 
@@ -157,7 +157,7 @@ Reuters • 12h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -197,7 +197,7 @@ Decrypt • 16h ago
 
 Rising Japanese rates and a stronger yen threaten carry trades and could pressure crypto markets despite easing U.S. policy.
 
-CoinDesk • 32m ago
+CoinDesk • 45m ago
 
 ---
 

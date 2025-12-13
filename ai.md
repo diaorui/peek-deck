@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T14:33:40.473886+00:00'
+updated: '2025-12-13T14:46:24.458985+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- repositories
 - social
 - videos
-- repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 14:33 UTC  
+**Last Updated:** December 13, 2025 at 14:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 **[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
 
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 2h ago
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 3h ago
 
 ---
 
@@ -71,7 +71,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 Google Gemini. Thoughts?
 
-29m ago
+42m ago
 
 ---
 
@@ -87,7 +87,7 @@ AI agents are taking over some routine creative tasks, but executives say the sh
 
 The world's smallest AI supercomputer packs enough power to run 120 billion parameter models in a device small enough to slip into your pocket. Tiiny AI’s Pocket Lab pushes server-grade capabilities into a handheld form factor aimed at researchers, tinkerers, and everyday users.
 
-🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 7h ago
+🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 8h ago
 
 ---
 
@@ -181,7 +181,7 @@ NBC News • 4h ago
 
 Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
 
 ---
 
@@ -209,7 +209,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 461 • 💬 236 • 17h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 461 • 💬 236 • 18h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -341,7 +341,7 @@ Hostinger is still running their Cyber Week Sale. Check it out here: http://host
 
 📺 Matt Wolfe
 
-👁️ 25K • 👍 972 • 💬 112 • ⏱️ 34:21 • 17h ago
+👁️ 25K • 👍 972 • 💬 112 • ⏱️ 34:21 • 18h ago
 
 ---
 
@@ -387,7 +387,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 119,786 • ❤️ 796 • 22h ago
+⬇️ 119,786 • ❤️ 796 • 23h ago
 
 ---
 
