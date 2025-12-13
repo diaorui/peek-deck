@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T08:43:51.725783+00:00'
+updated: '2025-12-13T08:56:35.702664+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 08:43 UTC  
+**Last Updated:** December 13, 2025 at 08:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -0.0%  
-**30d:** -4.6%  
-**90d:** -21.6%  
-**1y:** -10.9%  
+**24h:** -2.1%  
+**7d:** +0.1%  
+**30d:** -4.4%  
+**90d:** -21.4%  
+**1y:** -10.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1803.09B
+**Market Cap:** $1806.41B
 Rank #1
 
 **Circulating Supply:** 19,961,525 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.3%
+-28.2%
 
 **All-Time Low:** $67.81
-+133255.0%
++133333.1%
 
 ---
 
@@ -105,23 +105,15 @@ Any thoughts on what is causing it?
 
 ---
 
-**[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
-
-14h ago
-
----
-
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
 5h ago
 
 ---
 
-**[Daily meme until $92,450](https://www.reddit.com/r/Bitcoin/comments/1pkriyo/daily_meme_until_92450/)**
+**[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-C’mon Bitcoin, you can do it
-
-19h ago
+14h ago
 
 ---
 
@@ -133,6 +125,14 @@ How did people buy bitcoin before exchanges?
 
 ---
 
+**[Daily meme until $92,450](https://www.reddit.com/r/Bitcoin/comments/1pkriyo/daily_meme_until_92450/)**
+
+C’mon Bitcoin, you can do it
+
+19h ago
+
+---
+
 **[And Bitcoin is going strong](https://www.reddit.com/r/Bitcoin/comments/1pl7ekk/and_bitcoin_is_going_strong/)**
 
 8h ago
@@ -141,7 +141,7 @@ How did people buy bitcoin before exchanges?
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -153,7 +153,7 @@ How did people buy bitcoin before exchanges?
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg.com • 15h ago
 
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
-Bitcoin Magazine • 1d ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -193,13 +193,15 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
-x.com • 18h ago
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+
+Forbes • 19h ago
 
 ---
 
-**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqc89ejjEA7op9OmjXK9UlXJvN5Z7fBjPIqGLuwM5MisEHKNQGP7_EEK&gaa_ts=693d2586&gaa_sig=eQNLdF-Gc2OO7fPAYEguQGbBtQ01pGCQcK_cOblc8EwPB-cUg_uDxQyex6PeqE3bs6yLIREXO2Ham620m5RoUQ%3D%3D)**
+**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqcWTOaiK_1LIMICtOBPTgQmxvoUGFjaTb147cXX5mla9UerzgO6JuaE&gaa_ts=693d2db0&gaa_sig=DbaHfaTgtD5Ump8AZDj1r8te9l-4e-33z0d19oKg3utd7Y8HReDqK4WsKVuTEC2edqZUXgYCVWJQbqR1Bvlkdw%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -289,7 +291,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 23h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 1d ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -371,7 +373,7 @@ Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com I
 
 📺 Benjamin Cowen
 
-👁️ 23K • 👍 513 • 💬 13 • ⏱️ 0:43 • 13h ago
+👁️ 23K • 👍 513 • 💬 13 • ⏱️ 0:43 • 14h ago
 
 ---
 
@@ -381,7 +383,7 @@ Welcome to the most blisteringly honest breakdown of the future you keep trying 
 
 📺 Swan Bitcoin
 
-👁️ 14K • 👍 864 • 💬 88 • ⏱️ 14:56 • 18h ago
+👁️ 14K • 👍 864 • 💬 88 • ⏱️ 14:56 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T08:43:51.731781+00:00'
+updated: '2025-12-13T08:56:35.708726+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 08:43 UTC  
+**Last Updated:** December 13, 2025 at 08:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,127.18
+### $3,118.22
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** +1.6%  
-**30d:** +0.2%  
-**90d:** -31.2%  
-**1y:** -19.6%  
+**24h:** -4.3%  
+**7d:** +1.8%  
+**30d:** +0.4%  
+**90d:** -31.1%  
+**1y:** -19.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.76B
+**Market Cap:** $376.25B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.0%
 
 **All-Time Low:** $0.43
-+719119.6%
++719895.7%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 19h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 20h ago
 
 ---
 
@@ -96,7 +96,7 @@ Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by nu
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 19h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 20h ago
 
 ---
 
@@ -182,17 +182,17 @@ CoinDesk • 17h ago
 
 ---
 
-**[Arthur Hayes Makes Wild Ethereum Prediction for 2026 and Beyond](https://www.tradingview.com/news/beincrypto:f3ccde85e094b:0-arthur-hayes-makes-wild-ethereum-prediction-for-2026-and-beyond/)**
+**[XRP Mildly Undervalued On MVRV: What About Bitcoin, Ethereum?](https://www.tradingview.com/news/newsbtc:800854a3e094b:0-xrp-mildly-undervalued-on-mvrv-what-about-bitcoin-ethereum/)**
 
-Ethereum’s long-term trajectory has become a focal point again after Arthur Hayes laid out a sweeping forecast for the asset’s institutional future, price potential, and competitive space. His comments arrived as Ethereum trades near $3,200, fluctuating between $3,060 and $3,440 over the past week…
+XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView • 1d ago
+TradingView • 2h ago
 
 ---
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -212,17 +212,17 @@ Benzinga • 14h ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfNX6NUFhpZHtzZGsIrhVlMUMusX5orLyuq7sAAnD_oXZ3GpxbNks_a&gaa_ts=693d2588&gaa_sig=95Zhr86n-_vgWklsxvbUjCYL0bmeh4KJkY3XXt0agJ0xHMtKtbJCqUHevSV4ZAnAJgLnDtB9ewbAMfGrML4rYA%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdZ9hBwjo34qwyMpTmxjhgmzGmoN-g8B6K5TAcWJ9FZtzzh2tAMSd89&gaa_ts=693d2db2&gaa_sig=82LBQtKd7sLAmcfIf8C50_MlzAFcPW_6koBTWTBIF2OHK2mTrA1jPmHzdcN6hRCd2p1gYyqKjppeva4L_xIa9g%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-latest-news-analyst-forecasts-and-whats-driving-the-ethereum-treasury-trade-dec-12-2025/)**
+**[Arthur Hayes Makes Wild Ethereum Prediction for 2026 and Beyond](https://finance.yahoo.com/news/arthur-hayes-makes-wild-ethereum-185705661.html)**
 
-BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
+Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
 
-ts2.tech • 17h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 181 • ⏱️ 31:03 • 11h ago
+👁️ 29K • 👍 2K • 💬 181 • ⏱️ 31:03 • 12h ago
 
 ---
 
