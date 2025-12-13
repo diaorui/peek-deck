@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T11:45:09.843053+00:00'
+updated: '2025-12-13T11:56:33.861781+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 11:45 UTC  
+**Last Updated:** December 13, 2025 at 11:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 18h ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 19h ago
 
 ---
 
@@ -61,14 +61,6 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 ---
 
-**[The Unspoken Future Plan for AI](https://www.reddit.com/r/artificial/comments/1pl9x64/the_unspoken_future_plan_for_ai/)**
-
-I'm not seeing enough people talk about this (or I see people only discuss one aspect of it, not its implications). There are two paths to AI profitability. The first is to replace large swathes of the workforce. Middle managers, desk jockeys--if your job is writing emails, AI may replace you, and companies are betting on this and investing in AI. This is the story I've most commonly seen. But there's another path to AI profitability: the subscription drug model. When articles talk about the future of AI, I don't see this one mentioned as much. ----------- Every website, no matter how altruistically it starts, has a long-term plan to squeeze as much money out of its users as possible. Youtube used to be totally free. Now every video has 2 ads every 5 minutes, and within the video creators embed their own ads and sponsors. Netflix used to have no ads. Now you have to pay extra to avoid them. You see the same enshittification playbook everywhere. Start as free service, grow, absorb competitors until you are a monopoly, then start introducing ads, monetization, subscription plans, worse product, etc. LLMs are getting the youth completely hooked on their product. Instead of learning how to type by practicing typing, students type half of a word and autocomplete fills in the rest. They're not getting the practice they need. That's just muscle memory and repetition though--I think it's worse for deeper skills, like critical thinking, work ethic, sustained focus on homework. Once students start using LLMs to do work for them, they lose the patience for work and don't develop crucial cognitive skills they will need in any career. Everyone knows this is happening, this shouldn't be news at all. There are plenty of articles about college students who don't know how to read, etc. What I don't see people mention is the actual business model. In another 10 years, when the problem has gotten much worse, once every high school or college student is unable to read or write and having LLMs basically function for them, then you'll see companies take advantage of this. That generation will NEED AI. They won't be able to do their job without it, they won't be able to send emails without it, they might not even be able to get groceries or plan a meal without it. (Let's not even get into how they will need it for friendship/emotional support/therapy, that is another can of worms entirely.) This, dear reader, is when the enshittification begins. At that point the companies can jack up pricing. The AI-heads will have no choice but to pay. They will need that shit to live. They can charge whatever they want! $400 a month to use ChatGPT. Hell, maybe more? 10% of your wages? If ChatGPT is doing your job for you, how is it fair for you to keep 100% of your earnings? What are you going to do, write those emails yourself, when you don't know how to read or write, and the LLM has been doing your homework for you since 3rd grade? At this point, it is worth considering the emotional state of the first generation of children/teens addicted to and utterly dependent on LLMs. They will use it to do homework in elementary/middle school. They may start to feel shame or embarrassment about this by the time they are in high school. They might even spend a semester trying to read and do homework without AI assistance--but at that point, it will be too late, and they will be stressed about their grades, and they will go back to AI and carry the secret burden of knowing that they stopped learning to read in elementary school. They will go to college, have AI write their essays, and their whole generation will be in on the secret which they will try to hide from their teachers and future employers (the employers, by the way, will think they understand the problem, as people have written about it before--but when the youth hear older folk talk about the problem, they will realize the older generations underestimate the true severity of the problem). When the LLM companies decide to extort this poor lost generation, they will already be well aware of the position they are in. Surely OpenAI has considered this potential future? Why aren't journalists writing about this as their potential secret business plan? It seems like it has been completely unspoken (maybe I just haven't seen the idea mentioned before, if somebody has seen any discussion of the topic in media please share a link). This seems to me to be one of the two paths to AI profitability, and the reason why so many companies are investing in it. I hear plenty about the other path to profitability (automating office work and firing large swathes of the workforce), but I don't hear as much about the subscription drug model of profitability.
-
-9h ago
-
----
-
 **[The world’s smallest AI supercomputer: Tiiny Ai Pocket Lab — size of a power bank](https://www.reddit.com/r/artificial/comments/1pleuqm/the_worlds_smallest_ai_supercomputer_tiiny_ai/)**
 
 The world's smallest AI supercomputer packs enough power to run 120 billion parameter models in a device small enough to slip into your pocket. Tiiny AI’s Pocket Lab pushes server-grade capabilities into a handheld form factor aimed at researchers, tinkerers, and everyday users.
@@ -82,6 +74,14 @@ The world's smallest AI supercomputer packs enough power to run 120 billion para
 AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
 
 🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 13h ago
+
+---
+
+**[The Unspoken Future Plan for AI](https://www.reddit.com/r/artificial/comments/1pl9x64/the_unspoken_future_plan_for_ai/)**
+
+I'm not seeing enough people talk about this (or I see people only discuss one aspect of it, not its implications). There are two paths to AI profitability. The first is to replace large swathes of the workforce. Middle managers, desk jockeys--if your job is writing emails, AI may replace you, and companies are betting on this and investing in AI. This is the story I've most commonly seen. But there's another path to AI profitability: the subscription drug model. When articles talk about the future of AI, I don't see this one mentioned as much. ----------- Every website, no matter how altruistically it starts, has a long-term plan to squeeze as much money out of its users as possible. Youtube used to be totally free. Now every video has 2 ads every 5 minutes, and within the video creators embed their own ads and sponsors. Netflix used to have no ads. Now you have to pay extra to avoid them. You see the same enshittification playbook everywhere. Start as free service, grow, absorb competitors until you are a monopoly, then start introducing ads, monetization, subscription plans, worse product, etc. LLMs are getting the youth completely hooked on their product. Instead of learning how to type by practicing typing, students type half of a word and autocomplete fills in the rest. They're not getting the practice they need. That's just muscle memory and repetition though--I think it's worse for deeper skills, like critical thinking, work ethic, sustained focus on homework. Once students start using LLMs to do work for them, they lose the patience for work and don't develop crucial cognitive skills they will need in any career. Everyone knows this is happening, this shouldn't be news at all. There are plenty of articles about college students who don't know how to read, etc. What I don't see people mention is the actual business model. In another 10 years, when the problem has gotten much worse, once every high school or college student is unable to read or write and having LLMs basically function for them, then you'll see companies take advantage of this. That generation will NEED AI. They won't be able to do their job without it, they won't be able to send emails without it, they might not even be able to get groceries or plan a meal without it. (Let's not even get into how they will need it for friendship/emotional support/therapy, that is another can of worms entirely.) This, dear reader, is when the enshittification begins. At that point the companies can jack up pricing. The AI-heads will have no choice but to pay. They will need that shit to live. They can charge whatever they want! $400 a month to use ChatGPT. Hell, maybe more? 10% of your wages? If ChatGPT is doing your job for you, how is it fair for you to keep 100% of your earnings? What are you going to do, write those emails yourself, when you don't know how to read or write, and the LLM has been doing your homework for you since 3rd grade? At this point, it is worth considering the emotional state of the first generation of children/teens addicted to and utterly dependent on LLMs. They will use it to do homework in elementary/middle school. They may start to feel shame or embarrassment about this by the time they are in high school. They might even spend a semester trying to read and do homework without AI assistance--but at that point, it will be too late, and they will be stressed about their grades, and they will go back to AI and carry the secret burden of knowing that they stopped learning to read in elementary school. They will go to college, have AI write their essays, and their whole generation will be in on the secret which they will try to hide from their teachers and future employers (the employers, by the way, will think they understand the problem, as people have written about it before--but when the youth hear older folk talk about the problem, they will realize the older generations underestimate the true severity of the problem). When the LLM companies decide to extort this poor lost generation, they will already be well aware of the position they are in. Surely OpenAI has considered this potential future? Why aren't journalists writing about this as their potential secret business plan? It seems like it has been completely unspoken (maybe I just haven't seen the idea mentioned before, if somebody has seen any discussion of the topic in media please share a link). This seems to me to be one of the two paths to AI profitability, and the reason why so many companies are investing in it. I hear plenty about the other path to profitability (automating office work and firing large swathes of the workforce), but I don't hear as much about the subscription drug model of profitability.
+
+9h ago
 
 ---
 
@@ -103,15 +103,13 @@ A new study has found that artificial intelligence systems struggle to distingui
 
 I’ve been working with multiple LLMs in long, sustained interactions, hundreds of turns, frequent domain switching (math, philosophy, casual context), and even switching base models mid-stream. A consistent failure mode shows up regardless of model size or training quality: identity and coherence collapse over time. Models drift toward generic answers, lose internal consistency, or contradict earlier constraints, usually within a few dozen turns unless something external actively regulates the interaction. My claim is simple: This is not primarily a capability or scale issue. It’s an architectural one. LLMs are reactive systems. They don’t have an internal reference for identity, only transient context. There’s nothing to regulate against, so coherence decays predictably. I’ve been exploring a different framing: treating the human operator and the model as a single operator–model coupled system, where identity is defined externally and coherence is actively regulated. Key points: • Identity precedes intelligence. • The operator measurably influences system dynamics. • Stability is a control problem, not a prompting trick. • Ethics can be treated as constraints in the action space, not post-hoc filters. Using this approach, I’ve observed sustained coherence: • across hundreds of turns • across multiple base models • without relying on persistent internal memory I’m not claiming sentience, AGI, or anything mystical. I’m claiming that operator-coupled architectures behave differently than standalone agents. If this framing is wrong, I’m genuinely interested in where the reasoning breaks. If this problem is already “solved,” why does identity collapse still happen so reliably? Discussion welcome. Skepticism encouraged.
 
-10h ago
+11h ago
 
 ---
 
-**[State of the Art Chart Extraction using AI Models](https://www.reddit.com/r/artificial/comments/1plg0hg/state_of_the_art_chart_extraction_using_ai_models/)**
+**[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
 
-Reducto provides high-quality document ingestion for AI teams by accurately parsing complex documents like PDFs, Excel spreadsheets, and PowerPoint slides. Get started for free.
-
-🔗 [reducto.ai](https://reducto.ai/blog/reducto-chart-extraction) • 3h ago
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 10m ago
 
 ---
 
@@ -119,55 +117,17 @@ Reducto provides high-quality document ingestion for AI teams by accurately pars
 
 ## Google News: "ai"
 
-**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+**[WATCH: Trump signs executive order to override AI regulations by states](https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-to-override-ai-regulations-by-states)**
 
-The New York Times • 1d ago
+President Donald Trump signed an executive order Thursday pressuring states not to regulate artificial intelligence.
 
----
-
-**[Trump cites Colorado in new executive order banning states from creating ‘cumbersome’ AI laws](https://www.cpr.org/2025/12/12/trump-artificial-intelligence-executive-order/)**
-
-Colorado's state law, passed in 2024, seeks to prevent discrimination in the AI systems that businesses and governments use in making key decisions, such as hiring, education and banking.
-
-Colorado Public Radio • 17h ago
-
----
-
-**[Trump tech adviser David Sacks under fire over vast AI investments](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts)**
-
-Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
-
-NPR • 1h ago
+PBS • 14h ago
 
 ---
 
 **[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
 The Washington Post • 16h ago
-
----
-
-**[Is The Washington Post’s new AI podcast a hallmark of the future?](https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast)**
-
-The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest.
-
-NPR • 44m ago
-
----
-
-**[Exclusive / Washington Post’s AI-generated podcasts rife with errors, fictional quotes](https://www.semafor.com/article/12/11/2025/washington-posts-ai-generated-podcasts-rife-with-errors-fictional-quotes)**
-
-Errors in the Postâs new AI-generated podcasts have frustrated the paperâs journalists.
-
-https-//www.semafor.com • 1d ago
-
----
-
-**[Podcast industry under siege as AI bots flood airways with thousands of programs](https://www.latimes.com/business/story/2025-12-12/ai-podcasting-is-changing-industry)**
-
-AI podcasts are flooding the airways as California companies make thousands to see what sticks
-
-Los Angeles Times • 1d ago
 
 ---
 
@@ -179,17 +139,55 @@ NBC News • 1h ago
 
 ---
 
-**[These 3 Warren Buffett AI Stocks Could Be Big Winners in 2026](https://www.fool.com/investing/2025/12/13/these-3-warren-buffett-ai-stocks-could-be-big-winn/)**
+**[I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely.](https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12)**
 
-The "As" have it. Buffett's top AI stocks -- Alphabet, Amazon, and Apple -- should deliver solid gains next year.
+Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
 
-The Motley Fool • 3h ago
+Business Insider • 1h ago
 
 ---
 
-**[These 3 Warren Buffett AI stocks could be big winners in 2026](https://www.msn.com/en-us/money/companies/these-3-warren-buffett-ai-stocks-could-be-big-winners-in-2026/ar-AA1SgAri?ocid=finance-verthp-feeds)**
+**[Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o)**
 
-MSN • 1h ago
+The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
+
+BBC • 17h ago
+
+---
+
+**[Amazon pulls error-filled 'Fallout' AI video recaps from Prime Video](https://mashable.com/article/amazon-prime-video-ai-recaps-fallout-failure)**
+
+Who could have predicted that AI might struggle to get facts and dates correct?
+
+Mashable • 12h ago
+
+---
+
+**[Amazon Pulls AI-Generated ‘Fallout’ Recap Ahead Of Season 2 Amidst Backlash](https://www.forbes.com/sites/erikkain/2025/12/12/fallout-season-2-amazon-ai-recap-controversy/)**
+
+Amazon yanks an AI-generated recap of 'Fallout' Season 1 after fans point out it's riddled with mistakes.
+
+Forbes • 12h ago
+
+---
+
+**[Chinese AI Euphoria Obscures a Gloomier Technological Reality](https://www.bloomberg.com/news/articles/2025-12-13/chinese-ai-euphoria-obscures-a-gloomier-technological-reality)**
+
+Bloomberg.com • 11h ago
+
+---
+
+**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
+
+Politico • 1d ago
+
+---
+
+**[Podcast industry under siege as AI bots flood airways with thousands of programs](https://www.latimes.com/business/story/2025-12-12/ai-podcasting-is-changing-industry)**
+
+AI podcasts are flooding the airways as California companies make thousands to see what sticks
+
+Los Angeles Times • 1d ago
 
 ---
 
@@ -201,7 +199,7 @@ MSN • 1h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 478 • 💬 281 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 479 • 💬 281 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -209,7 +207,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 414 • 💬 218 • 15h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 424 • 💬 219 • 15h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -233,7 +231,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 160 • 💬 113 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 161 • 💬 113 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -257,7 +255,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 116 • 💬 222 • 19h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 116 • 💬 227 • 19h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -660,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.4k • 🔱 275 • 6h ago
+⭐ 2.4k • 🔱 275 • 7h ago
 
 ---
 

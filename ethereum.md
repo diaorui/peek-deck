@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T11:45:09.857411+00:00'
+updated: '2025-12-13T11:56:33.876501+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 11:45 UTC  
+**Last Updated:** December 13, 2025 at 11:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.39B
+**Market Cap:** $376.78B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.8%
+-36.9%
 
 **All-Time Low:** $0.43
-+722085.1%
++720826.4%
 
 ---
 
@@ -96,7 +96,7 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 22h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 23h ago
 
 ---
 
@@ -104,7 +104,7 @@ Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by nu
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 22h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 23h ago
 
 ---
 
@@ -160,17 +160,17 @@ Decrypt • 15h ago
 
 ---
 
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
-
-Sentiment around Ethereum has been bouncing around considerably in recent days.
-
-Yahoo Finance • 17h ago
-
----
-
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
 Binance • 1d ago
+
+---
+
+**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://finance.yahoo.com/news/tom-lee-bitmine-adds-112m-132425778.html)**
+
+Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -190,9 +190,11 @@ CoinDesk • 20h ago
 
 ---
 
-**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://www.fool.com/investing/2025/12/12/why-ethereum-sank-5-today-while-the-crypto-market/)**
 
-The Block • 2d ago
+Sentiment around Ethereum has been bouncing around considerably in recent days.
+
+The Motley Fool • 18h ago
 
 ---
 
@@ -204,12 +206,6 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcK6CVBo_bbLgae1P5lSDvPp67SdsQXjqGUtUyfnkHTU_DwSSkoDDjC&gaa_ts=693d4fba&gaa_sig=hxRJbpPNWvEJWKE7Kmkabcq_e97MHfGGYxQNJeOVzdQXRazX79CBozaxxZLVlhNLnc0r3Y2p6ooXlrJKJOxyiQ%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[Ethereum Network Can Grow To A $20 Trillion Valuation By 2035, Researcher Claims](https://www.benzinga.com/crypto/cryptocurrency/25/12/49370689/ethereum-network-can-grow-to-a-20-trillion-valuation-by-2035-researcher-claims)**
 
 As Ethereum (CRYPTO: ETH) dropped almost 5% on Friday, a new research suggests the network&#8217;s long-term valuation may potentially grow
@@ -218,11 +214,15 @@ Benzinga • 17h ago
 
 ---
 
-**[Arthur Hayes Makes Wild Ethereum Prediction for 2026 and Beyond](https://finance.yahoo.com/news/arthur-hayes-makes-wild-ethereum-185705661.html)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqesuXRyrc46XqRN6eFl8hoU7essAKhE70rUU2UfTuiYIlfnqtNgNWip&gaa_ts=693d57e1&gaa_sig=fwtnQwgyBtvwm33xRgEBVWQX9TX_2iZ3ePcG4bOfP2v9ss6YX5f6HwAODlu1AQRpjtrwkScohB26iHvnibrQzA%3D%3D)**
 
-Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
+Barron's • 2d ago
 
-Yahoo Finance • 1d ago
+---
+
+**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
+
+The Block • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 187 • ⏱️ 31:03 • 14h ago
+👁️ 32K • 👍 2K • 💬 187 • ⏱️ 31:03 • 15h ago
 
 ---
 

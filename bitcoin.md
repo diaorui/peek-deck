@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T11:45:09.851357+00:00'
+updated: '2025-12-13T11:56:33.870368+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 11:45 UTC  
+**Last Updated:** December 13, 2025 at 11:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,494.09
+### $90,403.32
 
 ---
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1807.35B
+**Market Cap:** $1804.34B
 Rank #1
 
-**Circulating Supply:** 19,961,525 BTC
+**Circulating Supply:** 19,961,596 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.3%
 
 **All-Time Low:** $67.81
-+133423.1%
++133178.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 This will age well in 10 years. See you then.
 
-1h ago
+2h ago
 
 ---
 
@@ -105,15 +105,21 @@ Any thoughts on what is causing it?
 
 ---
 
-**[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
+**[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-8h ago
+1h ago
 
 ---
 
 **[The anticipation](https://www.reddit.com/r/Bitcoin/comments/1plhlog/the_anticipation/)**
 
 2h ago
+
+---
+
+**[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
+
+8h ago
 
 ---
 
@@ -128,12 +134,6 @@ Any thoughts on what is causing it?
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
 14h ago
-
----
-
-**[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
-
-52m ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1d ago
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -201,12 +201,6 @@ The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
-
-x.com • 21h ago
-
----
-
 **[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
@@ -215,9 +209,17 @@ Forbes • 22h ago
 
 ---
 
-**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqdtjxrKABMztSIQtBZTEw714B2iGv0i9pdsDLjrR8zIdfLN67OhCHq7&gaa_ts=693d4fb8&gaa_sig=irH2JyWcCXStlDqVqelpACBwfgJasdNnU7n0yCo_DR5RdZu37-vMP8L2U7F-ZC3y6rlS6gAsHTdhmnd1wITeeQ%3D%3D)**
+**[Bitcoin price slides lower despite Fed interest rate cut](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-fed-interest-rate-cut-101325419.html)**
 
-MarketWatch • 1d ago
+The price of bitcoin and ether slipped lower on Thursday as Fed chair Jerome Powell signalled the central bank will proceed cautiously into 2026.
+
+Yahoo Finance UK • 2d ago
+
+---
+
+**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+
+x.com • 21h ago
 
 ---
 
@@ -359,7 +361,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 187 • ⏱️ 31:03 • 14h ago
+👁️ 32K • 👍 2K • 💬 187 • ⏱️ 31:03 • 15h ago
 
 ---
 
@@ -379,7 +381,7 @@ Welcome to the most blisteringly honest breakdown of the future you keep trying 
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 890 • 💬 89 • ⏱️ 14:56 • 21h ago
+👁️ 15K • 👍 890 • 💬 89 • ⏱️ 14:56 • 22h ago
 
 ---
 
