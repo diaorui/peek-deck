@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T17:18:57.076723+00:00'
+updated: '2025-12-13T17:35:17.764376+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 17:18 UTC  
+**Last Updated:** December 13, 2025 at 17:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,13 +45,21 @@ AI news, discussions, and developments
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 1h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 2h ago
 
 ---
 
 **[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
 
 🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 5h ago
+
+---
+
+**[Sam Altman Got What He Wanted](https://www.reddit.com/r/artificial/comments/1plowm2/sam_altman_got_what_he_wanted/)**
+
+For now
+
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 1h ago
 
 ---
 
@@ -71,19 +79,11 @@ I keep seeing tools that generate beautiful code and then fall apart when anythi
 
 ---
 
-**[Sam Altman Got What He Wanted](https://www.reddit.com/r/artificial/comments/1plowm2/sam_altman_got_what_he_wanted/)**
-
-For now
-
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 1h ago
-
----
-
 **[RIP American Tech Dominance](https://www.reddit.com/r/artificial/comments/1pl2cv0/rip_american_tech_dominance/)**
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 20h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 21h ago
 
 ---
 
@@ -123,36 +123,6 @@ NPR • 7h ago
 
 ---
 
-**[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
-
-A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
-
-NBC News • 6h ago
-
----
-
-**[China races ahead on AI —Trump warns America can't regulate itself into defeat](https://www.foxnews.com/opinion/china-races-ahead-ai-trump-warns-america-cant-regulate-itself-defeat)**
-
-President Donald Trump's AI executive order blocks state regulations to compete with China, but creates regulatory vacuum that could harm Americans without federal guardrails.
-
-Fox News • 1h ago
-
----
-
-**[How Microsoft’s Record India AI and Cloud Build-out (MSFT) Has Changed Its Investment Story](https://finance.yahoo.com/news/microsoft-record-india-ai-cloud-161103648.html)**
-
-Earlier this week, Microsoft said it will invest US$17.50 billion in India from 2026 to 2029 to expand AI and cloud infrastructure, including new data centers, sovereign cloud options, and large-scale skilling programs tied to national digital platforms. The move underlines how central India’s huge developer base and digital public infrastructure have become to Microsoft’s AI ambitions and competition with global cloud rivals. We’ll now explore how this record India AI and cloud build-out...
-
-Yahoo Finance • 1h ago
-
----
-
-**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
-
-Axios • 3h ago
-
----
-
 **[Oracle’s collapsing stock shows the AI boom is running into two hard limits: physics and debt markets](https://fortune.com/2025/12/13/oracle-stock-collapse-ai-boom-debt-data-centers-delayed/)**
 
 “The world of bits moves fast. The world of atoms doesn’t. And data centers are where those two worlds collide.”
@@ -161,11 +131,9 @@ Fortune • 7h ago
 
 ---
 
-**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
+**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
 
-California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
-
-The Guardian • 2h ago
+Axios • 4h ago
 
 ---
 
@@ -177,9 +145,35 @@ Financial Times • 12h ago
 
 ---
 
-**[Ranked: AI Competitiveness by Country](https://www.visualcapitalist.com/cp/ai-competitiveness-by-country/)**
+**[Trump cites Colorado in new executive order banning states from creating ‘cumbersome’ AI laws](https://www.cpr.org/2025/12/12/trump-artificial-intelligence-executive-order/)**
 
-Visual Capitalist • 1d ago
+Colorado's state law, passed in 2024, seeks to prevent discrimination in the AI systems that businesses and governments use in making key decisions, such as hiring, education and banking.
+
+Colorado Public Radio • 23h ago
+
+---
+
+**[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
+
+A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
+
+NBC News • 7h ago
+
+---
+
+**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
+
+California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
+
+The Guardian • 2h ago
+
+---
+
+**[When your AI boyfriend gets you better than your spouse](https://www.vox.com/podcasts/471982/chatgpt-boyfriend-love-dating-ai)**
+
+﻿Love, actually…is a chatbot?
+
+Vox • 5h ago
 
 ---
 
@@ -191,23 +185,29 @@ BBC • 23h ago
 
 ---
 
+**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+
+The New York Times • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
-
-**[French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://news.ycombinator.com/item?id=46231187)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-⬆️ 485 • 💬 282 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
-
----
 
 **[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://news.ycombinator.com/item?id=46248644)**
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 485 • 💬 242 • 20h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 495 • 💬 244 • 20h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+
+---
+
+**[French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://news.ycombinator.com/item?id=46231187)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+⬆️ 485 • 💬 283 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -223,7 +223,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 164 • 💬 115 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 164 • 💬 116 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -247,7 +247,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 80 • 💬 125 • 20h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 80 • 💬 125 • 21h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -285,7 +285,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 256K • 👍 12K • 💬 687 • ⏱️ 4:01 • 18h ago
+👁️ 256K • 👍 12K • 💬 687 • ⏱️ 4:01 • 19h ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,630 • 5d ago
+⬇️ 268,534 • ❤️ 2,633 • 5d ago
 
 ---
 
@@ -403,7 +403,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 119,786 • ❤️ 798 • 1d ago
+⬇️ 119,786 • ❤️ 801 • 1d ago
 
 ---
 
@@ -475,7 +475,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 516 • ❤️ 183 • 1d ago
+⬇️ 516 • ❤️ 184 • 1d ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.6k • 🔱 2.1k • 12h ago
+⭐ 13.6k • 🔱 2.1k • 13h ago
 
 ---
 

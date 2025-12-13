@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T17:18:57.092750+00:00'
+updated: '2025-12-13T17:35:17.782023+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 17:18 UTC  
+**Last Updated:** December 13, 2025 at 17:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ I just started working here and on friday afternoon the software crashed or to t
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 4h ago
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 5h ago
 
 ---
 
@@ -150,11 +150,19 @@ NVIDIA Developer • 2d ago
 
 ---
 
-**[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
+**[10X Gains? These 3 Robotics Stocks Could Explode by 2035](https://finance.yahoo.com/news/10x-gains-3-robotics-stocks-224600231.html)**
 
-Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
+Engineering expert Kuran outlines why Symbotic, Alphabet, and Hyundai are top robotics stocks for AI, automation and industrial growth.
 
-Deloitte • 3d ago
+Yahoo Finance • 3d ago
+
+---
+
+**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
+
+General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
+
+Scientific American • 6h ago
 
 ---
 
@@ -168,7 +176,7 @@ Chron • 3d ago
 
 Teradyne Robotics plans to open its U.S. headquarters near Detroit in 2026 to boost manufacturing for UR and MiR and better serve customers.
 
-The Robot Report • 21h ago
+The Robot Report • 22h ago
 
 ---
 
@@ -177,14 +185,6 @@ The Robot Report • 21h ago
 About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
 
 Nasdaq • 20h ago
-
----
-
-**[Vine-inspired robotic gripper gently lifts heavy and fragile objects](https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210)**
-
-Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
-
-MIT News • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 7K • 👍 55 • 💬 19 • ⏱️ 1:26 • 18h ago
+👁️ 7K • 👍 55 • 💬 19 • ⏱️ 1:26 • 19h ago
 
 ---
 

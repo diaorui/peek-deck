@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T17:18:57.089865+00:00'
+updated: '2025-12-13T17:35:17.778787+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 17:18 UTC  
+**Last Updated:** December 13, 2025 at 17:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +1.3%  
-**30d:** -0.1%  
-**90d:** -31.4%  
-**1y:** -19.9%  
+**24h:** -0.1%  
+**7d:** +1.1%  
+**30d:** -0.3%  
+**90d:** -31.5%  
+**1y:** -20.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.88B
+**Market Cap:** $374.03B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.2%
+-37.4%
 
 **All-Time Low:** $0.43
-+717251.2%
++715271.9%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 21h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 22h ago
 
 ---
 
@@ -152,14 +152,6 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 ## Google News: "ethereum"
 
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
-
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
-
-CoinDesk • 1d ago
-
----
-
 **[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
@@ -184,9 +176,11 @@ Yahoo Finance • 21h ago
 
 ---
 
-**[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
 
-Binance • 1d ago
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -195,6 +189,12 @@ Binance • 1d ago
 Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
+
+Binance • 1d ago
 
 ---
 

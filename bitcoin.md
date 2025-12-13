@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T17:18:57.084427+00:00'
+updated: '2025-12-13T17:35:17.772807+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 17:18 UTC  
+**Last Updated:** December 13, 2025 at 17:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
+**24h:** -0.4%  
 **7d:** -0.3%  
-**30d:** -4.8%  
+**30d:** -4.9%  
 **90d:** -21.8%  
 **1y:** -11.1%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1798.55B
+**Market Cap:** $1796.77B
 Rank #1
 
-**Circulating Supply:** 19,961,675 BTC
+**Circulating Supply:** 19,961,681 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.6%
 
 **All-Time Low:** $67.81
-+132803.7%
++132637.1%
 
 ---
 
@@ -91,6 +91,14 @@ This will age well in 10 years. See you then.
 
 ---
 
+**[Are We Still Early?](https://www.reddit.com/r/Bitcoin/comments/1plottv/are_we_still_early/)**
+
+Yes. Yes we are.
+
+1h ago
+
+---
+
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
 13h ago
@@ -105,17 +113,9 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 ---
 
-**[Are We Still Early?](https://www.reddit.com/r/Bitcoin/comments/1plottv/are_we_still_early/)**
-
-Yes. Yes we are.
-
-1h ago
-
----
-
 **[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -135,7 +135,7 @@ Any thoughts on what is causing it?
 
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -155,17 +155,19 @@ Reuters • 15h ago
 
 ---
 
-**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
 
-Investor's Business Daily • 15h ago
+Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
+
+Yahoo Finance • 4h ago
 
 ---
 
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.tradingview.com/news/reuters.com,2025:newsml_L1N3XJ00Q:0-bitcoin-hoarding-company-strategy-remains-in-nasdaq-100/)**
+**[Bitcoin Giant Strategy Keeps Spot in Nasdaq 100 Index](https://www.coindesk.com/business/2025/12/13/michael-saylor-s-strategy-hangs-on-to-spot-in-nasdaq-100-index)**
 
-Bitcoin hoarding giant Strategy NASDAQ:MSTR clung to its place in the Nasdaq 100 NASDAQ:NDX on Friday, continuing its year-long stint in the benchmark at a time where analysts have raised questions over its business model.         Some market watchers have suggested Strategy's pioneering business m…
+The Nasdaq 100 rebalance saw six companies dropped and three new additions, with changes taking effect on December 22, but Strategy's bitcoin-heavy strategy secured its spot.
 
-TradingView • 15h ago
+CoinDesk • 9m ago
 
 ---
 
@@ -177,19 +179,27 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Vanguard Exec Calls Bitcoin a ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
+
+Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
+
+CoinDesk • 11m ago
+
+---
+
 **[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
 
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
-**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://decrypt.co/352201/vanguard-exec-calls-bitcoin-digital-labubu-firm-offers-crypto-etf-trading)**
+**[Brazil’s Largest Asset Manager Recommends Investors Put Up to 3% of their Money in Bitcoin to Hedge Against FX, Market Shocks](https://www.coindesk.com/business/2025/12/13/brazil-s-largest-asset-manager-recommends-investors-put-up-to-3-of-their-money-in-bitcoin-to-hedge-against-fx-market-shocks)**
 
-The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
+The recommendation is in line with other global asset managers like BlackRock and Bank of America suggesting small portfolio allocations to the largest cryptocurrency.
 
-Decrypt • 19h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -199,25 +209,17 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+**[Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?](https://finance.yahoo.com/news/bitcoin-2030-price-prediction-btc-144212543.html)**
 
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+Bitcoin (CRYPTO: BTC) enters the final stretch of the decade with its biggest question yet: can BTC climb to the $500K–$1M range as adoption deepens and supply tightens? The past six months show how quickly momentum can shift, but the long-term picture depends on forces far bigger than short-term price swings. Spot Bitcoin ETFs, sovereign ... Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?
 
-Forbes • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
 x.com • 1d ago
-
----
-
-**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
-
-Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -237,7 +239,15 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 1 • 1h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 1h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+
+---
+
+**[Bitcoin creator Satoshi disappeared on this day 15 years ago](https://news.ycombinator.com/item?id=46256097)**
+
+Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
+
+⬆️ 2 • 💬 1 • 20m ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -293,12 +303,6 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ---
 
-**[Bringing Content Authenticity to Video Streaming: C2PA Integration with Bitmovin](https://news.ycombinator.com/item?id=46255322)**
-
-⬆️ 1 • 💬 0 • 1h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -329,7 +333,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 1K • 👍 98 • 💬 11 • ⏱️ 13:45 • 1h ago
+👁️ 1K • 👍 98 • 💬 11 • ⏱️ 13:45 • 2h ago
 
 ---
 
@@ -339,7 +343,7 @@ Chief Market Strategist Gareth Soloway gives institutional level analysis and in
 
 📺 Gareth Soloway
 
-👁️ 9K • 👍 1K • 💬 147 • ⏱️ 14:00 • 2h ago
+👁️ 9K • 👍 1K • 💬 147 • ⏱️ 14:00 • 3h ago
 
 ---
 
@@ -349,7 +353,7 @@ America is drowning in debt—and politicians aren't telling you the real soluti
 
 📺 Discover Crypto
 
-👁️ 639 • 👍 85 • 💬 12 • ⏱️ 7:25 • 1h ago
+👁️ 639 • 👍 85 • 💬 12 • ⏱️ 7:25 • 2h ago
 
 ---
 
@@ -379,7 +383,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 11K • 👍 641 • 💬 98 • ⏱️ 13:29 • 10h ago
+👁️ 11K • 👍 641 • 💬 98 • ⏱️ 13:29 • 11h ago
 
 ---
 
@@ -389,7 +393,7 @@ Get ready, because today's episode dives straight into the chaos rocking crypto 
 
 📺 A Chain of Blocks
 
-👁️ 25K • 👍 2K • 💬 131 • ⏱️ 14:39 • 18h ago
+👁️ 25K • 👍 2K • 💬 131 • ⏱️ 14:39 • 19h ago
 
 ---
 
