@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T01:56:15.112261+00:00'
+updated: '2025-12-13T03:18:30.460493+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 01:56 UTC  
+**Last Updated:** December 13, 2025 at 03:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.4%  
-**7d:** +0.4%  
-**30d:** -1.0%  
-**90d:** -32.0%  
-**1y:** -20.6%  
+**24h:** -4.8%  
+**7d:** +1.0%  
+**30d:** -0.4%  
+**90d:** -31.6%  
+**1y:** -20.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $371.96B
+**Market Cap:** $372.70B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.7%
+-37.5%
 
 **All-Time Low:** $0.43
-+711551.1%
++713678.3%
 
 ---
 
@@ -72,23 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
-
----
-
-**[Ethereal news weekly #2 | BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation](https://www.reddit.com/r/ethereum/comments/1pkr4j5/ethereal_news_weekly_2_bpo1_upgrade_increased/)**
-
-BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
-
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 13h ago
-
----
-
-**[New Proposal for a Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1pkr6dl/new_proposal_for_a_simplified_standard_for/)**
-
-Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
-
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 13h ago
+21h ago
 
 ---
 
@@ -96,7 +80,23 @@ Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by nu
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 6h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 7h ago
+
+---
+
+**[Ethereal news weekly #2 | BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation](https://www.reddit.com/r/ethereum/comments/1pkr4j5/ethereal_news_weekly_2_bpo1_upgrade_increased/)**
+
+BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
+
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 14h ago
+
+---
+
+**[New Proposal for a Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1pkr6dl/new_proposal_for_a_simplified_standard_for/)**
+
+Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
+
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 14h ago
 
 ---
 
@@ -120,7 +120,7 @@ Hi, total crypto newbie here. I need some guidance and expert advice on the best
 
 (This is an EVMavericks production.) During Devconnect 2025 in Buenos Aires, payment apps that bridge stablecoins to Argentina's peso economy were launching, updating, and competing for users. I tested as many of them as I could. Here's what worked, what didn't, and what you should know if you're planning a trip to Argentina with stablecoins in your wallet. Stablecoin Cards I had two debit cards before I started: Metamask and GnosisPay. These worked in most places that accept cards, but were denied a few times. Generally, if one card was denied, the other was as well, so clearly there is something slightly different about them from the card reader point of view. The most noticeable instance of this was Subte turnstiles, which accept bank-issued cards for subway travel, but rejected both of the stablecoin cards consistently. I didn't dare try the cards on the bus, for fear of the driver kicking me off. QR code Payments Many merchants, ranging from kiosks to grocery stores to restaurants accept payment via QR code, usually through Mercado Pago or MODO. The QR payment system is regulated by the Central Bank of Argentina under the Transferencias 3.0 initiative, which requires that all payment service providers and banks use the same standardized QR code generator. There are a number of Web3 apps which plug into this QR scaffolding, making it easy to pay using stablecoins via the apps, as long as you have Internet access. Usually, the merchant generates a QR code for you at the point of sale. You scan this code in the app and then confirm the transaction. Some smaller shops have a static QR code displayed near the cash register. You scan that for the merchant information and then enter the amount yourself, which then sends a confirmation of the amount paid to the checkout. Either way, once you confirm, the funds are debited from your account and the merchant receives pesos with a confirmation on their terminal that you paid. It's all very easy and straightforward. Merchants often reacted with surprise that I, clearly a tourist, was able to pay by QR code, so being able to interact with this system as an outsider is clearly still new. Some merchants only accepted direct transfers and did not have the terminal in order to generate a QR code. None of these apps were able to do a direct transfer in this way. P2P(dot)me The only payment system that I found which felt aligned to Decentralized Finance (permissionless and trustless within a reputation framework) was P2P(dot)me, a decentralized bridge between stablecoins and local bank/payment rails. They match USDC-fiat swaps using smart contracts on Base and a network of "human liquidity providers". At a coffee shop, I entered the cost of my order into the app, where I was matched with an offer taker who wanted to buy my USDC. Then I asked the server for a QR code to pay. I scanned that QR code, which was passed to the taker, who bought my USDC and paid my bill in pesos. It was a little bit slow but well within the tolerances of my coffee shop waitress. I tried it again in a shop where I didn't know how much the bill would be in advance. Even so, it was just fast enough for me to wait for my offer to be accepted and then scan the QR code before the terminal timed out, needing just a little patience from the shopkeeper. You are limited to one transaction a day up to a value of $10 USD unless you go through their zero-knowledge KYC to verify yourself as a user. The limit is raised to 10 transactions and a $100 limit if you verify using a social media account (X, Instagram, Facebook, GitHub). If you verify with LinkedIn or ZKpassport, the limit is raised to $200 per day. I can vouch for the fact that P2P(dot)me worked great in Buenos Aires. It is apparently also popular in India, Brazil and Indonesia. Peanut Cash The belle of the ball was Peanut Cash, with their hot pink messaging and aggressive social media campaign. Peanut allows you to send/request money from other users and to pay for services using QR codes. In order to use QR code payments, you have to KYC with an identity document and your residential information. The actual KYC is done by a third-party and varies somewhat by nationality. The payments are handled by Peanut and their banking/payment partners. Peanut offers perks, up to 20% cashback on specific transactions, based on a tier-based system of referrals and usage. The Chromium app uses passkeys saved with Apple or Google. You can transfer money out of the wallet that they created on your behalf but there is no way to gain control of it: you cannot access or export the private keys. They claim to be self-custodial, as they don't actually hold the funds and can't seize or spend them. I would call the wallet not custodial. During the conference, Peanut announced that you could now use RedATM cash points to withdraw cash from the app via QR, up to 500,000 pesos, which is much more than bank ATMs using foreign cards. This is a big deal: when I tried to use a debit card at a bank ATM, I was limited to 30,000 pesos, about twenty dollars, with a seven dollar transaction fee. Peanut Cash with RedATM allows withdrawals of up to 500,000 pesos with a fee of under $5, which was very useful for getting cash quickly. Yodl Yodl Pay allows you to deposit USDT and pay using QR payment systems in Argentina, Brazil, the Philippines and Vietnam. They also offer Yodl Go for P2P payments among other app users. It is non-KYC with the exception of Argentina. KYC for using the QR payment system within Argentina was through a third-party and asked for government-issued ID and address information. The Yodl mobile app is available through Apple Store/Google Play for iOS and Android users. On first use, the app generates an embedded wallet using Privy, allowing you to bypass Yodl completely and use Privy options to export your keys. I have no idea how to do this and I had to wade through their terms and conditions to even find that information. Instead, I simply withdrew the funds back to my own wallet. I had no issues paying with Yodl at any merchants who accepted QR payments; my only complaint would be that the app was sometimes slow to load. Settle Settle is a Farcaster-native wallet that offers crypto-to-crypto payments between users. Settle does not require KYC although obviously you must have a Farcaster account. They spent the week of the conference onboarding local cafés and restaurants and ended up with about two dozen locations in Buenos Aires by the time I left. The big difference between Settle and the other apps is that there is no conversion: the buyer and the seller are trading in stablecoins, rather than a conversion to pesos at the point of sale. Rather than cashback, specific locations offered discounts for paying with Settle, similar to existing discounts offered for paying in cash. I saw a few conference goers speak positively about crypto-adoption in Buenos Aires having seen the Settle signs. So far, they only have about two dozen merchants who accept direct crypto payments via Settle, but I hope the high profile of their merchant onboarding campaign might increase local acceptance of crypto payments. I didn't test it. Loading Farcaster and then the mini-app within Farcaster made me impatient, but mostly because I never ended up walking into any Settle-enabled locations. Takenos The Takenos app was aggressively marketed during the final days of the conference with friendly young locals handing out flyers in English and Spanish offering $5 free for immediate sign-up with a referral code. Takenos is a custodial "global wallet" that allows you to hold USDC/USDT as well as various fiat (USD/EUR/BRL/ARS). It is aimed at LatAM freelancers and small businesses and available in Spanish only. Takenos runs on bank/FinTech rails and offers users payment card options along with QR payments within Argentina, with conversion to Argentine pesos happening at the point of sale. There are two cards available, a "Spicy Card" for payments in Argentina and a US-issued "Take Card" for use abroad and online in foreign currencies. KYC is required. I went through the KYC requirements to be told three days later that my application was unsuccessful. I have a particular dislike for protocols that use KYC as an invisible application process for their supposedly permissionless service. If there are requirements, they should be made known before KYC. I emailed their support for comment. I did not receive a reply. Buenos Aires felt closer to crypto-native payments than anywhere else I've been. The solutions weren't perfect but they worked. Scan a code, send some stablecoins, walk away with an empanada. I'm currently visiting in the US, where the guy at the Walmart checkout laughed when I pulled out my phone to pay. No, they can't do contactless yet—do I have a physical card? I wouldn't wish the financial insecurity of Argentina on anyone, but I find myself missing these apps, especially the excitement of watching them grow and add features almost every day.
 
-1d ago
+2d ago
 
 ---
 
@@ -152,19 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
-
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
-
-CoinDesk • 10h ago
-
----
-
 **[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 5h ago
+Decrypt • 7h ago
+
+---
+
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
+
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
+
+CoinDesk • 12h ago
 
 ---
 
@@ -172,13 +172,13 @@ Decrypt • 5h ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
-Binance • 23h ago
+Binance • 1d ago
 
 ---
 
@@ -190,23 +190,17 @@ TradingView • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://finance.yahoo.com/news/tom-lee-bitmine-adds-112m-132425778.html)**
-
-Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
-
-Yahoo Finance • 1d ago
-
----
-
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
 The Block • 1d ago
 
 ---
 
-**[BitMine’s 5% Ethereum Accumulation Bet: Supply Shock and Market Implications](https://www.ccn.com/education/crypto/bitmine-5-ethereum-accumulation-supply-shock-market-implications/)**
+**[Crypto Today: Bitcoin, Ethereum hold steady as XRP ETF inflows surge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-aim-for-recovery-xrp-holds-key-support-202512121200)**
 
-CCN.com • 8h ago
+Bitcoin (BTC) is trading above $92,000 at the time of writing on Friday, as volatility across the cryptocurrency market cools following the Federal Reserve’s (Fed) hawkish interest rate cut.
+
+FXStreet • 15h ago
 
 ---
 
@@ -218,11 +212,17 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum hold steady as XRP ETF inflows surge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-aim-for-recovery-xrp-holds-key-support-202512121200)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfbWw5VcNCZsOiw_aSJbDTKsBsBxoYNjek7AQ7D9AS5JmUNB6kuD2wO&gaa_ts=693cde6d&gaa_sig=DZAB7BdQWWDYooX0hvG0aEReNi1DoVw3ciGdqVLWd28B_WDa1XhbB57Ys7jkqDS62pmSJH5yi6vYpmNCvajs0w%3D%3D)**
 
-Bitcoin (BTC) is trading above $92,000 at the time of writing on Friday, as volatility across the cryptocurrency market cools following the Federal Reserve’s (Fed) hawkish interest rate cut.
+Barron's • 1d ago
 
-FXStreet • 13h ago
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-latest-news-analyst-forecasts-and-whats-driving-the-ethereum-treasury-trade-dec-12-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
+
+ts2.tech • 12h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 417 • 💬 10 • ⏱️ 48:44 • 9h ago
+👁️ 6K • 👍 417 • 💬 10 • ⏱️ 48:44 • 10h ago
 
 ---
 
@@ -246,7 +246,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 904 • 💬 87 • ⏱️ 31:03 • 5h ago
+👁️ 11K • 👍 904 • 💬 87 • ⏱️ 31:03 • 6h ago
 
 ---
 
@@ -266,7 +266,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 254 • ⏱️ 10:23 • 1d ago
+👁️ 57K • 👍 3K • 💬 254 • ⏱️ 10:23 • 2d ago
 
 ---
 
@@ -276,7 +276,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 355 • ⏱️ 34:06 • 4h ago
+👁️ 3K • 👍 355 • ⏱️ 34:06 • 6h ago
 
 ---
 
@@ -306,7 +306,7 @@ Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 13K • 👍 624 • 💬 60 • ⏱️ 48:17 • 13h ago
+👁️ 13K • 👍 624 • 💬 60 • ⏱️ 48:17 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 12h ago
+👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 13h ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 2K • 👍 190 • 💬 39 • ⏱️ 18:06 • 3h ago
+👁️ 2K • 👍 190 • 💬 39 • ⏱️ 18:06 • 4h ago
 
 ---
 
