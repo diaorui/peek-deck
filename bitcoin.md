@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T16:41:59.295457+00:00'
+updated: '2025-12-13T16:55:40.016007+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 16:41 UTC  
+**Last Updated:** December 13, 2025 at 16:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.4%  
-**30d:** -5.0%  
-**90d:** -21.9%  
-**1y:** -11.2%  
+**24h:** +0.3%  
+**7d:** -0.3%  
+**30d:** -4.8%  
+**90d:** -21.8%  
+**1y:** -11.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.32B
+**Market Cap:** $1798.55B
 Rank #1
 
-**Circulating Supply:** 19,961,653 BTC
+**Circulating Supply:** 19,961,675 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.5%
 
 **All-Time Low:** $67.81
-+132889.2%
++132803.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 This will age well in 10 years. See you then.
 
-6h ago
+7h ago
 
 ---
 
@@ -97,17 +97,25 @@ This will age well in 10 years. See you then.
 
 ---
 
-**[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
-
-5h ago
-
----
-
 **[I've just set up my Secret Santa Miner](https://www.reddit.com/r/Bitcoin/comments/1plmw1n/ive_just_set_up_my_secret_santa_miner/)**
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
 2h ago
+
+---
+
+**[Are We Still Early?](https://www.reddit.com/r/Bitcoin/comments/1plottv/are_we_still_early/)**
+
+Yes. Yes we are.
+
+51m ago
+
+---
+
+**[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
+
+5h ago
 
 ---
 
@@ -137,14 +145,6 @@ Any thoughts on what is causing it?
 
 ---
 
-**[Are We Still Early?](https://www.reddit.com/r/Bitcoin/comments/1plottv/are_we_still_early/)**
-
-Yes. Yes we are.
-
-38m ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -161,11 +161,11 @@ Investor's Business Daily • 15h ago
 
 ---
 
-**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.tradingview.com/news/reuters.com,2025:newsml_L1N3XJ00Q:0-bitcoin-hoarding-company-strategy-remains-in-nasdaq-100/)**
 
-Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
+Bitcoin hoarding giant Strategy NASDAQ:MSTR clung to its place in the Nasdaq 100 NASDAQ:NDX on Friday, continuing its year-long stint in the benchmark at a time where analysts have raised questions over its business model.         Some market watchers have suggested Strategy's pioneering business m…
 
-Yahoo Finance • 1d ago
+TradingView • 15h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1d ago
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -190,14 +190,6 @@ Bitcoin Magazine • 21h ago
 The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
 
 Decrypt • 18h ago
-
----
-
-**[American Bitcoin (ABTC): Reassessing Valuation After a 60% Share Price Slide](https://finance.yahoo.com/news/american-bitcoin-abtc-reassessing-valuation-140658407.html)**
-
-American Bitcoin stock moves: recent slide puts valuation back in focus American Bitcoin (ABTC) has slipped sharply over the past month, with the stock down more than 60% and trailing Bitcoin itself, pushing investors to reassess how much downside may already be priced in. See our latest analysis for American Bitcoin. That sharp 30 day share price return of negative 63.89 percent has effectively flipped sentiment on American Bitcoin, with the latest $1.78 share price leaving year to date...
-
-Yahoo Finance • 2h ago
 
 ---
 
@@ -221,6 +213,14 @@ x.com • 1d ago
 
 ---
 
+**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
+
+Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
+
+Yahoo Finance • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -230,6 +230,14 @@ x.com • 1d ago
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
 ⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/kladskull/xEroS)
+
+---
+
+**[Silk Road-linked Bitcoin wallets move $3M to new address](https://news.ycombinator.com/item?id=46255488)**
+
+Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
+
+⬆️ 2 • 💬 1 • 56m ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -246,14 +254,6 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
 ⬆️ 1 • 💬 1 • 1d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
-
----
-
-**[Silk Road-linked Bitcoin wallets move $3M to new address](https://news.ycombinator.com/item?id=46255488)**
-
-Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
-
-⬆️ 1 • 💬 0 • 42m ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -329,7 +329,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 10K • 👍 752 • 💬 272 • ⏱️ 18:04 • 20h ago
+👁️ 10K • 👍 752 • 💬 272 • ⏱️ 18:04 • 21h ago
 
 ---
 
@@ -339,7 +339,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 238 • ⏱️ 31:03 • 19h ago
+👁️ 39K • 👍 2K • 💬 238 • ⏱️ 31:03 • 20h ago
 
 ---
 
@@ -349,7 +349,7 @@ Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com I
 
 📺 Benjamin Cowen
 
-👁️ 29K • 👍 611 • 💬 17 • ⏱️ 0:43 • 21h ago
+👁️ 29K • 👍 611 • 💬 17 • ⏱️ 0:43 • 22h ago
 
 ---
 

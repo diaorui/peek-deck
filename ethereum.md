@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T16:41:59.301507+00:00'
+updated: '2025-12-13T16:55:40.021345+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 16:41 UTC  
+**Last Updated:** December 13, 2025 at 16:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,25 +44,25 @@ Live Ethereum monitoring dashboard
 
 **24h:** +1.4%  
 **7d:** +1.5%  
-**30d:** +0.0%  
-**90d:** -31.3%  
-**1y:** -19.8%  
+**30d:** +0.1%  
+**90d:** -31.2%  
+**1y:** -19.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.59B
+**Market Cap:** $374.88B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-37.2%
 
 **All-Time Low:** $0.43
-+718290.5%
++717251.2%
 
 ---
 
@@ -190,11 +190,11 @@ Binance • 1d ago
 
 ---
 
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
+**[Arthur Hayes Makes Wild Ethereum Prediction for 2026 and Beyond](https://finance.yahoo.com/news/arthur-hayes-makes-wild-ethereum-185705661.html)**
 
-Sentiment around Ethereum has been bouncing around considerably in recent days.
+Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -220,11 +220,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Key Hyperunit whale expands Ethereum position amid weak prices](https://www.fxstreet.com/cryptocurrencies/news/key-hyperunit-whale-expands-ethereum-position-amid-weak-prices-202512130434)**
+**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
 
-A major crypto whale has opened a long position in Ethereum (ETH) worth more than half a billion dollars on the Hyperliquid exchange.
+BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
 
-FXStreet • 12h ago
+CryptoSlate • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 238 • ⏱️ 31:03 • 19h ago
+👁️ 39K • 👍 2K • 💬 238 • ⏱️ 31:03 • 20h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 122 • 💬 2 • ⏱️ 4:36 • 14h ago
+👁️ 2K • 👍 122 • 💬 2 • ⏱️ 4:36 • 15h ago
 
 ---
 

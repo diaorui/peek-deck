@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T16:41:59.286955+00:00'
+updated: '2025-12-13T16:55:40.008449+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 16:41 UTC  
+**Last Updated:** December 13, 2025 at 16:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -43,9 +43,15 @@ AI news, discussions, and developments
 
 ---
 
+**[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 1h ago
+
+---
+
 **[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
 
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 4h ago
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 5h ago
 
 ---
 
@@ -53,7 +59,7 @@ AI news, discussions, and developments
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 23h ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 1d ago
 
 ---
 
@@ -62,6 +68,14 @@ Snippet: Across the country, a small but growing number of educators are experim
 I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
 
 1h ago
+
+---
+
+**[Sam Altman Got What He Wanted](https://www.reddit.com/r/artificial/comments/1plowm2/sam_altman_got_what_he_wanted/)**
+
+For now
+
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 48m ago
 
 ---
 
@@ -81,12 +95,6 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 ---
 
-**[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 1h ago
-
----
-
 **[Creative workers won't be replaced by AI, they will become 'directors' managing AI agents | Fortune](https://www.reddit.com/r/artificial/comments/1pl4u1n/creative_workers_wont_be_replaced_by_ai_they_will/)**
 
 AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
@@ -95,19 +103,11 @@ AI agents are taking over some routine creative tasks, but executives say the sh
 
 ---
 
-**[Sam Altman Got What He Wanted](https://www.reddit.com/r/artificial/comments/1plowm2/sam_altman_got_what_he_wanted/)**
+**[The world’s smallest AI supercomputer: Tiiny Ai Pocket Lab — size of a power bank](https://www.reddit.com/r/artificial/comments/1pleuqm/the_worlds_smallest_ai_supercomputer_tiiny_ai/)**
 
-For now
+The world's smallest AI supercomputer packs enough power to run 120 billion parameter models in a device small enough to slip into your pocket. Tiiny AI’s Pocket Lab pushes server-grade capabilities into a handheld form factor aimed at researchers, tinkerers, and everyday users.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 34m ago
-
----
-
-**[I built an AI app that helps visualize room decor before buying — feedback welcome](https://www.reddit.com/r/artificial/comments/1plojba/i_built_an_ai_app_that_helps_visualize_room_decor/)**
-
-Hey everyone! I've been working on a project that I thought might be useful to share here. After spending way too much money on furniture that didn't quite work in my space, I decided to build a tool to help visualize how items would look before purchasing. https://play.google.com/store/apps/details?id=com.athar.decor.ai
-
-50m ago
+🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 10h ago
 
 ---
 
@@ -115,17 +115,49 @@ Hey everyone! I've been working on a project that I thought might be useful to s
 
 ## Google News: "ai"
 
+**[Trump tech adviser David Sacks under fire over vast AI investments](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts)**
+
+Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
+
+NPR • 6h ago
+
+---
+
+**[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
+
+A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
+
+NBC News • 6h ago
+
+---
+
+**[China races ahead on AI —Trump warns America can't regulate itself into defeat](https://www.foxnews.com/opinion/china-races-ahead-ai-trump-warns-america-cant-regulate-itself-defeat)**
+
+President Donald Trump's AI executive order blocks state regulations to compete with China, but creates regulatory vacuum that could harm Americans without federal guardrails.
+
+Fox News • 57m ago
+
+---
+
+**[How Microsoft’s Record India AI and Cloud Build-out (MSFT) Has Changed Its Investment Story](https://finance.yahoo.com/news/microsoft-record-india-ai-cloud-161103648.html)**
+
+Earlier this week, Microsoft said it will invest US$17.50 billion in India from 2026 to 2029 to expand AI and cloud infrastructure, including new data centers, sovereign cloud options, and large-scale skilling programs tied to national digital platforms. The move underlines how central India’s huge developer base and digital public infrastructure have become to Microsoft’s AI ambitions and competition with global cloud rivals. We’ll now explore how this record India AI and cloud build-out...
+
+Yahoo Finance • 44m ago
+
+---
+
+**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
+
+Axios • 3h ago
+
+---
+
 **[Oracle’s collapsing stock shows the AI boom is running into two hard limits: physics and debt markets](https://fortune.com/2025/12/13/oracle-stock-collapse-ai-boom-debt-data-centers-delayed/)**
 
 “The world of bits moves fast. The world of atoms doesn’t. And data centers are where those two worlds collide.”
 
 Fortune • 6h ago
-
----
-
-**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
-
-The New York Times • 1d ago
 
 ---
 
@@ -137,33 +169,17 @@ The Guardian • 1h ago
 
 ---
 
-**[China races ahead on AI —Trump warns America can't regulate itself into defeat](https://www.foxnews.com/opinion/china-races-ahead-ai-trump-warns-america-cant-regulate-itself-defeat)**
-
-President Donald Trump's AI executive order blocks state regulations to compete with China, but creates regulatory vacuum that could harm Americans without federal guardrails.
-
-Fox News • 43m ago
-
----
-
-**[OpenAI isn't too big to fail. It's bigger.](https://www.axios.com/2025/12/13/open-ai-too-big-to-fail)**
-
-Axios • 2h ago
-
----
-
-**[Trump tech adviser David Sacks under fire over vast AI investments](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts)**
-
-Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
-
-NPR • 6h ago
-
----
-
 **[Could America win the AI race but lose the war?](https://www.ft.com/content/12581344-6e37-45a0-a9d5-e3d6a9f8d9ba)**
 
 The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
 
 Financial Times • 11h ago
+
+---
+
+**[Ranked: AI Competitiveness by Country](https://www.visualcapitalist.com/cp/ai-competitiveness-by-country/)**
+
+Visual Capitalist • 1d ago
 
 ---
 
@@ -175,22 +191,6 @@ BBC • 22h ago
 
 ---
 
-**[Trump cites Colorado in new executive order banning states from creating ‘cumbersome’ AI laws](https://www.cpr.org/2025/12/12/trump-artificial-intelligence-executive-order/)**
-
-Colorado's state law, passed in 2024, seeks to prevent discrimination in the AI systems that businesses and governments use in making key decisions, such as hiring, education and banking.
-
-Colorado Public Radio • 22h ago
-
----
-
-**[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
-
-What if the best use of AI is restarting the world’s idea machine?
-
-Vox • 3h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -199,7 +199,7 @@ Vox • 3h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 482 • 💬 282 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 485 • 💬 282 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -207,15 +207,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 473 • 💬 242 • 20h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
-
----
-
-**[DeepSeek uses banned Nvidia chips for AI model, report says](https://news.ycombinator.com/item?id=46219853)**
-
-Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
-
-⬆️ 327 • 💬 315 • 3d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 485 • 💬 242 • 20h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -235,6 +227,14 @@ A summary of the techniques in place to protect my git forge
 
 ---
 
+**[Using secondary school maths to demystify AI](https://news.ycombinator.com/item?id=46245731)**
+
+Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
+
+⬆️ 120 • 💬 237 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+
+---
+
 **[A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://news.ycombinator.com/item?id=46233067)**
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
@@ -243,19 +243,11 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 ---
 
-**[Using secondary school maths to demystify AI](https://news.ycombinator.com/item?id=46245731)**
-
-Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
-
-⬆️ 118 • 💬 234 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
-
----
-
 **[New Kindle feature uses AI to answer questions about books](https://news.ycombinator.com/item?id=46248417)**
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 79 • 💬 125 • 20h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 80 • 💬 125 • 20h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -263,7 +255,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 42 • 💬 56 • 3h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 46 • 💬 61 • 3h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -272,6 +264,14 @@ The White House has promised to quadruple nuclear power by 2050.
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
 ⬆️ 42 • 💬 5 • 1d ago • [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)
+
+---
+
+**[Amazon pulls AI-powered Fallout recap after getting key story details wrong](https://news.ycombinator.com/item?id=46246921)**
+
+Amazon has pulled its AI-powered Fallout Season 1 recap after fans noticed it made significant errors ahead of the launch of Season 2.
+
+⬆️ 39 • 💬 9 • 22h ago • [IGN](https://www.ign.com/articles/everyone-disliked-that-amazon-pulls-ai-powered-fallout-recap-after-getting-key-story-details-wrong)
 
 ---
 
@@ -427,7 +427,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 13,668 • ❤️ 308 • 1d ago
+⬇️ 13,668 • ❤️ 309 • 1d ago
 
 ---
 
@@ -660,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.5k • 🔱 281 • 32m ago
+⭐ 2.5k • 🔱 281 • 46m ago
 
 ---
 
