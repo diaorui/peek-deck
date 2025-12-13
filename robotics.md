@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T19:25:50.120715+00:00'
+updated: '2025-12-13T19:38:33.307487+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 19:25 UTC  
+**Last Updated:** December 13, 2025 at 19:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ I just started working here and on friday afternoon the software crashed or to t
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 6h ago
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 7h ago
 
 ---
 
@@ -98,7 +98,7 @@ Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon 
 
 Hello guys. I’m a mechanical engineering student and i’m mostly involved in aviation applications until now. My mum had cancer in 2012 and now I’m a bit curious about some engineering approaches to cancer. I’ve seen some researchers used micro robots to deliver drugs to tumor. Can you enlighten me about this, how future looks like on this matter?
 
-3h ago
+4h ago
 
 ---
 
@@ -178,7 +178,7 @@ Chron • 3d ago
 
 Teradyne Robotics plans to open its U.S. headquarters near Detroit in 2026 to boost manufacturing for UR and MiR and better serve customers.
 
-The Robot Report • 23h ago
+The Robot Report • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 8K • 👍 57 • 💬 20 • ⏱️ 1:26 • 20h ago
+👁️ 8K • 👍 57 • 💬 20 • ⏱️ 1:26 • 21h ago
 
 ---
 

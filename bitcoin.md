@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T19:25:50.112685+00:00'
+updated: '2025-12-13T19:38:33.297247+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 19:25 UTC  
+**Last Updated:** December 13, 2025 at 19:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,301.35
+### $90,530.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -0.4%  
-**30d:** -4.9%  
-**90d:** -21.8%  
-**1y:** -11.2%  
+**24h:** +0.2%  
+**7d:** -0.1%  
+**30d:** -4.7%  
+**90d:** -21.7%  
+**1y:** -11.0%  
 
 ---
 
@@ -93,7 +93,7 @@ Yes. Yes we are.
 
 **[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid improvements to UI, security, and portfolio management. Some highlights of this release: Added 2FA Support for BTC transfers (not just buy/sell) Fixed and improved DB migrations Updated Next.js to address a critical security vulnerability I haven’t posted in a while, but during that time — driven by community requests — I added several bigger features, including: DCA calculator with goal tracking Auto DCA setup Portfolio analysis A dynamic dashboard with customizable widgets (and more) Along the way, I also revamped the UI (mobile still needs some polish), added theme presets, and cleaned things up overall. You can try it on Umbrel, run it with Docker, or install it standalone via npm. Repo: https://github.com/wilqq-the/BTC-Tracker Umbrel app: https://apps.umbrel.com/app/btctracker Feedback and ideas are always welcome — we’re slowly building this together 🙏 Discord: https://discord.gg/WyxSZv3a
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid 
 
 Any thoughts on what is causing it?
 
-20h ago
+21h ago
 
 ---
 
@@ -193,7 +193,7 @@ CoinDesk • 2h ago
 
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
-Bitcoin Magazine • 23h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -337,7 +337,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 4K • 👍 274 • 💬 27 • ⏱️ 13:45 • 3h ago
+👁️ 4K • 👍 274 • 💬 27 • ⏱️ 13:45 • 4h ago
 
 ---
 
@@ -347,7 +347,7 @@ America is drowning in debt—and politicians aren't telling you the real soluti
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 116 • 💬 16 • ⏱️ 7:25 • 3h ago
+👁️ 1K • 👍 116 • 💬 16 • ⏱️ 7:25 • 4h ago
 
 ---
 
@@ -387,7 +387,7 @@ Chief Market Strategist Gareth Soloway gives institutional level analysis and in
 
 📺 Gareth Soloway
 
-👁️ 15K • 👍 2K • 💬 186 • ⏱️ 14:00 • 4h ago
+👁️ 15K • 👍 2K • 💬 186 • ⏱️ 14:00 • 5h ago
 
 ---
 

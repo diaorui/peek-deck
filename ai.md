@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T19:25:50.105368+00:00'
+updated: '2025-12-13T19:38:33.288999+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 19:25 UTC  
+**Last Updated:** December 13, 2025 at 19:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,7 @@ AI news, discussions, and developments
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 3h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 4h ago
 
 ---
 
@@ -83,7 +83,7 @@ I keep seeing tools that generate beautiful code and then fall apart when anythi
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 22h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 23h ago
 
 ---
 
@@ -99,7 +99,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
 
-47m ago
+59m ago
 
 ---
 
@@ -127,7 +127,7 @@ Colorado Public Radio • 1d ago
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 5h ago
+Vox • 6h ago
 
 ---
 
@@ -149,7 +149,7 @@ OpenAI • 2d ago
 
 Disney has a licensing deal with OpenAI now, by the way.
 
-Gizmodo • 22m ago
+Gizmodo • 35m ago
 
 ---
 
@@ -157,7 +157,7 @@ Gizmodo • 22m ago
 
 Some Tesla models now feature Grok, an AI assistant with a controversial track record. Could putting AI in the driver’s seat be a dangerous move?
 
-USA Today • 27m ago
+USA Today • 40m ago
 
 ---
 
@@ -165,7 +165,7 @@ USA Today • 27m ago
 
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
 
-NBC News • 8h ago
+NBC News • 9h ago
 
 ---
 
@@ -255,7 +255,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 58 • 💬 57 • 3h ago
+⬆️ 58 • 💬 57 • 4h ago
 
 ---
 
@@ -576,6 +576,18 @@ A large-scale dataset collection, The Well, provides diverse numerical simulatio
 
 ---
 
+**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
+
+*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
+
+A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
+
+▲ 6 • 💬 1 • ⭐ 50,988 • 13mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
+
+---
+
 **[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
 
 *Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
@@ -625,18 +637,6 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 ▲ 111 • 💬 4 • ⭐ 5,767 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
-
----
-
-**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
-
-*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
-
-MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
-
-▲ 35 • 💬 4 • ⭐ 50,354 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
 ---
 
@@ -720,7 +720,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 887 • 🔱 23 • 6d ago
+⭐ 888 • 🔱 23 • 6d ago
 
 ---
 
@@ -740,7 +740,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 674 • 🔱 97 • 4d ago
+⭐ 675 • 🔱 97 • 4d ago
 
 ---
 
