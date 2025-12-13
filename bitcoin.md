@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T11:21:50.525368+00:00'
+updated: '2025-12-13T11:33:53.265625+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 11:21 UTC  
+**Last Updated:** December 13, 2025 at 11:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +0.3%  
-**30d:** -4.3%  
-**90d:** -21.3%  
-**1y:** -10.6%  
+**24h:** -2.1%  
+**7d:** +0.0%  
+**30d:** -4.5%  
+**90d:** -21.5%  
+**1y:** -10.8%  
 
 ---
 
@@ -107,7 +107,7 @@ Any thoughts on what is causing it?
 
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -127,13 +127,13 @@ Any thoughts on what is causing it?
 
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-13h ago
+14h ago
 
 ---
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-28m ago
+41m ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 18h ago
 
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 16h ago
 
 ---
 
@@ -197,7 +197,7 @@ Decrypt • 13h ago
 
 Bitcoin may be down this year, but price targets for next year are off the charts.
 
-The Motley Fool • 36m ago
+The Motley Fool • 48m ago
 
 ---
 
@@ -253,7 +253,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 3d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 

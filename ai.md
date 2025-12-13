@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T11:21:50.517017+00:00'
+updated: '2025-12-13T11:33:53.257207+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 11:21 UTC  
+**Last Updated:** December 13, 2025 at 11:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 14h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 15h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 1d ago
 
 Colorado's state law, passed in 2024, seeks to prevent discrimination in the AI systems that businesses and governments use in making key decisions, such as hiring, education and banking.
 
-Colorado Public Radio • 16h ago
+Colorado Public Radio • 17h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Washington Post • 16h ago
 
 The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest.
 
-NPR • 20m ago
+NPR • 32m ago
 
 ---
 
@@ -175,7 +175,7 @@ Los Angeles Times • 1d ago
 
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
 
-NBC News • 51m ago
+NBC News • 1h ago
 
 ---
 
@@ -257,7 +257,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 116 • 💬 222 • 18h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 116 • 💬 222 • 19h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -265,7 +265,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 76 • 💬 120 • 14h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 76 • 💬 120 • 15h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -295,7 +295,7 @@ FULL AI COURSE HERE https://brainprojectai.com/courses/launch-your-ai-influencer
 
 📺 Brain Project
 
-👁️ 5K • 👍 309 • 💬 45 • ⏱️ 14:19 • 19h ago
+👁️ 5K • 👍 309 • 💬 45 • ⏱️ 14:19 • 20h ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.2k • 🔱 2.1k • 6h ago
+⭐ 13.2k • 🔱 2.1k • 7h ago
 
 ---
 

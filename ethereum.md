@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T11:21:50.531260+00:00'
+updated: '2025-12-13T11:33:53.271536+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 11:21 UTC  
+**Last Updated:** December 13, 2025 at 11:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -3.7%  
-**7d:** +2.1%  
-**30d:** +0.7%  
-**90d:** -30.8%  
-**1y:** -19.2%  
+**7d:** +2.0%  
+**30d:** +0.5%  
+**90d:** -30.9%  
+**1y:** -19.3%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 15h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 16h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 432 • 💬 14 • ⏱️ 48:44 • 18h ago
+👁️ 6K • 👍 432 • 💬 14 • ⏱️ 48:44 • 19h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 141 • 💬 9 • ⏱️ 5:04 • 21h ago
+👁️ 3K • 👍 141 • 💬 9 • ⏱️ 5:04 • 22h ago
 
 ---
 

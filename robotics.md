@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T11:21:50.534454+00:00'
+updated: '2025-12-13T11:33:53.274745+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 11:21 UTC  
+**Last Updated:** December 13, 2025 at 11:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
 
-25m ago
+37m ago
 
 ---
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -94,7 +94,7 @@ The whole setup (belt motion, detection triggers, timing, etc.) is built inside 
 
 Hi guys, I want to know what you guys think where we can use RL to actually fill the gaps for classical algorithms.. I really really think this can be a good to overcoming adaptation of tuning used for visual odometry pipeline( Davide's published a paper on this)..but still it would need a sim to make it learn..and then there will be sim to real transfer...am thinking is there a way to just use datasets and go ahead with it.. Am trying to find the relevant problems in visual odometry..
 
-17h ago
+18h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 3d ago
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 14m ago
+Scientific American • 26m ago
 
 ---
 
