@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T23:26:57.728232+00:00'
+updated: '2025-12-13T23:41:12.951575+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 23:26 UTC  
+**Last Updated:** December 13, 2025 at 23:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -48,7 +48,7 @@ Live Bitcoin monitoring dashboard
 **7d:** -0.2%  
 **30d:** -4.8%  
 **90d:** -21.7%  
-**1y:** -11.1%  
+**1y:** -11.0%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ Yes. Yes we are.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 21h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 21h ago
+Investor's Business Daily • 22h ago
 
 ---
 
@@ -199,7 +199,7 @@ Investor's Business Daily • 1d ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 3h ago
+x.com • 4h ago
 
 ---
 
@@ -303,13 +303,23 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ## YouTube Videos: "bitcoin"
 
+**[&quot;My 2026 Bitcoin Prediction Will Offend Both Bulls and Bears&quot; - Raoul Pal Blows Hot!](https://www.youtube.com/watch?v=5tnxmCQE6X8)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 162 • 💬 15 • ⏱️ 21:16 • 3h ago
+
+---
+
 **[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 161 • 💬 8 • ⏱️ 21:14 • 8h ago
+👁️ 3K • 👍 169 • 💬 9 • ⏱️ 21:14 • 8h ago
 
 ---
 
@@ -319,7 +329,27 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • 💬 24 • ⏱️ 48:39 • 9h ago
+👁️ 31K • 👍 2K • 💬 24 • ⏱️ 48:39 • 9h ago
+
+---
+
+**[A MASSIVE Bitcoin BREAKOUT Coming NEXT WEEK! Bitcoin Price Prediction December 2025!](https://www.youtube.com/watch?v=WEKxvbrN18I)**
+
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
+
+📺 Crypto Jebb
+
+👁️ 4K • 👍 334 • 💬 96 • ⏱️ 14:22 • 4h ago
+
+---
+
+**[HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News!](https://www.youtube.com/watch?v=2NvsmJHSRcs)**
+
+HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S FREE CRYPTO WEALTH NEWSLETTER: ...
+
+📺 Austin Hilton
+
+👁️ 9K • 👍 516 • 💬 27 • ⏱️ 5:30 • 7h ago
 
 ---
 
@@ -329,27 +359,27 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 8K • 👍 378 • 💬 35 • ⏱️ 13:45 • 7h ago
+👁️ 11K • 👍 450 • 💬 110 • ⏱️ 13:45 • 8h ago
 
 ---
 
-**[Michael Saylor: Bitcoin CRASH, MSTR Drop &amp; BTC Analysis](https://www.youtube.com/watch?v=SeEgUzrZIlE)**
+**[bitcoin: we are in danger...](https://www.youtube.com/watch?v=4DmpqbcxyYc)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
 
-📺 Starwin Narkthongpet
+📺 Crypto Kid
 
-👁️ 5K • 👍 3K • 3h ago
+👁️ 907 • 👍 107 • 💬 87 • ⏱️ 8:12 • 1h ago
 
 ---
 
-**[Bitcoin Can SAVE America! (Debt Crisis Solution NOBODY Talks About)](https://www.youtube.com/watch?v=7wsf5P-_eQs)**
+**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=-4IIRMaj4oc)**
 
-America is drowning in debt—and politicians aren't telling you the real solution. In this video, we break down how Bitcoin could ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
 
-📺 Discover Crypto
+📺 SoCal Watch Reviews
 
-👁️ 2K • 👍 138 • 💬 18 • ⏱️ 7:25 • 7h ago
+👁️ 4K • 👍 5K • 36m ago
 
 ---
 
@@ -359,47 +389,17 @@ these 6 boring habits don't look impressive… but they're how I plan to win wit
 
 📺 BTC Isla
 
-👁️ 15K • 👍 1K • 💬 250 • ⏱️ 10:24 • 1d ago
+👁️ 16K • 👍 2K • 💬 225 • ⏱️ 10:24 • 1d ago
 
 ---
 
-**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
+**[Bitcoin Can SAVE America! (Debt Crisis Solution NOBODY Talks About)](https://www.youtube.com/watch?v=7wsf5P-_eQs)**
 
-EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
+America is drowning in debt—and politicians aren't telling you the real solution. In this video, we break down how Bitcoin could ...
 
-📺 Altcoin Daily
+📺 Discover Crypto
 
-👁️ 48K • 👍 2K • 💬 283 • ⏱️ 31:03 • 1d ago
-
----
-
-**[Michael Saylor: BITCOIN CRASH EXPLAINED! MASSIVE BTC DUMP &amp; What&#39;s Next for Crypto?](https://www.youtube.com/watch?v=MTSl-sIBOrM)**
-
-Bitcoin #BTC #CryptoCrash Michael Saylor returns to break down the shocking Bitcoin crash shaking the crypto markets.
-
-📺 Starwin Narkthongpet
-
-👁️ 3K • 👍 4K • 2h ago
-
----
-
-**[Why is NOBODY Talking About This Bitcoin Setup!?!?!?!?](https://www.youtube.com/watch?v=3HL_QUxu3t0)**
-
-Join BroFi VIP ⁣ https://enter.brofi.com/ytdesc X: https://x.com/samiloyal_ ⁣FREE Telegram Alerts Channel:⁣ ...
-
-📺 Forflies
-
-👁️ 296 • 👍 41 • 💬 96 • ⏱️ 19:45 • 3h ago
-
----
-
-**[Bitcoin Warning: This Changes Everything (WATCH ASAP) 💥 Crypto News &amp; Analysis Today 📰](https://www.youtube.com/watch?v=ETVzHS3BlX4)**
-
-Join our FREE Crypto Telegram https://t.me/CryptoCacheTrading & Discord https://discord.gg/PJv2gykpb7 Bitunix Exchange ...
-
-📺 CryptoCache
-
-👁️ 1K • 👍 134 • 💬 21 • ⏱️ 18:10 • 6h ago
+👁️ 2K • 👍 151 • 💬 67 • ⏱️ 7:25 • 8h ago
 
 ---
 

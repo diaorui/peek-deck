@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T23:26:57.719621+00:00'
+updated: '2025-12-13T23:41:12.942989+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- repositories
 - videos
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 23:26 UTC  
+**Last Updated:** December 13, 2025 at 23:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,7 @@ AI news, discussions, and developments
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 7h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 8h ago
 
 ---
 
@@ -59,7 +59,7 @@ AI news, discussions, and developments
 
 My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ NPR • 13h ago
 
 **[Purdue University Approves New AI Requirement For All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)**
 
-Forbes • 11h ago
+Forbes • 12h ago
 
 ---
 
@@ -153,7 +153,7 @@ Yahoo Finance • 2h ago
 
 Another gain of almost 1,500% is unlikely, and this could change how shareholders view the stock.
 
-The Motley Fool • 21m ago
+The Motley Fool • 36m ago
 
 ---
 
@@ -177,7 +177,7 @@ Financial Times • 18h ago
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 9h ago
+Vox • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ Vox • 9h ago
 
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
 
-NBC News • 12h ago
+NBC News • 13h ago
 
 ---
 
@@ -227,7 +227,7 @@ A summary of the techniques in place to protect my git forge
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 157 • 💬 202 • 7h ago
+⬆️ 157 • 💬 202 • 8h ago
 
 ---
 
@@ -281,17 +281,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 79K • 👍 2K • 💬 255 • ⏱️ 1:21:07 • 11h ago
-
----
-
-**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
-
-I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
-
-📺 CaylusBlox
-
-👁️ 450K • 👍 11K • 💬 2K • ⏱️ 13:43 • 2d ago
+👁️ 96K • 👍 2K • 💬 325 • ⏱️ 1:21:07 • 11h ago
 
 ---
 
@@ -301,7 +291,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 290K • 👍 13K • 💬 747 • ⏱️ 4:01 • 1d ago
+👁️ 303K • 👍 13K • 💬 760 • ⏱️ 4:01 • 1d ago
 
 ---
 
@@ -311,7 +301,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 855 • 💬 298 • ⏱️ 16:19 • 8h ago
+👁️ 14K • 👍 975 • 💬 353 • ⏱️ 16:19 • 8h ago
 
 ---
 
@@ -321,7 +311,17 @@ Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------
 
 📺 GEN
 
-👁️ 40K • 👍 3K • 💬 447 • ⏱️ 22:33 • 1d ago
+👁️ 44K • 👍 3K • 💬 465 • ⏱️ 22:33 • 1d ago
+
+---
+
+**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
+
+I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
+
+📺 CaylusBlox
+
+👁️ 458K • 👍 11K • 💬 2K • ⏱️ 13:43 • 2d ago
 
 ---
 
@@ -331,27 +331,27 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 35K • 👍 1K • 💬 224 • ⏱️ 15:01 • 23h ago
+👁️ 36K • 👍 1K • 💬 228 • ⏱️ 15:01 • 23h ago
 
 ---
 
-**[Paris’s AI Barber Pod 3.0 Will Blow Your Mind! 🤯 Next-Level Haircut ✅](https://www.youtube.com/watch?v=zA4FbVEC3lc)**
+**[AGI Just Became Real... It’s done!](https://www.youtube.com/watch?v=L8J3OSQfcT4)**
 
-Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut in seconds, thanks to futuristic tech you won't believe ...
+A Tokyo startup just shocked the industry. Integral AI claims it built the first AGI-capable system — a model that learns new skills ...
 
-📺 Smart Tales
+📺 AI Revolution
 
-👁️ 4K • 👍 43 • ⏱️ 0:08 • 3h ago
+👁️ 50K • 👍 2K • 💬 341 • ⏱️ 14:58 • 1d ago
 
 ---
 
-**[The AI Jobs Crash is COMING... And We&#39;re Not Even CLOSE to Ready](https://www.youtube.com/watch?v=cXeRtejbj1E)**
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=RxCG7MSt0pk)**
 
-AI is NOT the bubble... the real bubble is jobs. Entire industries are on the verge of disappearing, and college degrees are rapidly ...
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
 
-📺 Glenn Beck Clips
+📺 Impossible AIs
 
-👁️ 38K • 👍 1K • 💬 455 • ⏱️ 11:23 • 2d ago
+👁️ 89K • 👍 339 • 💬 10 • ⏱️ 8:26 • 1d ago
 
 ---
 
@@ -361,17 +361,17 @@ FULL AI COURSE HERE https://brainprojectai.com/courses/launch-your-ai-influencer
 
 📺 Brain Project
 
-👁️ 6K • 👍 383 • 💬 60 • ⏱️ 14:19 • 1d ago
+👁️ 7K • 👍 388 • 💬 61 • ⏱️ 14:19 • 1d ago
 
 ---
 
-**[Create AI UGC Ads With Nano Banana That ACTUALLY Look REAL](https://www.youtube.com/watch?v=YbztbmMtDZM)**
+**[AI bubble CRASHES in crypto debt disaster](https://www.youtube.com/watch?v=CaHD4_IJ59Q)**
 
-How to Create AI Influencer Ads with Nano Banana PRO that ACTUALLY look REAL Try Arcads AI ...
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 Dan Kieft
+📺 Chris Norlund
 
-👁️ 21K • 💬 9 • ⏱️ 13:22 • 1d ago
+👁️ 91K • 👍 6K • 💬 845 • ⏱️ 12:40 • 1d ago
 
 ---
 

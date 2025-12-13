@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T23:26:57.734281+00:00'
+updated: '2025-12-13T23:41:12.957626+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 23:26 UTC  
+**Last Updated:** December 13, 2025 at 23:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +1.7%  
-**30d:** +0.3%  
+**24h:** +1.1%  
+**7d:** +1.9%  
+**30d:** +0.4%  
 **90d:** -31.1%  
-**1y:** -19.6%  
+**1y:** -19.5%  
 
 ---
 
@@ -240,17 +240,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 283 • ⏱️ 31:03 • 1d ago
-
----
-
-**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
-
-Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 446 • 💬 14 • ⏱️ 48:44 • 1d ago
+👁️ 50K • 👍 2K • 💬 276 • ⏱️ 31:03 • 1d ago
 
 ---
 
@@ -260,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 97 • 💬 1 • ⏱️ 4:05 • 5h ago
+👁️ 2K • 👍 118 • 💬 3 • ⏱️ 4:05 • 6h ago
 
 ---
 
@@ -274,13 +264,23 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 ---
 
+**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
+
+Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
+
+📺 Discover Crypto
+
+👁️ 7K • 👍 447 • 💬 14 • ⏱️ 48:44 • 1d ago
+
+---
+
 **[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 161 • 💬 8 • ⏱️ 21:14 • 8h ago
+👁️ 3K • 👍 169 • 💬 9 • ⏱️ 21:14 • 8h ago
 
 ---
 
@@ -290,7 +290,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 254 • ⏱️ 10:23 • 2d ago
+👁️ 59K • 👍 3K • 💬 254 • ⏱️ 10:23 • 2d ago
 
 ---
 
@@ -300,7 +300,17 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 737 • 💬 42 • ⏱️ 11:29 • 2d ago
+👁️ 19K • 👍 738 • 💬 42 • ⏱️ 11:29 • 2d ago
+
+---
+
+**[BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wW7XFfYMF7g)**
+
+BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 245 • 💬 26 • ⏱️ 18:12 • 4h ago
 
 ---
 
@@ -321,16 +331,6 @@ ETH isn't just lagging — its story broke. It's down ~3× more than BTC from th
 📺 Ryan’s Money Lab
 
 👁️ 4K • 👍 184 • 💬 25 • ⏱️ 15:43 • 2d ago
-
----
-
-**[BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wW7XFfYMF7g)**
-
-BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 168 • 💬 7 • ⏱️ 18:12 • 4h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T23:26:57.737573+00:00'
+updated: '2025-12-13T23:41:12.960871+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 23:26 UTC  
+**Last Updated:** December 13, 2025 at 23:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -200,7 +200,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 195K • 👍 6K • 💬 471 • ⏱️ 17:44 • 3d ago
+👁️ 200K • 👍 6K • 💬 474 • ⏱️ 17:44 • 3d ago
 
 ---
 
@@ -210,27 +210,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 113K • 👍 2K • 💬 677 • ⏱️ 14:26 • 5d ago
-
----
-
-**[Unitree Debuts the World’s First Humanoid Robot “App Store”](https://www.youtube.com/watch?v=AEhnXtBEC_E)**
-
-Unitree welcomes users and developers worldwide to co-develop and share together. Exceptional developers will receive ...
-
-📺 Unitree Robotics
-
-👁️ 7K • 👍 216 • 💬 42 • ⏱️ 0:35 • 18h ago
-
----
-
-**[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
-
-PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
-
-📺 LIGHTS ARE OFF
-
-👁️ 332K • 👍 22K • 💬 2K • ⏱️ 8:45 • 15h ago
+👁️ 115K • 👍 2K • 💬 689 • ⏱️ 14:26 • 5d ago
 
 ---
 
@@ -240,27 +220,17 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 89K • 👍 1K • 💬 453 • ⏱️ 0:41 • 5d ago
+👁️ 91K • 👍 1K • 💬 453 • ⏱️ 0:41 • 5d ago
 
 ---
 
-**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+**[Unitree Debuts the World’s First Humanoid Robot “App Store”](https://www.youtube.com/watch?v=AEhnXtBEC_E)**
 
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+Unitree welcomes users and developers worldwide to co-develop and share together. Exceptional developers will receive ...
 
-📺 Associated Press
+📺 Unitree Robotics
 
-👁️ 9K • 👍 59 • 💬 20 • ⏱️ 1:26 • 1d ago
-
----
-
-**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
-
-Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
-
-📺 TheAIGRID
-
-👁️ 18K • 👍 500 • 💬 113 • ⏱️ 42:48 • 6d ago
+👁️ 8K • 👍 227 • 💬 43 • ⏱️ 0:35 • 18h ago
 
 ---
 
@@ -270,27 +240,55 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 62K • 👍 636 • 💬 13 • ⏱️ 0:09 • 1d ago
+👁️ 63K • 👍 650 • 💬 15 • ⏱️ 0:09 • 1d ago
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=0Z8lyW1FCZg)**
+**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
 
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
 
-📺 Humanoid Robot 🤖
+📺 TheAIGRID
 
-👁️ 24K • 👍 306 • 💬 2 • ⏱️ 0:18 • 16h ago
+👁️ 19K • 👍 502 • 💬 113 • ⏱️ 42:48 • 6d ago
 
 ---
 
-**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
+**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
 
-Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
 
-📺 Kalil 4.0
+📺 Associated Press
 
-👁️ 22K • 👍 197 • 💬 24 • ⏱️ 0:27 • 6d ago
+👁️ 10K • 👍 63 • 💬 21 • ⏱️ 1:26 • 1d ago
+
+---
+
+**[#elonmusk unveils the #tesla Cyber Drone X2 #hoverbike #robotics #ai #drone](https://www.youtube.com/watch?v=rHxdy_4K2UM)**
+
+📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+
+👁️ 51K • 👍 651 • 💬 14 • ⏱️ 0:11 • 1d ago
+
+---
+
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+
+📺 The Straits Times
+
+👁️ 190K • 👍 901 • 💬 283 • ⏱️ 0:47 • 4d ago
+
+---
+
+**[#AI Robot Harvesting Tomatoes | Smart Farming Technology #farming](https://www.youtube.com/watch?v=Bx7YHShiyEw)**
+
+In this video, an AI-powered agricultural robot is harvesting tomatoes inside a greenhouse. This smart farming technology helps ...
+
+📺 Neural Fantasy
+
+👁️ 461K • ⏱️ 0:07 • 16h ago
 
 ---
 
