@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T06:15:09.537496+00:00'
+updated: '2025-12-13T06:47:54.555863+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 06:15 UTC  
+**Last Updated:** December 13, 2025 at 06:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,21 +34,7 @@ Robotics research and industry news
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
-15h ago
-
----
-
-**[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
-
-22h ago
-
----
-
-**[Motors](https://www.reddit.com/r/robotics/comments/1pl5f4p/motors/)**
-
-Hello, I am currently building a small biped. Ideally, I would like some flat BLDC motors; however, in America, it's nearly impossible to find affordable ones. Doesn't need to be anything crazy, but everything I find is 150-300 bucks, and given that I'll need ~6-8 of them, that's not affordable. With that, I was wondering if anyone had any sites/companies they prefer to go to for motors? If not, I am highly considering making my own. A $20 crucible to melt some Home Depot metal and make my own stators sounds much more appealing than spending hundreds of bucks. I am a student that can go to the makerspace at my school, so I do have options to manufacture from scratch, just not sure if its worth the time. Anyones take on this?
-
-7h ago
+16h ago
 
 ---
 
@@ -57,6 +43,20 @@ Hello, I am currently building a small biped. Ideally, I would like some flat BL
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 1h ago
+
+---
+
+**[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
+
+23h ago
+
+---
+
+**[Motors](https://www.reddit.com/r/robotics/comments/1pl5f4p/motors/)**
+
+Hello, I am currently building a small biped. Ideally, I would like some flat BLDC motors; however, in America, it's nearly impossible to find affordable ones. Doesn't need to be anything crazy, but everything I find is 150-300 bucks, and given that I'll need ~6-8 of them, that's not affordable. With that, I was wondering if anyone had any sites/companies they prefer to go to for motors? If not, I am highly considering making my own. A $20 crucible to melt some Home Depot metal and make my own stators sounds much more appealing than spending hundreds of bucks. I am a student that can go to the makerspace at my school, so I do have options to manufacture from scratch, just not sure if its worth the time. Anyones take on this?
+
+8h ago
 
 ---
 
@@ -78,7 +78,7 @@ The whole setup (belt motion, detection triggers, timing, etc.) is built inside 
 
 Hi guys, I want to know what you guys think where we can use RL to actually fill the gaps for classical algorithms.. I really really think this can be a good to overcoming adaptation of tuning used for visual odometry pipeline( Davide's published a paper on this)..but still it would need a sim to make it learn..and then there will be sim to real transfer...am thinking is there a way to just use datasets and go ahead with it.. Am trying to find the relevant problems in visual odometry..
 
-12h ago
+13h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hi guys, I want to know what you guys think where we can use RL to actually fill
 
 ROS News for the Week of December 8th, 2025    🎄 All we want for Christmas is for you to become a Build Farm Backer! The ROS Build Farm is one of the largest public Jenkins instances in the world, and it is also one of our largest expenses. If you’ve ever saved yourself a few hours of compile time by downloading one of our pre-compiled ROS binaries, please consider pitching in to support our server costs. The money raised by this campaign goes directly to the OSRF, a 501(c)(3) non...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 9h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 10h ago
 
 ---
 
@@ -110,19 +110,19 @@ https://preview.redd.it/dim7ospl8n6g1.jpg?width=551&format=pjpg&auto=webp&s=8c75
 
 ## Google News: "robotics"
 
+**[Zebra Technologies winding down Fetch-based mobile robot group](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/)**
+
+Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
+
+The Robot Report • 16h ago
+
+---
+
 **[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
 
 Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
 
 IEEE Spectrum • 2d ago
-
----
-
-**[Zebra Technologies winding down Fetch-based mobile robot group](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/)**
-
-Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
-
-The Robot Report • 15h ago
 
 ---
 
@@ -134,19 +134,19 @@ Deloitte • 3d ago
 
 ---
 
-**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://finance.yahoo.com/news/mercado-libre-agility-robotics-announce-130000794.html)**
-
-MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
-
-Yahoo Finance • 2d ago
-
----
-
 **[Video: How Boston Dynamics’ humanoid robot achieves creepy stand-up move](https://interestingengineering.com/ai-robotics/atlas-robot-standing-up-motion-explained)**
 
 A closer look at Atlas’s unconventional get-up motion shows how the robot tests balance and hardware before committing to a full stand.
 
 Interesting Engineering • 2d ago
+
+---
+
+**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
+
+The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
+
+AP News • 7h ago
 
 ---
 
@@ -158,17 +158,11 @@ Shore Daily News • 1d ago
 
 ---
 
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
-
-Chron • 2d ago
-
----
-
 **[Serve Robotics, Inc. Rings the Closing Bell](https://www.nasdaq.com/events/serve-robotics-inc-rings-closing-bell)**
 
 About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
 
-Nasdaq • 9h ago
+Nasdaq • 10h ago
 
 ---
 
@@ -177,6 +171,12 @@ Nasdaq • 9h ago
 Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
 
 NVIDIA Developer • 1d ago
+
+---
+
+**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+
+Chron • 2d ago
 
 ---
 
@@ -258,7 +258,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 21K • 👍 319 • 💬 5 • ⏱️ 0:09 • 14h ago
+👁️ 21K • 👍 319 • 💬 5 • ⏱️ 0:09 • 15h ago
 
 ---
 
@@ -278,7 +278,7 @@ An emotional and powerful moment An Indian lady soldier surprises Dadi by giftin
 
 📺 Little chucha 
 
-👁️ 4K • ⏱️ 0:41 • 39m ago
+👁️ 4K • ⏱️ 0:41 • 1h ago
 
 ---
 

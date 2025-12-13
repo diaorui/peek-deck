@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T06:15:09.528050+00:00'
+updated: '2025-12-13T06:47:54.546566+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 06:15 UTC  
+**Last Updated:** December 13, 2025 at 06:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -2.3%  
-**7d:** -0.0%  
+**7d:** -0.1%  
 **30d:** -4.6%  
 **90d:** -21.6%  
 **1y:** -10.9%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.16B
+**Market Cap:** $1803.20B
 Rank #1
 
 **Circulating Supply:** 19,961,468 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.4%
 
 **All-Time Low:** $67.81
-+133054.4%
++133109.0%
 
 ---
 
@@ -83,23 +83,29 @@ Rank #1
 
 ---
 
-**[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
+**[This pattern seems suspiciously consistent](https://www.reddit.com/r/Bitcoin/comments/1pl5b8l/this_pattern_seems_suspiciously_consistent/)**
 
-11h ago
+Any thoughts on what is causing it?
+
+8h ago
 
 ---
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-11h ago
+12h ago
 
 ---
 
-**[This pattern seems suspiciously consistent](https://www.reddit.com/r/Bitcoin/comments/1pl5b8l/this_pattern_seems_suspiciously_consistent/)**
+**[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-Any thoughts on what is causing it?
+12h ago
 
-7h ago
+---
+
+**[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
+
+3h ago
 
 ---
 
@@ -107,7 +113,7 @@ Any thoughts on what is causing it?
 
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-8h ago
+9h ago
 
 ---
 
@@ -119,21 +125,9 @@ C’mon Bitcoin, you can do it
 
 ---
 
-**[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
-
-2h ago
-
----
-
 **[And Bitcoin is going strong](https://www.reddit.com/r/Bitcoin/comments/1pl7ekk/and_bitcoin_is_going_strong/)**
 
 6h ago
-
----
-
-**[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
-
-18h ago
 
 ---
 
@@ -141,7 +135,13 @@ C’mon Bitcoin, you can do it
 
 How did people buy bitcoin before exchanges?
 
-4h ago
+5h ago
+
+---
+
+**[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
+
+18h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 4h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -183,14 +183,6 @@ x.com • 16h ago
 
 ---
 
-**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
-
-Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
-
-Yahoo Finance • 2d ago
-
----
-
 **[The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o)**
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
@@ -199,27 +191,33 @@ BBC • 2d ago
 
 ---
 
-**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
+**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
-Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Bloomberg.com • 13h ago
-
----
-
-**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
-
-Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
-
-Bitcoin Magazine • 1d ago
+Forbes • 17h ago
 
 ---
 
-**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://decrypt.co/352201/vanguard-exec-calls-bitcoin-digital-labubu-firm-offers-crypto-etf-trading)**
+**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqcTzzr3227xlAMUPZ8-epeF7ZRNl-ci3EZagcGNEJ63Jr-FFsOPhAE_&gaa_ts=693d0f86&gaa_sig=KPYGn1DbqrFOnsZ1pcNdbdz3m9J_ph1Daz30_K4fiPIBYgoGXJcI5X56I1UxLRjBPTqm954Sc9DNcxGx31nODw%3D%3D)**
 
-The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
+MarketWatch • 1d ago
 
-Decrypt • 8h ago
+---
+
+**[Here’s Why Bitcoin Is Falling Despite the Fed's Rate Cut](https://decrypt.co/351949/heres-why-bitcoin-is-falling-despite-the-feds-rate-cut)**
+
+Analysts say the Fed’s rate cut was priced in, driving Bitcoin lower as risks like sticky inflation and the 2026 election cycle mount.
+
+Decrypt • 2d ago
+
+---
+
+**[Bitcoin Isn’t Buying What the Fed Is Selling: Here’s What the Charts Suggest Happens Next](https://finance.yahoo.com/news/bitcoin-isn-t-buying-fed-182426754.html)**
+
+So much for that post-Fed relief rally. Bitcoin and Ethereum are again trending downwards, and the charts suggest bears are in control.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -343,7 +341,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 213 • ⏱️ 46:26 • 13h ago
+👁️ 23K • 👍 1K • 💬 213 • ⏱️ 46:26 • 14h ago
 
 ---
 
@@ -373,7 +371,7 @@ Welcome to the most blisteringly honest breakdown of the future you keep trying 
 
 📺 Swan Bitcoin
 
-👁️ 14K • 👍 855 • 💬 87 • ⏱️ 14:56 • 16h ago
+👁️ 14K • 👍 855 • 💬 87 • ⏱️ 14:56 • 17h ago
 
 ---
 
@@ -403,7 +401,7 @@ Bitcoin #Crypto #Finance Today's episode breaks down one of the biggest developm
 
 📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 1K • 💬 353 • ⏱️ 24:40 • 15h ago
+👁️ 18K • 👍 1K • 💬 353 • ⏱️ 24:40 • 16h ago
 
 ---
 

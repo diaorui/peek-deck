@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T06:15:09.534172+00:00'
+updated: '2025-12-13T06:47:54.552616+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 06:15 UTC  
+**Last Updated:** December 13, 2025 at 06:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,090.46
+### $3,087.04
 
 ---
 
@@ -46,33 +46,49 @@ Live Ethereum monitoring dashboard
 **7d:** +0.8%  
 **30d:** -0.6%  
 **90d:** -31.7%  
-**1y:** -20.2%  
+**1y:** -20.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.50B
+**Market Cap:** $372.99B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.6%
+-37.5%
 
 **All-Time Low:** $0.43
-+713015.4%
++713627.5%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion December 13, 2025](https://www.reddit.com/r/ethereum/comments/1ple806/daily_general_discussion_december_13_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+46m ago
+
+---
 
 **[Daily General Discussion December 12, 2025](https://www.reddit.com/r/ethereum/comments/1pkkhsl/daily_general_discussion_december_12_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[New Proposal for a Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1pkr6dl/new_proposal_for_a_simplified_standard_for/)**
+
+Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
+
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 17h ago
 
 ---
 
@@ -88,15 +104,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 10h ago
-
----
-
-**[New Proposal for a Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1pkr6dl/new_proposal_for_a_simplified_standard_for/)**
-
-Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
-
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 17h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 11h ago
 
 ---
 
@@ -140,14 +148,6 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 ---
 
-**[Daily General Discussion December 10, 2025](https://www.reddit.com/r/ethereum/comments/1piv1ac/daily_general_discussion_december_10_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,7 +164,7 @@ CoinDesk • 15h ago
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 9h ago
+Decrypt • 10h ago
 
 ---
 
@@ -204,7 +204,7 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcyVNBzhjaN3XG2WmgepX0U7QuvKAo5PmihN2-nE6WSZlS5QsRi3grg&gaa_ts=693d021d&gaa_sig=4CwKWSOCgOspr41lkQMpW5wRdQW9dfG1KnMIB1aHF8DKOstJPCLpiWiw_2Jrq1PXVLU7BNwKKz62E2nYyRHABQ%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqd1JRiFTrKFmguNPCmTgVs8-q3GxLj2svASyIMi22weUfaibD5qLpLe&gaa_ts=693d0f88&gaa_sig=UKny7DIJXgBS-fOYXKQlvyjsQzpgFCPCRz3VSNIvoVEAk5Uuh4tRz-oPCn3fAGtVH0u2xZCyV6JkOrao53SFAA%3D%3D)**
 
 Barron's • 1d ago
 
@@ -246,7 +246,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 424 • 💬 13 • ⏱️ 48:44 • 13h ago
+👁️ 6K • 👍 424 • 💬 13 • ⏱️ 48:44 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 5K • 👍 258 • 💬 55 • ⏱️ 18:06 • 7h ago
+👁️ 5K • 👍 258 • 💬 55 • ⏱️ 18:06 • 8h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 16h ago
+👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 17h ago
 
 ---
 

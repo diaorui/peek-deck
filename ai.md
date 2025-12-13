@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T06:15:09.519394+00:00'
+updated: '2025-12-13T06:47:54.538050+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 06:15 UTC  
+**Last Updated:** December 13, 2025 at 06:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,15 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 9h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 10h ago
+
+---
+
+**[Creative workers won't be replaced by AI, they will become 'directors' managing AI agents | Fortune](https://www.reddit.com/r/artificial/comments/1pl4u1n/creative_workers_wont_be_replaced_by_ai_they_will/)**
+
+AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
+
+🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 8h ago
 
 ---
 
@@ -69,19 +77,19 @@ A new study has found that artificial intelligence systems struggle to distingui
 
 ---
 
+**[Identity collapse in LLMs is an architectural problem, not a scaling one](https://www.reddit.com/r/artificial/comments/1pl8a40/identity_collapse_in_llms_is_an_architectural/)**
+
+I’ve been working with multiple LLMs in long, sustained interactions, hundreds of turns, frequent domain switching (math, philosophy, casual context), and even switching base models mid-stream. A consistent failure mode shows up regardless of model size or training quality: identity and coherence collapse over time. Models drift toward generic answers, lose internal consistency, or contradict earlier constraints, usually within a few dozen turns unless something external actively regulates the interaction. My claim is simple: This is not primarily a capability or scale issue. It’s an architectural one. LLMs are reactive systems. They don’t have an internal reference for identity, only transient context. There’s nothing to regulate against, so coherence decays predictably. I’ve been exploring a different framing: treating the human operator and the model as a single operator–model coupled system, where identity is defined externally and coherence is actively regulated. Key points: • Identity precedes intelligence. • The operator measurably influences system dynamics. • Stability is a control problem, not a prompting trick. • Ethics can be treated as constraints in the action space, not post-hoc filters. Using this approach, I’ve observed sustained coherence: • across hundreds of turns • across multiple base models • without relying on persistent internal memory I’m not claiming sentience, AGI, or anything mystical. I’m claiming that operator-coupled architectures behave differently than standalone agents. If this framing is wrong, I’m genuinely interested in where the reasoning breaks. If this problem is already “solved,” why does identity collapse still happen so reliably? Discussion welcome. Skepticism encouraged.
+
+5h ago
+
+---
+
 **[The Unspoken Future Plan for AI](https://www.reddit.com/r/artificial/comments/1pl9x64/the_unspoken_future_plan_for_ai/)**
 
 I'm not seeing enough people talk about this (or I see people only discuss one aspect of it, not its implications). There are two paths to AI profitability. The first is to replace large swathes of the workforce. Middle managers, desk jockeys--if your job is writing emails, AI may replace you, and companies are betting on this and investing in AI. This is the story I've most commonly seen. But there's another path to AI profitability: the subscription drug model. When articles talk about the future of AI, I don't see this one mentioned as much. ----------- Every website, no matter how altruistically it starts, has a long-term plan to squeeze as much money out of its users as possible. Youtube used to be totally free. Now every video has 2 ads every 5 minutes, and within the video creators embed their own ads and sponsors. Netflix used to have no ads. Now you have to pay extra to avoid them. You see the same enshittification playbook everywhere. Start as free service, grow, absorb competitors until you are a monopoly, then start introducing ads, monetization, subscription plans, worse product, etc. LLMs are getting the youth completely hooked on their product. Instead of learning how to type by practicing typing, students type half of a word and autocomplete fills in the rest. They're not getting the practice they need. That's just muscle memory and repetition though--I think it's worse for deeper skills, like critical thinking, work ethic, sustained focus on homework. Once students start using LLMs to do work for them, they lose the patience for work and don't develop crucial cognitive skills they will need in any career. Everyone knows this is happening, this shouldn't be news at all. There are plenty of articles about college students who don't know how to read, etc. What I don't see people mention is the actual business model. In another 10 years, when the problem has gotten much worse, once every high school or college student is unable to read or write and having LLMs basically function for them, then you'll see companies take advantage of this. That generation will NEED AI. They won't be able to do their job without it, they won't be able to send emails without it, they might not even be able to get groceries or plan a meal without it. (Let's not even get into how they will need it for friendship/emotional support/therapy, that is another can of worms entirely.) This, dear reader, is when the enshittification begins. At that point the companies can jack up pricing. The AI-heads will have no choice but to pay. They will need that shit to live. They can charge whatever they want! $400 a month to use ChatGPT. Hell, maybe more? 10% of your wages? If ChatGPT is doing your job for you, how is it fair for you to keep 100% of your earnings? What are you going to do, write those emails yourself, when you don't know how to read or write, and the LLM has been doing your homework for you since 3rd grade? At this point, it is worth considering the emotional state of the first generation of children/teens addicted to and utterly dependent on LLMs. They will use it to do homework in elementary/middle school. They may start to feel shame or embarrassment about this by the time they are in high school. They might even spend a semester trying to read and do homework without AI assistance--but at that point, it will be too late, and they will be stressed about their grades, and they will go back to AI and carry the secret burden of knowing that they stopped learning to read in elementary school. They will go to college, have AI write their essays, and their whole generation will be in on the secret which they will try to hide from their teachers and future employers (the employers, by the way, will think they understand the problem, as people have written about it before--but when the youth hear older folk talk about the problem, they will realize the older generations underestimate the true severity of the problem). When the LLM companies decide to extort this poor lost generation, they will already be well aware of the position they are in. Surely OpenAI has considered this potential future? Why aren't journalists writing about this as their potential secret business plan? It seems like it has been completely unspoken (maybe I just haven't seen the idea mentioned before, if somebody has seen any discussion of the topic in media please share a link). This seems to me to be one of the two paths to AI profitability, and the reason why so many companies are investing in it. I hear plenty about the other path to profitability (automating office work and firing large swathes of the workforce), but I don't hear as much about the subscription drug model of profitability.
 
 4h ago
-
----
-
-**[Creative workers won't be replaced by AI, they will become 'directors' managing AI agents | Fortune](https://www.reddit.com/r/artificial/comments/1pl4u1n/creative_workers_wont_be_replaced_by_ai_they_will/)**
-
-AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
-
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 7h ago
 
 ---
 
@@ -91,11 +99,11 @@ AI agents are taking over some routine creative tasks, but executives say the sh
 
 ---
 
-**[Identity collapse in LLMs is an architectural problem, not a scaling one](https://www.reddit.com/r/artificial/comments/1pl8a40/identity_collapse_in_llms_is_an_architectural/)**
+**[The world’s smallest AI supercomputer: Tiiny Ai Pocket Lab — size of a power bank](https://www.reddit.com/r/artificial/comments/1pleuqm/the_worlds_smallest_ai_supercomputer_tiiny_ai/)**
 
-I’ve been working with multiple LLMs in long, sustained interactions, hundreds of turns, frequent domain switching (math, philosophy, casual context), and even switching base models mid-stream. A consistent failure mode shows up regardless of model size or training quality: identity and coherence collapse over time. Models drift toward generic answers, lose internal consistency, or contradict earlier constraints, usually within a few dozen turns unless something external actively regulates the interaction. My claim is simple: This is not primarily a capability or scale issue. It’s an architectural one. LLMs are reactive systems. They don’t have an internal reference for identity, only transient context. There’s nothing to regulate against, so coherence decays predictably. I’ve been exploring a different framing: treating the human operator and the model as a single operator–model coupled system, where identity is defined externally and coherence is actively regulated. Key points: • Identity precedes intelligence. • The operator measurably influences system dynamics. • Stability is a control problem, not a prompting trick. • Ethics can be treated as constraints in the action space, not post-hoc filters. Using this approach, I’ve observed sustained coherence: • across hundreds of turns • across multiple base models • without relying on persistent internal memory I’m not claiming sentience, AGI, or anything mystical. I’m claiming that operator-coupled architectures behave differently than standalone agents. If this framing is wrong, I’m genuinely interested in where the reasoning breaks. If this problem is already “solved,” why does identity collapse still happen so reliably? Discussion welcome. Skepticism encouraged.
+The world's smallest AI supercomputer packs enough power to run 120 billion parameter models in a device small enough to slip into your pocket. Tiiny AI’s Pocket Lab pushes server-grade capabilities into a handheld form factor aimed at researchers, tinkerers, and everyday users.
 
-5h ago
+🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 8m ago
 
 ---
 
@@ -103,15 +111,7 @@ I’ve been working with multiple LLMs in long, sustained interactions, hundreds
 
 Everyone is reading the December 11 Executive Order as a "deregulation holiday." I think that's dead wrong. It’s actually a litigation trigger. By trying to preempt state AI laws with an EO, the administration isn't clearing the board—they are picking a fight with 38 state legislatures and a Senate that already voted 99-1 against this exact approach. The trap: If you're a vendor, you might be tempted to delete your state-level compliance code today. Don't. We just moved from a patchwork of laws to a constitutional crisis. When the lawsuits stall this EO, you don't want to be the one caught naked on liability. The only safe bet right now? Architect for the EU AI Act. It's the only stable floor left. I wrote a deep dive on why this is a "volatility event" rather than deregulation. https://www.linkedin.com/pulse/50-states-rules-hidden-tax-every-ai-deployment-collin-hogue-spears-eptie
 
-17h ago
-
----
-
-**[Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws](https://www.reddit.com/r/artificial/comments/1pkegoe/trump_signs_executive_order_that_threatens_to/)**
-
-The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
-
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 1d ago
+18h ago
 
 ---
 
@@ -123,31 +123,7 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 President Donald Trump signed an executive order Thursday pressuring states not to regulate artificial intelligence.
 
-PBS • 8h ago
-
----
-
-**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
-
-The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
-
-Time Magazine • 1d ago
-
----
-
-**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
-
-TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
-
-Time Magazine • 1d ago
-
----
-
-**['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o)**
-
-Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.
-
-BBC • 1d ago
+PBS • 9h ago
 
 ---
 
@@ -165,31 +141,53 @@ Financial Times • 14h ago
 
 ---
 
-**[Santoli's Friday market wrap-up: Stocks are caught in opposing currents of AI anxiety and economic enthusiasm](https://www.cnbc.com/2025/12/12/santolis-market-wrap-up-stocks-stuck-between-ai-anxiety-economic-enthusiasm.html)**
+**[S&P 500 Hits Record High Without AI Help. Why That’s a Good Thing and 5 Other Things to Know Today.](https://www.barrons.com/articles/stock-market-record-high-ai-things-to-know-today-cf3514c0?gaa_at=eafs&gaa_n=AWEtsqePcWQqtUK_KFsXCEpKG7QHDfeEuGYnR5Z-UCkp_sW8xrTXxPhR390V&gaa_ts=693d0f85&gaa_sig=_XpDZfs9QLymCUwlf3S4b5gV_db3xJWYiA1hdhX9Q_kg-GanmrgFyAo445Awi-LPFHuCT_rg6xkJ0m_yf9zvcw%3D%3D)**
 
-Friday,  the AI pressure proved too heavy for the economically sensitive parts of the market to absorb fully, leaving the S&P 500 with a small weekly loss.
-
-CNBC • 8h ago
+Barron's • 19h ago
 
 ---
 
-**[Oracle-Broadcom one-two punch hits AI trade, but investor optimism persists](https://www.reuters.com/business/finance/oracles-stumble-hits-ai-trade-many-remain-bullish-2025-12-12/)**
+**[AI-led tech slide extends into third day as Oracle, Broadcom fall](https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html)**
 
-Reuters • 10h ago
+AI-related names have made losses since Oracle's mixed results on Wednesday.
+
+CNBC • 21h ago
 
 ---
 
-**[Is A.I. Actually a Bubble?](https://www.newyorker.com/culture/open-questions/is-ai-actually-a-bubble)**
+**[Podcast industry under siege as AI bots flood airways with thousands of programs](https://www.latimes.com/business/story/2025-12-12/ai-podcasting-is-changing-industry)**
 
-The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
+AI podcasts are flooding the airways as California companies make thousands to see what sticks
 
-The New Yorker • 18h ago
+Los Angeles Times • 19h ago
 
 ---
 
 **[Chinese AI Euphoria Obscures a Gloomier Technological Reality](https://www.bloomberg.com/news/articles/2025-12-13/chinese-ai-euphoria-obscures-a-gloomier-technological-reality)**
 
 Bloomberg.com • 6h ago
+
+---
+
+**[Arizona city unanimously rejects AI data center after residents' outcry](https://www.foxbusiness.com/politics/arizona-city-unanimously-rejects-ai-data-center-after-residents-outcry)**
+
+The Chandler, Arizona, city council unanimously voted against clearing the way to allow for construction of an artificial intelligence data center
+
+Fox Business • 10h ago
+
+---
+
+**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
+
+Politico • 19h ago
+
+---
+
+**[You’re Thinking About AI and Water All Wrong](https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/)**
+
+Fears about AI data centers’ water use have exploded. Experts say the reality is far more complicated than people think.
+
+WIRED • 14h ago
 
 ---
 
@@ -201,7 +199,7 @@ Bloomberg.com • 6h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 471 • 💬 276 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 471 • 💬 277 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -209,7 +207,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 331 • 💬 184 • 9h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 351 • 💬 192 • 10h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -233,7 +231,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 157 • 💬 110 • 22h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 157 • 💬 112 • 22h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -257,7 +255,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 110 • 💬 217 • 13h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 111 • 💬 218 • 14h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -265,7 +263,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 75 • 💬 117 • 9h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 75 • 💬 119 • 10h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -285,7 +283,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 131K • 👍 7K • 💬 448 • ⏱️ 4:01 • 7h ago
+👁️ 131K • 👍 7K • 💬 448 • ⏱️ 4:01 • 8h ago
 
 ---
 
@@ -315,7 +313,7 @@ FULL AI COURSE HERE https://brainprojectai.com/courses/launch-your-ai-influencer
 
 📺 Brain Project
 
-👁️ 4K • 👍 266 • 💬 38 • ⏱️ 14:19 • 14h ago
+👁️ 4K • 👍 266 • 💬 38 • ⏱️ 14:19 • 15h ago
 
 ---
 
@@ -391,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 782 • 14h ago
+⬇️ 105,962 • ❤️ 783 • 15h ago
 
 ---
 
@@ -403,7 +401,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,603 • 4d ago
+⬇️ 257,048 • ❤️ 2,604 • 4d ago
 
 ---
 
@@ -427,7 +425,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 300 • 20h ago
+⬇️ 10,352 • ❤️ 302 • 21h ago
 
 ---
 
@@ -499,7 +497,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 2,971 • ❤️ 173 • 20h ago
+⬇️ 2,971 • ❤️ 174 • 21h ago
 
 ---
 
@@ -529,7 +527,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 24 • 💬 2 • ⭐ 6,653 • 15d ago
+▲ 24 • 💬 2 • ⭐ 6,693 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -557,7 +555,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 117 • 💬 3 • ⭐ 305 • 3d ago
+▲ 117 • 💬 3 • ⭐ 308 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -650,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 12.7k • 🔱 2.0k • 1h ago
+⭐ 12.8k • 🔱 2.0k • 2h ago
 
 ---
 
@@ -660,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.4k • 🔱 268 • 1h ago
+⭐ 2.4k • 🔱 270 • 2h ago
 
 ---
 
@@ -670,7 +668,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.7k • 🔱 135 • 4d ago
+⭐ 1.7k • 🔱 136 • 4d ago
 
 ---
 
@@ -680,7 +678,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.1k • 🔱 306 • 6d ago
+⭐ 1.2k • 🔱 306 • 6d ago
 
 ---
 
@@ -700,7 +698,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 23h ago
+⭐ 1.1k • 🔱 134 • 1d ago
 
 ---
 
