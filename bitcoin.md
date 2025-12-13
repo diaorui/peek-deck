@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T23:41:12.951575+00:00'
+updated: '2025-12-13T23:52:19.713180+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 23:41 UTC  
+**Last Updated:** December 13, 2025 at 23:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,195.33
+### $90,274.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -0.2%  
-**30d:** -4.8%  
+**24h:** +0.1%  
+**7d:** -0.1%  
+**30d:** -4.7%  
 **90d:** -21.7%  
 **1y:** -11.0%  
 
@@ -141,7 +141,7 @@ Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid 
 
 I’m just curious how everyone is doing financially here on the bitcoin sub. I live in the upper east coast of US. And I gotta say inflation is starting to really grind me down. I make a pretty decent amount money but it’s doesn’t go far as it use to. Food, gas, rent and anything left over goes to investments. I even started digging into my savings and investments to plug unforeseen expenses. I don’t know how everyone is doing it. This fucked monetary system is stripping people to the bone until there’s nothing left. This may sound cheesy but Bitcoin is our last hope of salvaging this fucked situation.
 
-3h ago
+4h ago
 
 ---
 
@@ -369,7 +369,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 907 • 👍 107 • 💬 87 • ⏱️ 8:12 • 1h ago
+👁️ 907 • 👍 107 • 💬 87 • ⏱️ 8:12 • 2h ago
 
 ---
 
@@ -379,7 +379,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 SoCal Watch Reviews
 
-👁️ 4K • 👍 5K • 36m ago
+👁️ 4K • 👍 5K • 48m ago
 
 ---
 
