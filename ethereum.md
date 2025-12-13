@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T11:56:33.876501+00:00'
+updated: '2025-12-13T12:46:37.427078+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 11:56 UTC  
+**Last Updated:** December 13, 2025 at 12:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.9%  
-**7d:** +1.9%  
-**30d:** +0.5%  
-**90d:** -31.0%  
-**1y:** -19.4%  
+**24h:** -4.2%  
+**7d:** +1.6%  
+**30d:** +0.2%  
+**90d:** -31.1%  
+**1y:** -19.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.78B
+**Market Cap:** $376.12B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-37.1%
 
 **All-Time Low:** $0.43
-+720826.4%
++718535.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 16h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 17h ago
 
 ---
 
@@ -156,7 +156,15 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
+
+---
+
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
+
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
+
+CoinDesk • 21h ago
 
 ---
 
@@ -178,15 +186,7 @@ Yahoo Finance • 1d ago
 
 XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView • 5h ago
-
----
-
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
-
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
-
-CoinDesk • 20h ago
+TradingView • 6h ago
 
 ---
 
@@ -194,7 +194,7 @@ CoinDesk • 20h ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -210,11 +210,11 @@ CryptoSlate • 1d ago
 
 As Ethereum (CRYPTO: ETH) dropped almost 5% on Friday, a new research suggests the network&#8217;s long-term valuation may potentially grow
 
-Benzinga • 17h ago
+Benzinga • 18h ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqesuXRyrc46XqRN6eFl8hoU7essAKhE70rUU2UfTuiYIlfnqtNgNWip&gaa_ts=693d57e1&gaa_sig=fwtnQwgyBtvwm33xRgEBVWQX9TX_2iZ3ePcG4bOfP2v9ss6YX5f6HwAODlu1AQRpjtrwkScohB26iHvnibrQzA%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcx1y0JXET2kuQowAodWo7G64C0ROUKutiGvQSXuJZEdioe2STXfjFz&gaa_ts=693d639c&gaa_sig=hWSTgVqiVoyTmR5ZPXk-d4qZAkC7-mxwykNbl-1-zF4ccGmW9bNMiQArPIKVr2mwhta7O_M6ufbOet5KGnFXNQ%3D%3D)**
 
 Barron's • 2d ago
 
@@ -236,7 +236,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 187 • ⏱️ 31:03 • 15h ago
+👁️ 36K • 👍 2K • 💬 195 • ⏱️ 31:03 • 15h ago
 
 ---
 
@@ -246,17 +246,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 432 • 💬 14 • ⏱️ 48:44 • 19h ago
-
----
-
-**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
-
-What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
-
-📺 Thomas Kralow
-
-👁️ 18K • 👍 728 • 💬 42 • ⏱️ 11:29 • 1d ago
+👁️ 6K • 👍 438 • 💬 14 • ⏱️ 48:44 • 20h ago
 
 ---
 
@@ -270,6 +260,16 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 ---
 
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=WNjd5vnNnHo)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Guitar Repair@StringTech
+
+👁️ 5K • 👍 4K • 3h ago
+
+---
+
 **[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
 
 LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
@@ -280,13 +280,13 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 ---
 
-**[A BTC EMERGENCY: Bitcoin &amp; ETH CRASH Now in Progress -  BTC has Begun the Next Leg Down of the CRASH](https://www.youtube.com/watch?v=AWBbOqm0Oxw)**
+**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
 
-📺 Doctor of Pump & Dump
+📺 Thomas Kralow
 
-👁️ 5K • 👍 457 • ⏱️ 34:06 • 14h ago
+👁️ 18K • 👍 730 • 💬 42 • ⏱️ 11:29 • 2d ago
 
 ---
 
@@ -296,7 +296,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 104 • 💬 2 • ⏱️ 4:36 • 10h ago
+👁️ 2K • 👍 118 • 💬 2 • ⏱️ 4:36 • 11h ago
+
+---
+
+**[A BTC EMERGENCY: Bitcoin &amp; ETH CRASH Now in Progress -  BTC has Begun the Next Leg Down of the CRASH](https://www.youtube.com/watch?v=AWBbOqm0Oxw)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 5K • 👍 467 • ⏱️ 34:06 • 15h ago
 
 ---
 
@@ -306,27 +316,17 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 6K • 👍 292 • 💬 53 • ⏱️ 18:06 • 13h ago
+👁️ 6K • 👍 308 • 💬 52 • ⏱️ 18:06 • 14h ago
 
 ---
 
-**[&quot;It Will Flip Ethereum&quot; - Scaramucci on Solana&#39;s Future](https://www.youtube.com/watch?v=4JXiR5vSw_I)**
+**[This is Not Normal For Ethereum](https://www.youtube.com/watch?v=agl0Kf2d7cQ)**
 
-Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author of the new book Solana Rising, joins ...
+ETH isn't just lagging — its story broke. It's down ~3× more than BTC from the highs, ETH/BTC is sitting at multi-year lows, and ...
 
-📺 CoinDesk
+📺 Ryan’s Money Lab
 
-👁️ 4K • 👍 122 • 💬 28 • ⏱️ 13:45 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=34QIuyyS5dY)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 141 • 💬 9 • ⏱️ 5:04 • 22h ago
+👁️ 4K • 👍 178 • 💬 25 • ⏱️ 15:43 • 1d ago
 
 ---
 

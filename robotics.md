@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T11:56:33.879760+00:00'
+updated: '2025-12-13T12:46:37.430289+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 11:56 UTC  
+**Last Updated:** December 13, 2025 at 12:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,15 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
-21h ago
+22h ago
+
+---
+
+**[Zebra Technologies winding down Fetch-based mobile robot group](https://www.reddit.com/r/robotics/comments/1plk893/zebra_technologies_winding_down_fetchbased_mobile/)**
+
+Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
+
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 19m ago
 
 ---
 
@@ -72,13 +80,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hello, I am currently building a small biped. Ideally, I would like some flat BLDC motors; however, in America, it's nearly impossible to find affordable ones. Doesn't need to be anything crazy, but everything I find is 150-300 bucks, and given that I'll need ~6-8 of them, that's not affordable. With that, I was wondering if anyone had any sites/companies they prefer to go to for motors? If not, I am highly considering making my own. A $20 crucible to melt some Home Depot metal and make my own stators sounds much more appealing than spending hundreds of bucks. I am a student that can go to the makerspace at my school, so I do have options to manufacture from scratch, just not sure if its worth the time. Anyones take on this?
 
-13h ago
+14h ago
 
 ---
 
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -94,15 +102,7 @@ The whole setup (belt motion, detection triggers, timing, etc.) is built inside 
 
 Hi guys, I want to know what you guys think where we can use RL to actually fill the gaps for classical algorithms.. I really really think this can be a good to overcoming adaptation of tuning used for visual odometry pipeline( Davide's published a paper on this)..but still it would need a sim to make it learn..and then there will be sim to real transfer...am thinking is there a way to just use datasets and go ahead with it.. Am trying to find the relevant problems in visual odometry..
 
-18h ago
-
----
-
-**[ROS News for the Week of December 8th, 2025 - Community News](https://www.reddit.com/r/robotics/comments/1pl2mgi/ros_news_for_the_week_of_december_8th_2025/)**
-
-ROS News for the Week of December 8th, 2025    🎄 All we want for Christmas is for you to become a Build Farm Backer! The ROS Build Farm is one of the largest public Jenkins instances in the world, and it is also one of our largest expenses. If you’ve ever saved yourself a few hours of compile time by downloading one of our pre-compiled ROS binaries, please consider pitching in to support our server costs. The money raised by this campaign goes directly to the OSRF, a 501(c)(3) non...
-
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 15h ago
+19h ago
 
 ---
 
@@ -114,7 +114,7 @@ ROS News for the Week of December 8th, 2025    🎄 All we want for Christmas is
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-The Robot Report • 21h ago
+The Robot Report • 22h ago
 
 ---
 
@@ -146,7 +146,7 @@ Interesting Engineering • 2d ago
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 49m ago
+Scientific American • 1h ago
 
 ---
 
@@ -164,19 +164,19 @@ Chron • 2d ago
 
 ---
 
-**[Serve Robotics, Inc. Rings the Closing Bell](https://www.nasdaq.com/events/serve-robotics-inc-rings-closing-bell)**
-
-About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
-
-Nasdaq • 15h ago
-
----
-
 **[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
 
 $32 million investment will created 230 new jobs.
 
 WHMI • 2d ago
+
+---
+
+**[Serve Robotics, Inc. Rings the Closing Bell](https://www.nasdaq.com/events/serve-robotics-inc-rings-closing-bell)**
+
+About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
+
+Nasdaq • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 169K • 👍 5K • 💬 430 • ⏱️ 17:44 • 2d ago
+👁️ 173K • 👍 5K • 💬 433 • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 107K • 👍 2K • 💬 637 • ⏱️ 14:26 • 4d ago
+👁️ 108K • 👍 2K • 💬 649 • ⏱️ 14:26 • 4d ago
 
 ---
 
@@ -232,16 +232,6 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 ---
 
-**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
-
-Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
-
-📺 CNN
-
-👁️ 88K • 👍 1K • 💬 450 • ⏱️ 0:41 • 5d ago
-
----
-
 **[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
 
 Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
@@ -252,13 +242,13 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 ---
 
-**[Robotics Is About to Change Everything: 3 Stocks First in Line](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
 
-Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
 
-📺 MarketBeat
+📺 CNN
 
-👁️ 60K • 👍 2K • 💬 112 • ⏱️ 24:47 • 6d ago
+👁️ 88K • 👍 1K • 💬 450 • ⏱️ 0:41 • 5d ago
 
 ---
 
@@ -268,7 +258,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 38K • 👍 513 • 💬 9 • ⏱️ 0:09 • 20h ago
+👁️ 53K • 👍 555 • 💬 9 • ⏱️ 0:09 • 21h ago
 
 ---
 
@@ -282,13 +272,23 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 ---
 
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+**[Robotics Is About to Change Everything: 3 Stocks First in Line](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
 
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
 
-📺 The Straits Times
+📺 MarketBeat
 
-👁️ 189K • 👍 880 • 💬 276 • ⏱️ 0:47 • 4d ago
+👁️ 60K • 👍 2K • 💬 112 • ⏱️ 24:47 • 6d ago
+
+---
+
+**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
+
+Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
+
+📺 Kalil 4.0
+
+👁️ 19K • 👍 190 • 💬 18 • ⏱️ 0:27 • 5d ago
 
 ---
 

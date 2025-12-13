@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T11:56:33.870368+00:00'
+updated: '2025-12-13T12:46:37.421117+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 11:56 UTC  
+**Last Updated:** December 13, 2025 at 12:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -0.0%  
+**24h:** -2.1%  
+**7d:** -0.1%  
 **30d:** -4.6%  
 **90d:** -21.6%  
 **1y:** -10.9%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1804.34B
+**Market Cap:** $1804.22B
 Rank #1
 
 **Circulating Supply:** 19,961,596 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.3%
+-28.4%
 
 **All-Time Low:** $67.81
-+133178.3%
++133111.9%
 
 ---
 
@@ -87,21 +87,7 @@ This will age well in 10 years. See you then.
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-7h ago
-
----
-
-**["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
-
-17h ago
-
----
-
-**[This pattern seems suspiciously consistent](https://www.reddit.com/r/Bitcoin/comments/1pl5b8l/this_pattern_seems_suspiciously_consistent/)**
-
-Any thoughts on what is causing it?
-
-13h ago
+8h ago
 
 ---
 
@@ -111,21 +97,41 @@ Any thoughts on what is causing it?
 
 ---
 
+**["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
+
+18h ago
+
+---
+
+**[This pattern seems suspiciously consistent](https://www.reddit.com/r/Bitcoin/comments/1pl5b8l/this_pattern_seems_suspiciously_consistent/)**
+
+Any thoughts on what is causing it?
+
+14h ago
+
+---
+
 **[The anticipation](https://www.reddit.com/r/Bitcoin/comments/1plhlog/the_anticipation/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
-8h ago
+9h ago
+
+---
+
+**[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
+
+1h ago
 
 ---
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -133,15 +139,7 @@ Any thoughts on what is causing it?
 
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-14h ago
-
----
-
-**[How did people buy bitcoin before exchanges?](https://www.reddit.com/r/Bitcoin/comments/1pl8tko/how_did_people_buy_bitcoin_before_exchanges/)**
-
-How did people buy bitcoin before exchanges?
-
-10h ago
+15h ago
 
 ---
 
@@ -151,13 +149,13 @@ How did people buy bitcoin before exchanges?
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -181,7 +179,7 @@ Bloomberg.com • 19h ago
 
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -189,7 +187,7 @@ Bitcoin Magazine • 16h ago
 
 The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -197,7 +195,7 @@ Decrypt • 13h ago
 
 Bitcoin may be down this year, but price targets for next year are off the charts.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -205,7 +203,7 @@ The Motley Fool • 1h ago
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -219,7 +217,7 @@ Yahoo Finance UK • 2d ago
 
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 21h ago
+x.com • 22h ago
 
 ---
 
@@ -247,7 +245,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 1d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 1 • 1d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -297,7 +295,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 **[Ask HN: Is there a local dev tool you wish existed because of a repeating issue?](https://news.ycombinator.com/item?id=46253198)**
 
-⬆️ 1 • 💬 0 • 2h ago
+⬆️ 1 • 💬 0 • 3h ago
 
 ---
 
@@ -311,7 +309,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 118 • ⏱️ 16:27 • 13h ago
+👁️ 24K • 👍 1K • 💬 121 • ⏱️ 16:27 • 14h ago
 
 ---
 
@@ -321,7 +319,27 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 256 • ⏱️ 46:26 • 19h ago
+👁️ 25K • 👍 1K • 💬 262 • ⏱️ 46:26 • 20h ago
+
+---
+
+**[Bitcoin OG’s Are Warning About THIS NEW Development](https://www.youtube.com/watch?v=aW3XPLNwe3E)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 8K • 👍 638 • 💬 101 • ⏱️ 11:48 • 19h ago
+
+---
+
+**[Bitcoin Made Me Rethink Everything About Debt](https://www.youtube.com/watch?v=NNEmw1--FI8)**
+
+Start Building Your Bitcoin Plan: https://www.austintalksmoney.com/financial-planning-tips/ ▻ Where I Buy My Bitcoin: ...
+
+📺 Austin Talks Money
+
+👁️ 2K • 👍 92 • 💬 40 • ⏱️ 15:25 • 9h ago
 
 ---
 
@@ -341,7 +359,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 370 • 💬 128 • ⏱️ 11:54 • 16h ago
+👁️ 7K • 👍 378 • 💬 129 • ⏱️ 11:54 • 17h ago
 
 ---
 
@@ -351,7 +369,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 19K • 👍 195 • 💬 102 • ⏱️ 4:06 • 1d ago
+👁️ 19K • 👍 200 • 💬 104 • ⏱️ 4:06 • 1d ago
 
 ---
 
@@ -361,37 +379,17 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 187 • ⏱️ 31:03 • 15h ago
+👁️ 36K • 👍 2K • 💬 195 • ⏱️ 31:03 • 15h ago
 
 ---
 
-**[2026 Will Be The Biggest B*** Market For Crypto! [6 Reasons]](https://www.youtube.com/watch?v=KT3Cq0Aq4eg)**
+**[Why Old Bitcoin Holders Are Selling Now](https://www.youtube.com/watch?v=2L_ct_6hTNM)**
 
-In today's Crypto Insider, Ran explains why he believes the 2026 crypto b*** market has already started, breaking down the 6 ...
-
-📺 Crypto Insider
-
-👁️ 37K • 👍 3K • 💬 134 • ⏱️ 20:35 • 1d ago
-
----
-
-**[The Scary Truth About Bitcoin, AI, and UBI!](https://www.youtube.com/watch?v=LS29MdNd5QY)**
-
-Welcome to the most blisteringly honest breakdown of the future you keep trying to scroll past. In the next three years, AI is coming ...
+Everyone thinks Bitcoin still runs on a clean four-year cycle — but the data, the holders, and the market dynamics tell a different ...
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 890 • 💬 89 • ⏱️ 14:56 • 22h ago
-
----
-
-**[5 Bitcoin for WHAT?!😨🤯](https://www.youtube.com/watch?v=QxYP-j8DAPs)**
-
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
-
-📺 Crypto Cam
-
-👁️ 18K • 👍 462 • 💬 38 • ⏱️ 0:27 • 2d ago
+👁️ 9K • 👍 206 • 💬 14 • ⏱️ 0:50 • 23h ago
 
 ---
 
@@ -399,7 +397,7 @@ Welcome to the most blisteringly honest breakdown of the future you keep trying 
 
 📺 Andrei Jikh
 
-👁️ 63K • 👍 946 • 💬 45 • ⏱️ 0:35 • 1d ago
+👁️ 65K • 👍 957 • 💬 46 • ⏱️ 0:35 • 1d ago
 
 ---
 
