@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T13:40:33.961546+00:00'
+updated: '2025-12-13T13:51:47.175598+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 13:40 UTC  
+**Last Updated:** December 13, 2025 at 13:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.4%  
-**7d:** +1.3%  
-**30d:** -0.1%  
-**90d:** -31.4%  
-**1y:** -19.9%  
+**24h:** -4.1%  
+**7d:** +1.6%  
+**30d:** +0.2%  
+**90d:** -31.2%  
+**1y:** -19.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.51B
+**Market Cap:** $374.82B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-37.2%
 
 **All-Time Low:** $0.43
-+718212.0%
++717491.4%
 
 ---
 
@@ -144,7 +144,7 @@ Guys although I want to make flash loan bots and stuff, but can’t find any goo
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-2d ago
+3d ago
 
 ---
 
@@ -190,6 +190,14 @@ TradingView • 7h ago
 
 ---
 
+**[Key Hyperunit whale expands Ethereum position amid weak prices](https://www.fxstreet.com/cryptocurrencies/news/key-hyperunit-whale-expands-ethereum-position-amid-weak-prices-202512130434)**
+
+A major crypto whale has opened a long position in Ethereum (ETH) worth more than half a billion dollars on the Hyperliquid exchange.
+
+FXStreet • 9h ago
+
+---
+
 **[Should You Buy Ethereum While It's Under $5,000?](https://www.fool.com/investing/2025/12/12/should-you-buy-ethereum-while-its-under-5000/)**
 
 After an unexpected pullback, could Ethereum be ready to skyrocket in value?
@@ -206,14 +214,6 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
-
-Sentiment around Ethereum has been bouncing around considerably in recent days.
-
-Yahoo Finance • 19h ago
-
----
-
 **[Ethereum Network Can Grow To A $20 Trillion Valuation By 2035, Researcher Claims](https://www.benzinga.com/crypto/cryptocurrency/25/12/49370689/ethereum-network-can-grow-to-a-20-trillion-valuation-by-2035-researcher-claims)**
 
 As Ethereum (CRYPTO: ETH) dropped almost 5% on Friday, a new research suggests the network&#8217;s long-term valuation may potentially grow
@@ -222,9 +222,11 @@ Benzinga • 19h ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfiRI2RGU4hC5g6kvEId9cLix8hfpFWzjvsVWRWaAfupnwEjuTlBJEY&gaa_ts=693d6b10&gaa_sig=b862epQdVsoA-JT9wYvVLRJemUkYzBPM-d0ma06NgbRiPZQCxRciOOqvgdN8Abgrr4xF5ia1yUZj2JUaX8n0Yw%3D%3D)**
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
 
-Barron's • 2d ago
+Sentiment around Ethereum has been bouncing around considerably in recent days.
+
+Yahoo Finance • 19h ago
 
 ---
 
@@ -298,7 +300,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 118 • 💬 2 • ⏱️ 4:36 • 11h ago
+👁️ 2K • 👍 118 • 💬 2 • ⏱️ 4:36 • 12h ago
 
 ---
 

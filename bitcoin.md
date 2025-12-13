@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T13:40:33.955549+00:00'
+updated: '2025-12-13T13:51:47.164649+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 13:40 UTC  
+**Last Updated:** December 13, 2025 at 13:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -0.2%  
-**30d:** -4.8%  
-**90d:** -21.7%  
-**1y:** -11.1%  
+**24h:** -2.0%  
+**7d:** -0.0%  
+**30d:** -4.6%  
+**90d:** -21.6%  
+**1y:** -10.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.99B
+**Market Cap:** $1801.37B
 Rank #1
 
 **Circulating Supply:** 19,961,596 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.4%
 
 **All-Time Low:** $67.81
-+133107.5%
++133002.8%
 
 ---
 
@@ -97,6 +97,12 @@ This will age well in 10 years. See you then.
 
 ---
 
+**[The anticipation](https://www.reddit.com/r/Bitcoin/comments/1plhlog/the_anticipation/)**
+
+4h ago
+
+---
+
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
 19h ago
@@ -108,12 +114,6 @@ This will age well in 10 years. See you then.
 Any thoughts on what is causing it?
 
 15h ago
-
----
-
-**[The anticipation](https://www.reddit.com/r/Bitcoin/comments/1plhlog/the_anticipation/)**
-
-4h ago
 
 ---
 
@@ -135,11 +135,9 @@ Any thoughts on what is causing it?
 
 ---
 
-**[Does anyone else feel like silently flipping tf out all the time because you've discovered the way to financial freedom and you're working on it but everyone around you is oblivious and thinks you're an idiot?](https://www.reddit.com/r/Bitcoin/comments/1pl3m9e/does_anyone_else_feel_like_silently_flipping_tf/)**
+**[regular crypto day](https://www.reddit.com/r/Bitcoin/comments/1plhv7r/regular_crypto_day/)**
 
-I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
-
-16h ago
+3h ago
 
 ---
 
@@ -191,19 +189,17 @@ Decrypt • 15h ago
 
 ---
 
-**[Can Bitcoin Reach $250,000 in 2026? The Answer Might Blow Your Mind.](https://www.fool.com/investing/2025/12/13/can-bitcoin-reach-price-in-2026-the-answer-might-b/)**
-
-Bitcoin may be down this year, but price targets for next year are off the charts.
-
-The Motley Fool • 2h ago
-
----
-
 **[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
 Forbes • 1d ago
+
+---
+
+**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+
+x.com • 23h ago
 
 ---
 
@@ -215,9 +211,9 @@ Yahoo Finance UK • 2d ago
 
 ---
 
-**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+**[American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy.](https://www.barrons.com/articles/american-bitcoin-stock-price-eric-trump-426a9d3b?gaa_at=eafs&gaa_n=AWEtsqeDvjNOzuJDK-Q259ds4cNQc9EXWuv9SlCKwiD4Q5TTacjx9lIJPa2a&gaa_ts=693d72dd&gaa_sig=FyCyUKgoeDqwa6fJDQB4LFqY6l7AHF-8wdYx2monpPu9-13tMlj0BzJmtDeEPKUzvTAu04ycafpyOPL1MwTXdg%3D%3D)**
 
-x.com • 23h ago
+Barron's • 2d ago
 
 ---
 
