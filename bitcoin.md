@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T08:56:35.702664+00:00'
+updated: '2025-12-13T09:23:34.373506+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 08:56 UTC  
+**Last Updated:** December 13, 2025 at 09:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +0.1%  
-**30d:** -4.4%  
-**90d:** -21.4%  
-**1y:** -10.7%  
+**24h:** -2.0%  
+**7d:** +0.0%  
+**30d:** -4.6%  
+**90d:** -21.5%  
+**1y:** -10.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -101,19 +101,19 @@ Any thoughts on what is causing it?
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -121,7 +121,7 @@ Any thoughts on what is causing it?
 
 How did people buy bitcoin before exchanges?
 
-7h ago
+8h ago
 
 ---
 
@@ -129,13 +129,13 @@ How did people buy bitcoin before exchanges?
 
 C’mon Bitcoin, you can do it
 
-19h ago
+20h ago
 
 ---
 
 **[And Bitcoin is going strong](https://www.reddit.com/r/Bitcoin/comments/1pl7ekk/and_bitcoin_is_going_strong/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 4h ago
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1d ago
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -313,7 +313,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 104 • ⏱️ 16:27 • 10h ago
+👁️ 21K • 👍 1K • 💬 104 • ⏱️ 16:27 • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ Everyone thinks Bitcoin still runs on a clean four-year cycle — but the data, 
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 187 • 💬 12 • ⏱️ 0:50 • 19h ago
+👁️ 9K • 👍 187 • 💬 12 • ⏱️ 0:50 • 20h ago
 
 ---
 
@@ -333,7 +333,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 364 • 💬 128 • ⏱️ 11:54 • 13h ago
+👁️ 6K • 👍 364 • 💬 128 • ⏱️ 11:54 • 14h ago
 
 ---
 
@@ -353,7 +353,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 249 • ⏱️ 46:26 • 16h ago
+👁️ 24K • 👍 1K • 💬 249 • ⏱️ 46:26 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ In today's Crypto Insider, Ran explains why he believes the 2026 crypto b*** mar
 
 📺 Crypto Insider
 
-👁️ 36K • 👍 3K • 💬 123 • ⏱️ 20:35 • 21h ago
+👁️ 36K • 👍 3K • 💬 123 • ⏱️ 20:35 • 22h ago
 
 ---
 
@@ -403,7 +403,7 @@ Eric Yakes joins the show to discuss what's really driving Bitcoin right now and
 
 📺 What Bitcoin Did
 
-👁️ 5K • 👍 204 • 💬 74 • ⏱️ 56:41 • 16h ago
+👁️ 5K • 👍 204 • 💬 74 • ⏱️ 56:41 • 17h ago
 
 ---
 

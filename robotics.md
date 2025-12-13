@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T08:56:35.712054+00:00'
+updated: '2025-12-13T09:23:34.382722+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 08:56 UTC  
+**Last Updated:** December 13, 2025 at 09:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -70,7 +70,7 @@ Hello, I am currently building a small biped. Ideally, I would like some flat BL
 
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Ro
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-The Robot Report • 18h ago
+The Robot Report • 19h ago
 
 ---
 
@@ -208,7 +208,7 @@ viral #techfail #technews #shocking #mustwatch #RobotProof #caughtoncamera #huma
 
 📺 KNOWL
 
-👁️ 946 • 💬 1 • ⏱️ 0:38 • 3h ago
+👁️ 946 • 💬 1 • ⏱️ 0:38 • 4h ago
 
 ---
 
