@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T05:50:37.474565+00:00'
+updated: '2025-12-13T06:15:09.537496+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 05:50 UTC  
+**Last Updated:** December 13, 2025 at 06:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,13 +56,13 @@ Hello, I am currently building a small biped. Ideally, I would like some flat BL
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 55m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 1h ago
 
 ---
 
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -70,7 +70,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
 
-19h ago
+20h ago
 
 ---
 
@@ -130,7 +130,7 @@ The Robot Report • 15h ago
 
 Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
 
-Deloitte • 2d ago
+Deloitte • 3d ago
 
 ---
 
@@ -198,7 +198,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 157K • 👍 5K • 💬 426 • ⏱️ 17:44 • 2d ago
+👁️ 162K • 👍 5K • 💬 428 • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 99K • 👍 2K • 💬 606 • ⏱️ 14:26 • 4d ago
+👁️ 102K • 👍 2K • 💬 617 • ⏱️ 14:26 • 4d ago
 
 ---
 
@@ -218,17 +218,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 138K • 👍 7K • 💬 930 • ⏱️ 19:33 • 6d ago
-
----
-
-**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
-
-Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
-
-📺 CNN
-
-👁️ 87K • 👍 1K • 💬 446 • ⏱️ 0:41 • 5d ago
+👁️ 138K • 👍 7K • 💬 931 • ⏱️ 19:33 • 6d ago
 
 ---
 
@@ -238,7 +228,27 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 201K • 👍 933 • 💬 298 • ⏱️ 1:03 • 6d ago
+👁️ 201K • 👍 935 • 💬 298 • ⏱️ 1:03 • 6d ago
+
+---
+
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
+
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
+
+📺 CNN
+
+👁️ 87K • 👍 1K • 💬 449 • ⏱️ 0:41 • 5d ago
+
+---
+
+**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
+
+Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
+
+📺 TheAIGRID
+
+👁️ 18K • 👍 496 • 💬 112 • ⏱️ 42:48 • 5d ago
 
 ---
 
@@ -248,7 +258,27 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 14K • 👍 245 • 💬 2 • ⏱️ 0:09 • 14h ago
+👁️ 21K • 👍 319 • 💬 5 • ⏱️ 0:09 • 14h ago
+
+---
+
+**[Robotics Is About to Change Everything: 3 Stocks First in Line](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
+
+Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
+
+📺 MarketBeat
+
+👁️ 59K • 👍 2K • 💬 111 • ⏱️ 24:47 • 6d ago
+
+---
+
+**[The lady soldier gave a robotic boat to Dadi. #shorts #ai #indianarmy](https://www.youtube.com/watch?v=mKH0d0dbuP4)**
+
+An emotional and powerful moment An Indian lady soldier surprises Dadi by gifting her a futuristic robotic boat This ...
+
+📺 Little chucha 
+
+👁️ 4K • ⏱️ 0:41 • 39m ago
 
 ---
 
@@ -259,36 +289,6 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 📺 Humanoid Robot 🤖
 
 👁️ 223K • 👍 1K • 💬 9 • ⏱️ 0:17 • 4d ago
-
----
-
-**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
-
-Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
-
-📺 TheAIGRID
-
-👁️ 18K • 👍 494 • 💬 112 • ⏱️ 42:48 • 5d ago
-
----
-
-**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
-
-Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
-
-📺 The Military Show
-
-👁️ 318K • 👍 9K • 💬 511 • ⏱️ 16:55 • 1d ago
-
----
-
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
-
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
-
-📺 The Straits Times
-
-👁️ 189K • 👍 876 • 💬 274 • ⏱️ 0:47 • 3d ago
 
 ---
 

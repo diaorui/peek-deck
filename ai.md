@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T05:50:37.456485+00:00'
+updated: '2025-12-13T06:15:09.519394+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 05:50 UTC  
+**Last Updated:** December 13, 2025 at 06:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 12h ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 13h ago
 
 ---
 
@@ -49,7 +49,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 14h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ Lifting export controls on Nvidia’s second-best chip jeopardizes America’s A
 
 A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
 
-🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 16h ago
+🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 17h ago
 
 ---
 
@@ -73,7 +73,7 @@ A new study has found that artificial intelligence systems struggle to distingui
 
 I'm not seeing enough people talk about this (or I see people only discuss one aspect of it, not its implications). There are two paths to AI profitability. The first is to replace large swathes of the workforce. Middle managers, desk jockeys--if your job is writing emails, AI may replace you, and companies are betting on this and investing in AI. This is the story I've most commonly seen. But there's another path to AI profitability: the subscription drug model. When articles talk about the future of AI, I don't see this one mentioned as much. ----------- Every website, no matter how altruistically it starts, has a long-term plan to squeeze as much money out of its users as possible. Youtube used to be totally free. Now every video has 2 ads every 5 minutes, and within the video creators embed their own ads and sponsors. Netflix used to have no ads. Now you have to pay extra to avoid them. You see the same enshittification playbook everywhere. Start as free service, grow, absorb competitors until you are a monopoly, then start introducing ads, monetization, subscription plans, worse product, etc. LLMs are getting the youth completely hooked on their product. Instead of learning how to type by practicing typing, students type half of a word and autocomplete fills in the rest. They're not getting the practice they need. That's just muscle memory and repetition though--I think it's worse for deeper skills, like critical thinking, work ethic, sustained focus on homework. Once students start using LLMs to do work for them, they lose the patience for work and don't develop crucial cognitive skills they will need in any career. Everyone knows this is happening, this shouldn't be news at all. There are plenty of articles about college students who don't know how to read, etc. What I don't see people mention is the actual business model. In another 10 years, when the problem has gotten much worse, once every high school or college student is unable to read or write and having LLMs basically function for them, then you'll see companies take advantage of this. That generation will NEED AI. They won't be able to do their job without it, they won't be able to send emails without it, they might not even be able to get groceries or plan a meal without it. (Let's not even get into how they will need it for friendship/emotional support/therapy, that is another can of worms entirely.) This, dear reader, is when the enshittification begins. At that point the companies can jack up pricing. The AI-heads will have no choice but to pay. They will need that shit to live. They can charge whatever they want! $400 a month to use ChatGPT. Hell, maybe more? 10% of your wages? If ChatGPT is doing your job for you, how is it fair for you to keep 100% of your earnings? What are you going to do, write those emails yourself, when you don't know how to read or write, and the LLM has been doing your homework for you since 3rd grade? At this point, it is worth considering the emotional state of the first generation of children/teens addicted to and utterly dependent on LLMs. They will use it to do homework in elementary/middle school. They may start to feel shame or embarrassment about this by the time they are in high school. They might even spend a semester trying to read and do homework without AI assistance--but at that point, it will be too late, and they will be stressed about their grades, and they will go back to AI and carry the secret burden of knowing that they stopped learning to read in elementary school. They will go to college, have AI write their essays, and their whole generation will be in on the secret which they will try to hide from their teachers and future employers (the employers, by the way, will think they understand the problem, as people have written about it before--but when the youth hear older folk talk about the problem, they will realize the older generations underestimate the true severity of the problem). When the LLM companies decide to extort this poor lost generation, they will already be well aware of the position they are in. Surely OpenAI has considered this potential future? Why aren't journalists writing about this as their potential secret business plan? It seems like it has been completely unspoken (maybe I just haven't seen the idea mentioned before, if somebody has seen any discussion of the topic in media please share a link). This seems to me to be one of the two paths to AI profitability, and the reason why so many companies are investing in it. I hear plenty about the other path to profitability (automating office work and firing large swathes of the workforce), but I don't hear as much about the subscription drug model of profitability.
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ AI agents are taking over some routine creative tasks, but executives say the sh
 
 **[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
 
-🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 7h ago
+🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 8h ago
 
 ---
 
@@ -95,7 +95,7 @@ AI agents are taking over some routine creative tasks, but executives say the sh
 
 I’ve been working with multiple LLMs in long, sustained interactions, hundreds of turns, frequent domain switching (math, philosophy, casual context), and even switching base models mid-stream. A consistent failure mode shows up regardless of model size or training quality: identity and coherence collapse over time. Models drift toward generic answers, lose internal consistency, or contradict earlier constraints, usually within a few dozen turns unless something external actively regulates the interaction. My claim is simple: This is not primarily a capability or scale issue. It’s an architectural one. LLMs are reactive systems. They don’t have an internal reference for identity, only transient context. There’s nothing to regulate against, so coherence decays predictably. I’ve been exploring a different framing: treating the human operator and the model as a single operator–model coupled system, where identity is defined externally and coherence is actively regulated. Key points: • Identity precedes intelligence. • The operator measurably influences system dynamics. • Stability is a control problem, not a prompting trick. • Ethics can be treated as constraints in the action space, not post-hoc filters. Using this approach, I’ve observed sustained coherence: • across hundreds of turns • across multiple base models • without relying on persistent internal memory I’m not claiming sentience, AGI, or anything mystical. I’m claiming that operator-coupled architectures behave differently than standalone agents. If this framing is wrong, I’m genuinely interested in where the reasoning breaks. If this problem is already “solved,” why does identity collapse still happen so reliably? Discussion welcome. Skepticism encouraged.
 
-4h ago
+5h ago
 
 ---
 
@@ -153,7 +153,7 @@ BBC • 1d ago
 
 **[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 10h ago
+The Washington Post • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ The New Yorker • 18h ago
 
 **[Chinese AI Euphoria Obscures a Gloomier Technological Reality](https://www.bloomberg.com/news/articles/2025-12-13/chinese-ai-euphoria-obscures-a-gloomier-technological-reality)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -233,7 +233,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 157 • 💬 110 • 21h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 157 • 💬 110 • 22h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -285,27 +285,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 99K • 👍 6K • 💬 385 • ⏱️ 4:01 • 7h ago
-
----
-
-**[AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!](https://www.youtube.com/watch?v=IHwt6UxiKOw)**
-
-Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
-
-📺 Matthew Berman
-
-👁️ 8K • 👍 371 • 💬 78 • ⏱️ 15:01 • 5h ago
-
----
-
-**[#1 New Ai Video Generator of 2025 Just Destroyed VEO 3 &amp; Sora 2](https://www.youtube.com/watch?v=3yhAlEKvnLw)**
-
-FULL AI COURSE HERE https://brainprojectai.com/courses/launch-your-ai-influencer-empire/?v=66e10e9ff65e Start Printing ...
-
-📺 Brain Project
-
-👁️ 3K • 👍 239 • 💬 34 • ⏱️ 14:19 • 14h ago
+👁️ 131K • 👍 7K • 💬 448 • ⏱️ 4:01 • 7h ago
 
 ---
 
@@ -315,7 +295,27 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 376K • 👍 9K • 💬 1K • ⏱️ 13:43 • 1d ago
+👁️ 387K • 👍 10K • 💬 1K • ⏱️ 13:43 • 1d ago
+
+---
+
+**[AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!](https://www.youtube.com/watch?v=IHwt6UxiKOw)**
+
+Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+
+📺 Matthew Berman
+
+👁️ 13K • 👍 532 • 💬 111 • ⏱️ 15:01 • 6h ago
+
+---
+
+**[#1 New Ai Video Generator of 2025 Just Destroyed VEO 3 &amp; Sora 2](https://www.youtube.com/watch?v=3yhAlEKvnLw)**
+
+FULL AI COURSE HERE https://brainprojectai.com/courses/launch-your-ai-influencer-empire/?v=66e10e9ff65e Start Printing ...
+
+📺 Brain Project
+
+👁️ 4K • 👍 266 • 💬 38 • ⏱️ 14:19 • 14h ago
 
 ---
 
@@ -325,25 +325,7 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 40K • 👍 2K • 💬 284 • ⏱️ 14:58 • 1d ago
-
----
-
-**[WE GOT AI SHOWS🔥 IT’S OVER🔥](https://www.youtube.com/watch?v=_qnEszhSV9U)**
-
-📺 Ben Esherick
-
-👁️ 669K • 👍 41K • 💬 812 • ⏱️ 0:36 • 1d ago
-
----
-
-**[“A Cow’s Prayer That Brought Dead Fish Back to Life”|#ai #shots #aigodhelps](https://www.youtube.com/watch?v=KpVOMse6bCg)**
-
-A Cow's Prayer That Brought Dead Fish Back to Life”|#ai #shots #godhelps #shotsfeed #ai #aistory #viral #shotstory #god ...
-
-📺 FIRE_BRAND_Ai🔥
-
-👁️ 13K • 💬 2 • ⏱️ 0:42 • 17h ago
+👁️ 42K • 👍 2K • 💬 287 • ⏱️ 14:58 • 1d ago
 
 ---
 
@@ -353,17 +335,7 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 51K • 👍 713 • 💬 140 • ⏱️ 10:31 • 1d ago
-
----
-
-**[OpenAI unveils GPT-5.2, its strongest AI model for professional use](https://www.youtube.com/watch?v=wXXvB8xVyPk)**
-
-CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The company said the model is better at ...
-
-📺 CNBC Television
-
-👁️ 30K • 👍 245 • 💬 74 • ⏱️ 3:04 • 1d ago
+👁️ 53K • 👍 726 • 💬 144 • ⏱️ 10:31 • 1d ago
 
 ---
 
@@ -373,7 +345,37 @@ In California, United States, in 2025, a young rider tests a groundbreaking AI O
 
 📺 AI Robot Lab
 
-👁️ 2.9M • 👍 14K • 💬 195 • ⏱️ 0:23 • 1d ago
+👁️ 3.0M • 👍 14K • 💬 198 • ⏱️ 0:23 • 1d ago
+
+---
+
+**[Why the AI Bubble Is Actually a $60T Black Hole](https://www.youtube.com/watch?v=21e5GZF3yx0)**
+
+Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------------- 🗞️ Sign up to our free newsletter to get smarter ...
+
+📺 GEN
+
+👁️ 24K • 👍 2K • 💬 295 • ⏱️ 22:33 • 12h ago
+
+---
+
+**[Oh God... Disney Have Signed An AI Deal With OpenAI...](https://www.youtube.com/watch?v=FaGO8cD_now)**
+
+https://youtu.be/Dgjyeaz73s4 We just keep digging down to the bottom, as we see the next stepping stone of Disney AI. It's real.
+
+📺 DazzReviews
+
+👁️ 58K • 👍 3K • 💬 767 • ⏱️ 18:45 • 1d ago
+
+---
+
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=RxCG7MSt0pk)**
+
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+
+📺 Impossible AIs
+
+👁️ 30K • 👍 163 • 💬 6 • ⏱️ 8:26 • 14h ago
 
 ---
 
@@ -473,7 +475,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 662 • ❤️ 193 • 21h ago
+⬇️ 662 • ❤️ 193 • 22h ago
 
 ---
 
@@ -569,7 +571,7 @@ Wan-Move enhances motion control in video generative models by integrating motio
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 166 • 💬 4 • ⭐ 923 • 8d ago
+▲ 166 • 💬 4 • ⭐ 923 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -593,7 +595,7 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 Visionary is an open web-native platform enabling real-time rendering of 3D Gaussian Splatting and meshes with efficient GPU-based inference, supporting dynamic content and generative models.
 
-▲ 71 • 💬 4 • ⭐ 287 • 3d ago
+▲ 71 • 💬 4 • ⭐ 287 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
 
@@ -738,7 +740,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 662 • 🔱 97 • 19h ago
+⭐ 662 • 🔱 97 • 20h ago
 
 ---
 

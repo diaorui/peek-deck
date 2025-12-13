@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T05:50:37.471278+00:00'
+updated: '2025-12-13T06:15:09.534172+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 05:50 UTC  
+**Last Updated:** December 13, 2025 at 06:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.1%  
-**7d:** +0.9%  
-**30d:** -0.5%  
+**24h:** -5.0%  
+**7d:** +0.8%  
+**30d:** -0.6%  
 **90d:** -31.7%  
 **1y:** -20.2%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 16h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 17h ago
 
 ---
 
@@ -96,7 +96,7 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 16h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 17h ago
 
 ---
 
@@ -104,7 +104,7 @@ Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by nu
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -144,7 +144,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 9h ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -214,7 +214,7 @@ Barron's • 1d ago
 
 BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
 
-ts2.tech • 14h ago
+ts2.tech • 15h ago
 
 ---
 
@@ -230,23 +230,23 @@ Bitcoinist.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
-
-Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 421 • 💬 12 • ⏱️ 48:44 • 13h ago
-
----
-
 **[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
 
 EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 130 • ⏱️ 31:03 • 8h ago
+👁️ 24K • 👍 1K • 💬 170 • ⏱️ 31:03 • 9h ago
+
+---
+
+**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
+
+Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 424 • 💬 13 • ⏱️ 48:44 • 13h ago
 
 ---
 
@@ -256,27 +256,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 716 • 💬 41 • ⏱️ 11:29 • 1d ago
-
----
-
-**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
-
-In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
-
-📺 FAROKH RADIO
-
-👁️ 24K • 👍 847 • 💬 120 • ⏱️ 1:10:46 • 2d ago
-
----
-
-**[A BTC EMERGENCY: Bitcoin &amp; ETH CRASH Now in Progress -  BTC has Begun the Next Leg Down of the CRASH](https://www.youtube.com/watch?v=AWBbOqm0Oxw)**
-
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
-
-📺 Doctor of Pump & Dump
-
-👁️ 4K • 👍 398 • ⏱️ 34:06 • 8h ago
+👁️ 18K • 👍 720 • 💬 42 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -286,7 +266,37 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 📺 Ivan on Tech
 
-👁️ 27K • 👍 2K • 💬 122 • ⏱️ 10:42 • 1d ago
+👁️ 28K • 👍 2K • 💬 122 • ⏱️ 10:42 • 1d ago
+
+---
+
+**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
+
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 58K • 👍 3K • 💬 255 • ⏱️ 10:23 • 2d ago
+
+---
+
+**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
+
+In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
+
+📺 FAROKH RADIO
+
+👁️ 25K • 👍 853 • 💬 122 • ⏱️ 1:10:46 • 2d ago
+
+---
+
+**[A BTC EMERGENCY: Bitcoin &amp; ETH CRASH Now in Progress -  BTC has Begun the Next Leg Down of the CRASH](https://www.youtube.com/watch?v=AWBbOqm0Oxw)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 5K • 👍 429 • ⏱️ 34:06 • 9h ago
 
 ---
 
@@ -296,7 +306,17 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 3K • 👍 232 • 💬 53 • ⏱️ 18:06 • 7h ago
+👁️ 5K • 👍 258 • 💬 55 • ⏱️ 18:06 • 7h ago
+
+---
+
+**[&quot;It Will Flip Ethereum&quot; - Scaramucci on Solana&#39;s Future](https://www.youtube.com/watch?v=4JXiR5vSw_I)**
+
+Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author of the new book Solana Rising, joins ...
+
+📺 CoinDesk
+
+👁️ 3K • 👍 115 • 💬 29 • ⏱️ 13:45 • 1d ago
 
 ---
 
@@ -307,26 +327,6 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 16h ago
-
----
-
-**[&quot;It Will Flip Ethereum&quot; - Scaramucci on Solana&#39;s Future](https://www.youtube.com/watch?v=4JXiR5vSw_I)**
-
-Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author of the new book Solana Rising, joins ...
-
-📺 CoinDesk
-
-👁️ 3K • 👍 110 • 💬 29 • ⏱️ 13:45 • 1d ago
-
----
-
-**[This is Not Normal For Ethereum](https://www.youtube.com/watch?v=agl0Kf2d7cQ)**
-
-ETH isn't just lagging — its story broke. It's down ~3× more than BTC from the highs, ETH/BTC is sitting at multi-year lows, and ...
-
-📺 Ryan’s Money Lab
-
-👁️ 4K • 👍 172 • 💬 25 • ⏱️ 15:43 • 1d ago
 
 ---
 
