@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T14:46:24.476860+00:00'
+updated: '2025-12-13T14:57:23.235996+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 14:46 UTC  
+**Last Updated:** December 13, 2025 at 14:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Been working on a pressure compensated, ros2 biomimetic robot. The idea is to build something that is cost effective, long autonomy, open source software to lower the cost of doing things underwater, to help science and conservation especially in areas and for teams that are priced out of participating. Working on a openCTD based CTD (montoring grade) to include in it. Pressure compensated camera. Aiming for about 1 m/s cruise. Im getting about ~6 hours runtime on a 5300mah for actuation (another of the same battery for compute), so including larger batteries is pretty simple, which should increase capacity both easily and cheaply. Lots of upgrade on the roadmap. And the one in the video is the previous structural design. Already have a new version but will make videos on that later. Oh, and because the design is pressure compensated, I estimate it can go VERY VERY DEEP. how deep? no idea yet. But there's essentially no air in the whole thing and i modified electronic components to help with pressure tolerance. Next step is replacing the cheap knockoff IMU i had, which just died on me for a more reliable, drop i2c and try spi or uart for it. Develop a dead reckoning package and start setting waypoints on the GUI. So it can work both tethered or in auv mode. If i can save some cash i will start playing with adding a DVL into the mix for more interesting autonomous missions. GUI is just a nicegui implementation. But it should allow me to control the robot remotely with tailscale or husarnet.
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
 
-3h ago
+4h ago
 
 ---
 
@@ -56,7 +56,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-16m ago
+26m ago
 
 ---
 
@@ -64,7 +64,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon weekend — open to anyone who loves robots, ROS, automation, hardware, or just tinkering with cool tech. 📅 18–19 Dec ⏰ 7:30–9 PM 📍 Shivajinagar, Pune Very chill meetup: talk, share ideas, network, show what you're working on — all are welcome (even if you're not attending ROSCon). If you're interested, sign up here: 👉 https://forms.gle/EQ8MkikLLtnixcno9 Would love to know what topics you'd want to chat about!
 
-41m ago
+52m ago
 
 ---
 
@@ -80,7 +80,7 @@ Zebra Technologies is looking to sell its autonomous mobile robot group or will 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 10h ago
 
 ---
 
@@ -136,7 +136,7 @@ ABC7 San Francisco • 1d ago
 
 The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
 
-AP News • 15h ago
+AP News • 16h ago
 
 ---
 
@@ -196,7 +196,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 173K • 👍 5K • 💬 433 • ⏱️ 17:44 • 2d ago
+👁️ 178K • 👍 6K • 💬 440 • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -206,7 +206,27 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 108K • 👍 2K • 💬 649 • ⏱️ 14:26 • 4d ago
+👁️ 110K • 👍 2K • 💬 663 • ⏱️ 14:26 • 4d ago
+
+---
+
+**[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
+
+PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
+
+📺 LIGHTS ARE OFF
+
+👁️ 109K • 👍 12K • 💬 1K • ⏱️ 8:45 • 6h ago
+
+---
+
+**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 139K • 👍 7K • 💬 933 • ⏱️ 19:33 • 6d ago
 
 ---
 
@@ -220,23 +240,13 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 ---
 
-**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+**[👉 Lady solder save grand mother from a robotic zebra 👈#ai #viral #army #trending #save](https://www.youtube.com/watch?v=uJeLWaEuWJo)**
 
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+Lady solder save grand mother from a robotic zebra #ai #viral #army #trending #save #AI #ArtificialIntelligence #Technology ...
 
-📺 Julia McCoy
+📺 Ai Adda 25
 
-👁️ 139K • 👍 7K • 💬 932 • ⏱️ 19:33 • 6d ago
-
----
-
-**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
-
-Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
-
-📺 TheAIGRID
-
-👁️ 18K • 👍 497 • 💬 112 • ⏱️ 42:48 • 5d ago
+👁️ 3K • ⏱️ 0:27 • 13h ago
 
 ---
 
@@ -256,37 +266,27 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 53K • 👍 555 • 💬 9 • ⏱️ 0:09 • 23h ago
+👁️ 57K • 👍 581 • 💬 10 • ⏱️ 0:09 • 23h ago
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=SbeWWtli99g)**
+**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
 
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
 
-📺 Humanoid Robot 🤖
+📺 TheAIGRID
 
-👁️ 223K • 👍 1K • 💬 9 • ⏱️ 0:17 • 5d ago
-
----
-
-**[Robotics Is About to Change Everything: 3 Stocks First in Line](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
-
-Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
-
-📺 MarketBeat
-
-👁️ 60K • 👍 2K • 💬 112 • ⏱️ 24:47 • 6d ago
+👁️ 18K • 👍 498 • 💬 112 • ⏱️ 42:48 • 5d ago
 
 ---
 
-**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
+**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
 
-Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
 
-📺 Kalil 4.0
+📺 Associated Press
 
-👁️ 19K • 👍 190 • 💬 18 • ⏱️ 0:27 • 5d ago
+👁️ 6K • 👍 51 • 💬 19 • ⏱️ 1:26 • 16h ago
 
 ---
 

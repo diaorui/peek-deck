@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T14:46:24.458985+00:00'
+updated: '2025-12-13T14:57:23.217847+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 14:46 UTC  
+**Last Updated:** December 13, 2025 at 14:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 21h ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 22h ago
 
 ---
 
@@ -71,7 +71,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 Google Gemini. Thoughts?
 
-42m ago
+53m ago
 
 ---
 
@@ -109,7 +109,7 @@ I'm not seeing enough people talk about this (or I see people only discuss one a
 
 I’ve been working with multiple LLMs in long, sustained interactions, hundreds of turns, frequent domain switching (math, philosophy, casual context), and even switching base models mid-stream. A consistent failure mode shows up regardless of model size or training quality: identity and coherence collapse over time. Models drift toward generic answers, lose internal consistency, or contradict earlier constraints, usually within a few dozen turns unless something external actively regulates the interaction. My claim is simple: This is not primarily a capability or scale issue. It’s an architectural one. LLMs are reactive systems. They don’t have an internal reference for identity, only transient context. There’s nothing to regulate against, so coherence decays predictably. I’ve been exploring a different framing: treating the human operator and the model as a single operator–model coupled system, where identity is defined externally and coherence is actively regulated. Key points: • Identity precedes intelligence. • The operator measurably influences system dynamics. • Stability is a control problem, not a prompting trick. • Ethics can be treated as constraints in the action space, not post-hoc filters. Using this approach, I’ve observed sustained coherence: • across hundreds of turns • across multiple base models • without relying on persistent internal memory I’m not claiming sentience, AGI, or anything mystical. I’m claiming that operator-coupled architectures behave differently than standalone agents. If this framing is wrong, I’m genuinely interested in where the reasoning breaks. If this problem is already “solved,” why does identity collapse still happen so reliably? Discussion welcome. Skepticism encouraged.
 
-13h ago
+14h ago
 
 ---
 
@@ -135,7 +135,7 @@ BBC • 23h ago
 
 **[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -283,7 +283,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 214K • 👍 10K • 💬 619 • ⏱️ 4:01 • 16h ago
+👁️ 235K • 👍 11K • 💬 658 • ⏱️ 4:01 • 16h ago
 
 ---
 
@@ -293,7 +293,7 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 412K • 👍 10K • 💬 1K • ⏱️ 13:43 • 1d ago
+👁️ 421K • 👍 10K • 💬 2K • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -303,7 +303,17 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 26K • 👍 874 • 💬 181 • ⏱️ 15:01 • 14h ago
+👁️ 29K • 👍 951 • 💬 197 • ⏱️ 15:01 • 14h ago
+
+---
+
+**[Create AI UGC Ads With Nano Banana That ACTUALLY Look REAL](https://www.youtube.com/watch?v=YbztbmMtDZM)**
+
+How to Create AI Influencer Ads with Nano Banana PRO that ACTUALLY look REAL Try Arcads AI ...
+
+📺 Dan Kieft
+
+👁️ 19K • 💬 9 • ⏱️ 13:22 • 1d ago
 
 ---
 
@@ -313,15 +323,7 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 45K • 👍 2K • 💬 313 • ⏱️ 14:58 • 1d ago
-
----
-
-**[WE GOT AI SHOWS🔥 IT’S OVER🔥](https://www.youtube.com/watch?v=_qnEszhSV9U)**
-
-📺 Ben Esherick
-
-👁️ 722K • 👍 42K • 💬 842 • ⏱️ 0:36 • 1d ago
+👁️ 46K • 👍 2K • 💬 313 • ⏱️ 14:58 • 1d ago
 
 ---
 
@@ -331,37 +333,7 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 55K • 👍 781 • 💬 147 • ⏱️ 10:31 • 1d ago
-
----
-
-**[GPT-5.2 Is HERE! (Plus Runway 4.5 and the Next Image AI Leaks)](https://www.youtube.com/watch?v=3-5czU5IxaU)**
-
-Hostinger is still running their Cyber Week Sale. Check it out here: http://hostinger.com/mattn8n The world of AI is trying to slow ...
-
-📺 Matt Wolfe
-
-👁️ 25K • 👍 972 • 💬 112 • ⏱️ 34:21 • 18h ago
-
----
-
-**[What happens if the AI bubble bursts? | 7.30](https://www.youtube.com/watch?v=8YAfm7o5yiI)**
-
-The soaring values of the big tech companies have sparked fears of an AI bubble one that could pop with damaging economic ...
-
-📺 ABC News In-depth
-
-👁️ 20K • 👍 194 • ⏱️ 6:01 • 1d ago
-
----
-
-**[FULL: President Trump signs executive orders on AI](https://www.youtube.com/watch?v=j4YeshDo_Qw)**
-
-President Trump signed executive orders on artificial intelligence and the economy in the Oval Office on Thursday. The White ...
-
-📺 LiveNOW from FOX
-
-👁️ 11K • 👍 178 • 💬 155 • ⏱️ 8:26 • 1d ago
+👁️ 56K • 👍 798 • 💬 147 • ⏱️ 10:31 • 2d ago
 
 ---
 
@@ -371,7 +343,37 @@ In California, United States, in 2025, a young rider tests a groundbreaking AI O
 
 📺 AI Robot Lab
 
-👁️ 3.2M • 👍 16K • 💬 210 • ⏱️ 0:23 • 2d ago
+👁️ 3.4M • 👍 17K • 💬 221 • ⏱️ 0:23 • 2d ago
+
+---
+
+**[When AI Gets an Innocent Man Arrested](https://www.youtube.com/watch?v=B9M4F_U1eEw)**
+
+In today's body camera video, we're covering the arrest of Jason Killinger. We are a news agency dedicated to delivering factual ...
+
+📺 EWU Bodycam
+
+👁️ 1.4M • 👍 45K • 💬 26K • ⏱️ 17:08 • 2d ago
+
+---
+
+**[What happens if the AI bubble bursts? | 7.30](https://www.youtube.com/watch?v=8YAfm7o5yiI)**
+
+The soaring values of the big tech companies have sparked fears of an AI bubble one that could pop with damaging economic ...
+
+📺 ABC News In-depth
+
+👁️ 21K • 👍 206 • ⏱️ 6:01 • 1d ago
+
+---
+
+**[What to Learn in AI in 2026 (besides AI Agents)](https://www.youtube.com/watch?v=VASyr2DxEKE)**
+
+Check out Nebius today: ...
+
+📺 The Cutting Edge School
+
+👁️ 28K • 👍 2K • 💬 160 • ⏱️ 13:41 • 2d ago
 
 ---
 
@@ -517,20 +519,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 24 • 💬 2 • ⭐ 6,693 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -545,6 +533,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 24 • 💬 2 • ⭐ 6,733 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance](https://huggingface.co/papers/2512.08765)**
 
 *Ruihang Chu, Yefei He, Zhekai Chen et al. (13 authors)*
@@ -553,7 +555,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 118 • 💬 3 • ⭐ 308 • 4d ago
+▲ 118 • 💬 3 • ⭐ 314 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -656,13 +658,13 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.5k • 🔱 276 • 9h ago
+⭐ 2.5k • 🔱 278 • 1m ago
 
 ---
 
 **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)**
 
-🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly[建议统一走商店安装，本地安装后续不好同步更新]
+🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly[正在开发 Sidebar 高级功能，敬请期待]
 
 `JavaScript` `banana` `gemini` `prompt`
 
@@ -706,7 +708,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 945 • 🔱 66 • 4d ago
+⭐ 946 • 🔱 66 • 4d ago
 
 ---
 
@@ -736,7 +738,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 668 • 🔱 97 • 4d ago
+⭐ 669 • 🔱 97 • 4d ago
 
 ---
 

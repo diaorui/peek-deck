@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T14:46:24.473608+00:00'
+updated: '2025-12-13T14:57:23.232654+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 14:46 UTC  
+**Last Updated:** December 13, 2025 at 14:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,8 +44,8 @@ Live Ethereum monitoring dashboard
 
 **24h:** +1.5%  
 **7d:** +1.8%  
-**30d:** +0.3%  
-**90d:** -31.1%  
+**30d:** +0.4%  
+**90d:** -31.0%  
 **1y:** -19.5%  
 
 ---
@@ -238,17 +238,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 195 • ⏱️ 31:03 • 17h ago
-
----
-
-**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
-
-Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 438 • 💬 14 • ⏱️ 48:44 • 22h ago
+👁️ 39K • 👍 2K • 💬 238 • ⏱️ 31:03 • 18h ago
 
 ---
 
@@ -262,13 +252,23 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=WNjd5vnNnHo)**
+**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
 
-📺 Guitar Repair@StringTech
+📺 Discover Crypto
 
-👁️ 5K • 👍 4K • 5h ago
+👁️ 6K • 👍 439 • 💬 14 • ⏱️ 48:44 • 22h ago
+
+---
+
+**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
+
+What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
+
+📺 Thomas Kralow
+
+👁️ 19K • 👍 734 • 💬 42 • ⏱️ 11:29 • 2d ago
 
 ---
 
@@ -282,13 +282,23 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 ---
 
-**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
+**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
 
-What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
+In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
 
-📺 Thomas Kralow
+📺 FAROKH RADIO
 
-👁️ 18K • 👍 730 • 💬 42 • ⏱️ 11:29 • 2d ago
+👁️ 25K • 👍 869 • 💬 124 • ⏱️ 1:10:46 • 2d ago
+
+---
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=SE7db9ft5go)**
+
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Demat Account Dhan ...
+
+📺 Trade with Burner
+
+👁️ 4K • 👍 742 • 44m ago
 
 ---
 
@@ -298,17 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 118 • 💬 2 • ⏱️ 4:36 • 13h ago
-
----
-
-**[A BTC EMERGENCY: Bitcoin &amp; ETH CRASH Now in Progress -  BTC has Begun the Next Leg Down of the CRASH](https://www.youtube.com/watch?v=AWBbOqm0Oxw)**
-
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
-
-📺 Doctor of Pump & Dump
-
-👁️ 5K • 👍 467 • ⏱️ 34:06 • 17h ago
+👁️ 2K • 👍 122 • 💬 2 • ⏱️ 4:36 • 13h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 6K • 👍 308 • 💬 52 • ⏱️ 18:06 • 16h ago
+👁️ 7K • 👍 321 • 💬 59 • ⏱️ 18:06 • 16h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETH isn't just lagging — its story broke. It's down ~3× more than BTC from th
 
 📺 Ryan’s Money Lab
 
-👁️ 4K • 👍 178 • 💬 25 • ⏱️ 15:43 • 1d ago
+👁️ 4K • 👍 180 • 💬 25 • ⏱️ 15:43 • 1d ago
 
 ---
 

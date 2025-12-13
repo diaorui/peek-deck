@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T14:46:24.467553+00:00'
+updated: '2025-12-13T14:57:23.226509+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 14:46 UTC  
+**Last Updated:** December 13, 2025 at 14:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -0.2%  
-**30d:** -4.8%  
-**90d:** -21.7%  
-**1y:** -11.1%  
+**24h:** +0.4%  
+**7d:** -0.4%  
+**30d:** -4.9%  
+**90d:** -21.8%  
+**1y:** -11.2%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 This will age well in 10 years. See you then.
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +93,7 @@ This will age well in 10 years. See you then.
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1d ago
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -197,7 +197,7 @@ Decrypt • 16h ago
 
 Rising Japanese rates and a stronger yen threaten carry trades and could pressure crypto markets despite easing U.S. policy.
 
-CoinDesk • 45m ago
+CoinDesk • 56m ago
 
 ---
 
@@ -313,7 +313,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 121 • ⏱️ 16:27 • 16h ago
+👁️ 25K • 👍 1K • 💬 119 • ⏱️ 16:27 • 16h ago
 
 ---
 
@@ -323,27 +323,37 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 262 • ⏱️ 46:26 • 22h ago
+👁️ 25K • 👍 1K • 💬 264 • ⏱️ 46:26 • 22h ago
 
 ---
 
-**[Bitcoin OG’s Are Warning About THIS NEW Development](https://www.youtube.com/watch?v=aW3XPLNwe3E)**
+**[🚨 8 BULLISH THINGS YET BITCOIN DEAD?!?!?!?! 🤡](https://www.youtube.com/watch?v=cpWejE3vMFA)**
 
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
 
-📺 Crypto Tips
+📺 BRITISH HODL
 
-👁️ 8K • 👍 638 • 💬 101 • ⏱️ 11:48 • 21h ago
+👁️ 10K • 👍 752 • 💬 272 • ⏱️ 18:04 • 19h ago
 
 ---
 
-**[Bitcoin Made Me Rethink Everything About Debt](https://www.youtube.com/watch?v=NNEmw1--FI8)**
+**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
 
-Start Building Your Bitcoin Plan: https://www.austintalksmoney.com/financial-planning-tips/ ▻ Where I Buy My Bitcoin: ...
+EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
 
-📺 Austin Talks Money
+📺 Altcoin Daily
 
-👁️ 2K • 👍 92 • 💬 40 • ⏱️ 15:25 • 11h ago
+👁️ 39K • 👍 2K • 💬 238 • ⏱️ 31:03 • 18h ago
+
+---
+
+**[Some of the Best Times to Buy Bitcoin](https://www.youtube.com/watch?v=Vv6ex7ZcaYE)**
+
+Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
+
+📺 Benjamin Cowen
+
+👁️ 29K • 👍 611 • 💬 17 • ⏱️ 0:43 • 20h ago
 
 ---
 
@@ -357,51 +367,43 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 ---
 
-**[$100k Bitcoin SHORT SQUEEZE LOADING! Why A MAJOR Bitcoin RALLY Could Happen SOON! Price prediction](https://www.youtube.com/watch?v=LRgyEqUjqNQ)**
-
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
-
-📺 Crypto Jebb
-
-👁️ 7K • 👍 378 • 💬 129 • ⏱️ 11:54 • 19h ago
-
----
-
 **[Crypto will be far more important in 10 years than it is today, says Bitwise CEO](https://www.youtube.com/watch?v=j-8hq9Nc87Q)**
 
 CNBC's "The Exchange" team discusses why the crypto market is under pressure and where cryptocurrencies like bitcoin may go ...
 
 📺 CNBC Television
 
-👁️ 19K • 👍 200 • 💬 104 • ⏱️ 4:06 • 1d ago
+👁️ 20K • 👍 208 • 💬 106 • ⏱️ 4:06 • 1d ago
 
 ---
 
-**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
+**[$100k Bitcoin SHORT SQUEEZE LOADING! Why A MAJOR Bitcoin RALLY Could Happen SOON! Price prediction](https://www.youtube.com/watch?v=LRgyEqUjqNQ)**
 
-EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
 
-📺 Altcoin Daily
+📺 Crypto Jebb
 
-👁️ 36K • 👍 2K • 💬 195 • ⏱️ 31:03 • 17h ago
-
----
-
-**[Why Old Bitcoin Holders Are Selling Now](https://www.youtube.com/watch?v=2L_ct_6hTNM)**
-
-Everyone thinks Bitcoin still runs on a clean four-year cycle — but the data, the holders, and the market dynamics tell a different ...
-
-📺 Swan Bitcoin
-
-👁️ 9K • 👍 206 • 💬 14 • ⏱️ 0:50 • 1d ago
+👁️ 7K • 👍 387 • 💬 141 • ⏱️ 11:54 • 19h ago
 
 ---
 
-**[Why Banks Want The Bitcoin Death Spiral](https://www.youtube.com/watch?v=TecYUGMqlvs)**
+**[Bitcoin: Institutional Technical Analysis, Levels, Education And Forecast](https://www.youtube.com/watch?v=a_PGUuCG8Yk)**
 
-📺 Andrei Jikh
+Chief Market Strategist Gareth Soloway gives institutional level analysis and insights into Bitcoin and its chart. He covers the key ...
 
-👁️ 65K • 👍 957 • 💬 46 • ⏱️ 0:35 • 1d ago
+📺 Gareth Soloway
+
+👁️ 2K • 👍 303 • 💬 17 • ⏱️ 14:00 • 27m ago
+
+---
+
+**[Bitcoin OG’s Are Warning About THIS NEW Development](https://www.youtube.com/watch?v=aW3XPLNwe3E)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 8K • 👍 654 • 💬 104 • ⏱️ 11:48 • 21h ago
 
 ---
 
