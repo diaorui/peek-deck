@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T09:39:10.021707+00:00'
+updated: '2025-12-13T09:49:58.542321+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 09:39 UTC  
+**Last Updated:** December 13, 2025 at 09:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -1.9%  
 **7d:** +0.1%  
-**30d:** -4.4%  
+**30d:** -4.5%  
 **90d:** -21.5%  
 **1y:** -10.8%  
 
@@ -141,7 +141,7 @@ C’mon Bitcoin, you can do it
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -295,7 +295,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 **[Ask HN: Is there a local dev tool you wish existed because of a repeating issue?](https://news.ycombinator.com/item?id=46253198)**
 
-⬆️ 1 • 💬 0 • 32m ago
+⬆️ 1 • 💬 0 • 43m ago
 
 ---
 
@@ -379,7 +379,7 @@ Welcome to the most blisteringly honest breakdown of the future you keep trying 
 
 📺 Swan Bitcoin
 
-👁️ 14K • 👍 864 • 💬 88 • ⏱️ 14:56 • 19h ago
+👁️ 14K • 👍 864 • 💬 88 • ⏱️ 14:56 • 20h ago
 
 ---
 

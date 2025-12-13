@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T09:39:10.013245+00:00'
+updated: '2025-12-13T09:49:58.533858+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 09:39 UTC  
+**Last Updated:** December 13, 2025 at 09:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -153,7 +153,7 @@ The Washington Post • 14h ago
 
 Chipmaker Broadcom tumbles 11.4% after financial forecast disappoints Wall Street
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 12h ago
 
 **[Oracle-Broadcom one-two punch hits AI trade, but investor optimism persists](https://www.reuters.com/business/finance/oracles-stumble-hits-ai-trade-many-remain-bullish-2025-12-12/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
@@ -207,7 +207,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 388 • 💬 207 • 12h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 388 • 💬 207 • 13h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.4k • 🔱 272 • 4h ago
+⭐ 2.4k • 🔱 272 • 5h ago
 
 ---
 
