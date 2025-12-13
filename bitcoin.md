@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T17:45:50.131427+00:00'
+updated: '2025-12-13T17:56:50.609943+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 17:45 UTC  
+**Last Updated:** December 13, 2025 at 17:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -48,7 +48,7 @@ Live Bitcoin monitoring dashboard
 **7d:** -0.3%  
 **30d:** -4.9%  
 **90d:** -21.8%  
-**1y:** -11.1%  
+**1y:** -11.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 This will age well in 10 years. See you then.
 
-7h ago
+8h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 4h ago
 
 The Nasdaq 100 rebalance saw six companies dropped and three new additions, with changes taking effect on December 22, but Strategy's bitcoin-heavy strategy secured its spot.
 
-CoinDesk • 20m ago
+CoinDesk • 31m ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 22m ago
+CoinDesk • 33m ago
 
 ---
 
@@ -247,7 +247,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 2 • 💬 1 • 30m ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 2 • 💬 1 • 41m ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -403,7 +403,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 256 • ⏱️ 31:03 • 20h ago
+👁️ 42K • 👍 2K • 💬 256 • ⏱️ 31:03 • 21h ago
 
 ---
 
