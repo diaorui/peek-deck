@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T19:09:03.686105+00:00'
+updated: '2025-12-13T19:25:50.117905+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 19:09 UTC  
+**Last Updated:** December 13, 2025 at 19:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,118.22
+### $3,145.84
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +1.3%  
-**30d:** -0.1%  
-**90d:** -31.4%  
-**1y:** -19.9%  
+**24h:** +0.8%  
+**7d:** +1.4%  
+**30d:** +0.0%  
+**90d:** -31.3%  
+**1y:** -19.8%  
 
 ---
 
@@ -156,7 +156,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 256 • ⏱️ 31:03 • 22h ago
+👁️ 45K • 👍 2K • 💬 265 • ⏱️ 31:03 • 22h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 443 • 💬 14 • ⏱️ 48:44 • 1d ago
+👁️ 6K • 👍 444 • 💬 14 • ⏱️ 48:44 • 1d ago
 
 ---
 
@@ -256,7 +256,17 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 📺 Ivan on Tech
 
-👁️ 28K • 👍 2K • 💬 122 • ⏱️ 10:42 • 2d ago
+👁️ 29K • 👍 2K • 💬 122 • ⏱️ 10:42 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=gZPkmtNiAd8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 610 • 👍 68 • ⏱️ 4:05 • 1h ago
 
 ---
 
@@ -276,17 +286,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 735 • 💬 42 • ⏱️ 11:29 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pqKrclgrgTE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 129 • 💬 2 • ⏱️ 4:36 • 17h ago
+👁️ 19K • 👍 734 • 💬 42 • ⏱️ 11:29 • 2d ago
 
 ---
 
@@ -300,23 +300,23 @@ Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE 
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=WNjd5vnNnHo)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Guitar Repair@StringTech
-
-👁️ 6K • 👍 4K • 10h ago
-
----
-
 **[This is Not Normal For Ethereum](https://www.youtube.com/watch?v=agl0Kf2d7cQ)**
 
 ETH isn't just lagging — its story broke. It's down ~3× more than BTC from the highs, ETH/BTC is sitting at multi-year lows, and ...
 
 📺 Ryan’s Money Lab
 
-👁️ 4K • 👍 181 • 💬 25 • ⏱️ 15:43 • 2d ago
+👁️ 4K • 👍 183 • 💬 25 • ⏱️ 15:43 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pqKrclgrgTE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 129 • 💬 2 • ⏱️ 4:36 • 17h ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 7K • 👍 333 • 💬 72 • ⏱️ 18:06 • 20h ago
+👁️ 8K • 👍 337 • 💬 70 • ⏱️ 18:06 • 20h ago
 
 ---
 

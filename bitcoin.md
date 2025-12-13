@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T19:09:03.680123+00:00'
+updated: '2025-12-13T19:25:50.112685+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 19:09 UTC  
+**Last Updated:** December 13, 2025 at 19:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,986.82
+### $90,301.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.2%  
-**30d:** -4.8%  
-**90d:** -21.7%  
-**1y:** -11.1%  
+**24h:** -0.0%  
+**7d:** -0.4%  
+**30d:** -4.9%  
+**90d:** -21.8%  
+**1y:** -11.2%  
 
 ---
 
@@ -143,7 +143,7 @@ Any thoughts on what is causing it?
 
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 6h ago
 
 The Nasdaq 100 rebalance saw six companies dropped and three new additions, with changes taking effect on December 22, but Strategy's bitcoin-heavy strategy secured its spot.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -235,7 +235,7 @@ Yahoo Finance • 4h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 1h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 2h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -311,23 +311,23 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ## YouTube Videos: "bitcoin"
 
-**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 770 • 👍 84 • 💬 4 • ⏱️ 21:14 • 4h ago
-
----
-
 **[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
 
 Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 943 • 💬 24 • ⏱️ 48:39 • 5h ago
+👁️ 18K • 👍 1K • 💬 24 • ⏱️ 48:39 • 5h ago
+
+---
+
+**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 134 • 💬 7 • ⏱️ 21:14 • 4h ago
 
 ---
 
@@ -337,17 +337,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 1K • 👍 98 • 💬 11 • ⏱️ 13:45 • 3h ago
-
----
-
-**[Bitcoin: Institutional Technical Analysis, Levels, Education And Forecast](https://www.youtube.com/watch?v=a_PGUuCG8Yk)**
-
-Chief Market Strategist Gareth Soloway gives institutional level analysis and insights into Bitcoin and its chart. He covers the key ...
-
-📺 Gareth Soloway
-
-👁️ 9K • 👍 1K • 💬 147 • ⏱️ 14:00 • 4h ago
+👁️ 4K • 👍 274 • 💬 27 • ⏱️ 13:45 • 3h ago
 
 ---
 
@@ -357,47 +347,7 @@ America is drowning in debt—and politicians aren't telling you the real soluti
 
 📺 Discover Crypto
 
-👁️ 639 • 👍 85 • 💬 12 • ⏱️ 7:25 • 3h ago
-
----
-
-**[Bitcoin: The Beauty of Mathematics (Part 65)](https://www.youtube.com/watch?v=JAkNLbhTjFg)**
-
-Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
-
-📺 Benjamin Cowen
-
-👁️ 28K • 👍 2K • 💬 59 • ⏱️ 5:06 • 13h ago
-
----
-
-**[Fed Restarts QE? Why This $54B Pivot Changes Everything for Bitcoin!](https://www.youtube.com/watch?v=UT9Ok-n-G4I)**
-
-The Fed just restarted the money printer — call it “reserve management,” but liquidity is rising fast. Bitcoin is now approved as ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 121 • ⏱️ 16:27 • 21h ago
-
----
-
-**[BITCOIN: THIS IS MASSIVE NEWS!!!](https://www.youtube.com/watch?v=9_DFnmjZzRk)**
-
-Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BUUID2 (up to $2200 USDT) My Strategy ...
-
-📺 Conor Kenny
-
-👁️ 11K • 👍 641 • 💬 98 • ⏱️ 13:29 • 12h ago
-
----
-
-**[Oh Sh*t!! Trump’s Warning Just Hit Bitcoin &amp; XRP Hard!](https://www.youtube.com/watch?v=2O5wgbPP6ds)**
-
-Get ready, because today's episode dives straight into the chaos rocking crypto markets after Trump's latest warning sent ...
-
-📺 A Chain of Blocks
-
-👁️ 25K • 👍 2K • 💬 131 • ⏱️ 14:39 • 20h ago
+👁️ 1K • 👍 116 • 💬 16 • ⏱️ 7:25 • 3h ago
 
 ---
 
@@ -407,7 +357,57 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 256 • ⏱️ 31:03 • 22h ago
+👁️ 45K • 👍 2K • 💬 265 • ⏱️ 31:03 • 22h ago
+
+---
+
+**[it&#39;s boring, but this is how you get rich with bitcoin in 2026](https://www.youtube.com/watch?v=Yd9qNj57b-A)**
+
+these 6 boring habits don't look impressive… but they're how I plan to win with bitcoin in 2026 Check out the Blockstream Jade ...
+
+📺 BTC Isla
+
+👁️ 15K • 👍 1K • 💬 247 • ⏱️ 10:24 • 1d ago
+
+---
+
+**[Fed Restarts QE? Why This $54B Pivot Changes Everything for Bitcoin!](https://www.youtube.com/watch?v=UT9Ok-n-G4I)**
+
+The Fed just restarted the money printer — call it “reserve management,” but liquidity is rising fast. Bitcoin is now approved as ...
+
+📺 Simply Bitcoin
+
+👁️ 27K • 👍 2K • 💬 122 • ⏱️ 16:27 • 21h ago
+
+---
+
+**[Bitcoin: Institutional Technical Analysis, Levels, Education And Forecast](https://www.youtube.com/watch?v=a_PGUuCG8Yk)**
+
+Chief Market Strategist Gareth Soloway gives institutional level analysis and insights into Bitcoin and its chart. He covers the key ...
+
+📺 Gareth Soloway
+
+👁️ 15K • 👍 2K • 💬 186 • ⏱️ 14:00 • 4h ago
+
+---
+
+**[Bitcoin: The Beauty of Mathematics (Part 65)](https://www.youtube.com/watch?v=JAkNLbhTjFg)**
+
+Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
+
+📺 Benjamin Cowen
+
+👁️ 31K • 👍 2K • 💬 64 • ⏱️ 5:06 • 14h ago
+
+---
+
+**[THE ULTIMATE ORANGE PILL FOR BITCOIN: CREDIT, RISK, AND YIELD](https://www.youtube.com/watch?v=8ObKlwsh4d0)**
+
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+
+📺 Adam Livingston
+
+👁️ 3K • 👍 492 • 💬 77 • ⏱️ 38:01 • 7h ago
 
 ---
 

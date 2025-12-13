@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T19:09:03.689357+00:00'
+updated: '2025-12-13T19:25:50.120715+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 19:09 UTC  
+**Last Updated:** December 13, 2025 at 19:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 43m ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 1h ago
 
 ---
 
@@ -82,7 +82,7 @@ Zebra Technologies is looking to sell its autonomous mobile robot group or will 
 
 An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/transitiverobotics/transact) • 44m ago
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 1h ago
 
 ---
 
@@ -200,7 +200,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 183K • 👍 6K • 💬 462 • ⏱️ 17:44 • 3d ago
+👁️ 189K • 👍 6K • 💬 466 • ⏱️ 17:44 • 3d ago
 
 ---
 
@@ -210,27 +210,27 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 111K • 👍 2K • 💬 669 • ⏱️ 14:26 • 4d ago
+👁️ 112K • 👍 2K • 💬 674 • ⏱️ 14:26 • 5d ago
 
 ---
 
-**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
+**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
 
-Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
+Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
 
-📺 TheAIGRID
+📺 The Military Show
 
-👁️ 18K • 👍 498 • 💬 112 • ⏱️ 42:48 • 5d ago
+👁️ 341K • 👍 9K • 💬 544 • ⏱️ 16:55 • 2d ago
 
 ---
 
-**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
+**[This Is What A Robot Girlfriend Expo Looks Like](https://www.youtube.com/watch?v=L-URSs7OgEs)**
 
-Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
+The future of relationships is already here. I walked through the world's first robot girlfriend expo and filmed every model designed ...
 
-📺 CNN
+📺 SYN:THETIC_BLOOD
 
-👁️ 88K • 👍 1K • 💬 451 • ⏱️ 0:41 • 5d ago
+👁️ 202K • 👍 2K • 💬 54 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -240,57 +240,55 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 7K • 👍 55 • 💬 19 • ⏱️ 1:26 • 20h ago
+👁️ 8K • 👍 57 • 💬 20 • ⏱️ 1:26 • 20h ago
 
 ---
 
-**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
+**[Silicon Valley’s Newest AI Diaper Changer Is Unreal 👶🤖 AI Baby Changer 4.0 — The Future Is Here](https://www.youtube.com/watch?v=x5P16JwG6fU)**
 
-GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
-
-📺 Gen Women AI
-
-👁️ 59K • 👍 601 • 💬 12 • ⏱️ 0:09 • 1d ago
-
----
-
-**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
-
-Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
-
-📺 Kalil 4.0
-
-👁️ 20K • 👍 194 • 💬 18 • ⏱️ 0:27 • 6d ago
-
----
-
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
-
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
-
-📺 The Straits Times
-
-👁️ 190K • 👍 893 • 💬 281 • ⏱️ 0:47 • 4d ago
-
----
-
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=SbeWWtli99g)**
-
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
-
-📺 Humanoid Robot 🤖
-
-👁️ 224K • 👍 1K • 💬 9 • ⏱️ 0:17 • 5d ago
-
----
-
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
-
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the future of Smart Parenting, BabyTech and AI ...
 
 📺 AI Robot Lab
 
-👁️ 82K • 👍 804 • 💬 21 • ⏱️ 0:25 • 6d ago
+👁️ 699K • 👍 1K • 💬 37 • ⏱️ 0:20 • 3d ago
+
+---
+
+**[Google AI Humanoid Robot Purchased - Full Review. #robotics #aihumanoid #airobot #futuretech](https://www.youtube.com/watch?v=Af8UXjAOaKc)**
+
+📺 AI . Robot
+
+👁️ 1.2M • 👍 10K • 💬 89 • ⏱️ 0:18 • 3d ago
+
+---
+
+**[Unitree Debuts the World’s First Humanoid Robot “App Store”](https://www.youtube.com/watch?v=AEhnXtBEC_E)**
+
+Unitree welcomes users and developers worldwide to co-develop and share together. Exceptional developers will receive ...
+
+📺 Unitree Robotics
+
+👁️ 7K • 👍 207 • 💬 42 • ⏱️ 0:35 • 14h ago
+
+---
+
+**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
+
+Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
+
+📺 TheAIGRID
+
+👁️ 18K • 👍 499 • 💬 112 • ⏱️ 42:48 • 5d ago
+
+---
+
+**[Mark Zuckerberg Unveils Meta’s Insane One-Wheel Machine! #facebook #futuretech #robotics #droneexpo](https://www.youtube.com/watch?v=5pkblv0dQKE)**
+
+Mark Zuckerberg just shocked the tech world! Meta officially unveils its futuristic One Wheel Vehicle — a next-gen personal ...
+
+📺 Izzatunnisa Hasna
+
+👁️ 9.2M • 👍 26K • 💬 378 • ⏱️ 0:13 • 3d ago
 
 ---
 

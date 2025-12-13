@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T19:09:03.671768+00:00'
+updated: '2025-12-13T19:25:50.105368+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - social
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 19:09 UTC  
+**Last Updated:** December 13, 2025 at 19:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -75,7 +75,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
 
-30m ago
+47m ago
 
 ---
 
@@ -149,7 +149,7 @@ OpenAI • 2d ago
 
 Disney has a licensing deal with OpenAI now, by the way.
 
-Gizmodo • 6m ago
+Gizmodo • 22m ago
 
 ---
 
@@ -157,7 +157,7 @@ Gizmodo • 6m ago
 
 Some Tesla models now feature Grok, an AI assistant with a controversial track record. Could putting AI in the driver’s seat be a dangerous move?
 
-USA Today • 11m ago
+USA Today • 27m ago
 
 ---
 
@@ -249,7 +249,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 80 • 💬 125 • 22h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 80 • 💬 125 • 23h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -279,13 +279,33 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 ## YouTube Videos: "ai"
 
+**[Our 2025 reports on artificial intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
+
+From November, Anderson Cooper's report on why Anthropic's CEO spends so much time warning of AI's potential dangers.
+
+📺 60 Minutes
+
+👁️ 57K • 👍 2K • 💬 207 • ⏱️ 1:21:07 • 7h ago
+
+---
+
 **[OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)**
 
 Deploying on Railway feels like magic. Get $20 in free credits to try it out - https://railway.com/?referralCode=fireship Sam Altman ...
 
 📺 Fireship
 
-👁️ 256K • 👍 12K • 💬 687 • ⏱️ 4:01 • 20h ago
+👁️ 274K • 👍 12K • 💬 714 • ⏱️ 4:01 • 21h ago
+
+---
+
+**[Trump Just Sold America’s AI Advantage to China (This Is Not Good For the U.S.)](https://www.youtube.com/watch?v=fkmsmvfbGtY)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 7K • 👍 673 • 💬 252 • ⏱️ 16:19 • 4h ago
 
 ---
 
@@ -295,57 +315,7 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 434K • 👍 10K • 💬 2K • ⏱️ 13:43 • 1d ago
-
----
-
-**[The AI Jobs Crash is COMING... And We&#39;re Not Even CLOSE to Ready](https://www.youtube.com/watch?v=cXeRtejbj1E)**
-
-AI is NOT the bubble... the real bubble is jobs. Entire industries are on the verge of disappearing, and college degrees are rapidly ...
-
-📺 Glenn Beck Clips
-
-👁️ 37K • 👍 1K • 💬 442 • ⏱️ 11:23 • 2d ago
-
----
-
-**[Our 2025 reports on artificial intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
-
-From November, Anderson Cooper's report on why Anthropic's CEO spends so much time warning of AI's potential dangers.
-
-📺 60 Minutes
-
-👁️ 35K • 👍 1K • 💬 145 • ⏱️ 1:21:07 • 7h ago
-
----
-
-**[AGI Just Became Real... It’s done!](https://www.youtube.com/watch?v=L8J3OSQfcT4)**
-
-A Tokyo startup just shocked the industry. Integral AI claims it built the first AGI-capable system — a model that learns new skills ...
-
-📺 AI Revolution
-
-👁️ 47K • 👍 2K • 💬 329 • ⏱️ 14:58 • 1d ago
-
----
-
-**[AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!](https://www.youtube.com/watch?v=IHwt6UxiKOw)**
-
-Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
-
-📺 Matthew Berman
-
-👁️ 32K • 👍 1K • 💬 212 • ⏱️ 15:01 • 19h ago
-
----
-
-**[The 6 Most Profitable AI Businesses to Start in 2026](https://www.youtube.com/watch?v=X_X7WE1JBRg)**
-
-Get your FREE Executive Assistant Playbook here: https://go.danmartell.com/4oCwS0c Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 45K • 👍 3K • 💬 188 • ⏱️ 19:49 • 1d ago
+👁️ 443K • 👍 11K • 💬 2K • ⏱️ 13:43 • 2d ago
 
 ---
 
@@ -355,27 +325,57 @@ Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------
 
 📺 GEN
 
-👁️ 32K • 👍 2K • 💬 360 • ⏱️ 22:33 • 1d ago
+👁️ 35K • 👍 2K • 💬 396 • ⏱️ 22:33 • 1d ago
 
 ---
 
-**[Create AI UGC Ads With Nano Banana That ACTUALLY Look REAL](https://www.youtube.com/watch?v=YbztbmMtDZM)**
+**[The AI Jobs Crash is COMING... And We&#39;re Not Even CLOSE to Ready](https://www.youtube.com/watch?v=cXeRtejbj1E)**
 
-How to Create AI Influencer Ads with Nano Banana PRO that ACTUALLY look REAL Try Arcads AI ...
+AI is NOT the bubble... the real bubble is jobs. Entire industries are on the verge of disappearing, and college degrees are rapidly ...
 
-📺 Dan Kieft
+📺 Glenn Beck Clips
 
-👁️ 20K • 💬 9 • ⏱️ 13:22 • 1d ago
+👁️ 38K • 👍 1K • 💬 450 • ⏱️ 11:23 • 2d ago
 
 ---
 
-**[Howard Marks Says AI Terrifying for Jobs](https://www.youtube.com/watch?v=zIzmceyc4_s)**
+**[AGI Just Became Real... It’s done!](https://www.youtube.com/watch?v=L8J3OSQfcT4)**
 
-Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillance he thinks the current market seems ...
+A Tokyo startup just shocked the industry. Integral AI claims it built the first AGI-capable system — a model that learns new skills ...
 
-📺 Bloomberg Podcasts
+📺 AI Revolution
 
-👁️ 58K • 👍 817 • 💬 150 • ⏱️ 10:31 • 2d ago
+👁️ 48K • 👍 2K • 💬 334 • ⏱️ 14:58 • 1d ago
+
+---
+
+**[The 6 Most Profitable AI Businesses to Start in 2026](https://www.youtube.com/watch?v=X_X7WE1JBRg)**
+
+Get your FREE Executive Assistant Playbook here: https://go.danmartell.com/4oCwS0c Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 50K • 👍 3K • 💬 206 • ⏱️ 19:49 • 1d ago
+
+---
+
+**[AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!](https://www.youtube.com/watch?v=IHwt6UxiKOw)**
+
+Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+
+📺 Matthew Berman
+
+👁️ 33K • 👍 1K • 💬 217 • ⏱️ 15:01 • 19h ago
+
+---
+
+**[It’s Not An AI Bubble. It’s A Black Hole. (With Ed Zitron and Sruthi Pinnamaneni) | Lever Time](https://www.youtube.com/watch?v=gKRevF9AZ4E)**
+
+2025 has been a tremendous year for the artificial intelligence industry. Stock prices for AI companies skyrocketed, soaring ...
+
+📺 The Lever
+
+👁️ 10K • 👍 666 • 💬 161 • ⏱️ 47:42 • 1d ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.6k • 🔱 2.1k • 14h ago
+⭐ 13.6k • 🔱 2.1k • 15h ago
 
 ---
 
@@ -660,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.5k • 🔱 283 • 2h ago
+⭐ 2.5k • 🔱 283 • 3h ago
 
 ---
 
