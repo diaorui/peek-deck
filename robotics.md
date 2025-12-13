@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T15:25:12.927291+00:00'
+updated: '2025-12-13T15:40:09.728146+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 15:25 UTC  
+**Last Updated:** December 13, 2025 at 15:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon 
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 2h ago
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Zebra Technologies is looking to sell its autonomous mobile robot group or will 
 
 I just started working here and on friday afternoon the software crashed or to the screen in the picture, im scareed shitles. How do i get the software back The robot is KUKa KR150 i think
 
-16m ago
+31m ago
 
 ---
 
@@ -288,7 +288,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 6K • 👍 51 • 💬 19 • ⏱️ 1:26 • 16h ago
+👁️ 6K • 👍 51 • 💬 19 • ⏱️ 1:26 • 17h ago
 
 ---
 

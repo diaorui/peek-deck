@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T15:25:12.917949+00:00'
+updated: '2025-12-13T15:40:09.718525+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 15:25 UTC  
+**Last Updated:** December 13, 2025 at 15:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
+**24h:** +0.5%  
 **7d:** -0.1%  
-**30d:** -4.6%  
-**90d:** -21.6%  
-**1y:** -10.9%  
+**30d:** -4.7%  
+**90d:** -21.7%  
+**1y:** -11.0%  
 
 ---
 
@@ -99,7 +99,7 @@ This will age well in 10 years. See you then.
 
 **[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -107,7 +107,7 @@ This will age well in 10 years. See you then.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-45m ago
+1h ago
 
 ---
 
@@ -121,7 +121,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 Any thoughts on what is causing it?
 
-16h ago
+17h ago
 
 ---
 
@@ -157,7 +157,7 @@ Reuters • 13h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 22h ago
 
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -197,7 +197,7 @@ Decrypt • 17h ago
 
 Bitcoin (CRYPTO: BTC) enters the final stretch of the decade with its biggest question yet: can BTC climb to the $500K–$1M range as adoption deepens and supply tightens? The past six months show how quickly momentum can shift, but the long-term picture depends on forces far bigger than short-term price swings. Spot Bitcoin ETFs, sovereign ... Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?
 
-Yahoo Finance • 43m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -391,7 +391,7 @@ Chief Market Strategist Gareth Soloway gives institutional level analysis and in
 
 📺 Gareth Soloway
 
-👁️ 2K • 👍 303 • 💬 17 • ⏱️ 14:00 • 55m ago
+👁️ 2K • 👍 303 • 💬 17 • ⏱️ 14:00 • 1h ago
 
 ---
 
