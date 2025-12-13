@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T05:11:26.773355+00:00'
+updated: '2025-12-13T05:36:07.700856+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 05:11 UTC  
+**Last Updated:** December 13, 2025 at 05:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 8h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 9h ago
 
 ---
 
@@ -81,7 +81,7 @@ I'm not seeing enough people talk about this (or I see people only discuss one a
 
 AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 6h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 7h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 5h ago
 
 The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
 
-The New Yorker • 17h ago
+The New Yorker • 18h ago
 
 ---
 
@@ -165,7 +165,7 @@ The New Yorker • 17h ago
 
 AI-related names have made losses since Oracle's mixed results on Wednesday.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 19h ago
 
 The Chandler, Arizona, city council unanimously voted against clearing the way to allow for construction of an artificial intelligence data center
 
-Fox Business • 8h ago
+Fox Business • 9h ago
 
 ---
 
@@ -257,7 +257,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 109 • 💬 217 • 12h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 109 • 💬 217 • 13h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -265,7 +265,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 75 • 💬 117 • 8h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 75 • 💬 117 • 9h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -285,7 +285,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 99K • 👍 6K • 💬 385 • ⏱️ 4:01 • 6h ago
+👁️ 99K • 👍 6K • 💬 385 • ⏱️ 4:01 • 7h ago
 
 ---
 
@@ -305,7 +305,7 @@ FULL AI COURSE HERE https://brainprojectai.com/courses/launch-your-ai-influencer
 
 📺 Brain Project
 
-👁️ 3K • 👍 239 • 💬 34 • ⏱️ 14:19 • 13h ago
+👁️ 3K • 👍 239 • 💬 34 • ⏱️ 14:19 • 14h ago
 
 ---
 
@@ -343,7 +343,7 @@ A Cow's Prayer That Brought Dead Fish Back to Life”|#ai #shots #godhelps #shot
 
 📺 FIRE_BRAND_Ai🔥
 
-👁️ 13K • 💬 2 • ⏱️ 0:42 • 16h ago
+👁️ 13K • 💬 2 • ⏱️ 0:42 • 17h ago
 
 ---
 
@@ -389,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 782 • 13h ago
+⬇️ 105,962 • ❤️ 782 • 14h ago
 
 ---
 
@@ -425,7 +425,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 300 • 19h ago
+⬇️ 10,352 • ❤️ 300 • 20h ago
 
 ---
 
@@ -437,7 +437,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,519 • ❤️ 289 • 3d ago
+⬇️ 2,519 • ❤️ 289 • 4d ago
 
 ---
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 12.6k • 🔱 2.0k • 48m ago
+⭐ 12.7k • 🔱 2.0k • 1h ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.4k • 🔱 268 • 1h ago
+⭐ 2.4k • 🔱 268 • 48m ago
 
 ---
 
@@ -678,7 +678,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.1k • 🔱 304 • 6d ago
+⭐ 1.1k • 🔱 306 • 6d ago
 
 ---
 
@@ -688,7 +688,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 1.1k • 🔱 214 • 13d ago
+⭐ 1.1k • 🔱 215 • 13d ago
 
 ---
 
@@ -738,7 +738,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 660 • 🔱 96 • 19h ago
+⭐ 662 • 🔱 97 • 19h ago
 
 ---
 

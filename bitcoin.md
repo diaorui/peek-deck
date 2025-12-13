@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T05:11:26.781867+00:00'
+updated: '2025-12-13T05:36:07.709287+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 05:11 UTC  
+**Last Updated:** December 13, 2025 at 05:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** +0.0%  
-**30d:** -4.5%  
-**90d:** -21.5%  
-**1y:** -10.9%  
+**24h:** -2.4%  
+**7d:** -0.1%  
+**30d:** -4.7%  
+**90d:** -21.6%  
+**1y:** -11.0%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-10h ago
+11h ago
 
 ---
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -107,7 +107,7 @@ Any thoughts on what is causing it?
 
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-7h ago
+8h ago
 
 ---
 
@@ -115,7 +115,7 @@ I've been quietly stacking bitcoin for almost four years now and it blows my min
 
 C’mon Bitcoin, you can do it
 
-15h ago
+16h ago
 
 ---
 
@@ -135,7 +135,7 @@ C’mon Bitcoin, you can do it
 
 How did people buy bitcoin before exchanges?
 
-3h ago
+4h ago
 
 ---
 
@@ -219,7 +219,7 @@ BBC • 2d ago
 
 I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
@@ -343,7 +343,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 212 • ⏱️ 46:26 • 12h ago
+👁️ 23K • 👍 1K • 💬 212 • ⏱️ 46:26 • 13h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin #Crypto #Finance Today's episode breaks down one of the biggest developm
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 1K • 💬 352 • ⏱️ 24:40 • 14h ago
+👁️ 17K • 👍 1K • 💬 352 • ⏱️ 24:40 • 15h ago
 
 ---
 

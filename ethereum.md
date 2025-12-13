@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T05:11:26.787899+00:00'
+updated: '2025-12-13T05:36:07.715361+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 05:11 UTC  
+**Last Updated:** December 13, 2025 at 05:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.0%  
-**7d:** +1.0%  
+**24h:** -5.1%  
+**7d:** +0.9%  
 **30d:** -0.5%  
-**90d:** -31.6%  
+**90d:** -31.7%  
 **1y:** -20.2%  
 
 ---
@@ -88,7 +88,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 9h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 10h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 421 • 💬 12 • ⏱️ 48:44 • 12h ago
+👁️ 6K • 👍 421 • 💬 12 • ⏱️ 48:44 • 13h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 15h ago
+👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 16h ago
 
 ---
 

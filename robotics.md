@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T05:11:26.791155+00:00'
+updated: '2025-12-13T05:36:07.718666+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 05:11 UTC  
+**Last Updated:** December 13, 2025 at 05:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
-14h ago
+15h ago
 
 ---
 
 **[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -56,13 +56,13 @@ Hello, I am currently building a small biped. Ideally, I would like some flat BL
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 16m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 40m ago
 
 ---
 
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -78,7 +78,7 @@ The whole setup (belt motion, detection triggers, timing, etc.) is built inside 
 
 Hi guys, I want to know what you guys think where we can use RL to actually fill the gaps for classical algorithms.. I really really think this can be a good to overcoming adaptation of tuning used for visual odometry pipeline( Davide's published a paper on this)..but still it would need a sim to make it learn..and then there will be sim to real transfer...am thinking is there a way to just use datasets and go ahead with it.. Am trying to find the relevant problems in visual odometry..
 
-11h ago
+12h ago
 
 ---
 
@@ -122,7 +122,7 @@ IEEE Spectrum • 2d ago
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-The Robot Report • 14h ago
+The Robot Report • 15h ago
 
 ---
 
