@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T18:51:24.989641+00:00'
+updated: '2025-12-13T19:09:03.680123+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 18:51 UTC  
+**Last Updated:** December 13, 2025 at 19:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.1%  
 **7d:** -0.2%  
-**30d:** -4.7%  
+**30d:** -4.8%  
 **90d:** -21.7%  
-**1y:** -11.0%  
+**1y:** -11.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1799.32B
+**Market Cap:** $1799.35B
 Rank #1
 
 **Circulating Supply:** 19,961,700 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.5%
 
 **All-Time Low:** $67.81
-+132837.6%
++132800.8%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
+
+8h ago
+
+---
+
 **[Are We Still Early?](https://www.reddit.com/r/Bitcoin/comments/1plottv/are_we_still_early/)**
 
 Yes. Yes we are.
 
-2h ago
-
----
-
-**[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
-
-7h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ Yes. Yes we are.
 
 This will age well in 10 years. See you then.
 
-8h ago
+9h ago
 
 ---
 
@@ -115,7 +115,15 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-14h ago
+15h ago
+
+---
+
+**[BTC Tracker v0.6.7 update released! – security, transfers & steady improvements 🚀](https://www.reddit.com/r/Bitcoin/comments/1plqu1y/btc_tracker_v067_update_released_security/)**
+
+Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid improvements to UI, security, and portfolio management. Some highlights of this release: Added 2FA Support for BTC transfers (not just buy/sell) Fixed and improved DB migrations Updated Next.js to address a critical security vulnerability I haven’t posted in a while, but during that time — driven by community requests — I added several bigger features, including: DCA calculator with goal tracking Auto DCA setup Portfolio analysis A dynamic dashboard with customizable widgets (and more) Along the way, I also revamped the UI (mobile still needs some polish), added theme presets, and cleaned things up overall. You can try it on Umbrel, run it with Docker, or install it standalone via npm. Repo: https://github.com/wilqq-the/BTC-Tracker Umbrel app: https://apps.umbrel.com/app/btctracker Feedback and ideas are always welcome — we’re slowly building this together 🙏 Discord: https://discord.gg/WyxSZv3a
+
+1h ago
 
 ---
 
@@ -139,21 +147,13 @@ Any thoughts on what is causing it?
 
 ---
 
-**[BTC Tracker v0.6.7 update released! – security, transfers & steady improvements 🚀](https://www.reddit.com/r/Bitcoin/comments/1plqu1y/btc_tracker_v067_update_released_security/)**
-
-Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid improvements to UI, security, and portfolio management. Some highlights of this release: Added 2FA Support for BTC transfers (not just buy/sell) Fixed and improved DB migrations Updated Next.js to address a critical security vulnerability I haven’t posted in a while, but during that time — driven by community requests — I added several bigger features, including: DCA calculator with goal tracking Auto DCA setup Portfolio analysis A dynamic dashboard with customizable widgets (and more) Along the way, I also revamped the UI (mobile still needs some polish), added theme presets, and cleaned things up overall. You can try it on Umbrel, run it with Docker, or install it standalone via npm. Repo: https://github.com/wilqq-the/BTC-Tracker Umbrel app: https://apps.umbrel.com/app/btctracker Feedback and ideas are always welcome — we’re slowly building this together 🙏 Discord: https://discord.gg/WyxSZv3a
-
-1h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 16h ago
+Reuters • 17h ago
 
 ---
 
@@ -161,7 +161,7 @@ Reuters • 16h ago
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -219,9 +219,11 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+**[Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?](https://finance.yahoo.com/news/bitcoin-2030-price-prediction-btc-144212543.html)**
 
-x.com • 1d ago
+Bitcoin (CRYPTO: BTC) enters the final stretch of the decade with its biggest question yet: can BTC climb to the $500K–$1M range as adoption deepens and supply tightens? The past six months show how quickly momentum can shift, but the long-term picture depends on forces far bigger than short-term price swings. Spot Bitcoin ETFs, sovereign ... Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -233,7 +235,7 @@ x.com • 1d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 3 • 💬 1 • 1h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 1h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -249,7 +251,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 2h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 3h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -315,7 +317,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 770 • 👍 84 • 💬 4 • ⏱️ 21:14 • 3h ago
+👁️ 770 • 👍 84 • 💬 4 • ⏱️ 21:14 • 4h ago
 
 ---
 
@@ -325,7 +327,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 943 • 💬 24 • ⏱️ 48:39 • 4h ago
+👁️ 10K • 👍 943 • 💬 24 • ⏱️ 48:39 • 5h ago
 
 ---
 
@@ -375,7 +377,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 121 • ⏱️ 16:27 • 20h ago
+👁️ 26K • 👍 2K • 💬 121 • ⏱️ 16:27 • 21h ago
 
 ---
 
@@ -405,7 +407,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 256 • ⏱️ 31:03 • 21h ago
+👁️ 42K • 👍 2K • 💬 256 • ⏱️ 31:03 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T18:51:24.994818+00:00'
+updated: '2025-12-13T19:09:03.686105+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 18:51 UTC  
+**Last Updated:** December 13, 2025 at 19:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
+**24h:** +0.7%  
 **7d:** +1.3%  
 **30d:** -0.1%  
 **90d:** -31.4%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.08B
+**Market Cap:** $374.40B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.2%
+-37.3%
 
 **All-Time Low:** $0.43
-+717336.6%
++716542.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -186,7 +186,13 @@ Yahoo Finance • 1d ago
 
 XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView • 12h ago
+TradingView • 13h ago
+
+---
+
+**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
+
+The Block • 2d ago
 
 ---
 
@@ -214,17 +220,9 @@ Benzinga • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqeM6a-25Tja2B5h0evLKKRf5voZtQUVnQ17dPRT0hUT5-xFUBbL0VJ9&gaa_ts=693db4e2&gaa_sig=SQhTKP0ADuXgbf9iyeGCBQymSx_-dR5mP-No_LcAx453gBMLhono9Wiy4ekn8eAQ6LE8B4FLTnc-5iHyTtWUqg%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdoK6aljs3sG8cgJvaYhZwVWZzFp7Dl2tzzLaEw2nBvjSgOh-ovvzm-&gaa_ts=693dbd3f&gaa_sig=Ny9pHlJ9OuWYtJIZV9NaHauqJ5kSkVWOrrmp7URIqjYB9zk2aeXzLdgWn91ViqyXnEaQku1hV1dTNIt0EDE0Hw%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://finance.yahoo.com/news/tom-lee-bitmine-adds-112m-132425778.html)**
-
-Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -238,7 +236,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 256 • ⏱️ 31:03 • 21h ago
+👁️ 42K • 👍 2K • 💬 256 • ⏱️ 31:03 • 22h ago
 
 ---
 
@@ -308,7 +306,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Guitar Repair@StringTech
 
-👁️ 6K • 👍 4K • 9h ago
+👁️ 6K • 👍 4K • 10h ago
 
 ---
 
@@ -318,7 +316,7 @@ ETH isn't just lagging — its story broke. It's down ~3× more than BTC from th
 
 📺 Ryan’s Money Lab
 
-👁️ 4K • 👍 181 • 💬 25 • ⏱️ 15:43 • 1d ago
+👁️ 4K • 👍 181 • 💬 25 • ⏱️ 15:43 • 2d ago
 
 ---
 

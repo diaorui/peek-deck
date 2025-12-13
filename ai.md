@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T18:51:24.982237+00:00'
+updated: '2025-12-13T19:09:03.671768+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 18:51 UTC  
+**Last Updated:** December 13, 2025 at 19:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -59,7 +59,7 @@ AI news, discussions, and developments
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 2h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 3h ago
 
 ---
 
@@ -95,19 +95,19 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 ---
 
+**[My 8 year old son created his first game with Google Gemini](https://www.reddit.com/r/artificial/comments/1plskoq/my_8_year_old_son_created_his_first_game_with/)**
+
+My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
+
+30m ago
+
+---
+
 **[Ai Models: will regular consumers pivot to have brand preferences?](https://www.reddit.com/r/artificial/comments/1plr9j5/ai_models_will_regular_consumers_pivot_to_have/)**
 
 I’m building an app, and don’t want to get saddled with crazy inference costs. It got me thinking, are consumers going to eventually have tastes for their own preferred models to the point that they’ll pay premiums for what they want or even bring their own API keys?
 
 1h ago
-
----
-
-**[Creative workers won't be replaced by AI, they will become 'directors' managing AI agents | Fortune](https://www.reddit.com/r/artificial/comments/1pl4u1n/creative_workers_wont_be_replaced_by_ai_they_will/)**
-
-AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
-
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 20h ago
 
 ---
 
@@ -131,6 +131,36 @@ Vox • 5h ago
 
 ---
 
+**['We're not just going to want to be fed AI slop for 16 hours a day': Analyst sees Disney/OpenAI deal as a dividing line in entertainment history](https://fortune.com/2025/12/11/pre-post-ai-content-disney-openai-netflix-warner-slop-analysis-ark-invest/)**
+
+"​I think the reason this bidding is approaching $100 billion-plus is the content library and the potential to do a Disney-OpenAI type of deal."
+
+Fortune • 1d ago
+
+---
+
+**[The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters from across Disney’s brands to Sora](https://openai.com/index/disney-sora-agreement/)**
+
+OpenAI • 2d ago
+
+---
+
+**[Google Has Taken Down AI-Generated Content Following Disney’s Cease and Desist](https://gizmodo.com/google-has-taken-down-ai-generated-content-following-disneys-cease-and-desist-2000698254)**
+
+Disney has a licensing deal with OpenAI now, by the way.
+
+Gizmodo • 6m ago
+
+---
+
+**[Grok AI in Tesla cars could be a recipe for disaster](https://www.usatoday.com/story/cars/news/2025/12/13/tesla-grok-ai-serious-concerns/87070442007/)**
+
+Some Tesla models now feature Grok, an AI assistant with a controversial track record. Could putting AI in the driver’s seat be a dangerous move?
+
+USA Today • 11m ago
+
+---
+
 **[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
 
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
@@ -143,53 +173,23 @@ NBC News • 8h ago
 
 The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
-**[Oracle’s collapsing stock shows the AI boom is running into two hard limits: physics and debt markets](https://fortune.com/2025/12/13/oracle-stock-collapse-ai-boom-debt-data-centers-delayed/)**
+**[The AI skills gap is really a ‘critical thinking’ gap: The Fortune 500 fears it can’t find talent with enough sharp thinking](https://fortune.com/2025/12/12/ai-skills-gap-talent-executives-fear-risk-critical-strategic-thinking/)**
 
-“The world of bits moves fast. The world of atoms doesn’t. And data centers are where those two worlds collide.”
+"We need to start thinking strategically. How can we create strategic thinkers, critical thinkers?"
 
-Fortune • 8h ago
-
----
-
-**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
-
-Axios • 5h ago
+Fortune • 1d ago
 
 ---
 
-**[I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely.](https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12)**
+**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
 
-Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
+The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-Business Insider • 8h ago
-
----
-
-**[Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o)**
-
-The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
-
-BBC • 1d ago
-
----
-
-**[Amazon pulls its bad AI video recaps after Fallout fallout](https://www.engadget.com/entertainment/streaming/amazon-pulls-its-bad-ai-video-recaps-after-fallout-fallout-220358758.html)**
-
-Amazon removed AI-generated video recaps it was testing in Prime Video after viewers noticed errors.
-
-Engadget • 20h ago
-
----
-
-**[Amazon Prime Video scraps AI-powered TV show recap after 'Fallout' fallout](https://www.businessinsider.com/fallout-amazon-tv-show-ai-video-recaps-errors-2025-12)**
-
-Almost a month after Prime Video launched AI-powered Video Recaps, viewers said it shared incorrect plot details about season one of "Fallout."
-
-Business Insider • 23h ago
+Time Magazine • 2d ago
 
 ---
 
@@ -201,7 +201,7 @@ Business Insider • 23h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 502 • 💬 257 • 22h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 506 • 💬 260 • 22h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -255,7 +255,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 58 • 💬 49 • 3h ago
+⬆️ 58 • 💬 57 • 3h ago
 
 ---
 
@@ -263,7 +263,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 47 • 💬 63 • 5h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 47 • 💬 63 • 6h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -315,7 +315,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 35K • 👍 1K • 💬 145 • ⏱️ 1:21:07 • 6h ago
+👁️ 35K • 👍 1K • 💬 145 • ⏱️ 1:21:07 • 7h ago
 
 ---
 
@@ -335,7 +335,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 32K • 👍 1K • 💬 212 • ⏱️ 15:01 • 18h ago
+👁️ 32K • 👍 1K • 💬 212 • ⏱️ 15:01 • 19h ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,634 • 5d ago
+⬇️ 268,534 • ❤️ 2,637 • 5d ago
 
 ---
 
@@ -415,7 +415,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 54,050 • ❤️ 387 • 4d ago
+⬇️ 54,050 • ❤️ 388 • 4d ago
 
 ---
 
@@ -427,7 +427,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 13,668 • ❤️ 310 • 1d ago
+⬇️ 13,668 • ❤️ 311 • 1d ago
 
 ---
 
@@ -451,7 +451,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 31,499 • ❤️ 262 • 4d ago
+⬇️ 31,499 • ❤️ 263 • 4d ago
 
 ---
 
