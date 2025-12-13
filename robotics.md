@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T22:38:52.687948+00:00'
+updated: '2025-12-13T22:49:31.787877+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 22:38 UTC  
+**Last Updated:** December 13, 2025 at 22:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotic
 
 Estou fazendo um robô sumo de 500g queria saber se alguém te alguma dica na hora de fazer as rampas. E ouvi falar que tem pessoas que usam imã na parte debaixo para ter mais atrito, queria saber se é verdade porque como que a arena é atraída por um imã
 
-34m ago
+44m ago
 
 ---
 
@@ -156,7 +156,7 @@ Scientific American • 11h ago
 
 Engineering expert Kuran outlines why Symbotic, Alphabet, and Hyundai are top robotics stocks for AI, automation and industrial growth.
 
-Yahoo Finance • 3d ago
+Yahoo Finance • 4d ago
 
 ---
 
@@ -280,7 +280,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 24K • 👍 306 • 💬 2 • ⏱️ 0:18 • 15h ago
+👁️ 24K • 👍 306 • 💬 2 • ⏱️ 0:18 • 16h ago
 
 ---
 

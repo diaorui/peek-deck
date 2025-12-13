@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T22:38:52.678547+00:00'
+updated: '2025-12-13T22:49:31.778543+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 22:38 UTC  
+**Last Updated:** December 13, 2025 at 22:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -107,13 +107,13 @@ Yes. Yes we are.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-7h ago
+8h ago
 
 ---
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-33m ago
+44m ago
 
 ---
 
@@ -141,7 +141,7 @@ Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid 
 
 I’m just curious how everyone is doing financially here on the bitcoin sub. I live in the upper east coast of US. And I gotta say inflation is starting to really grind me down. I make a pretty decent amount money but it’s doesn’t go far as it use to. Food, gas, rent and anything left over goes to investments. I even started digging into my savings and investments to plug unforeseen expenses. I don’t know how everyone is doing it. This fucked monetary system is stripping people to the bone until there’s nothing left. This may sound cheesy but Bitcoin is our last hope of salvaging this fucked situation.
 
-2h ago
+3h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 20h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 20h ago
+Investor's Business Daily • 21h ago
 
 ---
 
