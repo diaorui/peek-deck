@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T03:18:30.466260+00:00'
+updated: '2025-12-13T03:57:49.555022+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 03:18 UTC  
+**Last Updated:** December 13, 2025 at 03:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 Hello, I am currently building a small biped. Ideally, I would like some flat BLDC motors; however, in America, it's nearly impossible to find affordable ones. Doesn't need to be anything crazy, but everything I find is 150-300 bucks, and given that I'll need ~6-8 of them, that's not affordable. With that, I was wondering if anyone had any sites/companies they prefer to go to for motors? If not, I am highly considering making my own. A $20 crucible to melt some Home Depot metal and make my own stators sounds much more appealing than spending hundreds of bucks. I am a student that can go to the makerspace at my school, so I do have options to manufacture from scratch, just not sure if its worth the time. Anyones take on this?
 
-4h ago
+5h ago
 
 ---
 
@@ -62,7 +62,7 @@ Hello, I am currently building a small biped. Ideally, I would like some flat BL
 
 The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
 
-17h ago
+18h ago
 
 ---
 
@@ -70,7 +70,7 @@ The whole setup (belt motion, detection triggers, timing, etc.) is built inside 
 
 Hi guys, I want to know what you guys think where we can use RL to actually fill the gaps for classical algorithms.. I really really think this can be a good to overcoming adaptation of tuning used for visual odometry pipeline( Davide's published a paper on this)..but still it would need a sim to make it learn..and then there will be sim to real transfer...am thinking is there a way to just use datasets and go ahead with it.. Am trying to find the relevant problems in visual odometry..
 
-9h ago
+10h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hi guys, I want to know what you guys think where we can use RL to actually fill
 
 ROS News for the Week of December 8th, 2025    🎄 All we want for Christmas is for you to become a Build Farm Backer! The ROS Build Farm is one of the largest public Jenkins instances in the world, and it is also one of our largest expenses. If you’ve ever saved yourself a few hours of compile time by downloading one of our pre-compiled ROS binaries, please consider pitching in to support our server costs. The money raised by this campaign goes directly to the OSRF, a 501(c)(3) non...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 6h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 7h ago
 
 ---
 
@@ -86,7 +86,7 @@ ROS News for the Week of December 8th, 2025    🎄 All we want for Christmas is
 
 Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
 
-10h ago
+11h ago
 
 ---
 
@@ -122,15 +122,7 @@ IEEE Spectrum • 2d ago
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-The Robot Report • 12h ago
-
----
-
-**[GWM-1 Robotics SDK](https://runwayml.com/research/introducing-runway-gwm-1)**
-
-GWM-1: our state-of-the-art General World Model, built to simulate reality in real time. Interactive, controllable and general-purpose.
-
-Runway • 1d ago
+The Robot Report • 13h ago
 
 ---
 
@@ -150,27 +142,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
-
-Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
-
-Shore Daily News • 1d ago
-
----
-
 **[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
 
 The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
 
-AP News • 4h ago
-
----
-
-**[Video: How Boston Dynamics’ humanoid robot achieves creepy stand-up move](https://interestingengineering.com/ai-robotics/atlas-robot-standing-up-motion-explained)**
-
-A closer look at Atlas’s unconventional get-up motion shows how the robot tests balance and hardware before committing to a full stand.
-
-Interesting Engineering • 2d ago
+AP News • 5h ago
 
 ---
 
@@ -180,11 +156,35 @@ Chron • 2d ago
 
 ---
 
+**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
+
+Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
+
+Shore Daily News • 1d ago
+
+---
+
 **[Serve Robotics, Inc. Rings the Closing Bell](https://www.nasdaq.com/events/serve-robotics-inc-rings-closing-bell)**
 
 About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
 
-Nasdaq • 6h ago
+Nasdaq • 7h ago
+
+---
+
+**[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
+
+Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
+
+NVIDIA Developer • 1d ago
+
+---
+
+**[WATCH: Kraken Robotics, TKMS ATLAS UK test KATFISH USV-LARS on ARCIMS USV](https://www.navaltoday.com/2025/12/11/watch-kraken-robotics-tkms-atlas-uk-test-katfish-usv-lars-on-arcims-usv/)**
+
+Kraken Robotics and TKMS ATLAS UK have demonstrated the KATFISH unmanned surface vessel launch and recovery system (USV-LARS) from TKMS ATLAS UK’s ARCIMS USV.
+
+Naval Today • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 153K • 👍 5K • 💬 421 • ⏱️ 17:44 • 2d ago
+👁️ 157K • 👍 5K • 💬 426 • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -208,17 +208,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 96K • 👍 2K • 💬 588 • ⏱️ 14:26 • 4d ago
-
----
-
-**[China Just Built the REAL-LIFE Terminator AI Robot — EngineAI&#39;s T800 Robot SHOCKS WORLD](https://www.youtube.com/watch?v=BF_VLuF3QxA)**
-
-China has officially unveiled a humanoid robot that looks straight out of a sci-fi movie — EngineAI's new T800. This real-life ...
-
-📺 The AI Nexus
-
-👁️ 36K • 👍 676 • 💬 165 • ⏱️ 18:46 • 6d ago
+👁️ 99K • 👍 2K • 💬 606 • ⏱️ 14:26 • 4d ago
 
 ---
 
@@ -228,17 +218,17 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 137K • 👍 7K • 💬 931 • ⏱️ 19:33 • 6d ago
+👁️ 138K • 👍 7K • 💬 930 • ⏱️ 19:33 • 6d ago
 
 ---
 
-**[👉 Lady solder save grand mother from a robotic zebra 👈#ai #viral #army #trending #save](https://www.youtube.com/watch?v=uJeLWaEuWJo)**
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
 
-Lady solder save grand mother from a robotic zebra #ai #viral #army #trending #save #AI #ArtificialIntelligence #Technology ...
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
 
-📺 Ai Adda 25
+📺 CNN
 
-👁️ 562 • ⏱️ 0:27 • 2h ago
+👁️ 87K • 👍 1K • 💬 446 • ⏱️ 0:41 • 4d ago
 
 ---
 
@@ -252,31 +242,23 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 ---
 
-**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
-
-Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
-
-📺 CNN
-
-👁️ 87K • 👍 1K • 💬 439 • ⏱️ 0:41 • 4d ago
-
----
-
 **[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
 
 GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
 
 📺 Gen Women AI
 
-👁️ 10K • 👍 175 • 💬 2 • ⏱️ 0:09 • 11h ago
+👁️ 14K • 👍 245 • 💬 2 • ⏱️ 0:09 • 12h ago
 
 ---
 
-**[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=SbeWWtli99g)**
 
-📺 AI . Robot
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
 
-👁️ 131K • 👍 2K • 💬 24 • ⏱️ 0:19 • 4d ago
+📺 Humanoid Robot 🤖
+
+👁️ 223K • 👍 1K • 💬 9 • ⏱️ 0:17 • 4d ago
 
 ---
 
@@ -286,7 +268,27 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 18K • 👍 493 • 💬 112 • ⏱️ 42:48 • 5d ago
+👁️ 18K • 👍 494 • 💬 112 • ⏱️ 42:48 • 5d ago
+
+---
+
+**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
+
+Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
+
+📺 The Military Show
+
+👁️ 318K • 👍 9K • 💬 511 • ⏱️ 16:55 • 1d ago
+
+---
+
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+
+📺 The Straits Times
+
+👁️ 189K • 👍 876 • 💬 274 • ⏱️ 0:47 • 3d ago
 
 ---
 
