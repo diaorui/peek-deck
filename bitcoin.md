@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T10:01:20.863178+00:00'
+updated: '2025-12-13T10:31:09.622893+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 10:01 UTC  
+**Last Updated:** December 13, 2025 at 10:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,346.81
+### $90,494.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -0.0%  
-**30d:** -4.6%  
-**90d:** -21.6%  
-**1y:** -10.9%  
+**24h:** -2.0%  
+**7d:** +0.2%  
+**30d:** -4.3%  
+**90d:** -21.4%  
+**1y:** -10.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1804.78B
+**Market Cap:** $1806.59B
 Rank #1
 
 **Circulating Supply:** 19,961,525 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.3%
+-28.2%
 
 **All-Time Low:** $67.81
-+133249.1%
++133365.6%
 
 ---
 
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[I finally acquired 1 whole bitcoin at 28 years old.](https://www.reddit.com/r/Bitcoin/comments/1plhsu8/i_finally_acquired_1_whole_bitcoin_at_28_years_old/)**
+
+This will age well in 10 years. See you then.
+
+38m ago
+
+---
+
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -93,19 +101,25 @@ Any thoughts on what is causing it?
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-15h ago
+16h ago
+
+---
+
+**[The anticipation](https://www.reddit.com/r/Bitcoin/comments/1plhlog/the_anticipation/)**
+
+52m ago
 
 ---
 
@@ -113,7 +127,7 @@ Any thoughts on what is causing it?
 
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-12h ago
+13h ago
 
 ---
 
@@ -121,7 +135,7 @@ I've been quietly stacking bitcoin for almost four years now and it blows my min
 
 How did people buy bitcoin before exchanges?
 
-8h ago
+9h ago
 
 ---
 
@@ -129,49 +143,13 @@ How did people buy bitcoin before exchanges?
 
 C’mon Bitcoin, you can do it
 
-20h ago
-
----
-
-**[And Bitcoin is going strong](https://www.reddit.com/r/Bitcoin/comments/1pl7ekk/and_bitcoin_is_going_strong/)**
-
-9h ago
-
----
-
-**[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
-
-22h ago
+21h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
-
-Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
-
-Bloomberg.com • 17h ago
-
----
-
-**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
-
-Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
-
-Bitcoin Magazine • 14h ago
-
----
-
-**[Vanguard Exec Says Bitcoin Is Like 'A Digital Labubu'](https://finance.yahoo.com/news/vanguard-exec-says-bitcoin-digital-043040748.html)**
-
-Bitcoin (CRYPTO: BTC) returned to the center of Wall Street's credibility debate after a senior Vanguard executive dismissed the asset as a speculative "digital toy." Vanguard Executive Doubles Down On Bitcoin Skepticism Vanguard Group Global Head of Quantitative Equity John Ameriks said Bitcoin lacks the income, compounding, and cash-flow characteristics the firm seeks in long-term investments. Speaking at Bloomberg's ETFs in Depth conference in New York on Thursday, Ameriks compared Bitcoin to
-
-Yahoo Finance • 5h ago
-
----
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
@@ -193,17 +171,47 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
+
+Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
+
+Bloomberg.com • 17h ago
+
+---
+
+**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
+
+Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
+
+Bitcoin Magazine • 15h ago
+
+---
+
+**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://decrypt.co/352201/vanguard-exec-calls-bitcoin-digital-labubu-firm-offers-crypto-etf-trading)**
+
+The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
+
+Decrypt • 12h ago
+
+---
+
 **[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 19h ago
+x.com • 20h ago
+
+---
+
+**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqfcBH83kp8qDHsttFMt--PUEn8W-oRvn8HsquV2te2AKZgt3jc9Dm80&gaa_ts=693d436a&gaa_sig=KN1QWzQcpAFBcPS8_zZrFHCRQ2UOeBMCWNiSKv7FycWyoG33x8sR5PQirpo1lY1ZzTvcXD3UmvbMLLkeYDKEYQ%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -212,12 +220,6 @@ x.com • 19h ago
 Bitcoin remains trapped in a range despite the U.S. rate cut, while altcoins and memecoins struggle to attract risk appetite amid shifting investor behavior.
 
 CoinDesk • 22h ago
-
----
-
-**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqdQ66hdOHfCv1JsQSme7uf5fHc_U0Qci4X6Vn796pH7sYYvtpIU8Ecn&gaa_ts=693d37ac&gaa_sig=VYTeX1PVQWtg_laZGjKSH2ihe9wDi8GNCgSYV0C3aUCOpw26AUnR2Jzpyb9nqcsefvfVh6DJLpNII7a4k3eXfA%3D%3D)**
-
-MarketWatch • 1d ago
 
 ---
 
@@ -295,7 +297,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 **[Ask HN: Is there a local dev tool you wish existed because of a repeating issue?](https://news.ycombinator.com/item?id=46253198)**
 
-⬆️ 1 • 💬 0 • 54m ago
+⬆️ 1 • 💬 0 • 1h ago
 
 ---
 
@@ -309,27 +311,17 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 104 • ⏱️ 16:27 • 12h ago
+👁️ 22K • 👍 1K • 💬 118 • ⏱️ 16:27 • 12h ago
 
 ---
 
-**[Why Old Bitcoin Holders Are Selling Now](https://www.youtube.com/watch?v=2L_ct_6hTNM)**
+**[Bitcoin’s Big Year-End Move: Is the Breakout Finally Here?](https://www.youtube.com/watch?v=4_AuftIEzxk)**
 
-Everyone thinks Bitcoin still runs on a clean four-year cycle — but the data, the holders, and the market dynamics tell a different ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Swan Bitcoin
+📺 CryptosRUs
 
-👁️ 9K • 👍 187 • 💬 12 • ⏱️ 0:50 • 20h ago
-
----
-
-**[$100k Bitcoin SHORT SQUEEZE LOADING! Why A MAJOR Bitcoin RALLY Could Happen SOON! Price prediction](https://www.youtube.com/watch?v=LRgyEqUjqNQ)**
-
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
-
-📺 Crypto Jebb
-
-👁️ 6K • 👍 364 • 💬 128 • ⏱️ 11:54 • 14h ago
+👁️ 24K • 👍 1K • 💬 256 • ⏱️ 46:26 • 18h ago
 
 ---
 
@@ -343,13 +335,13 @@ Mel Mattison is one of the leading macro strategists on the internet, known for 
 
 ---
 
-**[Bitcoin’s Big Year-End Move: Is the Breakout Finally Here?](https://www.youtube.com/watch?v=4_AuftIEzxk)**
+**[$100k Bitcoin SHORT SQUEEZE LOADING! Why A MAJOR Bitcoin RALLY Could Happen SOON! Price prediction](https://www.youtube.com/watch?v=LRgyEqUjqNQ)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
 
-📺 CryptosRUs
+📺 Crypto Jebb
 
-👁️ 24K • 👍 1K • 💬 249 • ⏱️ 46:26 • 17h ago
+👁️ 7K • 👍 370 • 💬 128 • ⏱️ 11:54 • 15h ago
 
 ---
 
@@ -359,17 +351,27 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 18K • 👍 192 • 💬 101 • ⏱️ 4:06 • 1d ago
+👁️ 19K • 👍 195 • 💬 102 • ⏱️ 4:06 • 1d ago
 
 ---
 
-**[Some of the Best Times to Buy Bitcoin](https://www.youtube.com/watch?v=Vv6ex7ZcaYE)**
+**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
 
-Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
+EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
 
-📺 Benjamin Cowen
+📺 Altcoin Daily
 
-👁️ 23K • 👍 513 • 💬 13 • ⏱️ 0:43 • 15h ago
+👁️ 32K • 👍 2K • 💬 187 • ⏱️ 31:03 • 13h ago
+
+---
+
+**[2026 Will Be The Biggest B*** Market For Crypto! [6 Reasons]](https://www.youtube.com/watch?v=KT3Cq0Aq4eg)**
+
+In today's Crypto Insider, Ran explains why he believes the 2026 crypto b*** market has already started, breaking down the 6 ...
+
+📺 Crypto Insider
+
+👁️ 37K • 👍 3K • 💬 134 • ⏱️ 20:35 • 23h ago
 
 ---
 
@@ -379,27 +381,25 @@ Welcome to the most blisteringly honest breakdown of the future you keep trying 
 
 📺 Swan Bitcoin
 
-👁️ 14K • 👍 864 • 💬 88 • ⏱️ 14:56 • 20h ago
+👁️ 15K • 👍 890 • 💬 89 • ⏱️ 14:56 • 20h ago
 
 ---
 
-**[2026 Will Be The Biggest B*** Market For Crypto! [6 Reasons]](https://www.youtube.com/watch?v=KT3Cq0Aq4eg)**
+**[5 Bitcoin for WHAT?!😨🤯](https://www.youtube.com/watch?v=QxYP-j8DAPs)**
 
-In today's Crypto Insider, Ran explains why he believes the 2026 crypto b*** market has already started, breaking down the 10 ...
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
 
-📺 Crypto Insider
+📺 Crypto Cam
 
-👁️ 36K • 👍 3K • 💬 123 • ⏱️ 20:35 • 23h ago
+👁️ 18K • 👍 462 • 💬 38 • ⏱️ 0:27 • 2d ago
 
 ---
 
-**[The Bitcoin Bull Market Hasn’t Started Yet | Eric Yakes](https://www.youtube.com/watch?v=QzqvMMs50Fc)**
+**[Why Banks Want The Bitcoin Death Spiral](https://www.youtube.com/watch?v=TecYUGMqlvs)**
 
-Eric Yakes joins the show to discuss what's really driving Bitcoin right now and why price is determined by fundamentals, not ...
+📺 Andrei Jikh
 
-📺 What Bitcoin Did
-
-👁️ 5K • 👍 204 • 💬 74 • ⏱️ 56:41 • 17h ago
+👁️ 63K • 👍 946 • 💬 45 • ⏱️ 0:35 • 1d ago
 
 ---
 

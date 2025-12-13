@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T10:01:20.872437+00:00'
+updated: '2025-12-13T10:31:09.632154+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 10:01 UTC  
+**Last Updated:** December 13, 2025 at 10:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -70,7 +70,7 @@ Hello, I am currently building a small biped. Ideally, I would like some flat BL
 
 **[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Ro
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-The Robot Report • 19h ago
+The Robot Report • 20h ago
 
 ---
 
@@ -126,11 +126,11 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
 
-Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
+Making safe and regulated humanoids is a core mission of the summit and participants.
 
-Deloitte • 3d ago
+ABC7 San Francisco • 1d ago
 
 ---
 
@@ -142,11 +142,19 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
+**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
 
-Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
+The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
 
-Shore Daily News • 1d ago
+AP News • 11h ago
+
+---
+
+**[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
+
+Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
+
+Deloitte • 3d ago
 
 ---
 
@@ -156,11 +164,11 @@ Chron • 2d ago
 
 ---
 
-**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
+**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
 
-The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
+$32 million investment will created 230 new jobs.
 
-AP News • 11h ago
+WHMI • 2d ago
 
 ---
 
@@ -180,14 +188,6 @@ NVIDIA Developer • 1d ago
 
 ---
 
-**[Soft robots can now see with a self-focusing squishy eye](https://newatlas.com/robotics/physl-light-activated-soft-robotic-eye/)**
-
-Analog cameras are nowhere near as efficient as biological eyes. If you’ve ever handled a single-lens reflex (SLR) camera, especially if it had a zoom lens attached, you know how heavy they are, and how tricky and time-consuming adjusting their focus can be.
-
-New Atlas • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,17 +198,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 165K • 👍 5K • 💬 429 • ⏱️ 17:44 • 2d ago
-
----
-
-**[THEY THOUGHT IT WAS FAKE! 😭 The Robot Had to Prove Itself 😲](https://www.youtube.com/watch?v=3vHBiKkIuvc)**
-
-viral #techfail #technews #shocking #mustwatch #RobotProof #caughtoncamera #humanoidrobot #robotics #AI ...
-
-📺 KNOWL
-
-👁️ 946 • 💬 1 • ⏱️ 0:38 • 5h ago
+👁️ 169K • 👍 5K • 💬 430 • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -218,7 +208,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 105K • 👍 2K • 💬 629 • ⏱️ 14:26 • 4d ago
+👁️ 107K • 👍 2K • 💬 637 • ⏱️ 14:26 • 4d ago
 
 ---
 
@@ -228,7 +218,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 201K • 👍 935 • 💬 298 • ⏱️ 1:03 • 6d ago
+👁️ 201K • 👍 937 • 💬 298 • ⏱️ 1:03 • 6d ago
 
 ---
 
@@ -238,7 +228,17 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 138K • 👍 7K • 💬 931 • ⏱️ 19:33 • 6d ago
+👁️ 139K • 👍 7K • 💬 932 • ⏱️ 19:33 • 6d ago
+
+---
+
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
+
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
+
+📺 CNN
+
+👁️ 88K • 👍 1K • 💬 450 • ⏱️ 0:41 • 5d ago
 
 ---
 
@@ -258,17 +258,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 59K • 👍 2K • 💬 111 • ⏱️ 24:47 • 6d ago
-
----
-
-**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
-
-Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
-
-📺 CNN
-
-👁️ 87K • 👍 1K • 💬 449 • ⏱️ 0:41 • 5d ago
+👁️ 60K • 👍 2K • 💬 112 • ⏱️ 24:47 • 6d ago
 
 ---
 
@@ -278,7 +268,17 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 29K • 👍 376 • 💬 6 • ⏱️ 0:09 • 18h ago
+👁️ 38K • 👍 513 • 💬 9 • ⏱️ 0:09 • 18h ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=SbeWWtli99g)**
+
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 223K • 👍 1K • 💬 9 • ⏱️ 0:17 • 5d ago
 
 ---
 
@@ -288,7 +288,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 189K • 👍 878 • 💬 276 • ⏱️ 0:47 • 4d ago
+👁️ 189K • 👍 880 • 💬 276 • ⏱️ 0:47 • 4d ago
 
 ---
 

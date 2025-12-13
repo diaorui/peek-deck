@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T10:01:20.869187+00:00'
+updated: '2025-12-13T10:31:09.628899+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 10:01 UTC  
+**Last Updated:** December 13, 2025 at 10:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** +1.9%  
-**30d:** +0.5%  
-**90d:** -30.9%  
-**1y:** -19.4%  
+**24h:** -3.4%  
+**7d:** +2.2%  
+**30d:** +0.8%  
+**90d:** -30.8%  
+**1y:** -19.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.90B
+**Market Cap:** $377.63B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.0%
+-36.7%
 
 **All-Time Low:** $0.43
-+719604.7%
++722500.9%
 
 ---
 
@@ -156,7 +156,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 13h ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -186,7 +186,7 @@ TradingView • 4h ago
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -204,17 +204,17 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqf8W9txJsq__2PamepGuUT2kAd3YXciT5pSc7LW8MN2ooKBQGQwLw18&gaa_ts=693d43ba&gaa_sig=weN-7egqLTtWmNulb8-pNOWMsijw5x8uUNd2WXCUzsJwZXKN_ZC2BbPN7OcOdFRdLu06CXL0KTQTnjzPg8-nRA%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
 **[Ethereum Network Can Grow To A $20 Trillion Valuation By 2035, Researcher Claims](https://www.benzinga.com/crypto/cryptocurrency/25/12/49370689/ethereum-network-can-grow-to-a-20-trillion-valuation-by-2035-researcher-claims)**
 
 As Ethereum (CRYPTO: ETH) dropped almost 5% on Friday, a new research suggests the network&#8217;s long-term valuation may potentially grow
 
 Benzinga • 15h ago
-
----
-
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdYgTHufgVHHMy4hVk4n7VEhniyLztwux0Kyd8DXR3r_6Vuh9IUpfe8&gaa_ts=693d37ae&gaa_sig=l6NTqmHSQ--ALKIkMud0qDVcNT123fhTWD2Zlusx_ov7esVtR9SnA2ED5GiG9_c09KgiAzOvyEx88A-Y8erjgQ%3D%3D)**
-
-Barron's • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 181 • ⏱️ 31:03 • 13h ago
+👁️ 32K • 👍 2K • 💬 187 • ⏱️ 31:03 • 13h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 429 • 💬 14 • ⏱️ 48:44 • 17h ago
+👁️ 6K • 👍 432 • 💬 14 • ⏱️ 48:44 • 18h ago
 
 ---
 
@@ -256,7 +256,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 722 • 💬 42 • ⏱️ 11:29 • 1d ago
+👁️ 18K • 👍 728 • 💬 42 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -276,7 +276,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 255 • ⏱️ 10:23 • 2d ago
+👁️ 58K • 👍 3K • 💬 253 • ⏱️ 10:23 • 2d ago
 
 ---
 
@@ -286,17 +286,17 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 440 • ⏱️ 34:06 • 12h ago
+👁️ 5K • 👍 457 • ⏱️ 34:06 • 13h ago
 
 ---
 
-**[&quot;It Will Flip Ethereum&quot; - Scaramucci on Solana&#39;s Future](https://www.youtube.com/watch?v=4JXiR5vSw_I)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pqKrclgrgTE)**
 
-Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author of the new book Solana Rising, joins ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 CoinDesk
+📺 More Crypto Online
 
-👁️ 3K • 👍 117 • 💬 29 • ⏱️ 13:45 • 1d ago
+👁️ 1K • 👍 104 • 💬 2 • ⏱️ 4:36 • 8h ago
 
 ---
 
@@ -306,7 +306,17 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 5K • 👍 275 • 💬 54 • ⏱️ 18:06 • 11h ago
+👁️ 6K • 👍 292 • 💬 53 • ⏱️ 18:06 • 11h ago
+
+---
+
+**[&quot;It Will Flip Ethereum&quot; - Scaramucci on Solana&#39;s Future](https://www.youtube.com/watch?v=4JXiR5vSw_I)**
+
+Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author of the new book Solana Rising, joins ...
+
+📺 CoinDesk
+
+👁️ 4K • 👍 122 • 💬 28 • ⏱️ 13:45 • 1d ago
 
 ---
 
@@ -316,17 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 20h ago
-
----
-
-**[This is Not Normal For Ethereum](https://www.youtube.com/watch?v=agl0Kf2d7cQ)**
-
-ETH isn't just lagging — its story broke. It's down ~3× more than BTC from the highs, ETH/BTC is sitting at multi-year lows, and ...
-
-📺 Ryan’s Money Lab
-
-👁️ 4K • 👍 176 • 💬 25 • ⏱️ 15:43 • 1d ago
+👁️ 3K • 👍 141 • 💬 9 • ⏱️ 5:04 • 21h ago
 
 ---
 

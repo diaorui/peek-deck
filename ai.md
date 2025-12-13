@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T10:01:20.854770+00:00'
+updated: '2025-12-13T10:31:09.614242+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - news
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 10:01 UTC  
+**Last Updated:** December 13, 2025 at 10:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,27 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 ---
 
-**[An AI agent spent 16 hours hacking Stanford's network. It outperformed human pros for much less than their 6-figure salaries.](https://www.reddit.com/r/artificial/comments/1pkuaaq/an_ai_agent_spent_16_hours_hacking_stanfords/)**
-
-An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
-
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 18h ago
-
----
-
 **[RIP American Tech Dominance](https://www.reddit.com/r/artificial/comments/1pl2cv0/rip_american_tech_dominance/)**
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
 🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 13h ago
+
+---
+
+**[An AI agent spent 16 hours hacking Stanford's network. It outperformed human pros for much less than their 6-figure salaries.](https://www.reddit.com/r/artificial/comments/1pkuaaq/an_ai_agent_spent_16_hours_hacking_stanfords/)**
+
+An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
+
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 19h ago
+
+---
+
+**[The Unspoken Future Plan for AI](https://www.reddit.com/r/artificial/comments/1pl9x64/the_unspoken_future_plan_for_ai/)**
+
+I'm not seeing enough people talk about this (or I see people only discuss one aspect of it, not its implications). There are two paths to AI profitability. The first is to replace large swathes of the workforce. Middle managers, desk jockeys--if your job is writing emails, AI may replace you, and companies are betting on this and investing in AI. This is the story I've most commonly seen. But there's another path to AI profitability: the subscription drug model. When articles talk about the future of AI, I don't see this one mentioned as much. ----------- Every website, no matter how altruistically it starts, has a long-term plan to squeeze as much money out of its users as possible. Youtube used to be totally free. Now every video has 2 ads every 5 minutes, and within the video creators embed their own ads and sponsors. Netflix used to have no ads. Now you have to pay extra to avoid them. You see the same enshittification playbook everywhere. Start as free service, grow, absorb competitors until you are a monopoly, then start introducing ads, monetization, subscription plans, worse product, etc. LLMs are getting the youth completely hooked on their product. Instead of learning how to type by practicing typing, students type half of a word and autocomplete fills in the rest. They're not getting the practice they need. That's just muscle memory and repetition though--I think it's worse for deeper skills, like critical thinking, work ethic, sustained focus on homework. Once students start using LLMs to do work for them, they lose the patience for work and don't develop crucial cognitive skills they will need in any career. Everyone knows this is happening, this shouldn't be news at all. There are plenty of articles about college students who don't know how to read, etc. What I don't see people mention is the actual business model. In another 10 years, when the problem has gotten much worse, once every high school or college student is unable to read or write and having LLMs basically function for them, then you'll see companies take advantage of this. That generation will NEED AI. They won't be able to do their job without it, they won't be able to send emails without it, they might not even be able to get groceries or plan a meal without it. (Let's not even get into how they will need it for friendship/emotional support/therapy, that is another can of worms entirely.) This, dear reader, is when the enshittification begins. At that point the companies can jack up pricing. The AI-heads will have no choice but to pay. They will need that shit to live. They can charge whatever they want! $400 a month to use ChatGPT. Hell, maybe more? 10% of your wages? If ChatGPT is doing your job for you, how is it fair for you to keep 100% of your earnings? What are you going to do, write those emails yourself, when you don't know how to read or write, and the LLM has been doing your homework for you since 3rd grade? At this point, it is worth considering the emotional state of the first generation of children/teens addicted to and utterly dependent on LLMs. They will use it to do homework in elementary/middle school. They may start to feel shame or embarrassment about this by the time they are in high school. They might even spend a semester trying to read and do homework without AI assistance--but at that point, it will be too late, and they will be stressed about their grades, and they will go back to AI and carry the secret burden of knowing that they stopped learning to read in elementary school. They will go to college, have AI write their essays, and their whole generation will be in on the secret which they will try to hide from their teachers and future employers (the employers, by the way, will think they understand the problem, as people have written about it before--but when the youth hear older folk talk about the problem, they will realize the older generations underestimate the true severity of the problem). When the LLM companies decide to extort this poor lost generation, they will already be well aware of the position they are in. Surely OpenAI has considered this potential future? Why aren't journalists writing about this as their potential secret business plan? It seems like it has been completely unspoken (maybe I just haven't seen the idea mentioned before, if somebody has seen any discussion of the topic in media please share a link). This seems to me to be one of the two paths to AI profitability, and the reason why so many companies are investing in it. I hear plenty about the other path to profitability (automating office work and firing large swathes of the workforce), but I don't hear as much about the subscription drug model of profitability.
+
+8h ago
 
 ---
 
@@ -69,27 +77,17 @@ The world's smallest AI supercomputer packs enough power to run 120 billion para
 
 ---
 
-**[The Unspoken Future Plan for AI](https://www.reddit.com/r/artificial/comments/1pl9x64/the_unspoken_future_plan_for_ai/)**
-
-I'm not seeing enough people talk about this (or I see people only discuss one aspect of it, not its implications). There are two paths to AI profitability. The first is to replace large swathes of the workforce. Middle managers, desk jockeys--if your job is writing emails, AI may replace you, and companies are betting on this and investing in AI. This is the story I've most commonly seen. But there's another path to AI profitability: the subscription drug model. When articles talk about the future of AI, I don't see this one mentioned as much. ----------- Every website, no matter how altruistically it starts, has a long-term plan to squeeze as much money out of its users as possible. Youtube used to be totally free. Now every video has 2 ads every 5 minutes, and within the video creators embed their own ads and sponsors. Netflix used to have no ads. Now you have to pay extra to avoid them. You see the same enshittification playbook everywhere. Start as free service, grow, absorb competitors until you are a monopoly, then start introducing ads, monetization, subscription plans, worse product, etc. LLMs are getting the youth completely hooked on their product. Instead of learning how to type by practicing typing, students type half of a word and autocomplete fills in the rest. They're not getting the practice they need. That's just muscle memory and repetition though--I think it's worse for deeper skills, like critical thinking, work ethic, sustained focus on homework. Once students start using LLMs to do work for them, they lose the patience for work and don't develop crucial cognitive skills they will need in any career. Everyone knows this is happening, this shouldn't be news at all. There are plenty of articles about college students who don't know how to read, etc. What I don't see people mention is the actual business model. In another 10 years, when the problem has gotten much worse, once every high school or college student is unable to read or write and having LLMs basically function for them, then you'll see companies take advantage of this. That generation will NEED AI. They won't be able to do their job without it, they won't be able to send emails without it, they might not even be able to get groceries or plan a meal without it. (Let's not even get into how they will need it for friendship/emotional support/therapy, that is another can of worms entirely.) This, dear reader, is when the enshittification begins. At that point the companies can jack up pricing. The AI-heads will have no choice but to pay. They will need that shit to live. They can charge whatever they want! $400 a month to use ChatGPT. Hell, maybe more? 10% of your wages? If ChatGPT is doing your job for you, how is it fair for you to keep 100% of your earnings? What are you going to do, write those emails yourself, when you don't know how to read or write, and the LLM has been doing your homework for you since 3rd grade? At this point, it is worth considering the emotional state of the first generation of children/teens addicted to and utterly dependent on LLMs. They will use it to do homework in elementary/middle school. They may start to feel shame or embarrassment about this by the time they are in high school. They might even spend a semester trying to read and do homework without AI assistance--but at that point, it will be too late, and they will be stressed about their grades, and they will go back to AI and carry the secret burden of knowing that they stopped learning to read in elementary school. They will go to college, have AI write their essays, and their whole generation will be in on the secret which they will try to hide from their teachers and future employers (the employers, by the way, will think they understand the problem, as people have written about it before--but when the youth hear older folk talk about the problem, they will realize the older generations underestimate the true severity of the problem). When the LLM companies decide to extort this poor lost generation, they will already be well aware of the position they are in. Surely OpenAI has considered this potential future? Why aren't journalists writing about this as their potential secret business plan? It seems like it has been completely unspoken (maybe I just haven't seen the idea mentioned before, if somebody has seen any discussion of the topic in media please share a link). This seems to me to be one of the two paths to AI profitability, and the reason why so many companies are investing in it. I hear plenty about the other path to profitability (automating office work and firing large swathes of the workforce), but I don't hear as much about the subscription drug model of profitability.
-
-7h ago
-
----
-
 **[Creative workers won't be replaced by AI, they will become 'directors' managing AI agents | Fortune](https://www.reddit.com/r/artificial/comments/1pl4u1n/creative_workers_wont_be_replaced_by_ai_they_will/)**
 
 AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 11h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 12h ago
 
 ---
 
-**[Scientists just uncovered a major limitation in how AI models understand truth and belief](https://www.reddit.com/r/artificial/comments/1pkrazu/scientists_just_uncovered_a_major_limitation_in/)**
+**[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
 
-A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
-
-🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 21h ago
+🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 12h ago
 
 ---
 
@@ -101,9 +99,11 @@ I’ve been working with multiple LLMs in long, sustained interactions, hundreds
 
 ---
 
-**[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
+**[Scientists just uncovered a major limitation in how AI models understand truth and belief](https://www.reddit.com/r/artificial/comments/1pkrazu/scientists_just_uncovered_a_major_limitation_in/)**
 
-🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 11h ago
+A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
+
+🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 21h ago
 
 ---
 
@@ -119,11 +119,11 @@ Reducto provides high-quality document ingestion for AI teams by accurately pars
 
 ## Google News: "ai"
 
-**[WATCH: Trump signs executive order to override AI regulations by states](https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-to-override-ai-regulations-by-states)**
+**[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
 
-President Donald Trump signed an executive order Thursday pressuring states not to regulate artificial intelligence.
+California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-PBS • 12h ago
+BBC • 19h ago
 
 ---
 
@@ -135,11 +135,19 @@ Time Magazine • 1d ago
 
 ---
 
-**[The evolution of blackface in the age of AI : Code Switch](https://www.npr.org/2025/12/13/nx-s1-5611061/the-evolution-of-blackface-in-the-age-of-ai)**
+**[Oracle’s collapsing stock shows the AI boom is running into two hard limits: physics and debt markets](https://fortune.com/2025/12/13/oracle-stock-collapse-ai-boom-debt-data-centers-delayed/)**
 
-With AI image and video generators, it's become easier than ever to create hyper-realistic clips of almost anything. Today, we're looking at the landscape of AI influencers that depict Black people in various ways, from the mildly stereotypical to the ultra-demeaning. And we're talking to writer Zeba Blay about why she thinks these types of videos can erode the our society's ability to take the problems of IRL, human Black people seriously.
+“The world of bits moves fast. The world of atoms doesn’t. And data centers are where those two worlds collide.”
 
-NPR • 2h ago
+Fortune • 28m ago
+
+---
+
+**[Apollo Took Bets Against Software Makers Vulnerable to AI: FT](https://www.bloomberg.com/news/articles/2025-12-13/apollo-took-bets-against-software-makers-vulnerable-to-ai-ft)**
+
+Apollo Global Management placed bets against the loans of several software makers as it grew increasingly bearish on technology firms vulnerable to artificial intelligence, the Financial Times reported.
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -149,31 +157,9 @@ The Washington Post • 15h ago
 
 ---
 
-**[US tech stocks slide as fears over AI boom flare up](https://www.ft.com/content/8b9519df-9154-4eb5-ab3b-d3da0115b65e)**
+**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
 
-Chipmaker Broadcom tumbles 11.4% after financial forecast disappoints Wall Street
-
-Financial Times • 18h ago
-
----
-
-**[Santoli's Friday market wrap-up: Stocks are caught in opposing currents of AI anxiety and economic enthusiasm](https://www.cnbc.com/2025/12/12/santolis-market-wrap-up-stocks-stuck-between-ai-anxiety-economic-enthusiasm.html)**
-
-Friday,  the AI pressure proved too heavy for the economically sensitive parts of the market to absorb fully, leaving the S&P 500 with a small weekly loss.
-
-CNBC • 12h ago
-
----
-
-**[Oracle-Broadcom one-two punch hits AI trade, but investor optimism persists](https://www.reuters.com/business/finance/oracles-stumble-hits-ai-trade-many-remain-bullish-2025-12-12/)**
-
-Reuters • 14h ago
-
----
-
-**[Chinese AI Euphoria Obscures a Gloomier Technological Reality](https://www.bloomberg.com/news/articles/2025-12-13/chinese-ai-euphoria-obscures-a-gloomier-technological-reality)**
-
-Bloomberg.com • 10h ago
+Politico • 23h ago
 
 ---
 
@@ -185,9 +171,25 @@ Los Angeles Times • 23h ago
 
 ---
 
-**[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
+**[Is A.I. Actually a Bubble?](https://www.newyorker.com/culture/open-questions/is-ai-actually-a-bubble)**
 
-Politico • 22h ago
+The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
+
+The New Yorker • 23h ago
+
+---
+
+**[AI-led tech slide extends into third day as Oracle, Broadcom fall](https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html)**
+
+AI-related names have made losses since Oracle's mixed results on Wednesday.
+
+CNBC • 1d ago
+
+---
+
+**[Oracle-Broadcom one-two punch hits AI trade, but investor optimism persists](https://www.reuters.com/business/finance/oracles-stumble-hits-ai-trade-many-remain-bullish-2025-12-12/)**
+
+Reuters • 14h ago
 
 ---
 
@@ -199,7 +201,7 @@ Politico • 22h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 477 • 💬 281 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 478 • 💬 281 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -207,7 +209,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 388 • 💬 207 • 13h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 401 • 💬 212 • 13h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -247,7 +249,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 118 • 💬 92 • 1d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 119 • 💬 92 • 1d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -255,7 +257,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 116 • 💬 220 • 17h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 116 • 💬 221 • 17h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -263,7 +265,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 76 • 💬 119 • 13h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 76 • 💬 119 • 14h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -283,7 +285,17 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 158K • 👍 8K • 💬 524 • ⏱️ 4:01 • 11h ago
+👁️ 187K • 👍 9K • 💬 573 • ⏱️ 4:01 • 12h ago
+
+---
+
+**[#1 New Ai Video Generator of 2025 Just Destroyed VEO 3 &amp; Sora 2](https://www.youtube.com/watch?v=3yhAlEKvnLw)**
+
+FULL AI COURSE HERE https://brainprojectai.com/courses/launch-your-ai-influencer-empire/?v=66e10e9ff65e Start Printing ...
+
+📺 Brain Project
+
+👁️ 5K • 👍 309 • 💬 45 • ⏱️ 14:19 • 19h ago
 
 ---
 
@@ -293,7 +305,7 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 396K • 👍 10K • 💬 1K • ⏱️ 13:43 • 1d ago
+👁️ 403K • 👍 10K • 💬 1K • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -303,7 +315,17 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 18K • 👍 668 • 💬 145 • ⏱️ 15:01 • 9h ago
+👁️ 23K • 👍 783 • 💬 168 • ⏱️ 15:01 • 10h ago
+
+---
+
+**[Trump Just Gave AI Companies Unrestricted Power As China&#39;s MASSIVE AI Robot Army Is UNLEASHED](https://www.youtube.com/watch?v=HvyK2r9vKyw)**
+
+REP YOUR SUPPORT & JOIN THE MOVEMENT! Every purchase helps us keep creating content and growing this channel.
+
+📺 Melanie King
+
+👁️ 25K • 👍 2K • 💬 566 • ⏱️ 33:17 • 1d ago
 
 ---
 
@@ -313,17 +335,7 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 43K • 👍 2K • 💬 292 • ⏱️ 14:58 • 1d ago
-
----
-
-**[Is This AI One-Wheel Superbike Really This Fast?](https://www.youtube.com/watch?v=4FFgknrAb2I)**
-
-In California, United States, in 2025, a young rider tests a groundbreaking AI One-Wheel Superbike on a private racetrack.
-
-📺 AI Robot Lab
-
-👁️ 3.0M • 👍 15K • 💬 200 • ⏱️ 0:23 • 1d ago
+👁️ 44K • 👍 2K • 💬 307 • ⏱️ 14:58 • 1d ago
 
 ---
 
@@ -333,37 +345,17 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 54K • 👍 740 • 💬 145 • ⏱️ 10:31 • 1d ago
+👁️ 54K • 👍 761 • 💬 145 • ⏱️ 10:31 • 1d ago
 
 ---
 
-**[Why the AI Bubble Is Actually a $60T Black Hole](https://www.youtube.com/watch?v=21e5GZF3yx0)**
+**[Is This AI One-Wheel Superbike Really This Fast?](https://www.youtube.com/watch?v=4FFgknrAb2I)**
 
-Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------------- 🗞️ Sign up to our free newsletter to get smarter ...
+In California, United States, in 2025, a young rider tests a groundbreaking AI One-Wheel Superbike on a private racetrack.
 
-📺 GEN
+📺 AI Robot Lab
 
-👁️ 25K • 👍 2K • 💬 310 • ⏱️ 22:33 • 16h ago
-
----
-
-**[What happens if the AI bubble bursts? | 7.30](https://www.youtube.com/watch?v=8YAfm7o5yiI)**
-
-The soaring values of the big tech companies have sparked fears of an AI bubble one that could pop with damaging economic ...
-
-📺 ABC News In-depth
-
-👁️ 16K • 👍 179 • ⏱️ 6:01 • 1d ago
-
----
-
-**[The Cursed Photo: Stepmom Transformation (Male to Female AI Horror)](https://www.youtube.com/watch?v=Py1waxbk_Jo)**
-
-Plot: A young man breaks into his father's empty house at 3 AM after receiving an urgent text. Inside the forbidden room, ...
-
-📺 Digital Dream Films
-
-👁️ 28K • 👍 611 • 💬 25 • ⏱️ 6:03 • 1d ago
+👁️ 3.1M • 👍 15K • 💬 201 • ⏱️ 0:23 • 1d ago
 
 ---
 
@@ -374,6 +366,16 @@ President Trump signed executive orders on artificial intelligence and the econo
 📺 LiveNOW from FOX
 
 👁️ 11K • 👍 174 • 💬 149 • ⏱️ 8:26 • 1d ago
+
+---
+
+**[What happens if the AI bubble bursts? | 7.30](https://www.youtube.com/watch?v=8YAfm7o5yiI)**
+
+The soaring values of the big tech companies have sparked fears of an AI bubble one that could pop with damaging economic ...
+
+📺 ABC News In-depth
+
+👁️ 18K • 👍 185 • ⏱️ 6:01 • 1d ago
 
 ---
 
@@ -389,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 787 • 18h ago
+⬇️ 119,786 • ❤️ 787 • 18h ago
 
 ---
 
@@ -401,7 +403,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,612 • 4d ago
+⬇️ 268,534 • ❤️ 2,614 • 4d ago
 
 ---
 
@@ -413,7 +415,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 33,217 • ❤️ 383 • 3d ago
+⬇️ 54,050 • ❤️ 384 • 3d ago
 
 ---
 
@@ -425,7 +427,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 304 • 1d ago
+⬇️ 13,668 • ❤️ 304 • 1d ago
 
 ---
 
@@ -437,7 +439,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,519 • ❤️ 289 • 4d ago
+⬇️ 3,233 • ❤️ 289 • 4d ago
 
 ---
 
@@ -449,7 +451,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 23,012 • ❤️ 256 • 4d ago
+⬇️ 31,499 • ❤️ 256 • 4d ago
 
 ---
 
@@ -461,31 +463,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 446,475 • ❤️ 236 • 4d ago
-
----
-
-**[LongCat-Image](https://huggingface.co/meituan-longcat/LongCat-Image)**
-
-*LongCat*
-
-LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image generation model known for its efficiency, superior Chinese text rendering, and photorealism, suitable for diverse creative applications.
-
-`text-to-image`
-
-⬇️ 662 • ❤️ 195 • 1d ago
-
----
-
-**[DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2)**
-
-*DeepSeek*
-
-DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and agentic AI, featuring DeepSeek Sparse Attention for long contexts and a scalable RL framework that achieves performance comparable to or exceeding GPT-5 and Gemini-3.0-Pro on complex tasks and benchmarks.
-
-`text-generation` `685.4B`
-
-⬇️ 50,491 • ❤️ 909 • 11d ago
+⬇️ 447,364 • ❤️ 236 • 4d ago
 
 ---
 
@@ -497,7 +475,31 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 457 • ❤️ 177 • 1d ago
+⬇️ 516 • ❤️ 177 • 1d ago
+
+---
+
+**[Devstral-2-123B-Instruct-2512](https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512)**
+
+*Mistral AI_*
+
+Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineering tasks, excelling in codebase exploration, multi-file editing, and powering SWE agents with a 256k context window.
+
+`125.0B`
+
+⬇️ 4,201 • ❤️ 175 • 1d ago
+
+---
+
+**[GLM-ASR-Nano-2512](https://huggingface.co/zai-org/GLM-ASR-Nano-2512)**
+
+*Z.ai*
+
+GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-volume and dialectal (Cantonese) speech, outperforming Whisper V3 on benchmarks with a 4.10 average error rate. It's ideal for noisy environments and diverse linguistic use cases.
+
+`automatic-speech-recognition` `2.3B`
+
+⬇️ 4,597 • ❤️ 175 • 1d ago
 
 ---
 
@@ -648,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.1k • 🔱 2.1k • 5h ago
+⭐ 13.1k • 🔱 2.1k • 6h ago
 
 ---
 
