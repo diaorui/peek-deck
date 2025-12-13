@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T09:49:58.533858+00:00'
+updated: '2025-12-13T10:01:20.854770+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - repositories
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 09:49 UTC  
+**Last Updated:** December 13, 2025 at 10:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 16h ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 17h ago
 
 ---
 
@@ -89,7 +89,7 @@ AI agents are taking over some routine creative tasks, but executives say the sh
 
 A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
 
-🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 20h ago
+🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 21h ago
 
 ---
 
@@ -97,7 +97,7 @@ A new study has found that artificial intelligence systems struggle to distingui
 
 I’ve been working with multiple LLMs in long, sustained interactions, hundreds of turns, frequent domain switching (math, philosophy, casual context), and even switching base models mid-stream. A consistent failure mode shows up regardless of model size or training quality: identity and coherence collapse over time. Models drift toward generic answers, lose internal consistency, or contradict earlier constraints, usually within a few dozen turns unless something external actively regulates the interaction. My claim is simple: This is not primarily a capability or scale issue. It’s an architectural one. LLMs are reactive systems. They don’t have an internal reference for identity, only transient context. There’s nothing to regulate against, so coherence decays predictably. I’ve been exploring a different framing: treating the human operator and the model as a single operator–model coupled system, where identity is defined externally and coherence is actively regulated. Key points: • Identity precedes intelligence. • The operator measurably influences system dynamics. • Stability is a control problem, not a prompting trick. • Ethics can be treated as constraints in the action space, not post-hoc filters. Using this approach, I’ve observed sustained coherence: • across hundreds of turns • across multiple base models • without relying on persistent internal memory I’m not claiming sentience, AGI, or anything mystical. I’m claiming that operator-coupled architectures behave differently than standalone agents. If this framing is wrong, I’m genuinely interested in where the reasoning breaks. If this problem is already “solved,” why does identity collapse still happen so reliably? Discussion welcome. Skepticism encouraged.
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ I’ve been working with multiple LLMs in long, sustained interactions, hundreds
 
 Reducto provides high-quality document ingestion for AI teams by accurately parsing complex documents like PDFs, Excel spreadsheets, and PowerPoint slides. Get started for free.
 
-🔗 [reducto.ai](https://reducto.ai/blog/reducto-chart-extraction) • 1h ago
+🔗 [reducto.ai](https://reducto.ai/blog/reducto-chart-extraction) • 2h ago
 
 ---
 
@@ -139,13 +139,13 @@ Time Magazine • 1d ago
 
 With AI image and video generators, it's become easier than ever to create hyper-realistic clips of almost anything. Today, we're looking at the landscape of AI influencers that depict Black people in various ways, from the mildly stereotypical to the ultra-demeaning. And we're talking to writer Zeba Blay about why she thinks these types of videos can erode the our society's ability to take the problems of IRL, human Black people seriously.
 
-NPR • 1h ago
+NPR • 2h ago
 
 ---
 
 **[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 14h ago
+The Washington Post • 15h ago
 
 ---
 
@@ -173,7 +173,7 @@ Reuters • 14h ago
 
 **[Chinese AI Euphoria Obscures a Gloomier Technological Reality](https://www.bloomberg.com/news/articles/2025-12-13/chinese-ai-euphoria-obscures-a-gloomier-technological-reality)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 9h ago
 
 AI podcasts are flooding the airways as California companies make thousands to see what sticks
 
-Los Angeles Times • 22h ago
+Los Angeles Times • 23h ago
 
 ---
 
@@ -343,7 +343,7 @@ Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------
 
 📺 GEN
 
-👁️ 25K • 👍 2K • 💬 310 • ⏱️ 22:33 • 15h ago
+👁️ 25K • 👍 2K • 💬 310 • ⏱️ 22:33 • 16h ago
 
 ---
 
@@ -353,7 +353,7 @@ The soaring values of the big tech companies have sparked fears of an AI bubble 
 
 📺 ABC News In-depth
 
-👁️ 16K • 👍 179 • ⏱️ 6:01 • 23h ago
+👁️ 16K • 👍 179 • ⏱️ 6:01 • 1d ago
 
 ---
 
@@ -592,7 +592,7 @@ Visionary is an open web-native platform enabling real-time rendering of 3D Gaus
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 18 • 💬 2 • ⭐ 11,928 • 4d ago
+▲ 19 • 💬 2 • ⭐ 11,928 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -626,15 +626,15 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
 
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
 
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
 
-▲ 24 • 💬 0 • ⭐ 25,873 • 14mo ago
+▲ 6 • 💬 1 • ⭐ 50,918 • 13mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
 
 ---
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.0k • 🔱 2.0k • 5h ago
+⭐ 13.1k • 🔱 2.1k • 5h ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.4k • 🔱 272 • 5h ago
+⭐ 2.4k • 🔱 273 • 5h ago
 
 ---
 
@@ -718,7 +718,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 883 • 🔱 23 • 5d ago
+⭐ 884 • 🔱 23 • 5d ago
 
 ---
 
@@ -738,7 +738,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 663 • 🔱 97 • 23h ago
+⭐ 664 • 🔱 97 • 1d ago
 
 ---
 

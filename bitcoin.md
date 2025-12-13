@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T09:49:58.542321+00:00'
+updated: '2025-12-13T10:01:20.863178+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 09:49 UTC  
+**Last Updated:** December 13, 2025 at 10:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +0.1%  
-**30d:** -4.5%  
-**90d:** -21.5%  
-**1y:** -10.8%  
+**24h:** -2.2%  
+**7d:** -0.0%  
+**30d:** -4.6%  
+**90d:** -21.6%  
+**1y:** -10.9%  
 
 ---
 
@@ -153,7 +153,7 @@ C’mon Bitcoin, you can do it
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 5h ago
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -295,7 +295,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 **[Ask HN: Is there a local dev tool you wish existed because of a repeating issue?](https://news.ycombinator.com/item?id=46253198)**
 
-⬆️ 1 • 💬 0 • 43m ago
+⬆️ 1 • 💬 0 • 54m ago
 
 ---
 
@@ -309,7 +309,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 104 • ⏱️ 16:27 • 11h ago
+👁️ 21K • 👍 1K • 💬 104 • ⏱️ 16:27 • 12h ago
 
 ---
 
@@ -369,7 +369,7 @@ Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com I
 
 📺 Benjamin Cowen
 
-👁️ 23K • 👍 513 • 💬 13 • ⏱️ 0:43 • 14h ago
+👁️ 23K • 👍 513 • 💬 13 • ⏱️ 0:43 • 15h ago
 
 ---
 
@@ -389,7 +389,7 @@ In today's Crypto Insider, Ran explains why he believes the 2026 crypto b*** mar
 
 📺 Crypto Insider
 
-👁️ 36K • 👍 3K • 💬 123 • ⏱️ 20:35 • 22h ago
+👁️ 36K • 👍 3K • 💬 123 • ⏱️ 20:35 • 23h ago
 
 ---
 
