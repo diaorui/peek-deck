@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T14:11:28.857330+00:00'
+updated: '2025-12-13T14:33:40.482384+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 14:11 UTC  
+**Last Updated:** December 13, 2025 at 14:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,972.93
+### $89,986.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -0.0%  
-**30d:** -4.6%  
-**90d:** -21.6%  
-**1y:** -10.9%  
+**24h:** +0.3%  
+**7d:** -0.5%  
+**30d:** -5.0%  
+**90d:** -21.9%  
+**1y:** -11.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1801.37B
+**Market Cap:** $1797.37B
 Rank #1
 
-**Circulating Supply:** 19,961,596 BTC
+**Circulating Supply:** 19,961,643 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.6%
 
 **All-Time Low:** $67.81
-+133002.8%
++132656.2%
 
 ---
 
@@ -97,15 +97,15 @@ This will age well in 10 years. See you then.
 
 ---
 
-**[The anticipation](https://www.reddit.com/r/Bitcoin/comments/1plhlog/the_anticipation/)**
+**[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-4h ago
+3h ago
 
 ---
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -117,27 +117,31 @@ Any thoughts on what is causing it?
 
 ---
 
-**[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
-
-2h ago
-
----
-
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-19h ago
+20h ago
 
 ---
 
-**[regular crypto day](https://www.reddit.com/r/Bitcoin/comments/1plhv7r/regular_crypto_day/)**
+**[Does anyone else feel like silently flipping tf out all the time because you've discovered the way to financial freedom and you're working on it but everyone around you is oblivious and thinks you're an idiot?](https://www.reddit.com/r/Bitcoin/comments/1pl3m9e/does_anyone_else_feel_like_silently_flipping_tf/)**
 
-4h ago
+I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
+
+17h ago
+
+---
+
+**[How did people buy bitcoin before exchanges?](https://www.reddit.com/r/Bitcoin/comments/1pl8tko/how_did_people_buy_bitcoin_before_exchanges/)**
+
+How did people buy bitcoin before exchanges?
+
+13h ago
 
 ---
 
@@ -177,7 +181,7 @@ Bloomberg.com • 21h ago
 
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
-Bitcoin Magazine • 18h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -189,6 +193,22 @@ Decrypt • 16h ago
 
 ---
 
+**[Bank of Japan Set to Hike Rates to 30-Year High, Posing Another Threat to Bitcoin](https://www.coindesk.com/markets/2025/12/13/bank-of-japan-set-to-hike-rates-to-30-year-high-posing-another-threat-to-bitcoin)**
+
+Rising Japanese rates and a stronger yen threaten carry trades and could pressure crypto markets despite easing U.S. policy.
+
+CoinDesk • 32m ago
+
+---
+
+**[Bitcoin at a Critical Level: The Factors Likely to Set Its Next Direction](https://www.eyeonannapolis.net/2025/12/bitcoin-at-a-critical-level-the-factors-likely-to-set-its-next-direction/)**
+
+Bitcoin entered December 2025 with a bit less noise than everyone anticipated. After that sharp swing from the highs in October, things have quieted down significantly. Remember when we briefly saw…
+
+Eye On Annapolis • 1h ago
+
+---
+
 **[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
@@ -197,23 +217,11 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
-
-x.com • 1d ago
-
----
-
 **[Bitcoin price slides lower despite Fed interest rate cut](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-fed-interest-rate-cut-101325419.html)**
 
 The price of bitcoin and ether slipped lower on Thursday as Fed chair Jerome Powell signalled the central bank will proceed cautiously into 2026.
 
 Yahoo Finance UK • 2d ago
-
----
-
-**[American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy.](https://www.barrons.com/articles/american-bitcoin-stock-price-eric-trump-426a9d3b?gaa_at=eafs&gaa_n=AWEtsqeDvjNOzuJDK-Q259ds4cNQc9EXWuv9SlCKwiD4Q5TTacjx9lIJPa2a&gaa_ts=693d72dd&gaa_sig=FyCyUKgoeDqwa6fJDQB4LFqY6l7AHF-8wdYx2monpPu9-13tMlj0BzJmtDeEPKUzvTAu04ycafpyOPL1MwTXdg%3D%3D)**
-
-Barron's • 2d ago
 
 ---
 
@@ -315,7 +323,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 262 • ⏱️ 46:26 • 21h ago
+👁️ 25K • 👍 1K • 💬 262 • ⏱️ 46:26 • 22h ago
 
 ---
 
@@ -335,7 +343,7 @@ Start Building Your Bitcoin Plan: https://www.austintalksmoney.com/financial-pla
 
 📺 Austin Talks Money
 
-👁️ 2K • 👍 92 • 💬 40 • ⏱️ 15:25 • 10h ago
+👁️ 2K • 👍 92 • 💬 40 • ⏱️ 15:25 • 11h ago
 
 ---
 

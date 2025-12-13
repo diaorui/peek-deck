@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T14:11:28.848743+00:00'
+updated: '2025-12-13T14:33:40.473886+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 14:11 UTC  
+**Last Updated:** December 13, 2025 at 14:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,17 +45,17 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 ---
 
+**[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
+
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 2h ago
+
+---
+
 **[RIP American Tech Dominance](https://www.reddit.com/r/artificial/comments/1pl2cv0/rip_american_tech_dominance/)**
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 17h ago
-
----
-
-**[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
-
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 2h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 18h ago
 
 ---
 
@@ -67,11 +67,11 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 ---
 
-**[White-collar layoffs are coming at a scale we've never seen. Why is no one talking about this?](https://www.reddit.com/r/artificial/comments/1plkvps/whitecollar_layoffs_are_coming_at_a_scale_weve/)**
+**[Cyberpunk generated with Veo3](https://www.reddit.com/r/artificial/comments/1plm4q7/cyberpunk_generated_with_veo3/)**
 
-I keep seeing the same takes everywhere. "AI is just like the internet." "It's just another tool, like Excel was." "Every generation thinks their technology is special." No. This is different. The internet made information accessible. Excel made calculations faster. They helped us do our jobs better. AI doesn't help you do knowledge work, it DOES the knowledge work. That's not an incremental improvement. That's a different thing entirely. Look at what came out in the last few weeks alone. Opus 4.5. GPT-5.2. Gemini 3.0 Pro. OpenAI went from 5.1 to 5.2 in under a month. And these aren't demos anymore. They write production code. They analyze legal documents. They build entire presentations from scratch. A year ago this stuff was a party trick. Now it's getting integrated into actual business workflows. Here's what I think people aren't getting: We don't need AGI for this to be catastrophic. We don't need some sci-fi superintelligence. What we have right now, today, is already enough to massively cut headcount in knowledge work. The only reason it hasn't happened yet is that companies are slow. Integrating AI into real workflows takes time. Setting up guardrails takes time. Convincing middle management takes time. But that's not a technological barrier. That's just organizational inertia. And inertia runs out. And every time I bring this up, someone tells me: "But AI can't do [insert thing here]." Architecture. Security. Creative work. Strategy. Complex reasoning. Cool. In 2022, AI couldn't code. In 2023, it couldn't handle long context. In 2024, it couldn't reason through complex problems. Every single one of those "AI can't" statements is now embarrassingly wrong. So when someone tells me "but AI can't do system architecture" – okay, maybe not today. But that's a bet. You're betting that the thing that improved massively every single year for the past three years will suddenly stop improving at exactly the capability you need to keep your job. Good luck with that. What really gets me though is the silence. When manufacturing jobs disappeared, there was a political response. Unions. Protests. Entire campaigns. It wasn't enough, but at least people were fighting. What's happening now? Nothing. Absolute silence. We're looking at a scenario where companies might need 30%, 50%, 70% fewer people in the next 10 years or so. The entire professional class that we spent decades telling people to "upskill into" might be facing massive redundancy. And where's the debate? Where are the politicians talking about this? Where's the plan for retraining, for safety nets, for what happens when the jobs we told everyone were safe turn out not to be? Nowhere. Everyone's still arguing about problems from years ago while this thing is barreling toward us at full speed. I'm not saying civilization collapses. I'm not saying everyone loses their job next year. I'm saying that "just learn the next safe skill" is not a strategy. It's copium. It's the comforting lie we tell ourselves so we don't have to sit with the uncertainty. The "next safe skill" is going to get eaten by AI sooner or later as well. I don't know what the answer is. But pretending this isn't happening isn't it either. NOTE This sub does not allow cross posts. It was originally posted here: https://www.reddit.com/r/ArtificialInteligence/s/3U3CJv1eK5
+Google Gemini. Thoughts?
 
-1h ago
+29m ago
 
 ---
 
@@ -79,7 +79,7 @@ I keep seeing the same takes everywhere. "AI is just like the internet." "It's j
 
 AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 15h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 16h ago
 
 ---
 
@@ -99,6 +99,12 @@ I'm not seeing enough people talk about this (or I see people only discuss one a
 
 ---
 
+**[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
+
+🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 16h ago
+
+---
+
 **[Identity collapse in LLMs is an architectural problem, not a scaling one](https://www.reddit.com/r/artificial/comments/1pl8a40/identity_collapse_in_llms_is_an_architectural/)**
 
 I’ve been working with multiple LLMs in long, sustained interactions, hundreds of turns, frequent domain switching (math, philosophy, casual context), and even switching base models mid-stream. A consistent failure mode shows up regardless of model size or training quality: identity and coherence collapse over time. Models drift toward generic answers, lose internal consistency, or contradict earlier constraints, usually within a few dozen turns unless something external actively regulates the interaction. My claim is simple: This is not primarily a capability or scale issue. It’s an architectural one. LLMs are reactive systems. They don’t have an internal reference for identity, only transient context. There’s nothing to regulate against, so coherence decays predictably. I’ve been exploring a different framing: treating the human operator and the model as a single operator–model coupled system, where identity is defined externally and coherence is actively regulated. Key points: • Identity precedes intelligence. • The operator measurably influences system dynamics. • Stability is a control problem, not a prompting trick. • Ethics can be treated as constraints in the action space, not post-hoc filters. Using this approach, I’ve observed sustained coherence: • across hundreds of turns • across multiple base models • without relying on persistent internal memory I’m not claiming sentience, AGI, or anything mystical. I’m claiming that operator-coupled architectures behave differently than standalone agents. If this framing is wrong, I’m genuinely interested in where the reasoning breaks. If this problem is already “solved,” why does identity collapse still happen so reliably? Discussion welcome. Skepticism encouraged.
@@ -107,45 +113,23 @@ I’ve been working with multiple LLMs in long, sustained interactions, hundreds
 
 ---
 
-**[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
-
-🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 16h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely.](https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12)**
+**[Oracle’s collapsing stock shows the AI boom is running into two hard limits: physics and debt markets](https://fortune.com/2025/12/13/oracle-stock-collapse-ai-boom-debt-data-centers-delayed/)**
 
-Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
+“The world of bits moves fast. The world of atoms doesn’t. And data centers are where those two worlds collide.”
 
-Business Insider • 3h ago
-
----
-
-**[Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o)**
-
-The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
-
-BBC • 20h ago
+Fortune • 4h ago
 
 ---
 
-**[Amazon pulls its bad AI video recaps after Fallout fallout](https://www.engadget.com/entertainment/streaming/amazon-pulls-its-bad-ai-video-recaps-after-fallout-fallout-220358758.html)**
+**[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
 
-Amazon removed AI-generated video recaps it was testing in Prime Video after viewers noticed errors.
+California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-Engadget • 16h ago
-
----
-
-**[Amazon Pulls AI-Generated ‘Fallout’ Recap Ahead Of Season 2 Amidst Backlash](https://www.forbes.com/sites/erikkain/2025/12/12/fallout-season-2-amazon-ai-recap-controversy/)**
-
-Amazon yanks an AI-generated recap of 'Fallout' Season 1 after fans point out it's riddled with mistakes.
-
-Forbes • 14h ago
+BBC • 23h ago
 
 ---
 
@@ -159,21 +143,13 @@ Axios • 1h ago
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 41m ago
+Vox • 1h ago
 
 ---
 
 **[Open-Source Code and Nuclear Energy Are the Building Blocks of AI](https://www.bloomberg.com/news/newsletters/2025-12-13/amd-ceo-lisa-su-and-ge-vernova-ceo-scott-strazik-explain-what-we-need-for-ai)**
 
 Bloomberg.com • 1h ago
-
----
-
-**[Trump cites Colorado in new executive order banning states from creating ‘cumbersome’ AI laws](https://www.cpr.org/2025/12/12/trump-artificial-intelligence-executive-order/)**
-
-Colorado's state law, passed in 2024, seeks to prevent discrimination in the AI systems that businesses and governments use in making key decisions, such as hiring, education and banking.
-
-Colorado Public Radio • 19h ago
 
 ---
 
@@ -185,11 +161,35 @@ Financial Times • 9h ago
 
 ---
 
-**[Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia](https://www.cnbc.com/2025/12/12/broadcom-tumbles-10percent-after-earnings-as-ai-trade-sells-off-.html)**
+**[Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o)**
 
-Even with better-than-expected earnings and revenue, Broadcom slid on Friday as investors  continued to grow concerned about the AI trade.
+The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
 
-CNBC • 20h ago
+BBC • 20h ago
+
+---
+
+**[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
+
+A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
+
+NBC News • 4h ago
+
+---
+
+**[I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely.](https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12)**
+
+Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
+
+Business Insider • 3h ago
+
+---
+
+**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
+
+The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
+
+Time Magazine • 2d ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 20h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 479 • 💬 282 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 481 • 💬 282 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -209,7 +209,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 451 • 💬 234 • 17h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 461 • 💬 236 • 17h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -225,7 +225,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
 
-⬆️ 325 • 💬 2 • 1d ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 325 • 💬 2 • 2d ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
 
 ---
 
@@ -233,7 +233,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 162 • 💬 113 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 163 • 💬 113 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -249,7 +249,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 116 • 💬 230 • 21h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 117 • 💬 230 • 22h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -257,7 +257,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 77 • 💬 120 • 17h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 77 • 💬 123 • 18h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -283,7 +283,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 214K • 👍 10K • 💬 619 • ⏱️ 4:01 • 15h ago
+👁️ 214K • 👍 10K • 💬 619 • ⏱️ 4:01 • 16h ago
 
 ---
 
@@ -387,7 +387,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 119,786 • ❤️ 792 • 22h ago
+⬇️ 119,786 • ❤️ 796 • 22h ago
 
 ---
 
@@ -399,7 +399,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,620 • 4d ago
+⬇️ 268,534 • ❤️ 2,624 • 4d ago
 
 ---
 
@@ -423,7 +423,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 13,668 • ❤️ 305 • 1d ago
+⬇️ 13,668 • ❤️ 306 • 1d ago
 
 ---
 
@@ -459,7 +459,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 447,364 • ❤️ 239 • 4d ago
+⬇️ 447,364 • ❤️ 241 • 4d ago
 
 ---
 
@@ -471,7 +471,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 516 • ❤️ 180 • 1d ago
+⬇️ 516 • ❤️ 181 • 1d ago
 
 ---
 
@@ -483,7 +483,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,201 • ❤️ 177 • 1d ago
+⬇️ 4,201 • ❤️ 179 • 1d ago
 
 ---
 
@@ -646,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.4k • 🔱 2.1k • 9h ago
+⭐ 13.4k • 🔱 2.1k • 10h ago
 
 ---
 

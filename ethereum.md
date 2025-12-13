@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T14:11:28.863385+00:00'
+updated: '2025-12-13T14:33:40.488540+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 14:11 UTC  
+**Last Updated:** December 13, 2025 at 14:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +1.5%  
-**30d:** +0.1%  
-**90d:** -31.2%  
-**1y:** -19.7%  
+**24h:** +1.2%  
+**7d:** +1.4%  
+**30d:** +0.0%  
+**90d:** -31.3%  
+**1y:** -19.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.82B
+**Market Cap:** $374.18B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.2%
+-37.3%
 
 **All-Time Low:** $0.43
-+717491.4%
++716128.7%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 18h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 19h ago
 
 ---
 
@@ -156,7 +156,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -222,11 +222,9 @@ Benzinga • 19h ago
 
 ---
 
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqeF_CsAbbxR1aAL1rQ7eL0t9dnw2cEYnzawKL-8_dtrovJEXvYoRMl_&gaa_ts=693d7cb3&gaa_sig=H2QoFVG8DZeLmTz4Y-e4j_lYouqaO_O0jccffaw8Pq5Z9wKK3OiJMM7di57nC5dfRM4nigTxUD3YIJadOxunUQ%3D%3D)**
 
-Sentiment around Ethereum has been bouncing around considerably in recent days.
-
-Yahoo Finance • 20h ago
+Barron's • 2d ago
 
 ---
 
@@ -250,7 +248,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 438 • 💬 14 • ⏱️ 48:44 • 21h ago
+👁️ 6K • 👍 438 • 💬 14 • ⏱️ 48:44 • 22h ago
 
 ---
 
