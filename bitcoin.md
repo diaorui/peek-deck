@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T20:00:31.497793+00:00'
+updated: '2025-12-13T20:30:41.098084+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 20:00 UTC  
+**Last Updated:** December 13, 2025 at 20:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.1%  
 **7d:** -0.2%  
 **30d:** -4.7%  
 **90d:** -21.7%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.76B
+**Market Cap:** $1799.59B
 Rank #1
 
-**Circulating Supply:** 19,961,700 BTC
+**Circulating Supply:** 19,961,725 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.5%
 
 **All-Time Low:** $67.81
-+132927.6%
++132853.8%
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Yes. Yes we are.
 
-3h ago
+4h ago
 
 ---
 
@@ -115,7 +115,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -123,7 +123,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid improvements to UI, security, and portfolio management. Some highlights of this release: Added 2FA Support for BTC transfers (not just buy/sell) Fixed and improved DB migrations Updated Next.js to address a critical security vulnerability I haven’t posted in a while, but during that time — driven by community requests — I added several bigger features, including: DCA calculator with goal tracking Auto DCA setup Portfolio analysis A dynamic dashboard with customizable widgets (and more) Along the way, I also revamped the UI (mobile still needs some polish), added theme presets, and cleaned things up overall. You can try it on Umbrel, run it with Docker, or install it standalone via npm. Repo: https://github.com/wilqq-the/BTC-Tracker Umbrel app: https://apps.umbrel.com/app/btctracker Feedback and ideas are always welcome — we’re slowly building this together 🙏 Discord: https://discord.gg/WyxSZv3a
 
-2h ago
+3h ago
 
 ---
 
@@ -133,19 +133,19 @@ Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid 
 
 ---
 
-**[This pattern seems suspiciously consistent](https://www.reddit.com/r/Bitcoin/comments/1pl5b8l/this_pattern_seems_suspiciously_consistent/)**
-
-Any thoughts on what is causing it?
-
-21h ago
-
----
-
 **[Fed Chair contender Kevin Warsh says “Bitcoin doesn’t make me nervous.”](https://www.reddit.com/r/Bitcoin/comments/1plr53b/fed_chair_contender_kevin_warsh_says_bitcoin/)**
 
 Interesting to hear someone being considered to replace Jay Powell speaking positively about Bitcoin...
 
 🔗 [youtu.be](https://youtu.be/KuL0izU2H9Q) • 2h ago
+
+---
+
+**[This pattern seems suspiciously consistent](https://www.reddit.com/r/Bitcoin/comments/1pl5b8l/this_pattern_seems_suspiciously_consistent/)**
+
+Any thoughts on what is causing it?
+
+21h ago
 
 ---
 
@@ -163,15 +163,13 @@ Reuters • 18h ago
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Bitcoin Giant Strategy Keeps Spot in Nasdaq 100 Index](https://www.coindesk.com/business/2025/12/13/michael-saylor-s-strategy-hangs-on-to-spot-in-nasdaq-100-index)**
+**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-The Nasdaq 100 rebalance saw six companies dropped and three new additions, with changes taking effect on December 22, but Strategy's bitcoin-heavy strategy secured its spot.
-
-CoinDesk • 2h ago
+Investor's Business Daily • 18h ago
 
 ---
 
@@ -187,7 +185,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -199,25 +197,17 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
+**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
 
-Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
+Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
 
-CoinDesk • 59m ago
-
----
-
-**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
-
-Investor's Business Daily • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Can Bitcoin Reach $250,000 in 2026? The Answer Might Blow Your Mind.](https://www.fool.com/investing/2025/12/13/can-bitcoin-reach-price-in-2026-the-answer-might-b/)**
+**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-Bitcoin may be down this year, but price targets for next year are off the charts.
-
-The Motley Fool • 9h ago
+x.com • 53m ago
 
 ---
 
@@ -229,6 +219,12 @@ Forbes • 1d ago
 
 ---
 
+**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -237,7 +233,7 @@ Forbes • 1d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 2h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 3h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -319,7 +315,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 1K • 💬 24 • ⏱️ 48:39 • 5h ago
+👁️ 18K • 👍 1K • 💬 24 • ⏱️ 48:39 • 6h ago
 
 ---
 
@@ -339,7 +335,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 4K • 👍 274 • 💬 27 • ⏱️ 13:45 • 4h ago
+👁️ 4K • 👍 274 • 💬 27 • ⏱️ 13:45 • 5h ago
 
 ---
 
@@ -349,7 +345,7 @@ America is drowning in debt—and politicians aren't telling you the real soluti
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 116 • 💬 16 • ⏱️ 7:25 • 4h ago
+👁️ 1K • 👍 116 • 💬 16 • ⏱️ 7:25 • 5h ago
 
 ---
 
@@ -389,7 +385,7 @@ Chief Market Strategist Gareth Soloway gives institutional level analysis and in
 
 📺 Gareth Soloway
 
-👁️ 15K • 👍 2K • 💬 186 • ⏱️ 14:00 • 5h ago
+👁️ 15K • 👍 2K • 💬 186 • ⏱️ 14:00 • 6h ago
 
 ---
 
@@ -399,7 +395,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 31K • 👍 2K • 💬 64 • ⏱️ 5:06 • 14h ago
+👁️ 31K • 👍 2K • 💬 64 • ⏱️ 5:06 • 15h ago
 
 ---
 

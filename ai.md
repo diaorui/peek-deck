@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T20:00:31.489409+00:00'
+updated: '2025-12-13T20:30:41.089766+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 20:00 UTC  
+**Last Updated:** December 13, 2025 at 20:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,7 @@ AI news, discussions, and developments
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 4h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 5h ago
 
 ---
 
@@ -59,7 +59,15 @@ AI news, discussions, and developments
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 3h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 4h ago
+
+---
+
+**[My 8 year old son created his first game with Google Gemini](https://www.reddit.com/r/artificial/comments/1plskoq/my_8_year_old_son_created_his_first_game_with/)**
+
+My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
+
+1h ago
 
 ---
 
@@ -67,7 +75,7 @@ For now
 
 I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
 
-4h ago
+5h ago
 
 ---
 
@@ -76,6 +84,14 @@ I keep seeing tools that generate beautiful code and then fall apart when anythi
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
 🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 1d ago
+
+---
+
+**[Clone Deceased Dad's Voice - Advice Needed](https://www.reddit.com/r/artificial/comments/1plv532/clone_deceased_dads_voice_advice_needed/)**
+
+I am looking to clone my dad's voice to surprise my sisters for Christmas. He passed away back in 2009. I only have about 5 minutes of recorded audio of his voice from saved voicemail message I have. From reading online it looks like ElevenLabs is the best option. With that limited amount of source material though, what are my chances of recreating something that is accurate? Any suggestions would be appreciated.
+
+3m ago
 
 ---
 
@@ -95,22 +111,6 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 ---
 
-**[My 8 year old son created his first game with Google Gemini](https://www.reddit.com/r/artificial/comments/1plskoq/my_8_year_old_son_created_his_first_game_with/)**
-
-My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
-
-1h ago
-
----
-
-**[Ai Models: will regular consumers pivot to have brand preferences?](https://www.reddit.com/r/artificial/comments/1plr9j5/ai_models_will_regular_consumers_pivot_to_have/)**
-
-I’m building an app, and don’t want to get saddled with crazy inference costs. It got me thinking, are consumers going to eventually have tastes for their own preferred models to the point that they’ll pay premiums for what they want or even bring their own API keys?
-
-2h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -121,35 +121,19 @@ The New York Times • 1d ago
 
 ---
 
-**[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
-
-A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
-
-NBC News • 9h ago
-
----
-
-**[AI data center boom could be bad news for other infrastructure projects](https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/)**
-
-Improvements to roads, bridges, and other infrastructure could take a hit as data center construction accelerates.
-
-TechCrunch • 22m ago
-
----
-
-**[Israel joins US-led ‘Pax Silica’ initiative to cooperate on securing AI supply chains](https://www.timesofisrael.com/israel-joins-us-led-pax-silica-initiative-to-cooperate-on-securing-ai-supply-chains/)**
-
-PM's economic adviser touts 'mark of distinction for Israel,' as US, seven allies launch effort to 'shape a new, sustainable economic order for the age of artificial intelligence'
-
-The Times of Israel • 51m ago
-
----
-
 **[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 6h ago
+Vox • 7h ago
+
+---
+
+**[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
+
+A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
+
+NBC News • 10h ago
 
 ---
 
@@ -193,6 +177,20 @@ BBC • 2d ago
 
 ---
 
+**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
+
+Axios • 7h ago
+
+---
+
+**[I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely.](https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12)**
+
+Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
+
+Business Insider • 9h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +199,7 @@ BBC • 2d ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 509 • 💬 263 • 23h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 510 • 💬 264 • 23h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -225,7 +223,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 164 • 💬 117 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 164 • 💬 118 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -233,7 +231,7 @@ A summary of the techniques in place to protect my git forge
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 122 • 💬 237 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 123 • 💬 238 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -245,17 +243,17 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 ---
 
+**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
+
+⬆️ 81 • 💬 98 • 4h ago
+
+---
+
 **[New Kindle feature uses AI to answer questions about books](https://news.ycombinator.com/item?id=46248417)**
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 80 • 💬 125 • 23h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
-
----
-
-**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
-
-⬆️ 71 • 💬 72 • 4h ago
+⬆️ 80 • 💬 125 • 1d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -263,7 +261,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 47 • 💬 63 • 6h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 47 • 💬 63 • 7h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -285,7 +283,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 57K • 👍 2K • 💬 207 • ⏱️ 1:21:07 • 7h ago
+👁️ 57K • 👍 2K • 💬 207 • ⏱️ 1:21:07 • 8h ago
 
 ---
 
@@ -295,7 +293,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 274K • 👍 12K • 💬 714 • ⏱️ 4:01 • 21h ago
+👁️ 274K • 👍 12K • 💬 714 • ⏱️ 4:01 • 22h ago
 
 ---
 
@@ -365,7 +363,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 33K • 👍 1K • 💬 217 • ⏱️ 15:01 • 19h ago
+👁️ 33K • 👍 1K • 💬 217 • ⏱️ 15:01 • 20h ago
 
 ---
 
@@ -391,7 +389,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,638 • 5d ago
+⬇️ 268,534 • ❤️ 2,641 • 5d ago
 
 ---
 
@@ -427,7 +425,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 13,668 • ❤️ 311 • 1d ago
+⬇️ 13,668 • ❤️ 312 • 1d ago
 
 ---
 
@@ -475,7 +473,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 516 • ❤️ 184 • 1d ago
+⬇️ 516 • ❤️ 185 • 1d ago
 
 ---
 
@@ -487,7 +485,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,201 • ❤️ 181 • 1d ago
+⬇️ 4,201 • ❤️ 182 • 1d ago
 
 ---
 
@@ -499,7 +497,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 4,597 • ❤️ 181 • 1d ago
+⬇️ 4,597 • ❤️ 182 • 1d ago
 
 ---
 
@@ -650,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.6k • 🔱 2.1k • 15h ago
+⭐ 13.6k • 🔱 2.1k • 16h ago
 
 ---
 
@@ -660,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.5k • 🔱 283 • 3h ago
+⭐ 2.5k • 🔱 283 • 4h ago
 
 ---
 

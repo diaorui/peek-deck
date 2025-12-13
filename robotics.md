@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T20:00:31.507038+00:00'
+updated: '2025-12-13T20:30:41.107338+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 20:00 UTC  
+**Last Updated:** December 13, 2025 at 20:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,21 +52,13 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 1h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 2h ago
 
 ---
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-5h ago
-
----
-
-**[How do i get to actual robot software from windows95?](https://www.reddit.com/r/robotics/comments/1plnjgu/how_do_i_get_to_actual_robot_software_from/)**
-
-I just started working here and on friday afternoon the software crashed or to the screen in the picture, im scareed shitles. How do i get the software back The robot is KUKa KR150 i think
-
-4h ago
+6h ago
 
 ---
 
@@ -74,15 +66,23 @@ I just started working here and on friday afternoon the software crashed or to t
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 7h ago
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 8h ago
 
 ---
 
-**[GitHub - transitiverobotics/transact: An Open-source Robot Fleet Management Dashboard](https://www.reddit.com/r/robotics/comments/1pls89a/github_transitiveroboticstransact_an_opensource/)**
+**[How do i get to actual robot software from windows95?](https://www.reddit.com/r/robotics/comments/1plnjgu/how_do_i_get_to_actual_robot_software_from/)**
 
-An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
+I just started working here and on friday afternoon the software crashed or to the screen in the picture, im scareed shitles. How do i get the software back The robot is KUKa KR150 i think
 
-🔗 [GitHub](https://github.com/transitiverobotics/transact) • 1h ago
+5h ago
+
+---
+
+**[PX4 SIL fixed-wing and multirotor Simulator using Simulink](https://www.reddit.com/r/robotics/comments/1plv2io/px4_sil_fixedwing_and_multirotor_simulator_using/)**
+
+What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or when modifying the PX4 flight controller. Hope it helps someone else now! Video below shows how it works. Side note: we're always open to feedback. Simulink based PX4 SIL Simulator
+
+6m ago
 
 ---
 
@@ -90,21 +90,21 @@ An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotic
 
 Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon weekend — open to anyone who loves robots, ROS, automation, hardware, or just tinkering with cool tech. 📅 18–19 Dec ⏰ 7:30–9 PM 📍 Shivajinagar, Pune Very chill meetup: talk, share ideas, network, show what you're working on — all are welcome (even if you're not attending ROSCon). If you're interested, sign up here: 👉 https://forms.gle/EQ8MkikLLtnixcno9 Would love to know what topics you'd want to chat about!
 
-5h ago
+6h ago
+
+---
+
+**[GitHub - transitiverobotics/transact: An Open-source Robot Fleet Management Dashboard](https://www.reddit.com/r/robotics/comments/1pls89a/github_transitiveroboticstransact_an_opensource/)**
+
+An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
+
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 2h ago
 
 ---
 
 **[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
 
 1d ago
-
----
-
-**[Robotics on Cancer Research](https://www.reddit.com/r/robotics/comments/1plo7f6/robotics_on_cancer_research/)**
-
-Hello guys. I’m a mechanical engineering student and i’m mostly involved in aviation applications until now. My mum had cancer in 2012 and now I’m a bit curious about some engineering approaches to cancer. I’ve seen some researchers used micro robots to deliver drugs to tumor. Can you enlighten me about this, how future looks like on this matter?
-
-4h ago
 
 ---
 
@@ -120,11 +120,19 @@ IEEE Spectrum • 3d ago
 
 ---
 
+**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://www.fool.com/investing/2025/12/13/94-billion-robotics-market-set-to-surge-300-1-etf/)**
+
+This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
+
+The Motley Fool • 1h ago
+
+---
+
 **[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
 
 “The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -140,15 +148,7 @@ ABC7 San Francisco • 1d ago
 
 Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
 
-AP News • 21h ago
-
----
-
-**[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
-
-Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
-
-Deloitte • 3d ago
+AP News • 22h ago
 
 ---
 
@@ -172,7 +172,13 @@ Yahoo Finance • 3d ago
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 8h ago
+Scientific American • 9h ago
+
+---
+
+**[Houston robotics team headed to Dallas after HISD 'miscommunication'](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+
+Chron • 3d ago
 
 ---
 
@@ -181,14 +187,6 @@ Scientific American • 8h ago
 Teradyne Robotics plans to open its U.S. headquarters near Detroit in 2026 to boost manufacturing for UR and MiR and better serve customers.
 
 The Robot Report • 1d ago
-
----
-
-**[Serve Robotics, Inc. Rings the Closing Bell](https://www.nasdaq.com/events/serve-robotics-inc-rings-closing-bell)**
-
-About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
-
-Nasdaq • 23h ago
 
 ---
 
@@ -242,7 +240,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 8K • 👍 57 • 💬 20 • ⏱️ 1:26 • 21h ago
+👁️ 8K • 👍 57 • 💬 20 • ⏱️ 1:26 • 22h ago
 
 ---
 
@@ -270,7 +268,7 @@ Unitree welcomes users and developers worldwide to co-develop and share together
 
 📺 Unitree Robotics
 
-👁️ 7K • 👍 207 • 💬 42 • ⏱️ 0:35 • 14h ago
+👁️ 7K • 👍 207 • 💬 42 • ⏱️ 0:35 • 15h ago
 
 ---
 
