@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T03:57:49.551541+00:00'
+updated: '2025-12-13T04:33:01.438472+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 03:57 UTC  
+**Last Updated:** December 13, 2025 at 04:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.9%  
-**7d:** +0.9%  
-**30d:** -0.5%  
-**90d:** -31.7%  
-**1y:** -20.2%  
+**24h:** -4.7%  
+**7d:** +1.0%  
+**30d:** -0.4%  
+**90d:** -31.6%  
+**1y:** -20.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.98B
+**Market Cap:** $373.10B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.5%
+-37.6%
 
 **All-Time Low:** $0.43
-+713521.2%
++713144.8%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
-
----
-
-**[1-Year Anniversary of EigenCloud's 1% Protocol Guild Pledge Contribution](https://www.reddit.com/r/ethereum/comments/1pl0vsm/1year_anniversary_of_eigenclouds_1_protocol_guild/)**
-
-One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
-
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 8h ago
+22h ago
 
 ---
 
@@ -89,6 +81,14 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
 🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 15h ago
+
+---
+
+**[1-Year Anniversary of EigenCloud's 1% Protocol Guild Pledge Contribution](https://www.reddit.com/r/ethereum/comments/1pl0vsm/1year_anniversary_of_eigenclouds_1_protocol_guild/)**
+
+One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
+
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 9h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 7h ago
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 12h ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -204,7 +204,7 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdxjMnTLeiTskqGwPOKnEr9AQUIu6HipOcmOWegzZS3WUhEQqziElW3&gaa_ts=693ce7ab&gaa_sig=GFf1B0IcmFqp2TN1ueF8Z4Kcy_GMoLVfzbMkCYVz62YsNsbSaZNB0yCmGLnQzWlPZZhiqXwYRsqz8LO69edYig%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqe6x4kiHEM7ftC-TCJRZAqQ2yFA1pYrcwoTC-o8uSb3LSvEZo-MzjLP&gaa_ts=693cefeb&gaa_sig=w0-HMAzi8txU2O8vI9ViKnzbnV2mbSaywcvQR0JsowLvTq6SGrlcBlswgEtrNaML3-j7HZ2rBWx6HNdjUZn-FQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -214,7 +214,7 @@ Barron's • 1d ago
 
 BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
 
-ts2.tech • 12h ago
+ts2.tech • 13h ago
 
 ---
 
@@ -222,7 +222,7 @@ ts2.tech • 12h ago
 
 Ethereum drops below $3,200 post-Fed cut, as Binance Leverage Ratio hits an all-time high. This extreme leverage signals a highly unstable market
 
-Bitcoinist.com • 23h ago
+Bitcoinist.com • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 421 • 💬 12 • ⏱️ 48:44 • 11h ago
+👁️ 6K • 👍 421 • 💬 12 • ⏱️ 48:44 • 12h ago
 
 ---
 
@@ -276,7 +276,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 4K • 👍 398 • ⏱️ 34:06 • 6h ago
+👁️ 4K • 👍 398 • ⏱️ 34:06 • 7h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 14h ago
+👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 15h ago
 
 ---
 
