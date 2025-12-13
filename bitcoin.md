@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T10:57:38.410546+00:00'
+updated: '2025-12-13T11:21:50.525368+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 10:57 UTC  
+**Last Updated:** December 13, 2025 at 11:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1806.59B
+**Market Cap:** $1807.35B
 Rank #1
 
 **Circulating Supply:** 19,961,525 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.2%
 
 **All-Time Low:** $67.81
-+133365.6%
++133423.1%
 
 ---
 
@@ -87,7 +87,13 @@ This will age well in 10 years. See you then.
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-6h ago
+7h ago
+
+---
+
+**["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
+
+17h ago
 
 ---
 
@@ -99,27 +105,21 @@ Any thoughts on what is causing it?
 
 ---
 
-**["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
-
-16h ago
-
----
-
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
 7h ago
 
 ---
 
-**[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
-
-16h ago
-
----
-
 **[The anticipation](https://www.reddit.com/r/Bitcoin/comments/1plhlog/the_anticipation/)**
 
 1h ago
+
+---
+
+**[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
+
+17h ago
 
 ---
 
@@ -131,19 +131,17 @@ I've been quietly stacking bitcoin for almost four years now and it blows my min
 
 ---
 
+**[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
+
+28m ago
+
+---
+
 **[How did people buy bitcoin before exchanges?](https://www.reddit.com/r/Bitcoin/comments/1pl8tko/how_did_people_buy_bitcoin_before_exchanges/)**
 
 How did people buy bitcoin before exchanges?
 
-9h ago
-
----
-
-**[Daily meme until $92,450](https://www.reddit.com/r/Bitcoin/comments/1pkriyo/daily_meme_until_92450/)**
-
-C’mon Bitcoin, you can do it
-
-21h ago
+10h ago
 
 ---
 
@@ -153,7 +151,7 @@ C’mon Bitcoin, you can do it
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
@@ -191,7 +189,21 @@ Bitcoin Magazine • 15h ago
 
 The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
+
+---
+
+**[Can Bitcoin Reach $250,000 in 2026? The Answer Might Blow Your Mind.](https://www.fool.com/investing/2025/12/13/can-bitcoin-reach-price-in-2026-the-answer-might-b/)**
+
+Bitcoin may be down this year, but price targets for next year are off the charts.
+
+The Motley Fool • 36m ago
+
+---
+
+**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
+
+x.com • 21h ago
 
 ---
 
@@ -199,27 +211,13 @@ Decrypt • 12h ago
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
-**[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
-
-x.com • 20h ago
-
----
-
-**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqfcBH83kp8qDHsttFMt--PUEn8W-oRvn8HsquV2te2AKZgt3jc9Dm80&gaa_ts=693d436a&gaa_sig=KN1QWzQcpAFBcPS8_zZrFHCRQ2UOeBMCWNiSKv7FycWyoG33x8sR5PQirpo1lY1ZzTvcXD3UmvbMLLkeYDKEYQ%3D%3D)**
+**[The Fed cut rates, but bitcoin didn’t budge. What gives?](https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?gaa_at=eafs&gaa_n=AWEtsqdtjxrKABMztSIQtBZTEw714B2iGv0i9pdsDLjrR8zIdfLN67OhCHq7&gaa_ts=693d4fb8&gaa_sig=irH2JyWcCXStlDqVqelpACBwfgJasdNnU7n0yCo_DR5RdZu37-vMP8L2U7F-ZC3y6rlS6gAsHTdhmnd1wITeeQ%3D%3D)**
 
 MarketWatch • 1d ago
-
----
-
-**[Crypto Markets Today: Bitcoin Treads Water After Fed Cut as Altcoin Slump Deepens](https://www.coindesk.com/markets/2025/12/12/crypto-markets-today-bitcoin-stuck-in-post-fed-range-as-altcoins-continue-to-lag)**
-
-Bitcoin remains trapped in a range despite the U.S. rate cut, while altcoins and memecoins struggle to attract risk appetite amid shifting investor behavior.
-
-CoinDesk • 23h ago
 
 ---
 
@@ -297,7 +295,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 **[Ask HN: Is there a local dev tool you wish existed because of a repeating issue?](https://news.ycombinator.com/item?id=46253198)**
 
-⬆️ 1 • 💬 0 • 1h ago
+⬆️ 1 • 💬 0 • 2h ago
 
 ---
 
@@ -311,7 +309,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 118 • ⏱️ 16:27 • 12h ago
+👁️ 22K • 👍 1K • 💬 118 • ⏱️ 16:27 • 13h ago
 
 ---
 
@@ -321,7 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 256 • ⏱️ 46:26 • 18h ago
+👁️ 24K • 👍 1K • 💬 256 • ⏱️ 46:26 • 19h ago
 
 ---
 
@@ -341,7 +339,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 370 • 💬 128 • ⏱️ 11:54 • 15h ago
+👁️ 7K • 👍 370 • 💬 128 • ⏱️ 11:54 • 16h ago
 
 ---
 

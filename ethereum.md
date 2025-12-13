@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T10:57:38.416622+00:00'
+updated: '2025-12-13T11:21:50.531260+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 10:57 UTC  
+**Last Updated:** December 13, 2025 at 11:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** +2.3%  
-**30d:** +0.8%  
-**90d:** -30.7%  
-**1y:** -19.1%  
+**24h:** -3.7%  
+**7d:** +2.1%  
+**30d:** +0.7%  
+**90d:** -30.8%  
+**1y:** -19.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.63B
+**Market Cap:** $377.39B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.7%
+-36.8%
 
 **All-Time Low:** $0.43
-+722500.9%
++722085.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -156,7 +156,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 14h ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -178,7 +178,7 @@ Binance • 1d ago
 
 XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -186,7 +186,7 @@ TradingView • 4h ago
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -204,7 +204,7 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqf8W9txJsq__2PamepGuUT2kAd3YXciT5pSc7LW8MN2ooKBQGQwLw18&gaa_ts=693d43ba&gaa_sig=weN-7egqLTtWmNulb8-pNOWMsijw5x8uUNd2WXCUzsJwZXKN_ZC2BbPN7OcOdFRdLu06CXL0KTQTnjzPg8-nRA%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcK6CVBo_bbLgae1P5lSDvPp67SdsQXjqGUtUyfnkHTU_DwSSkoDDjC&gaa_ts=693d4fba&gaa_sig=hxRJbpPNWvEJWKE7Kmkabcq_e97MHfGGYxQNJeOVzdQXRazX79CBozaxxZLVlhNLnc0r3Y2p6ooXlrJKJOxyiQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -286,7 +286,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 457 • ⏱️ 34:06 • 13h ago
+👁️ 5K • 👍 457 • ⏱️ 34:06 • 14h ago
 
 ---
 
