@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T10:31:09.622893+00:00'
+updated: '2025-12-13T10:46:15.791886+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 10:31 UTC  
+**Last Updated:** December 13, 2025 at 10:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +0.2%  
+**24h:** -1.9%  
+**7d:** +0.3%  
 **30d:** -4.3%  
-**90d:** -21.4%  
-**1y:** -10.7%  
+**90d:** -21.3%  
+**1y:** -10.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 This will age well in 10 years. See you then.
 
-38m ago
+53m ago
 
 ---
 
@@ -95,7 +95,7 @@ This will age well in 10 years. See you then.
 
 Any thoughts on what is causing it?
 
-11h ago
+12h ago
 
 ---
 
@@ -119,7 +119,7 @@ Any thoughts on what is causing it?
 
 **[The anticipation](https://www.reddit.com/r/Bitcoin/comments/1plhlog/the_anticipation/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Reuters • 8h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -219,7 +219,7 @@ MarketWatch • 1d ago
 
 Bitcoin remains trapped in a range despite the U.S. rate cut, while altcoins and memecoins struggle to attract risk appetite amid shifting investor behavior.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
