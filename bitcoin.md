@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T22:49:31.778543+00:00'
+updated: '2025-12-13T23:00:30.891714+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 22:49 UTC  
+**Last Updated:** December 13, 2025 at 23:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
+**24h:** +0.1%  
 **7d:** -0.2%  
 **30d:** -4.7%  
 **90d:** -21.7%  
@@ -85,7 +85,7 @@ Rank #1
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-44m ago
+55m ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 9h ago
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -245,7 +245,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 6h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 7h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -311,7 +311,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 161 • 💬 8 • ⏱️ 21:14 • 7h ago
+👁️ 3K • 👍 161 • 💬 8 • ⏱️ 21:14 • 8h ago
 
 ---
 
@@ -341,7 +341,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Starwin Narkthongpet
 
-👁️ 5K • 👍 3K • 2h ago
+👁️ 5K • 👍 3K • 3h ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin #BTC #CryptoCrash Michael Saylor returns to break down the shocking Bitc
 
 📺 Starwin Narkthongpet
 
-👁️ 3K • 👍 4K • 1h ago
+👁️ 3K • 👍 4K • 2h ago
 
 ---
 

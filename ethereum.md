@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T22:49:31.784624+00:00'
+updated: '2025-12-13T23:00:30.897691+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 22:49 UTC  
+**Last Updated:** December 13, 2025 at 23:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +1.9%  
-**30d:** +0.4%  
-**90d:** -31.0%  
-**1y:** -19.4%  
+**24h:** +1.0%  
+**7d:** +1.7%  
+**30d:** +0.3%  
+**90d:** -31.1%  
+**1y:** -19.5%  
 
 ---
 
@@ -218,7 +218,7 @@ CryptoSlate • 2d ago
 
 Ethereum was one of the best-performing cryptocurrencies in the market over the past week, with its price jumping mid-week to as high as $3,400.
 
-Bitcoinist.com • 1h ago
+Bitcoinist.com • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 161 • 💬 8 • ⏱️ 21:14 • 7h ago
+👁️ 3K • 👍 161 • 💬 8 • ⏱️ 21:14 • 8h ago
 
 ---
 

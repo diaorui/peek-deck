@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T22:49:31.766942+00:00'
+updated: '2025-12-13T23:00:30.883344+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 22:49 UTC  
+**Last Updated:** December 13, 2025 at 23:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ My 8 year old son has just vibe coded his first video game with the help of Goog
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-29m ago
+40m ago
 
 ---
 
@@ -97,7 +97,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 56m ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 1h ago
 
 ---
 
@@ -311,7 +311,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 855 • 💬 298 • ⏱️ 16:19 • 7h ago
+👁️ 12K • 👍 855 • 💬 298 • ⏱️ 16:19 • 8h ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.5k • 🔱 283 • 6h ago
+⭐ 2.6k • 🔱 283 • 6h ago
 
 ---
 
@@ -736,7 +736,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 677 • 🔱 97 • 5d ago
+⭐ 678 • 🔱 97 • 5d ago
 
 ---
 
