@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T06:47:54.546566+00:00'
+updated: '2025-12-13T06:59:40.674784+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 06:47 UTC  
+**Last Updated:** December 13, 2025 at 06:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,317.92
+### $90,346.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -0.1%  
-**30d:** -4.6%  
-**90d:** -21.6%  
-**1y:** -10.9%  
+**24h:** -2.2%  
+**7d:** +0.0%  
+**30d:** -4.5%  
+**90d:** -21.5%  
+**1y:** -10.8%  
 
 ---
 
@@ -141,7 +141,7 @@ How did people buy bitcoin before exchanges?
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -153,7 +153,7 @@ How did people buy bitcoin before exchanges?
 
 Bitcoin continues to drift toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October.
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -289,7 +289,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 21h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 22h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -391,7 +391,7 @@ Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com I
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 480 • 💬 13 • ⏱️ 0:43 • 11h ago
+👁️ 21K • 👍 480 • 💬 13 • ⏱️ 0:43 • 12h ago
 
 ---
 

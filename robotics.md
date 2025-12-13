@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T06:47:54.555863+00:00'
+updated: '2025-12-13T06:59:40.684263+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 06:47 UTC  
+**Last Updated:** December 13, 2025 at 06:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 2h ago
 
 ---
 
@@ -70,7 +70,7 @@ Hello, I am currently building a small biped. Ideally, I would like some flat BL
 
 The whole setup (belt motion, detection triggers, timing, etc.) is built inside the sim, and the arm is driven with IK.
 
-20h ago
+21h ago
 
 ---
 
@@ -94,7 +94,7 @@ ROS News for the Week of December 8th, 2025    🎄 All we want for Christmas is
 
 Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
 
-13h ago
+14h ago
 
 ---
 
@@ -146,7 +146,7 @@ Interesting Engineering • 2d ago
 
 The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
 
-AP News • 7h ago
+AP News • 8h ago
 
 ---
 
@@ -288,7 +288,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 223K • 👍 1K • 💬 9 • ⏱️ 0:17 • 4d ago
+👁️ 223K • 👍 1K • 💬 9 • ⏱️ 0:17 • 5d ago
 
 ---
 
