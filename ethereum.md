@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T20:55:33.739054+00:00'
+updated: '2025-12-13T21:19:23.089559+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 20:55 UTC  
+**Last Updated:** December 13, 2025 at 21:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +1.5%  
-**30d:** +0.0%  
-**90d:** -31.3%  
-**1y:** -19.8%  
+**24h:** +0.3%  
+**7d:** +1.3%  
+**30d:** -0.2%  
+**90d:** -31.4%  
+**1y:** -19.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.16B
+**Market Cap:** $374.48B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-37.3%
 
 **All-Time Low:** $0.43
-+717856.3%
++716214.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -152,6 +152,22 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 ## Google News: "ethereum"
 
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
+
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
+
+CoinDesk • 1d ago
+
+---
+
+**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
+
+Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
+
+CoinDesk • 1d ago
+
+---
+
 **[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
@@ -160,11 +176,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
+**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
 
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
+The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-CoinDesk • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -186,7 +202,7 @@ Binance • 1d ago
 
 XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -206,23 +222,9 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfeELdaNPeUAQZ-E0nlbM-VGqFP2FeCa16Z7ytdPMhe7D01_Pl5G7_p&gaa_ts=693dd05c&gaa_sig=balf8RwvhcNaR8wEAYiJNyLt-TQCqYl1dkeK_8HZPeAeYenUMt-L6ERxQ-ZHiZAi6HdaulKj6ONzLpmx9OoKkw%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqesCKREMlxnVt2AHs18txPDviHAXlou_LKuxxf2iSvF6V3z1G0jCcXT&gaa_ts=693ddbca&gaa_sig=kyBQ_rqEKG1Sh5uXM7jgiAHGcjcE7pb4kUECp55Mb9uyrEmH_C3BmSdw5KzC91OuM6fCwEKUjIvD8GSVjKxMsw%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://finance.yahoo.com/news/tom-lee-bitmine-adds-112m-132425778.html)**
-
-Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Ethereum Unlocks a Rare Chart Signal for an 80% Run Against Bitcoin, But a 2017 Curse Still Looms](https://www.tipranks.com/news/ethereum-unlocks-a-rare-chart-signal-for-an-80-run-against-bitcoin-but-a-2017-curse-still-looms)**
-
-TipRanks • 2d ago
 
 ---
 

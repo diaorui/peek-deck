@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T20:55:33.742320+00:00'
+updated: '2025-12-13T21:19:23.092789+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 20:55 UTC  
+**Last Updated:** December 13, 2025 at 21:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
 
-9h ago
+10h ago
 
 ---
 
@@ -62,6 +62,12 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 ---
 
+**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
+
+12m ago
+
+---
+
 **[Zebra Technologies winding down Fetch-based mobile robot group](https://www.reddit.com/r/robotics/comments/1plk893/zebra_technologies_winding_down_fetchbased_mobile/)**
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
@@ -74,7 +80,7 @@ Zebra Technologies is looking to sell its autonomous mobile robot group or will 
 
 I just started working here and on friday afternoon the software crashed or to the screen in the picture, im scareed shitles. How do i get the software back The robot is KUKa KR150 i think
 
-5h ago
+6h ago
 
 ---
 
@@ -82,7 +88,7 @@ I just started working here and on friday afternoon the software crashed or to t
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or when modifying the PX4 flight controller. Hope it helps someone else now! Video below shows how it works. Side note: we're always open to feedback. Simulink based PX4 SIL Simulator
 
-31m ago
+55m ago
 
 ---
 
@@ -90,7 +96,7 @@ What's up guys, I posted about this PX4 SIL simulator earlier this year and got 
 
 Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon weekend — open to anyone who loves robots, ROS, automation, hardware, or just tinkering with cool tech. 📅 18–19 Dec ⏰ 7:30–9 PM 📍 Shivajinagar, Pune Very chill meetup: talk, share ideas, network, show what you're working on — all are welcome (even if you're not attending ROSCon). If you're interested, sign up here: 👉 https://forms.gle/EQ8MkikLLtnixcno9 Would love to know what topics you'd want to chat about!
 
-6h ago
+7h ago
 
 ---
 
@@ -99,12 +105,6 @@ Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon 
 An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
 
 🔗 [GitHub](https://github.com/transitiverobotics/transact) • 2h ago
-
----
-
-**[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
-
-1d ago
 
 ---
 
@@ -128,6 +128,14 @@ The Motley Fool • 1h ago
 
 ---
 
+**[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
+
+Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
+
+NVIDIA Developer • 2d ago
+
+---
+
 **[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
 
 “The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
@@ -148,15 +156,15 @@ ABC7 San Francisco • 1d ago
 
 Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
 
-AP News • 22h ago
+AP News • 23h ago
 
 ---
 
-**[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
+**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
 
-Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
+General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-NVIDIA Developer • 2d ago
+Scientific American • 10h ago
 
 ---
 
@@ -168,25 +176,17 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
-
-General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
-
-Scientific American • 9h ago
-
----
-
 **[Houston robotics team headed to Dallas after HISD 'miscommunication'](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
 Chron • 3d ago
 
 ---
 
-**[Teradyne Robotics leaning into U.S. manufacturing reboot](https://www.therobotreport.com/teradyne-robotics-leaning-into-u-s-manufacturing-reboot/)**
+**[Vine-inspired robotic gripper gently lifts heavy and fragile objects](https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210)**
 
-Teradyne Robotics plans to open its U.S. headquarters near Detroit in 2026 to boost manufacturing for UR and MiR and better serve customers.
+Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
 
-The Robot Report • 1d ago
+MIT News • 3d ago
 
 ---
 

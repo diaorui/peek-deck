@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T20:55:33.724339+00:00'
+updated: '2025-12-13T21:19:23.074377+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 20:55 UTC  
+**Last Updated:** December 13, 2025 at 21:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,27 +39,13 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
 🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 5h ago
-
----
-
-**[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
-
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 9h ago
-
----
-
-**[Sam Altman Got What He Wanted](https://www.reddit.com/r/artificial/comments/1plowm2/sam_altman_got_what_he_wanted/)**
-
-For now
-
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 4h ago
 
 ---
 
@@ -75,7 +61,21 @@ My 8 year old son has just vibe coded his first video game with the help of Goog
 
 I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
 
-5h ago
+6h ago
+
+---
+
+**[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
+
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 9h ago
+
+---
+
+**[Sam Altman Got What He Wanted](https://www.reddit.com/r/artificial/comments/1plowm2/sam_altman_got_what_he_wanted/)**
+
+For now
+
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 5h ago
 
 ---
 
@@ -91,7 +91,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 I am looking to clone my dad's voice to surprise my sisters for Christmas. He passed away back in 2009. I only have about 5 minutes of recorded audio of his voice from saved voicemail message I have. From reading online it looks like ElevenLabs is the best option. With that limited amount of source material though, what are my chances of recreating something that is accurate? Any suggestions would be appreciated.
 
-28m ago
+52m ago
 
 ---
 
@@ -121,14 +121,6 @@ The New York Times • 1d ago
 
 ---
 
-**[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
-
-What if the best use of AI is restarting the world’s idea machine?
-
-Vox • 7h ago
-
----
-
 **[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
 
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
@@ -141,7 +133,7 @@ NBC News • 10h ago
 
 The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -150,6 +142,12 @@ Financial Times • 15h ago
 "We need to start thinking strategically. How can we create strategic thinkers, critical thinkers?"
 
 Fortune • 1d ago
+
+---
+
+**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
+
+Axios • 8h ago
 
 ---
 
@@ -177,17 +175,17 @@ BBC • 2d ago
 
 ---
 
-**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
+**[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
 
-Axios • 8h ago
+What if the best use of AI is restarting the world’s idea machine?
+
+Vox • 7h ago
 
 ---
 
-**[I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely.](https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12)**
+**[Introducing GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)**
 
-Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
-
-Business Insider • 10h ago
+OpenAI • 2d ago
 
 ---
 
@@ -199,7 +197,7 @@ Business Insider • 10h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 510 • 💬 264 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 512 • 💬 264 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -207,7 +205,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 486 • 💬 283 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 487 • 💬 283 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -223,7 +221,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 164 • 💬 118 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 164 • 💬 119 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -245,7 +243,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 81 • 💬 98 • 5h ago
+⬆️ 104 • 💬 132 • 5h ago
 
 ---
 
@@ -261,7 +259,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 47 • 💬 63 • 7h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 48 • 💬 63 • 8h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -283,7 +281,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 57K • 👍 2K • 💬 207 • ⏱️ 1:21:07 • 8h ago
+👁️ 57K • 👍 2K • 💬 207 • ⏱️ 1:21:07 • 9h ago
 
 ---
 
@@ -293,7 +291,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 274K • 👍 12K • 💬 714 • ⏱️ 4:01 • 22h ago
+👁️ 274K • 👍 12K • 💬 714 • ⏱️ 4:01 • 23h ago
 
 ---
 
@@ -303,7 +301,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 7K • 👍 673 • 💬 252 • ⏱️ 16:19 • 5h ago
+👁️ 7K • 👍 673 • 💬 252 • ⏱️ 16:19 • 6h ago
 
 ---
 
@@ -363,7 +361,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 33K • 👍 1K • 💬 217 • ⏱️ 15:01 • 20h ago
+👁️ 33K • 👍 1K • 💬 217 • ⏱️ 15:01 • 21h ago
 
 ---
 
@@ -389,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,641 • 5d ago
+⬇️ 268,534 • ❤️ 2,643 • 5d ago
 
 ---
 
@@ -413,7 +411,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 54,050 • ❤️ 389 • 4d ago
+⬇️ 54,050 • ❤️ 390 • 4d ago
 
 ---
 
@@ -425,7 +423,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 13,668 • ❤️ 312 • 1d ago
+⬇️ 13,668 • ❤️ 313 • 1d ago
 
 ---
 
@@ -461,7 +459,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 447,364 • ❤️ 242 • 4d ago
+⬇️ 447,364 • ❤️ 243 • 5d ago
 
 ---
 
@@ -485,7 +483,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,201 • ❤️ 182 • 1d ago
+⬇️ 4,201 • ❤️ 183 • 1d ago
 
 ---
 
@@ -658,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.5k • 🔱 283 • 4h ago
+⭐ 2.5k • 🔱 283 • 5h ago
 
 ---
 

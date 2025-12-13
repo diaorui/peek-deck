@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T20:55:33.733016+00:00'
+updated: '2025-12-13T21:19:23.083503+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 20:55 UTC  
+**Last Updated:** December 13, 2025 at 21:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.2%  
-**30d:** -4.8%  
-**90d:** -21.7%  
-**1y:** -11.1%  
+**24h:** -0.2%  
+**7d:** -0.5%  
+**30d:** -5.0%  
+**90d:** -21.9%  
+**1y:** -11.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1799.59B
+**Market Cap:** $1797.58B
 Rank #1
 
-**Circulating Supply:** 19,961,725 BTC
+**Circulating Supply:** 19,961,750 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.6%
 
 **All-Time Low:** $67.81
-+132853.8%
++132645.9%
 
 ---
 
@@ -76,6 +76,12 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
+
+53m ago
+
+---
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
@@ -93,7 +99,7 @@ Rank #1
 
 Yes. Yes we are.
 
-4h ago
+5h ago
 
 ---
 
@@ -115,7 +121,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -141,29 +147,21 @@ Interesting to hear someone being considered to replace Jay Powell speaking posi
 
 ---
 
-**[This pattern seems suspiciously consistent](https://www.reddit.com/r/Bitcoin/comments/1pl5b8l/this_pattern_seems_suspiciously_consistent/)**
-
-Any thoughts on what is causing it?
-
-22h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
-
-Reuters • 18h ago
-
----
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+
+Reuters • 19h ago
 
 ---
 
@@ -181,11 +179,9 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
+**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://finance.yahoo.com/news/vanguard-exec-calls-bitcoin-digital-215932676.html)**
 
-Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
-
-CoinDesk • 3h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -194,6 +190,14 @@ CoinDesk • 3h ago
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
 Bitcoin Magazine • 1d ago
+
+---
+
+**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+
+Forbes • 1d ago
 
 ---
 
@@ -211,14 +215,6 @@ x.com • 1h ago
 
 ---
 
-**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
-
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
-
-Forbes • 1d ago
-
----
-
 **[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
 
 Investor's Business Daily • 1d ago
@@ -233,7 +229,7 @@ Investor's Business Daily • 1d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 3h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 4h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -249,7 +245,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 4h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 5h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -315,7 +311,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 1K • 💬 24 • ⏱️ 48:39 • 6h ago
+👁️ 18K • 👍 1K • 💬 24 • ⏱️ 48:39 • 7h ago
 
 ---
 
@@ -325,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 134 • 💬 7 • ⏱️ 21:14 • 5h ago
+👁️ 2K • 👍 134 • 💬 7 • ⏱️ 21:14 • 6h ago
 
 ---
 
@@ -375,7 +371,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 122 • ⏱️ 16:27 • 22h ago
+👁️ 27K • 👍 2K • 💬 122 • ⏱️ 16:27 • 23h ago
 
 ---
 
@@ -395,7 +391,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 31K • 👍 2K • 💬 64 • ⏱️ 5:06 • 15h ago
+👁️ 31K • 👍 2K • 💬 64 • ⏱️ 5:06 • 16h ago
 
 ---
 
@@ -405,7 +401,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 3K • 👍 492 • 💬 77 • ⏱️ 38:01 • 8h ago
+👁️ 3K • 👍 492 • 💬 77 • ⏱️ 38:01 • 9h ago
 
 ---
 
