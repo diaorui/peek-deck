@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T21:19:23.083503+00:00'
+updated: '2025-12-13T21:33:12.065603+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - cryptocurrency
-- social
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 21:19 UTC  
+**Last Updated:** December 13, 2025 at 21:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -0.5%  
-**30d:** -5.0%  
-**90d:** -21.9%  
-**1y:** -11.3%  
+**24h:** -0.3%  
+**7d:** -0.6%  
+**30d:** -5.1%  
+**90d:** -22.0%  
+**1y:** -11.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -129,7 +129,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid improvements to UI, security, and portfolio management. Some highlights of this release: Added 2FA Support for BTC transfers (not just buy/sell) Fixed and improved DB migrations Updated Next.js to address a critical security vulnerability I haven’t posted in a while, but during that time — driven by community requests — I added several bigger features, including: DCA calculator with goal tracking Auto DCA setup Portfolio analysis A dynamic dashboard with customizable widgets (and more) Along the way, I also revamped the UI (mobile still needs some polish), added theme presets, and cleaned things up overall. You can try it on Umbrel, run it with Docker, or install it standalone via npm. Repo: https://github.com/wilqq-the/BTC-Tracker Umbrel app: https://apps.umbrel.com/app/btctracker Feedback and ideas are always welcome — we’re slowly building this together 🙏 Discord: https://discord.gg/WyxSZv3a
 
-3h ago
+4h ago
 
 ---
 
@@ -305,23 +305,23 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ## YouTube Videos: "bitcoin"
 
-**[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
-
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
-
-📺 Anthony Pompliano
-
-👁️ 18K • 👍 1K • 💬 24 • ⏱️ 48:39 • 7h ago
-
----
-
 **[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 134 • 💬 7 • ⏱️ 21:14 • 6h ago
+👁️ 3K • 👍 161 • 💬 8 • ⏱️ 21:14 • 6h ago
+
+---
+
+**[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
+
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
+
+📺 Anthony Pompliano
+
+👁️ 25K • 👍 1K • 💬 24 • ⏱️ 48:39 • 7h ago
 
 ---
 
@@ -331,7 +331,17 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 4K • 👍 274 • 💬 27 • ⏱️ 13:45 • 5h ago
+👁️ 8K • 👍 378 • 💬 35 • ⏱️ 13:45 • 6h ago
+
+---
+
+**[Michael Saylor: Bitcoin CRASH, MSTR Drop &amp; BTC Analysis](https://www.youtube.com/watch?v=SeEgUzrZIlE)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Starwin Narkthongpet
+
+👁️ 5K • 👍 3K • 1h ago
 
 ---
 
@@ -341,17 +351,7 @@ America is drowning in debt—and politicians aren't telling you the real soluti
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 116 • 💬 16 • ⏱️ 7:25 • 5h ago
-
----
-
-**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
-
-EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
-
-📺 Altcoin Daily
-
-👁️ 45K • 👍 2K • 💬 265 • ⏱️ 31:03 • 1d ago
+👁️ 2K • 👍 138 • 💬 18 • ⏱️ 7:25 • 6h ago
 
 ---
 
@@ -361,47 +361,47 @@ these 6 boring habits don't look impressive… but they're how I plan to win wit
 
 📺 BTC Isla
 
-👁️ 15K • 👍 1K • 💬 247 • ⏱️ 10:24 • 1d ago
+👁️ 15K • 👍 1K • 💬 250 • ⏱️ 10:24 • 1d ago
 
 ---
 
-**[Fed Restarts QE? Why This $54B Pivot Changes Everything for Bitcoin!](https://www.youtube.com/watch?v=UT9Ok-n-G4I)**
+**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
 
-The Fed just restarted the money printer — call it “reserve management,” but liquidity is rising fast. Bitcoin is now approved as ...
+EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 122 • ⏱️ 16:27 • 23h ago
-
----
-
-**[Bitcoin: Institutional Technical Analysis, Levels, Education And Forecast](https://www.youtube.com/watch?v=a_PGUuCG8Yk)**
-
-Chief Market Strategist Gareth Soloway gives institutional level analysis and insights into Bitcoin and its chart. He covers the key ...
-
-📺 Gareth Soloway
-
-👁️ 15K • 👍 2K • 💬 186 • ⏱️ 14:00 • 6h ago
+👁️ 48K • 👍 2K • 💬 283 • ⏱️ 31:03 • 1d ago
 
 ---
 
-**[Bitcoin: The Beauty of Mathematics (Part 65)](https://www.youtube.com/watch?v=JAkNLbhTjFg)**
+**[Michael Saylor: BITCOIN CRASH EXPLAINED! MASSIVE BTC DUMP &amp; What&#39;s Next for Crypto?](https://www.youtube.com/watch?v=MTSl-sIBOrM)**
 
-Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
+Bitcoin #BTC #CryptoCrash Michael Saylor returns to break down the shocking Bitcoin crash shaking the crypto markets.
 
-📺 Benjamin Cowen
+📺 Starwin Narkthongpet
 
-👁️ 31K • 👍 2K • 💬 64 • ⏱️ 5:06 • 16h ago
+👁️ 3K • 👍 4K • 42m ago
 
 ---
 
-**[THE ULTIMATE ORANGE PILL FOR BITCOIN: CREDIT, RISK, AND YIELD](https://www.youtube.com/watch?v=8ObKlwsh4d0)**
+**[Why is NOBODY Talking About This Bitcoin Setup!?!?!?!?](https://www.youtube.com/watch?v=3HL_QUxu3t0)**
 
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+Join BroFi VIP ⁣ https://enter.brofi.com/ytdesc X: https://x.com/samiloyal_ ⁣FREE Telegram Alerts Channel:⁣ ...
 
-📺 Adam Livingston
+📺 Forflies
 
-👁️ 3K • 👍 492 • 💬 77 • ⏱️ 38:01 • 9h ago
+👁️ 296 • 👍 41 • 💬 96 • ⏱️ 19:45 • 1h ago
+
+---
+
+**[Bitcoin Warning: This Changes Everything (WATCH ASAP) 💥 Crypto News &amp; Analysis Today 📰](https://www.youtube.com/watch?v=ETVzHS3BlX4)**
+
+Join our FREE Crypto Telegram https://t.me/CryptoCacheTrading & Discord https://discord.gg/PJv2gykpb7 Bitunix Exchange ...
+
+📺 CryptoCache
+
+👁️ 1K • 👍 134 • 💬 21 • ⏱️ 18:10 • 4h ago
 
 ---
 

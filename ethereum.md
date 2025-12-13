@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T21:19:23.089559+00:00'
+updated: '2025-12-13T21:33:12.071574+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - cryptocurrency
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 21:19 UTC  
+**Last Updated:** December 13, 2025 at 21:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +1.3%  
-**30d:** -0.2%  
-**90d:** -31.4%  
-**1y:** -19.9%  
+**24h:** -0.1%  
+**7d:** +0.9%  
+**30d:** -0.5%  
+**90d:** -31.6%  
+**1y:** -20.2%  
 
 ---
 
@@ -238,7 +238,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 265 • ⏱️ 31:03 • 1d ago
+👁️ 48K • 👍 2K • 💬 283 • ⏱️ 31:03 • 1d ago
 
 ---
 
@@ -248,7 +248,17 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 444 • 💬 14 • ⏱️ 48:44 • 1d ago
+👁️ 7K • 👍 446 • 💬 14 • ⏱️ 48:44 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=gZPkmtNiAd8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 97 • 💬 1 • ⏱️ 4:05 • 3h ago
 
 ---
 
@@ -262,13 +272,13 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=gZPkmtNiAd8)**
+**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 More Crypto Online
+📺 Savvy Finance
 
-👁️ 610 • 👍 68 • ⏱️ 4:05 • 3h ago
+👁️ 3K • 👍 161 • 💬 8 • ⏱️ 21:14 • 6h ago
 
 ---
 
@@ -278,7 +288,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 253 • ⏱️ 10:23 • 2d ago
+👁️ 58K • 👍 3K • 💬 254 • ⏱️ 10:23 • 2d ago
 
 ---
 
@@ -288,7 +298,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 734 • 💬 42 • ⏱️ 11:29 • 2d ago
+👁️ 19K • 👍 737 • 💬 42 • ⏱️ 11:29 • 2d ago
 
 ---
 
@@ -308,27 +318,17 @@ ETH isn't just lagging — its story broke. It's down ~3× more than BTC from th
 
 📺 Ryan’s Money Lab
 
-👁️ 4K • 👍 183 • 💬 25 • ⏱️ 15:43 • 2d ago
+👁️ 4K • 👍 184 • 💬 25 • ⏱️ 15:43 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pqKrclgrgTE)**
+**[BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wW7XFfYMF7g)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 129 • 💬 2 • ⏱️ 4:36 • 19h ago
-
----
-
-**[BITCOIN &amp; ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8B6ecgMBOf0)**
-
-BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
 📺 Crypto World
 
-👁️ 8K • 👍 337 • 💬 70 • ⏱️ 18:06 • 22h ago
+👁️ 2K • 👍 168 • 💬 7 • ⏱️ 18:12 • 2h ago
 
 ---
 

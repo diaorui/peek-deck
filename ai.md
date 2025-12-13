@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T21:19:23.074377+00:00'
+updated: '2025-12-13T21:33:12.057270+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 21:19 UTC  
+**Last Updated:** December 13, 2025 at 21:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,7 @@ AI news, discussions, and developments
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 5h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 6h ago
 
 ---
 
@@ -91,7 +91,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 I am looking to clone my dad's voice to surprise my sisters for Christmas. He passed away back in 2009. I only have about 5 minutes of recorded audio of his voice from saved voicemail message I have. From reading online it looks like ElevenLabs is the best option. With that limited amount of source material though, what are my chances of recreating something that is accurate? Any suggestions would be appreciated.
 
-52m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ The New York Times • 1d ago
 
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
 
-NBC News • 10h ago
+NBC News • 11h ago
 
 ---
 
@@ -179,7 +179,7 @@ BBC • 2d ago
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 7h ago
+Vox • 8h ago
 
 ---
 
@@ -275,33 +275,13 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 ## YouTube Videos: "ai"
 
-**[Our 2025 reports on artificial intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
+**[Our 2025 Reports on Artificial Intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
 
 From November, Anderson Cooper's report on why Anthropic's CEO spends so much time warning of AI's potential dangers.
 
 📺 60 Minutes
 
-👁️ 57K • 👍 2K • 💬 207 • ⏱️ 1:21:07 • 9h ago
-
----
-
-**[OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)**
-
-Deploying on Railway feels like magic. Get $20 in free credits to try it out - https://railway.com/?referralCode=fireship Sam Altman ...
-
-📺 Fireship
-
-👁️ 274K • 👍 12K • 💬 714 • ⏱️ 4:01 • 23h ago
-
----
-
-**[Trump Just Sold America’s AI Advantage to China (This Is Not Good For the U.S.)](https://www.youtube.com/watch?v=fkmsmvfbGtY)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 7K • 👍 673 • 💬 252 • ⏱️ 16:19 • 6h ago
+👁️ 79K • 👍 2K • 💬 255 • ⏱️ 1:21:07 • 9h ago
 
 ---
 
@@ -311,7 +291,27 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 443K • 👍 11K • 💬 2K • ⏱️ 13:43 • 2d ago
+👁️ 450K • 👍 11K • 💬 2K • ⏱️ 13:43 • 2d ago
+
+---
+
+**[OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)**
+
+Deploying on Railway feels like magic. Get $20 in free credits to try it out - https://railway.com/?referralCode=fireship Sam Altman ...
+
+📺 Fireship
+
+👁️ 290K • 👍 13K • 💬 747 • ⏱️ 4:01 • 23h ago
+
+---
+
+**[Trump Just Sold America’s AI Advantage to China (This Is Not Good For the U.S.)](https://www.youtube.com/watch?v=fkmsmvfbGtY)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 12K • 👍 855 • 💬 298 • ⏱️ 16:19 • 6h ago
 
 ---
 
@@ -321,37 +321,7 @@ Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------
 
 📺 GEN
 
-👁️ 35K • 👍 2K • 💬 396 • ⏱️ 22:33 • 1d ago
-
----
-
-**[The AI Jobs Crash is COMING... And We&#39;re Not Even CLOSE to Ready](https://www.youtube.com/watch?v=cXeRtejbj1E)**
-
-AI is NOT the bubble... the real bubble is jobs. Entire industries are on the verge of disappearing, and college degrees are rapidly ...
-
-📺 Glenn Beck Clips
-
-👁️ 38K • 👍 1K • 💬 450 • ⏱️ 11:23 • 2d ago
-
----
-
-**[AGI Just Became Real... It’s done!](https://www.youtube.com/watch?v=L8J3OSQfcT4)**
-
-A Tokyo startup just shocked the industry. Integral AI claims it built the first AGI-capable system — a model that learns new skills ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 2K • 💬 334 • ⏱️ 14:58 • 1d ago
-
----
-
-**[The 6 Most Profitable AI Businesses to Start in 2026](https://www.youtube.com/watch?v=X_X7WE1JBRg)**
-
-Get your FREE Executive Assistant Playbook here: https://go.danmartell.com/4oCwS0c Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 50K • 👍 3K • 💬 206 • ⏱️ 19:49 • 1d ago
+👁️ 40K • 👍 3K • 💬 447 • ⏱️ 22:33 • 1d ago
 
 ---
 
@@ -361,17 +331,47 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 33K • 👍 1K • 💬 217 • ⏱️ 15:01 • 21h ago
+👁️ 35K • 👍 1K • 💬 224 • ⏱️ 15:01 • 21h ago
 
 ---
 
-**[It’s Not An AI Bubble. It’s A Black Hole. (With Ed Zitron and Sruthi Pinnamaneni) | Lever Time](https://www.youtube.com/watch?v=gKRevF9AZ4E)**
+**[Paris’s AI Barber Pod 3.0 Will Blow Your Mind! 🤯 Next-Level Haircut ✅](https://www.youtube.com/watch?v=zA4FbVEC3lc)**
 
-2025 has been a tremendous year for the artificial intelligence industry. Stock prices for AI companies skyrocketed, soaring ...
+Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut in seconds, thanks to futuristic tech you won't believe ...
 
-📺 The Lever
+📺 Smart Tales
 
-👁️ 10K • 👍 666 • 💬 161 • ⏱️ 47:42 • 1d ago
+👁️ 4K • 👍 43 • ⏱️ 0:08 • 1h ago
+
+---
+
+**[The AI Jobs Crash is COMING... And We&#39;re Not Even CLOSE to Ready](https://www.youtube.com/watch?v=cXeRtejbj1E)**
+
+AI is NOT the bubble... the real bubble is jobs. Entire industries are on the verge of disappearing, and college degrees are rapidly ...
+
+📺 Glenn Beck Clips
+
+👁️ 38K • 👍 1K • 💬 455 • ⏱️ 11:23 • 2d ago
+
+---
+
+**[#1 New Ai Video Generator of 2025 Just Destroyed VEO 3 &amp; Sora 2](https://www.youtube.com/watch?v=3yhAlEKvnLw)**
+
+FULL AI COURSE HERE https://brainprojectai.com/courses/launch-your-ai-influencer-empire/?v=66e10e9ff65e Start Printing ...
+
+📺 Brain Project
+
+👁️ 6K • 👍 383 • 💬 60 • ⏱️ 14:19 • 1d ago
+
+---
+
+**[Create AI UGC Ads With Nano Banana That ACTUALLY Look REAL](https://www.youtube.com/watch?v=YbztbmMtDZM)**
+
+How to Create AI Influencer Ads with Nano Banana PRO that ACTUALLY look REAL Try Arcads AI ...
+
+📺 Dan Kieft
+
+👁️ 21K • 💬 9 • ⏱️ 13:22 • 1d ago
 
 ---
 
@@ -646,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.6k • 🔱 2.1k • 16h ago
+⭐ 13.6k • 🔱 2.1k • 17h ago
 
 ---
 
@@ -736,7 +736,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 675 • 🔱 97 • 4d ago
+⭐ 675 • 🔱 97 • 5d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T21:19:23.092789+00:00'
+updated: '2025-12-13T21:33:12.074796+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 21:19 UTC  
+**Last Updated:** December 13, 2025 at 21:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,19 +52,19 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 2h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 3h ago
 
 ---
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-12m ago
+26m ago
 
 ---
 
@@ -72,7 +72,7 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 8h ago
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 9h ago
 
 ---
 
@@ -88,7 +88,7 @@ I just started working here and on friday afternoon the software crashed or to t
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or when modifying the PX4 flight controller. Hope it helps someone else now! Video below shows how it works. Side note: we're always open to feedback. Simulink based PX4 SIL Simulator
 
-55m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon 
 
 An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/transitiverobotics/transact) • 2h ago
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 3h ago
 
 ---
 
@@ -124,7 +124,7 @@ IEEE Spectrum • 3d ago
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -140,7 +140,7 @@ NVIDIA Developer • 2d ago
 
 “The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -200,7 +200,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 189K • 👍 6K • 💬 466 • ⏱️ 17:44 • 3d ago
+👁️ 195K • 👍 6K • 💬 471 • ⏱️ 17:44 • 3d ago
 
 ---
 
@@ -210,55 +210,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 112K • 👍 2K • 💬 674 • ⏱️ 14:26 • 5d ago
-
----
-
-**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
-
-Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
-
-📺 The Military Show
-
-👁️ 341K • 👍 9K • 💬 544 • ⏱️ 16:55 • 2d ago
-
----
-
-**[This Is What A Robot Girlfriend Expo Looks Like](https://www.youtube.com/watch?v=L-URSs7OgEs)**
-
-The future of relationships is already here. I walked through the world's first robot girlfriend expo and filmed every model designed ...
-
-📺 SYN:THETIC_BLOOD
-
-👁️ 202K • 👍 2K • 💬 54 • ⏱️ 0:16 • 1d ago
-
----
-
-**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
-
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
-
-📺 Associated Press
-
-👁️ 8K • 👍 57 • 💬 20 • ⏱️ 1:26 • 22h ago
-
----
-
-**[Silicon Valley’s Newest AI Diaper Changer Is Unreal 👶🤖 AI Baby Changer 4.0 — The Future Is Here](https://www.youtube.com/watch?v=x5P16JwG6fU)**
-
-At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the future of Smart Parenting, BabyTech and AI ...
-
-📺 AI Robot Lab
-
-👁️ 699K • 👍 1K • 💬 37 • ⏱️ 0:20 • 3d ago
-
----
-
-**[Google AI Humanoid Robot Purchased - Full Review. #robotics #aihumanoid #airobot #futuretech](https://www.youtube.com/watch?v=Af8UXjAOaKc)**
-
-📺 AI . Robot
-
-👁️ 1.2M • 👍 10K • 💬 89 • ⏱️ 0:18 • 3d ago
+👁️ 113K • 👍 2K • 💬 677 • ⏱️ 14:26 • 5d ago
 
 ---
 
@@ -268,7 +220,37 @@ Unitree welcomes users and developers worldwide to co-develop and share together
 
 📺 Unitree Robotics
 
-👁️ 7K • 👍 207 • 💬 42 • ⏱️ 0:35 • 15h ago
+👁️ 7K • 👍 216 • 💬 42 • ⏱️ 0:35 • 16h ago
+
+---
+
+**[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
+
+PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
+
+📺 LIGHTS ARE OFF
+
+👁️ 332K • 👍 22K • 💬 2K • ⏱️ 8:45 • 13h ago
+
+---
+
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
+
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
+
+📺 CNN
+
+👁️ 89K • 👍 1K • 💬 453 • ⏱️ 0:41 • 5d ago
+
+---
+
+**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+
+📺 Associated Press
+
+👁️ 9K • 👍 59 • 💬 20 • ⏱️ 1:26 • 23h ago
 
 ---
 
@@ -278,17 +260,37 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 18K • 👍 499 • 💬 112 • ⏱️ 42:48 • 5d ago
+👁️ 18K • 👍 500 • 💬 113 • ⏱️ 42:48 • 5d ago
 
 ---
 
-**[Mark Zuckerberg Unveils Meta’s Insane One-Wheel Machine! #facebook #futuretech #robotics #droneexpo](https://www.youtube.com/watch?v=5pkblv0dQKE)**
+**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
 
-Mark Zuckerberg just shocked the tech world! Meta officially unveils its futuristic One Wheel Vehicle — a next-gen personal ...
+GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
 
-📺 Izzatunnisa Hasna
+📺 Gen Women AI
 
-👁️ 9.2M • 👍 26K • 💬 378 • ⏱️ 0:13 • 3d ago
+👁️ 62K • 👍 636 • 💬 13 • ⏱️ 0:09 • 1d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=0Z8lyW1FCZg)**
+
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 24K • 👍 306 • 💬 2 • ⏱️ 0:18 • 14h ago
+
+---
+
+**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
+
+Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
+
+📺 Kalil 4.0
+
+👁️ 22K • 👍 197 • 💬 24 • ⏱️ 0:27 • 6d ago
 
 ---
 
