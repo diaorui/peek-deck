@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T12:46:37.421117+00:00'
+updated: '2025-12-13T13:18:25.913925+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 12:46 UTC  
+**Last Updated:** December 13, 2025 at 13:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -0.1%  
-**30d:** -4.6%  
-**90d:** -21.6%  
-**1y:** -10.9%  
+**24h:** -1.9%  
+**7d:** +0.1%  
+**30d:** -4.5%  
+**90d:** -21.5%  
+**1y:** -10.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1804.22B
+**Market Cap:** $1802.99B
 Rank #1
 
 **Circulating Supply:** 19,961,596 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.4%
 
 **All-Time Low:** $67.81
-+133111.9%
++133107.5%
 
 ---
 
@@ -81,25 +81,25 @@ Rank #1
 
 This will age well in 10 years. See you then.
 
-2h ago
+3h ago
 
 ---
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-1h ago
+2h ago
 
 ---
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -117,21 +117,21 @@ Any thoughts on what is causing it?
 
 ---
 
-**[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
-
-9h ago
-
----
-
 **[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
 1h ago
 
 ---
 
+**[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
+
+9h ago
+
+---
+
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -149,7 +149,7 @@ I've been quietly stacking bitcoin for almost four years now and it blows my min
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1d ago
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bitcoin Magazine • 17h ago
 
 The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Motley Fool • 2h ago
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -217,7 +217,7 @@ Yahoo Finance UK • 2d ago
 
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 22h ago
+x.com • 23h ago
 
 ---
 
@@ -295,7 +295,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 **[Ask HN: Is there a local dev tool you wish existed because of a repeating issue?](https://news.ycombinator.com/item?id=46253198)**
 
-⬆️ 1 • 💬 0 • 3h ago
+⬆️ 1 • 💬 0 • 4h ago
 
 ---
 
@@ -309,7 +309,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 121 • ⏱️ 16:27 • 14h ago
+👁️ 24K • 👍 1K • 💬 121 • ⏱️ 16:27 • 15h ago
 
 ---
 
@@ -319,7 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 262 • ⏱️ 46:26 • 20h ago
+👁️ 25K • 👍 1K • 💬 262 • ⏱️ 46:26 • 21h ago
 
 ---
 
@@ -329,7 +329,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 638 • 💬 101 • ⏱️ 11:48 • 19h ago
+👁️ 8K • 👍 638 • 💬 101 • ⏱️ 11:48 • 20h ago
 
 ---
 
@@ -339,7 +339,7 @@ Start Building Your Bitcoin Plan: https://www.austintalksmoney.com/financial-pla
 
 📺 Austin Talks Money
 
-👁️ 2K • 👍 92 • 💬 40 • ⏱️ 15:25 • 9h ago
+👁️ 2K • 👍 92 • 💬 40 • ⏱️ 15:25 • 10h ago
 
 ---
 
@@ -359,7 +359,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 378 • 💬 129 • ⏱️ 11:54 • 17h ago
+👁️ 7K • 👍 378 • 💬 129 • ⏱️ 11:54 • 18h ago
 
 ---
 
@@ -379,7 +379,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 195 • ⏱️ 31:03 • 15h ago
+👁️ 36K • 👍 2K • 💬 195 • ⏱️ 31:03 • 16h ago
 
 ---
 
@@ -389,7 +389,7 @@ Everyone thinks Bitcoin still runs on a clean four-year cycle — but the data, 
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 206 • 💬 14 • ⏱️ 0:50 • 23h ago
+👁️ 9K • 👍 206 • 💬 14 • ⏱️ 0:50 • 1d ago
 
 ---
 

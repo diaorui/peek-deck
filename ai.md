@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T12:46:37.412700+00:00'
+updated: '2025-12-13T13:18:25.904938+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 12:46 UTC  
+**Last Updated:** December 13, 2025 at 13:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 19h ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 20h ago
 
 ---
 
@@ -57,7 +57,15 @@ Lifting export controls on Nvidia’s second-best chip jeopardizes America’s A
 
 An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 21h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 22h ago
+
+---
+
+**[White-collar layoffs are coming at a scale we've never seen. Why is no one talking about this?](https://www.reddit.com/r/artificial/comments/1plkvps/whitecollar_layoffs_are_coming_at_a_scale_weve/)**
+
+I keep seeing the same takes everywhere. "AI is just like the internet." "It's just another tool, like Excel was." "Every generation thinks their technology is special." No. This is different. The internet made information accessible. Excel made calculations faster. They helped us do our jobs better. AI doesn't help you do knowledge work, it DOES the knowledge work. That's not an incremental improvement. That's a different thing entirely. Look at what came out in the last few weeks alone. Opus 4.5. GPT-5.2. Gemini 3.0 Pro. OpenAI went from 5.1 to 5.2 in under a month. And these aren't demos anymore. They write production code. They analyze legal documents. They build entire presentations from scratch. A year ago this stuff was a party trick. Now it's getting integrated into actual business workflows. Here's what I think people aren't getting: We don't need AGI for this to be catastrophic. We don't need some sci-fi superintelligence. What we have right now, today, is already enough to massively cut headcount in knowledge work. The only reason it hasn't happened yet is that companies are slow. Integrating AI into real workflows takes time. Setting up guardrails takes time. Convincing middle management takes time. But that's not a technological barrier. That's just organizational inertia. And inertia runs out. And every time I bring this up, someone tells me: "But AI can't do [insert thing here]." Architecture. Security. Creative work. Strategy. Complex reasoning. Cool. In 2022, AI couldn't code. In 2023, it couldn't handle long context. In 2024, it couldn't reason through complex problems. Every single one of those "AI can't" statements is now embarrassingly wrong. So when someone tells me "but AI can't do system architecture" – okay, maybe not today. But that's a bet. You're betting that the thing that improved massively every single year for the past three years will suddenly stop improving at exactly the capability you need to keep your job. Good luck with that. What really gets me though is the silence. When manufacturing jobs disappeared, there was a political response. Unions. Protests. Entire campaigns. It wasn't enough, but at least people were fighting. What's happening now? Nothing. Absolute silence. We're looking at a scenario where companies might need 30%, 50%, 70% fewer people in the next 10 years or so. The entire professional class that we spent decades telling people to "upskill into" might be facing massive redundancy. And where's the debate? Where are the politicians talking about this? Where's the plan for retraining, for safety nets, for what happens when the jobs we told everyone were safe turn out not to be? Nowhere. Everyone's still arguing about problems from years ago while this thing is barreling toward us at full speed. I'm not saying civilization collapses. I'm not saying everyone loses their job next year. I'm saying that "just learn the next safe skill" is not a strategy. It's copium. It's the comforting lie we tell ourselves so we don't have to sit with the uncertainty. The "next safe skill" is going to get eaten by AI sooner or later as well. I don't know what the answer is. But pretending this isn't happening isn't it either. NOTE This sub does not allow cross posts. It was originally posted here: https://www.reddit.com/r/ArtificialInteligence/s/3U3CJv1eK5
+
+15m ago
 
 ---
 
@@ -71,7 +79,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 14h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 15h ago
 
 ---
 
@@ -87,7 +95,7 @@ The world's smallest AI supercomputer packs enough power to run 120 billion para
 
 I'm not seeing enough people talk about this (or I see people only discuss one aspect of it, not its implications). There are two paths to AI profitability. The first is to replace large swathes of the workforce. Middle managers, desk jockeys--if your job is writing emails, AI may replace you, and companies are betting on this and investing in AI. This is the story I've most commonly seen. But there's another path to AI profitability: the subscription drug model. When articles talk about the future of AI, I don't see this one mentioned as much. ----------- Every website, no matter how altruistically it starts, has a long-term plan to squeeze as much money out of its users as possible. Youtube used to be totally free. Now every video has 2 ads every 5 minutes, and within the video creators embed their own ads and sponsors. Netflix used to have no ads. Now you have to pay extra to avoid them. You see the same enshittification playbook everywhere. Start as free service, grow, absorb competitors until you are a monopoly, then start introducing ads, monetization, subscription plans, worse product, etc. LLMs are getting the youth completely hooked on their product. Instead of learning how to type by practicing typing, students type half of a word and autocomplete fills in the rest. They're not getting the practice they need. That's just muscle memory and repetition though--I think it's worse for deeper skills, like critical thinking, work ethic, sustained focus on homework. Once students start using LLMs to do work for them, they lose the patience for work and don't develop crucial cognitive skills they will need in any career. Everyone knows this is happening, this shouldn't be news at all. There are plenty of articles about college students who don't know how to read, etc. What I don't see people mention is the actual business model. In another 10 years, when the problem has gotten much worse, once every high school or college student is unable to read or write and having LLMs basically function for them, then you'll see companies take advantage of this. That generation will NEED AI. They won't be able to do their job without it, they won't be able to send emails without it, they might not even be able to get groceries or plan a meal without it. (Let's not even get into how they will need it for friendship/emotional support/therapy, that is another can of worms entirely.) This, dear reader, is when the enshittification begins. At that point the companies can jack up pricing. The AI-heads will have no choice but to pay. They will need that shit to live. They can charge whatever they want! $400 a month to use ChatGPT. Hell, maybe more? 10% of your wages? If ChatGPT is doing your job for you, how is it fair for you to keep 100% of your earnings? What are you going to do, write those emails yourself, when you don't know how to read or write, and the LLM has been doing your homework for you since 3rd grade? At this point, it is worth considering the emotional state of the first generation of children/teens addicted to and utterly dependent on LLMs. They will use it to do homework in elementary/middle school. They may start to feel shame or embarrassment about this by the time they are in high school. They might even spend a semester trying to read and do homework without AI assistance--but at that point, it will be too late, and they will be stressed about their grades, and they will go back to AI and carry the secret burden of knowing that they stopped learning to read in elementary school. They will go to college, have AI write their essays, and their whole generation will be in on the secret which they will try to hide from their teachers and future employers (the employers, by the way, will think they understand the problem, as people have written about it before--but when the youth hear older folk talk about the problem, they will realize the older generations underestimate the true severity of the problem). When the LLM companies decide to extort this poor lost generation, they will already be well aware of the position they are in. Surely OpenAI has considered this potential future? Why aren't journalists writing about this as their potential secret business plan? It seems like it has been completely unspoken (maybe I just haven't seen the idea mentioned before, if somebody has seen any discussion of the topic in media please share a link). This seems to me to be one of the two paths to AI profitability, and the reason why so many companies are investing in it. I hear plenty about the other path to profitability (automating office work and firing large swathes of the workforce), but I don't hear as much about the subscription drug model of profitability.
 
-10h ago
+11h ago
 
 ---
 
@@ -95,21 +103,13 @@ I'm not seeing enough people talk about this (or I see people only discuss one a
 
 I’ve been working with multiple LLMs in long, sustained interactions, hundreds of turns, frequent domain switching (math, philosophy, casual context), and even switching base models mid-stream. A consistent failure mode shows up regardless of model size or training quality: identity and coherence collapse over time. Models drift toward generic answers, lose internal consistency, or contradict earlier constraints, usually within a few dozen turns unless something external actively regulates the interaction. My claim is simple: This is not primarily a capability or scale issue. It’s an architectural one. LLMs are reactive systems. They don’t have an internal reference for identity, only transient context. There’s nothing to regulate against, so coherence decays predictably. I’ve been exploring a different framing: treating the human operator and the model as a single operator–model coupled system, where identity is defined externally and coherence is actively regulated. Key points: • Identity precedes intelligence. • The operator measurably influences system dynamics. • Stability is a control problem, not a prompting trick. • Ethics can be treated as constraints in the action space, not post-hoc filters. Using this approach, I’ve observed sustained coherence: • across hundreds of turns • across multiple base models • without relying on persistent internal memory I’m not claiming sentience, AGI, or anything mystical. I’m claiming that operator-coupled architectures behave differently than standalone agents. If this framing is wrong, I’m genuinely interested in where the reasoning breaks. If this problem is already “solved,” why does identity collapse still happen so reliably? Discussion welcome. Skepticism encouraged.
 
-11h ago
+12h ago
 
 ---
 
 **[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
 
-🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 14h ago
-
----
-
-**[Scientists just uncovered a major limitation in how AI models understand truth and belief](https://www.reddit.com/r/artificial/comments/1pkrazu/scientists_just_uncovered_a_major_limitation_in/)**
-
-A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
-
-🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 23h ago
+🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 15h ago
 
 ---
 
@@ -125,35 +125,19 @@ Business Insider • 2h ago
 
 ---
 
-**[Say hello to Google’s ‘Disco’, an AI tool that makes web apps from browser tabs](https://mashable.com/article/google-disco-ai-browser-tabs-app)**
-
-GenTabs will be the first Disco feature, and many more are coming.
-
-Mashable • 13h ago
-
----
-
-**[Gemini Live API Now GA on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/gemini-live-api-available-on-vertex-ai)**
-
-Google Cloud customers can now deploy mission-critical, low-latency voice and video agents with the stability, performance, and governance required for your most demanding workflows.
-
-Google Cloud • 19h ago
-
----
-
-**[Trump cites Colorado in new executive order banning states from creating ‘cumbersome’ AI laws](https://www.cpr.org/2025/12/12/trump-artificial-intelligence-executive-order/)**
-
-Colorado's state law, passed in 2024, seeks to prevent discrimination in the AI systems that businesses and governments use in making key decisions, such as hiring, education and banking.
-
-Colorado Public Radio • 18h ago
-
----
-
 **[Oracle’s collapsing stock shows the AI boom is running into two hard limits: physics and debt markets](https://fortune.com/2025/12/13/oracle-stock-collapse-ai-boom-debt-data-centers-delayed/)**
 
 “The world of bits moves fast. The world of atoms doesn’t. And data centers are where those two worlds collide.”
 
-Fortune • 2h ago
+Fortune • 3h ago
+
+---
+
+**[When your AI boyfriend gets you better than your spouse](https://www.vox.com/podcasts/471982/chatgpt-boyfriend-love-dating-ai)**
+
+﻿Love, actually…is a chatbot?
+
+Vox • 48m ago
 
 ---
 
@@ -165,35 +149,51 @@ NBC News • 2h ago
 
 ---
 
-**[When your AI boyfriend gets you better than your spouse](https://www.vox.com/podcasts/471982/chatgpt-boyfriend-love-dating-ai)**
+**[Exclusive / Washington Post’s AI-generated podcasts rife with errors, fictional quotes](https://www.semafor.com/article/12/11/2025/washington-posts-ai-generated-podcasts-rife-with-errors-fictional-quotes)**
 
-﻿Love, actually…is a chatbot?
+Errors in the Postâs new AI-generated podcasts have frustrated the paperâs journalists.
 
-Vox • 16m ago
-
----
-
-**[Could America win the AI race but lose the war?](https://www.ft.com/content/12581344-6e37-45a0-a9d5-e3d6a9f8d9ba)**
-
-The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
-
-Financial Times • 7h ago
+https-//www.semafor.com • 1d ago
 
 ---
 
-**[Something Ominous Is Happening in the AI Economy](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)**
+**[Is The Washington Post’s new AI podcast a hallmark of the future?](https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast)**
 
-The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
+The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest.
 
-The Atlantic • 2d ago
+NPR • 2h ago
 
 ---
 
-**[Is A.I. Actually a Bubble?](https://www.newyorker.com/culture/open-questions/is-ai-actually-a-bubble)**
+**[The Post’s A.I. ‘Disaster’](https://www.status.news/p/washington-post-ai-podcast-errors)**
 
-The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
+Staffers at The Washington Post revolted en masse after the newspaper debuted an error-prone A.I. podcast feature, according to Slack messages obtained by Status.
 
-The New Yorker • 1d ago
+status.news • 1d ago
+
+---
+
+**[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
+
+California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
+
+BBC • 22h ago
+
+---
+
+**[Arizona city unanimously rejects AI data center after residents' outcry](https://www.foxbusiness.com/politics/arizona-city-unanimously-rejects-ai-data-center-after-residents-outcry)**
+
+The Chandler, Arizona, city council unanimously voted against clearing the way to allow for construction of an artificial intelligence data center
+
+Fox Business • 16h ago
+
+---
+
+**[Nvidia Chip on Satellite in Orbit Trains First AI Model in Space](https://futurism.com/artificial-intelligence/orbital-ai-data-center-trains-first-model-space)**
+
+With backing from AI chipmaker Nvidia, a startup called Starcloud launched a high-powered Nvidia GPU into outer space and trained an AI.
+
+Futurism • 21h ago
 
 ---
 
@@ -213,7 +213,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 435 • 💬 226 • 16h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 442 • 💬 229 • 16h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -221,7 +221,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 326 • 💬 315 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 327 • 💬 315 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -237,15 +237,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 161 • 💬 113 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
-
----
-
-**[McDonald's pulls AI Christmas ad after backlash](https://news.ycombinator.com/item?id=46217176)**
-
-McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
-
-⬆️ 119 • 💬 160 • 2d ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 162 • 💬 113 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -261,7 +253,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 116 • 💬 228 • 20h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 116 • 💬 230 • 20h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -269,13 +261,21 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 76 • 💬 120 • 16h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 77 • 💬 120 • 16h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
 **[Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings](https://news.ycombinator.com/item?id=46219386)**
 
 ⬆️ 57 • 💬 52 • 2d ago
+
+---
+
+**[Something Ominous Is Happening in the AI Economy](https://news.ycombinator.com/item?id=46236820)**
+
+The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
+
+⬆️ 42 • 💬 5 • 1d ago • [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)
 
 ---
 
@@ -309,7 +309,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 26K • 👍 874 • 💬 181 • ⏱️ 15:01 • 12h ago
+👁️ 26K • 👍 874 • 💬 181 • ⏱️ 15:01 • 13h ago
 
 ---
 
@@ -377,7 +377,7 @@ In California, United States, in 2025, a young rider tests a groundbreaking AI O
 
 📺 AI Robot Lab
 
-👁️ 3.2M • 👍 16K • 💬 210 • ⏱️ 0:23 • 1d ago
+👁️ 3.2M • 👍 16K • 💬 210 • ⏱️ 0:23 • 2d ago
 
 ---
 
@@ -393,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 119,786 • ❤️ 789 • 21h ago
+⬇️ 119,786 • ❤️ 790 • 21h ago
 
 ---
 
@@ -405,7 +405,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,617 • 4d ago
+⬇️ 268,534 • ❤️ 2,619 • 4d ago
 
 ---
 
@@ -417,7 +417,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 54,050 • ❤️ 385 • 3d ago
+⬇️ 54,050 • ❤️ 386 • 3d ago
 
 ---
 
@@ -477,7 +477,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 516 • ❤️ 179 • 1d ago
+⬇️ 516 • ❤️ 180 • 1d ago
 
 ---
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.5k • 🔱 275 • 7h ago
+⭐ 2.5k • 🔱 275 • 8h ago
 
 ---
 

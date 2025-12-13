@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T12:46:37.427078+00:00'
+updated: '2025-12-13T13:18:25.920049+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 12:46 UTC  
+**Last Updated:** December 13, 2025 at 13:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** +1.6%  
+**24h:** -4.0%  
+**7d:** +1.7%  
 **30d:** +0.2%  
 **90d:** -31.1%  
 **1y:** -19.6%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.12B
+**Market Cap:** $375.51B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.1%
 
 **All-Time Low:** $0.43
-+718535.3%
++718212.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 23h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 1d ago
 
 ---
 
@@ -104,7 +104,7 @@ Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by nu
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 23h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 1d ago
 
 ---
 
@@ -156,7 +156,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 16h ago
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -186,15 +186,15 @@ Yahoo Finance • 1d ago
 
 XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://www.fool.com/investing/2025/12/12/why-ethereum-sank-5-today-while-the-crypto-market/)**
+**[Should You Buy Ethereum While It's Under $5,000?](https://www.fool.com/investing/2025/12/12/should-you-buy-ethereum-while-its-under-5000/)**
 
-Sentiment around Ethereum has been bouncing around considerably in recent days.
+After an unexpected pullback, could Ethereum be ready to skyrocket in value?
 
-The Motley Fool • 19h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -206,6 +206,14 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
+
+Sentiment around Ethereum has been bouncing around considerably in recent days.
+
+Yahoo Finance • 19h ago
+
+---
+
 **[Ethereum Network Can Grow To A $20 Trillion Valuation By 2035, Researcher Claims](https://www.benzinga.com/crypto/cryptocurrency/25/12/49370689/ethereum-network-can-grow-to-a-20-trillion-valuation-by-2035-researcher-claims)**
 
 As Ethereum (CRYPTO: ETH) dropped almost 5% on Friday, a new research suggests the network&#8217;s long-term valuation may potentially grow
@@ -214,15 +222,9 @@ Benzinga • 18h ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcx1y0JXET2kuQowAodWo7G64C0ROUKutiGvQSXuJZEdioe2STXfjFz&gaa_ts=693d639c&gaa_sig=hWSTgVqiVoyTmR5ZPXk-d4qZAkC7-mxwykNbl-1-zF4ccGmW9bNMiQArPIKVr2mwhta7O_M6ufbOet5KGnFXNQ%3D%3D)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqfiRI2RGU4hC5g6kvEId9cLix8hfpFWzjvsVWRWaAfupnwEjuTlBJEY&gaa_ts=693d6b10&gaa_sig=b862epQdVsoA-JT9wYvVLRJemUkYzBPM-d0ma06NgbRiPZQCxRciOOqvgdN8Abgrr4xF5ia1yUZj2JUaX8n0Yw%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
-
-The Block • 2d ago
 
 ---
 
@@ -236,7 +238,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 195 • ⏱️ 31:03 • 15h ago
+👁️ 36K • 👍 2K • 💬 195 • ⏱️ 31:03 • 16h ago
 
 ---
 
@@ -266,7 +268,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Guitar Repair@StringTech
 
-👁️ 5K • 👍 4K • 3h ago
+👁️ 5K • 👍 4K • 4h ago
 
 ---
 
@@ -306,7 +308,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 467 • ⏱️ 34:06 • 15h ago
+👁️ 5K • 👍 467 • ⏱️ 34:06 • 16h ago
 
 ---
 
