@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T14:57:23.226509+00:00'
+updated: '2025-12-13T15:25:12.917949+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 14:57 UTC  
+**Last Updated:** December 13, 2025 at 15:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.4%  
-**30d:** -4.9%  
-**90d:** -21.8%  
-**1y:** -11.2%  
+**24h:** +0.6%  
+**7d:** -0.1%  
+**30d:** -4.6%  
+**90d:** -21.6%  
+**1y:** -10.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1797.37B
+**Market Cap:** $1799.68B
 Rank #1
 
 **Circulating Supply:** 19,961,643 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.5%
 
 **All-Time Low:** $67.81
-+132656.2%
++132855.3%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
+
+4h ago
+
+---
+
 **[I finally acquired 1 whole bitcoin at 28 years old.](https://www.reddit.com/r/Bitcoin/comments/1plhsu8/i_finally_acquired_1_whole_bitcoin_at_28_years_old/)**
 
 This will age well in 10 years. See you then.
@@ -87,13 +93,7 @@ This will age well in 10 years. See you then.
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-10h ago
-
----
-
-**[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
-
-4h ago
+11h ago
 
 ---
 
@@ -103,9 +103,17 @@ This will age well in 10 years. See you then.
 
 ---
 
+**[I've just set up my Secret Santa Miner](https://www.reddit.com/r/Bitcoin/comments/1plmw1n/ive_just_set_up_my_secret_santa_miner/)**
+
+It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
+
+45m ago
+
+---
+
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -119,13 +127,13 @@ Any thoughts on what is causing it?
 
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -133,15 +141,7 @@ Any thoughts on what is causing it?
 
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-17h ago
-
----
-
-**[How did people buy bitcoin before exchanges?](https://www.reddit.com/r/Bitcoin/comments/1pl8tko/how_did_people_buy_bitcoin_before_exchanges/)**
-
-How did people buy bitcoin before exchanges?
-
-13h ago
+18h ago
 
 ---
 
@@ -151,7 +151,7 @@ How did people buy bitcoin before exchanges?
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -189,7 +189,15 @@ Bitcoin Magazine • 19h ago
 
 The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
+
+---
+
+**[Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?](https://finance.yahoo.com/news/bitcoin-2030-price-prediction-btc-144212543.html)**
+
+Bitcoin (CRYPTO: BTC) enters the final stretch of the decade with its biggest question yet: can BTC climb to the $500K–$1M range as adoption deepens and supply tightens? The past six months show how quickly momentum can shift, but the long-term picture depends on forces far bigger than short-term price swings. Spot Bitcoin ETFs, sovereign ... Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?
+
+Yahoo Finance • 43m ago
 
 ---
 
@@ -197,31 +205,21 @@ Decrypt • 16h ago
 
 Rising Japanese rates and a stronger yen threaten carry trades and could pressure crypto markets despite easing U.S. policy.
 
-CoinDesk • 56m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin at a Critical Level: The Factors Likely to Set Its Next Direction](https://www.eyeonannapolis.net/2025/12/bitcoin-at-a-critical-level-the-factors-likely-to-set-its-next-direction/)**
+**[American Bitcoin (ABTC): Reassessing Valuation After a 60% Share Price Slide](https://finance.yahoo.com/news/american-bitcoin-abtc-reassessing-valuation-140658407.html)**
 
-Bitcoin entered December 2025 with a bit less noise than everyone anticipated. After that sharp swing from the highs in October, things have quieted down significantly. Remember when we briefly saw…
+American Bitcoin stock moves: recent slide puts valuation back in focus American Bitcoin (ABTC) has slipped sharply over the past month, with the stock down more than 60% and trailing Bitcoin itself, pushing investors to reassess how much downside may already be priced in. See our latest analysis for American Bitcoin. That sharp 30 day share price return of negative 63.89 percent has effectively flipped sentiment on American Bitcoin, with the latest $1.78 share price leaving year to date...
 
-Eye On Annapolis • 1h ago
-
----
-
-**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
-
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
-
-Forbes • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin price slides lower despite Fed interest rate cut](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-fed-interest-rate-cut-101325419.html)**
+**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
 
-The price of bitcoin and ether slipped lower on Thursday as Fed chair Jerome Powell signalled the central bank will proceed cautiously into 2026.
-
-Yahoo Finance UK • 2d ago
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -241,7 +239,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 Track Bitcoin holdings of public companies, governments, and institutions. Live data on corporate BTC treasuries with real-time valuations.
 
-⬆️ 2 • 💬 1 • 5d ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 6d ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -299,7 +297,7 @@ Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after ev
 
 **[Ask HN: Is there a local dev tool you wish existed because of a repeating issue?](https://news.ycombinator.com/item?id=46253198)**
 
-⬆️ 1 • 💬 0 • 5h ago
+⬆️ 1 • 💬 0 • 6h ago
 
 ---
 
@@ -313,7 +311,7 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 119 • ⏱️ 16:27 • 16h ago
+👁️ 25K • 👍 1K • 💬 119 • ⏱️ 16:27 • 17h ago
 
 ---
 
@@ -323,7 +321,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 264 • ⏱️ 46:26 • 22h ago
+👁️ 25K • 👍 1K • 💬 264 • ⏱️ 46:26 • 23h ago
 
 ---
 
@@ -383,7 +381,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 387 • 💬 141 • ⏱️ 11:54 • 19h ago
+👁️ 7K • 👍 387 • 💬 141 • ⏱️ 11:54 • 20h ago
 
 ---
 
@@ -393,7 +391,7 @@ Chief Market Strategist Gareth Soloway gives institutional level analysis and in
 
 📺 Gareth Soloway
 
-👁️ 2K • 👍 303 • 💬 17 • ⏱️ 14:00 • 27m ago
+👁️ 2K • 👍 303 • 💬 17 • ⏱️ 14:00 • 55m ago
 
 ---
 
@@ -403,7 +401,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 654 • 💬 104 • ⏱️ 11:48 • 21h ago
+👁️ 8K • 👍 654 • 💬 104 • ⏱️ 11:48 • 22h ago
 
 ---
 

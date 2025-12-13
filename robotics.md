@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T14:57:23.235996+00:00'
+updated: '2025-12-13T15:25:12.927291+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 14:57 UTC  
+**Last Updated:** December 13, 2025 at 15:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,15 +48,9 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 ---
 
-**[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
-
-1d ago
-
----
-
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-26m ago
+54m ago
 
 ---
 
@@ -64,7 +58,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon weekend — open to anyone who loves robots, ROS, automation, hardware, or just tinkering with cool tech. 📅 18–19 Dec ⏰ 7:30–9 PM 📍 Shivajinagar, Pune Very chill meetup: talk, share ideas, network, show what you're working on — all are welcome (even if you're not attending ROSCon). If you're interested, sign up here: 👉 https://forms.gle/EQ8MkikLLtnixcno9 Would love to know what topics you'd want to chat about!
 
-52m ago
+1h ago
 
 ---
 
@@ -73,6 +67,20 @@ Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
 🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 2h ago
+
+---
+
+**[Weave Robotics: "Humanoids are built from philosophy, not parts"](https://www.reddit.com/r/robotics/comments/1pkt6y7/weave_robotics_humanoids_are_built_from/)**
+
+1d ago
+
+---
+
+**[How do i get to actual robot software from windows95?](https://www.reddit.com/r/robotics/comments/1plnjgu/how_do_i_get_to_actual_robot_software_from/)**
+
+I just started working here and on friday afternoon the software crashed or to the screen in the picture, im scareed shitles. How do i get the software back The robot is KUKa KR150 i think
+
+16m ago
 
 ---
 
@@ -95,12 +103,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 Hello, I am currently building a small biped. Ideally, I would like some flat BLDC motors; however, in America, it's nearly impossible to find affordable ones. Doesn't need to be anything crazy, but everything I find is 150-300 bucks, and given that I'll need ~6-8 of them, that's not affordable. With that, I was wondering if anyone had any sites/companies they prefer to go to for motors? If not, I am highly considering making my own. A $20 crucible to melt some Home Depot metal and make my own stators sounds much more appealing than spending hundreds of bucks. I am a student that can go to the makerspace at my school, so I do have options to manufacture from scratch, just not sure if its worth the time. Anyones take on this?
 
 16h ago
-
----
-
-**[Luxonis - OAK 4: spatial AI camera that runs Yocto, with up to 52 TOPS](https://www.reddit.com/r/robotics/comments/1pksuqs/luxonis_oak_4_spatial_ai_camera_that_runs_yocto/)**
-
-1d ago
 
 ---
 
@@ -144,7 +146,7 @@ AP News • 16h ago
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 3h ago
+Scientific American • 4h ago
 
 ---
 
@@ -170,19 +172,19 @@ Interesting Engineering • 3d ago
 
 ---
 
-**[Teradyne Robotics Announces New US Operations Hub in Wixom](https://www.whmi.com/news/article/teradyne-robotics-announces-new-us-operations-hub-in-wixom)**
-
-$32 million investment will created 230 new jobs.
-
-WHMI • 2d ago
-
----
-
 **[Serve Robotics, Inc. Rings the Closing Bell](https://www.nasdaq.com/events/serve-robotics-inc-rings-closing-bell)**
 
 About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
 
 Nasdaq • 18h ago
+
+---
+
+**[Vine-inspired robotic gripper gently lifts heavy and fragile objects](https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210)**
+
+Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
+
+MIT News • 2d ago
 
 ---
 
@@ -216,7 +218,7 @@ PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *N
 
 📺 LIGHTS ARE OFF
 
-👁️ 109K • 👍 12K • 💬 1K • ⏱️ 8:45 • 6h ago
+👁️ 109K • 👍 12K • 💬 1K • ⏱️ 8:45 • 7h ago
 
 ---
 
@@ -226,7 +228,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 139K • 👍 7K • 💬 933 • ⏱️ 19:33 • 6d ago
+👁️ 139K • 👍 7K • 💬 933 • ⏱️ 19:33 • 7d ago
 
 ---
 
@@ -246,7 +248,7 @@ Lady solder save grand mother from a robotic zebra #ai #viral #army #trending #s
 
 📺 Ai Adda 25
 
-👁️ 3K • ⏱️ 0:27 • 13h ago
+👁️ 3K • ⏱️ 0:27 • 14h ago
 
 ---
 

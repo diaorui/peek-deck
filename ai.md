@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T14:57:23.217847+00:00'
+updated: '2025-12-13T15:25:12.909563+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 14:57 UTC  
+**Last Updated:** December 13, 2025 at 15:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,15 +63,7 @@ Lifting export controls on Nvidia’s second-best chip jeopardizes America’s A
 
 An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 23h ago
-
----
-
-**[Cyberpunk generated with Veo3](https://www.reddit.com/r/artificial/comments/1plm4q7/cyberpunk_generated_with_veo3/)**
-
-Google Gemini. Thoughts?
-
-53m ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 1d ago
 
 ---
 
@@ -79,7 +71,7 @@ Google Gemini. Thoughts?
 
 AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 16h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 17h ago
 
 ---
 
@@ -91,25 +83,31 @@ The world's smallest AI supercomputer packs enough power to run 120 billion para
 
 ---
 
-**[The Unspoken Future Plan for AI](https://www.reddit.com/r/artificial/comments/1pl9x64/the_unspoken_future_plan_for_ai/)**
+**[21yo ai founder drops paper on debugging-only llm ... real innovation or just solid PR?](https://www.reddit.com/r/artificial/comments/1plnm7p/21yo_ai_founder_drops_paper_on_debuggingonly_llm/)**
 
-I'm not seeing enough people talk about this (or I see people only discuss one aspect of it, not its implications). There are two paths to AI profitability. The first is to replace large swathes of the workforce. Middle managers, desk jockeys--if your job is writing emails, AI may replace you, and companies are betting on this and investing in AI. This is the story I've most commonly seen. But there's another path to AI profitability: the subscription drug model. When articles talk about the future of AI, I don't see this one mentioned as much. ----------- Every website, no matter how altruistically it starts, has a long-term plan to squeeze as much money out of its users as possible. Youtube used to be totally free. Now every video has 2 ads every 5 minutes, and within the video creators embed their own ads and sponsors. Netflix used to have no ads. Now you have to pay extra to avoid them. You see the same enshittification playbook everywhere. Start as free service, grow, absorb competitors until you are a monopoly, then start introducing ads, monetization, subscription plans, worse product, etc. LLMs are getting the youth completely hooked on their product. Instead of learning how to type by practicing typing, students type half of a word and autocomplete fills in the rest. They're not getting the practice they need. That's just muscle memory and repetition though--I think it's worse for deeper skills, like critical thinking, work ethic, sustained focus on homework. Once students start using LLMs to do work for them, they lose the patience for work and don't develop crucial cognitive skills they will need in any career. Everyone knows this is happening, this shouldn't be news at all. There are plenty of articles about college students who don't know how to read, etc. What I don't see people mention is the actual business model. In another 10 years, when the problem has gotten much worse, once every high school or college student is unable to read or write and having LLMs basically function for them, then you'll see companies take advantage of this. That generation will NEED AI. They won't be able to do their job without it, they won't be able to send emails without it, they might not even be able to get groceries or plan a meal without it. (Let's not even get into how they will need it for friendship/emotional support/therapy, that is another can of worms entirely.) This, dear reader, is when the enshittification begins. At that point the companies can jack up pricing. The AI-heads will have no choice but to pay. They will need that shit to live. They can charge whatever they want! $400 a month to use ChatGPT. Hell, maybe more? 10% of your wages? If ChatGPT is doing your job for you, how is it fair for you to keep 100% of your earnings? What are you going to do, write those emails yourself, when you don't know how to read or write, and the LLM has been doing your homework for you since 3rd grade? At this point, it is worth considering the emotional state of the first generation of children/teens addicted to and utterly dependent on LLMs. They will use it to do homework in elementary/middle school. They may start to feel shame or embarrassment about this by the time they are in high school. They might even spend a semester trying to read and do homework without AI assistance--but at that point, it will be too late, and they will be stressed about their grades, and they will go back to AI and carry the secret burden of knowing that they stopped learning to read in elementary school. They will go to college, have AI write their essays, and their whole generation will be in on the secret which they will try to hide from their teachers and future employers (the employers, by the way, will think they understand the problem, as people have written about it before--but when the youth hear older folk talk about the problem, they will realize the older generations underestimate the true severity of the problem). When the LLM companies decide to extort this poor lost generation, they will already be well aware of the position they are in. Surely OpenAI has considered this potential future? Why aren't journalists writing about this as their potential secret business plan? It seems like it has been completely unspoken (maybe I just haven't seen the idea mentioned before, if somebody has seen any discussion of the topic in media please share a link). This seems to me to be one of the two paths to AI profitability, and the reason why so many companies are investing in it. I hear plenty about the other path to profitability (automating office work and firing large swathes of the workforce), but I don't hear as much about the subscription drug model of profitability.
+I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
 
-12h ago
+13m ago
+
+---
+
+**[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
+
+27m ago
 
 ---
 
 **[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
 
-🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 16h ago
+🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 17h ago
 
 ---
 
-**[Identity collapse in LLMs is an architectural problem, not a scaling one](https://www.reddit.com/r/artificial/comments/1pl8a40/identity_collapse_in_llms_is_an_architectural/)**
+**[The Unspoken Future Plan for AI](https://www.reddit.com/r/artificial/comments/1pl9x64/the_unspoken_future_plan_for_ai/)**
 
-I’ve been working with multiple LLMs in long, sustained interactions, hundreds of turns, frequent domain switching (math, philosophy, casual context), and even switching base models mid-stream. A consistent failure mode shows up regardless of model size or training quality: identity and coherence collapse over time. Models drift toward generic answers, lose internal consistency, or contradict earlier constraints, usually within a few dozen turns unless something external actively regulates the interaction. My claim is simple: This is not primarily a capability or scale issue. It’s an architectural one. LLMs are reactive systems. They don’t have an internal reference for identity, only transient context. There’s nothing to regulate against, so coherence decays predictably. I’ve been exploring a different framing: treating the human operator and the model as a single operator–model coupled system, where identity is defined externally and coherence is actively regulated. Key points: • Identity precedes intelligence. • The operator measurably influences system dynamics. • Stability is a control problem, not a prompting trick. • Ethics can be treated as constraints in the action space, not post-hoc filters. Using this approach, I’ve observed sustained coherence: • across hundreds of turns • across multiple base models • without relying on persistent internal memory I’m not claiming sentience, AGI, or anything mystical. I’m claiming that operator-coupled architectures behave differently than standalone agents. If this framing is wrong, I’m genuinely interested in where the reasoning breaks. If this problem is already “solved,” why does identity collapse still happen so reliably? Discussion welcome. Skepticism encouraged.
+I'm not seeing enough people talk about this (or I see people only discuss one aspect of it, not its implications). There are two paths to AI profitability. The first is to replace large swathes of the workforce. Middle managers, desk jockeys--if your job is writing emails, AI may replace you, and companies are betting on this and investing in AI. This is the story I've most commonly seen. But there's another path to AI profitability: the subscription drug model. When articles talk about the future of AI, I don't see this one mentioned as much. ----------- Every website, no matter how altruistically it starts, has a long-term plan to squeeze as much money out of its users as possible. Youtube used to be totally free. Now every video has 2 ads every 5 minutes, and within the video creators embed their own ads and sponsors. Netflix used to have no ads. Now you have to pay extra to avoid them. You see the same enshittification playbook everywhere. Start as free service, grow, absorb competitors until you are a monopoly, then start introducing ads, monetization, subscription plans, worse product, etc. LLMs are getting the youth completely hooked on their product. Instead of learning how to type by practicing typing, students type half of a word and autocomplete fills in the rest. They're not getting the practice they need. That's just muscle memory and repetition though--I think it's worse for deeper skills, like critical thinking, work ethic, sustained focus on homework. Once students start using LLMs to do work for them, they lose the patience for work and don't develop crucial cognitive skills they will need in any career. Everyone knows this is happening, this shouldn't be news at all. There are plenty of articles about college students who don't know how to read, etc. What I don't see people mention is the actual business model. In another 10 years, when the problem has gotten much worse, once every high school or college student is unable to read or write and having LLMs basically function for them, then you'll see companies take advantage of this. That generation will NEED AI. They won't be able to do their job without it, they won't be able to send emails without it, they might not even be able to get groceries or plan a meal without it. (Let's not even get into how they will need it for friendship/emotional support/therapy, that is another can of worms entirely.) This, dear reader, is when the enshittification begins. At that point the companies can jack up pricing. The AI-heads will have no choice but to pay. They will need that shit to live. They can charge whatever they want! $400 a month to use ChatGPT. Hell, maybe more? 10% of your wages? If ChatGPT is doing your job for you, how is it fair for you to keep 100% of your earnings? What are you going to do, write those emails yourself, when you don't know how to read or write, and the LLM has been doing your homework for you since 3rd grade? At this point, it is worth considering the emotional state of the first generation of children/teens addicted to and utterly dependent on LLMs. They will use it to do homework in elementary/middle school. They may start to feel shame or embarrassment about this by the time they are in high school. They might even spend a semester trying to read and do homework without AI assistance--but at that point, it will be too late, and they will be stressed about their grades, and they will go back to AI and carry the secret burden of knowing that they stopped learning to read in elementary school. They will go to college, have AI write their essays, and their whole generation will be in on the secret which they will try to hide from their teachers and future employers (the employers, by the way, will think they understand the problem, as people have written about it before--but when the youth hear older folk talk about the problem, they will realize the older generations underestimate the true severity of the problem). When the LLM companies decide to extort this poor lost generation, they will already be well aware of the position they are in. Surely OpenAI has considered this potential future? Why aren't journalists writing about this as their potential secret business plan? It seems like it has been completely unspoken (maybe I just haven't seen the idea mentioned before, if somebody has seen any discussion of the topic in media please share a link). This seems to me to be one of the two paths to AI profitability, and the reason why so many companies are investing in it. I hear plenty about the other path to profitability (automating office work and firing large swathes of the workforce), but I don't hear as much about the subscription drug model of profitability.
 
-14h ago
+13h ago
 
 ---
 
@@ -121,15 +119,31 @@ I’ve been working with multiple LLMs in long, sustained interactions, hundreds
 
 “The world of bits moves fast. The world of atoms doesn’t. And data centers are where those two worlds collide.”
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
-**[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
+**[Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o)**
 
-California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
+The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
 
-BBC • 23h ago
+BBC • 21h ago
+
+---
+
+**[Prime Video Hits Pause on Error-Filled AI Recaps](https://www.cnet.com/tech/services-and-software/prime-video-hits-pause-on-hallucinating-ai-recaps/)**
+
+People reported the AI tool struggling with interpreting key scenes properly.
+
+CNET • 14h ago
+
+---
+
+**[Amazon Pulls AI-Generated ‘Fallout’ Recap Ahead Of Season 2 Amidst Backlash](https://www.forbes.com/sites/erikkain/2025/12/12/fallout-season-2-amazon-ai-recap-controversy/)**
+
+Amazon yanks an AI-generated recap of 'Fallout' Season 1 after fans point out it's riddled with mistakes.
+
+Forbes • 16h ago
 
 ---
 
@@ -147,33 +161,15 @@ Vox • 1h ago
 
 ---
 
-**[Open-Source Code and Nuclear Energy Are the Building Blocks of AI](https://www.bloomberg.com/news/newsletters/2025-12-13/amd-ceo-lisa-su-and-ge-vernova-ceo-scott-strazik-explain-what-we-need-for-ai)**
+**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Could America win the AI race but lose the war?](https://www.ft.com/content/12581344-6e37-45a0-a9d5-e3d6a9f8d9ba)**
-
-The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
-
-Financial Times • 9h ago
+The New York Times • 1d ago
 
 ---
 
-**[Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o)**
+**[Chinese AI Euphoria Obscures a Gloomier Technological Reality](https://www.bloomberg.com/news/articles/2025-12-13/chinese-ai-euphoria-obscures-a-gloomier-technological-reality)**
 
-The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
-
-BBC • 20h ago
-
----
-
-**[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
-
-A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
-
-NBC News • 4h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -209,7 +205,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 461 • 💬 236 • 18h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 470 • 💬 238 • 18h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -233,7 +229,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 163 • 💬 113 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 164 • 💬 113 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -249,7 +245,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 117 • 💬 230 • 22h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 118 • 💬 231 • 22h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -257,7 +253,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 77 • 💬 123 • 18h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 77 • 💬 125 • 19h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -267,9 +263,11 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 ---
 
-**[How Much Wealth an AI Stock Market Crash Could Destroy](https://news.ycombinator.com/item?id=46218419)**
+**[Something Ominous Is Happening in the AI Economy](https://news.ycombinator.com/item?id=46236820)**
 
-⬆️ 42 • 💬 103 • 2d ago • [economist.com](https://www.economist.com/interactive/graphic-detail/2025/11/05/how-much-wealth-would-be-destroyed-by-an-ai-stockmarket-crash)
+The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
+
+⬆️ 42 • 💬 5 • 1d ago • [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)
 
 ---
 
@@ -283,7 +281,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 235K • 👍 11K • 💬 658 • ⏱️ 4:01 • 16h ago
+👁️ 235K • 👍 11K • 💬 658 • ⏱️ 4:01 • 17h ago
 
 ---
 
@@ -303,7 +301,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 29K • 👍 951 • 💬 197 • ⏱️ 15:01 • 14h ago
+👁️ 29K • 👍 951 • 💬 197 • ⏱️ 15:01 • 15h ago
 
 ---
 
@@ -381,18 +379,6 @@ Check out Nebius today: ...
 
 ## HuggingFace Models: 🔥 Trending
 
-**[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
-
-*Microsoft*
-
-VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~300ms latency, supporting streaming input for robust long-form generation, ideal for live narration and LLM integration.
-
-`text-to-speech` `1.0B`
-
-⬇️ 119,786 • ❤️ 796 • 23h ago
-
----
-
 **[Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)**
 
 *Tongyi-MAI*
@@ -401,7 +387,19 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,624 • 4d ago
+⬇️ 268,534 • ❤️ 2,629 • 4d ago
+
+---
+
+**[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
+
+*Microsoft*
+
+VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~300ms latency, supporting streaming input for robust long-form generation, ideal for live narration and LLM integration.
+
+`text-to-speech` `1.0B`
+
+⬇️ 119,786 • ❤️ 797 • 23h ago
 
 ---
 
@@ -413,7 +411,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 54,050 • ❤️ 386 • 3d ago
+⬇️ 54,050 • ❤️ 387 • 3d ago
 
 ---
 
@@ -425,7 +423,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 13,668 • ❤️ 306 • 1d ago
+⬇️ 13,668 • ❤️ 308 • 1d ago
 
 ---
 
@@ -449,7 +447,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 31,499 • ❤️ 259 • 4d ago
+⬇️ 31,499 • ❤️ 260 • 4d ago
 
 ---
 
@@ -461,7 +459,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 447,364 • ❤️ 241 • 4d ago
+⬇️ 447,364 • ❤️ 242 • 4d ago
 
 ---
 
@@ -473,7 +471,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 516 • ❤️ 181 • 1d ago
+⬇️ 516 • ❤️ 183 • 1d ago
 
 ---
 
@@ -485,7 +483,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,201 • ❤️ 179 • 1d ago
+⬇️ 4,201 • ❤️ 181 • 1d ago
 
 ---
 
@@ -497,7 +495,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 4,597 • ❤️ 177 • 1d ago
+⬇️ 4,597 • ❤️ 181 • 1d ago
 
 ---
 
@@ -648,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.4k • 🔱 2.1k • 10h ago
+⭐ 13.4k • 🔱 2.1k • 11h ago
 
 ---
 
@@ -658,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.5k • 🔱 278 • 1m ago
+⭐ 2.5k • 🔱 278 • 28m ago
 
 ---
 

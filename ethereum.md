@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T14:57:23.232654+00:00'
+updated: '2025-12-13T15:25:12.924031+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 14:57 UTC  
+**Last Updated:** December 13, 2025 at 15:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
+**24h:** +1.4%  
 **7d:** +1.8%  
 **30d:** +0.4%  
 **90d:** -31.0%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.18B
+**Market Cap:** $376.61B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.3%
+-36.9%
 
 **All-Time Low:** $0.43
-+716128.7%
++720535.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -152,19 +152,35 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 ## Google News: "ethereum"
 
-**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
-
-The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
-
-Decrypt • 18h ago
-
----
-
 **[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
+
+---
+
+**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
+
+Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
+
+CoinDesk • 1d ago
+
+---
+
+**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
+
+The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
+
+Decrypt • 19h ago
+
+---
+
+**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
+
+The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
+
+Yahoo Finance • 19h ago
 
 ---
 
@@ -174,11 +190,11 @@ Binance • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://finance.yahoo.com/news/tom-lee-bitmine-adds-112m-132425778.html)**
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
 
-Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
+Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -186,7 +202,13 @@ Yahoo Finance • 2d ago
 
 XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView • 8h ago
+TradingView • 9h ago
+
+---
+
+**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
+
+The Block • 2d ago
 
 ---
 
@@ -203,28 +225,6 @@ FXStreet • 10h ago
 After an unexpected pullback, could Ethereum be ready to skyrocket in value?
 
 The Motley Fool • 1d ago
-
----
-
-**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
-
-BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
-
-CryptoSlate • 2d ago
-
----
-
-**[Ethereum Network Can Grow To A $20 Trillion Valuation By 2035, Researcher Claims](https://www.benzinga.com/crypto/cryptocurrency/25/12/49370689/ethereum-network-can-grow-to-a-20-trillion-valuation-by-2035-researcher-claims)**
-
-As Ethereum (CRYPTO: ETH) dropped almost 5% on Friday, a new research suggests the network&#8217;s long-term valuation may potentially grow
-
-Benzinga • 20h ago
-
----
-
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqeF_CsAbbxR1aAL1rQ7eL0t9dnw2cEYnzawKL-8_dtrovJEXvYoRMl_&gaa_ts=693d7cb3&gaa_sig=H2QoFVG8DZeLmTz4Y-e4j_lYouqaO_O0jccffaw8Pq5Z9wKK3OiJMM7di57nC5dfRM4nigTxUD3YIJadOxunUQ%3D%3D)**
-
-Barron's • 2d ago
 
 ---
 
@@ -248,7 +248,7 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 📺 Ivan on Tech
 
-👁️ 28K • 👍 2K • 💬 122 • ⏱️ 10:42 • 1d ago
+👁️ 28K • 👍 2K • 💬 122 • ⏱️ 10:42 • 2d ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 439 • 💬 14 • ⏱️ 48:44 • 22h ago
+👁️ 6K • 👍 439 • 💬 14 • ⏱️ 48:44 • 23h ago
 
 ---
 
@@ -298,7 +298,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 4K • 👍 742 • 44m ago
+👁️ 4K • 👍 742 • 1h ago
 
 ---
 
