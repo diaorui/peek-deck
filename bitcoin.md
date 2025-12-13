@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T20:30:41.098084+00:00'
+updated: '2025-12-13T20:44:57.038904+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 20:30 UTC  
+**Last Updated:** December 13, 2025 at 20:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -109,7 +109,7 @@ This will age well in 10 years. See you then.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-5h ago
+6h ago
 
 ---
 
@@ -137,7 +137,7 @@ Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid 
 
 Interesting to hear someone being considered to replace Jay Powell speaking positively about Bitcoin...
 
-🔗 [youtu.be](https://youtu.be/KuL0izU2H9Q) • 2h ago
+🔗 [youtu.be](https://youtu.be/KuL0izU2H9Q) • 3h ago
 
 ---
 
@@ -145,7 +145,7 @@ Interesting to hear someone being considered to replace Jay Powell speaking posi
 
 Any thoughts on what is causing it?
 
-21h ago
+22h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 7h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 2d ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 53m ago
+x.com • 1h ago
 
 ---
 

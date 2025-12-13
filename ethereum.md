@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T20:30:41.104110+00:00'
+updated: '2025-12-13T20:44:57.044798+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 20:30 UTC  
+**Last Updated:** December 13, 2025 at 20:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,070.98
+### $3,113.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +1.6%  
-**30d:** +0.2%  
-**90d:** -31.2%  
-**1y:** -19.6%  
+**24h:** +0.7%  
+**7d:** +1.5%  
+**30d:** +0.0%  
+**90d:** -31.3%  
+**1y:** -19.8%  
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 610 • 👍 68 • ⏱️ 4:05 • 2h ago
+👁️ 610 • 👍 68 • ⏱️ 4:05 • 3h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 2 • ⏱️ 4:36 • 18h ago
+👁️ 2K • 👍 129 • 💬 2 • ⏱️ 4:36 • 19h ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 8K • 👍 337 • 💬 70 • ⏱️ 18:06 • 21h ago
+👁️ 8K • 👍 337 • 💬 70 • ⏱️ 18:06 • 22h ago
 
 ---
 

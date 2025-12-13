@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T20:30:41.089766+00:00'
+updated: '2025-12-13T20:44:57.030473+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 20:30 UTC  
+**Last Updated:** December 13, 2025 at 20:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -67,7 +67,7 @@ For now
 
 My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
 
-1h ago
+2h ago
 
 ---
 
@@ -91,7 +91,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 I am looking to clone my dad's voice to surprise my sisters for Christmas. He passed away back in 2009. I only have about 5 minutes of recorded audio of his voice from saved voicemail message I have. From reading online it looks like ElevenLabs is the best option. With that limited amount of source material though, what are my chances of recreating something that is accurate? Any suggestions would be appreciated.
 
-3m ago
+17m ago
 
 ---
 
@@ -99,7 +99,7 @@ I am looking to clone my dad's voice to surprise my sisters for Christmas. He pa
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 23h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 1d ago
 
 ---
 
@@ -187,7 +187,7 @@ Axios • 7h ago
 
 Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
@@ -199,7 +199,7 @@ Business Insider • 9h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 510 • 💬 264 • 23h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 510 • 💬 264 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -245,7 +245,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 81 • 💬 98 • 4h ago
+⬆️ 81 • 💬 98 • 5h ago
 
 ---
 
@@ -269,7 +269,7 @@ The White House has promised to quadruple nuclear power by 2050.
 
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
-⬆️ 42 • 💬 5 • 1d ago • [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)
+⬆️ 42 • 💬 5 • 2d ago • [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)
 
 ---
 

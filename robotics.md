@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T20:30:41.107338+00:00'
+updated: '2025-12-13T20:44:57.048016+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 20:30 UTC  
+**Last Updated:** December 13, 2025 at 20:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ I just started working here and on friday afternoon the software crashed or to t
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or when modifying the PX4 flight controller. Hope it helps someone else now! Video below shows how it works. Side note: we're always open to feedback. Simulink based PX4 SIL Simulator
 
-6m ago
+20m ago
 
 ---
 
