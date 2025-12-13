@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T04:33:01.415027+00:00'
+updated: '2025-12-13T04:50:36.949440+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 04:33 UTC  
+**Last Updated:** December 13, 2025 at 04:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -103,7 +103,7 @@ I’ve been working with multiple LLMs in long, sustained interactions, hundreds
 
 Everyone is reading the December 11 Executive Order as a "deregulation holiday." I think that's dead wrong. It’s actually a litigation trigger. By trying to preempt state AI laws with an EO, the administration isn't clearing the board—they are picking a fight with 38 state legislatures and a Senate that already voted 99-1 against this exact approach. The trap: If you're a vendor, you might be tempted to delete your state-level compliance code today. Don't. We just moved from a patchwork of laws to a constitutional crisis. When the lawsuits stall this EO, you don't want to be the one caught naked on liability. The only safe bet right now? Architect for the EU AI Act. It's the only stable floor left. I wrote a deep dive on why this is a "volatility event" rather than deregulation. https://www.linkedin.com/pulse/50-states-rules-hidden-tax-every-ai-deployment-collin-hogue-spears-eptie
 
-15h ago
+16h ago
 
 ---
 
@@ -165,7 +165,7 @@ The New Yorker • 17h ago
 
 AI-related names have made losses since Oracle's mixed results on Wednesday.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -223,7 +223,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 312 • 💬 172 • 7h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 312 • 💬 172 • 8h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -331,7 +331,7 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 Ben Esherick
 
-👁️ 669K • 👍 41K • 💬 812 • ⏱️ 0:36 • 23h ago
+👁️ 669K • 👍 41K • 💬 812 • ⏱️ 0:36 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 782 • 12h ago
+⬇️ 105,962 • ❤️ 782 • 13h ago
 
 ---
 
@@ -423,7 +423,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 299 • 18h ago
+⬇️ 10,352 • ❤️ 299 • 19h ago
 
 ---
 
@@ -495,7 +495,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 2,971 • ❤️ 173 • 18h ago
+⬇️ 2,971 • ❤️ 173 • 19h ago
 
 ---
 
@@ -646,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 12.6k • 🔱 2.0k • 10m ago
+⭐ 12.6k • 🔱 2.0k • 27m ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.4k • 🔱 268 • 34m ago
+⭐ 2.4k • 🔱 268 • 52m ago
 
 ---
 
@@ -696,7 +696,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 21h ago
+⭐ 1.1k • 🔱 134 • 22h ago
 
 ---
 

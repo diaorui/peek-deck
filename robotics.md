@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T04:33:01.442421+00:00'
+updated: '2025-12-13T04:50:36.968332+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 04:33 UTC  
+**Last Updated:** December 13, 2025 at 04:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Hello, I am currently building a small biped. Ideally, I would like some flat BLDC motors; however, in America, it's nearly impossible to find affordable ones. Doesn't need to be anything crazy, but everything I find is 150-300 bucks, and given that I'll need ~6-8 of them, that's not affordable. With that, I was wondering if anyone had any sites/companies they prefer to go to for motors? If not, I am highly considering making my own. A $20 crucible to melt some Home Depot metal and make my own stators sounds much more appealing than spending hundreds of bucks. I am a student that can go to the makerspace at my school, so I do have options to manufacture from scratch, just not sure if its worth the time. Anyones take on this?
 
-5h ago
+6h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hi guys, I want to know what you guys think where we can use RL to actually fill
 
 ROS News for the Week of December 8th, 2025    🎄 All we want for Christmas is for you to become a Build Farm Backer! The ROS Build Farm is one of the largest public Jenkins instances in the world, and it is also one of our largest expenses. If you’ve ever saved yourself a few hours of compile time by downloading one of our pre-compiled ROS binaries, please consider pitching in to support our server costs. The money raised by this campaign goes directly to the OSRF, a 501(c)(3) non...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 7h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-8th-2025/51376) • 8h ago
 
 ---
 
@@ -86,7 +86,7 @@ ROS News for the Week of December 8th, 2025    🎄 All we want for Christmas is
 
 Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
 
-11h ago
+12h ago
 
 ---
 
@@ -168,7 +168,7 @@ Shore Daily News • 1d ago
 
 About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
 
-Nasdaq • 7h ago
+Nasdaq • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 14K • 👍 245 • 💬 2 • ⏱️ 0:09 • 12h ago
+👁️ 14K • 👍 245 • 💬 2 • ⏱️ 0:09 • 13h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T04:33:01.428520+00:00'
+updated: '2025-12-13T04:50:36.958242+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 04:33 UTC  
+**Last Updated:** December 13, 2025 at 04:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -2.2%  
-**7d:** -0.0%  
-**30d:** -4.6%  
-**90d:** -21.6%  
-**1y:** -10.9%  
+**7d:** +0.0%  
+**30d:** -4.5%  
+**90d:** -21.5%  
+**1y:** -10.8%  
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Any thoughts on what is causing it?
 
-5h ago
+6h ago
 
 ---
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-27m ago
+44m ago
 
 ---
 
@@ -127,7 +127,7 @@ C’mon Bitcoin, you can do it
 
 **[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -179,7 +179,7 @@ Reuters • 2h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -331,7 +331,7 @@ Welcome to the most blisteringly honest breakdown of the future you keep trying 
 
 📺 Swan Bitcoin
 
-👁️ 13K • 👍 830 • 💬 86 • ⏱️ 14:56 • 14h ago
+👁️ 13K • 👍 830 • 💬 86 • ⏱️ 14:56 • 15h ago
 
 ---
 
@@ -351,7 +351,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 8K • 👍 593 • 💬 241 • ⏱️ 18:04 • 8h ago
+👁️ 8K • 👍 593 • 💬 241 • ⏱️ 18:04 • 9h ago
 
 ---
 
@@ -391,7 +391,7 @@ Bitcoin #Crypto #Finance Today's episode breaks down one of the biggest developm
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 1K • 💬 352 • ⏱️ 24:40 • 13h ago
+👁️ 17K • 👍 1K • 💬 352 • ⏱️ 24:40 • 14h ago
 
 ---
 
