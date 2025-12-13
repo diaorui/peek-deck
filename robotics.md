@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T16:55:40.024169+00:00'
+updated: '2025-12-13T17:18:57.092750+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 16:55 UTC  
+**Last Updated:** December 13, 2025 at 17:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 I just started working here and on friday afternoon the software crashed or to the screen in the picture, im scareed shitles. How do i get the software back The robot is KUKa KR150 i think
 
-1h ago
+2h ago
 
 ---
 
@@ -74,7 +74,7 @@ Zebra Technologies is looking to sell its autonomous mobile robot group or will 
 
 Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon weekend — open to anyone who loves robots, ROS, automation, hardware, or just tinkering with cool tech. 📅 18–19 Dec ⏰ 7:30–9 PM 📍 Shivajinagar, Pune Very chill meetup: talk, share ideas, network, show what you're working on — all are welcome (even if you're not attending ROSCon). If you're interested, sign up here: 👉 https://forms.gle/EQ8MkikLLtnixcno9 Would love to know what topics you'd want to chat about!
 
-2h ago
+3h ago
 
 ---
 
@@ -138,7 +138,7 @@ AP News • 18h ago
 
 The summit aims to continue growing and fostering a better region through robotics.
 
-WHIO TV • 1h ago
+WHIO TV • 2h ago
 
 ---
 
@@ -160,7 +160,7 @@ Deloitte • 3d ago
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 2d ago
+Chron • 3d ago
 
 ---
 
@@ -198,7 +198,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 178K • 👍 6K • 💬 440 • ⏱️ 17:44 • 3d ago
+👁️ 183K • 👍 6K • 💬 462 • ⏱️ 17:44 • 3d ago
 
 ---
 
@@ -208,67 +208,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 110K • 👍 2K • 💬 663 • ⏱️ 14:26 • 4d ago
-
----
-
-**[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
-
-PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
-
-📺 LIGHTS ARE OFF
-
-👁️ 109K • 👍 12K • 💬 1K • ⏱️ 8:45 • 8h ago
-
----
-
-**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 139K • 👍 7K • 💬 933 • ⏱️ 19:33 • 7d ago
-
----
-
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
-
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
-
-📺 DPCcars
-
-👁️ 201K • 👍 937 • 💬 298 • ⏱️ 1:03 • 7d ago
-
----
-
-**[👉 Lady solder save grand mother from a robotic zebra 👈#ai #viral #army #trending #save](https://www.youtube.com/watch?v=uJeLWaEuWJo)**
-
-Lady solder save grand mother from a robotic zebra #ai #viral #army #trending #save #AI #ArtificialIntelligence #Technology ...
-
-📺 Ai Adda 25
-
-👁️ 3K • ⏱️ 0:27 • 15h ago
-
----
-
-**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
-
-Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
-
-📺 CNN
-
-👁️ 88K • 👍 1K • 💬 450 • ⏱️ 0:41 • 5d ago
-
----
-
-**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
-
-GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
-
-📺 Gen Women AI
-
-👁️ 57K • 👍 581 • 💬 10 • ⏱️ 0:09 • 1d ago
+👁️ 111K • 👍 2K • 💬 669 • ⏱️ 14:26 • 4d ago
 
 ---
 
@@ -282,13 +222,73 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 ---
 
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
+
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
+
+📺 CNN
+
+👁️ 88K • 👍 1K • 💬 451 • ⏱️ 0:41 • 5d ago
+
+---
+
 **[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
 
 Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
 
 📺 Associated Press
 
-👁️ 6K • 👍 51 • 💬 19 • ⏱️ 1:26 • 18h ago
+👁️ 7K • 👍 55 • 💬 19 • ⏱️ 1:26 • 18h ago
+
+---
+
+**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
+
+GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
+
+📺 Gen Women AI
+
+👁️ 59K • 👍 601 • 💬 12 • ⏱️ 0:09 • 1d ago
+
+---
+
+**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
+
+Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
+
+📺 Kalil 4.0
+
+👁️ 20K • 👍 194 • 💬 18 • ⏱️ 0:27 • 6d ago
+
+---
+
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+
+📺 The Straits Times
+
+👁️ 190K • 👍 893 • 💬 281 • ⏱️ 0:47 • 4d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=SbeWWtli99g)**
+
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 224K • 👍 1K • 💬 9 • ⏱️ 0:17 • 5d ago
+
+---
+
+**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+
+AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+
+📺 AI Robot Lab
+
+👁️ 82K • 👍 804 • 💬 21 • ⏱️ 0:25 • 6d ago
 
 ---
 

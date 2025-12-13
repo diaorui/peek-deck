@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T16:55:40.016007+00:00'
+updated: '2025-12-13T17:18:57.084427+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 16:55 UTC  
+**Last Updated:** December 13, 2025 at 17:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** -0.3%  
 **7d:** -0.3%  
 **30d:** -4.8%  
 **90d:** -21.8%  
@@ -93,7 +93,7 @@ This will age well in 10 years. See you then.
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -109,7 +109,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 Yes. Yes we are.
 
-51m ago
+1h ago
 
 ---
 
@@ -121,7 +121,7 @@ Yes. Yes we are.
 
 **["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -141,7 +141,7 @@ Any thoughts on what is causing it?
 
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -151,7 +151,7 @@ Any thoughts on what is causing it?
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bitcoin Magazine • 21h ago
 
 The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -237,7 +237,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 1 • 56m ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 1 • 1h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -269,7 +269,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 3d ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 4d ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -303,83 +303,33 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ## YouTube Videos: "bitcoin"
 
-**[Fed Restarts QE? Why This $54B Pivot Changes Everything for Bitcoin!](https://www.youtube.com/watch?v=UT9Ok-n-G4I)**
+**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
 
-The Fed just restarted the money printer — call it “reserve management,” but liquidity is rising fast. Bitcoin is now approved as ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Simply Bitcoin
+📺 Savvy Finance
 
-👁️ 25K • 👍 1K • 💬 119 • ⏱️ 16:27 • 18h ago
-
----
-
-**[Bitcoin’s Big Year-End Move: Is the Breakout Finally Here?](https://www.youtube.com/watch?v=4_AuftIEzxk)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 25K • 👍 1K • 💬 264 • ⏱️ 46:26 • 1d ago
+👁️ 770 • 👍 84 • 💬 4 • ⏱️ 21:14 • 2h ago
 
 ---
 
-**[🚨 8 BULLISH THINGS YET BITCOIN DEAD?!?!?!?! 🤡](https://www.youtube.com/watch?v=cpWejE3vMFA)**
+**[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
 
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 10K • 👍 752 • 💬 272 • ⏱️ 18:04 • 21h ago
-
----
-
-**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
-
-EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
-
-📺 Altcoin Daily
-
-👁️ 39K • 👍 2K • 💬 238 • ⏱️ 31:03 • 20h ago
-
----
-
-**[Some of the Best Times to Buy Bitcoin](https://www.youtube.com/watch?v=Vv6ex7ZcaYE)**
-
-Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
-
-📺 Benjamin Cowen
-
-👁️ 29K • 👍 611 • 💬 17 • ⏱️ 0:43 • 22h ago
-
----
-
-**[Why Bitcoin’s Next Big Move Is Closer Than Everyone Thinks](https://www.youtube.com/watch?v=JWUeyIQ-cb8)**
-
-Mel Mattison is one of the leading macro strategists on the internet, known for his deep insights into global markets and digital ...
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • 💬 12 • ⏱️ 48:24 • 1d ago
+👁️ 10K • 👍 943 • 💬 24 • ⏱️ 48:39 • 3h ago
 
 ---
 
-**[Crypto will be far more important in 10 years than it is today, says Bitwise CEO](https://www.youtube.com/watch?v=j-8hq9Nc87Q)**
+**[This Isn’t a Bitcoin Crash — It’s Something Much Bigger](https://www.youtube.com/watch?v=J_AR_8lyM2I)**
 
-CNBC's "The Exchange" team discusses why the crypto market is under pressure and where cryptocurrencies like bitcoin may go ...
+They waited until the weekend. On December 12, 2025, Nasdaq made a move that could trigger $1.6B in forced selling—and the ...
 
-📺 CNBC Television
+📺 Ryan’s Money Lab
 
-👁️ 20K • 👍 208 • 💬 106 • ⏱️ 4:06 • 1d ago
-
----
-
-**[$100k Bitcoin SHORT SQUEEZE LOADING! Why A MAJOR Bitcoin RALLY Could Happen SOON! Price prediction](https://www.youtube.com/watch?v=LRgyEqUjqNQ)**
-
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
-
-📺 Crypto Jebb
-
-👁️ 7K • 👍 387 • 💬 141 • ⏱️ 11:54 • 21h ago
+👁️ 1K • 👍 98 • 💬 11 • ⏱️ 13:45 • 1h ago
 
 ---
 
@@ -389,17 +339,67 @@ Chief Market Strategist Gareth Soloway gives institutional level analysis and in
 
 📺 Gareth Soloway
 
-👁️ 2K • 👍 303 • 💬 17 • ⏱️ 14:00 • 2h ago
+👁️ 9K • 👍 1K • 💬 147 • ⏱️ 14:00 • 2h ago
 
 ---
 
-**[Bitcoin OG’s Are Warning About THIS NEW Development](https://www.youtube.com/watch?v=aW3XPLNwe3E)**
+**[Bitcoin Can SAVE America! (Debt Crisis Solution NOBODY Talks About)](https://www.youtube.com/watch?v=7wsf5P-_eQs)**
 
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+America is drowning in debt—and politicians aren't telling you the real solution. In this video, we break down how Bitcoin could ...
 
-📺 Crypto Tips
+📺 Discover Crypto
 
-👁️ 8K • 👍 654 • 💬 104 • ⏱️ 11:48 • 23h ago
+👁️ 639 • 👍 85 • 💬 12 • ⏱️ 7:25 • 1h ago
+
+---
+
+**[Bitcoin: The Beauty of Mathematics (Part 65)](https://www.youtube.com/watch?v=JAkNLbhTjFg)**
+
+Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
+
+📺 Benjamin Cowen
+
+👁️ 28K • 👍 2K • 💬 59 • ⏱️ 5:06 • 12h ago
+
+---
+
+**[Fed Restarts QE? Why This $54B Pivot Changes Everything for Bitcoin!](https://www.youtube.com/watch?v=UT9Ok-n-G4I)**
+
+The Fed just restarted the money printer — call it “reserve management,” but liquidity is rising fast. Bitcoin is now approved as ...
+
+📺 Simply Bitcoin
+
+👁️ 26K • 👍 2K • 💬 121 • ⏱️ 16:27 • 19h ago
+
+---
+
+**[BITCOIN: THIS IS MASSIVE NEWS!!!](https://www.youtube.com/watch?v=9_DFnmjZzRk)**
+
+Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BUUID2 (up to $2200 USDT) My Strategy ...
+
+📺 Conor Kenny
+
+👁️ 11K • 👍 641 • 💬 98 • ⏱️ 13:29 • 10h ago
+
+---
+
+**[Oh Sh*t!! Trump’s Warning Just Hit Bitcoin &amp; XRP Hard!](https://www.youtube.com/watch?v=2O5wgbPP6ds)**
+
+Get ready, because today's episode dives straight into the chaos rocking crypto markets after Trump's latest warning sent ...
+
+📺 A Chain of Blocks
+
+👁️ 25K • 👍 2K • 💬 131 • ⏱️ 14:39 • 18h ago
+
+---
+
+**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
+
+EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
+
+📺 Altcoin Daily
+
+👁️ 42K • 👍 2K • 💬 256 • ⏱️ 31:03 • 20h ago
 
 ---
 

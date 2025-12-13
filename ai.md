@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T16:55:40.008449+00:00'
+updated: '2025-12-13T17:18:57.076723+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 16:55 UTC  
+**Last Updated:** December 13, 2025 at 17:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -67,7 +67,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
 
-1h ago
+2h ago
 
 ---
 
@@ -75,7 +75,7 @@ I keep seeing tools that generate beautiful code and then fall apart when anythi
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 48m ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 1h ago
 
 ---
 
@@ -99,7 +99,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 18h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 19h ago
 
 ---
 
@@ -119,7 +119,7 @@ The world's smallest AI supercomputer packs enough power to run 120 billion para
 
 Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
 
-NPR • 6h ago
+NPR • 7h ago
 
 ---
 
@@ -135,7 +135,7 @@ NBC News • 6h ago
 
 President Donald Trump's AI executive order blocks state regulations to compete with China, but creates regulatory vacuum that could harm Americans without federal guardrails.
 
-Fox News • 57m ago
+Fox News • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fox News • 57m ago
 
 Earlier this week, Microsoft said it will invest US$17.50 billion in India from 2026 to 2029 to expand AI and cloud infrastructure, including new data centers, sovereign cloud options, and large-scale skilling programs tied to national digital platforms. The move underlines how central India’s huge developer base and digital public infrastructure have become to Microsoft’s AI ambitions and competition with global cloud rivals. We’ll now explore how this record India AI and cloud build-out...
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Axios • 3h ago
 
 “The world of bits moves fast. The world of atoms doesn’t. And data centers are where those two worlds collide.”
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -165,7 +165,7 @@ Fortune • 6h ago
 
 California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Guardian • 1h ago
 
 The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -187,7 +187,7 @@ Visual Capitalist • 1d ago
 
 The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -255,7 +255,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 46 • 💬 61 • 3h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 46 • 💬 61 • 4h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -271,7 +271,7 @@ The last time so much wealth was tied up in such obscure overlapping arrangement
 
 Amazon has pulled its AI-powered Fallout Season 1 recap after fans noticed it made significant errors ahead of the launch of Season 2.
 
-⬆️ 39 • 💬 9 • 22h ago • [IGN](https://www.ign.com/articles/everyone-disliked-that-amazon-pulls-ai-powered-fallout-recap-after-getting-key-story-details-wrong)
+⬆️ 39 • 💬 9 • 23h ago • [IGN](https://www.ign.com/articles/everyone-disliked-that-amazon-pulls-ai-powered-fallout-recap-after-getting-key-story-details-wrong)
 
 ---
 
@@ -279,13 +279,13 @@ Amazon has pulled its AI-powered Fallout Season 1 recap after fans noticed it ma
 
 ## YouTube Videos: "ai"
 
-**[OpenAI is edging us all... Closer to AGI](https://www.youtube.com/watch?v=rEvEXQvo-F8)**
+**[OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)**
 
 Deploying on Railway feels like magic. Get $20 in free credits to try it out - https://railway.com/?referralCode=fireship Sam Altman ...
 
 📺 Fireship
 
-👁️ 235K • 👍 11K • 💬 658 • ⏱️ 4:01 • 18h ago
+👁️ 256K • 👍 12K • 💬 687 • ⏱️ 4:01 • 18h ago
 
 ---
 
@@ -295,27 +295,27 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 421K • 👍 10K • 💬 2K • ⏱️ 13:43 • 1d ago
+👁️ 434K • 👍 10K • 💬 2K • ⏱️ 13:43 • 1d ago
 
 ---
 
-**[AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!](https://www.youtube.com/watch?v=IHwt6UxiKOw)**
+**[The AI Jobs Crash is COMING... And We&#39;re Not Even CLOSE to Ready](https://www.youtube.com/watch?v=cXeRtejbj1E)**
 
-Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+AI is NOT the bubble... the real bubble is jobs. Entire industries are on the verge of disappearing, and college degrees are rapidly ...
 
-📺 Matthew Berman
+📺 Glenn Beck Clips
 
-👁️ 29K • 👍 951 • 💬 197 • ⏱️ 15:01 • 16h ago
+👁️ 37K • 👍 1K • 💬 442 • ⏱️ 11:23 • 2d ago
 
 ---
 
-**[Create AI UGC Ads With Nano Banana That ACTUALLY Look REAL](https://www.youtube.com/watch?v=YbztbmMtDZM)**
+**[Our 2025 reports on artificial intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
 
-How to Create AI Influencer Ads with Nano Banana PRO that ACTUALLY look REAL Try Arcads AI ...
+From November, Anderson Cooper's report on why Anthropic's CEO spends so much time warning of AI's potential dangers.
 
-📺 Dan Kieft
+📺 60 Minutes
 
-👁️ 19K • 💬 9 • ⏱️ 13:22 • 1d ago
+👁️ 35K • 👍 1K • 💬 145 • ⏱️ 1:21:07 • 5h ago
 
 ---
 
@@ -325,7 +325,47 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 46K • 👍 2K • 💬 313 • ⏱️ 14:58 • 1d ago
+👁️ 47K • 👍 2K • 💬 329 • ⏱️ 14:58 • 1d ago
+
+---
+
+**[AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!](https://www.youtube.com/watch?v=IHwt6UxiKOw)**
+
+Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+
+📺 Matthew Berman
+
+👁️ 32K • 👍 1K • 💬 212 • ⏱️ 15:01 • 17h ago
+
+---
+
+**[The 6 Most Profitable AI Businesses to Start in 2026](https://www.youtube.com/watch?v=X_X7WE1JBRg)**
+
+Get your FREE Executive Assistant Playbook here: https://go.danmartell.com/4oCwS0c Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 45K • 👍 3K • 💬 188 • ⏱️ 19:49 • 1d ago
+
+---
+
+**[Why the AI Bubble Is Actually a $60T Black Hole](https://www.youtube.com/watch?v=21e5GZF3yx0)**
+
+Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------------- 🗞️ Sign up to our free newsletter to get smarter ...
+
+📺 GEN
+
+👁️ 32K • 👍 2K • 💬 360 • ⏱️ 22:33 • 23h ago
+
+---
+
+**[Create AI UGC Ads With Nano Banana That ACTUALLY Look REAL](https://www.youtube.com/watch?v=YbztbmMtDZM)**
+
+How to Create AI Influencer Ads with Nano Banana PRO that ACTUALLY look REAL Try Arcads AI ...
+
+📺 Dan Kieft
+
+👁️ 20K • 💬 9 • ⏱️ 13:22 • 1d ago
 
 ---
 
@@ -335,47 +375,7 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 56K • 👍 798 • 💬 147 • ⏱️ 10:31 • 2d ago
-
----
-
-**[Is This AI One-Wheel Superbike Really This Fast?](https://www.youtube.com/watch?v=4FFgknrAb2I)**
-
-In California, United States, in 2025, a young rider tests a groundbreaking AI One-Wheel Superbike on a private racetrack.
-
-📺 AI Robot Lab
-
-👁️ 3.4M • 👍 17K • 💬 221 • ⏱️ 0:23 • 2d ago
-
----
-
-**[When AI Gets an Innocent Man Arrested](https://www.youtube.com/watch?v=B9M4F_U1eEw)**
-
-In today's body camera video, we're covering the arrest of Jason Killinger. We are a news agency dedicated to delivering factual ...
-
-📺 EWU Bodycam
-
-👁️ 1.4M • 👍 45K • 💬 26K • ⏱️ 17:08 • 2d ago
-
----
-
-**[What happens if the AI bubble bursts? | 7.30](https://www.youtube.com/watch?v=8YAfm7o5yiI)**
-
-The soaring values of the big tech companies have sparked fears of an AI bubble one that could pop with damaging economic ...
-
-📺 ABC News In-depth
-
-👁️ 21K • 👍 206 • ⏱️ 6:01 • 1d ago
-
----
-
-**[What to Learn in AI in 2026 (besides AI Agents)](https://www.youtube.com/watch?v=VASyr2DxEKE)**
-
-Check out Nebius today: ...
-
-📺 The Cutting Edge School
-
-👁️ 28K • 👍 2K • 💬 160 • ⏱️ 13:41 • 2d ago
+👁️ 58K • 👍 817 • 💬 150 • ⏱️ 10:31 • 2d ago
 
 ---
 
@@ -588,20 +588,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677)**
-
-*Yubo Huang, Hailong Guo, Fangtai Wu et al. (11 authors)*
-
-🏢 Quark
-
-Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
-
-▲ 166 • 💬 4 • ⭐ 932 • 9d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
-
----
-
 **[Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform](https://huggingface.co/papers/2512.08478)**
 
 *Yuning Gong, Yifei Liu, Yifan Zhan et al. (24 authors)*
@@ -614,6 +600,20 @@ Visionary is an open web-native platform enabling real-time rendering of 3D Gaus
 
 ---
 
+**[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677)**
+
+*Yubo Huang, Hailong Guo, Fangtai Wu et al. (11 authors)*
+
+🏢 Quark
+
+Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
+
+▲ 166 • 💬 4 • ⭐ 935 • 9d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
+
+---
+
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -622,7 +622,7 @@ Visionary is an open web-native platform enabling real-time rendering of 3D Gaus
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 111 • 💬 4 • ⭐ 5,751 • 23d ago
+▲ 111 • 💬 4 • ⭐ 5,767 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.5k • 🔱 2.1k • 12h ago
+⭐ 13.6k • 🔱 2.1k • 12h ago
 
 ---
 
@@ -660,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.5k • 🔱 281 • 46m ago
+⭐ 2.5k • 🔱 282 • 1h ago
 
 ---
 
@@ -710,7 +710,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 946 • 🔱 66 • 4d ago
+⭐ 947 • 🔱 66 • 4d ago
 
 ---
 
@@ -734,13 +734,13 @@ Open Source Semantic Search for your AI Agent
 
 ---
 
-**[firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)**
+**[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
 
-  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. 
+一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
 
-`TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
+`JavaScript`
 
-⭐ 671 • 🔱 97 • 4d ago
+⭐ 673 • 🔱 97 • 1d ago
 
 ---
 

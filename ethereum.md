@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T16:55:40.021345+00:00'
+updated: '2025-12-13T17:18:57.089865+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 16:55 UTC  
+**Last Updated:** December 13, 2025 at 17:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +1.5%  
-**30d:** +0.1%  
-**90d:** -31.2%  
-**1y:** -19.7%  
+**24h:** +0.2%  
+**7d:** +1.3%  
+**30d:** -0.1%  
+**90d:** -31.4%  
+**1y:** -19.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 1d ago
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -180,7 +180,7 @@ Decrypt • 20h ago
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 1d ago
 
 XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -238,7 +238,17 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 238 • ⏱️ 31:03 • 20h ago
+👁️ 42K • 👍 2K • 💬 256 • ⏱️ 31:03 • 20h ago
+
+---
+
+**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
+
+Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 443 • 💬 14 • ⏱️ 48:44 • 1d ago
 
 ---
 
@@ -252,26 +262,6 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 ---
 
-**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
-
-Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 439 • 💬 14 • ⏱️ 48:44 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
-
-What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
-
-📺 Thomas Kralow
-
-👁️ 19K • 👍 734 • 💬 42 • ⏱️ 11:29 • 2d ago
-
----
-
 **[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
 
 LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
@@ -282,23 +272,13 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 ---
 
-**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
+**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
 
-In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
+What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
 
-📺 FAROKH RADIO
+📺 Thomas Kralow
 
-👁️ 25K • 👍 869 • 💬 124 • ⏱️ 1:10:46 • 3d ago
-
----
-
-**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=SE7db9ft5go)**
-
-Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Demat Account Dhan ...
-
-📺 Trade with Burner
-
-👁️ 4K • 👍 742 • 2h ago
+👁️ 19K • 👍 735 • 💬 42 • ⏱️ 11:29 • 2d ago
 
 ---
 
@@ -308,17 +288,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 122 • 💬 2 • ⏱️ 4:36 • 15h ago
+👁️ 2K • 👍 129 • 💬 2 • ⏱️ 4:36 • 15h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8B6ecgMBOf0)**
+**[BTC, ETH, &amp; Crypto Refuse To Pump In Face Of Insane News!](https://www.youtube.com/watch?v=-2iVyJP6LAs)**
 
-BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Crypto World
+📺 Lark Davis
 
-👁️ 7K • 👍 321 • 💬 59 • ⏱️ 18:06 • 18h ago
+👁️ 14K • 👍 641 • 💬 60 • ⏱️ 48:17 • 1d ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=WNjd5vnNnHo)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Guitar Repair@StringTech
+
+👁️ 6K • 👍 4K • 8h ago
 
 ---
 
@@ -328,7 +318,17 @@ ETH isn't just lagging — its story broke. It's down ~3× more than BTC from th
 
 📺 Ryan’s Money Lab
 
-👁️ 4K • 👍 180 • 💬 25 • ⏱️ 15:43 • 1d ago
+👁️ 4K • 👍 181 • 💬 25 • ⏱️ 15:43 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8B6ecgMBOf0)**
+
+BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 333 • 💬 72 • ⏱️ 18:06 • 18h ago
 
 ---
 
