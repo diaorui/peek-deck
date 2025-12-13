@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T10:46:15.797952+00:00'
+updated: '2025-12-13T10:57:38.416622+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 10:46 UTC  
+**Last Updated:** December 13, 2025 at 10:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 21h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 22h ago
 
 ---
 
@@ -104,7 +104,7 @@ Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by nu
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 21h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 187 • ⏱️ 31:03 • 13h ago
+👁️ 32K • 👍 2K • 💬 187 • ⏱️ 31:03 • 14h ago
 
 ---
 

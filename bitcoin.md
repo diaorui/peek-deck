@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T10:46:15.791886+00:00'
+updated: '2025-12-13T10:57:38.410546+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 10:46 UTC  
+**Last Updated:** December 13, 2025 at 10:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 This will age well in 10 years. See you then.
 
-53m ago
+1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1d ago
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -361,7 +361,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 187 • ⏱️ 31:03 • 13h ago
+👁️ 32K • 👍 2K • 💬 187 • ⏱️ 31:03 • 14h ago
 
 ---
 
@@ -371,7 +371,7 @@ In today's Crypto Insider, Ran explains why he believes the 2026 crypto b*** mar
 
 📺 Crypto Insider
 
-👁️ 37K • 👍 3K • 💬 134 • ⏱️ 20:35 • 23h ago
+👁️ 37K • 👍 3K • 💬 134 • ⏱️ 20:35 • 1d ago
 
 ---
 
@@ -381,7 +381,7 @@ Welcome to the most blisteringly honest breakdown of the future you keep trying 
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 890 • 💬 89 • ⏱️ 14:56 • 20h ago
+👁️ 15K • 👍 890 • 💬 89 • ⏱️ 14:56 • 21h ago
 
 ---
 

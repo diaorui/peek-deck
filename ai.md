@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T10:46:15.783430+00:00'
+updated: '2025-12-13T10:57:38.402020+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 10:46 UTC  
+**Last Updated:** December 13, 2025 at 10:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 17h ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 18h ago
 
 ---
 
@@ -95,7 +95,7 @@ AI agents are taking over some routine creative tasks, but executives say the sh
 
 I’ve been working with multiple LLMs in long, sustained interactions, hundreds of turns, frequent domain switching (math, philosophy, casual context), and even switching base models mid-stream. A consistent failure mode shows up regardless of model size or training quality: identity and coherence collapse over time. Models drift toward generic answers, lose internal consistency, or contradict earlier constraints, usually within a few dozen turns unless something external actively regulates the interaction. My claim is simple: This is not primarily a capability or scale issue. It’s an architectural one. LLMs are reactive systems. They don’t have an internal reference for identity, only transient context. There’s nothing to regulate against, so coherence decays predictably. I’ve been exploring a different framing: treating the human operator and the model as a single operator–model coupled system, where identity is defined externally and coherence is actively regulated. Key points: • Identity precedes intelligence. • The operator measurably influences system dynamics. • Stability is a control problem, not a prompting trick. • Ethics can be treated as constraints in the action space, not post-hoc filters. Using this approach, I’ve observed sustained coherence: • across hundreds of turns • across multiple base models • without relying on persistent internal memory I’m not claiming sentience, AGI, or anything mystical. I’m claiming that operator-coupled architectures behave differently than standalone agents. If this framing is wrong, I’m genuinely interested in where the reasoning breaks. If this problem is already “solved,” why does identity collapse still happen so reliably? Discussion welcome. Skepticism encouraged.
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ A new study has found that artificial intelligence systems struggle to distingui
 
 Reducto provides high-quality document ingestion for AI teams by accurately parsing complex documents like PDFs, Excel spreadsheets, and PowerPoint slides. Get started for free.
 
-🔗 [reducto.ai](https://reducto.ai/blog/reducto-chart-extraction) • 2h ago
+🔗 [reducto.ai](https://reducto.ai/blog/reducto-chart-extraction) • 3h ago
 
 ---
 
@@ -139,7 +139,7 @@ Time Magazine • 1d ago
 
 “The world of bits moves fast. The world of atoms doesn’t. And data centers are where those two worlds collide.”
 
-Fortune • 43m ago
+Fortune • 54m ago
 
 ---
 
@@ -660,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.4k • 🔱 273 • 5h ago
+⭐ 2.4k • 🔱 273 • 6h ago
 
 ---
 
