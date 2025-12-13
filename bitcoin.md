@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-12T23:56:47.758230+00:00'
+updated: '2025-12-13T01:56:15.106271+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 23:56 UTC  
+**Last Updated:** December 13, 2025 at 01:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,844.78
+### $90,206.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +1.0%  
-**30d:** -9.7%  
-**90d:** -21.9%  
-**1y:** -11.0%  
+**24h:** -2.2%  
+**7d:** -0.1%  
+**30d:** -4.6%  
+**90d:** -21.8%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1803.31B
+**Market Cap:** $1799.76B
 Rank #1
 
-**Circulating Supply:** 19,961,321 BTC
+**Circulating Supply:** 19,961,384 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.5%
 
 **All-Time Low:** $67.81
-+133110.4%
++132898.1%
 
 ---
 
@@ -77,35 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
-
-5h ago
-
----
-
-**[Daily meme until $92,450](https://www.reddit.com/r/Bitcoin/comments/1pkriyo/daily_meme_until_92450/)**
-
-C’mon Bitcoin, you can do it
-
-10h ago
-
----
-
-**[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
-
-10h ago
-
----
-
-**[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
-
-12h ago
-
----
-
 **[Generational Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkz0qy/generational_wealth/)**
 
-5h ago
+7h ago
+
+---
+
+**["Nothing Stops This Train" In Times Square](https://www.reddit.com/r/Bitcoin/comments/1pkz0ad/nothing_stops_this_train_in_times_square/)**
+
+7h ago
 
 ---
 
@@ -113,19 +93,15 @@ C’mon Bitcoin, you can do it
 
 Any thoughts on what is causing it?
 
-1h ago
+3h ago
 
 ---
 
-**[💪](https://www.reddit.com/r/Bitcoin/comments/1pl4afq/_/)**
+**[Daily meme until $92,450](https://www.reddit.com/r/Bitcoin/comments/1pkriyo/daily_meme_until_92450/)**
 
-2h ago
+C’mon Bitcoin, you can do it
 
----
-
-**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
-
-22h ago
+12h ago
 
 ---
 
@@ -133,7 +109,31 @@ Any thoughts on what is causing it?
 
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-2h ago
+4h ago
+
+---
+
+**[Times fly, 15 years ago](https://www.reddit.com/r/Bitcoin/comments/1pkpx88/times_fly_15_years_ago/)**
+
+14h ago
+
+---
+
+**[Life](https://www.reddit.com/r/Bitcoin/comments/1pket49/life/)**
+
+1d ago
+
+---
+
+**[And Bitcoin is going strong](https://www.reddit.com/r/Bitcoin/comments/1pl7ekk/and_bitcoin_is_going_strong/)**
+
+1h ago
+
+---
+
+**[An Archaic Way to Transport Wealth](https://www.reddit.com/r/Bitcoin/comments/1pkrbfl/an_archaic_way_to_transport_wealth/)**
+
+12h ago
 
 ---
 
@@ -141,7 +141,7 @@ I've been quietly stacking bitcoin for almost four years now and it blows my min
 
 Bitcoin’s Open Interest has dropped sharply since October, and that’s the most important part of the current market structure. Low OI means the market is running with very little leverage, so the recent price move isn’t coming from futures traders it’s mostly spot demand. At the same time, a huge amount of BTC is still locked in long-term hands (corporate treasuries, miners, and illiquid wallets). So supply pressure is low, but momentum is also weak because fewer traders are participating. Low OI means cleaner, healthier price action, But low OI also means less support if demand slows. So direction will depend on spot buyers, not leverage It’s a neutral setup, stable, but waiting for a catalyst.If OI starts rising again, that’s usually when stronger trends begin. Note : Bitcoin’s Open Interest has been falling over the past few weeks, but the interesting part is that BTC is slowly moving up at the same time. This tells us that the price is rising without heavy leverage, Futures traders are stepping back and Spot buyers or long-term demand are doing most of the work. BTC is rising, but not because of leveraged longs, it’s rising because actual buyers are still active.
 
-7h ago
+9h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bitcoin’s Open Interest has dropped sharply since October, and that’s the mo
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -165,17 +165,23 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Vanguard Dismisses Bitcoin as Toy Despite U-Turn](https://www.tradingview.com/news/u_today:926fc464b094b:0-vanguard-dismisses-bitcoin-as-toy-despite-u-turn/)**
+**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://decrypt.co/352201/vanguard-exec-calls-bitcoin-digital-labubu-firm-offers-crypto-etf-trading)**
 
-According to Bloomberg, Vanguard’s perspective on Bitcoin remains largely skeptical despite the financial giant's recent U-turn on the leading cryptocurrency. The firm views Bitcoin not as a productive asset but as a speculative collectible, akin to a digital version of a viral plush toy, Labubu. J…
+The Vanguard equity head dismissed Bitcoin as speculative, though the firm still expanded client access to crypto ETFs.
 
-TradingView • 4h ago
+Decrypt • 3h ago
 
 ---
 
-**[Strategy, Bitcoin Slide Ahead Of Today's Defining Test](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 17m ago
+
+---
+
+**[Strategy Falls Ahead Of Annual Nasdaq 100 Change; The Stakes For Bitcoin](https://www.investors.com/news/strategy-mstr-stock-nasdaq-100-msci-index-exclusion-bitcoin-price-impact/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -187,23 +193,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[MicroStrategy sends sharp warning letter to MSCI](https://www.thestreet.com/crypto/markets/microstrategy-sends-sharp-warning-letter-to-msci)**
+**[Bitcoin hoarder company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
 
-TheStreet • 2d ago
+Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
+
+Yahoo Finance • 35m ago
+
+---
+
+**[Bitcoin’s First Full-Year Split From Stocks in Over a Decade](https://finance.yahoo.com/news/bitcoin-first-full-split-stocks-012035598.html)**
+
+Bitcoin’s sudden split from stocks in 2025 is forcing markets to rethink what will drive crypto in the upcoming year.
+
+Yahoo Finance • 36m ago
 
 ---
 
 **[Bitcoin has arrived in New York.](https://x.com/saylor/status/1999480466135715934)**
 
-x.com • 9h ago
-
----
-
-**[Bitcoin Winter Has Begun: Why A Major Crash May Still Be Ahead](https://www.forbes.com/sites/digital-assets/2025/12/12/bitcoin-winter-has-begun-why-a-major-crash-may-still-be-ahead/)**
-
-I’m on the record as saying the crypto-winter has begun – and that, of course, means a bitcoin winter, because “there is no crypto, only bitcoin.”
-
-Forbes • 13h ago
+x.com • 11h ago
 
 ---
 
@@ -211,15 +219,7 @@ Forbes • 13h ago
 
 Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.
 
-BBC • 1d ago
-
----
-
-**[Cathie Wood Says Bitcoin’s 4-Year Cycle is Breaking as Institutions Steady the Market](https://finance.yahoo.com/news/cathie-wood-says-bitcoin-4-223100034.html)**
-
-Ark Invest CEO Cathie Wood says Bitcoin’s well-known four-year cycle may no longer define the asset’s long-term behavior, arguing that institutional adoption is reshaping everything from volatility to how deep future drawdowns might be.Speaking with Fox Business on Tuesday, Wood said Bitcoin’s sharp crashes, often 75% to 90% in earlier ...
-
-Yahoo Finance • 2d ago
+BBC • 2d ago
 
 ---
 
@@ -231,7 +231,7 @@ Yahoo Finance • 2d ago
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 5d ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -247,7 +247,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 0 • 18h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 0 • 20h ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -291,7 +291,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Ave.ai replaced PostgreSQL with VeloDB as its main analytical solution, after evaluating VeloDB, HBase, Snowflake, ClickHouse, Hologres, GaussDB, and TiDB.
 
-⬆️ 1 • 💬 0 • 15h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
+⬆️ 1 • 💬 0 • 17h ago • [velodb.io](https://www.velodb.io/blog/why-ave-ai-chose-velodb-over-clickhouse-snowflake-for-web3-analytics)
 
 ---
 
@@ -313,17 +313,17 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 482 • 💬 26 • ⏱️ 16:27 • 1h ago
+👁️ 9K • 👍 843 • 💬 81 • ⏱️ 16:27 • 3h ago
 
 ---
 
-**[Why Bitcoin’s Next Big Move Is Closer Than Everyone Thinks](https://www.youtube.com/watch?v=JWUeyIQ-cb8)**
+**[$100k Bitcoin SHORT SQUEEZE LOADING! Why A MAJOR Bitcoin RALLY Could Happen SOON! Price prediction](https://www.youtube.com/watch?v=LRgyEqUjqNQ)**
 
-Mel Mattison is one of the leading macro strategists on the internet, known for his deep insights into global markets and digital ...
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
 
-📺 Anthony Pompliano
+📺 Crypto Jebb
 
-👁️ 23K • 👍 1K • 💬 12 • ⏱️ 48:24 • 1d ago
+👁️ 5K • 👍 334 • 💬 133 • ⏱️ 11:54 • 6h ago
 
 ---
 
@@ -333,27 +333,37 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 156 • ⏱️ 46:26 • 7h ago
+👁️ 22K • 👍 1K • 💬 210 • ⏱️ 46:26 • 9h ago
 
 ---
 
-**[&quot;This Is Why the Next Bitcoin Run Will Shock Everyone&quot; - Matt Hougan](https://www.youtube.com/watch?v=GN00YmQ8Tv8)**
+**[The Scary Truth About Bitcoin, AI, and UBI!](https://www.youtube.com/watch?v=LS29MdNd5QY)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+Welcome to the most blisteringly honest breakdown of the future you keep trying to scroll past. In the next three years, AI is coming ...
 
-📺 Savvy Finance
+📺 Swan Bitcoin
 
-👁️ 6K • 👍 195 • 💬 19 • ⏱️ 22:05 • 1d ago
+👁️ 12K • 👍 792 • 💬 86 • ⏱️ 14:56 • 12h ago
 
 ---
 
-**[🚨 8 BULLISH THINGS YET BITCOIN DEAD?!?!?!?! 🤡](https://www.youtube.com/watch?v=cpWejE3vMFA)**
+**[Why Bitcoin’s Next Big Move Is Closer Than Everyone Thinks](https://www.youtube.com/watch?v=JWUeyIQ-cb8)**
 
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+Mel Mattison is one of the leading macro strategists on the internet, known for his deep insights into global markets and digital ...
 
-📺 BRITISH HODL
+📺 Anthony Pompliano
 
-👁️ 4K • 👍 449 • 💬 157 • ⏱️ 18:04 • 4h ago
+👁️ 24K • 👍 1K • 💬 12 • ⏱️ 48:24 • 1d ago
+
+---
+
+**[Why Old Bitcoin Holders Are Selling Now](https://www.youtube.com/watch?v=2L_ct_6hTNM)**
+
+Everyone thinks Bitcoin still runs on a clean four-year cycle — but the data, the holders, and the market dynamics tell a different ...
+
+📺 Swan Bitcoin
+
+👁️ 6K • 👍 145 • 💬 11 • ⏱️ 0:50 • 12h ago
 
 ---
 
@@ -363,27 +373,7 @@ CNBC's "The Exchange" team discusses why the crypto market is under pressure and
 
 📺 CNBC Television
 
-👁️ 15K • 👍 164 • 💬 92 • ⏱️ 4:06 • 1d ago
-
----
-
-**[Bitcoin &amp; Crypto Demand SURGES As Banks &amp; Wall Street Go ALL IN!](https://www.youtube.com/watch?v=6kpRqY_zYeg)**
-
-Bitcoin #Crypto #Finance Today's episode breaks down one of the biggest developments in TradFi and crypto convergence yet ...
-
-📺 The Wolf Of All Streets
-
-👁️ 15K • 👍 967 • 💬 303 • ⏱️ 24:40 • 9h ago
-
----
-
-**[Bitcoin Price Action LIVE - The Signal Has Fired](https://www.youtube.com/watch?v=7DkPDZ961mA)**
-
-Stay informed with the latest insights on **bitcoin today**, focusing on effective **trading strategy** and essential **technical ...
-
-📺 Krown
-
-👁️ 6K • 👍 445 • 💬 35 • ⏱️ 1:29:53 • 5h ago
+👁️ 16K • 👍 175 • 💬 97 • ⏱️ 4:06 • 1d ago
 
 ---
 
@@ -393,7 +383,7 @@ Stay informed with the latest insights on **bitcoin today**, focusing on effecti
 
 📺 Crypto Cam
 
-👁️ 18K • 👍 455 • 💬 37 • ⏱️ 0:27 • 1d ago
+👁️ 18K • 👍 456 • 💬 37 • ⏱️ 0:27 • 2d ago
 
 ---
 
@@ -403,7 +393,17 @@ Jerome Powell just went full-dovish — QT is winding down, liquidity is returni
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 144 • ⏱️ 18:22 • 23h ago
+👁️ 27K • 👍 2K • 💬 144 • ⏱️ 18:22 • 1d ago
+
+---
+
+**[🚨 8 BULLISH THINGS YET BITCOIN DEAD?!?!?!?! 🤡](https://www.youtube.com/watch?v=cpWejE3vMFA)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 7K • 👍 539 • 💬 254 • ⏱️ 18:04 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-12T23:56:47.763543+00:00'
+updated: '2025-12-13T01:56:15.112261+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 12, 2025 at 23:56 UTC  
+**Last Updated:** December 13, 2025 at 01:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,091.91
+### $3,087.48
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** +1.5%  
-**30d:** -4.8%  
-**90d:** -33.1%  
-**1y:** -21.1%  
+**24h:** -5.4%  
+**7d:** +0.4%  
+**30d:** -1.0%  
+**90d:** -32.0%  
+**1y:** -20.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.92B
+**Market Cap:** $371.96B
 Rank #2
 
-**Circulating Supply:** 120,695,147 ETH
+**Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.5%
+-37.7%
 
 **All-Time Low:** $0.43
-+713426.5%
++711551.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 11h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 13h ago
 
 ---
 
@@ -88,7 +88,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 11h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by nu
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 4h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 6h ago
 
 ---
 
@@ -156,13 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
-**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
+**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
 
-The Block • 1d ago
+The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
+
+Decrypt • 5h ago
 
 ---
 
@@ -170,21 +172,13 @@ The Block • 1d ago
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
-Binance • 21h ago
-
----
-
-**[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://decrypt.co/351847/bitcoin-ethereum-federal-reserve-cuts-rates)**
-
-The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
-
-Decrypt • 2d ago
+Binance • 23h ago
 
 ---
 
@@ -196,17 +190,23 @@ TradingView • 1d ago
 
 ---
 
-**[BitMine’s 5% Ethereum Accumulation Bet: Supply Shock and Market Implications](https://www.ccn.com/education/crypto/bitmine-5-ethereum-accumulation-supply-shock-market-implications/)**
+**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://finance.yahoo.com/news/tom-lee-bitmine-adds-112m-132425778.html)**
 
-CCN.com • 6h ago
+Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum hold steady as XRP ETF inflows surge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-aim-for-recovery-xrp-holds-key-support-202512121200)**
+**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-Bitcoin (BTC) is trading above $92,000 at the time of writing on Friday, as volatility across the cryptocurrency market cools following the Federal Reserve’s (Fed) hawkish interest rate cut.
+The Block • 1d ago
 
-FXStreet • 11h ago
+---
+
+**[BitMine’s 5% Ethereum Accumulation Bet: Supply Shock and Market Implications](https://www.ccn.com/education/crypto/bitmine-5-ethereum-accumulation-supply-shock-market-implications/)**
+
+CCN.com • 8h ago
 
 ---
 
@@ -218,11 +218,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Tom Lee Claims S&P 500 Will Hit 7,700 by 2026, Says Ethereum Will Exceed $12,000](https://finance.yahoo.com/news/tom-lee-claims-p-500-115052298.html)**
+**[Crypto Today: Bitcoin, Ethereum hold steady as XRP ETF inflows surge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-aim-for-recovery-xrp-holds-key-support-202512121200)**
 
-Tom Lee expects the S&P 500 to reach 7,700 by 2026. Lee argues Ethereum is “grossly undervalued” at current levels. The bullish analyst claimed Bitcoin ...
+Bitcoin (BTC) is trading above $92,000 at the time of writing on Friday, as volatility across the cryptocurrency market cools following the Federal Reserve’s (Fed) hawkish interest rate cut.
 
-Yahoo Finance • 12h ago
+FXStreet • 13h ago
 
 ---
 
@@ -236,7 +236,17 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 402 • 💬 10 • ⏱️ 48:44 • 7h ago
+👁️ 6K • 👍 417 • 💬 10 • ⏱️ 48:44 • 9h ago
+
+---
+
+**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
+
+EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
+
+📺 Altcoin Daily
+
+👁️ 11K • 👍 904 • 💬 87 • ⏱️ 31:03 • 5h ago
 
 ---
 
@@ -246,27 +256,7 @@ What FED just said and did directly affects crypto and bitcoin! Here is what mos
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 712 • 💬 41 • ⏱️ 11:29 • 1d ago
-
----
-
-**[Tom Lee Just Flipped on Ethereum… Why?](https://www.youtube.com/watch?v=y48K7-hqmPQ)**
-
-Tom Lee just reversed his Ethereum outlook after previously calling for a drop to 20k before year-end. Now he says the next major ...
-
-📺 Ivan on Tech
-
-👁️ 27K • 👍 2K • 💬 122 • ⏱️ 10:42 • 1d ago
-
----
-
-**[BTC, ETH, &amp; Crypto Refuse To Pump In Face Of Insane News!](https://www.youtube.com/watch?v=-2iVyJP6LAs)**
-
-Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 13K • 👍 620 • 💬 59 • ⏱️ 48:17 • 11h ago
+👁️ 18K • 👍 717 • 💬 41 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -280,53 +270,63 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 ---
 
+**[A BTC EMERGENCY: Bitcoin &amp; ETH CRASH Now in Progress -  BTC has Begun the Next Leg Down of the CRASH](https://www.youtube.com/watch?v=AWBbOqm0Oxw)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 3K • 👍 355 • ⏱️ 34:06 • 4h ago
+
+---
+
+**[Tom Lee Just Flipped on Ethereum… Why?](https://www.youtube.com/watch?v=y48K7-hqmPQ)**
+
+Tom Lee just reversed his Ethereum outlook after previously calling for a drop to 20k before year-end. Now he says the next major ...
+
+📺 Ivan on Tech
+
+👁️ 27K • 👍 2K • 💬 122 • ⏱️ 10:42 • 1d ago
+
+---
+
+**[Tom Lee on ETH being the next BITCOIN, Why he’s BULLISH, &amp; his Highest Price Predictions](https://www.youtube.com/watch?v=p1jtfW4jAGI)**
+
+In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, Crypto, Prediction markets, Price Predictions, ...
+
+📺 FAROKH RADIO
+
+👁️ 24K • 👍 842 • 💬 120 • ⏱️ 1:10:46 • 2d ago
+
+---
+
+**[BTC, ETH, &amp; Crypto Refuse To Pump In Face Of Insane News!](https://www.youtube.com/watch?v=-2iVyJP6LAs)**
+
+Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 13K • 👍 624 • 💬 60 • ⏱️ 48:17 • 13h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=34QIuyyS5dY)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 9 • ⏱️ 5:04 • 10h ago
+👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 12h ago
 
 ---
 
-**[&quot;It Will Flip Ethereum&quot; - Scaramucci on Solana&#39;s Future](https://www.youtube.com/watch?v=4JXiR5vSw_I)**
+**[BITCOIN &amp; ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8B6ecgMBOf0)**
 
-Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital and author of the new book Solana Rising, joins ...
+BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
-📺 CoinDesk
+📺 Crypto World
 
-👁️ 3K • 👍 96 • 💬 28 • ⏱️ 13:45 • 1d ago
-
----
-
-**[This is Not Normal For Ethereum](https://www.youtube.com/watch?v=agl0Kf2d7cQ)**
-
-ETH isn't just lagging — its story broke. It's down ~3× more than BTC from the highs, ETH/BTC is sitting at multi-year lows, and ...
-
-📺 Ryan’s Money Lab
-
-👁️ 4K • 👍 171 • 💬 22 • ⏱️ 15:43 • 1d ago
-
----
-
-**[ETH Ethereum Price Prediction: 12th of December](https://www.youtube.com/watch?v=FEl0jOMJrrU)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 285 • 👍 21 • 💬 13 • ⏱️ 8:14 • 6h ago
-
----
-
-**[MSTR &amp; Ethereum Dip: Market Sentiment Shift? #shorts](https://www.youtube.com/watch?v=AowT80gHyWk)**
-
-Street gets bearish on MSTR, but Bitcoin at 110k? MSTR rockets. Ethereum outperforming Bitcoin off the lows. TradFi and talking ...
-
-📺 Crypto 101
-
-👁️ 124 • 👍 7 • ⏱️ 1:29 • 21h ago
+👁️ 2K • 👍 190 • 💬 39 • ⏱️ 18:06 • 3h ago
 
 ---
 

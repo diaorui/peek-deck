@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-12T23:56:47.750714+00:00'
+updated: '2025-12-13T01:56:15.097776+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- videos
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 12, 2025 at 23:56 UTC  
+**Last Updated:** December 13, 2025 at 01:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
-🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 7h ago
+🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 9h ago
 
 ---
 
@@ -49,15 +49,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 An AI agent hacked Stanford's network for 16 hours and outperformed human pros, all while costing far less than their six-figure pay.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 8h ago
-
----
-
-**[Scientists just uncovered a major limitation in how AI models understand truth and belief](https://www.reddit.com/r/artificial/comments/1pkrazu/scientists_just_uncovered_a_major_limitation_in/)**
-
-A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
-
-🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 10h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-agent-hacker-stanford-study-outperform-human-artemis-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 10h ago
 
 ---
 
@@ -65,7 +57,15 @@ A new study has found that artificial intelligence systems struggle to distingui
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 3h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 5h ago
+
+---
+
+**[Scientists just uncovered a major limitation in how AI models understand truth and belief](https://www.reddit.com/r/artificial/comments/1pkrazu/scientists_just_uncovered_a_major_limitation_in/)**
+
+A new study has found that artificial intelligence systems struggle to distinguish between objective facts and subjective beliefs. This limitation poses risks as these technologies enter high-stakes fields like medicine and law.
+
+🔗 [PsyPost - Psychology News](https://www.psypost.org/scientists-just-uncovered-a-major-limitation-in-how-ai-models-understand-truth-and-belief/) • 12h ago
 
 ---
 
@@ -73,7 +73,13 @@ Lifting export controls on Nvidia’s second-best chip jeopardizes America’s A
 
 AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 1h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 3h ago
+
+---
+
+**[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
+
+🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 3h ago
 
 ---
 
@@ -81,13 +87,7 @@ AI agents are taking over some routine creative tasks, but executives say the sh
 
 Everyone is reading the December 11 Executive Order as a "deregulation holiday." I think that's dead wrong. It’s actually a litigation trigger. By trying to preempt state AI laws with an EO, the administration isn't clearing the board—they are picking a fight with 38 state legislatures and a Senate that already voted 99-1 against this exact approach. The trap: If you're a vendor, you might be tempted to delete your state-level compliance code today. Don't. We just moved from a patchwork of laws to a constitutional crisis. When the lawsuits stall this EO, you don't want to be the one caught naked on liability. The only safe bet right now? Architect for the EU AI Act. It's the only stable floor left. I wrote a deep dive on why this is a "volatility event" rather than deregulation. https://www.linkedin.com/pulse/50-states-rules-hidden-tax-every-ai-deployment-collin-hogue-spears-eptie
 
-11h ago
-
----
-
-**[Palantir sues CEO of rival AI firm Percepta, alleges widespread effort to poach employees | Suit says Percepta’s chief executive Hirsh Jain built a "copycat" company after leaving Palantir last year](https://www.reddit.com/r/artificial/comments/1pl4pye/palantir_sues_ceo_of_rival_ai_firm_percepta/)**
-
-🔗 [wsj.com](https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?gaa_at=eafs&gaa_n=AWEtsqdcUZZWIX71oJyWcYE3BknIDi5XxPED3tyf8PNmgdBm5WXZlbXWsxfaISygL0I%3D&gaa_ts=693b897b&gaa_sig=J0Wlzu9QhtlrqL5yPvZ2p5jnC_KzfNqZfoT-qsILCmwmyt8d0EGwEPyu5_lpdqyyj-odabi56VH80pFz6xcgkA%3D%3D) • 1h ago
+13h ago
 
 ---
 
@@ -95,7 +95,15 @@ Everyone is reading the December 11 Executive Order as a "deregulation holiday."
 
 The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.
 
-🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 22h ago
+🔗 [WIRED](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/) • 1d ago
+
+---
+
+**[Identity collapse in LLMs is an architectural problem, not a scaling one](https://www.reddit.com/r/artificial/comments/1pl8a40/identity_collapse_in_llms_is_an_architectural/)**
+
+I’ve been working with multiple LLMs in long, sustained interactions, hundreds of turns, frequent domain switching (math, philosophy, casual context), and even switching base models mid-stream. A consistent failure mode shows up regardless of model size or training quality: identity and coherence collapse over time. Models drift toward generic answers, lose internal consistency, or contradict earlier constraints, usually within a few dozen turns unless something external actively regulates the interaction. My claim is simple: This is not primarily a capability or scale issue. It’s an architectural one. LLMs are reactive systems. They don’t have an internal reference for identity, only transient context. There’s nothing to regulate against, so coherence decays predictably. I’ve been exploring a different framing: treating the human operator and the model as a single operator–model coupled system, where identity is defined externally and coherence is actively regulated. Key points: • Identity precedes intelligence. • The operator measurably influences system dynamics. • Stability is a control problem, not a prompting trick. • Ethics can be treated as constraints in the action space, not post-hoc filters. Using this approach, I’ve observed sustained coherence: • across hundreds of turns • across multiple base models • without relying on persistent internal memory I’m not claiming sentience, AGI, or anything mystical. I’m claiming that operator-coupled architectures behave differently than standalone agents. If this framing is wrong, I’m genuinely interested in where the reasoning breaks. If this problem is already “solved,” why does identity collapse still happen so reliably? Discussion welcome. Skepticism encouraged.
+
+1h ago
 
 ---
 
@@ -103,13 +111,7 @@ The order creates a Justice Department task force to challenge state AI laws and
 
 All the IT Service companies braying "AI first", but the moment, it comes to SOW, they are not using AI to validate feasibility, check estimates, violation of labor laws, etc. Once SOW is signed, IT Service companies hiring few contractors on hire and fire basis to deliver the project, they are forcing those contractors work 15x7 citing SOW contract(no delivery, no payment), when the project is failing, all blames are put on those contractors. The cost of project failure, legal costs could have been completely avoided by simply validating SOW and amending the SOW. Are these IT Service companies hypocrites to bray "AI First" but not ready to validate SOW with AI?
 
-1h ago
-
----
-
-**[The Ouroboros at the Heart of Artificial Intelligence](https://www.reddit.com/r/artificial/comments/1pkznif/the_ouroboros_at_the_heart_of_artificial/)**
-
-🔗 [substack.com](https://substack.com/inbox/post/181416869) • 5h ago
+3h ago
 
 ---
 
@@ -117,33 +119,17 @@ All the IT Service companies braying "AI first", but the moment, it comes to SOW
 
 ## Google News: "ai"
 
-**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+**[Trump is trying to preempt state AI laws via an executive order. It may not be legal](https://www.npr.org/2025/12/11/nx-s1-5638562/trump-ai-david-sacks-executive-order)**
 
-The New York Times • 23h ago
+The executive order is the latest in a series of attempts by the Trump administration to hold back state-level AI rules. But many Republicans are also uncomfortable with the effort.
+
+NPR • 1d ago
 
 ---
 
 **[Professors are turning to this old-school method to stop AI use on exams](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/)**
 
-The Washington Post • 4h ago
-
----
-
-**[Exclusive | Trump’s OK of AI Chip Sales in China Called ‘Dangerous’ By Senate Democrats](https://www.wsj.com/world/china/trumps-ok-of-ai-chip-sales-in-china-called-dangerous-by-senate-democrats-ba0f84e9?gaa_at=eafs&gaa_n=AWEtsqc066PBkW3Eizvf2Dk4yJt_CS4dqOzZbHJQWad55RJ3k9DzLtNvCgdJ&gaa_ts=693ca9a3&gaa_sig=G3t4Q6VvPpArmLkDZP865Pm8MrgXs65Eraos56r28U9rD6GgfpsUodb-gZHpz3pG-mAhLBOASvEjMvVbW92uRA%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
-**[Trump AI order inflames GOP battle](https://thehill.com/newsletters/technology/5647090-trump-ai-order-inflames-gop-battle/)**
-
-thehill.com • 46m ago
-
----
-
-**[Fresh Concerns About AI Spending Are Rattling Wall Street](https://www.wsj.com/finance/stocks/ai-fed-interest-rate-stock-market-749e18e2?gaa_at=eafs&gaa_n=AWEtsqej3SFqer7srJAI_TrmLvD7LOPhSqyfdAkXeR57xqY6RVGTG2Gmvn_o&gaa_ts=693ca9a3&gaa_sig=0wlLgo8ejvhJoXnYImzODQEn19Avv77gUyvUVMBHFRGUJoYInOmhDyFa7yqFwvGFGyAW3Qm_Qhux3_2JkdQvKA%3D%3D)**
-
-The Wall Street Journal • 1h ago
+The Washington Post • 6h ago
 
 ---
 
@@ -151,35 +137,59 @@ The Wall Street Journal • 1h ago
 
 The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
 
-The New Yorker • 12h ago
+The New Yorker • 14h ago
+
+---
+
+**[Most people aren’t fretting about an AI bubble. What they fear is mass layoffs | Steven Greenhouse](https://www.theguardian.com/commentisfree/2025/dec/12/ai-bubble-mass-layoffs-income-inequality)**
+
+Artificial intelligence could make income inequality even worse and create a new underclass. Governments and society must take action
+
+The Guardian • 10h ago
+
+---
+
+**[Will the AI Bubble Burst? Harvard Faculty Weigh In](https://www.thecrimson.com/article/2025/12/12/ai-bubble-harvard-experts-weigh-in/)**
+
+Three Harvard faculty said they think fears that an artificial intelligence bubble will burst — leading stock prices to collapse in the wake of soaring investments into AI companies — are overblown and a recession is unlikely.
+
+The Harvard Crimson • 17h ago
+
+---
+
+**[US tech stocks slide as fears over AI boom flare up](https://www.ft.com/content/8b9519df-9154-4eb5-ab3b-d3da0115b65e)**
+
+Chipmaker Broadcom tumbles 11.4% after financial forecast disappoints Wall Street
+
+Financial Times • 10h ago
+
+---
+
+**[Stocks to buy for 2026 as the AI trade comes under pressure](https://www.marketwatch.com/story/stocks-to-buy-for-2026-as-the-ai-trade-comes-under-pressure-23517d17?gaa_at=eafs&gaa_n=AWEtsqcD8lq5hjnhxbjAEB9nA3r27doBXDb0AQSWHV8UwPRUE52Cjmgyj4BJ&gaa_ts=693ccb27&gaa_sig=JF8_nts-CtO9izDa2-F3rDdpXrytDzUVep3gck5-Jr2MwTcUZ2EwSUPECKOjJ7wJnKoDj4dbooDxInz2QT9pug%3D%3D)**
+
+MarketWatch • 9h ago
+
+---
+
+**[AI-led tech slide extends into third day as Oracle, Broadcom fall](https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html)**
+
+AI-related names have made losses since Oracle's mixed results on Wednesday.
+
+CNBC • 16h ago
 
 ---
 
 **[Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543)**
 
-Politico • 12h ago
+Politico • 14h ago
 
 ---
 
-**[Oracle’s $300 Billion AI Bet Has Fast Become a Bubble Barometer](https://www.bloomberg.com/news/features/2025-12-12/oracle-s-300-billion-openai-deal-has-investors-worried-about-its-ai-spending)**
+**[E&E News: Arizona city rejects data center after AI lobbying push](https://subscriber.politicopro.com/article/eenews/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688328)**
 
-Bloomberg.com • 7h ago
+Former Sen. Kyrsten Sinema’s (I) intervention in a local rezoning effort sparked a fight over local control.
 
----
-
-**['We're not just going to want to be fed AI slop for 16 hours a day': Analyst sees Disney/OpenAI deal as a dividing line in entertainment history](https://fortune.com/2025/12/11/pre-post-ai-content-disney-openai-netflix-warner-slop-analysis-ark-invest/)**
-
-"​I think the reason this bidding is approaching $100 billion-plus is the content library and the potential to do a Disney-OpenAI type of deal."
-
-Fortune • 1d ago
-
----
-
-**[Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o)**
-
-The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
-
-BBC • 5h ago
+POLITICO Pro • 14h ago
 
 ---
 
@@ -191,7 +201,7 @@ BBC • 5h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 467 • 💬 274 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 469 • 💬 276 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -211,6 +221,14 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 ---
 
+**[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://news.ycombinator.com/item?id=46248644)**
+
+Update your apps to use new features, and test your apps against API changes.
+
+⬆️ 269 • 💬 139 • 5h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+
+---
+
 **[NYC congestion pricing cuts air pollution by a fifth in six months](https://news.ycombinator.com/item?id=46213504)**
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
@@ -219,19 +237,11 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 ---
 
-**[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://news.ycombinator.com/item?id=46248644)**
-
-Update your apps to use new features, and test your apps against API changes.
-
-⬆️ 166 • 💬 74 • 3h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
-
----
-
 **[Guarding My Git Forge Against AI Scrapers](https://news.ycombinator.com/item?id=46241849)**
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 150 • 💬 97 • 16h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 153 • 💬 101 • 18h ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -255,7 +265,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 87 • 💬 192 • 7h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 100 • 💬 213 • 9h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -263,7 +273,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 68 • 💬 107 • 3h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 71 • 💬 115 • 5h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -271,33 +281,13 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 ## YouTube Videos: "ai"
 
-**[Every Paid AI Video Generator of 2025 is Now FREE &amp; UNLIMITED (Sora 2 &amp; Veo 3)](https://www.youtube.com/watch?v=3yhAlEKvnLw)**
+**[#1 New Ai Video Generator of 2025 Just Destroyed VEO 3 &amp; Sora 2](https://www.youtube.com/watch?v=3yhAlEKvnLw)**
 
 FULL AI COURSE HERE https://brainprojectai.com/courses/launch-your-ai-influencer-empire/?v=66e10e9ff65e Start Printing ...
 
 📺 Brain Project
 
-👁️ 2K • 👍 187 • 💬 28 • ⏱️ 14:19 • 8h ago
-
----
-
-**[Google CEO RELEASES New AI that Can Start a One Person Business](https://www.youtube.com/watch?v=Q8bZ890Kz4U)**
-
-Google has made some big shifts in the AI space! ☆SIGN UP FOR MY NEWSLETTER TODAY:☆ ➡️ https://bit.ly/3QHV4wV ...
-
-📺 Success With Sam
-
-👁️ 23K • 👍 1K • 💬 39 • ⏱️ 19:09 • 1d ago
-
----
-
-**[AGI Just Became Real... It’s done!](https://www.youtube.com/watch?v=L8J3OSQfcT4)**
-
-A Tokyo startup just shocked the industry. Integral AI claims it built the first AGI-capable system — a model that learns new skills ...
-
-📺 AI Revolution
-
-👁️ 36K • 👍 2K • 💬 259 • ⏱️ 14:58 • 23h ago
+👁️ 3K • 👍 223 • 💬 31 • ⏱️ 14:19 • 10h ago
 
 ---
 
@@ -307,7 +297,27 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 355K • 👍 9K • 💬 1K • ⏱️ 13:43 • 1d ago
+👁️ 366K • 👍 9K • 💬 1K • ⏱️ 13:43 • 1d ago
+
+---
+
+**[AGI Just Became Real... It’s done!](https://www.youtube.com/watch?v=L8J3OSQfcT4)**
+
+A Tokyo startup just shocked the industry. Integral AI claims it built the first AGI-capable system — a model that learns new skills ...
+
+📺 AI Revolution
+
+👁️ 38K • 👍 2K • 💬 273 • ⏱️ 14:58 • 1d ago
+
+---
+
+**[“A Cow’s Prayer That Brought Dead Fish Back to Life”|#ai #shots #aigodhelps](https://www.youtube.com/watch?v=KpVOMse6bCg)**
+
+A Cow's Prayer That Brought Dead Fish Back to Life”|#ai #shots #godhelps #shotsfeed #ai #aistory #viral #shotstory #god ...
+
+📺 FIRE_BRAND_Ai🔥
+
+👁️ 6K • 💬 2 • ⏱️ 0:42 • 13h ago
 
 ---
 
@@ -317,17 +327,7 @@ Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillanc
 
 📺 Bloomberg Podcasts
 
-👁️ 47K • 👍 670 • 💬 131 • ⏱️ 10:31 • 1d ago
-
----
-
-**[OpenAI and Google Shocked by the First EVER Open Source AI Agent](https://www.youtube.com/watch?v=hMTdA8TAL1s)**
-
-Zhipu AI just dropped the first real open source AI agent, and the entire industry felt it instantly. GLM four point six V delivers native ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 2K • 💬 82 • ⏱️ 12:50 • 2d ago
+👁️ 49K • 👍 692 • 💬 141 • ⏱️ 10:31 • 1d ago
 
 ---
 
@@ -337,37 +337,47 @@ CNBC's MacKenzie Sigalos reports on OpenAI's GPT-5.2 AI model announcement. The 
 
 📺 CNBC Television
 
-👁️ 28K • 👍 239 • 💬 73 • ⏱️ 3:04 • 1d ago
+👁️ 29K • 👍 241 • 💬 74 • ⏱️ 3:04 • 1d ago
 
 ---
 
-**[FULL: President Trump signs executive orders on AI](https://www.youtube.com/watch?v=j4YeshDo_Qw)**
+**[When AI Gets an Innocent Man Arrested](https://www.youtube.com/watch?v=B9M4F_U1eEw)**
 
-President Trump signed executive orders on artificial intelligence and the economy in the Oval Office on Thursday. The White ...
+In today's body camera video, we're covering the arrest of Jason Killinger. We are a news agency dedicated to delivering factual ...
 
-📺 LiveNOW from FOX
+📺 EWU Bodycam
 
-👁️ 9K • 👍 156 • 💬 134 • ⏱️ 8:26 • 23h ago
-
----
-
-**[McDonald’s Pulls ‘Creepy’ AI Christmas ad After Viewer Backlash: ‘As Real as Their Hamburgers’](https://www.youtube.com/watch?v=HpWCvItr55c)**
-
-McDonald's has taken down a Christmas ad that was allegedly entirely produced with artificial intelligence after the brand was ...
-
-📺 New York Post
-
-👁️ 72K • 👍 446 • 💬 322 • ⏱️ 2:58 • 2d ago
+👁️ 1.3M • 👍 40K • 💬 24K • ⏱️ 17:08 • 1d ago
 
 ---
 
-**[Is This AI One-Wheel Superbike Really This Fast?](https://www.youtube.com/watch?v=4FFgknrAb2I)**
+**[Total Stagnation - The AI &quot;Nothing&quot; Products](https://www.youtube.com/watch?v=z-N0vxHOhmk)**
 
-In California, United States, in 2025, a young rider tests a groundbreaking AI One-Wheel Superbike on a private racetrack.
+Go to https://surfshark.com/echelon or use code ECHELON at checkout to get 4 extra months of Surfshark VPN! With OpenAI ...
 
-📺 AI Robot Lab
+📺 Upper Echelon
 
-👁️ 2.8M • 👍 13K • 💬 187 • ⏱️ 0:23 • 1d ago
+👁️ 88K • 👍 8K • 💬 2K • ⏱️ 14:59 • 2d ago
+
+---
+
+**[Why the AI Bubble Is Actually a $60T Black Hole](https://www.youtube.com/watch?v=21e5GZF3yx0)**
+
+Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------------- 🗞️ Sign up to our free newsletter to get smarter ...
+
+📺 GEN
+
+👁️ 19K • 👍 1K • 💬 251 • ⏱️ 22:33 • 7h ago
+
+---
+
+**[What happens if the AI bubble bursts? | 7.30](https://www.youtube.com/watch?v=8YAfm7o5yiI)**
+
+The soaring values of the big tech companies have sparked fears of an AI bubble one that could pop with damaging economic ...
+
+📺 ABC News In-depth
+
+👁️ 13K • 👍 143 • ⏱️ 6:01 • 15h ago
 
 ---
 
@@ -383,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 774 • 8h ago
+⬇️ 105,962 • ❤️ 777 • 10h ago
 
 ---
 
@@ -395,7 +405,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 257,048 • ❤️ 2,593 • 4d ago
+⬇️ 257,048 • ❤️ 2,598 • 4d ago
 
 ---
 
@@ -407,7 +417,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 33,217 • ❤️ 376 • 3d ago
+⬇️ 33,217 • ❤️ 378 • 3d ago
 
 ---
 
@@ -419,7 +429,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 293 • 14h ago
+⬇️ 10,352 • ❤️ 296 • 16h ago
 
 ---
 
@@ -431,7 +441,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 2,519 • ❤️ 281 • 3d ago
+⬇️ 2,519 • ❤️ 284 • 3d ago
 
 ---
 
@@ -443,7 +453,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 23,012 • ❤️ 252 • 3d ago
+⬇️ 23,012 • ❤️ 254 • 3d ago
 
 ---
 
@@ -455,7 +465,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 446,475 • ❤️ 227 • 4d ago
+⬇️ 446,475 • ❤️ 228 • 4d ago
 
 ---
 
@@ -467,7 +477,7 @@ LongCat-Image is a 6B parameter bilingual (Chinese-English) text-to-image genera
 
 `text-to-image`
 
-⬇️ 662 • ❤️ 191 • 15h ago
+⬇️ 662 • ❤️ 191 • 17h ago
 
 ---
 
@@ -491,7 +501,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 2,971 • ❤️ 170 • 14h ago
+⬇️ 2,971 • ❤️ 170 • 16h ago
 
 ---
 
@@ -507,7 +517,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 128 • 💬 6 • ⭐ 17,530 • 3mo ago
+▲ 128 • 💬 6 • ⭐ 17,590 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -555,20 +565,6 @@ Wan-Move enhances motion control in video generative models by integrating motio
 
 ---
 
-**[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677)**
-
-*Yubo Huang, Hailong Guo, Fangtai Wu et al. (11 authors)*
-
-🏢 Quark
-
-Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
-
-▲ 166 • 💬 4 • ⭐ 917 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
-
----
-
 **[Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform](https://huggingface.co/papers/2512.08478)**
 
 *Yuning Gong, Yifei Liu, Yifan Zhan et al. (24 authors)*
@@ -581,13 +577,27 @@ Visionary is an open web-native platform enabling real-time rendering of 3D Gaus
 
 ---
 
+**[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677)**
+
+*Yubo Huang, Hailong Guo, Fangtai Wu et al. (11 authors)*
+
+🏢 Quark
+
+Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
+
+▲ 166 • 💬 4 • ⭐ 923 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
+
+---
+
 **[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
 
 *Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 18 • 💬 2 • ⭐ 11,887 • 4d ago
+▲ 18 • 💬 2 • ⭐ 11,908 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -601,21 +611,9 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 109 • 💬 4 • ⭐ 5,720 • 22d ago
+▲ 109 • 💬 4 • ⭐ 5,733 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
-
----
-
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 24 • 💬 0 • ⭐ 25,862 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -631,6 +629,18 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 24 • 💬 0 • ⭐ 25,873 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -641,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 12.3k • 🔱 1.9k • 6h ago
+⭐ 12.4k • 🔱 2.0k • 8h ago
 
 ---
 
@@ -651,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.3k • 🔱 262 • 17h ago
+⭐ 2.3k • 🔱 265 • 19h ago
 
 ---
 
@@ -691,7 +701,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 134 • 17h ago
+⭐ 1.1k • 🔱 134 • 19h ago
 
 ---
 
@@ -701,7 +711,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 944 • 🔱 64 • 3d ago
+⭐ 944 • 🔱 65 • 3d ago
 
 ---
 
@@ -711,7 +721,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 881 • 🔱 22 • 5d ago
+⭐ 883 • 🔱 22 • 5d ago
 
 ---
 
@@ -731,7 +741,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 654 • 🔱 95 • 14h ago
+⭐ 657 • 🔱 95 • 16h ago
 
 ---
 
