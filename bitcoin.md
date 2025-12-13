@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T11:33:53.265625+00:00'
+updated: '2025-12-13T11:45:09.851357+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 11:33 UTC  
+**Last Updated:** December 13, 2025 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +0.0%  
-**30d:** -4.5%  
-**90d:** -21.5%  
-**1y:** -10.8%  
+**24h:** -2.2%  
+**7d:** -0.0%  
+**30d:** -4.6%  
+**90d:** -21.6%  
+**1y:** -10.9%  
 
 ---
 
@@ -101,7 +101,7 @@ This will age well in 10 years. See you then.
 
 Any thoughts on what is causing it?
 
-12h ago
+13h ago
 
 ---
 
@@ -113,7 +113,7 @@ Any thoughts on what is causing it?
 
 **[The anticipation](https://www.reddit.com/r/Bitcoin/comments/1plhlog/the_anticipation/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ I've been quietly stacking bitcoin for almost four years now and it blows my min
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-41m ago
+52m ago
 
 ---
 
@@ -157,7 +157,7 @@ Reuters • 9h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -197,7 +197,7 @@ Decrypt • 13h ago
 
 Bitcoin may be down this year, but price targets for next year are off the charts.
 
-The Motley Fool • 48m ago
+The Motley Fool • 1h ago
 
 ---
 
