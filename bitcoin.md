@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T08:21:46.164644+00:00'
+updated: '2025-12-13T08:43:51.725783+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 08:21 UTC  
+**Last Updated:** December 13, 2025 at 08:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +0.1%  
-**30d:** -4.5%  
-**90d:** -21.5%  
-**1y:** -10.8%  
+**24h:** -2.3%  
+**7d:** -0.0%  
+**30d:** -4.6%  
+**90d:** -21.6%  
+**1y:** -10.9%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I've been quietly stacking bitcoin for almost four years now and it blows my mind what being able to save my money has done for my mind and sanity. My grandfather was the last man in my family that had a strong economy to work with. My dad grew up probably assuming things would stay as affordable as they were in the sixties. That turned out to not be true. He passed away in 2020 and I started buying Bitcoin in 2022. I was on track to going nowhere fast but now things are looking up. My plan is to just chill and stack for the next 2 to 3 decades and then retire. All thanks to Bitcoin.
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ I've been quietly stacking bitcoin for almost four years now and it blows my min
 
 Any thoughts on what is causing it?
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ Any thoughts on what is causing it?
 
 **[Stack sats and stack knowledges](https://www.reddit.com/r/Bitcoin/comments/1plbc7j/stack_sats_and_stack_knowledges/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bitcoin Magazine • 1d ago
 
 Bitcoin (CRYPTO: BTC) returned to the center of Wall Street's credibility debate after a senior Vanguard executive dismissed the asset as a speculative "digital toy." Vanguard Executive Doubles Down On Bitcoin Skepticism Vanguard Group Global Head of Quantitative Equity John Ameriks said Bitcoin lacks the income, compounding, and cash-flow characteristics the firm seeks in long-term investments. Speaking at Bloomberg's ETFs in Depth conference in New York on Thursday, Ameriks compared Bitcoin to
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -181,7 +181,7 @@ Reuters • 6h ago
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 

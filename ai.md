@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T08:21:46.156219+00:00'
+updated: '2025-12-13T08:43:51.717393+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 08:21 UTC  
+**Last Updated:** December 13, 2025 at 08:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 11h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Lifting export controls on Nvidia’s second-best chip jeopardizes America’s A
 
 The world's smallest AI supercomputer packs enough power to run 120 billion parameter models in a device small enough to slip into your pocket. Tiiny AI’s Pocket Lab pushes server-grade capabilities into a handheld form factor aimed at researchers, tinkerers, and everyday users.
 
-🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 1h ago
+🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 2h ago
 
 ---
 
@@ -111,7 +111,7 @@ I’ve been working with multiple LLMs in long, sustained interactions, hundreds
 
 Reducto provides high-quality document ingestion for AI teams by accurately parsing complex documents like PDFs, Excel spreadsheets, and PowerPoint slides. Get started for free.
 
-🔗 [reducto.ai](https://reducto.ai/blog/reducto-chart-extraction) • 29m ago
+🔗 [reducto.ai](https://reducto.ai/blog/reducto-chart-extraction) • 51m ago
 
 ---
 
@@ -139,7 +139,7 @@ Time Magazine • 1d ago
 
 With AI image and video generators, it's become easier than ever to create hyper-realistic clips of almost anything. Today, we're looking at the landscape of AI influencers that depict Black people in various ways, from the mildly stereotypical to the ultra-demeaning. And we're talking to writer Zeba Blay about why she thinks these types of videos can erode the our society's ability to take the problems of IRL, human Black people seriously.
 
-NPR • 21m ago
+NPR • 43m ago
 
 ---
 
@@ -153,7 +153,7 @@ The Washington Post • 13h ago
 
 AI-related names have made losses since Oracle's mixed results on Wednesday.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -189,7 +189,7 @@ Politico • 21h ago
 
 The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
 
-The New Yorker • 20h ago
+The New Yorker • 21h ago
 
 ---
 
@@ -209,7 +209,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 372 • 💬 200 • 11h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 372 • 💬 200 • 12h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -257,7 +257,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 111 • 💬 220 • 15h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 111 • 💬 220 • 16h ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -265,7 +265,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 76 • 💬 119 • 11h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 76 • 💬 119 • 12h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -391,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 105,962 • ❤️ 785 • 16h ago
+⬇️ 105,962 • ❤️ 785 • 17h ago
 
 ---
 
@@ -427,7 +427,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 10,352 • ❤️ 303 • 22h ago
+⬇️ 10,352 • ❤️ 303 • 23h ago
 
 ---
 
@@ -499,7 +499,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 2,971 • ❤️ 175 • 22h ago
+⬇️ 2,971 • ❤️ 175 • 23h ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 12.9k • 🔱 2.0k • 3h ago
+⭐ 12.9k • 🔱 2.0k • 4h ago
 
 ---
 

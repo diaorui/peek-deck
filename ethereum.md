@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T08:21:46.170742+00:00'
+updated: '2025-12-13T08:43:51.731781+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 08:21 UTC  
+**Last Updated:** December 13, 2025 at 08:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,087.04
+### $3,127.18
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** +1.9%  
-**30d:** +0.5%  
-**90d:** -30.9%  
-**1y:** -19.4%  
+**24h:** -4.5%  
+**7d:** +1.6%  
+**30d:** +0.2%  
+**90d:** -31.2%  
+**1y:** -19.6%  
 
 ---
 
@@ -104,7 +104,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 12h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 13h ago
 
 ---
 
@@ -208,7 +208,7 @@ CryptoSlate • 1d ago
 
 As Ethereum (CRYPTO: ETH) dropped almost 5% on Friday, a new research suggests the network&#8217;s long-term valuation may potentially grow
 
-Benzinga • 13h ago
+Benzinga • 14h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 429 • 💬 14 • ⏱️ 48:44 • 15h ago
+👁️ 6K • 👍 429 • 💬 14 • ⏱️ 48:44 • 16h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN & ALTCOINS: This Will Get UGLY (if it breaks)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 5K • 👍 275 • 💬 54 • ⏱️ 18:06 • 9h ago
+👁️ 5K • 👍 275 • 💬 54 • ⏱️ 18:06 • 10h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 18h ago
+👁️ 3K • 👍 140 • 💬 9 • ⏱️ 5:04 • 19h ago
 
 ---
 
