@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T18:33:23.158353+00:00'
+updated: '2025-12-13T18:51:24.982237+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 18:33 UTC  
+**Last Updated:** December 13, 2025 at 18:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -51,7 +51,7 @@ AI news, discussions, and developments
 
 **[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
 
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 6h ago
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 7h ago
 
 ---
 
@@ -99,7 +99,7 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 I’m building an app, and don’t want to get saddled with crazy inference costs. It got me thinking, are consumers going to eventually have tastes for their own preferred models to the point that they’ll pay premiums for what they want or even bring their own API keys?
 
-48m ago
+1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Axios • 5h ago
 
 Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -201,7 +201,7 @@ Business Insider • 23h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 502 • 💬 257 • 21h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 502 • 💬 257 • 22h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -255,7 +255,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 58 • 💬 49 • 2h ago
+⬆️ 58 • 💬 49 • 3h ago
 
 ---
 
@@ -720,7 +720,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 887 • 🔱 23 • 5d ago
+⭐ 887 • 🔱 23 • 6d ago
 
 ---
 

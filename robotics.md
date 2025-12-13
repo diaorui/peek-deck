@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T18:33:23.176203+00:00'
+updated: '2025-12-13T18:51:24.997570+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 18:33 UTC  
+**Last Updated:** December 13, 2025 at 18:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ Zebra Technologies is looking to sell its autonomous mobile robot group or will 
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 7m ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 25m ago
 
 ---
 
@@ -82,7 +82,7 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/transitiverobotics/transact) • 8m ago
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 26m ago
 
 ---
 
@@ -98,7 +98,7 @@ Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon 
 
 Hello guys. I’m a mechanical engineering student and i’m mostly involved in aviation applications until now. My mum had cancer in 2012 and now I’m a bit curious about some engineering approaches to cancer. I’ve seen some researchers used micro robots to deliver drugs to tumor. Can you enlighten me about this, how future looks like on this matter?
 
-2h ago
+3h ago
 
 ---
 
@@ -186,7 +186,7 @@ Chron • 3d ago
 
 About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
 
-Nasdaq • 21h ago
+Nasdaq • 22h ago
 
 ---
 

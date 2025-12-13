@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T18:33:23.166864+00:00'
+updated: '2025-12-13T18:51:24.989641+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 18:33 UTC  
+**Last Updated:** December 13, 2025 at 18:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.5%  
-**30d:** -5.0%  
-**90d:** -21.9%  
-**1y:** -11.3%  
+**24h:** +0.2%  
+**7d:** -0.2%  
+**30d:** -4.7%  
+**90d:** -21.7%  
+**1y:** -11.0%  
 
 ---
 
@@ -109,7 +109,7 @@ This will age well in 10 years. See you then.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 Any thoughts on what is causing it?
 
-19h ago
+20h ago
 
 ---
 
@@ -207,7 +207,7 @@ Investor's Business Daily • 1d ago
 
 Bitcoin may be down this year, but price targets for next year are off the charts.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
