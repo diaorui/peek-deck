@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T17:56:50.615996+00:00'
+updated: '2025-12-13T18:33:23.172906+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 17:56 UTC  
+**Last Updated:** December 13, 2025 at 18:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +1.4%  
-**30d:** -0.0%  
+**24h:** +1.0%  
+**7d:** +1.5%  
+**30d:** +0.0%  
 **90d:** -31.3%  
-**1y:** -19.8%  
+**1y:** -19.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.03B
+**Market Cap:** $375.08B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.4%
+-37.2%
 
 **All-Time Low:** $0.43
-+715271.9%
++717336.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 22h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 23h ago
 
 ---
 
@@ -152,27 +152,11 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 ## Google News: "ethereum"
 
-**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
-
-Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
-
-CoinDesk • 1d ago
-
----
-
 **[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 21h ago
-
----
-
-**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
-
-The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
-
-Yahoo Finance • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -184,17 +168,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Arthur Hayes Makes Wild Ethereum Prediction for 2026 and Beyond](https://finance.yahoo.com/news/arthur-hayes-makes-wild-ethereum-185705661.html)**
-
-Arthur Hayes reveals how Ethereum could hit $20,000 and why 50 ETH may be enough to become a millionaire by the next election.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
 Binance • 1d ago
+
+---
+
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
+
+Sentiment around Ethereum has been bouncing around considerably in recent days.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -202,13 +186,7 @@ Binance • 1d ago
 
 XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView • 11h ago
-
----
-
-**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
-
-The Block • 2d ago
+TradingView • 12h ago
 
 ---
 
@@ -225,6 +203,28 @@ The Motley Fool • 1d ago
 BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
 
 CryptoSlate • 2d ago
+
+---
+
+**[Ethereum Network Can Grow To A $20 Trillion Valuation By 2035, Researcher Claims](https://www.benzinga.com/crypto/cryptocurrency/25/12/49370689/ethereum-network-can-grow-to-a-20-trillion-valuation-by-2035-researcher-claims)**
+
+As Ethereum (CRYPTO: ETH) dropped almost 5% on Friday, a new research suggests the network&#8217;s long-term valuation may potentially grow
+
+Benzinga • 23h ago
+
+---
+
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqeM6a-25Tja2B5h0evLKKRf5voZtQUVnQ17dPRT0hUT5-xFUBbL0VJ9&gaa_ts=693db4e2&gaa_sig=SQhTKP0ADuXgbf9iyeGCBQymSx_-dR5mP-No_LcAx453gBMLhono9Wiy4ekn8eAQ6LE8B4FLTnc-5iHyTtWUqg%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Tom Lee’s BitMine Adds $112M in Ethereum, Calls Bottom at $2,500](https://finance.yahoo.com/news/tom-lee-bitmine-adds-112m-132425778.html)**
+
+Ethereum-focused treasury company BitMine received 33,504 ETH worth $112 million from institutional trading desk FalconX, according to on-chain intelligence firm EmberCN.The purchase extends the firm’s aggressive accumulation strategy as chairman Tom Lee declared Ethereum has likely bottomed and projected the asset could reach $7,000 by early 2026.The transaction pushes BitMine’s ...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -308,7 +308,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Guitar Repair@StringTech
 
-👁️ 6K • 👍 4K • 8h ago
+👁️ 6K • 👍 4K • 9h ago
 
 ---
 

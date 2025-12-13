@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T17:56:50.619249+00:00'
+updated: '2025-12-13T18:33:23.176203+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 17:56 UTC  
+**Last Updated:** December 13, 2025 at 18:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 I just started working here and on friday afternoon the software crashed or to the screen in the picture, im scareed shitles. How do i get the software back The robot is KUKa KR150 i think
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,23 @@ I just started working here and on friday afternoon the software crashed or to t
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 5h ago
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 6h ago
+
+---
+
+**[Why humanoid robots aren’t ready for the real world yet.](https://www.reddit.com/r/robotics/comments/1pls9at/why_humanoid_robots_arent_ready_for_the_real/)**
+
+General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 7m ago
+
+---
+
+**[GitHub - transitiverobotics/transact: An Open-source Robot Fleet Management Dashboard](https://www.reddit.com/r/robotics/comments/1pls89a/github_transitiveroboticstransact_an_opensource/)**
+
+An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
+
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 8m ago
 
 ---
 
@@ -74,7 +90,7 @@ Zebra Technologies is looking to sell its autonomous mobile robot group or will 
 
 Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon weekend — open to anyone who loves robots, ROS, automation, hardware, or just tinkering with cool tech. 📅 18–19 Dec ⏰ 7:30–9 PM 📍 Shivajinagar, Pune Very chill meetup: talk, share ideas, network, show what you're working on — all are welcome (even if you're not attending ROSCon). If you're interested, sign up here: 👉 https://forms.gle/EQ8MkikLLtnixcno9 Would love to know what topics you'd want to chat about!
 
-3h ago
+4h ago
 
 ---
 
@@ -92,31 +108,9 @@ Hello guys. I’m a mechanical engineering student and i’m mostly involved in 
 
 ---
 
-**[Deep dive inside the first production electric robot - 1979 Unimate PUMA 260 - and controller](https://www.reddit.com/r/robotics/comments/1pld2j8/deep_dive_inside_the_first_production_electric/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=LBMvbs8e8U0) • 13h ago
-
----
-
-**[A real dog runs into a robot dog](https://www.reddit.com/r/robotics/comments/1pklrv8/a_real_dog_runs_into_a_robot_dog/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
-
-Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
-
-IEEE Spectrum • 3d ago
-
----
 
 **[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
 
@@ -134,11 +128,19 @@ AP News • 19h ago
 
 ---
 
-**[Humanoid Summit showcases rapid advancements in robots, new tools](https://www.whio.com/news/humanoid-summit-showcases-rapid-advancements-robots-new-tools/c388e07f-7e3e-4df9-848c-528e775bcefa/)**
+**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
 
-The summit aims to continue growing and fostering a better region through robotics.
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
 
-WHIO TV • 2h ago
+AP News • 20h ago
+
+---
+
+**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
+
+Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
+
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -150,11 +152,11 @@ NVIDIA Developer • 2d ago
 
 ---
 
-**[10X Gains? These 3 Robotics Stocks Could Explode by 2035](https://finance.yahoo.com/news/10x-gains-3-robotics-stocks-224600231.html)**
+**[AI goes physical: Navigating the convergence of AI and robotics](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html)**
 
-Engineering expert Kuran outlines why Symbotic, Alphabet, and Hyundai are top robotics stocks for AI, automation and industrial growth.
+Powered by artificial intelligence, traditional robots are becoming adaptive machines that can operate in and learn from complex environments, unlocking safety and precision gains
 
-Yahoo Finance • 3d ago
+Deloitte • 3d ago
 
 ---
 
@@ -162,13 +164,7 @@ Yahoo Finance • 3d ago
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 6h ago
-
----
-
-**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
-
-Chron • 3d ago
+Scientific American • 7h ago
 
 ---
 
@@ -176,7 +172,13 @@ Chron • 3d ago
 
 Teradyne Robotics plans to open its U.S. headquarters near Detroit in 2026 to boost manufacturing for UR and MiR and better serve customers.
 
-The Robot Report • 22h ago
+The Robot Report • 23h ago
+
+---
+
+**[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
+
+Chron • 3d ago
 
 ---
 
@@ -238,7 +240,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 7K • 👍 55 • 💬 19 • ⏱️ 1:26 • 19h ago
+👁️ 7K • 👍 55 • 💬 19 • ⏱️ 1:26 • 20h ago
 
 ---
 

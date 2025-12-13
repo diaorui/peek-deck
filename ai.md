@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T17:56:50.601469+00:00'
+updated: '2025-12-13T18:33:23.158353+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- social
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 17:56 UTC  
+**Last Updated:** December 13, 2025 at 18:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,13 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 2h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 3h ago
 
 ---
 
@@ -59,7 +59,7 @@ AI news, discussions, and developments
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 1h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 2h ago
 
 ---
 
@@ -75,7 +75,7 @@ Snippet: Across the country, a small but growing number of educators are experim
 
 I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
 
-2h ago
+3h ago
 
 ---
 
@@ -83,7 +83,7 @@ I keep seeing tools that generate beautiful code and then fall apart when anythi
 
 Lifting export controls on Nvidia’s second-best chip jeopardizes America’s AI advantage over China.
 
-🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 21h ago
+🔗 [The Atlantic](https://www.theatlantic.com/economy/2025/12/trumps-china-ai-chips/685235/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 22h ago
 
 ---
 
@@ -95,19 +95,19 @@ An AI agent hacked Stanford's network for 16 hours and outperformed human pros, 
 
 ---
 
+**[Ai Models: will regular consumers pivot to have brand preferences?](https://www.reddit.com/r/artificial/comments/1plr9j5/ai_models_will_regular_consumers_pivot_to_have/)**
+
+I’m building an app, and don’t want to get saddled with crazy inference costs. It got me thinking, are consumers going to eventually have tastes for their own preferred models to the point that they’ll pay premiums for what they want or even bring their own API keys?
+
+48m ago
+
+---
+
 **[Creative workers won't be replaced by AI, they will become 'directors' managing AI agents | Fortune](https://www.reddit.com/r/artificial/comments/1pl4u1n/creative_workers_wont_be_replaced_by_ai_they_will/)**
 
 AI agents are taking over some routine creative tasks, but executives say the shift will transform workers into "directors" who delegate to AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 19h ago
-
----
-
-**[The world’s smallest AI supercomputer: Tiiny Ai Pocket Lab — size of a power bank](https://www.reddit.com/r/artificial/comments/1pleuqm/the_worlds_smallest_ai_supercomputer_tiiny_ai/)**
-
-The world's smallest AI supercomputer packs enough power to run 120 billion parameter models in a device small enough to slip into your pocket. Tiiny AI’s Pocket Lab pushes server-grade capabilities into a handheld form factor aimed at researchers, tinkerers, and everyday users.
-
-🔗 [Digital Trends](https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/) • 11h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/creative-work-ai-agents-automation-salesforce-autodesk-accenture-brainstorm-ai/) • 20h ago
 
 ---
 
@@ -115,41 +115,19 @@ The world's smallest AI supercomputer packs enough power to run 120 billion para
 
 ## Google News: "ai"
 
-**[Trump tech adviser David Sacks under fire over vast AI investments](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts)**
-
-Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
-
-NPR • 7h ago
-
----
-
-**[Oracle’s collapsing stock shows the AI boom is running into two hard limits: physics and debt markets](https://fortune.com/2025/12/13/oracle-stock-collapse-ai-boom-debt-data-centers-delayed/)**
-
-“The world of bits moves fast. The world of atoms doesn’t. And data centers are where those two worlds collide.”
-
-Fortune • 7h ago
-
----
-
-**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
-
-Axios • 4h ago
-
----
-
-**[Could America win the AI race but lose the war?](https://www.ft.com/content/12581344-6e37-45a0-a9d5-e3d6a9f8d9ba)**
-
-The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
-
-Financial Times • 12h ago
-
----
-
 **[Trump cites Colorado in new executive order banning states from creating ‘cumbersome’ AI laws](https://www.cpr.org/2025/12/12/trump-artificial-intelligence-executive-order/)**
 
 Colorado's state law, passed in 2024, seeks to prevent discrimination in the AI systems that businesses and governments use in making key decisions, such as hiring, education and banking.
 
-Colorado Public Radio • 23h ago
+Colorado Public Radio • 1d ago
+
+---
+
+**[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
+
+What if the best use of AI is restarting the world’s idea machine?
+
+Vox • 5h ago
 
 ---
 
@@ -157,23 +135,37 @@ Colorado Public Radio • 23h ago
 
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
 
-NBC News • 7h ago
+NBC News • 8h ago
 
 ---
 
-**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
+**[Could America win the AI race but lose the war?](https://www.ft.com/content/12581344-6e37-45a0-a9d5-e3d6a9f8d9ba)**
 
-California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
+The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
 
-The Guardian • 2h ago
+Financial Times • 13h ago
 
 ---
 
-**[When your AI boyfriend gets you better than your spouse](https://www.vox.com/podcasts/471982/chatgpt-boyfriend-love-dating-ai)**
+**[Oracle’s collapsing stock shows the AI boom is running into two hard limits: physics and debt markets](https://fortune.com/2025/12/13/oracle-stock-collapse-ai-boom-debt-data-centers-delayed/)**
 
-﻿Love, actually…is a chatbot?
+“The world of bits moves fast. The world of atoms doesn’t. And data centers are where those two worlds collide.”
 
-Vox • 5h ago
+Fortune • 8h ago
+
+---
+
+**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
+
+Axios • 5h ago
+
+---
+
+**[I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely.](https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12)**
+
+Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
+
+Business Insider • 7h ago
 
 ---
 
@@ -181,13 +173,23 @@ Vox • 5h ago
 
 The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
-**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+**[Amazon pulls its bad AI video recaps after Fallout fallout](https://www.engadget.com/entertainment/streaming/amazon-pulls-its-bad-ai-video-recaps-after-fallout-fallout-220358758.html)**
 
-The New York Times • 1d ago
+Amazon removed AI-generated video recaps it was testing in Prime Video after viewers noticed errors.
+
+Engadget • 20h ago
+
+---
+
+**[Amazon Prime Video scraps AI-powered TV show recap after 'Fallout' fallout](https://www.businessinsider.com/fallout-amazon-tv-show-ai-video-recaps-errors-2025-12)**
+
+Almost a month after Prime Video launched AI-powered Video Recaps, viewers said it shared incorrect plot details about season one of "Fallout."
+
+Business Insider • 23h ago
 
 ---
 
@@ -199,7 +201,7 @@ The New York Times • 1d ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 495 • 💬 244 • 21h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 502 • 💬 257 • 21h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -207,7 +209,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 485 • 💬 283 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 486 • 💬 283 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -231,7 +233,7 @@ A summary of the techniques in place to protect my git forge
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 120 • 💬 237 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 121 • 💬 237 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -247,7 +249,13 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 80 • 💬 125 • 21h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 80 • 💬 125 • 22h ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+
+---
+
+**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
+
+⬆️ 58 • 💬 49 • 2h ago
 
 ---
 
@@ -255,7 +263,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 46 • 💬 61 • 4h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 47 • 💬 63 • 5h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -264,14 +272,6 @@ The White House has promised to quadruple nuclear power by 2050.
 The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
 
 ⬆️ 42 • 💬 5 • 1d ago • [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)
-
----
-
-**[Amazon pulls AI-powered Fallout recap after getting key story details wrong](https://news.ycombinator.com/item?id=46246921)**
-
-Amazon has pulled its AI-powered Fallout Season 1 recap after fans noticed it made significant errors ahead of the launch of Season 2.
-
-⬆️ 39 • 💬 9 • 23h ago • [IGN](https://www.ign.com/articles/everyone-disliked-that-amazon-pulls-ai-powered-fallout-recap-after-getting-key-story-details-wrong)
 
 ---
 
@@ -285,7 +285,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 256K • 👍 12K • 💬 687 • ⏱️ 4:01 • 19h ago
+👁️ 256K • 👍 12K • 💬 687 • ⏱️ 4:01 • 20h ago
 
 ---
 
@@ -315,7 +315,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 35K • 👍 1K • 💬 145 • ⏱️ 1:21:07 • 5h ago
+👁️ 35K • 👍 1K • 💬 145 • ⏱️ 1:21:07 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 32K • 👍 1K • 💬 212 • ⏱️ 15:01 • 17h ago
+👁️ 32K • 👍 1K • 💬 212 • ⏱️ 15:01 • 18h ago
 
 ---
 
@@ -355,7 +355,7 @@ Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------
 
 📺 GEN
 
-👁️ 32K • 👍 2K • 💬 360 • ⏱️ 22:33 • 23h ago
+👁️ 32K • 👍 2K • 💬 360 • ⏱️ 22:33 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,633 • 5d ago
+⬇️ 268,534 • ❤️ 2,634 • 5d ago
 
 ---
 
@@ -415,7 +415,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 54,050 • ❤️ 387 • 3d ago
+⬇️ 54,050 • ❤️ 387 • 4d ago
 
 ---
 
@@ -427,7 +427,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 13,668 • ❤️ 309 • 1d ago
+⬇️ 13,668 • ❤️ 310 • 1d ago
 
 ---
 
@@ -451,7 +451,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 31,499 • ❤️ 261 • 4d ago
+⬇️ 31,499 • ❤️ 262 • 4d ago
 
 ---
 
@@ -515,7 +515,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 128 • 💬 6 • ⭐ 17,641 • 3mo ago
+▲ 128 • 💬 6 • ⭐ 17,695 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.6k • 🔱 2.1k • 13h ago
+⭐ 13.6k • 🔱 2.1k • 14h ago
 
 ---
 
@@ -660,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.5k • 🔱 282 • 1h ago
+⭐ 2.5k • 🔱 283 • 2h ago
 
 ---
 
@@ -690,7 +690,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 133 • 1d ago
+⭐ 1.1k • 🔱 134 • 1d ago
 
 ---
 
@@ -710,7 +710,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 947 • 🔱 66 • 4d ago
+⭐ 948 • 🔱 66 • 4d ago
 
 ---
 
@@ -720,7 +720,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 886 • 🔱 23 • 5d ago
+⭐ 887 • 🔱 23 • 5d ago
 
 ---
 
@@ -734,13 +734,13 @@ Open Source Semantic Search for your AI Agent
 
 ---
 
-**[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
+**[firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)**
 
-一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
+  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. 
 
-`JavaScript`
+`TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 673 • 🔱 97 • 1d ago
+⭐ 674 • 🔱 97 • 4d ago
 
 ---
 
