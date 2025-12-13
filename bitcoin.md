@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T23:00:30.891714+00:00'
+updated: '2025-12-13T23:26:57.728232+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 23:00 UTC  
+**Last Updated:** December 13, 2025 at 23:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,072.35
+### $90,195.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
+**24h:** +0.0%  
 **7d:** -0.2%  
-**30d:** -4.7%  
+**30d:** -4.8%  
 **90d:** -21.7%  
-**1y:** -11.0%  
+**1y:** -11.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1798.61B
+**Market Cap:** $1800.57B
 Rank #1
 
-**Circulating Supply:** 19,961,771 BTC
+**Circulating Supply:** 19,961,790 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.5%
 
 **All-Time Low:** $67.81
-+132898.1%
++132920.2%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-2h ago
-
----
-
-**[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
-
-12h ago
+3h ago
 
 ---
 
@@ -99,7 +93,7 @@ Rank #1
 
 Yes. Yes we are.
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +107,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -125,7 +119,13 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-18h ago
+19h ago
+
+---
+
+**[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
+
+12h ago
 
 ---
 
@@ -133,7 +133,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid improvements to UI, security, and portfolio management. Some highlights of this release: Added 2FA Support for BTC transfers (not just buy/sell) Fixed and improved DB migrations Updated Next.js to address a critical security vulnerability I haven’t posted in a while, but during that time — driven by community requests — I added several bigger features, including: DCA calculator with goal tracking Auto DCA setup Portfolio analysis A dynamic dashboard with customizable widgets (and more) Along the way, I also revamped the UI (mobile still needs some polish), added theme presets, and cleaned things up overall. You can try it on Umbrel, run it with Docker, or install it standalone via npm. Repo: https://github.com/wilqq-the/BTC-Tracker Umbrel app: https://apps.umbrel.com/app/btctracker Feedback and ideas are always welcome — we’re slowly building this together 🙏 Discord: https://discord.gg/WyxSZv3a
 
-5h ago
+6h ago
 
 ---
 
@@ -153,7 +153,7 @@ I’m just curious how everyone is doing financially here on the bitcoin sub. I 
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -169,6 +169,20 @@ Investor's Business Daily • 21h ago
 
 ---
 
+**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
+
+Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
+
+CoinDesk • 6h ago
+
+---
+
+**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://finance.yahoo.com/news/vanguard-exec-calls-bitcoin-digital-215932676.html)**
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
@@ -177,39 +191,15 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
+**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
 
-Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
-
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
-
-Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Brazil’s Largest Private Bank Advises 3% Bitcoin Allocation For Clients](https://finance.yahoo.com/news/brazil-largest-private-bank-advises-210131274.html)**
-
-Brazil's top bank Itaú Unibanco has advised clients to allocate up to 3% of their portfolios to Bitcoin by 2026.
-
-Yahoo Finance • 1h ago
+Investor's Business Daily • 1d ago
 
 ---
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
 x.com • 3h ago
-
----
-
-**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
-
-Investor's Business Daily • 1d ago
 
 ---
 
@@ -221,6 +211,14 @@ Forbes • 1d ago
 
 ---
 
+**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
+
+Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
+
+CoinDesk • 4h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -229,7 +227,7 @@ Forbes • 1d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 5h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 6h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -283,7 +281,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 2d ago
+⬆️ 2 • 💬 0 • 3d ago
 
 ---
 
@@ -321,7 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • 💬 24 • ⏱️ 48:39 • 8h ago
+👁️ 25K • 👍 1K • 💬 24 • ⏱️ 48:39 • 9h ago
 
 ---
 
@@ -391,7 +389,7 @@ Join BroFi VIP ⁣ https://enter.brofi.com/ytdesc X: https://x.com/samiloyal_ �
 
 📺 Forflies
 
-👁️ 296 • 👍 41 • 💬 96 • ⏱️ 19:45 • 2h ago
+👁️ 296 • 👍 41 • 💬 96 • ⏱️ 19:45 • 3h ago
 
 ---
 
@@ -401,7 +399,7 @@ Join our FREE Crypto Telegram https://t.me/CryptoCacheTrading & Discord https://
 
 📺 CryptoCache
 
-👁️ 1K • 👍 134 • 💬 21 • ⏱️ 18:10 • 5h ago
+👁️ 1K • 👍 134 • 💬 21 • ⏱️ 18:10 • 6h ago
 
 ---
 

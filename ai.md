@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T23:00:30.883344+00:00'
+updated: '2025-12-13T23:26:57.719621+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
-- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 23:00 UTC  
+**Last Updated:** December 13, 2025 at 23:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,6 +49,12 @@ AI news, discussions, and developments
 
 ---
 
+**[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
+
+1h ago
+
+---
+
 **[My 8 year old son created his first game with Google Gemini](https://www.reddit.com/r/artificial/comments/1plskoq/my_8_year_old_son_created_his_first_game_with/)**
 
 My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
@@ -63,17 +69,11 @@ My 8 year old son has just vibe coded his first video game with the help of Goog
 
 ---
 
-**[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
-
-40m ago
-
----
-
 **[21yo ai founder drops paper on debugging-only llm ... real innovation or just solid PR?](https://www.reddit.com/r/artificial/comments/1plnm7p/21yo_ai_founder_drops_paper_on_debuggingonly_llm/)**
 
 I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
 
-7h ago
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ I keep seeing tools that generate beautiful code and then fall apart when anythi
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 6h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 7h ago
 
 ---
 
@@ -119,11 +119,41 @@ The New York Times • 1d ago
 
 ---
 
-**[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
+**[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
 
-A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
+California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-NBC News • 12h ago
+BBC • 1d ago
+
+---
+
+**[Trump tech adviser David Sacks under fire over vast AI investments](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts)**
+
+Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
+
+NPR • 13h ago
+
+---
+
+**[Purdue University Approves New AI Requirement For All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)**
+
+Forbes • 11h ago
+
+---
+
+**[Did Energy Transfer’s AI-Focused LNG and Pipeline Push Just Shift ET’s Investment Narrative?](https://finance.yahoo.com/news/did-energy-transfer-ai-focused-210845617.html)**
+
+On December 8, 2025, Energy Transfer LP presented at the Energy LIVE Conference in Houston, where VP Amy Chen Davis highlighted the Lake Charles LNG project and the company's growing role in supplying gas infrastructure for AI-related power demand. The presentation underscored how Energy Transfer’s expanding project backlog, including AI-linked infrastructure and its emerging flagship Hugh Brinson Pipeline, could enhance visibility and durability of future fee-based cash flows. We’ll now...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Nvidia's AI Dominance Is Still Building. Could the Stock Go Even Higher?](https://www.fool.com/investing/2025/12/13/nvidias-ai-dominance-is-still-building-could-the-s/)**
+
+Another gain of almost 1,500% is unlikely, and this could change how shareholders view the stock.
+
+The Motley Fool • 21m ago
 
 ---
 
@@ -139,7 +169,7 @@ Fortune • 1d ago
 
 The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
@@ -151,41 +181,11 @@ Vox • 9h ago
 
 ---
 
-**[AI is making the workplace lonelier](https://www.axios.com/2025/12/13/ai-anthropic-chatbot-remote-work-jobs)**
+**[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
 
-Axios • 9h ago
+A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
 
----
-
-**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
-
-The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
-
-Time Magazine • 2d ago
-
----
-
-**[Why the Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/)**
-
-TIME’s editor-in-chief explains why we chose the Architects of AI as the 2025 Person of the Year
-
-Time Magazine • 2d ago
-
----
-
-**['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o)**
-
-Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.
-
-BBC • 2d ago
-
----
-
-**[Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o)**
-
-The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.
-
-BBC • 1d ago
+NBC News • 12h ago
 
 ---
 
@@ -205,7 +205,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 487 • 💬 287 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 487 • 💬 288 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -221,13 +221,13 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 166 • 💬 120 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 167 • 💬 120 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 137 • 💬 185 • 7h ago
+⬆️ 157 • 💬 202 • 7h ago
 
 ---
 
@@ -251,7 +251,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 80 • 💬 125 • 1d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 80 • 💬 126 • 1d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -259,7 +259,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 48 • 💬 65 • 9h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 48 • 💬 65 • 10h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -281,7 +281,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 79K • 👍 2K • 💬 255 • ⏱️ 1:21:07 • 10h ago
+👁️ 79K • 👍 2K • 💬 255 • ⏱️ 1:21:07 • 11h ago
 
 ---
 
@@ -331,7 +331,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 35K • 👍 1K • 💬 224 • ⏱️ 15:01 • 22h ago
+👁️ 35K • 👍 1K • 💬 224 • ⏱️ 15:01 • 23h ago
 
 ---
 
@@ -341,7 +341,7 @@ Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut 
 
 📺 Smart Tales
 
-👁️ 4K • 👍 43 • ⏱️ 0:08 • 2h ago
+👁️ 4K • 👍 43 • ⏱️ 0:08 • 3h ago
 
 ---
 
@@ -387,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,643 • 5d ago
+⬇️ 268,534 • ❤️ 2,644 • 5d ago
 
 ---
 
@@ -399,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 119,786 • ❤️ 802 • 1d ago
+⬇️ 119,786 • ❤️ 804 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 13,668 • ❤️ 314 • 1d ago
+⬇️ 13,668 • ❤️ 315 • 1d ago
 
 ---
 
@@ -447,7 +447,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 31,499 • ❤️ 264 • 4d ago
+⬇️ 31,499 • ❤️ 265 • 4d ago
 
 ---
 
@@ -646,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.6k • 🔱 2.1k • 18h ago
+⭐ 13.6k • 🔱 2.1k • 19h ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.6k • 🔱 283 • 6h ago
+⭐ 2.6k • 🔱 283 • 7h ago
 
 ---
 

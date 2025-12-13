@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-13T23:00:30.897691+00:00'
+updated: '2025-12-13T23:26:57.734281+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 23:00 UTC  
+**Last Updated:** December 13, 2025 at 23:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
+**24h:** +0.9%  
 **7d:** +1.7%  
 **30d:** +0.3%  
 **90d:** -31.1%  
-**1y:** -19.5%  
+**1y:** -19.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.29B
+**Market Cap:** $375.87B
 Rank #2
 
 **Circulating Supply:** 120,695,127 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.0%
+-37.1%
 
 **All-Time Low:** $0.43
-+719145.0%
++718902.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -160,11 +160,27 @@ CoinDesk • 1d ago
 
 ---
 
+**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
+
+Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
+
+CoinDesk • 1d ago
+
+---
+
 **[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
 Decrypt • 1d ago
+
+---
+
+**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
+
+The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -182,11 +198,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Solana Will ‘Flip’ Ethereum, Predicts Skybridge Capital’s Scaramucci](https://www.tradingview.com/news/newsbtc:1dae68157094b:0-solana-will-flip-ethereum-predicts-skybridge-capital-s-scaramucci/)**
+**[XRP Mildly Undervalued On MVRV: What About Bitcoin, Ethereum?](https://www.tradingview.com/news/newsbtc:800854a3e094b:0-xrp-mildly-undervalued-on-mvrv-what-about-bitcoin-ethereum/)**
 
-Anthony Scaramucci showed up to Solana Breakpoint in Abu Dhabi wearing a tie — a small act of rebellion in a sea of hoodies — and then proceeded to make a much bigger one on stage: Solana is going to “flip” Ethereum.Scaramucci’s Solana PredictionNot in the Twitter-war, zero-sum, “ETH is dead” kind…
+XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView — Track All Markets • 1d ago
+TradingView • 17h ago
 
 ---
 
@@ -195,14 +211,6 @@ TradingView — Track All Markets • 1d ago
 After an unexpected pullback, could Ethereum be ready to skyrocket in value?
 
 The Motley Fool • 1d ago
-
----
-
-**[Ethereum Price Forecast: ETH breaches $3,100 as accumulation and whale buying persist](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-breaches-3-100-as-accumulation-and-whale-buying-persist-202512121905)**
-
-Ethereum (ETH) saw a 3% decline on Friday, briefly falling below $3,100 despite a strong buying activity across whale and accumulation addresses.
-
-FXStreet • 1d ago
 
 ---
 
@@ -219,12 +227,6 @@ CryptoSlate • 2d ago
 Ethereum was one of the best-performing cryptocurrencies in the market over the past week, with its price jumping mid-week to as high as $3,400.
 
 Bitcoinist.com • 2h ago
-
----
-
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqcN1zNNJPYeZCeu6bd1ldMlP-trSE_fwlLjUbipSnuZCTMTatMyLPtf&gaa_ts=693dee6a&gaa_sig=ukoQheOv4xifW4TAExFtCpcAe7xZKn_LyeNj_rENZZkid6JZvv_fn9zrtk_5e1bm3e9KDMjts4ugT6p2bBALgQ%3D%3D)**
-
-Barron's • 2d ago
 
 ---
 
@@ -328,7 +330,7 @@ BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 2K • 👍 168 • 💬 7 • ⏱️ 18:12 • 3h ago
+👁️ 2K • 👍 168 • 💬 7 • ⏱️ 18:12 • 4h ago
 
 ---
 

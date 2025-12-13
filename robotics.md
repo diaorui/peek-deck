@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T23:00:30.900950+00:00'
+updated: '2025-12-13T23:26:57.737573+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 23:00 UTC  
+**Last Updated:** December 13, 2025 at 23:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 4h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 5h ago
 
 ---
 
@@ -72,15 +72,7 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/transitiverobotics/transact) • 4h ago
-
----
-
-**[Tampa robo sumo](https://www.reddit.com/r/robotics/comments/1plxcza/tampa_robo_sumo/)**
-
-Estou fazendo um robô sumo de 500g queria saber se alguém te alguma dica na hora de fazer as rampas. E ouvi falar que tem pessoas que usam imã na parte debaixo para ter mais atrito, queria saber se é verdade porque como que a arena é atraída por um imã
-
-55m ago
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 5h ago
 
 ---
 
@@ -88,7 +80,15 @@ Estou fazendo um robô sumo de 500g queria saber se alguém te alguma dica na ho
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 10h ago
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 11h ago
+
+---
+
+**[Tampa robo sumo](https://www.reddit.com/r/robotics/comments/1plxcza/tampa_robo_sumo/)**
+
+Estou fazendo um robô sumo de 500g queria saber se alguém te alguma dica na hora de fazer as rampas. E ouvi falar que tem pessoas que usam imã na parte debaixo para ter mais atrito, queria saber se é verdade porque como que a arena é atraída por um imã
+
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Zebra Technologies is looking to sell its autonomous mobile robot group or will 
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or when modifying the PX4 flight controller. Hope it helps someone else now! Video below shows how it works. Side note: we're always open to feedback. Simulink based PX4 SIL Simulator
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ What's up guys, I posted about this PX4 SIL simulator earlier this year and got 
 
 Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon weekend — open to anyone who loves robots, ROS, automation, hardware, or just tinkering with cool tech. 📅 18–19 Dec ⏰ 7:30–9 PM 📍 Shivajinagar, Pune Very chill meetup: talk, share ideas, network, show what you're working on — all are welcome (even if you're not attending ROSCon). If you're interested, sign up here: 👉 https://forms.gle/EQ8MkikLLtnixcno9 Would love to know what topics you'd want to chat about!
 
-8h ago
+9h ago
 
 ---
 
@@ -124,7 +124,31 @@ IEEE Spectrum • 3d ago
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
+
+---
+
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
+
+Making safe and regulated humanoids is a core mission of the summit and participants.
+
+ABC7 San Francisco • 1d ago
+
+---
+
+**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
+
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
+
+AP News • 1d ago
+
+---
+
+**[Humanoid Summit showcases rapid advancements in robots, new tools](https://www.whio.com/news/humanoid-summit-showcases-rapid-advancements-robots-new-tools/c388e07f-7e3e-4df9-848c-528e775bcefa/)**
+
+The summit aims to continue growing and fostering a better region through robotics.
+
+WHIO TV • 8h ago
 
 ---
 
@@ -136,19 +160,11 @@ NVIDIA Developer • 2d ago
 
 ---
 
-**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
-
-The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
-
-AP News • 1d ago
-
----
-
 **[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 11h ago
+Scientific American • 12h ago
 
 ---
 
@@ -157,14 +173,6 @@ Scientific American • 11h ago
 Engineering expert Kuran outlines why Symbotic, Alphabet, and Hyundai are top robotics stocks for AI, automation and industrial growth.
 
 Yahoo Finance • 4d ago
-
----
-
-**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
-
-Making safe and regulated humanoids is a core mission of the summit and participants.
-
-ABC7 San Francisco • 1d ago
 
 ---
 
@@ -179,14 +187,6 @@ Chron • 3d ago
 Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
 
 MIT News • 3d ago
-
----
-
-**[Teradyne Robotics leaning into U.S. manufacturing reboot](https://www.therobotreport.com/teradyne-robotics-leaning-into-u-s-manufacturing-reboot/)**
-
-Teradyne Robotics plans to open its U.S. headquarters near Detroit in 2026 to boost manufacturing for UR and MiR and better serve customers.
-
-The Robot Report • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ Unitree welcomes users and developers worldwide to co-develop and share together
 
 📺 Unitree Robotics
 
-👁️ 7K • 👍 216 • 💬 42 • ⏱️ 0:35 • 17h ago
+👁️ 7K • 👍 216 • 💬 42 • ⏱️ 0:35 • 18h ago
 
 ---
 
