@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T15:59:26.620852+00:00'
+updated: '2025-12-14T16:34:03.046102+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 15:59 UTC  
+**Last Updated:** December 14, 2025 at 16:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-5h ago
+6h ago
 
 ---
 
@@ -78,9 +78,15 @@ We’ll be sharing performance and application demos. Comments and discussion ar
 
 ---
 
+**[Figure03 robot serving beer](https://www.reddit.com/r/robotics/comments/1pme28o/figure03_robot_serving_beer/)**
+
+3h ago
+
+---
+
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -88,7 +94,7 @@ We’ll be sharing performance and application demos. Comments and discussion ar
 
 Hello! I got a Reachy Mini (the wireless version) and I’m receiving it next week! I want to be able to run my models locally but I’m afraid I don’t have the right setup for this. In total what I have is a MacBook Pro Max M1 (64Go) and an MSI with a 4080. We also have a Lenovo with 5080 but that’s my husband’s and I want my own 😅 Is it worth it to get a 5090? Or would a 5080 do the job? It’s for research purposes (solo) and experimenting with nice powerful models. And do you have a more wallet friendly approach? Also do you recommend just buying the computer or building one? (Which option is cheaper?)
 
-🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 10m ago
+🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 44m ago
 
 ---
 
@@ -100,19 +106,13 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 ---
 
-**[Figure03 robot serving beer](https://www.reddit.com/r/robotics/comments/1pme28o/figure03_robot_serving_beer/)**
-
-2h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
+**[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -120,7 +120,7 @@ The New York Times • 5h ago
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 9h ago
+South China Morning Post • 10h ago
 
 ---
 
@@ -152,7 +152,7 @@ IEEE Spectrum • 3d ago
 
 Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
 
-NVIDIA Developer • 2d ago
+NVIDIA Developer • 3d ago
 
 ---
 
@@ -168,15 +168,15 @@ Scientific American • 1d ago
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
-**[Figure AI CEO says over 170,000 people have applied to his robot company in the last 3 years. He hired fewer than 500.](https://www.businessinsider.com/figure-ai-robotics-startup-tech-job-market-competition-170k-resumes-2025-12)**
+**[Serve Robotics, Inc. Rings the Closing Bell](https://www.nasdaq.com/events/serve-robotics-inc-rings-closing-bell)**
 
-Figure AI CEO Brett Adcock said on X that his company reviewed 176,000 resumes but most of them were "slop." Less than 450 people were hired, he said.
+About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
 
-Business Insider • 12h ago
+Nasdaq • 1d ago
 
 ---
 
@@ -192,33 +192,21 @@ Futurism • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
-
-In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
-
-📺 Google DeepMind
-
-👁️ 224K • 👍 7K • 💬 500 • ⏱️ 17:44 • 3d ago
-
----
-
 **[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
 
 EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
 
 📺 AI Tech Academy
 
-👁️ 123K • 👍 2K • 💬 891 • ⏱️ 14:26 • 5d ago
+👁️ 124K • 👍 2K • 💬 898 • ⏱️ 14:26 • 5d ago
 
 ---
 
-**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
 
-Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+📺 AI . Robot
 
-📺 vt.physics
-
-👁️ 60K • 👍 3K • 💬 118 • ⏱️ 0:34 • 7h ago
+👁️ 26K • 👍 364 • 💬 9 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -228,7 +216,17 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 17K • 👍 81 • 💬 26 • ⏱️ 1:26 • 1d ago
+👁️ 19K • 👍 85 • 💬 27 • ⏱️ 1:26 • 1d ago
+
+---
+
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+
+📺 The Straits Times
+
+👁️ 189K • 👍 912 • 💬 303 • ⏱️ 0:47 • 5d ago
 
 ---
 
@@ -242,13 +240,13 @@ robots #irc #humanoid At the latest tech expo, a man shows off his brand new rob
 
 ---
 
-**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
+**[Grandmother saves Grandpa from a robotic zebra 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
 
-Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
+Grandmother saves Grandpa from a robotic zebra #ai #save #robot.
 
-📺 The Military Show
+📺 Catanimation
 
-👁️ 355K • 👍 10K • 💬 566 • ⏱️ 16:55 • 3d ago
+👁️ 58K • 👍 618 • 💬 6 • ⏱️ 0:25 • 2h ago
 
 ---
 
@@ -258,17 +256,17 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 72K • 👍 751 • 💬 16 • ⏱️ 0:09 • 2d ago
+👁️ 77K • 👍 767 • 💬 16 • ⏱️ 0:09 • 2d ago
 
 ---
 
-**[Most Advanced Humanoid Robot Girl | USA Expo 2025](https://www.youtube.com/watch?v=T2D8z3Or5mE)**
+**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
 
-robot #aiart #humanoid Most advanced humanoid robot girl showcased at USA Expo 2025 AI robots that look like human, the ...
+Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
 
-📺 Ai Six Seven Robotics
+📺 The Military Show
 
-👁️ 1K • 👍 13 • ⏱️ 0:13 • 4h ago
+👁️ 356K • 👍 10K • 💬 569 • ⏱️ 16:55 • 3d ago
 
 ---
 
@@ -278,17 +276,17 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 19K • 👍 514 • 💬 118 • ⏱️ 42:48 • 6d ago
+👁️ 19K • 👍 518 • 💬 118 • ⏱️ 42:48 • 6d ago
 
 ---
 
-**[This Is How Humans Will Live With Robots #humanoidrobot #robotics](https://www.youtube.com/watch?v=pD_5FiBMOiY)**
+**[Boy Pressed Test Mode button… Robot went Crazy 😳🤖 #ai #cat #robot](https://www.youtube.com/watch?v=hRf4HyPmFtA)**
 
-This is how humans will live with robots. Not in factories. Not in science fiction movies. But inside our homes, our kitchens, our ...
+Boy Pressed Test Mode button… Robot went Crazy #ai #cat #robot.
 
-📺 Yasin Öğretmen
+📺 Ai Animation World
 
-👁️ 1K • 👍 40 • 💬 1 • ⏱️ 1:01 • 20h ago
+👁️ 42K • 💬 1 • ⏱️ 0:37 • 4h ago
 
 ---
 

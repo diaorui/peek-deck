@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T15:59:26.612640+00:00'
+updated: '2025-12-14T16:34:03.036842+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 15:59 UTC  
+**Last Updated:** December 14, 2025 at 16:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -2.1%  
-**30d:** -6.9%  
-**90d:** -23.9%  
-**1y:** -14.8%  
+**24h:** -1.2%  
+**7d:** -2.0%  
+**30d:** -6.8%  
+**90d:** -23.8%  
+**1y:** -14.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1776.63B
+**Market Cap:** $1781.71B
 Rank #1
 
 **Circulating Supply:** 19,962,062 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-29.3%
 
 **All-Time Low:** $67.81
-+131166.8%
++131342.3%
 
 ---
 
@@ -83,15 +83,9 @@ Rank #1
 
 ---
 
-**[The only one with the honest network](https://www.reddit.com/r/Bitcoin/comments/1pmaboy/the_only_one_with_the_honest_network/)**
-
-6h ago
-
----
-
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -103,7 +97,7 @@ Rank #1
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -119,14 +113,6 @@ Rank #1
 
 ---
 
-**[Turns out saving in something that is infinite and printable is not a very good idea](https://www.reddit.com/r/Bitcoin/comments/1pmfaof/turns_out_saving_in_something_that_is_infinite/)**
-
-Turns out saving in something that is infinite and printable is not a very good idea. Who would know?
-
-1h ago
-
----
-
 **[How it all started](https://www.reddit.com/r/Bitcoin/comments/1pmd3uu/how_it_all_started/)**
 
 Simply lovely
@@ -135,11 +121,25 @@ Simply lovely
 
 ---
 
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
+
+1h ago
+
+---
+
 **[Herd Mentality](https://www.reddit.com/r/Bitcoin/comments/1pmbesb/herd_mentality/)**
 
 Cross post
 
 5h ago
+
+---
+
+**[Turns out saving in something that is infinite and printable is not a very good idea](https://www.reddit.com/r/Bitcoin/comments/1pmfaof/turns_out_saving_in_something_that_is_infinite/)**
+
+Turns out saving in something that is infinite and printable is not a very good idea. Who would know?
+
+2h ago
 
 ---
 
@@ -159,15 +159,21 @@ CoinDesk • 2h ago
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
-**[3 Reasons Why Bullish Bitcoin Price Predictions Still Hold](https://finance.yahoo.com/news/3-reasons-why-bullish-bitcoin-121812190.html)**
+**[Crypto winter could spur 'Darwinian phase' for digital asset treasury companies](https://finance.yahoo.com/news/crypto-winter-could-spur-darwinian-phase-for-digital-asset-treasury-companies-150010208.html)**
 
-Bitcoin price prediction to $180,000 remains in focus as hidden signals emerge. Here’s why bulls aren’t backing off yet.
+Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
+
+x.com • 20h ago
 
 ---
 
@@ -179,25 +185,19 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
+
+Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
+
+CoinDesk • 23h ago
+
+---
+
 **[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
 
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
 Bitcoin Magazine • 1d ago
-
----
-
-**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
-
-Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
-
-CoinDesk • 22h ago
-
----
-
-**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
-
-x.com • 20h ago
 
 ---
 
@@ -213,11 +213,11 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
 
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
 
-Forbes • 4h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -229,7 +229,7 @@ Forbes • 4h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 6 • 💬 1 • 22h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 6 • 💬 1 • 23h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -237,7 +237,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 3 • 23h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 3 • 1d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -295,17 +295,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 415 • 💬 21 • ⏱️ 21:16 • 19h ago
+👁️ 11K • 👍 453 • 💬 21 • ⏱️ 21:16 • 19h ago
 
 ---
 
-**[BREAKING: $25T Can Now OFFICIALLY HIT Bitcoin!](https://www.youtube.com/watch?v=oPbPJvdmA-s)**
+**[It’s Happened! Institutions Are Ready to TRIPLE Bitcoin’s Price - Jordi Visser](https://www.youtube.com/watch?v=0UR7qU25uJI)**
 
-It's official: every U.S. bank now has the green light to sell Bitcoin. Is this the ultimate validation—or a covert play to capture and ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Simply Bitcoin
+📺 Savvy Finance
 
-👁️ 16K • 👍 777 • 💬 110 • ⏱️ 31:28 • 15h ago
+👁️ 9K • 👍 484 • 💬 8 • ⏱️ 24:03 • 15h ago
 
 ---
 
@@ -315,17 +315,27 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 8K • 👍 349 • 💬 89 • ⏱️ 12:56 • 15h ago
+👁️ 8K • 👍 377 • 💬 91 • ⏱️ 12:56 • 16h ago
 
 ---
 
-**[This Chart Shows What Will Drive Bitcoin’s 2026 Bull Run! [DATA]](https://www.youtube.com/watch?v=BGdyj949-mw)**
+**[A MASSIVE Bitcoin BREAKOUT Coming NEXT WEEK! Bitcoin Price Prediction December 2025!](https://www.youtube.com/watch?v=WEKxvbrN18I)**
 
-In this video, Alessandro breaks down the single most important chart explaining what will reignite Bitcoin's next bull market.
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
 
-📺 Crypto Banter
+📺 Crypto Jebb
 
-👁️ 4K • 👍 243 • 💬 17 • ⏱️ 16:58 • 8h ago
+👁️ 9K • 👍 490 • 💬 129 • ⏱️ 14:22 • 21h ago
+
+---
+
+**[HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News!](https://www.youtube.com/watch?v=2NvsmJHSRcs)**
+
+HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S FREE CRYPTO WEALTH NEWSLETTER: ...
+
+📺 Austin Hilton
+
+👁️ 12K • 👍 604 • 💬 59 • ⏱️ 5:30 • 1d ago
 
 ---
 
@@ -335,27 +345,17 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 100 • ⏱️ 16:27 • 1d ago
+👁️ 30K • 👍 2K • 💬 101 • ⏱️ 16:27 • 1d ago
 
 ---
 
-**[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
+**[Some of the Best Times to Buy Bitcoin](https://www.youtube.com/watch?v=Vv6ex7ZcaYE)**
 
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
+Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
 
-📺 Anthony Pompliano
+📺 Benjamin Cowen
 
-👁️ 46K • 👍 2K • 💬 24 • ⏱️ 48:39 • 1d ago
-
----
-
-**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
-
-EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
-
-📺 Altcoin Daily
-
-👁️ 58K • 👍 3K • 💬 278 • ⏱️ 31:03 • 1d ago
+👁️ 41K • 👍 705 • 💬 17 • ⏱️ 0:43 • 1d ago
 
 ---
 
@@ -365,25 +365,27 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 21K • 👍 656 • 💬 69 • ⏱️ 13:45 • 1d ago
+👁️ 22K • 👍 672 • 💬 72 • ⏱️ 13:45 • 1d ago
 
 ---
 
-**[Why Banks Want The Bitcoin Death Spiral](https://www.youtube.com/watch?v=TecYUGMqlvs)**
+**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
 
-📺 Andrei Jikh
+EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
 
-👁️ 85K • 👍 1K • 💬 54 • ⏱️ 0:35 • 2d ago
+📺 Altcoin Daily
+
+👁️ 60K • 👍 3K • 💬 281 • ⏱️ 31:03 • 1d ago
 
 ---
 
-**[Bitcoin: The Beauty of Mathematics (Part 65)](https://www.youtube.com/watch?v=JAkNLbhTjFg)**
+**[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
 
-Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
 
-📺 Benjamin Cowen
+📺 Anthony Pompliano
 
-👁️ 44K • 👍 2K • 💬 84 • ⏱️ 5:06 • 1d ago
+👁️ 48K • 👍 2K • 💬 24 • ⏱️ 48:39 • 1d ago
 
 ---
 

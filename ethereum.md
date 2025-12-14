@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T15:59:26.618018+00:00'
+updated: '2025-12-14T16:34:03.042875+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 15:59 UTC  
+**Last Updated:** December 14, 2025 at 16:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,084.00
+### $3,081.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -1.2%  
-**30d:** -2.7%  
-**90d:** -31.5%  
-**1y:** -22.1%  
+**24h:** -0.3%  
+**7d:** -0.9%  
+**30d:** -2.4%  
+**90d:** -31.3%  
+**1y:** -21.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.14B
+**Market Cap:** $374.24B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.7%
+-37.4%
 
 **All-Time Low:** $0.43
-+712110.1%
++714879.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm trying to grasp the ultimate plan for the ETH blockchain based upon improvement proposals as well as live metrics in order to understand what developers want for the blockchain. Ultimately this is to sell an SLT to possibly invest into ETH. I'm glad that the latest update has made ETH cheaper to transact in which will help with day to day transactions, however this has made the supply inflationary as the burn rate is lower. Is the goal to have a slight amount of inflation? Is the goal to have an elastic supply where issuance and burn rate are roughly the same? or is the goal for a strictly deflationary supply? From a value proposition this matters and I feel like the Devs haven't really put their feet down on what their intentions are. (I could be very wrong.) My main criticism of the first smart contract project is that they often don't clarify their thoughts until there is a bull run. I'm open to thoughts, articles and conversation. I'm just trying to educate myself as much as possible. Thank you in advance.
 
-13h ago
+14h ago
 
 ---
 
@@ -168,27 +168,19 @@ FXStreet • 1d ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
-
-If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
-
-The Motley Fool • 4h ago
-
----
-
 **[Prysm Bug Cost Ethereum Validators Over $1 Million After Fusaka Upgrade](https://finance.yahoo.com/news/prysm-bug-cost-ethereum-validators-130000701.html)**
 
 A software bug in Ethereum consensus client Prysm caused validators to miss out on 382 ETH, worth more than $1 million.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://finance.yahoo.com/news/better-buy-2026-ethereum-xrp-115000740.html)**
+**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
 
 If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-Yahoo Finance • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -202,7 +194,7 @@ Binance • 2d ago
 
 Ethereum approaches whale levels: Is greed fueling the next crash?
 
-AMBCrypto • 16h ago
+AMBCrypto • 17h ago
 
 ---
 
@@ -218,7 +210,7 @@ CoinDesk • 2d ago
 
 Since early October, when the Ethereum price began its dive into bearish territory, it has struggled to regain any of its significant price levels. The Ether token failed to hold at multiple support zones throughout November, as it plunged downwards. While Ethereum appears to be gaining bullish mom…
 
-TradingView — Track All Markets • 22h ago
+TradingView — Track All Markets • 23h ago
 
 ---
 
@@ -228,9 +220,27 @@ The Block • 3d ago
 
 ---
 
+**[BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-latest-news-analyst-forecasts-and-whats-driving-the-ethereum-treasury-trade-dec-12-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
+
+ts2.tech • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJcS4Gn5_Ak)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 344 • 👍 37 • 💬 2 • ⏱️ 8:04 • 33m ago
+
+---
 
 **[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
 
@@ -238,7 +248,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 278 • ⏱️ 31:03 • 1d ago
+👁️ 60K • 👍 3K • 💬 281 • ⏱️ 31:03 • 1d ago
 
 ---
 
@@ -248,17 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 112 • 💬 4 • ⏱️ 4:34 • 11h ago
-
----
-
-**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
-
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 9K • 👍 581 • 💬 38 • ⏱️ 14:28 • 18h ago
+👁️ 2K • 👍 117 • 💬 4 • ⏱️ 4:34 • 12h ago
 
 ---
 
@@ -268,47 +268,27 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 51 • 💬 16 • ⏱️ 15:09 • 17h ago
+👁️ 1K • 👍 50 • 💬 16 • ⏱️ 15:09 • 18h ago
 
 ---
 
-**[How BMNR Could Earn $400M/Year from Ethereum Staking Alone](https://www.youtube.com/watch?v=wuRVYdRfDQ8)**
+**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
 
-Wall Street treats BitMine Immersion ($BMNR) like a passive Bitcoin ETF. They are missing the most important part of the thesis: ...
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 Wall Street Stockcast
+📺 Stock Moe
 
-👁️ 109 • 👍 8 • ⏱️ 7:25 • 3h ago
-
----
-
-**[Tom Lee Just Flipped on Ethereum… Why?](https://www.youtube.com/watch?v=y48K7-hqmPQ)**
-
-Tom Lee just reversed his Ethereum outlook after previously calling for a drop to 20k before year-end. Now he says the next major ...
-
-📺 Ivan on Tech
-
-👁️ 29K • 👍 2K • 💬 123 • ⏱️ 10:42 • 3d ago
+👁️ 10K • 👍 584 • 💬 38 • ⏱️ 14:28 • 18h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=gZPkmtNiAd8)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=WNjd5vnNnHo)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 More Crypto Online
+📺 Guitar Repair@StringTech
 
-👁️ 3K • 👍 139 • 💬 4 • ⏱️ 4:05 • 22h ago
-
----
-
-**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
-
-Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 451 • 💬 14 • ⏱️ 48:44 • 1d ago
+👁️ 7K • 👍 4K • 1d ago
 
 ---
 
@@ -318,17 +298,37 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 211 • 💬 12 • ⏱️ 21:14 • 1d ago
+👁️ 6K • 👍 218 • 💬 12 • ⏱️ 21:14 • 1d ago
 
 ---
 
-**[BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wW7XFfYMF7g)**
+**[Live Crypto Trading | Bitcoin Live Trading Intelligent trader | 14 Dec | #btc #eth #cryptotrading](https://www.youtube.com/watch?v=TbnRocfglr0)**
 
-BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+Account Open From Here - Delta India - (CRYPTO BROKER) https://india.delta.exchange/?code=intelligenttrader After Opening ...
 
-📺 Crypto World
+📺 Intelligent Trader
 
-👁️ 10K • 👍 372 • 💬 40 • ⏱️ 18:12 • 20h ago
+👁️ 5K • 👍 499 • 1h ago
+
+---
+
+**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
+
+Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
+
+📺 Discover Crypto
+
+👁️ 7K • 👍 453 • 💬 14 • ⏱️ 48:44 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=gZPkmtNiAd8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 140 • 💬 4 • ⏱️ 4:05 • 23h ago
 
 ---
 

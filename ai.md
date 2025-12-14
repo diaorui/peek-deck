@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T15:59:26.605049+00:00'
+updated: '2025-12-14T16:34:03.028279+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 15:59 UTC  
+**Last Updated:** December 14, 2025 at 16:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-4h ago
+5h ago
 
 ---
 
@@ -61,7 +61,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -69,7 +69,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 15m ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 50m ago
 
 ---
 
@@ -77,7 +77,7 @@ Secret parties, lavish buffets, and talks of annihilation at one of the largest 
 
 The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
 
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 15h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 16h ago
 
 ---
 
@@ -93,7 +93,7 @@ Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom c
 
 An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
 
-🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 13h ago
+🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 14h ago
 
 ---
 
@@ -101,7 +101,7 @@ An artificial intelligence agent has shown it can do what even seasoned cybersec
 
 Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
-The Atlantic • 3h ago
+The Atlantic • 4h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Atlantic • 3h ago
 
 Dimon added that people who possess soft skills will have "plenty of jobs."
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -139,9 +139,11 @@ Axios • 3h ago
 
 ---
 
-**[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
+**[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://finance.yahoo.com/news/wall-street-sees-ai-bubble-140000205.html)**
 
-Bloomberg.com • 1h ago
+From a recent selloff in the shares of Nvidia Corp., to Oracle Corp.’s plunge after reporting mounting spending on AI, to souring sentiment around a network of companies exposed to OpenAI, signs of skepticism are increasing.  “We’re in the phase of the cycle where the rubber meets the road,” said Jim Morrow, chief executive officer of Callodine Capital Management.  The S&P 500’s three-year, $30 trillion bull run has largely been driven by the world’s biggest tech companies like Alphabet Inc. and Microsoft Corp., as well as firms benefiting from spending on AI infrastructure like chipmakers Nvidia and Broadcom Inc., and electricity providers such as Constellation Energy Corp. If they stop rising, the equities indexes will follow.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -150,6 +152,14 @@ Bloomberg.com • 1h ago
 California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
 
 The Guardian • 1d ago
+
+---
+
+**[For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)**
+
+If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
+
+WIRED • 9h ago
 
 ---
 
@@ -163,7 +173,15 @@ BBC • 15h ago
 
 **[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
 
-The Economist • 4h ago
+The Economist • 5h ago
+
+---
+
+**[Working with AI can be even more efficient with this all-in-one platform](https://mashable.com/article/dec-14-1minai-advanced-business-plan-lifetime-subscription)**
+
+Experience the next level of AI efficiency.
+
+Mashable • 6h ago
 
 ---
 
@@ -175,22 +193,6 @@ Time Magazine • 3d ago
 
 ---
 
-**[Israel joins US-led ‘Pax Silica’ initiative to cooperate on securing AI supply chains](https://www.timesofisrael.com/israel-joins-us-led-pax-silica-initiative-to-cooperate-on-securing-ai-supply-chains/)**
-
-PM's economic adviser touts 'mark of distinction for Israel,' as US, seven allies launch effort to 'shape a new, sustainable economic order for the age of artificial intelligence'
-
-The Times of Israel • 20h ago
-
----
-
-**[Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia](https://www.cnbc.com/2025/12/12/broadcom-tumbles-10percent-after-earnings-as-ai-trade-sells-off-.html)**
-
-Even with better-than-expected earnings and revenue, Broadcom slid on Friday as investors  continued to grow concerned about the AI trade.
-
-CNBC • 1d ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -199,13 +201,13 @@ CNBC • 1d ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 524 • 💬 281 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 524 • 💬 282 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 390 • 💬 392 • 1d ago
+⬆️ 391 • 💬 395 • 1d ago
 
 ---
 
@@ -221,7 +223,7 @@ A summary of the techniques in place to protect my git forge
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 130 • 💬 241 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 130 • 💬 242 • 2d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -229,15 +231,23 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 123 • 💬 73 • 14h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 124 • 💬 75 • 14h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
-**[A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It](https://news.ycombinator.com/item?id=46233067)**
+**[The Gorman Paradox: Where Are All the AI-Generated Apps?](https://news.ycombinator.com/item?id=46262545)**
 
-Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
+In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 119 • 💬 93 • 2d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 95 • 💬 124 • 4h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+
+---
+
+**[AI and the ironies of automation – Part 2](https://news.ycombinator.com/item?id=46262816)**
+
+Some (well-known) consequences of AI automating work
+
+⬆️ 94 • 💬 26 • 3h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -249,25 +259,17 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 ---
 
-**[AI and the ironies of automation – Part 2](https://news.ycombinator.com/item?id=46262816)**
-
-Some (well-known) consequences of AI automating work
-
-⬆️ 78 • 💬 18 • 2h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
-
----
-
-**[The Gorman Paradox: Where Are All the AI-Generated Apps?](https://news.ycombinator.com/item?id=46262545)**
-
-In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
-
-⬆️ 73 • 💬 103 • 3h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
-
----
-
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 62 • 💬 55 • 19h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 62 • 💬 56 • 19h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+
+---
+
+**[AI is bringing old nuclear plants out of retirement](https://news.ycombinator.com/item?id=46254276)**
+
+The White House has promised to quadruple nuclear power by 2050.
+
+⬆️ 52 • 💬 67 • 1d ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -281,17 +283,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 213K • 👍 4K • 💬 562 • ⏱️ 1:21:07 • 1d ago
-
----
-
-**[🇮🇳 India vs 🇵🇰 Pakistan | Epic AI Boxing Fight 🔥  #ai #trendingshorts #ytshorts #india  #pakistan](https://www.youtube.com/watch?v=MezlC1MtgMk)**
-
-Dog V/S Dog – AI Generated Epic Fight Is AI generated Shorts video mein aap dekhenge ek zabardast aur intense fight ...
-
-📺 ZX_SONU_EDITDZ
-
-👁️ 3K • 💬 8 • ⏱️ 0:47 • 15h ago
+👁️ 233K • 👍 4K • 💬 619 • ⏱️ 1:21:07 • 1d ago
 
 ---
 
@@ -301,7 +293,17 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 353K • 👍 15K • 💬 836 • ⏱️ 4:01 • 1d ago
+👁️ 361K • 👍 15K • 💬 850 • ⏱️ 4:01 • 1d ago
+
+---
+
+**[🇮🇳 India vs 🇵🇰 Pakistan | Epic AI Boxing Fight 🔥  #ai #trendingshorts #ytshorts #india  #pakistan](https://www.youtube.com/watch?v=MezlC1MtgMk)**
+
+Dog V/S Dog – AI Generated Epic Fight Is AI generated Shorts video mein aap dekhenge ek zabardast aur intense fight ...
+
+📺 ZX_SONU_EDITDZ
+
+👁️ 5K • 💬 8 • ⏱️ 0:47 • 15h ago
 
 ---
 
@@ -311,37 +313,27 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 41K • 👍 1K • 💬 258 • ⏱️ 15:01 • 1d ago
+👁️ 41K • 👍 1K • 💬 259 • ⏱️ 15:01 • 1d ago
 
 ---
 
-**[Why the AI Bubble Is Actually a $60T Black Hole](https://www.youtube.com/watch?v=21e5GZF3yx0)**
+**[GPT 5.2, realtime video editor, AI stereo videos, mobile AI agents, full body control: AI NEWS](https://www.youtube.com/watch?v=fpAbYRNxYPM)**
 
-Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------------- 🗞️ Sign up to our free newsletter to get smarter ...
+INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainews #aitools #aivideo Thanks to our ...
 
-📺 GEN
+📺 AI Search
 
-👁️ 64K • 👍 4K • 💬 662 • ⏱️ 22:33 • 1d ago
-
----
-
-**[Glenn Beck&#39;s Idiot Contest With Ai George Washington](https://www.youtube.com/watch?v=0ABgUZtXzkI)**
-
-Watch the Majority Report live Monday–Friday at 12pm EST on YouTube OR via daily podcast at http://www.Majority.fm The ...
-
-📺 The Majority Report w/ Sam Seder
-
-👁️ 70K • 👍 2K • 💬 609 • ⏱️ 12:51 • 1d ago
+👁️ 51K • 👍 3K • 💬 325 • ⏱️ 47:09 • 13h ago
 
 ---
 
-**[Paris’s AI Barber Pod 3.0 Will Blow Your Mind! 🤯 Next-Level Haircut ✅](https://www.youtube.com/watch?v=zA4FbVEC3lc)**
+**[AI is Slowly Making You Dumber! | The Dark Side of ChatGPT | Dhruv Rathee](https://www.youtube.com/watch?v=6usRtfzyLa8)**
 
-Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut in seconds, thanks to futuristic tech you won't believe ...
+Get AI Fiesta here: https://aifiesta.link/8UZPJRp The Power of World's Most Powerful AIs in one app. Now, you can access 9+ AI ...
 
-📺 Smart Tales
+📺 Dhruv Rathee
 
-👁️ 20K • 👍 145 • ⏱️ 0:08 • 19h ago
+👁️ 241K • 👍 31K • 💬 4K • ⏱️ 22:29 • 1h ago
 
 ---
 
@@ -351,7 +343,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 112K • 👍 9K • 💬 1K • ⏱️ 16:45 • 16h ago
+👁️ 129K • 👍 9K • 💬 2K • ⏱️ 16:45 • 17h ago
 
 ---
 
@@ -361,7 +353,17 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 496K • 👍 11K • 💬 2K • ⏱️ 13:43 • 2d ago
+👁️ 504K • 👍 12K • 💬 2K • ⏱️ 13:43 • 2d ago
+
+---
+
+**[Glenn Beck&#39;s Idiot Contest With Ai George Washington](https://www.youtube.com/watch?v=0ABgUZtXzkI)**
+
+Watch the Majority Report live Monday–Friday at 12pm EST on YouTube OR via daily podcast at http://www.Majority.fm The ...
+
+📺 The Majority Report w/ Sam Seder
+
+👁️ 72K • 👍 2K • 💬 623 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -371,7 +373,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 124K • 👍 455 • 💬 13 • ⏱️ 8:26 • 1d ago
+👁️ 133K • 👍 477 • 💬 12 • ⏱️ 8:26 • 2d ago
 
 ---
 
@@ -387,7 +389,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,686 • 5d ago
+⬇️ 277,583 • ❤️ 2,689 • 5d ago
 
 ---
 
@@ -399,7 +401,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 130,627 • ❤️ 815 • 2d ago
+⬇️ 130,627 • ❤️ 817 • 2d ago
 
 ---
 
@@ -411,7 +413,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 67,698 • ❤️ 406 • 4d ago
+⬇️ 67,698 • ❤️ 407 • 4d ago
 
 ---
 
@@ -423,7 +425,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 324 • 2d ago
+⬇️ 15,778 • ❤️ 325 • 2d ago
 
 ---
 
@@ -483,7 +485,7 @@ Apriel-1.6-15B-Thinker is a cost-efficient multimodal reasoning model that excel
 
 `image-text-to-text` `14.9B`
 
-⬇️ 1,276 • ❤️ 184 • 4d ago
+⬇️ 1,276 • ❤️ 185 • 4d ago
 
 ---
 
@@ -495,7 +497,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 174 • 3d ago
+⬇️ 0 • ❤️ 176 • 3d ago
 
 ---
 
@@ -647,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.3k • 🔱 2.2k • 7h ago
+⭐ 14.3k • 🔱 2.2k • 8h ago
 
 ---
 
@@ -657,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.8k • 🔱 315 • 18m ago
+⭐ 2.8k • 🔱 315 • 52m ago
 
 ---
 
@@ -727,7 +729,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 10h ago
+⭐ 861 • 🔱 49 • 11h ago
 
 ---
 
