@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T18:51:14.807189+00:00'
+updated: '2025-12-14T19:09:17.540735+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 18:51 UTC  
+**Last Updated:** December 14, 2025 at 19:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -1.5%  
-**7d:** -2.1%  
+**7d:** -2.0%  
 **30d:** -6.9%  
 **90d:** -23.9%  
 **1y:** -14.7%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1771.38B
+**Market Cap:** $1772.77B
 Rank #1
 
-**Circulating Supply:** 19,962,075 BTC
+**Circulating Supply:** 19,962,118 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.6%
 
 **All-Time Low:** $67.81
-+130750.9%
++130864.5%
 
 ---
 
@@ -83,6 +83,12 @@ Rank #1
 
 ---
 
+**[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
+
+1h ago
+
+---
+
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
 22h ago
@@ -91,25 +97,13 @@ Rank #1
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-14h ago
-
----
-
-**[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
-
-1h ago
+15h ago
 
 ---
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-13h ago
-
----
-
-**[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
-
-20h ago
+14h ago
 
 ---
 
@@ -121,23 +115,33 @@ Simply lovely
 
 ---
 
+**[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
+
+21h ago
+
+---
+
+**[Everytime I see ~$89K, my finger gravitates to the buy button…](https://www.reddit.com/r/Bitcoin/comments/1pmj2r7/everytime_i_see_89k_my_finger_gravitates_to_the/)**
+
+I can’t help myself. I know I should wait for a bigger correction that’s likely coming. If/when that happens, I won’t have any dry powder because I have some stupid brain reflex that makes me drop $100 every time I see < $90K 😫
+
+2h ago
+
+---
+
 **[Herd Mentality](https://www.reddit.com/r/Bitcoin/comments/1pmbesb/herd_mentality/)**
 
 Cross post
 
-7h ago
+8h ago
 
 ---
 
-**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
+**[Turns out saving in something that is infinite and printable is not a very good idea](https://www.reddit.com/r/Bitcoin/comments/1pmfaof/turns_out_saving_in_something_that_is_infinite/)**
 
-19h ago
+Turns out saving in something that is infinite and printable is not a very good idea. Who would know?
 
----
-
-**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
-
-14h ago
+4h ago
 
 ---
 
@@ -145,11 +149,11 @@ Cross post
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+**[Bitcoin Below $90K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
 
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-Forbes • 6h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -165,7 +169,7 @@ The Motley Fool • 9h ago
 
 This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
 
-The Motley Fool • 40m ago
+The Motley Fool • 58m ago
 
 ---
 
@@ -185,17 +189,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
+**[Key facts: Bitcoin ETFs see $237M inflows; Grayscale predicts 2026 high](https://www.tradingview.com/news/tradingview:c4734af0513af:0-key-facts-bitcoin-etfs-see-237m-inflows-grayscale-predicts-2026-high/)**
 
-Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
-
-x.com • 23h ago
+TradingView — Track All Markets • 19h ago
 
 ---
 
@@ -205,17 +201,23 @@ Reuters • 1d ago
 
 ---
 
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
+
+Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
 Investor's Business Daily • 1d ago
 
 ---
 
-**[MicroStrategy (MSTR): Reassessing Valuation After Sharp Recent Share Price Declines and Bitcoin-Linked Volatility](https://finance.yahoo.com/news/microstrategy-mstr-reassessing-valuation-sharp-021012443.html)**
+**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-Strategy (MSTR) has had a rough stretch, with the stock down around 21% over the past month and nearly 47% in the past 3 months, prompting fresh questions about valuation and Bitcoin exposure. See our latest analysis for Strategy. The latest slide, including a 1 day share price return of minus 3.7 percent and a year to date share price return of roughly minus 41 percent, suggests momentum is clearly fading even after an exceptional 3 year total shareholder return above 900 percent. If Bitcoin...
-
-Yahoo Finance • 16h ago
+x.com • 23h ago
 
 ---
 
@@ -303,7 +305,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 695 • 💬 56 • ⏱️ 9:48 • 1h ago
+👁️ 4K • 👍 695 • 💬 56 • ⏱️ 9:48 • 2h ago
 
 ---
 
@@ -313,7 +315,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 271 • 💬 68 • ⏱️ 10:43 • 5h ago
+👁️ 3K • 👍 271 • 💬 68 • ⏱️ 10:43 • 6h ago
 
 ---
 
@@ -323,7 +325,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 542 • 💬 11 • ⏱️ 24:03 • 17h ago
+👁️ 11K • 👍 542 • 💬 11 • ⏱️ 24:03 • 18h ago
 
 ---
 
