@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T19:25:56.248460+00:00'
+updated: '2025-12-14T19:38:45.309386+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 19:25 UTC  
+**Last Updated:** December 14, 2025 at 19:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-7h ago
+8h ago
 
 ---
 
@@ -333,7 +333,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 143K • 👍 10K • 💬 2K • ⏱️ 16:45 • 19h ago
+👁️ 143K • 👍 10K • 💬 2K • ⏱️ 16:45 • 20h ago
 
 ---
 
@@ -363,7 +363,7 @@ INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainew
 
 📺 AI Search
 
-👁️ 58K • 👍 3K • 💬 350 • ⏱️ 47:09 • 15h ago
+👁️ 58K • 👍 3K • 💬 350 • ⏱️ 47:09 • 16h ago
 
 ---
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.4k • 🔱 2.2k • 10h ago
+⭐ 14.4k • 🔱 2.2k • 11h ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.8k • 🔱 318 • 1h ago
+⭐ 2.8k • 🔱 318 • 2h ago
 
 ---
 

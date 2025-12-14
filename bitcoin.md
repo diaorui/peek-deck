@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T19:25:56.256880+00:00'
+updated: '2025-12-14T19:38:45.318369+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 19:25 UTC  
+**Last Updated:** December 14, 2025 at 19:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,784.80
+### $88,695.20
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Simply lovely
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ Cross post
 
 Turns out saving in something that is infinite and printable is not a very good idea. Who would know?
 
-4h ago
+5h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 5h ago
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -217,7 +217,7 @@ Investor's Business Daily • 1d ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 23h ago
+x.com • 1d ago
 
 ---
 
@@ -295,7 +295,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 25K • 👍 3K • 💬 226 • ⏱️ 17:53 • 3h ago
+👁️ 25K • 👍 3K • 💬 226 • ⏱️ 17:53 • 4h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin what now Protein Powder: This Will Really PISS You Off!!! https://youtu.
 
 📺 MMCrypto
 
-👁️ 31K • 👍 2K • 💬 433 • ⏱️ 6:48 • 12h ago
+👁️ 31K • 👍 2K • 💬 433 • ⏱️ 6:48 • 13h ago
 
 ---
 
@@ -355,7 +355,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 476 • 💬 25 • ⏱️ 21:16 • 22h ago
+👁️ 12K • 👍 476 • 💬 25 • ⏱️ 21:16 • 23h ago
 
 ---
 
@@ -365,7 +365,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Hornos de Leña
 
-👁️ 3K • 👍 3K • 1h ago
+👁️ 3K • 👍 3K • 2h ago
 
 ---
 

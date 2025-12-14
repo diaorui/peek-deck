@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T19:25:56.262899+00:00'
+updated: '2025-12-14T19:38:45.324638+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 19:25 UTC  
+**Last Updated:** December 14, 2025 at 19:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
+**24h:** -0.2%  
 **7d:** -0.8%  
 **30d:** -2.3%  
 **90d:** -31.2%  
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[ETH & BMNR](https://www.reddit.com/r/ethereum/comments/1pmlsmz/eth_bmnr/)**
 
-31m ago
+44m ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 1d ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 2d ago
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 1d ago
 
 Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -200,7 +200,7 @@ AMBCrypto • 20h ago
 
 If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 4 • ⏱️ 4:34 • 14h ago
+👁️ 2K • 👍 119 • 💬 4 • ⏱️ 4:34 • 15h ago
 
 ---
 
@@ -276,7 +276,7 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 50 • 💬 16 • ⏱️ 15:09 • 20h ago
+👁️ 1K • 👍 50 • 💬 16 • ⏱️ 15:09 • 21h ago
 
 ---
 

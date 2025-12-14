@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T19:25:56.266161+00:00'
+updated: '2025-12-14T19:38:45.327966+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 19:25 UTC  
+**Last Updated:** December 14, 2025 at 19:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -102,7 +102,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Figure03 robot serving beer](https://www.reddit.com/r/robotics/comments/1pme28o/figure03_robot_serving_beer/)**
 
-5h ago
+6h ago
 
 ---
 
