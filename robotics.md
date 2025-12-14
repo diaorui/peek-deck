@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T10:27:37.732435+00:00'
+updated: '2025-12-14T10:44:39.503837+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 10:27 UTC  
+**Last Updated:** December 14, 2025 at 10:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-22m ago
+39m ago
 
 ---
 
@@ -80,7 +80,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-18m ago
+35m ago
 
 ---
 
@@ -94,7 +94,7 @@ What's up guys, I posted about this PX4 SIL simulator earlier this year and got 
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -112,7 +112,7 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 **[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 25m ago
+The New York Times • 42m ago
 
 ---
 
@@ -120,7 +120,7 @@ The New York Times • 25m ago
 
 “The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -246,7 +246,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 17K • 👍 216 • 💬 11 • ⏱️ 0:11 • 21h ago
+👁️ 17K • 👍 216 • 💬 11 • ⏱️ 0:11 • 22h ago
 
 ---
 

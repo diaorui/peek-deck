@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T10:27:37.714604+00:00'
+updated: '2025-12-14T10:44:39.486395+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- social
 - news
 - videos
-- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 10:27 UTC  
+**Last Updated:** December 14, 2025 at 10:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,7 +53,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 18h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 19h ago
 
 ---
 
@@ -61,13 +61,13 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
 
-12m ago
+29m ago
 
 ---
 
 **[Guy using AI to take selfies with famous web series characters](https://www.reddit.com/r/artificial/comments/1pmaqx9/guy_using_ai_to_take_selfies_with_famous_web/)**
 
-14m ago
+31m ago
 
 ---
 
@@ -97,7 +97,7 @@ The real-time headphone translations experience keeps each speaker’s tone, emp
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-2h ago
+3h ago
 
 ---
 
@@ -123,13 +123,13 @@ CNN • 2d ago
 
 **[OpenAI isn't too big to fail. It's bigger.](https://www.axios.com/2025/12/13/open-ai-too-big-to-fail)**
 
-Axios • 19h ago
+Axios • 20h ago
 
 ---
 
 **[Ad Agency Stocks Seen Turning AI Disruption to Their Advantage](https://www.bloomberg.com/news/articles/2025-12-14/ad-agency-stocks-seen-turning-ai-disruption-to-their-advantage)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fortune • 1h ago
 
 **[How Trump’s tech advisers overcame a MAGA rebellion over AI](https://www.washingtonpost.com/politics/2025/12/14/trump-ai-executive-order-divisions/)**
 
-The Washington Post • 21m ago
+The Washington Post • 38m ago
 
 ---
 
@@ -167,7 +167,7 @@ NPR • 23h ago
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 20h ago
+Vox • 21h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Guardian • 19h ago
 
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
 
-NBC News • 23h ago
+NBC News • 1d ago
 
 ---
 
@@ -209,7 +209,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 338 • 💬 355 • 18h ago
+⬆️ 338 • 💬 355 • 19h ago
 
 ---
 
@@ -249,7 +249,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 92 • 💬 47 • 8h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 92 • 💬 47 • 9h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -347,7 +347,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 93K • 👍 7K • 💬 1K • ⏱️ 16:45 • 10h ago
+👁️ 93K • 👍 7K • 💬 1K • ⏱️ 16:45 • 11h ago
 
 ---
 
@@ -367,7 +367,7 @@ INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainew
 
 📺 AI Search
 
-👁️ 26K • 👍 2K • 💬 212 • ⏱️ 47:09 • 6h ago
+👁️ 26K • 👍 2K • 💬 212 • ⏱️ 47:09 • 7h ago
 
 ---
 
@@ -640,7 +640,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.0k • 🔱 2.2k • 1h ago
+⭐ 14.0k • 🔱 2.2k • 2h ago
 
 ---
 

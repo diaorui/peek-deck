@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T10:27:37.723082+00:00'
+updated: '2025-12-14T10:44:39.494701+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 10:27 UTC  
+**Last Updated:** December 14, 2025 at 10:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.3%  
-**7d:** -0.8%  
-**30d:** -5.7%  
+**7d:** -0.7%  
+**30d:** -5.6%  
 **90d:** -22.9%  
-**1y:** -13.7%  
+**1y:** -13.6%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -115,7 +115,7 @@ Rank #1
 
 **[The only one with the honest network](https://www.reddit.com/r/Bitcoin/comments/1pmaboy/the_only_one_with_the_honest_network/)**
 
-41m ago
+59m ago
 
 ---
 
@@ -137,7 +137,7 @@ This will age well in 10 years. See you then.
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 2h ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 14h ago
+x.com • 15h ago
 
 ---
 
@@ -217,7 +217,7 @@ Forbes • 1d ago
 
 Bitcoin (CRYPTO: BTC) enters the final stretch of the decade with its biggest question yet: can BTC climb to the $500K–$1M range as adoption deepens and supply tightens? The past six months show how quickly momentum can shift, but the long-term picture depends on forces far bigger than short-term price swings. Spot Bitcoin ETFs, sovereign ... Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -313,7 +313,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 353 • 💬 18 • ⏱️ 21:16 • 13h ago
+👁️ 8K • 👍 353 • 💬 18 • ⏱️ 21:16 • 14h ago
 
 ---
 
@@ -333,7 +333,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 4K • 👍 302 • 💬 56 • ⏱️ 9:44 • 3h ago
+👁️ 4K • 👍 302 • 💬 56 • ⏱️ 9:44 • 4h ago
 
 ---
 
