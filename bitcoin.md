@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T07:37:04.985649+00:00'
+updated: '2025-12-14T07:48:13.393143+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 07:37 UTC  
+**Last Updated:** December 14, 2025 at 07:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -0.9%  
-**30d:** -5.8%  
-**90d:** -23.0%  
-**1y:** -13.7%  
+**24h:** -0.4%  
+**7d:** -0.7%  
+**30d:** -5.5%  
+**90d:** -22.8%  
+**1y:** -13.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -139,7 +139,7 @@ A buddy wants to bet me 1 grand.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-16h ago
+17h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bitcoin Magazine • 1d ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 11h ago
+x.com • 12h ago
 
 ---
 
@@ -293,7 +293,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Bringing Content Authenticity to Video Streaming: C2PA Integration with Bitmovin](https://news.ycombinator.com/item?id=46255322)**
 
-⬆️ 1 • 💬 0 • 15h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
+⬆️ 1 • 💬 0 • 16h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
 
 ---
 
@@ -357,7 +357,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Stock Moe
 
-👁️ 8K • 👍 541 • 💬 37 • ⏱️ 14:28 • 9h ago
+👁️ 8K • 👍 541 • 💬 37 • ⏱️ 14:28 • 10h ago
 
 ---
 

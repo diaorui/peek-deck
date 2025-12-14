@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T07:37:04.977112+00:00'
+updated: '2025-12-14T07:48:13.384575+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 07:37 UTC  
+**Last Updated:** December 14, 2025 at 07:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -105,7 +105,7 @@ Demis Hassabis sketches how AI will work by 2026, from omnimodels and world mode
 
 **[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
 
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 19h ago
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 20h ago
 
 ---
 
@@ -165,7 +165,7 @@ NBC News • 21h ago
 
 Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
 
-Business Insider • 20h ago
+Business Insider • 21h ago
 
 ---
 
@@ -221,7 +221,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 302 • 💬 320 • 15h ago
+⬆️ 302 • 💬 320 • 16h ago
 
 ---
 
@@ -483,7 +483,7 @@ NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on N
 
 `text-to-image`
 
-⬇️ 516 • ❤️ 188 • 1d ago
+⬇️ 516 • ❤️ 188 • 2d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T07:37:04.995055+00:00'
+updated: '2025-12-14T07:48:13.402570+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 07:37 UTC  
+**Last Updated:** December 14, 2025 at 07:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -220,7 +220,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 16K • 👍 200 • 💬 9 • ⏱️ 0:11 • 18h ago
+👁️ 16K • 👍 200 • 💬 9 • ⏱️ 0:11 • 19h ago
 
 ---
 
