@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T19:38:45.318369+00:00'
+updated: '2025-12-14T19:50:08.533362+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 19:38 UTC  
+**Last Updated:** December 14, 2025 at 19:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1772.77B
+**Market Cap:** $1768.27B
 Rank #1
 
 **Circulating Supply:** 19,962,118 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.6%
+-29.7%
 
 **All-Time Low:** $67.81
-+130864.5%
++130594.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -107,25 +107,17 @@ Rank #1
 
 ---
 
-**[How it all started](https://www.reddit.com/r/Bitcoin/comments/1pmd3uu/how_it_all_started/)**
+**[Everytime I see ~$89K, my finger gravitates to the buy button…](https://www.reddit.com/r/Bitcoin/comments/1pmj2r7/everytime_i_see_89k_my_finger_gravitates_to_the/)**
 
-Simply lovely
+I can’t help myself. I know I should wait for a bigger correction that’s likely coming. If/when that happens, I won’t have any dry powder because I have some stupid brain reflex that makes me drop $100 every time I see < $90K 😫
 
-7h ago
+2h ago
 
 ---
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
 21h ago
-
----
-
-**[Everytime I see ~$89K, my finger gravitates to the buy button…](https://www.reddit.com/r/Bitcoin/comments/1pmj2r7/everytime_i_see_89k_my_finger_gravitates_to_the/)**
-
-I can’t help myself. I know I should wait for a bigger correction that’s likely coming. If/when that happens, I won’t have any dry powder because I have some stupid brain reflex that makes me drop $100 every time I see < $90K 😫
-
-2h ago
 
 ---
 
@@ -145,15 +137,21 @@ Turns out saving in something that is infinite and printable is not a very good 
 
 ---
 
+**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
+
+20h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Below $90K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
+**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
-Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-CoinDesk • 5h ago
+Forbes • 7h ago
 
 ---
 
@@ -165,11 +163,31 @@ The Motley Fool • 10h ago
 
 ---
 
-**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://www.fool.com/investing/2025/12/14/which-cryptocurrency-has-more-upside-bitcoin-vs-ca/)**
+**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://finance.yahoo.com/news/cryptocurrency-more-upside-bitcoin-vs-183100641.html)**
 
 This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
 
-The Motley Fool • 1h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+
+Reuters • 1d ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
+
+Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -195,26 +213,6 @@ TradingView — Track All Markets • 19h ago
 
 ---
 
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
-
-Reuters • 1d ago
-
----
-
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
-
-Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
-
-Yahoo Finance • 1d ago
-
----
-
-**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
-
-Investor's Business Daily • 1d ago
-
----
-
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
 x.com • 1d ago
@@ -229,7 +227,7 @@ x.com • 1d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 6 • 💬 1 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 6 • 💬 2 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 

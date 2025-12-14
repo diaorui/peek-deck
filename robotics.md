@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T19:38:45.327966+00:00'
+updated: '2025-12-14T19:50:08.542717+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 19:38 UTC  
+**Last Updated:** December 14, 2025 at 19:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
-7h ago
+8h ago
 
 ---
 
@@ -60,13 +60,13 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 Hello! I got a Reachy Mini (the wireless version) and I’m receiving it next week! I want to be able to run my models locally but I’m afraid I don’t have the right setup for this. In total what I have is a MacBook Pro Max M1 (64Go) and an MSI with a 4080. We also have a Lenovo with 5080 but that’s my husband’s and I want my own 😅 Is it worth it to get a 5090? Or would a 5080 do the job? It’s for research purposes (solo) and experimenting with nice powerful models. And do you have a more wallet friendly approach? Also do you recommend just buying the computer or building one? (Which option is cheaper?)
 
-🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 3h ago
+🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 4h ago
 
 ---
 
 **[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -75,6 +75,12 @@ Hello! I got a Reachy Mini (the wireless version) and I’m receiving it next we
 Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
 
 1d ago
+
+---
+
+**[MuJoCo-rs 2.2.0: New release of Rust bindings and idiomatic wrappers around the MuJoCo simulation library](https://www.reddit.com/r/robotics/comments/1pmmtdp/mujocors_220_new_release_of_rust_bindings_and/)**
+
+14m ago
 
 ---
 
@@ -100,19 +106,13 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 ---
 
-**[Figure03 robot serving beer](https://www.reddit.com/r/robotics/comments/1pme28o/figure03_robot_serving_beer/)**
-
-6h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 4h ago
+The New York Times • 9h ago
 
 ---
 
@@ -124,14 +124,6 @@ South China Morning Post • 13h ago
 
 ---
 
-**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
-
-Making safe and regulated humanoids is a core mission of the summit and participants.
-
-ABC7 San Francisco • 2d ago
-
----
-
 **[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
 
 Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
@@ -140,11 +132,19 @@ AP News • 1d ago
 
 ---
 
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
+
+Making safe and regulated humanoids is a core mission of the summit and participants.
+
+ABC7 San Francisco • 2d ago
+
+---
+
 **[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://finance.yahoo.com/news/94-billion-robotics-market-set-194400551.html)**
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -172,11 +172,11 @@ Scientific American • 1d ago
 
 ---
 
-**[Figure AI CEO says over 170,000 people have applied to his robot company in the last 3 years. He hired fewer than 500.](https://www.businessinsider.com/figure-ai-robotics-startup-tech-job-market-competition-170k-resumes-2025-12)**
+**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
 
-Figure AI CEO Brett Adcock said on X that his company reviewed 176,000 resumes but most of them were "slop." Less than 450 people were hired, he said.
+The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-Business Insider • 16h ago
+The Motley Fool • 15m ago
 
 ---
 

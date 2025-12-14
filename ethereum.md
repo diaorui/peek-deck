@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T19:38:45.324638+00:00'
+updated: '2025-12-14T19:50:08.539412+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 19:38 UTC  
+**Last Updated:** December 14, 2025 at 19:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.05B
+**Market Cap:** $373.39B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.4%
+-37.5%
 
 **All-Time Low:** $0.43
-+714957.8%
++714412.7%
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[ETH & BMNR](https://www.reddit.com/r/ethereum/comments/1pmlsmz/eth_bmnr/)**
 
-44m ago
+55m ago
 
 ---
 
@@ -158,25 +158,49 @@ Decrypt • 1d ago
 
 ---
 
-**[Key Hyperunit whale expands Ethereum position amid weak prices](https://www.fxstreet.com/cryptocurrencies/news/key-hyperunit-whale-expands-ethereum-position-amid-weak-prices-202512130434)**
+**[Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment](https://ambcrypto.com/greed-vs-fear-at-3k-inside-ethereums-make-or-break-moment/)**
 
-A major crypto whale has opened a long position in Ethereum (ETH) worth more than half a billion dollars on the Hyperliquid exchange.
+Ethereum approaches whale levels: Is greed fueling the next crash?
 
-FXStreet • 1d ago
+AMBCrypto • 20h ago
 
 ---
 
-**[Ethereum Price Could Be Silently Nearing a Breakout, Here’s Why](https://finance.yahoo.com/news/ethereum-price-could-silently-nearing-183000491.html)**
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
 
-Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
+Sentiment around Ethereum has been bouncing around considerably in recent days.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum Forms Wyckoff Breakout Setup: $10,000 Price Target Back In Focus](https://www.tradingview.com/news/newsbtc:fae39eed8094b:0-ethereum-forms-wyckoff-breakout-setup-10-000-price-target-back-in-focus/)**
+
+A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
+
+TradingView — Track All Markets • 3h ago
 
 ---
 
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
 Binance • 2d ago
+
+---
+
+**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
+
+Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
+
+Nasdaq • 8h ago
+
+---
+
+**[Key Hyperunit whale expands Ethereum position amid weak prices](https://www.fxstreet.com/cryptocurrencies/news/key-hyperunit-whale-expands-ethereum-position-amid-weak-prices-202512130434)**
+
+A major crypto whale has opened a long position in Ethereum (ETH) worth more than half a billion dollars on the Hyperliquid exchange.
+
+FXStreet • 1d ago
 
 ---
 
@@ -188,11 +212,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment](https://ambcrypto.com/greed-vs-fear-at-3k-inside-ethereums-make-or-break-moment/)**
+**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-Ethereum approaches whale levels: Is greed fueling the next crash?
-
-AMBCrypto • 20h ago
+The Block • 3d ago
 
 ---
 
@@ -201,28 +223,6 @@ AMBCrypto • 20h ago
 If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
 The Motley Fool • 8h ago
-
----
-
-**[If This Ethereum Bear Flag Pattern Holds, ETH Price Could Be On Its Way To $2,400](https://www.tradingview.com/news/newsbtc:e4cff0ce0094b:0-if-this-ethereum-bear-flag-pattern-holds-eth-price-could-be-on-its-way-to-2-400/)**
-
-Since early October, when the Ethereum price began its dive into bearish territory, it has struggled to regain any of its significant price levels. The Ether token failed to hold at multiple support zones throughout November, as it plunged downwards. While Ethereum appears to be gaining bullish mom…
-
-TradingView — Track All Markets • 1d ago
-
----
-
-**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
-
-The Block • 3d ago
-
----
-
-**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
-
-Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
-
-Nasdaq • 7h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Stock Moe
 
-👁️ 10K • 👍 591 • 💬 38 • ⏱️ 14:28 • 21h ago
+👁️ 10K • 👍 591 • 💬 38 • ⏱️ 14:28 • 22h ago
 
 ---
 

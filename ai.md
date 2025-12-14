@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T19:38:45.309386+00:00'
+updated: '2025-12-14T19:50:08.524812+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 19:38 UTC  
+**Last Updated:** December 14, 2025 at 19:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -67,11 +67,25 @@ A lot of AI image tools are powerful, but they rely heavily on long, precise pro
 
 ---
 
+**[Google Translate now lets you hear real-time translations in your headphones](https://www.reddit.com/r/artificial/comments/1pm09b8/google_translate_now_lets_you_hear_realtime/)**
+
+The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
+
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 19h ago
+
+---
+
 **[One-Minute Daily AI News 12/14/2025](https://www.reddit.com/r/artificial/comments/1pm8i0t/oneminute_daily_ai_news_12142025/)**
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-11h ago
+12h ago
+
+---
+
+**[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
+
+21h ago
 
 ---
 
@@ -83,25 +97,11 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 ---
 
-**[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
-
-21h ago
-
----
-
-**[Google Translate now lets you hear real-time translations in your headphones](https://www.reddit.com/r/artificial/comments/1pm09b8/google_translate_now_lets_you_hear_realtime/)**
-
-The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
-
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 19h ago
-
----
-
 **[The View From Inside the AI Bubble](https://www.reddit.com/r/artificial/comments/1pmh27t/the_view_from_inside_the_ai_bubble/)**
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 3h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 4h ago
 
 ---
 
@@ -125,41 +125,17 @@ The Atlantic • 7h ago
 
 ---
 
-**[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://finance.yahoo.com/news/wall-street-sees-ai-bubble-140000205.html)**
+**[The hot trade: hedging against the AI bubble popping](https://seekingalpha.com/news/4531252-the-hot-trade-hedging-against-the-ai-bubble-popping)**
 
-From a recent selloff in the shares of Nvidia Corp., to Oracle Corp.’s plunge after reporting mounting spending on AI, to souring sentiment around a network of companies exposed to OpenAI, signs of skepticism are increasing.  “We’re in the phase of the cycle where the rubber meets the road,” said Jim Morrow, chief executive officer of Callodine Capital Management.  The S&P 500’s three-year, $30 trillion bull run has largely been driven by the world’s biggest tech companies like Alphabet Inc. and Microsoft Corp., as well as firms benefiting from spending on AI infrastructure like chipmakers Nvidia and Broadcom Inc., and electricity providers such as Constellation Energy Corp. If they stop rising, the equities indexes will follow.
+Understood! Please provide the article or its content so I can generate the meta description.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Is A.I. Actually a Bubble?](https://www.newyorker.com/culture/open-questions/is-ai-actually-a-bubble)**
-
-The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
-
-The New Yorker • 2d ago
+Seeking Alpha • 40m ago
 
 ---
 
-**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://edition.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
+**[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
 
-President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
-
-CNN • 2d ago
-
----
-
-**[Investors seek protection from risk of AI debt bust](https://www.ft.com/content/c5f9380e-df86-42a9-a387-a0d5e04ad45f)**
-
-Trading in insurance-like products that protect against tech company defaults is booming
-
-Financial Times • 1h ago
-
----
-
-**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
-
-The Economist • 8h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -171,17 +147,23 @@ Fortune • 10h ago
 
 ---
 
-**[It's beginning to look a lot like (AI) Christmas](https://www.axios.com/2025/12/14/ai-christmas-nativity-visuals-sermons-jesus)**
+**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
 
-Axios • 5h ago
+The Economist • 8h ago
 
 ---
 
-**[For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)**
+**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://edition.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
 
-If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
+President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
 
-WIRED • 12h ago
+CNN • 2d ago
+
+---
+
+**[It's beginning to look a lot like (AI) Christmas](https://www.axios.com/2025/12/14/ai-christmas-nativity-visuals-sermons-jesus)**
+
+Axios • 6h ago
 
 ---
 
@@ -193,6 +175,20 @@ BBC • 18h ago
 
 ---
 
+**[For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)**
+
+If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
+
+WIRED • 12h ago
+
+---
+
+**[Exclusive | OpenAI Ends ‘Vesting Cliff’ for New Employees in Compensation-Policy Change](https://www.wsj.com/tech/ai/openai-ends-vesting-cliff-for-new-employees-in-compensation-policy-change-d4c4c2cd?gaa_at=eafs&gaa_n=AWEtsqf5qLFU4bBVi-NT5pVjC3dh_Ap3hNgAeHX-9Jz4xIO8l4wj_GpWPwbH&gaa_ts=693f185e&gaa_sig=F9h11OgXzoeYwJDVZtVsLb92Tm79PAJBZf4AglR9sFcGfl_RvMnBLUs_rZ9e8DxlpwCCG91aHqfWP4vGMQL8iA%3D%3D)**
+
+The Wall Street Journal • 20h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -201,13 +197,13 @@ BBC • 18h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 525 • 💬 284 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 526 • 💬 284 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 409 • 💬 403 • 1d ago
+⬆️ 411 • 💬 405 • 1d ago
 
 ---
 
@@ -215,7 +211,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 172 • 💬 122 • 2d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 173 • 💬 122 • 2d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -223,7 +219,7 @@ A summary of the techniques in place to protect my git forge
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 152 • 💬 51 • 6h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 164 • 💬 52 • 6h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -239,7 +235,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 128 • 💬 83 • 17h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 130 • 💬 83 • 18h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -247,7 +243,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 120 • 💬 172 • 7h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 124 • 💬 182 • 7h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -263,7 +259,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 Brian Merchant has been collecting personal stories for his series AI Killed My Job - previously covering tech workers, translators, and artists - and this latest piece includes anecdotes from …
 
-⬆️ 69 • 💬 70 • 9h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
+⬆️ 70 • 💬 73 • 9h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
 
 ---
 
@@ -389,7 +385,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,693 • 6d ago
+⬇️ 277,583 • ❤️ 2,694 • 6d ago
 
 ---
 
@@ -425,7 +421,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 329 • 2h ago
+⬇️ 15,778 • ❤️ 329 • 3h ago
 
 ---
 
@@ -485,7 +481,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,725 • ❤️ 197 • 2h ago
+⬇️ 4,725 • ❤️ 197 • 3h ago
 
 ---
 
