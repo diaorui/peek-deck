@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T14:00:52.399851+00:00'
+updated: '2025-12-14T14:28:22.302976+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 14:00 UTC  
+**Last Updated:** December 14, 2025 at 14:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-3h ago
+4h ago
 
 ---
 
@@ -48,19 +48,19 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
 ---
 
+**[What kind of transmission that made this possible?](https://www.reddit.com/r/robotics/comments/1pmao9y/what_kind_of_transmission_that_made_this_possible/)**
+
+I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
+
+4h ago
+
+---
+
 **[Loop closure grasping (Research Article Science). During grasp creation, the robot uses an open-loop topology, allowing free, unconstrained motion to wrap around objects of almost any shape.](https://www.reddit.com/r/robotics/comments/1plirjg/loop_closure_grasping_research_article_science/)**
 
 Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
 
 1d ago
-
----
-
-**[What kind of transmission that made this possible?](https://www.reddit.com/r/robotics/comments/1pmao9y/what_kind_of_transmission_that_made_this_possible/)**
-
-I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
-
-3h ago
 
 ---
 
@@ -70,17 +70,17 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 ---
 
-**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
-
-16h ago
-
----
-
 **[Would you be satisfied with this dynamic performance?](https://www.reddit.com/r/robotics/comments/1pm5p8c/would_you_be_satisfied_with_this_dynamic/)**
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
 9h ago
+
+---
+
+**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
+
+17h ago
 
 ---
 
@@ -94,7 +94,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Figure03 robot serving beer](https://www.reddit.com/r/robotics/comments/1pme28o/figure03_robot_serving_beer/)**
 
-32m ago
+1h ago
 
 ---
 
@@ -108,19 +108,17 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 ## Google News: "robotics"
 
+**[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
+
+The New York Times • 4h ago
+
+---
+
 **[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-scmp.com • 8h ago
-
----
-
-**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
-
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
-
-AP News • 1d ago
+South China Morning Post • 8h ago
 
 ---
 
@@ -132,9 +130,11 @@ ABC7 San Francisco • 2d ago
 
 ---
 
-**[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
+**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
 
-The New York Times • 3h ago
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
+
+AP News • 1d ago
 
 ---
 
@@ -166,7 +166,15 @@ Scientific American • 1d ago
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
+
+---
+
+**[Figure AI CEO says over 170,000 people have applied to his robot company in the last 3 years. He hired fewer than 500.](https://www.businessinsider.com/figure-ai-robotics-startup-tech-job-market-competition-170k-resumes-2025-12)**
+
+Figure AI CEO Brett Adcock said on X that his company reviewed 176,000 resumes but most of them were "slop." Less than 450 people were hired, he said.
+
+Business Insider • 11h ago
 
 ---
 
@@ -175,14 +183,6 @@ The Motley Fool • 18h ago
 1X has partnered with EQT to make up to 10,000 Neo humanoid robots available to more than 300 companies between 2026 and 2030.
 
 Interesting Engineering • 2d ago
-
----
-
-**[Scientists Reveal Robot Small Enough to Travel Through Human Body](https://futurism.com/future-society/robot-small-travel-human-body)**
-
-The tiny, microscopic robot packs an onboard computer, solar cells, and propulsion system, and is capable of sensing its environment.
-
-Futurism • 22h ago
 
 ---
 
@@ -216,7 +216,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 60K • 👍 3K • 💬 118 • ⏱️ 0:34 • 5h ago
+👁️ 60K • 👍 3K • 💬 118 • ⏱️ 0:34 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ukraine's battlefield is changing fast as ground robots move from support roles 
 
 📺 The Military Show
 
-👁️ 355K • 👍 10K • 💬 566 • ⏱️ 16:55 • 2d ago
+👁️ 355K • 👍 10K • 💬 566 • ⏱️ 16:55 • 3d ago
 
 ---
 
@@ -266,7 +266,7 @@ robot #aiart #humanoid Most advanced humanoid robot girl showcased at USA Expo 2
 
 📺 Ai Six Seven Robotics
 
-👁️ 1K • 👍 13 • ⏱️ 0:13 • 2h ago
+👁️ 1K • 👍 13 • ⏱️ 0:13 • 3h ago
 
 ---
 
@@ -286,7 +286,7 @@ This is how humans will live with robots. Not in factories. Not in science ficti
 
 📺 Yasin Öğretmen
 
-👁️ 1K • 👍 40 • 💬 1 • ⏱️ 1:01 • 18h ago
+👁️ 1K • 👍 40 • 💬 1 • ⏱️ 1:01 • 19h ago
 
 ---
 

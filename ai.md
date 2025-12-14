@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T14:00:52.383278+00:00'
+updated: '2025-12-14T14:28:22.285350+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 14:00 UTC  
+**Last Updated:** December 14, 2025 at 14:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,7 +61,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -69,7 +69,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
 
-3h ago
+4h ago
 
 ---
 
@@ -77,15 +77,7 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
 
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 13h ago
-
----
-
-**[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
-
-An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
-
-🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 11h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 14h ago
 
 ---
 
@@ -94,6 +86,14 @@ An artificial intelligence agent has shown it can do what even seasoned cybersec
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
 6h ago
+
+---
+
+**[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
+
+An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
+
+🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 12h ago
 
 ---
 
@@ -109,7 +109,7 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 21h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 22h ago
 
 ---
 
@@ -117,19 +117,19 @@ For now
 
 ## Google News: "ai"
 
-**[Jamie Dimon says soft skills like emotional intelligence and communication are vital as AI eliminates roles](https://fortune.com/2025/12/14/jamie-dimon-soft-skills-emotional-intelligence-communication-ai-eliminates-roles/)**
-
-Dimon added that people who possess soft skills will have "plenty of jobs."
-
-Fortune • 4h ago
-
----
-
 **[The View From Inside the AI Bubble](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/)**
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
 The Atlantic • 2h ago
+
+---
+
+**[Jamie Dimon says soft skills like emotional intelligence and communication are vital as AI eliminates roles](https://fortune.com/2025/12/14/jamie-dimon-soft-skills-emotional-intelligence-communication-ai-eliminates-roles/)**
+
+Dimon added that people who possess soft skills will have "plenty of jobs."
+
+Fortune • 5h ago
 
 ---
 
@@ -141,7 +141,21 @@ Axios • 1h ago
 
 **[How Trump’s tech advisers overcame a MAGA rebellion over AI](https://www.washingtonpost.com/politics/2025/12/14/trump-ai-executive-order-divisions/)**
 
-The Washington Post • 59m ago
+The Washington Post • 14m ago
+
+---
+
+**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
+
+California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
+
+The Guardian • 23h ago
+
+---
+
+**[Trump AI order fuels GOP divide over state laws](https://thehill.com/policy/technology/5647144-trump-federal-ai-regulation/)**
+
+thehill.com • 3h ago
 
 ---
 
@@ -150,22 +164,6 @@ The Washington Post • 59m ago
 Experience the next level of AI efficiency.
 
 Mashable • 4h ago
-
----
-
-**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://edition.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
-
-President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
-
-CNN • 2d ago
-
----
-
-**[Experts urge caution as Trump’s big bill incentivizes AI in healthcare](https://www.theguardian.com/us-news/2025/dec/14/trump-healthcare-ai)**
-
-Analysts say benefits could be felt in under-resourced rural hospitals but warn against AI as a cost-cutting measure
-
-The Guardian • 1h ago
 
 ---
 
@@ -185,11 +183,11 @@ WIRED • 7h ago
 
 ---
 
-**[Meet My Top 5 Artificial Intelligence (AI) Stocks for 2026](https://finance.yahoo.com/news/meet-top-5-artificial-intelligence-203000061.html)**
+**[Could Nvidia Be the Most Undervalued Stock in AI Right Now and Be Ready to Soar in 2026?](https://www.fool.com/investing/2025/12/14/could-nvidia-be-the-most-undervalued-stock-in-ai-r/)**
 
-The AI computing market is a great place to invest.
+Here's why Nvidia may be one of the most undervalued artificial intelligence (AI) stocks.
 
-Yahoo Finance • 17h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -207,15 +205,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 377 • 💬 379 • 22h ago
-
----
-
-**[Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://news.ycombinator.com/item?id=46231585)**
-
-Disney is investing in OpenAI and has licensed its iconic characters like Mickey Mouse, Ariel and Iron Man to be used in the Sora AI video generator.
-
-⬆️ 325 • 💬 2 • 2d ago • [CNBC](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)
+⬆️ 379 • 💬 380 • 22h ago
 
 ---
 
@@ -247,7 +237,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 113 • 💬 66 • 12h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 117 • 💬 69 • 12h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -269,7 +259,15 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 51 • 💬 66 • 1d ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 52 • 💬 66 • 1d ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+
+---
+
+**[Something Ominous Is Happening in the AI Economy](https://news.ycombinator.com/item?id=46236820)**
+
+The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
+
+⬆️ 43 • 💬 5 • 2d ago • [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)
 
 ---
 
@@ -343,7 +341,7 @@ Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut 
 
 📺 Smart Tales
 
-👁️ 20K • 👍 145 • ⏱️ 0:08 • 17h ago
+👁️ 20K • 👍 145 • ⏱️ 0:08 • 18h ago
 
 ---
 
@@ -389,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,678 • 5d ago
+⬇️ 277,583 • ❤️ 2,680 • 5d ago
 
 ---
 
@@ -461,7 +459,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 5,553 • ❤️ 194 • 2d ago
+⬇️ 5,553 • ❤️ 195 • 2d ago
 
 ---
 
@@ -473,7 +471,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,725 • ❤️ 193 • 2d ago
+⬇️ 4,725 • ❤️ 194 • 2d ago
 
 ---
 
@@ -485,7 +483,7 @@ Apriel-1.6-15B-Thinker is a cost-efficient multimodal reasoning model that excel
 
 `image-text-to-text` `14.9B`
 
-⬇️ 1,276 • ❤️ 183 • 4d ago
+⬇️ 1,276 • ❤️ 184 • 4d ago
 
 ---
 
@@ -728,7 +726,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 8h ago
+⭐ 861 • 🔱 49 • 9h ago
 
 ---
 

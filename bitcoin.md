@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T14:00:52.391415+00:00'
+updated: '2025-12-14T14:28:22.293780+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 14:00 UTC  
+**Last Updated:** December 14, 2025 at 14:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
+**24h:** -0.7%  
 **7d:** -1.4%  
-**30d:** -6.3%  
-**90d:** -23.4%  
-**1y:** -14.2%  
+**30d:** -6.2%  
+**90d:** -23.3%  
+**1y:** -14.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1782.45B
+**Market Cap:** $1783.76B
 Rank #1
 
-**Circulating Supply:** 19,962,021 BTC
+**Circulating Supply:** 19,962,043 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.2%
 
 **All-Time Low:** $67.81
-+131522.2%
++131600.3%
 
 ---
 
@@ -103,13 +103,13 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 Yes. Yes we are.
 
-21h ago
+22h ago
 
 ---
 
@@ -135,7 +135,9 @@ This will age well in 10 years. See you then.
 
 ---
 
-**[Bitcoin only, sybau shitcoin](https://www.reddit.com/r/Bitcoin/comments/1pmalcr/bitcoin_only_sybau_shitcoin/)**
+**[Herd Mentality](https://www.reddit.com/r/Bitcoin/comments/1pmbesb/herd_mentality/)**
+
+Cross post
 
 3h ago
 
@@ -145,11 +147,11 @@ This will age well in 10 years. See you then.
 
 ## Google News: "bitcoin"
 
-**[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
+**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
 
-Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
+Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
 
-The Motley Fool • 4h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -161,11 +163,19 @@ Forbes • 2h ago
 
 ---
 
-**[3 Reasons Why Bullish Bitcoin Price Predictions Still Hold](https://finance.yahoo.com/news/3-reasons-why-bullish-bitcoin-121812190.html)**
+**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
-Bitcoin price prediction to $180,000 remains in focus as hidden signals emerge. Here’s why bulls aren’t backing off yet.
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Yahoo Finance • 1h ago
+Forbes • 2d ago
+
+---
+
+**[3 Reasons Why Bullish Bitcoin Price Predictions Still Hold](https://www.tradingview.com/news/beincrypto:a4c47209b094b:0-3-reasons-why-bullish-bitcoin-price-predictions-still-hold/)**
+
+Bitcoin price looks stuck at first glance. Over the past 24 hours, the price has been nearly flat, down just 0.2%. Even on a weekly basis, Bitcoin has barely moved, up roughly 0.7%. The market feels quiet, and many traders are calling this range-bound action.But under the surface, several signals s…
+
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -173,15 +183,23 @@ Yahoo Finance • 1h ago
 
 Bitfarms is more an AI play than a Bitcoin mining one.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Covered Call Selling by Bitcoin Whales Is Weighing on Spot Prices, Analyst Says](https://finance.yahoo.com/news/covered-call-selling-bitcoin-whales-103000640.html)**
+**[3 Reasons Why Bullish Bitcoin Price Predictions Still Hold](https://finance.yahoo.com/news/3-reasons-why-bullish-bitcoin-121812190.html)**
 
-Bitcoin’s struggle to regain upside momentum near the $90,000 level may be less about weak demand and more about how large, long-term holders are managing their exposure, according to market analyst Jeff Park. Key Takeaways: Bitcoin’s muted price action near $90,000 is being driven by covered call selling from long-term ...
+Bitcoin price prediction to $180,000 remains in focus as hidden signals emerge. Here’s why bulls aren’t backing off yet.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Below $90K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
+
+Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
+
+CoinDesk • 34m ago
 
 ---
 
@@ -197,7 +215,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -209,20 +227,6 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
-
-Reuters • 1d ago
-
----
-
-**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
-
-Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
-
-CoinDesk • 18h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -231,7 +235,7 @@ CoinDesk • 18h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 6 • 💬 1 • 20h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 6 • 💬 1 • 21h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -315,7 +319,7 @@ It's official: every U.S. bank now has the green light to sell Bitcoin. Is this 
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 777 • 💬 110 • ⏱️ 31:28 • 13h ago
+👁️ 16K • 👍 777 • 💬 110 • ⏱️ 31:28 • 14h ago
 
 ---
 
@@ -325,7 +329,7 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 8K • 👍 349 • 💬 89 • ⏱️ 12:56 • 13h ago
+👁️ 8K • 👍 349 • 💬 89 • ⏱️ 12:56 • 14h ago
 
 ---
 
@@ -355,7 +359,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 24 • ⏱️ 48:39 • 23h ago
+👁️ 46K • 👍 2K • 💬 24 • ⏱️ 48:39 • 1d ago
 
 ---
 
