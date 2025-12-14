@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T22:57:26.350057+00:00'
+updated: '2025-12-14T23:25:02.862921+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 22:57 UTC  
+**Last Updated:** December 14, 2025 at 23:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-1h ago
+2h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-12h ago
+13h ago
 
 ---
 
@@ -56,11 +56,19 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
 ---
 
+**[Robotic Arm Controlled By VLM(Vision Language Model)](https://www.reddit.com/r/robotics/comments/1pms3ie/robotic_arm_controlled_by_vlmvision_language_model/)**
+
+Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
+
+7m ago
+
+---
+
 **[What kind of transmission that made this possible?](https://www.reddit.com/r/robotics/comments/1pmao9y/what_kind_of_transmission_that_made_this_possible/)**
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-12h ago
+13h ago
 
 ---
 
@@ -68,7 +76,7 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 My Reachy Mini arrives on Wednesday. I am trying to figure out what to do first. Is it possible for me to program it as an assistant (secretary) in my office if I am not there? Can people in the office leave messages with my Reachy like a secretary would and maybe even send me a message if they are needing me? I think something like this would be crazy cute and also useful. I am assuming I can program it to dance or do something interesting every once in a while if it is bored. Where do I start? Python? Has anyone received theirs and started setting it up? How much of a learning curve is there? I work in IT.
 
-46m ago
+1h ago
 
 ---
 
@@ -100,29 +108,21 @@ Hello! I got a Reachy Mini (the wireless version) and I’m receiving it next we
 
 ---
 
-**[Would you be satisfied with this dynamic performance?](https://www.reddit.com/r/robotics/comments/1pm5p8c/would_you_be_satisfied_with_this_dynamic/)**
-
-We’ll be sharing performance and application demos. Comments and discussion are welcome.
-
-18h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
-**[World’s first six-armed humanoid robot that promises 30% more output unveiled in China](https://interestingengineering.com/ai-robotics/worlds-first-six-armed-humanoid-robot)**
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
 
-Chinese home appliance company Midea has unveiled its six-armed super humanoid robot at the Greater Bay Area New Economy Forum in China.
+Making safe and regulated humanoids is a core mission of the summit and participants.
 
-Interesting Engineering • 3d ago
+ABC7 San Francisco • 2d ago
 
 ---
 
@@ -130,15 +130,7 @@ Interesting Engineering • 3d ago
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 16h ago
-
----
-
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
-
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
-
-Fortune • 1d ago
+South China Morning Post • 17h ago
 
 ---
 
@@ -146,7 +138,7 @@ Fortune • 1d ago
 
 Robot companies are racing toward a breakout year, but they'll have to confront some fundamental problems before making bigger promises.
 
-CNET • 14h ago
+CNET • 15h ago
 
 ---
 
@@ -190,6 +182,14 @@ Scientific American • 1d ago
 
 ---
 
+**[Streamer Sued for Assaulting Gay Robot](https://futurism.com/robots-and-machines/streamer-sued-for-assaulting-gay-robot)**
+
+Jake the Rizzbot, a bipedal, slang-slinging humanoid, was allegedly assaulted and permanently damaged by streamer IShowSpeed.
+
+Futurism • 4h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,45 +200,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 125K • 👍 2K • 💬 909 • ⏱️ 14:26 • 6d ago
-
----
-
-**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
-
-📺 AI . Robot
-
-👁️ 28K • 👍 386 • 💬 9 • ⏱️ 0:16 • 1d ago
-
----
-
-**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
-
-0:00 Intro: Big Plans and Major Hurdles for 2026 0:25 The First Challenge: Safety 0:46 The Danger of Hard Bodies and Pinch ...
-
-📺 CNET
-
-👁️ 8K • 👍 301 • 💬 35 • ⏱️ 6:41 • 9h ago
-
----
-
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
-
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
-
-📺 The Straits Times
-
-👁️ 190K • 👍 915 • 💬 303 • ⏱️ 0:47 • 5d ago
-
----
-
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=8FCykVCNXic)**
-
-robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
-
-📺 She Shorts AI
-
-👁️ 287K • 👍 1K • 💬 6 • ⏱️ 0:11 • 5d ago
+👁️ 125K • 👍 2K • 💬 916 • ⏱️ 14:26 • 6d ago
 
 ---
 
@@ -248,17 +210,45 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 22K • 👍 90 • 💬 29 • ⏱️ 1:26 • 2d ago
+👁️ 23K • 👍 92 • 💬 31 • ⏱️ 1:26 • 2d ago
 
 ---
 
-**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
+**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
 
-Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
+📺 AI . Robot
 
-📺 TheAIGRID
+👁️ 28K • 👍 400 • 💬 9 • ⏱️ 0:16 • 1d ago
 
-👁️ 19K • 👍 525 • 💬 118 • ⏱️ 42:48 • 7d ago
+---
+
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+
+📺 The Straits Times
+
+👁️ 190K • 👍 916 • 💬 303 • ⏱️ 0:47 • 5d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=8FCykVCNXic)**
+
+robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
+
+📺 She Shorts AI
+
+👁️ 288K • 👍 1K • 💬 6 • ⏱️ 0:11 • 5d ago
+
+---
+
+**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
+
+Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
+
+📺 The Military Show
+
+👁️ 361K • 👍 10K • 💬 577 • ⏱️ 16:55 • 3d ago
 
 ---
 
@@ -268,7 +258,7 @@ How can robots help astronauts survive in space? The National Space Industry Hub
 
 📺 BBC News
 
-👁️ 14K • 👍 292 • 💬 132 • ⏱️ 5:17 • 1d ago
+👁️ 15K • 👍 300 • 💬 132 • ⏱️ 5:17 • 1d ago
 
 ---
 
@@ -278,17 +268,27 @@ I actually turned my smartphone into a desktop pet... This is LOOI Robot by Tang
 
 📺 Kyle Krueger
 
-👁️ 4.8M • 👍 152K • 💬 3K • ⏱️ 0:51 • 4d ago
+👁️ 4.9M • 👍 153K • 💬 3K • ⏱️ 0:51 • 4d ago
 
 ---
 
-**[The lady soldier gave a robotic boat to Dadi. #shorts #ai #indianarmy](https://www.youtube.com/watch?v=mKH0d0dbuP4)**
+**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
 
-An emotional and powerful moment An Indian lady soldier surprises Dadi by gifting her a futuristic robotic boat This ...
+In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
 
-📺 Little chucha 
+📺 Google DeepMind
 
-👁️ 81K • ⏱️ 0:41 • 1d ago
+👁️ 244K • 👍 7K • 💬 536 • ⏱️ 17:44 • 4d ago
+
+---
+
+**[Rack and Pinion Robot Gripper](https://www.youtube.com/watch?v=ZzroNF9NU4A)**
+
+Shop Cleaning Robot - Part 3 ••• Building a robot to clean my workbench for me! The full video is already live, check the link in my ...
+
+📺 Engineezy
+
+👁️ 40K • 👍 1K • 💬 27 • ⏱️ 0:33 • 8h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T22:57:26.346775+00:00'
+updated: '2025-12-14T23:25:02.859646+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 22:57 UTC  
+**Last Updated:** December 14, 2025 at 23:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,082.20
+### $3,065.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -1.8%  
-**30d:** -3.3%  
-**90d:** -31.9%  
-**1y:** -22.5%  
+**24h:** -1.9%  
+**7d:** -1.9%  
+**30d:** -3.4%  
+**90d:** -32.0%  
+**1y:** -22.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $369.48B
+**Market Cap:** $370.83B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
@@ -62,7 +62,7 @@ No max supply
 -38.1%
 
 **All-Time Low:** $0.43
-+707481.7%
++707257.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm trying to grasp the ultimate plan for the ETH blockchain based upon improvement proposals as well as live metrics in order to understand what developers want for the blockchain. Ultimately this is to sell an SLT to possibly invest into ETH. I'm glad that the latest update has made ETH cheaper to transact in which will help with day to day transactions, however this has made the supply inflationary as the burn rate is lower. Is the goal to have a slight amount of inflation? Is the goal to have an elastic supply where issuance and burn rate are roughly the same? or is the goal for a strictly deflationary supply? From a value proposition this matters and I feel like the Devs haven't really put their feet down on what their intentions are. (I could be very wrong.) My main criticism of the first smart contract project is that they often don't clarify their thoughts until there is a bull run. I'm open to thoughts, articles and conversation. I'm just trying to educate myself as much as possible. Thank you in advance.
 
-20h ago
+21h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 2d ago
 
 Ethereum approaches whale levels: Is greed fueling the next crash?
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -180,21 +180,13 @@ Yahoo Finance • 2d ago
 
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
 Binance • 2d ago
-
----
-
-**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
-
-Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
-
-Nasdaq • 11h ago
 
 ---
 
@@ -222,9 +214,17 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
+
+Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
+
+Nasdaq • 11h ago
+
+---
+
 **[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
 
-TipRanks • 12h ago
+TipRanks • 13h ago
 
 ---
 
@@ -232,13 +232,23 @@ TipRanks • 12h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JI8ZbMLvojQ)**
+
+BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 210 • 💬 25 • ⏱️ 20:08 • 2h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJcS4Gn5_Ak)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 4 • ⏱️ 8:04 • 6h ago
+👁️ 2K • 👍 132 • 💬 4 • ⏱️ 8:04 • 7h ago
 
 ---
 
@@ -248,7 +258,27 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 62K • 👍 3K • 💬 284 • ⏱️ 31:03 • 2d ago
+👁️ 64K • 👍 3K • 💬 288 • ⏱️ 31:03 • 2d ago
+
+---
+
+**[Raoul Pal: &quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” New 2026 Crypto Cycle Prediction](https://www.youtube.com/watch?v=dK9fW80oEng)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 15K • 👍 630 • 💬 43 • ⏱️ 20:45 • 1d ago
+
+---
+
+**[Live Strategy CEO - Michael Saylor on Bitcoin Crash &amp; MSTR Drop](https://www.youtube.com/watch?v=6YaYSeGYd8A)**
+
+bitcoin #btc #mstr #BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference.
+
+📺 YWM 
+
+👁️ 43K • 👍 2K • 4h ago
 
 ---
 
@@ -268,17 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 120 • 💬 4 • ⏱️ 4:34 • 18h ago
-
----
-
-**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
-
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 10K • 👍 595 • 💬 38 • ⏱️ 14:28 • 1d ago
+👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:34 • 18h ago
 
 ---
 
@@ -288,47 +308,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 221 • 💬 12 • ⏱️ 21:14 • 1d ago
+👁️ 6K • 👍 223 • 💬 12 • ⏱️ 21:14 • 1d ago
 
 ---
 
-**[Massive Breakouts Incoming: ETH &amp; BMNR Targets + Key Levels](https://www.youtube.com/watch?v=m71lOmLon38)**
+**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
 
-Ethereum is coiling for a major move, but the biggest opportunity might be the stock that Fundstrat's Tom Lee calls the ...
+Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
 
-📺 CryptoStock Lab
+📺 Discover Crypto
 
-👁️ 2K • 👍 50 • 💬 16 • ⏱️ 15:09 • 1d ago
-
----
-
-**[I Tested a New “Free Ethereum” App in 2025 | Honest Review](https://www.youtube.com/watch?v=DnYsp48X65s)**
-
-Is it even possible to get “free Ethereum” in 2025? In this video, I'm checking one of the newest “Free ETH” methods that people ...
-
-📺 KYLE MADDOX
-
-👁️ 5K • 👍 839 • 💬 109 • ⏱️ 5:50 • 2d ago
+👁️ 7K • 👍 457 • 💬 14 • ⏱️ 48:44 • 2d ago
 
 ---
 
-**[Raoul Pal: &quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” New 2026 Crypto Cycle Prediction](https://www.youtube.com/watch?v=dK9fW80oEng)**
+**[How BMNR Could Earn $400M/Year from Ethereum Staking Alone](https://www.youtube.com/watch?v=wuRVYdRfDQ8)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Wall Street treats BitMine Immersion ($BMNR) like a passive Bitcoin ETF. They are missing the most important part of the thesis: ...
 
-📺 Crypto Nutshell
+📺 Wall Street Stockcast
 
-👁️ 14K • 👍 595 • 💬 38 • ⏱️ 20:45 • 1d ago
-
----
-
-**[BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wW7XFfYMF7g)**
-
-BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 400 • 💬 46 • ⏱️ 18:12 • 1d ago
+👁️ 405 • 👍 15 • ⏱️ 7:25 • 11h ago
 
 ---
 
