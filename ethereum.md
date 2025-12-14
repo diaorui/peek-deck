@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T22:32:27.863097+00:00'
+updated: '2025-12-14T22:46:25.370189+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 22:32 UTC  
+**Last Updated:** December 14, 2025 at 22:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -2.0%  
-**30d:** -3.5%  
-**90d:** -32.0%  
-**1y:** -22.6%  
+**24h:** -1.8%  
+**7d:** -2.2%  
+**30d:** -3.7%  
+**90d:** -32.1%  
+**1y:** -22.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.19B
+**Market Cap:** $369.48B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.6%
+-38.1%
 
 **All-Time Low:** $0.43
-+713017.7%
++707481.7%
 
 ---
 
@@ -222,11 +222,9 @@ The Motley Fool • 2d ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-latest-news-analyst-forecasts-and-whats-driving-the-ethereum-treasury-trade-dec-12-2025/)**
+**[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
 
-BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
-
-ts2.tech • 2d ago
+TipRanks • 12h ago
 
 ---
 

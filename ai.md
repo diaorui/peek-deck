@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T22:32:27.850451+00:00'
+updated: '2025-12-14T22:46:25.355799+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 22:32 UTC  
+**Last Updated:** December 14, 2025 at 22:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-10h ago
+11h ago
 
 ---
 
@@ -85,7 +85,7 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-14h ago
+15h ago
 
 ---
 
@@ -117,6 +117,12 @@ For now
 
 ## Google News: "ai"
 
+**[Introducing GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)**
+
+OpenAI • 3d ago
+
+---
+
 **[The View From Inside the AI Bubble](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/)**
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
@@ -125,19 +131,17 @@ The Atlantic • 10h ago
 
 ---
 
+**[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
+
+Bloomberg.com • 8h ago
+
+---
+
 **[Is A.I. Actually a Bubble?](https://www.newyorker.com/culture/open-questions/is-ai-actually-a-bubble)**
 
 The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
 
 The New Yorker • 2d ago
-
----
-
-**[Expert warns this stock is signaling start of AI bubble burst](https://finbold.com/expert-warns-this-stock-is-signaling-start-of-ai-bubble-burst/)**
-
-Amid lingering concerns about a possible AI ubble, a trading expert has warned that AMD may be flashing early warning signs.
-
-Finbold • 9h ago
 
 ---
 
@@ -151,21 +155,19 @@ The Economist • 11h ago
 
 Both of these top tech companies have established leadership roles in the AI industry.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Exclusive | CEOs to Keep Spending on AI, Despite Spotty Returns](https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b9?gaa_at=eafs&gaa_n=AWEtsqcifiMVuYiBv0nfIb4K688kYSSVFNeElYrygqFGa_lwtsDJ0vcaEbRa&gaa_ts=693f38f0&gaa_sig=Zx-TpVX2kmfB_oZFVlMPdjC8zXk7jMDv-_qJuExhielqRyUL9ULqlnufeUDmX-LudHXy0XgWfTynFJePP3z9EA%3D%3D)**
+**[Exclusive | CEOs to Keep Spending on AI, Despite Spotty Returns](https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b9?gaa_at=eafs&gaa_n=AWEtsqcWFF1MJKfDcLv60M24iKD6MXyZofH9RijoumPd5nWAkbhXfxMDqOo5&gaa_ts=693f41b1&gaa_sig=23ncjpqJYYQzHuFW8CoiojiH8JtEvJsT_SSiIP4vCD7t6S3hbVgCeQD7vvliCgwerVUHRngPF1-3jxoXm2WZuA%3D%3D)**
 
 The Wall Street Journal • 1h ago
 
 ---
 
-**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://edition.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
+**[Trump’s AI moratorium threatens state-level crackdowns on housing costs](https://www.politico.com/news/2025/12/14/trumps-ai-moratorium-threatens-state-level-crackdown-on-housing-costs-00688789)**
 
-President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
-
-CNN • 2d ago
+Politico • 5h ago
 
 ---
 
@@ -174,12 +176,6 @@ CNN • 2d ago
 Dimon added that people who possess soft skills will have "plenty of jobs."
 
 Fortune • 13h ago
-
----
-
-**[It's beginning to look a lot like (AI) Christmas](https://www.axios.com/2025/12/14/ai-christmas-nativity-visuals-sermons-jesus)**
-
-Axios • 9h ago
 
 ---
 
@@ -199,13 +195,13 @@ BBC • 21h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 527 • 💬 285 • 2d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 529 • 💬 285 • 2d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 418 • 💬 412 • 1d ago
+⬆️ 422 • 💬 413 • 1d ago
 
 ---
 
@@ -213,7 +209,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 188 • 💬 77 • 9h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 192 • 💬 82 • 9h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -229,7 +225,15 @@ A summary of the techniques in place to protect my git forge
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 133 • 💬 189 • 10h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 136 • 💬 193 • 10h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+
+---
+
+**[If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://news.ycombinator.com/item?id=46260106)**
+
+In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
+
+⬆️ 131 • 💬 85 • 21h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -238,14 +242,6 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
 ⬆️ 130 • 💬 242 • 2d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
-
----
-
-**[If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://news.ycombinator.com/item?id=46260106)**
-
-In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
-
-⬆️ 130 • 💬 85 • 20h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -261,7 +257,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 Brian Merchant has been collecting personal stories for his series AI Killed My Job - previously covering tech workers, translators, and artists - and this latest piece includes anecdotes from …
 
-⬆️ 75 • 💬 80 • 12h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
+⬆️ 75 • 💬 81 • 12h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
 
 ---
 
@@ -387,7 +383,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,696 • 6d ago
+⬇️ 277,583 • ❤️ 2,697 • 6d ago
 
 ---
 
@@ -399,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 130,627 • ❤️ 821 • 2d ago
+⬇️ 130,627 • ❤️ 822 • 2d ago
 
 ---
 
@@ -411,7 +407,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 67,698 • ❤️ 414 • 5d ago
+⬇️ 67,698 • ❤️ 415 • 5d ago
 
 ---
 
@@ -423,7 +419,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 331 • 5h ago
+⬇️ 15,778 • ❤️ 332 • 6h ago
 
 ---
 
@@ -483,7 +479,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,725 • ❤️ 197 • 5h ago
+⬇️ 4,725 • ❤️ 197 • 6h ago
 
 ---
 
@@ -539,7 +535,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 193 • 💬 4 • ⭐ 6,853 • 17d ago
+▲ 193 • 💬 4 • ⭐ 6,875 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -655,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.8k • 🔱 319 • 5h ago
+⭐ 2.9k • 🔱 319 • 5h ago
 
 ---
 

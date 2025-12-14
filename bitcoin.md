@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T22:32:27.857880+00:00'
+updated: '2025-12-14T22:46:25.364137+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 22:32 UTC  
+**Last Updated:** December 14, 2025 at 22:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -2.4%  
-**7d:** -2.9%  
+**7d:** -3.0%  
 **30d:** -7.7%  
 **90d:** -24.6%  
 **1y:** -15.5%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1766.75B
+**Market Cap:** $1759.25B
 Rank #1
 
 **Circulating Supply:** 19,962,165 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.8%
+-30.1%
 
 **All-Time Low:** $67.81
-+130509.1%
++129919.2%
 
 ---
 
@@ -79,15 +79,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-7h ago
-
----
-
-**[This is the bottom. When Bitcoin hovers in a range, it’s packing dry powder in the cannon. I am calling it.](https://www.reddit.com/r/Bitcoin/comments/1pmmm98/this_is_the_bottom_when_bitcoin_hovers_in_a_range/)**
-
-Get in now or kick yourself in a few years.
-
-3h ago
+8h ago
 
 ---
 
@@ -97,17 +89,17 @@ Get in now or kick yourself in a few years.
 
 ---
 
+**[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
+
+1h ago
+
+---
+
 **[I am now a whole coiner](https://www.reddit.com/r/Bitcoin/comments/1pmnnkq/i_am_now_a_whole_coiner/)**
 
 Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
 
 2h ago
-
----
-
-**[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
-
-1h ago
 
 ---
 
@@ -143,21 +135,45 @@ I can’t help myself. I know I should wait for a bigger correction that’s lik
 
 ---
 
+**[Herd Mentality](https://www.reddit.com/r/Bitcoin/comments/1pmbesb/herd_mentality/)**
+
+Cross post
+
+11h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Below $90K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
+**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
 
-Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
+Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
 
-CoinDesk • 8h ago
+CoinDesk • 1d ago
+
+---
+
+**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://www.fool.com/investing/2025/12/14/which-cryptocurrency-has-more-upside-bitcoin-vs-ca/)**
+
+This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
+
+The Motley Fool • 4h ago
+
+---
+
+**[Crypto winter could spur 'Darwinian phase' for digital asset treasury companies](https://finance.yahoo.com/news/crypto-winter-could-spur-darwinian-phase-for-digital-asset-treasury-companies-150010208.html)**
+
+Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 1d ago
+reuters.com • 1d ago
 
 ---
 
@@ -172,14 +188,6 @@ Yahoo Finance • 1d ago
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
 Investor's Business Daily • 1d ago
-
----
-
-**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://www.nasdaq.com/articles/which-cryptocurrency-has-more-upside-bitcoin-vs-cardano)**
-
-Key PointsCardano is approaching one of its largest-ever growth opportunities.
-
-Nasdaq • 4h ago
 
 ---
 
@@ -202,14 +210,6 @@ CoinDesk • 1d ago
 **[Key facts: Bitcoin ETFs see $237M inflows; Grayscale predicts 2026 high](https://www.tradingview.com/news/tradingview:c4734af0513af:0-key-facts-bitcoin-etfs-see-237m-inflows-grayscale-predicts-2026-high/)**
 
 TradingView — Track All Markets • 22h ago
-
----
-
-**[Bitcoin creator Satoshi disappeared on this day 15 years ago, leaving a final public message — 'I've moved on to other things,' true identity of Satoshi Nakamoto entity remains unknown](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)**
-
-Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
-
-Tom's Hardware • 1d ago
 
 ---
 
@@ -293,7 +293,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 39K • 👍 3K • 💬 290 • ⏱️ 17:53 • 6h ago
+👁️ 39K • 👍 3K • 💬 290 • ⏱️ 17:53 • 7h ago
 
 ---
 
@@ -313,7 +313,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 166 • 💬 28 • ⏱️ 17:54 • 3h ago
+👁️ 2K • 👍 166 • 💬 28 • ⏱️ 17:54 • 4h ago
 
 ---
 

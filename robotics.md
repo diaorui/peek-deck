@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T22:32:27.865828+00:00'
+updated: '2025-12-14T22:46:25.373419+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 22:32 UTC  
+**Last Updated:** December 14, 2025 at 22:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,14 +32,6 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Next gen drones infrastructure by Zipline](https://www.reddit.com/r/robotics/comments/1pmam73/next_gen_drones_infrastructure_by_zipline/)**
-
-From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
-
-12h ago
-
----
-
 **[Marc Raibert's new 'RAI Institute' reveals the UMV: A reinforcement-learning robot that teaches itself to bunny hop and 'dance'](https://www.reddit.com/r/robotics/comments/1pmp2lt/marc_raiberts_new_rai_institute_reveals_the_umv_a/)**
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
@@ -48,11 +40,19 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 ---
 
+**[Next gen drones infrastructure by Zipline](https://www.reddit.com/r/robotics/comments/1pmam73/next_gen_drones_infrastructure_by_zipline/)**
+
+From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
+
+12h ago
+
+---
+
 **[Unitree Debuts the World’s First Humanoid Robot “App Store”. It welcomes users and developers worldwide to co-develop and share together. Exceptional developers will receive rewards.](https://www.reddit.com/r/robotics/comments/1pmc3du/unitree_debuts_the_worlds_first_humanoid_robot/)**
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
-10h ago
+11h ago
 
 ---
 
@@ -61,6 +61,14 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
 12h ago
+
+---
+
+**[Reachy arrives Wednesday. Now what?](https://www.reddit.com/r/robotics/comments/1pmqkcf/reachy_arrives_wednesday_now_what/)**
+
+My Reachy Mini arrives on Wednesday. I am trying to figure out what to do first. Is it possible for me to program it as an assistant (secretary) in my office if I am not there? Can people in the office leave messages with my Reachy like a secretary would and maybe even send me a message if they are needing me? I think something like this would be crazy cute and also useful. I am assuming I can program it to dance or do something interesting every once in a while if it is bored. Where do I start? Python? Has anyone received theirs and started setting it up? How much of a learning curve is there? I work in IT.
+
+35m ago
 
 ---
 
@@ -80,7 +88,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[MuJoCo-rs 2.2.0: New release of Rust bindings and idiomatic wrappers around the MuJoCo simulation library](https://www.reddit.com/r/robotics/comments/1pmmtdp/mujocors_220_new_release_of_rust_bindings_and/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -100,19 +108,13 @@ We’ll be sharing performance and application demos. Comments and discussion ar
 
 ---
 
-**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 1h ago
+The New York Times • 12h ago
 
 ---
 
@@ -148,11 +150,11 @@ CNET • 14h ago
 
 ---
 
-**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
+**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://finance.yahoo.com/news/94-billion-robotics-market-set-194400551.html)**
 
-The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
+This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-The Motley Fool • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -164,19 +166,19 @@ IEEE Spectrum • 3d ago
 
 ---
 
+**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
+
+The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
+
+The Motley Fool • 3h ago
+
+---
+
 **[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
 
 Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
 
 NVIDIA Developer • 3d ago
-
----
-
-**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://finance.yahoo.com/news/94-billion-robotics-market-set-194400551.html)**
-
-This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
-
-Yahoo Finance • 1d ago
 
 ---
 
