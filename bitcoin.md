@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T15:48:19.628218+00:00'
+updated: '2025-12-14T15:59:26.612640+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 15:48 UTC  
+**Last Updated:** December 14, 2025 at 15:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -1.8%  
-**30d:** -6.7%  
-**90d:** -23.7%  
-**1y:** -14.5%  
+**24h:** -1.4%  
+**7d:** -2.1%  
+**30d:** -6.9%  
+**90d:** -23.9%  
+**1y:** -14.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1777.54B
+**Market Cap:** $1776.63B
 Rank #1
 
-**Circulating Supply:** 19,962,043 BTC
+**Circulating Supply:** 19,962,062 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.4%
 
 **All-Time Low:** $67.81
-+131225.8%
++131166.8%
 
 ---
 
@@ -79,12 +79,6 @@ Rank #1
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-10h ago
-
----
-
-**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
-
 11h ago
 
 ---
@@ -95,15 +89,15 @@ Rank #1
 
 ---
 
-**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
-
-11h ago
-
----
-
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
 19h ago
+
+---
+
+**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
+
+12h ago
 
 ---
 
@@ -119,27 +113,33 @@ Rank #1
 
 ---
 
+**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
+
+12h ago
+
+---
+
+**[Turns out saving in something that is infinite and printable is not a very good idea](https://www.reddit.com/r/Bitcoin/comments/1pmfaof/turns_out_saving_in_something_that_is_infinite/)**
+
+Turns out saving in something that is infinite and printable is not a very good idea. Who would know?
+
+1h ago
+
+---
+
+**[How it all started](https://www.reddit.com/r/Bitcoin/comments/1pmd3uu/how_it_all_started/)**
+
+Simply lovely
+
+3h ago
+
+---
+
 **[Herd Mentality](https://www.reddit.com/r/Bitcoin/comments/1pmbesb/herd_mentality/)**
 
 Cross post
 
-4h ago
-
----
-
-**[Are We Still Early?](https://www.reddit.com/r/Bitcoin/comments/1plottv/are_we_still_early/)**
-
-Yes. Yes we are.
-
-23h ago
-
----
-
-**[I finally acquired 1 whole bitcoin at 28 years old.](https://www.reddit.com/r/Bitcoin/comments/1plhsu8/i_finally_acquired_1_whole_bitcoin_at_28_years_old/)**
-
-This will age well in 10 years. See you then.
-
-1d ago
+5h ago
 
 ---
 
@@ -147,19 +147,19 @@ This will age well in 10 years. See you then.
 
 ## Google News: "bitcoin"
 
+**[Bitcoin Below $90K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
+
+Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
+
+CoinDesk • 2h ago
+
+---
+
 **[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
 The Motley Fool • 6h ago
-
----
-
-**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
-
-Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
-
-CoinDesk • 20h ago
 
 ---
 
@@ -171,43 +171,19 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin Below $90K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
-
-Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
-
-CoinDesk • 1h ago
-
----
-
-**[Why Is Bitcoin Not Going Up After The Fed Cut Rates?](https://finance.yahoo.com/news/why-bitcoin-not-going-fed-193106033.html)**
-
-The Federal Reserve delivered its third straight 25 basis points rate cut to close out 2025, briefly lifting retail optimism for Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) before the market quickly reversed course. What Happened: On-chain ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Slides Below $90,000 After Fed Cut Even as Stocks Rally](https://www.bloomberg.com/news/articles/2025-12-11/bitcoin-btc-slides-below-90-000-after-fed-cut-while-stocks-rally)**
-
-Bitcoin veered back toward the lower portion of its recent trading range amid lingering concern about demand for risky assets.
-
-Bloomberg.com • 2d ago
-
----
-
-**[Bitfarms Stock: The Bitcoin Mining Play to Watch](https://www.fool.com/investing/2025/12/14/bitfarms-stock-the-bitcoin-mining-play-to-watch/)**
-
-Bitfarms is more an AI play than a Bitcoin mining one.
-
-The Motley Fool • 3h ago
-
----
-
 **[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
+
+Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -219,11 +195,29 @@ CoinDesk • 22h ago
 
 ---
 
-**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
+**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
+x.com • 20h ago
 
-Bitcoin Magazine • 1d ago
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+
+Reuters • 1d ago
+
+---
+
+**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+
+Forbes • 4h ago
 
 ---
 
@@ -243,7 +237,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 23h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 3 • 23h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -287,7 +281,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 4d ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 5d ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T15:48:19.619516+00:00'
+updated: '2025-12-14T15:59:26.605049+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 15:48 UTC  
+**Last Updated:** December 14, 2025 at 15:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Fei-Fei Li, a Stanford professor and CEO of AI startup World Labs, known as the 'Godmother of AI' says degrees are less important in hiring than how quickly you can ‘superpower yourself’ with new tools](https://www.reddit.com/r/artificial/comments/1plx3ah/feifei_li_a_stanford_professor_and_ceo_of_ai/)**
-
-Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
-
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 17h ago
-
----
-
 **[Exploring a more direct way to edit AI images after getting frustrated myself](https://www.reddit.com/r/artificial/comments/1pmc0h3/exploring_a_more_direct_way_to_edit_ai_images/)**
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
 4h ago
+
+---
+
+**[Fei-Fei Li, a Stanford professor and CEO of AI startup World Labs, known as the 'Godmother of AI' says degrees are less important in hiring than how quickly you can ‘superpower yourself’ with new tools](https://www.reddit.com/r/artificial/comments/1plx3ah/feifei_li_a_stanford_professor_and_ceo_of_ai/)**
+
+Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
+
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 18h ago
 
 ---
 
@@ -62,6 +62,14 @@ A lot of AI image tools are powerful, but they rely heavily on long, precise pro
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
 17h ago
+
+---
+
+**[The View From Inside the AI Bubble](https://www.reddit.com/r/artificial/comments/1pmh27t/the_view_from_inside_the_ai_bubble/)**
+
+Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
+
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 15m ago
 
 ---
 
@@ -101,15 +109,7 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. However, i only have dual RTX 2080TIs and training is painfully slow. Currently working on training a model through the tinystories dataset and then will be running eval tests. Ill update when i can with more information. If you want to check it out here it is: https://github.com/Wulfic/AI-OS
 
-12h ago
-
----
-
-**[Sam Altman Got What He Wanted](https://www.reddit.com/r/artificial/comments/1plowm2/sam_altman_got_what_he_wanted/)**
-
-For now
-
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 23h ago
+13h ago
 
 ---
 
@@ -139,6 +139,12 @@ Axios • 3h ago
 
 ---
 
+**[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
+
+Bloomberg.com • 1h ago
+
+---
+
 **[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
 
 California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
@@ -147,33 +153,11 @@ The Guardian • 1d ago
 
 ---
 
-**[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
-
-Bloomberg.com • 1h ago
-
----
-
 **[He created Grand Theft Auto. Now he's back with a novel about an AI that hijacks your mind](https://www.bbc.com/news/articles/c2epm9z9kkvo)**
 
 A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
 
-BBC • 14h ago
-
----
-
-**[For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)**
-
-If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
-
-WIRED • 8h ago
-
----
-
-**[Working with AI can be even more efficient with this all-in-one platform](https://mashable.com/article/dec-14-1minai-advanced-business-plan-lifetime-subscription)**
-
-Experience the next level of AI efficiency.
-
-Mashable • 5h ago
+BBC • 15h ago
 
 ---
 
@@ -183,11 +167,27 @@ The Economist • 4h ago
 
 ---
 
-**[Could Nvidia Be the Most Undervalued Stock in AI Right Now and Be Ready to Soar in 2026?](https://www.fool.com/investing/2025/12/14/could-nvidia-be-the-most-undervalued-stock-in-ai-r/)**
+**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
 
-Here's why Nvidia may be one of the most undervalued artificial intelligence (AI) stocks.
+The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
 
-The Motley Fool • 10h ago
+Time Magazine • 3d ago
+
+---
+
+**[Israel joins US-led ‘Pax Silica’ initiative to cooperate on securing AI supply chains](https://www.timesofisrael.com/israel-joins-us-led-pax-silica-initiative-to-cooperate-on-securing-ai-supply-chains/)**
+
+PM's economic adviser touts 'mark of distinction for Israel,' as US, seven allies launch effort to 'shape a new, sustainable economic order for the age of artificial intelligence'
+
+The Times of Israel • 20h ago
+
+---
+
+**[Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia](https://www.cnbc.com/2025/12/12/broadcom-tumbles-10percent-after-earnings-as-ai-trade-sells-off-.html)**
+
+Even with better-than-expected earnings and revenue, Broadcom slid on Friday as investors  continued to grow concerned about the AI trade.
+
+CNBC • 1d ago
 
 ---
 
@@ -199,13 +199,13 @@ The Motley Fool • 10h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 523 • 💬 281 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 524 • 💬 281 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 386 • 💬 387 • 1d ago
+⬆️ 390 • 💬 392 • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 121 • 💬 72 • 14h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 123 • 💬 73 • 14h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -249,17 +249,11 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 ---
 
-**[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
-
-⬆️ 62 • 💬 55 • 18h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
-
----
-
 **[AI and the ironies of automation – Part 2](https://news.ycombinator.com/item?id=46262816)**
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 62 • 💬 9 • 2h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 78 • 💬 18 • 2h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -267,7 +261,13 @@ Some (well-known) consequences of AI automating work
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 58 • 💬 84 • 3h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 73 • 💬 103 • 3h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+
+---
+
+**[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
+
+⬆️ 62 • 💬 55 • 19h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -291,7 +291,7 @@ Dog V/S Dog – AI Generated Epic Fight Is AI generated Shorts video mein aap de
 
 📺 ZX_SONU_EDITDZ
 
-👁️ 3K • 💬 8 • ⏱️ 0:47 • 14h ago
+👁️ 3K • 💬 8 • ⏱️ 0:47 • 15h ago
 
 ---
 
@@ -387,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,685 • 5d ago
+⬇️ 277,583 • ❤️ 2,686 • 5d ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 67,698 • ❤️ 405 • 4d ago
+⬇️ 67,698 • ❤️ 406 • 4d ago
 
 ---
 
@@ -459,7 +459,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 5,553 • ❤️ 196 • 2d ago
+⬇️ 5,553 • ❤️ 197 • 2d ago
 
 ---
 
@@ -495,7 +495,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 173 • 3d ago
+⬇️ 0 • ❤️ 174 • 3d ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.8k • 🔱 315 • 7m ago
+⭐ 2.8k • 🔱 315 • 18m ago
 
 ---
 
@@ -667,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.7k • 🔱 138 • 5d ago
+⭐ 1.7k • 🔱 138 • 6d ago
 
 ---
 

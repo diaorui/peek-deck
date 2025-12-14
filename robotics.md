@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T15:48:19.637928+00:00'
+updated: '2025-12-14T15:59:26.620852+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 15:48 UTC  
+**Last Updated:** December 14, 2025 at 15:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,13 +74,21 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-10h ago
+11h ago
 
 ---
 
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
 18h ago
+
+---
+
+**[Reachy mini - local setup](https://www.reddit.com/r/robotics/comments/1pmh70c/reachy_mini_local_setup/)**
+
+Hello! I got a Reachy Mini (the wireless version) and I’m receiving it next week! I want to be able to run my models locally but I’m afraid I don’t have the right setup for this. In total what I have is a MacBook Pro Max M1 (64Go) and an MSI with a 4080. We also have a Lenovo with 5080 but that’s my husband’s and I want my own 😅 Is it worth it to get a 5090? Or would a 5080 do the job? It’s for research purposes (solo) and experimenting with nice powerful models. And do you have a more wallet friendly approach? Also do you recommend just buying the computer or building one? (Which option is cheaper?)
+
+🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 10m ago
 
 ---
 
@@ -92,17 +100,9 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 ---
 
-**[Marché Humanoides - Premiers gagnants : VPG MVIS HarmonicDriveSystem... etc.](https://www.reddit.com/r/robotics/comments/1pmbflm/marché_humanoides_premiers_gagnants_vpg_mvis/)**
+**[Figure03 robot serving beer](https://www.reddit.com/r/robotics/comments/1pme28o/figure03_robot_serving_beer/)**
 
-4h ago
-
----
-
-**[PX4 SIL fixed-wing and multirotor Simulator using Simulink](https://www.reddit.com/r/robotics/comments/1pm2vea/px4_sil_fixedwing_and_multirotor_simulator_using/)**
-
-What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
-
-13h ago
+2h ago
 
 ---
 

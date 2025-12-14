@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T15:48:19.634538+00:00'
+updated: '2025-12-14T15:59:26.618018+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 15:48 UTC  
+**Last Updated:** December 14, 2025 at 15:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,084.80
+### $3,084.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -1.4%  
-**30d:** -2.9%  
-**90d:** -31.6%  
-**1y:** -22.2%  
+**24h:** -0.6%  
+**7d:** -1.2%  
+**30d:** -2.7%  
+**90d:** -31.5%  
+**1y:** -22.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $371.18B
+**Market Cap:** $372.14B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.8%
+-37.7%
 
 **All-Time Low:** $0.43
-+710070.7%
++712110.1%
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, total crypto newbie here. I need some guidance and expert advice on the best way to approach my financial needs. Context: I live in a developing country, and I am in desperate need of financial freedom. I started looking into stablecoins, especially USDT. I am not really looking into trading. My use case: Relative or friend in europe, they buy USDT on Binance or any other exchange platform, send that USDT to my Trust wallet. I store it, and occasionally send some pocket money to Redotpay to spend using their virtual visa card. That is pretty much about it. Storing it and spending with Redotpay. Not super interested in p2p market. So i dont think i will need to sell my USDT that often, almost never. So the market standard for p2p transactions isnt really a big concern. Might be interested in trading one day, but not for now. This is just for my personal finances and spending. The question I need help with: Should I use Ethereum or Tron. My findings with the research I did: Tron has cheaper gas fee, for when I transfer to Redotpay. But apparently Eth have dropped their transfer rates for USDT, and a lot of people claim it is around the same price now. Because the numbers I found are a little worrying: around 1 USD for Tron and between 3-8 USD for Eth. If you have any information about the rates that would be great. I am more inclined towards Eth to be fair. I just like the idea of a trully decentralized chain. And it has been king over a decade for good reasons. Also it is more secure. With the new EIP-7702 on Eth, you can now pay gas fee for transfers with USDT, which is very interesting, as I am not very comfortable with juggling two currencies. Since per my understanding, I need to always have TRX reserve in my Trust wallet to be able to send to Redotpay. Are the fees really that different to justify skipping on EIP-7702 ? Some people mentioned using an L2 on Eth. I honestly have no idea what that is. If i have got any concepts misunderstood, I would appreciate any clarifications and guidance. I still got a lot to learn about this field.
 
-2d ago
+3d ago
 
 ---
 
@@ -176,19 +176,19 @@ The Motley Fool • 4h ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://finance.yahoo.com/news/better-buy-2026-ethereum-xrp-115000740.html)**
-
-If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
-
-Yahoo Finance • 3h ago
-
----
-
 **[Prysm Bug Cost Ethereum Validators Over $1 Million After Fusaka Upgrade](https://finance.yahoo.com/news/prysm-bug-cost-ethereum-validators-130000701.html)**
 
 A software bug in Ethereum consensus client Prysm caused validators to miss out on 382 ETH, worth more than $1 million.
 
 Yahoo Finance • 2h ago
+
+---
+
+**[Better Buy in 2026: Ethereum or XRP?](https://finance.yahoo.com/news/better-buy-2026-ethereum-xrp-115000740.html)**
+
+If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -198,19 +198,19 @@ Binance • 2d ago
 
 ---
 
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
-
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
-
-CoinDesk • 2d ago
-
----
-
 **[Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment](https://ambcrypto.com/greed-vs-fear-at-3k-inside-ethereums-make-or-break-moment/)**
 
 Ethereum approaches whale levels: Is greed fueling the next crash?
 
 AMBCrypto • 16h ago
+
+---
+
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
+
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
+
+CoinDesk • 2d ago
 
 ---
 
