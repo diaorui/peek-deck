@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T17:44:33.655005+00:00'
+updated: '2025-12-14T17:55:12.074132+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 17:44 UTC  
+**Last Updated:** December 14, 2025 at 17:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -91,7 +91,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -131,13 +131,13 @@ Cross post
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-33m ago
+43m ago
 
 ---
 
 **[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ Cross post
 
 Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 15h ago
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
@@ -217,7 +217,7 @@ Yahoo Finance • 20h ago
 
 Itaú Asset Management, the investment arm of Brazil's biggest private bank, advises investors to allocate 1% to 3% of their portfolios to Bitcoin in 2026 to improve diversification and hedge currency risk.
 
-Bitbo • 22h ago
+Bitbo • 23h ago
 
 ---
 
