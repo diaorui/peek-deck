@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T01:13:42.292162+00:00'
+updated: '2025-12-14T03:07:50.538374+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 01:13 UTC  
+**Last Updated:** December 14, 2025 at 03:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,378.98
+### $90,268.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -0.7%  
-**30d:** -5.6%  
-**90d:** -22.8%  
-**1y:** -13.5%  
+**24h:** +0.0%  
+**7d:** -0.5%  
+**30d:** -5.4%  
+**90d:** -22.7%  
+**1y:** -13.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1803.22B
+**Market Cap:** $1802.30B
 Rank #1
 
-**Circulating Supply:** 19,961,812 BTC
+**Circulating Supply:** 19,961,840 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.3%
+-28.4%
 
 **All-Time Low:** $67.81
-+133150.3%
++133061.8%
 
 ---
 
@@ -77,15 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
+
+3h ago
+
+---
+
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-4h ago
+6h ago
+
+---
+
+**[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
+
+5h ago
 
 ---
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -93,7 +105,7 @@ Rank #1
 
 Yes. Yes we are.
 
-9h ago
+11h ago
 
 ---
 
@@ -101,43 +113,29 @@ Yes. Yes we are.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-10h ago
-
----
-
-**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
-
-1h ago
-
----
-
-**[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
-
-3h ago
-
----
-
-**[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
-
-21h ago
+12h ago
 
 ---
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-14h ago
+16h ago
+
+---
+
+**[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
+
+23h ago
 
 ---
 
 **[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-13h ago
+15h ago
 
 ---
 
-**[Explain to a noob: the purpose of "never sell"?](https://www.reddit.com/r/Bitcoin/comments/1plyba1/explain_to_a_noob_the_purpose_of_never_sell/)**
-
-I get the generic idea that long-term gains are better (e.g. 10-20 years versus 1-5 years) But I sometimes read posts on here and elsewhere and legitimately get the feeling that some people quite literally do not plan on selling any portion of it, ever. Is there a psychology behind that? I am doing Crypto literally just to attempt to get about £500k. If I can get that, I will not need more. So I guess I am just curious of the mentality of those who currently - at the age of idk 30 or whatever - have a million or more - and refuse to sell. This is just a curious chat, so no need to melt at me about it for those prone to such things haha :)
+**[2o25 wILl bE mY YEar!](https://www.reddit.com/r/Bitcoin/comments/1pm189r/2o25_will_be_my_year/)**
 
 2h ago
 
@@ -151,21 +149,19 @@ I get the generic idea that long-term gains are better (e.g. 10-20 years versus 
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
 
 ---
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
-**[Is Strategy Stock Yesterday's News?](https://www.fool.com/investing/2025/12/13/is-strategy-stock-yesterdays-news/)**
+**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Strategy stock is down 35% this year, despite Bitcoin's token price being flat. What comes next?
-
-The Motley Fool • 36m ago
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -181,7 +177,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -195,7 +191,7 @@ Bitcoin Magazine • 1d ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 5h ago
+x.com • 7h ago
 
 ---
 
@@ -213,11 +209,11 @@ Forbes • 1d ago
 
 ---
 
-**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
+**[Bank of Japan Set to Hike Rates to 30-Year High, Posing Another Threat to Bitcoin](https://www.coindesk.com/markets/2025/12/13/bank-of-japan-set-to-hike-rates-to-30-year-high-posing-another-threat-to-bitcoin)**
 
-Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
+Rising Japanese rates and a stronger yen threaten carry trades and could pressure crypto markets despite easing U.S. policy.
 
-CoinDesk • 6h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -229,7 +225,7 @@ CoinDesk • 6h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 7h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 9h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -237,7 +233,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 9h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 11h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -295,7 +291,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Bringing Content Authenticity to Video Streaming: C2PA Integration with Bitmovin](https://news.ycombinator.com/item?id=46255322)**
 
-⬆️ 1 • 💬 0 • 9h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
+⬆️ 1 • 💬 0 • 11h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
 
 ---
 
@@ -309,27 +305,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 162 • 💬 15 • ⏱️ 21:16 • 4h ago
-
----
-
-**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 169 • 💬 9 • ⏱️ 21:14 • 10h ago
-
----
-
-**[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
-
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
-
-📺 Anthony Pompliano
-
-👁️ 31K • 👍 2K • 💬 24 • ⏱️ 48:39 • 11h ago
+👁️ 4K • 👍 247 • 💬 16 • ⏱️ 21:16 • 6h ago
 
 ---
 
@@ -339,17 +315,17 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 334 • 💬 96 • ⏱️ 14:22 • 6h ago
+👁️ 6K • 👍 401 • 💬 109 • ⏱️ 14:22 • 8h ago
 
 ---
 
-**[HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News!](https://www.youtube.com/watch?v=2NvsmJHSRcs)**
+**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
 
-HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S FREE CRYPTO WEALTH NEWSLETTER: ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Austin Hilton
+📺 Savvy Finance
 
-👁️ 9K • 👍 516 • 💬 27 • ⏱️ 5:30 • 9h ago
+👁️ 4K • 👍 189 • 💬 9 • ⏱️ 21:14 • 12h ago
 
 ---
 
@@ -359,27 +335,37 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 11K • 👍 450 • 💬 110 • ⏱️ 13:45 • 9h ago
+👁️ 15K • 👍 528 • 💬 55 • ⏱️ 13:45 • 11h ago
 
 ---
 
-**[bitcoin: we are in danger...](https://www.youtube.com/watch?v=4DmpqbcxyYc)**
+**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 Crypto Kid
+📺 Stock Moe
 
-👁️ 907 • 👍 107 • 💬 87 • ⏱️ 8:12 • 3h ago
+👁️ 6K • 👍 454 • 💬 34 • ⏱️ 14:28 • 5h ago
 
 ---
 
-**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=-4IIRMaj4oc)**
+**[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
 
-📺 SoCal Watch Reviews
+📺 Anthony Pompliano
 
-👁️ 4K • 👍 5K • 2h ago
+👁️ 37K • 👍 2K • 💬 24 • ⏱️ 48:39 • 13h ago
+
+---
+
+**[HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News!](https://www.youtube.com/watch?v=2NvsmJHSRcs)**
+
+HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S FREE CRYPTO WEALTH NEWSLETTER: ...
+
+📺 Austin Hilton
+
+👁️ 10K • 👍 542 • 💬 50 • ⏱️ 5:30 • 11h ago
 
 ---
 
@@ -389,17 +375,27 @@ these 6 boring habits don't look impressive… but they're how I plan to win wit
 
 📺 BTC Isla
 
-👁️ 16K • 👍 2K • 💬 225 • ⏱️ 10:24 • 1d ago
+👁️ 17K • 👍 2K • 💬 229 • ⏱️ 10:24 • 1d ago
 
 ---
 
-**[Bitcoin Can SAVE America! (Debt Crisis Solution NOBODY Talks About)](https://www.youtube.com/watch?v=7wsf5P-_eQs)**
+**[bitcoin: we are in danger...](https://www.youtube.com/watch?v=4DmpqbcxyYc)**
 
-America is drowning in debt—and politicians aren't telling you the real solution. In this video, we break down how Bitcoin could ...
+WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
 
-📺 Discover Crypto
+📺 Crypto Kid
 
-👁️ 2K • 👍 151 • 💬 67 • ⏱️ 7:25 • 9h ago
+👁️ 2K • 👍 184 • 💬 69 • ⏱️ 8:12 • 5h ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=jn75jusaBHE)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 df seni visual
+
+👁️ 9K • 👍 3K • 5h ago
 
 ---
 

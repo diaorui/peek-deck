@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T01:13:42.298221+00:00'
+updated: '2025-12-14T03:07:50.544418+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 01:13 UTC  
+**Last Updated:** December 14, 2025 at 03:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.2%  
-**7d:** -0.0%  
+**7d:** +0.1%  
 **30d:** -1.5%  
-**90d:** -30.7%  
-**1y:** -21.1%  
+**90d:** -30.6%  
+**1y:** -21.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.48B
+**Market Cap:** $377.01B
 Rank #2
 
-**Circulating Supply:** 120,695,127 ETH
+**Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-36.8%
 
 **All-Time Low:** $0.43
-+720648.6%
++721540.1%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+21h ago
+
+---
+
+**[Issuance VS Burn Rate](https://www.reddit.com/r/ethereum/comments/1pm2fnj/issuance_vs_burn_rate/)**
+
+Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm trying to grasp the ultimate plan for the ETH blockchain based upon improvement proposals as well as live metrics in order to understand what developers want for the blockchain. Ultimately this is to sell an SLT to possibly invest into ETH. I'm glad that the latest update has made ETH cheaper to transact in which will help with day to day transactions, however this has made the supply inflationary as the burn rate is lower. Is the goal to have a slight amount of inflation? Is the goal to have an elastic supply where issuance and burn rate are roughly the same? or is the goal for a strictly deflationary supply? From a value proposition this matters and I feel like the Devs haven't really put their feet down on what their intentions are. (I could be very wrong.) My main criticism of the first smart contract project is that they often don't clarify their thoughts until there is a bull run. I'm open to thoughts, articles and conversation. I'm just trying to educate myself as much as possible. Thank you in advance.
+
+1h ago
 
 ---
 
@@ -128,7 +136,7 @@ Hi, total crypto newbie here. I need some guidance and expert advice on the best
 
 (This is an EVMavericks production.) During Devconnect 2025 in Buenos Aires, payment apps that bridge stablecoins to Argentina's peso economy were launching, updating, and competing for users. I tested as many of them as I could. Here's what worked, what didn't, and what you should know if you're planning a trip to Argentina with stablecoins in your wallet. Stablecoin Cards I had two debit cards before I started: Metamask and GnosisPay. These worked in most places that accept cards, but were denied a few times. Generally, if one card was denied, the other was as well, so clearly there is something slightly different about them from the card reader point of view. The most noticeable instance of this was Subte turnstiles, which accept bank-issued cards for subway travel, but rejected both of the stablecoin cards consistently. I didn't dare try the cards on the bus, for fear of the driver kicking me off. QR code Payments Many merchants, ranging from kiosks to grocery stores to restaurants accept payment via QR code, usually through Mercado Pago or MODO. The QR payment system is regulated by the Central Bank of Argentina under the Transferencias 3.0 initiative, which requires that all payment service providers and banks use the same standardized QR code generator. There are a number of Web3 apps which plug into this QR scaffolding, making it easy to pay using stablecoins via the apps, as long as you have Internet access. Usually, the merchant generates a QR code for you at the point of sale. You scan this code in the app and then confirm the transaction. Some smaller shops have a static QR code displayed near the cash register. You scan that for the merchant information and then enter the amount yourself, which then sends a confirmation of the amount paid to the checkout. Either way, once you confirm, the funds are debited from your account and the merchant receives pesos with a confirmation on their terminal that you paid. It's all very easy and straightforward. Merchants often reacted with surprise that I, clearly a tourist, was able to pay by QR code, so being able to interact with this system as an outsider is clearly still new. Some merchants only accepted direct transfers and did not have the terminal in order to generate a QR code. None of these apps were able to do a direct transfer in this way. P2P(dot)me The only payment system that I found which felt aligned to Decentralized Finance (permissionless and trustless within a reputation framework) was P2P(dot)me, a decentralized bridge between stablecoins and local bank/payment rails. They match USDC-fiat swaps using smart contracts on Base and a network of "human liquidity providers". At a coffee shop, I entered the cost of my order into the app, where I was matched with an offer taker who wanted to buy my USDC. Then I asked the server for a QR code to pay. I scanned that QR code, which was passed to the taker, who bought my USDC and paid my bill in pesos. It was a little bit slow but well within the tolerances of my coffee shop waitress. I tried it again in a shop where I didn't know how much the bill would be in advance. Even so, it was just fast enough for me to wait for my offer to be accepted and then scan the QR code before the terminal timed out, needing just a little patience from the shopkeeper. You are limited to one transaction a day up to a value of $10 USD unless you go through their zero-knowledge KYC to verify yourself as a user. The limit is raised to 10 transactions and a $100 limit if you verify using a social media account (X, Instagram, Facebook, GitHub). If you verify with LinkedIn or ZKpassport, the limit is raised to $200 per day. I can vouch for the fact that P2P(dot)me worked great in Buenos Aires. It is apparently also popular in India, Brazil and Indonesia. Peanut Cash The belle of the ball was Peanut Cash, with their hot pink messaging and aggressive social media campaign. Peanut allows you to send/request money from other users and to pay for services using QR codes. In order to use QR code payments, you have to KYC with an identity document and your residential information. The actual KYC is done by a third-party and varies somewhat by nationality. The payments are handled by Peanut and their banking/payment partners. Peanut offers perks, up to 20% cashback on specific transactions, based on a tier-based system of referrals and usage. The Chromium app uses passkeys saved with Apple or Google. You can transfer money out of the wallet that they created on your behalf but there is no way to gain control of it: you cannot access or export the private keys. They claim to be self-custodial, as they don't actually hold the funds and can't seize or spend them. I would call the wallet not custodial. During the conference, Peanut announced that you could now use RedATM cash points to withdraw cash from the app via QR, up to 500,000 pesos, which is much more than bank ATMs using foreign cards. This is a big deal: when I tried to use a debit card at a bank ATM, I was limited to 30,000 pesos, about twenty dollars, with a seven dollar transaction fee. Peanut Cash with RedATM allows withdrawals of up to 500,000 pesos with a fee of under $5, which was very useful for getting cash quickly. Yodl Yodl Pay allows you to deposit USDT and pay using QR payment systems in Argentina, Brazil, the Philippines and Vietnam. They also offer Yodl Go for P2P payments among other app users. It is non-KYC with the exception of Argentina. KYC for using the QR payment system within Argentina was through a third-party and asked for government-issued ID and address information. The Yodl mobile app is available through Apple Store/Google Play for iOS and Android users. On first use, the app generates an embedded wallet using Privy, allowing you to bypass Yodl completely and use Privy options to export your keys. I have no idea how to do this and I had to wade through their terms and conditions to even find that information. Instead, I simply withdrew the funds back to my own wallet. I had no issues paying with Yodl at any merchants who accepted QR payments; my only complaint would be that the app was sometimes slow to load. Settle Settle is a Farcaster-native wallet that offers crypto-to-crypto payments between users. Settle does not require KYC although obviously you must have a Farcaster account. They spent the week of the conference onboarding local cafés and restaurants and ended up with about two dozen locations in Buenos Aires by the time I left. The big difference between Settle and the other apps is that there is no conversion: the buyer and the seller are trading in stablecoins, rather than a conversion to pesos at the point of sale. Rather than cashback, specific locations offered discounts for paying with Settle, similar to existing discounts offered for paying in cash. I saw a few conference goers speak positively about crypto-adoption in Buenos Aires having seen the Settle signs. So far, they only have about two dozen merchants who accept direct crypto payments via Settle, but I hope the high profile of their merchant onboarding campaign might increase local acceptance of crypto payments. I didn't test it. Loading Farcaster and then the mini-app within Farcaster made me impatient, but mostly because I never ended up walking into any Settle-enabled locations. Takenos The Takenos app was aggressively marketed during the final days of the conference with friendly young locals handing out flyers in English and Spanish offering $5 free for immediate sign-up with a referral code. Takenos is a custodial "global wallet" that allows you to hold USDC/USDT as well as various fiat (USD/EUR/BRL/ARS). It is aimed at LatAM freelancers and small businesses and available in Spanish only. Takenos runs on bank/FinTech rails and offers users payment card options along with QR payments within Argentina, with conversion to Argentine pesos happening at the point of sale. There are two cards available, a "Spicy Card" for payments in Argentina and a US-issued "Take Card" for use abroad and online in foreign currencies. KYC is required. I went through the KYC requirements to be told three days later that my application was unsuccessful. I have a particular dislike for protocols that use KYC as an invisible application process for their supposedly permissionless service. If there are requirements, they should be made known before KYC. I emailed their support for comment. I did not receive a reply. Buenos Aires felt closer to crypto-native payments than anywhere else I've been. The solutions weren't perfect but they worked. Scan a code, send some stablecoins, walk away with an empanada. I'm currently visiting in the US, where the guy at the Walmart checkout laughed when I pulled out my phone to pay. No, they can't do contactless yet—do I have a physical card? I wouldn't wish the financial insecurity of Argentina on anyone, but I find myself missing these apps, especially the excitement of watching them grow and add features almost every day.
 
-2d ago
+3d ago
 
 ---
 
@@ -140,33 +148,9 @@ Guys although I want to make flash loan bots and stuff, but can’t find any goo
 
 ---
 
-**[Coinbase holding close to $1M deposit hostage for 15 days - support admits "technical failure" & told me to contact regulators](https://www.reddit.com/r/ethereum/comments/1pj331i/coinbase_holding_close_to_1m_deposit_hostage_for/)**
-
-An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
-
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
-
-CoinDesk • 1d ago
-
----
-
-**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
-
-Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
-
-CoinDesk • 1d ago
-
----
 
 **[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
 
@@ -176,17 +160,9 @@ Decrypt • 1d ago
 
 ---
 
-**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
-
-The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
-Binance • 1d ago
+Binance • 2d ago
 
 ---
 
@@ -195,6 +171,14 @@ Binance • 1d ago
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
+
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -226,7 +210,21 @@ CryptoSlate • 2d ago
 
 Ethereum was one of the best-performing cryptocurrencies in the market over the past week, with its price jumping mid-week to as high as $3,400.
 
-Bitcoinist.com • 4h ago
+Bitcoinist.com • 6h ago
+
+---
+
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdCkaDRpi26DznQ_RSRewSgiN_jvuHzlE7n9HXVvd98a8e0FmJoU3-a&gaa_ts=693e2d74&gaa_sig=GE_3xJr79kfoPZhd6l13RHO3lH_7Nll1Ave78DoMYHU5jsjgjnvQ5aA8rZFbllcfVD41Ee18SrM1aueOdJGvrg%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-latest-news-analyst-forecasts-and-whats-driving-the-ethereum-treasury-trade-dec-12-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
+
+ts2.tech • 1d ago
 
 ---
 
@@ -234,13 +232,13 @@ Bitcoinist.com • 4h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
+**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
 
-EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 Altcoin Daily
+📺 Stock Moe
 
-👁️ 50K • 👍 2K • 💬 276 • ⏱️ 31:03 • 1d ago
+👁️ 6K • 👍 454 • 💬 34 • ⏱️ 14:28 • 5h ago
 
 ---
 
@@ -250,7 +248,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 118 • 💬 3 • ⏱️ 4:05 • 7h ago
+👁️ 2K • 👍 131 • 💬 3 • ⏱️ 4:05 • 9h ago
+
+---
+
+**[Massive Breakouts Incoming: ETH &amp; BMNR Targets + Key Levels](https://www.youtube.com/watch?v=m71lOmLon38)**
+
+Ethereum is coiling for a major move, but the biggest opportunity might be the stock that Fundstrat's Tom Lee calls the ...
+
+📺 CryptoStock Lab
+
+👁️ 577 • 👍 28 • 💬 14 • ⏱️ 15:09 • 4h ago
 
 ---
 
@@ -264,13 +272,13 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 ---
 
-**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
+**[BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wW7XFfYMF7g)**
 
-Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
+BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
-📺 Discover Crypto
+📺 Crypto World
 
-👁️ 7K • 👍 447 • 💬 14 • ⏱️ 48:44 • 1d ago
+👁️ 6K • 👍 304 • 💬 28 • ⏱️ 18:12 • 7h ago
 
 ---
 
@@ -280,57 +288,47 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 169 • 💬 9 • ⏱️ 21:14 • 10h ago
+👁️ 4K • 👍 189 • 💬 9 • ⏱️ 21:14 • 12h ago
 
 ---
 
-**[Tom Lee: The Cryptocurrency Supercycle Has Begun (DO THIS NOW)](https://www.youtube.com/watch?v=fI2EU2gVT4U)**
+**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
 
-LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Altcoin Daily Merch: ...
+EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 254 • ⏱️ 10:23 • 2d ago
+👁️ 53K • 👍 3K • 💬 280 • ⏱️ 31:03 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: HORRIBLE NEWS!!!!!! BEWARE!!!!](https://www.youtube.com/watch?v=0fYLQPZKnDo)**
+**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
 
-What FED just said and did directly affects crypto and bitcoin! Here is what most are missing in the big macro picture. AI Trading ...
+Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
 
-📺 Thomas Kralow
+📺 Discover Crypto
 
-👁️ 19K • 👍 738 • 💬 42 • ⏱️ 11:29 • 2d ago
-
----
-
-**[BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wW7XFfYMF7g)**
-
-BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 245 • 💬 26 • ⏱️ 18:12 • 5h ago
+👁️ 7K • 👍 448 • 💬 14 • ⏱️ 48:44 • 1d ago
 
 ---
 
-**[BTC, ETH, &amp; Crypto Refuse To Pump In Face Of Insane News!](https://www.youtube.com/watch?v=-2iVyJP6LAs)**
+**[I WAS WRONG! DUMP COMING?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=Dssynvk4AUg)**
 
-Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Lark Davis
+📺 Cilinix Crypto
 
-👁️ 14K • 👍 641 • 💬 60 • ⏱️ 48:17 • 1d ago
+👁️ 336 • 👍 17 • 💬 2 • ⏱️ 4:09 • 16h ago
 
 ---
 
-**[This is Not Normal For Ethereum](https://www.youtube.com/watch?v=agl0Kf2d7cQ)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=WNjd5vnNnHo)**
 
-ETH isn't just lagging — its story broke. It's down ~3× more than BTC from the highs, ETH/BTC is sitting at multi-year lows, and ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 Ryan’s Money Lab
+📺 Guitar Repair@StringTech
 
-👁️ 4K • 👍 184 • 💬 25 • ⏱️ 15:43 • 2d ago
+👁️ 6K • 👍 4K • 18h ago
 
 ---
 
