@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T07:22:57.735869+00:00'
+updated: '2025-12-14T07:37:04.985649+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 07:22 UTC  
+**Last Updated:** December 14, 2025 at 07:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -0.6%  
-**30d:** -5.5%  
-**90d:** -22.7%  
-**1y:** -13.5%  
+**24h:** -0.6%  
+**7d:** -0.9%  
+**30d:** -5.8%  
+**90d:** -23.0%  
+**1y:** -13.7%  
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-10h ago
+11h ago
 
 ---
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -281,7 +281,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 9 • 💬 0 • 5d ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 9 • 💬 0 • 6d ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -307,7 +307,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 296 • 💬 16 • ⏱️ 21:16 • 10h ago
+👁️ 7K • 👍 330 • 💬 16 • ⏱️ 21:16 • 11h ago
+
+---
+
+**[BITCOIN FORECASTED TO HIT LOWS OF $75K THIS YEAR...](https://www.youtube.com/watch?v=y7BqjDKw6rY)**
+
+Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250000 by the end of 2025, roused by President ...
+
+📺 Ricky Gutierrez
+
+👁️ 6K • 👍 296 • 💬 64 • ⏱️ 12:56 • 7h ago
+
+---
+
+**[BREAKING: $25T Can Now OFFICIALLY HIT Bitcoin!](https://www.youtube.com/watch?v=oPbPJvdmA-s)**
+
+It's official: every U.S. bank now has the green light to sell Bitcoin. Is this the ultimate validation—or a covert play to capture and ...
+
+📺 Simply Bitcoin
+
+👁️ 12K • 👍 641 • 💬 98 • ⏱️ 31:28 • 7h ago
 
 ---
 
@@ -317,57 +337,17 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 424 • 💬 111 • ⏱️ 14:22 • 12h ago
+👁️ 7K • 👍 435 • 💬 111 • ⏱️ 14:22 • 12h ago
 
 ---
 
-**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
+**[BITCOIN: SELL EVERYTHING NOW....?](https://www.youtube.com/watch?v=fJkHu5C7lkQ)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
 
-📺 Savvy Finance
+📺 Crypto Rover
 
-👁️ 5K • 👍 196 • 💬 9 • ⏱️ 21:14 • 16h ago
-
----
-
-**[This Isn’t a Bitcoin Crash — It’s Something Much Bigger](https://www.youtube.com/watch?v=J_AR_8lyM2I)**
-
-They waited until the weekend. On December 12, 2025, Nasdaq made a move that could trigger $1.6B in forced selling—and the ...
-
-📺 Ryan’s Money Lab
-
-👁️ 17K • 👍 589 • 💬 60 • ⏱️ 13:45 • 15h ago
-
----
-
-**[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
-
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
-
-📺 Anthony Pompliano
-
-👁️ 40K • 👍 2K • 💬 24 • ⏱️ 48:39 • 17h ago
-
----
-
-**[bitcoin: we are in danger...](https://www.youtube.com/watch?v=4DmpqbcxyYc)**
-
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
-
-📺 Crypto Kid
-
-👁️ 3K • 👍 208 • 💬 73 • ⏱️ 8:12 • 9h ago
-
----
-
-**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
-
-EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
-
-📺 Altcoin Daily
-
-👁️ 54K • 👍 3K • 💬 280 • ⏱️ 31:03 • 1d ago
+👁️ 2K • 👍 194 • 💬 22 • ⏱️ 6:48 • 2h ago
 
 ---
 
@@ -377,17 +357,27 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Stock Moe
 
-👁️ 7K • 👍 524 • 💬 37 • ⏱️ 14:28 • 9h ago
+👁️ 8K • 👍 541 • 💬 37 • ⏱️ 14:28 • 9h ago
 
 ---
 
-**[Fed Restarts QE? Why This $54B Pivot Changes Everything for Bitcoin!](https://www.youtube.com/watch?v=UT9Ok-n-G4I)**
+**[it&#39;s boring, but this is how you get rich with bitcoin in 2026](https://www.youtube.com/watch?v=Yd9qNj57b-A)**
 
-The Fed just restarted the money printer — call it “reserve management,” but liquidity is rising fast. Bitcoin is now approved as ...
+these 6 boring habits don't look impressive… but they're how I plan to win with bitcoin in 2026 Check out the Blockstream Jade ...
 
-📺 Simply Bitcoin
+📺 BTC Isla
 
-👁️ 29K • 👍 2K • 💬 100 • ⏱️ 16:27 • 1d ago
+👁️ 17K • 👍 2K • 💬 234 • ⏱️ 10:24 • 1d ago
+
+---
+
+**[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
+
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
+
+📺 Anthony Pompliano
+
+👁️ 41K • 👍 2K • 💬 24 • ⏱️ 48:39 • 17h ago
 
 ---
 
@@ -397,7 +387,17 @@ HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S F
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 554 • 💬 51 • ⏱️ 5:30 • 15h ago
+👁️ 11K • 👍 565 • 💬 51 • ⏱️ 5:30 • 15h ago
+
+---
+
+**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 202 • 💬 11 • ⏱️ 21:14 • 16h ago
 
 ---
 

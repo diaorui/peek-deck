@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T07:22:57.745280+00:00'
+updated: '2025-12-14T07:37:04.995055+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 07:22 UTC  
+**Last Updated:** December 14, 2025 at 07:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,13 +66,13 @@ We’ll be sharing performance and application demos. Comments and discussion ar
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
 
-4h ago
+5h ago
 
 ---
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ What's up guys, I posted about this PX4 SIL simulator earlier this year and got 
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 12h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Has anyone gotten pi0 to work with their SO101 Lerobot arm? I’ve trained it wi
 
 An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/transitiverobotics/transact) • 12h ago
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 13h ago
 
 ---
 
@@ -202,7 +202,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 119K • 👍 2K • 💬 798 • ⏱️ 14:26 • 5d ago
+👁️ 121K • 👍 2K • 💬 803 • ⏱️ 14:26 • 5d ago
 
 ---
 
@@ -212,7 +212,15 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 211K • 👍 6K • 💬 486 • ⏱️ 17:44 • 3d ago
+👁️ 214K • 👍 6K • 💬 488 • ⏱️ 17:44 • 3d ago
+
+---
+
+**[2025 #tesla Cybertruck Version 2 — Cyber Drone Unveiled. #futuretech #robotics #drone #elonmusk](https://www.youtube.com/watch?v=uh9UFxkNlVM)**
+
+📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+
+👁️ 16K • 👍 200 • 💬 9 • ⏱️ 0:11 • 18h ago
 
 ---
 
@@ -222,7 +230,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 12K • 👍 77 • 💬 23 • ⏱️ 1:26 • 1d ago
+👁️ 14K • 👍 77 • 💬 24 • ⏱️ 1:26 • 1d ago
 
 ---
 
@@ -232,15 +240,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 19K • 👍 508 • 💬 118 • ⏱️ 42:48 • 6d ago
-
----
-
-**[2025 #tesla Cybertruck Version 2 — Cyber Drone Unveiled. #futuretech #robotics #drone #elonmusk](https://www.youtube.com/watch?v=uh9UFxkNlVM)**
-
-📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
-
-👁️ 16K • 👍 196 • 💬 9 • ⏱️ 0:11 • 18h ago
+👁️ 19K • 👍 509 • 💬 118 • ⏱️ 42:48 • 6d ago
 
 ---
 
@@ -250,17 +250,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 67K • 👍 686 • 💬 16 • ⏱️ 0:09 • 1d ago
-
----
-
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
-
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
-
-📺 The Straits Times
-
-👁️ 189K • 👍 903 • 💬 302 • ⏱️ 0:47 • 5d ago
+👁️ 68K • 👍 700 • 💬 16 • ⏱️ 0:09 • 1d ago
 
 ---
 
@@ -270,7 +260,17 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 19K • 👍 188 • 💬 1 • ⏱️ 0:09 • 1d ago
+👁️ 19K • 👍 191 • 💬 1 • ⏱️ 0:09 • 1d ago
+
+---
+
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+
+📺 The Straits Times
+
+👁️ 189K • 👍 907 • 💬 303 • ⏱️ 0:47 • 5d ago
 
 ---
 
@@ -280,17 +280,17 @@ I built LEGO robots based on EVERY Disney Pixar movie ever made. From Toy Story 
 
 📺 The B2
 
-👁️ 118K • 👍 2K • 💬 567 • ⏱️ 18:29 • 17h ago
+👁️ 125K • 👍 2K • 💬 583 • ⏱️ 18:29 • 17h ago
 
 ---
 
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+**[The Terrifying Living Robot!](https://www.youtube.com/watch?v=wEnsmu2iWlQ)**
 
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+The Terrifying “Living Robot” That Shocked the Internet This video explores Oscar — a disturbingly realistic bio-hybrid creation ...
 
-📺 AI Robot Lab
+📺 SS Knowledge TV
 
-👁️ 87K • 👍 848 • 💬 26 • ⏱️ 0:25 • 6d ago
+👁️ 237K • 👍 4K • 💬 10 • ⏱️ 0:35 • 3d ago
 
 ---
 

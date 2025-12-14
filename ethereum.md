@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T07:22:57.741991+00:00'
+updated: '2025-12-14T07:37:04.991778+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 07:22 UTC  
+**Last Updated:** December 14, 2025 at 07:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -0.4%  
-**30d:** -1.9%  
-**90d:** -30.9%  
-**1y:** -21.4%  
+**24h:** -0.3%  
+**7d:** -0.5%  
+**30d:** -2.0%  
+**90d:** -31.0%  
+**1y:** -21.5%  
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 241 • 👍 22 • 💬 2 • ⏱️ 4:34 • 2h ago
+👁️ 565 • 👍 47 • 💬 4 • ⏱️ 4:34 • 3h ago
 
 ---
 
@@ -246,17 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Stock Moe
 
-👁️ 7K • 👍 524 • 💬 37 • ⏱️ 14:28 • 9h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=gZPkmtNiAd8)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 135 • 💬 4 • ⏱️ 4:05 • 13h ago
+👁️ 8K • 👍 541 • 💬 37 • ⏱️ 14:28 • 9h ago
 
 ---
 
@@ -266,7 +256,17 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 280 • ⏱️ 31:03 • 1d ago
+👁️ 55K • 👍 3K • 💬 282 • ⏱️ 31:03 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=gZPkmtNiAd8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 137 • 💬 4 • ⏱️ 4:05 • 14h ago
 
 ---
 
@@ -286,37 +286,7 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 861 • 👍 37 • 💬 15 • ⏱️ 15:09 • 8h ago
-
----
-
-**[BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wW7XFfYMF7g)**
-
-BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 328 • 💬 36 • ⏱️ 18:12 • 12h ago
-
----
-
-**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 196 • 💬 9 • ⏱️ 21:14 • 16h ago
-
----
-
-**[I WAS WRONG! DUMP COMING?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=Dssynvk4AUg)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 344 • 👍 17 • 💬 2 • ⏱️ 4:09 • 20h ago
+👁️ 1K • 👍 41 • 💬 15 • ⏱️ 15:09 • 9h ago
 
 ---
 
@@ -327,6 +297,36 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 📺 Discover Crypto
 
 👁️ 7K • 👍 449 • 💬 14 • ⏱️ 48:44 • 1d ago
+
+---
+
+**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 202 • 💬 11 • ⏱️ 21:14 • 16h ago
+
+---
+
+**[I WAS WRONG! DUMP COMING?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=Dssynvk4AUg)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 387 • 👍 17 • 💬 2 • ⏱️ 4:09 • 20h ago
+
+---
+
+**[BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wW7XFfYMF7g)**
+
+BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 340 • 💬 38 • ⏱️ 18:12 • 12h ago
 
 ---
 

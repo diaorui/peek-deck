@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T07:22:57.727230+00:00'
+updated: '2025-12-14T07:37:04.977112+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 07:22 UTC  
+**Last Updated:** December 14, 2025 at 07:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,7 @@ AI news, discussions, and developments
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 15h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 16h ago
 
 ---
 
@@ -125,7 +125,7 @@ CNN • 2d ago
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 17h ago
+Vox • 18h ago
 
 ---
 
@@ -157,7 +157,7 @@ BBC • 6h ago
 
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
 
-NBC News • 20h ago
+NBC News • 21h ago
 
 ---
 
@@ -171,7 +171,7 @@ Business Insider • 20h ago
 
 **[OpenAI isn't too big to fail. It's bigger.](https://www.axios.com/2025/12/13/open-ai-too-big-to-fail)**
 
-Axios • 16h ago
+Axios • 17h ago
 
 ---
 
@@ -281,57 +281,27 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 158K • 👍 3K • 💬 461 • ⏱️ 1:21:07 • 19h ago
+👁️ 176K • 👍 3K • 💬 480 • ⏱️ 1:21:07 • 19h ago
 
 ---
 
-**[AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!](https://www.youtube.com/watch?v=IHwt6UxiKOw)**
+**[GPT 5.2, realtime video editor, AI stereo videos, mobile AI agents, full body control: AI NEWS](https://www.youtube.com/watch?v=fpAbYRNxYPM)**
 
-Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainews #aitools #aivideo Thanks to our ...
 
-📺 Matthew Berman
+📺 AI Search
 
-👁️ 38K • 👍 1K • 💬 234 • ⏱️ 15:01 • 1d ago
-
----
-
-**[AI Is Ruining Christmas...](https://www.youtube.com/watch?v=FKyzEFE50S0)**
-
-The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOPmas!! You know what's NOT AI slop? Skywork!
-
-📺 Steve Terreberry
-
-👁️ 63K • 👍 6K • 💬 1K • ⏱️ 16:45 • 7h ago
+👁️ 16K • 👍 1K • 💬 180 • ⏱️ 47:09 • 4h ago
 
 ---
 
-**[OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)**
+**[🤖Dubai’s Newest AI Salon Pod Will Shock You 😲AI Haircut Machine 7.0 ✂️ Dubai’s Future Is Here!](https://www.youtube.com/watch?v=PYTTK3vpDso)**
 
-Deploying on Railway feels like magic. Get $20 in free credits to try it out - https://railway.com/?referralCode=fireship Sam Altman ...
+In Dubai, this futuristic AI Salon Pod delivers an instant hair transformation with precision scanning, robotic styling and next-gen ...
 
-📺 Fireship
+📺 AI Robot Lab
 
-👁️ 323K • 👍 14K • 💬 792 • ⏱️ 4:01 • 1d ago
-
----
-
-**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
-
-I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
-
-📺 CaylusBlox
-
-👁️ 477K • 👍 11K • 💬 2K • ⏱️ 13:43 • 2d ago
-
----
-
-**[Trump’s executive order limiting AI restrictions faces scrutiny: ‘Going to get struck down’](https://www.youtube.com/watch?v=Q-tU0G2Ir8c)**
-
-President Trump signed an executive order this week aimed at limiting states' abilities to regulate artificial intelligence, with Trump ...
-
-📺 WGN News
-
-👁️ 33K • 👍 119 • 💬 176 • ⏱️ 1:52 • 15h ago
+👁️ 406K • 👍 2K • 💬 9 • ⏱️ 0:16 • 20h ago
 
 ---
 
@@ -341,7 +311,57 @@ Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------
 
 📺 GEN
 
-👁️ 53K • 👍 3K • 💬 539 • ⏱️ 22:33 • 1d ago
+👁️ 56K • 👍 3K • 💬 557 • ⏱️ 22:33 • 1d ago
+
+---
+
+**[AI Is Ruining Christmas...](https://www.youtube.com/watch?v=FKyzEFE50S0)**
+
+The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOPmas!! You know what's NOT AI slop? Skywork!
+
+📺 Steve Terreberry
+
+👁️ 81K • 👍 7K • 💬 1K • ⏱️ 16:45 • 8h ago
+
+---
+
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=RxCG7MSt0pk)**
+
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+
+📺 Impossible AIs
+
+👁️ 106K • 👍 410 • 💬 12 • ⏱️ 8:26 • 1d ago
+
+---
+
+**[AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!](https://www.youtube.com/watch?v=IHwt6UxiKOw)**
+
+Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+
+📺 Matthew Berman
+
+👁️ 39K • 👍 1K • 💬 240 • ⏱️ 15:01 • 1d ago
+
+---
+
+**[OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)**
+
+Deploying on Railway feels like magic. Get $20 in free credits to try it out - https://railway.com/?referralCode=fireship Sam Altman ...
+
+📺 Fireship
+
+👁️ 329K • 👍 14K • 💬 803 • ⏱️ 4:01 • 1d ago
+
+---
+
+**[It’s Not An AI Bubble. It’s A Black Hole. (With Ed Zitron and Sruthi Pinnamaneni) | Lever Time](https://www.youtube.com/watch?v=gKRevF9AZ4E)**
+
+2025 has been a tremendous year for the artificial intelligence industry. Stock prices for AI companies skyrocketed, soaring ...
+
+📺 The Lever
+
+👁️ 20K • 👍 1K • 💬 283 • ⏱️ 47:42 • 1d ago
 
 ---
 
@@ -351,25 +371,7 @@ Consumers' increasing use of AI for shopping ideas and deals is forcing retailer
 
 📺 CNBC
 
-👁️ 17K • 👍 409 • 💬 40 • ⏱️ 5:31 • 1d ago
-
----
-
-**[YouTube’s AI is BAD 😭](https://www.youtube.com/watch?v=iAeb6xjBZr8)**
-
-📺 John Casterline
-
-👁️ 1.3M • 👍 122K • 💬 2K • ⏱️ 0:48 • 1d ago
-
----
-
-**[What happens if the AI bubble bursts? | 7.30](https://www.youtube.com/watch?v=8YAfm7o5yiI)**
-
-The soaring values of the big tech companies have sparked fears of an AI bubble one that could pop with damaging economic ...
-
-📺 ABC News In-depth
-
-👁️ 26K • 👍 254 • ⏱️ 6:01 • 1d ago
+👁️ 18K • 👍 414 • 💬 40 • ⏱️ 5:31 • 1d ago
 
 ---
 
