@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T04:06:43.667876+00:00'
+updated: '2025-12-14T04:47:04.639823+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 04:06 UTC  
+**Last Updated:** December 14, 2025 at 04:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.6%  
-**30d:** -5.4%  
-**90d:** -22.7%  
-**1y:** -13.4%  
+**24h:** -0.1%  
+**7d:** -0.7%  
+**30d:** -5.6%  
+**90d:** -22.9%  
+**1y:** -13.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1801.89B
+**Market Cap:** $1801.88B
 Rank #1
 
 **Circulating Supply:** 19,961,856 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.5%
 
 **All-Time Low:** $67.81
-+133017.5%
++132870.1%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-4h ago
+5h ago
 
 ---
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-7h ago
+8h ago
 
 ---
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,21 @@ Yes. Yes we are.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-13h ago
+14h ago
+
+---
+
+**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
+
+51m ago
+
+---
+
+**[Should I take a bet that Bitcoin will hit 100,000 for a second before January 1st?](https://www.reddit.com/r/Bitcoin/comments/1pm3eji/should_i_take_a_bet_that_bitcoin_will_hit_100000/)**
+
+A buddy wants to bet me 1 grand.
+
+1h ago
 
 ---
 
@@ -126,18 +140,6 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
 1d ago
-
----
-
-**[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
-
-16h ago
-
----
-
-**[2o25 wILl bE mY YEar!](https://www.reddit.com/r/Bitcoin/comments/1pm189r/2o25_will_be_my_year/)**
-
-3h ago
 
 ---
 
@@ -177,7 +179,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -189,9 +191,23 @@ Bitcoin Magazine • 1d ago
 
 ---
 
+**[Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?](https://finance.yahoo.com/news/bitcoin-2030-price-prediction-btc-144212543.html)**
+
+Bitcoin (CRYPTO: BTC) enters the final stretch of the decade with its biggest question yet: can BTC climb to the $500K–$1M range as adoption deepens and supply tightens? The past six months show how quickly momentum can shift, but the long-term picture depends on forces far bigger than short-term price swings. Spot Bitcoin ETFs, sovereign ... Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?
+
+Yahoo Finance • 14h ago
+
+---
+
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 8h ago
+x.com • 9h ago
+
+---
+
+**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -203,20 +219,6 @@ Forbes • 1d ago
 
 ---
 
-**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
-
-Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
-
-Investor's Business Daily • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -225,7 +227,7 @@ Investor's Business Daily • 1d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 10h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 11h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -291,7 +293,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Bringing Content Authenticity to Video Streaming: C2PA Integration with Bitmovin](https://news.ycombinator.com/item?id=46255322)**
 
-⬆️ 1 • 💬 0 • 12h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
+⬆️ 1 • 💬 0 • 13h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
 
 ---
 
@@ -305,7 +307,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 247 • 💬 16 • ⏱️ 21:16 • 7h ago
+👁️ 4K • 👍 247 • 💬 16 • ⏱️ 21:16 • 8h ago
 
 ---
 
@@ -315,7 +317,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 401 • 💬 109 • ⏱️ 14:22 • 8h ago
+👁️ 6K • 👍 401 • 💬 109 • ⏱️ 14:22 • 9h ago
 
 ---
 
@@ -335,7 +337,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 15K • 👍 528 • 💬 55 • ⏱️ 13:45 • 12h ago
+👁️ 15K • 👍 528 • 💬 55 • ⏱️ 13:45 • 13h ago
 
 ---
 
@@ -345,7 +347,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Stock Moe
 
-👁️ 6K • 👍 454 • 💬 34 • ⏱️ 14:28 • 6h ago
+👁️ 6K • 👍 454 • 💬 34 • ⏱️ 14:28 • 7h ago
 
 ---
 
@@ -365,7 +367,7 @@ HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S F
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 542 • 💬 50 • ⏱️ 5:30 • 11h ago
+👁️ 10K • 👍 542 • 💬 50 • ⏱️ 5:30 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T04:06:43.673858+00:00'
+updated: '2025-12-14T04:47:04.645909+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 04:06 UTC  
+**Last Updated:** December 14, 2025 at 04:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -0.2%  
-**30d:** -1.7%  
+**24h:** +0.8%  
+**7d:** -0.3%  
+**30d:** -1.8%  
 **90d:** -30.8%  
-**1y:** -21.2%  
+**1y:** -21.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.51B
+**Market Cap:** $375.79B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-37.1%
 
 **All-Time Low:** $0.43
-+720396.8%
++717953.3%
 
 ---
 
@@ -156,7 +156,7 @@ Guys although I want to make flash loan bots and stuff, but can’t find any goo
 
 Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -168,11 +168,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Important Date for XRP Holders Revealed, Bitcoin OG Bets $392 Million on Ethereum, Dogecoin Jumps 61% in Volume — Crypto News Digest](https://www.tradingview.com/news/u_today:b4bc7ff60094b:0-important-date-for-xrp-holders-revealed-bitcoin-og-bets-392-million-on-ethereum-dogecoin-jumps-61-in-volume-crypto-news-digest/)**
+**[XRP Mildly Undervalued On MVRV: What About Bitcoin, Ethereum?](https://www.tradingview.com/news/newsbtc:800854a3e094b:0-xrp-mildly-undervalued-on-mvrv-what-about-bitcoin-ethereum/)**
 
-Bitcoin OG increases aggressive long position on EthereumLong-time Bitcoin holder is going insanely bullish on Ethereum despite ETH price being in the red.According to Lookonchain, a Bitcoin OG is going massively long on Ethereum, the second-largest cryptocurrency by market cap, and even increasing…
+XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
 
-TradingView — Track All Markets • 1d ago
+TradingView — Track All Markets • 22h ago
+
+---
+
+**[Key Hyperunit whale expands Ethereum position amid weak prices](https://www.fxstreet.com/cryptocurrencies/news/key-hyperunit-whale-expands-ethereum-position-amid-weak-prices-202512130434)**
+
+A major crypto whale has opened a long position in Ethereum (ETH) worth more than half a billion dollars on the Hyperliquid exchange.
+
+FXStreet • 1d ago
 
 ---
 
@@ -220,14 +228,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
-
-BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
-
-CryptoSlate • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ CryptoSlate • 2d ago
 
 📺 Stock Moe
 
-👁️ 6K • 👍 454 • 💬 34 • ⏱️ 14:28 • 6h ago
+👁️ 6K • 👍 454 • 💬 34 • ⏱️ 14:28 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 131 • 💬 3 • ⏱️ 4:05 • 10h ago
+👁️ 2K • 👍 131 • 💬 3 • ⏱️ 4:05 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 577 • 👍 28 • 💬 14 • ⏱️ 15:09 • 5h ago
+👁️ 577 • 👍 28 • 💬 14 • ⏱️ 15:09 • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 304 • 💬 28 • ⏱️ 18:12 • 8h ago
+👁️ 6K • 👍 304 • 💬 28 • ⏱️ 18:12 • 9h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 336 • 👍 17 • 💬 2 • ⏱️ 4:09 • 16h ago
+👁️ 336 • 👍 17 • 💬 2 • ⏱️ 4:09 • 17h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T04:06:43.677155+00:00'
+updated: '2025-12-14T04:47:04.649147+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 04:06 UTC  
+**Last Updated:** December 14, 2025 at 04:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
 
-1h ago
+2h ago
 
 ---
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -72,7 +72,7 @@ What's up guys, I posted about this PX4 SIL simulator earlier this year and got 
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 9h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 10h ago
 
 ---
 
@@ -80,7 +80,7 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/transitiverobotics/transact) • 9h ago
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi r/Robotics , I’ve been working on a project exploring how Generative AI can
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 15h ago
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 16h ago
 
 ---
 
@@ -160,27 +160,27 @@ Yahoo Finance • 4d ago
 
 ---
 
+**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
+
+Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
+
+Shore Daily News • 2d ago
+
+---
+
 **[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 16h ago
+Scientific American • 17h ago
 
 ---
 
-**[Teradyne Robotics leaning into U.S. manufacturing reboot](https://www.therobotreport.com/teradyne-robotics-leaning-into-u-s-manufacturing-reboot/)**
+**[A national robotics strategy is necessary to reshore manufacturing, says the Congressional Robotics Caucus](https://www.therobotreport.com/national-robotics-strategy-needed-reshore-manufacturing-says-congressional-robotics-caucus/)**
 
-Teradyne Robotics plans to open its U.S. headquarters near Detroit in 2026 to boost manufacturing for UR and MiR and better serve customers.
+The Congressional Robotics Caucus says a unified strategy is needed for U.S. economic and military competitiveness.
 
 The Robot Report • 1d ago
-
----
-
-**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://www.fool.com/investing/2025/12/13/94-billion-robotics-market-set-to-surge-300-1-etf/)**
-
-This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
-
-The Motley Fool • 8h ago
 
 ---
 
@@ -202,7 +202,7 @@ Unitree welcomes users and developers worldwide to co-develop and share together
 
 📺 Unitree Robotics
 
-👁️ 9K • 👍 234 • 💬 44 • ⏱️ 0:35 • 22h ago
+👁️ 9K • 👍 234 • 💬 44 • ⏱️ 0:35 • 23h ago
 
 ---
 
@@ -250,7 +250,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 14K • 👍 178 • 💬 9 • ⏱️ 0:11 • 15h ago
+👁️ 14K • 👍 178 • 💬 9 • ⏱️ 0:11 • 16h ago
 
 ---
 
@@ -280,7 +280,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 18K • 👍 177 • 💬 1 • ⏱️ 0:09 • 20h ago
+👁️ 18K • 👍 177 • 💬 1 • ⏱️ 0:09 • 21h ago
 
 ---
 
