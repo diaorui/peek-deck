@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T06:56:45.096440+00:00'
+updated: '2025-12-14T07:22:57.735869+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 06:56 UTC  
+**Last Updated:** December 14, 2025 at 07:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -0.5%  
-**30d:** -5.4%  
+**24h:** -0.3%  
+**7d:** -0.6%  
+**30d:** -5.5%  
 **90d:** -22.7%  
-**1y:** -13.4%  
+**1y:** -13.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1798.72B
+**Market Cap:** $1799.62B
 Rank #1
 
-**Circulating Supply:** 19,961,887 BTC
+**Circulating Supply:** 19,961,909 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.5%
 
 **All-Time Low:** $67.81
-+132781.6%
++132825.8%
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -105,17 +105,11 @@ Rank #1
 
 Yes. Yes we are.
 
-14h ago
+15h ago
 
 ---
 
 **[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
-
-3h ago
-
----
-
-**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
 3h ago
 
@@ -127,11 +121,9 @@ Yes. Yes we are.
 
 ---
 
-**[I've just set up my Secret Santa Miner](https://www.reddit.com/r/Bitcoin/comments/1plmw1n/ive_just_set_up_my_secret_santa_miner/)**
+**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
-
-16h ago
+3h ago
 
 ---
 
@@ -143,6 +135,14 @@ A buddy wants to bet me 1 grand.
 
 ---
 
+**[I've just set up my Secret Santa Miner](https://www.reddit.com/r/Bitcoin/comments/1plmw1n/ive_just_set_up_my_secret_santa_miner/)**
+
+It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
+
+16h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -151,7 +151,7 @@ A buddy wants to bet me 1 grand.
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -215,7 +215,7 @@ Forbes • 1d ago
 
 Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -227,7 +227,7 @@ CoinDesk • 11h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 13h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 14h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -235,7 +235,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 14h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 15h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -317,7 +317,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 424 • 💬 111 • ⏱️ 14:22 • 11h ago
+👁️ 7K • 👍 424 • 💬 111 • ⏱️ 14:22 • 12h ago
 
 ---
 
@@ -327,7 +327,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 196 • 💬 9 • ⏱️ 21:14 • 15h ago
+👁️ 5K • 👍 196 • 💬 9 • ⏱️ 21:14 • 16h ago
 
 ---
 
@@ -347,7 +347,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 40K • 👍 2K • 💬 24 • ⏱️ 48:39 • 16h ago
+👁️ 40K • 👍 2K • 💬 24 • ⏱️ 48:39 • 17h ago
 
 ---
 
@@ -397,7 +397,7 @@ HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S F
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 554 • 💬 51 • ⏱️ 5:30 • 14h ago
+👁️ 10K • 👍 554 • 💬 51 • ⏱️ 5:30 • 15h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T06:56:45.105894+00:00'
+updated: '2025-12-14T07:22:57.745280+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 06:56 UTC  
+**Last Updated:** December 14, 2025 at 07:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 Has anyone gotten pi0 to work with their SO101 Lerobot arm? I’ve trained it with ACT policy and it seems to be working, however, repeating the same exact process with pi0 doesn’t lead to the robot performing meaningful tasks. I’ve seen people getting this to work with as less as 50 episodes? Am I possibly not mapping the cameras correctly? Do I need to do any manual code changes to lerobot like switching absolute joint angles to deltas or converting to radians or anything like that before training? Any help or insight would be greatly appreciated, thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotic
 
 Hi r/Robotics , I’ve been working on a project exploring how Generative AI can replace (or augment) traditional trajectory planners for autonomous mobile robots/vehicles. I’m releasing Efficient Virtuoso, a Conditional Latent Diffusion Model (LDM) designed to plan long-horizon trajectories in complex, uncertain environments (specifically the Waymo Open Motion Dataset). * Paper: https://arxiv.org/abs/2509.03658 * Code: https://github.com/AntonioAlgaida/DiffusionTrajectoryPlanner The Robotics Perspective: Why Diffusion? Standard planners (like Lattice planners or optimization-based MPC) often struggle with multi-modality in social environments. If a pedestrian *might* cross or *might* stop, a deterministic planner has to average those futures or pick one arbitrarily, often leading to "freezing robot" problems or unsafe maneuvers. Diffusion models treat planning as a sampling problem. They can generate a distribution of valid plans (e.g., "Pass Left" AND "Pass Right") effectively representing the uncertainty of the workspace. Making it Efficient (The Architecture) The main drawback of diffusion is inference speed (denoising takes many steps). To make this viable for robotics constraints, I focused on architectural efficiency: Scene Encoding: A Transformer fuses the local map geometry and dynamic obstacles into a context embedding that conditions the planner. ### Results * Precision: Achieves a minADE (Average Displacement Error) of **0.25m**. * Behavior: Successfully models complex maneuvers like unprotected left turns, generating diverse "fan-outs" of trajectories that respect lane geometry. Discussion I view this type of model as a high-fidelity "Proposal Generator" for a hierarchical stack. You generate 20 diverse, plausible plans via diffusion, and then run them through a lightweight kinematic safety check or cost function to pick the best one. I’d be curious to hear thoughts from the community on integrating generative planners with hard safety constraints (like Control Barrier Functions).
 
-6h ago
+7h ago
 
 ---
 
@@ -132,7 +132,7 @@ AP News • 1d ago
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 56m ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ Shore Daily News • 2d ago
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 19h ago
+Scientific American • 20h ago
 
 ---
 
@@ -260,7 +260,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 189K • 👍 903 • 💬 302 • ⏱️ 0:47 • 4d ago
+👁️ 189K • 👍 903 • 💬 302 • ⏱️ 0:47 • 5d ago
 
 ---
 
@@ -270,7 +270,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 19K • 👍 188 • 💬 1 • ⏱️ 0:09 • 23h ago
+👁️ 19K • 👍 188 • 💬 1 • ⏱️ 0:09 • 1d ago
 
 ---
 
@@ -280,7 +280,7 @@ I built LEGO robots based on EVERY Disney Pixar movie ever made. From Toy Story 
 
 📺 The B2
 
-👁️ 118K • 👍 2K • 💬 567 • ⏱️ 18:29 • 16h ago
+👁️ 118K • 👍 2K • 💬 567 • ⏱️ 18:29 • 17h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T06:56:45.087747+00:00'
+updated: '2025-12-14T07:22:57.727230+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 06:56 UTC  
+**Last Updated:** December 14, 2025 at 07:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -51,7 +51,7 @@ AI news, discussions, and developments
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -63,27 +63,19 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 ---
 
-**[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
-
-An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
-
-🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 4h ago
-
----
-
 **[Google Translate now lets you hear real-time translations in your headphones](https://www.reddit.com/r/artificial/comments/1pm09b8/google_translate_now_lets_you_hear_realtime/)**
 
 The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
 
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 6h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 7h ago
 
 ---
 
-**[Google’s AI Boss Just Sketched 2026. Here’s What It Looks Like](https://www.reddit.com/r/artificial/comments/1pm5w94/googles_ai_boss_just_sketched_2026_heres_what_it/)**
+**[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
 
-Demis Hassabis sketches how AI will work by 2026, from omnimodels and world models to robotics, live assistants, and agents built on Google Gemini.
+An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
 
-🔗 [AI Revolution](https://www.revolutioninai.com/2025/12/googles-ai-boss-just-sketched-2026.html) • 1h ago
+🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 5h ago
 
 ---
 
@@ -99,7 +91,15 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 14h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 15h ago
+
+---
+
+**[Google’s AI Boss Just Sketched 2026. Here’s What It Looks Like](https://www.reddit.com/r/artificial/comments/1pm5w94/googles_ai_boss_just_sketched_2026_heres_what_it/)**
+
+Demis Hassabis sketches how AI will work by 2026, from omnimodels and world models to robotics, live assistants, and agents built on Google Gemini.
+
+🔗 [AI Revolution](https://www.revolutioninai.com/2025/12/googles-ai-boss-just-sketched-2026.html) • 2h ago
 
 ---
 
@@ -129,14 +129,6 @@ Vox • 17h ago
 
 ---
 
-**['Holy crap. The end of me', says ex-Google CEO Eric Schmidt on AI doing coding jobs](https://timesofindia.indiatimes.com/technology/tech-news/holy-crap-the-end-of-me-says-ex-google-ceo-eric-schmidt-on-ai-doing-coding-jobs/articleshow/125943698.cms)**
-
-Tech News News: Former Google CEO Eric Schmidt expressed astonishment at AI's rapid progress, particularly its ability to autonomously generate code, admitting his ow
-
-Times of India • 3h ago
-
----
-
 **[The AI skills gap is really a ‘critical thinking’ gap: The Fortune 500 fears it can’t find talent with enough sharp thinking](https://fortune.com/2025/12/12/ai-skills-gap-talent-executives-fear-risk-critical-strategic-thinking/)**
 
 "We need to start thinking strategically. How can we create strategic thinkers, critical thinkers?"
@@ -149,21 +141,15 @@ Fortune • 1d ago
 
 The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest.
 
-NPR • 19h ago
+NPR • 20h ago
 
 ---
 
-**[Purdue University Approves New AI Requirement For All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)**
+**[He created Grand Theft Auto. Now he's back with a novel about an AI that hijacks your mind](https://www.bbc.com/news/articles/c2epm9z9kkvo)**
 
-Forbes • 19h ago
+A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
 
----
-
-**[Meet My Top 5 Artificial Intelligence (AI) Stocks for 2026](https://finance.yahoo.com/news/meet-top-5-artificial-intelligence-203000061.html)**
-
-The AI computing market is a great place to invest.
-
-Yahoo Finance • 10h ago
+BBC • 6h ago
 
 ---
 
@@ -175,17 +161,33 @@ NBC News • 20h ago
 
 ---
 
-**[He created Grand Theft Auto. Now he's back with a novel about an AI that hijacks your mind](https://www.bbc.com/news/articles/c2epm9z9kkvo)**
+**[I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely.](https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12)**
 
-A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
+Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
 
-BBC • 5h ago
+Business Insider • 20h ago
 
 ---
 
 **[OpenAI isn't too big to fail. It's bigger.](https://www.axios.com/2025/12/13/open-ai-too-big-to-fail)**
 
 Axios • 16h ago
+
+---
+
+**[Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia](https://www.cnbc.com/2025/12/12/broadcom-tumbles-10percent-after-earnings-as-ai-trade-sells-off-.html)**
+
+Even with better-than-expected earnings and revenue, Broadcom slid on Friday as investors  continued to grow concerned about the AI trade.
+
+CNBC • 1d ago
+
+---
+
+**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
+
+The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
+
+Time Magazine • 2d ago
 
 ---
 
@@ -197,7 +199,7 @@ Axios • 16h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 519 • 💬 277 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 520 • 💬 277 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -205,7 +207,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 489 • 💬 288 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 490 • 💬 288 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -219,7 +221,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 291 • 💬 315 • 15h ago
+⬆️ 302 • 💬 320 • 15h ago
 
 ---
 
@@ -265,7 +267,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 50 • 💬 66 • 17h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 50 • 💬 66 • 18h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -279,7 +281,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 158K • 👍 3K • 💬 461 • ⏱️ 1:21:07 • 18h ago
+👁️ 158K • 👍 3K • 💬 461 • ⏱️ 1:21:07 • 19h ago
 
 ---
 
@@ -329,7 +331,7 @@ President Trump signed an executive order this week aimed at limiting states' ab
 
 📺 WGN News
 
-👁️ 33K • 👍 119 • 💬 176 • ⏱️ 1:52 • 14h ago
+👁️ 33K • 👍 119 • 💬 176 • ⏱️ 1:52 • 15h ago
 
 ---
 
@@ -383,7 +385,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,658 • 5d ago
+⬇️ 268,534 • ❤️ 2,659 • 5d ago
 
 ---
 
@@ -407,7 +409,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 54,050 • ❤️ 397 • 4d ago
+⬇️ 54,050 • ❤️ 398 • 4d ago
 
 ---
 
@@ -443,7 +445,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 31,499 • ❤️ 268 • 4d ago
+⬇️ 31,499 • ❤️ 269 • 4d ago
 
 ---
 
@@ -491,7 +493,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 4,597 • ❤️ 184 • 2d ago
+⬇️ 4,597 • ❤️ 185 • 2d ago
 
 ---
 
@@ -513,20 +515,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 24 • 💬 2 • ⭐ 6,776 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -538,6 +526,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 191 • 💬 4 • ⭐ 6,814 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 24 • 💬 2 • ⭐ 6,817 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -562,7 +564,7 @@ A large-scale dataset collection, The Well, provides diverse numerical simulatio
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 119 • 💬 3 • ⭐ 316 • 4d ago
+▲ 119 • 💬 3 • ⭐ 327 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -642,7 +644,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.9k • 🔱 2.2k • 1d ago
+⭐ 13.9k • 🔱 2.2k • 1h ago
 
 ---
 
@@ -652,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.6k • 🔱 293 • 3h ago
+⭐ 2.7k • 🔱 296 • 3h ago
 
 ---
 
@@ -672,7 +674,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.2k • 🔱 308 • 7d ago
+⭐ 1.2k • 🔱 308 • 8d ago
 
 ---
 
@@ -702,7 +704,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 949 • 🔱 66 • 4d ago
+⭐ 951 • 🔱 66 • 4d ago
 
 ---
 
@@ -722,7 +724,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 1h ago
+⭐ 861 • 🔱 49 • 2h ago
 
 ---
 
@@ -732,7 +734,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 684 • 🔱 100 • 5d ago
+⭐ 686 • 🔱 100 • 5d ago
 
 ---
 
