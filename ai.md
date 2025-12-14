@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T11:54:04.542814+00:00'
+updated: '2025-12-14T12:35:36.647546+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 11:54 UTC  
+**Last Updated:** December 14, 2025 at 12:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,17 +45,23 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 ---
 
+**[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 21h ago
+
+---
+
 **[Sick of uploading sensitive PDFs to ChatGPT? I built a fully offline "Second Brain" using Llama 3 + Python (No API keys needed)](https://www.reddit.com/r/artificial/comments/1pmas1w/sick_of_uploading_sensitive_pdfs_to_chatgpt_i/)**
 
 Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
 
-1h ago
+2h ago
 
 ---
 
-**[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
+**[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 20h ago
+14h ago
 
 ---
 
@@ -63,13 +69,23 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-20m ago
+1h ago
 
 ---
 
-**[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
+**[Google Translate now lets you hear real-time translations in your headphones](https://www.reddit.com/r/artificial/comments/1pm09b8/google_translate_now_lets_you_hear_realtime/)**
 
-13h ago
+The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
+
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 12h ago
+
+---
+
+**[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
+
+An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
+
+🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 10h ago
 
 ---
 
@@ -78,22 +94,6 @@ A lot of AI image tools are powerful, but they rely heavily on long, precise pro
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
 4h ago
-
----
-
-**[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
-
-An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
-
-🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 9h ago
-
----
-
-**[Google Translate now lets you hear real-time translations in your headphones](https://www.reddit.com/r/artificial/comments/1pm09b8/google_translate_now_lets_you_hear_realtime/)**
-
-The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
-
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 11h ago
 
 ---
 
@@ -109,7 +109,7 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 19h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 20h ago
 
 ---
 
@@ -121,15 +121,13 @@ For now
 
 If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
 
-WIRED • 4h ago
+WIRED • 5h ago
 
 ---
 
-**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://edition.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
+**[OpenAI isn't too big to fail. It's bigger.](https://www.axios.com/2025/12/13/open-ai-too-big-to-fail)**
 
-President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
-
-CNN • 2d ago
+Axios • 22h ago
 
 ---
 
@@ -137,13 +135,33 @@ CNN • 2d ago
 
 Dimon added that people who possess soft skills will have "plenty of jobs."
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
-**[Ad Agency Stocks Seen Turning AI Disruption to Their Advantage](https://www.bloomberg.com/news/articles/2025-12-14/ad-agency-stocks-seen-turning-ai-disruption-to-their-advantage)**
+**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
 
-Bloomberg.com • 3h ago
+California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
+
+The Guardian • 21h ago
+
+---
+
+**[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[Trump AI order fuels GOP divide over state laws](https://thehill.com/policy/technology/5647144-trump-federal-ai-regulation/)**
+
+thehill.com • 1h ago
+
+---
+
+**[Job apocalypse? Bah! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-bah-ai-is-creating-brand-new-occupations)**
+
+The Economist • 1h ago
 
 ---
 
@@ -151,37 +169,7 @@ Bloomberg.com • 3h ago
 
 A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
 
-BBC • 10h ago
-
----
-
-**[Questions of accuracy arise as Washington Post uses AI to create personalized podcasts](https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast)**
-
-The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest.
-
-NPR • 1d ago
-
----
-
-**[OpenAI isn't too big to fail. It's bigger.](https://www.axios.com/2025/12/13/open-ai-too-big-to-fail)**
-
-Axios • 21h ago
-
----
-
-**[Meet My Top 5 Artificial Intelligence (AI) Stocks for 2026](https://finance.yahoo.com/news/meet-top-5-artificial-intelligence-203000061.html)**
-
-The AI computing market is a great place to invest.
-
-Yahoo Finance • 15h ago
-
----
-
-**[Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia](https://www.cnbc.com/2025/12/12/broadcom-tumbles-10percent-after-earnings-as-ai-trade-sells-off-.html)**
-
-Even with better-than-expected earnings and revenue, Broadcom slid on Friday as investors  continued to grow concerned about the AI trade.
-
-CNBC • 1d ago
+BBC • 11h ago
 
 ---
 
@@ -189,7 +177,15 @@ CNBC • 1d ago
 
 Here's why Nvidia may be one of the most undervalued artificial intelligence (AI) stocks.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
+
+---
+
+**[Meet My Top 5 Artificial Intelligence (AI) Stocks for 2026](https://www.fool.com/investing/2025/12/13/meet-my-top-5-artificial-intelligence-ai-stocks-fo/)**
+
+The AI computing market is a great place to invest.
+
+The Motley Fool • 16h ago
 
 ---
 
@@ -201,7 +197,7 @@ The Motley Fool • 6h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 521 • 💬 280 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 523 • 💬 280 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -215,7 +211,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 351 • 💬 360 • 20h ago
+⬆️ 360 • 💬 364 • 20h ago
 
 ---
 
@@ -255,7 +251,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 99 • 💬 55 • 10h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 102 • 💬 58 • 10h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -263,13 +259,13 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 82 • 💬 127 • 1d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 82 • 💬 128 • 1d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 62 • 💬 54 • 14h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 62 • 💬 54 • 15h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -283,7 +279,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 202K • 👍 4K • 💬 531 • ⏱️ 1:21:07 • 23h ago
+👁️ 202K • 👍 4K • 💬 531 • ⏱️ 1:21:07 • 1d ago
 
 ---
 
@@ -293,7 +289,7 @@ Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut 
 
 📺 Smart Tales
 
-👁️ 18K • 👍 130 • ⏱️ 0:08 • 15h ago
+👁️ 18K • 👍 130 • ⏱️ 0:08 • 16h ago
 
 ---
 
@@ -353,7 +349,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 103K • 👍 8K • 💬 1K • ⏱️ 16:45 • 12h ago
+👁️ 103K • 👍 8K • 💬 1K • ⏱️ 16:45 • 13h ago
 
 ---
 
@@ -373,7 +369,7 @@ President Trump signed an executive order this week aimed at limiting states' ab
 
 📺 WGN News
 
-👁️ 44K • 👍 129 • 💬 197 • ⏱️ 1:52 • 19h ago
+👁️ 44K • 👍 129 • 💬 197 • ⏱️ 1:52 • 20h ago
 
 ---
 
@@ -389,7 +385,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,672 • 5d ago
+⬇️ 277,583 • ❤️ 2,676 • 5d ago
 
 ---
 
@@ -401,7 +397,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 130,627 • ❤️ 811 • 1d ago
+⬇️ 130,627 • ❤️ 812 • 1d ago
 
 ---
 
@@ -413,7 +409,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 67,698 • ❤️ 402 • 4d ago
+⬇️ 67,698 • ❤️ 404 • 4d ago
 
 ---
 
@@ -425,7 +421,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 320 • 2d ago
+⬇️ 15,778 • ❤️ 321 • 2d ago
 
 ---
 
@@ -437,7 +433,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 3,369 • ❤️ 293 • 5d ago
+⬇️ 3,369 • ❤️ 295 • 5d ago
 
 ---
 
@@ -449,7 +445,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 35,747 • ❤️ 270 • 5d ago
+⬇️ 35,747 • ❤️ 271 • 5d ago
 
 ---
 
@@ -485,7 +481,7 @@ Apriel-1.6-15B-Thinker is a cost-efficient multimodal reasoning model that excel
 
 `image-text-to-text` `14.9B`
 
-⬇️ 1,276 • ❤️ 181 • 4d ago
+⬇️ 1,276 • ❤️ 182 • 4d ago
 
 ---
 
@@ -497,7 +493,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 171 • 3d ago
+⬇️ 0 • ❤️ 172 • 3d ago
 
 ---
 
@@ -513,7 +509,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 128 • 💬 6 • ⭐ 17,732 • 3mo ago
+▲ 128 • 💬 6 • ⭐ 17,804 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -527,7 +523,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 191 • 💬 4 • ⭐ 6,814 • 16d ago
+▲ 192 • 💬 4 • ⭐ 6,814 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -568,7 +564,7 @@ A large-scale dataset collection, The Well, provides diverse numerical simulatio
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 119 • 💬 3 • ⭐ 327 • 5d ago
+▲ 120 • 💬 3 • ⭐ 327 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -580,7 +576,7 @@ Wan-Move enhances motion control in video generative models by integrating motio
 
 A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
 
-▲ 6 • 💬 1 • ⭐ 51,025 • 13mo ago
+▲ 6 • 💬 1 • ⭐ 51,061 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
 
@@ -612,18 +608,6 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 24 • 💬 0 • ⭐ 25,907 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
 **[Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform](https://huggingface.co/papers/2512.08478)**
 
 *Yuning Gong, Yifei Liu, Yifan Zhan et al. (24 authors)*
@@ -633,6 +617,20 @@ Visionary is an open web-native platform enabling real-time rendering of 3D Gaus
 ▲ 72 • 💬 4 • ⭐ 297 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
+
+---
+
+**[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677)**
+
+*Yubo Huang, Hailong Guo, Fangtai Wu et al. (11 authors)*
+
+🏢 Quark
+
+Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
+
+▲ 166 • 💬 4 • ⭐ 945 • 10d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
 ---
 
@@ -646,7 +644,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.1k • 🔱 2.2k • 3h ago
+⭐ 14.1k • 🔱 2.2k • 4h ago
 
 ---
 
@@ -656,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.7k • 🔱 302 • 8h ago
+⭐ 2.7k • 🔱 305 • 1h ago
 
 ---
 
@@ -726,7 +724,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 6h ago
+⭐ 861 • 🔱 49 • 7h ago
 
 ---
 
@@ -736,7 +734,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 688 • 🔱 100 • 5d ago
+⭐ 690 • 🔱 100 • 5d ago
 
 ---
 

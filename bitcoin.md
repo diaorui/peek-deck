@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T11:54:04.551347+00:00'
+updated: '2025-12-14T12:35:36.655925+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 11:54 UTC  
+**Last Updated:** December 14, 2025 at 12:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,950.62
+### $89,130.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -1.6%  
-**30d:** -6.5%  
-**90d:** -23.6%  
-**1y:** -14.4%  
+**24h:** -0.9%  
+**7d:** -1.4%  
+**30d:** -6.2%  
+**90d:** -23.4%  
+**1y:** -14.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1779.19B
+**Market Cap:** $1785.13B
 Rank #1
 
-**Circulating Supply:** 19,961,950 BTC
+**Circulating Supply:** 19,961,993 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.3%
+-29.1%
 
 **All-Time Low:** $67.81
-+131427.8%
++131774.4%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -97,19 +97,19 @@ Rank #1
 
 **[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
 
-7h ago
+8h ago
 
 ---
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 Yes. Yes we are.
 
-19h ago
+20h ago
 
 ---
 
@@ -149,7 +149,7 @@ This will age well in 10 years. See you then.
 
 Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -163,7 +163,7 @@ Reuters • 1d ago
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -171,7 +171,15 @@ The Motley Fool • 2h ago
 
 Bitcoin’s struggle to regain upside momentum near the $90,000 level may be less about weak demand and more about how large, long-term holders are managing their exposure, according to market analyst Jeff Park. Key Takeaways: Bitcoin’s muted price action near $90,000 is being driven by covered call selling from long-term ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitfarms Stock: The Bitcoin Mining Play to Watch](https://www.fool.com/investing/2025/12/14/bitfarms-stock-the-bitcoin-mining-play-to-watch/)**
+
+Bitfarms is more an AI play than a Bitcoin mining one.
+
+The Motley Fool • 28m ago
 
 ---
 
@@ -187,7 +195,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -213,12 +221,6 @@ Forbes • 1d ago
 
 ---
 
-**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
-
-Investor's Business Daily • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -227,7 +229,7 @@ Investor's Business Daily • 1d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 6 • 💬 1 • 18h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 6 • 💬 1 • 19h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -235,7 +237,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 19h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 20h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -301,7 +303,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 386 • 💬 21 • ⏱️ 21:16 • 15h ago
+👁️ 9K • 👍 386 • 💬 21 • ⏱️ 21:16 • 16h ago
 
 ---
 
@@ -311,7 +313,7 @@ It's official: every U.S. bank now has the green light to sell Bitcoin. Is this 
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 737 • 💬 107 • ⏱️ 31:28 • 11h ago
+👁️ 15K • 👍 737 • 💬 107 • ⏱️ 31:28 • 12h ago
 
 ---
 
@@ -321,7 +323,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 8K • 👍 451 • 💬 123 • ⏱️ 14:22 • 16h ago
+👁️ 8K • 👍 451 • 💬 123 • ⏱️ 14:22 • 17h ago
 
 ---
 
@@ -331,7 +333,7 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 7K • 👍 335 • 💬 73 • ⏱️ 12:56 • 11h ago
+👁️ 7K • 👍 335 • 💬 73 • ⏱️ 12:56 • 12h ago
 
 ---
 
@@ -341,7 +343,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 45K • 👍 2K • 💬 24 • ⏱️ 48:39 • 21h ago
+👁️ 45K • 👍 2K • 💬 24 • ⏱️ 48:39 • 22h ago
 
 ---
 
@@ -351,7 +353,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 209 • 💬 12 • ⏱️ 21:14 • 20h ago
+👁️ 5K • 👍 209 • 💬 12 • ⏱️ 21:14 • 21h ago
 
 ---
 
@@ -381,7 +383,7 @@ America is drowning in debt—and politicians aren't telling you the real soluti
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 181 • 💬 23 • ⏱️ 7:25 • 20h ago
+👁️ 4K • 👍 181 • 💬 23 • ⏱️ 7:25 • 21h ago
 
 ---
 
@@ -391,7 +393,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 415 • 💬 43 • ⏱️ 6:48 • 6h ago
+👁️ 6K • 👍 415 • 💬 43 • ⏱️ 6:48 • 7h ago
 
 ---
 

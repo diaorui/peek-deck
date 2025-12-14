@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T11:54:04.560692+00:00'
+updated: '2025-12-14T12:35:36.665110+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 11:54 UTC  
+**Last Updated:** December 14, 2025 at 12:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-1h ago
+2h ago
+
+---
+
+**[Unitree Debuts the World’s First Humanoid Robot “App Store”. It welcomes users and developers worldwide to co-develop and share together. Exceptional developers will receive rewards.](https://www.reddit.com/r/robotics/comments/1pmc3du/unitree_debuts_the_worlds_first_humanoid_robot/)**
+
+From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
+
+56m ago
 
 ---
 
@@ -48,25 +56,11 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 ---
 
-**[Unitree Debuts the World’s First Humanoid Robot “App Store”. It welcomes users and developers worldwide to co-develop and share together. Exceptional developers will receive rewards.](https://www.reddit.com/r/robotics/comments/1pmc3du/unitree_debuts_the_worlds_first_humanoid_robot/)**
+**[Would you be satisfied with this dynamic performance?](https://www.reddit.com/r/robotics/comments/1pm5p8c/would_you_be_satisfied_with_this_dynamic/)**
 
-From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
+We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-14m ago
-
----
-
-**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
-
-14h ago
-
----
-
-**[What kind of transmission that made this possible?](https://www.reddit.com/r/robotics/comments/1pmao9y/what_kind_of_transmission_that_made_this_possible/)**
-
-I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
-
-1h ago
+7h ago
 
 ---
 
@@ -76,11 +70,25 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 ---
 
-**[Would you be satisfied with this dynamic performance?](https://www.reddit.com/r/robotics/comments/1pm5p8c/would_you_be_satisfied_with_this_dynamic/)**
+**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-We’ll be sharing performance and application demos. Comments and discussion are welcome.
+15h ago
 
-6h ago
+---
+
+**[What kind of transmission that made this possible?](https://www.reddit.com/r/robotics/comments/1pmao9y/what_kind_of_transmission_that_made_this_possible/)**
+
+I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
+
+2h ago
+
+---
+
+**[how to connect battery to URC10 board?](https://www.reddit.com/r/robotics/comments/1pmcopl/how_to_connect_battery_to_urc10_board/)**
+
+Hello everyone! I’m kinda nervous and need some advice. So I’m working on connecting a battery to my URC10, but I’m honestly scared of sparks and doing something wrong. I already soldered the battery into an XT60 connector, but now I’m stuck wondering… did I do it right? Should I go ahead and connect it already, or am I missing something important? I don’t want to fry anything or hurt myself 😭. Can anyone walk me through the safe way to connect this, or confirm if I’m on the right track?
+
+21m ago
 
 ---
 
@@ -94,15 +102,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Marché Humanoides - Premiers gagnants : VPG MVIS HarmonicDriveSystem... etc.](https://www.reddit.com/r/robotics/comments/1pmbflm/marché_humanoides_premiers_gagnants_vpg_mvis/)**
 
-56m ago
-
----
-
-**[PX4 SIL fixed-wing and multirotor Simulator using Simulink](https://www.reddit.com/r/robotics/comments/1pm2vea/px4_sil_fixedwing_and_multirotor_simulator_using/)**
-
-What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
-
-9h ago
+1h ago
 
 ---
 
@@ -110,25 +110,11 @@ What's up guys, I posted about this PX4 SIL simulator earlier this year and got 
 
 ## Google News: "robotics"
 
-**[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
-
-The New York Times • 1h ago
-
----
-
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
-
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
-
-Fortune • 20h ago
-
----
-
 **[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 5h ago
+scmp.com • 6h ago
 
 ---
 
@@ -140,11 +126,25 @@ ABC7 San Francisco • 2d ago
 
 ---
 
+**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
+
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
+
+AP News • 1d ago
+
+---
+
+**[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
+
+The New York Times • 2h ago
+
+---
+
 **[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
 
 Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
 
-IEEE Spectrum • 4d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -153,14 +153,6 @@ IEEE Spectrum • 4d ago
 Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
 
 NVIDIA Developer • 2d ago
-
----
-
-**[10X Gains? These 3 Robotics Stocks Could Explode by 2035](https://finance.yahoo.com/news/10x-gains-3-robotics-stocks-224600231.html)**
-
-Engineering expert Kuran outlines why Symbotic, Alphabet, and Hyundai are top robotics stocks for AI, automation and industrial growth.
-
-Yahoo Finance • 4d ago
 
 ---
 
@@ -176,15 +168,23 @@ Scientific American • 1d ago
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
-**[PNG robotics students, parents persevere despite theft of trailer filled with equipment](https://kfdm.com/news/local/png-robotics-students-parents-persevere-despite-theft-of-trailer-filled-with-equipment)**
+**[Scientists Reveal Robot Small Enough to Travel Through Human Body](https://futurism.com/future-society/robot-small-travel-human-body)**
 
-The Port Neches-Groves High School robotics team isn't letting the theft of a pickup truck and trailer filled with its equipment prevent it from competing in th
+The tiny, microscopic robot packs an onboard computer, solar cells, and propulsion system, and is capable of sensing its environment.
 
-KFDM • 2d ago
+Futurism • 21h ago
+
+---
+
+**[Butler reboot: European firm to deploy 10,000 household humanoid robots in factories](https://interestingengineering.com/ai-robotics/1x-to-deploy-humanoid-robots-for-warehouses)**
+
+1X has partnered with EQT to make up to 10,000 Neo humanoid robots available to more than 300 companies between 2026 and 2030.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 38K • 👍 2K • 💬 90 • ⏱️ 0:34 • 3h ago
+👁️ 38K • 👍 2K • 💬 90 • ⏱️ 0:34 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ This is how humans will live with robots. Not in factories. Not in science ficti
 
 📺 Yasin Öğretmen
 
-👁️ 1K • 👍 38 • 💬 1 • ⏱️ 1:01 • 16h ago
+👁️ 1K • 👍 38 • 💬 1 • ⏱️ 1:01 • 17h ago
 
 ---
 

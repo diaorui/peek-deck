@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T11:54:04.557391+00:00'
+updated: '2025-12-14T12:35:36.661905+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 11:54 UTC  
+**Last Updated:** December 14, 2025 at 12:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -2.0%  
-**30d:** -3.5%  
-**90d:** -32.0%  
-**1y:** -22.6%  
+**24h:** -0.4%  
+**7d:** -0.8%  
+**30d:** -2.3%  
+**90d:** -31.2%  
+**1y:** -21.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $371.09B
+**Market Cap:** $373.23B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.9%
+-37.3%
 
 **All-Time Low:** $0.43
-+709819.0%
++716057.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm trying to grasp the ultimate plan for the ETH blockchain based upon improvement proposals as well as live metrics in order to understand what developers want for the blockchain. Ultimately this is to sell an SLT to possibly invest into ETH. I'm glad that the latest update has made ETH cheaper to transact in which will help with day to day transactions, however this has made the supply inflationary as the burn rate is lower. Is the goal to have a slight amount of inflation? Is the goal to have an elastic supply where issuance and burn rate are roughly the same? or is the goal for a strictly deflationary supply? From a value proposition this matters and I feel like the Devs haven't really put their feet down on what their intentions are. (I could be very wrong.) My main criticism of the first smart contract project is that they often don't clarify their thoughts until there is a bull run. I'm open to thoughts, articles and conversation. I'm just trying to educate myself as much as possible. Thank you in advance.
 
-9h ago
+10h ago
 
 ---
 
@@ -172,29 +172,21 @@ FXStreet • 1d ago
 
 If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-The Motley Fool • 24m ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
+**[Better Buy in 2026: Ethereum or XRP?](https://finance.yahoo.com/news/better-buy-2026-ethereum-xrp-115000740.html)**
 
-Sentiment around Ethereum has been bouncing around considerably in recent days.
+If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 45m ago
 
 ---
 
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
 Binance • 2d ago
-
----
-
-**[Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment](https://ambcrypto.com/greed-vs-fear-at-3k-inside-ethereums-make-or-break-moment/)**
-
-Ethereum approaches whale levels: Is greed fueling the next crash?
-
-AMBCrypto • 12h ago
 
 ---
 
@@ -206,11 +198,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment](https://ambcrypto.com/greed-vs-fear-at-3k-inside-ethereums-make-or-break-moment/)**
+
+Ethereum approaches whale levels: Is greed fueling the next crash?
+
+AMBCrypto • 13h ago
+
+---
+
 **[If This Ethereum Bear Flag Pattern Holds, ETH Price Could Be On Its Way To $2,400](https://www.tradingview.com/news/newsbtc:e4cff0ce0094b:0-if-this-ethereum-bear-flag-pattern-holds-eth-price-could-be-on-its-way-to-2-400/)**
 
 Since early October, when the Ethereum price began its dive into bearish territory, it has struggled to regain any of its significant price levels. The Ether token failed to hold at multiple support zones throughout November, as it plunged downwards. While Ethereum appears to be gaining bullish mom…
 
-TradingView — Track All Markets • 18h ago
+TradingView — Track All Markets • 19h ago
 
 ---
 
@@ -220,11 +220,9 @@ The Block • 3d ago
 
 ---
 
-**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqccbYmxw51ftF9hklh_caW9FMMSEM_Yls2XIlkyXfJSm7oPns1moXOV&gaa_ts=693eb284&gaa_sig=BZvWdXHjv5NXwXa2TXfyVx5KxnUsrwvweYpQQ8XdNHG43LTl4ab__cOAuhf2vbMiWF2FP9FbVXBR-3s0RjAo5w%3D%3D)**
 
-BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
-
-CryptoSlate • 2d ago
+Barron's • 3d ago
 
 ---
 
@@ -258,7 +256,7 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 45 • 💬 16 • ⏱️ 15:09 • 13h ago
+👁️ 1K • 👍 45 • 💬 16 • ⏱️ 15:09 • 14h ago
 
 ---
 
@@ -268,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 93 • 💬 4 • ⏱️ 4:34 • 7h ago
+👁️ 1K • 👍 93 • 💬 4 • ⏱️ 4:34 • 8h ago
 
 ---
 
@@ -278,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 139 • 💬 4 • ⏱️ 4:05 • 18h ago
+👁️ 3K • 👍 139 • 💬 4 • ⏱️ 4:05 • 19h ago
 
 ---
 
@@ -308,7 +306,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 209 • 💬 12 • ⏱️ 21:14 • 20h ago
+👁️ 5K • 👍 209 • 💬 12 • ⏱️ 21:14 • 21h ago
 
 ---
 
@@ -318,7 +316,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 577 • 👍 95 • 💬 8 • ⏱️ 27:17 • 3h ago
+👁️ 577 • 👍 95 • 💬 8 • ⏱️ 27:17 • 4h ago
 
 ---
 
@@ -328,7 +326,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 563 • 💬 104 • ⏱️ 11:13 • 6h ago
+👁️ 3K • 👍 563 • 💬 104 • ⏱️ 11:13 • 7h ago
 
 ---
 
