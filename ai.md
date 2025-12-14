@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T23:25:02.844864+00:00'
+updated: '2025-12-14T23:39:17.662997+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 23:25 UTC  
+**Last Updated:** December 14, 2025 at 23:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 Grass has jumped from a simple concept to a multi-million dollar, airdrop rewarding, revenue-generating AI data network with real traction They are projecting $12.8M in revenue this quarter, and adoption has exploded to 8.5M monthly active users in just 2 years. 475K on Discord, 573K on Twitter Season 1 Grass ended with an Airdrop to users based on accumulated Network Points. Grass Airdrop Season 2 is coming soon with even better rewards In October, Grass raised $10M, and their multimodal repository has passed 250 petabytes. Grass now operates at the lowest sustainable cost structure in the residential proxy sector Grass already provides core data infrastructure for multiple AI labs and is running trials of its SERP API with leading SEO firms. This API is the first step toward Live Context Retrieval, real-time data streams for AI models. LCR is shaping up to be one of the biggest future products in the AI data space and will bring higher-frequency, real-time on-chain settlement that increases Grass token utility If you want to earn ahead of Airdrop 2, you can stack up points by just using your Android phone or computer regularly. And the points will be worth Grass tokens that can be sold for money after Airdrop 2 You can register here with your email and start farming And you can find out more at grass.io
 
-12m ago
+27m ago
 
 ---
 
@@ -65,7 +65,7 @@ Grass has jumped from a simple concept to a multi-million dollar, airdrop reward
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-11h ago
+12h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Economist • 12h ago
 
 **[Global Funds View Indian Stocks as a Top Hedge Against AI Risks](https://www.bloomberg.com/news/articles/2025-12-14/global-funds-view-indian-stocks-as-a-top-hedge-against-ai-risks)**
 
-Bloomberg.com • 25m ago
+Bloomberg.com • 39m ago
 
 ---
 
@@ -315,7 +315,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 179K • 👍 12K • 💬 2K • ⏱️ 16:45 • 23h ago
+👁️ 179K • 👍 12K • 💬 2K • ⏱️ 16:45 • 1d ago
 
 ---
 
@@ -335,7 +335,7 @@ INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainew
 
 📺 AI Search
 
-👁️ 67K • 👍 3K • 💬 377 • ⏱️ 47:09 • 19h ago
+👁️ 67K • 👍 3K • 💬 377 • ⏱️ 47:09 • 20h ago
 
 ---
 
@@ -639,7 +639,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.4k • 🔱 2.2k • 14h ago
+⭐ 14.4k • 🔱 2.2k • 15h ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.9k • 🔱 319 • 5h ago
+⭐ 2.9k • 🔱 319 • 6h ago
 
 ---
 

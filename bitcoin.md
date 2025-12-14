@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T23:25:02.853495+00:00'
+updated: '2025-12-14T23:39:17.671536+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 23:25 UTC  
+**Last Updated:** December 14, 2025 at 23:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,202.75
+### $87,637.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -3.1%  
-**30d:** -7.8%  
-**90d:** -24.7%  
-**1y:** -15.6%  
+**24h:** -2.9%  
+**7d:** -3.4%  
+**30d:** -8.2%  
+**90d:** -24.9%  
+**1y:** -15.9%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1h ago
 
 Key PointsCardano is approaching one of its largest-ever growth opportunities.
 
-Nasdaq • 4h ago
+Nasdaq • 5h ago
 
 ---
 
@@ -181,7 +181,7 @@ Nasdaq • 4h ago
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -305,7 +305,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 4K • 💬 343 • ⏱️ 17:53 • 7h ago
+👁️ 53K • 👍 4K • 💬 343 • ⏱️ 17:53 • 8h ago
 
 ---
 
@@ -335,7 +335,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 221 • 💬 34 • ⏱️ 17:54 • 4h ago
+👁️ 4K • 👍 221 • 💬 34 • ⏱️ 17:54 • 5h ago
 
 ---
 
