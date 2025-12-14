@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T09:57:18.908373+00:00'
+updated: '2025-12-14T10:27:37.732435+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 09:57 UTC  
+**Last Updated:** December 14, 2025 at 10:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,9 +40,17 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 ---
 
+**[Next gen drones infrastructure by Zipline](https://www.reddit.com/r/robotics/comments/1pmam73/next_gen_drones_infrastructure_by_zipline/)**
+
+From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
+
+22m ago
+
+---
+
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -68,11 +76,19 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 ---
 
+**[What kind of transmission that made this possible?](https://www.reddit.com/r/robotics/comments/1pmao9y/what_kind_of_transmission_that_made_this_possible/)**
+
+I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
+
+18m ago
+
+---
+
 **[PX4 SIL fixed-wing and multirotor Simulator using Simulink](https://www.reddit.com/r/robotics/comments/1pm2vea/px4_sil_fixedwing_and_multirotor_simulator_using/)**
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
 
-7h ago
+8h ago
 
 ---
 
@@ -86,29 +102,19 @@ What's up guys, I posted about this PX4 SIL simulator earlier this year and got 
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 15h ago
-
----
-
-**[SO101 Lerobot pi0](https://www.reddit.com/r/robotics/comments/1pm64w6/so101_lerobot_pi0/)**
-
-Has anyone gotten pi0 to work with their SO101 Lerobot arm? I’ve trained it with ACT policy and it seems to be working, however, repeating the same exact process with pi0 doesn’t lead to the robot performing meaningful tasks. I’ve seen people getting this to work with as less as 50 episodes? Am I possibly not mapping the cameras correctly? Do I need to do any manual code changes to lerobot like switching absolute joint angles to deltas or converting to radians or anything like that before training? Any help or insight would be greatly appreciated, thanks!
-
-4h ago
-
----
-
-**[[P] Applying Latent Diffusion to Trajectory Planning: An efficient architecture for generating multi-modal paths (Code + Paper)](https://www.reddit.com/r/robotics/comments/1plztar/p_applying_latent_diffusion_to_trajectory/)**
-
-Hi r/Robotics , I’ve been working on a project exploring how Generative AI can replace (or augment) traditional trajectory planners for autonomous mobile robots/vehicles. I’m releasing Efficient Virtuoso, a Conditional Latent Diffusion Model (LDM) designed to plan long-horizon trajectories in complex, uncertain environments (specifically the Waymo Open Motion Dataset). * Paper: https://arxiv.org/abs/2509.03658 * Code: https://github.com/AntonioAlgaida/DiffusionTrajectoryPlanner The Robotics Perspective: Why Diffusion? Standard planners (like Lattice planners or optimization-based MPC) often struggle with multi-modality in social environments. If a pedestrian *might* cross or *might* stop, a deterministic planner has to average those futures or pick one arbitrarily, often leading to "freezing robot" problems or unsafe maneuvers. Diffusion models treat planning as a sampling problem. They can generate a distribution of valid plans (e.g., "Pass Left" AND "Pass Right") effectively representing the uncertainty of the workspace. Making it Efficient (The Architecture) The main drawback of diffusion is inference speed (denoising takes many steps). To make this viable for robotics constraints, I focused on architectural efficiency: Scene Encoding: A Transformer fuses the local map geometry and dynamic obstacles into a context embedding that conditions the planner. ### Results * Precision: Achieves a minADE (Average Displacement Error) of **0.25m**. * Behavior: Successfully models complex maneuvers like unprotected left turns, generating diverse "fan-outs" of trajectories that respect lane geometry. Discussion I view this type of model as a high-fidelity "Proposal Generator" for a hierarchical stack. You generate 20 diverse, plausible plans via diffusion, and then run them through a lightweight kinematic safety check or cost function to pick the best one. I’d be curious to hear thoughts from the community on integrating generative planners with hard safety constraints (like Control Barrier Functions).
-
-9h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 16h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
+
+The New York Times • 25m ago
+
+---
 
 **[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
 
@@ -122,7 +128,7 @@ Fortune • 18h ago
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 3h ago
+South China Morning Post • 4h ago
 
 ---
 
@@ -162,7 +168,7 @@ Yahoo Finance • 4d ago
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 22h ago
+Scientific American • 23h ago
 
 ---
 
@@ -178,15 +184,7 @@ The Robot Report • 1d ago
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-The Motley Fool • 14h ago
-
----
-
-**[Butler reboot: European firm to deploy 10,000 household humanoid robots in factories](https://interestingengineering.com/ai-robotics/1x-to-deploy-humanoid-robots-for-warehouses)**
-
-1X has partnered with EQT to make up to 10,000 Neo humanoid robots available to more than 300 companies between 2026 and 2030.
-
-Interesting Engineering • 1d ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -220,7 +218,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 17K • 👍 963 • 💬 53 • ⏱️ 0:34 • 1h ago
+👁️ 17K • 👍 963 • 💬 53 • ⏱️ 0:34 • 2h ago
 
 ---
 

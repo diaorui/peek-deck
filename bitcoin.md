@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T09:57:18.900204+00:00'
+updated: '2025-12-14T10:27:37.723082+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 09:57 UTC  
+**Last Updated:** December 14, 2025 at 10:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,268.50
+### $89,809.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -0.7%  
-**30d:** -5.6%  
-**90d:** -22.8%  
-**1y:** -13.6%  
+**24h:** -0.3%  
+**7d:** -0.8%  
+**30d:** -5.7%  
+**90d:** -22.9%  
+**1y:** -13.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1796.80B
+**Market Cap:** $1796.17B
 Rank #1
 
-**Circulating Supply:** 19,961,940 BTC
+**Circulating Supply:** 19,961,950 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.5%
 
 **All-Time Low:** $67.81
-+132640.0%
++132756.5%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
+**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-10h ago
+6h ago
 
 ---
 
-**[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
+**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-11h ago
+10h ago
 
 ---
 
@@ -97,7 +97,13 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-13h ago
+14h ago
+
+---
+
+**[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
+
+12h ago
 
 ---
 
@@ -107,39 +113,31 @@ Rank #1
 
 ---
 
+**[The only one with the honest network](https://www.reddit.com/r/Bitcoin/comments/1pmaboy/the_only_one_with_the_honest_network/)**
+
+41m ago
+
+---
+
 **[Are We Still Early?](https://www.reddit.com/r/Bitcoin/comments/1plottv/are_we_still_early/)**
 
 Yes. Yes we are.
 
-17h ago
+18h ago
 
 ---
 
-**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
+**[I finally acquired 1 whole bitcoin at 28 years old.](https://www.reddit.com/r/Bitcoin/comments/1plhsu8/i_finally_acquired_1_whole_bitcoin_at_28_years_old/)**
 
-6h ago
+This will age well in 10 years. See you then.
+
+1d ago
 
 ---
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
 12h ago
-
----
-
-**[Should I take a bet that Bitcoin will hit 100,000 for a second before January 1st?](https://www.reddit.com/r/Bitcoin/comments/1pm3eji/should_i_take_a_bet_that_bitcoin_will_hit_100000/)**
-
-A buddy wants to bet me 1 grand.
-
-7h ago
-
----
-
-**[End the Fed.](https://www.reddit.com/r/Bitcoin/comments/1pm5lh5/end_the_fed/)**
-
-Thieves.
-
-5h ago
 
 ---
 
@@ -151,7 +149,7 @@ Thieves.
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -167,7 +165,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -183,7 +181,7 @@ Bitcoin Magazine • 1d ago
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 30m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -191,7 +189,7 @@ The Motley Fool • 30m ago
 
 Rodney Burton, a 56-year-old crypto promoter known online as “Bitcoin Rodney,” is facing expanded federal charges tied to his alleged role in promoting the $1.8 billion HyperFund cryptocurrency scheme. Key Takeaways: US prosecutors expanded charges against “Bitcoin Rodney” over the $1.8B HyperFund scheme. Burton faces decades in prison after being ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -215,11 +213,11 @@ Forbes • 1d ago
 
 ---
 
-**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
+**[Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?](https://finance.yahoo.com/news/bitcoin-2030-price-prediction-btc-144212543.html)**
 
-Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
+Bitcoin (CRYPTO: BTC) enters the final stretch of the decade with its biggest question yet: can BTC climb to the $500K–$1M range as adoption deepens and supply tightens? The past six months show how quickly momentum can shift, but the long-term picture depends on forces far bigger than short-term price swings. Spot Bitcoin ETFs, sovereign ... Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?
 
-CoinDesk • 14h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -231,7 +229,7 @@ CoinDesk • 14h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 6 • 💬 1 • 16h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 6 • 💬 1 • 17h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -239,7 +237,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 17h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 18h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -305,7 +303,7 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 7K • 👍 316 • 💬 71 • ⏱️ 12:56 • 9h ago
+👁️ 7K • 👍 316 • 💬 71 • ⏱️ 12:56 • 10h ago
 
 ---
 
@@ -325,7 +323,7 @@ It's official: every U.S. bank now has the green light to sell Bitcoin. Is this 
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 690 • 💬 102 • ⏱️ 31:28 • 9h ago
+👁️ 14K • 👍 690 • 💬 102 • ⏱️ 31:28 • 10h ago
 
 ---
 
@@ -345,7 +343,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 8K • 👍 444 • 💬 112 • ⏱️ 14:22 • 14h ago
+👁️ 8K • 👍 444 • 💬 112 • ⏱️ 14:22 • 15h ago
 
 ---
 
@@ -355,7 +353,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 24 • ⏱️ 48:39 • 19h ago
+👁️ 43K • 👍 2K • 💬 24 • ⏱️ 48:39 • 20h ago
 
 ---
 
@@ -365,7 +363,7 @@ HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S F
 
 📺 Austin Hilton
 
-👁️ 11K • 👍 570 • 💬 52 • ⏱️ 5:30 • 17h ago
+👁️ 11K • 👍 570 • 💬 52 • ⏱️ 5:30 • 18h ago
 
 ---
 
@@ -375,7 +373,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 320 • 💬 28 • ⏱️ 6:48 • 4h ago
+👁️ 4K • 👍 320 • 💬 28 • ⏱️ 6:48 • 5h ago
 
 ---
 
@@ -395,7 +393,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 204 • 💬 11 • ⏱️ 21:14 • 18h ago
+👁️ 5K • 👍 204 • 💬 11 • ⏱️ 21:14 • 19h ago
 
 ---
 

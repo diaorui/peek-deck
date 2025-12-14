@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T09:57:18.892643+00:00'
+updated: '2025-12-14T10:27:37.714604+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - videos
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 09:57 UTC  
+**Last Updated:** December 14, 2025 at 10:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,7 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-18h ago
-
----
-
-**[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 18h ago
+19h ago
 
 ---
 
@@ -57,9 +51,29 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 ---
 
+**[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 18h ago
+
+---
+
+**[Sick of uploading sensitive PDFs to ChatGPT? I built a fully offline "Second Brain" using Llama 3 + Python (No API keys needed)](https://www.reddit.com/r/artificial/comments/1pmas1w/sick_of_uploading_sensitive_pdfs_to_chatgpt_i/)**
+
+Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
+
+12m ago
+
+---
+
+**[Guy using AI to take selfies with famous web series characters](https://www.reddit.com/r/artificial/comments/1pmaqx9/guy_using_ai_to_take_selfies_with_famous_web/)**
+
+14m ago
+
+---
+
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -67,7 +81,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
 
-🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 7h ago
+🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 8h ago
 
 ---
 
@@ -75,7 +89,7 @@ An artificial intelligence agent has shown it can do what even seasoned cybersec
 
 The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
 
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 9h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 10h ago
 
 ---
 
@@ -95,20 +109,6 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 ---
 
-**[Sam Altman Got What He Wanted](https://www.reddit.com/r/artificial/comments/1plowm2/sam_altman_got_what_he_wanted/)**
-
-For now
-
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 17h ago
-
----
-
-**[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
-
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 22h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -121,27 +121,9 @@ CNN • 2d ago
 
 ---
 
-**[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
+**[OpenAI isn't too big to fail. It's bigger.](https://www.axios.com/2025/12/13/open-ai-too-big-to-fail)**
 
-What if the best use of AI is restarting the world’s idea machine?
-
-Vox • 20h ago
-
----
-
-**[Prediction: This AI Stock Could Lead the Market in 2026](https://finance.yahoo.com/news/prediction-ai-stock-could-lead-065300043.html)**
-
-Alphabet's stock has been on fire in the second half of the year.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Jamie Dimon says soft skills like emotional intelligence and communication are vital as AI eliminates roles](https://fortune.com/2025/12/14/jamie-dimon-soft-skills-emotional-intelligence-communication-ai-eliminates-roles/)**
-
-Dimon added that people who possess soft skills will have "plenty of jobs."
-
-Fortune • 55m ago
+Axios • 19h ago
 
 ---
 
@@ -151,11 +133,17 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[Questions of accuracy arise as Washington Post uses AI to create personalized podcasts](https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast)**
+**[Jamie Dimon says soft skills like emotional intelligence and communication are vital as AI eliminates roles](https://fortune.com/2025/12/14/jamie-dimon-soft-skills-emotional-intelligence-communication-ai-eliminates-roles/)**
 
-The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest.
+Dimon added that people who possess soft skills will have "plenty of jobs."
 
-NPR • 22h ago
+Fortune • 1h ago
+
+---
+
+**[How Trump’s tech advisers overcame a MAGA rebellion over AI](https://www.washingtonpost.com/politics/2025/12/14/trump-ai-executive-order-divisions/)**
+
+The Washington Post • 21m ago
 
 ---
 
@@ -163,27 +151,39 @@ NPR • 22h ago
 
 A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
-**[OpenAI isn't too big to fail. It's bigger.](https://www.axios.com/2025/12/13/open-ai-too-big-to-fail)**
+**[Questions of accuracy arise as Washington Post uses AI to create personalized podcasts](https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast)**
 
-Axios • 19h ago
+The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest.
 
----
-
-**[Purdue University Approves New AI Requirement For All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)**
-
-Forbes • 22h ago
+NPR • 23h ago
 
 ---
 
-**[I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely.](https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12)**
+**[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
 
-Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
+What if the best use of AI is restarting the world’s idea machine?
 
-Business Insider • 23h ago
+Vox • 20h ago
+
+---
+
+**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
+
+California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
+
+The Guardian • 19h ago
+
+---
+
+**[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
+
+A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
+
+NBC News • 23h ago
 
 ---
 
@@ -209,7 +209,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 332 • 💬 349 • 18h ago
+⬆️ 338 • 💬 355 • 18h ago
 
 ---
 
@@ -249,7 +249,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 83 • 💬 43 • 8h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 92 • 💬 47 • 8h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -277,7 +277,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 190K • 👍 4K • 💬 509 • ⏱️ 1:21:07 • 21h ago
+👁️ 190K • 👍 4K • 💬 509 • ⏱️ 1:21:07 • 22h ago
 
 ---
 
@@ -307,7 +307,7 @@ Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut 
 
 📺 Smart Tales
 
-👁️ 16K • 👍 118 • ⏱️ 0:08 • 13h ago
+👁️ 16K • 👍 118 • ⏱️ 0:08 • 14h ago
 
 ---
 
@@ -383,7 +383,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,666 • 5d ago
+⬇️ 277,583 • ❤️ 2,670 • 5d ago
 
 ---
 
@@ -395,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 119,786 • ❤️ 810 • 1d ago
+⬇️ 130,627 • ❤️ 811 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 54,050 • ❤️ 399 • 4d ago
+⬇️ 67,698 • ❤️ 401 • 4d ago
 
 ---
 
@@ -419,7 +419,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 13,668 • ❤️ 320 • 2d ago
+⬇️ 15,778 • ❤️ 320 • 2d ago
 
 ---
 
@@ -431,7 +431,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 3,233 • ❤️ 292 • 5d ago
+⬇️ 3,369 • ❤️ 294 • 5d ago
 
 ---
 
@@ -443,19 +443,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 31,499 • ❤️ 270 • 5d ago
-
----
-
-**[rnj-1-instruct](https://huggingface.co/EssentialAI/rnj-1-instruct)**
-
-*Essential AI*
-
-Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM, and agentic tasks, excelling at tool-calling and outperforming comparable models on benchmarks like SWE-bench.
-
-`text-generation` `8.3B`
-
-⬇️ 447,364 • ❤️ 253 • 5d ago
+⬇️ 35,747 • ❤️ 270 • 5d ago
 
 ---
 
@@ -467,19 +455,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,201 • ❤️ 191 • 2d ago
-
----
-
-**[NewBie-image-Exp0.1](https://huggingface.co/NewBie-AI/NewBie-image-Exp0.1)**
-
-*NewBie AI*
-
-NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on Next-DiT, optimized for generating high-quality anime-style images. It features enhanced prompt understanding via Gemma3-4B-it and Jina CLIP v2, and supports XML structured prompts for precise control over multi-character scenes and attributes.
-
-`text-to-image`
-
-⬇️ 516 • ❤️ 189 • 2d ago
+⬇️ 4,725 • ❤️ 191 • 2d ago
 
 ---
 
@@ -491,7 +467,31 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 4,597 • ❤️ 188 • 2d ago
+⬇️ 5,553 • ❤️ 188 • 2d ago
+
+---
+
+**[Apriel-1.6-15b-Thinker](https://huggingface.co/ServiceNow-AI/Apriel-1.6-15b-Thinker)**
+
+*ServiceNow-AI*
+
+Apriel-1.6-15B-Thinker is a cost-efficient multimodal reasoning model that excels at image-text-to-text tasks, achieving frontier performance with reduced token usage. It's suitable for enterprise use cases like function calling and instruction following, fitting on a single GPU.
+
+`image-text-to-text` `14.9B`
+
+⬇️ 1,276 • ❤️ 177 • 4d ago
+
+---
+
+**[GLM-TTS](https://huggingface.co/zai-org/GLM-TTS)**
+
+*Z.ai*
+
+GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage LLM and Flow Matching architecture, enhanced by multi-reward reinforcement learning for expressive emotion control and high-quality synthesis. It supports voice cloning from short prompts and streaming inference for interactive applications.
+
+`text-to-speech`
+
+⬇️ 0 • ❤️ 170 • 3d ago
 
 ---
 
@@ -720,7 +720,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 4h ago
+⭐ 861 • 🔱 49 • 5h ago
 
 ---
 
