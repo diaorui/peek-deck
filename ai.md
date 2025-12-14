@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T11:31:44.164486+00:00'
+updated: '2025-12-14T11:42:38.796334+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 11:31 UTC  
+**Last Updated:** December 14, 2025 at 11:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -147,7 +147,7 @@ The New York Times • 2d ago
 
 **[Trump AI order fuels GOP divide over state laws](https://thehill.com/policy/technology/5647144-trump-federal-ai-regulation/)**
 
-thehill.com • 31m ago
+thehill.com • 42m ago
 
 ---
 
@@ -211,7 +211,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 345 • 💬 357 • 19h ago
+⬆️ 345 • 💬 357 • 20h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T11:31:44.182080+00:00'
+updated: '2025-12-14T11:42:38.814469+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 11:31 UTC  
+**Last Updated:** December 14, 2025 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -86,7 +86,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Marché Humanoides - Premiers gagnants : VPG MVIS HarmonicDriveSystem... etc.](https://www.reddit.com/r/robotics/comments/1pmbflm/marché_humanoides_premiers_gagnants_vpg_mvis/)**
 
-33m ago
+44m ago
 
 ---
 
@@ -244,7 +244,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 17K • 👍 216 • 💬 11 • ⏱️ 0:11 • 22h ago
+👁️ 17K • 👍 216 • 💬 11 • ⏱️ 0:11 • 23h ago
 
 ---
 

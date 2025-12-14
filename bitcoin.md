@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T11:31:44.172871+00:00'
+updated: '2025-12-14T11:42:38.804941+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 11:31 UTC  
+**Last Updated:** December 14, 2025 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,448.65
+### $89,239.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -1.4%  
-**30d:** -6.3%  
-**90d:** -23.4%  
-**1y:** -14.2%  
+**24h:** -1.5%  
+**7d:** -1.8%  
+**30d:** -6.6%  
+**90d:** -23.7%  
+**1y:** -14.5%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -137,7 +137,7 @@ This will age well in 10 years. See you then.
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bitcoin Magazine • 1d ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 15h ago
+x.com • 16h ago
 
 ---
 
@@ -313,7 +313,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 353 • 💬 18 • ⏱️ 21:16 • 14h ago
+👁️ 8K • 👍 353 • 💬 18 • ⏱️ 21:16 • 15h ago
 
 ---
 
@@ -333,7 +333,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 4K • 👍 302 • 💬 56 • ⏱️ 9:44 • 4h ago
+👁️ 4K • 👍 302 • 💬 56 • ⏱️ 9:44 • 5h ago
 
 ---
 
