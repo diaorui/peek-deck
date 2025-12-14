@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T12:35:36.647546+00:00'
+updated: '2025-12-14T13:08:36.834558+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - repositories
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 12:35 UTC  
+**Last Updated:** December 14, 2025 at 13:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 14h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 15h ago
+
+---
+
+**[Exploring a more direct way to edit AI images after getting frustrated myself](https://www.reddit.com/r/artificial/comments/1pmc0h3/exploring_a_more_direct_way_to_edit_ai_images/)**
+
+A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
+
+1h ago
 
 ---
 
@@ -51,25 +59,17 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 ---
 
-**[Sick of uploading sensitive PDFs to ChatGPT? I built a fully offline "Second Brain" using Llama 3 + Python (No API keys needed)](https://www.reddit.com/r/artificial/comments/1pmas1w/sick_of_uploading_sensitive_pdfs_to_chatgpt_i/)**
-
-Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
-
-2h ago
-
----
-
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
 14h ago
 
 ---
 
-**[Exploring a more direct way to edit AI images after getting frustrated myself](https://www.reddit.com/r/artificial/comments/1pmc0h3/exploring_a_more_direct_way_to_edit_ai_images/)**
+**[Sick of uploading sensitive PDFs to ChatGPT? I built a fully offline "Second Brain" using Llama 3 + Python (No API keys needed)](https://www.reddit.com/r/artificial/comments/1pmas1w/sick_of_uploading_sensitive_pdfs_to_chatgpt_i/)**
 
-A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
+Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +93,7 @@ An artificial intelligence agent has shown it can do what even seasoned cybersec
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-4h ago
+5h ago
 
 ---
 
@@ -101,7 +101,7 @@ Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom c
 
 just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. However, i only have dual RTX 2080TIs and training is painfully slow. Currently working on training a model through the tinystories dataset and then will be running eval tests. Ill update when i can with more information. If you want to check it out here it is: https://github.com/Wulfic/AI-OS
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 20h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 21h ago
 
 ---
 
@@ -117,25 +117,25 @@ For now
 
 ## Google News: "ai"
 
-**[For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)**
-
-If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
-
-WIRED • 5h ago
-
----
-
-**[OpenAI isn't too big to fail. It's bigger.](https://www.axios.com/2025/12/13/open-ai-too-big-to-fail)**
-
-Axios • 22h ago
-
----
-
 **[Jamie Dimon says soft skills like emotional intelligence and communication are vital as AI eliminates roles](https://fortune.com/2025/12/14/jamie-dimon-soft-skills-emotional-intelligence-communication-ai-eliminates-roles/)**
 
 Dimon added that people who possess soft skills will have "plenty of jobs."
 
-Fortune • 3h ago
+Fortune • 4h ago
+
+---
+
+**[For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)**
+
+If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
+
+WIRED • 6h ago
+
+---
+
+**[It's beginning to look a lot like (AI) Christmas](https://www.axios.com/2025/12/14/ai-christmas-nativity-visuals-sermons-jesus)**
+
+Axios • 20m ago
 
 ---
 
@@ -143,7 +143,7 @@ Fortune • 3h ago
 
 California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
 
-The Guardian • 21h ago
+The Guardian • 22h ago
 
 ---
 
@@ -155,13 +155,7 @@ The New York Times • 2d ago
 
 **[Trump AI order fuels GOP divide over state laws](https://thehill.com/policy/technology/5647144-trump-federal-ai-regulation/)**
 
-thehill.com • 1h ago
-
----
-
-**[Job apocalypse? Bah! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-bah-ai-is-creating-brand-new-occupations)**
-
-The Economist • 1h ago
+thehill.com • 2h ago
 
 ---
 
@@ -169,7 +163,7 @@ The Economist • 1h ago
 
 A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -177,7 +171,7 @@ BBC • 11h ago
 
 Here's why Nvidia may be one of the most undervalued artificial intelligence (AI) stocks.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -186,6 +180,14 @@ The Motley Fool • 7h ago
 The AI computing market is a great place to invest.
 
 The Motley Fool • 16h ago
+
+---
+
+**[Nvidia Stock vs. Broadcom Stock: Wall Street Says This AI Stock Is the Best Buy](https://www.fool.com/investing/2025/12/14/nvidia-stock-broadcom-stock-wall-street-best-buy/)**
+
+While Nvidia and Broadcom are both benefiting from the AI boom, Wall Street sees one stock as a much better buy.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -211,7 +213,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 360 • 💬 364 • 20h ago
+⬆️ 368 • 💬 375 • 21h ago
 
 ---
 
@@ -251,7 +253,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 102 • 💬 58 • 10h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 107 • 💬 64 • 11h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -265,7 +267,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 62 • 💬 54 • 15h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 62 • 💬 54 • 16h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -289,7 +291,7 @@ Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut 
 
 📺 Smart Tales
 
-👁️ 18K • 👍 130 • ⏱️ 0:08 • 16h ago
+👁️ 18K • 👍 130 • ⏱️ 0:08 • 17h ago
 
 ---
 
@@ -369,7 +371,7 @@ President Trump signed an executive order this week aimed at limiting states' ab
 
 📺 WGN News
 
-👁️ 44K • 👍 129 • 💬 197 • ⏱️ 1:52 • 20h ago
+👁️ 44K • 👍 129 • 💬 197 • ⏱️ 1:52 • 21h ago
 
 ---
 
@@ -385,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,676 • 5d ago
+⬇️ 277,583 • ❤️ 2,678 • 5d ago
 
 ---
 
@@ -397,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 130,627 • ❤️ 812 • 1d ago
+⬇️ 130,627 • ❤️ 813 • 1d ago
 
 ---
 
@@ -421,7 +423,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 321 • 2d ago
+⬇️ 15,778 • ❤️ 322 • 2d ago
 
 ---
 
@@ -433,7 +435,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 3,369 • ❤️ 295 • 5d ago
+⬇️ 3,369 • ❤️ 296 • 5d ago
 
 ---
 
@@ -449,6 +451,18 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 ---
 
+**[GLM-ASR-Nano-2512](https://huggingface.co/zai-org/GLM-ASR-Nano-2512)**
+
+*Z.ai*
+
+GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-volume and dialectal (Cantonese) speech, outperforming Whisper V3 on benchmarks with a 4.10 average error rate. It's ideal for noisy environments and diverse linguistic use cases.
+
+`automatic-speech-recognition` `2.3B`
+
+⬇️ 5,553 • ❤️ 193 • 2d ago
+
+---
+
 **[Devstral-2-123B-Instruct-2512](https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512)**
 
 *Mistral AI_*
@@ -461,18 +475,6 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 ---
 
-**[GLM-ASR-Nano-2512](https://huggingface.co/zai-org/GLM-ASR-Nano-2512)**
-
-*Z.ai*
-
-GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-volume and dialectal (Cantonese) speech, outperforming Whisper V3 on benchmarks with a 4.10 average error rate. It's ideal for noisy environments and diverse linguistic use cases.
-
-`automatic-speech-recognition` `2.3B`
-
-⬇️ 5,553 • ❤️ 192 • 2d ago
-
----
-
 **[Apriel-1.6-15b-Thinker](https://huggingface.co/ServiceNow-AI/Apriel-1.6-15b-Thinker)**
 
 *ServiceNow-AI*
@@ -481,7 +483,7 @@ Apriel-1.6-15B-Thinker is a cost-efficient multimodal reasoning model that excel
 
 `image-text-to-text` `14.9B`
 
-⬇️ 1,276 • ❤️ 182 • 4d ago
+⬇️ 1,276 • ❤️ 183 • 4d ago
 
 ---
 
@@ -493,7 +495,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 172 • 3d ago
+⬇️ 0 • ❤️ 173 • 3d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T12:35:36.665110+00:00'
+updated: '2025-12-14T13:08:36.852414+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 12:35 UTC  
+**Last Updated:** December 14, 2025 at 13:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
-56m ago
+1h ago
 
 ---
 
@@ -56,26 +56,6 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 ---
 
-**[Would you be satisfied with this dynamic performance?](https://www.reddit.com/r/robotics/comments/1pm5p8c/would_you_be_satisfied_with_this_dynamic/)**
-
-We’ll be sharing performance and application demos. Comments and discussion are welcome.
-
-7h ago
-
----
-
-**[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
-
-4h ago
-
----
-
-**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
-
-15h ago
-
----
-
 **[What kind of transmission that made this possible?](https://www.reddit.com/r/robotics/comments/1pmao9y/what_kind_of_transmission_that_made_this_possible/)**
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
@@ -84,11 +64,31 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 ---
 
+**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
+
+16h ago
+
+---
+
+**[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
+
+5h ago
+
+---
+
+**[Would you be satisfied with this dynamic performance?](https://www.reddit.com/r/robotics/comments/1pm5p8c/would_you_be_satisfied_with_this_dynamic/)**
+
+We’ll be sharing performance and application demos. Comments and discussion are welcome.
+
+8h ago
+
+---
+
 **[how to connect battery to URC10 board?](https://www.reddit.com/r/robotics/comments/1pmcopl/how_to_connect_battery_to_urc10_board/)**
 
 Hello everyone! I’m kinda nervous and need some advice. So I’m working on connecting a battery to my URC10, but I’m honestly scared of sparks and doing something wrong. I already soldered the battery into an XT60 connector, but now I’m stuck wondering… did I do it right? Should I go ahead and connect it already, or am I missing something important? I don’t want to fry anything or hurt myself 😭. Can anyone walk me through the safe way to connect this, or confirm if I’m on the right track?
 
-21m ago
+54m ago
 
 ---
 
@@ -102,7 +102,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Marché Humanoides - Premiers gagnants : VPG MVIS HarmonicDriveSystem... etc.](https://www.reddit.com/r/robotics/comments/1pmbflm/marché_humanoides_premiers_gagnants_vpg_mvis/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -114,7 +114,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-scmp.com • 6h ago
+scmp.com • 7h ago
 
 ---
 
@@ -136,7 +136,7 @@ AP News • 1d ago
 
 **[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -172,19 +172,19 @@ The Motley Fool • 17h ago
 
 ---
 
-**[Scientists Reveal Robot Small Enough to Travel Through Human Body](https://futurism.com/future-society/robot-small-travel-human-body)**
-
-The tiny, microscopic robot packs an onboard computer, solar cells, and propulsion system, and is capable of sensing its environment.
-
-Futurism • 21h ago
-
----
-
 **[Butler reboot: European firm to deploy 10,000 household humanoid robots in factories](https://interestingengineering.com/ai-robotics/1x-to-deploy-humanoid-robots-for-warehouses)**
 
 1X has partnered with EQT to make up to 10,000 Neo humanoid robots available to more than 300 companies between 2026 and 2030.
 
 Interesting Engineering • 2d ago
+
+---
+
+**[Scientists Reveal Robot Small Enough to Travel Through Human Body](https://futurism.com/future-society/robot-small-travel-human-body)**
+
+The tiny, microscopic robot packs an onboard computer, solar cells, and propulsion system, and is capable of sensing its environment.
+
+Futurism • 21h ago
 
 ---
 
@@ -218,7 +218,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 38K • 👍 2K • 💬 90 • ⏱️ 0:34 • 4h ago
+👁️ 38K • 👍 2K • 💬 90 • ⏱️ 0:34 • 5h ago
 
 ---
 
@@ -236,7 +236,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 18K • 👍 237 • 💬 11 • ⏱️ 0:11 • 23h ago
+👁️ 18K • 👍 237 • 💬 11 • ⏱️ 0:11 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T12:35:36.655925+00:00'
+updated: '2025-12-14T13:08:36.842931+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 12:35 UTC  
+**Last Updated:** December 14, 2025 at 13:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -1.4%  
-**30d:** -6.2%  
-**90d:** -23.4%  
-**1y:** -14.2%  
+**24h:** -1.0%  
+**7d:** -1.8%  
+**30d:** -6.7%  
+**90d:** -23.7%  
+**1y:** -14.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1785.13B
+**Market Cap:** $1781.14B
 Rank #1
 
-**Circulating Supply:** 19,961,993 BTC
+**Circulating Supply:** 19,962,021 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.1%
+-29.3%
 
 **All-Time Low:** $67.81
-+131774.4%
++131404.2%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-7h ago
+8h ago
 
 ---
 
 **[The only one with the honest network](https://www.reddit.com/r/Bitcoin/comments/1pmaboy/the_only_one_with_the_honest_network/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -109,13 +109,13 @@ Rank #1
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-14h ago
+15h ago
 
 ---
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 Yes. Yes we are.
 
-20h ago
+21h ago
 
 ---
 
@@ -137,27 +137,13 @@ This will age well in 10 years. See you then.
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-14h ago
+15h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
-
-Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
-
-CoinDesk • 17h ago
-
----
-
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
-
-Reuters • 1d ago
-
----
 
 **[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
 
@@ -167,11 +153,17 @@ The Motley Fool • 3h ago
 
 ---
 
-**[Covered Call Selling by Bitcoin Whales Is Weighing on Spot Prices, Analyst Says](https://finance.yahoo.com/news/covered-call-selling-bitcoin-whales-103000640.html)**
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Bitcoin’s struggle to regain upside momentum near the $90,000 level may be less about weak demand and more about how large, long-term holders are managing their exposure, according to market analyst Jeff Park. Key Takeaways: Bitcoin’s muted price action near $90,000 is being driven by covered call selling from long-term ...
+Reuters • 1d ago
 
-Yahoo Finance • 2h ago
+---
+
+**[3 Reasons Why Bullish Bitcoin Price Predictions Still Hold](https://finance.yahoo.com/news/3-reasons-why-bullish-bitcoin-121812190.html)**
+
+Bitcoin price prediction to $180,000 remains in focus as hidden signals emerge. Here’s why bulls aren’t backing off yet.
+
+Yahoo Finance • 50m ago
 
 ---
 
@@ -179,7 +171,31 @@ Yahoo Finance • 2h ago
 
 Bitfarms is more an AI play than a Bitcoin mining one.
 
-The Motley Fool • 28m ago
+The Motley Fool • 1h ago
+
+---
+
+**[Brazil’s Largest Private Bank Advises 3% Bitcoin Allocation For Clients](https://finance.yahoo.com/news/brazil-largest-private-bank-advises-210131274.html)**
+
+Brazil's top bank Itaú Unibanco has advised clients to allocate up to 3% of their portfolios to Bitcoin by 2026.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Brazil’s Largest Asset Manager Recommends Investors Put Up to 3% of their Money in Bitcoin to Hedge Against FX, Market Shocks](https://www.coindesk.com/business/2025/12/13/brazil-s-largest-asset-manager-recommends-investors-put-up-to-3-of-their-money-in-bitcoin-to-hedge-against-fx-market-shocks)**
+
+The recommendation is in line with other global asset managers like BlackRock and Bank of America suggesting small portfolio allocations to the largest cryptocurrency.
+
+CoinDesk • 21h ago
+
+---
+
+**[Brazil’s leading bank says savers should keep up to 3% of their money in Bitcoin](https://finance.yahoo.com/news/brazil-leading-bank-says-savers-114309762.html)**
+
+Itaú Unibanco has $78.20 billion market cap. Investments should be between 1% and 3% of customers’ portfolio, executive says. Bank’s offers Bitcoin trading on its app, as well as Bitcoin exchange-traded fund.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -207,20 +223,6 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
-
-x.com • 16h ago
-
----
-
-**[Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2025/12/12/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
-
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
-
-Forbes • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -237,7 +239,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 20h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 21h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -313,7 +315,7 @@ It's official: every U.S. bank now has the green light to sell Bitcoin. Is this 
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 737 • 💬 107 • ⏱️ 31:28 • 12h ago
+👁️ 15K • 👍 737 • 💬 107 • ⏱️ 31:28 • 13h ago
 
 ---
 
@@ -323,7 +325,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 8K • 👍 451 • 💬 123 • ⏱️ 14:22 • 17h ago
+👁️ 8K • 👍 451 • 💬 123 • ⏱️ 14:22 • 18h ago
 
 ---
 
@@ -343,7 +345,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 45K • 👍 2K • 💬 24 • ⏱️ 48:39 • 22h ago
+👁️ 45K • 👍 2K • 💬 24 • ⏱️ 48:39 • 23h ago
 
 ---
 
@@ -353,7 +355,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 209 • 💬 12 • ⏱️ 21:14 • 21h ago
+👁️ 5K • 👍 209 • 💬 12 • ⏱️ 21:14 • 22h ago
 
 ---
 

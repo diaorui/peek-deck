@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T12:35:36.661905+00:00'
+updated: '2025-12-14T13:08:36.849094+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 12:35 UTC  
+**Last Updated:** December 14, 2025 at 13:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -0.8%  
-**30d:** -2.3%  
-**90d:** -31.2%  
-**1y:** -21.7%  
+**24h:** -1.2%  
+**7d:** -1.4%  
+**30d:** -2.9%  
+**90d:** -31.6%  
+**1y:** -22.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.23B
+**Market Cap:** $372.51B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.3%
+-37.6%
 
 **All-Time Low:** $0.43
-+716057.1%
++712736.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm trying to grasp the ultimate plan for the ETH blockchain based upon improvement proposals as well as live metrics in order to understand what developers want for the blockchain. Ultimately this is to sell an SLT to possibly invest into ETH. I'm glad that the latest update has made ETH cheaper to transact in which will help with day to day transactions, however this has made the supply inflationary as the burn rate is lower. Is the goal to have a slight amount of inflation? Is the goal to have an elastic supply where issuance and burn rate are roughly the same? or is the goal for a strictly deflationary supply? From a value proposition this matters and I feel like the Devs haven't really put their feet down on what their intentions are. (I could be very wrong.) My main criticism of the first smart contract project is that they often don't clarify their thoughts until there is a bull run. I'm open to thoughts, articles and conversation. I'm just trying to educate myself as much as possible. Thank you in advance.
 
-10h ago
+11h ago
 
 ---
 
@@ -112,7 +112,7 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 1d ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 2d ago
 
 ---
 
@@ -120,7 +120,7 @@ Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by nu
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 1d ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 2d ago
 
 ---
 
@@ -180,7 +180,7 @@ The Motley Fool • 1h ago
 
 If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ CoinDesk • 1d ago
 
 Ethereum approaches whale levels: Is greed fueling the next crash?
 
-AMBCrypto • 13h ago
+AMBCrypto • 14h ago
 
 ---
 
@@ -210,7 +210,7 @@ AMBCrypto • 13h ago
 
 Since early October, when the Ethereum price began its dive into bearish territory, it has struggled to regain any of its significant price levels. The Ether token failed to hold at multiple support zones throughout November, as it plunged downwards. While Ethereum appears to be gaining bullish mom…
 
-TradingView — Track All Markets • 19h ago
+TradingView — Track All Markets • 20h ago
 
 ---
 
@@ -220,9 +220,9 @@ The Block • 3d ago
 
 ---
 
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqccbYmxw51ftF9hklh_caW9FMMSEM_Yls2XIlkyXfJSm7oPns1moXOV&gaa_ts=693eb284&gaa_sig=BZvWdXHjv5NXwXa2TXfyVx5KxnUsrwvweYpQQ8XdNHG43LTl4ab__cOAuhf2vbMiWF2FP9FbVXBR-3s0RjAo5w%3D%3D)**
+**[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
 
-Barron's • 3d ago
+TipRanks • 2h ago
 
 ---
 
@@ -236,7 +236,7 @@ Barron's • 3d ago
 
 📺 Stock Moe
 
-👁️ 9K • 👍 554 • 💬 37 • ⏱️ 14:28 • 14h ago
+👁️ 9K • 👍 554 • 💬 37 • ⏱️ 14:28 • 15h ago
 
 ---
 
@@ -306,7 +306,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 209 • 💬 12 • ⏱️ 21:14 • 21h ago
+👁️ 5K • 👍 209 • 💬 12 • ⏱️ 21:14 • 22h ago
 
 ---
 
@@ -316,7 +316,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 577 • 👍 95 • 💬 8 • ⏱️ 27:17 • 4h ago
+👁️ 577 • 👍 95 • 💬 8 • ⏱️ 27:17 • 5h ago
 
 ---
 
