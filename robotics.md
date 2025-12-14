@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T21:25:40.058778+00:00'
+updated: '2025-12-14T21:39:10.923052+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 21:25 UTC  
+**Last Updated:** December 14, 2025 at 21:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-16m ago
+29m ago
 
 ---
 
@@ -52,7 +52,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[MuJoCo-rs 2.2.0: New release of Rust bindings and idiomatic wrappers around the MuJoCo simulation library](https://www.reddit.com/r/robotics/comments/1pmmtdp/mujocors_220_new_release_of_rust_bindings_and/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -152,7 +152,7 @@ ABC7 San Francisco • 2d ago
 
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 

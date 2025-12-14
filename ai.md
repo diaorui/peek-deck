@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T21:25:40.040856+00:00'
+updated: '2025-12-14T21:39:10.905112+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 21:25 UTC  
+**Last Updated:** December 14, 2025 at 21:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-9h ago
+10h ago
 
 ---
 
@@ -155,7 +155,7 @@ VentureBeat • 1h ago
 
 **[Opinion | AI Is No Substitute for Liberal-Arts Education](https://www.wsj.com/opinion/ai-is-no-substitute-for-liberal-arts-education-education-c5e63e0e?gaa_at=eafs&gaa_n=AWEtsqfJjsrYxIxzzGzZCaT8MKlXLk70xjLAsD95J6kvyf3VRTXaPlKLT6KN&gaa_ts=693f2ec2&gaa_sig=JyU5LWsM0rZpu-xLChfqR1Ft0dj9n2VF6L8knmmT7gpJtLIkB5Iv5QNfPGYbs-h93CtKKt6yWRpbzpK-emAu5Q%3D%3D)**
 
-The Wall Street Journal • 54m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -319,7 +319,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 160K • 👍 11K • 💬 2K • ⏱️ 16:45 • 21h ago
+👁️ 160K • 👍 11K • 💬 2K • ⏱️ 16:45 • 22h ago
 
 ---
 
@@ -349,7 +349,7 @@ INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainew
 
 📺 AI Search
 
-👁️ 63K • 👍 3K • 💬 369 • ⏱️ 47:09 • 17h ago
+👁️ 63K • 👍 3K • 💬 369 • ⏱️ 47:09 • 18h ago
 
 ---
 
@@ -627,7 +627,7 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
 
-▲ 35 • 💬 4 • ⭐ 50,381 • 14mo ago
+▲ 35 • 💬 4 • ⭐ 50,397 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
@@ -643,7 +643,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.4k • 🔱 2.2k • 12h ago
+⭐ 14.4k • 🔱 2.2k • 13h ago
 
 ---
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.8k • 🔱 319 • 3h ago
+⭐ 2.8k • 🔱 319 • 4h ago
 
 ---
 
@@ -703,7 +703,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 951 • 🔱 68 • 5d ago
+⭐ 952 • 🔱 68 • 5d ago
 
 ---
 
@@ -723,7 +723,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 16h ago
+⭐ 861 • 🔱 49 • 24m ago
 
 ---
 
@@ -733,7 +733,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 698 • 🔱 103 • 6d ago
+⭐ 700 • 🔱 103 • 6d ago
 
 ---
 

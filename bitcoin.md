@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T21:25:40.049384+00:00'
+updated: '2025-12-14T21:39:10.913680+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 21:25 UTC  
+**Last Updated:** December 14, 2025 at 21:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -2.6%  
-**30d:** -7.4%  
-**90d:** -24.3%  
-**1y:** -15.2%  
+**24h:** -1.7%  
+**7d:** -2.4%  
+**30d:** -7.2%  
+**90d:** -24.1%  
+**1y:** -15.0%  
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Get in now or kick yourself in a few years.
 
-1h ago
+2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1d ago
 
 Strategy Inc (MSTR) Stock News on Dec. 14, 2025: Nasdaq-100 Decision, MSCI Index Risk, Bitcoin Buys, and Wall Street Forecasts - TechStock²
 
-ts2.tech • 1h ago
+ts2.tech • 2h ago
 
 ---
 
@@ -205,7 +205,7 @@ ts2.tech • 1h ago
 
 This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 2h ago
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -297,7 +297,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 39K • 👍 3K • 💬 290 • ⏱️ 17:53 • 5h ago
+👁️ 39K • 👍 3K • 💬 290 • ⏱️ 17:53 • 6h ago
 
 ---
 
@@ -317,7 +317,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 166 • 💬 28 • ⏱️ 17:54 • 2h ago
+👁️ 2K • 👍 166 • 💬 28 • ⏱️ 17:54 • 3h ago
 
 ---
 
@@ -367,7 +367,7 @@ Bitcoin what now Protein Powder: This Will Really PISS You Off!!! https://youtu.
 
 📺 MMCrypto
 
-👁️ 33K • 👍 2K • 💬 442 • ⏱️ 6:48 • 14h ago
+👁️ 33K • 👍 2K • 💬 442 • ⏱️ 6:48 • 15h ago
 
 ---
 
