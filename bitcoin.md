@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T05:31:31.438032+00:00'
+updated: '2025-12-14T05:46:50.549238+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 05:31 UTC  
+**Last Updated:** December 14, 2025 at 05:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -0.8%  
-**30d:** -5.7%  
-**90d:** -22.9%  
-**1y:** -13.7%  
+**24h:** -0.5%  
+**7d:** -0.9%  
+**30d:** -5.8%  
+**90d:** -23.0%  
+**1y:** -13.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ Yes. Yes we are.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-14h ago
+15h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bitcoin Magazine • 1d ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 9h ago
+x.com • 10h ago
 
 ---
 
@@ -293,7 +293,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Bringing Content Authenticity to Video Streaming: C2PA Integration with Bitmovin](https://news.ycombinator.com/item?id=46255322)**
 
-⬆️ 1 • 💬 0 • 13h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
+⬆️ 1 • 💬 0 • 14h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
 
 ---
 
@@ -307,7 +307,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 296 • 💬 16 • ⏱️ 21:16 • 8h ago
+👁️ 6K • 👍 296 • 💬 16 • ⏱️ 21:16 • 9h ago
 
 ---
 
@@ -377,7 +377,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Stock Moe
 
-👁️ 7K • 👍 524 • 💬 37 • ⏱️ 14:28 • 7h ago
+👁️ 7K • 👍 524 • 💬 37 • ⏱️ 14:28 • 8h ago
 
 ---
 

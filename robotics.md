@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T05:31:31.447914+00:00'
+updated: '2025-12-14T05:46:50.558503+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 05:31 UTC  
+**Last Updated:** December 14, 2025 at 05:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-34m ago
+49m ago
 
 ---
 
@@ -88,7 +88,7 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 Has anyone gotten pi0 to work with their SO101 Lerobot arm? I’ve trained it with ACT policy and it seems to be working, however, repeating the same exact process with pi0 doesn’t lead to the robot performing meaningful tasks. I’ve seen people getting this to work with as less as 50 episodes? Am I possibly not mapping the cameras correctly? Do I need to do any manual code changes to lerobot like switching absolute joint angles to deltas or converting to radians or anything like that before training? Any help or insight would be greatly appreciated, thanks!
 
-11m ago
+26m ago
 
 ---
 
@@ -240,7 +240,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 16K • 👍 196 • 💬 9 • ⏱️ 0:11 • 16h ago
+👁️ 16K • 👍 196 • 💬 9 • ⏱️ 0:11 • 17h ago
 
 ---
 
