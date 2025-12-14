@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T09:34:11.916368+00:00'
+updated: '2025-12-14T09:46:30.883216+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 09:34 UTC  
+**Last Updated:** December 14, 2025 at 09:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -83,7 +83,7 @@ The real-time headphone translations experience keeps each speaker’s tone, emp
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ For now
 
 **[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
 
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 21h ago
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 22h ago
 
 ---
 
@@ -121,22 +121,6 @@ CNN • 2d ago
 
 ---
 
-**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
-
-California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
-
-The Guardian • 18h ago
-
----
-
-**[Trump tech adviser David Sacks under fire over vast AI investments](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts)**
-
-Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
-
-NPR • 23h ago
-
----
-
 **[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
 
 What if the best use of AI is restarting the world’s idea machine?
@@ -145,27 +129,19 @@ Vox • 20h ago
 
 ---
 
-**[Meet My Top 5 Artificial Intelligence (AI) Stocks for 2026](https://www.fool.com/investing/2025/12/13/meet-my-top-5-artificial-intelligence-ai-stocks-fo/)**
+**[Prediction: This AI Stock Could Lead the Market in 2026](https://finance.yahoo.com/news/prediction-ai-stock-could-lead-065300043.html)**
 
-The AI computing market is a great place to invest.
+Alphabet's stock has been on fire in the second half of the year.
 
-The Motley Fool • 13h ago
-
----
-
-**[Could Nvidia Be the Most Undervalued Stock in AI Right Now and Be Ready to Soar in 2026?](https://www.fool.com/investing/2025/12/14/could-nvidia-be-the-most-undervalued-stock-in-ai-r/)**
-
-Here's why Nvidia may be one of the most undervalued artificial intelligence (AI) stocks.
-
-The Motley Fool • 4h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia](https://www.cnbc.com/2025/12/12/broadcom-tumbles-10percent-after-earnings-as-ai-trade-sells-off-.html)**
+**[Jamie Dimon says soft skills like emotional intelligence and communication are vital as AI eliminates roles](https://fortune.com/2025/12/14/jamie-dimon-soft-skills-emotional-intelligence-communication-ai-eliminates-roles/)**
 
-Even with better-than-expected earnings and revenue, Broadcom slid on Friday as investors  continued to grow concerned about the AI trade.
+Dimon added that people who possess soft skills will have "plenty of jobs."
 
-CNBC • 1d ago
+Fortune • 44m ago
 
 ---
 
@@ -175,19 +151,39 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+**[Questions of accuracy arise as Washington Post uses AI to create personalized podcasts](https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast)**
 
-Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest.
 
-South China Morning Post • 3h ago
+NPR • 22h ago
 
 ---
 
-**[The AI skills gap is really a ‘critical thinking’ gap: The Fortune 500 fears it can’t find talent with enough sharp thinking](https://fortune.com/2025/12/12/ai-skills-gap-talent-executives-fear-risk-critical-strategic-thinking/)**
+**[He created Grand Theft Auto. Now he's back with a novel about an AI that hijacks your mind](https://www.bbc.com/news/articles/c2epm9z9kkvo)**
 
-"We need to start thinking strategically. How can we create strategic thinkers, critical thinkers?"
+A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
 
-Fortune • 1d ago
+BBC • 8h ago
+
+---
+
+**[OpenAI isn't too big to fail. It's bigger.](https://www.axios.com/2025/12/13/open-ai-too-big-to-fail)**
+
+Axios • 19h ago
+
+---
+
+**[Purdue University Approves New AI Requirement For All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)**
+
+Forbes • 22h ago
+
+---
+
+**[I work in AI security at Google and there are some things I would never tell chatbots. I follow 4 rules to use AI safely.](https://www.businessinsider.com/google-ai-security-safe-habits-privacy-data-2025-12)**
+
+Harsh Varshney, who works on Chrome AI security at Google, shares four tips for protecting your data and identity when you talk to AI chatbots.
+
+Business Insider • 23h ago
 
 ---
 
@@ -199,7 +195,7 @@ Fortune • 1d ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 520 • 💬 278 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 521 • 💬 279 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -207,7 +203,13 @@ Update your apps to use new features, and test your apps against API changes.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 491 • 💬 289 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 491 • 💬 290 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+
+---
+
+**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
+
+⬆️ 332 • 💬 349 • 18h ago
 
 ---
 
@@ -219,17 +221,11 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 ---
 
-**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
-
-⬆️ 322 • 💬 345 • 17h ago
-
----
-
 **[Guarding My Git Forge Against AI Scrapers](https://news.ycombinator.com/item?id=46241849)**
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 170 • 💬 121 • 2d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 170 • 💬 122 • 2d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -237,7 +233,7 @@ A summary of the techniques in place to protect my git forge
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 128 • 💬 240 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 129 • 💬 240 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -249,6 +245,14 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 ---
 
+**[If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://news.ycombinator.com/item?id=46260106)**
+
+In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
+
+⬆️ 83 • 💬 43 • 8h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+
+---
+
 **[New Kindle feature uses AI to answer questions about books](https://news.ycombinator.com/item?id=46248417)**
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
@@ -257,17 +261,9 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 ---
 
-**[If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://news.ycombinator.com/item?id=46260106)**
-
-In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
-
-⬆️ 74 • 💬 35 • 7h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
-
----
-
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 61 • 💬 54 • 12h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 62 • 💬 54 • 12h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -281,57 +277,17 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 176K • 👍 3K • 💬 480 • ⏱️ 1:21:07 • 21h ago
+👁️ 190K • 👍 4K • 💬 509 • ⏱️ 1:21:07 • 21h ago
 
 ---
 
-**[GPT 5.2, realtime video editor, AI stereo videos, mobile AI agents, full body control: AI NEWS](https://www.youtube.com/watch?v=fpAbYRNxYPM)**
+**[Glenn Beck&#39;s Idiot Contest With Ai George Washington](https://www.youtube.com/watch?v=0ABgUZtXzkI)**
 
-INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainews #aitools #aivideo Thanks to our ...
+Watch the Majority Report live Monday–Friday at 12pm EST on YouTube OR via daily podcast at http://www.Majority.fm The ...
 
-📺 AI Search
+📺 The Majority Report w/ Sam Seder
 
-👁️ 16K • 👍 1K • 💬 180 • ⏱️ 47:09 • 6h ago
-
----
-
-**[🤖Dubai’s Newest AI Salon Pod Will Shock You 😲AI Haircut Machine 7.0 ✂️ Dubai’s Future Is Here!](https://www.youtube.com/watch?v=PYTTK3vpDso)**
-
-In Dubai, this futuristic AI Salon Pod delivers an instant hair transformation with precision scanning, robotic styling and next-gen ...
-
-📺 AI Robot Lab
-
-👁️ 406K • 👍 2K • 💬 9 • ⏱️ 0:16 • 22h ago
-
----
-
-**[Why the AI Bubble Is Actually a $60T Black Hole](https://www.youtube.com/watch?v=21e5GZF3yx0)**
-
-Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------------- 🗞️ Sign up to our free newsletter to get smarter ...
-
-📺 GEN
-
-👁️ 56K • 👍 3K • 💬 557 • ⏱️ 22:33 • 1d ago
-
----
-
-**[AI Is Ruining Christmas...](https://www.youtube.com/watch?v=FKyzEFE50S0)**
-
-The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOPmas!! You know what's NOT AI slop? Skywork!
-
-📺 Steve Terreberry
-
-👁️ 81K • 👍 7K • 💬 1K • ⏱️ 16:45 • 10h ago
-
----
-
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=RxCG7MSt0pk)**
-
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
-
-📺 Impossible AIs
-
-👁️ 106K • 👍 410 • 💬 12 • ⏱️ 8:26 • 1d ago
+👁️ 68K • 👍 2K • 💬 583 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -341,7 +297,37 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 39K • 👍 1K • 💬 240 • ⏱️ 15:01 • 1d ago
+👁️ 39K • 👍 1K • 💬 249 • ⏱️ 15:01 • 1d ago
+
+---
+
+**[Paris’s AI Barber Pod 3.0 Will Blow Your Mind! 🤯 Next-Level Haircut ✅](https://www.youtube.com/watch?v=zA4FbVEC3lc)**
+
+Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut in seconds, thanks to futuristic tech you won't believe ...
+
+📺 Smart Tales
+
+👁️ 16K • 👍 118 • ⏱️ 0:08 • 13h ago
+
+---
+
+**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
+
+I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
+
+📺 CaylusBlox
+
+👁️ 488K • 👍 11K • 💬 2K • ⏱️ 13:43 • 2d ago
+
+---
+
+**[Why the AI Bubble Is Actually a $60T Black Hole](https://www.youtube.com/watch?v=21e5GZF3yx0)**
+
+Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------------- 🗞️ Sign up to our free newsletter to get smarter ...
+
+📺 GEN
+
+👁️ 59K • 👍 4K • 💬 582 • ⏱️ 22:33 • 1d ago
 
 ---
 
@@ -351,27 +337,37 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 329K • 👍 14K • 💬 803 • ⏱️ 4:01 • 1d ago
+👁️ 337K • 👍 14K • 💬 810 • ⏱️ 4:01 • 1d ago
 
 ---
 
-**[It’s Not An AI Bubble. It’s A Black Hole. (With Ed Zitron and Sruthi Pinnamaneni) | Lever Time](https://www.youtube.com/watch?v=gKRevF9AZ4E)**
+**[AI Is Ruining Christmas...](https://www.youtube.com/watch?v=FKyzEFE50S0)**
 
-2025 has been a tremendous year for the artificial intelligence industry. Stock prices for AI companies skyrocketed, soaring ...
+The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOPmas!! You know what's NOT AI slop? Skywork!
 
-📺 The Lever
+📺 Steve Terreberry
 
-👁️ 20K • 👍 1K • 💬 283 • ⏱️ 47:42 • 1d ago
+👁️ 93K • 👍 7K • 💬 1K • ⏱️ 16:45 • 10h ago
 
 ---
 
-**[How AI Is Changing Shopping](https://www.youtube.com/watch?v=d-kmjp7mOq8)**
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=RxCG7MSt0pk)**
 
-Consumers' increasing use of AI for shopping ideas and deals is forcing retailers to scramble to stay ahead. Walmart and Target ...
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
 
-📺 CNBC
+📺 Impossible AIs
 
-👁️ 18K • 👍 414 • 💬 40 • ⏱️ 5:31 • 1d ago
+👁️ 111K • 👍 429 • 💬 13 • ⏱️ 8:26 • 1d ago
+
+---
+
+**[GPT 5.2, realtime video editor, AI stereo videos, mobile AI agents, full body control: AI NEWS](https://www.youtube.com/watch?v=fpAbYRNxYPM)**
+
+INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainews #aitools #aivideo Thanks to our ...
+
+📺 AI Search
+
+👁️ 26K • 👍 2K • 💬 212 • ⏱️ 47:09 • 6h ago
 
 ---
 
@@ -387,7 +383,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,665 • 5d ago
+⬇️ 268,534 • ❤️ 2,666 • 5d ago
 
 ---
 
@@ -471,7 +467,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,201 • ❤️ 191 • 1d ago
+⬇️ 4,201 • ❤️ 191 • 2d ago
 
 ---
 
@@ -604,23 +600,9 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 111 • 💬 4 • ⭐ 5,777 • 23d ago
+▲ 111 • 💬 4 • ⭐ 5,792 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
-
----
-
-**[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677)**
-
-*Yubo Huang, Hailong Guo, Fangtai Wu et al. (11 authors)*
-
-🏢 Quark
-
-Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
-
-▲ 166 • 💬 4 • ⭐ 938 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
 ---
 
@@ -633,6 +615,18 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 ▲ 24 • 💬 0 • ⭐ 25,907 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
+**[Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform](https://huggingface.co/papers/2512.08478)**
+
+*Yuning Gong, Yifei Liu, Yifan Zhan et al. (24 authors)*
+
+Visionary is an open web-native platform enabling real-time rendering of 3D Gaussian Splatting and meshes with efficient GPU-based inference, supporting dynamic content and generative models.
+
+▲ 72 • 💬 4 • ⭐ 297 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
 
 ---
 
@@ -656,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.7k • 🔱 300 • 5h ago
+⭐ 2.7k • 🔱 302 • 5h ago
 
 ---
 
@@ -706,7 +700,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 951 • 🔱 66 • 4d ago
+⭐ 951 • 🔱 67 • 4d ago
 
 ---
 
@@ -716,7 +710,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 889 • 🔱 23 • 6d ago
+⭐ 890 • 🔱 23 • 6d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T09:34:11.924587+00:00'
+updated: '2025-12-14T09:46:30.890677+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 09:34 UTC  
+**Last Updated:** December 14, 2025 at 09:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -0.6%  
-**30d:** -5.5%  
-**90d:** -22.8%  
-**1y:** -13.5%  
+**24h:** -0.7%  
+**7d:** -0.9%  
+**30d:** -5.8%  
+**90d:** -23.0%  
+**1y:** -13.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1799.33B
+**Market Cap:** $1796.80B
 Rank #1
 
 **Circulating Supply:** 19,961,940 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.6%
 
 **All-Time Low:** $67.81
-+132846.5%
++132640.0%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-9h ago
-
----
-
-**[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
-
-11h ago
+10h ago
 
 ---
 
@@ -95,9 +89,21 @@ Rank #1
 
 ---
 
+**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
+
+5h ago
+
+---
+
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
 13h ago
+
+---
+
+**[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
+
+4h ago
 
 ---
 
@@ -109,21 +115,15 @@ Yes. Yes we are.
 
 ---
 
-**[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
-
-4h ago
-
----
-
-**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
-
-5h ago
-
----
-
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
 5h ago
+
+---
+
+**[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
+
+12h ago
 
 ---
 
@@ -179,6 +179,14 @@ Bitcoin Magazine • 1d ago
 
 ---
 
+**[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
+
+Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
+
+The Motley Fool • 19m ago
+
+---
+
 **[Crypto Promoter “Bitcoin Rodney” Faces Up to 20 Years on New Charges](https://finance.yahoo.com/news/crypto-promoter-bitcoin-rodney-faces-080900466.html)**
 
 Rodney Burton, a 56-year-old crypto promoter known online as “Bitcoin Rodney,” is facing expanded federal charges tied to his alleged role in promoting the $1.8 billion HyperFund cryptocurrency scheme. Key Takeaways: US prosecutors expanded charges against “Bitcoin Rodney” over the $1.8B HyperFund scheme. Burton faces decades in prison after being ...
@@ -189,7 +197,7 @@ Yahoo Finance • 1h ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 13h ago
+x.com • 14h ago
 
 ---
 
@@ -215,14 +223,6 @@ CoinDesk • 14h ago
 
 ---
 
-**[Can Bitcoin Reach $250,000 in 2026? The Answer Might Blow Your Mind.](https://www.fool.com/investing/2025/12/13/can-bitcoin-reach-price-in-2026-the-answer-might-b/)**
-
-Bitcoin may be down this year, but price targets for next year are off the charts.
-
-The Motley Fool • 22h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -231,7 +231,7 @@ The Motley Fool • 22h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 16h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 6 • 💬 1 • 16h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -299,23 +299,23 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ## YouTube Videos: "bitcoin"
 
-**[&quot;My 2026 Bitcoin Prediction Will Offend Both Bulls and Bears&quot; - Raoul Pal Blows Hot!](https://www.youtube.com/watch?v=5tnxmCQE6X8)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 7K • 👍 330 • 💬 16 • ⏱️ 21:16 • 12h ago
-
----
-
 **[BITCOIN FORECASTED TO HIT LOWS OF $75K THIS YEAR...](https://www.youtube.com/watch?v=y7BqjDKw6rY)**
 
 Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250000 by the end of 2025, roused by President ...
 
 📺 Ricky Gutierrez
 
-👁️ 6K • 👍 296 • 💬 64 • ⏱️ 12:56 • 9h ago
+👁️ 7K • 👍 316 • 💬 71 • ⏱️ 12:56 • 9h ago
+
+---
+
+**[&quot;My 2026 Bitcoin Prediction Will Offend Both Bulls and Bears&quot; - Raoul Pal Blows Hot!](https://www.youtube.com/watch?v=5tnxmCQE6X8)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 8K • 👍 353 • 💬 18 • ⏱️ 21:16 • 13h ago
 
 ---
 
@@ -325,7 +325,17 @@ It's official: every U.S. bank now has the green light to sell Bitcoin. Is this 
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 641 • 💬 98 • ⏱️ 31:28 • 9h ago
+👁️ 14K • 👍 690 • 💬 102 • ⏱️ 31:28 • 9h ago
+
+---
+
+**[BITCOIN: THIS IS MASSIVE NEWS!!!](https://www.youtube.com/watch?v=R2dXGF8B928)**
+
+Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BUUID2 (up to $2200 USDT) My Strategy ...
+
+📺 Conor Kenny
+
+👁️ 4K • 👍 302 • 💬 56 • ⏱️ 9:44 • 3h ago
 
 ---
 
@@ -335,37 +345,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 435 • 💬 111 • ⏱️ 14:22 • 14h ago
-
----
-
-**[BITCOIN: SELL EVERYTHING NOW....?](https://www.youtube.com/watch?v=fJkHu5C7lkQ)**
-
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
-
-📺 Crypto Rover
-
-👁️ 2K • 👍 194 • 💬 22 • ⏱️ 6:48 • 4h ago
-
----
-
-**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
-
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 8K • 👍 541 • 💬 37 • ⏱️ 14:28 • 11h ago
-
----
-
-**[it&#39;s boring, but this is how you get rich with bitcoin in 2026](https://www.youtube.com/watch?v=Yd9qNj57b-A)**
-
-these 6 boring habits don't look impressive… but they're how I plan to win with bitcoin in 2026 Check out the Blockstream Jade ...
-
-📺 BTC Isla
-
-👁️ 17K • 👍 2K • 💬 234 • ⏱️ 10:24 • 1d ago
+👁️ 8K • 👍 444 • 💬 112 • ⏱️ 14:22 • 14h ago
 
 ---
 
@@ -375,7 +355,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 41K • 👍 2K • 💬 24 • ⏱️ 48:39 • 19h ago
+👁️ 43K • 👍 2K • 💬 24 • ⏱️ 48:39 • 19h ago
 
 ---
 
@@ -385,7 +365,27 @@ HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S F
 
 📺 Austin Hilton
 
-👁️ 11K • 👍 565 • 💬 51 • ⏱️ 5:30 • 17h ago
+👁️ 11K • 👍 570 • 💬 52 • ⏱️ 5:30 • 17h ago
+
+---
+
+**[BITCOIN: SELL EVERYTHING NOW....?](https://www.youtube.com/watch?v=fJkHu5C7lkQ)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
+
+📺 Crypto Rover
+
+👁️ 4K • 👍 320 • 💬 28 • ⏱️ 6:48 • 4h ago
+
+---
+
+**[it&#39;s boring, but this is how you get rich with bitcoin in 2026](https://www.youtube.com/watch?v=Yd9qNj57b-A)**
+
+these 6 boring habits don't look impressive… but they're how I plan to win with bitcoin in 2026 Check out the Blockstream Jade ...
+
+📺 BTC Isla
+
+👁️ 18K • 👍 2K • 💬 237 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 202 • 💬 11 • ⏱️ 21:14 • 18h ago
+👁️ 5K • 👍 204 • 💬 11 • ⏱️ 21:14 • 18h ago
 
 ---
 

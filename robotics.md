@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T09:34:11.932689+00:00'
+updated: '2025-12-14T09:46:30.899317+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 09:34 UTC  
+**Last Updated:** December 14, 2025 at 09:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,17 +46,17 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 ---
 
-**[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
-
-1h ago
-
----
-
 **[Would you be satisfied with this dynamic performance?](https://www.reddit.com/r/robotics/comments/1pm5p8c/would_you_be_satisfied_with_this_dynamic/)**
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
 4h ago
+
+---
+
+**[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
+
+1h ago
 
 ---
 
@@ -68,17 +68,17 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 ---
 
-**[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
-
-19h ago
-
----
-
 **[PX4 SIL fixed-wing and multirotor Simulator using Simulink](https://www.reddit.com/r/robotics/comments/1pm2vea/px4_sil_fixedwing_and_multirotor_simulator_using/)**
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
 
 7h ago
+
+---
+
+**[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
+
+19h ago
 
 ---
 
@@ -110,14 +110,6 @@ Hi r/Robotics , I’ve been working on a project exploring how Generative AI can
 
 ## Google News: "robotics"
 
-**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
-
-Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
-
-IEEE Spectrum • 4d ago
-
----
-
 **[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
 
 “The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
@@ -139,6 +131,14 @@ South China Morning Post • 3h ago
 Making safe and regulated humanoids is a core mission of the summit and participants.
 
 ABC7 San Francisco • 2d ago
+
+---
+
+**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
+
+Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
+
+IEEE Spectrum • 4d ago
 
 ---
 
@@ -194,31 +194,33 @@ Interesting Engineering • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
-
-EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
-
-📺 AI Tech Academy
-
-👁️ 121K • 👍 2K • 💬 803 • ⏱️ 14:26 • 5d ago
-
----
-
 **[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
 
 In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
 
 📺 Google DeepMind
 
-👁️ 214K • 👍 6K • 💬 488 • ⏱️ 17:44 • 3d ago
+👁️ 216K • 👍 6K • 💬 491 • ⏱️ 17:44 • 3d ago
 
 ---
 
-**[2025 #tesla Cybertruck Version 2 — Cyber Drone Unveiled. #futuretech #robotics #drone #elonmusk](https://www.youtube.com/watch?v=uh9UFxkNlVM)**
+**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
 
-📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
 
-👁️ 16K • 👍 200 • 💬 9 • ⏱️ 0:11 • 20h ago
+📺 AI Tech Academy
+
+👁️ 122K • 👍 2K • 💬 850 • ⏱️ 14:26 • 5d ago
+
+---
+
+**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+
+Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+
+📺 vt.physics
+
+👁️ 17K • 👍 963 • 💬 53 • ⏱️ 0:34 • 1h ago
 
 ---
 
@@ -228,7 +230,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 14K • 👍 77 • 💬 24 • ⏱️ 1:26 • 1d ago
+👁️ 15K • 👍 79 • 💬 24 • ⏱️ 1:26 • 1d ago
 
 ---
 
@@ -242,23 +244,21 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 ---
 
+**[2025 #tesla Cybertruck Version 2 — Cyber Drone Unveiled. #futuretech #robotics #drone #elonmusk](https://www.youtube.com/watch?v=uh9UFxkNlVM)**
+
+📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+
+👁️ 17K • 👍 216 • 💬 11 • ⏱️ 0:11 • 21h ago
+
+---
+
 **[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
 
 GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
 
 📺 Gen Women AI
 
-👁️ 68K • 👍 700 • 💬 16 • ⏱️ 0:09 • 1d ago
-
----
-
-**[Testing the Newest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=pGyUHjc9N30)**
-
-GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
-
-📺 Gen Women AI
-
-👁️ 19K • 👍 191 • 💬 1 • ⏱️ 0:09 • 1d ago
+👁️ 70K • 👍 712 • 💬 16 • ⏱️ 0:09 • 1d ago
 
 ---
 
@@ -272,23 +272,23 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 ---
 
-**[I turned Pixar Movies into LEGO ROBOTS...](https://www.youtube.com/watch?v=cf4EZAeAe7c)**
+**[Testing the Newest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=pGyUHjc9N30)**
 
-I built LEGO robots based on EVERY Disney Pixar movie ever made. From Toy Story to Inside Out, Cars, and Wall•E, all of them ...
+GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
 
-📺 The B2
+📺 Gen Women AI
 
-👁️ 125K • 👍 2K • 💬 583 • ⏱️ 18:29 • 19h ago
+👁️ 20K • 👍 195 • 💬 1 • ⏱️ 0:09 • 1d ago
 
 ---
 
-**[The Terrifying Living Robot!](https://www.youtube.com/watch?v=wEnsmu2iWlQ)**
+**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
 
-The Terrifying “Living Robot” That Shocked the Internet This video explores Oscar — a disturbingly realistic bio-hybrid creation ...
+Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
 
-📺 SS Knowledge TV
+📺 Kalil 4.0
 
-👁️ 237K • 👍 4K • 💬 10 • ⏱️ 0:35 • 3d ago
+👁️ 24K • 👍 209 • 💬 27 • ⏱️ 0:27 • 6d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T09:34:11.929852+00:00'
+updated: '2025-12-14T09:46:30.896447+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 09:34 UTC  
+**Last Updated:** December 14, 2025 at 09:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.71B
+**Market Cap:** $375.63B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.1%
 
 **All-Time Low:** $0.43
-+718657.7%
++718505.3%
 
 ---
 
@@ -212,11 +212,11 @@ The Block • 3d ago
 
 ---
 
-**[Is Ethereum a Millionaire-Maker?](https://www.fool.com/investing/2025/12/11/is-ethereum-a-millionaire-maker/)**
+**[Should You Buy Ethereum While It's Under $5,000?](https://www.fool.com/investing/2025/12/12/should-you-buy-ethereum-while-its-under-5000/)**
 
-The world's second-largest cryptocurrency still has considerable upside potential.
+After an unexpected pullback, could Ethereum be ready to skyrocket in value?
 
-The Motley Fool • 2d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -232,23 +232,13 @@ CryptoSlate • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zVOGjXgpUBg)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 565 • 👍 47 • 💬 4 • ⏱️ 4:34 • 5h ago
-
----
-
 **[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
 
 1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
 📺 Stock Moe
 
-👁️ 8K • 👍 541 • 💬 37 • ⏱️ 14:28 • 11h ago
+👁️ 9K • 👍 546 • 💬 37 • ⏱️ 14:28 • 12h ago
 
 ---
 
@@ -258,7 +248,27 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 282 • ⏱️ 31:03 • 1d ago
+👁️ 56K • 👍 3K • 💬 272 • ⏱️ 31:03 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zVOGjXgpUBg)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 942 • 👍 74 • 💬 4 • ⏱️ 4:34 • 5h ago
+
+---
+
+**[Massive Breakouts Incoming: ETH &amp; BMNR Targets + Key Levels](https://www.youtube.com/watch?v=m71lOmLon38)**
+
+Ethereum is coiling for a major move, but the biggest opportunity might be the stock that Fundstrat's Tom Lee calls the ...
+
+📺 CryptoStock Lab
+
+👁️ 1K • 👍 43 • 💬 16 • ⏱️ 15:09 • 11h ago
 
 ---
 
@@ -268,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 137 • 💬 4 • ⏱️ 4:05 • 16h ago
+👁️ 3K • 👍 139 • 💬 4 • ⏱️ 4:05 • 16h ago
 
 ---
 
@@ -282,23 +292,13 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 ---
 
-**[Massive Breakouts Incoming: ETH &amp; BMNR Targets + Key Levels](https://www.youtube.com/watch?v=m71lOmLon38)**
-
-Ethereum is coiling for a major move, but the biggest opportunity might be the stock that Fundstrat's Tom Lee calls the ...
-
-📺 CryptoStock Lab
-
-👁️ 1K • 👍 41 • 💬 15 • ⏱️ 15:09 • 11h ago
-
----
-
 **[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
 
 Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 449 • 💬 14 • ⏱️ 48:44 • 1d ago
+👁️ 7K • 👍 451 • 💬 14 • ⏱️ 48:44 • 1d ago
 
 ---
 
@@ -308,7 +308,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 202 • 💬 11 • ⏱️ 21:14 • 18h ago
+👁️ 5K • 👍 204 • 💬 11 • ⏱️ 21:14 • 18h ago
 
 ---
 
@@ -318,17 +318,17 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 387 • 👍 17 • 💬 2 • ⏱️ 4:09 • 22h ago
+👁️ 401 • 👍 18 • 💬 2 • ⏱️ 4:09 • 22h ago
 
 ---
 
-**[BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wW7XFfYMF7g)**
+**[BTC, ETH, &amp; Crypto Refuse To Pump In Face Of Insane News!](https://www.youtube.com/watch?v=-2iVyJP6LAs)**
 
-BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Crypto World
+📺 Lark Davis
 
-👁️ 8K • 👍 340 • 💬 38 • ⏱️ 18:12 • 14h ago
+👁️ 14K • 👍 649 • 💬 60 • ⏱️ 48:17 • 1d ago
 
 ---
 
