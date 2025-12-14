@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T13:49:58.331142+00:00'
+updated: '2025-12-14T14:00:52.399851+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 13:49 UTC  
+**Last Updated:** December 14, 2025 at 14:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-8h ago
+9h ago
 
 ---
 
@@ -94,13 +94,13 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Figure03 robot serving beer](https://www.reddit.com/r/robotics/comments/1pme28o/figure03_robot_serving_beer/)**
 
-21m ago
+32m ago
 
 ---
 
 **[Marché Humanoides - Premiers gagnants : VPG MVIS HarmonicDriveSystem... etc.](https://www.reddit.com/r/robotics/comments/1pmbflm/marché_humanoides_premiers_gagnants_vpg_mvis/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -112,7 +112,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-scmp.com • 7h ago
+scmp.com • 8h ago
 
 ---
 
@@ -190,23 +190,23 @@ Futurism • 22h ago
 
 ## YouTube Videos: "robotics"
 
-**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
-
-EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
-
-📺 AI Tech Academy
-
-👁️ 122K • 👍 2K • 💬 870 • ⏱️ 14:26 • 5d ago
-
----
-
 **[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
 
 In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
 
 📺 Google DeepMind
 
-👁️ 220K • 👍 6K • 💬 494 • ⏱️ 17:44 • 3d ago
+👁️ 224K • 👍 7K • 💬 500 • ⏱️ 17:44 • 3d ago
+
+---
+
+**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
+
+EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
+
+📺 AI Tech Academy
+
+👁️ 123K • 👍 2K • 💬 891 • ⏱️ 14:26 • 5d ago
 
 ---
 
@@ -216,7 +216,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 38K • 👍 2K • 💬 90 • ⏱️ 0:34 • 5h ago
+👁️ 60K • 👍 3K • 💬 118 • ⏱️ 0:34 • 5h ago
 
 ---
 
@@ -226,15 +226,27 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 16K • 👍 81 • 💬 25 • ⏱️ 1:26 • 1d ago
+👁️ 17K • 👍 81 • 💬 26 • ⏱️ 1:26 • 1d ago
 
 ---
 
-**[2025 #tesla Cybertruck Version 2 — Cyber Drone Unveiled. #futuretech #robotics #drone #elonmusk](https://www.youtube.com/watch?v=uh9UFxkNlVM)**
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=8FCykVCNXic)**
 
-📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
 
-👁️ 18K • 👍 237 • 💬 11 • ⏱️ 0:11 • 1d ago
+📺 She Shorts AI
+
+👁️ 287K • 👍 1K • 💬 6 • ⏱️ 0:11 • 5d ago
+
+---
+
+**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
+
+Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
+
+📺 The Military Show
+
+👁️ 355K • 👍 10K • 💬 566 • ⏱️ 16:55 • 2d ago
 
 ---
 
@@ -244,7 +256,17 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 71K • 👍 723 • 💬 16 • ⏱️ 0:09 • 1d ago
+👁️ 72K • 👍 751 • 💬 16 • ⏱️ 0:09 • 1d ago
+
+---
+
+**[Most Advanced Humanoid Robot Girl | USA Expo 2025](https://www.youtube.com/watch?v=T2D8z3Or5mE)**
+
+robot #aiart #humanoid Most advanced humanoid robot girl showcased at USA Expo 2025 AI robots that look like human, the ...
+
+📺 Ai Six Seven Robotics
+
+👁️ 1K • 👍 13 • ⏱️ 0:13 • 2h ago
 
 ---
 
@@ -254,17 +276,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 19K • 👍 512 • 💬 118 • ⏱️ 42:48 • 6d ago
-
----
-
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
-
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
-
-📺 The Straits Times
-
-👁️ 189K • 👍 909 • 💬 303 • ⏱️ 0:47 • 5d ago
+👁️ 19K • 👍 514 • 💬 118 • ⏱️ 42:48 • 6d ago
 
 ---
 
@@ -274,17 +286,7 @@ This is how humans will live with robots. Not in factories. Not in science ficti
 
 📺 Yasin Öğretmen
 
-👁️ 1K • 👍 38 • 💬 1 • ⏱️ 1:01 • 18h ago
-
----
-
-**[Testing the Newest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=pGyUHjc9N30)**
-
-GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
-
-📺 Gen Women AI
-
-👁️ 20K • 👍 199 • 💬 1 • ⏱️ 0:09 • 1d ago
+👁️ 1K • 👍 40 • 💬 1 • ⏱️ 1:01 • 18h ago
 
 ---
 

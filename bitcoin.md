@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T13:49:58.321897+00:00'
+updated: '2025-12-14T14:00:52.391415+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - social
 - cryptocurrency
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 13:49 UTC  
+**Last Updated:** December 14, 2025 at 14:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -1.5%  
-**30d:** -6.4%  
-**90d:** -23.5%  
-**1y:** -14.3%  
+**24h:** -0.8%  
+**7d:** -1.4%  
+**30d:** -6.3%  
+**90d:** -23.4%  
+**1y:** -14.2%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Motley Fool • 4h ago
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -239,7 +239,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 21h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 22h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -305,7 +305,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 386 • 💬 21 • ⏱️ 21:16 • 17h ago
+👁️ 10K • 👍 415 • 💬 21 • ⏱️ 21:16 • 17h ago
 
 ---
 
@@ -315,17 +315,7 @@ It's official: every U.S. bank now has the green light to sell Bitcoin. Is this 
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 737 • 💬 107 • ⏱️ 31:28 • 13h ago
-
----
-
-**[A MASSIVE Bitcoin BREAKOUT Coming NEXT WEEK! Bitcoin Price Prediction December 2025!](https://www.youtube.com/watch?v=WEKxvbrN18I)**
-
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
-
-📺 Crypto Jebb
-
-👁️ 8K • 👍 451 • 💬 123 • ⏱️ 14:22 • 18h ago
+👁️ 16K • 👍 777 • 💬 110 • ⏱️ 31:28 • 13h ago
 
 ---
 
@@ -335,27 +325,17 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 7K • 👍 335 • 💬 73 • ⏱️ 12:56 • 13h ago
+👁️ 8K • 👍 349 • 💬 89 • ⏱️ 12:56 • 13h ago
 
 ---
 
-**[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
+**[This Chart Shows What Will Drive Bitcoin’s 2026 Bull Run! [DATA]](https://www.youtube.com/watch?v=BGdyj949-mw)**
 
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
+In this video, Alessandro breaks down the single most important chart explaining what will reignite Bitcoin's next bull market.
 
-📺 Anthony Pompliano
+📺 Crypto Banter
 
-👁️ 45K • 👍 2K • 💬 24 • ⏱️ 48:39 • 23h ago
-
----
-
-**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 209 • 💬 12 • ⏱️ 21:14 • 22h ago
+👁️ 4K • 👍 243 • 💬 17 • ⏱️ 16:58 • 7h ago
 
 ---
 
@@ -369,33 +349,51 @@ The Fed just restarted the money printer — call it “reserve management,” b
 
 ---
 
+**[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
+
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
+
+📺 Anthony Pompliano
+
+👁️ 46K • 👍 2K • 💬 24 • ⏱️ 48:39 • 23h ago
+
+---
+
 **[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
 
 EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 275 • ⏱️ 31:03 • 1d ago
+👁️ 58K • 👍 3K • 💬 278 • ⏱️ 31:03 • 1d ago
 
 ---
 
-**[Bitcoin Can SAVE America! (Debt Crisis Solution NOBODY Talks About)](https://www.youtube.com/watch?v=7wsf5P-_eQs)**
+**[This Isn’t a Bitcoin Crash — It’s Something Much Bigger](https://www.youtube.com/watch?v=J_AR_8lyM2I)**
 
-America is drowning in debt—and politicians aren't telling you the real solution. In this video, we break down how Bitcoin could ...
+They waited until the weekend. On December 12, 2025, Nasdaq made a move that could trigger $1.6B in forced selling—and the ...
 
-📺 Discover Crypto
+📺 Ryan’s Money Lab
 
-👁️ 4K • 👍 181 • 💬 23 • ⏱️ 7:25 • 22h ago
+👁️ 21K • 👍 656 • 💬 69 • ⏱️ 13:45 • 22h ago
 
 ---
 
-**[BITCOIN: SELL EVERYTHING NOW....?](https://www.youtube.com/watch?v=fJkHu5C7lkQ)**
+**[Why Banks Want The Bitcoin Death Spiral](https://www.youtube.com/watch?v=TecYUGMqlvs)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
+📺 Andrei Jikh
 
-📺 Crypto Rover
+👁️ 85K • 👍 1K • 💬 54 • ⏱️ 0:35 • 2d ago
 
-👁️ 6K • 👍 415 • 💬 43 • ⏱️ 6:48 • 8h ago
+---
+
+**[Bitcoin: The Beauty of Mathematics (Part 65)](https://www.youtube.com/watch?v=JAkNLbhTjFg)**
+
+Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
+
+📺 Benjamin Cowen
+
+👁️ 44K • 👍 2K • 💬 84 • ⏱️ 5:06 • 1d ago
 
 ---
 

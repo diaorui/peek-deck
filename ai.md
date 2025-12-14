@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T13:49:58.313551+00:00'
+updated: '2025-12-14T14:00:52.383278+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - social
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 13:49 UTC  
+**Last Updated:** December 14, 2025 at 14:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A lot of AI image tools are powerful, but they rely heavily on long, precise pro
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 15h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 16h ago
 
 ---
 
@@ -101,7 +101,7 @@ Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom c
 
 just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. However, i only have dual RTX 2080TIs and training is painfully slow. Currently working on training a model through the tinystories dataset and then will be running eval tests. Ill update when i can with more information. If you want to check it out here it is: https://github.com/Wulfic/AI-OS
 
-10h ago
+11h ago
 
 ---
 
@@ -129,7 +129,7 @@ Fortune • 4h ago
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
-The Atlantic • 1h ago
+The Atlantic • 2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Axios • 1h ago
 
 **[How Trump’s tech advisers overcame a MAGA rebellion over AI](https://www.washingtonpost.com/politics/2025/12/14/trump-ai-executive-order-divisions/)**
 
-The Washington Post • 48m ago
+The Washington Post • 59m ago
 
 ---
 
@@ -149,7 +149,7 @@ The Washington Post • 48m ago
 
 Experience the next level of AI efficiency.
 
-Mashable • 3h ago
+Mashable • 4h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Guardian • 1h ago
 
 A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -181,7 +181,7 @@ BBC • 12h ago
 
 If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
 
-WIRED • 6h ago
+WIRED • 7h ago
 
 ---
 
@@ -261,7 +261,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 62 • 💬 55 • 16h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 62 • 💬 55 • 17h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -283,37 +283,17 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 202K • 👍 4K • 💬 531 • ⏱️ 1:21:07 • 1d ago
+👁️ 213K • 👍 4K • 💬 562 • ⏱️ 1:21:07 • 1d ago
 
 ---
 
-**[Paris’s AI Barber Pod 3.0 Will Blow Your Mind! 🤯 Next-Level Haircut ✅](https://www.youtube.com/watch?v=zA4FbVEC3lc)**
+**[🇮🇳 India vs 🇵🇰 Pakistan | Epic AI Boxing Fight 🔥  #ai #trendingshorts #ytshorts #india  #pakistan](https://www.youtube.com/watch?v=MezlC1MtgMk)**
 
-Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut in seconds, thanks to futuristic tech you won't believe ...
+Dog V/S Dog – AI Generated Epic Fight Is AI generated Shorts video mein aap dekhenge ek zabardast aur intense fight ...
 
-📺 Smart Tales
+📺 ZX_SONU_EDITDZ
 
-👁️ 18K • 👍 130 • ⏱️ 0:08 • 17h ago
-
----
-
-**[AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!](https://www.youtube.com/watch?v=IHwt6UxiKOw)**
-
-Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
-
-📺 Matthew Berman
-
-👁️ 40K • 👍 1K • 💬 257 • ⏱️ 15:01 • 1d ago
-
----
-
-**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
-
-I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
-
-📺 CaylusBlox
-
-👁️ 492K • 👍 11K • 💬 2K • ⏱️ 13:43 • 2d ago
+👁️ 3K • 💬 8 • ⏱️ 0:47 • 13h ago
 
 ---
 
@@ -323,7 +303,17 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 345K • 👍 14K • 💬 822 • ⏱️ 4:01 • 1d ago
+👁️ 353K • 👍 15K • 💬 836 • ⏱️ 4:01 • 1d ago
+
+---
+
+**[AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!](https://www.youtube.com/watch?v=IHwt6UxiKOw)**
+
+Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+
+📺 Matthew Berman
+
+👁️ 41K • 👍 1K • 💬 258 • ⏱️ 15:01 • 1d ago
 
 ---
 
@@ -333,7 +323,7 @@ Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------
 
 📺 GEN
 
-👁️ 62K • 👍 4K • 💬 615 • ⏱️ 22:33 • 1d ago
+👁️ 64K • 👍 4K • 💬 662 • ⏱️ 22:33 • 1d ago
 
 ---
 
@@ -343,7 +333,17 @@ Watch the Majority Report live Monday–Friday at 12pm EST on YouTube OR via dai
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 69K • 👍 2K • 💬 593 • ⏱️ 12:51 • 1d ago
+👁️ 70K • 👍 2K • 💬 609 • ⏱️ 12:51 • 1d ago
+
+---
+
+**[Paris’s AI Barber Pod 3.0 Will Blow Your Mind! 🤯 Next-Level Haircut ✅](https://www.youtube.com/watch?v=zA4FbVEC3lc)**
+
+Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut in seconds, thanks to futuristic tech you won't believe ...
+
+📺 Smart Tales
+
+👁️ 20K • 👍 145 • ⏱️ 0:08 • 17h ago
 
 ---
 
@@ -353,27 +353,27 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 103K • 👍 8K • 💬 1K • ⏱️ 16:45 • 14h ago
+👁️ 112K • 👍 9K • 💬 1K • ⏱️ 16:45 • 14h ago
 
 ---
 
-**[The 6 Most Profitable AI Businesses to Start in 2026](https://www.youtube.com/watch?v=X_X7WE1JBRg)**
+**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
 
-Get your FREE Executive Assistant Playbook here: https://go.danmartell.com/4oCwS0c Are you building an AI software ...
+I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
 
-📺 Dan Martell
+📺 CaylusBlox
 
-👁️ 74K • 👍 4K • 💬 305 • ⏱️ 19:49 • 1d ago
+👁️ 496K • 👍 11K • 💬 2K • ⏱️ 13:43 • 2d ago
 
 ---
 
-**[Trump’s executive order limiting AI restrictions faces scrutiny: ‘Going to get struck down’](https://www.youtube.com/watch?v=Q-tU0G2Ir8c)**
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=RxCG7MSt0pk)**
 
-President Trump signed an executive order this week aimed at limiting states' abilities to regulate artificial intelligence, with Trump ...
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
 
-📺 WGN News
+📺 Impossible AIs
 
-👁️ 44K • 👍 129 • 💬 197 • ⏱️ 1:52 • 21h ago
+👁️ 124K • 👍 455 • 💬 13 • ⏱️ 8:26 • 1d ago
 
 ---
 
@@ -527,7 +527,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 192 • 💬 4 • ⭐ 6,814 • 16d ago
+▲ 192 • 💬 4 • ⭐ 6,814 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -606,7 +606,7 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 112 • 💬 4 • ⭐ 5,792 • 23d ago
+▲ 112 • 💬 4 • ⭐ 5,792 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 

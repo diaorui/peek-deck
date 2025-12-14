@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T13:49:58.327878+00:00'
+updated: '2025-12-14T14:00:52.396990+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - social
 - cryptocurrency
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 13:49 UTC  
+**Last Updated:** December 14, 2025 at 14:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -1.0%  
-**30d:** -2.5%  
-**90d:** -31.3%  
-**1y:** -21.9%  
+**24h:** -0.2%  
+**7d:** -0.6%  
+**30d:** -2.1%  
+**90d:** -31.0%  
+**1y:** -21.5%  
 
 ---
 
@@ -180,7 +180,7 @@ The Motley Fool • 2h ago
 
 If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 1h ago
 
 A software bug in Ethereum consensus client Prysm caused validators to miss out on 382 ETH, worth more than $1 million.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -218,7 +218,7 @@ CoinDesk • 1d ago
 
 Since early October, when the Ethereum price began its dive into bearish territory, it has struggled to regain any of its significant price levels. The Ether token failed to hold at multiple support zones throughout November, as it plunged downwards. While Ethereum appears to be gaining bullish mom…
 
-TradingView — Track All Markets • 20h ago
+TradingView — Track All Markets • 21h ago
 
 ---
 
@@ -232,33 +232,13 @@ The Block • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
-
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 9K • 👍 554 • 💬 37 • ⏱️ 14:28 • 16h ago
-
----
-
 **[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
 
 EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 275 • ⏱️ 31:03 • 1d ago
-
----
-
-**[Massive Breakouts Incoming: ETH &amp; BMNR Targets + Key Levels](https://www.youtube.com/watch?v=m71lOmLon38)**
-
-Ethereum is coiling for a major move, but the biggest opportunity might be the stock that Fundstrat's Tom Lee calls the ...
-
-📺 CryptoStock Lab
-
-👁️ 1K • 👍 45 • 💬 16 • ⏱️ 15:09 • 15h ago
+👁️ 58K • 👍 3K • 💬 278 • ⏱️ 31:03 • 1d ago
 
 ---
 
@@ -268,17 +248,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 93 • 💬 4 • ⏱️ 4:34 • 9h ago
+👁️ 2K • 👍 112 • 💬 4 • ⏱️ 4:34 • 9h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=gZPkmtNiAd8)**
+**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 More Crypto Online
+📺 Stock Moe
 
-👁️ 3K • 👍 139 • 💬 4 • ⏱️ 4:05 • 20h ago
+👁️ 9K • 👍 581 • 💬 38 • ⏱️ 14:28 • 16h ago
+
+---
+
+**[Massive Breakouts Incoming: ETH &amp; BMNR Targets + Key Levels](https://www.youtube.com/watch?v=m71lOmLon38)**
+
+Ethereum is coiling for a major move, but the biggest opportunity might be the stock that Fundstrat's Tom Lee calls the ...
+
+📺 CryptoStock Lab
+
+👁️ 1K • 👍 51 • 💬 16 • ⏱️ 15:09 • 15h ago
+
+---
+
+**[How BMNR Could Earn $400M/Year from Ethereum Staking Alone](https://www.youtube.com/watch?v=wuRVYdRfDQ8)**
+
+Wall Street treats BitMine Immersion ($BMNR) like a passive Bitcoin ETF. They are missing the most important part of the thesis: ...
+
+📺 Wall Street Stockcast
+
+👁️ 109 • 👍 8 • ⏱️ 7:25 • 1h ago
 
 ---
 
@@ -289,6 +289,16 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 📺 Ivan on Tech
 
 👁️ 29K • 👍 2K • 💬 123 • ⏱️ 10:42 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=gZPkmtNiAd8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 139 • 💬 4 • ⏱️ 4:05 • 20h ago
 
 ---
 
@@ -308,27 +318,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 209 • 💬 12 • ⏱️ 21:14 • 22h ago
+👁️ 6K • 👍 211 • 💬 12 • ⏱️ 21:14 • 23h ago
 
 ---
 
-**[🍗 Stop Gooning: Tom Lee just bought more Ethereum !! (A Nancy Pelosi Gooner Explains...)](https://www.youtube.com/watch?v=EelXTAqTPrw)**
+**[BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wW7XFfYMF7g)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
-📺 🌟yourfriendsommi
+📺 Crypto World
 
-👁️ 577 • 👍 95 • 💬 8 • ⏱️ 27:17 • 5h ago
-
----
-
-**[Bitcoin &amp; Ethereum. Das typische Wochenende hat dieses Ende, bereite dich vor!](https://www.youtube.com/watch?v=NLMf-0_YqjU)**
-
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 563 • 💬 104 • ⏱️ 11:13 • 8h ago
+👁️ 10K • 👍 372 • 💬 40 • ⏱️ 18:12 • 18h ago
 
 ---
 
