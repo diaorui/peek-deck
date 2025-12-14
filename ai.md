@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T19:09:17.532220+00:00'
+updated: '2025-12-14T19:25:56.248460+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 19:09 UTC  
+**Last Updated:** December 14, 2025 at 19:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -79,13 +79,13 @@ Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom c
 
 Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
 
-8h ago
+9h ago
 
 ---
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -93,7 +93,7 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
 
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 18h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 19h ago
 
 ---
 
@@ -109,7 +109,7 @@ Secret parties, lavish buffets, and talks of annihilation at one of the largest 
 
 An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
 
-🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 16h ago
+🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 17h ago
 
 ---
 
@@ -159,7 +159,7 @@ Financial Times • 1h ago
 
 **[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
 
-The Economist • 7h ago
+The Economist • 8h ago
 
 ---
 
@@ -223,7 +223,7 @@ A summary of the techniques in place to protect my git forge
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 152 • 💬 51 • 5h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 152 • 💬 51 • 6h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -247,7 +247,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 120 • 💬 172 • 6h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 120 • 💬 172 • 7h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -303,7 +303,7 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 512K • 👍 12K • 💬 2K • ⏱️ 13:43 • 2d ago
+👁️ 512K • 👍 12K • 💬 2K • ⏱️ 13:43 • 3d ago
 
 ---
 
@@ -727,7 +727,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 13h ago
+⭐ 861 • 🔱 49 • 14h ago
 
 ---
 

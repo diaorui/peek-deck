@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T19:09:17.549892+00:00'
+updated: '2025-12-14T19:25:56.266161+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 19:09 UTC  
+**Last Updated:** December 14, 2025 at 19:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -176,7 +176,7 @@ Scientific American • 1d ago
 
 Figure AI CEO Brett Adcock said on X that his company reviewed 176,000 resumes but most of them were "slop." Less than 450 people were hired, he said.
 
-Business Insider • 15h ago
+Business Insider • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 124K • 👍 2K • 💬 901 • ⏱️ 14:26 • 5d ago
+👁️ 124K • 👍 2K • 💬 901 • ⏱️ 14:26 • 6d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T19:09:17.540735+00:00'
+updated: '2025-12-14T19:25:56.256880+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 19:09 UTC  
+**Last Updated:** December 14, 2025 at 19:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -2.0%  
-**30d:** -6.9%  
-**90d:** -23.9%  
-**1y:** -14.7%  
+**24h:** -1.9%  
+**7d:** -2.5%  
+**30d:** -7.3%  
+**90d:** -24.2%  
+**1y:** -15.1%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Motley Fool • 9h ago
 
 This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
 
-The Motley Fool • 58m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -335,7 +335,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 869 • 👍 73 • 💬 44 • ⏱️ 14:15 • 4h ago
+👁️ 869 • 👍 73 • 💬 44 • ⏱️ 14:15 • 5h ago
 
 ---
 
@@ -385,7 +385,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 MCI MOSQUERA
 
-👁️ 5K • 👍 3K • 4h ago
+👁️ 5K • 👍 3K • 5h ago
 
 ---
 

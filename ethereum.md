@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T19:09:17.546691+00:00'
+updated: '2025-12-14T19:25:56.262899+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 19:09 UTC  
+**Last Updated:** December 14, 2025 at 19:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -0.9%  
-**30d:** -2.4%  
+**24h:** -0.1%  
+**7d:** -0.8%  
+**30d:** -2.3%  
 **90d:** -31.2%  
-**1y:** -21.8%  
+**1y:** -21.7%  
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[ETH & BMNR](https://www.reddit.com/r/ethereum/comments/1pmlsmz/eth_bmnr/)**
 
-14m ago
+31m ago
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 1d ago
 
 Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 55m ago
 
 ---
 
