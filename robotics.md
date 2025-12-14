@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T15:36:59.456726+00:00'
+updated: '2025-12-14T15:48:19.637928+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 15:36 UTC  
+**Last Updated:** December 14, 2025 at 15:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
-3h ago
+4h ago
 
 ---
 
@@ -66,7 +66,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -258,7 +258,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 72K • 👍 751 • 💬 16 • ⏱️ 0:09 • 1d ago
+👁️ 72K • 👍 751 • 💬 16 • ⏱️ 0:09 • 2d ago
 
 ---
 

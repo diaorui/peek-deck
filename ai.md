@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T15:36:59.438796+00:00'
+updated: '2025-12-14T15:48:19.619516+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 15:36 UTC  
+**Last Updated:** December 14, 2025 at 15:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -77,7 +77,7 @@ The real-time headphone translations experience keeps each speaker’s tone, emp
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-7h ago
+8h ago
 
 ---
 
@@ -135,7 +135,7 @@ Fortune • 6h ago
 
 **[It's beginning to look a lot like (AI) Christmas](https://www.axios.com/2025/12/14/ai-christmas-nativity-visuals-sermons-jesus)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -205,7 +205,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 386 • 💬 387 • 23h ago
+⬆️ 386 • 💬 387 • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 121 • 💬 72 • 13h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 121 • 💬 72 • 14h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -525,7 +525,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 24 • 💬 2 • ⭐ 6,817 • 17d ago
+▲ 24 • 💬 2 • ⭐ 6,861 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -539,7 +539,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 192 • 💬 4 • ⭐ 6,853 • 17d ago
+▲ 193 • 💬 4 • ⭐ 6,853 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -558,20 +558,6 @@ A large-scale dataset collection, The Well, provides diverse numerical simulatio
 
 ---
 
-**[Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance](https://huggingface.co/papers/2512.08765)**
-
-*Ruihang Chu, Yefei He, Zhekai Chen et al. (13 authors)*
-
-🏢 TongyiLab
-
-Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
-
-▲ 121 • 💬 3 • ⭐ 327 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
-
----
-
 **[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
 
 *Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
@@ -581,6 +567,33 @@ A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spok
 ▲ 6 • 💬 1 • ⭐ 51,061 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
+
+---
+
+**[Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance](https://huggingface.co/papers/2512.08765)**
+
+*Ruihang Chu, Yefei He, Zhekai Chen et al. (13 authors)*
+
+🏢 TongyiLab
+
+Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
+
+▲ 121 • 💬 3 • ⭐ 344 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
+
+---
+
+**[Promptomatix: An Automatic Prompt Optimization Framework for Large
+  Language Models](https://huggingface.co/papers/2507.14241)**
+
+*Rithesh Murthy, Ming Zhu, Liangwei Yang et al. (9 authors)*
+
+Promptomatix automates prompt optimization for Large Language Models, improving performance and efficiency across various tasks.
+
+▲ 17 • 💬 2 • ⭐ 310 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2507.14241) • [💻 code](https://github.com/SalesforceAIResearch/promptomatix)
 
 ---
 
@@ -624,18 +637,6 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 24 • 💬 0 • ⭐ 25,918 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -646,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.2k • 🔱 2.2k • 7h ago
+⭐ 14.3k • 🔱 2.2k • 7h ago
 
 ---
 
@@ -656,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.8k • 🔱 312 • 4h ago
+⭐ 2.8k • 🔱 315 • 7m ago
 
 ---
 
@@ -676,7 +677,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.2k • 🔱 308 • 8d ago
+⭐ 1.2k • 🔱 309 • 8d ago
 
 ---
 
@@ -686,7 +687,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 135 • 2d ago
+⭐ 1.1k • 🔱 136 • 2d ago
 
 ---
 
@@ -736,7 +737,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 693 • 🔱 101 • 5d ago
+⭐ 695 • 🔱 102 • 5d ago
 
 ---
 
