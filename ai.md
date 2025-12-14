@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T03:07:50.529936+00:00'
+updated: '2025-12-14T04:06:43.659438+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- social
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 03:07 UTC  
+**Last Updated:** December 14, 2025 at 04:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,35 +39,19 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 11h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 12h ago
 
 ---
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-4h ago
-
----
-
-**[Google Translate now lets you hear real-time translations in your headphones](https://www.reddit.com/r/artificial/comments/1pm09b8/google_translate_now_lets_you_hear_realtime/)**
-
-The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
-
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 2h ago
-
----
-
-**[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
-
-An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
-
-🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 54m ago
+5h ago
 
 ---
 
@@ -75,7 +59,31 @@ An artificial intelligence agent has shown it can do what even seasoned cybersec
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 5h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 6h ago
+
+---
+
+**[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
+
+An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
+
+🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 1h ago
+
+---
+
+**[Google Translate now lets you hear real-time translations in your headphones](https://www.reddit.com/r/artificial/comments/1pm09b8/google_translate_now_lets_you_hear_realtime/)**
+
+The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
+
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 3h ago
+
+---
+
+**[Built a pipeline for training HRM-sMOE LLMs](https://www.reddit.com/r/artificial/comments/1pm3e0v/built_a_pipeline_for_training_hrmsmoe_llms/)**
+
+just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. However, i only have dual RTX 2080TIs and training is painfully slow. Currently working on training a model through the tinystories dataset and then will be running eval tests. Ill update when i can with more information. If you want to check it out here it is: https://github.com/Wulfic/AI-OS
+
+1h ago
 
 ---
 
@@ -87,25 +95,17 @@ For now
 
 ---
 
+**[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
+
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 16h ago
+
+---
+
 **[My 8 year old son created his first game with Google Gemini](https://www.reddit.com/r/artificial/comments/1plskoq/my_8_year_old_son_created_his_first_game_with/)**
 
 My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
 
-8h ago
-
----
-
-**[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
-
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 15h ago
-
----
-
-**[Built a pipeline for training HRM-sMOE LLMs](https://www.reddit.com/r/artificial/comments/1pm3e0v/built_a_pipeline_for_training_hrmsmoe_llms/)**
-
-just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. However, i only have dual RTX 2080TIs and training is painfully slow. Currently working on training a model through the tinystories dataset and then will be running eval tests. Ill update when i can with more information. If you want to check it out here it is: https://github.com/Wulfic/AI-OS
-
-13m ago
+9h ago
 
 ---
 
@@ -113,27 +113,33 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 ## Google News: "ai"
 
-**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://edition.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
-
-President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
-
-CNN • 2d ago
-
----
-
 **[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 13h ago
+Vox • 14h ago
 
 ---
 
-**[He created Grand Theft Auto. Now he's back with a novel about an AI that hijacks your mind](https://www.bbc.com/news/articles/c2epm9z9kkvo)**
+**[Could America win the AI race but lose the war?](https://www.ft.com/content/12581344-6e37-45a0-a9d5-e3d6a9f8d9ba)**
 
-A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
+The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
 
-BBC • 2h ago
+Financial Times • 23h ago
+
+---
+
+**[Figure AI CEO says over 170,000 people have applied to his robot company in the last 3 years. He hired fewer than 500.](https://www.businessinsider.com/figure-ai-robotics-startup-tech-job-market-competition-170k-resumes-2025-12)**
+
+Figure AI CEO Brett Adcock said on X that his company reviewed 176,000 resumes but most of them were "slop." Less than 450 people were hired, he said.
+
+Business Insider • 53m ago
+
+---
+
+**[The Eerie Parallels Between AI Mania and the Dot-Com Bubble](https://www.wsj.com/finance/stocks/the-eerie-parallels-between-ai-mania-and-the-dot-com-bubble-f99be6fe?gaa_at=eafs&gaa_n=AWEtsqdWrCFKGBofuxHJXNgnH4yHiwAlXhlP4kLMjrabc6RUzyuJM2_Z2RVv&gaa_ts=693e3b42&gaa_sig=08EIKnK-T5gOrqgxFpxS4pIteCJYt4QJCf71OmQiKaf8OFtergJnlnF-4iY05IemsBOOTEdCqXaFeHlADWmhPw%3D%3D)**
+
+The Wall Street Journal • 6m ago
 
 ---
 
@@ -149,7 +155,13 @@ Fortune • 1d ago
 
 The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest.
 
-NPR • 16h ago
+NPR • 17h ago
+
+---
+
+**[Purdue University Approves New AI Requirement For All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)**
+
+Forbes • 16h ago
 
 ---
 
@@ -157,23 +169,13 @@ NPR • 16h ago
 
 A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
 
-NBC News • 16h ago
+NBC News • 17h ago
 
 ---
 
-**[Could America win the AI race but lose the war?](https://www.ft.com/content/12581344-6e37-45a0-a9d5-e3d6a9f8d9ba)**
+**[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
-
-Financial Times • 22h ago
-
----
-
-**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
-
-The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
-
-Time Magazine • 2d ago
+The New York Times • 2d ago
 
 ---
 
@@ -181,13 +183,7 @@ Time Magazine • 2d ago
 
 California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
 
-The Guardian • 12h ago
-
----
-
-**[OpenAI isn't too big to fail. It's bigger.](https://www.axios.com/2025/12/13/open-ai-too-big-to-fail)**
-
-Axios • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -199,7 +195,7 @@ Axios • 12h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 517 • 💬 275 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 517 • 💬 276 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -221,7 +217,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 239 • 💬 271 • 11h ago
+⬆️ 253 • 💬 285 • 12h ago
 
 ---
 
@@ -259,7 +255,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 56 • 💬 44 • 6h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 56 • 💬 46 • 7h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -267,7 +263,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 50 • 💬 66 • 13h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 50 • 💬 66 • 14h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -281,7 +277,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 132K • 👍 3K • 💬 411 • ⏱️ 1:21:07 • 15h ago
+👁️ 132K • 👍 3K • 💬 411 • ⏱️ 1:21:07 • 16h ago
 
 ---
 
@@ -341,7 +337,7 @@ In Dubai, this futuristic AI Salon Pod delivers an instant hair transformation w
 
 📺 AI Robot Lab
 
-👁️ 299K • 👍 2K • 💬 9 • ⏱️ 0:16 • 15h ago
+👁️ 299K • 👍 2K • 💬 9 • ⏱️ 0:16 • 16h ago
 
 ---
 
@@ -387,7 +383,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,651 • 5d ago
+⬇️ 268,534 • ❤️ 2,655 • 5d ago
 
 ---
 
@@ -411,7 +407,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 54,050 • ❤️ 394 • 4d ago
+⬇️ 54,050 • ❤️ 395 • 4d ago
 
 ---
 
@@ -447,7 +443,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 31,499 • ❤️ 266 • 4d ago
+⬇️ 31,499 • ❤️ 267 • 4d ago
 
 ---
 
@@ -459,7 +455,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 447,364 • ❤️ 249 • 5d ago
+⬇️ 447,364 • ❤️ 251 • 5d ago
 
 ---
 
@@ -471,7 +467,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,201 • ❤️ 189 • 1d ago
+⬇️ 4,201 • ❤️ 190 • 1d ago
 
 ---
 
@@ -495,7 +491,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 4,597 • ❤️ 184 • 1d ago
+⬇️ 4,597 • ❤️ 184 • 2d ago
 
 ---
 
@@ -646,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.7k • 🔱 2.1k • 22h ago
+⭐ 13.7k • 🔱 2.1k • 23h ago
 
 ---
 
@@ -656,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.6k • 🔱 286 • 10h ago
+⭐ 2.6k • 🔱 286 • 11h ago
 
 ---
 
@@ -726,7 +722,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 25m ago
+⭐ 861 • 🔱 49 • 1h ago
 
 ---
 

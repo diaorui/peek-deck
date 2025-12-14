@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T03:07:50.538374+00:00'
+updated: '2025-12-14T04:06:43.667876+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 03:07 UTC  
+**Last Updated:** December 14, 2025 at 04:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -0.5%  
+**24h:** +0.1%  
+**7d:** -0.6%  
 **30d:** -5.4%  
 **90d:** -22.7%  
 **1y:** -13.4%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.30B
+**Market Cap:** $1801.89B
 Rank #1
 
-**Circulating Supply:** 19,961,840 BTC
+**Circulating Supply:** 19,961,856 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.4%
 
 **All-Time Low:** $67.81
-+133061.8%
++133017.5%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-3h ago
+4h ago
 
 ---
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-6h ago
+7h ago
 
 ---
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Yes. Yes we are.
 
-11h ago
+12h ago
 
 ---
 
@@ -113,31 +113,31 @@ Yes. Yes we are.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-12h ago
+13h ago
 
 ---
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-15h ago
+16h ago
 
 ---
 
 **[2o25 wILl bE mY YEar!](https://www.reddit.com/r/Bitcoin/comments/1pm189r/2o25_will_be_my_year/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -149,7 +149,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -191,13 +191,7 @@ Bitcoin Magazine • 1d ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 7h ago
-
----
-
-**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
-
-Investor's Business Daily • 1d ago
+x.com • 8h ago
 
 ---
 
@@ -209,11 +203,17 @@ Forbes • 1d ago
 
 ---
 
-**[Bank of Japan Set to Hike Rates to 30-Year High, Posing Another Threat to Bitcoin](https://www.coindesk.com/markets/2025/12/13/bank-of-japan-set-to-hike-rates-to-30-year-high-posing-another-threat-to-bitcoin)**
+**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
 
-Rising Japanese rates and a stronger yen threaten carry trades and could pressure crypto markets despite easing U.S. policy.
+Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
 
-CoinDesk • 13h ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -225,7 +225,7 @@ CoinDesk • 13h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 9h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 10h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -233,7 +233,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 11h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 12h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -291,7 +291,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Bringing Content Authenticity to Video Streaming: C2PA Integration with Bitmovin](https://news.ycombinator.com/item?id=46255322)**
 
-⬆️ 1 • 💬 0 • 11h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
+⬆️ 1 • 💬 0 • 12h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
 
 ---
 
@@ -305,7 +305,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 247 • 💬 16 • ⏱️ 21:16 • 6h ago
+👁️ 4K • 👍 247 • 💬 16 • ⏱️ 21:16 • 7h ago
 
 ---
 
@@ -325,7 +325,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 189 • 💬 9 • ⏱️ 21:14 • 12h ago
+👁️ 4K • 👍 189 • 💬 9 • ⏱️ 21:14 • 13h ago
 
 ---
 
@@ -335,7 +335,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 15K • 👍 528 • 💬 55 • ⏱️ 13:45 • 11h ago
+👁️ 15K • 👍 528 • 💬 55 • ⏱️ 13:45 • 12h ago
 
 ---
 
@@ -345,7 +345,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Stock Moe
 
-👁️ 6K • 👍 454 • 💬 34 • ⏱️ 14:28 • 5h ago
+👁️ 6K • 👍 454 • 💬 34 • ⏱️ 14:28 • 6h ago
 
 ---
 
@@ -355,7 +355,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 37K • 👍 2K • 💬 24 • ⏱️ 48:39 • 13h ago
+👁️ 37K • 👍 2K • 💬 24 • ⏱️ 48:39 • 14h ago
 
 ---
 
@@ -385,7 +385,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 184 • 💬 69 • ⏱️ 8:12 • 5h ago
+👁️ 2K • 👍 184 • 💬 69 • ⏱️ 8:12 • 6h ago
 
 ---
 
@@ -395,7 +395,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 df seni visual
 
-👁️ 9K • 👍 3K • 5h ago
+👁️ 9K • 👍 3K • 6h ago
 
 ---
 

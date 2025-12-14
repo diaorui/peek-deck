@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T03:07:50.544418+00:00'
+updated: '2025-12-14T04:06:43.673858+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 03:07 UTC  
+**Last Updated:** December 14, 2025 at 04:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,104.93
+### $3,119.48
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +0.1%  
-**30d:** -1.5%  
-**90d:** -30.6%  
-**1y:** -21.0%  
+**24h:** +0.9%  
+**7d:** -0.2%  
+**30d:** -1.7%  
+**90d:** -30.8%  
+**1y:** -21.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.01B
+**Market Cap:** $376.51B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.8%
+-36.9%
 
 **All-Time Low:** $0.43
-+721540.1%
++720396.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm trying to grasp the ultimate plan for the ETH blockchain based upon improvement proposals as well as live metrics in order to understand what developers want for the blockchain. Ultimately this is to sell an SLT to possibly invest into ETH. I'm glad that the latest update has made ETH cheaper to transact in which will help with day to day transactions, however this has made the supply inflationary as the burn rate is lower. Is the goal to have a slight amount of inflation? Is the goal to have an elastic supply where issuance and burn rate are roughly the same? or is the goal for a strictly deflationary supply? From a value proposition this matters and I feel like the Devs haven't really put their feet down on what their intentions are. (I could be very wrong.) My main criticism of the first smart contract project is that they often don't clarify their thoughts until there is a bull run. I'm open to thoughts, articles and conversation. I'm just trying to educate myself as much as possible. Thank you in advance.
 
-1h ago
+2h ago
 
 ---
 
@@ -152,11 +152,27 @@ Guys although I want to make flash loan bots and stuff, but can’t find any goo
 
 ## Google News: "ethereum"
 
-**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
+**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
+
+Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
+
+CoinDesk • 1d ago
+
+---
+
+**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Decrypt • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Important Date for XRP Holders Revealed, Bitcoin OG Bets $392 Million on Ethereum, Dogecoin Jumps 61% in Volume — Crypto News Digest](https://www.tradingview.com/news/u_today:b4bc7ff60094b:0-important-date-for-xrp-holders-revealed-bitcoin-og-bets-392-million-on-ethereum-dogecoin-jumps-61-in-volume-crypto-news-digest/)**
+
+Bitcoin OG increases aggressive long position on EthereumLong-time Bitcoin holder is going insanely bullish on Ethereum despite ETH price being in the red.According to Lookonchain, a Bitcoin OG is going massively long on Ethereum, the second-largest cryptocurrency by market cap, and even increasing…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -190,6 +206,12 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
+**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
+
+The Block • 2d ago
+
+---
+
 **[Should You Buy Ethereum While It's Under $5,000?](https://www.fool.com/investing/2025/12/12/should-you-buy-ethereum-while-its-under-5000/)**
 
 After an unexpected pullback, could Ethereum be ready to skyrocket in value?
@@ -206,28 +228,6 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Ethereum Price Falls To $3,000 As Taker Volume Spikes To New High — What’s Happening? | Bitcoinist.com](https://bitcoinist.com/ethereum-price-falls-to-3000-as-taker-volume-spikes/)**
-
-Ethereum was one of the best-performing cryptocurrencies in the market over the past week, with its price jumping mid-week to as high as $3,400.
-
-Bitcoinist.com • 6h ago
-
----
-
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqdCkaDRpi26DznQ_RSRewSgiN_jvuHzlE7n9HXVvd98a8e0FmJoU3-a&gaa_ts=693e2d74&gaa_sig=GE_3xJr79kfoPZhd6l13RHO3lH_7Nll1Ave78DoMYHU5jsjgjnvQ5aA8rZFbllcfVD41Ee18SrM1aueOdJGvrg%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-latest-news-analyst-forecasts-and-whats-driving-the-ethereum-treasury-trade-dec-12-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
-
-ts2.tech • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ ts2.tech • 1d ago
 
 📺 Stock Moe
 
-👁️ 6K • 👍 454 • 💬 34 • ⏱️ 14:28 • 5h ago
+👁️ 6K • 👍 454 • 💬 34 • ⏱️ 14:28 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 131 • 💬 3 • ⏱️ 4:05 • 9h ago
+👁️ 2K • 👍 131 • 💬 3 • ⏱️ 4:05 • 10h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 577 • 👍 28 • 💬 14 • ⏱️ 15:09 • 4h ago
+👁️ 577 • 👍 28 • 💬 14 • ⏱️ 15:09 • 5h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 304 • 💬 28 • ⏱️ 18:12 • 7h ago
+👁️ 6K • 👍 304 • 💬 28 • ⏱️ 18:12 • 8h ago
 
 ---
 
@@ -288,7 +288,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 189 • 💬 9 • ⏱️ 21:14 • 12h ago
+👁️ 4K • 👍 189 • 💬 9 • ⏱️ 21:14 • 13h ago
 
 ---
 
@@ -328,7 +328,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Guitar Repair@StringTech
 
-👁️ 6K • 👍 4K • 18h ago
+👁️ 6K • 👍 4K • 19h ago
 
 ---
 
