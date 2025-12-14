@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T21:50:11.632544+00:00'
+updated: '2025-12-14T22:09:09.597753+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 21:50 UTC  
+**Last Updated:** December 14, 2025 at 22:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-11h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-40m ago
+59m ago
 
 ---
 
@@ -60,7 +60,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello! I got a Reachy Mini (the wireless version) and I’m receiving it next we
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-16h ago
+17h ago
 
 ---
 
@@ -112,7 +112,7 @@ We’ll be sharing performance and application demos. Comments and discussion ar
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 6h ago
+The New York Times • 37m ago
 
 ---
 
@@ -124,6 +124,14 @@ Interesting Engineering • 3d ago
 
 ---
 
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+
+South China Morning Post • 16h ago
+
+---
+
 **[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
 
 “The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
@@ -132,19 +140,11 @@ Fortune • 1d ago
 
 ---
 
-**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+**[2026 and the Rise of Humanoid Robots: Looking at Trust, Privacy and the Future of Work](https://www.cnet.com/tech/computing/2026-and-the-rise-of-humanoid-robots-looking-at-trust-privacy-and-the-future-of-work/)**
 
-Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+Robot companies are racing toward a breakout year, but they'll have to confront some fundamental problems before making bigger promises.
 
-South China Morning Post • 15h ago
-
----
-
-**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
-
-Making safe and regulated humanoids is a core mission of the summit and participants.
-
-ABC7 San Francisco • 2d ago
+CNET • 14h ago
 
 ---
 
@@ -216,7 +216,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 CNET
 
-👁️ 8K • 👍 301 • 💬 35 • ⏱️ 6:41 • 8h ago
+👁️ 8K • 👍 301 • 💬 35 • ⏱️ 6:41 • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 19K • 👍 525 • 💬 118 • ⏱️ 42:48 • 6d ago
+👁️ 19K • 👍 525 • 💬 118 • ⏱️ 42:48 • 7d ago
 
 ---
 

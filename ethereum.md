@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T21:50:11.629257+00:00'
+updated: '2025-12-14T22:09:09.594535+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - cryptocurrency
 - videos
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 21:50 UTC  
+**Last Updated:** December 14, 2025 at 22:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -1.4%  
-**30d:** -2.9%  
-**90d:** -31.6%  
-**1y:** -22.2%  
+**24h:** -0.8%  
+**7d:** -1.1%  
+**30d:** -2.6%  
+**90d:** -31.4%  
+**1y:** -22.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $371.95B
+**Market Cap:** $372.19B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.6%
 
 **All-Time Low:** $0.43
-+713241.8%
++713017.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm trying to grasp the ultimate plan for the ETH blockchain based upon improvement proposals as well as live metrics in order to understand what developers want for the blockchain. Ultimately this is to sell an SLT to possibly invest into ETH. I'm glad that the latest update has made ETH cheaper to transact in which will help with day to day transactions, however this has made the supply inflationary as the burn rate is lower. Is the goal to have a slight amount of inflation? Is the goal to have an elastic supply where issuance and burn rate are roughly the same? or is the goal for a strictly deflationary supply? From a value proposition this matters and I feel like the Devs haven't really put their feet down on what their intentions are. (I could be very wrong.) My main criticism of the first smart contract project is that they often don't clarify their thoughts until there is a bull run. I'm open to thoughts, articles and conversation. I'm just trying to educate myself as much as possible. Thank you in advance.
 
-19h ago
+20h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 2d ago
 
 Ethereum approaches whale levels: Is greed fueling the next crash?
 
-AMBCrypto • 22h ago
+AMBCrypto • 23h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2d ago
 
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -198,19 +198,19 @@ Nasdaq • 10h ago
 
 ---
 
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
-
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
-
-CoinDesk • 2d ago
-
----
-
 **[Key Hyperunit whale expands Ethereum position amid weak prices](https://www.fxstreet.com/cryptocurrencies/news/key-hyperunit-whale-expands-ethereum-position-amid-weak-prices-202512130434)**
 
 A major crypto whale has opened a long position in Ethereum (ETH) worth more than half a billion dollars on the Hyperliquid exchange.
 
 FXStreet • 1d ago
+
+---
+
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
+
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -222,9 +222,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
+**[BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-latest-news-analyst-forecasts-and-whats-driving-the-ethereum-treasury-trade-dec-12-2025/)**
 
-The Block • 3d ago
+BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
+
+ts2.tech • 2d ago
 
 ---
 
@@ -238,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 4 • ⏱️ 8:04 • 5h ago
+👁️ 2K • 👍 108 • 💬 4 • ⏱️ 8:04 • 6h ago
 
 ---
 

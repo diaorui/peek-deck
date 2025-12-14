@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T21:50:11.623205+00:00'
+updated: '2025-12-14T22:09:09.588562+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - cryptocurrency
 - videos
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 21:50 UTC  
+**Last Updated:** December 14, 2025 at 22:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -2.6%  
-**30d:** -7.4%  
-**90d:** -24.3%  
-**1y:** -15.2%  
+**24h:** -1.9%  
+**7d:** -2.4%  
+**30d:** -7.2%  
+**90d:** -24.2%  
+**1y:** -15.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1770.16B
+**Market Cap:** $1766.75B
 Rank #1
 
-**Circulating Supply:** 19,962,153 BTC
+**Circulating Supply:** 19,962,165 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-29.8%
 
 **All-Time Low:** $67.81
-+130671.3%
++130509.1%
 
 ---
 
@@ -83,17 +83,17 @@ Rank #1
 
 ---
 
-**[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
-
-4h ago
-
----
-
 **[This is the bottom. When Bitcoin hovers in a range, it’s packing dry powder in the cannon. I am calling it.](https://www.reddit.com/r/Bitcoin/comments/1pmmm98/this_is_the_bottom_when_bitcoin_hovers_in_a_range/)**
 
 Get in now or kick yourself in a few years.
 
 2h ago
+
+---
+
+**[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
+
+4h ago
 
 ---
 
@@ -105,15 +105,21 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 ---
 
+**[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
+
+39m ago
+
+---
+
 **[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -127,21 +133,13 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 I can’t help myself. I know I should wait for a bigger correction that’s likely coming. If/when that happens, I won’t have any dry powder because I have some stupid brain reflex that makes me drop $100 every time I see < $90K 😫
 
-4h ago
+5h ago
 
 ---
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-16h ago
-
----
-
-**[Herd Mentality](https://www.reddit.com/r/Bitcoin/comments/1pmbesb/herd_mentality/)**
-
-Cross post
-
-10h ago
+17h ago
 
 ---
 
@@ -153,7 +151,35 @@ Cross post
 
 Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+
+Reuters • 1d ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
+
+Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://www.nasdaq.com/articles/which-cryptocurrency-has-more-upside-bitcoin-vs-cardano)**
+
+Key PointsCardano is approaching one of its largest-ever growth opportunities.
+
+Nasdaq • 3h ago
 
 ---
 
@@ -175,45 +201,15 @@ CoinDesk • 1d ago
 
 **[Key facts: Bitcoin ETFs see $237M inflows; Grayscale predicts 2026 high](https://www.tradingview.com/news/tradingview:c4734af0513af:0-key-facts-bitcoin-etfs-see-237m-inflows-grayscale-predicts-2026-high/)**
 
-TradingView — Track All Markets • 21h ago
+TradingView — Track All Markets • 22h ago
 
 ---
 
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+**[Bitcoin creator Satoshi disappeared on this day 15 years ago, leaving a final public message — 'I've moved on to other things,' true identity of Satoshi Nakamoto entity remains unknown](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)**
 
-Reuters • 1d ago
+Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
----
-
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
-
-Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
-
-Yahoo Finance • 1d ago
-
----
-
-**[Strategy Inc (MSTR) Stock News on Dec. 14, 2025: Nasdaq-100 Decision, MSCI Index Risk, Bitcoin Buys, and Wall Street Forecasts](https://ts2.tech/en/strategy-inc-mstr-stock-news-on-dec-14-2025-nasdaq-100-decision-msci-index-risk-bitcoin-buys-and-wall-street-forecasts/)**
-
-Strategy Inc (MSTR) Stock News on Dec. 14, 2025: Nasdaq-100 Decision, MSCI Index Risk, Bitcoin Buys, and Wall Street Forecasts - TechStock²
-
-ts2.tech • 2h ago
-
----
-
-**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://finance.yahoo.com/news/cryptocurrency-more-upside-bitcoin-vs-183100641.html)**
-
-This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
-
-Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
-
-The Motley Fool • 12h ago
+Tom's Hardware • 1d ago
 
 ---
 
@@ -307,7 +303,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 1K • 💬 97 • ⏱️ 9:48 • 4h ago
+👁️ 9K • 👍 1K • 💬 97 • ⏱️ 9:48 • 5h ago
 
 ---
 
@@ -327,7 +323,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 4K • 👍 320 • 💬 74 • ⏱️ 10:43 • 8h ago
+👁️ 4K • 👍 320 • 💬 74 • ⏱️ 10:43 • 9h ago
 
 ---
 
@@ -387,7 +383,7 @@ bitcoin #btc #mstr #BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unf
 
 📺 YWM 
 
-👁️ 24K • 👍 806 • 2h ago
+👁️ 24K • 👍 806 • 3h ago
 
 ---
 
