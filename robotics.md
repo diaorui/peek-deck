@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T14:55:33.914382+00:00'
+updated: '2025-12-14T15:21:18.144711+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 14:55 UTC  
+**Last Updated:** December 14, 2025 at 15:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-4h ago
+5h ago
 
 ---
 
@@ -74,13 +74,13 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-9h ago
+10h ago
 
 ---
 
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -92,15 +92,17 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 ---
 
-**[Figure03 robot serving beer](https://www.reddit.com/r/robotics/comments/1pme28o/figure03_robot_serving_beer/)**
+**[Marché Humanoides - Premiers gagnants : VPG MVIS HarmonicDriveSystem... etc.](https://www.reddit.com/r/robotics/comments/1pmbflm/marché_humanoides_premiers_gagnants_vpg_mvis/)**
 
-1h ago
+4h ago
 
 ---
 
-**[Marché Humanoides - Premiers gagnants : VPG MVIS HarmonicDriveSystem... etc.](https://www.reddit.com/r/robotics/comments/1pmbflm/marché_humanoides_premiers_gagnants_vpg_mvis/)**
+**[PX4 SIL fixed-wing and multirotor Simulator using Simulink](https://www.reddit.com/r/robotics/comments/1pm2vea/px4_sil_fixedwing_and_multirotor_simulator_using/)**
 
-3h ago
+What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
+
+12h ago
 
 ---
 
@@ -110,7 +112,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -118,7 +120,7 @@ The New York Times • 4h ago
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 8h ago
+South China Morning Post • 9h ago
 
 ---
 
@@ -142,7 +144,7 @@ AP News • 1d ago
 
 Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -174,15 +176,15 @@ The Motley Fool • 19h ago
 
 Figure AI CEO Brett Adcock said on X that his company reviewed 176,000 resumes but most of them were "slop." Less than 450 people were hired, he said.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
-**[Butler reboot: European firm to deploy 10,000 household humanoid robots in factories](https://interestingengineering.com/ai-robotics/1x-to-deploy-humanoid-robots-for-warehouses)**
+**[Scientists Reveal Robot Small Enough to Travel Through Human Body](https://futurism.com/future-society/robot-small-travel-human-body)**
 
-1X has partnered with EQT to make up to 10,000 Neo humanoid robots available to more than 300 companies between 2026 and 2030.
+The tiny, microscopic robot packs an onboard computer, solar cells, and propulsion system, and is capable of sensing its environment.
 
-Interesting Engineering • 2d ago
+Futurism • 23h ago
 
 ---
 
@@ -216,7 +218,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 60K • 👍 3K • 💬 118 • ⏱️ 0:34 • 6h ago
+👁️ 60K • 👍 3K • 💬 118 • ⏱️ 0:34 • 7h ago
 
 ---
 
@@ -266,7 +268,7 @@ robot #aiart #humanoid Most advanced humanoid robot girl showcased at USA Expo 2
 
 📺 Ai Six Seven Robotics
 
-👁️ 1K • 👍 13 • ⏱️ 0:13 • 3h ago
+👁️ 1K • 👍 13 • ⏱️ 0:13 • 4h ago
 
 ---
 
@@ -286,7 +288,7 @@ This is how humans will live with robots. Not in factories. Not in science ficti
 
 📺 Yasin Öğretmen
 
-👁️ 1K • 👍 40 • 💬 1 • ⏱️ 1:01 • 19h ago
+👁️ 1K • 👍 40 • 💬 1 • ⏱️ 1:01 • 20h ago
 
 ---
 

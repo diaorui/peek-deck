@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T14:55:33.896119+00:00'
+updated: '2025-12-14T15:21:18.127227+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 14:55 UTC  
+**Last Updated:** December 14, 2025 at 15:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Exploring a more direct way to edit AI images after getting frustrated myself](https://www.reddit.com/r/artificial/comments/1pmc0h3/exploring_a_more_direct_way_to_edit_ai_images/)**
-
-A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
-
-3h ago
-
----
-
 **[Fei-Fei Li, a Stanford professor and CEO of AI startup World Labs, known as the 'Godmother of AI' says degrees are less important in hiring than how quickly you can ‘superpower yourself’ with new tools](https://www.reddit.com/r/artificial/comments/1plx3ah/feifei_li_a_stanford_professor_and_ceo_of_ai/)**
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
 🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 17h ago
+
+---
+
+**[Exploring a more direct way to edit AI images after getting frustrated myself](https://www.reddit.com/r/artificial/comments/1pmc0h3/exploring_a_more_direct_way_to_edit_ai_images/)**
+
+A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
+
+3h ago
 
 ---
 
@@ -61,15 +61,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-16h ago
-
----
-
-**[Sick of uploading sensitive PDFs to ChatGPT? I built a fully offline "Second Brain" using Llama 3 + Python (No API keys needed)](https://www.reddit.com/r/artificial/comments/1pmas1w/sick_of_uploading_sensitive_pdfs_to_chatgpt_i/)**
-
-Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
-
-4h ago
+17h ago
 
 ---
 
@@ -77,7 +69,7 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
 
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 14h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 15h ago
 
 ---
 
@@ -93,7 +85,15 @@ Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom c
 
 An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
 
-🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 12h ago
+🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 13h ago
+
+---
+
+**[Sick of uploading sensitive PDFs to ChatGPT? I built a fully offline "Second Brain" using Llama 3 + Python (No API keys needed)](https://www.reddit.com/r/artificial/comments/1pmas1w/sick_of_uploading_sensitive_pdfs_to_chatgpt_i/)**
+
+Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
+
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 22h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 23h ago
 
 ---
 
@@ -121,7 +121,7 @@ For now
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
-The Atlantic • 2h ago
+The Atlantic • 3h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Atlantic • 2h ago
 
 Dimon added that people who possess soft skills will have "plenty of jobs."
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -139,31 +139,17 @@ Axios • 2h ago
 
 ---
 
-**[How Trump’s tech advisers overcame a MAGA rebellion over AI](https://www.washingtonpost.com/politics/2025/12/14/trump-ai-executive-order-divisions/)**
-
-The Washington Post • 42m ago
-
----
-
 **[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
 
 California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
 
-The Guardian • 23h ago
+The Guardian • 1d ago
 
 ---
 
-**[Trump AI order fuels GOP divide over state laws](https://thehill.com/policy/technology/5647144-trump-federal-ai-regulation/)**
+**[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
 
-thehill.com • 3h ago
-
----
-
-**[Working with AI can be even more efficient with this all-in-one platform](https://mashable.com/article/dec-14-1minai-advanced-business-plan-lifetime-subscription)**
-
-Experience the next level of AI efficiency.
-
-Mashable • 4h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -171,7 +157,7 @@ Mashable • 4h ago
 
 A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
@@ -179,7 +165,21 @@ BBC • 13h ago
 
 If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
 
-WIRED • 7h ago
+WIRED • 8h ago
+
+---
+
+**[Working with AI can be even more efficient with this all-in-one platform](https://mashable.com/article/dec-14-1minai-advanced-business-plan-lifetime-subscription)**
+
+Experience the next level of AI efficiency.
+
+Mashable • 5h ago
+
+---
+
+**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
+
+The Economist • 4h ago
 
 ---
 
@@ -187,7 +187,7 @@ WIRED • 7h ago
 
 Here's why Nvidia may be one of the most undervalued artificial intelligence (AI) stocks.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -199,13 +199,13 @@ The Motley Fool • 9h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 523 • 💬 280 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 523 • 💬 281 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 379 • 💬 380 • 23h ago
+⬆️ 386 • 💬 387 • 23h ago
 
 ---
 
@@ -221,7 +221,15 @@ A summary of the techniques in place to protect my git forge
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 129 • 💬 241 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 130 • 💬 241 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+
+---
+
+**[If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://news.ycombinator.com/item?id=46260106)**
+
+In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
+
+⬆️ 121 • 💬 72 • 13h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -230,14 +238,6 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
 ⬆️ 119 • 💬 93 • 2d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
-
----
-
-**[If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://news.ycombinator.com/item?id=46260106)**
-
-In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
-
-⬆️ 117 • 💬 69 • 13h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -255,19 +255,19 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 ---
 
-**[AI is bringing old nuclear plants out of retirement](https://news.ycombinator.com/item?id=46254276)**
+**[AI and the ironies of automation – Part 2](https://news.ycombinator.com/item?id=46262816)**
 
-The White House has promised to quadruple nuclear power by 2050.
+Some (well-known) consequences of AI automating work
 
-⬆️ 52 • 💬 66 • 1d ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 62 • 💬 9 • 2h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
-**[Something Ominous Is Happening in the AI Economy](https://news.ycombinator.com/item?id=46236820)**
+**[The Gorman Paradox: Where Are All the AI-Generated Apps?](https://news.ycombinator.com/item?id=46262545)**
 
-The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
+In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 43 • 💬 5 • 2d ago • [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)
+⬆️ 58 • 💬 84 • 3h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -291,7 +291,7 @@ Dog V/S Dog – AI Generated Epic Fight Is AI generated Shorts video mein aap de
 
 📺 ZX_SONU_EDITDZ
 
-👁️ 3K • 💬 8 • ⏱️ 0:47 • 13h ago
+👁️ 3K • 💬 8 • ⏱️ 0:47 • 14h ago
 
 ---
 
@@ -341,7 +341,7 @@ Paris's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut 
 
 📺 Smart Tales
 
-👁️ 20K • 👍 145 • ⏱️ 0:08 • 18h ago
+👁️ 20K • 👍 145 • ⏱️ 0:08 • 19h ago
 
 ---
 
@@ -387,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,680 • 5d ago
+⬇️ 277,583 • ❤️ 2,685 • 5d ago
 
 ---
 
@@ -399,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 130,627 • ❤️ 813 • 1d ago
+⬇️ 130,627 • ❤️ 815 • 1d ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 67,698 • ❤️ 404 • 4d ago
+⬇️ 67,698 • ❤️ 405 • 4d ago
 
 ---
 
@@ -423,7 +423,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 323 • 2d ago
+⬇️ 15,778 • ❤️ 324 • 2d ago
 
 ---
 
@@ -435,7 +435,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 3,369 • ❤️ 296 • 5d ago
+⬇️ 3,369 • ❤️ 297 • 5d ago
 
 ---
 
@@ -447,7 +447,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 35,747 • ❤️ 272 • 5d ago
+⬇️ 35,747 • ❤️ 273 • 5d ago
 
 ---
 
@@ -459,7 +459,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 5,553 • ❤️ 195 • 2d ago
+⬇️ 5,553 • ❤️ 196 • 2d ago
 
 ---
 
@@ -726,7 +726,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 9h ago
+⭐ 861 • 🔱 49 • 10h ago
 
 ---
 
