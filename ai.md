@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T07:59:34.958952+00:00'
+updated: '2025-12-14T08:35:52.171654+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - videos
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 07:59 UTC  
+**Last Updated:** December 14, 2025 at 08:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,13 +45,7 @@ AI news, discussions, and developments
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 16h ago
-
----
-
-**[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
-
-9h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 17h ago
 
 ---
 
@@ -63,11 +57,9 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 ---
 
-**[Google Translate now lets you hear real-time translations in your headphones](https://www.reddit.com/r/artificial/comments/1pm09b8/google_translate_now_lets_you_hear_realtime/)**
+**[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
-
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 7h ago
+10h ago
 
 ---
 
@@ -75,7 +67,15 @@ The real-time headphone translations experience keeps each speaker’s tone, emp
 
 An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
 
-🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 5h ago
+🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 6h ago
+
+---
+
+**[Google Translate now lets you hear real-time translations in your headphones](https://www.reddit.com/r/artificial/comments/1pm09b8/google_translate_now_lets_you_hear_realtime/)**
+
+The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
+
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 8h ago
 
 ---
 
@@ -91,7 +91,7 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-15m ago
+51m ago
 
 ---
 
@@ -99,7 +99,7 @@ Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom c
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 15h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 16h ago
 
 ---
 
@@ -107,7 +107,7 @@ For now
 
 Demis Hassabis sketches how AI will work by 2026, from omnimodels and world models to robotics, live assistants, and agents built on Google Gemini.
 
-🔗 [AI Revolution](https://www.revolutioninai.com/2025/12/googles-ai-boss-just-sketched-2026.html) • 2h ago
+🔗 [AI Revolution](https://www.revolutioninai.com/2025/12/googles-ai-boss-just-sketched-2026.html) • 3h ago
 
 ---
 
@@ -127,7 +127,7 @@ CNN • 2d ago
 
 California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Guardian • 16h ago
 
 Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
 
-NPR • 21h ago
+NPR • 22h ago
 
 ---
 
@@ -143,7 +143,7 @@ NPR • 21h ago
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 18h ago
+Vox • 19h ago
 
 ---
 
@@ -151,7 +151,15 @@ Vox • 18h ago
 
 The AI computing market is a great place to invest.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
+
+---
+
+**[Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia](https://www.cnbc.com/2025/12/12/broadcom-tumbles-10percent-after-earnings-as-ai-trade-sells-off-.html)**
+
+Even with better-than-expected earnings and revenue, Broadcom slid on Friday as investors  continued to grow concerned about the AI trade.
+
+CNBC • 1d ago
 
 ---
 
@@ -159,23 +167,7 @@ Yahoo Finance • 11h ago
 
 Here's why Nvidia may be one of the most undervalued artificial intelligence (AI) stocks.
 
-The Motley Fool • 2h ago
-
----
-
-**[Prediction: This AI Stock Could Lead the Market in 2026](https://finance.yahoo.com/news/prediction-ai-stock-could-lead-065300043.html)**
-
-Alphabet's stock has been on fire in the second half of the year.
-
-Yahoo Finance • 1h ago
-
----
-
-**['Holy crap. The end of me', says ex-Google CEO Eric Schmidt on AI doing coding jobs](https://timesofindia.indiatimes.com/technology/tech-news/holy-crap-the-end-of-me-says-ex-google-ceo-eric-schmidt-on-ai-doing-coding-jobs/articleshow/125943698.cms)**
-
-Tech News News: Former Google CEO Eric Schmidt expressed astonishment at AI's rapid progress, particularly its ability to autonomously generate code, admitting his ow
-
-Times of India • 4h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -191,7 +183,13 @@ Fortune • 1d ago
 
 The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest.
 
-NPR • 20h ago
+NPR • 21h ago
+
+---
+
+**[OpenAI isn't too big to fail. It's bigger.](https://www.axios.com/2025/12/13/open-ai-too-big-to-fail)**
+
+Axios • 10h ago
 
 ---
 
@@ -211,7 +209,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 490 • 💬 288 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 491 • 💬 289 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -225,7 +223,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 307 • 💬 328 • 16h ago
+⬆️ 316 • 💬 334 • 16h ago
 
 ---
 
@@ -241,7 +239,7 @@ A summary of the techniques in place to protect my git forge
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 127 • 💬 239 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 128 • 💬 239 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -261,17 +259,17 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 ---
 
-**[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
-
-⬆️ 59 • 💬 53 • 11h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
-
----
-
 **[If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://news.ycombinator.com/item?id=46260106)**
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 59 • 💬 28 • 6h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 68 • 💬 31 • 6h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+
+---
+
+**[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
+
+⬆️ 61 • 💬 54 • 11h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -285,7 +283,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 176K • 👍 3K • 💬 480 • ⏱️ 1:21:07 • 19h ago
+👁️ 176K • 👍 3K • 💬 480 • ⏱️ 1:21:07 • 20h ago
 
 ---
 
@@ -295,7 +293,7 @@ INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainew
 
 📺 AI Search
 
-👁️ 16K • 👍 1K • 💬 180 • ⏱️ 47:09 • 4h ago
+👁️ 16K • 👍 1K • 💬 180 • ⏱️ 47:09 • 5h ago
 
 ---
 
@@ -305,7 +303,7 @@ In Dubai, this futuristic AI Salon Pod delivers an instant hair transformation w
 
 📺 AI Robot Lab
 
-👁️ 406K • 👍 2K • 💬 9 • ⏱️ 0:16 • 20h ago
+👁️ 406K • 👍 2K • 💬 9 • ⏱️ 0:16 • 21h ago
 
 ---
 
@@ -325,7 +323,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 81K • 👍 7K • 💬 1K • ⏱️ 16:45 • 8h ago
+👁️ 81K • 👍 7K • 💬 1K • ⏱️ 16:45 • 9h ago
 
 ---
 
@@ -391,7 +389,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,662 • 5d ago
+⬇️ 268,534 • ❤️ 2,665 • 5d ago
 
 ---
 
@@ -451,7 +449,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 31,499 • ❤️ 269 • 4d ago
+⬇️ 31,499 • ❤️ 270 • 4d ago
 
 ---
 
@@ -463,7 +461,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 447,364 • ❤️ 251 • 5d ago
+⬇️ 447,364 • ❤️ 253 • 5d ago
 
 ---
 
@@ -475,7 +473,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,201 • ❤️ 190 • 1d ago
+⬇️ 4,201 • ❤️ 191 • 1d ago
 
 ---
 
@@ -499,7 +497,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 4,597 • ❤️ 185 • 2d ago
+⬇️ 4,597 • ❤️ 187 • 2d ago
 
 ---
 
@@ -556,7 +554,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 A large-scale dataset collection, The Well, provides diverse numerical simulations for benchmarking machine learning models in physical systems simulation.
 
-▲ 23 • 💬 2 • ⭐ 1,483 • 12mo ago
+▲ 23 • 💬 2 • ⭐ 1,514 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.00568) • [💻 code](https://github.com/PolymathicAI/the_well)
 
@@ -594,7 +592,7 @@ A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spok
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 19 • 💬 2 • ⭐ 11,967 • 5d ago
+▲ 19 • 💬 2 • ⭐ 11,981 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -650,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.9k • 🔱 2.2k • 1h ago
+⭐ 14.0k • 🔱 2.2k • 5m ago
 
 ---
 
@@ -660,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.7k • 🔱 296 • 4h ago
+⭐ 2.7k • 🔱 300 • 4h ago
 
 ---
 
@@ -730,7 +728,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 2h ago
+⭐ 861 • 🔱 49 • 3h ago
 
 ---
 

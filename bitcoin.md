@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T07:59:34.967360+00:00'
+updated: '2025-12-14T08:35:52.180155+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 07:59 UTC  
+**Last Updated:** December 14, 2025 at 08:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -0.8%  
-**30d:** -5.7%  
-**90d:** -22.9%  
-**1y:** -13.7%  
+**24h:** -0.1%  
+**7d:** -0.6%  
+**30d:** -5.4%  
+**90d:** -22.7%  
+**1y:** -13.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.87B
+**Market Cap:** $1800.39B
 Rank #1
 
 **Circulating Supply:** 19,961,931 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.5%
 
 **All-Time Low:** $67.81
-+132967.4%
++132914.3%
 
 ---
 
@@ -83,12 +83,6 @@ Rank #1
 
 ---
 
-**[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
-
-11h ago
-
----
-
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
 10h ago
@@ -97,7 +91,13 @@ Rank #1
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-9h ago
+10h ago
+
+---
+
+**[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
+
+12h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Yes. Yes we are.
 
-15h ago
+16h ago
 
 ---
 
@@ -151,19 +151,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 18h ago
-
----
-
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
-
-Reuters • 1d ago
-
----
-
-**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
-
-Investor's Business Daily • 1d ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -179,7 +167,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -215,7 +203,21 @@ Forbes • 1d ago
 
 Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
+
+---
+
+**[Can Bitcoin Reach $250,000 in 2026? The Answer Might Blow Your Mind.](https://www.fool.com/investing/2025/12/13/can-bitcoin-reach-price-in-2026-the-answer-might-b/)**
+
+Bitcoin may be down this year, but price targets for next year are off the charts.
+
+The Motley Fool • 21h ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -227,7 +229,7 @@ CoinDesk • 12h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 14h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 15h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -291,12 +293,6 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ---
 
-**[Bringing Content Authenticity to Video Streaming: C2PA Integration with Bitmovin](https://news.ycombinator.com/item?id=46255322)**
-
-⬆️ 1 • 💬 0 • 16h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -307,7 +303,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 330 • 💬 16 • ⏱️ 21:16 • 11h ago
+👁️ 7K • 👍 330 • 💬 16 • ⏱️ 21:16 • 12h ago
 
 ---
 
@@ -317,7 +313,7 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 6K • 👍 296 • 💬 64 • ⏱️ 12:56 • 7h ago
+👁️ 6K • 👍 296 • 💬 64 • ⏱️ 12:56 • 8h ago
 
 ---
 
@@ -327,7 +323,7 @@ It's official: every U.S. bank now has the green light to sell Bitcoin. Is this 
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 641 • 💬 98 • ⏱️ 31:28 • 7h ago
+👁️ 12K • 👍 641 • 💬 98 • ⏱️ 31:28 • 8h ago
 
 ---
 
@@ -337,7 +333,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 435 • 💬 111 • ⏱️ 14:22 • 12h ago
+👁️ 7K • 👍 435 • 💬 111 • ⏱️ 14:22 • 13h ago
 
 ---
 
@@ -347,7 +343,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 194 • 💬 22 • ⏱️ 6:48 • 2h ago
+👁️ 2K • 👍 194 • 💬 22 • ⏱️ 6:48 • 3h ago
 
 ---
 
@@ -377,7 +373,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 41K • 👍 2K • 💬 24 • ⏱️ 48:39 • 17h ago
+👁️ 41K • 👍 2K • 💬 24 • ⏱️ 48:39 • 18h ago
 
 ---
 
@@ -387,7 +383,7 @@ HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S F
 
 📺 Austin Hilton
 
-👁️ 11K • 👍 565 • 💬 51 • ⏱️ 5:30 • 15h ago
+👁️ 11K • 👍 565 • 💬 51 • ⏱️ 5:30 • 16h ago
 
 ---
 
@@ -397,7 +393,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 202 • 💬 11 • ⏱️ 21:14 • 16h ago
+👁️ 5K • 👍 202 • 💬 11 • ⏱️ 21:14 • 17h ago
 
 ---
 
