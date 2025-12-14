@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T22:09:09.580118+00:00'
+updated: '2025-12-14T22:32:27.850451+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 22:09 UTC  
+**Last Updated:** December 14, 2025 at 22:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,13 +71,13 @@ A lot of AI image tools are powerful, but they rely heavily on long, precise pro
 
 Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
 
-11h ago
+12h ago
 
 ---
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -93,7 +93,7 @@ Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom c
 
 The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
 
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 21h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 22h ago
 
 ---
 
@@ -101,7 +101,7 @@ The real-time headphone translations experience keeps each speaker’s tone, emp
 
 An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
 
-🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 19h ago
+🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 20h ago
 
 ---
 
@@ -143,7 +143,7 @@ Finbold • 9h ago
 
 **[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
 
-The Economist • 10h ago
+The Economist • 11h ago
 
 ---
 
@@ -151,13 +151,13 @@ The Economist • 10h ago
 
 Both of these top tech companies have established leadership roles in the AI industry.
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 57m ago
 
 ---
 
 **[Exclusive | CEOs to Keep Spending on AI, Despite Spotty Returns](https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b9?gaa_at=eafs&gaa_n=AWEtsqcifiMVuYiBv0nfIb4K688kYSSVFNeElYrygqFGa_lwtsDJ0vcaEbRa&gaa_ts=693f38f0&gaa_sig=Zx-TpVX2kmfB_oZFVlMPdjC8zXk7jMDv-_qJuExhielqRyUL9ULqlnufeUDmX-LudHXy0XgWfTynFJePP3z9EA%3D%3D)**
 
-The Wall Street Journal • 39m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Fortune • 13h ago
 
 **[It's beginning to look a lot like (AI) Christmas](https://www.axios.com/2025/12/14/ai-christmas-nativity-visuals-sermons-jesus)**
 
-Axios • 8h ago
+Axios • 9h ago
 
 ---
 
@@ -213,7 +213,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 188 • 💬 77 • 8h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 188 • 💬 77 • 9h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -229,7 +229,7 @@ A summary of the techniques in place to protect my git forge
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 133 • 💬 189 • 9h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 133 • 💬 189 • 10h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -291,7 +291,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 377K • 👍 15K • 💬 890 • ⏱️ 4:01 • 1d ago
+👁️ 377K • 👍 15K • 💬 890 • ⏱️ 4:01 • 2d ago
 
 ---
 
@@ -321,7 +321,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 160K • 👍 11K • 💬 2K • ⏱️ 16:45 • 22h ago
+👁️ 160K • 👍 11K • 💬 2K • ⏱️ 16:45 • 23h ago
 
 ---
 
@@ -351,7 +351,7 @@ INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainew
 
 📺 AI Search
 
-👁️ 63K • 👍 3K • 💬 369 • ⏱️ 47:09 • 18h ago
+👁️ 63K • 👍 3K • 💬 369 • ⏱️ 47:09 • 19h ago
 
 ---
 
@@ -645,7 +645,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.4k • 🔱 2.2k • 13h ago
+⭐ 14.4k • 🔱 2.2k • 14h ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.8k • 🔱 319 • 4h ago
+⭐ 2.8k • 🔱 319 • 5h ago
 
 ---
 
@@ -725,7 +725,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 54m ago
+⭐ 861 • 🔱 49 • 1h ago
 
 ---
 

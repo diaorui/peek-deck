@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T22:09:09.588562+00:00'
+updated: '2025-12-14T22:32:27.857880+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 22:09 UTC  
+**Last Updated:** December 14, 2025 at 22:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,789.64
+### $88,122.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -2.4%  
-**30d:** -7.2%  
-**90d:** -24.2%  
-**1y:** -15.1%  
+**24h:** -2.4%  
+**7d:** -2.9%  
+**30d:** -7.7%  
+**90d:** -24.6%  
+**1y:** -15.5%  
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Get in now or kick yourself in a few years.
 
-2h ago
+3h ago
 
 ---
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -101,13 +101,13 @@ Get in now or kick yourself in a few years.
 
 Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
 
-1h ago
+2h ago
 
 ---
 
 **[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
 
-39m ago
+1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Investor's Business Daily • 1d ago
 
 Key PointsCardano is approaching one of its largest-ever growth opportunities.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 
@@ -333,7 +333,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 209 • 💬 11 • ⏱️ 18:38 • 6h ago
+👁️ 3K • 👍 209 • 💬 11 • ⏱️ 18:38 • 7h ago
 
 ---
 
@@ -353,7 +353,7 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 9K • 👍 392 • 💬 97 • ⏱️ 12:56 • 21h ago
+👁️ 9K • 👍 392 • 💬 97 • ⏱️ 12:56 • 22h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin what now Protein Powder: This Will Really PISS You Off!!! https://youtu.
 
 📺 MMCrypto
 
-👁️ 33K • 👍 2K • 💬 442 • ⏱️ 6:48 • 15h ago
+👁️ 33K • 👍 2K • 💬 442 • ⏱️ 6:48 • 16h ago
 
 ---
 
