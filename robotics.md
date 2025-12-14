@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T08:35:52.189447+00:00'
+updated: '2025-12-14T08:52:50.931854+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 08:35 UTC  
+**Last Updated:** December 14, 2025 at 08:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-48m ago
+1h ago
 
 ---
 
@@ -218,7 +218,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 16K • 👍 200 • 💬 9 • ⏱️ 0:11 • 19h ago
+👁️ 16K • 👍 200 • 💬 9 • ⏱️ 0:11 • 20h ago
 
 ---
 

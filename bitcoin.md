@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T08:35:52.180155+00:00'
+updated: '2025-12-14T08:52:50.922594+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 08:35 UTC  
+**Last Updated:** December 14, 2025 at 08:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.1%  
 **7d:** -0.6%  
-**30d:** -5.4%  
+**30d:** -5.5%  
 **90d:** -22.7%  
 **1y:** -13.4%  
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-8h ago
+9h ago
 
 ---
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -139,7 +139,7 @@ A buddy wants to bet me 1 grand.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-17h ago
+18h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bitcoin Magazine • 1d ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 12h ago
+x.com • 13h ago
 
 ---
 
@@ -211,7 +211,7 @@ CoinDesk • 13h ago
 
 Bitcoin may be down this year, but price targets for next year are off the charts.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -353,7 +353,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Stock Moe
 
-👁️ 8K • 👍 541 • 💬 37 • ⏱️ 14:28 • 10h ago
+👁️ 8K • 👍 541 • 💬 37 • ⏱️ 14:28 • 11h ago
 
 ---
 

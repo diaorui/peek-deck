@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T08:35:52.171654+00:00'
+updated: '2025-12-14T08:52:50.914232+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 08:35 UTC  
+**Last Updated:** December 14, 2025 at 08:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -91,7 +91,7 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-51m ago
+1h ago
 
 ---
 
@@ -223,7 +223,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 316 • 💬 334 • 16h ago
+⬆️ 316 • 💬 334 • 17h ago
 
 ---
 
@@ -263,7 +263,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 68 • 💬 31 • 6h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 68 • 💬 31 • 7h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.0k • 🔱 2.2k • 5m ago
+⭐ 14.0k • 🔱 2.2k • 22m ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.7k • 🔱 300 • 4h ago
+⭐ 2.7k • 🔱 300 • 5h ago
 
 ---
 

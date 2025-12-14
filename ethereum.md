@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T08:35:52.186202+00:00'
+updated: '2025-12-14T08:52:50.928601+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 08:35 UTC  
+**Last Updated:** December 14, 2025 at 08:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -0.3%  
-**30d:** -1.8%  
-**90d:** -30.8%  
-**1y:** -21.3%  
+**24h:** -0.3%  
+**7d:** -0.4%  
+**30d:** -1.9%  
+**90d:** -30.9%  
+**1y:** -21.4%  
 
 ---
 
@@ -200,7 +200,7 @@ TradingView — Track All Markets • 1d ago
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
-The Block • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Stock Moe
 
-👁️ 8K • 👍 541 • 💬 37 • ⏱️ 14:28 • 10h ago
+👁️ 8K • 👍 541 • 💬 37 • ⏱️ 14:28 • 11h ago
 
 ---
 
