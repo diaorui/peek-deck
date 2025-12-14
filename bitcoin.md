@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T11:18:50.728611+00:00'
+updated: '2025-12-14T11:31:44.172871+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 11:18 UTC  
+**Last Updated:** December 14, 2025 at 11:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -1.0%  
-**30d:** -5.9%  
-**90d:** -23.0%  
-**1y:** -13.8%  
+**24h:** -1.1%  
+**7d:** -1.4%  
+**30d:** -6.3%  
+**90d:** -23.4%  
+**1y:** -14.2%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -163,7 +163,7 @@ Reuters • 1d ago
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -261,7 +261,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 3d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 4d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -373,7 +373,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 320 • 💬 28 • ⏱️ 6:48 • 5h ago
+👁️ 4K • 👍 320 • 💬 28 • ⏱️ 6:48 • 6h ago
 
 ---
 

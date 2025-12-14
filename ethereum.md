@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T11:18:50.734519+00:00'
+updated: '2025-12-14T11:31:44.178861+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 11:18 UTC  
+**Last Updated:** December 14, 2025 at 11:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -216,7 +216,7 @@ The Block • 3d ago
 
 After an unexpected pullback, could Ethereum be ready to skyrocket in value?
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 942 • 👍 74 • 💬 4 • ⏱️ 4:34 • 6h ago
+👁️ 942 • 👍 74 • 💬 4 • ⏱️ 4:34 • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 43 • 💬 16 • ⏱️ 15:09 • 12h ago
+👁️ 1K • 👍 43 • 💬 16 • ⏱️ 15:09 • 13h ago
 
 ---
 

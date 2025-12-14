@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T11:18:50.720213+00:00'
+updated: '2025-12-14T11:31:44.164486+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 11:18 UTC  
+**Last Updated:** December 14, 2025 at 11:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,13 +55,13 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 19h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 20h ago
 
 ---
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -147,7 +147,7 @@ The New York Times • 2d ago
 
 **[Trump AI order fuels GOP divide over state laws](https://thehill.com/policy/technology/5647144-trump-federal-ai-regulation/)**
 
-thehill.com • 18m ago
+thehill.com • 31m ago
 
 ---
 
@@ -155,7 +155,7 @@ thehill.com • 18m ago
 
 The AI computing market is a great place to invest.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Motley Fool • 6h ago
 
 **[Ad Agency Stocks Seen Turning AI Disruption to Their Advantage](https://www.bloomberg.com/news/articles/2025-12-14/ad-agency-stocks-seen-turning-ai-disruption-to-their-advantage)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -349,7 +349,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 93K • 👍 7K • 💬 1K • ⏱️ 16:45 • 11h ago
+👁️ 93K • 👍 7K • 💬 1K • ⏱️ 16:45 • 12h ago
 
 ---
 
@@ -369,7 +369,7 @@ INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainew
 
 📺 AI Search
 
-👁️ 26K • 👍 2K • 💬 212 • ⏱️ 47:09 • 7h ago
+👁️ 26K • 👍 2K • 💬 212 • ⏱️ 47:09 • 8h ago
 
 ---
 
@@ -642,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.1k • 🔱 2.2k • 2h ago
+⭐ 14.1k • 🔱 2.2k • 3h ago
 
 ---
 

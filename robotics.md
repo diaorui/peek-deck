@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T11:18:50.737717+00:00'
+updated: '2025-12-14T11:31:44.182080+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 11:18 UTC  
+**Last Updated:** December 14, 2025 at 11:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -86,7 +86,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Marché Humanoides - Premiers gagnants : VPG MVIS HarmonicDriveSystem... etc.](https://www.reddit.com/r/robotics/comments/1pmbflm/marché_humanoides_premiers_gagnants_vpg_mvis/)**
 
-20m ago
+33m ago
 
 ---
 
@@ -94,13 +94,13 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
 
-8h ago
+9h ago
 
 ---
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -118,7 +118,7 @@ The New York Times • 1h ago
 
 “The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Robot Report • 1d ago
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-The Motley Fool • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
