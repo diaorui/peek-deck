@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T13:08:36.842931+00:00'
+updated: '2025-12-14T13:37:17.068937+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 13:08 UTC  
+**Last Updated:** December 14, 2025 at 13:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -1.8%  
-**30d:** -6.7%  
-**90d:** -23.7%  
-**1y:** -14.6%  
+**24h:** -0.8%  
+**7d:** -1.7%  
+**30d:** -6.5%  
+**90d:** -23.6%  
+**1y:** -14.4%  
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -137,7 +137,7 @@ This will age well in 10 years. See you then.
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -149,7 +149,7 @@ This will age well in 10 years. See you then.
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -163,7 +163,7 @@ Reuters • 1d ago
 
 Bitcoin price prediction to $180,000 remains in focus as hidden signals emerge. Here’s why bulls aren’t backing off yet.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -211,7 +211,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -231,7 +231,7 @@ Bitcoin Magazine • 1d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 6 • 💬 1 • 19h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 6 • 💬 1 • 20h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -305,7 +305,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 386 • 💬 21 • ⏱️ 21:16 • 16h ago
+👁️ 9K • 👍 386 • 💬 21 • ⏱️ 21:16 • 17h ago
 
 ---
 
@@ -335,7 +335,7 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 7K • 👍 335 • 💬 73 • ⏱️ 12:56 • 12h ago
+👁️ 7K • 👍 335 • 💬 73 • ⏱️ 12:56 • 13h ago
 
 ---
 
@@ -385,7 +385,7 @@ America is drowning in debt—and politicians aren't telling you the real soluti
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 181 • 💬 23 • ⏱️ 7:25 • 21h ago
+👁️ 4K • 👍 181 • 💬 23 • ⏱️ 7:25 • 22h ago
 
 ---
 
@@ -395,7 +395,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 415 • 💬 43 • ⏱️ 6:48 • 7h ago
+👁️ 6K • 👍 415 • 💬 43 • ⏱️ 6:48 • 8h ago
 
 ---
 

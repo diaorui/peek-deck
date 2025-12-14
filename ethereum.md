@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T13:08:36.849094+00:00'
+updated: '2025-12-14T13:37:17.074927+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 13:08 UTC  
+**Last Updated:** December 14, 2025 at 13:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -1.4%  
-**30d:** -2.9%  
-**90d:** -31.6%  
-**1y:** -22.2%  
+**24h:** -0.6%  
+**7d:** -0.9%  
+**30d:** -2.4%  
+**90d:** -31.2%  
+**1y:** -21.8%  
 
 ---
 
@@ -172,7 +172,7 @@ FXStreet • 1d ago
 
 If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Block • 3d ago
 
 **[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
 
-TipRanks • 2h ago
+TipRanks • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 45 • 💬 16 • ⏱️ 15:09 • 14h ago
+👁️ 1K • 👍 45 • 💬 16 • ⏱️ 15:09 • 15h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 93 • 💬 4 • ⏱️ 4:34 • 8h ago
+👁️ 1K • 👍 93 • 💬 4 • ⏱️ 4:34 • 9h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 139 • 💬 4 • ⏱️ 4:05 • 19h ago
+👁️ 3K • 👍 139 • 💬 4 • ⏱️ 4:05 • 20h ago
 
 ---
 
@@ -326,7 +326,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 563 • 💬 104 • ⏱️ 11:13 • 7h ago
+👁️ 3K • 👍 563 • 💬 104 • ⏱️ 11:13 • 8h ago
 
 ---
 

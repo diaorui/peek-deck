@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T13:08:36.852414+00:00'
+updated: '2025-12-14T13:37:17.078169+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 13:08 UTC  
+**Last Updated:** December 14, 2025 at 13:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ We’ll be sharing performance and application demos. Comments and discussion ar
 
 Hello everyone! I’m kinda nervous and need some advice. So I’m working on connecting a battery to my URC10, but I’m honestly scared of sparks and doing something wrong. I already soldered the battery into an XT60 connector, but now I’m stuck wondering… did I do it right? Should I go ahead and connect it already, or am I missing something important? I don’t want to fry anything or hurt myself 😭. Can anyone walk me through the safe way to connect this, or confirm if I’m on the right track?
 
-54m ago
+1h ago
 
 ---
 
@@ -168,7 +168,7 @@ Scientific American • 1d ago
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -184,7 +184,7 @@ Interesting Engineering • 2d ago
 
 The tiny, microscopic robot packs an onboard computer, solar cells, and propulsion system, and is capable of sensing its environment.
 
-Futurism • 21h ago
+Futurism • 22h ago
 
 ---
 
@@ -276,7 +276,7 @@ This is how humans will live with robots. Not in factories. Not in science ficti
 
 📺 Yasin Öğretmen
 
-👁️ 1K • 👍 38 • 💬 1 • ⏱️ 1:01 • 17h ago
+👁️ 1K • 👍 38 • 💬 1 • ⏱️ 1:01 • 18h ago
 
 ---
 
