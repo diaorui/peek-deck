@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T05:01:10.373767+00:00'
+updated: '2025-12-14T05:31:31.444666+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 05:01 UTC  
+**Last Updated:** December 14, 2025 at 05:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -0.3%  
-**30d:** -1.8%  
-**90d:** -30.8%  
-**1y:** -21.3%  
+**24h:** +0.7%  
+**7d:** -0.5%  
+**30d:** -2.0%  
+**90d:** -31.0%  
+**1y:** -21.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.79B
+**Market Cap:** $375.26B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-37.2%
 
 **All-Time Low:** $0.43
-+717953.3%
++717491.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm trying to grasp the ultimate plan for the ETH blockchain based upon improvement proposals as well as live metrics in order to understand what developers want for the blockchain. Ultimately this is to sell an SLT to possibly invest into ETH. I'm glad that the latest update has made ETH cheaper to transact in which will help with day to day transactions, however this has made the supply inflationary as the burn rate is lower. Is the goal to have a slight amount of inflation? Is the goal to have an elastic supply where issuance and burn rate are roughly the same? or is the goal for a strictly deflationary supply? From a value proposition this matters and I feel like the Devs haven't really put their feet down on what their intentions are. (I could be very wrong.) My main criticism of the first smart contract project is that they often don't clarify their thoughts until there is a bull run. I'm open to thoughts, articles and conversation. I'm just trying to educate myself as much as possible. Thank you in advance.
 
-2h ago
+3h ago
 
 ---
 
@@ -232,13 +232,23 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zVOGjXgpUBg)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 241 • 👍 22 • 💬 2 • ⏱️ 4:34 • 1h ago
+
+---
+
 **[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
 
 1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
 📺 Stock Moe
 
-👁️ 6K • 👍 454 • 💬 34 • ⏱️ 14:28 • 7h ago
+👁️ 7K • 👍 524 • 💬 37 • ⏱️ 14:28 • 7h ago
 
 ---
 
@@ -248,17 +258,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 131 • 💬 3 • ⏱️ 4:05 • 11h ago
+👁️ 2K • 👍 135 • 💬 4 • ⏱️ 4:05 • 11h ago
 
 ---
 
-**[Massive Breakouts Incoming: ETH &amp; BMNR Targets + Key Levels](https://www.youtube.com/watch?v=m71lOmLon38)**
+**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
 
-Ethereum is coiling for a major move, but the biggest opportunity might be the stock that Fundstrat's Tom Lee calls the ...
+EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
 
-📺 CryptoStock Lab
+📺 Altcoin Daily
 
-👁️ 577 • 👍 28 • 💬 14 • ⏱️ 15:09 • 6h ago
+👁️ 54K • 👍 3K • 💬 280 • ⏱️ 31:03 • 1d ago
 
 ---
 
@@ -272,13 +282,23 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 ---
 
+**[Massive Breakouts Incoming: ETH &amp; BMNR Targets + Key Levels](https://www.youtube.com/watch?v=m71lOmLon38)**
+
+Ethereum is coiling for a major move, but the biggest opportunity might be the stock that Fundstrat's Tom Lee calls the ...
+
+📺 CryptoStock Lab
+
+👁️ 861 • 👍 37 • 💬 15 • ⏱️ 15:09 • 7h ago
+
+---
+
 **[BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wW7XFfYMF7g)**
 
 BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
 📺 Crypto World
 
-👁️ 6K • 👍 304 • 💬 28 • ⏱️ 18:12 • 9h ago
+👁️ 7K • 👍 328 • 💬 36 • ⏱️ 18:12 • 10h ago
 
 ---
 
@@ -288,27 +308,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 189 • 💬 9 • ⏱️ 21:14 • 14h ago
-
----
-
-**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
-
-EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
-
-📺 Altcoin Daily
-
-👁️ 53K • 👍 3K • 💬 280 • ⏱️ 31:03 • 1d ago
-
----
-
-**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
-
-Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 448 • 💬 14 • ⏱️ 48:44 • 1d ago
+👁️ 5K • 👍 196 • 💬 9 • ⏱️ 21:14 • 14h ago
 
 ---
 
@@ -318,17 +318,17 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 336 • 👍 17 • 💬 2 • ⏱️ 4:09 • 17h ago
+👁️ 344 • 👍 17 • 💬 2 • ⏱️ 4:09 • 18h ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=WNjd5vnNnHo)**
+**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
 
-📺 Guitar Repair@StringTech
+📺 Discover Crypto
 
-👁️ 6K • 👍 4K • 19h ago
+👁️ 7K • 👍 449 • 💬 14 • ⏱️ 48:44 • 1d ago
 
 ---
 

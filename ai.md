@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T05:01:10.359170+00:00'
+updated: '2025-12-14T05:31:31.429457+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 05:01 UTC  
+**Last Updated:** December 14, 2025 at 05:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,21 +45,13 @@ AI news, discussions, and developments
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 13h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 14h ago
 
 ---
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-6h ago
-
----
-
-**[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
-
-An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
-
-🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 2h ago
+7h ago
 
 ---
 
@@ -71,11 +63,19 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 ---
 
+**[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
+
+An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
+
+🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 3h ago
+
+---
+
 **[Google Translate now lets you hear real-time translations in your headphones](https://www.reddit.com/r/artificial/comments/1pm09b8/google_translate_now_lets_you_hear_realtime/)**
 
 The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
 
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 4h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 5h ago
 
 ---
 
@@ -91,21 +91,23 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 12h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 13h ago
 
 ---
 
-**[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
+**[My 8 year old son created his first game with Google Gemini](https://www.reddit.com/r/artificial/comments/1plskoq/my_8_year_old_son_created_his_first_game_with/)**
 
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 17h ago
+My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
+
+10h ago
 
 ---
 
-**[News Agent for Social Media](https://www.reddit.com/r/artificial/comments/1pm5ffi/news_agent_for_social_media/)**
+**[Google’s AI Boss Just Sketched 2026. Here’s What It Looks Like](https://www.reddit.com/r/artificial/comments/1pm5w94/googles_ai_boss_just_sketched_2026_heres_what_it/)**
 
-I've been contacted quite a bit about my news bot so I've launched it in an official saas version. Connect up to 8 different social media platforms, build a separate news channel for each separate platform on each topic (e.g. HR or EdTech) and according to its own specific topic and timings. You can try a few posts for free too. https://configure.news
+Demis Hassabis sketches how AI will work by 2026, from omnimodels and world models to robotics, live assistants, and agents built on Google Gemini.
 
-19m ago
+🔗 [AI Revolution](https://www.revolutioninai.com/2025/12/googles-ai-boss-just-sketched-2026.html) • 24m ago
 
 ---
 
@@ -117,7 +119,7 @@ I've been contacted quite a bit about my news bot so I've launched it in an offi
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 15h ago
+Vox • 16h ago
 
 ---
 
@@ -127,7 +129,39 @@ Forbes • 17h ago
 
 ---
 
-**[The Eerie Parallels Between AI Mania and the Dot-Com Bubble](https://www.wsj.com/finance/stocks/the-eerie-parallels-between-ai-mania-and-the-dot-com-bubble-f99be6fe?gaa_at=eafs&gaa_n=AWEtsqe4Aj7G0hi5D7z096fh83V0NPbX2xuzjU1oCsWchkUfMnaJkebBBHoK&gaa_ts=693e44b6&gaa_sig=YZluphnNQVsrb0e0KLv0dM8iATUWoBpB7XuPRU6CQgvoQWWpPjsyHG-BpV0EHVKMpcYSnyL_1Q7jBbkhsD-DUg%3D%3D)**
+**[He created Grand Theft Auto. Now he's back with a novel about an AI that hijacks your mind](https://www.bbc.com/news/articles/c2epm9z9kkvo)**
+
+A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
+
+BBC • 4h ago
+
+---
+
+**[Meet My Top 5 Artificial Intelligence (AI) Stocks for 2026](https://finance.yahoo.com/news/meet-top-5-artificial-intelligence-203000061.html)**
+
+The AI computing market is a great place to invest.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Nvidia's AI Dominance Is Still Building. Could the Stock Go Even Higher?](https://www.fool.com/investing/2025/12/13/nvidias-ai-dominance-is-still-building-could-the-s/)**
+
+Another gain of almost 1,500% is unlikely, and this could change how shareholders view the stock.
+
+The Motley Fool • 6h ago
+
+---
+
+**[Could Nvidia Be the Most Undervalued Stock in AI Right Now and Be Ready to Soar in 2026?](https://www.fool.com/investing/2025/12/14/could-nvidia-be-the-most-undervalued-stock-in-ai-r/)**
+
+Here's why Nvidia may be one of the most undervalued artificial intelligence (AI) stocks.
+
+The Motley Fool • 31m ago
+
+---
+
+**[The Eerie Parallels Between AI Mania and the Dot-Com Bubble](https://www.wsj.com/finance/stocks/the-eerie-parallels-between-ai-mania-and-the-dot-com-bubble-f99be6fe?gaa_at=eafs&gaa_n=AWEtsqfPGcDtP7NbFIwdXolVfWwOCwo1INqOTul2hj3Mv7r3uG1MEGpixTA9&gaa_ts=693e4f21&gaa_sig=4BcFv_bYrULIBJKIRsZiDdGQC10pUf8_3MCP0NiDcEbVYSeJ0Qgl6wTovVpuMnOMDysGIZdFay-5t6DLIU6Svw%3D%3D)**
 
 The Wall Street Journal • 1h ago
 
@@ -157,36 +191,6 @@ Financial Times • 1d ago
 
 ---
 
-**[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
-
-The New York Times • 2d ago
-
----
-
-**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
-
-California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
-
-The Guardian • 14h ago
-
----
-
-**[Trump tech adviser David Sacks under fire over vast AI investments](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts)**
-
-Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
-
-NPR • 18h ago
-
----
-
-**[Meet My Top 5 Artificial Intelligence (AI) Stocks for 2026](https://finance.yahoo.com/news/meet-top-5-artificial-intelligence-203000061.html)**
-
-The AI computing market is a great place to invest.
-
-Yahoo Finance • 8h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -195,7 +199,7 @@ Yahoo Finance • 8h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 517 • 💬 276 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 517 • 💬 277 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -217,7 +221,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 269 • 💬 300 • 13h ago
+⬆️ 274 • 💬 305 • 13h ago
 
 ---
 
@@ -225,7 +229,7 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 169 • 💬 120 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 170 • 💬 120 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -255,7 +259,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 57 • 💬 46 • 8h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 58 • 💬 50 • 8h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -263,7 +267,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 50 • 💬 66 • 15h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 50 • 💬 66 • 16h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -277,7 +281,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 132K • 👍 3K • 💬 411 • ⏱️ 1:21:07 • 17h ago
+👁️ 158K • 👍 3K • 💬 461 • ⏱️ 1:21:07 • 17h ago
 
 ---
 
@@ -287,7 +291,17 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 37K • 👍 1K • 💬 233 • ⏱️ 15:01 • 1d ago
+👁️ 38K • 👍 1K • 💬 234 • ⏱️ 15:01 • 1d ago
+
+---
+
+**[AI Is Ruining Christmas...](https://www.youtube.com/watch?v=FKyzEFE50S0)**
+
+The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOPmas!! You know what's NOT AI slop? Skywork!
+
+📺 Steve Terreberry
+
+👁️ 63K • 👍 6K • 💬 1K • ⏱️ 16:45 • 6h ago
 
 ---
 
@@ -297,7 +311,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 317K • 👍 13K • 💬 775 • ⏱️ 4:01 • 1d ago
+👁️ 323K • 👍 14K • 💬 792 • ⏱️ 4:01 • 1d ago
 
 ---
 
@@ -307,7 +321,17 @@ I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/9886831779109
 
 📺 CaylusBlox
 
-👁️ 470K • 👍 11K • 💬 2K • ⏱️ 13:43 • 2d ago
+👁️ 477K • 👍 11K • 💬 2K • ⏱️ 13:43 • 2d ago
+
+---
+
+**[Trump’s executive order limiting AI restrictions faces scrutiny: ‘Going to get struck down’](https://www.youtube.com/watch?v=Q-tU0G2Ir8c)**
+
+President Trump signed an executive order this week aimed at limiting states' abilities to regulate artificial intelligence, with Trump ...
+
+📺 WGN News
+
+👁️ 33K • 👍 119 • 💬 176 • ⏱️ 1:52 • 13h ago
 
 ---
 
@@ -317,37 +341,25 @@ Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------
 
 📺 GEN
 
-👁️ 50K • 👍 3K • 💬 522 • ⏱️ 22:33 • 1d ago
+👁️ 53K • 👍 3K • 💬 539 • ⏱️ 22:33 • 1d ago
 
 ---
 
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=RxCG7MSt0pk)**
+**[How AI Is Changing Shopping](https://www.youtube.com/watch?v=d-kmjp7mOq8)**
 
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+Consumers' increasing use of AI for shopping ideas and deals is forcing retailers to scramble to stay ahead. Walmart and Target ...
 
-📺 Impossible AIs
+📺 CNBC
 
-👁️ 95K • 👍 372 • 💬 10 • ⏱️ 8:26 • 1d ago
-
----
-
-**[🤖Dubai’s Newest AI Salon Pod Will Shock You 😲AI Haircut Machine 7.0 ✂️ Dubai’s Future Is Here!](https://www.youtube.com/watch?v=PYTTK3vpDso)**
-
-In Dubai, this futuristic AI Salon Pod delivers an instant hair transformation with precision scanning, robotic styling and next-gen ...
-
-📺 AI Robot Lab
-
-👁️ 299K • 👍 2K • 💬 9 • ⏱️ 0:16 • 17h ago
+👁️ 17K • 👍 409 • 💬 40 • ⏱️ 5:31 • 1d ago
 
 ---
 
-**[Howard Marks Says AI Terrifying for Jobs](https://www.youtube.com/watch?v=zIzmceyc4_s)**
+**[YouTube’s AI is BAD 😭](https://www.youtube.com/watch?v=iAeb6xjBZr8)**
 
-Oaktree Capital Management LP co-founder Howard Marks told Bloomberg Surveillance he thinks the current market seems ...
+📺 John Casterline
 
-📺 Bloomberg Podcasts
-
-👁️ 63K • 👍 863 • 💬 161 • ⏱️ 10:31 • 2d ago
+👁️ 1.3M • 👍 122K • 💬 2K • ⏱️ 0:48 • 1d ago
 
 ---
 
@@ -357,17 +369,7 @@ The soaring values of the big tech companies have sparked fears of an AI bubble 
 
 📺 ABC News In-depth
 
-👁️ 25K • 👍 247 • ⏱️ 6:01 • 1d ago
-
----
-
-**[The Race to AI Supremacy: OpenAI’s “Code Red” Moment](https://www.youtube.com/watch?v=DyM0IVbY18I)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 27K • 👍 1K • 💬 145 • ⏱️ 9:27 • 1d ago
+👁️ 26K • 👍 254 • ⏱️ 6:01 • 1d ago
 
 ---
 
@@ -407,7 +409,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 54,050 • ❤️ 396 • 4d ago
+⬇️ 54,050 • ❤️ 397 • 4d ago
 
 ---
 
@@ -443,7 +445,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 31,499 • ❤️ 267 • 4d ago
+⬇️ 31,499 • ❤️ 268 • 4d ago
 
 ---
 
@@ -692,7 +694,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Python`
 
-⭐ 1.1k • 🔱 216 • 13d ago
+⭐ 1.1k • 🔱 216 • 14d ago
 
 ---
 
@@ -722,7 +724,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 28m ago
+⭐ 861 • 🔱 49 • 58m ago
 
 ---
 

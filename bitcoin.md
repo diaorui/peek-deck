@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T05:01:10.367710+00:00'
+updated: '2025-12-14T05:31:31.438032+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 05:01 UTC  
+**Last Updated:** December 14, 2025 at 05:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.5%  
-**30d:** -5.4%  
-**90d:** -22.7%  
-**1y:** -13.4%  
+**24h:** -0.4%  
+**7d:** -0.8%  
+**30d:** -5.7%  
+**90d:** -22.9%  
+**1y:** -13.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1801.88B
+**Market Cap:** $1798.43B
 Rank #1
 
-**Circulating Supply:** 19,961,856 BTC
+**Circulating Supply:** 19,961,871 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.5%
 
 **All-Time Low:** $67.81
-+132870.1%
++132763.9%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Yes. Yes we are.
 
-12h ago
+13h ago
 
 ---
 
@@ -118,6 +118,12 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 ---
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
+
+1h ago
+
+---
+
+**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
 
 1h ago
 
@@ -137,12 +143,6 @@ A buddy wants to bet me 1 grand.
 
 ---
 
-**[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -151,7 +151,7 @@ A buddy wants to bet me 1 grand.
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -188,14 +188,6 @@ CoinDesk • 11h ago
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
 Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?](https://finance.yahoo.com/news/bitcoin-2030-price-prediction-btc-144212543.html)**
-
-Bitcoin (CRYPTO: BTC) enters the final stretch of the decade with its biggest question yet: can BTC climb to the $500K–$1M range as adoption deepens and supply tightens? The past six months show how quickly momentum can shift, but the long-term picture depends on forces far bigger than short-term price swings. Spot Bitcoin ETFs, sovereign ... Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?
-
-Yahoo Finance • 14h ago
 
 ---
 
@@ -219,6 +211,14 @@ Forbes • 1d ago
 
 ---
 
+**[Bank of Japan Set to Hike Rates to 30-Year High, Posing Another Threat to Bitcoin](https://www.coindesk.com/markets/2025/12/13/bank-of-japan-set-to-hike-rates-to-30-year-high-posing-another-threat-to-bitcoin)**
+
+Rising Japanese rates and a stronger yen threaten carry trades and could pressure crypto markets despite easing U.S. policy.
+
+CoinDesk • 15h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -227,7 +227,7 @@ Forbes • 1d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 11h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 12h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -307,7 +307,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 247 • 💬 16 • ⏱️ 21:16 • 8h ago
+👁️ 6K • 👍 296 • 💬 16 • ⏱️ 21:16 • 8h ago
 
 ---
 
@@ -317,7 +317,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 401 • 💬 109 • ⏱️ 14:22 • 9h ago
+👁️ 7K • 👍 424 • 💬 111 • ⏱️ 14:22 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 189 • 💬 9 • ⏱️ 21:14 • 14h ago
+👁️ 5K • 👍 196 • 💬 9 • ⏱️ 21:14 • 14h ago
 
 ---
 
@@ -337,17 +337,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 15K • 👍 528 • 💬 55 • ⏱️ 13:45 • 13h ago
-
----
-
-**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
-
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 6K • 👍 454 • 💬 34 • ⏱️ 14:28 • 7h ago
+👁️ 17K • 👍 589 • 💬 60 • ⏱️ 13:45 • 14h ago
 
 ---
 
@@ -357,27 +347,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 37K • 👍 2K • 💬 24 • ⏱️ 48:39 • 14h ago
-
----
-
-**[HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News!](https://www.youtube.com/watch?v=2NvsmJHSRcs)**
-
-HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S FREE CRYPTO WEALTH NEWSLETTER: ...
-
-📺 Austin Hilton
-
-👁️ 10K • 👍 542 • 💬 50 • ⏱️ 5:30 • 12h ago
-
----
-
-**[it&#39;s boring, but this is how you get rich with bitcoin in 2026](https://www.youtube.com/watch?v=Yd9qNj57b-A)**
-
-these 6 boring habits don't look impressive… but they're how I plan to win with bitcoin in 2026 Check out the Blockstream Jade ...
-
-📺 BTC Isla
-
-👁️ 17K • 👍 2K • 💬 229 • ⏱️ 10:24 • 1d ago
+👁️ 40K • 👍 2K • 💬 24 • ⏱️ 48:39 • 15h ago
 
 ---
 
@@ -387,17 +357,47 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 184 • 💬 69 • ⏱️ 8:12 • 7h ago
+👁️ 3K • 👍 208 • 💬 73 • ⏱️ 8:12 • 7h ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=jn75jusaBHE)**
+**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
 
-📺 df seni visual
+📺 Altcoin Daily
 
-👁️ 9K • 👍 3K • 7h ago
+👁️ 54K • 👍 3K • 💬 280 • ⏱️ 31:03 • 1d ago
+
+---
+
+**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
+
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 7K • 👍 524 • 💬 37 • ⏱️ 14:28 • 7h ago
+
+---
+
+**[Fed Restarts QE? Why This $54B Pivot Changes Everything for Bitcoin!](https://www.youtube.com/watch?v=UT9Ok-n-G4I)**
+
+The Fed just restarted the money printer — call it “reserve management,” but liquidity is rising fast. Bitcoin is now approved as ...
+
+📺 Simply Bitcoin
+
+👁️ 29K • 👍 2K • 💬 100 • ⏱️ 16:27 • 1d ago
+
+---
+
+**[HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News!](https://www.youtube.com/watch?v=2NvsmJHSRcs)**
+
+HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S FREE CRYPTO WEALTH NEWSLETTER: ...
+
+📺 Austin Hilton
+
+👁️ 10K • 👍 554 • 💬 51 • ⏱️ 5:30 • 13h ago
 
 ---
 

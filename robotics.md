@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T05:01:10.377079+00:00'
+updated: '2025-12-14T05:31:31.447914+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 05:01 UTC  
+**Last Updated:** December 14, 2025 at 05:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -54,17 +54,25 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 ---
 
+**[Would you be satisfied with this dynamic performance?](https://www.reddit.com/r/robotics/comments/1pm5p8c/would_you_be_satisfied_with_this_dynamic/)**
+
+We’ll be sharing performance and application demos. Comments and discussion are welcome.
+
+34m ago
+
+---
+
 **[PX4 SIL fixed-wing and multirotor Simulator using Simulink](https://www.reddit.com/r/robotics/comments/1pm2vea/px4_sil_fixedwing_and_multirotor_simulator_using/)**
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
 
-2h ago
+3h ago
 
 ---
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -72,7 +80,15 @@ What's up guys, I posted about this PX4 SIL simulator earlier this year and got 
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 10h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 11h ago
+
+---
+
+**[SO101 Lerobot pi0](https://www.reddit.com/r/robotics/comments/1pm64w6/so101_lerobot_pi0/)**
+
+Has anyone gotten pi0 to work with their SO101 Lerobot arm? I’ve trained it with ACT policy and it seems to be working, however, repeating the same exact process with pi0 doesn’t lead to the robot performing meaningful tasks. I’ve seen people getting this to work with as less as 50 episodes? Am I possibly not mapping the cameras correctly? Do I need to do any manual code changes to lerobot like switching absolute joint angles to deltas or converting to radians or anything like that before training? Any help or insight would be greatly appreciated, thanks!
+
+11m ago
 
 ---
 
@@ -80,7 +96,7 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/transitiverobotics/transact) • 10h ago
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 11h ago
 
 ---
 
@@ -92,41 +108,9 @@ Hi r/Robotics , I’ve been working on a project exploring how Generative AI can
 
 ---
 
-**[Zebra Technologies winding down Fetch-based mobile robot group](https://www.reddit.com/r/robotics/comments/1plk893/zebra_technologies_winding_down_fetchbased_mobile/)**
-
-Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
-
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 16h ago
-
----
-
-**[Tampa robo sumo](https://www.reddit.com/r/robotics/comments/1plxcza/tampa_robo_sumo/)**
-
-Estou fazendo um robô sumo de 500g queria saber se alguém te alguma dica na hora de fazer as rampas. E ouvi falar que tem pessoas que usam imã na parte debaixo para ter mais atrito, queria saber se é verdade porque como que a arena é atraída por um imã
-
-6h ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
-
-Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
-
-IEEE Spectrum • 3d ago
-
----
-
-**[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
-
-Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
-
-NVIDIA Developer • 2d ago
-
----
 
 **[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
 
@@ -152,6 +136,22 @@ AP News • 1d ago
 
 ---
 
+**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
+
+Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
+
+IEEE Spectrum • 3d ago
+
+---
+
+**[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
+
+Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
+
+NVIDIA Developer • 2d ago
+
+---
+
 **[10X Gains? These 3 Robotics Stocks Could Explode by 2035](https://finance.yahoo.com/news/10x-gains-3-robotics-stocks-224600231.html)**
 
 Engineering expert Kuran outlines why Symbotic, Alphabet, and Hyundai are top robotics stocks for AI, automation and industrial growth.
@@ -160,19 +160,11 @@ Yahoo Finance • 4d ago
 
 ---
 
-**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
-
-Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
-
-Shore Daily News • 2d ago
-
----
-
 **[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 17h ago
+Scientific American • 18h ago
 
 ---
 
@@ -192,19 +184,17 @@ MIT News • 3d ago
 
 ---
 
+**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://www.fool.com/investing/2025/12/13/94-billion-robotics-market-set-to-surge-300-1-etf/)**
+
+This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
+
+The Motley Fool • 10h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Unitree Debuts the World’s First Humanoid Robot “App Store”](https://www.youtube.com/watch?v=AEhnXtBEC_E)**
-
-Unitree welcomes users and developers worldwide to co-develop and share together. Exceptional developers will receive ...
-
-📺 Unitree Robotics
-
-👁️ 9K • 👍 234 • 💬 44 • ⏱️ 0:35 • 23h ago
-
----
 
 **[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
 
@@ -212,7 +202,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 117K • 👍 2K • 💬 778 • ⏱️ 14:26 • 5d ago
+👁️ 119K • 👍 2K • 💬 798 • ⏱️ 14:26 • 5d ago
 
 ---
 
@@ -222,7 +212,17 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 207K • 👍 6K • 💬 484 • ⏱️ 17:44 • 3d ago
+👁️ 211K • 👍 6K • 💬 486 • ⏱️ 17:44 • 3d ago
+
+---
+
+**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+
+📺 Associated Press
+
+👁️ 12K • 👍 77 • 💬 23 • ⏱️ 1:26 • 1d ago
 
 ---
 
@@ -236,21 +236,11 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 ---
 
-**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
-
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
-
-📺 Associated Press
-
-👁️ 11K • 👍 73 • 💬 22 • ⏱️ 1:26 • 1d ago
-
----
-
 **[2025 #tesla Cybertruck Version 2 — Cyber Drone Unveiled. #futuretech #robotics #drone #elonmusk](https://www.youtube.com/watch?v=uh9UFxkNlVM)**
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 14K • 👍 178 • 💬 9 • ⏱️ 0:11 • 16h ago
+👁️ 16K • 👍 196 • 💬 9 • ⏱️ 0:11 • 16h ago
 
 ---
 
@@ -260,7 +250,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 66K • 👍 673 • 💬 15 • ⏱️ 0:09 • 1d ago
+👁️ 67K • 👍 686 • 💬 16 • ⏱️ 0:09 • 1d ago
 
 ---
 
@@ -270,7 +260,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 189K • 👍 902 • 💬 282 • ⏱️ 0:47 • 4d ago
+👁️ 189K • 👍 903 • 💬 302 • ⏱️ 0:47 • 4d ago
 
 ---
 
@@ -280,15 +270,27 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 18K • 👍 177 • 💬 1 • ⏱️ 0:09 • 21h ago
+👁️ 19K • 👍 188 • 💬 1 • ⏱️ 0:09 • 22h ago
 
 ---
 
-**[#elonmusk unveils the #tesla Cyber Drone X2 #hoverbike #robotics #ai #drone](https://www.youtube.com/watch?v=rHxdy_4K2UM)**
+**[I turned Pixar Movies into LEGO ROBOTS...](https://www.youtube.com/watch?v=cf4EZAeAe7c)**
 
-📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+I built LEGO robots based on EVERY Disney Pixar movie ever made. From Toy Story to Inside Out, Cars, and Wall•E, all of them ...
 
-👁️ 55K • 👍 704 • 💬 15 • ⏱️ 0:11 • 1d ago
+📺 The B2
+
+👁️ 118K • 👍 2K • 💬 567 • ⏱️ 18:29 • 15h ago
+
+---
+
+**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+
+AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+
+📺 AI Robot Lab
+
+👁️ 87K • 👍 848 • 💬 26 • ⏱️ 0:25 • 6d ago
 
 ---
 
