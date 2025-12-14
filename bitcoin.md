@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T14:28:22.293780+00:00'
+updated: '2025-12-14T14:44:21.487384+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 14:28 UTC  
+**Last Updated:** December 14, 2025 at 14:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -1.4%  
-**30d:** -6.2%  
-**90d:** -23.3%  
-**1y:** -14.1%  
+**24h:** -1.4%  
+**7d:** -2.0%  
+**30d:** -6.8%  
+**90d:** -23.8%  
+**1y:** -14.7%  
 
 ---
 
@@ -115,7 +115,7 @@ Rank #1
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-CoinDesk • 34m ago
+CoinDesk • 50m ago
 
 ---
 
@@ -309,7 +309,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 415 • 💬 21 • ⏱️ 21:16 • 17h ago
+👁️ 10K • 👍 415 • 💬 21 • ⏱️ 21:16 • 18h ago
 
 ---
 
@@ -379,7 +379,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 21K • 👍 656 • 💬 69 • ⏱️ 13:45 • 22h ago
+👁️ 21K • 👍 656 • 💬 69 • ⏱️ 13:45 • 23h ago
 
 ---
 
