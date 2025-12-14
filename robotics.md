@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-13T23:52:19.722468+00:00'
+updated: '2025-12-14T01:13:42.301549+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 13, 2025 at 23:52 UTC  
+**Last Updated:** December 14, 2025 at 01:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
 
-12h ago
+14h ago
+
+---
+
+**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
+
+4h ago
 
 ---
 
@@ -44,13 +50,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 Been working on a pressure compensated, ros2 biomimetic robot. The idea is to build something that is cost effective, long autonomy, open source software to lower the cost of doing things underwater, to help science and conservation especially in areas and for teams that are priced out of participating. Working on a openCTD based CTD (montoring grade) to include in it. Pressure compensated camera. Aiming for about 1 m/s cruise. Im getting about ~6 hours runtime on a 5300mah for actuation (another of the same battery for compute), so including larger batteries is pretty simple, which should increase capacity both easily and cheaply. Lots of upgrade on the roadmap. And the one in the video is the previous structural design. Already have a new version but will make videos on that later. Oh, and because the design is pressure compensated, I estimate it can go VERY VERY DEEP. how deep? no idea yet. But there's essentially no air in the whole thing and i modified electronic components to help with pressure tolerance. Next step is replacing the cheap knockoff IMU i had, which just died on me for a more reliable, drop i2c and try spi or uart for it. Develop a dead reckoning package and start setting waypoints on the GUI. So it can work both tethered or in auv mode. If i can save some cash i will start playing with adding a DVL into the mix for more interesting autonomous missions. GUI is just a nicegui implementation. But it should allow me to control the robot remotely with tailscale or husarnet.
 
-15h ago
-
----
-
-**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
-
-2h ago
+17h ago
 
 ---
 
@@ -58,13 +58,21 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 5h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 6h ago
 
 ---
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-9h ago
+10h ago
+
+---
+
+**[Would it be a mistake to do a research-based MS in CS (robotics/AI) given the state of tech right now?](https://www.reddit.com/r/robotics/comments/1pm12su/would_it_be_a_mistake_to_do_a_researchbased_ms_in/)**
+
+I am planning to pursue a research-based Master’s in Computer Science focused on robotics and AI, and I want some honest perspectives given the current state of the tech industry. My goal is to build a career in robotics and AI R&D or engineering, working on cutting-edge technology like autonomous vehicles, humanoid robotics, embodied AI, perception, planning, and control. I am not interested in generic software engineering or web or app development. I want to work on challenging problems and contribute to advancing the state of the art in intelligent systems that interact with the physical world. What I am trying to understand is whether this path still makes sense right now. The tech job market is rough, and robotics and AI roles are competitive and limited compared to general CS jobs. Many of the roles I am interested in seem to prefer or require a strong research background, and sometimes a PhD, which is why I am considering a research-focused master’s instead of a coursework-only degree.
+
+15m ago
 
 ---
 
@@ -72,7 +80,15 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/transitiverobotics/transact) • 5h ago
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 6h ago
+
+---
+
+**[[P] Applying Latent Diffusion to Trajectory Planning: An efficient architecture for generating multi-modal paths (Code + Paper)](https://www.reddit.com/r/robotics/comments/1plztar/p_applying_latent_diffusion_to_trajectory/)**
+
+Hi r/Robotics, I’ve been working on a project exploring how **Generative AI** can replace (or augment) traditional trajectory planners for autonomous mobile robots/vehicles. I’m releasing **Efficient Virtuoso**, a Conditional Latent Diffusion Model (LDM) designed to plan long-horizon trajectories in complex, uncertain environments (specifically the Waymo Open Motion Dataset). **Paper:** [https://arxiv.org/abs/2509.03658\](https://arxiv.org/abs/2509.03658) **Code:** [https://github.com/AntonioAlgaida/DiffusionTrajectoryPlanner\](https://github.com/AntonioAlgaida/DiffusionTrajectoryPlanner) ### The Robotics Perspective: Why Diffusion? Standard planners (like Lattice planners or optimization-based MPC) often struggle with **multi-modality** in social environments. If a pedestrian *might* cross or *might* stop, a deterministic planner has to average those futures or pick one arbitrarily, often leading to "freezing robot" problems or unsafe maneuvers. Diffusion models treat planning as a sampling problem. They can generate a **distribution** of valid plans (e.g., "Pass Left" AND "Pass Right") effectively representing the uncertainty of the workspace. ### Making it Efficient (The Architecture) The main drawback of diffusion is inference speed (denoising takes many steps). To make this viable for robotics constraints, I focused on architectural efficiency: **Latent Action Space:** Instead of diffusing in high-dimensional state space ($80 \times 2$ waypoints), I project trajectories into a compact **16-dim latent space** using PCA. This captures >99% of kinematic variance but makes the diffusion process much lighter. **Scene Encoding:** A Transformer fuses the local map geometry and dynamic obstacles into a context embedding that conditions the planner. **Hardware Budget:** The entire pipeline (training and inference) runs on a single consumer GPU (RTX 3090). ### Results * **Precision:** Achieves a minADE (Average Displacement Error) of **0.25m**. * **Behavior:** Successfully models complex maneuvers like unprotected left turns, generating diverse "fan-outs" of trajectories that respect lane geometry. ### Discussion I view this type of model as a high-fidelity **"Proposal Generator"** for a hierarchical stack. You generate 20 diverse, plausible plans via diffusion, and then run them through a lightweight kinematic safety check or cost function to pick the best one. I’d be curious to hear thoughts from the community on integrating generative planners with hard safety constraints (like Control Barrier Functions).
+
+1h ago
 
 ---
 
@@ -80,7 +96,7 @@ An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotic
 
 Zebra Technologies is looking to sell its autonomous mobile robot group or will ultimately shut it down in early 2026.
 
-🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 11h ago
+🔗 [The Robot Report](https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/) • 12h ago
 
 ---
 
@@ -88,23 +104,7 @@ Zebra Technologies is looking to sell its autonomous mobile robot group or will 
 
 Estou fazendo um robô sumo de 500g queria saber se alguém te alguma dica na hora de fazer as rampas. E ouvi falar que tem pessoas que usam imã na parte debaixo para ter mais atrito, queria saber se é verdade porque como que a arena é atraída por um imã
 
-1h ago
-
----
-
-**[PX4 SIL fixed-wing and multirotor Simulator using Simulink](https://www.reddit.com/r/robotics/comments/1plv2io/px4_sil_fixedwing_and_multirotor_simulator_using/)**
-
-What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or when modifying the PX4 flight controller. Hope it helps someone else now! Video below shows how it works. Side note: we're always open to feedback. Simulink based PX4 SIL Simulator
-
 3h ago
-
----
-
-**[Robotics Meetup 2.0](https://www.reddit.com/r/robotics/comments/1plm57r/robotics_meetup_20/)**
-
-Pune folks! We’re hosting the 2nd Robotics Community Meetup during the ROSCon weekend — open to anyone who loves robots, ROS, automation, hardware, or just tinkering with cool tech. 📅 18–19 Dec ⏰ 7:30–9 PM 📍 Shivajinagar, Pune Very chill meetup: talk, share ideas, network, show what you're working on — all are welcome (even if you're not attending ROSCon). If you're interested, sign up here: 👉 https://forms.gle/EQ8MkikLLtnixcno9 Would love to know what topics you'd want to chat about!
-
-9h ago
 
 ---
 
@@ -120,19 +120,19 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://www.fool.com/investing/2025/12/13/94-billion-robotics-market-set-to-surge-300-1-etf/)**
-
-This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
-
-The Motley Fool • 4h ago
-
----
-
 **[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
 
 Making safe and regulated humanoids is a core mission of the summit and participants.
 
-ABC7 San Francisco • 1d ago
+ABC7 San Francisco • 2d ago
+
+---
+
+**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
+
+The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
+
+AP News • 1d ago
 
 ---
 
@@ -144,14 +144,6 @@ AP News • 1d ago
 
 ---
 
-**[Humanoid Summit showcases rapid advancements in robots, new tools](https://www.whio.com/news/humanoid-summit-showcases-rapid-advancements-robots-new-tools/c388e07f-7e3e-4df9-848c-528e775bcefa/)**
-
-The summit aims to continue growing and fostering a better region through robotics.
-
-WHIO TV • 8h ago
-
----
-
 **[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
 
 Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
@@ -160,11 +152,11 @@ NVIDIA Developer • 2d ago
 
 ---
 
-**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
+**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://www.fool.com/investing/2025/12/13/94-billion-robotics-market-set-to-surge-300-1-etf/)**
 
-General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
+This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-Scientific American • 12h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -176,17 +168,25 @@ Yahoo Finance • 4d ago
 
 ---
 
+**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
+
+General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
+
+Scientific American • 14h ago
+
+---
+
 **[Houston robotics team headed to Dallas after HISD 'miscommunication'](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
 Chron • 3d ago
 
 ---
 
-**[Vine-inspired robotic gripper gently lifts heavy and fragile objects](https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210)**
+**[Teradyne Robotics leaning into U.S. manufacturing reboot](https://www.therobotreport.com/teradyne-robotics-leaning-into-u-s-manufacturing-reboot/)**
 
-Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
+Teradyne Robotics plans to open its U.S. headquarters near Detroit in 2026 to boost manufacturing for UR and MiR and better serve customers.
 
-MIT News • 3d ago
+The Robot Report • 1d ago
 
 ---
 
@@ -230,7 +230,7 @@ Unitree welcomes users and developers worldwide to co-develop and share together
 
 📺 Unitree Robotics
 
-👁️ 8K • 👍 227 • 💬 43 • ⏱️ 0:35 • 18h ago
+👁️ 8K • 👍 227 • 💬 43 • ⏱️ 0:35 • 19h ago
 
 ---
 
@@ -288,7 +288,7 @@ In this video, an AI-powered agricultural robot is harvesting tomatoes inside a 
 
 📺 Neural Fantasy
 
-👁️ 461K • ⏱️ 0:07 • 16h ago
+👁️ 461K • ⏱️ 0:07 • 17h ago
 
 ---
 

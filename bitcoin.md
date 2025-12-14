@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-13T23:52:19.713180+00:00'
+updated: '2025-12-14T01:13:42.292162+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 13, 2025 at 23:52 UTC  
+**Last Updated:** December 14, 2025 at 01:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,274.37
+### $90,378.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.1%  
-**30d:** -4.7%  
-**90d:** -21.7%  
-**1y:** -11.0%  
+**24h:** -0.2%  
+**7d:** -0.7%  
+**30d:** -5.6%  
+**90d:** -22.8%  
+**1y:** -13.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.57B
+**Market Cap:** $1803.22B
 Rank #1
 
-**Circulating Supply:** 19,961,790 BTC
+**Circulating Supply:** 19,961,812 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.3%
 
 **All-Time Low:** $67.81
-+132920.2%
++133150.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 23
+### 21
 **EXTREME FEAR**
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-3h ago
+4h ago
 
 ---
 
-**[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
+**[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-12h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Yes. Yes we are.
 
-7h ago
+9h ago
 
 ---
 
@@ -101,11 +101,11 @@ Yes. Yes we are.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-9h ago
+10h ago
 
 ---
 
-**[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
+**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
 1h ago
 
@@ -113,35 +113,33 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Buy / mine Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1plc5hh/buy_mine_bitcoin/)**
 
-19h ago
+21h ago
 
 ---
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-12h ago
+14h ago
 
 ---
 
-**[BTC Tracker v0.6.7 update released! – security, transfers & steady improvements 🚀](https://www.reddit.com/r/Bitcoin/comments/1plqu1y/btc_tracker_v067_update_released_security/)**
+**[Congratulations To All The Whole Coiners We Are Happy For You 😡😡😡](https://www.reddit.com/r/Bitcoin/comments/1pljb9z/congratulations_to_all_the_whole_coiners_we_are/)**
 
-Hey folks 👋 Quick update on BTC Tracker — a new version is out, with solid improvements to UI, security, and portfolio management. Some highlights of this release: Added 2FA Support for BTC transfers (not just buy/sell) Fixed and improved DB migrations Updated Next.js to address a critical security vulnerability I haven’t posted in a while, but during that time — driven by community requests — I added several bigger features, including: DCA calculator with goal tracking Auto DCA setup Portfolio analysis A dynamic dashboard with customizable widgets (and more) Along the way, I also revamped the UI (mobile still needs some polish), added theme presets, and cleaned things up overall. You can try it on Umbrel, run it with Docker, or install it standalone via npm. Repo: https://github.com/wilqq-the/BTC-Tracker Umbrel app: https://apps.umbrel.com/app/btctracker Feedback and ideas are always welcome — we’re slowly building this together 🙏 Discord: https://discord.gg/WyxSZv3a
-
-6h ago
+13h ago
 
 ---
 
-**[How’s Everyone Doing?](https://www.reddit.com/r/Bitcoin/comments/1plu77e/hows_everyone_doing/)**
+**[Explain to a noob: the purpose of "never sell"?](https://www.reddit.com/r/Bitcoin/comments/1plyba1/explain_to_a_noob_the_purpose_of_never_sell/)**
 
-I’m just curious how everyone is doing financially here on the bitcoin sub. I live in the upper east coast of US. And I gotta say inflation is starting to really grind me down. I make a pretty decent amount money but it’s doesn’t go far as it use to. Food, gas, rent and anything left over goes to investments. I even started digging into my savings and investments to plug unforeseen expenses. I don’t know how everyone is doing it. This fucked monetary system is stripping people to the bone until there’s nothing left. This may sound cheesy but Bitcoin is our last hope of salvaging this fucked situation.
+I get the generic idea that long-term gains are better (e.g. 10-20 years versus 1-5 years) But I sometimes read posts on here and elsewhere and legitimately get the feeling that some people quite literally do not plan on selling any portion of it, ever. Is there a psychology behind that? I am doing Crypto literally just to attempt to get about £500k. If I can get that, I will not need more. So I guess I am just curious of the mentality of those who currently - at the age of idk 30 or whatever - have a million or more - and refuse to sell. This is just a curious chat, so no need to melt at me about it for those prone to such things haha :)
 
-4h ago
+2h ago
 
 ---
 
@@ -153,33 +151,21 @@ I’m just curious how everyone is doing financially here on the bitcoin sub. I 
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 21h ago
+Reuters • 23h ago
 
 ---
 
-**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+**[Is Strategy Stock Yesterday's News?](https://www.fool.com/investing/2025/12/13/is-strategy-stock-yesterdays-news/)**
 
-Investor's Business Daily • 22h ago
+Strategy stock is down 35% this year, despite Bitcoin's token price being flat. What comes next?
 
----
-
-**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
-
-Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
-
-CoinDesk • 6h ago
-
----
-
-**[Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading](https://finance.yahoo.com/news/vanguard-exec-calls-bitcoin-digital-215932676.html)**
-
-Yahoo Finance • 1d ago
+The Motley Fool • 36m ago
 
 ---
 
@@ -191,15 +177,31 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
+**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
 
-Investor's Business Daily • 1d ago
+Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
+
+CoinDesk • 7h ago
+
+---
+
+**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
+
+Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 4h ago
+x.com • 5h ago
+
+---
+
+**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -215,7 +217,7 @@ Forbes • 1d ago
 
 Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -227,15 +229,7 @@ CoinDesk • 4h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 6h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
-
----
-
-**[A Full Bitcoin-Style Blockchain Implemented in Pure PHP and Sockets](https://news.ycombinator.com/item?id=46178258)**
-
-Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
-
-⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 5 • 💬 1 • 7h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -243,7 +237,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 7h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 9h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -299,6 +293,12 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ---
 
+**[Bringing Content Authenticity to Video Streaming: C2PA Integration with Bitmovin](https://news.ycombinator.com/item?id=46255322)**
+
+⬆️ 1 • 💬 0 • 9h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -309,7 +309,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 162 • 💬 15 • ⏱️ 21:16 • 3h ago
+👁️ 2K • 👍 162 • 💬 15 • ⏱️ 21:16 • 4h ago
 
 ---
 
@@ -319,7 +319,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 169 • 💬 9 • ⏱️ 21:14 • 8h ago
+👁️ 3K • 👍 169 • 💬 9 • ⏱️ 21:14 • 10h ago
 
 ---
 
@@ -329,7 +329,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 31K • 👍 2K • 💬 24 • ⏱️ 48:39 • 9h ago
+👁️ 31K • 👍 2K • 💬 24 • ⏱️ 48:39 • 11h ago
 
 ---
 
@@ -339,7 +339,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 334 • 💬 96 • ⏱️ 14:22 • 4h ago
+👁️ 4K • 👍 334 • 💬 96 • ⏱️ 14:22 • 6h ago
 
 ---
 
@@ -349,7 +349,7 @@ HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S F
 
 📺 Austin Hilton
 
-👁️ 9K • 👍 516 • 💬 27 • ⏱️ 5:30 • 7h ago
+👁️ 9K • 👍 516 • 💬 27 • ⏱️ 5:30 • 9h ago
 
 ---
 
@@ -359,7 +359,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 11K • 👍 450 • 💬 110 • ⏱️ 13:45 • 8h ago
+👁️ 11K • 👍 450 • 💬 110 • ⏱️ 13:45 • 9h ago
 
 ---
 
@@ -369,7 +369,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 907 • 👍 107 • 💬 87 • ⏱️ 8:12 • 2h ago
+👁️ 907 • 👍 107 • 💬 87 • ⏱️ 8:12 • 3h ago
 
 ---
 
@@ -379,7 +379,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 SoCal Watch Reviews
 
-👁️ 4K • 👍 5K • 48m ago
+👁️ 4K • 👍 5K • 2h ago
 
 ---
 
@@ -399,7 +399,7 @@ America is drowning in debt—and politicians aren't telling you the real soluti
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 151 • 💬 67 • ⏱️ 7:25 • 8h ago
+👁️ 2K • 👍 151 • 💬 67 • ⏱️ 7:25 • 9h ago
 
 ---
 

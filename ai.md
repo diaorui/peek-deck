@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-13T23:52:19.704714+00:00'
+updated: '2025-12-14T01:13:42.283614+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 13, 2025 at 23:52 UTC  
+**Last Updated:** December 14, 2025 at 01:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,19 +39,19 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-8h ago
+10h ago
 
 ---
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 8h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 9h ago
 
 ---
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -59,21 +59,21 @@ AI news, discussions, and developments
 
 My 8 year old son has just vibe coded his first video game with the help of Google Gemini. He's been coding & designing together with Gemini for about 2 weeks. It's been a very fun process for him where he's learned so much. His game is now finished and online on: https://supersnakes.io (ad-free) It's best played on PC or tablet. He is very curious to hear what you guys think about his game. Suggestions are very welcome :-)
 
-5h ago
+6h ago
 
 ---
 
 **[The Job Market Is Worsening. AI Is ‘Part of the Story,’ Fed Chair Says](https://www.reddit.com/r/artificial/comments/1pljjob/the_job_market_is_worsening_ai_is_part_of_the/)**
 
-🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 12h ago
+🔗 [theinformation.com](https://www.theinformation.com/articles/job-market-worsening-ai-part-story-fed-chair-says) • 13h ago
 
 ---
 
-**[21yo ai founder drops paper on debugging-only llm ... real innovation or just solid PR?](https://www.reddit.com/r/artificial/comments/1plnm7p/21yo_ai_founder_drops_paper_on_debuggingonly_llm/)**
+**[Google Translate now lets you hear real-time translations in your headphones](https://www.reddit.com/r/artificial/comments/1pm09b8/google_translate_now_lets_you_hear_realtime/)**
 
-I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
+The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
 
-8h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 55m ago
 
 ---
 
@@ -81,7 +81,15 @@ I keep seeing tools that generate beautiful code and then fall apart when anythi
 
 For now
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 7h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 9h ago
+
+---
+
+**[21yo ai founder drops paper on debugging-only llm ... real innovation or just solid PR?](https://www.reddit.com/r/artificial/comments/1plnm7p/21yo_ai_founder_drops_paper_on_debuggingonly_llm/)**
+
+I keep seeing tools that generate beautiful code and then fall apart when anything breaks. so it was refreshing to see a research paper tackling debugging as a first-class domain. model’s called chronos-1. trained on 15M+ debugging sessions. it stores bug patterns, follows repo graphs, validates patches in real time. they claim 80.3% on SWE-bench Lite. gpt-4 gets 13.8%. founder’s 21. rejected 40 ivies. built this instead. site: https://chronos.so paper: https://arxiv.org/abs/2507.12482 is this the kind of deep specialization AI actually needs to progress?
+
+10h ago
 
 ---
 
@@ -90,14 +98,6 @@ For now
 Snippet: Across the country, a small but growing number of educators are experimenting with oral exams to circumvent the temptations presented by powerful artificial intelligence platforms such as ChatGPT. Such tools can be used to cheat on take-home exams or essays and to complete all manner of assignments, part of a broader phenomenon known as “cognitive off-loading.” EDITED TO ADD: In some countries, such as Norway and Denmark, oral exams never went away. In other places, they were preserved in specific contexts: for instance, in doctoral qualifying exams in the United States. Dobson said he never imagined that oral exams would be “dusted off and gain a second life.” New interest in the age-old technique began emerging during the pandemic amid worries over potential cheating in online environments. Now the advent of AI models — and even AI-powered glasses — has prompted a fresh wave of attention. Oral assessments are “definitely experiencing a renaissance,” said Tricia Bertram Gallant, director of the Academic Integrity Office at the University of California at San Diego. Such tests are not always the answer, she added, but offer the added benefit of practicing a skill valuable for most careers.
 
 🔗 [washingtonpost.com](https://www.washingtonpost.com/education/2025/12/12/ai-artificial-intelligence-college-oral-exam/) • 1d ago
-
----
-
-**[Fei-Fei Li, a Stanford professor and CEO of AI startup World Labs, known as the 'Godmother of AI' says degrees are less important in hiring than how quickly you can ‘superpower yourself’ with new tools](https://www.reddit.com/r/artificial/comments/1plx3ah/feifei_li_a_stanford_professor_and_ceo_of_ai/)**
-
-Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
-
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 1h ago
 
 ---
 
@@ -113,17 +113,23 @@ Lifting export controls on Nvidia’s second-best chip jeopardizes America’s A
 
 ## Google News: "ai"
 
-**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+**[Purdue University Approves New AI Requirement For All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)**
 
-The New York Times • 1d ago
+Forbes • 13h ago
 
 ---
 
-**[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
+**[Trump Moves to Stop States From Regulating AI With a New Executive Order](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
 
-California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
+The New York Times • 2d ago
 
-BBC • 1d ago
+---
+
+**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
+
+California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
+
+The Guardian • 10h ago
 
 ---
 
@@ -131,29 +137,39 @@ BBC • 1d ago
 
 Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws.
 
-NPR • 13h ago
+NPR • 15h ago
 
 ---
 
-**[Purdue University Approves New AI Requirement For All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)**
+**[Microsoft AI CEO Mustafa Suleyman says he won't match Meta's high-flying pay packages](https://www.businessinsider.com/microsoft-ai-mustafa-suleyman-talent-wars-pay-packages-salaries-meta-2025-12)**
 
-Forbes • 12h ago
+Companies like Meta are offering huge pay packages for top AI talent. Microsoft AI CEO Mustafa Suleyman, however, says he isn't giving in to the pressure.
 
----
-
-**[Did Energy Transfer’s AI-Focused LNG and Pipeline Push Just Shift ET’s Investment Narrative?](https://finance.yahoo.com/news/did-energy-transfer-ai-focused-210845617.html)**
-
-On December 8, 2025, Energy Transfer LP presented at the Energy LIVE Conference in Houston, where VP Amy Chen Davis highlighted the Lake Charles LNG project and the company's growing role in supplying gas infrastructure for AI-related power demand. The presentation underscored how Energy Transfer’s expanding project backlog, including AI-linked infrastructure and its emerging flagship Hugh Brinson Pipeline, could enhance visibility and durability of future fee-based cash flows. We’ll now...
-
-Yahoo Finance • 2h ago
+Business Insider • 1h ago
 
 ---
 
-**[Nvidia's AI Dominance Is Still Building. Could the Stock Go Even Higher?](https://www.fool.com/investing/2025/12/13/nvidias-ai-dominance-is-still-building-could-the-s/)**
+**[Microsoft's AI boss calls Elon Musk a 'bulldozer' with 'superhuman capabilities'](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/)**
 
-Another gain of almost 1,500% is unlikely, and this could change how shareholders view the stock.
+"And somehow he sort of mostly manages to pull off what appears to be impossible."
 
-The Motley Fool • 47m ago
+Fortune • 2h ago
+
+---
+
+**[Microsoft might wave the white flag on AI to protect humanity](https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsofts-ai-chief-mustafa-suleyman-has-warned-that-the-odds-of-existential-doom-are-nearly-absolute-the-company-could-walk-away-from-ai-if-risks-escalate)**
+
+Microsoft AI CEO Mustafa Suleyman says the company will shut down the tech if it threatens humanity, while advocating for humanist superintelligence.
+
+Windows Central • 9h ago
+
+---
+
+**[SentinelOne (S): Reassessing Valuation After AI Security Advances and Salt Typhoon Breach Spotlight](https://finance.yahoo.com/news/sentinelone-reassessing-valuation-ai-security-001605481.html)**
+
+SentinelOne (S) is back in the spotlight after fresh analyst coverage linked its AI driven security platform to the high profile Salt Typhoon hack investigation, just as new guidance stirred mixed market sentiment. See our latest analysis for SentinelOne. The latest buzz around Salt Typhoon and fresh AI focused partnerships comes against a choppy backdrop, with a weak year to date share price return and softer 3 month share price performance contrasting with a still positive 3 year total...
+
+Yahoo Finance • 57m ago
 
 ---
 
@@ -169,23 +185,7 @@ Fortune • 1d ago
 
 The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
 
-Financial Times • 18h ago
-
----
-
-**[We’re running out of good ideas. AI might be how we find new ones.](https://www.vox.com/future-perfect/471918/ai-science-growth-deepmind-alphafold-chatgpt-google)**
-
-What if the best use of AI is restarting the world’s idea machine?
-
-Vox • 10h ago
-
----
-
-**[As war with Russia drags on, ultrarealistic AI videos attempt to portray Ukrainian soldiers in peril](https://www.nbcnews.com/tech/social-media/openai-sora-realistic-ai-videos-ukrainian-soldiers-rcna247696)**
-
-A series of AI-generated deepfakes and videos, many made with OpenAI's Sora, appears to show Ukrainian soldiers apologizing to the Russian people and blaming their government for the war.
-
-NBC News • 13h ago
+Financial Times • 20h ago
 
 ---
 
@@ -197,7 +197,7 @@ NBC News • 13h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 512 • 💬 264 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 515 • 💬 268 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -205,7 +205,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 487 • 💬 288 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
+⬆️ 488 • 💬 288 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
 
 ---
 
@@ -217,17 +217,17 @@ Disney is investing in OpenAI and has licensed its iconic characters like Mickey
 
 ---
 
+**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
+
+⬆️ 198 • 💬 243 • 9h ago
+
+---
+
 **[Guarding My Git Forge Against AI Scrapers](https://news.ycombinator.com/item?id=46241849)**
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 167 • 💬 120 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
-
----
-
-**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
-
-⬆️ 157 • 💬 202 • 8h ago
+⬆️ 168 • 💬 120 • 1d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -235,7 +235,7 @@ A summary of the techniques in place to protect my git forge
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 123 • 💬 238 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 125 • 💬 239 • 1d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -243,7 +243,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 Mark Russo reported the dataset to all the right organizations, but still couldn't get into his accounts for months.
 
-⬆️ 119 • 💬 92 • 2d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
+⬆️ 119 • 💬 93 • 2d ago • [404 Media](https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/)
 
 ---
 
@@ -251,7 +251,13 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 80 • 💬 126 • 1d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 80 • 💬 127 • 1d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+
+---
+
+**[Purdue University Approves New AI Requirement for All Undergrads](https://news.ycombinator.com/item?id=46257939)**
+
+⬆️ 50 • 💬 39 • 4h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -259,15 +265,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 The White House has promised to quadruple nuclear power by 2050.
 
-⬆️ 48 • 💬 65 • 10h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
-
----
-
-**[Something Ominous Is Happening in the AI Economy](https://news.ycombinator.com/item?id=46236820)**
-
-The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
-
-⬆️ 42 • 💬 5 • 2d ago • [The Atlantic](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)
+⬆️ 49 • 💬 65 • 12h ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -281,7 +279,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 96K • 👍 2K • 💬 325 • ⏱️ 1:21:07 • 11h ago
+👁️ 96K • 👍 2K • 💬 325 • ⏱️ 1:21:07 • 13h ago
 
 ---
 
@@ -301,7 +299,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 14K • 👍 975 • 💬 353 • ⏱️ 16:19 • 8h ago
+👁️ 14K • 👍 975 • 💬 353 • ⏱️ 16:19 • 10h ago
 
 ---
 
@@ -331,7 +329,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 36K • 👍 1K • 💬 228 • ⏱️ 15:01 • 23h ago
+👁️ 36K • 👍 1K • 💬 228 • ⏱️ 15:01 • 1d ago
 
 ---
 
@@ -341,7 +339,7 @@ A Tokyo startup just shocked the industry. Integral AI claims it built the first
 
 📺 AI Revolution
 
-👁️ 50K • 👍 2K • 💬 341 • ⏱️ 14:58 • 1d ago
+👁️ 50K • 👍 2K • 💬 341 • ⏱️ 14:58 • 2d ago
 
 ---
 
@@ -387,7 +385,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 268,534 • ❤️ 2,644 • 5d ago
+⬇️ 268,534 • ❤️ 2,646 • 5d ago
 
 ---
 
@@ -399,7 +397,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 119,786 • ❤️ 804 • 1d ago
+⬇️ 119,786 • ❤️ 806 • 1d ago
 
 ---
 
@@ -411,7 +409,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 54,050 • ❤️ 390 • 4d ago
+⬇️ 54,050 • ❤️ 391 • 4d ago
 
 ---
 
@@ -423,7 +421,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 13,668 • ❤️ 315 • 1d ago
+⬇️ 13,668 • ❤️ 316 • 1d ago
 
 ---
 
@@ -459,19 +457,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code, STEM
 
 `text-generation` `8.3B`
 
-⬇️ 447,364 • ❤️ 243 • 5d ago
-
----
-
-**[NewBie-image-Exp0.1](https://huggingface.co/NewBie-AI/NewBie-image-Exp0.1)**
-
-*NewBie AI*
-
-NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on Next-DiT, optimized for generating high-quality anime-style images. It features enhanced prompt understanding via Gemma3-4B-it and Jina CLIP v2, and supports XML structured prompts for precise control over multi-character scenes and attributes.
-
-`text-to-image`
-
-⬇️ 516 • ❤️ 185 • 1d ago
+⬇️ 447,364 • ❤️ 244 • 5d ago
 
 ---
 
@@ -483,7 +469,19 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,201 • ❤️ 184 • 1d ago
+⬇️ 4,201 • ❤️ 186 • 1d ago
+
+---
+
+**[NewBie-image-Exp0.1](https://huggingface.co/NewBie-AI/NewBie-image-Exp0.1)**
+
+*NewBie AI*
+
+NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on Next-DiT, optimized for generating high-quality anime-style images. It features enhanced prompt understanding via Gemma3-4B-it and Jina CLIP v2, and supports XML structured prompts for precise control over multi-character scenes and attributes.
+
+`text-to-image`
+
+⬇️ 516 • ❤️ 186 • 1d ago
 
 ---
 
@@ -495,7 +493,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 4,597 • ❤️ 182 • 1d ago
+⬇️ 4,597 • ❤️ 183 • 1d ago
 
 ---
 
@@ -517,20 +515,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 24 • 💬 2 • ⭐ 6,733 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -545,17 +529,17 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
-**[Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance](https://huggingface.co/papers/2512.08765)**
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
-*Ruihang Chu, Yefei He, Zhekai Chen et al. (13 authors)*
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
 
-🏢 TongyiLab
+🏢 Tongyi-MAI
 
-Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 119 • 💬 3 • ⭐ 314 • 4d ago
+▲ 24 • 💬 2 • ⭐ 6,776 • 16d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -566,9 +550,23 @@ Wan-Move enhances motion control in video generative models by integrating motio
 
 A large-scale dataset collection, The Well, provides diverse numerical simulations for benchmarking machine learning models in physical systems simulation.
 
-▲ 23 • 💬 2 • ⭐ 1,430 • 12mo ago
+▲ 23 • 💬 2 • ⭐ 1,483 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.00568) • [💻 code](https://github.com/PolymathicAI/the_well)
+
+---
+
+**[Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance](https://huggingface.co/papers/2512.08765)**
+
+*Ruihang Chu, Yefei He, Zhekai Chen et al. (13 authors)*
+
+🏢 TongyiLab
+
+Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
+
+▲ 119 • 💬 3 • ⭐ 316 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
 ---
 
@@ -590,23 +588,21 @@ A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spok
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 19 • 💬 2 • ⭐ 11,950 • 5d ago
+▲ 19 • 💬 2 • ⭐ 11,967 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
 ---
 
-**[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677)**
+**[Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform](https://huggingface.co/papers/2512.08478)**
 
-*Yubo Huang, Hailong Guo, Fangtai Wu et al. (11 authors)*
+*Yuning Gong, Yifei Liu, Yifan Zhan et al. (24 authors)*
 
-🏢 Quark
+Visionary is an open web-native platform enabling real-time rendering of 3D Gaussian Splatting and meshes with efficient GPU-based inference, supporting dynamic content and generative models.
 
-Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
+▲ 72 • 💬 4 • ⭐ 296 • 4d ago
 
-▲ 166 • 💬 4 • ⭐ 935 • 9d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
 
 ---
 
@@ -618,21 +614,21 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 111 • 💬 4 • ⭐ 5,767 • 23d ago
+▲ 111 • 💬 4 • ⭐ 5,777 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
 ---
 
-**[Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform](https://huggingface.co/papers/2512.08478)**
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
-*Yuning Gong, Yifei Liu, Yifan Zhan et al. (24 authors)*
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
 
-Visionary is an open web-native platform enabling real-time rendering of 3D Gaussian Splatting and meshes with efficient GPU-based inference, supporting dynamic content and generative models.
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 71 • 💬 4 • ⭐ 296 • 4d ago
+▲ 24 • 💬 0 • ⭐ 25,898 • 14mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -646,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.6k • 🔱 2.1k • 19h ago
+⭐ 13.6k • 🔱 2.1k • 20h ago
 
 ---
 
@@ -656,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.6k • 🔱 283 • 7h ago
+⭐ 2.6k • 🔱 284 • 8h ago
 
 ---
 
@@ -676,7 +672,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.2k • 🔱 307 • 7d ago
+⭐ 1.2k • 🔱 308 • 7d ago
 
 ---
 
@@ -716,7 +712,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 888 • 🔱 23 • 6d ago
+⭐ 889 • 🔱 23 • 6d ago
 
 ---
 
@@ -736,7 +732,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 678 • 🔱 97 • 5d ago
+⭐ 681 • 🔱 98 • 5d ago
 
 ---
 
