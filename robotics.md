@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T20:01:40.575742+00:00'
+updated: '2025-12-14T20:31:56.968857+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 20:01 UTC  
+**Last Updated:** December 14, 2025 at 20:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-9h ago
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[MuJoCo-rs 2.2.0: New release of Rust bindings and idiomatic wrappers around the MuJoCo simulation library](https://www.reddit.com/r/robotics/comments/1pmmtdp/mujocors_220_new_release_of_rust_bindings_and/)**
 
-26m ago
+56m ago
 
 ---
 
@@ -94,7 +94,7 @@ We’ll be sharing performance and application demos. Comments and discussion ar
 
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -112,7 +112,15 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 9h ago
+The New York Times • 5h ago
+
+---
+
+**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
+
+The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
+
+AP News • 1d ago
 
 ---
 
@@ -124,14 +132,6 @@ South China Morning Post • 14h ago
 
 ---
 
-**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
-
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
-
-AP News • 1d ago
-
----
-
 **[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
 
 Making safe and regulated humanoids is a core mission of the summit and participants.
@@ -140,11 +140,11 @@ ABC7 San Francisco • 2d ago
 
 ---
 
-**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://finance.yahoo.com/news/94-billion-robotics-market-set-194400551.html)**
+**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
 
-This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
+The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-Yahoo Finance • 1d ago
+The Motley Fool • 56m ago
 
 ---
 
@@ -164,6 +164,14 @@ NVIDIA Developer • 3d ago
 
 ---
 
+**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://finance.yahoo.com/news/94-billion-robotics-market-set-194400551.html)**
+
+This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
@@ -172,19 +180,11 @@ Scientific American • 1d ago
 
 ---
 
-**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
+**[Figure AI CEO says over 170,000 people have applied to his robot company in the last 3 years. He hired fewer than 500.](https://www.businessinsider.com/figure-ai-robotics-startup-tech-job-market-competition-170k-resumes-2025-12)**
 
-The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
+Figure AI CEO Brett Adcock said on X that his company reviewed 176,000 resumes but most of them were "slop." Less than 450 people were hired, he said.
 
-The Motley Fool • 26m ago
-
----
-
-**[Video: Humanoid robot fires at YouTuber after prompt twist, sparking AI safety fears](https://interestingengineering.com/ai-robotics/robot-fires-at-youtuber-sparking-safety-fears)**
-
-A viral experiment shows a humanoid robot firing a BB gun after a role-play prompt overrides its safety rules, sparking major concerns.
-
-Interesting Engineering • 2d ago
+Business Insider • 17h ago
 
 ---
 
@@ -246,7 +246,7 @@ Boy Pressed Test Mode button… Robot went Crazy #ai #cat #robot.
 
 📺 Ai Animation World
 
-👁️ 48K • 💬 1 • ⏱️ 0:37 • 7h ago
+👁️ 48K • 💬 1 • ⏱️ 0:37 • 8h ago
 
 ---
 

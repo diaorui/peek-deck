@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T20:01:40.566183+00:00'
+updated: '2025-12-14T20:31:56.959466+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 20:01 UTC  
+**Last Updated:** December 14, 2025 at 20:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,695.20
+### $88,789.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -2.3%  
-**30d:** -7.1%  
-**90d:** -24.1%  
-**1y:** -15.0%  
+**24h:** -1.5%  
+**7d:** -2.5%  
+**30d:** -7.3%  
+**90d:** -24.2%  
+**1y:** -15.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1768.27B
+**Market Cap:** $1770.47B
 Rank #1
 
-**Circulating Supply:** 19,962,118 BTC
+**Circulating Supply:** 19,962,140 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.7%
 
 **All-Time Low:** $67.81
-+130594.6%
++130650.6%
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-2h ago
+3h ago
 
 ---
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -101,9 +101,11 @@ Rank #1
 
 ---
 
-**[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
+**[This is the bottom. When Bitcoin hovers in a range, it’s packing dry powder in the cannon. I am calling it.](https://www.reddit.com/r/Bitcoin/comments/1pmmm98/this_is_the_bottom_when_bitcoin_hovers_in_a_range/)**
 
-15h ago
+Get in now or kick yourself in a few years.
+
+1h ago
 
 ---
 
@@ -111,21 +113,25 @@ Rank #1
 
 I can’t help myself. I know I should wait for a bigger correction that’s likely coming. If/when that happens, I won’t have any dry powder because I have some stupid brain reflex that makes me drop $100 every time I see < $90K 😫
 
-2h ago
+3h ago
+
+---
+
+**[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
+
+15h ago
+
+---
+
+**[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
+
+4h ago
 
 ---
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-21h ago
-
----
-
-**[Herd Mentality](https://www.reddit.com/r/Bitcoin/comments/1pmbesb/herd_mentality/)**
-
-Cross post
-
-9h ago
+22h ago
 
 ---
 
@@ -133,13 +139,7 @@ Cross post
 
 Turns out saving in something that is infinite and printable is not a very good idea. Who would know?
 
-5h ago
-
----
-
-**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
-
-20h ago
+6h ago
 
 ---
 
@@ -147,47 +147,11 @@ Turns out saving in something that is infinite and printable is not a very good 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+**[Bitcoin Below $90K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
 
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-Forbes • 8h ago
-
----
-
-**[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
-
-Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
-
-The Motley Fool • 10h ago
-
----
-
-**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://finance.yahoo.com/news/cryptocurrency-more-upside-bitcoin-vs-183100641.html)**
-
-This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
-
-Reuters • 1d ago
-
----
-
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
-
-Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
-
-Yahoo Finance • 1d ago
-
----
-
-**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
-
-Investor's Business Daily • 1d ago
+CoinDesk • 6h ago
 
 ---
 
@@ -209,7 +173,43 @@ CoinDesk • 1d ago
 
 **[Key facts: Bitcoin ETFs see $237M inflows; Grayscale predicts 2026 high](https://www.tradingview.com/news/tradingview:c4734af0513af:0-key-facts-bitcoin-etfs-see-237m-inflows-grayscale-predicts-2026-high/)**
 
-TradingView — Track All Markets • 19h ago
+TradingView — Track All Markets • 20h ago
+
+---
+
+**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://finance.yahoo.com/news/cryptocurrency-more-upside-bitcoin-vs-183100641.html)**
+
+This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
+
+Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
+
+The Motley Fool • 11h ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+
+Reuters • 1d ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
+
+Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -313,7 +313,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 271 • 💬 68 • ⏱️ 10:43 • 6h ago
+👁️ 3K • 👍 271 • 💬 68 • ⏱️ 10:43 • 7h ago
 
 ---
 
@@ -333,7 +333,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 869 • 👍 73 • 💬 44 • ⏱️ 14:15 • 5h ago
+👁️ 869 • 👍 73 • 💬 44 • ⏱️ 14:15 • 6h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin what now Protein Powder: This Will Really PISS You Off!!! https://youtu.
 
 📺 MMCrypto
 
-👁️ 31K • 👍 2K • 💬 433 • ⏱️ 6:48 • 13h ago
+👁️ 31K • 👍 2K • 💬 433 • ⏱️ 6:48 • 14h ago
 
 ---
 
@@ -363,7 +363,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Hornos de Leña
 
-👁️ 3K • 👍 3K • 2h ago
+👁️ 3K • 👍 3K • 3h ago
 
 ---
 
@@ -383,7 +383,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 MCI MOSQUERA
 
-👁️ 5K • 👍 3K • 5h ago
+👁️ 5K • 👍 3K • 6h ago
 
 ---
 

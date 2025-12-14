@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T20:01:40.556587+00:00'
+updated: '2025-12-14T20:31:56.950941+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 20:01 UTC  
+**Last Updated:** December 14, 2025 at 20:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ A lot of AI image tools are powerful, but they rely heavily on long, precise pro
 
 The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
 
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 19h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 20h ago
 
 ---
 
@@ -85,7 +85,7 @@ Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom c
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -93,7 +93,15 @@ Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom c
 
 Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
 
-9h ago
+10h ago
+
+---
+
+**[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
+
+An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
+
+🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 18h ago
 
 ---
 
@@ -102,14 +110,6 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
 🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 4h ago
-
----
-
-**[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
-
-An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
-
-🔗 [LearnGupt](https://scienceclock.com/ai-agent-beats-human-hackers-in-stanford-cybersecurity-experiment/) • 17h ago
 
 ---
 
@@ -125,17 +125,17 @@ The Atlantic • 8h ago
 
 ---
 
+**[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
+
+Bloomberg.com • 6h ago
+
+---
+
 **[The hot trade: hedging against the AI bubble popping](https://seekingalpha.com/news/4531252-the-hot-trade-hedging-against-the-ai-bubble-popping)**
 
 Understood! Please provide the article or its content so I can generate the meta description.
 
-Seeking Alpha • 52m ago
-
----
-
-**[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
-
-Bloomberg.com • 6h ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -143,13 +143,21 @@ Bloomberg.com • 6h ago
 
 Dimon added that people who possess soft skills will have "plenty of jobs."
 
-Fortune • 10h ago
+Fortune • 11h ago
+
+---
+
+**[OpenAI's head of Codex says the bottleneck to AGI is humanity's inability to type fast enough](https://www.businessinsider.com/openai-artificial-general-intelligence-bottleneck-human-typing-speed-2025-12)**
+
+OpenAI's Alexander Embiricos, who leads product development for its coding platform, said the need to review AI's work with prompts is limiting progress.
+
+Business Insider • 4m ago
 
 ---
 
 **[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
 
-The Economist • 8h ago
+The Economist • 9h ago
 
 ---
 
@@ -163,7 +171,7 @@ CNN • 2d ago
 
 **[It's beginning to look a lot like (AI) Christmas](https://www.axios.com/2025/12/14/ai-christmas-nativity-visuals-sermons-jesus)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -183,12 +191,6 @@ WIRED • 13h ago
 
 ---
 
-**[Exclusive | OpenAI Ends ‘Vesting Cliff’ for New Employees in Compensation-Policy Change](https://www.wsj.com/tech/ai/openai-ends-vesting-cliff-for-new-employees-in-compensation-policy-change-d4c4c2cd?gaa_at=eafs&gaa_n=AWEtsqf5qLFU4bBVi-NT5pVjC3dh_Ap3hNgAeHX-9Jz4xIO8l4wj_GpWPwbH&gaa_ts=693f185e&gaa_sig=F9h11OgXzoeYwJDVZtVsLb92Tm79PAJBZf4AglR9sFcGfl_RvMnBLUs_rZ9e8DxlpwCCG91aHqfWP4vGMQL8iA%3D%3D)**
-
-The Wall Street Journal • 20h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -197,13 +199,13 @@ The Wall Street Journal • 20h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 526 • 💬 284 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 526 • 💬 285 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 411 • 💬 405 • 1d ago
+⬆️ 414 • 💬 405 • 1d ago
 
 ---
 
@@ -211,7 +213,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 173 • 💬 122 • 2d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 173 • 💬 123 • 2d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -219,7 +221,7 @@ A summary of the techniques in place to protect my git forge
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 164 • 💬 52 • 6h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 172 • 💬 62 • 7h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -235,7 +237,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 130 • 💬 83 • 18h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 130 • 💬 84 • 18h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -243,7 +245,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 124 • 💬 182 • 7h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 125 • 💬 185 • 8h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -251,7 +253,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 82 • 💬 128 • 1d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 82 • 💬 128 • 2d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -259,13 +261,13 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 Brian Merchant has been collecting personal stories for his series AI Killed My Job - previously covering tech workers, translators, and artists - and this latest piece includes anecdotes from …
 
-⬆️ 70 • 💬 73 • 10h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
+⬆️ 73 • 💬 76 • 10h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
 
 ---
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 62 • 💬 56 • 23h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 63 • 💬 57 • 23h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -329,7 +331,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 143K • 👍 10K • 💬 2K • ⏱️ 16:45 • 20h ago
+👁️ 143K • 👍 10K • 💬 2K • ⏱️ 16:45 • 21h ago
 
 ---
 
@@ -359,7 +361,7 @@ INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainew
 
 📺 AI Search
 
-👁️ 58K • 👍 3K • 💬 350 • ⏱️ 47:09 • 16h ago
+👁️ 58K • 👍 3K • 💬 350 • ⏱️ 47:09 • 17h ago
 
 ---
 
@@ -385,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,694 • 6d ago
+⬇️ 277,583 • ❤️ 2,695 • 6d ago
 
 ---
 
@@ -445,7 +447,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 35,747 • ❤️ 275 • 5d ago
+⬇️ 35,747 • ❤️ 276 • 5d ago
 
 ---
 
@@ -509,7 +511,7 @@ Apriel-1.6-15B-Thinker is a cost-efficient multimodal reasoning model that excel
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 128 • 💬 6 • ⭐ 17,804 • 3mo ago
+▲ 128 • 💬 6 • ⭐ 17,883 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -556,18 +558,6 @@ A large-scale dataset collection, The Well, provides diverse numerical simulatio
 
 ---
 
-**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
-
-*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
-
-A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
-
-▲ 6 • 💬 1 • ⭐ 51,061 • 13mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
-
----
-
 **[Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance](https://huggingface.co/papers/2512.08765)**
 
 *Ruihang Chu, Yefei He, Zhekai Chen et al. (13 authors)*
@@ -591,6 +581,18 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 ▲ 19 • 💬 2 • ⭐ 12,035 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
+**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
+
+*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
+
+A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
+
+▲ 6 • 💬 1 • ⭐ 51,071 • 13mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
 
 ---
 
@@ -621,15 +623,15 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
 
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
 
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
 
-▲ 24 • 💬 0 • ⭐ 25,918 • 14mo ago
+▲ 35 • 💬 4 • ⭐ 50,381 • 14mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
 ---
 
@@ -643,7 +645,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.4k • 🔱 2.2k • 11h ago
+⭐ 14.4k • 🔱 2.2k • 12h ago
 
 ---
 
@@ -653,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.8k • 🔱 318 • 2h ago
+⭐ 2.8k • 🔱 319 • 3h ago
 
 ---
 
@@ -723,7 +725,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 14h ago
+⭐ 861 • 🔱 49 • 15h ago
 
 ---
 
