@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T14:44:21.487384+00:00'
+updated: '2025-12-14T14:55:33.904852+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 14:44 UTC  
+**Last Updated:** December 14, 2025 at 14:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[The only one with the honest network](https://www.reddit.com/r/Bitcoin/comments/1pmaboy/the_only_one_with_the_honest_network/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 19h ago
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Forbes • 2h ago
+Forbes • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-CoinDesk • 50m ago
+CoinDesk • 1h ago
 
 ---
 

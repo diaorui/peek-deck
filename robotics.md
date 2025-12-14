@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T14:44:21.496780+00:00'
+updated: '2025-12-14T14:55:33.914382+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 14:44 UTC  
+**Last Updated:** December 14, 2025 at 14:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-6h ago
+7h ago
 
 ---
 

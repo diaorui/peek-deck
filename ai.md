@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T14:44:21.478963+00:00'
+updated: '2025-12-14T14:55:33.896119+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
+- repositories
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 14:44 UTC  
+**Last Updated:** December 14, 2025 at 14:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A lot of AI image tools are powerful, but they rely heavily on long, precise pro
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 16h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 17h ago
 
 ---
 
@@ -85,7 +85,7 @@ The real-time headphone translations experience keeps each speaker’s tone, emp
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ An artificial intelligence agent has shown it can do what even seasoned cybersec
 
 just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. However, i only have dual RTX 2080TIs and training is painfully slow. Currently working on training a model through the tinystories dataset and then will be running eval tests. Ill update when i can with more information. If you want to check it out here it is: https://github.com/Wulfic/AI-OS
 
-11h ago
+12h ago
 
 ---
 
@@ -135,13 +135,13 @@ Fortune • 5h ago
 
 **[It's beginning to look a lot like (AI) Christmas](https://www.axios.com/2025/12/14/ai-christmas-nativity-visuals-sermons-jesus)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
 **[How Trump’s tech advisers overcame a MAGA rebellion over AI](https://www.washingtonpost.com/politics/2025/12/14/trump-ai-executive-order-divisions/)**
 
-The Washington Post • 30m ago
+The Washington Post • 42m ago
 
 ---
 
@@ -251,7 +251,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 62 • 💬 55 • 17h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 62 • 💬 55 • 18h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T14:44:21.493331+00:00'
+updated: '2025-12-14T14:55:33.911049+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 14:44 UTC  
+**Last Updated:** December 14, 2025 at 14:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
+**24h:** -1.0%  
 **7d:** -1.4%  
 **30d:** -2.9%  
 **90d:** -31.6%  
@@ -188,7 +188,7 @@ Yahoo Finance • 1h ago
 
 If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Stock Moe
 
-👁️ 9K • 👍 581 • 💬 38 • ⏱️ 14:28 • 16h ago
+👁️ 9K • 👍 581 • 💬 38 • ⏱️ 14:28 • 17h ago
 
 ---
 
