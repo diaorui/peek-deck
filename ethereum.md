@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T07:48:13.399255+00:00'
+updated: '2025-12-14T07:59:34.973441+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 07:48 UTC  
+**Last Updated:** December 14, 2025 at 07:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -0.5%  
-**30d:** -2.0%  
-**90d:** -31.0%  
-**1y:** -21.5%  
+**24h:** -0.0%  
+**7d:** -0.2%  
+**30d:** -1.8%  
+**90d:** -30.8%  
+**1y:** -21.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.62B
+**Market Cap:** $376.15B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-37.0%
 
 **All-Time Low:** $0.43
-+718399.0%
++719671.6%
 
 ---
 
@@ -160,6 +160,14 @@ Decrypt • 1d ago
 
 ---
 
+**[Key Hyperunit whale expands Ethereum position amid weak prices](https://www.fxstreet.com/cryptocurrencies/news/key-hyperunit-whale-expands-ethereum-position-amid-weak-prices-202512130434)**
+
+A major crypto whale has opened a long position in Ethereum (ETH) worth more than half a billion dollars on the Hyperliquid exchange.
+
+FXStreet • 1d ago
+
+---
+
 **[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
@@ -196,11 +204,11 @@ The Block • 2d ago
 
 ---
 
-**[Should You Buy Ethereum While It's Under $5,000?](https://www.fool.com/investing/2025/12/12/should-you-buy-ethereum-while-its-under-5000/)**
+**[Is Ethereum a Millionaire-Maker?](https://www.fool.com/investing/2025/12/11/is-ethereum-a-millionaire-maker/)**
 
-After an unexpected pullback, could Ethereum be ready to skyrocket in value?
+The world's second-largest cryptocurrency still has considerable upside potential.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -217,12 +225,6 @@ CryptoSlate • 2d ago
 Ethereum was one of the best-performing cryptocurrencies in the market over the past week, with its price jumping mid-week to as high as $3,400.
 
 Bitcoinist.com • 10h ago
-
----
-
-**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqd_jVGCPkyejBR-ZN37aQcya4u-_D6pn-0cBMIsyz-FBZgPIF6orzAm&gaa_ts=693e6941&gaa_sig=z22_RT5vM3DKttVTFazbpZy4AZLuAcdjhdDJp2KABGNQmIrxKMwvKLzC4g0kUlSNn-EiSDpj12aQY9ui_Opr-g%3D%3D)**
-
-Barron's • 2d ago
 
 ---
 

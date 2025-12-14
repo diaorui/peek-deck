@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T07:48:13.393143+00:00'
+updated: '2025-12-14T07:59:34.967360+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 07:48 UTC  
+**Last Updated:** December 14, 2025 at 07:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -0.7%  
-**30d:** -5.5%  
-**90d:** -22.8%  
-**1y:** -13.5%  
+**24h:** -0.5%  
+**7d:** -0.8%  
+**30d:** -5.7%  
+**90d:** -22.9%  
+**1y:** -13.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1799.62B
+**Market Cap:** $1800.87B
 Rank #1
 
-**Circulating Supply:** 19,961,909 BTC
+**Circulating Supply:** 19,961,931 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.4%
 
 **All-Time Low:** $67.81
-+132825.8%
++132967.4%
 
 ---
 
@@ -111,19 +111,19 @@ Yes. Yes we are.
 
 **[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Yes. Yes we are.
 
 A buddy wants to bet me 1 grand.
 
-4h ago
+5h ago
 
 ---
 
@@ -235,7 +235,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 15h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 16h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
