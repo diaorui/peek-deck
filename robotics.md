@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T16:34:03.046102+00:00'
+updated: '2025-12-14T16:51:10.942034+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 16:34 UTC  
+**Last Updated:** December 14, 2025 at 16:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
-4h ago
+5h ago
 
 ---
 
@@ -66,7 +66,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -94,7 +94,7 @@ We’ll be sharing performance and application demos. Comments and discussion ar
 
 Hello! I got a Reachy Mini (the wireless version) and I’m receiving it next week! I want to be able to run my models locally but I’m afraid I don’t have the right setup for this. In total what I have is a MacBook Pro Max M1 (64Go) and an MSI with a 4080. We also have a Lenovo with 5080 but that’s my husband’s and I want my own 😅 Is it worth it to get a 5090? Or would a 5080 do the job? It’s for research purposes (solo) and experimenting with nice powerful models. And do you have a more wallet friendly approach? Also do you recommend just buying the computer or building one? (Which option is cheaper?)
 
-🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 44m ago
+🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 1h ago
 
 ---
 
@@ -246,7 +246,7 @@ Grandmother saves Grandpa from a robotic zebra #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 58K • 👍 618 • 💬 6 • ⏱️ 0:25 • 2h ago
+👁️ 58K • 👍 618 • 💬 6 • ⏱️ 0:25 • 3h ago
 
 ---
 

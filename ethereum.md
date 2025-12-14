@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T16:34:03.042875+00:00'
+updated: '2025-12-14T16:51:10.938812+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 16:34 UTC  
+**Last Updated:** December 14, 2025 at 16:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -0.9%  
-**30d:** -2.4%  
-**90d:** -31.3%  
-**1y:** -21.8%  
+**24h:** -0.5%  
+**7d:** -1.1%  
+**30d:** -2.6%  
+**90d:** -31.4%  
+**1y:** -22.0%  
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 344 • 👍 37 • 💬 2 • ⏱️ 8:04 • 33m ago
+👁️ 344 • 👍 37 • 💬 2 • ⏱️ 8:04 • 50m ago
 
 ---
 
@@ -278,7 +278,7 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 Stock Moe
 
-👁️ 10K • 👍 584 • 💬 38 • ⏱️ 14:28 • 18h ago
+👁️ 10K • 👍 584 • 💬 38 • ⏱️ 14:28 • 19h ago
 
 ---
 
@@ -308,7 +308,7 @@ Account Open From Here - Delta India - (CRYPTO BROKER) https://india.delta.excha
 
 📺 Intelligent Trader
 
-👁️ 5K • 👍 499 • 1h ago
+👁️ 5K • 👍 499 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T16:34:03.036842+00:00'
+updated: '2025-12-14T16:51:10.932795+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 16:34 UTC  
+**Last Updated:** December 14, 2025 at 16:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -1.2%  
-**7d:** -2.0%  
-**30d:** -6.8%  
+**7d:** -1.9%  
+**30d:** -6.7%  
 **90d:** -23.8%  
-**1y:** -14.7%  
+**1y:** -14.6%  
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -117,13 +117,13 @@ Rank #1
 
 Simply lovely
 
-3h ago
+4h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1h ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 20h ago
+x.com • 21h ago
 
 ---
 
@@ -295,7 +295,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 453 • 💬 21 • ⏱️ 21:16 • 19h ago
+👁️ 11K • 👍 453 • 💬 21 • ⏱️ 21:16 • 20h ago
 
 ---
 

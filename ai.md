@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T16:34:03.028279+00:00'
+updated: '2025-12-14T16:51:10.924360+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 16:34 UTC  
+**Last Updated:** December 14, 2025 at 16:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -69,7 +69,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 50m ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 1h ago
 
 ---
 
@@ -85,7 +85,7 @@ The real-time headphone translations experience keeps each speaker’s tone, emp
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-8h ago
+9h ago
 
 ---
 
@@ -231,7 +231,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 124 • 💬 75 • 14h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 124 • 💬 75 • 15h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -389,7 +389,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,689 • 5d ago
+⬇️ 277,583 • ❤️ 2,689 • 6d ago
 
 ---
 
@@ -554,7 +554,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 A large-scale dataset collection, The Well, provides diverse numerical simulations for benchmarking machine learning models in physical systems simulation.
 
-▲ 23 • 💬 2 • ⭐ 1,514 • 12mo ago
+▲ 23 • 💬 2 • ⭐ 1,560 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.00568) • [💻 code](https://github.com/PolymathicAI/the_well)
 
@@ -586,6 +586,18 @@ Wan-Move enhances motion control in video generative models by integrating motio
 
 ---
 
+**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+
+*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+
+DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+
+▲ 19 • 💬 2 • ⭐ 12,035 • 6d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
 **[Promptomatix: An Automatic Prompt Optimization Framework for Large
   Language Models](https://huggingface.co/papers/2507.14241)**
 
@@ -596,18 +608,6 @@ Promptomatix automates prompt optimization for Large Language Models, improving 
 ▲ 17 • 💬 2 • ⭐ 310 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.14241) • [💻 code](https://github.com/SalesforceAIResearch/promptomatix)
-
----
-
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
-
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
-
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
-
-▲ 19 • 💬 2 • ⭐ 11,981 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.8k • 🔱 315 • 52m ago
+⭐ 2.8k • 🔱 317 • 4m ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.7k • 🔱 138 • 6d ago
+⭐ 1.7k • 🔱 139 • 6d ago
 
 ---
 
