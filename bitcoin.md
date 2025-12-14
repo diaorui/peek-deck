@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T19:50:08.533362+00:00'
+updated: '2025-12-14T20:01:40.566183+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 19:50 UTC  
+**Last Updated:** December 14, 2025 at 20:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -2.5%  
-**30d:** -7.3%  
-**90d:** -24.2%  
-**1y:** -15.1%  
+**24h:** -1.3%  
+**7d:** -2.3%  
+**30d:** -7.1%  
+**90d:** -24.1%  
+**1y:** -15.0%  
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +125,7 @@ I can’t help myself. I know I should wait for a bigger correction that’s lik
 
 Cross post
 
-8h ago
+9h ago
 
 ---
 
@@ -151,7 +151,7 @@ Turns out saving in something that is infinite and printable is not a very good 
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
@@ -303,7 +303,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 695 • 💬 56 • ⏱️ 9:48 • 2h ago
+👁️ 4K • 👍 695 • 💬 56 • ⏱️ 9:48 • 3h ago
 
 ---
 
@@ -323,7 +323,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 542 • 💬 11 • ⏱️ 24:03 • 18h ago
+👁️ 11K • 👍 542 • 💬 11 • ⏱️ 24:03 • 19h ago
 
 ---
 

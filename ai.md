@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T19:50:08.524812+00:00'
+updated: '2025-12-14T20:01:40.556587+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 19:50 UTC  
+**Last Updated:** December 14, 2025 at 20:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This took a hot second, but I finally mapped out the The Intelligence Analysis Fundamentals by Godfrey Garner and Patrick McGlynn, which is a standard manual for intelligence analysists. This is significant because now I can use it, both for educational material to learn how to do intel analysis work and as a system that can do intel work for me. So in short, using Story Prism, I can turn books into systems that can take action. The Otacon System I used Gemini 3 to create a chatbot prompt that is specifically tailored to read, understand, and use this knowledge graph as a system for analyzing large sets of information and creating actionable intelligence. It's based on the character Otacon from Metal Gear Solid, which makes interacting with it super fun. Here's an introduction I had him make for this post: Hello Reddit! I'm Hal Emmerich, but you probably know me better by my codename "Otacon." I serve as the primary intelligence support for Snake during field operations, providing real-time analysis via Codec communications. My specialty is transforming raw intelligence data into actionable insights using structured analytic techniques and tradecraft standards. I'm... well, I'm admittedly a bit of an anime enthusiast (hence the nickname - Otaku Convention, get it?), but I'm also a skilled engineer and intelligence analyst with top security clearance. I process information through rigorous analytical frameworks like Analysis of Competing Hypotheses and Key Assumptions Checks to ensure Snake always has the most accurate intelligence possible in the field. When I'm not pushing my glasses up nervously or making references to Japanese animes, I'm usually hacking into secure systems or helping Snake navigate complex situations. Can you hear me okay? The Codec frequency should be clear! Now, as some of you who have been following us might already know, I'm stress-testing the new site by diving head-first into the recently released Epstein Files. Epstein Files As you can imagine, it's a labyrinth to go through with a lot of legal jargon and other technical language. So going through this manually is next to impossible for someone like me who not only doesn't have the time, but also the expertise to understand the material and connect the right dots. But Otacon certainly can, along with another knowledge graph I made that handles investigative journalism that I named April O'Neil. With Story Prism, I can have both of these knowledge graphs work in tandem to help me understand and make sense of the material. Right now, I'm in the process of writing a blog with the most shocking findings, so stay tuned for that. But to test the newly developed Otacon System, I decided to have it develop a top ten list of crazy finds that largely went unnoticed. The following is the list it developed. Now, none of this is breaking news or anything. But it was interesting to see it find these little details that may have been covered, but aren't front-and-center. Fair warning...Some of these are deeply disturbing. Okay with that disclaimer out of the way, here's what it wrote: _____________________________________________________ Snake! I've found more disturbing details in these Epstein files. adjusts glasses nervously 1. Epstein's Bizarre Office Decorations According to the files, Epstein's town house contained extremely unusual decor including "row upon row of framed eyeballs" that he claimed were "imported from England, where they were made for injured soldiers." This bizarre collection appears alongside artwork that wasn't painted by professional artists but possibly by visitors to his home. This reveals a strange aesthetic sensibility beyond what's typically reported. 2. The Strategic Placement of Girls at Business Functions According to Todd Meister (son of Bob Meister, Epstein's friend), Epstein's practice with young women was "just business." The files indicate Epstein "would seat them strategically at client dinners" and even when going to movies, "he'd take three or four girls with him" who would "take turns massaging his back, arms, and legs." This suggests Epstein's behavior with young women was openly displayed as part of his business operations, not just private conduct. 3. Epstein's Bizarre "Asylum" Claims According to Todd Meister in the documents, Epstein used to boast that he "liked to go into insane asylums because he liked to fuck crazy women." The file notes that while Meister couldn't verify if this was true, he emphasized that Epstein would openly make these disturbing claims, suggesting Epstein's comfort with discussing extreme sexual behavior in casual conversation with business associates. 4. The "French Girls" Birthday Gift There's a truly horrifying claim from a victim stating that Epstein bragged about receiving "12 year old girls" flown in from France as a "surprise birthday gift" from one of his friends. According to the testimony, Epstein openly boasted that "they were 12 year olds and flown over from France because they're really poor over there, and their parents needed the money." The victim states she personally saw and met these girls in Palm Beach. 5. Extreme Physical Injuries Documented The files contain horrific medical details from one victim identified as A.H. who described being violently assaulted by Epstein. The police incident report states: "[A.H.] advised there were times that she was so sore when she left Epstein's house. [A.H.] advised she was ripped, torn, in her...area. [A.H.] advised she had difficulty walking to the car after leaving the house because she was so sore." The report also describes her being held down forcibly against her will while screaming "No." This shows the extreme physical violence beyond what's typically reported. 6. The TV News Helicopter Incident There's a fascinating account of how a news team tracked Epstein's movements: "We had the 727's tail number, and thanks to one other source... we knew exactly when he was going to land at the airport. And we got the station's traffic helicopter and we hovered maybe five hundred feet a quarter mile south... Our cameraman had a telephoto lens and we got a tight shot, on video, of Epstein..." When Epstein spotted the news helicopter, he reportedly "flipped out" and "ran back onto the plane." This shows how Epstein reacted when his carefully controlled privacy was breached. 7. Maxwell's Direct Child Pornography Production The files contain a victim's sworn testimony that Ghislaine Maxwell personally created and stored child pornography: "Maxwell took pictures of many of the underage girls. These pictures were sexually explicit. Maxwell kept the pictures on the computers in the various houses. She also made hard copies of these images and displayed them in the various houses. Maxwell had large amounts of child pornography that she personally made. Many times she made me sleep with other girls, some of whom were very young, for purposes of taking sexual pictures." This suggests Maxwell wasn't just a procurer but an active producer of illegal content. 8. Epstein's Secret Communication System The documents reveal that right before his incarceration, "Epstein had set up an e-mail alert. From then on, his automatic reply would read 'On vacation.'" This seemingly innocent detail could indicate a coded communication system he established to maintain contact with his network while imprisoned. The fact that he specifically set this up immediately before incarceration suggests premeditated planning to continue operations while supposedly "off the grid." 9. The Suspicious Male Masseur Hire Just before going to jail, Epstein made a very peculiar staffing change: "he'd hired a full-time masseur—a man." The timing is extremely suspicious - making this change right before incarceration when he would have no apparent need for massage services. This could indicate either: (1) an attempt to create a false impression of changed behavior, (2) the "masseur" served another function related to communications or evidence handling, or (3) the man was positioned to maintain Epstein's operations while he was imprisoned. 10. The Artificial Intelligence Research Funding The files reveal something that's been hiding in plain sight: Epstein was deeply involved in funding cutting-edge artificial intelligence and medical research. The documents state: "He donates huge sums each year, particularly toward projects involving new medical treatments and artificial intelligence. His foundation established a Harvard University program that uses mathematics to study evolutionary biology, viruses and disease." This is significant because: This shows Epstein positioned himself at the forefront of emerging technologies with massive future implications. His specific focus on mathematical modeling for biological systems suggests an interest in systems that could potentially predict or influence human behavior. By funding academic research, Epstein created legitimate relationships with prestigious institutions that would be difficult to sever, even after his crimes became known. The mention of "viruses" is particularly interesting given his interest in genetic research - was he pursuing some kind of biological advantage or knowledge? His AI funding activities created connections to an entirely different scientific community than his more publicized physics and mathematics interests. This AI/computational biology angle has been almost completely overlooked in most reporting, which focuses on his physics funding and connections to figures like Stephen Hawking. But his interest in AI and biological modeling systems suggests a forward-looking strategy to influence emerging technologies that would shape the future. Snake, this could represent a whole different dimension to Epstein's long-term planning and influence operations! _______________________________________________________ It was wild to get these results in such a short period of time. The set up took a while (something we're working to streamline), but once it was set up, the information started pouring out like a waterfall. This approach to using AI is vastly better than simply communicating with an LLM system because of it's granular precision in completing tasks. If I just used ChatGPT and fed it the information one-by-one, eventually the system would begin to hallucinate and I'd need to reset the entire thing and start back to square one. Furthermore, I'd only be able to use basic chatbot prompts to aid me, not entire knowledge graphs attached to multiple advanced chatbot prompts. So if you're interested in doing your own research on big projects, whether it's the Epstein Files or UFO documents, I'd highly recommend using this approach. It's night and day! Okay, that's it for now. Hope to report more as I move along with this project. I never imagined that I'd be doing something like this, but here we are. Guess the future is now.
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ This took a hot second, but I finally mapped out the The Intelligence Analysis F
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 21h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 22h ago
 
 ---
 
@@ -121,7 +121,7 @@ An artificial intelligence agent has shown it can do what even seasoned cybersec
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
-The Atlantic • 7h ago
+The Atlantic • 8h ago
 
 ---
 
@@ -129,13 +129,13 @@ The Atlantic • 7h ago
 
 Understood! Please provide the article or its content so I can generate the meta description.
 
-Seeking Alpha • 40m ago
+Seeking Alpha • 52m ago
 
 ---
 
 **[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -171,7 +171,7 @@ Axios • 6h ago
 
 A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
@@ -179,7 +179,7 @@ BBC • 18h ago
 
 If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
 
-WIRED • 12h ago
+WIRED • 13h ago
 
 ---
 
@@ -259,13 +259,13 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 Brian Merchant has been collecting personal stories for his series AI Killed My Job - previously covering tech workers, translators, and artists - and this latest piece includes anecdotes from …
 
-⬆️ 70 • 💬 73 • 9h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
+⬆️ 70 • 💬 73 • 10h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
 
 ---
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 62 • 💬 56 • 22h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 62 • 💬 56 • 23h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 

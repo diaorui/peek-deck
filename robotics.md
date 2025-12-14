@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T19:50:08.542717+00:00'
+updated: '2025-12-14T20:01:40.575742+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 19:50 UTC  
+**Last Updated:** December 14, 2025 at 20:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[MuJoCo-rs 2.2.0: New release of Rust bindings and idiomatic wrappers around the MuJoCo simulation library](https://www.reddit.com/r/robotics/comments/1pmmtdp/mujocors_220_new_release_of_rust_bindings_and/)**
 
-14m ago
+26m ago
 
 ---
 
@@ -88,7 +88,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-14h ago
+15h ago
 
 ---
 
@@ -120,7 +120,7 @@ The New York Times • 9h ago
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 13h ago
+South China Morning Post • 14h ago
 
 ---
 
@@ -176,7 +176,7 @@ Scientific American • 1d ago
 
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-The Motley Fool • 15m ago
+The Motley Fool • 26m ago
 
 ---
 
