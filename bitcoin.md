@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T11:42:38.804941+00:00'
+updated: '2025-12-14T11:54:04.551347+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 11:42 UTC  
+**Last Updated:** December 14, 2025 at 11:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,239.63
+### $88,950.62
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -1.8%  
-**30d:** -6.6%  
-**90d:** -23.7%  
-**1y:** -14.5%  
+**24h:** -1.4%  
+**7d:** -1.6%  
+**30d:** -6.5%  
+**90d:** -23.6%  
+**1y:** -14.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1790.03B
+**Market Cap:** $1779.19B
 Rank #1
 
 **Circulating Supply:** 19,961,950 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-29.3%
 
 **All-Time Low:** $67.81
-+132103.2%
++131427.8%
 
 ---
 
@@ -83,9 +83,15 @@ Rank #1
 
 ---
 
-**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
+**[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-12h ago
+6h ago
+
+---
+
+**[The only one with the honest network](https://www.reddit.com/r/Bitcoin/comments/1pmaboy/the_only_one_with_the_honest_network/)**
+
+2h ago
 
 ---
 
@@ -101,21 +107,15 @@ Rank #1
 
 ---
 
-**[The only one with the honest network](https://www.reddit.com/r/Bitcoin/comments/1pmaboy/the_only_one_with_the_honest_network/)**
-
-1h ago
-
----
-
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
 13h ago
 
 ---
 
-**[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
+**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-6h ago
+12h ago
 
 ---
 
@@ -167,11 +167,11 @@ The Motley Fool • 2h ago
 
 ---
 
-**[Crypto Promoter “Bitcoin Rodney” Faces Up to 20 Years on New Charges](https://finance.yahoo.com/news/crypto-promoter-bitcoin-rodney-faces-080900466.html)**
+**[Covered Call Selling by Bitcoin Whales Is Weighing on Spot Prices, Analyst Says](https://finance.yahoo.com/news/covered-call-selling-bitcoin-whales-103000640.html)**
 
-Rodney Burton, a 56-year-old crypto promoter known online as “Bitcoin Rodney,” is facing expanded federal charges tied to his alleged role in promoting the $1.8 billion HyperFund cryptocurrency scheme. Key Takeaways: US prosecutors expanded charges against “Bitcoin Rodney” over the $1.8B HyperFund scheme. Burton faces decades in prison after being ...
+Bitcoin’s struggle to regain upside momentum near the $90,000 level may be less about weak demand and more about how large, long-term holders are managing their exposure, according to market analyst Jeff Park. Key Takeaways: Bitcoin’s muted price action near $90,000 is being driven by covered call selling from long-term ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -213,11 +213,9 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Price Forecast Tools And Cycle Valuation Metrics](https://bitcoinmagazine.com/markets/bitcoin-price-forecast-valuation-metrics)**
+**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
 
-This One Chart Has Never Missed a Bitcoin Price Top or Bottom in 15 Years
-
-Bitcoin Magazine • 1d ago
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -297,23 +295,13 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN FORECASTED TO HIT LOWS OF $75K THIS YEAR...](https://www.youtube.com/watch?v=y7BqjDKw6rY)**
-
-Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250000 by the end of 2025, roused by President ...
-
-📺 Ricky Gutierrez
-
-👁️ 7K • 👍 316 • 💬 71 • ⏱️ 12:56 • 11h ago
-
----
-
 **[&quot;My 2026 Bitcoin Prediction Will Offend Both Bulls and Bears&quot; - Raoul Pal Blows Hot!](https://www.youtube.com/watch?v=5tnxmCQE6X8)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 353 • 💬 18 • ⏱️ 21:16 • 15h ago
+👁️ 9K • 👍 386 • 💬 21 • ⏱️ 21:16 • 15h ago
 
 ---
 
@@ -323,17 +311,7 @@ It's official: every U.S. bank now has the green light to sell Bitcoin. Is this 
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 690 • 💬 102 • ⏱️ 31:28 • 11h ago
-
----
-
-**[BITCOIN: THIS IS MASSIVE NEWS!!!](https://www.youtube.com/watch?v=R2dXGF8B928)**
-
-Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BUUID2 (up to $2200 USDT) My Strategy ...
-
-📺 Conor Kenny
-
-👁️ 4K • 👍 302 • 💬 56 • ⏱️ 9:44 • 5h ago
+👁️ 15K • 👍 737 • 💬 107 • ⏱️ 31:28 • 11h ago
 
 ---
 
@@ -343,7 +321,17 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 8K • 👍 444 • 💬 112 • ⏱️ 14:22 • 16h ago
+👁️ 8K • 👍 451 • 💬 123 • ⏱️ 14:22 • 16h ago
+
+---
+
+**[BITCOIN FORECASTED TO HIT LOWS OF $75K THIS YEAR...](https://www.youtube.com/watch?v=y7BqjDKw6rY)**
+
+Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250000 by the end of 2025, roused by President ...
+
+📺 Ricky Gutierrez
+
+👁️ 7K • 👍 335 • 💬 73 • ⏱️ 12:56 • 11h ago
 
 ---
 
@@ -353,37 +341,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 24 • ⏱️ 48:39 • 21h ago
-
----
-
-**[HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News!](https://www.youtube.com/watch?v=2NvsmJHSRcs)**
-
-HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S FREE CRYPTO WEALTH NEWSLETTER: ...
-
-📺 Austin Hilton
-
-👁️ 11K • 👍 570 • 💬 52 • ⏱️ 5:30 • 19h ago
-
----
-
-**[BITCOIN: SELL EVERYTHING NOW....?](https://www.youtube.com/watch?v=fJkHu5C7lkQ)**
-
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
-
-📺 Crypto Rover
-
-👁️ 4K • 👍 320 • 💬 28 • ⏱️ 6:48 • 6h ago
-
----
-
-**[it&#39;s boring, but this is how you get rich with bitcoin in 2026](https://www.youtube.com/watch?v=Yd9qNj57b-A)**
-
-these 6 boring habits don't look impressive… but they're how I plan to win with bitcoin in 2026 Check out the Blockstream Jade ...
-
-📺 BTC Isla
-
-👁️ 18K • 👍 2K • 💬 237 • ⏱️ 10:24 • 1d ago
+👁️ 45K • 👍 2K • 💬 24 • ⏱️ 48:39 • 21h ago
 
 ---
 
@@ -393,7 +351,47 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 204 • 💬 11 • ⏱️ 21:14 • 20h ago
+👁️ 5K • 👍 209 • 💬 12 • ⏱️ 21:14 • 20h ago
+
+---
+
+**[Fed Restarts QE? Why This $54B Pivot Changes Everything for Bitcoin!](https://www.youtube.com/watch?v=UT9Ok-n-G4I)**
+
+The Fed just restarted the money printer — call it “reserve management,” but liquidity is rising fast. Bitcoin is now approved as ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 2K • 💬 100 • ⏱️ 16:27 • 1d ago
+
+---
+
+**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
+
+EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
+
+📺 Altcoin Daily
+
+👁️ 57K • 👍 3K • 💬 275 • ⏱️ 31:03 • 1d ago
+
+---
+
+**[Bitcoin Can SAVE America! (Debt Crisis Solution NOBODY Talks About)](https://www.youtube.com/watch?v=7wsf5P-_eQs)**
+
+America is drowning in debt—and politicians aren't telling you the real solution. In this video, we break down how Bitcoin could ...
+
+📺 Discover Crypto
+
+👁️ 4K • 👍 181 • 💬 23 • ⏱️ 7:25 • 20h ago
+
+---
+
+**[BITCOIN: SELL EVERYTHING NOW....?](https://www.youtube.com/watch?v=fJkHu5C7lkQ)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
+
+📺 Crypto Rover
+
+👁️ 6K • 👍 415 • 💬 43 • ⏱️ 6:48 • 6h ago
 
 ---
 

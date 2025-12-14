@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T11:42:38.811153+00:00'
+updated: '2025-12-14T11:54:04.557391+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 11:42 UTC  
+**Last Updated:** December 14, 2025 at 11:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,119.48
+### $3,071.60
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -1.3%  
-**30d:** -2.8%  
-**90d:** -31.6%  
-**1y:** -22.1%  
+**24h:** -1.6%  
+**7d:** -2.0%  
+**30d:** -3.5%  
+**90d:** -32.0%  
+**1y:** -22.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.68B
+**Market Cap:** $371.09B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.4%
+-37.9%
 
 **All-Time Low:** $0.43
-+715558.3%
++709819.0%
 
 ---
 
@@ -168,19 +168,19 @@ FXStreet • 1d ago
 
 ---
 
+**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
+
+If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+
+The Motley Fool • 24m ago
+
+---
+
 **[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
 
 Sentiment around Ethereum has been bouncing around considerably in recent days.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
-
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
-
-CoinDesk • 1d ago
 
 ---
 
@@ -198,25 +198,25 @@ AMBCrypto • 12h ago
 
 ---
 
-**[XRP Mildly Undervalued On MVRV: What About Bitcoin, Ethereum?](https://www.tradingview.com/news/newsbtc:800854a3e094b:0-xrp-mildly-undervalued-on-mvrv-what-about-bitcoin-ethereum/)**
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
 
-XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-TradingView — Track All Markets • 1d ago
+CoinDesk • 1d ago
+
+---
+
+**[If This Ethereum Bear Flag Pattern Holds, ETH Price Could Be On Its Way To $2,400](https://www.tradingview.com/news/newsbtc:e4cff0ce0094b:0-if-this-ethereum-bear-flag-pattern-holds-eth-price-could-be-on-its-way-to-2-400/)**
+
+Since early October, when the Ethereum price began its dive into bearish territory, it has struggled to regain any of its significant price levels. The Ether token failed to hold at multiple support zones throughout November, as it plunged downwards. While Ethereum appears to be gaining bullish mom…
+
+TradingView — Track All Markets • 18h ago
 
 ---
 
 **['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
 
 The Block • 3d ago
-
----
-
-**[Should You Buy Ethereum While It's Under $5,000?](https://www.fool.com/investing/2025/12/12/should-you-buy-ethereum-while-its-under-5000/)**
-
-After an unexpected pullback, could Ethereum be ready to skyrocket in value?
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ CryptoSlate • 2d ago
 
 📺 Stock Moe
 
-👁️ 9K • 👍 546 • 💬 37 • ⏱️ 14:28 • 13h ago
+👁️ 9K • 👍 554 • 💬 37 • ⏱️ 14:28 • 14h ago
 
 ---
 
@@ -248,17 +248,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 272 • ⏱️ 31:03 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zVOGjXgpUBg)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 942 • 👍 74 • 💬 4 • ⏱️ 4:34 • 7h ago
+👁️ 57K • 👍 3K • 💬 275 • ⏱️ 31:03 • 1d ago
 
 ---
 
@@ -268,7 +258,17 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 43 • 💬 16 • ⏱️ 15:09 • 13h ago
+👁️ 1K • 👍 45 • 💬 16 • ⏱️ 15:09 • 13h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zVOGjXgpUBg)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 93 • 💬 4 • ⏱️ 4:34 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ Tom Lee just reversed his Ethereum outlook after previously calling for a drop t
 
 📺 Ivan on Tech
 
-👁️ 29K • 👍 2K • 💬 122 • ⏱️ 10:42 • 2d ago
+👁️ 29K • 👍 2K • 💬 123 • ⏱️ 10:42 • 2d ago
 
 ---
 
@@ -308,27 +308,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 204 • 💬 11 • ⏱️ 21:14 • 20h ago
+👁️ 5K • 👍 209 • 💬 12 • ⏱️ 21:14 • 20h ago
 
 ---
 
-**[I WAS WRONG! DUMP COMING?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=Dssynvk4AUg)**
+**[🍗 Stop Gooning: Tom Lee just bought more Ethereum !! (A Nancy Pelosi Gooner Explains...)](https://www.youtube.com/watch?v=EelXTAqTPrw)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
 
-📺 Cilinix Crypto
+📺 🌟yourfriendsommi
 
-👁️ 401 • 👍 18 • 💬 2 • ⏱️ 4:09 • 1d ago
+👁️ 577 • 👍 95 • 💬 8 • ⏱️ 27:17 • 3h ago
 
 ---
 
-**[BTC, ETH, &amp; Crypto Refuse To Pump In Face Of Insane News!](https://www.youtube.com/watch?v=-2iVyJP6LAs)**
+**[Bitcoin &amp; Ethereum. Das typische Wochenende hat dieses Ende, bereite dich vor!](https://www.youtube.com/watch?v=NLMf-0_YqjU)**
 
-Crypto markets remain stubborn as huge news keeps flowing in! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
 
-📺 Lark Davis
+📺 Krypto Trading & Investing
 
-👁️ 14K • 👍 649 • 💬 60 • ⏱️ 48:17 • 1d ago
+👁️ 3K • 👍 563 • 💬 104 • ⏱️ 11:13 • 6h ago
 
 ---
 

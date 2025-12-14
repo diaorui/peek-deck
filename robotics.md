@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T11:42:38.814469+00:00'
+updated: '2025-12-14T11:54:04.560692+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 11:42 UTC  
+**Last Updated:** December 14, 2025 at 11:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,6 +48,14 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 ---
 
+**[Unitree Debuts the World’s First Humanoid Robot “App Store”. It welcomes users and developers worldwide to co-develop and share together. Exceptional developers will receive rewards.](https://www.reddit.com/r/robotics/comments/1pmc3du/unitree_debuts_the_worlds_first_humanoid_robot/)**
+
+From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
+
+14m ago
+
+---
+
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
 14h ago
@@ -64,7 +72,7 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 **[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -86,7 +94,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Marché Humanoides - Premiers gagnants : VPG MVIS HarmonicDriveSystem... etc.](https://www.reddit.com/r/robotics/comments/1pmbflm/marché_humanoides_premiers_gagnants_vpg_mvis/)**
 
-44m ago
+56m ago
 
 ---
 
@@ -95,12 +103,6 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
 
 9h ago
-
----
-
-**[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
-
-21h ago
 
 ---
 
@@ -130,11 +132,11 @@ South China Morning Post • 5h ago
 
 ---
 
-**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
 
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
+Making safe and regulated humanoids is a core mission of the summit and participants.
 
-AP News • 1d ago
+ABC7 San Francisco • 2d ago
 
 ---
 
@@ -170,14 +172,6 @@ Scientific American • 1d ago
 
 ---
 
-**[A national robotics strategy is necessary to reshore manufacturing, says the Congressional Robotics Caucus](https://www.therobotreport.com/national-robotics-strategy-needed-reshore-manufacturing-says-congressional-robotics-caucus/)**
-
-The Congressional Robotics Caucus says a unified strategy is needed for U.S. economic and military competitiveness.
-
-The Robot Report • 1d ago
-
----
-
 **[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://www.fool.com/investing/2025/12/13/94-billion-robotics-market-set-to-surge-300-1-etf/)**
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
@@ -186,19 +180,17 @@ The Motley Fool • 16h ago
 
 ---
 
+**[PNG robotics students, parents persevere despite theft of trailer filled with equipment](https://kfdm.com/news/local/png-robotics-students-parents-persevere-despite-theft-of-trailer-filled-with-equipment)**
+
+The Port Neches-Groves High School robotics team isn't letting the theft of a pickup truck and trailer filled with its equipment prevent it from competing in th
+
+KFDM • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
-
-In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
-
-📺 Google DeepMind
-
-👁️ 216K • 👍 6K • 💬 491 • ⏱️ 17:44 • 3d ago
-
----
 
 **[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
 
@@ -206,7 +198,17 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 122K • 👍 2K • 💬 850 • ⏱️ 14:26 • 5d ago
+👁️ 122K • 👍 2K • 💬 870 • ⏱️ 14:26 • 5d ago
+
+---
+
+**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+
+In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+
+📺 Google DeepMind
+
+👁️ 220K • 👍 6K • 💬 494 • ⏱️ 17:44 • 3d ago
 
 ---
 
@@ -216,7 +218,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 17K • 👍 963 • 💬 53 • ⏱️ 0:34 • 3h ago
+👁️ 38K • 👍 2K • 💬 90 • ⏱️ 0:34 • 3h ago
 
 ---
 
@@ -226,17 +228,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 15K • 👍 79 • 💬 24 • ⏱️ 1:26 • 1d ago
-
----
-
-**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
-
-Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
-
-📺 TheAIGRID
-
-👁️ 19K • 👍 509 • 💬 118 • ⏱️ 42:48 • 6d ago
+👁️ 16K • 👍 81 • 💬 25 • ⏱️ 1:26 • 1d ago
 
 ---
 
@@ -244,7 +236,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 17K • 👍 216 • 💬 11 • ⏱️ 0:11 • 23h ago
+👁️ 18K • 👍 237 • 💬 11 • ⏱️ 0:11 • 23h ago
 
 ---
 
@@ -254,7 +246,17 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 70K • 👍 712 • 💬 16 • ⏱️ 0:09 • 1d ago
+👁️ 71K • 👍 723 • 💬 16 • ⏱️ 0:09 • 1d ago
+
+---
+
+**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
+
+Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
+
+📺 TheAIGRID
+
+👁️ 19K • 👍 512 • 💬 118 • ⏱️ 42:48 • 6d ago
 
 ---
 
@@ -264,7 +266,17 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 189K • 👍 907 • 💬 303 • ⏱️ 0:47 • 5d ago
+👁️ 189K • 👍 909 • 💬 303 • ⏱️ 0:47 • 5d ago
+
+---
+
+**[This Is How Humans Will Live With Robots #humanoidrobot #robotics](https://www.youtube.com/watch?v=pD_5FiBMOiY)**
+
+This is how humans will live with robots. Not in factories. Not in science fiction movies. But inside our homes, our kitchens, our ...
+
+📺 Yasin Öğretmen
+
+👁️ 1K • 👍 38 • 💬 1 • ⏱️ 1:01 • 16h ago
 
 ---
 
@@ -274,17 +286,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 20K • 👍 195 • 💬 1 • ⏱️ 0:09 • 1d ago
-
----
-
-**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
-
-Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
-
-📺 Kalil 4.0
-
-👁️ 24K • 👍 209 • 💬 27 • ⏱️ 0:27 • 6d ago
+👁️ 20K • 👍 199 • 💬 1 • ⏱️ 0:09 • 1d ago
 
 ---
 
