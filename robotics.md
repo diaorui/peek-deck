@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T10:55:41.407744+00:00'
+updated: '2025-12-14T11:18:50.737717+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 10:55 UTC  
+**Last Updated:** December 14, 2025 at 11:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,39 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Loop closure grasping (Research Article Science). During grasp creation, the robot uses an open-loop topology, allowing free, unconstrained motion to wrap around objects of almost any shape.](https://www.reddit.com/r/robotics/comments/1plirjg/loop_closure_grasping_research_article_science/)**
-
-Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
-
-23h ago
-
----
-
 **[Next gen drones infrastructure by Zipline](https://www.reddit.com/r/robotics/comments/1pmam73/next_gen_drones_infrastructure_by_zipline/)**
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-50m ago
+1h ago
+
+---
+
+**[Loop closure grasping (Research Article Science). During grasp creation, the robot uses an open-loop topology, allowing free, unconstrained motion to wrap around objects of almost any shape.](https://www.reddit.com/r/robotics/comments/1plirjg/loop_closure_grasping_research_article_science/)**
+
+Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
+
+1d ago
 
 ---
 
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-13h ago
+14h ago
+
+---
+
+**[What kind of transmission that made this possible?](https://www.reddit.com/r/robotics/comments/1pmao9y/what_kind_of_transmission_that_made_this_possible/)**
+
+I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
+
+1h ago
+
+---
+
+**[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
+
+3h ago
 
 ---
 
@@ -58,13 +72,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-5h ago
-
----
-
-**[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
-
-3h ago
+6h ago
 
 ---
 
@@ -76,11 +84,9 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 ---
 
-**[What kind of transmission that made this possible?](https://www.reddit.com/r/robotics/comments/1pmao9y/what_kind_of_transmission_that_made_this_possible/)**
+**[Marché Humanoides - Premiers gagnants : VPG MVIS HarmonicDriveSystem... etc.](https://www.reddit.com/r/robotics/comments/1pmbflm/marché_humanoides_premiers_gagnants_vpg_mvis/)**
 
-I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
-
-47m ago
+20m ago
 
 ---
 
@@ -98,21 +104,13 @@ What's up guys, I posted about this PX4 SIL simulator earlier this year and got 
 
 ---
 
-**[Why humanoid robots aren’t ready for the real world yet.](https://www.reddit.com/r/robotics/comments/1pls9at/why_humanoid_robots_arent_ready_for_the_real/)**
-
-General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
-
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 16h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 53m ago
+The New York Times • 1h ago
 
 ---
 
@@ -128,15 +126,15 @@ Fortune • 19h ago
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 4h ago
+South China Morning Post • 5h ago
 
 ---
 
-**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
+**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
 
-Making safe and regulated humanoids is a core mission of the summit and participants.
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
 
-ABC7 San Francisco • 2d ago
+AP News • 1d ago
 
 ---
 
@@ -168,7 +166,7 @@ Yahoo Finance • 4d ago
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 23h ago
+Scientific American • 1d ago
 
 ---
 
@@ -218,7 +216,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 17K • 👍 963 • 💬 53 • ⏱️ 0:34 • 2h ago
+👁️ 17K • 👍 963 • 💬 53 • ⏱️ 0:34 • 3h ago
 
 ---
 

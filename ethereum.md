@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T10:55:41.404546+00:00'
+updated: '2025-12-14T11:18:50.734519+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 10:55 UTC  
+**Last Updated:** December 14, 2025 at 11:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.4%  
-**7d:** -0.5%  
-**30d:** -2.0%  
-**90d:** -31.0%  
-**1y:** -21.5%  
+**7d:** -0.7%  
+**30d:** -2.3%  
+**90d:** -31.2%  
+**1y:** -21.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.65B
+**Market Cap:** $374.68B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-37.4%
 
 **All-Time Low:** $0.43
-+718117.3%
++715558.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm trying to grasp the ultimate plan for the ETH blockchain based upon improvement proposals as well as live metrics in order to understand what developers want for the blockchain. Ultimately this is to sell an SLT to possibly invest into ETH. I'm glad that the latest update has made ETH cheaper to transact in which will help with day to day transactions, however this has made the supply inflationary as the burn rate is lower. Is the goal to have a slight amount of inflation? Is the goal to have an elastic supply where issuance and burn rate are roughly the same? or is the goal for a strictly deflationary supply? From a value proposition this matters and I feel like the Devs haven't really put their feet down on what their intentions are. (I could be very wrong.) My main criticism of the first smart contract project is that they often don't clarify their thoughts until there is a bull run. I'm open to thoughts, articles and conversation. I'm just trying to educate myself as much as possible. Thank you in advance.
 
-8h ago
+9h ago
 
 ---
 
@@ -194,7 +194,7 @@ Binance • 2d ago
 
 Ethereum approaches whale levels: Is greed fueling the next crash?
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -206,17 +206,17 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
+**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
+
+The Block • 3d ago
+
+---
+
 **[Should You Buy Ethereum While It's Under $5,000?](https://www.fool.com/investing/2025/12/12/should-you-buy-ethereum-while-its-under-5000/)**
 
 After an unexpected pullback, could Ethereum be ready to skyrocket in value?
 
 The Motley Fool • 1d ago
-
----
-
-**['Ethereum has already bottomed': Tom Lee's BitMine reportedly adds $112 million in ETH to treasury](https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury)**
-
-The Block • 3d ago
 
 ---
 
@@ -308,7 +308,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 204 • 💬 11 • ⏱️ 21:14 • 19h ago
+👁️ 5K • 👍 204 • 💬 11 • ⏱️ 21:14 • 20h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 401 • 👍 18 • 💬 2 • ⏱️ 4:09 • 23h ago
+👁️ 401 • 👍 18 • 💬 2 • ⏱️ 4:09 • 1d ago
 
 ---
 

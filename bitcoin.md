@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T10:55:41.398577+00:00'
+updated: '2025-12-14T11:18:50.728611+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 10:55 UTC  
+**Last Updated:** December 14, 2025 at 11:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,809.00
+### $89,448.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -1.1%  
+**24h:** -0.7%  
+**7d:** -1.0%  
 **30d:** -5.9%  
-**90d:** -23.1%  
-**1y:** -13.9%  
+**90d:** -23.0%  
+**1y:** -13.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1796.17B
+**Market Cap:** $1790.03B
 Rank #1
 
 **Circulating Supply:** 19,961,950 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.9%
 
 **All-Time Low:** $67.81
-+132756.5%
++132103.2%
 
 ---
 
@@ -101,21 +101,21 @@ Rank #1
 
 ---
 
+**[The only one with the honest network](https://www.reddit.com/r/Bitcoin/comments/1pmaboy/the_only_one_with_the_honest_network/)**
+
+1h ago
+
+---
+
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-5h ago
-
----
-
-**[The only one with the honest network](https://www.reddit.com/r/Bitcoin/comments/1pmaboy/the_only_one_with_the_honest_network/)**
-
-1h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 Yes. Yes we are.
 
-18h ago
+19h ago
 
 ---
 
@@ -145,11 +145,33 @@ This will age well in 10 years. See you then.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
+**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
 
-Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
+Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
 
-Yahoo Finance • 21h ago
+CoinDesk • 16h ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+
+Reuters • 1d ago
+
+---
+
+**[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
+
+Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Crypto Promoter “Bitcoin Rodney” Faces Up to 20 Years on New Charges](https://finance.yahoo.com/news/crypto-promoter-bitcoin-rodney-faces-080900466.html)**
+
+Rodney Burton, a 56-year-old crypto promoter known online as “Bitcoin Rodney,” is facing expanded federal charges tied to his alleged role in promoting the $1.8 billion HyperFund cryptocurrency scheme. Key Takeaways: US prosecutors expanded charges against “Bitcoin Rodney” over the $1.8B HyperFund scheme. Burton faces decades in prison after being ...
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -177,31 +199,9 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
-
-Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
-
-The Motley Fool • 1h ago
-
----
-
-**[Crypto Promoter “Bitcoin Rodney” Faces Up to 20 Years on New Charges](https://finance.yahoo.com/news/crypto-promoter-bitcoin-rodney-faces-080900466.html)**
-
-Rodney Burton, a 56-year-old crypto promoter known online as “Bitcoin Rodney,” is facing expanded federal charges tied to his alleged role in promoting the $1.8 billion HyperFund cryptocurrency scheme. Key Takeaways: US prosecutors expanded charges against “Bitcoin Rodney” over the $1.8B HyperFund scheme. Burton faces decades in prison after being ...
-
-Yahoo Finance • 2h ago
-
----
-
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
 x.com • 15h ago
-
----
-
-**[Quantum Computing Could Bring Bitcoin Chaos. The Rush Is On To Stop Crypto-geddon.](https://www.investors.com/news/technology/quantum-computing-bitcoin-chaos-cryptocurrency/)**
-
-Investor's Business Daily • 1d ago
 
 ---
 
@@ -213,11 +213,11 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?](https://finance.yahoo.com/news/bitcoin-2030-price-prediction-btc-144212543.html)**
+**[Bitcoin Price Forecast Tools And Cycle Valuation Metrics](https://bitcoinmagazine.com/markets/bitcoin-price-forecast-valuation-metrics)**
 
-Bitcoin (CRYPTO: BTC) enters the final stretch of the decade with its biggest question yet: can BTC climb to the $500K–$1M range as adoption deepens and supply tightens? The past six months show how quickly momentum can shift, but the long-term picture depends on forces far bigger than short-term price swings. Spot Bitcoin ETFs, sovereign ... Bitcoin 2030 Price Prediction: Will BTC Hit $500K or $1M?
+This One Chart Has Never Missed a Bitcoin Price Top or Bottom in 15 Years
 
-Yahoo Finance • 20h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ Yahoo Finance • 20h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 6 • 💬 1 • 17h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 6 • 💬 1 • 18h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -237,7 +237,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 18h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 19h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -303,7 +303,7 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 7K • 👍 316 • 💬 71 • ⏱️ 12:56 • 10h ago
+👁️ 7K • 👍 316 • 💬 71 • ⏱️ 12:56 • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ It's official: every U.S. bank now has the green light to sell Bitcoin. Is this 
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 690 • 💬 102 • ⏱️ 31:28 • 10h ago
+👁️ 14K • 👍 690 • 💬 102 • ⏱️ 31:28 • 11h ago
 
 ---
 
@@ -343,7 +343,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 8K • 👍 444 • 💬 112 • ⏱️ 14:22 • 15h ago
+👁️ 8K • 👍 444 • 💬 112 • ⏱️ 14:22 • 16h ago
 
 ---
 
@@ -353,7 +353,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 24 • ⏱️ 48:39 • 20h ago
+👁️ 43K • 👍 2K • 💬 24 • ⏱️ 48:39 • 21h ago
 
 ---
 
@@ -363,7 +363,7 @@ HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S F
 
 📺 Austin Hilton
 
-👁️ 11K • 👍 570 • 💬 52 • ⏱️ 5:30 • 18h ago
+👁️ 11K • 👍 570 • 💬 52 • ⏱️ 5:30 • 19h ago
 
 ---
 
@@ -393,7 +393,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 204 • 💬 11 • ⏱️ 21:14 • 19h ago
+👁️ 5K • 👍 204 • 💬 11 • ⏱️ 21:14 • 20h ago
 
 ---
 
