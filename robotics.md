@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T20:31:56.968857+00:00'
+updated: '2025-12-14T20:46:46.200580+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 20:31 UTC  
+**Last Updated:** December 14, 2025 at 20:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[MuJoCo-rs 2.2.0: New release of Rust bindings and idiomatic wrappers around the MuJoCo simulation library](https://www.reddit.com/r/robotics/comments/1pmmtdp/mujocors_220_new_release_of_rust_bindings_and/)**
 
-56m ago
+1h ago
 
 ---
 
@@ -144,7 +144,7 @@ ABC7 San Francisco • 2d ago
 
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-The Motley Fool • 56m ago
+The Motley Fool • 1h ago
 
 ---
 

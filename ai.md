@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T20:31:56.950941+00:00'
+updated: '2025-12-14T20:46:46.182704+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 20:31 UTC  
+**Last Updated:** December 14, 2025 at 20:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-8h ago
+9h ago
 
 ---
 
@@ -79,7 +79,7 @@ The real-time headphone translations experience keeps each speaker’s tone, emp
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-12h ago
+13h ago
 
 ---
 
@@ -109,7 +109,7 @@ An artificial intelligence agent has shown it can do what even seasoned cybersec
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 4h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 5h ago
 
 ---
 
@@ -151,7 +151,7 @@ Fortune • 11h ago
 
 OpenAI's Alexander Embiricos, who leads product development for its coding platform, said the need to review AI's work with prompts is limiting progress.
 
-Business Insider • 4m ago
+Business Insider • 19m ago
 
 ---
 
@@ -199,7 +199,7 @@ WIRED • 13h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 526 • 💬 285 • 1d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 526 • 💬 285 • 2d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -237,7 +237,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 130 • 💬 84 • 18h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 130 • 💬 84 • 19h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -423,7 +423,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 329 • 3h ago
+⬇️ 15,778 • ❤️ 329 • 4h ago
 
 ---
 
@@ -483,7 +483,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,725 • ❤️ 197 • 3h ago
+⬇️ 4,725 • ❤️ 197 • 4h ago
 
 ---
 

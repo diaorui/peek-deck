@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T20:31:56.959466+00:00'
+updated: '2025-12-14T20:46:46.191249+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - cryptocurrency
 - social
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 20:31 UTC  
+**Last Updated:** December 14, 2025 at 20:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -2.5%  
-**30d:** -7.3%  
-**90d:** -24.2%  
-**1y:** -15.1%  
+**24h:** -1.2%  
+**7d:** -2.2%  
+**30d:** -7.0%  
+**90d:** -24.0%  
+**1y:** -14.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -293,7 +293,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 25K • 👍 3K • 💬 226 • ⏱️ 17:53 • 4h ago
+👁️ 25K • 👍 3K • 💬 226 • ⏱️ 17:53 • 5h ago
 
 ---
 
@@ -353,7 +353,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 476 • 💬 25 • ⏱️ 21:16 • 23h ago
+👁️ 12K • 👍 476 • 💬 25 • ⏱️ 21:16 • 1d ago
 
 ---
 
