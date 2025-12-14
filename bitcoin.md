@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T20:58:04.605396+00:00'
+updated: '2025-12-14T21:25:40.049384+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 20:58 UTC  
+**Last Updated:** December 14, 2025 at 21:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -2.3%  
-**30d:** -7.1%  
-**90d:** -24.0%  
-**1y:** -14.9%  
+**24h:** -2.0%  
+**7d:** -2.6%  
+**30d:** -7.4%  
+**90d:** -24.3%  
+**1y:** -15.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1770.47B
+**Market Cap:** $1770.16B
 Rank #1
 
-**Circulating Supply:** 19,962,140 BTC
+**Circulating Supply:** 19,962,153 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.7%
 
 **All-Time Low:** $67.81
-+130650.6%
++130671.3%
 
 ---
 
@@ -85,19 +85,7 @@ Rank #1
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-3h ago
-
----
-
-**[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
-
-1d ago
-
----
-
-**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
-
-17h ago
+4h ago
 
 ---
 
@@ -109,11 +97,37 @@ Get in now or kick yourself in a few years.
 
 ---
 
+**[I am now a whole coiner](https://www.reddit.com/r/Bitcoin/comments/1pmnnkq/i_am_now_a_whole_coiner/)**
+
+Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
+
+1h ago
+
+---
+
+**[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
+
+5h ago
+
+---
+
+**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
+
+17h ago
+
+---
+
+**[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
+
+1d ago
+
+---
+
 **[Everytime I see ~$89K, my finger gravitates to the buy button…](https://www.reddit.com/r/Bitcoin/comments/1pmj2r7/everytime_i_see_89k_my_finger_gravitates_to_the/)**
 
 I can’t help myself. I know I should wait for a bigger correction that’s likely coming. If/when that happens, I won’t have any dry powder because I have some stupid brain reflex that makes me drop $100 every time I see < $90K 😫
 
-3h ago
+4h ago
 
 ---
 
@@ -123,23 +137,11 @@ I can’t help myself. I know I should wait for a bigger correction that’s lik
 
 ---
 
-**[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
+**[Herd Mentality](https://www.reddit.com/r/Bitcoin/comments/1pmbesb/herd_mentality/)**
 
-4h ago
+Cross post
 
----
-
-**[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
-
-22h ago
-
----
-
-**[Turns out saving in something that is infinite and printable is not a very good idea](https://www.reddit.com/r/Bitcoin/comments/1pmfaof/turns_out_saving_in_something_that_is_infinite/)**
-
-Turns out saving in something that is infinite and printable is not a very good idea. Who would know?
-
-6h ago
+10h ago
 
 ---
 
@@ -173,23 +175,7 @@ CoinDesk • 1d ago
 
 **[Key facts: Bitcoin ETFs see $237M inflows; Grayscale predicts 2026 high](https://www.tradingview.com/news/tradingview:c4734af0513af:0-key-facts-bitcoin-etfs-see-237m-inflows-grayscale-predicts-2026-high/)**
 
-TradingView — Track All Markets • 20h ago
-
----
-
-**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://finance.yahoo.com/news/cryptocurrency-more-upside-bitcoin-vs-183100641.html)**
-
-This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
-
-Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
-
-The Motley Fool • 11h ago
+TradingView — Track All Markets • 21h ago
 
 ---
 
@@ -207,9 +193,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+**[Strategy Inc (MSTR) Stock News on Dec. 14, 2025: Nasdaq-100 Decision, MSCI Index Risk, Bitcoin Buys, and Wall Street Forecasts](https://ts2.tech/en/strategy-inc-mstr-stock-news-on-dec-14-2025-nasdaq-100-decision-msci-index-risk-bitcoin-buys-and-wall-street-forecasts/)**
 
-Investor's Business Daily • 1d ago
+Strategy Inc (MSTR) Stock News on Dec. 14, 2025: Nasdaq-100 Decision, MSCI Index Risk, Bitcoin Buys, and Wall Street Forecasts - TechStock²
+
+ts2.tech • 1h ago
+
+---
+
+**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://finance.yahoo.com/news/cryptocurrency-more-upside-bitcoin-vs-183100641.html)**
+
+This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
+
+Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
+
+The Motley Fool • 11h ago
 
 ---
 
@@ -303,7 +307,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 1K • 💬 97 • ⏱️ 9:48 • 3h ago
+👁️ 9K • 👍 1K • 💬 97 • ⏱️ 9:48 • 4h ago
 
 ---
 
@@ -323,7 +327,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 4K • 👍 320 • 💬 74 • ⏱️ 10:43 • 7h ago
+👁️ 4K • 👍 320 • 💬 74 • ⏱️ 10:43 • 8h ago
 
 ---
 
@@ -333,7 +337,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 209 • 💬 11 • ⏱️ 18:38 • 5h ago
+👁️ 3K • 👍 209 • 💬 11 • ⏱️ 18:38 • 6h ago
 
 ---
 
@@ -353,7 +357,7 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 9K • 👍 392 • 💬 97 • ⏱️ 12:56 • 20h ago
+👁️ 9K • 👍 392 • 💬 97 • ⏱️ 12:56 • 21h ago
 
 ---
 
