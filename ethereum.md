@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T18:29:47.894444+00:00'
+updated: '2025-12-14T18:51:14.813398+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 18:29 UTC  
+**Last Updated:** December 14, 2025 at 18:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
+**24h:** -0.3%  
 **7d:** -0.9%  
-**30d:** -2.5%  
-**90d:** -31.3%  
+**30d:** -2.4%  
+**90d:** -31.2%  
 **1y:** -21.8%  
 
 ---
@@ -202,7 +202,7 @@ AMBCrypto • 19h ago
 
 If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Block • 3d ago
 
 Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
-Nasdaq • 6h ago
+Nasdaq • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 344 • 👍 37 • 💬 2 • ⏱️ 8:04 • 2h ago
+👁️ 1K • 👍 86 • 💬 2 • ⏱️ 8:04 • 2h ago
 
 ---
 
@@ -248,7 +248,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 281 • ⏱️ 31:03 • 1d ago
+👁️ 61K • 👍 3K • 💬 285 • ⏱️ 31:03 • 1d ago
 
 ---
 
@@ -258,17 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 117 • 💬 4 • ⏱️ 4:34 • 13h ago
-
----
-
-**[Massive Breakouts Incoming: ETH &amp; BMNR Targets + Key Levels](https://www.youtube.com/watch?v=m71lOmLon38)**
-
-Ethereum is coiling for a major move, but the biggest opportunity might be the stock that Fundstrat's Tom Lee calls the ...
-
-📺 CryptoStock Lab
-
-👁️ 1K • 👍 50 • 💬 16 • ⏱️ 15:09 • 19h ago
+👁️ 2K • 👍 119 • 💬 4 • ⏱️ 4:34 • 14h ago
 
 ---
 
@@ -278,7 +268,17 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 Stock Moe
 
-👁️ 10K • 👍 584 • 💬 38 • ⏱️ 14:28 • 20h ago
+👁️ 10K • 👍 591 • 💬 38 • ⏱️ 14:28 • 21h ago
+
+---
+
+**[Massive Breakouts Incoming: ETH &amp; BMNR Targets + Key Levels](https://www.youtube.com/watch?v=m71lOmLon38)**
+
+Ethereum is coiling for a major move, but the biggest opportunity might be the stock that Fundstrat's Tom Lee calls the ...
+
+📺 CryptoStock Lab
+
+👁️ 1K • 👍 50 • 💬 16 • ⏱️ 15:09 • 20h ago
 
 ---
 
@@ -288,7 +288,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Guitar Repair@StringTech
 
-👁️ 7K • 👍 4K • 1d ago
+👁️ 8K • 👍 4K • 1d ago
 
 ---
 
@@ -298,17 +298,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 218 • 💬 12 • ⏱️ 21:14 • 1d ago
-
----
-
-**[Live Crypto Trading | Bitcoin Live Trading Intelligent trader | 14 Dec | #btc #eth #cryptotrading](https://www.youtube.com/watch?v=TbnRocfglr0)**
-
-Account Open From Here - Delta India - (CRYPTO BROKER) https://india.delta.exchange/?code=intelligenttrader After Opening ...
-
-📺 Intelligent Trader
-
-👁️ 5K • 👍 499 • 3h ago
+👁️ 6K • 👍 219 • 💬 12 • ⏱️ 21:14 • 1d ago
 
 ---
 
@@ -318,7 +308,17 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 453 • 💬 14 • ⏱️ 48:44 • 2d ago
+👁️ 7K • 👍 454 • 💬 14 • ⏱️ 48:44 • 2d ago
+
+---
+
+**[Santa Rally Cancelled?📉Technical Analysis @EvanAldo](https://www.youtube.com/watch?v=fRCRNf_2H5o)**
+
+'Santa rally' now unlikely as bitcoin slips after Fed delivers 'hawkish cut'. ~This episode is sponsored by Uphold~ Uphold Get $20 ...
+
+📺 Paul Barron Network
+
+👁️ 31K • 👍 2K • 💬 216 • ⏱️ 26:45 • 1d ago
 
 ---
 

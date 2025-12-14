@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T18:29:47.897725+00:00'
+updated: '2025-12-14T18:51:14.816956+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 18:29 UTC  
+**Last Updated:** December 14, 2025 at 18:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
-6h ago
+7h ago
 
 ---
 
@@ -66,7 +66,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -94,7 +94,7 @@ We’ll be sharing performance and application demos. Comments and discussion ar
 
 Hello! I got a Reachy Mini (the wireless version) and I’m receiving it next week! I want to be able to run my models locally but I’m afraid I don’t have the right setup for this. In total what I have is a MacBook Pro Max M1 (64Go) and an MSI with a 4080. We also have a Lenovo with 5080 but that’s my husband’s and I want my own 😅 Is it worth it to get a 5090? Or would a 5080 do the job? It’s for research purposes (solo) and experimenting with nice powerful models. And do you have a more wallet friendly approach? Also do you recommend just buying the computer or building one? (Which option is cheaper?)
 
-🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 2h ago
+🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 3h ago
 
 ---
 
@@ -144,7 +144,7 @@ ABC7 San Francisco • 2d ago
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -198,7 +198,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 124K • 👍 2K • 💬 898 • ⏱️ 14:26 • 5d ago
+👁️ 124K • 👍 2K • 💬 901 • ⏱️ 14:26 • 5d ago
 
 ---
 
@@ -206,7 +206,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI . Robot
 
-👁️ 26K • 👍 364 • 💬 9 • ⏱️ 0:16 • 1d ago
+👁️ 27K • 👍 379 • 💬 9 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 19K • 👍 85 • 💬 27 • ⏱️ 1:26 • 1d ago
+👁️ 20K • 👍 89 • 💬 28 • ⏱️ 1:26 • 1d ago
 
 ---
 
@@ -226,7 +226,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 189K • 👍 912 • 💬 303 • ⏱️ 0:47 • 5d ago
+👁️ 189K • 👍 914 • 💬 303 • ⏱️ 0:47 • 5d ago
 
 ---
 
@@ -240,13 +240,13 @@ robots #irc #humanoid At the latest tech expo, a man shows off his brand new rob
 
 ---
 
-**[Grandmother saves Grandpa from a robotic zebra 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
+**[Boy Pressed Test Mode button… Robot went Crazy 😳🤖 #ai #cat #robot](https://www.youtube.com/watch?v=hRf4HyPmFtA)**
 
-Grandmother saves Grandpa from a robotic zebra #ai #save #robot.
+Boy Pressed Test Mode button… Robot went Crazy #ai #cat #robot.
 
-📺 Catanimation
+📺 Ai Animation World
 
-👁️ 58K • 👍 618 • 💬 6 • ⏱️ 0:25 • 4h ago
+👁️ 48K • 💬 1 • ⏱️ 0:37 • 6h ago
 
 ---
 
@@ -256,17 +256,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 77K • 👍 767 • 💬 16 • ⏱️ 0:09 • 2d ago
-
----
-
-**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
-
-Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
-
-📺 The Military Show
-
-👁️ 356K • 👍 10K • 💬 569 • ⏱️ 16:55 • 3d ago
+👁️ 79K • 👍 778 • 💬 16 • ⏱️ 0:09 • 2d ago
 
 ---
 
@@ -276,17 +266,27 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 19K • 👍 518 • 💬 118 • ⏱️ 42:48 • 6d ago
+👁️ 19K • 👍 523 • 💬 118 • ⏱️ 42:48 • 6d ago
 
 ---
 
-**[Boy Pressed Test Mode button… Robot went Crazy 😳🤖 #ai #cat #robot](https://www.youtube.com/watch?v=hRf4HyPmFtA)**
+**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
 
-Boy Pressed Test Mode button… Robot went Crazy #ai #cat #robot.
+I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
 
-📺 Ai Animation World
+📺 Kyle Krueger
 
-👁️ 42K • 💬 1 • ⏱️ 0:37 • 6h ago
+👁️ 4.8M • 👍 151K • 💬 3K • ⏱️ 0:51 • 3d ago
+
+---
+
+**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+
+In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+
+📺 Google DeepMind
+
+👁️ 233K • 👍 7K • 💬 522 • ⏱️ 17:44 • 4d ago
 
 ---
 
