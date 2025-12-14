@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T09:46:30.890677+00:00'
+updated: '2025-12-14T09:57:18.900204+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 09:46 UTC  
+**Last Updated:** December 14, 2025 at 09:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -0.9%  
-**30d:** -5.8%  
-**90d:** -23.0%  
-**1y:** -13.7%  
+**24h:** -0.6%  
+**7d:** -0.7%  
+**30d:** -5.6%  
+**90d:** -22.8%  
+**1y:** -13.6%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -117,7 +117,7 @@ Yes. Yes we are.
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -131,7 +131,7 @@ Yes. Yes we are.
 
 A buddy wants to bet me 1 grand.
 
-6h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ A buddy wants to bet me 1 grand.
 
 Thieves.
 
-4h ago
+5h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bitcoin Magazine • 1d ago
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 19m ago
+The Motley Fool • 30m ago
 
 ---
 
