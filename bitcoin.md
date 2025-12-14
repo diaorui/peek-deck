@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T23:39:17.671536+00:00'
+updated: '2025-12-14T23:50:25.051567+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 23:39 UTC  
+**Last Updated:** December 14, 2025 at 23:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** -3.4%  
-**30d:** -8.2%  
-**90d:** -24.9%  
-**1y:** -15.9%  
+**24h:** -2.4%  
+**7d:** -3.0%  
+**30d:** -7.7%  
+**90d:** -24.6%  
+**1y:** -15.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 1h ago
 
 Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 

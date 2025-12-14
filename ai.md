@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T23:39:17.662997+00:00'
+updated: '2025-12-14T23:50:25.043032+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 23:39 UTC  
+**Last Updated:** December 14, 2025 at 23:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 Grass has jumped from a simple concept to a multi-million dollar, airdrop rewarding, revenue-generating AI data network with real traction They are projecting $12.8M in revenue this quarter, and adoption has exploded to 8.5M monthly active users in just 2 years. 475K on Discord, 573K on Twitter Season 1 Grass ended with an Airdrop to users based on accumulated Network Points. Grass Airdrop Season 2 is coming soon with even better rewards In October, Grass raised $10M, and their multimodal repository has passed 250 petabytes. Grass now operates at the lowest sustainable cost structure in the residential proxy sector Grass already provides core data infrastructure for multiple AI labs and is running trials of its SERP API with leading SEO firms. This API is the first step toward Live Context Retrieval, real-time data streams for AI models. LCR is shaping up to be one of the biggest future products in the AI data space and will bring higher-frequency, real-time on-chain settlement that increases Grass token utility If you want to earn ahead of Airdrop 2, you can stack up points by just using your Android phone or computer regularly. And the points will be worth Grass tokens that can be sold for money after Airdrop 2 You can register here with your email and start farming And you can find out more at grass.io
 
-27m ago
+38m ago
 
 ---
 
@@ -93,7 +93,7 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-15h ago
+16h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Economist • 12h ago
 
 **[Global Funds View Indian Stocks as a Top Hedge Against AI Risks](https://www.bloomberg.com/news/articles/2025-12-14/global-funds-view-indian-stocks-as-a-top-hedge-against-ai-risks)**
 
-Bloomberg.com • 39m ago
+Bloomberg.com • 50m ago
 
 ---
 
@@ -181,7 +181,7 @@ Fortune • 14h ago
 
 **[It's beginning to look a lot like (AI) Christmas](https://www.axios.com/2025/12/14/ai-christmas-nativity-visuals-sermons-jesus)**
 
-Axios • 10h ago
+Axios • 11h ago
 
 ---
 
@@ -231,7 +231,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 131 • 💬 85 • 21h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 131 • 💬 85 • 22h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -417,7 +417,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 332 • 6h ago
+⬇️ 15,778 • ❤️ 332 • 7h ago
 
 ---
 
@@ -477,7 +477,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,725 • ❤️ 197 • 6h ago
+⬇️ 4,725 • ❤️ 197 • 7h ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.9k • 🔱 319 • 6h ago
+⭐ 2.9k • 🔱 320 • 6h ago
 
 ---
 
@@ -699,7 +699,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 952 • 🔱 68 • 5d ago
+⭐ 953 • 🔱 68 • 5d ago
 
 ---
 
