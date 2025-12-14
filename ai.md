@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T17:30:48.145683+00:00'
+updated: '2025-12-14T17:44:33.647427+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 17:30 UTC  
+**Last Updated:** December 14, 2025 at 17:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-5h ago
+6h ago
 
 ---
 
@@ -63,13 +63,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-9h ago
-
----
-
-**[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
-
-19h ago
+10h ago
 
 ---
 
@@ -77,7 +71,7 @@ Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom c
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 1h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 2h ago
 
 ---
 
@@ -86,6 +80,12 @@ Secret parties, lavish buffets, and talks of annihilation at one of the largest 
 The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
 
 🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 17h ago
+
+---
+
+**[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
+
+19h ago
 
 ---
 
@@ -105,11 +105,11 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 ---
 
-**[Built a pipeline for training HRM-sMOE LLMs](https://www.reddit.com/r/artificial/comments/1pm3e0v/built_a_pipeline_for_training_hrmsmoe_llms/)**
+**[Sam Altman Got What He Wanted](https://www.reddit.com/r/artificial/comments/1plowm2/sam_altman_got_what_he_wanted/)**
 
-just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. However, i only have dual RTX 2080TIs and training is painfully slow. Currently working on training a model through the tinystories dataset and then will be running eval tests. Ill update when i can with more information. If you want to check it out here it is: https://github.com/Wulfic/AI-OS
+For now
 
-14h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/trump-ai-executive-order/685243/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 1d ago
 
 ---
 
@@ -117,9 +117,9 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 ## Google News: "ai"
 
-**[Introducing GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)**
+**[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
 
-OpenAI • 2d ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -131,6 +131,28 @@ The Atlantic • 5h ago
 
 ---
 
+**[Trump’s AI moratorium threatens state-level crackdown on housing costs](https://www.politico.com/news/2025/12/14/trumps-ai-moratorium-threatens-state-level-crackdown-on-housing-costs-00688789)**
+
+Politico • 43m ago
+
+---
+
+**[Did co-founder Sergey Brin’s return save Google in AI race? Sundar Pichai explains](https://timesofindia.indiatimes.com/technology/tech-news/did-google-co-founder-sergey-brins-return-save-google-in-the-ai-race-sundar-pichai-explains/articleshow/125961836.cms)**
+
+Tech News News: Google co-founder Sergey Brin's return to hands-on AI development, coding and analyzing training loss curves, has coincided with the company's recent
+
+Times of India • 4h ago
+
+---
+
+**[NFL picks for Week 15, score predictions, best bets today from self-learning AI](https://www.cbssports.com/nfl/news/nfl-week-15-picks-score-predictions-best-ai-football-bets-today/)**
+
+SportsLine's self-learning AI reveals picks for each Week 15 NFL game
+
+CBS Sports • 3h ago
+
+---
+
 **[Jamie Dimon says soft skills like emotional intelligence and communication are vital as AI eliminates roles](https://fortune.com/2025/12/14/jamie-dimon-soft-skills-emotional-intelligence-communication-ai-eliminates-roles/)**
 
 Dimon added that people who possess soft skills will have "plenty of jobs."
@@ -139,33 +161,17 @@ Fortune • 8h ago
 
 ---
 
+**[Experts urge caution as Trump’s big bill incentivizes AI in healthcare](https://www.theguardian.com/us-news/2025/dec/14/trump-healthcare-ai)**
+
+Analysts say benefits could be felt in under-resourced rural hospitals but warn against AI as a cost-cutting measure
+
+The Guardian • 5h ago
+
+---
+
 **[It's beginning to look a lot like (AI) Christmas](https://www.axios.com/2025/12/14/ai-christmas-nativity-visuals-sermons-jesus)**
 
 Axios • 4h ago
-
----
-
-**[Wall Street Sees an AI Bubble Forming and Is Gaming What Pops It](https://finance.yahoo.com/news/wall-street-sees-ai-bubble-140000205.html)**
-
-From a recent selloff in the shares of Nvidia Corp., to Oracle Corp.’s plunge after reporting mounting spending on AI, to souring sentiment around a network of companies exposed to OpenAI, signs of skepticism are increasing.  “We’re in the phase of the cycle where the rubber meets the road,” said Jim Morrow, chief executive officer of Callodine Capital Management.  The S&P 500’s three-year, $30 trillion bull run has largely been driven by the world’s biggest tech companies like Alphabet Inc. and Microsoft Corp., as well as firms benefiting from spending on AI infrastructure like chipmakers Nvidia and Broadcom Inc., and electricity providers such as Constellation Energy Corp. If they stop rising, the equities indexes will follow.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Regular People Are Rising Up Against AI Surveillance Cameras](https://futurism.com/future-society/opposition-ai-surveillance-cameras)**
-
-AI surveillance outfit Flock Safety is aggressively expanding its dragnet across the US, but ordinary people aren't impressed.
-
-Futurism • 3h ago
-
----
-
-**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
-
-California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
-
-The Guardian • 1d ago
 
 ---
 
@@ -177,17 +183,9 @@ BBC • 16h ago
 
 ---
 
-**[For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)**
+**[How Trump’s tech advisers overcame a MAGA rebellion over AI](https://www.washingtonpost.com/politics/2025/12/14/trump-ai-executive-order-divisions/)**
 
-If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
-
-WIRED • 10h ago
-
----
-
-**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
-
-The Economist • 6h ago
+The Washington Post • 12m ago
 
 ---
 
@@ -205,7 +203,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 395 • 💬 398 • 1d ago
+⬆️ 397 • 💬 400 • 1d ago
 
 ---
 
@@ -213,7 +211,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 170 • 💬 122 • 2d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 171 • 💬 122 • 2d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -225,19 +223,19 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 ---
 
-**[If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://news.ycombinator.com/item?id=46260106)**
-
-In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
-
-⬆️ 125 • 💬 79 • 15h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
-
----
-
 **[AI and the ironies of automation – Part 2](https://news.ycombinator.com/item?id=46262816)**
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 108 • 💬 32 • 4h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 130 • 💬 42 • 4h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+
+---
+
+**[If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://news.ycombinator.com/item?id=46260106)**
+
+In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
+
+⬆️ 127 • 💬 81 • 16h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -245,7 +243,7 @@ Some (well-known) consequences of AI automating work
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 101 • 💬 142 • 5h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 111 • 💬 155 • 5h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -257,17 +255,17 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 ---
 
-**[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
-
-⬆️ 62 • 💬 56 • 20h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
-
----
-
 **[Willison on Merchant's "Copywriters reveal how AI has decimated their industry"](https://news.ycombinator.com/item?id=46261998)**
 
 Brian Merchant has been collecting personal stories for his series AI Killed My Job - previously covering tech workers, translators, and artists - and this latest piece includes anecdotes from …
 
-⬆️ 54 • 💬 38 • 7h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
+⬆️ 63 • 💬 51 • 7h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
+
+---
+
+**[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
+
+⬆️ 62 • 💬 56 • 20h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -399,7 +397,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 130,627 • ❤️ 817 • 2d ago
+⬇️ 130,627 • ❤️ 819 • 2d ago
 
 ---
 
@@ -411,7 +409,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 67,698 • ❤️ 409 • 4d ago
+⬇️ 67,698 • ❤️ 410 • 4d ago
 
 ---
 
@@ -423,7 +421,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 325 • 48m ago
+⬇️ 15,778 • ❤️ 326 • 1h ago
 
 ---
 
@@ -447,7 +445,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 35,747 • ❤️ 273 • 5d ago
+⬇️ 35,747 • ❤️ 274 • 5d ago
 
 ---
 
@@ -459,7 +457,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 5,553 • ❤️ 198 • 2d ago
+⬇️ 5,553 • ❤️ 199 • 2d ago
 
 ---
 
@@ -471,7 +469,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,725 • ❤️ 194 • 48m ago
+⬇️ 4,725 • ❤️ 196 • 1h ago
 
 ---
 
@@ -657,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.8k • 🔱 317 • 44m ago
+⭐ 2.8k • 🔱 317 • 58m ago
 
 ---
 

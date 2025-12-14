@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T17:30:48.154116+00:00'
+updated: '2025-12-14T17:44:33.655005+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 17:30 UTC  
+**Last Updated:** December 14, 2025 at 17:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,671.77
+### $88,784.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -2.4%  
-**30d:** -7.2%  
-**90d:** -24.2%  
-**1y:** -15.1%  
+**24h:** -1.5%  
+**7d:** -2.2%  
+**30d:** -7.0%  
+**90d:** -24.0%  
+**1y:** -14.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1775.82B
+**Market Cap:** $1771.96B
 Rank #1
 
 **Circulating Supply:** 19,962,075 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-29.5%
 
 **All-Time Low:** $67.81
-+131084.2%
++130895.4%
 
 ---
 
@@ -89,9 +89,9 @@ Rank #1
 
 ---
 
-**[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-19h ago
+2h ago
 
 ---
 
@@ -101,9 +101,9 @@ Rank #1
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
+**[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-2h ago
+19h ago
 
 ---
 
@@ -111,19 +111,13 @@ Rank #1
 
 Simply lovely
 
-4h ago
+5h ago
 
 ---
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-17h ago
-
----
-
-**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
-
-13h ago
+18h ago
 
 ---
 
@@ -135,11 +129,15 @@ Cross post
 
 ---
 
-**[Turns out saving in something that is infinite and printable is not a very good idea](https://www.reddit.com/r/Bitcoin/comments/1pmfaof/turns_out_saving_in_something_that_is_infinite/)**
+**[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-Turns out saving in something that is infinite and printable is not a very good idea. Who would know?
+33m ago
 
-3h ago
+---
+
+**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
+
+13h ago
 
 ---
 
@@ -147,11 +145,11 @@ Turns out saving in something that is infinite and printable is not a very good 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+**[Bitcoin Below $90K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
 
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-Forbes • 5h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -163,28 +161,6 @@ The Motley Fool • 8h ago
 
 ---
 
-**[Crypto winter could spur 'Darwinian phase' for digital asset treasury companies](https://finance.yahoo.com/news/crypto-winter-could-spur-darwinian-phase-for-digital-asset-treasury-companies-150010208.html)**
-
-Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Compliance, Credibility, and Consumer Trust in the New Age of Crypto ATMs](https://www.coindesk.com/opinion/2025/12/14/compliance-credibility-and-consumer-trust-in-the-new-age-of-crypto-atms)**
-
-Bitcoin Depot’s Scott Buchanan argues that crypto ATM operators must continually strengthen their safeguards and make things safer and more transparent for users — protective actions that not only benefit individual crypto users but also bolster the market’s integrity and support its long-term growth.
-
-CoinDesk • 28m ago
-
----
-
-**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
-
-x.com • 21h ago
-
----
-
 **[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
@@ -193,19 +169,9 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
+**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
-
-Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
-
-Bitcoin Magazine • 1d ago
+x.com • 22h ago
 
 ---
 
@@ -215,9 +181,43 @@ Reuters • 1d ago
 
 ---
 
-**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+**[MicroStrategy (MSTR): Reassessing Valuation After Sharp Recent Share Price Declines and Bitcoin-Linked Volatility](https://finance.yahoo.com/news/microstrategy-mstr-reassessing-valuation-sharp-021012443.html)**
 
-Investor's Business Daily • 1d ago
+Strategy (MSTR) has had a rough stretch, with the stock down around 21% over the past month and nearly 47% in the past 3 months, prompting fresh questions about valuation and Bitcoin exposure. See our latest analysis for Strategy. The latest slide, including a 1 day share price return of minus 3.7 percent and a year to date share price return of roughly minus 41 percent, suggests momentum is clearly fading even after an exceptional 3 year total shareholder return above 900 percent. If Bitcoin...
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+
+Forbes • 5h ago
+
+---
+
+**[Why Is Bitcoin Not Going Up After The Fed Cut Rates?](https://finance.yahoo.com/news/why-bitcoin-not-going-fed-193106033.html)**
+
+The Federal Reserve delivered its third straight 25 basis points rate cut to close out 2025, briefly lifting retail optimism for Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) before the market quickly reversed course. What Happened: On-chain ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Brazil’s Largest Private Bank Advises 3% Bitcoin Allocation For Clients](https://finance.yahoo.com/news/brazil-largest-private-bank-advises-210131274.html)**
+
+Brazil's top bank Itaú Unibanco has advised clients to allocate up to 3% of their portfolios to Bitcoin by 2026.
+
+Yahoo Finance • 20h ago
+
+---
+
+**[Brazil’s Largest Private Bank Recommends 3% Bitcoin Allocation](https://bitbo.io/news/brazil-bank-bitcoin-allocation/)**
+
+Itaú Asset Management, the investment arm of Brazil's biggest private bank, advises investors to allocate 1% to 3% of their portfolios to Bitcoin in 2026 to improve diversification and hedge currency risk.
+
+Bitbo • 22h ago
 
 ---
 
@@ -295,7 +295,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 453 • 💬 21 • ⏱️ 21:16 • 20h ago
+👁️ 11K • 👍 453 • 💬 21 • ⏱️ 21:16 • 21h ago
 
 ---
 

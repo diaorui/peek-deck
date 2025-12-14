@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T17:30:48.160180+00:00'
+updated: '2025-12-14T17:44:33.660264+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 17:30 UTC  
+**Last Updated:** December 14, 2025 at 17:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -1.4%  
-**30d:** -2.9%  
-**90d:** -31.6%  
-**1y:** -22.2%  
+**24h:** -0.7%  
+**7d:** -1.5%  
+**30d:** -3.0%  
+**90d:** -31.7%  
+**1y:** -22.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.60B
+**Market Cap:** $371.57B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.4%
+-37.7%
 
 **All-Time Low:** $0.43
-+714641.4%
++712087.0%
 
 ---
 
@@ -176,14 +176,6 @@ Yahoo Finance • 4h ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
-
-If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
-
-The Motley Fool • 6h ago
-
----
-
 **[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
 Binance • 2d ago
@@ -206,6 +198,14 @@ CoinDesk • 2d ago
 
 ---
 
+**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
+
+If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+
+The Motley Fool • 6h ago
+
+---
+
 **[If This Ethereum Bear Flag Pattern Holds, ETH Price Could Be On Its Way To $2,400](https://www.tradingview.com/news/newsbtc:e4cff0ce0094b:0-if-this-ethereum-bear-flag-pattern-holds-eth-price-could-be-on-its-way-to-2-400/)**
 
 Since early October, when the Ethereum price began its dive into bearish territory, it has struggled to regain any of its significant price levels. The Ether token failed to hold at multiple support zones throughout November, as it plunged downwards. While Ethereum appears to be gaining bullish mom…
@@ -220,9 +220,11 @@ The Block • 3d ago
 
 ---
 
-**[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
+**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
 
-TipRanks • 7h ago
+Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
+
+Nasdaq • 5h ago
 
 ---
 
@@ -326,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 140 • 💬 4 • ⏱️ 4:05 • 23h ago
+👁️ 3K • 👍 140 • 💬 4 • ⏱️ 4:05 • 1d ago
 
 ---
 
