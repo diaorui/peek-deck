@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T09:15:50.876145+00:00'
+updated: '2025-12-14T09:34:11.932689+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 09:15 UTC  
+**Last Updated:** December 14, 2025 at 09:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -70,7 +70,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -78,7 +78,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
 
-6h ago
+7h ago
 
 ---
 
@@ -86,7 +86,7 @@ What's up guys, I posted about this PX4 SIL simulator earlier this year and got 
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 14h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 15h ago
 
 ---
 
@@ -94,7 +94,7 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 Has anyone gotten pi0 to work with their SO101 Lerobot arm? I’ve trained it with ACT policy and it seems to be working, however, repeating the same exact process with pi0 doesn’t lead to the robot performing meaningful tasks. I’ve seen people getting this to work with as less as 50 episodes? Am I possibly not mapping the cameras correctly? Do I need to do any manual code changes to lerobot like switching absolute joint angles to deltas or converting to radians or anything like that before training? Any help or insight would be greatly appreciated, thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -122,7 +122,7 @@ IEEE Spectrum • 4d ago
 
 “The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Robot Report • 1d ago
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 

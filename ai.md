@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T09:15:50.858390+00:00'
+updated: '2025-12-14T09:34:11.916368+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- news
 - repositories
 - videos
-- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 09:15 UTC  
+**Last Updated:** December 14, 2025 at 09:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,7 @@ AI news, discussions, and developments
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 17h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 18h ago
 
 ---
 
@@ -59,7 +59,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -75,7 +75,7 @@ An artificial intelligence agent has shown it can do what even seasoned cybersec
 
 The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.
 
-🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 8h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) • 9h ago
 
 ---
 
@@ -141,7 +141,7 @@ NPR • 23h ago
 
 What if the best use of AI is restarting the world’s idea machine?
 
-Vox • 19h ago
+Vox • 20h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 1d ago
 
 **[Ad Agency Stocks Seen Turning AI Disruption to Their Advantage](https://www.bloomberg.com/news/articles/2025-12-14/ad-agency-stocks-seen-turning-ai-disruption-to-their-advantage)**
 
-Bloomberg.com • 45m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -291,7 +291,7 @@ INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainew
 
 📺 AI Search
 
-👁️ 16K • 👍 1K • 💬 180 • ⏱️ 47:09 • 5h ago
+👁️ 16K • 👍 1K • 💬 180 • ⏱️ 47:09 • 6h ago
 
 ---
 
@@ -301,7 +301,7 @@ In Dubai, this futuristic AI Salon Pod delivers an instant hair transformation w
 
 📺 AI Robot Lab
 
-👁️ 406K • 👍 2K • 💬 9 • ⏱️ 0:16 • 21h ago
+👁️ 406K • 👍 2K • 💬 9 • ⏱️ 0:16 • 22h ago
 
 ---
 
@@ -321,7 +321,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 81K • 👍 7K • 💬 1K • ⏱️ 16:45 • 9h ago
+👁️ 81K • 👍 7K • 💬 1K • ⏱️ 16:45 • 10h ago
 
 ---
 
@@ -423,7 +423,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 13,668 • ❤️ 320 • 1d ago
+⬇️ 13,668 • ❤️ 320 • 2d ago
 
 ---
 
@@ -447,7 +447,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 31,499 • ❤️ 270 • 4d ago
+⬇️ 31,499 • ❤️ 270 • 5d ago
 
 ---
 
@@ -646,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.0k • 🔱 2.2k • 45m ago
+⭐ 14.0k • 🔱 2.2k • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T09:15:50.866903+00:00'
+updated: '2025-12-14T09:34:11.924587+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 09:15 UTC  
+**Last Updated:** December 14, 2025 at 09:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -97,7 +97,7 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -315,7 +315,7 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 6K • 👍 296 • 💬 64 • ⏱️ 12:56 • 8h ago
+👁️ 6K • 👍 296 • 💬 64 • ⏱️ 12:56 • 9h ago
 
 ---
 
@@ -345,7 +345,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 194 • 💬 22 • ⏱️ 6:48 • 3h ago
+👁️ 2K • 👍 194 • 💬 22 • ⏱️ 6:48 • 4h ago
 
 ---
 

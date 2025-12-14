@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T09:15:50.872896+00:00'
+updated: '2025-12-14T09:34:11.929852+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 09:15 UTC  
+**Last Updated:** December 14, 2025 at 09:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 565 • 👍 47 • 💬 4 • ⏱️ 4:34 • 4h ago
+👁️ 565 • 👍 47 • 💬 4 • ⏱️ 4:34 • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 137 • 💬 4 • ⏱️ 4:05 • 15h ago
+👁️ 3K • 👍 137 • 💬 4 • ⏱️ 4:05 • 16h ago
 
 ---
 
@@ -288,7 +288,7 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 41 • 💬 15 • ⏱️ 15:09 • 10h ago
+👁️ 1K • 👍 41 • 💬 15 • ⏱️ 15:09 • 11h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 340 • 💬 38 • ⏱️ 18:12 • 13h ago
+👁️ 8K • 👍 340 • 💬 38 • ⏱️ 18:12 • 14h ago
 
 ---
 
