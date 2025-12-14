@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T05:57:41.328324+00:00'
+updated: '2025-12-14T06:39:22.083083+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 05:57 UTC  
+**Last Updated:** December 14, 2025 at 06:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -66,13 +66,13 @@ We’ll be sharing performance and application demos. Comments and discussion ar
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
 
-3h ago
+4h ago
 
 ---
 
 **[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ What's up guys, I posted about this PX4 SIL simulator earlier this year and got 
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 11h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/) • 12h ago
 
 ---
 
@@ -88,7 +88,7 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 Has anyone gotten pi0 to work with their SO101 Lerobot arm? I’ve trained it with ACT policy and it seems to be working, however, repeating the same exact process with pi0 doesn’t lead to the robot performing meaningful tasks. I’ve seen people getting this to work with as less as 50 episodes? Am I possibly not mapping the cameras correctly? Do I need to do any manual code changes to lerobot like switching absolute joint angles to deltas or converting to radians or anything like that before training? Any help or insight would be greatly appreciated, thanks!
 
-37m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Has anyone gotten pi0 to work with their SO101 Lerobot arm? I’ve trained it wi
 
 An Open-source Robot Fleet Management Dashboard. Contribute to transitiverobotics/transact development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/transitiverobotics/transact) • 11h ago
+🔗 [GitHub](https://github.com/transitiverobotics/transact) • 12h ago
 
 ---
 
@@ -112,6 +112,14 @@ Hi r/Robotics , I’ve been working on a project exploring how Generative AI can
 
 ## Google News: "robotics"
 
+**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
+
+Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
+
+IEEE Spectrum • 3d ago
+
+---
+
 **[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
 
 The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
@@ -120,27 +128,19 @@ AP News • 1d ago
 
 ---
 
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+
+South China Morning Post • 39m ago
+
+---
+
 **[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
 
 Making safe and regulated humanoids is a core mission of the summit and participants.
 
 ABC7 San Francisco • 2d ago
-
----
-
-**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
-
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
-
-AP News • 1d ago
-
----
-
-**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
-
-Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
-
-IEEE Spectrum • 3d ago
 
 ---
 
@@ -160,11 +160,19 @@ Yahoo Finance • 4d ago
 
 ---
 
+**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
+
+Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
+
+Shore Daily News • 2d ago
+
+---
+
 **[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 18h ago
+Scientific American • 19h ago
 
 ---
 
@@ -181,14 +189,6 @@ The Robot Report • 1d ago
 Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
 
 MIT News • 3d ago
-
----
-
-**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://www.fool.com/investing/2025/12/13/94-billion-robotics-market-set-to-surge-300-1-etf/)**
-
-This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
-
-The Motley Fool • 10h ago
 
 ---
 
@@ -240,7 +240,7 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 16K • 👍 196 • 💬 9 • ⏱️ 0:11 • 17h ago
+👁️ 16K • 👍 196 • 💬 9 • ⏱️ 0:11 • 18h ago
 
 ---
 
@@ -270,7 +270,7 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 19K • 👍 188 • 💬 1 • ⏱️ 0:09 • 22h ago
+👁️ 19K • 👍 188 • 💬 1 • ⏱️ 0:09 • 23h ago
 
 ---
 
@@ -280,7 +280,7 @@ I built LEGO robots based on EVERY Disney Pixar movie ever made. From Toy Story 
 
 📺 The B2
 
-👁️ 118K • 👍 2K • 💬 567 • ⏱️ 18:29 • 15h ago
+👁️ 118K • 👍 2K • 💬 567 • ⏱️ 18:29 • 16h ago
 
 ---
 

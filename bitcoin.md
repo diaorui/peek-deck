@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T05:57:41.319020+00:00'
+updated: '2025-12-14T06:39:22.074869+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 05:57 UTC  
+**Last Updated:** December 14, 2025 at 06:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -0.9%  
-**30d:** -5.7%  
-**90d:** -23.0%  
-**1y:** -13.7%  
+**24h:** -0.1%  
+**7d:** -0.6%  
+**30d:** -5.5%  
+**90d:** -22.8%  
+**1y:** -13.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1798.43B
+**Market Cap:** $1798.72B
 Rank #1
 
-**Circulating Supply:** 19,961,871 BTC
+**Circulating Supply:** 19,961,887 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.5%
 
 **All-Time Low:** $67.81
-+132763.9%
++132781.6%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-6h ago
+7h ago
 
 ---
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-9h ago
+10h ago
 
 ---
 
 **[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,25 @@ Rank #1
 
 Yes. Yes we are.
 
-13h ago
+14h ago
+
+---
+
+**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
+
+2h ago
+
+---
+
+**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
+
+2h ago
+
+---
+
+**[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
+
+1h ago
 
 ---
 
@@ -117,29 +135,11 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 ---
 
-**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
-
-2h ago
-
----
-
-**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
-
-2h ago
-
----
-
 **[Should I take a bet that Bitcoin will hit 100,000 for a second before January 1st?](https://www.reddit.com/r/Bitcoin/comments/1pm3eji/should_i_take_a_bet_that_bitcoin_will_hit_100000/)**
 
 A buddy wants to bet me 1 grand.
 
 3h ago
-
----
-
-**[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
-
-19h ago
 
 ---
 
@@ -151,7 +151,7 @@ A buddy wants to bet me 1 grand.
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bitcoin Magazine • 1d ago
 
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
-x.com • 10h ago
+x.com • 11h ago
 
 ---
 
@@ -211,11 +211,11 @@ Forbes • 1d ago
 
 ---
 
-**[Bank of Japan Set to Hike Rates to 30-Year High, Posing Another Threat to Bitcoin](https://www.coindesk.com/markets/2025/12/13/bank-of-japan-set-to-hike-rates-to-30-year-high-posing-another-threat-to-bitcoin)**
+**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
 
-Rising Japanese rates and a stronger yen threaten carry trades and could pressure crypto markets despite easing U.S. policy.
+Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
 
-CoinDesk • 15h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -227,7 +227,7 @@ CoinDesk • 15h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 12h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 13h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -235,7 +235,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 13h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 14h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -307,7 +307,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 296 • 💬 16 • ⏱️ 21:16 • 9h ago
+👁️ 6K • 👍 296 • 💬 16 • ⏱️ 21:16 • 10h ago
 
 ---
 
@@ -317,7 +317,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 424 • 💬 111 • ⏱️ 14:22 • 10h ago
+👁️ 7K • 👍 424 • 💬 111 • ⏱️ 14:22 • 11h ago
 
 ---
 
@@ -327,7 +327,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 196 • 💬 9 • ⏱️ 21:14 • 14h ago
+👁️ 5K • 👍 196 • 💬 9 • ⏱️ 21:14 • 15h ago
 
 ---
 
@@ -337,7 +337,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 17K • 👍 589 • 💬 60 • ⏱️ 13:45 • 14h ago
+👁️ 17K • 👍 589 • 💬 60 • ⏱️ 13:45 • 15h ago
 
 ---
 
@@ -347,7 +347,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 40K • 👍 2K • 💬 24 • ⏱️ 48:39 • 15h ago
+👁️ 40K • 👍 2K • 💬 24 • ⏱️ 48:39 • 16h ago
 
 ---
 
@@ -397,7 +397,7 @@ HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S F
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 554 • 💬 51 • ⏱️ 5:30 • 13h ago
+👁️ 10K • 👍 554 • 💬 51 • ⏱️ 5:30 • 14h ago
 
 ---
 

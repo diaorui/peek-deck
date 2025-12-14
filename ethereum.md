@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T05:57:41.325069+00:00'
+updated: '2025-12-14T06:39:22.080207+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 05:57 UTC  
+**Last Updated:** December 14, 2025 at 06:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
+**24h:** +0.6%  
 **7d:** -0.4%  
 **30d:** -1.9%  
 **90d:** -30.9%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.26B
+**Market Cap:** $375.06B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
@@ -62,17 +62,25 @@ No max supply
 -37.2%
 
 **All-Time Low:** $0.43
-+717491.4%
++717692.3%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion December 14, 2025](https://www.reddit.com/r/ethereum/comments/1pm6u5l/daily_general_discussion_december_14_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+38m ago
+
+---
+
 **[Daily General Discussion December 13, 2025](https://www.reddit.com/r/ethereum/comments/1ple806/daily_general_discussion_december_13_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm trying to grasp the ultimate plan for the ETH blockchain based upon improvement proposals as well as live metrics in order to understand what developers want for the blockchain. Ultimately this is to sell an SLT to possibly invest into ETH. I'm glad that the latest update has made ETH cheaper to transact in which will help with day to day transactions, however this has made the supply inflationary as the burn rate is lower. Is the goal to have a slight amount of inflation? Is the goal to have an elastic supply where issuance and burn rate are roughly the same? or is the goal for a strictly deflationary supply? From a value proposition this matters and I feel like the Devs haven't really put their feet down on what their intentions are. (I could be very wrong.) My main criticism of the first smart contract project is that they often don't clarify their thoughts until there is a bull run. I'm open to thoughts, articles and conversation. I'm just trying to educate myself as much as possible. Thank you in advance.
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +96,7 @@ Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm try
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +128,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -140,47 +148,15 @@ Hi, total crypto newbie here. I need some guidance and expert advice on the best
 
 ---
 
-**[Any good blogs about MeV and flash loan bots?](https://www.reddit.com/r/ethereum/comments/1pjs6zv/any_good_blogs_about_mev_and_flash_loan_bots/)**
-
-Guys although I want to make flash loan bots and stuff, but can’t find any good posts on it which teaches from start, so any u recommend?
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
-
-Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
-
-CoinDesk • 2d ago
-
----
-
-**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
+**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-Yahoo Finance • 1d ago
-
----
-
-**[XRP Mildly Undervalued On MVRV: What About Bitcoin, Ethereum?](https://www.tradingview.com/news/newsbtc:800854a3e094b:0-xrp-mildly-undervalued-on-mvrv-what-about-bitcoin-ethereum/)**
-
-XRP is in a mild undervalued zone according to the 30-day MVRV Ratio. Here’s how other cryptocurrencies like Bitcoin and Ethereum compare.XRP 30-Day MVRV Ratio Shows Negative ReturnsIn a new post on X, on-chain analytics firm Santiment has talked about how the 30-day Market Value to Realized Value…
-
-TradingView — Track All Markets • 23h ago
-
----
-
-**[Key Hyperunit whale expands Ethereum position amid weak prices](https://www.fxstreet.com/cryptocurrencies/news/key-hyperunit-whale-expands-ethereum-position-amid-weak-prices-202512130434)**
-
-A major crypto whale has opened a long position in Ethereum (ETH) worth more than half a billion dollars on the Hyperliquid exchange.
-
-FXStreet • 1d ago
+Decrypt • 1d ago
 
 ---
 
@@ -228,6 +204,28 @@ The Motley Fool • 1d ago
 
 ---
 
+**[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive](https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/)**
+
+BlackRock’s filing raises questions on slashing risk, custody waterfalls and yield passthrough. We chart three scenarios for fees and liquidity.
+
+CryptoSlate • 2d ago
+
+---
+
+**[Ethereum Price Falls To $3,000 As Taker Volume Spikes To New High — What’s Happening? | Bitcoinist.com](https://bitcoinist.com/ethereum-price-falls-to-3000-as-taker-volume-spikes/)**
+
+Ethereum was one of the best-performing cryptocurrencies in the market over the past week, with its price jumping mid-week to as high as $3,400.
+
+Bitcoinist.com • 9h ago
+
+---
+
+**[Bitcoin Slumps After Fed Rate Cut, Oracle Earnings. What It Means for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-ripple-fed-rate-cut-crypto-aaeb2a7c?gaa_at=eafs&gaa_n=AWEtsqeTTaIXQw4mBYJ1LwqCoYWokmh7mlGTfjG1_9umVizVGiY6LVQFSRdX&gaa_ts=693e5f09&gaa_sig=GFiwqQtd1vP5kU53pWf7KMnqqkZg03mB32i-76Yu6C4EhpueRRrIFGXzDQez8bvNqMw2wMQKSimxGl-leG-MEQ%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 241 • 👍 22 • 💬 2 • ⏱️ 4:34 • 1h ago
+👁️ 241 • 👍 22 • 💬 2 • ⏱️ 4:34 • 2h ago
 
 ---
 
@@ -258,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 135 • 💬 4 • ⏱️ 4:05 • 12h ago
+👁️ 2K • 👍 135 • 💬 4 • ⏱️ 4:05 • 13h ago
 
 ---
 
@@ -288,7 +286,7 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 861 • 👍 37 • 💬 15 • ⏱️ 15:09 • 7h ago
+👁️ 861 • 👍 37 • 💬 15 • ⏱️ 15:09 • 8h ago
 
 ---
 
@@ -298,7 +296,7 @@ BITCOIN: Calm Before The Storm (Target Exposed)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 328 • 💬 36 • ⏱️ 18:12 • 10h ago
+👁️ 7K • 👍 328 • 💬 36 • ⏱️ 18:12 • 11h ago
 
 ---
 
@@ -308,7 +306,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 196 • 💬 9 • ⏱️ 21:14 • 14h ago
+👁️ 5K • 👍 196 • 💬 9 • ⏱️ 21:14 • 15h ago
 
 ---
 
@@ -318,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 344 • 👍 17 • 💬 2 • ⏱️ 4:09 • 18h ago
+👁️ 344 • 👍 17 • 💬 2 • ⏱️ 4:09 • 19h ago
 
 ---
 
