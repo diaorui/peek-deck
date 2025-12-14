@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T17:09:47.461704+00:00'
+updated: '2025-12-14T17:30:48.160180+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 17:09 UTC  
+**Last Updated:** December 14, 2025 at 17:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,081.38
+### $3,082.20
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -0.7%  
-**30d:** -2.2%  
-**90d:** -31.1%  
-**1y:** -21.6%  
+**24h:** -0.6%  
+**7d:** -1.4%  
+**30d:** -2.9%  
+**90d:** -31.6%  
+**1y:** -22.2%  
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 4h ago
 
 If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Block • 3d ago
 
 **[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
 
-TipRanks • 6h ago
+TipRanks • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 117 • 💬 4 • ⏱️ 4:34 • 12h ago
+👁️ 2K • 👍 117 • 💬 4 • ⏱️ 4:34 • 13h ago
 
 ---
 
@@ -266,7 +266,7 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 50 • 💬 16 • ⏱️ 15:09 • 18h ago
+👁️ 1K • 👍 50 • 💬 16 • ⏱️ 15:09 • 19h ago
 
 ---
 

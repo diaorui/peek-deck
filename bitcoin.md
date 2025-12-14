@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T17:09:47.455622+00:00'
+updated: '2025-12-14T17:30:48.154116+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 17:09 UTC  
+**Last Updated:** December 14, 2025 at 17:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -1.9%  
-**30d:** -6.7%  
-**90d:** -23.8%  
-**1y:** -14.6%  
+**24h:** -1.8%  
+**7d:** -2.4%  
+**30d:** -7.2%  
+**90d:** -24.2%  
+**1y:** -15.1%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -139,7 +139,7 @@ Cross post
 
 Turns out saving in something that is infinite and printable is not a very good idea. Who would know?
 
-2h ago
+3h ago
 
 ---
 
@@ -159,7 +159,7 @@ Forbes • 5h ago
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Motley Fool • 7h ago
 
 Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin Depot’s Scott Buchanan argues that crypto ATM operators must continually strengthen their safeguards and make things safer and more transparent for users — protective actions that not only benefit individual crypto users but also bolster the market’s integrity and support its long-term growth.
 
-CoinDesk • 7m ago
+CoinDesk • 28m ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 2d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ Investor's Business Daily • 1d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 6 • 💬 1 • 23h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 6 • 💬 1 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -261,7 +261,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 4d ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 5d ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -315,7 +315,7 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 8K • 👍 377 • 💬 91 • ⏱️ 12:56 • 16h ago
+👁️ 8K • 👍 377 • 💬 91 • ⏱️ 12:56 • 17h ago
 
 ---
 
