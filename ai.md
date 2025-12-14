@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T04:47:04.631461+00:00'
+updated: '2025-12-14T05:01:10.359170+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 04:47 UTC  
+**Last Updated:** December 14, 2025 at 05:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -67,7 +67,7 @@ An artificial intelligence agent has shown it can do what even seasoned cybersec
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 6h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 7h ago
 
 ---
 
@@ -83,7 +83,7 @@ The real-time headphone translations experience keeps each speaker’s tone, emp
 
 just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. However, i only have dual RTX 2080TIs and training is painfully slow. Currently working on training a model through the tinystories dataset and then will be running eval tests. Ill update when i can with more information. If you want to check it out here it is: https://github.com/Wulfic/AI-OS
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ For now
 
 I've been contacted quite a bit about my news bot so I've launched it in an official saas version. Connect up to 8 different social media platforms, build a separate news channel for each separate platform on each topic (e.g. HR or EdTech) and according to its own specific topic and timings. You can try a few posts for free too. https://configure.news
 
-5m ago
+19m ago
 
 ---
 
@@ -129,7 +129,7 @@ Forbes • 17h ago
 
 **[The Eerie Parallels Between AI Mania and the Dot-Com Bubble](https://www.wsj.com/finance/stocks/the-eerie-parallels-between-ai-mania-and-the-dot-com-bubble-f99be6fe?gaa_at=eafs&gaa_n=AWEtsqe4Aj7G0hi5D7z096fh83V0NPbX2xuzjU1oCsWchkUfMnaJkebBBHoK&gaa_ts=693e44b6&gaa_sig=YZluphnNQVsrb0e0KLv0dM8iATUWoBpB7XuPRU6CQgvoQWWpPjsyHG-BpV0EHVKMpcYSnyL_1Q7jBbkhsD-DUg%3D%3D)**
 
-The Wall Street Journal • 47m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Fortune • 1d ago
 
 The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest.
 
-NPR • 17h ago
+NPR • 18h ago
 
 ---
 
@@ -153,7 +153,7 @@ NPR • 17h ago
 
 The US has gone all-in on artificial intelligence. But the idea of an end-of-times battle with China over tomorrow’s key technology is part delusion, part lobbying tool for Silicon Valley
 
-Financial Times • 23h ago
+Financial Times • 1d ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 2d ago
 
 California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -255,7 +255,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 57 • 💬 46 • 7h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 57 • 💬 46 • 8h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -277,7 +277,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 132K • 👍 3K • 💬 411 • ⏱️ 1:21:07 • 16h ago
+👁️ 132K • 👍 3K • 💬 411 • ⏱️ 1:21:07 • 17h ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.6k • 🔱 288 • 58m ago
+⭐ 2.6k • 🔱 288 • 1h ago
 
 ---
 
@@ -722,7 +722,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 14m ago
+⭐ 861 • 🔱 49 • 28m ago
 
 ---
 

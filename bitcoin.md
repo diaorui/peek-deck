@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T04:47:04.639823+00:00'
+updated: '2025-12-14T05:01:10.367710+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 04:47 UTC  
+**Last Updated:** December 14, 2025 at 05:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.1%  
-**7d:** -0.7%  
-**30d:** -5.6%  
-**90d:** -22.9%  
-**1y:** -13.6%  
+**7d:** -0.5%  
+**30d:** -5.4%  
+**90d:** -22.7%  
+**1y:** -13.4%  
 
 ---
 
@@ -119,7 +119,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -127,13 +127,13 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 A buddy wants to bet me 1 grand.
 
-1h ago
+2h ago
 
 ---
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -235,7 +235,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 12h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 13h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -327,7 +327,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 189 • 💬 9 • ⏱️ 21:14 • 13h ago
+👁️ 4K • 👍 189 • 💬 9 • ⏱️ 21:14 • 14h ago
 
 ---
 
@@ -387,7 +387,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 184 • 💬 69 • ⏱️ 8:12 • 6h ago
+👁️ 2K • 👍 184 • 💬 69 • ⏱️ 8:12 • 7h ago
 
 ---
 
@@ -397,7 +397,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 df seni visual
 
-👁️ 9K • 👍 3K • 6h ago
+👁️ 9K • 👍 3K • 7h ago
 
 ---
 
