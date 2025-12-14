@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T08:52:50.922594+00:00'
+updated: '2025-12-14T09:15:50.866903+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 08:52 UTC  
+**Last Updated:** December 14, 2025 at 09:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
+**24h:** -0.5%  
 **7d:** -0.6%  
 **30d:** -5.5%  
-**90d:** -22.7%  
-**1y:** -13.4%  
+**90d:** -22.8%  
+**1y:** -13.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.39B
+**Market Cap:** $1799.33B
 Rank #1
 
-**Circulating Supply:** 19,961,931 BTC
+**Circulating Supply:** 19,961,940 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.5%
 
 **All-Time Low:** $67.81
-+132914.3%
++132846.5%
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -105,25 +105,25 @@ Rank #1
 
 Yes. Yes we are.
 
-16h ago
-
----
-
-**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
-
-4h ago
+17h ago
 
 ---
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-3h ago
+4h ago
+
+---
+
+**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
+
+5h ago
 
 ---
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -131,15 +131,15 @@ Yes. Yes we are.
 
 A buddy wants to bet me 1 grand.
 
-5h ago
+6h ago
 
 ---
 
-**[I've just set up my Secret Santa Miner](https://www.reddit.com/r/Bitcoin/comments/1plmw1n/ive_just_set_up_my_secret_santa_miner/)**
+**[End the Fed.](https://www.reddit.com/r/Bitcoin/comments/1pm5lh5/end_the_fed/)**
 
-It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
+Thieves.
 
-18h ago
+4h ago
 
 ---
 
@@ -151,7 +151,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -179,6 +179,14 @@ Bitcoin Magazine • 1d ago
 
 ---
 
+**[Crypto Promoter “Bitcoin Rodney” Faces Up to 20 Years on New Charges](https://finance.yahoo.com/news/crypto-promoter-bitcoin-rodney-faces-080900466.html)**
+
+Rodney Burton, a 56-year-old crypto promoter known online as “Bitcoin Rodney,” is facing expanded federal charges tied to his alleged role in promoting the $1.8 billion HyperFund cryptocurrency scheme. Key Takeaways: US prosecutors expanded charges against “Bitcoin Rodney” over the $1.8B HyperFund scheme. Burton faces decades in prison after being ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
 x.com • 13h ago
@@ -203,7 +211,7 @@ Forbes • 1d ago
 
 Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -215,12 +223,6 @@ The Motley Fool • 22h ago
 
 ---
 
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
-
-Reuters • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -229,7 +231,7 @@ Reuters • 1d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 5 • 💬 1 • 15h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 5 • 💬 1 • 16h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -237,7 +239,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 2 • 16h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 2 • 17h ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -323,7 +325,7 @@ It's official: every U.S. bank now has the green light to sell Bitcoin. Is this 
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 641 • 💬 98 • ⏱️ 31:28 • 8h ago
+👁️ 12K • 👍 641 • 💬 98 • ⏱️ 31:28 • 9h ago
 
 ---
 
@@ -333,7 +335,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 435 • 💬 111 • ⏱️ 14:22 • 13h ago
+👁️ 7K • 👍 435 • 💬 111 • ⏱️ 14:22 • 14h ago
 
 ---
 
@@ -373,7 +375,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 41K • 👍 2K • 💬 24 • ⏱️ 48:39 • 18h ago
+👁️ 41K • 👍 2K • 💬 24 • ⏱️ 48:39 • 19h ago
 
 ---
 
@@ -383,7 +385,7 @@ HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S F
 
 📺 Austin Hilton
 
-👁️ 11K • 👍 565 • 💬 51 • ⏱️ 5:30 • 16h ago
+👁️ 11K • 👍 565 • 💬 51 • ⏱️ 5:30 • 17h ago
 
 ---
 
@@ -393,7 +395,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 202 • 💬 11 • ⏱️ 21:14 • 17h ago
+👁️ 5K • 👍 202 • 💬 11 • ⏱️ 21:14 • 18h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T08:52:50.931854+00:00'
+updated: '2025-12-14T09:15:50.876145+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 08:52 UTC  
+**Last Updated:** December 14, 2025 at 09:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
 
-21h ago
+22h ago
 
 ---
 
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -56,7 +56,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-3h ago
+4h ago
 
 ---
 
@@ -68,17 +68,17 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 ---
 
+**[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
+
+18h ago
+
+---
+
 **[PX4 SIL fixed-wing and multirotor Simulator using Simulink](https://www.reddit.com/r/robotics/comments/1pm2vea/px4_sil_fixedwing_and_multirotor_simulator_using/)**
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
 
 6h ago
-
----
-
-**[ROBOTERA: Live Demo 12-DOF Hand & L7 Humanoid Robot](https://www.reddit.com/r/robotics/comments/1plmon9/robotera_live_demo_12dof_hand_l7_humanoid_robot/)**
-
-18h ago
 
 ---
 
@@ -102,7 +102,7 @@ Has anyone gotten pi0 to work with their SO101 Lerobot arm? I’ve trained it wi
 
 Hi r/Robotics , I’ve been working on a project exploring how Generative AI can replace (or augment) traditional trajectory planners for autonomous mobile robots/vehicles. I’m releasing Efficient Virtuoso, a Conditional Latent Diffusion Model (LDM) designed to plan long-horizon trajectories in complex, uncertain environments (specifically the Waymo Open Motion Dataset). * Paper: https://arxiv.org/abs/2509.03658 * Code: https://github.com/AntonioAlgaida/DiffusionTrajectoryPlanner The Robotics Perspective: Why Diffusion? Standard planners (like Lattice planners or optimization-based MPC) often struggle with multi-modality in social environments. If a pedestrian *might* cross or *might* stop, a deterministic planner has to average those futures or pick one arbitrarily, often leading to "freezing robot" problems or unsafe maneuvers. Diffusion models treat planning as a sampling problem. They can generate a distribution of valid plans (e.g., "Pass Left" AND "Pass Right") effectively representing the uncertainty of the workspace. Making it Efficient (The Architecture) The main drawback of diffusion is inference speed (denoising takes many steps). To make this viable for robotics constraints, I focused on architectural efficiency: Scene Encoding: A Transformer fuses the local map geometry and dynamic obstacles into a context embedding that conditions the planner. ### Results * Precision: Achieves a minADE (Average Displacement Error) of **0.25m**. * Behavior: Successfully models complex maneuvers like unprotected left turns, generating diverse "fan-outs" of trajectories that respect lane geometry. Discussion I view this type of model as a high-fidelity "Proposal Generator" for a hierarchical stack. You generate 20 diverse, plausible plans via diffusion, and then run them through a lightweight kinematic safety check or cost function to pick the best one. I’d be curious to hear thoughts from the community on integrating generative planners with hard safety constraints (like Control Barrier Functions).
 
-8h ago
+9h ago
 
 ---
 
@@ -118,19 +118,11 @@ IEEE Spectrum • 4d ago
 
 ---
 
-**[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
+**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
 
-Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
+“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
 
-NVIDIA Developer • 2d ago
-
----
-
-**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
-
-The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
-
-AP News • 1d ago
+Fortune • 17h ago
 
 ---
 
@@ -138,7 +130,7 @@ AP News • 1d ago
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 2h ago
+South China Morning Post • 3h ago
 
 ---
 
@@ -150,11 +142,11 @@ ABC7 San Francisco • 2d ago
 
 ---
 
-**[Northampton Robotics team earns First Class rating from VHSL](https://shoredailynews.com/local-sports/northampton-robotics-team-earns-first-class-rating-from-vhsl/)**
+**[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
 
-Northampton High School’s robotics team, The Shorebots (FRC Team 1908), has earned a “FIRST CLASS” rating from the Virginia High School League (VHSL), placing the program among the top robotics teams evaluated statewide. VHSL reviews portfolios submitted by robotics programs each year, assessing their application of STEM principles and the depth of their exploration in science and technology fields. Robotics ... Read More
+Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
 
-Shore Daily News • 2d ago
+NVIDIA Developer • 2d ago
 
 ---
 
@@ -170,7 +162,7 @@ Yahoo Finance • 4d ago
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 21h ago
+Scientific American • 22h ago
 
 ---
 
@@ -182,11 +174,19 @@ The Robot Report • 1d ago
 
 ---
 
-**[Vine-inspired robotic gripper gently lifts heavy and fragile objects](https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210)**
+**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://www.fool.com/investing/2025/12/13/94-billion-robotics-market-set-to-surge-300-1-etf/)**
 
-Like a growing vine, a new robotic gripper can snake around and lift a variety of objects, including a glass vase and a watermelon, offering a gentler approach than conventional gripper designs. A larger version of the robo-tendrils can also safely lift a human out of bed.
+This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-MIT News • 3d ago
+The Motley Fool • 13h ago
+
+---
+
+**[Butler reboot: European firm to deploy 10,000 household humanoid robots in factories](https://interestingengineering.com/ai-robotics/1x-to-deploy-humanoid-robots-for-warehouses)**
+
+1X has partnered with EQT to make up to 10,000 Neo humanoid robots available to more than 300 companies between 2026 and 2030.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ I built LEGO robots based on EVERY Disney Pixar movie ever made. From Toy Story 
 
 📺 The B2
 
-👁️ 125K • 👍 2K • 💬 583 • ⏱️ 18:29 • 18h ago
+👁️ 125K • 👍 2K • 💬 583 • ⏱️ 18:29 • 19h ago
 
 ---
 
