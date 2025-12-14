@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T16:51:10.924360+00:00'
+updated: '2025-12-14T17:09:47.446857+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 16:51 UTC  
+**Last Updated:** December 14, 2025 at 17:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,13 +49,21 @@ A lot of AI image tools are powerful, but they rely heavily on long, precise pro
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 18h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 19h ago
 
 ---
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
 🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 1d ago
+
+---
+
+**[One-Minute Daily AI News 12/14/2025](https://www.reddit.com/r/artificial/comments/1pm8i0t/oneminute_daily_ai_news_12142025/)**
+
+Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
+
+9h ago
 
 ---
 
@@ -81,14 +89,6 @@ The real-time headphone translations experience keeps each speaker’s tone, emp
 
 ---
 
-**[One-Minute Daily AI News 12/14/2025](https://www.reddit.com/r/artificial/comments/1pm8i0t/oneminute_daily_ai_news_12142025/)**
-
-Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
-
-9h ago
-
----
-
 **[AI Agent Outperforms Human Hackers in Stanford Cybersecurity Experiment](https://www.reddit.com/r/artificial/comments/1pm2lfg/ai_agent_outperforms_human_hackers_in_stanford/)**
 
 An artificial intelligence agent has shown it can do what even seasoned cybersecurity professionals sometimes miss. In a controlled experiment at Stanford
@@ -109,7 +109,7 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. However, i only have dual RTX 2080TIs and training is painfully slow. Currently working on training a model through the tinystories dataset and then will be running eval tests. Ill update when i can with more information. If you want to check it out here it is: https://github.com/Wulfic/AI-OS
 
-13h ago
+14h ago
 
 ---
 
@@ -117,11 +117,17 @@ just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. H
 
 ## Google News: "ai"
 
+**[Introducing GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)**
+
+OpenAI • 2d ago
+
+---
+
 **[The View From Inside the AI Bubble](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/)**
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
-The Atlantic • 4h ago
+The Atlantic • 5h ago
 
 ---
 
@@ -129,7 +135,7 @@ The Atlantic • 4h ago
 
 Dimon added that people who possess soft skills will have "plenty of jobs."
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -143,7 +149,15 @@ Axios • 3h ago
 
 From a recent selloff in the shares of Nvidia Corp., to Oracle Corp.’s plunge after reporting mounting spending on AI, to souring sentiment around a network of companies exposed to OpenAI, signs of skepticism are increasing.  “We’re in the phase of the cycle where the rubber meets the road,” said Jim Morrow, chief executive officer of Callodine Capital Management.  The S&P 500’s three-year, $30 trillion bull run has largely been driven by the world’s biggest tech companies like Alphabet Inc. and Microsoft Corp., as well as firms benefiting from spending on AI infrastructure like chipmakers Nvidia and Broadcom Inc., and electricity providers such as Constellation Energy Corp. If they stop rising, the equities indexes will follow.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Regular People Are Rising Up Against AI Surveillance Cameras](https://futurism.com/future-society/opposition-ai-surveillance-cameras)**
+
+AI surveillance outfit Flock Safety is aggressively expanding its dragnet across the US, but ordinary people aren't impressed.
+
+Futurism • 3h ago
 
 ---
 
@@ -155,41 +169,25 @@ The Guardian • 1d ago
 
 ---
 
-**[For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)**
-
-If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
-
-WIRED • 9h ago
-
----
-
 **[He created Grand Theft Auto. Now he's back with a novel about an AI that hijacks your mind](https://www.bbc.com/news/articles/c2epm9z9kkvo)**
 
 A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.
 
-BBC • 15h ago
+BBC • 16h ago
+
+---
+
+**[For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)**
+
+If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
+
+WIRED • 10h ago
 
 ---
 
 **[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
 
 The Economist • 5h ago
-
----
-
-**[Working with AI can be even more efficient with this all-in-one platform](https://mashable.com/article/dec-14-1minai-advanced-business-plan-lifetime-subscription)**
-
-Experience the next level of AI efficiency.
-
-Mashable • 6h ago
-
----
-
-**[The Architects of AI Are TIME’s 2025 Person of the Year](https://time.com/7339685/person-of-the-year-2025-ai-architects/)**
-
-The Architects of AI drove the economy, shaped geopolitics, and changed the way we interact with the world
-
-Time Magazine • 3d ago
 
 ---
 
@@ -207,7 +205,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 391 • 💬 395 • 1d ago
+⬆️ 395 • 💬 398 • 1d ago
 
 ---
 
@@ -231,15 +229,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 124 • 💬 75 • 15h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
-
----
-
-**[The Gorman Paradox: Where Are All the AI-Generated Apps?](https://news.ycombinator.com/item?id=46262545)**
-
-In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
-
-⬆️ 95 • 💬 124 • 4h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 125 • 💬 79 • 15h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -247,7 +237,15 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 94 • 💬 26 • 3h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 108 • 💬 32 • 3h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+
+---
+
+**[The Gorman Paradox: Where Are All the AI-Generated Apps?](https://news.ycombinator.com/item?id=46262545)**
+
+In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
+
+⬆️ 101 • 💬 142 • 4h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -261,15 +259,15 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 62 • 💬 56 • 19h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 62 • 💬 56 • 20h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
-**[AI is bringing old nuclear plants out of retirement](https://news.ycombinator.com/item?id=46254276)**
+**[Willison on Merchant's "Copywriters reveal how AI has decimated their industry"](https://news.ycombinator.com/item?id=46261998)**
 
-The White House has promised to quadruple nuclear power by 2050.
+Brian Merchant has been collecting personal stories for his series AI Killed My Job - previously covering tech workers, translators, and artists - and this latest piece includes anecdotes from …
 
-⬆️ 52 • 💬 67 • 1d ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
+⬆️ 54 • 💬 38 • 7h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
 
 ---
 
@@ -303,7 +301,7 @@ Dog V/S Dog – AI Generated Epic Fight Is AI generated Shorts video mein aap de
 
 📺 ZX_SONU_EDITDZ
 
-👁️ 5K • 💬 8 • ⏱️ 0:47 • 15h ago
+👁️ 5K • 💬 8 • ⏱️ 0:47 • 16h ago
 
 ---
 
@@ -333,7 +331,7 @@ Get AI Fiesta here: https://aifiesta.link/8UZPJRp The Power of World's Most Powe
 
 📺 Dhruv Rathee
 
-👁️ 241K • 👍 31K • 💬 4K • ⏱️ 22:29 • 1h ago
+👁️ 241K • 👍 31K • 💬 4K • ⏱️ 22:29 • 2h ago
 
 ---
 
@@ -389,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,689 • 6d ago
+⬇️ 277,583 • ❤️ 2,691 • 6d ago
 
 ---
 
@@ -413,7 +411,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 67,698 • ❤️ 407 • 4d ago
+⬇️ 67,698 • ❤️ 409 • 4d ago
 
 ---
 
@@ -425,7 +423,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 325 • 2d ago
+⬇️ 15,778 • ❤️ 325 • 27m ago
 
 ---
 
@@ -461,7 +459,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 5,553 • ❤️ 197 • 2d ago
+⬇️ 5,553 • ❤️ 198 • 2d ago
 
 ---
 
@@ -473,7 +471,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,725 • ❤️ 194 • 2d ago
+⬇️ 4,725 • ❤️ 194 • 27m ago
 
 ---
 
@@ -485,7 +483,7 @@ Apriel-1.6-15B-Thinker is a cost-efficient multimodal reasoning model that excel
 
 `image-text-to-text` `14.9B`
 
-⬇️ 1,276 • ❤️ 185 • 4d ago
+⬇️ 1,276 • ❤️ 186 • 4d ago
 
 ---
 
@@ -497,7 +495,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 176 • 3d ago
+⬇️ 0 • ❤️ 177 • 3d ago
 
 ---
 
@@ -659,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.8k • 🔱 317 • 4m ago
+⭐ 2.8k • 🔱 317 • 23m ago
 
 ---
 

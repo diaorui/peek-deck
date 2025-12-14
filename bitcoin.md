@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T16:51:10.932795+00:00'
+updated: '2025-12-14T17:09:47.455622+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 16:51 UTC  
+**Last Updated:** December 14, 2025 at 17:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,043.28
+### $88,671.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
+**24h:** -1.3%  
 **7d:** -1.9%  
 **30d:** -6.7%  
 **90d:** -23.8%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1781.71B
+**Market Cap:** $1775.82B
 Rank #1
 
-**Circulating Supply:** 19,962,062 BTC
+**Circulating Supply:** 19,962,075 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.3%
+-29.4%
 
 **All-Time Low:** $67.81
-+131342.3%
++131084.2%
 
 ---
 
@@ -77,12 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
-
-11h ago
-
----
-
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
 20h ago
@@ -91,25 +85,25 @@ Rank #1
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-18h ago
+19h ago
 
 ---
 
-**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
-
-17h ago
-
----
-
-**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
+**[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
 12h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
+
+2h ago
 
 ---
 
@@ -121,9 +115,15 @@ Simply lovely
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
+**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-2h ago
+17h ago
+
+---
+
+**[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
+
+13h ago
 
 ---
 
@@ -131,7 +131,7 @@ Simply lovely
 
 Cross post
 
-5h ago
+6h ago
 
 ---
 
@@ -147,11 +147,11 @@ Turns out saving in something that is infinite and printable is not a very good 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Below $90K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
+**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
-Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-CoinDesk • 2h ago
+Forbes • 5h ago
 
 ---
 
@@ -171,6 +171,14 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Compliance, Credibility, and Consumer Trust in the New Age of Crypto ATMs](https://www.coindesk.com/opinion/2025/12/14/compliance-credibility-and-consumer-trust-in-the-new-age-of-crypto-atms)**
+
+Bitcoin Depot’s Scott Buchanan argues that crypto ATM operators must continually strengthen their safeguards and make things safer and more transparent for users — protective actions that not only benefit individual crypto users but also bolster the market’s integrity and support its long-term growth.
+
+CoinDesk • 7m ago
+
+---
+
 **[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
 
 x.com • 21h ago
@@ -181,7 +189,7 @@ x.com • 21h ago
 
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -210,14 +218,6 @@ Reuters • 1d ago
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
 Investor's Business Daily • 1d ago
-
----
-
-**[Peter Schiff Slams Michael Saylor's Bitcoin Strategy As 'Total....'](https://finance.yahoo.com/news/peter-schiff-slams-michael-saylors-185957277.html)**
-
-Bitcoin critic Peter Schiff has renewed his criticism of Michael Saylor after the Strategy (NASDAQ:MSTR) executive outlined his aggressive plan to buy as much Bitcoin (CRYPTO: BTC) as possible and convert it into BTC-backed digital credit. What ...
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -305,7 +305,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 484 • 💬 8 • ⏱️ 24:03 • 15h ago
+👁️ 9K • 👍 484 • 💬 8 • ⏱️ 24:03 • 16h ago
 
 ---
 
@@ -325,7 +325,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 9K • 👍 490 • 💬 129 • ⏱️ 14:22 • 21h ago
+👁️ 9K • 👍 490 • 💬 129 • ⏱️ 14:22 • 22h ago
 
 ---
 
