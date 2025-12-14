@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T15:21:18.135550+00:00'
+updated: '2025-12-14T15:36:59.447306+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 15:21 UTC  
+**Last Updated:** December 14, 2025 at 15:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,7 +47,7 @@ Live Bitcoin monitoring dashboard
 **24h:** -1.1%  
 **7d:** -1.8%  
 **30d:** -6.6%  
-**90d:** -23.6%  
+**90d:** -23.7%  
 **1y:** -14.5%  
 
 ---
@@ -103,7 +103,7 @@ Rank #1
 
 **[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -151,7 +151,7 @@ This will age well in 10 years. See you then.
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bloomberg.com • 1d ago
 
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -301,7 +301,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 415 • 💬 21 • ⏱️ 21:16 • 18h ago
+👁️ 10K • 👍 415 • 💬 21 • ⏱️ 21:16 • 19h ago
 
 ---
 
@@ -371,7 +371,7 @@ They waited until the weekend. On December 12, 2025, Nasdaq made a move that cou
 
 📺 Ryan’s Money Lab
 
-👁️ 21K • 👍 656 • 💬 69 • ⏱️ 13:45 • 23h ago
+👁️ 21K • 👍 656 • 💬 69 • ⏱️ 13:45 • 1d ago
 
 ---
 

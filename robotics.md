@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T15:21:18.144711+00:00'
+updated: '2025-12-14T15:36:59.456726+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 15:21 UTC  
+**Last Updated:** December 14, 2025 at 15:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -102,7 +102,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 What's up guys, I posted about this PX4 SIL simulator earlier this year and got some feedback from the Reddit community. Me and the guys made some updates, added a hexacopter, and added a few new features like failure injections. This is something we wish we had a while ago to help with testing out PX4 behaviors when building custom vehicles or modifying the PX4 firmware. Hope it helps someone else now! Video below shows how it works. Github Repo: https://github.com/optimAero/optimAeroPX4SIL Simulink based PX4 SIL Simulator
 
-12h ago
+13h ago
 
 ---
 
@@ -168,7 +168,7 @@ Scientific American • 1d ago
 
 This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -184,7 +184,7 @@ Business Insider • 12h ago
 
 The tiny, microscopic robot packs an onboard computer, solar cells, and propulsion system, and is capable of sensing its environment.
 
-Futurism • 23h ago
+Futurism • 1d ago
 
 ---
 

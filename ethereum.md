@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T15:21:18.141506+00:00'
+updated: '2025-12-14T15:36:59.453412+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 15:21 UTC  
+**Last Updated:** December 14, 2025 at 15:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -1.6%  
-**30d:** -3.1%  
-**90d:** -31.8%  
-**1y:** -22.3%  
+**24h:** -0.8%  
+**7d:** -1.4%  
+**30d:** -2.9%  
+**90d:** -31.6%  
+**1y:** -22.2%  
 
 ---
 
@@ -172,7 +172,7 @@ FXStreet • 1d ago
 
 If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 112 • 💬 4 • ⏱️ 4:34 • 10h ago
+👁️ 2K • 👍 112 • 💬 4 • ⏱️ 4:34 • 11h ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum is coiling for a major move, but the biggest opportunity might be the s
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 51 • 💬 16 • ⏱️ 15:09 • 16h ago
+👁️ 1K • 👍 51 • 💬 16 • ⏱️ 15:09 • 17h ago
 
 ---
 
@@ -278,7 +278,7 @@ Wall Street treats BitMine Immersion ($BMNR) like a passive Bitcoin ETF. They ar
 
 📺 Wall Street Stockcast
 
-👁️ 109 • 👍 8 • ⏱️ 7:25 • 2h ago
+👁️ 109 • 👍 8 • ⏱️ 7:25 • 3h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 139 • 💬 4 • ⏱️ 4:05 • 21h ago
+👁️ 3K • 👍 139 • 💬 4 • ⏱️ 4:05 • 22h ago
 
 ---
 

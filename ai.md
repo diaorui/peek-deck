@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T15:21:18.127227+00:00'
+updated: '2025-12-14T15:36:59.438796+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 15:21 UTC  
+**Last Updated:** December 14, 2025 at 15:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,13 +49,13 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-3h ago
+4h ago
 
 ---
 
 **[Meta is pivoting away from open source AI to money-making AI](https://www.reddit.com/r/artificial/comments/1plnzz7/meta_is_pivoting_away_from_open_source_ai_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 23h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model) • 1d ago
 
 ---
 
@@ -351,7 +351,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 112K • 👍 9K • 💬 1K • ⏱️ 16:45 • 15h ago
+👁️ 112K • 👍 9K • 💬 1K • ⏱️ 16:45 • 16h ago
 
 ---
 
@@ -399,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 130,627 • ❤️ 815 • 1d ago
+⬇️ 130,627 • ❤️ 815 • 2d ago
 
 ---
 
@@ -646,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.2k • 🔱 2.2k • 6h ago
+⭐ 14.2k • 🔱 2.2k • 7h ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.8k • 🔱 312 • 3h ago
+⭐ 2.8k • 🔱 312 • 4h ago
 
 ---
 
