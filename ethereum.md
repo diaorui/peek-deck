@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T21:39:10.919780+00:00'
+updated: '2025-12-14T21:50:11.629257+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 21:39 UTC  
+**Last Updated:** December 14, 2025 at 21:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -1.1%  
-**30d:** -2.6%  
-**90d:** -31.4%  
-**1y:** -22.0%  
+**24h:** -1.2%  
+**7d:** -1.4%  
+**30d:** -2.9%  
+**90d:** -31.6%  
+**1y:** -22.2%  
 
 ---
 
@@ -194,7 +194,7 @@ Binance • 2d ago
 
 Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
-Nasdaq • 9h ago
+Nasdaq • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Stock Moe
 
-👁️ 10K • 👍 595 • 💬 38 • ⏱️ 14:28 • 23h ago
+👁️ 10K • 👍 595 • 💬 38 • ⏱️ 14:28 • 1d ago
 
 ---
 
