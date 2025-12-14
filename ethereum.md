@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T13:37:17.074927+00:00'
+updated: '2025-12-14T13:49:58.327878+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 13:37 UTC  
+**Last Updated:** December 14, 2025 at 13:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -0.9%  
-**30d:** -2.4%  
-**90d:** -31.2%  
-**1y:** -21.8%  
+**24h:** -0.7%  
+**7d:** -1.0%  
+**30d:** -2.5%  
+**90d:** -31.3%  
+**1y:** -21.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.51B
+**Market Cap:** $373.06B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.6%
 
 **All-Time Low:** $0.43
-+712736.0%
++713276.4%
 
 ---
 
@@ -184,17 +184,17 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
+**[Prysm Bug Cost Ethereum Validators Over $1 Million After Fusaka Upgrade](https://finance.yahoo.com/news/prysm-bug-cost-ethereum-validators-130000701.html)**
 
-Binance • 2d ago
+A software bug in Ethereum consensus client Prysm caused validators to miss out on 382 ETH, worth more than $1 million.
+
+Yahoo Finance • 49m ago
 
 ---
 
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
+**[Ethereum price prediction following $57.6M ETF Inflows – What’s Coming?](https://www.binance.com/en/square/post/33595884536089)**
 
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
-
-CoinDesk • 1d ago
+Binance • 2d ago
 
 ---
 
@@ -203,6 +203,14 @@ CoinDesk • 1d ago
 Ethereum approaches whale levels: Is greed fueling the next crash?
 
 AMBCrypto • 14h ago
+
+---
+
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
+
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -220,12 +228,6 @@ The Block • 3d ago
 
 ---
 
-**[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
-
-TipRanks • 3h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +238,7 @@ TipRanks • 3h ago
 
 📺 Stock Moe
 
-👁️ 9K • 👍 554 • 💬 37 • ⏱️ 14:28 • 15h ago
+👁️ 9K • 👍 554 • 💬 37 • ⏱️ 14:28 • 16h ago
 
 ---
 

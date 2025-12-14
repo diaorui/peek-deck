@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T13:37:17.078169+00:00'
+updated: '2025-12-14T13:49:58.331142+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 13:37 UTC  
+**Last Updated:** December 14, 2025 at 13:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
-1h ago
+2h ago
 
 ---
 
@@ -64,15 +64,15 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 ---
 
-**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
+**[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-16h ago
+6h ago
 
 ---
 
-**[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
+**[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-5h ago
+16h ago
 
 ---
 
@@ -84,19 +84,17 @@ We’ll be sharing performance and application demos. Comments and discussion ar
 
 ---
 
-**[how to connect battery to URC10 board?](https://www.reddit.com/r/robotics/comments/1pmcopl/how_to_connect_battery_to_urc10_board/)**
-
-Hello everyone! I’m kinda nervous and need some advice. So I’m working on connecting a battery to my URC10, but I’m honestly scared of sparks and doing something wrong. I already soldered the battery into an XT60 connector, but now I’m stuck wondering… did I do it right? Should I go ahead and connect it already, or am I missing something important? I don’t want to fry anything or hurt myself 😭. Can anyone walk me through the safe way to connect this, or confirm if I’m on the right track?
-
-1h ago
-
----
-
 **[Mantaray, Biomimetic, ROS2, Pressure compensated underwater robot. I think.](https://www.reddit.com/r/robotics/comments/1plg0q6/mantaray_biomimetic_ros2_pressure_compensated/)**
 
 Been working on a pressure compensated, ros2 biomimetic robot. The idea is to build something that is cost effective, long autonomy, open source software to lower the cost of doing things underwater, to help science and conservation especially in areas and for teams that are priced out of participating. Working on a openCTD based CTD (montoring grade) to include in it. Pressure compensated camera. Aiming for about 1 m/s cruise. Im getting about ~6 hours runtime on a 5300mah for actuation (another of the same battery for compute), so including larger batteries is pretty simple, which should increase capacity both easily and cheaply. Lots of upgrade on the roadmap. And the one in the video is the previous structural design. Already have a new version but will make videos on that later. Oh, and because the design is pressure compensated, I estimate it can go VERY VERY DEEP. how deep? no idea yet. But there's essentially no air in the whole thing and i modified electronic components to help with pressure tolerance. Next step is replacing the cheap knockoff IMU i had, which just died on me for a more reliable, drop i2c and try spi or uart for it. Develop a dead reckoning package and start setting waypoints on the GUI. So it can work both tethered or in auv mode. If i can save some cash i will start playing with adding a DVL into the mix for more interesting autonomous missions. GUI is just a nicegui implementation. But it should allow me to control the robot remotely with tailscale or husarnet.
 
 1d ago
+
+---
+
+**[Figure03 robot serving beer](https://www.reddit.com/r/robotics/comments/1pme28o/figure03_robot_serving_beer/)**
+
+21m ago
 
 ---
 
@@ -118,19 +116,19 @@ scmp.com • 7h ago
 
 ---
 
-**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
-
-Making safe and regulated humanoids is a core mission of the summit and participants.
-
-ABC7 San Francisco • 2d ago
-
----
-
 **[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
 
 Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
 
 AP News • 1d ago
+
+---
+
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
+
+Making safe and regulated humanoids is a core mission of the summit and participants.
+
+ABC7 San Francisco • 2d ago
 
 ---
 

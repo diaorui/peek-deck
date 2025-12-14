@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T13:37:17.068937+00:00'
+updated: '2025-12-14T13:49:58.321897+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 13:37 UTC  
+**Last Updated:** December 14, 2025 at 13:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -1.7%  
-**30d:** -6.5%  
-**90d:** -23.6%  
-**1y:** -14.4%  
+**24h:** -0.7%  
+**7d:** -1.5%  
+**30d:** -6.4%  
+**90d:** -23.5%  
+**1y:** -14.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1781.14B
+**Market Cap:** $1782.45B
 Rank #1
 
 **Circulating Supply:** 19,962,021 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.3%
+-29.2%
 
 **All-Time Low:** $67.81
-+131404.2%
++131522.2%
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[The only one with the honest network](https://www.reddit.com/r/Bitcoin/comments/1pmaboy/the_only_one_with_the_honest_network/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -115,7 +115,7 @@ Rank #1
 
 **[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -135,9 +135,9 @@ This will age well in 10 years. See you then.
 
 ---
 
-**[We are not the same](https://www.reddit.com/r/Bitcoin/comments/1plwplw/we_are_not_the_same/)**
+**[Bitcoin only, sybau shitcoin](https://www.reddit.com/r/Bitcoin/comments/1pmalcr/bitcoin_only_sybau_shitcoin/)**
 
-16h ago
+3h ago
 
 ---
 
@@ -153,9 +153,11 @@ The Motley Fool • 4h ago
 
 ---
 
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
-Reuters • 1d ago
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+
+Forbes • 1h ago
 
 ---
 
@@ -175,27 +177,11 @@ The Motley Fool • 1h ago
 
 ---
 
-**[Brazil’s Largest Private Bank Advises 3% Bitcoin Allocation For Clients](https://finance.yahoo.com/news/brazil-largest-private-bank-advises-210131274.html)**
+**[Covered Call Selling by Bitcoin Whales Is Weighing on Spot Prices, Analyst Says](https://finance.yahoo.com/news/covered-call-selling-bitcoin-whales-103000640.html)**
 
-Brazil's top bank Itaú Unibanco has advised clients to allocate up to 3% of their portfolios to Bitcoin by 2026.
+Bitcoin’s struggle to regain upside momentum near the $90,000 level may be less about weak demand and more about how large, long-term holders are managing their exposure, according to market analyst Jeff Park. Key Takeaways: Bitcoin’s muted price action near $90,000 is being driven by covered call selling from long-term ...
 
-Yahoo Finance • 16h ago
-
----
-
-**[Brazil’s Largest Asset Manager Recommends Investors Put Up to 3% of their Money in Bitcoin to Hedge Against FX, Market Shocks](https://www.coindesk.com/business/2025/12/13/brazil-s-largest-asset-manager-recommends-investors-put-up-to-3-of-their-money-in-bitcoin-to-hedge-against-fx-market-shocks)**
-
-The recommendation is in line with other global asset managers like BlackRock and Bank of America suggesting small portfolio allocations to the largest cryptocurrency.
-
-CoinDesk • 21h ago
-
----
-
-**[Brazil’s leading bank says savers should keep up to 3% of their money in Bitcoin](https://finance.yahoo.com/news/brazil-leading-bank-says-savers-114309762.html)**
-
-Itaú Unibanco has $78.20 billion market cap. Investments should be between 1% and 3% of customers’ portfolio, executive says. Bank’s offers Bitcoin trading on its app, as well as Bitcoin exchange-traded fund.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -220,6 +206,20 @@ CoinDesk • 20h ago
 Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
 
 Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+
+Reuters • 1d ago
+
+---
+
+**[These Three Metrics Show Bitcoin Found Strong Support Near $80,000](https://www.coindesk.com/markets/2025/12/12/these-three-metrics-show-bitcoin-found-strong-support-near-usd80-000)**
+
+Onchain data shows multiple cost basis metrics confirm heavy demand and investor conviction around the $80,000 price level.
+
+CoinDesk • 18h ago
 
 ---
 

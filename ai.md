@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T13:37:17.060329+00:00'
+updated: '2025-12-14T13:49:58.313551+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 13:37 UTC  
+**Last Updated:** December 14, 2025 at 13:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Fei-Fei Li, a Stanford professor and CEO of AI startup World Labs, known as the 'Godmother of AI' says degrees are less important in hiring than how quickly you can ‘superpower yourself’ with new tools](https://www.reddit.com/r/artificial/comments/1plx3ah/feifei_li_a_stanford_professor_and_ceo_of_ai/)**
-
-Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
-
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 15h ago
-
----
-
 **[Exploring a more direct way to edit AI images after getting frustrated myself](https://www.reddit.com/r/artificial/comments/1pmc0h3/exploring_a_more_direct_way_to_edit_ai_images/)**
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
 2h ago
+
+---
+
+**[Fei-Fei Li, a Stanford professor and CEO of AI startup World Labs, known as the 'Godmother of AI' says degrees are less important in hiring than how quickly you can ‘superpower yourself’ with new tools](https://www.reddit.com/r/artificial/comments/1plx3ah/feifei_li_a_stanford_professor_and_ceo_of_ai/)**
+
+Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
+
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 15h ago
 
 ---
 
@@ -93,7 +93,7 @@ An artificial intelligence agent has shown it can do what even seasoned cybersec
 
 Time’s 2025 Person of the Year: The architects of AI.[1] AI data center boom could be bad news for other infrastructure projects.[2] Google Translate brings real-time speech translations to any headphones.[3] OpenAI has Released the ‘circuit-sparsity’: A Set of Open Tools for Connecting Weight Sparse Models and Dense Baselines through Activation Bridges.[4] Sources: [1] https://www.reuters.com/business/media-telecom/architects-ai-named-times-person-year-2025-12-11/ [2] https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/ [3] https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones [4] https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/
 
-5h ago
+6h ago
 
 ---
 
@@ -125,37 +125,47 @@ Fortune • 4h ago
 
 ---
 
-**[For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)**
+**[The View From Inside the AI Bubble](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/)**
 
-If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
+Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
-WIRED • 6h ago
+The Atlantic • 1h ago
 
 ---
 
 **[It's beginning to look a lot like (AI) Christmas](https://www.axios.com/2025/12/14/ai-christmas-nativity-visuals-sermons-jesus)**
 
-Axios • 49m ago
+Axios • 1h ago
 
 ---
 
-**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
+**[How Trump’s tech advisers overcame a MAGA rebellion over AI](https://www.washingtonpost.com/politics/2025/12/14/trump-ai-executive-order-divisions/)**
 
-California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
-
-The Guardian • 22h ago
+The Washington Post • 48m ago
 
 ---
 
-**[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+**[Working with AI can be even more efficient with this all-in-one platform](https://mashable.com/article/dec-14-1minai-advanced-business-plan-lifetime-subscription)**
 
-The New York Times • 2d ago
+Experience the next level of AI efficiency.
+
+Mashable • 3h ago
 
 ---
 
-**[Trump AI order fuels GOP divide over state laws](https://thehill.com/policy/technology/5647144-trump-federal-ai-regulation/)**
+**[Trump signs executive order blocking states from enforcing their own regulations around AI](https://edition.cnn.com/2025/12/11/tech/ai-trump-states-executive-order)**
 
-thehill.com • 2h ago
+President Donald Trump on Thursday signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a “single national framework” for AI.
+
+CNN • 2d ago
+
+---
+
+**[Experts urge caution as Trump’s big bill incentivizes AI in healthcare](https://www.theguardian.com/us-news/2025/dec/14/trump-healthcare-ai)**
+
+Analysts say benefits could be felt in under-resourced rural hospitals but warn against AI as a cost-cutting measure
+
+The Guardian • 1h ago
 
 ---
 
@@ -167,27 +177,19 @@ BBC • 12h ago
 
 ---
 
-**[Could Nvidia Be the Most Undervalued Stock in AI Right Now and Be Ready to Soar in 2026?](https://www.fool.com/investing/2025/12/14/could-nvidia-be-the-most-undervalued-stock-in-ai-r/)**
+**[For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)**
 
-Here's why Nvidia may be one of the most undervalued artificial intelligence (AI) stocks.
+If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
 
-The Motley Fool • 8h ago
+WIRED • 6h ago
 
 ---
 
-**[Meet My Top 5 Artificial Intelligence (AI) Stocks for 2026](https://www.fool.com/investing/2025/12/13/meet-my-top-5-artificial-intelligence-ai-stocks-fo/)**
+**[Meet My Top 5 Artificial Intelligence (AI) Stocks for 2026](https://finance.yahoo.com/news/meet-top-5-artificial-intelligence-203000061.html)**
 
 The AI computing market is a great place to invest.
 
-The Motley Fool • 17h ago
-
----
-
-**[Nvidia Stock vs. Broadcom Stock: Wall Street Says This AI Stock Is the Best Buy](https://www.fool.com/investing/2025/12/14/nvidia-stock-broadcom-stock-wall-street-best-buy/)**
-
-While Nvidia and Broadcom are both benefiting from the AI boom, Wall Street sees one stock as a much better buy.
-
-The Motley Fool • 4h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -203,17 +205,9 @@ Update your apps to use new features, and test your apps against API changes.
 
 ---
 
-**[French supermarket's Christmas advert is worldwide hit (without AI) [video]](https://news.ycombinator.com/item?id=46231187)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-⬆️ 491 • 💬 290 • 3d ago • [youtube.com](https://www.youtube.com/watch?v=Na9VmMNJvsA)
-
----
-
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 368 • 💬 375 • 22h ago
+⬆️ 377 • 💬 379 • 22h ago
 
 ---
 
@@ -253,7 +247,7 @@ Mark Russo reported the dataset to all the right organizations, but still couldn
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 107 • 💬 64 • 11h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 113 • 💬 66 • 12h ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -267,7 +261,15 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 62 • 💬 54 • 16h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 62 • 💬 55 • 16h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+
+---
+
+**[AI is bringing old nuclear plants out of retirement](https://news.ycombinator.com/item?id=46254276)**
+
+The White House has promised to quadruple nuclear power by 2050.
+
+⬆️ 51 • 💬 66 • 1d ago • [wbur.org](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)
 
 ---
 
@@ -423,7 +425,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 322 • 2d ago
+⬇️ 15,778 • ❤️ 323 • 2d ago
 
 ---
 
@@ -447,7 +449,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 35,747 • ❤️ 271 • 5d ago
+⬇️ 35,747 • ❤️ 272 • 5d ago
 
 ---
 
@@ -459,7 +461,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 5,553 • ❤️ 193 • 2d ago
+⬇️ 5,553 • ❤️ 194 • 2d ago
 
 ---
 
@@ -471,7 +473,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,725 • ❤️ 192 • 2d ago
+⬇️ 4,725 • ❤️ 193 • 2d ago
 
 ---
 
