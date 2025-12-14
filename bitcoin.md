@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T06:39:22.074869+00:00'
+updated: '2025-12-14T06:56:45.096440+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 06:39 UTC  
+**Last Updated:** December 14, 2025 at 06:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.6%  
-**30d:** -5.5%  
-**90d:** -22.8%  
-**1y:** -13.5%  
+**24h:** +0.0%  
+**7d:** -0.5%  
+**30d:** -5.4%  
+**90d:** -22.7%  
+**1y:** -13.4%  
 
 ---
 
@@ -111,19 +111,19 @@ Yes. Yes we are.
 
 **[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -131,7 +131,7 @@ Yes. Yes we are.
 
 It's that time of the year again, we all eat and drink too much while enjoying some fun and of course, Secret Santa gifts. I received this last night, and today, it’s mining. Well, using a small amount of electricity with about the same chance of solving a block as winning the Lotto, it's still fun, and it's nice to be part of the network again. Does anyone know anyone who's ever solved a block with one of these miners? Yes, I set up a new wallet and changed the wallet address in the miner. 😅
 
-15h ago
+16h ago
 
 ---
 
@@ -139,7 +139,7 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 A buddy wants to bet me 1 grand.
 
-3h ago
+4h ago
 
 ---
 
@@ -293,7 +293,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Bringing Content Authenticity to Video Streaming: C2PA Integration with Bitmovin](https://news.ycombinator.com/item?id=46255322)**
 
-⬆️ 1 • 💬 0 • 14h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
+⬆️ 1 • 💬 0 • 15h ago • [bitmovin.com](https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/)
 
 ---
 
@@ -357,7 +357,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 208 • 💬 73 • ⏱️ 8:12 • 8h ago
+👁️ 3K • 👍 208 • 💬 73 • ⏱️ 8:12 • 9h ago
 
 ---
 
@@ -377,7 +377,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Stock Moe
 
-👁️ 7K • 👍 524 • 💬 37 • ⏱️ 14:28 • 8h ago
+👁️ 7K • 👍 524 • 💬 37 • ⏱️ 14:28 • 9h ago
 
 ---
 
