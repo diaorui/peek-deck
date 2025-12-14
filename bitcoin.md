@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T22:46:25.364137+00:00'
+updated: '2025-12-14T22:57:26.340752+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 22:46 UTC  
+**Last Updated:** December 14, 2025 at 22:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
+**24h:** -2.5%  
 **7d:** -3.0%  
-**30d:** -7.7%  
+**30d:** -7.8%  
 **90d:** -24.6%  
-**1y:** -15.5%  
+**1y:** -15.6%  
 
 ---
 
@@ -111,7 +111,7 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -131,7 +131,7 @@ I can’t help myself. I know I should wait for a bigger correction that’s lik
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -139,7 +139,7 @@ I can’t help myself. I know I should wait for a bigger correction that’s lik
 
 Cross post
 
-11h ago
+12h ago
 
 ---
 
@@ -383,7 +383,7 @@ bitcoin #btc #mstr #BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unf
 
 📺 YWM 
 
-👁️ 24K • 👍 806 • 3h ago
+👁️ 24K • 👍 806 • 4h ago
 
 ---
 

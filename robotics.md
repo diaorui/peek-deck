@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T22:46:25.373419+00:00'
+updated: '2025-12-14T22:57:26.350057+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 22:46 UTC  
+**Last Updated:** December 14, 2025 at 22:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,13 +68,13 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 My Reachy Mini arrives on Wednesday. I am trying to figure out what to do first. Is it possible for me to program it as an assistant (secretary) in my office if I am not there? Can people in the office leave messages with my Reachy like a secretary would and maybe even send me a message if they are needing me? I think something like this would be crazy cute and also useful. I am assuming I can program it to dance or do something interesting every once in a while if it is bored. Where do I start? Python? Has anyone received theirs and started setting it up? How much of a learning curve is there? I work in IT.
 
-35m ago
+46m ago
 
 ---
 
 **[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 Hello! I got a Reachy Mini (the wireless version) and I’m receiving it next week! I want to be able to run my models locally but I’m afraid I don’t have the right setup for this. In total what I have is a MacBook Pro Max M1 (64Go) and an MSI with a 4080. We also have a Lenovo with 5080 but that’s my husband’s and I want my own 😅 Is it worth it to get a 5090? Or would a 5080 do the job? It’s for research purposes (solo) and experimenting with nice powerful models. And do you have a more wallet friendly approach? Also do you recommend just buying the computer or building one? (Which option is cheaper?)
 
-🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 6h ago
+🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 7h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello! I got a Reachy Mini (the wireless version) and I’m receiving it next we
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-17h ago
+18h ago
 
 ---
 
@@ -278,7 +278,7 @@ I actually turned my smartphone into a desktop pet... This is LOOI Robot by Tang
 
 📺 Kyle Krueger
 
-👁️ 4.8M • 👍 152K • 💬 3K • ⏱️ 0:51 • 3d ago
+👁️ 4.8M • 👍 152K • 💬 3K • ⏱️ 0:51 • 4d ago
 
 ---
 
