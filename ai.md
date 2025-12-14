@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T05:46:50.540760+00:00'
+updated: '2025-12-14T05:57:41.310642+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 05:46 UTC  
+**Last Updated:** December 14, 2025 at 05:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Meta AI translates peoples words into different languages and edits their mouth movements to match](https://www.reddit.com/r/artificial/comments/1plna2b/meta_ai_translates_peoples_words_into_different/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -59,7 +59,7 @@ AI news, discussions, and developments
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 7h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 8h ago
 
 ---
 
@@ -83,7 +83,7 @@ The real-time headphone translations experience keeps each speaker’s tone, emp
 
 just as the title says, ive built a pipeline for building HRM & HRM-sMOE LLMs. However, i only have dual RTX 2080TIs and training is painfully slow. Currently working on training a model through the tinystories dataset and then will be running eval tests. Ill update when i can with more information. If you want to check it out here it is: https://github.com/Wulfic/AI-OS
 
-2h ago
+3h ago
 
 ---
 
@@ -107,7 +107,7 @@ My 8 year old son has just vibe coded his first video game with the help of Goog
 
 Demis Hassabis sketches how AI will work by 2026, from omnimodels and world models to robotics, live assistants, and agents built on Google Gemini.
 
-🔗 [AI Revolution](https://www.revolutioninai.com/2025/12/googles-ai-boss-just-sketched-2026.html) • 39m ago
+🔗 [AI Revolution](https://www.revolutioninai.com/2025/12/googles-ai-boss-just-sketched-2026.html) • 50m ago
 
 ---
 
@@ -157,7 +157,7 @@ The Motley Fool • 6h ago
 
 Here's why Nvidia may be one of the most undervalued artificial intelligence (AI) stocks.
 
-The Motley Fool • 46m ago
+The Motley Fool • 57m ago
 
 ---
 
@@ -259,7 +259,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 58 • 💬 50 • 8h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 58 • 💬 50 • 9h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -515,20 +515,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 191 • 💬 4 • ⭐ 6,770 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -540,6 +526,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 24 • 💬 2 • ⭐ 6,776 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 191 • 💬 4 • ⭐ 6,814 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -594,18 +594,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform](https://huggingface.co/papers/2512.08478)**
-
-*Yuning Gong, Yifei Liu, Yifan Zhan et al. (24 authors)*
-
-Visionary is an open web-native platform enabling real-time rendering of 3D Gaussian Splatting and meshes with efficient GPU-based inference, supporting dynamic content and generative models.
-
-▲ 72 • 💬 4 • ⭐ 296 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.08478) • [💻 code](https://github.com/Visionary-Laboratory/visionary) • [🔗 project](https://visionary-laboratory.github.io/visionary/)
-
----
-
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -634,6 +622,18 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 24 • 💬 0 • ⭐ 25,907 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -644,7 +644,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 13.8k • 🔱 2.2k • 1d ago
+⭐ 13.9k • 🔱 2.2k • 1d ago
 
 ---
 
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 2.6k • 🔱 288 • 1h ago
+⭐ 2.6k • 🔱 293 • 2h ago
 
 ---
 
@@ -694,7 +694,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Python`
 
-⭐ 1.1k • 🔱 216 • 14d ago
+⭐ 1.1k • 🔱 217 • 14d ago
 
 ---
 
@@ -704,7 +704,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 948 • 🔱 66 • 4d ago
+⭐ 949 • 🔱 66 • 4d ago
 
 ---
 
@@ -724,7 +724,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 1h ago
+⭐ 861 • 🔱 49 • 44m ago
 
 ---
 

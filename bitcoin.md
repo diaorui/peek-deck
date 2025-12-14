@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T05:46:50.549238+00:00'
+updated: '2025-12-14T05:57:41.319020+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 05:46 UTC  
+**Last Updated:** December 14, 2025 at 05:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
+**24h:** -0.4%  
 **7d:** -0.9%  
-**30d:** -5.8%  
+**30d:** -5.7%  
 **90d:** -23.0%  
-**1y:** -13.8%  
+**1y:** -13.7%  
 
 ---
 
@@ -119,13 +119,13 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -133,13 +133,13 @@ It's that time of the year again, we all eat and drink too much while enjoying s
 
 A buddy wants to bet me 1 grand.
 
-2h ago
+3h ago
 
 ---
 
 **[Better lisent to the banks 😁](https://www.reddit.com/r/Bitcoin/comments/1pliprs/better_lisent_to_the_banks/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -251,7 +251,7 @@ Track Bitcoin holdings of public companies, governments, and institutions. Live 
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 1 • 1d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 1 • 2d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -357,7 +357,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 208 • 💬 73 • ⏱️ 8:12 • 7h ago
+👁️ 3K • 👍 208 • 💬 73 • ⏱️ 8:12 • 8h ago
 
 ---
 
