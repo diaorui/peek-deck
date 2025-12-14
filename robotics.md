@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T10:44:39.503837+00:00'
+updated: '2025-12-14T10:55:41.407744+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 10:44 UTC  
+**Last Updated:** December 14, 2025 at 10:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-39m ago
+50m ago
 
 ---
 
@@ -64,7 +64,7 @@ We’ll be sharing performance and application demos. Comments and discussion ar
 
 **[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-35m ago
+47m ago
 
 ---
 
@@ -112,7 +112,7 @@ General-purpose robots remain rare not for a lack of hardware but because we sti
 
 **[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 42m ago
+The New York Times • 53m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T10:44:39.494701+00:00'
+updated: '2025-12-14T10:55:41.398577+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 10:44 UTC  
+**Last Updated:** December 14, 2025 at 10:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -0.7%  
-**30d:** -5.6%  
-**90d:** -22.9%  
-**1y:** -13.6%  
+**24h:** -0.6%  
+**7d:** -1.1%  
+**30d:** -5.9%  
+**90d:** -23.1%  
+**1y:** -13.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Does Unmasking Satoshi Nakamoto Change Anything… Or Is It Just Crypto’s Ultimate Red Herring?](https://www.reddit.com/r/Bitcoin/comments/1pm4jps/does_unmasking_satoshi_nakamoto_change_anything/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -115,7 +115,7 @@ Rank #1
 
 **[The only one with the honest network](https://www.reddit.com/r/Bitcoin/comments/1pmaboy/the_only_one_with_the_honest_network/)**
 
-59m ago
+1h ago
 
 ---
 
