@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T20:46:46.200580+00:00'
+updated: '2025-12-14T20:58:04.614647+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 20:46 UTC  
+**Last Updated:** December 14, 2025 at 20:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,13 +60,13 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 Hello! I got a Reachy Mini (the wireless version) and I’m receiving it next week! I want to be able to run my models locally but I’m afraid I don’t have the right setup for this. In total what I have is a MacBook Pro Max M1 (64Go) and an MSI with a 4080. We also have a Lenovo with 5080 but that’s my husband’s and I want my own 😅 Is it worth it to get a 5090? Or would a 5080 do the job? It’s for research purposes (solo) and experimenting with nice powerful models. And do you have a more wallet friendly approach? Also do you recommend just buying the computer or building one? (Which option is cheaper?)
 
-🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 4h ago
+🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 5h ago
 
 ---
 
 **[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-15h ago
+16h ago
 
 ---
 
@@ -198,7 +198,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 124K • 👍 2K • 💬 901 • ⏱️ 14:26 • 6d ago
+👁️ 125K • 👍 2K • 💬 909 • ⏱️ 14:26 • 6d ago
 
 ---
 
@@ -206,17 +206,17 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI . Robot
 
-👁️ 27K • 👍 379 • 💬 9 • ⏱️ 0:16 • 1d ago
+👁️ 28K • 👍 386 • 💬 9 • ⏱️ 0:16 • 1d ago
 
 ---
 
-**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
 
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+0:00 Intro: Big Plans and Major Hurdles for 2026 0:25 The First Challenge: Safety 0:46 The Danger of Hard Bodies and Pinch ...
 
-📺 Associated Press
+📺 CNET
 
-👁️ 20K • 👍 89 • 💬 28 • ⏱️ 1:26 • 1d ago
+👁️ 8K • 👍 301 • 💬 35 • ⏱️ 6:41 • 7h ago
 
 ---
 
@@ -226,7 +226,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 189K • 👍 914 • 💬 303 • ⏱️ 0:47 • 5d ago
+👁️ 190K • 👍 915 • 💬 303 • ⏱️ 0:47 • 5d ago
 
 ---
 
@@ -240,23 +240,13 @@ robots #irc #humanoid At the latest tech expo, a man shows off his brand new rob
 
 ---
 
-**[Boy Pressed Test Mode button… Robot went Crazy 😳🤖 #ai #cat #robot](https://www.youtube.com/watch?v=hRf4HyPmFtA)**
+**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
 
-Boy Pressed Test Mode button… Robot went Crazy #ai #cat #robot.
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
 
-📺 Ai Animation World
+📺 Associated Press
 
-👁️ 48K • 💬 1 • ⏱️ 0:37 • 8h ago
-
----
-
-**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
-
-GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
-
-📺 Gen Women AI
-
-👁️ 79K • 👍 778 • 💬 16 • ⏱️ 0:09 • 2d ago
+👁️ 22K • 👍 90 • 💬 29 • ⏱️ 1:26 • 1d ago
 
 ---
 
@@ -266,7 +256,17 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 📺 TheAIGRID
 
-👁️ 19K • 👍 523 • 💬 118 • ⏱️ 42:48 • 6d ago
+👁️ 19K • 👍 525 • 💬 118 • ⏱️ 42:48 • 6d ago
+
+---
+
+**[Are robots the future of space exploration? | BBC News](https://www.youtube.com/watch?v=-2Tq-leZgs4)**
+
+How can robots help astronauts survive in space? The National Space Industry Hub in Sydney, Australia, is home to some of the ...
+
+📺 BBC News
+
+👁️ 14K • 👍 292 • 💬 132 • ⏱️ 5:17 • 1d ago
 
 ---
 
@@ -276,17 +276,17 @@ I actually turned my smartphone into a desktop pet... This is LOOI Robot by Tang
 
 📺 Kyle Krueger
 
-👁️ 4.8M • 👍 151K • 💬 3K • ⏱️ 0:51 • 3d ago
+👁️ 4.8M • 👍 152K • 💬 3K • ⏱️ 0:51 • 3d ago
 
 ---
 
-**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+**[The lady soldier gave a robotic boat to Dadi. #shorts #ai #indianarmy](https://www.youtube.com/watch?v=mKH0d0dbuP4)**
 
-In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+An emotional and powerful moment An Indian lady soldier surprises Dadi by gifting her a futuristic robotic boat This ...
 
-📺 Google DeepMind
+📺 Little chucha 
 
-👁️ 233K • 👍 7K • 💬 522 • ⏱️ 17:44 • 4d ago
+👁️ 81K • ⏱️ 0:41 • 1d ago
 
 ---
 

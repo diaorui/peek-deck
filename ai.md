@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-14T20:46:46.182704+00:00'
+updated: '2025-12-14T20:58:04.596973+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
+- repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 14, 2025 at 20:46 UTC  
+**Last Updated:** December 14, 2025 at 20:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ This took a hot second, but I finally mapped out the The Intelligence Analysis F
 
 Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
 
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 22h ago
+🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 23h ago
 
 ---
 
@@ -151,7 +151,7 @@ Fortune • 11h ago
 
 OpenAI's Alexander Embiricos, who leads product development for its coding platform, said the need to review AI's work with prompts is limiting progress.
 
-Business Insider • 19m ago
+Business Insider • 31m ago
 
 ---
 
@@ -267,7 +267,7 @@ Brian Merchant has been collecting personal stories for his series AI Killed My 
 
 **[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 63 • 💬 57 • 23h ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 63 • 💬 57 • 1d ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -281,7 +281,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 255K • 👍 5K • 💬 673 • ⏱️ 1:21:07 • 1d ago
+👁️ 275K • 👍 5K • 💬 702 • ⏱️ 1:21:07 • 1d ago
 
 ---
 
@@ -291,27 +291,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 369K • 👍 15K • 💬 866 • ⏱️ 4:01 • 1d ago
-
----
-
-**[REACTING TO AI VIDEOS ABOUT ME..](https://www.youtube.com/watch?v=HGB-kBc9W5w)**
-
-I Released My Own ROBLOX GAME! (Dump) https://www.roblox.com/games/98868317791094/DUMP-ALPHA 100k ROBUX ...
-
-📺 CaylusBlox
-
-👁️ 512K • 👍 12K • 💬 2K • ⏱️ 13:43 • 3d ago
-
----
-
-**[The AI Bubble is Worse Than You Think](https://www.youtube.com/watch?v=oT896h76s-Y)**
-
-Our Discord Community (FREE): https://discord.com/invite/Efbjh7Qj4V Review our sources ▻ https://pastebin.com/10agciWR ...
-
-📺 2 and 20
-
-👁️ 58K • 👍 2K • 💬 329 • ⏱️ 12:40 • 1d ago
+👁️ 377K • 👍 15K • 💬 890 • ⏱️ 4:01 • 1d ago
 
 ---
 
@@ -321,7 +301,17 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 42K • 👍 1K • 💬 264 • ⏱️ 15:01 • 1d ago
+👁️ 43K • 👍 1K • 💬 266 • ⏱️ 15:01 • 1d ago
+
+---
+
+**[The AI Bubble is Worse Than You Think](https://www.youtube.com/watch?v=oT896h76s-Y)**
+
+Our Discord Community (FREE): https://discord.com/invite/Efbjh7Qj4V Review our sources ▻ https://pastebin.com/10agciWR ...
+
+📺 2 and 20
+
+👁️ 64K • 👍 3K • 💬 375 • ⏱️ 12:40 • 1d ago
 
 ---
 
@@ -331,17 +321,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 143K • 👍 10K • 💬 2K • ⏱️ 16:45 • 21h ago
-
----
-
-**[Why the AI Bubble Is Actually a $60T Black Hole](https://www.youtube.com/watch?v=21e5GZF3yx0)**
-
-Start earning interest in gold: https://Monetary-Metals.com/GEN ----------------------- 🗞️ Sign up to our free newsletter to get smarter ...
-
-📺 GEN
-
-👁️ 71K • 👍 4K • 💬 738 • ⏱️ 22:33 • 2d ago
+👁️ 160K • 👍 11K • 💬 2K • ⏱️ 16:45 • 21h ago
 
 ---
 
@@ -351,17 +331,7 @@ Get your FREE Executive Assistant Playbook here: https://go.danmartell.com/4oCwS
 
 📺 Dan Martell
 
-👁️ 85K • 👍 4K • 💬 326 • ⏱️ 19:49 • 2d ago
-
----
-
-**[GPT 5.2, realtime video editor, AI stereo videos, mobile AI agents, full body control: AI NEWS](https://www.youtube.com/watch?v=fpAbYRNxYPM)**
-
-INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainews #aitools #aivideo Thanks to our ...
-
-📺 AI Search
-
-👁️ 58K • 👍 3K • 💬 350 • ⏱️ 47:09 • 17h ago
+👁️ 89K • 👍 4K • 💬 332 • ⏱️ 19:49 • 2d ago
 
 ---
 
@@ -371,7 +341,37 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 140K • 👍 499 • 💬 12 • ⏱️ 8:26 • 2d ago
+👁️ 145K • 👍 515 • 💬 12 • ⏱️ 8:26 • 2d ago
+
+---
+
+**[GPT 5.2, realtime video editor, AI stereo videos, mobile AI agents, full body control: AI NEWS](https://www.youtube.com/watch?v=fpAbYRNxYPM)**
+
+INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainews #aitools #aivideo Thanks to our ...
+
+📺 AI Search
+
+👁️ 63K • 👍 3K • 💬 369 • ⏱️ 47:09 • 17h ago
+
+---
+
+**[Are AI toys exciting or dangerous? | BBC News](https://www.youtube.com/watch?v=bGrdPmrjDBQ)**
+
+In the run up to the festive season, the selection of toys on offer seems to get bigger every year – and we're now seeing more and ...
+
+📺 BBC News
+
+👁️ 16K • 👍 331 • 💬 112 • ⏱️ 3:10 • 1d ago
+
+---
+
+**[How AI Is Changing Shopping](https://www.youtube.com/watch?v=d-kmjp7mOq8)**
+
+Consumers' increasing use of AI for shopping ideas and deals is forcing retailers to scramble to stay ahead. Walmart and Target ...
+
+📺 CNBC
+
+👁️ 20K • 👍 450 • 💬 43 • ⏱️ 5:31 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T20:46:46.191249+00:00'
+updated: '2025-12-14T20:58:04.605396+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- social
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 20:46 UTC  
+**Last Updated:** December 14, 2025 at 20:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -2.2%  
-**30d:** -7.0%  
+**24h:** -1.3%  
+**7d:** -2.3%  
+**30d:** -7.1%  
 **90d:** -24.0%  
 **1y:** -14.9%  
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -119,7 +119,7 @@ I can’t help myself. I know I should wait for a bigger correction that’s lik
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -151,7 +151,7 @@ Turns out saving in something that is infinite and printable is not a very good 
 
 Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -293,7 +293,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 25K • 👍 3K • 💬 226 • ⏱️ 17:53 • 5h ago
+👁️ 39K • 👍 3K • 💬 290 • ⏱️ 17:53 • 5h ago
 
 ---
 
@@ -303,7 +303,17 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 695 • 💬 56 • ⏱️ 9:48 • 3h ago
+👁️ 9K • 👍 1K • 💬 97 • ⏱️ 9:48 • 3h ago
+
+---
+
+**[🚨URGENT🚨 Crypto CRASH Warning: Smart Money Is TRICKING You!](https://www.youtube.com/watch?v=CR1uoKcH8yw)**
+
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 166 • 💬 28 • ⏱️ 17:54 • 2h ago
 
 ---
 
@@ -313,27 +323,37 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 271 • 💬 68 • ⏱️ 10:43 • 7h ago
+👁️ 4K • 👍 320 • 💬 74 • ⏱️ 10:43 • 7h ago
 
 ---
 
-**[It’s Happened! Institutions Are Ready to TRIPLE Bitcoin’s Price - Jordi Visser](https://www.youtube.com/watch?v=0UR7qU25uJI)**
+**[Michael Saylor: Important Warning To All Small Bitcoin Investors &quot;It&#39;s A Fake Crash&quot;](https://www.youtube.com/watch?v=t7-FO_qOqp8)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Savvy Finance
+📺 Crypto Nutshell
 
-👁️ 11K • 👍 542 • 💬 11 • ⏱️ 24:03 • 19h ago
+👁️ 3K • 👍 209 • 💬 11 • ⏱️ 18:38 • 5h ago
 
 ---
 
-**[Bitcoin BTC Price Prediction: 14th of December](https://www.youtube.com/watch?v=mr93Lb-tLcQ)**
+**[A MASSIVE Bitcoin BREAKOUT Coming NEXT WEEK! Bitcoin Price Prediction December 2025!](https://www.youtube.com/watch?v=WEKxvbrN18I)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
 
-📺 C-Zar Gets Crypto 
+📺 Crypto Jebb
 
-👁️ 869 • 👍 73 • 💬 44 • ⏱️ 14:15 • 6h ago
+👁️ 9K • 👍 502 • 💬 137 • ⏱️ 14:22 • 1d ago
+
+---
+
+**[BITCOIN FORECASTED TO HIT LOWS OF $75K THIS YEAR...](https://www.youtube.com/watch?v=y7BqjDKw6rY)**
+
+Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250000 by the end of 2025, roused by President ...
+
+📺 Ricky Gutierrez
+
+👁️ 9K • 👍 392 • 💬 97 • ⏱️ 12:56 • 20h ago
 
 ---
 
@@ -343,47 +363,27 @@ Bitcoin what now Protein Powder: This Will Really PISS You Off!!! https://youtu.
 
 📺 MMCrypto
 
-👁️ 31K • 👍 2K • 💬 433 • ⏱️ 6:48 • 14h ago
+👁️ 33K • 👍 2K • 💬 442 • ⏱️ 6:48 • 14h ago
 
 ---
 
-**[&quot;My 2026 Bitcoin Prediction Will Offend Both Bulls and Bears&quot; - Raoul Pal Blows Hot!](https://www.youtube.com/watch?v=5tnxmCQE6X8)**
+**[HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News!](https://www.youtube.com/watch?v=2NvsmJHSRcs)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+HUGE Negative Catalyst About To Hit Crypto! Breaking Crypto News! GET AUSTIN'S FREE CRYPTO WEALTH NEWSLETTER: ...
 
-📺 Savvy Finance
+📺 Austin Hilton
 
-👁️ 12K • 👍 476 • 💬 25 • ⏱️ 21:16 • 1d ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=HP_WczPWszc)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 Hornos de Leña
-
-👁️ 3K • 👍 3K • 3h ago
+👁️ 13K • 👍 625 • 💬 60 • ⏱️ 5:30 • 1d ago
 
 ---
 
-**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
+**[Live Strategy CEO - Michael Saylor on Bitcoin Crash &amp; MSTR Drop](https://www.youtube.com/watch?v=6YaYSeGYd8A)**
 
-EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
+bitcoin #btc #mstr #BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference.
 
-📺 Altcoin Daily
+📺 YWM 
 
-👁️ 61K • 👍 3K • 💬 285 • ⏱️ 31:03 • 1d ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=pKy6ukYeeEY)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 MCI MOSQUERA
-
-👁️ 5K • 👍 3K • 6h ago
+👁️ 24K • 👍 806 • 2h ago
 
 ---
 
