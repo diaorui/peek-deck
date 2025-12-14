@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-14T17:55:12.084283+00:00'
+updated: '2025-12-14T18:29:47.897725+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 14, 2025 at 17:55 UTC  
+**Last Updated:** December 14, 2025 at 18:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-7h ago
+8h ago
 
 ---
 
@@ -72,7 +72,7 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[Figure03 robot serving beer](https://www.reddit.com/r/robotics/comments/1pme28o/figure03_robot_serving_beer/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -80,13 +80,13 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 We’ll be sharing performance and application demos. Comments and discussion are welcome.
 
-12h ago
+13h ago
 
 ---
 
 **[Planning to Build a Humanoid Robot? Which Actuators Do You Need?](https://www.reddit.com/r/robotics/comments/1plw1c4/planning_to_build_a_humanoid_robot_which/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -112,7 +112,7 @@ Been working on a pressure compensated, ros2 biomimetic robot. The idea is to bu
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 2h ago
+The New York Times • 8h ago
 
 ---
 
@@ -120,15 +120,7 @@ The New York Times • 2h ago
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 11h ago
-
----
-
-**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
-
-Making safe and regulated humanoids is a core mission of the summit and participants.
-
-ABC7 San Francisco • 2d ago
+South China Morning Post • 12h ago
 
 ---
 
@@ -137,6 +129,14 @@ ABC7 San Francisco • 2d ago
 Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
 
 AP News • 1d ago
+
+---
+
+**[Humanoids Summit Silicon Valley 2025 grows in second year, highlights accessible robotics for all](https://abc7news.com/post/humanoids-summit-silicon-valley-2025-grows-second-year-highlights-accessible-robotics/18277069/)**
+
+Making safe and regulated humanoids is a core mission of the summit and participants.
+
+ABC7 San Francisco • 2d ago
 
 ---
 
@@ -176,15 +176,15 @@ Scientific American • 1d ago
 
 Figure AI CEO Brett Adcock said on X that his company reviewed 176,000 resumes but most of them were "slop." Less than 450 people were hired, he said.
 
-Business Insider • 14h ago
+Business Insider • 15h ago
 
 ---
 
-**[Serve Robotics, Inc. Rings the Closing Bell](https://www.nasdaq.com/events/serve-robotics-inc-rings-closing-bell)**
+**[Video: Humanoid robot fires at YouTuber after prompt twist, sparking AI safety fears](https://interestingengineering.com/ai-robotics/robot-fires-at-youtuber-sparking-safety-fears)**
 
-About This EventServe Robotics, Inc. (Nasdaq: SERV), visits the Nasdaq MarketSite in Times Square. Serve develops advanced, AI-powered, low-emission sidewalk delivery robots to make delivery sustainable and economical, and has recently reached the major milestone of building a fleet of 2,000 robots.In honor of the occasion, Ali Kashani, Co-Founder and CEO rings the Closing Bell.
+A viral experiment shows a humanoid robot firing a BB gun after a role-play prompt overrides its safety rules, sparking major concerns.
 
-Nasdaq • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -286,7 +286,7 @@ Boy Pressed Test Mode button… Robot went Crazy #ai #cat #robot.
 
 📺 Ai Animation World
 
-👁️ 42K • 💬 1 • ⏱️ 0:37 • 5h ago
+👁️ 42K • 💬 1 • ⏱️ 0:37 • 6h ago
 
 ---
 

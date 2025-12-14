@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-14T17:55:12.074132+00:00'
+updated: '2025-12-14T18:29:47.888388+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 17:55 UTC  
+**Last Updated:** December 14, 2025 at 18:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
+**24h:** -1.7%  
 **7d:** -2.2%  
-**30d:** -7.0%  
+**30d:** -7.1%  
 **90d:** -24.0%  
-**1y:** -14.8%  
+**1y:** -14.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1771.96B
+**Market Cap:** $1771.38B
 Rank #1
 
 **Circulating Supply:** 19,962,075 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.5%
+-29.6%
 
 **All-Time Low:** $67.81
-+130895.4%
++130750.9%
 
 ---
 
@@ -77,33 +77,39 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
-
-21h ago
-
----
-
-**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
-
-13h ago
-
----
-
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
 3h ago
 
 ---
 
+**[BTC for life!](https://www.reddit.com/r/Bitcoin/comments/1plv447/btc_for_life/)**
+
+22h ago
+
+---
+
+**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
+
+14h ago
+
+---
+
+**[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
+
+1h ago
+
+---
+
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1pm5ouu/yes/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Every time they say it’s over.](https://www.reddit.com/r/Bitcoin/comments/1plxddx/every_time_they_say_its_over/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -115,23 +121,17 @@ Simply lovely
 
 ---
 
-**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
-
-18h ago
-
----
-
 **[Herd Mentality](https://www.reddit.com/r/Bitcoin/comments/1pmbesb/herd_mentality/)**
 
 Cross post
 
-6h ago
+7h ago
 
 ---
 
-**[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
+**[yep](https://www.reddit.com/r/Bitcoin/comments/1plzen2/yep/)**
 
-43m ago
+18h ago
 
 ---
 
@@ -145,11 +145,11 @@ Cross post
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Below $90K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
+**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
-Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-CoinDesk • 4h ago
+Forbes • 6h ago
 
 ---
 
@@ -157,7 +157,15 @@ CoinDesk • 4h ago
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
+
+---
+
+**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://www.fool.com/investing/2025/12/14/which-cryptocurrency-has-more-upside-bitcoin-vs-ca/)**
+
+This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
+
+The Motley Fool • 18m ago
 
 ---
 
@@ -166,6 +174,22 @@ The Motley Fool • 8h ago
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
 Bloomberg.com • 2d ago
+
+---
+
+**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
+
+Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Falls To $90k, Vanguard Exec Calls BTC A Digital Toy](https://bitcoinmagazine.com/markets/bitcoin-falls-below-90000)**
+
+Bitcoin pulled back after the Fed’s mixed signals, even as Vanguard expanded access to spot BTC ETFs amid a skeptical view of crypto.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -181,43 +205,17 @@ Reuters • 1d ago
 
 ---
 
+**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
 **[MicroStrategy (MSTR): Reassessing Valuation After Sharp Recent Share Price Declines and Bitcoin-Linked Volatility](https://finance.yahoo.com/news/microstrategy-mstr-reassessing-valuation-sharp-021012443.html)**
 
 Strategy (MSTR) has had a rough stretch, with the stock down around 21% over the past month and nearly 47% in the past 3 months, prompting fresh questions about valuation and Bitcoin exposure. See our latest analysis for Strategy. The latest slide, including a 1 day share price return of minus 3.7 percent and a year to date share price return of roughly minus 41 percent, suggests momentum is clearly fading even after an exceptional 3 year total shareholder return above 900 percent. If Bitcoin...
 
-Yahoo Finance • 15h ago
-
----
-
-**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
-
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
-
-Forbes • 6h ago
-
----
-
-**[Why Is Bitcoin Not Going Up After The Fed Cut Rates?](https://finance.yahoo.com/news/why-bitcoin-not-going-fed-193106033.html)**
-
-The Federal Reserve delivered its third straight 25 basis points rate cut to close out 2025, briefly lifting retail optimism for Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) before the market quickly reversed course. What Happened: On-chain ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Brazil’s Largest Private Bank Advises 3% Bitcoin Allocation For Clients](https://finance.yahoo.com/news/brazil-largest-private-bank-advises-210131274.html)**
-
-Brazil's top bank Itaú Unibanco has advised clients to allocate up to 3% of their portfolios to Bitcoin by 2026.
-
-Yahoo Finance • 20h ago
-
----
-
-**[Brazil’s Largest Private Bank Recommends 3% Bitcoin Allocation](https://bitbo.io/news/brazil-bank-bitcoin-allocation/)**
-
-Itaú Asset Management, the investment arm of Brazil's biggest private bank, advises investors to allocate 1% to 3% of their portfolios to Bitcoin in 2026 to improve diversification and hedge currency risk.
-
-Bitbo • 23h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -305,7 +303,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 484 • 💬 8 • ⏱️ 24:03 • 16h ago
+👁️ 9K • 👍 484 • 💬 8 • ⏱️ 24:03 • 17h ago
 
 ---
 
@@ -315,7 +313,7 @@ Is bitcoin about to crash? Last year, boosters forecast Bitcoin would reach $250
 
 📺 Ricky Gutierrez
 
-👁️ 8K • 👍 377 • 💬 91 • ⏱️ 12:56 • 17h ago
+👁️ 8K • 👍 377 • 💬 91 • ⏱️ 12:56 • 18h ago
 
 ---
 
@@ -325,7 +323,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 9K • 👍 490 • 💬 129 • ⏱️ 14:22 • 22h ago
+👁️ 9K • 👍 490 • 💬 129 • ⏱️ 14:22 • 23h ago
 
 ---
 
