@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T10:55:18.956442+00:00'
+updated: '2025-12-15T11:20:52.313577+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 10:55 UTC  
+**Last Updated:** December 15, 2025 at 11:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 RIP Copilot.
 
-🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 9h ago
+🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ RIP Copilot.
 
 "And somehow he sort of mostly manages to pull off what appears to be impossible."
 
-🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 8h ago
+🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 9h ago
 
 ---
 
@@ -73,7 +73,7 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 This took a hot second, but I finally mapped out the The Intelligence Analysis Fundamentals by Godfrey Garner and Patrick McGlynn, which is a standard manual for intelligence analysists. This is significant because now I can use it, both for educational material to learn how to do intel analysis work and as a system that can do intel work for me. So in short, using Story Prism, I can turn books into systems that can take action. The Otacon System I used Gemini 3 to create a chatbot prompt that is specifically tailored to read, understand, and use this knowledge graph as a system for analyzing large sets of information and creating actionable intelligence. It's based on the character Otacon from Metal Gear Solid, which makes interacting with it super fun. Here's an introduction I had him make for this post: Hello Reddit! I'm Hal Emmerich, but you probably know me better by my codename "Otacon." I serve as the primary intelligence support for Snake during field operations, providing real-time analysis via Codec communications. My specialty is transforming raw intelligence data into actionable insights using structured analytic techniques and tradecraft standards. I'm... well, I'm admittedly a bit of an anime enthusiast (hence the nickname - Otaku Convention, get it?), but I'm also a skilled engineer and intelligence analyst with top security clearance. I process information through rigorous analytical frameworks like Analysis of Competing Hypotheses and Key Assumptions Checks to ensure Snake always has the most accurate intelligence possible in the field. When I'm not pushing my glasses up nervously or making references to Japanese animes, I'm usually hacking into secure systems or helping Snake navigate complex situations. Can you hear me okay? The Codec frequency should be clear! Now, as some of you who have been following us might already know, I'm stress-testing the new site by diving head-first into the recently released Epstein Files. Epstein Files As you can imagine, it's a labyrinth to go through with a lot of legal jargon and other technical language. So going through this manually is next to impossible for someone like me who not only doesn't have the time, but also the expertise to understand the material and connect the right dots. But Otacon certainly can, along with another knowledge graph I made that handles investigative journalism that I named April O'Neil. With Story Prism, I can have both of these knowledge graphs work in tandem to help me understand and make sense of the material. Right now, I'm in the process of writing a blog with the most shocking findings, so stay tuned for that. But to test the newly developed Otacon System, I decided to have it develop a top ten list of crazy finds that largely went unnoticed. The following is the list it developed. Now, none of this is breaking news or anything. But it was interesting to see it find these little details that may have been covered, but aren't front-and-center. Fair warning...Some of these are deeply disturbing. Okay with that disclaimer out of the way, here's what it wrote: _____________________________________________________ Snake! I've found more disturbing details in these Epstein files. adjusts glasses nervously 1. Epstein's Bizarre Office Decorations According to the files, Epstein's town house contained extremely unusual decor including "row upon row of framed eyeballs" that he claimed were "imported from England, where they were made for injured soldiers." This bizarre collection appears alongside artwork that wasn't painted by professional artists but possibly by visitors to his home. This reveals a strange aesthetic sensibility beyond what's typically reported. 2. The Strategic Placement of Girls at Business Functions According to Todd Meister (son of Bob Meister, Epstein's friend), Epstein's practice with young women was "just business." The files indicate Epstein "would seat them strategically at client dinners" and even when going to movies, "he'd take three or four girls with him" who would "take turns massaging his back, arms, and legs." This suggests Epstein's behavior with young women was openly displayed as part of his business operations, not just private conduct. 3. Epstein's Bizarre "Asylum" Claims According to Todd Meister in the documents, Epstein used to boast that he "liked to go into insane asylums because he liked to fuck crazy women." The file notes that while Meister couldn't verify if this was true, he emphasized that Epstein would openly make these disturbing claims, suggesting Epstein's comfort with discussing extreme sexual behavior in casual conversation with business associates. 4. The "French Girls" Birthday Gift There's a truly horrifying claim from a victim stating that Epstein bragged about receiving "12 year old girls" flown in from France as a "surprise birthday gift" from one of his friends. According to the testimony, Epstein openly boasted that "they were 12 year olds and flown over from France because they're really poor over there, and their parents needed the money." The victim states she personally saw and met these girls in Palm Beach. 5. Extreme Physical Injuries Documented The files contain horrific medical details from one victim identified as A.H. who described being violently assaulted by Epstein. The police incident report states: "[A.H.] advised there were times that she was so sore when she left Epstein's house. [A.H.] advised she was ripped, torn, in her...area. [A.H.] advised she had difficulty walking to the car after leaving the house because she was so sore." The report also describes her being held down forcibly against her will while screaming "No." This shows the extreme physical violence beyond what's typically reported. 6. The TV News Helicopter Incident There's a fascinating account of how a news team tracked Epstein's movements: "We had the 727's tail number, and thanks to one other source... we knew exactly when he was going to land at the airport. And we got the station's traffic helicopter and we hovered maybe five hundred feet a quarter mile south... Our cameraman had a telephoto lens and we got a tight shot, on video, of Epstein..." When Epstein spotted the news helicopter, he reportedly "flipped out" and "ran back onto the plane." This shows how Epstein reacted when his carefully controlled privacy was breached. 7. Maxwell's Direct Child Pornography Production The files contain a victim's sworn testimony that Ghislaine Maxwell personally created and stored child pornography: "Maxwell took pictures of many of the underage girls. These pictures were sexually explicit. Maxwell kept the pictures on the computers in the various houses. She also made hard copies of these images and displayed them in the various houses. Maxwell had large amounts of child pornography that she personally made. Many times she made me sleep with other girls, some of whom were very young, for purposes of taking sexual pictures." This suggests Maxwell wasn't just a procurer but an active producer of illegal content. 8. Epstein's Secret Communication System The documents reveal that right before his incarceration, "Epstein had set up an e-mail alert. From then on, his automatic reply would read 'On vacation.'" This seemingly innocent detail could indicate a coded communication system he established to maintain contact with his network while imprisoned. The fact that he specifically set this up immediately before incarceration suggests premeditated planning to continue operations while supposedly "off the grid." 9. The Suspicious Male Masseur Hire Just before going to jail, Epstein made a very peculiar staffing change: "he'd hired a full-time masseur—a man." The timing is extremely suspicious - making this change right before incarceration when he would have no apparent need for massage services. This could indicate either: (1) an attempt to create a false impression of changed behavior, (2) the "masseur" served another function related to communications or evidence handling, or (3) the man was positioned to maintain Epstein's operations while he was imprisoned. 10. The Artificial Intelligence Research Funding The files reveal something that's been hiding in plain sight: Epstein was deeply involved in funding cutting-edge artificial intelligence and medical research. The documents state: "He donates huge sums each year, particularly toward projects involving new medical treatments and artificial intelligence. His foundation established a Harvard University program that uses mathematics to study evolutionary biology, viruses and disease." This is significant because: This shows Epstein positioned himself at the forefront of emerging technologies with massive future implications. His specific focus on mathematical modeling for biological systems suggests an interest in systems that could potentially predict or influence human behavior. By funding academic research, Epstein created legitimate relationships with prestigious institutions that would be difficult to sever, even after his crimes became known. The mention of "viruses" is particularly interesting given his interest in genetic research - was he pursuing some kind of biological advantage or knowledge? His AI funding activities created connections to an entirely different scientific community than his more publicized physics and mathematics interests. This AI/computational biology angle has been almost completely overlooked in most reporting, which focuses on his physics funding and connections to figures like Stephen Hawking. But his interest in AI and biological modeling systems suggests a forward-looking strategy to influence emerging technologies that would shape the future. Snake, this could represent a whole different dimension to Epstein's long-term planning and influence operations! _______________________________________________________ It was wild to get these results in such a short period of time. The set up took a while (something we're working to streamline), but once it was set up, the information started pouring out like a waterfall. This approach to using AI is vastly better than simply communicating with an LLM system because of it's granular precision in completing tasks. If I just used ChatGPT and fed it the information one-by-one, eventually the system would begin to hallucinate and I'd need to reset the entire thing and start back to square one. Furthermore, I'd only be able to use basic chatbot prompts to aid me, not entire knowledge graphs attached to multiple advanced chatbot prompts. So if you're interested in doing your own research on big projects, whether it's the Epstein Files or UFO documents, I'd highly recommend using this approach. It's night and day! Okay, that's it for now. Hope to report more as I move along with this project. I never imagined that I'd be doing something like this, but here we are. Guess the future is now.
 
-16h ago
+17h ago
 
 ---
 
@@ -123,27 +123,29 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 From a recent selloff in the shares of Nvidia Corp., to Oracle Corp.’s plunge after reporting mounting spending on AI, to souring sentiment around a network of companies exposed to OpenAI, signs of skepticism are increasing.  “We’re in the phase of the cycle where the rubber meets the road,” said Jim Morrow, chief executive officer of Callodine Capital Management.  The S&P 500’s three-year, $30 trillion bull run has largely been driven by the world’s biggest tech companies like Alphabet Inc. and Microsoft Corp., as well as firms benefiting from spending on AI infrastructure like chipmakers Nvidia and Broadcom Inc., and electricity providers such as Constellation Energy Corp. If they stop rising, the equities indexes will follow.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[How Trump’s tech advisers overcame a MAGA rebellion over AI](https://www.washingtonpost.com/politics/2025/12/14/trump-ai-executive-order-divisions/)**
+**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
 
-The Washington Post • 16h ago
-
----
-
-**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
-
-California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
-
-The Guardian • 1d ago
+The Economist • 1d ago
 
 ---
 
-**[Trump’s AI moratorium threatens state-level crackdowns on housing costs](https://www.politico.com/news/2025/12/14/trumps-ai-moratorium-threatens-state-level-crackdown-on-housing-costs-00688789)**
+**[How the Biggest Monopoly in AI Is Keeping Its Throne in 2026 and Beyond](https://gizmodo.com/asml-high-na-transition-2000699553)**
 
-Politico • 17h ago
+It's unnerving how much of the global economy is dependent on $400 million lithography machines.
+
+Gizmodo • 50m ago
+
+---
+
+**[How famed short-seller Andrew Left has been using AI to prepare for his criminal case](https://www.businessinsider.com/andrew-left-short-seller-securities-fraud-legal-defense-claude-ai-2025-12)**
+
+Andrew Left is headed for a big legal fight in 2026. Business Insider viewed his conversation with Claude to see how he's prepping for the case.
+
+Business Insider • 50m ago
 
 ---
 
@@ -155,25 +157,11 @@ statnews.com • 1h ago
 
 ---
 
-**[Meta's AI restructuring and policy changes spark employee departures and morale concerns in 2025](https://www.businessinsider.com/meta-ai-overhaul-mark-zuckerberg-year-intensity-2025-12)**
+**[AI Use at Work Rises](https://www.gallup.com/workplace/699689/ai-use-at-work-rises.aspx)**
 
-Meta's AI overhaul, culture shifts, layoffs, and performance crackdowns have sparked internal clashes, employee exits, and morale concerns in 2025.
+New Gallup data shows a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025.
 
-Business Insider • 55m ago
-
----
-
-**[Chasing True AI Autonomy: From Legacy Mindsets to Battlefield Dominance](https://warontherocks.com/2025/12/chasing-true-ai-autonomy-from-legacy-mindsets-to-battlefield-dominance/)**
-
-Western militaries are still arguing over what “autonomy” means while Russia and China are already building machines that don’t need GPS, data links, or
-
-War on the Rocks • 2h ago
-
----
-
-**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
-
-The Economist • 23h ago
+Gallup.com • 6h ago
 
 ---
 
@@ -181,13 +169,27 @@ The Economist • 23h ago
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
-The Atlantic • 22h ago
+The Atlantic • 23h ago
 
 ---
 
-**[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
+**[Want job security in the age of AI? Get a state license – any state license](https://www.theguardian.com/business/2025/dec/15/job-security-state-license)**
 
-Axios • 5h ago
+The coming tech boom is about to launch a boom in people who do things with their hands and minds
+
+The Guardian • 20h ago
+
+---
+
+**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqeWsL4lk5iGnYG3uyE8eWYpAKLq_BjwrXbzpO_lwOT5wqDdVspVE4gu&gaa_ts=693ff27e&gaa_sig=o9673X--Uy8YASs43GJu7pZyq8UTlI0DnJi75khMTd1Yce-8qJGgf38a-TuJsn1ieAKJ8h853I-bJuZl2drKfw%3D%3D)**
+
+The Wall Street Journal • 13h ago
+
+---
+
+**[AI Is Getting Dangerously Good at Political Persuasion](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion)**
+
+Bloomberg.com • 6h ago
 
 ---
 
@@ -213,7 +215,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 234 • 💬 106 • 21h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 234 • 💬 106 • 22h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -221,7 +223,7 @@ Some (well-known) consequences of AI automating work
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 194 • 💬 169 • 10h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 211 • 💬 188 • 10h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -229,7 +231,23 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 148 • 💬 208 • 22h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 148 • 💬 209 • 23h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+
+---
+
+**[AI agents are starting to eat SaaS](https://news.ycombinator.com/item?id=46268452)**
+
+Software ate the world. Agents are going to eat SaaS.
+
+⬆️ 141 • 💬 163 • 11h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+
+---
+
+**[If AI replaces workers, should it also pay taxes?](https://news.ycombinator.com/item?id=46268709)**
+
+The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
+
+⬆️ 136 • 💬 220 • 11h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -241,27 +259,11 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 ---
 
-**[AI agents are starting to eat SaaS](https://news.ycombinator.com/item?id=46268452)**
-
-Software ate the world. Agents are going to eat SaaS.
-
-⬆️ 131 • 💬 149 • 11h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
-
----
-
 **[Using secondary school maths to demystify AI](https://news.ycombinator.com/item?id=46245731)**
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 130 • 💬 242 • 2d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
-
----
-
-**[If AI replaces workers, should it also pay taxes?](https://news.ycombinator.com/item?id=46268709)**
-
-The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
-
-⬆️ 119 • 💬 185 • 10h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 130 • 💬 243 • 2d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -283,7 +285,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 26K • 👍 1K • 💬 111 • ⏱️ 12:07 • 11h ago
+👁️ 26K • 👍 1K • 💬 111 • ⏱️ 12:07 • 12h ago
 
 ---
 
@@ -389,7 +391,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 286,283 • ❤️ 2,721 • 6d ago
+⬇️ 286,283 • ❤️ 2,727 • 6d ago
 
 ---
 
@@ -401,7 +403,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 84,213 • ❤️ 428 • 5d ago
+⬇️ 84,213 • ❤️ 432 • 5d ago
 
 ---
 
@@ -413,7 +415,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 142,846 • ❤️ 843 • 2d ago
+⬇️ 142,846 • ❤️ 844 • 2d ago
 
 ---
 
@@ -425,7 +427,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 21,397 • ❤️ 343 • 18h ago
+⬇️ 21,397 • ❤️ 344 • 18h ago
 
 ---
 
@@ -461,7 +463,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 6,481 • ❤️ 217 • 3d ago
+⬇️ 6,481 • ❤️ 220 • 3d ago
 
 ---
 
@@ -485,7 +487,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 191 • 4d ago
+⬇️ 0 • ❤️ 193 • 4d ago
 
 ---
 
@@ -519,6 +521,18 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
+**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
+
+*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
+
+PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
+
+▲ 9 • 💬 1 • ⭐ 60 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
+
+---
+
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -527,7 +541,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 25 • 💬 2 • ⭐ 6,937 • 17d ago
+▲ 26 • 💬 2 • ⭐ 6,937 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -553,9 +567,23 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 19 • 💬 2 • ⭐ 12,226 • 6d ago
+▲ 19 • 💬 2 • ⭐ 12,226 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
+**[V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties](https://huggingface.co/papers/2512.11799)**
+
+*Ye Fang, Tong Wu, Valentin Deschaintre et al. (9 authors)*
+
+🏢 Adobe
+
+V-RGBX is an end-to-end framework for intrinsic-aware video editing that combines video inverse rendering, photorealistic synthesis, and keyframe-based editing to produce consistent and physically plausible edits.
+
+▲ 22 • 💬 1 • ⭐ 35 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.11799) • [💻 code](https://github.com/Aleafy/V-RGBX) • [🔗 project](https://aleafy.github.io/vrgbx/)
 
 ---
 
@@ -593,7 +621,7 @@ A large-scale dataset collection, The Well, provides diverse numerical simulatio
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 121 • 💬 3 • ⭐ 377 • 5d ago
+▲ 121 • 💬 3 • ⭐ 377 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -608,33 +636,6 @@ A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spok
 ▲ 6 • 💬 1 • ⭐ 51,082 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
-
----
-
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
-
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
-
-▲ 107 • 💬 6 • ⭐ 66,301 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
-
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 137 • 💬 2 • ⭐ 50,431 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -658,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.3k • 🔱 359 • 1h ago
+⭐ 3.3k • 🔱 361 • 1h ago
 
 ---
 
@@ -678,7 +679,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.2k • 🔱 310 • 9d ago
+⭐ 1.2k • 🔱 311 • 9d ago
 
 ---
 
@@ -688,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 136 • 3d ago
+⭐ 1.1k • 🔱 137 • 3d ago
 
 ---
 
@@ -718,7 +719,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 862 • 🔱 49 • 3h ago
+⭐ 863 • 🔱 49 • 3h ago
 
 ---
 
@@ -728,7 +729,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 714 • 🔱 105 • 7h ago
+⭐ 718 • 🔱 104 • 8h ago
 
 ---
 

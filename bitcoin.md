@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T10:55:18.964930+00:00'
+updated: '2025-12-15T11:20:52.321006+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 10:55 UTC  
+**Last Updated:** December 15, 2025 at 11:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -3.6%  
-**30d:** -4.9%  
-**90d:** -23.1%  
-**1y:** -15.4%  
+**24h:** +0.4%  
+**7d:** -3.3%  
+**30d:** -4.7%  
+**90d:** -22.9%  
+**1y:** -15.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1792.12B
+**Market Cap:** $1793.72B
 Rank #1
 
 **Circulating Supply:** 19,962,334 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-28.8%
 
 **All-Time Low:** $67.81
-+132494.0%
++132321.5%
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 The French parliament just voted on an amendment forcing us to declare self-custody wallets (Ledger/Trezor) to the tax authorities if they hold more than €5,000. This effectively builds a massive centralized honeypot linking real identities to home addresses and exact holdings, which is a massive security risk and a wrench attack nightmare. ​I'm urgently looking for technical strategies to protect my privacy here. I need to know if "structuring" by splitting the stack into multiple sub-€5k wallets is a viable way to bypass the threshold, or if I should be looking into CoinJoin/Whirlpool to sever the link from my KYC exchange history before moving to fresh storage. I'm also trying to understand how they could possibly enforce this without me voluntarily doxxing my XPUB, so I'm curious if non-compliance is the general consensus. Any advice on keeping my stack off this registry would be appreciated.
 
-3h ago
+4h ago
 
 ---
 
@@ -101,15 +101,7 @@ The French parliament just voted on an amendment forcing us to declare self-cust
 
 5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
 
-9h ago
-
----
-
-**[I am now a whole coiner](https://www.reddit.com/r/Bitcoin/comments/1pmnnkq/i_am_now_a_whole_coiner/)**
-
-Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
-
-14h ago
+10h ago
 
 ---
 
@@ -117,7 +109,15 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 Must been hurt, and now we got people bought at 124K crying when it's 90K. Absolute cinema.
 
-3h ago
+4h ago
+
+---
+
+**[I am now a whole coiner](https://www.reddit.com/r/Bitcoin/comments/1pmnnkq/i_am_now_a_whole_coiner/)**
+
+Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
+
+15h ago
 
 ---
 
@@ -127,21 +127,21 @@ Must been hurt, and now we got people bought at 124K crying when it's 90K. Absol
 
 ---
 
+**[Back in 2012 i was busy copy and pasting jpeg from my dad's pc to my nokia N-gage lol](https://www.reddit.com/r/Bitcoin/comments/1pn2i9e/back_in_2012_i_was_busy_copy_and_pasting_jpeg/)**
+
+2h ago
+
+---
+
 **[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
 
-18h ago
+19h ago
 
 ---
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-17h ago
-
----
-
-**[We are going down a bit, get ready for the Peter Schiff tweets 😂](https://www.reddit.com/r/Bitcoin/comments/1pmtxa0/we_are_going_down_a_bit_get_ready_for_the_peter/)**
-
-10h ago
+18h ago
 
 ---
 
@@ -151,7 +151,23 @@ Must been hurt, and now we got people bought at 124K crying when it's 90K. Absol
 
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 12h ago
+The Block • 13h ago
+
+---
+
+**[Brazil’s Largest Bank Endorses Bitcoin for Investor Portfolios](https://finance.yahoo.com/news/brazil-largest-bank-endorses-bitcoin-082553081.html)**
+
+Itaú Asset Management, Brazil’s largest privately-owned asset manager, is now officially advising its clients to buy Bitcoin BTC $89 857 24h volatility: 0.0% Market cap: $1.79 T Vol. 24h: $35.22 B . This marks a major turning point for crypto adoption in Latin America. The firm suggests a “calibrated” 1% ...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Brazil’s Largest Asset Manager Recommends Investors Put Up to 3% of their Money in Bitcoin to Hedge Against FX, Market Shocks](https://www.coindesk.com/business/2025/12/13/brazil-s-largest-asset-manager-recommends-investors-put-up-to-3-of-their-money-in-bitcoin-to-hedge-against-fx-market-shocks)**
+
+The recommendation is in line with other global asset managers like BlackRock and Bank of America suggesting small portfolio allocations to the largest cryptocurrency.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -159,7 +175,7 @@ The Block • 12h ago
 
 This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -171,19 +187,17 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin (BTC) Price News: $80K Retest Risk Rises](https://www.coindesk.com/markets/2025/12/15/btc-usd80k-check-back-risk-rises-as-nasdaq-rebound-stalls)**
+**[Bitcoin Price Slips Below $90,000, XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqdy6smalAr38I-a8amabSnED6fNLa92XUb2Qndi9_5oTU2xRxb6ZnGe&gaa_ts=693ff27f&gaa_sig=sVddLcym-i12_RXvEXzb3N55jrw1DGHm76vF9Z1rn6_qoJBpYDonZL6C2n6spCFK37sM6LjGHO5wGgGP5o5elQ%3D%3D)**
 
-Nasdaq and MOVE index patterns warrant caution for BTC bulls.
-
-CoinDesk • 3h ago
+Barron's • 34m ago
 
 ---
 
-**[Did People Really Say That Bitcoin Would Hit $1 Million in 2025? Here's How the Top Price Predictions Played Out](https://www.fool.com/investing/2025/12/15/did-people-really-say-that-bitcoin-would-hit-1-mil/)**
+**[Is Bitcoin the Most Compelling Digital Asset for Long-Term Investors?](https://www.fool.com/investing/2025/12/15/bitcoin-most-compelling-digital-asset-investors/)**
 
-Pretty much nobody got it right this year.
+This top crypto has dropped 27% in the past two months.
 
-The Motley Fool • 1h ago
+The Motley Fool • 42m ago
 
 ---
 
@@ -191,13 +205,7 @@ The Motley Fool • 1h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 5h ago
-
----
-
-**[Bitcoin Holders Face Heavy Losses in 10 Years, Says Peter Schiff](https://www.ccn.com/news/crypto/bitcoin-holders-heavy-losses-10-years-peter-schiff-gold-surge/)**
-
-CCN.com • 42m ago
+Financial Times • 6h ago
 
 ---
 
@@ -209,15 +217,7 @@ Investor's Business Daily • 2d ago
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 9h ago
-
----
-
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
-
-Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
-
-Yahoo Finance • 1d ago
+Reuters • 10h ago
 
 ---
 
@@ -325,7 +325,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 9K • 👍 450 • 💬 308 • ⏱️ 15:03 • 5h ago
+👁️ 9K • 👍 450 • 💬 308 • ⏱️ 15:03 • 6h ago
 
 ---
 
@@ -345,7 +345,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 201 • ⏱️ 9:48 • 17h ago
+👁️ 26K • 👍 2K • 💬 201 • ⏱️ 9:48 • 18h ago
 
 ---
 
@@ -365,7 +365,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 14K • 👍 922 • 💬 109 • ⏱️ 3:56 • 17h ago
+👁️ 14K • 👍 922 • 💬 109 • ⏱️ 3:56 • 18h ago
 
 ---
 
@@ -375,7 +375,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 406 • 💬 82 • ⏱️ 18:38 • 19h ago
+👁️ 9K • 👍 406 • 💬 82 • ⏱️ 18:38 • 20h ago
 
 ---
 
