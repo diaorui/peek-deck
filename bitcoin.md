@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T07:39:50.238197+00:00'
+updated: '2025-12-15T07:52:48.702776+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 07:39 UTC  
+**Last Updated:** December 15, 2025 at 07:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -3.5%  
-**30d:** -4.8%  
-**90d:** -23.0%  
-**1y:** -15.3%  
+**24h:** -0.8%  
+**7d:** -3.7%  
+**30d:** -5.0%  
+**90d:** -23.2%  
+**1y:** -15.5%  
 
 ---
 
@@ -107,7 +107,7 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -131,7 +131,7 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[We are going down a bit, get ready for the Peter Schiff tweets 😂](https://www.reddit.com/r/Bitcoin/comments/1pmtxa0/we_are_going_down_a_bit_get_ready_for_the_peter/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Block • 9h ago
 
 Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 8h ago
 
 Metaplanet stock wavers near 440 JPY ahead of its crucial extraordinary general meeting (EGM) to determine its Bitcoin strategy for next year. CEO Simon Gerovich urges shareholders to exercise their voting rights on key proposals that could shape the company’s future. Metaplanet Sends Notice to Shareholders About Extraordinary General Meeting Metaplanet took to X on
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -337,7 +337,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 222 • 💬 5 • ⏱️ 8:12 • 1h ago
+👁️ 2K • 👍 222 • 💬 5 • ⏱️ 8:12 • 2h ago
 
 ---
 

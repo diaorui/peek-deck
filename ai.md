@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T07:39:50.229759+00:00'
+updated: '2025-12-15T07:52:48.694202+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 07:39 UTC  
+**Last Updated:** December 15, 2025 at 07:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ RIP Copilot.
 
 TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
 
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 7h ago
+🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 8h ago
 
 ---
 
@@ -211,7 +211,7 @@ Some (well-known) consequences of AI automating work
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 175 • 💬 125 • 2d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 175 • 💬 125 • 3d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -251,7 +251,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 89 • 💬 112 • 7h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 89 • 💬 112 • 8h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -415,7 +415,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 340 • 14h ago
+⬇️ 15,778 • ❤️ 340 • 15h ago
 
 ---
 
@@ -475,7 +475,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,725 • ❤️ 205 • 14h ago
+⬇️ 4,725 • ❤️ 205 • 15h ago
 
 ---
 
@@ -503,7 +503,7 @@ Apriel-1.6-15B-Thinker is a cost-efficient multimodal reasoning model that excel
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 128 • 💬 6 • ⭐ 17,958 • 3mo ago
+▲ 129 • 💬 6 • ⭐ 17,958 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -517,7 +517,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 195 • 💬 4 • ⭐ 6,875 • 17d ago
+▲ 195 • 💬 4 • ⭐ 6,928 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -637,7 +637,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.9k • 🔱 2.3k • 2h ago
+⭐ 15.0k • 🔱 2.3k • 2h ago
 
 ---
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.1k • 🔱 344 • 59m ago
+⭐ 3.1k • 🔱 348 • 1h ago
 
 ---
 
@@ -707,7 +707,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 10h ago
+⭐ 861 • 🔱 49 • 26m ago
 
 ---
 
@@ -727,7 +727,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 694 • 🔱 103 • 2d ago
+⭐ 695 • 🔱 105 • 2d ago
 
 ---
 
