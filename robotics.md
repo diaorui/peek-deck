@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T05:57:35.387424+00:00'
+updated: '2025-12-15T06:46:41.465413+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 05:57 UTC  
+**Last Updated:** December 15, 2025 at 06:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 RIP, between the failed Amazon acquisition and the stiff competition this was a long time coming but still very sad. Theyre being bought by their Chinese manufacturer, which I found interesting when there are so many Chinese competitors in the market. I wonder if they will try to continue the brand.
 
-🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 2h ago
+🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 3h ago
 
 ---
 
@@ -52,7 +52,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
 
-6h ago
+7h ago
 
 ---
 
@@ -60,15 +60,7 @@ Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on th
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-19h ago
-
----
-
-**[Unitree Debuts the World’s First Humanoid Robot “App Store”. It welcomes users and developers worldwide to co-develop and share together. Exceptional developers will receive rewards.](https://www.reddit.com/r/robotics/comments/1pmc3du/unitree_debuts_the_worlds_first_humanoid_robot/)**
-
-From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
-
-18h ago
+20h ago
 
 ---
 
@@ -76,7 +68,15 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
 Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
 
-1h ago
+2h ago
+
+---
+
+**[Unitree Debuts the World’s First Humanoid Robot “App Store”. It welcomes users and developers worldwide to co-develop and share together. Exceptional developers will receive rewards.](https://www.reddit.com/r/robotics/comments/1pmc3du/unitree_debuts_the_worlds_first_humanoid_robot/)**
+
+From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
+
+19h ago
 
 ---
 
@@ -84,13 +84,13 @@ Been messing around with this little mobile camera, it’s about the size of a c
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-19h ago
+20h ago
 
 ---
 
 **[MuJoCo-rs 2.2.0: New release of Rust bindings and idiomatic wrappers around the MuJoCo simulation library](https://www.reddit.com/r/robotics/comments/1pmmtdp/mujocors_220_new_release_of_rust_bindings_and/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -114,15 +114,15 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 19h ago
+The New York Times • 9h ago
 
 ---
 
-**[Butler reboot: European firm to deploy 10,000 household humanoid robots in factories](https://interestingengineering.com/ai-robotics/1x-to-deploy-humanoid-robots-for-warehouses)**
+**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
 
-1X has partnered with EQT to make up to 10,000 Neo humanoid robots available to more than 300 companies between 2026 and 2030.
+General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Interesting Engineering • 2d ago
+Scientific American • 1d ago
 
 ---
 
@@ -130,7 +130,7 @@ Interesting Engineering • 2d ago
 
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -138,7 +138,7 @@ The Motley Fool • 10h ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 15h ago
+InvestorPlace • 11h ago
 
 ---
 
@@ -146,7 +146,7 @@ InvestorPlace • 15h ago
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 23h ago
+South China Morning Post • 1d ago
 
 ---
 
@@ -154,7 +154,7 @@ South China Morning Post • 23h ago
 
 Robot companies are racing toward a breakout year, but they'll have to confront some fundamental problems before making bigger promises.
 
-CNET • 21h ago
+CNET • 22h ago
 
 ---
 
@@ -163,6 +163,12 @@ CNET • 21h ago
 “The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
 
 Fortune • 1d ago
+
+---
+
+**[Roomba maker iRobot files for bankruptcy, pursues manufacturer buyout](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/)**
+
+Reuters • 3h ago
 
 ---
 
@@ -178,15 +184,7 @@ PR Newswire • 6h ago
 
 iRobot survived three decades of competition, but couldn't survive European regulators killing its Amazon buyout. Now it's being taken over by its own supplier in bankruptcy court.
 
-TechCrunch • 3h ago
-
----
-
-**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://finance.yahoo.com/news/94-billion-robotics-market-set-194400551.html)**
-
-This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
-
-Yahoo Finance • 1d ago
+TechCrunch • 4h ago
 
 ---
 
@@ -200,7 +198,7 @@ Yahoo Finance • 1d ago
 
 📺 CNET
 
-👁️ 14K • 👍 418 • 💬 51 • ⏱️ 6:41 • 16h ago
+👁️ 14K • 👍 418 • 💬 51 • ⏱️ 6:41 • 17h ago
 
 ---
 
@@ -220,7 +218,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 176K • 👍 6K • 💬 216 • ⏱️ 0:34 • 21h ago
+👁️ 176K • 👍 6K • 💬 216 • ⏱️ 0:34 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T05:57:35.384190+00:00'
+updated: '2025-12-15T06:46:41.460578+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 05:57 UTC  
+**Last Updated:** December 15, 2025 at 06:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,109.41
+### $3,119.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -5.9%  
-**30d:** +0.8%  
-**90d:** -32.0%  
-**1y:** -21.6%  
+**24h:** +0.5%  
+**7d:** -5.6%  
+**30d:** +1.1%  
+**90d:** -31.7%  
+**1y:** -21.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.31B
+**Market Cap:** $377.51B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-36.7%
 
 **All-Time Low:** $0.43
-+720198.2%
++722473.2%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion December 15, 2025](https://www.reddit.com/r/ethereum/comments/1pn03v7/daily_general_discussion_december_15_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+44m ago
+
+---
+
 **[Daily General Discussion December 14, 2025](https://www.reddit.com/r/ethereum/comments/1pm6u5l/daily_general_discussion_december_14_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm try
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -128,7 +136,7 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -137,14 +145,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Hi, total crypto newbie here. I need some guidance and expert advice on the best way to approach my financial needs. Context: I live in a developing country, and I am in desperate need of financial freedom. I started looking into stablecoins, especially USDT. I am not really looking into trading. My use case: Relative or friend in europe, they buy USDT on Binance or any other exchange platform, send that USDT to my Trust wallet. I store it, and occasionally send some pocket money to Redotpay to spend using their virtual visa card. That is pretty much about it. Storing it and spending with Redotpay. Not super interested in p2p market. So i dont think i will need to sell my USDT that often, almost never. So the market standard for p2p transactions isnt really a big concern. Might be interested in trading one day, but not for now. This is just for my personal finances and spending. The question I need help with: Should I use Ethereum or Tron. My findings with the research I did: Tron has cheaper gas fee, for when I transfer to Redotpay. But apparently Eth have dropped their transfer rates for USDT, and a lot of people claim it is around the same price now. Because the numbers I found are a little worrying: around 1 USD for Tron and between 3-8 USD for Eth. If you have any information about the rates that would be great. I am more inclined towards Eth to be fair. I just like the idea of a trully decentralized chain. And it has been king over a decade for good reasons. Also it is more secure. With the new EIP-7702 on Eth, you can now pay gas fee for transfers with USDT, which is very interesting, as I am not very comfortable with juggling two currencies. Since per my understanding, I need to always have TRX reserve in my Trust wallet to be able to send to Redotpay. Are the fees really that different to justify skipping on EIP-7702 ? Some people mentioned using an L2 on Eth. I honestly have no idea what that is. If i have got any concepts misunderstood, I would appreciate any clarifications and guidance. I still got a lot to learn about this field.
 
 3d ago
-
----
-
-**[Devconnect 2025: Payment Apps](https://www.reddit.com/r/ethereum/comments/1pjloy0/devconnect_2025_payment_apps/)**
-
-(This is an EVMavericks production.) During Devconnect 2025 in Buenos Aires, payment apps that bridge stablecoins to Argentina's peso economy were launching, updating, and competing for users. I tested as many of them as I could. Here's what worked, what didn't, and what you should know if you're planning a trip to Argentina with stablecoins in your wallet. Stablecoin Cards I had two debit cards before I started: Metamask and GnosisPay. These worked in most places that accept cards, but were denied a few times. Generally, if one card was denied, the other was as well, so clearly there is something slightly different about them from the card reader point of view. The most noticeable instance of this was Subte turnstiles, which accept bank-issued cards for subway travel, but rejected both of the stablecoin cards consistently. I didn't dare try the cards on the bus, for fear of the driver kicking me off. QR code Payments Many merchants, ranging from kiosks to grocery stores to restaurants accept payment via QR code, usually through Mercado Pago or MODO. The QR payment system is regulated by the Central Bank of Argentina under the Transferencias 3.0 initiative, which requires that all payment service providers and banks use the same standardized QR code generator. There are a number of Web3 apps which plug into this QR scaffolding, making it easy to pay using stablecoins via the apps, as long as you have Internet access. Usually, the merchant generates a QR code for you at the point of sale. You scan this code in the app and then confirm the transaction. Some smaller shops have a static QR code displayed near the cash register. You scan that for the merchant information and then enter the amount yourself, which then sends a confirmation of the amount paid to the checkout. Either way, once you confirm, the funds are debited from your account and the merchant receives pesos with a confirmation on their terminal that you paid. It's all very easy and straightforward. Merchants often reacted with surprise that I, clearly a tourist, was able to pay by QR code, so being able to interact with this system as an outsider is clearly still new. Some merchants only accepted direct transfers and did not have the terminal in order to generate a QR code. None of these apps were able to do a direct transfer in this way. P2P(dot)me The only payment system that I found which felt aligned to Decentralized Finance (permissionless and trustless within a reputation framework) was P2P(dot)me, a decentralized bridge between stablecoins and local bank/payment rails. They match USDC-fiat swaps using smart contracts on Base and a network of "human liquidity providers". At a coffee shop, I entered the cost of my order into the app, where I was matched with an offer taker who wanted to buy my USDC. Then I asked the server for a QR code to pay. I scanned that QR code, which was passed to the taker, who bought my USDC and paid my bill in pesos. It was a little bit slow but well within the tolerances of my coffee shop waitress. I tried it again in a shop where I didn't know how much the bill would be in advance. Even so, it was just fast enough for me to wait for my offer to be accepted and then scan the QR code before the terminal timed out, needing just a little patience from the shopkeeper. You are limited to one transaction a day up to a value of $10 USD unless you go through their zero-knowledge KYC to verify yourself as a user. The limit is raised to 10 transactions and a $100 limit if you verify using a social media account (X, Instagram, Facebook, GitHub). If you verify with LinkedIn or ZKpassport, the limit is raised to $200 per day. I can vouch for the fact that P2P(dot)me worked great in Buenos Aires. It is apparently also popular in India, Brazil and Indonesia. Peanut Cash The belle of the ball was Peanut Cash, with their hot pink messaging and aggressive social media campaign. Peanut allows you to send/request money from other users and to pay for services using QR codes. In order to use QR code payments, you have to KYC with an identity document and your residential information. The actual KYC is done by a third-party and varies somewhat by nationality. The payments are handled by Peanut and their banking/payment partners. Peanut offers perks, up to 20% cashback on specific transactions, based on a tier-based system of referrals and usage. The Chromium app uses passkeys saved with Apple or Google. You can transfer money out of the wallet that they created on your behalf but there is no way to gain control of it: you cannot access or export the private keys. They claim to be self-custodial, as they don't actually hold the funds and can't seize or spend them. I would call the wallet not custodial. During the conference, Peanut announced that you could now use RedATM cash points to withdraw cash from the app via QR, up to 500,000 pesos, which is much more than bank ATMs using foreign cards. This is a big deal: when I tried to use a debit card at a bank ATM, I was limited to 30,000 pesos, about twenty dollars, with a seven dollar transaction fee. Peanut Cash with RedATM allows withdrawals of up to 500,000 pesos with a fee of under $5, which was very useful for getting cash quickly. Yodl Yodl Pay allows you to deposit USDT and pay using QR payment systems in Argentina, Brazil, the Philippines and Vietnam. They also offer Yodl Go for P2P payments among other app users. It is non-KYC with the exception of Argentina. KYC for using the QR payment system within Argentina was through a third-party and asked for government-issued ID and address information. The Yodl mobile app is available through Apple Store/Google Play for iOS and Android users. On first use, the app generates an embedded wallet using Privy, allowing you to bypass Yodl completely and use Privy options to export your keys. I have no idea how to do this and I had to wade through their terms and conditions to even find that information. Instead, I simply withdrew the funds back to my own wallet. I had no issues paying with Yodl at any merchants who accepted QR payments; my only complaint would be that the app was sometimes slow to load. Settle Settle is a Farcaster-native wallet that offers crypto-to-crypto payments between users. Settle does not require KYC although obviously you must have a Farcaster account. They spent the week of the conference onboarding local cafés and restaurants and ended up with about two dozen locations in Buenos Aires by the time I left. The big difference between Settle and the other apps is that there is no conversion: the buyer and the seller are trading in stablecoins, rather than a conversion to pesos at the point of sale. Rather than cashback, specific locations offered discounts for paying with Settle, similar to existing discounts offered for paying in cash. I saw a few conference goers speak positively about crypto-adoption in Buenos Aires having seen the Settle signs. So far, they only have about two dozen merchants who accept direct crypto payments via Settle, but I hope the high profile of their merchant onboarding campaign might increase local acceptance of crypto payments. I didn't test it. Loading Farcaster and then the mini-app within Farcaster made me impatient, but mostly because I never ended up walking into any Settle-enabled locations. Takenos The Takenos app was aggressively marketed during the final days of the conference with friendly young locals handing out flyers in English and Spanish offering $5 free for immediate sign-up with a referral code. Takenos is a custodial "global wallet" that allows you to hold USDC/USDT as well as various fiat (USD/EUR/BRL/ARS). It is aimed at LatAM freelancers and small businesses and available in Spanish only. Takenos runs on bank/FinTech rails and offers users payment card options along with QR payments within Argentina, with conversion to Argentine pesos happening at the point of sale. There are two cards available, a "Spicy Card" for payments in Argentina and a US-issued "Take Card" for use abroad and online in foreign currencies. KYC is required. I went through the KYC requirements to be told three days later that my application was unsuccessful. I have a particular dislike for protocols that use KYC as an invisible application process for their supposedly permissionless service. If there are requirements, they should be made known before KYC. I emailed their support for comment. I did not receive a reply. Buenos Aires felt closer to crypto-native payments than anywhere else I've been. The solutions weren't perfect but they worked. Scan a code, send some stablecoins, walk away with an empanada. I'm currently visiting in the US, where the guy at the Walmart checkout laughed when I pulled out my phone to pay. No, they can't do contactless yet—do I have a physical card? I wouldn't wish the financial insecurity of Argentina on anyone, but I find myself missing these apps, especially the excitement of watching them grow and add features almost every day.
-
-4d ago
 
 ---
 
@@ -168,25 +168,25 @@ AMBCrypto • 1d ago
 
 ---
 
+**[Ethereum Forms Wyckoff Breakout Setup: $10,000 Price Target Back In Focus](https://www.tradingview.com/news/newsbtc:fae39eed8094b:0-ethereum-forms-wyckoff-breakout-setup-10-000-price-target-back-in-focus/)**
+
+A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
+
+TradingView — Track All Markets • 14h ago
+
+---
+
 **[Ethereum Price Could Be Silently Nearing a Breakout, Here’s Why](https://finance.yahoo.com/news/ethereum-price-could-silently-nearing-183000491.html)**
 
 Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Tron outperforms Bitcoin, Ethereum and major tokens, defying broader crypto market weakness](https://www.msn.com/en-us/money/markets/tron-outperforms-bitcoin-ethereum-and-major-tokens-defying-broader-crypto-market-weakness/ar-AA1SlW2K?ocid=finance-verthp-feeds)**
 
-MSN • 28m ago
-
----
-
-**[Ethereum Forms Wyckoff Breakout Setup: $10,000 Price Target Back In Focus](https://www.tradingview.com/news/newsbtc:fae39eed8094b:0-ethereum-forms-wyckoff-breakout-setup-10-000-price-target-back-in-focus/)**
-
-A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
-
-TradingView — Track All Markets • 13h ago
+MSN • 1h ago
 
 ---
 
@@ -195,6 +195,14 @@ TradingView — Track All Markets • 13h ago
 Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
 Nasdaq • 18h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP face pressure near key technical barriers](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-face-pressure-near-key-technical-barriers-202512150408)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday after correcting slightly in the previous week. The top three cryptocurrencies by market capitalization could face increased downside risk as bearish momentum builds across key indicators.
+
+FXStreet • 2h ago
 
 ---
 
@@ -218,13 +226,7 @@ CoinDesk • 2d ago
 
 Firedancer could start a new wave of adoption for Solana, especially from institutions that see a mitigated centralization risk from its validators.
 
-CryptoSlate • 9h ago
-
----
-
-**[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
-
-TipRanks • 19h ago
+CryptoSlate • 10h ago
 
 ---
 
@@ -238,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 487 • 👍 50 • 💬 2 • ⏱️ 6:25 • 2h ago
+👁️ 487 • 👍 50 • 💬 2 • ⏱️ 6:25 • 3h ago
 
 ---
 
@@ -258,7 +260,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 453 • 1h ago
+👁️ 2K • 👍 453 • 2h ago
 
 ---
 
@@ -268,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 149 • 💬 5 • ⏱️ 8:04 • 13h ago
+👁️ 3K • 👍 149 • 💬 5 • ⏱️ 8:04 • 14h ago
 
 ---
 
@@ -288,7 +290,7 @@ We have covered the bull case extensively—the dividends, the MAVAN launch, and
 
 📺 Wall Street Stockcast
 
-👁️ 894 • 👍 31 • 💬 18 • ⏱️ 10:35 • 8h ago
+👁️ 894 • 👍 31 • 💬 18 • ⏱️ 10:35 • 9h ago
 
 ---
 
@@ -318,7 +320,7 @@ Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.pa
 
 📺 Thomas Boleto – Bitcoin Insights
 
-👁️ 112 • 👍 18 • 💬 2 • ⏱️ 15:33 • 3h ago
+👁️ 112 • 👍 18 • 💬 2 • ⏱️ 15:33 • 4h ago
 
 ---
 

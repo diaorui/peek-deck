@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T05:57:35.378159+00:00'
+updated: '2025-12-15T06:46:41.451248+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 05:57 UTC  
+**Last Updated:** December 15, 2025 at 06:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.66B
+**Market Cap:** $1788.69B
 Rank #1
 
 **Circulating Supply:** 19,962,275 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.9%
 
 **All-Time Low:** $67.81
-+132042.8%
++132039.8%
 
 ---
 
@@ -79,15 +79,7 @@ Rank #1
 
 **[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
 
-8h ago
-
----
-
-**[Sold my brand new car for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pmu3n0/sold_my_brand_new_car_for_bitcoin/)**
-
-I just sold my 2024 Mustang that I bought brand new last year for $55,676 — ended up getting $31,500 for it. Honestly, I loved that car, but I decided it was time to let it go for something bigger. I’m putting the entire $31.5K into Bitcoin-related assets. I’m already invested around $75K in MSTR and MARA, and this sale gives me more dry powder to average in. I know it’s not a typical decision, but I’m 22 and I believe in where Bitcoin and the ecosystem are headed long term. My plan is to buy a Corvette with the profits — could be wrong, could be right. But I’d rather take the shot now than look back wishing I did. Let’s see where this journey goes 🚀 Added the bill too soo you guys know this isn’t a fake post
-
-5h ago
+9h ago
 
 ---
 
@@ -95,19 +87,13 @@ I just sold my 2024 Mustang that I bought brand new last year for $55,676 — en
 
 Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
 
-9h ago
+10h ago
 
 ---
 
 **[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
 
-6h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
-
-15h ago
+7h ago
 
 ---
 
@@ -115,31 +101,45 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
 
-4h ago
+5h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
+
+16h ago
 
 ---
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Not again 😩 No more dip](https://www.reddit.com/r/Bitcoin/comments/1pmsjz5/not_again_no_more_dip/)**
 
-6h ago
+7h ago
 
 ---
 
 **[We are going down a bit, get ready for the Peter Schiff tweets 😂](https://www.reddit.com/r/Bitcoin/comments/1pmtxa0/we_are_going_down_a_bit_get_ready_for_the_peter/)**
 
-5h ago
+6h ago
+
+---
+
+**[This is what I do when my wife is mall shopping and I’m on the bench outside](https://www.reddit.com/r/Bitcoin/comments/1pmqpwf/this_is_what_i_do_when_my_wife_is_mall_shopping/)**
+
+I have empty hands
+
+8h ago
 
 ---
 
@@ -149,7 +149,7 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Block • 7h ago
 
 Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -165,23 +165,29 @@ CoinDesk • 7h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 56m ago
+Financial Times • 1h ago
 
 ---
 
-**[Asia Market Open: Bitcoin Edges Lower As Stocks Retreat On Clouded Tech Outlook](https://finance.yahoo.com/news/asia-market-open-bitcoin-edges-040432755.html)**
+**[Bitcoin Stalls Near $90K as Holiday Lull Mutes Market](https://finance.yahoo.com/news/bitcoin-stalls-near-90k-holiday-052956042.html)**
 
-Bitcoin slipped below $90,000 on Friday as Asian markets started the final full trading week of 2025 on a weaker footing, with growing doubts over technology earnings weighing on risk appetite across equities and crypto alike.Equity futures pointed to losses for Australian, Hong Kong and Japanese benchmarks in early trading ...
+Bitcoin continues to trade in a narrow range just below the $90,000 level, reflecting a broader pause in market momentum as the year draws to a close. The world’s largest cryptocurrency was last hovering around $89,700, down roughly 1.2% over the past 24 hours, with price action largely subdued.The lack ...
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[XRP ETF News: Milestone as Ripple Linked Products See 30 Days of Positive Inflows](https://www.coindesk.com/markets/2025/12/15/xrp-spot-etfs-rack-up-30-day-inflow-streak-in-divergence-from-bitcoin-ether)**
+**[ETH, SOL, ADA Slide as Bitcoin Sees Year End Profit-Taking](https://www.coindesk.com/markets/2025/12/15/eth-sol-ada-slide-as-bitcoin-sees-year-end-profit-taking)**
 
-The products have attracted fresh capital every trading day since launch, lifting cumulative net inflows to about $975 million.
+Trading volumes have thinned noticeably in recent sessions, amplifying price moves and reinforcing a defensive tone, some market watchers say.
 
-CoinDesk • 56m ago
+CoinDesk • 52m ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+
+Reuters • 5h ago
 
 ---
 
@@ -191,17 +197,11 @@ Investor's Business Daily • 2d ago
 
 ---
 
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+**[Bitcoin Price (BTC) News: Plunges Below $90K as AI Bubble Worries Weigh on Tech Stocks](https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down)**
 
-Reuters • 4h ago
+Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026.
 
----
-
-**[Strategy Inc (MSTR) Stock News on Dec. 14, 2025: Nasdaq-100 Decision, MSCI Index Risk, Bitcoin Buys, and Wall Street Forecasts](https://ts2.tech/en/strategy-inc-mstr-stock-news-on-dec-14-2025-nasdaq-100-decision-msci-index-risk-bitcoin-buys-and-wall-street-forecasts/)**
-
-Strategy Inc (MSTR) Stock News on Dec. 14, 2025: Nasdaq-100 Decision, MSCI Index Risk, Bitcoin Buys, and Wall Street Forecasts - TechStock²
-
-ts2.tech • 10h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -209,13 +209,15 @@ ts2.tech • 10h ago
 
 Key PointsCardano is approaching one of its largest-ever growth opportunities.
 
-Nasdaq • 11h ago
+Nasdaq • 12h ago
 
 ---
 
-**[Tron outperforms Bitcoin, Ethereum and major tokens, defying broader crypto market weakness](https://www.msn.com/en-us/money/markets/tron-outperforms-bitcoin-ethereum-and-major-tokens-defying-broader-crypto-market-weakness/ar-AA1SlW2K?ocid=finance-verthp-feeds)**
+**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
 
-MSN • 28m ago
+Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -293,7 +295,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 212 • ⏱️ 9:35 • 6h ago
+👁️ 25K • 👍 1K • 💬 212 • ⏱️ 9:35 • 7h ago
 
 ---
 
@@ -303,7 +305,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 107 • ⏱️ 14:17 • 6h ago
+👁️ 19K • 👍 1K • 💬 107 • ⏱️ 14:17 • 7h ago
 
 ---
 
@@ -313,7 +315,7 @@ TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE 
 
 📺 Jason Pizzino
 
-👁️ 4K • 👍 404 • 💬 133 • ⏱️ 34:43 • 3h ago
+👁️ 4K • 👍 404 • 💬 133 • ⏱️ 34:43 • 4h ago
 
 ---
 
@@ -333,7 +335,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 72K • 👍 5K • 💬 398 • ⏱️ 17:53 • 14h ago
+👁️ 72K • 👍 5K • 💬 398 • ⏱️ 17:53 • 15h ago
 
 ---
 
@@ -343,7 +345,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 12K • 👍 850 • 💬 73 • ⏱️ 3:56 • 12h ago
+👁️ 12K • 👍 850 • 💬 73 • ⏱️ 3:56 • 13h ago
 
 ---
 
@@ -353,7 +355,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 150 • ⏱️ 9:48 • 12h ago
+👁️ 24K • 👍 2K • 💬 150 • ⏱️ 9:48 • 13h ago
 
 ---
 
@@ -363,7 +365,7 @@ For more than a decade, Bitcoin lived by one rhythm: the four-year halving cycle
 
 📺 The Bitcoin Revolution
 
-👁️ 1K • 👍 66 • 💬 54 • ⏱️ 12:07 • 14h ago
+👁️ 1K • 👍 66 • 💬 54 • ⏱️ 12:07 • 15h ago
 
 ---
 
@@ -383,7 +385,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 559 • 💬 99 • ⏱️ 3:45 • 9h ago
+👁️ 4K • 👍 559 • 💬 99 • ⏱️ 3:45 • 10h ago
 
 ---
 
