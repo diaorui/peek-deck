@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T07:13:43.689873+00:00'
+updated: '2025-12-15T07:39:50.229759+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 07:13 UTC  
+**Last Updated:** December 15, 2025 at 07:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-19h ago
+20h ago
 
 ---
 
@@ -89,7 +89,7 @@ A lot of AI image tools are powerful, but they rely heavily on long, precise pro
 
 Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
 
-20h ago
+21h ago
 
 ---
 
@@ -117,6 +117,12 @@ Grass has jumped from a simple concept to a multi-million dollar, airdrop reward
 
 ## Google News: "ai"
 
+**[Introducing GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)**
+
+OpenAI • 3d ago
+
+---
+
 **[Wall Street Sees AI Bubble Coming and Is Betting on What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
 
 Bloomberg.com • 17h ago
@@ -131,31 +137,9 @@ The Atlantic • 19h ago
 
 ---
 
-**[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
-
-Axios • 2h ago
-
----
-
-**[Should Dropbox’s New CFO and AI Focus Require Action From Dropbox (DBX) Investors?](https://finance.yahoo.com/news/dropbox-cfo-ai-focus-require-060629135.html)**
-
-Earlier this week, Dropbox announced that long-serving CFO Timothy Regan will step down and be succeeded by Ross Tennenbaum, currently president and former CFO of tax software firm Avalara, as the company accelerates investment in AI tools such as Dropbox Dash that connect services like Google Workspace and Slack. The leadership change places a seasoned software finance executive at the center of Dropbox’s push to turn its AI initiatives into meaningful, revenue-generating products. We’ll...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Publishers are hunting for AI prompt data — now they’re starting to get it from third-party companies](https://digiday.com/media/publishers-are-hunting-for-ai-prompt-data-now-theyre-starting-to-get-it-from-tk/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)**
-
-Publishers are finally gaining some visibility into AI search, as new prompt data tools crack open a black box.
-
-Digiday • 2h ago
-
----
-
 **[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
 
-The Economist • 19h ago
+The Economist • 20h ago
 
 ---
 
@@ -165,23 +149,35 @@ The Washington Post • 13h ago
 
 ---
 
-**[Gavin Newsom pushes back on Trump AI executive order preempting state laws](https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom)**
+**[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
 
-California governor says order pushes ‘grift and corruption’ instead of innovation just hours after president’s dictum
-
-The Guardian • 1d ago
+Axios • 2h ago
 
 ---
 
-**[Trump’s AI moratorium threatens state-level crackdowns on housing costs](https://www.politico.com/news/2025/12/14/trumps-ai-moratorium-threatens-state-level-crackdown-on-housing-costs-00688789)**
+**[Want job security in the age of AI? Get a state license – any state license](https://www.theguardian.com/business/2025/dec/15/job-security-state-license)**
 
-Politico • 14h ago
+The coming tech boom is about to launch a boom in people who do things with their hands and minds
+
+The Guardian • 16h ago
 
 ---
 
-**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqcY1ZHoLQgYnIC4Ua3RqxMjHyrFWzHfRGAyisSnMNQUGIGtIsGFQn4v&gaa_ts=693fb23f&gaa_sig=RgQ6lSCRGZCZOahqF-PqJUaR9NAxOCCfOw0uplsBllh7Memws9kHGvkjEs3qXPqKPOj57XxIA8hZoLKtYABINg%3D%3D)**
+**[Purdue University Approves New AI Requirement For All Undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)**
 
-The Wall Street Journal • 9h ago
+Forbes • 1d ago
+
+---
+
+**[Build vs buy is dead — AI just killed it](https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it)**
+
+VentureBeat • 11h ago
+
+---
+
+**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqcRqUV1ut-vQCO2Pj16MH4RjjhCTFgMqf5_2WA6bCbWL1836zQwXk2s&gaa_ts=693fbeb4&gaa_sig=je36ksQ23dW6icoqqtcmaCFh-9jfFX7cToH63EI3g_4BAZlhLj7YShCqiOsB4C0ivSslXtTc2_DwIVb_xZgkoA%3D%3D)**
+
+The Wall Street Journal • 13h ago
 
 ---
 
@@ -199,7 +195,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 436 • 💬 431 • 1d ago
+⬆️ 440 • 💬 431 • 1d ago
 
 ---
 
@@ -207,7 +203,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 229 • 💬 101 • 17h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 234 • 💬 105 • 18h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -215,7 +211,7 @@ Some (well-known) consequences of AI automating work
 
 A summary of the techniques in place to protect my git forge
 
-⬆️ 174 • 💬 125 • 2d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
+⬆️ 175 • 💬 125 • 2d ago • [VulpineCitrus](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 
 ---
 
@@ -223,7 +219,7 @@ A summary of the techniques in place to protect my git forge
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 146 • 💬 202 • 18h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 146 • 💬 204 • 19h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -247,7 +243,15 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 119 • 💬 100 • 6h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 129 • 💬 106 • 7h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+
+---
+
+**[AI agents are starting to eat SaaS](https://news.ycombinator.com/item?id=46268452)**
+
+Software ate the world. Agents are going to eat SaaS.
+
+⬆️ 89 • 💬 112 • 7h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -259,27 +263,9 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 ---
 
-**[AI agents are starting to eat SaaS](https://news.ycombinator.com/item?id=46268452)**
-
-Software ate the world. Agents are going to eat SaaS.
-
-⬆️ 82 • 💬 106 • 7h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[Our 2025 Reports on Artificial Intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
-
-From November, Anderson Cooper's report on why Anthropic's CEO spends so much time warning of AI's potential dangers.
-
-📺 60 Minutes
-
-👁️ 346K • 👍 6K • 💬 825 • ⏱️ 1:21:07 • 1d ago
-
----
 
 **[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
 
@@ -287,47 +273,17 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 17K • 👍 847 • 💬 87 • ⏱️ 12:07 • 8h ago
+👁️ 22K • 👍 981 • 💬 96 • ⏱️ 12:07 • 8h ago
 
 ---
 
-**[Which SORA AI Disney Trailer Should Be Made Into A Full Movie Next?](https://www.youtube.com/watch?v=wBDmFB4iWPQ)**
+**[Our 2025 Reports on Artificial Intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
 
-Which SORA AI Disney Trailer Should Be Made Into A Full Movie Next? #funny #funnyvideos #viral #comedy #funnyviral #ai ...
+From November, Anderson Cooper's report on why Anthropic's CEO spends so much time warning of AI's potential dangers.
 
-📺 Bigfoot Feed
+📺 60 Minutes
 
-👁️ 13K • 👍 224 • 💬 12 • ⏱️ 0:51 • 7h ago
-
----
-
-**[🇮🇳 India vs 🇵🇰 Pakistan | Epic AI Boxing Fight 🔥  #ai #trendingshorts #ytshorts #india  #pakistan](https://www.youtube.com/watch?v=MezlC1MtgMk)**
-
-Dog V/S Dog – AI Generated Epic Fight Is AI generated Shorts video mein aap dekhenge ek zabardast aur intense fight ...
-
-📺 ZX_SONU_EDITDZ
-
-👁️ 10K • 💬 10 • ⏱️ 0:47 • 1d ago
-
----
-
-**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
-
-IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
-
-📺 Eurodollar University
-
-👁️ 29K • 👍 2K • 💬 235 • ⏱️ 20:44 • 6h ago
-
----
-
-**[The AI Bubble is Worse Than You Think](https://www.youtube.com/watch?v=oT896h76s-Y)**
-
-Our Discord Community (FREE): https://discord.com/invite/Efbjh7Qj4V Review our sources ▻ https://pastebin.com/10agciWR ...
-
-📺 2 and 20
-
-👁️ 86K • 👍 4K • 💬 479 • ⏱️ 12:40 • 1d ago
+👁️ 368K • 👍 6K • 💬 845 • ⏱️ 1:21:07 • 1d ago
 
 ---
 
@@ -337,7 +293,57 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 402K • 👍 16K • 💬 920 • ⏱️ 4:01 • 2d ago
+👁️ 406K • 👍 16K • 💬 928 • ⏱️ 4:01 • 2d ago
+
+---
+
+**[Lady Soldier Rescues Grandma and Builds Golden Carousel for Her 😭 #ai #save #army](https://www.youtube.com/watch?v=Rg0j9jUTTPM)**
+
+Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
+
+📺 Anime world 
+
+👁️ 75K • 👍 603 • 💬 1 • ⏱️ 0:22 • 18h ago
+
+---
+
+**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
+
+IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
+
+📺 Eurodollar University
+
+👁️ 40K • 👍 2K • 💬 262 • ⏱️ 20:44 • 7h ago
+
+---
+
+**[The AI Bubble is Worse Than You Think](https://www.youtube.com/watch?v=oT896h76s-Y)**
+
+Our Discord Community (FREE): https://discord.com/invite/Efbjh7Qj4V Review our sources ▻ https://pastebin.com/10agciWR ...
+
+📺 2 and 20
+
+👁️ 93K • 👍 4K • 💬 511 • ⏱️ 12:40 • 1d ago
+
+---
+
+**[Why YouTube Won&#39;t Stop Pushing AI Nonsense...](https://www.youtube.com/watch?v=We7FzVfIIcs)**
+
+Hello guys and gals, it's me Mutahar again! This time we take a look at why sites like YouTube are taking AI so seriously.
+
+📺 SomeOrdinaryGamers
+
+👁️ 73K • 👍 4K • 💬 768 • ⏱️ 19:00 • 1d ago
+
+---
+
+**[AI Is Ruining Christmas...](https://www.youtube.com/watch?v=FKyzEFE50S0)**
+
+The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOPmas!! You know what's NOT AI slop? Skywork!
+
+📺 Steve Terreberry
+
+👁️ 233K • 👍 13K • 💬 2K • ⏱️ 16:45 • 1d ago
 
 ---
 
@@ -351,23 +357,13 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 ---
 
-**[Lady Soldier Rescues Grandma and Builds Golden Carousel for Her 😭 #ai #save #army](https://www.youtube.com/watch?v=Rg0j9jUTTPM)**
+**[Are AI toys exciting or dangerous? | BBC News](https://www.youtube.com/watch?v=bGrdPmrjDBQ)**
 
-Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
+In the run up to the festive season, the selection of toys on offer seems to get bigger every year – and we're now seeing more and ...
 
-📺 Anime world 
+📺 BBC News
 
-👁️ 35K • 👍 508 • ⏱️ 0:22 • 17h ago
-
----
-
-**[AI Is Ruining Christmas...](https://www.youtube.com/watch?v=FKyzEFE50S0)**
-
-The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOPmas!! You know what's NOT AI slop? Skywork!
-
-📺 Steve Terreberry
-
-👁️ 222K • 👍 13K • 💬 2K • ⏱️ 16:45 • 1d ago
+👁️ 17K • 👍 352 • 💬 115 • ⏱️ 3:10 • 1d ago
 
 ---
 
@@ -383,7 +379,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,716 • 6d ago
+⬇️ 277,583 • ❤️ 2,717 • 6d ago
 
 ---
 
@@ -395,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 130,627 • ❤️ 837 • 2d ago
+⬇️ 130,627 • ❤️ 839 • 2d ago
 
 ---
 
@@ -407,7 +403,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 67,698 • ❤️ 424 • 5d ago
+⬇️ 67,698 • ❤️ 425 • 5d ago
 
 ---
 
@@ -419,7 +415,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 338 • 14h ago
+⬇️ 15,778 • ❤️ 340 • 14h ago
 
 ---
 
@@ -431,7 +427,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 3,369 • ❤️ 299 • 6d ago
+⬇️ 3,369 • ❤️ 301 • 6d ago
 
 ---
 
@@ -641,7 +637,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.9k • 🔱 2.3k • 1h ago
+⭐ 14.9k • 🔱 2.3k • 2h ago
 
 ---
 
@@ -651,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.1k • 🔱 344 • 33m ago
+⭐ 3.1k • 🔱 344 • 59m ago
 
 ---
 
@@ -711,7 +707,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 9h ago
+⭐ 861 • 🔱 49 • 10h ago
 
 ---
 

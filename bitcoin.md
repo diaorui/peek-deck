@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T07:13:43.698540+00:00'
+updated: '2025-12-15T07:39:50.238197+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 07:13 UTC  
+**Last Updated:** December 15, 2025 at 07:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,16 +45,16 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.6%  
-**7d:** -3.4%  
+**7d:** -3.5%  
 **30d:** -4.8%  
 **90d:** -23.0%  
-**1y:** -15.2%  
+**1y:** -15.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.69B
+**Market Cap:** $1789.30B
 Rank #1
 
 **Circulating Supply:** 19,962,275 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.9%
 
 **All-Time Low:** $67.81
-+132039.8%
++132169.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -93,7 +93,7 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -111,21 +111,21 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 ---
 
-**[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
-
-14h ago
-
----
-
 **[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
 
 15h ago
 
 ---
 
+**[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
+
+14h ago
+
+---
+
 **[Not again 😩 No more dip](https://www.reddit.com/r/Bitcoin/comments/1pmsjz5/not_again_no_more_dip/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -135,11 +135,11 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 ---
 
-**[This is what I do when my wife is mall shopping and I’m on the bench outside](https://www.reddit.com/r/Bitcoin/comments/1pmqpwf/this_is_what_i_do_when_my_wife_is_mall_shopping/)**
+**[How much bitcoin is actually unrecoverable?](https://www.reddit.com/r/Bitcoin/comments/1pmqtkd/how_much_bitcoin_is_actually_unrecoverable/)**
 
-I have empty hands
+We all know the 21,000,000 supply story, but I don’t think that’s telling the whole truth. There has to be some Bitcoin that’s not ever able to be spent, used, or transacted, regardless of wallet type. So the main question is, if 21M isn’t the “real” supply, then what is?
 
-8h ago
+9h ago
 
 ---
 
@@ -161,17 +161,9 @@ CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
+**[Metaplanet CEO Teases “Crucial” Bitcoin Buy Decision at Upcoming EGM, Stock Wavers](https://finance.yahoo.com/news/metaplanet-ceo-teases-crucial-bitcoin-054957927.html)**
 
-Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
-
-Financial Times • 2h ago
-
----
-
-**[Bitcoin Stalls Near $90K as Holiday Lull Mutes Market](https://finance.yahoo.com/news/bitcoin-stalls-near-90k-holiday-052956042.html)**
-
-Bitcoin continues to trade in a narrow range just below the $90,000 level, reflecting a broader pause in market momentum as the year draws to a close. The world’s largest cryptocurrency was last hovering around $89,700, down roughly 1.2% over the past 24 hours, with price action largely subdued.The lack ...
+Metaplanet stock wavers near 440 JPY ahead of its crucial extraordinary general meeting (EGM) to determine its Bitcoin strategy for next year. CEO Simon Gerovich urges shareholders to exercise their voting rights on key proposals that could shape the company’s future. Metaplanet Sends Notice to Shareholders About Extraordinary General Meeting Metaplanet took to X on
 
 Yahoo Finance • 1h ago
 
@@ -185,15 +177,31 @@ CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+**[DOGE Price News: What Next as Dogecoin Slides Alongside Bitcoin, Memecoins](https://www.coindesk.com/markets/2025/12/15/dogecoin-slides-alongside-bitcoin-memecoins-as-traders-pare-risk-bets)**
 
-Reuters • 6h ago
+Dogecoin's immediate downside momentum appears exhausted, with $0.1372 acting as a crucial short-term support.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
+
+Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
+
+Financial Times • 2h ago
 
 ---
 
 **[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
 Investor's Business Daily • 2d ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+
+Reuters • 6h ago
 
 ---
 
@@ -209,15 +217,7 @@ CoinDesk • 2d ago
 
 Key PointsCardano is approaching one of its largest-ever growth opportunities.
 
-Nasdaq • 12h ago
-
----
-
-**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
-
-Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
-
-Bloomberg.com • 2d ago
+Nasdaq • 13h ago
 
 ---
 
@@ -229,7 +229,7 @@ Bloomberg.com • 2d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 7 • 💬 2 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 7 • 💬 3 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -271,14 +271,6 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 ---
 
-**[Married millennials, here comes the crypto divorce cliff](https://news.ycombinator.com/item?id=46189380)**
-
-Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
-
-⬆️ 9 • 💬 0 • 6d ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
-
----
-
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
 ⬆️ 2 • 💬 1 • 5d ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
@@ -295,7 +287,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 212 • ⏱️ 9:35 • 7h ago
+👁️ 35K • 👍 2K • 💬 261 • ⏱️ 9:35 • 8h ago
 
 ---
 
@@ -305,17 +297,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 107 • ⏱️ 14:17 • 7h ago
-
----
-
-**[History Reveals Bitcoin Stops Crashing When This Occurs Next](https://www.youtube.com/watch?v=o50OlLdfZb0)**
-
-TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 4K • 👍 404 • 💬 133 • ⏱️ 34:43 • 4h ago
+👁️ 26K • 👍 2K • 💬 155 • ⏱️ 14:17 • 8h ago
 
 ---
 
@@ -325,27 +307,37 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 255 • ⏱️ 9:39 • 6h ago
+👁️ 27K • 👍 1K • 💬 365 • ⏱️ 9:39 • 6h ago
 
 ---
 
-**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=Y2qfKc-FpxA)**
+**[CRITICAL: If THIS Level Fails BTC Is Will Drop Down To $…](https://www.youtube.com/watch?v=FgNo37Oi3i4)**
 
-Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out ITC premium before the SALE ends so you can lock ...
+Bitcoin is sitting at a knife's edge. Bulls are fighting for their lives to defend some key levels. If this support level fails, I'll be buying ...
 
-📺 Benjamin Cowen
+📺 Crypto Banter
 
-👁️ 72K • 👍 5K • 💬 398 • ⏱️ 17:53 • 15h ago
+👁️ 2K • 👍 208 • 2h ago
 
 ---
 
-**[Bitcoin Is Doing It Again (Don&#39;t Get Fooled)](https://www.youtube.com/watch?v=iKZcVtbHFbk)**
+**[🚨 BREAKING: JAPAN WILL CRASH BITCOIN!!?](https://www.youtube.com/watch?v=XEtLHjjN-U8)**
 
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BUUID2 (up to $2200 USDT) My Strategy ...
 
-📺 Crypto Tips
+📺 Conor Kenny
 
-👁️ 12K • 👍 850 • 💬 73 • ⏱️ 3:56 • 14h ago
+👁️ 4K • 👍 283 • 💬 100 • ⏱️ 15:03 • 2h ago
+
+---
+
+**[WARNING: BITCOIN HISTORY REPEATS....](https://www.youtube.com/watch?v=taFQpBsejIU)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
+
+📺 Crypto Rover
+
+👁️ 2K • 👍 222 • 💬 5 • ⏱️ 8:12 • 1h ago
 
 ---
 
@@ -355,37 +347,37 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 150 • ⏱️ 9:48 • 14h ago
+👁️ 25K • 👍 2K • 💬 167 • ⏱️ 9:48 • 14h ago
 
 ---
 
-**[Michael Saylor: &quot;Bitcoin&#39;s 4-Year Cycle is DEAD&quot;](https://www.youtube.com/watch?v=lCFPjiS8Ujc)**
+**[History Reveals Bitcoin Stops Crashing When This Occurs Next](https://www.youtube.com/watch?v=o50OlLdfZb0)**
 
-For more than a decade, Bitcoin lived by one rhythm: the four-year halving cycle. Each supply cut sparked a new wave of optimism ...
+TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
 
-📺 The Bitcoin Revolution
+📺 Jason Pizzino
 
-👁️ 1K • 👍 66 • 💬 54 • ⏱️ 12:07 • 16h ago
-
----
-
-**[It’s Happened! Institutions Are Ready to TRIPLE Bitcoin’s Price - Jordi Visser](https://www.youtube.com/watch?v=0UR7qU25uJI)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 16K • 👍 713 • 💬 13 • ⏱️ 24:03 • 1d ago
+👁️ 8K • 👍 616 • 💬 261 • ⏱️ 34:43 • 5h ago
 
 ---
 
-**[BITCOIN CRASH COMING?!?!?!? (Watch By Tomorrow)](https://www.youtube.com/watch?v=LIWtEqJtAPs)**
+**[Bitcoin Is Doing It Again (Don&#39;t Get Fooled)](https://www.youtube.com/watch?v=iKZcVtbHFbk)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
 
-📺 Crypto Kid
+📺 Crypto Tips
 
-👁️ 4K • 👍 559 • 💬 99 • ⏱️ 3:45 • 10h ago
+👁️ 13K • 👍 886 • 💬 111 • ⏱️ 3:56 • 14h ago
+
+---
+
+**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=Y2qfKc-FpxA)**
+
+Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out ITC premium before the SALE ends so you can lock ...
+
+📺 Benjamin Cowen
+
+👁️ 76K • 👍 5K • 💬 415 • ⏱️ 17:53 • 16h ago
 
 ---
 

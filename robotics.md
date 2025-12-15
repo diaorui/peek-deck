@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T07:13:43.708038+00:00'
+updated: '2025-12-15T07:39:50.247415+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 07:13 UTC  
+**Last Updated:** December 15, 2025 at 07:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,15 +52,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
 
-7h ago
-
----
-
-**[Next gen drones infrastructure by Zipline](https://www.reddit.com/r/robotics/comments/1pmam73/next_gen_drones_infrastructure_by_zipline/)**
-
-From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
-
-21h ago
+8h ago
 
 ---
 
@@ -72,11 +64,25 @@ Been messing around with this little mobile camera, it’s about the size of a c
 
 ---
 
+**[Next gen drones infrastructure by Zipline](https://www.reddit.com/r/robotics/comments/1pmam73/next_gen_drones_infrastructure_by_zipline/)**
+
+From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
+
+21h ago
+
+---
+
+**[do you actually hand-write URDFs from scratch?](https://www.reddit.com/r/robotics/comments/1pn0vtu/do_you_actually_handwrite_urdfs_from_scratch/)**
+
+50m ago
+
+---
+
 **[Unitree Debuts the World’s First Humanoid Robot “App Store”. It welcomes users and developers worldwide to co-develop and share together. Exceptional developers will receive rewards.](https://www.reddit.com/r/robotics/comments/1pmc3du/unitree_debuts_the_worlds_first_humanoid_robot/)**
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
-19h ago
+20h ago
 
 ---
 
@@ -90,7 +96,7 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 **[MuJoCo-rs 2.2.0: New release of Rust bindings and idiomatic wrappers around the MuJoCo simulation library](https://www.reddit.com/r/robotics/comments/1pmmtdp/mujocors_220_new_release_of_rust_bindings_and/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -100,29 +106,21 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 ---
 
-**[Loop closure grasping (Research Article Science). During grasp creation, the robot uses an open-loop topology, allowing free, unconstrained motion to wrap around objects of almost any shape.](https://www.reddit.com/r/robotics/comments/1plirjg/loop_closure_grasping_research_article_science/)**
-
-Science Advances: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps: https://www.science.org/doi/10.1126/sciadv.ady9581
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
-**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
+**[Butler reboot: European firm to deploy 10,000 household humanoid robots in factories](https://interestingengineering.com/ai-robotics/1x-to-deploy-humanoid-robots-for-warehouses)**
 
-General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
+1X has partnered with EQT to make up to 10,000 Neo humanoid robots available to more than 300 companies between 2026 and 2030.
 
-Scientific American • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -130,7 +128,7 @@ Scientific American • 1d ago
 
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -138,7 +136,7 @@ The Motley Fool • 11h ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 11h ago
+InvestorPlace • 12h ago
 
 ---
 
@@ -166,17 +164,11 @@ Fortune • 1d ago
 
 ---
 
-**[Roomba maker iRobot files for bankruptcy, pursues manufacturer buyout](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/)**
+**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
 
-Reuters • 3h ago
+General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
----
-
-**[iRobot Announces Strategic Transaction to Drive Long-Term Growth Plan](https://www.prnewswire.com/news-releases/irobot-announces-strategic-transaction-to-drive-long-term-growth-plan-302641744.html)**
-
-/PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
-
-PR Newswire • 7h ago
+Scientific American • 1d ago
 
 ---
 
@@ -184,7 +176,15 @@ PR Newswire • 7h ago
 
 iRobot survived three decades of competition, but couldn't survive European regulators killing its Amazon buyout. Now it's being taken over by its own supplier in bankruptcy court.
 
-TechCrunch • 4h ago
+TechCrunch • 5h ago
+
+---
+
+**[Streamer Sued for Assaulting Gay Robot](https://futurism.com/robots-and-machines/streamer-sued-for-assaulting-gay-robot)**
+
+Jake the Rizzbot, a bipedal, slang-slinging humanoid, was allegedly assaulted and permanently damaged by streamer IShowSpeed.
+
+Futurism • 13h ago
 
 ---
 
@@ -198,17 +198,7 @@ TechCrunch • 4h ago
 
 📺 CNET
 
-👁️ 14K • 👍 418 • 💬 51 • ⏱️ 6:41 • 18h ago
-
----
-
-**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
-
-EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
-
-📺 AI Tech Academy
-
-👁️ 127K • 👍 2K • 💬 927 • ⏱️ 14:26 • 6d ago
+👁️ 14K • 👍 433 • 💬 52 • ⏱️ 6:41 • 18h ago
 
 ---
 
@@ -218,7 +208,27 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 176K • 👍 6K • 💬 216 • ⏱️ 0:34 • 23h ago
+👁️ 190K • 👍 6K • 💬 228 • ⏱️ 0:34 • 23h ago
+
+---
+
+**[&quot;Ultra-Realistic Android Girl in Advanced Robotics Lab — 8K Tech Showcase&quot; #robot #humanoid](https://www.youtube.com/watch?v=q3HNfaToS9s)**
+
+"Ultra-Realistic Android Girl in Advanced Robotics Lab — 8K Tech Showcase" #robot #humanoid A humanoid robot girl leaps ...
+
+📺 Farooq tv
+
+👁️ 3K • 👍 35 • 💬 1 • ⏱️ 0:09 • 16h ago
+
+---
+
+**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
+
+EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
+
+📺 AI Tech Academy
+
+👁️ 128K • 👍 2K • 💬 930 • ⏱️ 14:26 • 6d ago
 
 ---
 
@@ -226,7 +236,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 30K • 👍 418 • 💬 10 • ⏱️ 0:16 • 1d ago
+👁️ 30K • 👍 424 • 💬 10 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -240,23 +250,31 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 ---
 
+**[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
+
+PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
+
+📺 LIGHTS ARE OFF
+
+👁️ 1.5M • 👍 68K • 💬 7K • ⏱️ 8:45 • 1d ago
+
+---
+
 **[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
 
 Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
 
 📺 Associated Press
 
-👁️ 24K • 👍 97 • 💬 34 • ⏱️ 1:26 • 2d ago
+👁️ 25K • 👍 98 • 💬 34 • ⏱️ 1:26 • 2d ago
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=8FCykVCNXic)**
+**[2025 Robot Expo Unveils New AI Humanoid Robots. #robotics #aihumanoid #robot #futuretech](https://www.youtube.com/watch?v=LV3STsEdQ0A)**
 
-robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
+📺 AI . Robot
 
-📺 She Shorts AI
-
-👁️ 288K • 👍 1K • 💬 6 • ⏱️ 0:11 • 6d ago
+👁️ 703K • 👍 8K • 💬 118 • ⏱️ 0:17 • 5d ago
 
 ---
 
@@ -266,27 +284,7 @@ How can robots help astronauts survive in space? The National Space Industry Hub
 
 📺 BBC News
 
-👁️ 15K • 👍 307 • 💬 133 • ⏱️ 5:17 • 1d ago
-
----
-
-**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
-
-Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
-
-📺 The Military Show
-
-👁️ 364K • 👍 10K • 💬 581 • ⏱️ 16:55 • 3d ago
-
----
-
-**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
-
-I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
-
-📺 Kyle Krueger
-
-👁️ 5.0M • 👍 156K • 💬 3K • ⏱️ 0:51 • 4d ago
+👁️ 16K • 👍 309 • 💬 133 • ⏱️ 5:17 • 1d ago
 
 ---
 

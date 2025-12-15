@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T07:13:43.704709+00:00'
+updated: '2025-12-15T07:39:50.244181+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 07:13 UTC  
+**Last Updated:** December 15, 2025 at 07:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -5.7%  
-**30d:** +1.0%  
-**90d:** -31.8%  
-**1y:** -21.4%  
+**24h:** +0.3%  
+**7d:** -5.9%  
+**30d:** +0.8%  
+**90d:** -31.9%  
+**1y:** -21.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.51B
+**Market Cap:** $377.62B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.7%
+-36.8%
 
 **All-Time Low:** $0.43
-+722473.2%
++722313.8%
 
 ---
 
@@ -176,17 +176,9 @@ TradingView — Track All Markets • 15h ago
 
 ---
 
-**[Ethereum Price Could Be Silently Nearing a Breakout, Here’s Why](https://finance.yahoo.com/news/ethereum-price-could-silently-nearing-183000491.html)**
-
-Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
-
-Yahoo Finance • 12h ago
-
----
-
 **[Tron outperforms Bitcoin, Ethereum and major tokens, defying broader crypto market weakness](https://www.msn.com/en-us/money/markets/tron-outperforms-bitcoin-ethereum-and-major-tokens-defying-broader-crypto-market-weakness/ar-AA1SlW2K?ocid=finance-verthp-feeds)**
 
-MSN • 1h ago
+MSN • 2h ago
 
 ---
 
@@ -203,6 +195,14 @@ Nasdaq • 19h ago
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday after correcting slightly in the previous week. The top three cryptocurrencies by market capitalization could face increased downside risk as bearish momentum builds across key indicators.
 
 FXStreet • 3h ago
+
+---
+
+**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
+
+Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
+
+BeInCrypto • 13h ago
 
 ---
 
@@ -226,7 +226,7 @@ CoinDesk • 2d ago
 
 Firedancer could start a new wave of adoption for Solana, especially from institutions that see a mitigated centralization risk from its validators.
 
-CryptoSlate • 10h ago
+CryptoSlate • 11h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 487 • 👍 50 • 💬 2 • ⏱️ 6:25 • 3h ago
+👁️ 1K • 👍 92 • 💬 5 • ⏱️ 6:25 • 4h ago
 
 ---
 
@@ -250,27 +250,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 8K • 👍 355 • 💬 54 • ⏱️ 20:08 • 10h ago
-
----
-
-**[CRYPTO LIVE TRADING || 15 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=SuUVoWX91kc)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 2K • 👍 453 • 2h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJcS4Gn5_Ak)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 149 • 💬 5 • ⏱️ 8:04 • 15h ago
+👁️ 8K • 👍 375 • 💬 94 • ⏱️ 20:08 • 10h ago
 
 ---
 
@@ -280,7 +260,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 290 • ⏱️ 31:03 • 2d ago
+👁️ 66K • 👍 3K • 💬 290 • ⏱️ 31:03 • 2d ago
 
 ---
 
@@ -290,7 +270,27 @@ We have covered the bull case extensively—the dividends, the MAVAN launch, and
 
 📺 Wall Street Stockcast
 
-👁️ 894 • 👍 31 • 💬 18 • ⏱️ 10:35 • 9h ago
+👁️ 1K • 👍 31 • 💬 18 • ⏱️ 10:35 • 9h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJcS4Gn5_Ak)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 151 • 💬 5 • ⏱️ 8:04 • 15h ago
+
+---
+
+**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
+
+Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
+
+📺 Discover Crypto
+
+👁️ 7K • 👍 458 • 💬 14 • ⏱️ 48:44 • 2d ago
 
 ---
 
@@ -300,7 +300,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 677 • 💬 46 • ⏱️ 20:45 • 1d ago
+👁️ 18K • 👍 697 • 💬 47 • ⏱️ 20:45 • 1d ago
 
 ---
 
@@ -314,23 +314,23 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 ---
 
+**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 6K • 👍 226 • 💬 12 • ⏱️ 21:14 • 1d ago
+
+---
+
 **[Bitcoin &amp; Ethereum Price Prediction Now | Crypto Analysis &amp; Market Forecast](https://www.youtube.com/watch?v=GUpSOMIOr0E)**
 
 Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.patreon.com/ThomasBoleto/membership ...
 
 📺 Thomas Boleto – Bitcoin Insights
 
-👁️ 112 • 👍 18 • 💬 2 • ⏱️ 15:33 • 5h ago
-
----
-
-**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
-
-Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 458 • 💬 14 • ⏱️ 48:44 • 2d ago
+👁️ 181 • 👍 29 • 💬 5 • ⏱️ 15:33 • 5h ago
 
 ---
 
