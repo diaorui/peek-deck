@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T15:17:04.185113+00:00'
+updated: '2025-12-15T15:44:04.285977+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 15:17 UTC  
+**Last Updated:** December 15, 2025 at 15:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,049.09
+### $2,991.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** -9.1%  
-**30d:** -1.7%  
-**90d:** -33.6%  
-**1y:** -23.5%  
+**24h:** -2.4%  
+**7d:** -9.2%  
+**30d:** -2.8%  
+**90d:** -34.3%  
+**1y:** -24.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.52B
+**Market Cap:** $362.17B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.3%
+-39.4%
 
 **All-Time Low:** $0.43
-+716133.4%
++691617.2%
 
 ---
 
@@ -152,19 +152,9 @@ Hi, total crypto newbie here. I need some guidance and expert advice on the best
 
 ## Google News: "ethereum"
 
-**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
+**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
-
-Decrypt • 2d ago
-
----
-
-**[Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment](https://ambcrypto.com/greed-vs-fear-at-3k-inside-ethereums-make-or-break-moment/)**
-
-Ethereum approaches whale levels: Is greed fueling the next crash?
-
-AMBCrypto • 1d ago
+The Block • 3h ago
 
 ---
 
@@ -172,27 +162,23 @@ AMBCrypto • 1d ago
 
 The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.
 
-CoinDesk • 3h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Digital Asset ETP Inflows Hit $716M as Bitcoin, Ethereum and XRP Lead Weekly Gains: CoinShares](https://finance.yahoo.com/news/digital-asset-etp-inflows-hit-123756320.html)**
+**[JPMorgan Bets on Ethereum With Tokenized Money Fund Launch — Is Tom Lee’s $20K Price Prediction More Likely Now?](https://finance.yahoo.com/news/jpmorgan-bets-ethereum-tokenized-money-131715297.html)**
 
-Digital asset investment products recorded another week of inflows as improving sentiment around major cryptocurrencies continues to draw capital back into the market, according to the latest data from CoinShares.Weekly inflows into digital asset exchange-traded products (ETPs) reached $716 million, pushing total assets under management (AuM) to $180 billion. While ...
+The amount of Bitcoin needed to retire varies widely by location. The independent researcher provided a bullish outlook for Bitcoin. Market outlook remains divided. JPMorgan ...
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[JPMorgan launches tokenized money-market fund on Ethereum: WSJ](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum?utm_source=policy.xml&utm_medium=rss)**
+**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
 
-The Block • 3h ago
+Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
----
-
-**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
-
-CCN.com • 2h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -204,19 +190,33 @@ Nasdaq • 1d ago
 
 ---
 
-**[Ethereum Forms Wyckoff Breakout Setup: $10,000 Price Target Back In Focus](https://www.tradingview.com/news/newsbtc:fae39eed8094b:0-ethereum-forms-wyckoff-breakout-setup-10-000-price-target-back-in-focus/)**
+**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
 
-A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
+The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
-TradingView — Track All Markets • 23h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
+**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
 
-Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
+CCN.com • 2h ago
 
-BeInCrypto • 20h ago
+---
+
+**[Ethereum Price Compression Deepens as Analysts Debate if the Next Move Is a Rally or Breakdown](https://www.tradingview.com/news/newsbtc:ccb6d8e40094b:0-ethereum-price-compression-deepens-as-analysts-debate-if-the-next-move-is-a-rally-or-breakdown/)**
+
+Ethereum (ETH) has entered another period of tight price compression, a phase that has left traders split between expectations of a renewed rally and concerns about a deeper correction.As of December 15, the Ethereum price trades near the $3,100 level, drifting sideways after several failed attempt…
+
+TradingView — Track All Markets • 1h ago
+
+---
+
+**[A whale sells 7.6K ETH – So why didn’t Ethereum break down?](https://ambcrypto.com/a-whale-sells-7-6k-eth-so-why-didnt-ethereum-break-down/)**
+
+Ethereum faces renewed ETF selling and whale distribution, yet the price holds firm near realized levels.
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 165 • 💬 9 • ⏱️ 6:25 • 11h ago
+👁️ 2K • 👍 165 • 💬 9 • ⏱️ 6:25 • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 3K • 👍 287 • 58m ago
+👁️ 3K • 👍 287 • 1h ago
 
 ---
 
@@ -278,7 +278,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 358 • ⏱️ 9:35 • 15h ago
+👁️ 52K • 👍 2K • 💬 358 • ⏱️ 9:35 • 16h ago
 
 ---
 

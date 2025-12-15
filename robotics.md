@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T15:17:04.188430+00:00'
+updated: '2025-12-15T15:44:04.289379+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 15:17 UTC  
+**Last Updated:** December 15, 2025 at 15:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,14 +64,6 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 ---
 
-**[How do you guys plan routes for mobile cameras?](https://www.reddit.com/r/robotics/comments/1pmypxe/how_do_you_guys_plan_routes_for_mobile_cameras/)**
-
-Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
-
-10h ago
-
----
-
 **[Training a robot arm to pick steadily with reinforcement learning.](https://www.reddit.com/r/robotics/comments/1pn70vh/training_a_robot_arm_to_pick_steadily_with/)**
 
 Everything here is done in simulation — from perception to grasping and lifting, the policy learns the whole pipeline by itself. With physically accurate dynamics and reliable collision handling, the arm ends up learning much more stable control behaviors. You can pretty clearly see how RL improves grasp stability over training, rather than just memorizing motions.
@@ -80,17 +72,25 @@ Everything here is done in simulation — from perception to grasping and liftin
 
 ---
 
+**[How do you guys plan routes for mobile cameras?](https://www.reddit.com/r/robotics/comments/1pmypxe/how_do_you_guys_plan_routes_for_mobile_cameras/)**
+
+Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
+
+11h ago
+
+---
+
 **[Robotic Arm Controlled By VLM(Vision Language Model)](https://www.reddit.com/r/robotics/comments/1pms3ie/robotic_arm_controlled_by_vlmvision_language_model/)**
 
 Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
 
-15h ago
+16h ago
 
 ---
 
 **[Custom Differential Drive Robot | ESP32 + micro-ROS + ROS 2 + PID Control (Video)](https://www.reddit.com/r/robotics/comments/1pn389p/custom_differential_drive_robot_esp32_microros/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -102,11 +102,11 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 ---
 
-**[Looking for feedback on an open-source volumetric data format for robotics / perception](https://www.reddit.com/r/robotics/comments/1pn73c3/looking_for_feedback_on_an_opensource_volumetric/)**
+**[Web flasher for Rockchip](https://www.reddit.com/r/robotics/comments/1pn1yf5/web_flasher_for_rockchip/)**
 
-Hi everyone! I’m working on an open-source project called CIVD, a volumetric data format meant for robotics and perception workflows. I’m early in my robotics journey and would really value practical feedback from people who’ve worked with perception stacks, datasets, or simulators: 1/ Does this kind of data layout make sense in real robotics pipelines? 2/ Where would it break down? 3/ Are there existing tools or formats I should study more closely? Any feedback will be greatly appreciated. I’m just looking to learn and improve the design. Not sure if I can post my GitHub. If it’s allowed I’ll put it in the comments!!!
+I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in wasm and now I can flash directly from browser. Code is open source! more details: https://asadmemon.com/rkdeveloptool/ code: https://github.com/asadm/rkdeveloptool
 
-2h ago
+7h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hi everyone! I’m working on an open-source project called CIVD, a volumetric d
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -128,11 +128,19 @@ South China Morning Post • 1d ago
 
 ---
 
-**[2026 and the Rise of Humanoid Robots: Looking at Trust, Privacy and the Future of Work](https://www.cnet.com/tech/computing/2026-and-the-rise-of-humanoid-robots-looking-at-trust-privacy-and-the-future-of-work/)**
+**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
 
-Robot companies are racing toward a breakout year, but they'll have to confront some fundamental problems before making bigger promises.
+General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-CNET • 1d ago
+Scientific American • 2d ago
+
+---
+
+**[iRobot Announces Strategic Transaction to Drive Long-Term Growth Plan](https://www.prnewswire.com/news-releases/irobot-announces-strategic-transaction-to-drive-long-term-growth-plan-302641744.html)**
+
+/PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
+
+PR Newswire • 15h ago
 
 ---
 
@@ -144,11 +152,27 @@ The Verge • 6h ago
 
 ---
 
+**[iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private](https://ts2.tech/en/irobot-bankruptcy-roomba-maker-files-for-chapter-11-picea-robotics-to-acquire-and-take-company-private/)**
+
+iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private - TechStock²
+
+ts2.tech • 1h ago
+
+---
+
+**[Watch Left-Over Seafood Turn Into A Surprisingly Nimble Robot](https://www.iflscience.com/bio-hybrid-robots-made-of-dead-lobsters-are-the-latest-breakthrough-in-necrobotics-81905)**
+
+Could the robots of the future be made of slightly fishy leftovers?
+
+IFLScience • 35m ago
+
+---
+
 **[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
 
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -166,30 +190,6 @@ InvestorPlace • 1d ago
 
 ---
 
-**[iRobot Announces Strategic Transaction to Drive Long-Term Growth Plan](https://www.prnewswire.com/news-releases/irobot-announces-strategic-transaction-to-drive-long-term-growth-plan-302641744.html)**
-
-/PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
-
-PR Newswire • 15h ago
-
----
-
-**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
-
-General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
-
-Scientific American • 2d ago
-
----
-
-**[How iRobot lost its way home](https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/)**
-
-iRobot survived three decades of competition, but couldn't survive European regulators killing its Amazon buyout. Now it's being taken over by its own supplier in bankruptcy court.
-
-TechCrunch • 12h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +200,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 246 • 👍 29 • ⏱️ 1:05 • 38m ago
+👁️ 246 • 👍 29 • ⏱️ 1:05 • 1h ago
 
 ---
 
@@ -220,7 +220,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 Farooq tv
 
-👁️ 26K • 👍 103 • 💬 2 • ⏱️ 0:09 • 23h ago
+👁️ 26K • 👍 103 • 💬 2 • ⏱️ 0:09 • 1d ago
 
 ---
 

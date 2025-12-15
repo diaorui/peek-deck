@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T15:17:04.170407+00:00'
+updated: '2025-12-15T15:44:04.270767+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
-- news
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 15:17 UTC  
+**Last Updated:** December 15, 2025 at 15:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[If AI replaces workers, should it also pay taxes?](https://www.reddit.com/r/artificial/comments/1pn7tvx/if_ai_replaces_workers_should_it_also_pay_taxes/)**
+
+The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
+
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 1h ago
+
+---
+
 **[Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot](https://www.reddit.com/r/artificial/comments/1pmuboi/microsoft_scales_back_ai_goals_because_almost/)**
 
 RIP Copilot.
@@ -45,11 +53,11 @@ RIP Copilot.
 
 ---
 
-**[If AI replaces workers, should it also pay taxes?](https://www.reddit.com/r/artificial/comments/1pn7tvx/if_ai_replaces_workers_should_it_also_pay_taxes/)**
+**[Nvidia Becomes a Major Model Maker With Nemotron 3](https://www.reddit.com/r/artificial/comments/1pn9big/nvidia_becomes_a_major_model_maker_with_nemotron_3/)**
 
-The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
+The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 1h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 50m ago
 
 ---
 
@@ -65,7 +73,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
 
-6h ago
+7h ago
 
 ---
 
@@ -77,11 +85,27 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 ---
 
+**[The CCP was warned that if China builds superintelligence, it will overthrow the CCP. A month later, China started regulating their AI companies.](https://www.reddit.com/r/artificial/comments/1pnae9y/the_ccp_was_warned_that_if_china_builds/)**
+
+Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/watch?v=9O0djoqgasw
+
+7m ago
+
+---
+
 **[How researchers are teaching AI agents to ask for permission the right way](https://www.reddit.com/r/artificial/comments/1pn3aig/how_researchers_are_teaching_ai_agents_to_ask_for/)**
 
 People are starting to hand more decisions to AI agents, from booking trips to sorting digital files. The idea sounds simple. Tell the agent what you want, then let it work through the steps. The hard part is what the agent does with personal data along the way. A new research study digs into this problem, and asks a basic question. How should an AI agent know when to use someone’s data without asking every time?
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 5h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 6h ago
+
+---
+
+**[What if frontier AI models could critique each other before giving you an answer? I built that.](https://www.reddit.com/r/artificial/comments/1pn9qvd/what_if_frontier_ai_models_could_critique_each/)**
+
+🚀 Introducing Quorum — Multi-Agent Consensus Through Structured Debate What if you could have GPT-5, Claude, Gemini, and Grok debate each other to find the best possible answer? Quorum orchestrates structured discussions between AI models using 7 proven methods: Standard — 5-phase consensus building with critique rounds Oxford — Formal FOR/AGAINST debate with final verdict Devil's Advocate — One model challenges the group's consensus Socratic — Deep exploration through guided questioning Delphi — Anonymous expert estimates with convergence (perfect for estimation tasks) Brainstorm — Divergent ideation → convergent selection Tradeoff — Multi-criteria decision analysis Why multi-agent consensus? Single-model responses often inherit that model's biases or miss nuances. When multiple frontier models debate, critique each other, and synthesize the result — you get answers that actually hold up to scrutiny. Key Features: ✅ Mix freely between OpenAI, Anthropic, Google, xAI, or local Ollama models ✅ Real-time terminal UI showing phase-by-phase progress ✅ AI-powered Method Advisor recommends the best approach for your question ✅ Export to Markdown, PDF, or structured JSON ✅ MCP Server — Use Quorum directly from Claude Code or Claude Desktop (claude mcp add quorum -- quorum-mcp-server) ✅ Multi-language support Built with a Python backend and React/Ink terminal frontend. Open source — give it a try! 🔗 GitHub: https://github.com/Detrol/quorum-cli 📦 Install: pip install quorum-cli
+
+33m ago
 
 ---
 
@@ -93,69 +117,65 @@ This took a hot second, but I finally mapped out the The Intelligence Analysis F
 
 ---
 
-**[[Update] I can't beleive it](https://www.reddit.com/r/artificial/comments/1pn5t9m/update_i_cant_beleive_it/)**
-
-My app just hit 70+ downloads and 5 active trials 🚀 Recently I posted about my AI app called Decor AI, which lets you to design your space using AI, in just few days it has got 70+ downloads, Thank you all... Decor AI
-
-🔗 [play.google.com](https://play.google.com/store/apps/details?id=com.athar.decor.ai) • 3h ago
-
----
-
-**[Fei-Fei Li, a Stanford professor and CEO of AI startup World Labs, known as the 'Godmother of AI' says degrees are less important in hiring than how quickly you can ‘superpower yourself’ with new tools](https://www.reddit.com/r/artificial/comments/1plx3ah/feifei_li_a_stanford_professor_and_ceo_of_ai/)**
-
-Instead, she looks to hire software engineers with AI fluency to her startup that aims to revolutionize the tech.
-
-🔗 [Fortune](https://fortune.com/2025/12/12/fei-fei-li-stanford-professor-godmother-ai-college-degrees-skills-talent-ceo/) • 1d ago
-
----
-
-**[Exploring a more direct way to edit AI images after getting frustrated myself](https://www.reddit.com/r/artificial/comments/1pmc0h3/exploring_a_more_direct_way_to_edit_ai_images/)**
-
-A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
-**[Wall Street Sees AI Bubble Coming and Is Betting on What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
+**[Deloitte’s CTO on a stunning AI transformation stat: Companies are spending 93% on tech and only 7% on people](https://fortune.com/2025/12/15/deloitte-cto-bill-briggs-what-really-scares-ceos-about-ai-human-resources/)**
 
-Bloomberg.com • 1d ago
+Bill Briggs recognizes an old inertia inside the boardroom: “I felt it in my travels, but I hadn’t been able to quantify it.”
 
----
-
-**[US launches campaign to hire AI engineers for federal roles](https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/)**
-
-Reuters • 46m ago
+Fortune • 4h ago
 
 ---
 
-**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
+**[From puppies to superheroes, Chinese AI toys are bringing hugs — and hesitation](https://www.cnbc.com/2025/12/15/china-ai-toys-haivivi-ultraman-chongker-cat.html)**
 
-The Economist • 1d ago
+China's AI toy industry is growing as Beijing pushes companies and consumers to integrate the technology.
 
----
-
-**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqcpkmb8vW1DOcIFXdpk20kfOEr6l-GyAPmbBNMQdIHsEQ7rg-C8mEg_&gaa_ts=694023e0&gaa_sig=liBr0Fqb8DVURw4oNTjrLTrLSPGlEHtF-niPlwf8rFEwcOi5JGvQDyFB1aRpv7NdA0MeJl3juIldgJNGI698nA%3D%3D)**
-
-The Wall Street Journal • 14h ago
+CNBC • 31m ago
 
 ---
 
-**[The View From Inside the AI Bubble](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/)**
+**[This AI Stock Could Deliver Life-Changing Returns Over the Next Decade](https://www.fool.com/investing/2025/12/15/this-ai-stock-could-deliver-life-changing-returns/)**
 
-Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
+SoundHound AI's stock looks primed to deliver market-beating returns for multiple years.
 
-The Atlantic • 1d ago
+The Motley Fool • 5h ago
+
+---
+
+**[Morning Bid: Stocks catch a break after bruising AI selloff](https://www.reuters.com/business/finance/global-markets-view-usa-2025-12-15/)**
+
+Reuters • 4h ago
+
+---
+
+**[AI bubble fears are holding back a 'Santa Rally' in stocks, analyst says](https://qz.com/santa-rally-ai-bubble-wall-street)**
+
+qz.com • 15m ago
+
+---
+
+**[Stack Overflow users don’t trust AI. They’re using it anyway](https://www.theverge.com/podcast/844073/stack-overflow-ceo-ai-coding-chatgpt-code-red-interview)**
+
+Stack Overflow CEO Prashanth Chandrasekar on running the most popular developer forum in a post-ChatGPT world.
+
+The Verge • 14m ago
+
+---
+
+**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
+
+Four ways to think about this year's reckoning
+
+MIT Technology Review • 5h ago
 
 ---
 
@@ -167,25 +187,11 @@ The Texas Tribune • 4h ago
 
 ---
 
-**[‘Iterate through’: Why The Washington Post launched an error-ridden AI product](https://www.semafor.com/article/12/14/2025/iterate-through-why-the-washington-post-launched-an-error-ridden-ai-product)**
+**[Jeep embraces artificial intelligence in ads with surreal talking animals](https://www.usatoday.com/story/cars/news/2025/12/15/jeep-ai-campaign-talking-animals/87774429007/)**
 
-Between 68% and 84% of AI-generated scripts failed the Postâs own internal testing, but the paper launched the AI podcast feature anyway.
+The opening scene of Jeep’s AI-generated commercial may look real to some and uncanny to others. Regardless, it has generated millions of views online.
 
-https-//www.semafor.com • 13h ago
-
----
-
-**[Trump’s AI moratorium threatens state-level crackdowns on housing costs](https://www.politico.com/news/2025/12/14/trumps-ai-moratorium-threatens-state-level-crackdown-on-housing-costs-00688789)**
-
-Politico • 22h ago
-
----
-
-**[CEOs usually favor less regulation. But not all are happy with Trump’s executive order to block state AI laws](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/)**
-
-Also: All the news and watercooler chat from Fortune.
-
-Fortune • 4h ago
+USA Today • 40m ago
 
 ---
 
@@ -203,7 +209,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 447 • 💬 447 • 1d ago
+⬆️ 447 • 💬 447 • 2d ago
 
 ---
 
@@ -211,7 +217,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 277 • 💬 460 • 15h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 292 • 💬 482 • 15h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -219,15 +225,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 238 • 💬 108 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
-
----
-
-**[Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted](https://news.ycombinator.com/item?id=46268844)**
-
-Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
-
-⬆️ 232 • 💬 232 • 14h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 240 • 💬 109 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -235,7 +233,15 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 228 • 💬 238 • 15h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 239 • 💬 252 • 15h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+
+---
+
+**[Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted](https://news.ycombinator.com/item?id=46268844)**
+
+Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
+
+⬆️ 236 • 💬 237 • 15h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -259,7 +265,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 131 • 💬 243 • 2d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 131 • 💬 244 • 2d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -311,7 +317,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 60K • 👍 3K • 💬 380 • ⏱️ 20:44 • 14h ago
+👁️ 60K • 👍 3K • 💬 380 • ⏱️ 20:44 • 15h ago
 
 ---
 
@@ -385,7 +391,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 286,283 • ❤️ 2,735 • 6d ago
+⬇️ 286,283 • ❤️ 2,737 • 6d ago
 
 ---
 
@@ -409,7 +415,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 142,846 • ❤️ 850 • 2d ago
+⬇️ 142,846 • ❤️ 851 • 3d ago
 
 ---
 
@@ -421,7 +427,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 21,397 • ❤️ 349 • 22h ago
+⬇️ 21,397 • ❤️ 349 • 23h ago
 
 ---
 
@@ -469,7 +475,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 5,608 • ❤️ 208 • 22h ago
+⬇️ 5,608 • ❤️ 208 • 23h ago
 
 ---
 
@@ -481,7 +487,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 196 • 4d ago
+⬇️ 0 • ❤️ 197 • 4d ago
 
 ---
 
@@ -493,7 +499,7 @@ AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent 
 
 `image-text-to-text` `934,400`
 
-⬇️ 7,541 • ❤️ 167 • 5d ago
+⬇️ 7,541 • ❤️ 168 • 6d ago
 
 ---
 
@@ -653,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.4k • 🔱 369 • 5h ago
+⭐ 3.4k • 🔱 369 • 6h ago
 
 ---
 
@@ -683,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 36m ago
+⭐ 1.1k • 🔱 137 • 1h ago
 
 ---
 
