@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T14:51:38.891924+00:00'
+updated: '2025-12-15T15:17:04.185113+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 14:51 UTC  
+**Last Updated:** December 15, 2025 at 15:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,136.82
+### $3,049.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -7.1%  
-**30d:** -0.5%  
-**90d:** -32.8%  
-**1y:** -22.4%  
+**24h:** -2.1%  
+**7d:** -9.1%  
+**30d:** -1.7%  
+**90d:** -33.6%  
+**1y:** -23.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -186,13 +186,13 @@ Yahoo Finance • 2h ago
 
 **[JPMorgan launches tokenized money-market fund on Ethereum: WSJ](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum?utm_source=policy.xml&utm_medium=rss)**
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
 **[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
 
-CCN.com • 1h ago
+CCN.com • 2h ago
 
 ---
 
@@ -208,7 +208,7 @@ Nasdaq • 1d ago
 
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
-TradingView — Track All Markets • 22h ago
+TradingView — Track All Markets • 23h ago
 
 ---
 
@@ -224,7 +224,7 @@ BeInCrypto • 20h ago
 
 Bitcoin (BTC) is advancing toward $90,000 at the time of writing on Monday, as the broader cryptocurrency market pushes for recovery following last week’s monetary policy-triggered headwinds.
 
-FXStreet • 2h ago
+FXStreet • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 3K • 👍 287 • 32m ago
+👁️ 3K • 👍 287 • 58m ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 10K • 👍 399 • 💬 117 • ⏱️ 20:08 • 17h ago
+👁️ 10K • 👍 399 • 💬 117 • ⏱️ 20:08 • 18h ago
 
 ---
 
@@ -298,7 +298,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 747 • 💬 52 • ⏱️ 20:45 • 1d ago
+👁️ 20K • 👍 747 • 💬 52 • ⏱️ 20:45 • 2d ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 155 • 💬 5 • ⏱️ 8:04 • 22h ago
+👁️ 3K • 👍 155 • 💬 5 • ⏱️ 8:04 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T14:51:38.881962+00:00'
+updated: '2025-12-15T15:17:04.179039+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 14:51 UTC  
+**Last Updated:** December 15, 2025 at 15:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,671.77
+### $87,250.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -4.6%  
-**30d:** -6.0%  
-**90d:** -23.9%  
-**1y:** -16.3%  
+**24h:** -1.5%  
+**7d:** -6.2%  
+**30d:** -7.5%  
+**90d:** -25.2%  
+**1y:** -17.7%  
 
 ---
 
@@ -101,7 +101,7 @@ The French parliament just voted on an amendment forcing us to declare self-cust
 
 Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 2h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 3h ago
 
 ---
 
@@ -115,7 +115,7 @@ Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
 Now banks aren't even required to have reserve deposits! In the United States, as of December 2025, the required reserve ratio for depository institutions (including commercial banks, savings banks, credit unions, and others) is 0%. The Federal Reserve Board set reserve requirement ratios to zero percent effective March 26, 2020, in response to economic conditions, and this policy remains in effect with no announced plans to reinstate them.
 
-2h ago
+3h ago
 
 ---
 
@@ -123,13 +123,13 @@ Now banks aren't even required to have reserve deposits! In the United States, a
 
 Buy some bitcoin and store it.
 
-25m ago
+51m ago
 
 ---
 
 **[Member of r/bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pn5j1p/member_of_rbitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ Buy some bitcoin and store it.
 
 5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
 
-13h ago
+14h ago
 
 ---
 
@@ -155,19 +155,19 @@ Buy some bitcoin and store it.
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
 **[Strategy Keeps Buying Bitcoin. It Isn’t Helping MSTR Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdbUfK6ZLGhDydQMTaLDYNIWaZzNjUPDcUc_StzgG6CKlUqfTvpWB8R&gaa_ts=694023e2&gaa_sig=ZP-X9nDARUgQrqw6B3ZkP7H63T7XeW2OsuIg1SmJ0TzqWOePR9SEhlc1xp4TtyI5gyboqgHp68GMqOlYHItquQ%3D%3D)**
 
-Barron's • 30m ago
+Barron's • 56m ago
 
 ---
 
@@ -175,7 +175,7 @@ Barron's • 30m ago
 
 Bitcoin treasury companies give investors another way to gain crypto exposure.
 
-The Motley Fool • 11m ago
+The Motley Fool • 37m ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 11m ago
 
 Bitcoin price slipped below $90,000 during typically thin Sunday trading, magnifying downside volatility as traders pulled back risk ahead of a heavy week of U.S. economic data.
 
-Bitcoin Magazine • 18m ago
+Bitcoin Magazine • 43m ago
 
 ---
 
@@ -207,19 +207,19 @@ dlnews.com • 4h ago
 
 Veteran trader Peter Brandt warns that bitcoin's growth parabola has fractured, potentially leading to a price drop to $25,000.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqfgZ7MmzS1jZvFABNVh1InIGknz_50XrySFecIl84L9zIOVtjelGvtu&gaa_ts=694023e2&gaa_sig=kHAGGcoaP_-wMvU4mPwlURS5TvLLmxrHOW9QIwgFEmXaa9kGW6YuZB3C9Q4u2Er_Z6lIiC09_uRpKr7IV07iYA%3D%3D)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
 **[Bitcoin Analyst Predicts $6M In Just 15 Years — How Much Bitcoin Will You Need To Retire?](https://www.ccn.com/news/crypto/bitcoin-analyst-predicts-6m-how-much-bitcoin-you-need-retire/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
@@ -247,7 +247,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 1h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 2h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -291,7 +291,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 6h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 7h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 3K • 👍 287 • 32m ago
+👁️ 3K • 👍 287 • 58m ago
 
 ---
 
@@ -335,7 +335,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 37K • 👍 2K • 💬 559 • ⏱️ 9:39 • 13h ago
+👁️ 37K • 👍 2K • 💬 559 • ⏱️ 9:39 • 14h ago
 
 ---
 
@@ -355,7 +355,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 15K • 👍 628 • 💬 332 • ⏱️ 15:03 • 9h ago
+👁️ 15K • 👍 628 • 💬 332 • ⏱️ 15:03 • 10h ago
 
 ---
 
@@ -385,7 +385,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 203 • ⏱️ 9:48 • 21h ago
+👁️ 28K • 👍 2K • 💬 203 • ⏱️ 9:48 • 22h ago
 
 ---
 
@@ -395,7 +395,7 @@ Bitcoin is moving sideways as markets head into holiday mode, but major macro sh
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 778 • 💬 24 • ⏱️ 49:34 • 57m ago
+👁️ 6K • 👍 778 • 💬 24 • ⏱️ 49:34 • 1h ago
 
 ---
 

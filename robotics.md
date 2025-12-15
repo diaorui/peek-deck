@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T14:51:38.895384+00:00'
+updated: '2025-12-15T15:17:04.188430+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 14:51 UTC  
+**Last Updated:** December 15, 2025 at 15:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
 
-1h ago
+2h ago
 
 ---
 
@@ -44,7 +44,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 
 
 RIP, between the failed Amazon acquisition and the stiff competition this was a long time coming but still very sad. Theyre being bought by their Chinese manufacturer, which I found interesting when there are so many Chinese competitors in the market. I wonder if they will try to continue the brand.
 
-🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 11h ago
+🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 12h ago
 
 ---
 
@@ -60,7 +60,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-17h ago
+18h ago
 
 ---
 
@@ -76,7 +76,7 @@ Been messing around with this little mobile camera, it’s about the size of a c
 
 Everything here is done in simulation — from perception to grasping and lifting, the policy learns the whole pipeline by itself. With physically accurate dynamics and reliable collision handling, the arm ends up learning much more stable control behaviors. You can pretty clearly see how RL improves grasp stability over training, rather than just memorizing motions.
 
-1h ago
+2h ago
 
 ---
 
@@ -106,7 +106,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 Hi everyone! I’m working on an open-source project called CIVD, a volumetric data format meant for robotics and perception workflows. I’m early in my robotics journey and would really value practical feedback from people who’ve worked with perception stacks, datasets, or simulators: 1/ Does this kind of data layout make sense in real robotics pipelines? 2/ Where would it break down? 3/ Are there existing tools or formats I should study more closely? Any feedback will be greatly appreciated. I’m just looking to learn and improve the design. Not sure if I can post my GitHub. If it’s allowed I’ll put it in the comments!!!
 
-1h ago
+2h ago
 
 ---
 
@@ -140,7 +140,7 @@ CNET • 1d ago
 
 They make robot vacuums, lots of them
 
-The Verge • 5h ago
+The Verge • 6h ago
 
 ---
 
@@ -170,7 +170,7 @@ InvestorPlace • 1d ago
 
 /PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
 
-PR Newswire • 14h ago
+PR Newswire • 15h ago
 
 ---
 
@@ -200,7 +200,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 246 • 👍 29 • ⏱️ 1:05 • 12m ago
+👁️ 246 • 👍 29 • ⏱️ 1:05 • 38m ago
 
 ---
 
