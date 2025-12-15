@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T11:51:29.082101+00:00'
+updated: '2025-12-15T12:24:37.526064+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 11:51 UTC  
+**Last Updated:** December 15, 2025 at 12:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-14h ago
+15h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 RIP, between the failed Amazon acquisition and the stiff competition this was a long time coming but still very sad. Theyre being bought by their Chinese manufacturer, which I found interesting when there are so many Chinese competitors in the market. I wonder if they will try to continue the brand.
 
-🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 8h ago
+🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 9h ago
 
 ---
 
@@ -60,7 +60,15 @@ Been messing around with this little mobile camera, it’s about the size of a c
 
 Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
 
-12h ago
+13h ago
+
+---
+
+**[X-Humanoid, a system that takes real-person videos as input and outputs a new video showing a robot performing the same actions. They "robotized" a large amount of existing real-world human video, generating millions of frames of robot videos with human-like movements that can be used for training.](https://www.reddit.com/r/robotics/comments/1pn5qy5/xhumanoid_a_system_that_takes_realperson_videos/)**
+
+Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
+
+17m ago
 
 ---
 
@@ -78,11 +86,19 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 ---
 
+**[Web flasher for Rockchip](https://www.reddit.com/r/robotics/comments/1pn1yf5/web_flasher_for_rockchip/)**
+
+I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in wasm and now I can flash directly from browser. Code is open source! more details: https://asadmemon.com/rkdeveloptool/ code: https://github.com/asadm/rkdeveloptool
+
+4h ago
+
+---
+
 **[Looking for an open source teleoperation framework for data collection (robot arm)](https://www.reddit.com/r/robotics/comments/1pn30yz/looking_for_an_open_source_teleoperation/)**
 
 Hello, I'm a PhD student working a project where I develoved a data adquisition system for an old franka robot with the original gripper in c++. In order to enhance the demonstration technique I use (kinesthetic), I would like to test waters with a VR based teleoperation system, since I have seen that they provide more ergonomy to capture data. I own a meta quest 3 headset with its controllers. I'm quite new to teleoperation and the issue I'm facing is that is being difficult to find a framework I can use that isnt based on ROS, which I cant use because the hardware limitation. For instance, I would like something very similar to this video: teloperation I have found frameworks like, OpenTeach, LeVR... but those are made for human hand tracking which Im not interested. I have also been trying to get information on any tutorial/reference page where to start implementing a teleoperation system from scratch, but I'm not sure if this is the best approach... Thanks in advance to any answer!
 
-2h ago
+3h ago
 
 ---
 
@@ -91,20 +107,6 @@ Hello, I'm a PhD student working a project where I develoved a data adquisition 
 It’s pretty fun, not just for my kid, but for me too!
 
 3h ago
-
----
-
-**[Web flasher for Rockchip](https://www.reddit.com/r/robotics/comments/1pn1yf5/web_flasher_for_rockchip/)**
-
-I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in wasm and now I can flash directly from browser. Code is open source! more details: https://asadmemon.com/rkdeveloptool/ code: https://github.com/asadm/rkdeveloptool
-
-3h ago
-
----
-
-**[do you actually hand-write URDFs from scratch?](https://www.reddit.com/r/robotics/comments/1pn0vtu/do_you_actually_handwrite_urdfs_from_scratch/)**
-
-5h ago
 
 ---
 
@@ -138,7 +140,7 @@ CNET • 1d ago
 
 They make robot vacuums, lots of them
 
-The Verge • 2h ago
+The Verge • 3h ago
 
 ---
 
@@ -152,7 +154,7 @@ InvestorPlace • 21h ago
 
 **[They built robots and won. Now they want more middle schoolers to join in.](https://www.timesunion.com/education/article/steamwhiz-aims-expand-k-8-robotics-teams-albany-21236899.php)**
 
-Times Union • 22h ago
+Times Union • 23h ago
 
 ---
 
@@ -176,7 +178,7 @@ Yahoo Finance • 1d ago
 
 /PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
 
-PR Newswire • 11h ago
+PR Newswire • 12h ago
 
 ---
 
@@ -198,7 +200,7 @@ Scientific American • 2d ago
 
 📺 CNET
 
-👁️ 15K • 👍 441 • 💬 52 • ⏱️ 6:41 • 22h ago
+👁️ 15K • 👍 456 • 💬 52 • ⏱️ 6:41 • 23h ago
 
 ---
 
@@ -208,7 +210,15 @@ Scientific American • 2d ago
 
 📺 Farooq tv
 
-👁️ 7K • 👍 47 • 💬 1 • ⏱️ 0:09 • 20h ago
+👁️ 13K • 👍 97 • 💬 1 • ⏱️ 0:09 • 20h ago
+
+---
+
+**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
+
+📺 AI . Robot
+
+👁️ 32K • 👍 436 • 💬 10 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -218,7 +228,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 129K • 👍 2K • 💬 932 • ⏱️ 14:26 • 6d ago
+👁️ 129K • 👍 2K • 💬 933 • ⏱️ 14:26 • 6d ago
 
 ---
 
@@ -228,15 +238,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 206K • 👍 7K • 💬 234 • ⏱️ 0:34 • 1d ago
-
----
-
-**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
-
-📺 AI . Robot
-
-👁️ 31K • 👍 427 • 💬 10 • ⏱️ 0:16 • 1d ago
+👁️ 216K • 👍 7K • 💬 239 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -246,7 +248,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 25K • 👍 98 • 💬 34 • ⏱️ 1:26 • 2d ago
+👁️ 26K • 👍 98 • 💬 38 • ⏱️ 1:26 • 2d ago
 
 ---
 
@@ -256,17 +258,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 190K • 👍 919 • 💬 303 • ⏱️ 0:47 • 6d ago
-
----
-
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=8FCykVCNXic)**
-
-robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
-
-📺 She Shorts AI
-
-👁️ 288K • 👍 1K • 💬 6 • ⏱️ 0:11 • 6d ago
+👁️ 190K • 👍 921 • 💬 303 • ⏱️ 0:47 • 6d ago
 
 ---
 
@@ -274,17 +266,27 @@ robots #irc #humanoid At the latest tech expo, a man shows off his brand new rob
 
 📺 AI . Robot
 
-👁️ 709K • 👍 9K • 💬 118 • ⏱️ 0:17 • 5d ago
+👁️ 715K • 👍 9K • 💬 118 • ⏱️ 0:17 • 5d ago
 
 ---
 
-**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
+**[Boy Pressed Test Mode Button...Robot went Crazy 🤖😳 #ai #robot #cat](https://www.youtube.com/watch?v=hRf4HyPmFtA)**
 
-Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
+Boy Pressed Test Mode Button...Robot went Crazy #ai #robot #cat.
 
-📺 The Military Show
+📺 Ai Animation World
 
-👁️ 366K • 👍 10K • 💬 587 • ⏱️ 16:55 • 3d ago
+👁️ 88K • 💬 4 • ⏱️ 0:37 • 1d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=0Z8lyW1FCZg)**
+
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 122K • 👍 1K • 💬 11 • ⏱️ 0:18 • 2d ago
 
 ---
 
