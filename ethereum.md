@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-14T23:50:25.057552+00:00'
+updated: '2025-12-15T00:52:32.301229+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 14, 2025 at 23:50 UTC  
+**Last Updated:** December 15, 2025 at 00:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** -2.2%  
-**30d:** -3.7%  
-**90d:** -32.2%  
-**1y:** -22.8%  
+**24h:** -1.6%  
+**7d:** -7.6%  
+**30d:** -1.0%  
+**90d:** -33.2%  
+**1y:** -23.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $370.83B
+**Market Cap:** $369.69B
 Rank #2
 
 **Circulating Supply:** 120,695,118 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.1%
+-38.0%
 
 **All-Time Low:** $0.43
-+707257.6%
++708089.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm trying to grasp the ultimate plan for the ETH blockchain based upon improvement proposals as well as live metrics in order to understand what developers want for the blockchain. Ultimately this is to sell an SLT to possibly invest into ETH. I'm glad that the latest update has made ETH cheaper to transact in which will help with day to day transactions, however this has made the supply inflationary as the burn rate is lower. Is the goal to have a slight amount of inflation? Is the goal to have an elastic supply where issuance and burn rate are roughly the same? or is the goal for a strictly deflationary supply? From a value proposition this matters and I feel like the Devs haven't really put their feet down on what their intentions are. (I could be very wrong.) My main criticism of the first smart contract project is that they often don't clarify their thoughts until there is a bull run. I'm open to thoughts, articles and conversation. I'm just trying to educate myself as much as possible. Thank you in advance.
 
-21h ago
+22h ago
 
 ---
 
@@ -168,11 +168,11 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://finance.yahoo.com/news/why-ethereum-sank-5-today-180511960.html)**
+**[Ethereum Price Could Be Silently Nearing a Breakout, Here’s Why](https://finance.yahoo.com/news/ethereum-price-could-silently-nearing-183000491.html)**
 
-Sentiment around Ethereum has been bouncing around considerably in recent days.
+Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2d ago
 
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -218,13 +218,13 @@ The Motley Fool • 2d ago
 
 Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
-Nasdaq • 12h ago
+Nasdaq • 13h ago
 
 ---
 
 **[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
 
-TipRanks • 13h ago
+TipRanks • 14h ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 3K • 👍 210 • 💬 25 • ⏱️ 20:08 • 2h ago
+👁️ 3K • 👍 210 • 💬 25 • ⏱️ 20:08 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 4 • ⏱️ 8:04 • 7h ago
+👁️ 2K • 👍 132 • 💬 4 • ⏱️ 8:04 • 8h ago
 
 ---
 
@@ -278,7 +278,7 @@ bitcoin #btc #mstr #BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unf
 
 📺 YWM 
 
-👁️ 43K • 👍 2K • 4h ago
+👁️ 43K • 👍 2K • 6h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:34 • 19h ago
+👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:34 • 20h ago
 
 ---
 
@@ -328,7 +328,7 @@ Wall Street treats BitMine Immersion ($BMNR) like a passive Bitcoin ETF. They ar
 
 📺 Wall Street Stockcast
 
-👁️ 405 • 👍 15 • ⏱️ 7:25 • 11h ago
+👁️ 405 • 👍 15 • ⏱️ 7:25 • 12h ago
 
 ---
 
