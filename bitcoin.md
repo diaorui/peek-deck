@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T19:41:32.612501+00:00'
+updated: '2025-12-15T19:52:49.880614+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 19:41 UTC  
+**Last Updated:** December 15, 2025 at 19:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.0%  
-**7d:** -7.4%  
-**30d:** -8.7%  
-**90d:** -26.2%  
-**1y:** -18.8%  
+**24h:** -2.9%  
+**7d:** -7.3%  
+**30d:** -8.6%  
+**90d:** -26.1%  
+**1y:** -18.7%  
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 14h ago
 
 Popular Ethereum wallet MetaMask has added support for Bitcoin, expanding more broadly ahead of its planned token launch.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 50m ago
 
 American Bitcoin Corp increased its Bitcoin holdings by 261 BTC, taking total reserves to 5,044 BTC. The latest purchase comes as Bitcoin BTC $86 253 24h volatility: 2.9% Market cap: $1.72 T Vol. 24h: $49.03 B traded near $89,700 at press time, valuing the company’s stash at more than $450 ...
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 53m ago
 
 ---
 
@@ -397,7 +397,7 @@ Come look into the next BIG move in crypto! All LIVE analysis, charting, and tra
 
 📺 Tom Crown
 
-👁️ 3K • 👍 258 • 💬 12 • ⏱️ 1:17:49 • 30m ago
+👁️ 3K • 👍 258 • 💬 12 • ⏱️ 1:17:49 • 41m ago
 
 ---
 

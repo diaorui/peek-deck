@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T19:41:32.603824+00:00'
+updated: '2025-12-15T19:52:49.872123+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 19:41 UTC  
+**Last Updated:** December 15, 2025 at 19:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 5h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Also: All the news and watercooler chat from Fortune.
 
 TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
 
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 19h ago
+🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 20h ago
 
 ---
 
@@ -165,7 +165,7 @@ Axios • 5h ago
 
 Nearly half of US workers say they use AI, up from just 21% a few years ago, according to a new Gallup poll. No wonder OpenAI intends to focus on enterprise products in 2026.
 
-PCMag • 56m ago
+PCMag • 1h ago
 
 ---
 
@@ -173,13 +173,13 @@ PCMag • 56m ago
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-Fortune • 35m ago
+Fortune • 46m ago
 
 ---
 
 **[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqecxIR4wjQkU9m-PXafwf1BzPwqvwa6EYDpTjZHmFSGxRK08vunH9dv&gaa_ts=6940644f&gaa_sig=h5_tU9jahHt0z9vXMaZ84erkezT_VfcQ59JpkdeKzbwpfCwaAu8BNS_yDS-yncZ9N77zsqjjxO-IBqWGavktXA%3D%3D)**
 
-The Wall Street Journal • 25m ago
+The Wall Street Journal • 36m ago
 
 ---
 
@@ -219,7 +219,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 322 • 💬 318 • 19h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 322 • 💬 318 • 20h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -321,7 +321,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 604K • 👍 34K • 💬 4K • ⏱️ 11:22 • 16h ago
+👁️ 604K • 👍 34K • 💬 4K • ⏱️ 11:22 • 17h ago
 
 ---
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.5k • 🔱 2.4k • 10h ago
+⭐ 15.5k • 🔱 2.4k • 11h ago
 
 ---
 
