@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T18:57:42.515816+00:00'
+updated: '2025-12-15T19:26:31.872762+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 18:57 UTC  
+**Last Updated:** December 15, 2025 at 19:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,910.19
+### $2,928.71
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.1%  
-**7d:** -11.4%  
-**30d:** -5.1%  
-**90d:** -35.9%  
-**1y:** -26.2%  
+**24h:** -4.4%  
+**7d:** -11.0%  
+**30d:** -4.7%  
+**90d:** -35.6%  
+**1y:** -25.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.21B
+**Market Cap:** $355.71B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.3%
 
 **All-Time Low:** $0.43
-+676233.0%
++681457.3%
 
 ---
 
@@ -72,7 +72,23 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
+
+---
+
+**[JPMorgan Launches $100M Tokenized Money Market Fund on Ethereum](https://www.reddit.com/r/ethereum/comments/1pnfr0z/jpmorgan_launches_100m_tokenized_money_market/)**
+
+JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
+
+28m ago
+
+---
+
+**[Looking for Android wallets with native passkey + WalletConnect](https://www.reddit.com/r/ethereum/comments/1pnf70d/looking_for_android_wallets_with_native_passkey/)**
+
+Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
+
+49m ago
 
 ---
 
@@ -80,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve never bought ETH before, but I’m thinking of getting some exposure now. I know the basics, I just want to buy ETH and move it to self-custody, hardware wallet, cold storage, the works. Plan is to buy and hold long term. Now I’m confused about the best approach. Some exchanges have crazy fees, others don’t allow ETH purchases, and I’ve read horror stories of accounts getting frozen on Binance. I want a safe, hassle-free way to buy ETH and make sure I can move it securely to my own wallet.
 
-1h ago
+2h ago
 
 ---
 
@@ -132,45 +148,29 @@ BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougaya
 
 ---
 
-**[New Proposal for a Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1pkr6dl/new_proposal_for_a_simplified_standard_for/)**
-
-Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
-
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 3d ago
-
----
-
-**[Daily General Discussion December 11, 2025](https://www.reddit.com/r/ethereum/comments/1pjq4km/daily_general_discussion_december_11_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
-**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
+**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://decrypt.co/352365/tom-lees-bitmine-keeps-buying-ethereum-adding-320-million-eth-treasury)**
 
-The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
+Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
 
-CoinDesk • 2h ago
+Decrypt • 3h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
+**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-fall-lowest-174706223.html)**
 
 Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
 
-Decrypt • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -192,7 +192,7 @@ Nasdaq • 1d ago
 
 **[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -232,23 +232,23 @@ FXStreet • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=E57-UT_Vyow)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 957 • 👍 91 • 💬 7 • ⏱️ 5:52 • 3h ago
-
----
-
 **[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
 
 WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
 
 📺 Digital Asset News
 
-👁️ 1K • 👍 109 • 2h ago
+👁️ 5K • 👍 360 • 💬 23 • ⏱️ 40:28 • 2h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=E57-UT_Vyow)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 119 • 💬 10 • ⏱️ 5:52 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 341 • 👍 49 • 💬 21 • ⏱️ 10:03 • 3h ago
+👁️ 831 • 👍 106 • 💬 21 • ⏱️ 10:03 • 3h ago
 
 ---
 
@@ -268,17 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 168 • 💬 9 • ⏱️ 6:25 • 15h ago
-
----
-
-**[Crypto About To Take-Off 🚨🚀 (Bitcoin, Ethereum, Liquidation Heatmaps) ](https://www.youtube.com/watch?v=glu93mgZG6w)**
-
-Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitter: https://x.com/_TheBlockchain ...
-
-📺 The Blockchain Today
-
-👁️ 632 • 👍 74 • 💬 12 • ⏱️ 3:50 • 8h ago
+👁️ 3K • 👍 169 • 💬 9 • ⏱️ 6:25 • 15h ago
 
 ---
 
@@ -288,7 +278,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 2K • 💬 413 • ⏱️ 9:35 • 19h ago
+👁️ 61K • 👍 2K • 💬 425 • ⏱️ 9:35 • 19h ago
 
 ---
 
@@ -298,27 +288,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 3K • 💬 302 • ⏱️ 31:03 • 2d ago
-
----
-
-**[Why Ethereum Is About To Repeat The &quot;April Fractal&quot; - ETH Bottom Signal](https://www.youtube.com/watch?v=RliBq8RCxjQ)**
-
-History doesn't repeat, but it often rhymes. And right now, the Ethereum chart is rhyming perfectly with April 2025—the exact ...
-
-📺 Wall Street Stockcast
-
-👁️ 250 • 👍 13 • 💬 22 • ⏱️ 29:53 • 4h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JI8ZbMLvojQ)**
-
-BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 408 • 💬 149 • ⏱️ 20:08 • 22h ago
+👁️ 68K • 👍 3K • 💬 304 • ⏱️ 31:03 • 2d ago
 
 ---
 
@@ -329,6 +299,36 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 📺 Guitar Repair@StringTech
 
 👁️ 10K • 👍 4K • 2d ago
+
+---
+
+**[Crypto About To Take-Off 🚨🚀 (Bitcoin, Ethereum, Liquidation Heatmaps) ](https://www.youtube.com/watch?v=glu93mgZG6w)**
+
+Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitter: https://x.com/_TheBlockchain ...
+
+📺 The Blockchain Today
+
+👁️ 821 • 👍 84 • 💬 12 • ⏱️ 3:50 • 8h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JI8ZbMLvojQ)**
+
+BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 412 • 💬 161 • ⏱️ 20:08 • 22h ago
+
+---
+
+**[Raoul Pal: &quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” New 2026 Crypto Cycle Prediction](https://www.youtube.com/watch?v=dK9fW80oEng)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 22K • 👍 779 • 💬 54 • ⏱️ 20:45 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T18:57:42.519051+00:00'
+updated: '2025-12-15T19:26:31.875950+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 18:57 UTC  
+**Last Updated:** December 15, 2025 at 19:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 
 
 RIP, between the failed Amazon acquisition and the stiff competition this was a long time coming but still very sad. Theyre being bought by their Chinese manufacturer, which I found interesting when there are so many Chinese competitors in the market. I wonder if they will try to continue the brand.
 
-🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 15h ago
+🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 16h ago
 
 ---
 
@@ -60,7 +60,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-21h ago
+22h ago
 
 ---
 
@@ -68,7 +68,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 Everything here is done in simulation — from perception to grasping and lifting, the policy learns the whole pipeline by itself. With physically accurate dynamics and reliable collision handling, the arm ends up learning much more stable control behaviors. You can pretty clearly see how RL improves grasp stability over training, rather than just memorizing motions.
 
-5h ago
+6h ago
 
 ---
 
@@ -92,7 +92,7 @@ Been messing around with this little mobile camera, it’s about the size of a c
 
 Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
 
-19h ago
+20h ago
 
 ---
 
@@ -136,6 +136,30 @@ Fortune • 2d ago
 
 ---
 
+**[Elon Musk Says He's Been Having 'AI Nightmares' Lately —'If I Could, I Would Certainly Slow Down AI And Robotics, But I Can't'](https://www.yahoo.com/news/articles/elon-musk-says-hes-having-173017488.html)**
+
+Elon Musk isn't sleeping well these days — and it's not the launch schedules or Tesla earnings calls. It's AI. On an episode of "The Katie Miller Podcast" released in December, the Tesla CEO was asked if anything keeps him up at night. He responded, "AI. Yeah, actually." He then said, "I've had a lot of AI nightmares… many days in a row." The conversation started with Miller referencing Musk's past claims that people might not need to work in the future. Musk said that belief still holds. "Assum
+
+Yahoo • 1h ago
+
+---
+
+**[After a decade of trying, Quebecers become world robotics champions](https://ca.news.yahoo.com/decade-trying-quebecers-become-world-173311840.html)**
+
+Two Quebecers have been crowned champions at the World Robot Olympiad, a major robotics competition for young people. They won the gold medal in the category of Future Engineers.
+
+Yahoo News Canada • 1h ago
+
+---
+
+**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
+
+The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
+
+The Motley Fool • 23h ago
+
+---
+
 **[iRobot Announces Strategic Transaction to Drive Long-Term Growth Plan](https://www.prnewswire.com/news-releases/irobot-announces-strategic-transaction-to-drive-long-term-growth-plan-302641744.html)**
 
 /PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
@@ -160,20 +184,6 @@ ts2.tech • 5h ago
 
 ---
 
-**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
-
-The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
-
-The Motley Fool • 23h ago
-
----
-
-**[They built robots and won. Now they want more middle schoolers to join in.](https://www.timesunion.com/education/article/steamwhiz-aims-expand-k-8-robotics-teams-albany-21236899.php)**
-
-timesunion.com • 1d ago
-
----
-
 **[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
@@ -182,27 +192,9 @@ InvestorPlace • 14h ago
 
 ---
 
-**[UiPath: This Is Not The AI Or Robotics Stock To Buy Now (NYSE:PATH)](https://seekingalpha.com/article/4853312-uipath-q3-this-is-not-the-ai-or-robotics-stock-to-buy-now)**
-
-UiPath is a software company focused on robotic process automation and there is a spirited debate as to its positioning amid the current AI transformation. Learn more about PATH stock here.
-
-Seeking Alpha • 8h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
-
-0:00 Intro: Big Plans and Major Hurdles for 2026 0:25 The First Challenge: Safety 0:46 The Danger of Hard Bodies and Pinch ...
-
-📺 CNET
-
-👁️ 17K • 👍 494 • 💬 60 • ⏱️ 6:41 • 1d ago
-
----
 
 **[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
 
@@ -210,7 +202,17 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 2K • 👍 95 • 💬 8 • ⏱️ 1:05 • 4h ago
+👁️ 4K • 👍 136 • 💬 12 • ⏱️ 1:05 • 4h ago
+
+---
+
+**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
+
+Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
+
+📺 CNET
+
+👁️ 18K • 👍 525 • 💬 66 • ⏱️ 6:41 • 1d ago
 
 ---
 
@@ -218,17 +220,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 AI . Robot
 
-👁️ 66K • 👍 1K • 💬 14 • ⏱️ 0:21 • 1d ago
-
----
-
-**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
-
-EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
-
-📺 AI Tech Academy
-
-👁️ 130K • 👍 2K • 💬 936 • ⏱️ 14:26 • 6d ago
+👁️ 95K • 👍 1K • 💬 14 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -238,7 +230,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 233K • 👍 7K • 💬 254 • ⏱️ 0:34 • 1d ago
+👁️ 243K • 👍 8K • 💬 266 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -248,7 +240,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 190K • 👍 925 • 💬 303 • ⏱️ 0:47 • 6d ago
+👁️ 191K • 👍 926 • 💬 303 • ⏱️ 0:47 • 6d ago
 
 ---
 
@@ -258,7 +250,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 27K • 👍 100 • 💬 40 • ⏱️ 1:26 • 2d ago
+👁️ 27K • 👍 101 • 💬 40 • ⏱️ 1:26 • 2d ago
 
 ---
 
@@ -266,25 +258,37 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 AI . Robot
 
-👁️ 33K • 👍 459 • 💬 10 • ⏱️ 0:16 • 2d ago
+👁️ 34K • 👍 470 • 💬 11 • ⏱️ 0:16 • 2d ago
 
 ---
 
-**[#elonmusk unveils the #tesla Cyber Drone X2 #hoverbike #robotics #ai #drone](https://www.youtube.com/watch?v=rHxdy_4K2UM)**
+**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
 
-📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
 
-👁️ 110K • 👍 1K • 💬 22 • ⏱️ 0:11 • 3d ago
+📺 Kyle Krueger
+
+👁️ 5.2M • 👍 163K • 💬 3K • ⏱️ 0:51 • 4d ago
 
 ---
 
-**[Review of the Orange Robot Showcased at the December Expo - N178](https://www.youtube.com/watch?v=-JJVG7AGq1Q)**
+**[Boy Pressed Test Mode Button...Robot went Crazy 🤖😳 #ai #robot #cat](https://www.youtube.com/watch?v=hRf4HyPmFtA)**
 
-We review the orange robot showcased at the December Expo, exploring its design, features, and why it stood out to attendees; ...
+Boy Pressed Test Mode Button...Robot went Crazy #ai #robot #cat.
 
-📺 AI Robots Alive
+📺 Ai Animation World
 
-👁️ 13K • 👍 87 • 💬 1 • ⏱️ 0:08 • 17h ago
+👁️ 97K • 💬 5 • ⏱️ 0:37 • 1d ago
+
+---
+
+**[Future Tech Upgrade: Humanoid Robot Shocks the World! #humanoidrobot #robot #techexpo](https://www.youtube.com/watch?v=4JxhMlQTVZg)**
+
+Innovation​ #Robotics​ #Expo2025​ Join me on an exciting journey into the world of future technology as I explore the latest ...
+
+📺 SHORTS WORLD
+
+👁️ 146K • 💬 2 • ⏱️ 0:08 • 4d ago
 
 ---
 

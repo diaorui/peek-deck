@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T18:57:42.501404+00:00'
+updated: '2025-12-15T19:26:31.858052+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- news
 - repositories
 - social
-- news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 18:57 UTC  
+**Last Updated:** December 15, 2025 at 19:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,33 +45,17 @@ The technological race among industry giants and the wave of layoffs they have a
 
 ---
 
-**[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.reddit.com/r/artificial/comments/1pnbr3t/google_ai_summaries_are_ruining_the_livelihoods/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion) • 2h ago
-
----
-
-**[Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot](https://www.reddit.com/r/artificial/comments/1pmuboi/microsoft_scales_back_ai_goals_because_almost/)**
-
-RIP Copilot.
-
-🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 17h ago
-
----
-
 **[Anyone else notice how resources are slowly "stolen" from people and funneled to AI?](https://www.reddit.com/r/artificial/comments/1pncjtl/anyone_else_notice_how_resources_are_slowly/)**
 
 Now RAM prices are hitting record highs, because it's more profitable for manufacturers to sell specialized RAM to data centers than it is to you. Other chips overpriced too. Electricity price is ramping up, since tech giants need more and more of it, and are willing to pay higher and higher prices - more than you for sure. What's next, drinking water? Air? It's like reality is being warped by AI instead of people.
 
-1h ago
+2h ago
 
 ---
 
-**[Nvidia Becomes a Major Model Maker With Nemotron 3](https://www.reddit.com/r/artificial/comments/1pn9big/nvidia_becomes_a_major_model_maker_with_nemotron_3/)**
+**[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.reddit.com/r/artificial/comments/1pnbr3t/google_ai_summaries_are_ruining_the_livelihoods/)**
 
-The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
-
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 4h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion) • 2h ago
 
 ---
 
@@ -80,6 +64,22 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/watch?v=9O0djoqgasw
 
 3h ago
+
+---
+
+**[Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot](https://www.reddit.com/r/artificial/comments/1pmuboi/microsoft_scales_back_ai_goals_because_almost/)**
+
+RIP Copilot.
+
+🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 18h ago
+
+---
+
+**[Nvidia Becomes a Major Model Maker With Nemotron 3](https://www.reddit.com/r/artificial/comments/1pn9big/nvidia_becomes_a_major_model_maker_with_nemotron_3/)**
+
+The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
+
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 4h ago
 
 ---
 
@@ -127,67 +127,65 @@ CNBC • 2h ago
 
 ---
 
+**[US government launches ‘Tech Force’ to hire AI talent](https://www.cnn.com/2025/12/15/tech/government-tech-force-ai)**
+
+The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
+
+CNN • 2h ago
+
+---
+
+**[US government launches campaign to hire engineers for AI, tech roles](https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/)**
+
+Reuters • 2h ago
+
+---
+
+**[In A.I. Boom, Venture Capital Firms Are Raising Loads More Money](https://www.nytimes.com/2025/12/15/technology/ai-venture-capital-big-funds.html)**
+
+The New York Times • 5h ago
+
+---
+
+**[AI Use at Work Rises](https://www.gallup.com/workplace/699689/ai-use-at-work-rises.aspx)**
+
+New Gallup data shows a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025.
+
+Gallup.com • 14h ago
+
+---
+
 **[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
-**[WellSpan Health expands use of clinical AI after 'overwhelming' results](https://www.healthcareitnews.com/news/wellspan-health-expands-use-clinical-ai-after-overwhelming-results)**
+**[AI at Work Has Doubled: Here Are the Top Jobs Using It](https://www.pcmag.com/news/ai-at-work-has-doubled-here-are-the-top-jobs-using-it)**
 
-The health system's chief physician executive tells the story of 10,000 potentially critical findings available to radiologists within three minutes, more than 650 hours of read time efficiency gains, and much more.
+Nearly half of US workers say they use AI, up from just 21% a few years ago, according to a new Gallup poll. No wonder OpenAI intends to focus on enterprise products in 2026.
 
-Healthcare IT News • 1h ago
-
----
-
-**[Sony Says AWS-Powered AI Platform Processes 150,000 Inference Requests Per Day](https://www.pymnts.com/news/artificial-intelligence/2025/sony-says-aws-powered-ai-platform-processes-150000-inference-requests-per-day/)**
-
-Sony’s internal enterprise artificial intelligence platform, which is powered by Amazon Web Services (AWS) AI services, is processing 150,000 inference
-
-PYMNTS.com • 48m ago
+PCMag • 41m ago
 
 ---
 
-**[1 No-Brainer Artificial Intelligence (AI) Index Fund to Buy Right Now for Less Than $1,000](https://www.fool.com/investing/2025/12/15/1-no-brainer-ai-index-fund-buy-right-now-less-1000/)**
+**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/)**
 
-Investors should no longer ignore the ongoing AI boom.
+Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-The Motley Fool • 52m ago
-
----
-
-**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
-
-The New York Times • 3h ago
+Fortune • 20m ago
 
 ---
 
-**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqfJBZc68VyDZjtCelnUfKb-sIqyPADYrkIgRJleAAHxbr9LM23F2FRk&gaa_ts=6940573d&gaa_sig=byfRXtP60Ua72iBwhj2InWEfW-9eihLFlSVra6KjwePSfbSocuBI943Xp4V5ccwk8j7Toy_tDvBBQXgCBE5Z_Q%3D%3D)**
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqecxIR4wjQkU9m-PXafwf1BzPwqvwa6EYDpTjZHmFSGxRK08vunH9dv&gaa_ts=6940644f&gaa_sig=h5_tU9jahHt0z9vXMaZ84erkezT_VfcQ59JpkdeKzbwpfCwaAu8BNS_yDS-yncZ9N77zsqjjxO-IBqWGavktXA%3D%3D)**
 
-The Wall Street Journal • 15h ago
+The Wall Street Journal • 10m ago
 
 ---
 
 **[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
 
 The Economist • 1d ago
-
----
-
-**[Stanford AI Experts Predict What Will Happen in 2026](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026)**
-
-The era of AI evangelism is giving way to evaluation. Stanford faculty see a coming year defined by rigor, transparency, and a long-overdue focus on actual utility over speculative promise.
-
-Stanford HAI • 5h ago
-
----
-
-**[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.theguardian.com/technology/2025/dec/15/google-ai-recipes-food-bloggers)**
-
-AI Mode is mangling recipes by merging instructions from multiple creators – and causing them huge dips in ad traffic
-
-The Guardian • 3h ago
 
 ---
 
@@ -213,7 +211,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 417 • 💬 659 • 18h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 442 • 💬 750 • 19h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -221,7 +219,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 305 • 💬 302 • 19h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 322 • 💬 318 • 19h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -229,7 +227,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 251 • 💬 251 • 18h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 254 • 💬 257 • 18h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -237,7 +235,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 243 • 💬 112 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 244 • 💬 112 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -245,7 +243,7 @@ Some (well-known) consequences of AI automating work
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 150 • 💬 215 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 151 • 💬 215 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -253,7 +251,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 135 • 💬 90 • 1d ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 135 • 💬 91 • 1d ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -283,7 +281,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 424K • 👍 7K • 💬 952 • ⏱️ 1:21:07 • 2d ago
+👁️ 437K • 👍 7K • 💬 989 • ⏱️ 1:21:07 • 2d ago
 
 ---
 
@@ -293,7 +291,17 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 33K • 👍 1K • 💬 139 • ⏱️ 12:07 • 20h ago
+👁️ 35K • 👍 1K • 💬 143 • ⏱️ 12:07 • 20h ago
+
+---
+
+**[Lady Soldier Rescues Grandma and Builds Golden Carousel for Her 😭 #ai #save #army](https://www.youtube.com/watch?v=Rg0j9jUTTPM)**
+
+Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
+
+📺 Anime world 
+
+👁️ 207K • 👍 1K • 💬 1 • ⏱️ 0:22 • 1d ago
 
 ---
 
@@ -303,7 +311,7 @@ Our Discord Community (FREE): https://discord.com/invite/Efbjh7Qj4V Review our s
 
 📺 2 and 20
 
-👁️ 147K • 👍 6K • 💬 743 • ⏱️ 12:40 • 2d ago
+👁️ 161K • 👍 6K • 💬 786 • ⏱️ 12:40 • 2d ago
 
 ---
 
@@ -313,17 +321,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 542K • 👍 31K • 💬 3K • ⏱️ 11:22 • 16h ago
-
----
-
-**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
-
-IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
-
-📺 Eurodollar University
-
-👁️ 68K • 👍 3K • 💬 401 • ⏱️ 20:44 • 18h ago
+👁️ 604K • 👍 34K • 💬 4K • ⏱️ 11:22 • 16h ago
 
 ---
 
@@ -333,17 +331,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 429K • 👍 17K • 💬 979 • ⏱️ 4:01 • 2d ago
-
----
-
-**[Why YouTube Won&#39;t Stop Pushing AI Nonsense...](https://www.youtube.com/watch?v=We7FzVfIIcs)**
-
-Hello guys and gals, it's me Mutahar again! This time we take a look at why sites like YouTube are taking AI so seriously.
-
-📺 SomeOrdinaryGamers
-
-👁️ 79K • 👍 4K • 💬 803 • ⏱️ 19:00 • 1d ago
+👁️ 436K • 👍 17K • 💬 986 • ⏱️ 4:01 • 2d ago
 
 ---
 
@@ -353,7 +341,27 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 46K • 👍 1K • 💬 298 • ⏱️ 15:01 • 2d ago
+👁️ 47K • 👍 1K • 💬 308 • ⏱️ 15:01 • 2d ago
+
+---
+
+**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
+
+IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
+
+📺 Eurodollar University
+
+👁️ 73K • 👍 3K • 💬 419 • ⏱️ 20:44 • 19h ago
+
+---
+
+**[Why YouTube Won&#39;t Stop Pushing AI Nonsense...](https://www.youtube.com/watch?v=We7FzVfIIcs)**
+
+Hello guys and gals, it's me Mutahar again! This time we take a look at why sites like YouTube are taking AI so seriously.
+
+📺 SomeOrdinaryGamers
+
+👁️ 80K • 👍 4K • 💬 813 • ⏱️ 19:00 • 1d ago
 
 ---
 
@@ -363,17 +371,7 @@ In the run up to the festive season, the selection of toys on offer seems to get
 
 📺 BBC News
 
-👁️ 18K • 👍 370 • 💬 116 • ⏱️ 3:10 • 2d ago
-
----
-
-**[GPT 5.2, realtime video editor, AI stereo videos, mobile AI agents, full body control: AI NEWS](https://www.youtube.com/watch?v=fpAbYRNxYPM)**
-
-INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainews #aitools #aivideo Thanks to our ...
-
-📺 AI Search
-
-👁️ 86K • 👍 4K • 💬 436 • ⏱️ 47:09 • 1d ago
+👁️ 18K • 👍 374 • 💬 116 • ⏱️ 3:10 • 2d ago
 
 ---
 
@@ -389,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 286,283 • ❤️ 2,749 • 7d ago
+⬇️ 286,283 • ❤️ 2,752 • 7d ago
 
 ---
 
@@ -401,7 +399,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 84,213 • ❤️ 438 • 6d ago
+⬇️ 84,213 • ❤️ 440 • 6d ago
 
 ---
 
@@ -413,7 +411,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 142,846 • ❤️ 854 • 3d ago
+⬇️ 142,846 • ❤️ 855 • 3d ago
 
 ---
 
@@ -425,7 +423,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 21,397 • ❤️ 352 • 1d ago
+⬇️ 21,397 • ❤️ 353 • 1d ago
 
 ---
 
@@ -437,7 +435,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 3,683 • ❤️ 309 • 6d ago
+⬇️ 3,683 • ❤️ 310 • 6d ago
 
 ---
 
@@ -461,7 +459,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 6,481 • ❤️ 221 • 3d ago
+⬇️ 6,481 • ❤️ 222 • 3d ago
 
 ---
 
@@ -497,7 +495,7 @@ AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent 
 
 `image-text-to-text` `934,400`
 
-⬇️ 7,541 • ❤️ 171 • 6d ago
+⬇️ 7,541 • ❤️ 172 • 6d ago
 
 ---
 
@@ -719,7 +717,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 864 • 🔱 49 • 5h ago
+⭐ 864 • 🔱 49 • 6h ago
 
 ---
 
@@ -729,7 +727,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 736 • 🔱 105 • 15h ago
+⭐ 736 • 🔱 105 • 16h ago
 
 ---
 
