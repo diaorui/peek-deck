@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T15:59:54.208691+00:00'
+updated: '2025-12-15T16:43:42.143164+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 15:59 UTC  
+**Last Updated:** December 15, 2025 at 16:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,683.80
+### $86,386.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -6.3%  
-**30d:** -7.6%  
-**90d:** -25.3%  
-**1y:** -17.8%  
+**24h:** -3.2%  
+**7d:** -7.3%  
+**30d:** -8.6%  
+**90d:** -26.1%  
+**1y:** -18.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1733.06B
+**Market Cap:** $1724.68B
 Rank #1
 
-**Circulating Supply:** 19,962,418 BTC
+**Circulating Supply:** 19,962,443 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.1%
+-31.6%
 
 **All-Time Low:** $67.81
-+127953.4%
++127137.9%
 
 ---
 
@@ -77,11 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[[France] Gov mandates declaring Cold Wallets >€5k. Need privacy strategy](https://www.reddit.com/r/Bitcoin/comments/1pn1cj8/france_gov_mandates_declaring_cold_wallets_5k/)**
+**[Me checking on the homies I convinced to buy Bitcoin at 124K](https://www.reddit.com/r/Bitcoin/comments/1pnahuo/me_checking_on_the_homies_i_convinced_to_buy/)**
 
-The French parliament just voted on an amendment forcing us to declare self-custody wallets (Ledger/Trezor) to the tax authorities if they hold more than €5,000. This effectively builds a massive centralized honeypot linking real identities to home addresses and exact holdings, which is a massive security risk and a wrench attack nightmare. ​I'm urgently looking for technical strategies to protect my privacy here. I need to know if "structuring" by splitting the stack into multiple sub-€5k wallets is a viable way to bypass the threshold, or if I should be looking into CoinJoin/Whirlpool to sever the link from my KYC exchange history before moving to fresh storage. I'm also trying to understand how they could possibly enforce this without me voluntarily doxxing my XPUB, so I'm curious if non-compliance is the general consensus. Any advice on keeping my stack off this registry would be appreciated.
+Are you still buying?
 
-8h ago
+1h ago
 
 ---
 
@@ -89,21 +89,29 @@ The French parliament just voted on an amendment forcing us to declare self-cust
 
 Buy some bitcoin and store it.
 
-1h ago
+2h ago
 
 ---
 
 **[The best ever gift to receive? what have u done if u had got this gift](https://www.reddit.com/r/Bitcoin/comments/1pn7aw1/the_best_ever_gift_to_receive_what_have_u_done_if/)**
 
-2h ago
+3h ago
 
 ---
 
-**[Bitcoin Hashrate Slumps as Xinjiang Mining Centres Appear to Go Dark](https://www.reddit.com/r/Bitcoin/comments/1pn5xmn/bitcoin_hashrate_slumps_as_xinjiang_mining/)**
+**[[France] Gov mandates declaring Cold Wallets >€5k. Need privacy strategy](https://www.reddit.com/r/Bitcoin/comments/1pn1cj8/france_gov_mandates_declaring_cold_wallets_5k/)**
 
-Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
+The French parliament just voted on an amendment forcing us to declare self-custody wallets (Ledger/Trezor) to the tax authorities if they hold more than €5,000. This effectively builds a massive centralized honeypot linking real identities to home addresses and exact holdings, which is a massive security risk and a wrench attack nightmare. ​I'm urgently looking for technical strategies to protect my privacy here. I need to know if "structuring" by splitting the stack into multiple sub-€5k wallets is a viable way to bypass the threshold, or if I should be looking into CoinJoin/Whirlpool to sever the link from my KYC exchange history before moving to fresh storage. I'm also trying to understand how they could possibly enforce this without me voluntarily doxxing my XPUB, so I'm curious if non-compliance is the general consensus. Any advice on keeping my stack off this registry would be appreciated.
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 3h ago
+9h ago
+
+---
+
+**[Bitcoin manipulation](https://www.reddit.com/r/Bitcoin/comments/1pna4zg/bitcoin_manipulation/)**
+
+The bitcoin manipulation is wild esp with Saylor’s buys. He buys almost a billion and the price crashes what am I missing? #btc
+
+1h ago
 
 ---
 
@@ -113,15 +121,23 @@ Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
 ---
 
-**[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
+**[Bitcoin Hashrate Slumps as Xinjiang Mining Centres Appear to Go Dark](https://www.reddit.com/r/Bitcoin/comments/1pn5xmn/bitcoin_hashrate_slumps_as_xinjiang_mining/)**
 
-18h ago
+Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
+
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 4h ago
 
 ---
 
-**[Back in 2012 i was busy copy and pasting jpeg from my dad's pc to my nokia N-gage lol](https://www.reddit.com/r/Bitcoin/comments/1pn2i9e/back_in_2012_i_was_busy_copy_and_pasting_jpeg/)**
+**[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
 
-7h ago
+19h ago
+
+---
+
+**[Ah Shit. Here we go again](https://www.reddit.com/r/Bitcoin/comments/1pnau8j/ah_shit_here_we_go_again/)**
+
+49m ago
 
 ---
 
@@ -133,61 +149,37 @@ Now banks aren't even required to have reserve deposits! In the United States, a
 
 ---
 
-**[Bitcoin manipulation](https://www.reddit.com/r/Bitcoin/comments/1pna4zg/bitcoin_manipulation/)**
-
-The bitcoin manipulation is wild esp with Saylor’s buys. He buys almost a billion and the price crashes what am I missing? #btc
-
-33m ago
-
----
-
-**[Member of r/bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pn5j1p/member_of_rbitcoin/)**
-
-4h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
-
-Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
-
-Financial Times • 10h ago
-
----
-
-**[Bitcoin Doesn’t Need Another Bull Run. It Needs An Economy](https://www.coindesk.com/opinion/2025/12/15/bitcoin-doesn-t-need-another-bull-run-it-needs-an-economy)**
-
-Bitcoin usage still skews toward long-term storage, as seen in how much BTC sits unmoved, says Terahash co-founder Hunter Rogers. But this behavior preserves individual wealth while starving the network.
-
-CoinDesk • 8h ago
-
----
-
-**[Got Bitcoin or XRP? Do This 1 Thing Right Now or Risk Disaster.](https://www.fool.com/investing/2025/12/15/got-bitcoin-or-xrp-do-this-1-thing-right-now-or-ri/)**
-
-Sometimes you are the biggest risk to your portfolio's health.
-
-The Motley Fool • 55m ago
-
----
 
 **[Strategy Buys Almost $1 Billion in Bitcoin Again in Past Week](https://www.bloomberg.com/news/articles/2025-12-15/strategy-buys-almost-1-billion-in-bitcoin-again-in-past-week)**
 
 Michael Saylor’s Strategy Inc. acquired almost $1 billion in Bitcoin for a second consecutive week, as the original digital asset treasury company continues to ramp up purchases following the recent pullback in the price of the largest cryptocurrency.
 
-Bloomberg.com • 35m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Bitcoin Miner IREN’s 47% Slide Flagged as a Buying Opportunity by B. Riley](https://www.coindesk.com/markets/2025/12/15/bitcoin-miner-iren-s-47-slide-flagged-as-a-buying-opportunity-by-b-riley)**
+**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
-The bank kept its buy rating on the stock and $74 target, citing a Microsoft GPU ramp and ample funding options.
+Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-CoinDesk • 35m ago
+Financial Times • 11h ago
+
+---
+
+**[Bitcoin (BTC) Price News: U.S. Hours Tumble Below $87K](https://www.coindesk.com/markets/2025/12/15/bitcoin-plunges-below-usd87k-as-crypto-weakness-persists-ether-below-usd3k)**
+
+The curse of the U.S. trading session — in which bitcoin tends to fall as American stocks trade — has hit yet again.
+
+CoinDesk • 47m ago
+
+---
+
+**[Bitcoin Price Slips Below $90,000, XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqduJe_uB-o-IrDsL-dkiWuLAXw66GhMZXquuy1DN1j6TXndICsvORDB&gaa_ts=69403e26&gaa_sig=soxvk2-iZOkr_aY3aeatkpmlWWuC64wx4Nip4v6BlqE9ySshcwOoZdpo3_I9z5Qx4Tt00vTs0tn3Mg5TS_XIbA%3D%3D)**
+
+Barron's • 5h ago
 
 ---
 
@@ -195,31 +187,43 @@ CoinDesk • 35m ago
 
 Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin Price Bleeds Below $89,000 After Grim Weekend](https://bitcoinmagazine.com/markets/bitcoin-price-bleeds-below-89000)**
+
+Bitcoin price slipped below $90,000 during typically thin Sunday trading, magnifying downside volatility as traders pulled back risk ahead of a heavy week of U.S. economic data.
+
+Bitcoin Magazine • 2h ago
+
+---
+
+**[Got Bitcoin or XRP? Do This 1 Thing Right Now or Risk Disaster.](https://www.fool.com/investing/2025/12/15/got-bitcoin-or-xrp-do-this-1-thing-right-now-or-ri/)**
+
+Sometimes you are the biggest risk to your portfolio's health.
+
+The Motley Fool • 1h ago
 
 ---
 
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
-**[Bitcoin price today: ticks down below $90k amid risk-off mood; key US data awaited](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-ticks-down-below-90k-amid-riskoff-mood-key-us-data-awaited-4407239)**
+**[Bitcoin May Be Repeating 1929 Great Depression, Top Bloomberg Strategist Warns](https://www.tradingview.com/news/u_today:4cd76d412094b:0-bitcoin-may-be-repeating-1929-great-depression-top-bloomberg-strategist-warns/)**
 
-Investing.com • 8h ago
+In a recent post, Bloomberg Intelligence’s senior macro strategist Mike McGlone drew a direct parallel between the Bloomberg Galaxy Crypto Index in 2025 and the Dow in 1929, calling the setup "Peak Bitcoin?" and framing the current phase as the early stage of a purge, not a pause — a purge similar…
 
----
-
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping MSTR Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdrgInhxJ7MaJq3TiL9SEY7B3pX1C3KgbPwFk1rK1Ucs7FUmd-_AUfF&gaa_ts=69403029&gaa_sig=54tH40AtWE2Yic5EGjMwm7XzjH28LCpou3VH-8JyJ02U2pXJzH7P8-_yPO-ZBdaQ5RxK7cK3ZD1f1EgDRZAIIw%3D%3D)**
-
-Barron's • 1h ago
+TradingView — Track All Markets • 55m ago
 
 ---
 
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqcH_coLsHyw0JzztSdweCZ5cQPAv97G42IOw205UhrbeJCt-JoKMKiD&gaa_ts=69403029&gaa_sig=aN4n3laVfl0X2hNFxTzORfEPajOoKff5GAFJAFW8alNf1otVsslZd7-7fSMPXAzV8Cq_FZeh3eHFlTi_40eqXQ%3D%3D)**
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqdW0k_2naUFlOcZP6aAWrSPoaOrLCx-KTY-kkzOKw8S7UyG7UDj0p_9&gaa_ts=69403e26&gaa_sig=BXBSnv2fRtuSfAESIqgl_RIdDDuHPx6xWEDG2HJMhhbuKUvaH2_3EugdszIKTaC9IWQLXyO_-DtMS25XrLt5ZA%3D%3D)**
 
-MarketWatch • 2h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -305,7 +309,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 2K • 💬 184 • ⏱️ 14:17 • 16h ago
+👁️ 36K • 👍 2K • 💬 184 • ⏱️ 14:17 • 17h ago
 
 ---
 
@@ -315,7 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 3K • 👍 287 • 1h ago
+👁️ 3K • 👍 287 • 2h ago
 
 ---
 
@@ -325,7 +329,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 358 • ⏱️ 9:35 • 16h ago
+👁️ 52K • 👍 2K • 💬 358 • ⏱️ 9:35 • 17h ago
 
 ---
 
@@ -345,7 +349,7 @@ Bitcoin what now? IT's LIKE STEROIDS: 5g Grows Muscle & Burns Fat! https://youtu
 
 📺 MMCrypto
 
-👁️ 15K • 👍 2K • 💬 188 • ⏱️ 3:50 • 5h ago
+👁️ 15K • 👍 2K • 💬 188 • ⏱️ 3:50 • 6h ago
 
 ---
 
@@ -355,7 +359,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 15K • 👍 628 • 💬 332 • ⏱️ 15:03 • 10h ago
+👁️ 15K • 👍 628 • 💬 332 • ⏱️ 15:03 • 11h ago
 
 ---
 
@@ -365,7 +369,7 @@ Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning wheth
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 273 • 2h ago
+👁️ 3K • 👍 273 • 3h ago
 
 ---
 
@@ -385,7 +389,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 203 • ⏱️ 9:48 • 22h ago
+👁️ 28K • 👍 2K • 💬 203 • ⏱️ 9:48 • 23h ago
 
 ---
 

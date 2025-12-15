@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T15:59:54.217962+00:00'
+updated: '2025-12-15T16:43:42.149160+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 15:59 UTC  
+**Last Updated:** December 15, 2025 at 16:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,014.29
+### $2,981.74
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** -9.6%  
-**30d:** -2.8%  
-**90d:** -34.3%  
-**1y:** -24.3%  
+**24h:** -3.8%  
+**7d:** -10.5%  
+**30d:** -4.2%  
+**90d:** -35.3%  
+**1y:** -25.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $362.17B
+**Market Cap:** $360.29B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.4%
+-39.7%
 
 **All-Time Low:** $0.43
-+691617.2%
++688275.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -154,23 +154,7 @@ Hi, total crypto newbie here. I need some guidance and expert advice on the best
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-The Block • 3h ago
-
----
-
-**[Tokenization News: $4T Bank JPMorgan Launches Onchain Fund on Ethereum](https://www.coindesk.com/business/2025/12/15/jpmorgan-launches-tokenized-money-market-fund-on-ethereum-as-wall-street-moves-onchain-report)**
-
-The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.
-
-CoinDesk • 1h ago
-
----
-
-**[JPMorgan Bets on Ethereum With Tokenized Money Fund Launch — Is Tom Lee’s $20K Price Prediction More Likely Now?](https://finance.yahoo.com/news/jpmorgan-bets-ethereum-tokenized-money-131715297.html)**
-
-The amount of Bitcoin needed to retire varies widely by location. The independent researcher provided a bullish outlook for Bitcoin. Market outlook remains divided. JPMorgan ...
-
-Yahoo Finance • 2h ago
+The Block • 4h ago
 
 ---
 
@@ -178,7 +162,7 @@ Yahoo Finance • 2h ago
 
 Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -198,23 +182,23 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
+**[Why Did The Bitcoin, Ethereum, And XRP Prices Crash, And Will It Continue?](https://www.tradingview.com/news/newsbtc:a8f6b7e64094b:0-why-did-the-bitcoin-ethereum-and-xrp-prices-crash-and-will-it-continue/)**
 
-CCN.com • 2h ago
-
----
-
-**[Ethereum Price Compression Deepens as Analysts Debate if the Next Move Is a Rally or Breakdown](https://www.tradingview.com/news/newsbtc:ccb6d8e40094b:0-ethereum-price-compression-deepens-as-analysts-debate-if-the-next-move-is-a-rally-or-breakdown/)**
-
-Ethereum (ETH) has entered another period of tight price compression, a phase that has left traders split between expectations of a renewed rally and concerns about a deeper correction.As of December 15, the Ethereum price trades near the $3,100 level, drifting sideways after several failed attempt…
+Crypto pundit Crypto Wimar has explained why the Bitcoin, Ethereum, and XRP prices crashed, highlighting the continuous selling pressure. The crypto market is also at risk of further downward pressure due to macro factors such as the impending Japan rate hike. Why The Bitcoin, Ethereum, And XRP Pri…
 
 TradingView — Track All Markets • 1h ago
 
 ---
 
-**[A whale sells 7.6K ETH – So why didn’t Ethereum break down?](https://ambcrypto.com/a-whale-sells-7-6k-eth-so-why-didnt-ethereum-break-down/)**
+**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
 
-Ethereum faces renewed ETF selling and whale distribution, yet the price holds firm near realized levels.
+CCN.com • 3h ago
+
+---
+
+**[Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment](https://ambcrypto.com/greed-vs-fear-at-3k-inside-ethereums-make-or-break-moment/)**
+
+Ethereum approaches whale levels: Is greed fueling the next crash?
 
 AMBCrypto • 1d ago
 
@@ -224,7 +208,23 @@ AMBCrypto • 1d ago
 
 Bitcoin (BTC) is advancing toward $90,000 at the time of writing on Monday, as the broader cryptocurrency market pushes for recovery following last week’s monetary policy-triggered headwinds.
 
-FXStreet • 3h ago
+FXStreet • 4h ago
+
+---
+
+**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
+
+Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
+
+BeInCrypto • 22h ago
+
+---
+
+**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
+
+The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
+
+CoinDesk • 2h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 165 • 💬 9 • ⏱️ 6:25 • 12h ago
+👁️ 2K • 👍 165 • 💬 9 • ⏱️ 6:25 • 13h ago
 
 ---
 
@@ -248,7 +248,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 3K • 👍 287 • 1h ago
+👁️ 3K • 👍 287 • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 358 • ⏱️ 9:35 • 16h ago
+👁️ 52K • 👍 2K • 💬 358 • ⏱️ 9:35 • 17h ago
 
 ---
 
@@ -308,7 +308,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 463 • 💬 14 • ⏱️ 48:44 • 2d ago
+👁️ 7K • 👍 463 • 💬 14 • ⏱️ 48:44 • 3d ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 155 • 💬 5 • ⏱️ 8:04 • 23h ago
+👁️ 3K • 👍 155 • 💬 5 • ⏱️ 8:04 • 1d ago
 
 ---
 
