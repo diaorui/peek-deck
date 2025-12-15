@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T20:42:36.905100+00:00'
+updated: '2025-12-15T20:57:06.829408+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 20:42 UTC  
+**Last Updated:** December 15, 2025 at 20:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.3%  
-**7d:** -11.2%  
-**30d:** -4.9%  
-**90d:** -35.8%  
-**1y:** -26.0%  
+**24h:** -4.8%  
+**7d:** -11.7%  
+**30d:** -5.4%  
+**90d:** -36.1%  
+**1y:** -26.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.98B
+**Market Cap:** $353.68B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.7%
 
 **All-Time Low:** $0.43
-+675297.7%
++677256.2%
 
 ---
 
@@ -96,7 +96,7 @@ I’ve never bought ETH before, but I’m thinking of getting some exposure now.
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 55m ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 1h ago
 
 ---
 
@@ -158,27 +158,19 @@ The Block • 8h ago
 
 ---
 
-**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://decrypt.co/352365/tom-lees-bitmine-keeps-buying-ethereum-adding-320-million-eth-treasury)**
-
-Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
-
-Decrypt • 5h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-fall-lowest-174706223.html)**
-
-Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
-
-Yahoo Finance • 2h ago
-
----
-
 **[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
 
 Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
 CoinDesk • 6h ago
+
+---
+
+**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
+
+Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -194,21 +186,13 @@ TradingView — Track All Markets • 5h ago
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 4h ago
+CryptoSlate • 5h ago
 
 ---
 
 **[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
 
 CCN.com • 7h ago
-
----
-
-**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
-
-Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
-
-BeInCrypto • 1d ago
 
 ---
 
@@ -225,6 +209,22 @@ AMBCrypto • 1d ago
 Bitcoin and Ethereum options worth billions expire Dec. 20, with max pain clusters and BTC put skew setting the stage for short‑term volatility.​
 
 crypto.news • 6h ago
+
+---
+
+**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
+
+The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
+
+CoinDesk • 6h ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum hold steady as XRP ETF inflows surge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-aim-for-recovery-xrp-holds-key-support-202512121200)**
+
+Bitcoin (BTC) is trading above $92,000 at the time of writing on Friday, as volatility across the cryptocurrency market cools following the Federal Reserve’s (Fed) hawkish interest rate cut.
+
+FXStreet • 3d ago
 
 ---
 
@@ -288,7 +288,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 3K • 💬 304 • ⏱️ 31:03 • 2d ago
+👁️ 68K • 👍 3K • 💬 304 • ⏱️ 31:03 • 3d ago
 
 ---
 
@@ -308,7 +308,7 @@ Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitte
 
 📺 The Blockchain Today
 
-👁️ 821 • 👍 84 • 💬 12 • ⏱️ 3:50 • 9h ago
+👁️ 821 • 👍 84 • 💬 12 • ⏱️ 3:50 • 10h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 11K • 👍 412 • 💬 161 • ⏱️ 20:08 • 23h ago
+👁️ 11K • 👍 412 • 💬 161 • ⏱️ 20:08 • 1d ago
 
 ---
 

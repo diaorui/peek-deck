@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T20:42:36.892325+00:00'
+updated: '2025-12-15T20:57:06.814148+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 20:42 UTC  
+**Last Updated:** December 15, 2025 at 20:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 6h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 7h ago
 
 ---
 
@@ -79,7 +79,7 @@ RIP Copilot.
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 5h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 6h ago
 
 ---
 
@@ -95,7 +95,15 @@ Also: All the news and watercooler chat from Fortune.
 
 "And somehow he sort of mostly manages to pull off what appears to be impossible."
 
-🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 18h ago
+🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 19h ago
+
+---
+
+**[LLMs do not understand numbers](https://www.reddit.com/r/artificial/comments/1pni9ib/llms_do_not_understand_numbers/)**
+
+Don't ask it to add a confidence score. Don't add it to sum up items on a receipt. Don't ask it to confirm how many rows there are in a PDF.
+
+🔗 [BAML](https://boundaryml.com/blog/llms-do-not-understand-numbers) • 22m ago
 
 ---
 
@@ -103,21 +111,19 @@ Also: All the news and watercooler chat from Fortune.
 
 TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
 
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 20h ago
-
----
-
-**[Tried a few AI video tools recently, here’s what I liked and didn’t](https://www.reddit.com/r/artificial/comments/1pn2k1n/tried_a_few_ai_video_tools_recently_heres_what_i/)**
-
-I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
-
-12h ago
+🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 21h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
+
+The New York Times • 5h ago
+
+---
 
 **[Trump admin to hire 1,000 specialists for 'Tech Force' to build AI, finance projects](https://www.cnbc.com/2025/12/15/trump-ai-tech-force-amazon-apple.html)**
 
@@ -127,31 +133,39 @@ CNBC • 4h ago
 
 ---
 
-**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
+**[US government launches ‘Tech Force’ to hire AI talent](https://www.cnn.com/2025/12/15/tech/government-tech-force-ai)**
 
-The New York Times • 4h ago
+The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
 
----
-
-**[Mark Cuban Sends Strong Message to Creatives About AI](https://www.inc.com/ava-levinson/mark-cuban-sends-strong-message-to-creatives-about-ai/91278961)**
-
-Inc.com • 34m ago
+CNN • 4h ago
 
 ---
 
-**[AI infrastructure selloff continues on Wall Street as Broadcom, Oracle shares slide](https://www.cnbc.com/2025/12/15/ai-infrastructure-selloff-continues-broadcom-oracle-coreweave-shares-slide.html)**
+**[US government launches campaign to hire engineers for AI, tech roles](https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/)**
 
-In at least one corner of the AI market, sentiment has turned decidedly negative.
-
-CNBC • 43m ago
+Reuters • 3h ago
 
 ---
 
-**[Investors are Using the Same Tool as ‘The Big Short’ Guys to Hedge Against an AI Bubble](https://gizmodo.com/investors-are-using-the-same-tool-as-the-big-short-guys-to-hedge-against-an-ai-bubble-2000699860)**
+**[Klarna Launches Open Standard for Making Products Discoverable by AI Agents](https://www.pymnts.com/news/artificial-intelligence/2025/klarna-launches-open-standard-making-products-discoverable-ai-agents/)**
 
-That's a good sign, right?
+Klarna launched an open standard that it said makes products easily discoverable and understandable by artificial intelligence agents. The new Agentic
 
-Gizmodo • 41m ago
+PYMNTS.com • 12m ago
+
+---
+
+**[This is the AI question that stops a boardroom cold](https://www.businessinsider.com/sc/enterprise-ai-investment-falls-short-without-intelligent-data)**
+
+AI investments in enterprises often stall without quality data. Discover why unified, context-rich data is key to successful AI transformation.
+
+Business Insider • 10m ago
+
+---
+
+**[New AI Medicare program to review patient services in Texas; doctors have concerns](https://www.kxan.com/news/texas/new-ai-medicare-program-to-review-patient-services-in-texas-doctors-have-concerns/)**
+
+KXAN Austin • 17m ago
 
 ---
 
@@ -163,17 +177,11 @@ The Guardian • 5h ago
 
 ---
 
-**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqdY3TpmfTnhevuiy1lvoT5KDY7zXN6Yk4Q5jHPAGIk3Y0w_eF3lFWvz&gaa_ts=6940708f&gaa_sig=W22YzMFMtHKgki9EpCGQv7mBr4MfHTWcR244N4epCJaRnWS0HeE8v8lBlw0xiMM50I_ZK4XzDwzdjsUYgOiIjQ%3D%3D)**
+**[AI Use at Work Rises](https://www.gallup.com/workplace/699689/ai-use-at-work-rises.aspx)**
 
-The Wall Street Journal • 22h ago
+New Gallup data shows a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025.
 
----
-
-**[Stanford AI Experts Predict What Will Happen in 2026](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026)**
-
-The era of AI evangelism is giving way to evaluation. Stanford faculty see a coming year defined by rigor, transparency, and a long-overdue focus on actual utility over speculative promise.
-
-Stanford HAI • 6h ago
+Gallup • 15h ago
 
 ---
 
@@ -183,31 +191,15 @@ Axios • 6h ago
 
 ---
 
-**[Deloitte's CTO: companies are spending 93% on tech and only 7% on people and that has to change](https://fortune.com/2025/12/15/deloitte-cto-bill-briggs-what-really-scares-ceos-about-ai-human-resources/)**
-
-Bill Briggs recognizes an old inertia inside the boardroom: “I felt it in my travels, but I hadn’t been able to quantify it.”
-
-Fortune • 9h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
-
-**[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://news.ycombinator.com/item?id=46248644)**
-
-Update your apps to use new features, and test your apps against API changes.
-
-⬆️ 533 • 💬 290 • 3d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
-
----
 
 **[If AI replaces workers, should it also pay taxes?](https://news.ycombinator.com/item?id=46268709)**
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 468 • 💬 789 • 20h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 487 • 💬 806 • 20h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -221,7 +213,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 329 • 💬 330 • 20h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 333 • 💬 336 • 21h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -229,7 +221,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 256 • 💬 264 • 20h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 258 • 💬 268 • 20h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -237,7 +229,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 245 • 💬 112 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 245 • 💬 113 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -257,19 +249,25 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 ---
 
-**[New Kindle feature uses AI to answer questions about books](https://news.ycombinator.com/item?id=46248417)**
-
-The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
-
-⬆️ 82 • 💬 130 • 3d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
-
----
-
 **[Willison on Merchant's "Copywriters reveal how AI has decimated their industry"](https://news.ycombinator.com/item?id=46261998)**
 
 Brian Merchant has been collecting personal stories for his series AI Killed My Job - previously covering tech workers, translators, and artists - and this latest piece includes anecdotes from …
 
 ⬆️ 79 • 💬 89 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
+
+---
+
+**[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
+
+⬆️ 64 • 💬 60 • 2d ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+
+---
+
+**[Copywriters reveal how AI has decimated their industry](https://news.ycombinator.com/item?id=46272921)**
+
+Copywriters were one of the first to have their jobs targeted by AI firms. These are their stories, three years into the AI era.
+
+⬆️ 57 • 💬 36 • 9h ago • [bloodinthemachine.com](https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the)
 
 ---
 
@@ -293,7 +291,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 143 • ⏱️ 12:07 • 21h ago
+👁️ 35K • 👍 1K • 💬 143 • ⏱️ 12:07 • 22h ago
 
 ---
 
@@ -323,7 +321,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 604K • 👍 34K • 💬 4K • ⏱️ 11:22 • 17h ago
+👁️ 604K • 👍 34K • 💬 4K • ⏱️ 11:22 • 18h ago
 
 ---
 
@@ -497,7 +495,7 @@ AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent 
 
 `image-text-to-text` `934,400`
 
-⬇️ 7,541 • ❤️ 173 • 6d ago
+⬇️ 7,541 • ❤️ 174 • 6d ago
 
 ---
 
@@ -649,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.5k • 🔱 2.4k • 11h ago
+⭐ 15.5k • 🔱 2.4k • 12h ago
 
 ---
 

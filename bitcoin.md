@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T20:42:36.899851+00:00'
+updated: '2025-12-15T20:57:06.823125+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 20:42 UTC  
+**Last Updated:** December 15, 2025 at 20:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** -7.5%  
-**30d:** -8.8%  
+**24h:** -2.6%  
+**7d:** -7.4%  
+**30d:** -8.7%  
 **90d:** -26.2%  
 **1y:** -18.8%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1715.45B
+**Market Cap:** $1714.06B
 Rank #1
 
-**Circulating Supply:** 19,962,509 BTC
+**Circulating Supply:** 19,962,543 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--32.0%
+-31.9%
 
 **All-Time Low:** $67.81
-+126393.1%
++126528.8%
 
 ---
 
@@ -91,6 +91,12 @@ Are you still buying?
 
 ---
 
+**[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
+
+3h ago
+
+---
+
 **[Don’t Sell](https://www.reddit.com/r/Bitcoin/comments/1pn8nl0/dont_sell/)**
 
 Buy some bitcoin and store it.
@@ -102,12 +108,6 @@ Buy some bitcoin and store it.
 **[The best ever gift to receive? what have u done if u had got this gift](https://www.reddit.com/r/Bitcoin/comments/1pn7aw1/the_best_ever_gift_to_receive_what_have_u_done_if/)**
 
 7h ago
-
----
-
-**[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
-
-3h ago
 
 ---
 
@@ -123,23 +123,25 @@ Buy some bitcoin and store it.
 
 ---
 
-**[Bitcoin Hashrate Slumps as Xinjiang Mining Centres Appear to Go Dark](https://www.reddit.com/r/Bitcoin/comments/1pn5xmn/bitcoin_hashrate_slumps_as_xinjiang_mining/)**
+**[Square just sent me 29,164 sats for being the first Bitcoin-paying customer at a local coffee shop.](https://www.reddit.com/r/Bitcoin/comments/1pnhv00/square_just_sent_me_29164_sats_for_being_the/)**
 
-Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
+I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 8h ago
+37m ago
 
 ---
 
 **[Ah Shit. Here we go again](https://www.reddit.com/r/Bitcoin/comments/1pnau8j/ah_shit_here_we_go_again/)**
 
-4h ago
+5h ago
 
 ---
 
-**[Time for the Monday Morning Manipulation](https://www.reddit.com/r/Bitcoin/comments/1pn9ek0/time_for_the_monday_morning_manipulation/)**
+**[Bitcoin Hashrate Slumps as Xinjiang Mining Centres Appear to Go Dark](https://www.reddit.com/r/Bitcoin/comments/1pn5xmn/bitcoin_hashrate_slumps_as_xinjiang_mining/)**
 
-5h ago
+Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
+
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 8h ago
 
 ---
 
@@ -163,17 +165,23 @@ Financial Times • 15h ago
 
 ---
 
-**[Strategy Snaps Up $1 Billion In Bitcoin As The BTC Treasury Firm Remains In Nasdaq 100 Index](https://www.tradingview.com/news/zycrypto:09e23e601094b:0-strategy-snaps-up-1-billion-in-bitcoin-as-the-btc-treasury-firm-remains-in-nasdaq-100-index/)**
+**[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
 
-Michael Saylor’s Strategy is back in the business of acquiring large tranches of Bitcoin, announcing a purchase of nearly $1 billion worth of BTC.
-
-TradingView — Track All Markets • 1h ago
+The Block • 18m ago
 
 ---
 
-**[Bitcoin sees one-year low in active addresses, raising fresh concerns over blockspace demand](https://www.theblock.co/post/382585/bitcoin-year-low-active-addresses-concerns-blockspace-demand)**
+**[Billionaire Michael Saylor Announces New $1 Billion Bitcoin Purchase – Does He Know Something is Coming?](https://finance.yahoo.com/news/billionaire-michael-saylor-announces-1-133134376.html)**
 
-The Block • 1h ago
+Bitcoin bull Michael Saylor’s Strategy has doubled down on its long-standing conviction, announcing another massive Bitcoin buy worth nearly $1 billion. Key Takeaways: Strategy bought $980 million in Bitcoin, increasing its holdings to 671,268 BTC. The purchase was funded through stock sales The purchase comes after Strategy created a $1.44 ...
+
+Yahoo Finance • 7h ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqekvadHJ26yXvGAyAybYibLCHzVA5xYN_wxpdwK1x6k8XsaITFrnSy6&gaa_ts=69407986&gaa_sig=OeRp5g1k2qNuC4avwSBnAT2fTySI9K2WmDsVDf8qyNz-BlyH_tYYXAXHSTHQePx0vks4FXtUnJu5wKs4V3ImvA%3D%3D)**
+
+Barron's • 2h ago
 
 ---
 
@@ -185,14 +193,6 @@ CoinDesk • 8h ago
 
 ---
 
-**[Crypto winter could spur 'Darwinian phase' for digital asset treasury companies](https://finance.yahoo.com/news/crypto-winter-could-spur-darwinian-phase-for-digital-asset-treasury-companies-150010208.html)**
-
-Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
-
-Yahoo Finance • 12h ago
-
----
-
 **[Got Bitcoin or XRP? Do This 1 Thing Right Now or Risk Disaster.](https://www.fool.com/investing/2025/12/15/got-bitcoin-or-xrp-do-this-1-thing-right-now-or-ri/)**
 
 Sometimes you are the biggest risk to your portfolio's health.
@@ -201,23 +201,23 @@ The Motley Fool • 5h ago
 
 ---
 
-**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqdCRj-1CVGhsSR13_OzBL2WNQJJ4oo6hxyCe1Kybdn9LIxXMRnR2PIF&gaa_ts=69407090&gaa_sig=O6l9a3ghNUsFcdEAyyovj944G5tKEgz4Y78iKcxEgKF2ozwOVlXSvwVgO5qAHopzKwtVKU6a7RQPXy7qxZ26EA%3D%3D)**
+**[Bitcoin price today: subdued below $89k amid risk-off mood; key US data awaited](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-ticks-down-below-90k-amid-riskoff-mood-key-us-data-awaited-4407239)**
 
-Barron's • 2h ago
-
----
-
-**[Bitcoin Price Bleeds Below $89,000 After Grim Weekend](https://bitcoinmagazine.com/markets/bitcoin-price-bleeds-below-89000)**
-
-Bitcoin price slipped below $90,000 during typically thin Sunday trading, magnifying downside volatility as traders pulled back risk ahead of a heavy week of U.S. economic data.
-
-Bitcoin Magazine • 6h ago
+Investing.com • 13h ago
 
 ---
 
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqdJVxEqc4YcEGEq5YUabXyAgDeWUd_s8RB3qVMu8fsuZZFbCxn95c5u&gaa_ts=69407090&gaa_sig=hTxY35RPbqTW0CCXAjFaRgyGvymi2pSUxzmFqNwYMqkyQKSn98H-YoqHsGN7XrbxifJuJ6HodOCFyhM39GEkAQ%3D%3D)**
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqfbZdJv8Uj2nn3iKnFrl_40l813S6gkLkDRflb_w5NoTukjh8t_4FmM&gaa_ts=69407986&gaa_sig=EqgpNFvE6TwouOQtXv_4-utFBdOajol4YJk3LLCJHCbV7-e-wZNQQbYpG0ohh3CRHuTJVTUDhjgxpv7kQU7msg%3D%3D)**
 
 MarketWatch • 7h ago
+
+---
+
+**[Luke Gromen Turns Bearish, Warns Bitcoin Could Slide to $40K](https://bitbo.io/news/gromen-bitcoin-bearish-40k/)**
+
+Macro analyst Luke Gromen has adopted a near-term bearish stance on Bitcoin, citing macroeconomic shifts, technical weakness, and rising quantum risk narratives as reasons for a possible slide to $40,000 in 2026.
+
+Bitbo • 8h ago
 
 ---
 
@@ -245,7 +245,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 7h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 8h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 12h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 13h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
