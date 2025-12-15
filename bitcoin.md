@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T02:55:21.112128+00:00'
+updated: '2025-12-15T04:04:52.853508+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 02:55 UTC  
+**Last Updated:** December 15, 2025 at 04:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,909.00
+### $89,278.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -3.7%  
+**24h:** -0.6%  
+**7d:** -3.8%  
 **30d:** -5.1%  
 **90d:** -23.2%  
-**1y:** -15.5%  
+**1y:** -15.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1783.01B
+**Market Cap:** $1782.66B
 Rank #1
 
 **Circulating Supply:** 19,962,231 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.2%
 
 **All-Time Low:** $67.81
-+131622.5%
++131618.0%
 
 ---
 
@@ -79,25 +79,13 @@ Rank #1
 
 **[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
 
-5h ago
+6h ago
 
 ---
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-9h ago
-
----
-
-**[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
-
 10h ago
-
----
-
-**[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
-
-3h ago
 
 ---
 
@@ -105,13 +93,33 @@ Rank #1
 
 Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
 
-6h ago
+7h ago
+
+---
+
+**[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
+
+11h ago
+
+---
+
+**[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
+
+4h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-12h ago
+13h ago
+
+---
+
+**[Sold my brand new car for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pmu3n0/sold_my_brand_new_car_for_bitcoin/)**
+
+I just sold my 2024 Mustang that I bought brand new last year for $55,676 — ended up getting $31,500 for it. Honestly, I loved that car, but I decided it was time to let it go for something bigger. I’m putting the entire $31.5K into Bitcoin-related assets. I’m already invested around $75K in MSTR and MARA, and this sale gives me more dry powder to average in. I know it’s not a typical decision, but I’m 22 and I believe in where Bitcoin and the ecosystem are headed long term. My plan is to buy a Corvette with the profits — could be wrong, could be right. But I’d rather take the shot now than look back wishing I did. Let’s see where this journey goes 🚀 Added the bill too soo you guys know this isn’t a fake post
+
+3h ago
 
 ---
 
@@ -119,13 +127,13 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
 
-1h ago
+3h ago
 
 ---
 
 **[Not again 😩 No more dip](https://www.reddit.com/r/Bitcoin/comments/1pmsjz5/not_again_no_more_dip/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -133,13 +141,7 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 I have empty hands
 
-4h ago
-
----
-
-**[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
-
-22h ago
+5h ago
 
 ---
 
@@ -149,15 +151,23 @@ I have empty hands
 
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
-**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+**[Bitcoin Below $89K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
 
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-Forbes • 15h ago
+CoinDesk • 5h ago
+
+---
+
+**[Asia Morning Briefing: Bitcoin Drifts Near $89K as Traders Step Back and Balance Sheets Step In](https://www.coindesk.com/markets/2025/12/15/asia-morning-briefing-bitcoin-drifts-near-usd89k-as-traders-step-back-and-balance-sheets-step-in)**
+
+FlowDesk sees fading post-Fed demand and low leverage, while Glassnode data show digital asset treasuries quietly resuming bitcoin accumulation in a range-bound market.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -165,21 +175,13 @@ Forbes • 15h ago
 
 Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 1h ago
-
----
-
-**[Strategy Inc (MSTR) Stock News on Dec. 14, 2025: Nasdaq-100 Decision, MSCI Index Risk, Bitcoin Buys, and Wall Street Forecasts](https://ts2.tech/en/strategy-inc-mstr-stock-news-on-dec-14-2025-nasdaq-100-decision-msci-index-risk-bitcoin-buys-and-wall-street-forecasts/)**
-
-Strategy Inc (MSTR) Stock News on Dec. 14, 2025: Nasdaq-100 Decision, MSCI Index Risk, Bitcoin Buys, and Wall Street Forecasts - TechStock²
-
-ts2.tech • 7h ago
+Reuters • 2h ago
 
 ---
 
@@ -189,11 +191,17 @@ Investor's Business Daily • 2d ago
 
 ---
 
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100 By Reuters](https://www.investing.com/news/stock-market-news/bitcoin-hoarding-company-strategy-remains-in-nasdaq-100-4407140)**
+
+Investing.com • 2h ago
+
+---
+
 **[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://www.nasdaq.com/articles/which-cryptocurrency-has-more-upside-bitcoin-vs-cardano)**
 
 Key PointsCardano is approaching one of its largest-ever growth opportunities.
 
-Nasdaq • 8h ago
+Nasdaq • 9h ago
 
 ---
 
@@ -210,12 +218,6 @@ Bloomberg.com • 2d ago
 Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
 
 CoinDesk • 1d ago
-
----
-
-**[Key facts: Bitcoin ETFs see $237M inflows; Grayscale predicts 2026 high](https://www.tradingview.com/news/tradingview:c4734af0513af:0-key-facts-bitcoin-etfs-see-237m-inflows-grayscale-predicts-2026-high/)**
-
-TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -293,7 +295,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 1K • 💬 121 • ⏱️ 9:35 • 3h ago
+👁️ 15K • 👍 1K • 💬 121 • ⏱️ 9:35 • 4h ago
 
 ---
 
@@ -303,7 +305,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 1K • 💬 70 • ⏱️ 14:17 • 3h ago
+👁️ 9K • 👍 1K • 💬 70 • ⏱️ 14:17 • 4h ago
 
 ---
 
@@ -313,7 +315,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 66K • 👍 5K • 💬 383 • ⏱️ 17:53 • 11h ago
+👁️ 66K • 👍 5K • 💬 383 • ⏱️ 17:53 • 12h ago
 
 ---
 
@@ -323,7 +325,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 144 • ⏱️ 9:48 • 9h ago
+👁️ 22K • 👍 2K • 💬 144 • ⏱️ 9:48 • 11h ago
 
 ---
 
@@ -333,7 +335,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 11K • 👍 797 • 💬 64 • ⏱️ 3:56 • 9h ago
+👁️ 11K • 👍 797 • 💬 64 • ⏱️ 3:56 • 11h ago
 
 ---
 
@@ -343,7 +345,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 511 • 💬 96 • ⏱️ 3:45 • 6h ago
+👁️ 4K • 👍 511 • 💬 96 • ⏱️ 3:45 • 7h ago
 
 ---
 
@@ -353,7 +355,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 6K • 👍 318 • 💬 48 • ⏱️ 20:08 • 5h ago
+👁️ 6K • 👍 318 • 💬 48 • ⏱️ 20:08 • 7h ago
 
 ---
 
@@ -363,7 +365,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 336 • 💬 27 • ⏱️ 18:38 • 11h ago
+👁️ 7K • 👍 336 • 💬 27 • ⏱️ 18:38 • 12h ago
 
 ---
 
@@ -383,7 +385,7 @@ SHOCKING ANNOUNCEMENT FROM BLACKROCK! In a groundbreaking live speech, BlackRock
 
 📺 SELALUNASMR
 
-👁️ 13K • 👍 3K • 9h ago
+👁️ 13K • 👍 3K • 11h ago
 
 ---
 

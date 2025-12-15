@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T02:55:21.117378+00:00'
+updated: '2025-12-15T04:04:52.859629+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 02:55 UTC  
+**Last Updated:** December 15, 2025 at 04:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -6.0%  
-**30d:** +0.7%  
-**90d:** -32.0%  
-**1y:** -21.7%  
+**24h:** -0.1%  
+**7d:** -6.3%  
+**30d:** +0.3%  
+**90d:** -32.2%  
+**1y:** -22.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.46B
+**Market Cap:** $375.40B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-37.1%
 
 **All-Time Low:** $0.43
-+720489.2%
++718491.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
 
 ---
 
@@ -152,11 +152,27 @@ Hi, total crypto newbie here. I need some guidance and expert advice on the best
 
 ## Google News: "ethereum"
 
+**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
+
+The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
 Decrypt • 2d ago
+
+---
+
+**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
+
+Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -168,35 +184,19 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Ethereum Price Could Be Silently Nearing a Breakout, Here’s Why](https://finance.yahoo.com/news/ethereum-price-could-silently-nearing-183000491.html)**
-
-Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
-
-Yahoo Finance • 8h ago
-
----
-
 **[Ethereum Forms Wyckoff Breakout Setup: $10,000 Price Target Back In Focus](https://www.tradingview.com/news/newsbtc:fae39eed8094b:0-ethereum-forms-wyckoff-breakout-setup-10-000-price-target-back-in-focus/)**
 
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
+**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
 
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
+Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
 
-CoinDesk • 2d ago
-
----
-
-**[Key Hyperunit whale expands Ethereum position amid weak prices](https://www.fxstreet.com/cryptocurrencies/news/key-hyperunit-whale-expands-ethereum-position-amid-weak-prices-202512130434)**
-
-A major crypto whale has opened a long position in Ethereum (ETH) worth more than half a billion dollars on the Hyperliquid exchange.
-
-FXStreet • 1d ago
+BeInCrypto • 9h ago
 
 ---
 
@@ -208,25 +208,25 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
+**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
 
-Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
+The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
-Nasdaq • 15h ago
+CoinDesk • 2d ago
+
+---
+
+**[Firedancer is live, but Solana is violating the one safety rule Ethereum treats as non-negotiable](https://cryptoslate.com/firedancer-is-live-but-solana-is-violating-the-one-safety-rule-ethereum-treats-as-non-negotiable/)**
+
+Firedancer could start a new wave of adoption for Solana, especially from institutions that see a mitigated centralization risk from its validators.
+
+CryptoSlate • 7h ago
 
 ---
 
 **[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
 
-TipRanks • 16h ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-latest-news-analyst-forecasts-and-whats-driving-the-ethereum-treasury-trade-dec-12-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
-
-ts2.tech • 2d ago
+TipRanks • 17h ago
 
 ---
 
@@ -240,7 +240,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 6K • 👍 318 • 💬 48 • ⏱️ 20:08 • 5h ago
+👁️ 6K • 👍 318 • 💬 48 • ⏱️ 20:08 • 7h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 148 • 💬 4 • ⏱️ 8:04 • 10h ago
+👁️ 3K • 👍 148 • 💬 4 • ⏱️ 8:04 • 12h ago
 
 ---
 
@@ -260,7 +260,7 @@ We have covered the bull case extensively—the dividends, the MAVAN launch, and
 
 📺 Wall Street Stockcast
 
-👁️ 675 • 👍 28 • 💬 18 • ⏱️ 10:35 • 5h ago
+👁️ 675 • 👍 28 • 💬 18 • ⏱️ 10:35 • 6h ago
 
 ---
 
@@ -290,7 +290,7 @@ Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.pa
 
 📺 Thomas Boleto – Bitcoin Insights
 
-👁️ 37 • 👍 9 • 💬 1 • ⏱️ 15:33 • 51m ago
+👁️ 37 • 👍 9 • 💬 1 • ⏱️ 15:33 • 2h ago
 
 ---
 
@@ -320,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:34 • 22h ago
+👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:34 • 23h ago
 
 ---
 
