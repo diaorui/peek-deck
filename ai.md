@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T22:53:51.195454+00:00'
+updated: '2025-12-15T23:17:39.389919+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 22:53 UTC  
+**Last Updated:** December 15, 2025 at 23:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 RIP Copilot.
 
-🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 21h ago
+🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 22h ago
 
 ---
 
@@ -57,7 +57,7 @@ RIP Copilot.
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 7h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 8h ago
 
 ---
 
@@ -81,7 +81,7 @@ Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI 
 
 "And somehow he sort of mostly manages to pull off what appears to be impossible."
 
-🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 20h ago
+🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 21h ago
 
 ---
 
@@ -89,7 +89,7 @@ Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI 
 
 The Understanding AI guide to open-weight models.
 
-🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 4h ago
+🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 5h ago
 
 ---
 
@@ -153,7 +153,7 @@ CNBC • 6h ago
 
 Trump administration launches Tech Force program to recruit 1,000 technologists for AI modernization across federal agencies over two-year terms.
 
-Fox News • 57m ago
+Fox News • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Fox News • 57m ago
 
 New Gallup data shows a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025.
 
-Gallup • 17h ago
+Gallup • 18h ago
 
 ---
 
@@ -173,7 +173,7 @@ Axios • 8h ago
 
 **[More people using AI at work: Gallup](https://thehill.com/policy/technology/5650115-us-employees-ai-adoption/)**
 
-thehill.com • 16m ago
+thehill.com • 40m ago
 
 ---
 
@@ -197,7 +197,7 @@ thehill.com • 3h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 519 • 💬 862 • 22h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 519 • 💬 862 • 23h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -287,7 +287,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 36K • 👍 1K • 💬 145 • ⏱️ 12:07 • 23h ago
+👁️ 36K • 👍 1K • 💬 145 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -337,7 +337,7 @@ Which SORA AI Disney Trailer Should Be Made Into A Full Movie Next? #funny #funn
 
 📺 Bigfoot Feed
 
-👁️ 43K • 👍 616 • 💬 25 • ⏱️ 0:51 • 23h ago
+👁️ 43K • 👍 616 • 💬 25 • ⏱️ 0:51 • 1d ago
 
 ---
 
@@ -713,7 +713,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 865 • 🔱 49 • 9h ago
+⭐ 865 • 🔱 49 • 10h ago
 
 ---
 
@@ -723,7 +723,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 741 • 🔱 107 • 19h ago
+⭐ 741 • 🔱 107 • 20h ago
 
 ---
 

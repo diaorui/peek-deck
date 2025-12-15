@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T22:53:51.204065+00:00'
+updated: '2025-12-15T23:17:39.398404+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 22:53 UTC  
+**Last Updated:** December 15, 2025 at 23:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,077.21
+### $86,366.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -7.4%  
-**30d:** -8.7%  
-**90d:** -26.2%  
-**1y:** -18.8%  
+**24h:** -2.0%  
+**7d:** -6.9%  
+**30d:** -8.2%  
+**90d:** -25.8%  
+**1y:** -18.3%  
 
 ---
 
@@ -99,7 +99,7 @@ Are you still buying?
 
 **[Just doing my part. Dip = bought](https://www.reddit.com/r/Bitcoin/comments/1pnazib/just_doing_my_part_dip_bought/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -135,7 +135,7 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many times Bitcoin has been declared dead by critics and media, with the complete database of Bitcoin deaths.
 
-🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 2h ago
+🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 3h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg.com • 2h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 17h ago
 
 Bitcoin prices extended their decline this week, dragging closely correlated equities lower and pushing shares of Strategy (MSTR) down sharply during regular trading hours. Yet even as the stock slid more than 7% in a single session, one of the largest public pension funds in the United States quietly increased ...
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 53m ago
 
 Sometimes you are the biggest risk to your portfolio's health.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -203,13 +203,13 @@ The Block • 1d ago
 
 **[Legendary analyst warns of 80% Bitcoin ‘decay’](https://www.thestreet.com/crypto/markets/legendary-analyst-warns-of-80-bitcoin-decay)**
 
-thestreet.com • 5h ago
+thestreet.com • 6h ago
 
 ---
 
 **[Bitcoin price today: subdued below $89k amid risk-off mood; key US data awaited](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-ticks-down-below-90k-amid-riskoff-mood-key-us-data-awaited-4407239)**
 
-Investing.com • 15h ago
+Investing.com • 16h ago
 
 ---
 
@@ -217,7 +217,7 @@ Investing.com • 15h ago
 
 Macro analyst Luke Gromen has adopted a near-term bearish stance on Bitcoin, citing macroeconomic shifts, technical weakness, and rising quantum risk narratives as reasons for a possible slide to $40,000 in 2026.
 
-Bitbo • 9h ago
+Bitbo • 10h ago
 
 ---
 
@@ -245,7 +245,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 9h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 10h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -343,7 +343,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 157 • 💬 7 • ⏱️ 22:13 • 5h ago
+👁️ 2K • 👍 157 • 💬 7 • ⏱️ 22:13 • 6h ago
 
 ---
 
@@ -373,7 +373,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 42K • 👍 2K • 💬 617 • ⏱️ 9:39 • 21h ago
+👁️ 42K • 👍 2K • 💬 617 • ⏱️ 9:39 • 22h ago
 
 ---
 
