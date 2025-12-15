@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T18:30:43.719151+00:00'
+updated: '2025-12-15T18:57:42.519051+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 18:30 UTC  
+**Last Updated:** December 15, 2025 at 18:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Everything here is done in simulation — from perception to grasping and liftin
 
 IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-robotics/Reachy_Mini_Assembly_Guide
 
-2h ago
+3h ago
 
 ---
 
@@ -84,7 +84,7 @@ IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-
 
 Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
 
-13h ago
+14h ago
 
 ---
 
@@ -140,7 +140,7 @@ Fortune • 2d ago
 
 /PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
 
-PR Newswire • 18h ago
+PR Newswire • 19h ago
 
 ---
 
@@ -148,7 +148,7 @@ PR Newswire • 18h ago
 
 They make robot vacuums, lots of them
 
-The Verge • 9h ago
+The Verge • 10h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Verge • 9h ago
 
 iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private - TechStock²
 
-ts2.tech • 4h ago
+ts2.tech • 5h ago
 
 ---
 
@@ -164,7 +164,7 @@ ts2.tech • 4h ago
 
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -178,7 +178,7 @@ timesunion.com • 1d ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 13h ago
+InvestorPlace • 14h ago
 
 ---
 
@@ -210,7 +210,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 2K • 👍 95 • 💬 8 • ⏱️ 1:05 • 3h ago
+👁️ 2K • 👍 95 • 💬 8 • ⏱️ 1:05 • 4h ago
 
 ---
 

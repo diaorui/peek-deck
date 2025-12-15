@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T18:30:43.709550+00:00'
+updated: '2025-12-15T18:57:42.509812+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 18:30 UTC  
+**Last Updated:** December 15, 2025 at 18:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,787.04
+### $85,245.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.2%  
-**7d:** -7.6%  
-**30d:** -8.9%  
-**90d:** -26.3%  
-**1y:** -19.0%  
+**24h:** -3.0%  
+**7d:** -7.4%  
+**30d:** -8.7%  
+**90d:** -26.2%  
+**1y:** -18.8%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Are you still buying?
 
-2h ago
+3h ago
 
 ---
 
@@ -117,19 +117,19 @@ The French parliament just voted on an amendment forcing us to declare self-cust
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
 
-50m ago
+1h ago
 
 ---
 
 **[Time for the Monday Morning Manipulation](https://www.reddit.com/r/Bitcoin/comments/1pn9ek0/time_for_the_monday_morning_manipulation/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -171,7 +171,7 @@ Financial Times • 13h ago
 
 Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
 
-Yahoo Finance • 43m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 43m ago
 
 Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
 
-Bloomberg.com • 26m ago
+Bloomberg.com • 53m ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 26m ago
 
 Strategy sold over $80 million of STRD in a single week as its credit spread tightened, with data showing the largest weekly preferred issuance since the ATM program began.
 
-CoinDesk • 24m ago
+CoinDesk • 51m ago
 
 ---
 
@@ -203,7 +203,7 @@ The Motley Fool • 3h ago
 
 Bitcoin price slipped below $90,000 during typically thin Sunday trading, magnifying downside volatility as traders pulled back risk ahead of a heavy week of U.S. economic data.
 
-Bitcoin Magazine • 3h ago
+Bitcoin Magazine • 4h ago
 
 ---
 
@@ -249,7 +249,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 5h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 6h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -293,7 +293,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 10h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 11h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin is flashing a dangerous signal we've only seen a handful of times before
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 285 • 💬 6 • ⏱️ 1:02:20 • 1h ago
+👁️ 3K • 👍 285 • 💬 6 • ⏱️ 1:02:20 • 2h ago
 
 ---
 
@@ -347,7 +347,7 @@ Stay informed with the latest insights on **bitcoin today**, focusing on effecti
 
 📺 Krown
 
-👁️ 2K • 👍 150 • 3h ago
+👁️ 2K • 👍 150 • 4h ago
 
 ---
 
@@ -357,7 +357,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 40K • 👍 2K • 💬 580 • ⏱️ 9:39 • 17h ago
+👁️ 40K • 👍 2K • 💬 580 • ⏱️ 9:39 • 18h ago
 
 ---
 
@@ -367,7 +367,7 @@ Bitcoin what now? IT's LIKE STEROIDS: 5g Grows Muscle & Burns Fat! https://youtu
 
 📺 MMCrypto
 
-👁️ 21K • 👍 2K • 💬 222 • ⏱️ 3:50 • 7h ago
+👁️ 21K • 👍 2K • 💬 222 • ⏱️ 3:50 • 8h ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin is moving sideways as markets head into holiday mode, but major macro sh
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 1K • 💬 47 • ⏱️ 49:34 • 4h ago
+👁️ 12K • 👍 1K • 💬 47 • ⏱️ 49:34 • 5h ago
 
 ---
 

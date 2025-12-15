@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T18:30:43.715828+00:00'
+updated: '2025-12-15T18:57:42.515816+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 18:30 UTC  
+**Last Updated:** December 15, 2025 at 18:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,939.94
+### $2,910.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.3%  
-**7d:** -11.6%  
-**30d:** -5.4%  
-**90d:** -36.1%  
-**1y:** -26.4%  
+**24h:** -5.1%  
+**7d:** -11.4%  
+**30d:** -5.1%  
+**90d:** -35.9%  
+**1y:** -26.2%  
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 6h ago
 
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 1h ago
 
 Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
 
-Decrypt • 43m ago
+Decrypt • 1h ago
 
 ---
 
@@ -178,7 +178,7 @@ Decrypt • 43m ago
 
 Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -200,7 +200,7 @@ CCN.com • 5h ago
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 2h ago
+CryptoSlate • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 341 • 👍 49 • 💬 21 • ⏱️ 10:03 • 2h ago
+👁️ 341 • 👍 49 • 💬 21 • ⏱️ 10:03 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 168 • 💬 9 • ⏱️ 6:25 • 14h ago
+👁️ 3K • 👍 168 • 💬 9 • ⏱️ 6:25 • 15h ago
 
 ---
 
@@ -278,7 +278,7 @@ Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitte
 
 📺 The Blockchain Today
 
-👁️ 632 • 👍 74 • 💬 12 • ⏱️ 3:50 • 7h ago
+👁️ 632 • 👍 74 • 💬 12 • ⏱️ 3:50 • 8h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 10K • 👍 408 • 💬 149 • ⏱️ 20:08 • 21h ago
+👁️ 10K • 👍 408 • 💬 149 • ⏱️ 20:08 • 22h ago
 
 ---
 

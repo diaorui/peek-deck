@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T18:30:43.700910+00:00'
+updated: '2025-12-15T18:57:42.501404+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 18:30 UTC  
+**Last Updated:** December 15, 2025 at 18:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 4h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 5h ago
 
 ---
 
@@ -71,7 +71,7 @@ Now RAM prices are hitting record highs, because it's more profitable for manufa
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 3h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 4h ago
 
 ---
 
@@ -79,7 +79,7 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/watch?v=9O0djoqgasw
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ Also: All the news and watercooler chat from Fortune.
 
 "And somehow he sort of mostly manages to pull off what appears to be impossible."
 
-🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 16h ago
+🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 17h ago
 
 ---
 
@@ -103,7 +103,7 @@ Also: All the news and watercooler chat from Fortune.
 
 TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
 
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 18h ago
+🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 19h ago
 
 ---
 
@@ -111,7 +111,7 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
 
-9h ago
+10h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’ve been playing around with some AI video tools lately just to see what’s 
 
 A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Axios • 4h ago
 
 The health system's chief physician executive tells the story of 10,000 potentially critical findings available to radiologists within three minutes, more than 650 hours of read time efficiency gains, and much more.
 
-Healthcare IT News • 34m ago
+Healthcare IT News • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Healthcare IT News • 34m ago
 
 Sony’s internal enterprise artificial intelligence platform, which is powered by Amazon Web Services (AWS) AI services, is processing 150,000 inference
 
-PYMNTS.com • 21m ago
+PYMNTS.com • 48m ago
 
 ---
 
@@ -153,19 +153,19 @@ PYMNTS.com • 21m ago
 
 Investors should no longer ignore the ongoing AI boom.
 
-The Motley Fool • 25m ago
+The Motley Fool • 52m ago
 
 ---
 
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
 **[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqfJBZc68VyDZjtCelnUfKb-sIqyPADYrkIgRJleAAHxbr9LM23F2FRk&gaa_ts=6940573d&gaa_sig=byfRXtP60Ua72iBwhj2InWEfW-9eihLFlSVra6KjwePSfbSocuBI943Xp4V5ccwk8j7Toy_tDvBBQXgCBE5Z_Q%3D%3D)**
 
-The Wall Street Journal • 14h ago
+The Wall Street Journal • 15h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Economist • 1d ago
 
 The era of AI evangelism is giving way to evaluation. Stanford faculty see a coming year defined by rigor, transparency, and a long-overdue focus on actual utility over speculative promise.
 
-Stanford HAI • 4h ago
+Stanford HAI • 5h ago
 
 ---
 
@@ -221,7 +221,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 305 • 💬 302 • 18h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 305 • 💬 302 • 19h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -229,7 +229,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 251 • 💬 251 • 17h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 251 • 💬 251 • 18h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -293,7 +293,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 33K • 👍 1K • 💬 139 • ⏱️ 12:07 • 19h ago
+👁️ 33K • 👍 1K • 💬 139 • ⏱️ 12:07 • 20h ago
 
 ---
 
@@ -313,7 +313,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 542K • 👍 31K • 💬 3K • ⏱️ 11:22 • 15h ago
+👁️ 542K • 👍 31K • 💬 3K • ⏱️ 11:22 • 16h ago
 
 ---
 
@@ -527,7 +527,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 9 • 💬 1 • ⭐ 60 • 3d ago
+▲ 10 • 💬 1 • ⭐ 60 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -539,7 +539,7 @@ PersonaLive is a diffusion-based framework for real-time portrait animation that
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 19 • 💬 2 • ⭐ 12,310 • 7d ago
+▲ 20 • 💬 2 • ⭐ 12,310 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.5k • 🔱 2.4k • 9h ago
+⭐ 15.5k • 🔱 2.4k • 10h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.5k • 🔱 375 • 8h ago
+⭐ 3.5k • 🔱 375 • 9h ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 892 • 🔱 23 • 7d ago
+⭐ 892 • 🔱 23 • 8d ago
 
 ---
 
@@ -739,7 +739,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 707 • 🔱 109 • 3d ago
+⭐ 708 • 🔱 109 • 3d ago
 
 ---
 
