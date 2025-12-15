@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T17:05:01.460337+00:00'
+updated: '2025-12-15T17:37:19.931972+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - news
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 17:05 UTC  
+**Last Updated:** December 15, 2025 at 17:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ RIP Copilot.
 
 Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/watch?v=9O0djoqgasw
 
-1h ago
+2h ago
 
 ---
 
@@ -69,11 +69,17 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 ---
 
-**[Microsoft AI CEO Mustafa Suleyman opens up about his peers and calls Elon Musk a "bulldozer" with "superhuman capabilities to bend reality to his will"](https://www.reddit.com/r/artificial/comments/1pmvf41/microsoft_ai_ceo_mustafa_suleyman_opens_up_about/)**
+**[Anyone else notice how resources are slowly "stolen" from people and funneled to AI?](https://www.reddit.com/r/artificial/comments/1pncjtl/anyone_else_notice_how_resources_are_slowly/)**
 
-"And somehow he sort of mostly manages to pull off what appears to be impossible."
+Now RAM prices are hitting record highs, because it's more profitable for manufacturers to sell specialized RAM to data centers than it is to you. Other chips overpriced too. Electricity price is ramping up, since tech giants need more and more of it, and are willing to pay higher and higher prices - more than you for sure. What's next, drinking water? Air? It's like reality is being warped by AI instead of people.
 
-🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 15h ago
+38m ago
+
+---
+
+**[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.reddit.com/r/artificial/comments/1pnbr3t/google_ai_summaries_are_ruining_the_livelihoods/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion) • 1h ago
 
 ---
 
@@ -81,13 +87,15 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 Also: All the news and watercooler chat from Fortune.
 
-🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 35m ago
+🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 1h ago
 
 ---
 
-**[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.reddit.com/r/artificial/comments/1pnbr3t/google_ai_summaries_are_ruining_the_livelihoods/)**
+**[Microsoft AI CEO Mustafa Suleyman opens up about his peers and calls Elon Musk a "bulldozer" with "superhuman capabilities to bend reality to his will"](https://www.reddit.com/r/artificial/comments/1pmvf41/microsoft_ai_ceo_mustafa_suleyman_opens_up_about/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion) • 36m ago
+"And somehow he sort of mostly manages to pull off what appears to be impossible."
+
+🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 15h ago
 
 ---
 
@@ -107,43 +115,47 @@ I’ve been playing around with some AI video tools lately just to see what’s 
 
 ---
 
-**[How researchers are teaching AI agents to ask for permission the right way](https://www.reddit.com/r/artificial/comments/1pn3aig/how_researchers_are_teaching_ai_agents_to_ask_for/)**
-
-People are starting to hand more decisions to AI agents, from booking trips to sorting digital files. The idea sounds simple. Tell the agent what you want, then let it work through the steps. The hard part is what the agent does with personal data along the way. A new research study digs into this problem, and asks a basic question. How should an AI agent know when to use someone’s data without asking every time?
-
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 7h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
+**[Trump admin to hire 1,000 specialists for 'Tech Force' to build AI, finance projects](https://www.cnbc.com/2025/12/15/trump-ai-tech-force-amazon-apple.html)**
+
+A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
+
+CNBC • 1h ago
+
+---
+
 **[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
 
-Axios • 11h ago
+Axios • 3h ago
 
 ---
 
-**[Elon Musk say that money will 'disappear' as AI makes work (and salaries) irrelevant](https://fortune.com/2025/12/15/billionaire-elon-musk-say-that-money-will-disappear-in-the-future-as-ai-makes-work-and-salaries-irrelevant-sorry-six-figure-earners/)**
+**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-If Elon Musk is right, your six-figure salary—and every savings and investment you’ve built—could be irrelevant within a few decades.
-
-Fortune • 3h ago
+The New York Times • 1h ago
 
 ---
 
-**[Nvidia buys AI software provider SchedMD to expand open-source AI push](https://www.reuters.com/business/nvidia-buys-ai-software-provider-schedmd-expand-open-source-ai-push-2025-12-15/)**
+**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqdj-mLXa9ebK9ToC8DjpSRqwKjkpeynjYaorlN8hfs1sbXCJ5qtB-tL&gaa_ts=69404ab0&gaa_sig=h4ACAToFjgEEAXnskmqG2MvIPCBOAv1LhxgCCWaRuP52sKXusmmr0OwjzLT52LD27aEz7FROe4mQ0VjBFwVaMA%3D%3D)**
 
-Reuters • 28m ago
+The Wall Street Journal • 13h ago
 
 ---
 
-**[ABA task force assesses AI's 'opportunities and challenges' in new report](https://www.abajournal.com/news/article/aba-task-force-assesses-ais-opportunities-and-challenges-in-new-report)**
+**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
 
-A new report from the ABA Task Force on Law and Artificial Intelligence explores artificial intelligence’s impact on the legal profession and provides resources to help lawyers and judges continue to navigate the complex and rapidly changing technology.
+The Economist • 1d ago
 
-ABA Journal • 41m ago
+---
+
+**[Nvidia buys AI software provider SchedMD to expand open-source AI push](https://finance.yahoo.com/news/nvidia-buys-ai-software-provider-163639653.html)**
+
+Nvidia said on Monday it acquired AI software firm SchedMD, as the chip designer doubles down on open-source ​technology and steps up investments in the artificial intelligence ecosystem ‌to fend off rising competition.  The chip designer built its reputation on speedy chips, but it ‌also offers a range of its own AI models, from physics simulations to self-driving vehicles, as open-source software that researchers and companies can use.  Nvidia said it would continue to distribute SchedMD's software on an open-source basis.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -151,19 +163,7 @@ ABA Journal • 41m ago
 
 The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
 
-CNN • 35m ago
-
----
-
-**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqeHq67nL1GxA6nbXFxebWnB5TAg_c2zkOot41xa1XF-rEglVcbKFwqh&gaa_ts=69403e24&gaa_sig=5JoEtYNthxdDlbXM28XnduoHHXrx-7d7uUDgTsN9aN0mMpj80_lVq5OVn9OUZvHZ03s9sJErLDq90dNbZ-ebyA%3D%3D)**
-
-The Wall Street Journal • 19h ago
-
----
-
-**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
-
-The Economist • 1d ago
+CNN • 1h ago
 
 ---
 
@@ -175,11 +175,11 @@ The Guardian • 2h ago
 
 ---
 
-**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
+**[Survey finds a growing gap between AI enthusiasm and performance](https://www.businessreport.com/article/survey-finds-a-growing-gap-between-ai-enthusiasm-and-performance)**
 
-Four ways to think about this year's reckoning
+Despite uneven results so far, corporate leaders are doubling down on artificial intelligence, The Wall Street Journal writes.  Nearly seven in 10 CEOs plan to increase AI spending in 2026, even though fewer than half say their current projects have delivered returns that exceed costs, according to a new global survey by advisory firm Teneo.  […]
 
-MIT Technology Review • 7h ago
+Baton Rouge Business Report • 1h ago
 
 ---
 
@@ -199,13 +199,13 @@ The Atlantic • 1d ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 531 • 💬 288 • 2d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 533 • 💬 288 • 2d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 448 • 💬 448 • 2d ago
+⬆️ 448 • 💬 449 • 2d ago
 
 ---
 
@@ -213,7 +213,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 367 • 💬 581 • 16h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 389 • 💬 623 • 17h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -221,7 +221,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 278 • 💬 277 • 17h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 293 • 💬 290 • 17h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -229,7 +229,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 242 • 💬 247 • 16h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 246 • 💬 250 • 17h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -237,7 +237,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 242 • 💬 111 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 243 • 💬 111 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -245,7 +245,7 @@ Some (well-known) consequences of AI automating work
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 149 • 💬 214 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 150 • 💬 214 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -253,7 +253,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 133 • 💬 90 • 1d ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 135 • 💬 90 • 1d ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -261,7 +261,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 82 • 💬 129 • 2d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 82 • 💬 130 • 2d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -269,7 +269,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 Brian Merchant has been collecting personal stories for his series AI Killed My Job - previously covering tech workers, translators, and artists - and this latest piece includes anecdotes from …
 
-⬆️ 78 • 💬 89 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
+⬆️ 79 • 💬 89 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
 
 ---
 
@@ -323,7 +323,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 68K • 👍 3K • 💬 401 • ⏱️ 20:44 • 16h ago
+👁️ 68K • 👍 3K • 💬 401 • ⏱️ 20:44 • 17h ago
 
 ---
 
@@ -389,7 +389,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 286,283 • ❤️ 2,742 • 7d ago
+⬇️ 286,283 • ❤️ 2,745 • 7d ago
 
 ---
 
@@ -401,7 +401,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 84,213 • ❤️ 436 • 5d ago
+⬇️ 84,213 • ❤️ 437 • 5d ago
 
 ---
 
@@ -413,7 +413,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 142,846 • ❤️ 851 • 3d ago
+⬇️ 142,846 • ❤️ 852 • 3d ago
 
 ---
 
@@ -425,7 +425,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 21,397 • ❤️ 349 • 1d ago
+⬇️ 21,397 • ❤️ 350 • 1d ago
 
 ---
 
@@ -485,7 +485,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 198 • 4d ago
+⬇️ 0 • ❤️ 201 • 4d ago
 
 ---
 
@@ -497,7 +497,7 @@ AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent 
 
 `image-text-to-text` `934,400`
 
-⬇️ 7,541 • ❤️ 169 • 6d ago
+⬇️ 7,541 • ❤️ 171 • 6d ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.5k • 🔱 372 • 7h ago
+⭐ 3.5k • 🔱 372 • 8h ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 24m ago
+⭐ 1.1k • 🔱 137 • 56m ago
 
 ---
 
@@ -719,7 +719,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 864 • 🔱 49 • 3h ago
+⭐ 864 • 🔱 49 • 4h ago
 
 ---
 

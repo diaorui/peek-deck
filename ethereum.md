@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T17:05:01.475379+00:00'
+updated: '2025-12-15T17:37:19.944898+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 17:05 UTC  
+**Last Updated:** December 15, 2025 at 17:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,991.23
+### $2,973.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.7%  
-**7d:** -9.9%  
-**30d:** -3.5%  
-**90d:** -35.1%  
-**1y:** -25.0%  
+**24h:** -4.8%  
+**7d:** -10.8%  
+**30d:** -4.4%  
+**90d:** -35.4%  
+**1y:** -25.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.29B
+**Market Cap:** $358.91B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-40.2%
 
 **All-Time Low:** $0.43
-+688275.2%
++683240.3%
 
 ---
 
@@ -73,6 +73,14 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 11h ago
+
+---
+
+**[Best way to buy Ethereum for long-term holding? Need advice](https://www.reddit.com/r/ethereum/comments/1pncxqo/best_way_to_buy_ethereum_for_longterm_holding/)**
+
+I’ve never bought ETH before, but I’m thinking of getting some exposure now. I know the basics, I just want to buy ETH and move it to self-custody, hardware wallet, cold storage, the works. Plan is to buy and hold long term. Now I’m confused about the best approach. Some exchanges have crazy fees, others don’t allow ETH purchases, and I’ve read horror stories of accounts getting frozen on Binance. I want a safe, hassle-free way to buy ETH and make sure I can move it securely to my own wallet.
+
+25m ago
 
 ---
 
@@ -140,21 +148,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Storing USDT on ERC-20 vs TRC-20](https://www.reddit.com/r/ethereum/comments/1pk11zp/storing_usdt_on_erc20_vs_trc20/)**
-
-Hi, total crypto newbie here. I need some guidance and expert advice on the best way to approach my financial needs. Context: I live in a developing country, and I am in desperate need of financial freedom. I started looking into stablecoins, especially USDT. I am not really looking into trading. My use case: Relative or friend in europe, they buy USDT on Binance or any other exchange platform, send that USDT to my Trust wallet. I store it, and occasionally send some pocket money to Redotpay to spend using their virtual visa card. That is pretty much about it. Storing it and spending with Redotpay. Not super interested in p2p market. So i dont think i will need to sell my USDT that often, almost never. So the market standard for p2p transactions isnt really a big concern. Might be interested in trading one day, but not for now. This is just for my personal finances and spending. The question I need help with: Should I use Ethereum or Tron. My findings with the research I did: Tron has cheaper gas fee, for when I transfer to Redotpay. But apparently Eth have dropped their transfer rates for USDT, and a lot of people claim it is around the same price now. Because the numbers I found are a little worrying: around 1 USD for Tron and between 3-8 USD for Eth. If you have any information about the rates that would be great. I am more inclined towards Eth to be fair. I just like the idea of a trully decentralized chain. And it has been king over a decade for good reasons. Also it is more secure. With the new EIP-7702 on Eth, you can now pay gas fee for transfers with USDT, which is very interesting, as I am not very comfortable with juggling two currencies. Since per my understanding, I need to always have TRX reserve in my Trust wallet to be able to send to Redotpay. Are the fees really that different to justify skipping on EIP-7702 ? Some people mentioned using an L2 on Eth. I honestly have no idea what that is. If i have got any concepts misunderstood, I would appreciate any clarifications and guidance. I still got a lot to learn about this field.
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-The Block • 4h ago
+The Block • 5h ago
+
+---
+
+**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
+
+The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
+
+CoinDesk • 3h ago
 
 ---
 
@@ -166,6 +174,14 @@ CoinDesk • 3h ago
 
 ---
 
+**[Why Did The Bitcoin, Ethereum, And XRP Prices Crash, And Will It Continue?](https://www.tradingview.com/news/newsbtc:a8f6b7e64094b:0-why-did-the-bitcoin-ethereum-and-xrp-prices-crash-and-will-it-continue/)**
+
+Crypto pundit Crypto Wimar has explained why the Bitcoin, Ethereum, and XRP prices crashed, highlighting the continuous selling pressure. The crypto market is also at risk of further downward pressure due to macro factors such as the impending Japan rate hike. Why The Bitcoin, Ethereum, And XRP Pri…
+
+TradingView — Track All Markets • 2h ago
+
+---
+
 **[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
 
 Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
@@ -174,25 +190,17 @@ Nasdaq • 1d ago
 
 ---
 
-**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
-
-The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Why Did The Bitcoin, Ethereum, And XRP Prices Crash, And Will It Continue?](https://www.tradingview.com/news/newsbtc:a8f6b7e64094b:0-why-did-the-bitcoin-ethereum-and-xrp-prices-crash-and-will-it-continue/)**
-
-Crypto pundit Crypto Wimar has explained why the Bitcoin, Ethereum, and XRP prices crashed, highlighting the continuous selling pressure. The crypto market is also at risk of further downward pressure due to macro factors such as the impending Japan rate hike. Why The Bitcoin, Ethereum, And XRP Pri…
-
-TradingView — Track All Markets • 1h ago
-
----
-
 **[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
 
 CCN.com • 4h ago
+
+---
+
+**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://decrypt.co/352365/tom-lees-bitmine-keeps-buying-ethereum-adding-320-million-eth-treasury)**
+
+Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
+
+Decrypt • 1h ago
 
 ---
 
@@ -204,27 +212,19 @@ AMBCrypto • 1d ago
 
 ---
 
+**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
+
+Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
+
+BeInCrypto • 23h ago
+
+---
+
 **[Crypto Today: Bitcoin nears $90K, Ethereum and XRP face key hurdles](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trade-under-pressure-amid-mixed-retail-and-technical-signals-202512151200)**
 
 Bitcoin (BTC) is advancing toward $90,000 at the time of writing on Monday, as the broader cryptocurrency market pushes for recovery following last week’s monetary policy-triggered headwinds.
 
 FXStreet • 5h ago
-
----
-
-**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
-
-Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
-
-BeInCrypto • 22h ago
-
----
-
-**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
-
-The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
-
-CoinDesk • 2h ago
 
 ---
 
@@ -248,7 +248,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 1K • 👍 109 • 55m ago
+👁️ 1K • 👍 109 • 1h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 168 • 💬 9 • ⏱️ 6:25 • 13h ago
+👁️ 3K • 👍 168 • 💬 9 • ⏱️ 6:25 • 14h ago
 
 ---
 
@@ -288,7 +288,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 2K • 💬 413 • ⏱️ 9:35 • 17h ago
+👁️ 56K • 👍 2K • 💬 413 • ⏱️ 9:35 • 18h ago
 
 ---
 
@@ -308,7 +308,7 @@ History doesn't repeat, but it often rhymes. And right now, the Ethereum chart i
 
 📺 Wall Street Stockcast
 
-👁️ 250 • 👍 13 • 💬 22 • ⏱️ 29:53 • 2h ago
+👁️ 250 • 👍 13 • 💬 22 • ⏱️ 29:53 • 3h ago
 
 ---
 

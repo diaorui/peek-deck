@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T17:05:01.469226+00:00'
+updated: '2025-12-15T17:37:19.939542+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 17:05 UTC  
+**Last Updated:** December 15, 2025 at 17:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,258.79
+### $86,024.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -7.0%  
-**30d:** -8.3%  
-**90d:** -25.8%  
-**1y:** -18.4%  
+**24h:** -3.5%  
+**7d:** -7.7%  
+**30d:** -9.0%  
+**90d:** -26.4%  
+**1y:** -19.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1724.68B
+**Market Cap:** $1720.30B
 Rank #1
 
-**Circulating Supply:** 19,962,443 BTC
+**Circulating Supply:** 19,962,465 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.6%
+-31.9%
 
 **All-Time Low:** $67.81
-+127137.9%
++126453.6%
 
 ---
 
@@ -89,21 +89,13 @@ Are you still buying?
 
 Buy some bitcoin and store it.
 
-2h ago
+3h ago
 
 ---
 
 **[The best ever gift to receive? what have u done if u had got this gift](https://www.reddit.com/r/Bitcoin/comments/1pn7aw1/the_best_ever_gift_to_receive_what_have_u_done_if/)**
 
-3h ago
-
----
-
-**[[France] Gov mandates declaring Cold Wallets >€5k. Need privacy strategy](https://www.reddit.com/r/Bitcoin/comments/1pn1cj8/france_gov_mandates_declaring_cold_wallets_5k/)**
-
-The French parliament just voted on an amendment forcing us to declare self-custody wallets (Ledger/Trezor) to the tax authorities if they hold more than €5,000. This effectively builds a massive centralized honeypot linking real identities to home addresses and exact holdings, which is a massive security risk and a wrench attack nightmare. ​I'm urgently looking for technical strategies to protect my privacy here. I need to know if "structuring" by splitting the stack into multiple sub-€5k wallets is a viable way to bypass the threshold, or if I should be looking into CoinJoin/Whirlpool to sever the link from my KYC exchange history before moving to fresh storage. I'm also trying to understand how they could possibly enforce this without me voluntarily doxxing my XPUB, so I'm curious if non-compliance is the general consensus. Any advice on keeping my stack off this registry would be appreciated.
-
-9h ago
+4h ago
 
 ---
 
@@ -111,7 +103,15 @@ The French parliament just voted on an amendment forcing us to declare self-cust
 
 The bitcoin manipulation is wild esp with Saylor’s buys. He buys almost a billion and the price crashes what am I missing? #btc
 
-1h ago
+2h ago
+
+---
+
+**[[France] Gov mandates declaring Cold Wallets >€5k. Need privacy strategy](https://www.reddit.com/r/Bitcoin/comments/1pn1cj8/france_gov_mandates_declaring_cold_wallets_5k/)**
+
+The French parliament just voted on an amendment forcing us to declare self-custody wallets (Ledger/Trezor) to the tax authorities if they hold more than €5,000. This effectively builds a massive centralized honeypot linking real identities to home addresses and exact holdings, which is a massive security risk and a wrench attack nightmare. ​I'm urgently looking for technical strategies to protect my privacy here. I need to know if "structuring" by splitting the stack into multiple sub-€5k wallets is a viable way to bypass the threshold, or if I should be looking into CoinJoin/Whirlpool to sever the link from my KYC exchange history before moving to fresh storage. I'm also trying to understand how they could possibly enforce this without me voluntarily doxxing my XPUB, so I'm curious if non-compliance is the general consensus. Any advice on keeping my stack off this registry would be appreciated.
+
+10h ago
 
 ---
 
@@ -121,17 +121,17 @@ The bitcoin manipulation is wild esp with Saylor’s buys. He buys almost a bill
 
 ---
 
+**[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
+
+1h ago
+
+---
+
 **[Bitcoin Hashrate Slumps as Xinjiang Mining Centres Appear to Go Dark](https://www.reddit.com/r/Bitcoin/comments/1pn5xmn/bitcoin_hashrate_slumps_as_xinjiang_mining/)**
 
 Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 4h ago
-
----
-
-**[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
-
-19h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 5h ago
 
 ---
 
@@ -141,25 +141,15 @@ Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
 ---
 
-**[21 Million Bitcoin will end Banks creating money out of thin air](https://www.reddit.com/r/Bitcoin/comments/1pn5l4e/21_million_bitcoin_will_end_banks_creating_money/)**
+**[Just doing my part. Dip = bought](https://www.reddit.com/r/Bitcoin/comments/1pnazib/just_doing_my_part_dip_bought/)**
 
-Now banks aren't even required to have reserve deposits! In the United States, as of December 2025, the required reserve ratio for depository institutions (including commercial banks, savings banks, credit unions, and others) is 0%. The Federal Reserve Board set reserve requirement ratios to zero percent effective March 26, 2020, in response to economic conditions, and this policy remains in effect with no announced plans to reinstate them.
-
-5h ago
+1h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Strategy Buys Almost $1 Billion in Bitcoin Again in Past Week](https://www.bloomberg.com/news/articles/2025-12-15/strategy-buys-almost-1-billion-in-bitcoin-again-in-past-week)**
-
-Michael Saylor’s Strategy Inc. acquired almost $1 billion in Bitcoin for a second consecutive week, as the original digital asset treasury company continues to ramp up purchases following the recent pullback in the price of the largest cryptocurrency.
-
-Bloomberg.com • 1h ago
-
----
 
 **[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
@@ -169,33 +159,49 @@ Financial Times • 12h ago
 
 ---
 
-**[Bitcoin (BTC) Price News: U.S. Hours Tumble Below $87K](https://www.coindesk.com/markets/2025/12/15/bitcoin-plunges-below-usd87k-as-crypto-weakness-persists-ether-below-usd3k)**
+**[Strategy Buys Almost $1 Billion in Bitcoin Again in Past Week](https://www.bloomberg.com/news/articles/2025-12-15/strategy-buys-almost-1-billion-in-bitcoin-again-in-past-week)**
 
-The curse of the U.S. trading session — in which bitcoin tends to fall as American stocks trade — has hit yet again.
+Michael Saylor’s Strategy Inc. acquired almost $1 billion in Bitcoin for a second consecutive week, as the original digital asset treasury company continues to ramp up purchases following the recent pullback in the price of the largest cryptocurrency.
 
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin Price Slips Below $90,000, XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqduJe_uB-o-IrDsL-dkiWuLAXw66GhMZXquuy1DN1j6TXndICsvORDB&gaa_ts=69403e26&gaa_sig=soxvk2-iZOkr_aY3aeatkpmlWWuC64wx4Nip4v6BlqE9ySshcwOoZdpo3_I9z5Qx4Tt00vTs0tn3Mg5TS_XIbA%3D%3D)**
-
-Barron's • 6h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Crypto winter could spur 'Darwinian phase' for digital asset treasury companies](https://finance.yahoo.com/news/crypto-winter-could-spur-darwinian-phase-for-digital-asset-treasury-companies-150010208.html)**
+**[Strategy (MSTR) Acquired 10,645 Bitcin (BTC) Last Week](https://www.coindesk.com/markets/2025/12/15/michael-saylor-s-strategy-made-second-consecutive-usd1b-bitcoin-purchase-last-week)**
 
-Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
+Despite the continued struggles of its share price, Strategy again funded the purchase mostly via sales of common stock
 
-Yahoo Finance • 8h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin Price Bleeds Below $89,000 After Grim Weekend](https://bitcoinmagazine.com/markets/bitcoin-price-bleeds-below-89000)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqf20xltAYfmypHHL2vZ0BSzp2B0bhzXE4LQINqVByYtk4sEAkwx4NsH&gaa_ts=69404ab2&gaa_sig=FIj3sjfI0WAiaroP9TowaYw2caBO_CjUevsL0wI99GQiqwryIyZ3R14uoCtE2FSuutBATC5JrHyiW6dhRKZtdQ%3D%3D)**
 
-Bitcoin price slipped below $90,000 during typically thin Sunday trading, magnifying downside volatility as traders pulled back risk ahead of a heavy week of U.S. economic data.
+Barron's • 1h ago
 
-Bitcoin Magazine • 2h ago
+---
+
+**[Bitcoin creator Satoshi disappeared on this day 15 years ago, leaving a final public message — 'I've moved on to other things,' true identity of Satoshi Nakamoto entity remains unknown](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)**
+
+Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
+
+Tom's Hardware • 2d ago
+
+---
+
+**[BTC Hashrate Sees Sharpest Post Halving Drop Since 2024 Amid China Machine Shutdowns](https://www.coindesk.com/markets/2025/12/15/bitcoin-hashrate-sees-sharpest-post-halving-drop-since-2024-amid-china-mining-machine-shutdowns)**
+
+Roughly 400,000 bitcoin mining machines shut down in China, according to former Canaan chairman.
+
+CoinDesk • 18m ago
+
+---
+
+**[Bitcoin Hash Rate Falls by Most Since 2024 Halving, and China May Be Reason](https://www.tradingview.com/news/u_today:e910b4102094b:0-bitcoin-hash-rate-falls-by-most-since-2024-halving-and-china-may-be-reason/)**
+
+As was recently revealed by Matthew Sigel, Head of Digital Asset Research at VanEck, Bitcoin's hash rate has fallen by about 100 EH/s, what makes it the steepest drawdown since the 2024 halving event. With current total network hash rate estimated at 1,200-1,300 EH/s under prevailing difficulty, th…
+
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -207,23 +213,17 @@ The Motley Fool • 2h ago
 
 ---
 
-**[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
+**[Prediction: Bitcoin Will Be Worth $270,000 in 5 Years](https://finance.yahoo.com/news/prediction-bitcoin-worth-270-000-125000463.html)**
 
-The Block • 19h ago
+Despite its impressive long-term trajectory, Bitcoin remains a polarizing asset.
 
----
-
-**[Bitcoin May Be Repeating 1929 Great Depression, Top Bloomberg Strategist Warns](https://www.tradingview.com/news/u_today:4cd76d412094b:0-bitcoin-may-be-repeating-1929-great-depression-top-bloomberg-strategist-warns/)**
-
-In a recent post, Bloomberg Intelligence’s senior macro strategist Mike McGlone drew a direct parallel between the Bloomberg Galaxy Crypto Index in 2025 and the Dow in 1929, calling the setup "Peak Bitcoin?" and framing the current phase as the early stage of a purge, not a pause — a purge similar…
-
-TradingView — Track All Markets • 1h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqdW0k_2naUFlOcZP6aAWrSPoaOrLCx-KTY-kkzOKw8S7UyG7UDj0p_9&gaa_ts=69403e26&gaa_sig=BXBSnv2fRtuSfAESIqgl_RIdDDuHPx6xWEDG2HJMhhbuKUvaH2_3EugdszIKTaC9IWQLXyO_-DtMS25XrLt5ZA%3D%3D)**
+**[Bitcoin Price Slips Below $90,000, XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqe6wyrjtX31Lj_9RWOai8Acvsvi9EPY04ujuysxuamRliYYkHJEB2SH&gaa_ts=69404ab2&gaa_sig=iVu2hSWzmWd3mRg911nIHtmad5bkbdPGhDcfvOTlJsaCb_CIliR4Zj_lpPFarOlxb7fK7JvytBzpqPnbCyfdHQ%3D%3D)**
 
-MarketWatch • 3h ago
+Barron's • 6h ago
 
 ---
 
@@ -235,7 +235,7 @@ MarketWatch • 3h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 7 • 💬 3 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 7 • 💬 3 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -275,7 +275,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 5d ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning wheth
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 680 • 💬 107 • ⏱️ 1:05:55 • 1h ago
+👁️ 8K • 👍 680 • 💬 107 • ⏱️ 1:05:55 • 2h ago
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin is flashing a dangerous signal we've only seen a handful of times before
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 285 • 💬 6 • ⏱️ 1:02:20 • 27m ago
+👁️ 3K • 👍 285 • 💬 6 • ⏱️ 1:02:20 • 59m ago
 
 ---
 
@@ -329,7 +329,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 2K • 💬 413 • ⏱️ 9:35 • 17h ago
+👁️ 56K • 👍 2K • 💬 413 • ⏱️ 9:35 • 18h ago
 
 ---
 
@@ -339,7 +339,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 2K • 💬 192 • ⏱️ 14:17 • 17h ago
+👁️ 40K • 👍 2K • 💬 192 • ⏱️ 14:17 • 18h ago
 
 ---
 
@@ -369,7 +369,7 @@ Bitcoin what now? IT's LIKE STEROIDS: 5g Grows Muscle & Burns Fat! https://youtu
 
 📺 MMCrypto
 
-👁️ 21K • 👍 2K • 💬 222 • ⏱️ 3:50 • 6h ago
+👁️ 21K • 👍 2K • 💬 222 • ⏱️ 3:50 • 7h ago
 
 ---
 
