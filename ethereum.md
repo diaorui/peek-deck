@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T21:43:28.391870+00:00'
+updated: '2025-12-15T21:54:31.863890+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 21:43 UTC  
+**Last Updated:** December 15, 2025 at 21:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.4%  
-**7d:** -11.5%  
-**30d:** -5.2%  
-**90d:** -36.0%  
-**1y:** -26.3%  
+**24h:** -4.1%  
+**7d:** -11.2%  
+**30d:** -4.9%  
+**90d:** -35.8%  
+**1y:** -26.0%  
 
 ---
 
@@ -96,7 +96,7 @@ I’ve never bought ETH before, but I’m thinking of getting some exposure now.
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 1h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 9h ago
 
 Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 3h ago
 
 A mix of macro and token-specific factors are pushing investors away from Ethereum and toward other assets.
 
-The Motley Fool • 24m ago
+The Motley Fool • 35m ago
 
 ---
 
@@ -258,7 +258,7 @@ Cathie Wood talks cryptocurrency investment and we cover today's Bittensor halvi
 
 📺 Altcoin Buzz
 
-👁️ 224 • 👍 24 • 💬 4 • ⏱️ 11:56 • 30m ago
+👁️ 224 • 👍 24 • 💬 4 • ⏱️ 11:56 • 41m ago
 
 ---
 
@@ -288,7 +288,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 69 • 👍 6 • 💬 1 • ⏱️ 7:19 • 20m ago
+👁️ 69 • 👍 6 • 💬 1 • ⏱️ 7:19 • 32m ago
 
 ---
 
@@ -318,7 +318,7 @@ Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitte
 
 📺 The Blockchain Today
 
-👁️ 906 • 👍 85 • 💬 12 • ⏱️ 3:50 • 10h ago
+👁️ 906 • 👍 85 • 💬 12 • ⏱️ 3:50 • 11h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T21:43:28.385855+00:00'
+updated: '2025-12-15T21:54:31.857649+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 21:43 UTC  
+**Last Updated:** December 15, 2025 at 21:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,8 +45,8 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -2.7%  
-**7d:** -7.3%  
-**30d:** -8.6%  
+**7d:** -7.4%  
+**30d:** -8.7%  
 **90d:** -26.1%  
 **1y:** -18.7%  
 
@@ -133,7 +133,7 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 **[Ah Shit. Here we go again](https://www.reddit.com/r/Bitcoin/comments/1pnau8j/ah_shit_here_we_go_again/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 16h ago
 
 Bitcoin (BTC-USD) has fallen below $86,000 on Monday as 2025 draws to a close. Yahoo Finance Senior Reporter Ines Ferré outlines the cryptocurrency's year-to-date decline as metals, like gold (GC=F), silver (SI=F), and copper (HG=F), continue to surge. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 50m ago
 
 Bitcoin's recent price decline has picked up steam in recent weeks.
 
-The Motley Fool • 40m ago
+The Motley Fool • 51m ago
 
 ---
 
@@ -247,7 +247,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 8h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 9h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -291,7 +291,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 13h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 14h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 

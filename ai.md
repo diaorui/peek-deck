@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T21:43:28.377403+00:00'
+updated: '2025-12-15T21:54:31.848759+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 21:43 UTC  
+**Last Updated:** December 15, 2025 at 21:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 7h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 8h ago
 
 ---
 
@@ -79,7 +79,7 @@ RIP Copilot.
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 6h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 7h ago
 
 ---
 
@@ -103,7 +103,7 @@ Also: All the news and watercooler chat from Fortune.
 
 TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
 
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 21h ago
+🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 22h ago
 
 ---
 
@@ -121,7 +121,7 @@ I’ve been playing around with some AI video tools lately just to see what’s 
 
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -143,13 +143,13 @@ CNN • 5h ago
 
 **[The White House’s unabashed embrace of AI](https://www.politico.com/news/2025/12/15/the-white-houses-unabashed-embrace-of-ai-00690885)**
 
-Politico • 8m ago
+Politico • 19m ago
 
 ---
 
 **[Watch AI Spending Anchoring Macroeconomy: Board’s Gallagher](https://www.bloomberg.com/news/videos/2025-12-15/ai-spending-anchoring-macroeconomy-board-s-gallagher-video)**
 
-Bloomberg.com • 53m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 53m ago
 
 The organization offered support for this idea of an AI marketplace, and suggested several guiding principles.
 
-TechCrunch • 48m ago
+TechCrunch • 59m ago
 
 ---
 
@@ -211,7 +211,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 338 • 💬 343 • 21h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 338 • 💬 343 • 22h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -327,7 +327,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 657K • 👍 36K • 💬 4K • ⏱️ 11:22 • 18h ago
+👁️ 657K • 👍 36K • 💬 4K • ⏱️ 11:22 • 19h ago
 
 ---
 
@@ -643,7 +643,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.5k • 🔱 2.4k • 12h ago
+⭐ 15.5k • 🔱 2.4k • 13h ago
 
 ---
 
