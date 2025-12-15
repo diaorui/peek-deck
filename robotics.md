@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T07:52:48.711986+00:00'
+updated: '2025-12-15T08:25:09.903444+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 07:52 UTC  
+**Last Updated:** December 15, 2025 at 08:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-10h ago
+11h ago
 
 ---
 
@@ -44,15 +44,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 RIP, between the failed Amazon acquisition and the stiff competition this was a long time coming but still very sad. Theyre being bought by their Chinese manufacturer, which I found interesting when there are so many Chinese competitors in the market. I wonder if they will try to continue the brand.
 
-🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 4h ago
-
----
-
-**[Robotic Arm Controlled By VLM(Vision Language Model)](https://www.reddit.com/r/robotics/comments/1pms3ie/robotic_arm_controlled_by_vlmvision_language_model/)**
-
-Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
-
-8h ago
+🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 5h ago
 
 ---
 
@@ -64,11 +56,27 @@ Been messing around with this little mobile camera, it’s about the size of a c
 
 ---
 
+**[Robotic Arm Controlled By VLM(Vision Language Model)](https://www.reddit.com/r/robotics/comments/1pms3ie/robotic_arm_controlled_by_vlmvision_language_model/)**
+
+Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
+
+9h ago
+
+---
+
 **[Next gen drones infrastructure by Zipline](https://www.reddit.com/r/robotics/comments/1pmam73/next_gen_drones_infrastructure_by_zipline/)**
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-21h ago
+22h ago
+
+---
+
+**[Web flasher for Rockchip](https://www.reddit.com/r/robotics/comments/1pn1yf5/web_flasher_for_rockchip/)**
+
+I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in wasm and now I can flash directly from browser. Code is open source! more details: https://asadmemon.com/rkdeveloptool/ code: https://github.com/asadm/rkdeveloptool
+
+25m ago
 
 ---
 
@@ -90,7 +98,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-21h ago
+22h ago
 
 ---
 
@@ -100,27 +108,13 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 ---
 
-**[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 10h ago
-
----
-
-**[Butler reboot: European firm to deploy 10,000 household humanoid robots in factories](https://interestingengineering.com/ai-robotics/1x-to-deploy-humanoid-robots-for-warehouses)**
-
-1X has partnered with EQT to make up to 10,000 Neo humanoid robots available to more than 300 companies between 2026 and 2030.
-
-Interesting Engineering • 2d ago
+The New York Times • 22h ago
 
 ---
 
@@ -152,7 +146,7 @@ South China Morning Post • 1d ago
 
 Robot companies are racing toward a breakout year, but they'll have to confront some fundamental problems before making bigger promises.
 
-CNET • 23h ago
+CNET • 1d ago
 
 ---
 
@@ -180,6 +174,14 @@ TechCrunch • 5h ago
 
 ---
 
+**[With AI, MIT researchers teach a robot to build furniture by just asking](https://www.therobotreport.com/mit-researchers-use-ai-teach-a-robot-build-furniture-just-asking/)**
+
+A team of MIT researchers created a speech-to-reality system that enables a robot to build furniture with just a simple request.
+
+The Robot Report • 18h ago
+
+---
+
 **[Streamer Sued for Assaulting Gay Robot](https://futurism.com/robots-and-machines/streamer-sued-for-assaulting-gay-robot)**
 
 Jake the Rizzbot, a bipedal, slang-slinging humanoid, was allegedly assaulted and permanently damaged by streamer IShowSpeed.
@@ -198,7 +200,7 @@ Futurism • 13h ago
 
 📺 CNET
 
-👁️ 14K • 👍 433 • 💬 52 • ⏱️ 6:41 • 18h ago
+👁️ 14K • 👍 433 • 💬 52 • ⏱️ 6:41 • 19h ago
 
 ---
 
@@ -208,7 +210,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 190K • 👍 6K • 💬 228 • ⏱️ 0:34 • 23h ago
+👁️ 190K • 👍 6K • 💬 228 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -256,7 +258,7 @@ PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *N
 
 📺 LIGHTS ARE OFF
 
-👁️ 1.5M • 👍 68K • 💬 7K • ⏱️ 8:45 • 1d ago
+👁️ 1.5M • 👍 68K • 💬 7K • ⏱️ 8:45 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T07:52:48.702776+00:00'
+updated: '2025-12-15T08:25:09.894201+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 07:52 UTC  
+**Last Updated:** December 15, 2025 at 08:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,767.36
+### $89,693.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -3.7%  
-**30d:** -5.0%  
-**90d:** -23.2%  
-**1y:** -15.5%  
+**24h:** -0.4%  
+**7d:** -3.4%  
+**30d:** -4.7%  
+**90d:** -22.9%  
+**1y:** -15.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1789.30B
+**Market Cap:** $1791.85B
 Rank #1
 
 **Circulating Supply:** 19,962,275 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-28.8%
 
 **All-Time Low:** $67.81
-+132169.6%
++132275.8%
 
 ---
 
@@ -83,17 +83,9 @@ Rank #1
 
 ---
 
-**[I am now a whole coiner](https://www.reddit.com/r/Bitcoin/comments/1pmnnkq/i_am_now_a_whole_coiner/)**
-
-Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
-
-11h ago
-
----
-
 **[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +93,15 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
 
-6h ago
+7h ago
+
+---
+
+**[I am now a whole coiner](https://www.reddit.com/r/Bitcoin/comments/1pmnnkq/i_am_now_a_whole_coiner/)**
+
+Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
+
+12h ago
 
 ---
 
@@ -111,15 +111,23 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 ---
 
+**[[France] Gov mandates declaring Cold Wallets >€5k. Need privacy strategy](https://www.reddit.com/r/Bitcoin/comments/1pn1cj8/france_gov_mandates_declaring_cold_wallets_5k/)**
+
+The French parliament just voted on an amendment forcing us to declare self-custody wallets (Ledger/Trezor) to the tax authorities if they hold more than €5,000. This effectively builds a massive centralized honeypot linking real identities to home addresses and exact holdings, which is a massive security risk and a wrench attack nightmare. ​I'm urgently looking for technical strategies to protect my privacy here. I need to know if "structuring" by splitting the stack into multiple sub-€5k wallets is a viable way to bypass the threshold, or if I should be looking into CoinJoin/Whirlpool to sever the link from my KYC exchange history before moving to fresh storage. I'm also trying to understand how they could possibly enforce this without me voluntarily doxxing my XPUB, so I'm curious if non-compliance is the general consensus. Any advice on keeping my stack off this registry would be appreciated.
+
+1h ago
+
+---
+
 **[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
 
-15h ago
+16h ago
 
 ---
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -135,21 +143,13 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 ---
 
-**[How much bitcoin is actually unrecoverable?](https://www.reddit.com/r/Bitcoin/comments/1pmqtkd/how_much_bitcoin_is_actually_unrecoverable/)**
-
-We all know the 21,000,000 supply story, but I don’t think that’s telling the whole truth. There has to be some Bitcoin that’s not ever able to be spent, used, or transacted, regardless of wallet type. So the main question is, if 21M isn’t the “real” supply, then what is?
-
-9h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -161,35 +161,9 @@ CoinDesk • 9h ago
 
 ---
 
-**[Metaplanet CEO Teases “Crucial” Bitcoin Buy Decision at Upcoming EGM, Stock Wavers](https://finance.yahoo.com/news/metaplanet-ceo-teases-crucial-bitcoin-054957927.html)**
+**[Bitcoin price today: ticks down below $90k amid risk-off mood; key US data awaited](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-ticks-down-below-90k-amid-riskoff-mood-key-us-data-awaited-4407239)**
 
-Metaplanet stock wavers near 440 JPY ahead of its crucial extraordinary general meeting (EGM) to determine its Bitcoin strategy for next year. CEO Simon Gerovich urges shareholders to exercise their voting rights on key proposals that could shape the company’s future. Metaplanet Sends Notice to Shareholders About Extraordinary General Meeting Metaplanet took to X on
-
-Yahoo Finance • 2h ago
-
----
-
-**[ETH, SOL, ADA Slide as Bitcoin Sees Year End Profit-Taking](https://www.coindesk.com/markets/2025/12/15/eth-sol-ada-slide-as-bitcoin-sees-year-end-profit-taking)**
-
-Trading volumes have thinned noticeably in recent sessions, amplifying price moves and reinforcing a defensive tone, some market watchers say.
-
-CoinDesk • 1h ago
-
----
-
-**[DOGE Price News: What Next as Dogecoin Slides Alongside Bitcoin, Memecoins](https://www.coindesk.com/markets/2025/12/15/dogecoin-slides-alongside-bitcoin-memecoins-as-traders-pare-risk-bets)**
-
-Dogecoin's immediate downside momentum appears exhausted, with $0.1372 acting as a crucial short-term support.
-
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
-
-Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
-
-Financial Times • 2h ago
+Investing.com • 1h ago
 
 ---
 
@@ -201,15 +175,31 @@ Investor's Business Daily • 2d ago
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
-**[Bitcoin Price (BTC) News: Plunges Below $90K as AI Bubble Worries Weigh on Tech Stocks](https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down)**
+**[Bitcoin (BTC) Price News: $80K Retest Risk Rises](https://www.coindesk.com/markets/2025/12/15/btc-usd80k-check-back-risk-rises-as-nasdaq-rebound-stalls)**
 
-Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026.
+Nasdaq and MOVE index patterns warrant caution for BTC bulls.
 
-CoinDesk • 2d ago
+CoinDesk • 36m ago
+
+---
+
+**[Crypto winter could spur 'Darwinian phase' for digital asset treasury companies](https://finance.yahoo.com/news/crypto-winter-could-spur-darwinian-phase-for-digital-asset-treasury-companies-150010208.html)**
+
+Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
+
+Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
+
+Financial Times • 3h ago
 
 ---
 
@@ -218,6 +208,14 @@ CoinDesk • 2d ago
 Key PointsCardano is approaching one of its largest-ever growth opportunities.
 
 Nasdaq • 13h ago
+
+---
+
+**[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
+
+Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
+
+The Motley Fool • 22h ago
 
 ---
 
@@ -277,6 +275,14 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 ---
 
+**[Raoul Pal predicts macro-driven crypto cycle peak in 2026](https://news.ycombinator.com/item?id=46271560)**
+
+Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
+
+⬆️ 1 • 💬 0 • 32m ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -307,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 365 • ⏱️ 9:39 • 6h ago
+👁️ 27K • 👍 1K • 💬 365 • ⏱️ 9:39 • 7h ago
 
 ---
 
@@ -317,7 +323,7 @@ Bitcoin is sitting at a knife's edge. Bulls are fighting for their lives to defe
 
 📺 Crypto Banter
 
-👁️ 2K • 👍 208 • 2h ago
+👁️ 2K • 👍 208 • 3h ago
 
 ---
 
@@ -327,7 +333,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 4K • 👍 283 • 💬 100 • ⏱️ 15:03 • 2h ago
+👁️ 4K • 👍 283 • 💬 100 • ⏱️ 15:03 • 3h ago
 
 ---
 
@@ -347,7 +353,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 167 • ⏱️ 9:48 • 14h ago
+👁️ 25K • 👍 2K • 💬 167 • ⏱️ 9:48 • 15h ago
 
 ---
 
@@ -367,7 +373,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 13K • 👍 886 • 💬 111 • ⏱️ 3:56 • 14h ago
+👁️ 13K • 👍 886 • 💬 111 • ⏱️ 3:56 • 15h ago
 
 ---
 

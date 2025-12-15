@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T07:52:48.708768+00:00'
+updated: '2025-12-15T08:25:09.900228+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 07:52 UTC  
+**Last Updated:** December 15, 2025 at 08:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -5.8%  
-**30d:** +0.9%  
-**90d:** -31.8%  
-**1y:** -21.5%  
+**24h:** +0.7%  
+**7d:** -5.5%  
+**30d:** +1.2%  
+**90d:** -31.6%  
+**1y:** -21.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.62B
+**Market Cap:** $378.07B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.8%
+-36.7%
 
 **All-Time Low:** $0.43
-+722313.8%
++723353.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -172,7 +172,7 @@ AMBCrypto • 1d ago
 
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -194,7 +194,7 @@ Nasdaq • 20h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday after correcting slightly in the previous week. The top three cryptocurrencies by market capitalization could face increased downside risk as bearish momentum builds across key indicators.
 
-FXStreet • 3h ago
+FXStreet • 4h ago
 
 ---
 
@@ -206,19 +206,19 @@ BeInCrypto • 13h ago
 
 ---
 
-**[Should You Buy Ethereum While It's Under $5,000?](https://www.fool.com/investing/2025/12/12/should-you-buy-ethereum-while-its-under-5000/)**
-
-After an unexpected pullback, could Ethereum be ready to skyrocket in value?
-
-The Motley Fool • 2d ago
-
----
-
 **[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
 
 The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
 
 CoinDesk • 2d ago
+
+---
+
+**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://www.fool.com/investing/2025/12/12/why-ethereum-sank-5-today-while-the-crypto-market/)**
+
+Sentiment around Ethereum has been bouncing around considerably in recent days.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 8K • 👍 375 • 💬 94 • ⏱️ 20:08 • 10h ago
+👁️ 8K • 👍 375 • 💬 94 • ⏱️ 20:08 • 11h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 151 • 💬 5 • ⏱️ 8:04 • 15h ago
+👁️ 3K • 👍 151 • 💬 5 • ⏱️ 8:04 • 16h ago
 
 ---
 
@@ -330,7 +330,7 @@ Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.pa
 
 📺 Thomas Boleto – Bitcoin Insights
 
-👁️ 181 • 👍 29 • 💬 5 • ⏱️ 15:33 • 5h ago
+👁️ 181 • 👍 29 • 💬 5 • ⏱️ 15:33 • 6h ago
 
 ---
 
