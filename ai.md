@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T15:44:04.270767+00:00'
+updated: '2025-12-15T15:59:54.199774+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - videos
 - news
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 15:44 UTC  
+**Last Updated:** December 15, 2025 at 15:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 1h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ RIP Copilot.
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 50m ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 "And somehow he sort of mostly manages to pull off what appears to be impossible."
 
-🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 13h ago
+🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 14h ago
 
 ---
 
@@ -81,7 +81,7 @@ I’ve been playing around with some AI video tools lately just to see what’s 
 
 TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
 
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 15h ago
+🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 16h ago
 
 ---
 
@@ -89,7 +89,7 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/watch?v=9O0djoqgasw
 
-7m ago
+23m ago
 
 ---
 
@@ -105,7 +105,7 @@ People are starting to hand more decisions to AI agents, from booking trips to s
 
 🚀 Introducing Quorum — Multi-Agent Consensus Through Structured Debate What if you could have GPT-5, Claude, Gemini, and Grok debate each other to find the best possible answer? Quorum orchestrates structured discussions between AI models using 7 proven methods: Standard — 5-phase consensus building with critique rounds Oxford — Formal FOR/AGAINST debate with final verdict Devil's Advocate — One model challenges the group's consensus Socratic — Deep exploration through guided questioning Delphi — Anonymous expert estimates with convergence (perfect for estimation tasks) Brainstorm — Divergent ideation → convergent selection Tradeoff — Multi-criteria decision analysis Why multi-agent consensus? Single-model responses often inherit that model's biases or miss nuances. When multiple frontier models debate, critique each other, and synthesize the result — you get answers that actually hold up to scrutiny. Key Features: ✅ Mix freely between OpenAI, Anthropic, Google, xAI, or local Ollama models ✅ Real-time terminal UI showing phase-by-phase progress ✅ AI-powered Method Advisor recommends the best approach for your question ✅ Export to Markdown, PDF, or structured JSON ✅ MCP Server — Use Quorum directly from Claude Code or Claude Desktop (claude mcp add quorum -- quorum-mcp-server) ✅ Multi-language support Built with a Python backend and React/Ink terminal frontend. Open source — give it a try! 🔗 GitHub: https://github.com/Detrol/quorum-cli 📦 Install: pip install quorum-cli
 
-33m ago
+48m ago
 
 ---
 
@@ -139,7 +139,7 @@ Fortune • 4h ago
 
 China's AI toy industry is growing as Beijing pushes companies and consumers to integrate the technology.
 
-CNBC • 31m ago
+CNBC • 47m ago
 
 ---
 
@@ -159,7 +159,7 @@ Reuters • 4h ago
 
 **[AI bubble fears are holding back a 'Santa Rally' in stocks, analyst says](https://qz.com/santa-rally-ai-bubble-wall-street)**
 
-qz.com • 15m ago
+qz.com • 31m ago
 
 ---
 
@@ -167,7 +167,7 @@ qz.com • 15m ago
 
 Stack Overflow CEO Prashanth Chandrasekar on running the most popular developer forum in a post-ChatGPT world.
 
-The Verge • 14m ago
+The Verge • 29m ago
 
 ---
 
@@ -191,7 +191,7 @@ The Texas Tribune • 4h ago
 
 The opening scene of Jeep’s AI-generated commercial may look real to some and uncanny to others. Regardless, it has generated millions of views online.
 
-USA Today • 40m ago
+USA Today • 55m ago
 
 ---
 
@@ -233,7 +233,7 @@ Some (well-known) consequences of AI automating work
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 239 • 💬 252 • 15h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 239 • 💬 252 • 16h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -297,7 +297,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 31K • 👍 1K • 💬 132 • ⏱️ 12:07 • 16h ago
+👁️ 31K • 👍 1K • 💬 132 • ⏱️ 12:07 • 17h ago
 
 ---
 
@@ -375,7 +375,7 @@ In the run up to the festive season, the selection of toys on offer seems to get
 
 📺 Stumb
 
-👁️ 623K • 👍 26K • 💬 611 • ⏱️ 0:22 • 15h ago
+👁️ 623K • 👍 26K • 💬 611 • ⏱️ 0:22 • 16h ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.4k • 🔱 2.4k • 6h ago
+⭐ 15.4k • 🔱 2.4k • 7h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.8k • 🔱 140 • 6d ago
+⭐ 1.8k • 🔱 140 • 7d ago
 
 ---
 

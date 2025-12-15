@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T15:44:04.289379+00:00'
+updated: '2025-12-15T15:59:54.221422+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 15:44 UTC  
+**Last Updated:** December 15, 2025 at 15:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,7 +106,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in wasm and now I can flash directly from browser. Code is open source! more details: https://asadmemon.com/rkdeveloptool/ code: https://github.com/asadm/rkdeveloptool
 
-7h ago
+8h ago
 
 ---
 
@@ -140,7 +140,7 @@ Scientific American • 2d ago
 
 /PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
 
-PR Newswire • 15h ago
+PR Newswire • 16h ago
 
 ---
 
@@ -148,7 +148,7 @@ PR Newswire • 15h ago
 
 They make robot vacuums, lots of them
 
-The Verge • 6h ago
+The Verge • 7h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Verge • 6h ago
 
 iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private - TechStock²
 
-ts2.tech • 1h ago
+ts2.tech • 2h ago
 
 ---
 
@@ -164,7 +164,7 @@ ts2.tech • 1h ago
 
 Could the robots of the future be made of slightly fishy leftovers?
 
-IFLScience • 35m ago
+IFLScience • 51m ago
 
 ---
 

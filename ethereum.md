@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T15:44:04.285977+00:00'
+updated: '2025-12-15T15:59:54.217962+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 15:44 UTC  
+**Last Updated:** December 15, 2025 at 15:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,991.12
+### $3,014.29
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -9.2%  
+**24h:** -2.8%  
+**7d:** -9.6%  
 **30d:** -2.8%  
 **90d:** -34.3%  
-**1y:** -24.4%  
+**1y:** -24.3%  
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, total crypto newbie here. I need some guidance and expert advice on the best way to approach my financial needs. Context: I live in a developing country, and I am in desperate need of financial freedom. I started looking into stablecoins, especially USDT. I am not really looking into trading. My use case: Relative or friend in europe, they buy USDT on Binance or any other exchange platform, send that USDT to my Trust wallet. I store it, and occasionally send some pocket money to Redotpay to spend using their virtual visa card. That is pretty much about it. Storing it and spending with Redotpay. Not super interested in p2p market. So i dont think i will need to sell my USDT that often, almost never. So the market standard for p2p transactions isnt really a big concern. Might be interested in trading one day, but not for now. This is just for my personal finances and spending. The question I need help with: Should I use Ethereum or Tron. My findings with the research I did: Tron has cheaper gas fee, for when I transfer to Redotpay. But apparently Eth have dropped their transfer rates for USDT, and a lot of people claim it is around the same price now. Because the numbers I found are a little worrying: around 1 USD for Tron and between 3-8 USD for Eth. If you have any information about the rates that would be great. I am more inclined towards Eth to be fair. I just like the idea of a trully decentralized chain. And it has been king over a decade for good reasons. Also it is more secure. With the new EIP-7702 on Eth, you can now pay gas fee for transfers with USDT, which is very interesting, as I am not very comfortable with juggling two currencies. Since per my understanding, I need to always have TRX reserve in my Trust wallet to be able to send to Redotpay. Are the fees really that different to justify skipping on EIP-7702 ? Some people mentioned using an L2 on Eth. I honestly have no idea what that is. If i have got any concepts misunderstood, I would appreciate any clarifications and guidance. I still got a lot to learn about this field.
 
-3d ago
+4d ago
 
 ---
 
@@ -258,7 +258,7 @@ Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitte
 
 📺 The Blockchain Today
 
-👁️ 407 • 👍 59 • 💬 11 • ⏱️ 3:50 • 4h ago
+👁️ 407 • 👍 59 • 💬 11 • ⏱️ 3:50 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 10K • 👍 399 • 💬 117 • ⏱️ 20:08 • 18h ago
+👁️ 10K • 👍 399 • 💬 117 • ⏱️ 20:08 • 19h ago
 
 ---
 
@@ -318,7 +318,7 @@ We have covered the bull case extensively—the dividends, the MAVAN launch, and
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 36 • 💬 33 • ⏱️ 10:35 • 17h ago
+👁️ 1K • 👍 36 • 💬 33 • ⏱️ 10:35 • 18h ago
 
 ---
 

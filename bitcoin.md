@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T15:44:04.279719+00:00'
+updated: '2025-12-15T15:59:54.208691+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 15:44 UTC  
+**Last Updated:** December 15, 2025 at 15:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -6.8%  
-**30d:** -8.1%  
-**90d:** -25.7%  
-**1y:** -18.2%  
+**24h:** -1.6%  
+**7d:** -6.3%  
+**30d:** -7.6%  
+**90d:** -25.3%  
+**1y:** -17.8%  
 
 ---
 
@@ -109,7 +109,7 @@ Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
 **[Time for the Monday Morning Manipulation](https://www.reddit.com/r/Bitcoin/comments/1pn9ek0/time_for_the_monday_morning_manipulation/)**
 
-46m ago
+1h ago
 
 ---
 
@@ -129,7 +129,7 @@ Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
 Now banks aren't even required to have reserve deposits! In the United States, as of December 2025, the required reserve ratio for depository institutions (including commercial banks, savings banks, credit unions, and others) is 0%. The Federal Reserve Board set reserve requirement ratios to zero percent effective March 26, 2020, in response to economic conditions, and this policy remains in effect with no announced plans to reinstate them.
 
-3h ago
+4h ago
 
 ---
 
@@ -137,13 +137,13 @@ Now banks aren't even required to have reserve deposits! In the United States, a
 
 The bitcoin manipulation is wild esp with Saylor’s buys. He buys almost a billion and the price crashes what am I missing? #btc
 
-17m ago
+33m ago
 
 ---
 
 **[Member of r/bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pn5j1p/member_of_rbitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 8h ago
 
 Sometimes you are the biggest risk to your portfolio's health.
 
-The Motley Fool • 40m ago
+The Motley Fool • 55m ago
 
 ---
 
@@ -179,7 +179,7 @@ The Motley Fool • 40m ago
 
 Michael Saylor’s Strategy Inc. acquired almost $1 billion in Bitcoin for a second consecutive week, as the original digital asset treasury company continues to ramp up purchases following the recent pullback in the price of the largest cryptocurrency.
 
-Bloomberg.com • 20m ago
+Bloomberg.com • 35m ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 20m ago
 
 The bank kept its buy rating on the stock and $74 target, citing a Microsoft GPU ramp and ample funding options.
 
-CoinDesk • 20m ago
+CoinDesk • 35m ago
 
 ---
 
@@ -239,7 +239,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 3 • 1d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 3 • 2d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -247,7 +247,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 2h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 3h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -283,7 +283,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 5d ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 6d ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -291,7 +291,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 7h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 8h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
@@ -335,7 +335,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 37K • 👍 2K • 💬 559 • ⏱️ 9:39 • 14h ago
+👁️ 37K • 👍 2K • 💬 559 • ⏱️ 9:39 • 15h ago
 
 ---
 
@@ -395,7 +395,7 @@ Bitcoin is moving sideways as markets head into holiday mode, but major macro sh
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 778 • 💬 24 • ⏱️ 49:34 • 1h ago
+👁️ 6K • 👍 778 • 💬 24 • ⏱️ 49:34 • 2h ago
 
 ---
 
