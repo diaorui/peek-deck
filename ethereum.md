@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T08:55:41.739043+00:00'
+updated: '2025-12-15T09:34:31.865479+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 08:55 UTC  
+**Last Updated:** December 15, 2025 at 09:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -5.3%  
-**30d:** +1.4%  
-**90d:** -31.5%  
-**1y:** -21.1%  
+**24h:** +1.3%  
+**7d:** -5.2%  
+**30d:** +1.5%  
+**90d:** -31.4%  
+**1y:** -21.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.99B
+**Market Cap:** $379.71B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.5%
+-36.4%
 
 **All-Time Low:** $0.43
-+725129.2%
++726623.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -168,17 +168,19 @@ AMBCrypto • 1d ago
 
 ---
 
+**[Ethereum Price Could Be Silently Nearing a Breakout, Here’s Why](https://finance.yahoo.com/news/ethereum-price-could-silently-nearing-183000491.html)**
+
+Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
+
+Yahoo Finance • 15h ago
+
+---
+
 **[Ethereum Forms Wyckoff Breakout Setup: $10,000 Price Target Back In Focus](https://www.tradingview.com/news/newsbtc:fae39eed8094b:0-ethereum-forms-wyckoff-breakout-setup-10-000-price-target-back-in-focus/)**
 
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
-TradingView — Track All Markets • 16h ago
-
----
-
-**[Tron outperforms Bitcoin, Ethereum and major tokens, defying broader crypto market weakness](https://www.msn.com/en-us/money/markets/tron-outperforms-bitcoin-ethereum-and-major-tokens-defying-broader-crypto-market-weakness/ar-AA1SlW2K?ocid=finance-verthp-feeds)**
-
-MSN • 3h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -194,15 +196,7 @@ Nasdaq • 21h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday after correcting slightly in the previous week. The top three cryptocurrencies by market capitalization could face increased downside risk as bearish momentum builds across key indicators.
 
-FXStreet • 4h ago
-
----
-
-**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
-
-Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
-
-BeInCrypto • 14h ago
+FXStreet • 5h ago
 
 ---
 
@@ -222,11 +216,17 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Bitcoin, Ethereum funds see outflows while XRP ETFs log nearly $1 billion in unbroken 30-day inflow streak since debut](https://www.msn.com/en-us/money/markets/bitcoin-ethereum-funds-see-outflows-while-xrp-etfs-log-nearly-1-billion-in-unbroken-30-day-inflow-streak-since-debut/ar-AA1SmL3t?ocid=finance-verthp-feeds)**
+
+MSN • 1m ago
+
+---
+
 **[Firedancer is live, but Solana is violating the one safety rule Ethereum treats as non-negotiable](https://cryptoslate.com/firedancer-is-live-but-solana-is-violating-the-one-safety-rule-ethereum-treats-as-non-negotiable/)**
 
 Firedancer could start a new wave of adoption for Solana, especially from institutions that see a mitigated centralization risk from its validators.
 
-CryptoSlate • 12h ago
+CryptoSlate • 13h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 5 • ⏱️ 6:25 • 5h ago
+👁️ 1K • 👍 92 • 💬 5 • ⏱️ 6:25 • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 8K • 👍 375 • 💬 94 • ⏱️ 20:08 • 11h ago
+👁️ 8K • 👍 375 • 💬 94 • ⏱️ 20:08 • 12h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 151 • 💬 5 • ⏱️ 8:04 • 16h ago
+👁️ 3K • 👍 151 • 💬 5 • ⏱️ 8:04 • 17h ago
 
 ---
 
@@ -310,7 +310,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Guitar Repair@StringTech
 
-👁️ 9K • 👍 4K • 1d ago
+👁️ 9K • 👍 4K • 2d ago
 
 ---
 
@@ -330,7 +330,7 @@ Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.pa
 
 📺 Thomas Boleto – Bitcoin Insights
 
-👁️ 181 • 👍 29 • 💬 5 • ⏱️ 15:33 • 6h ago
+👁️ 181 • 👍 29 • 💬 5 • ⏱️ 15:33 • 7h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T08:55:41.742265+00:00'
+updated: '2025-12-15T09:34:31.868689+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 08:55 UTC  
+**Last Updated:** December 15, 2025 at 09:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-11h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 RIP, between the failed Amazon acquisition and the stiff competition this was a long time coming but still very sad. Theyre being bought by their Chinese manufacturer, which I found interesting when there are so many Chinese competitors in the market. I wonder if they will try to continue the brand.
 
-🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 5h ago
+🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 6h ago
 
 ---
 
@@ -60,7 +60,7 @@ Been messing around with this little mobile camera, it’s about the size of a c
 
 Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
 
-9h ago
+10h ago
 
 ---
 
@@ -68,7 +68,7 @@ Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on th
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-22h ago
+23h ago
 
 ---
 
@@ -76,7 +76,21 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in wasm and now I can flash directly from browser. Code is open source! more details: https://asadmemon.com/rkdeveloptool/ code: https://github.com/asadm/rkdeveloptool
 
-56m ago
+1h ago
+
+---
+
+**[Custom Differential Drive Robot | ESP32 + micro-ROS + ROS 2 + PID Control (Video)](https://www.reddit.com/r/robotics/comments/1pn389p/custom_differential_drive_robot_esp32_microros/)**
+
+7m ago
+
+---
+
+**[Looking for an open source teleoperation framework for data collection (robot arm)](https://www.reddit.com/r/robotics/comments/1pn30yz/looking_for_an_open_source_teleoperation/)**
+
+Hello, I'm a PhD student working a project where I develoved a data adquisition system for an old franka robot with the original gripper in c++. In order to enhance the demonstration technique I use (kinesthetic), I would like to test waters with a VR based teleoperation system, since I have seen that they provide more ergonomy to capture data. I own a meta quest 3 headset with its controllers. I'm quite new to teleoperation and the issue I'm facing is that is being difficult to find a framework I can use that isnt based on ROS, which I cant use because the hardware limitation. For instance, I would like something very similar to this video: teloperation I have found frameworks like, OpenTeach, LeVR... but those are made for human hand tracking which Im not interested. I have also been trying to get information on any tutorial/reference page where to start implementing a teleoperation system from scratch, but I'm not sure if this is the best approach... Thanks in advance to any answer!
+
+21m ago
 
 ---
 
@@ -84,7 +98,7 @@ I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in was
 
 It’s pretty fun, not just for my kid, but for me too!
 
-18m ago
+57m ago
 
 ---
 
@@ -94,45 +108,13 @@ It’s pretty fun, not just for my kid, but for me too!
 
 ---
 
-**[Unitree Debuts the World’s First Humanoid Robot “App Store”. It welcomes users and developers worldwide to co-develop and share together. Exceptional developers will receive rewards.](https://www.reddit.com/r/robotics/comments/1pmc3du/unitree_debuts_the_worlds_first_humanoid_robot/)**
-
-From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
-
-21h ago
-
----
-
-**[What kind of transmission that made this possible?](https://www.reddit.com/r/robotics/comments/1pmao9y/what_kind_of_transmission_that_made_this_possible/)**
-
-I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
-
-22h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 11h ago
-
----
-
-**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
-
-The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
-
-The Motley Fool • 13h ago
-
----
-
-**[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
-
-As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
-
-InvestorPlace • 18h ago
+The New York Times • 12h ago
 
 ---
 
@@ -152,11 +134,27 @@ CNET • 1d ago
 
 ---
 
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
+**[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
 
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
+As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-Fortune • 1d ago
+InvestorPlace • 19h ago
+
+---
+
+**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
+
+The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
+
+The Motley Fool • 13h ago
+
+---
+
+**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
+
+They make robot vacuums, lots of them
+
+The Verge • 41m ago
 
 ---
 
@@ -180,7 +178,7 @@ Scientific American • 1d ago
 
 iRobot survived three decades of competition, but couldn't survive European regulators killing its Amazon buyout. Now it's being taken over by its own supplier in bankruptcy court.
 
-TechCrunch • 6h ago
+TechCrunch • 7h ago
 
 ---
 
@@ -202,7 +200,7 @@ The Robot Report • 19h ago
 
 📺 CNET
 
-👁️ 14K • 👍 433 • 💬 52 • ⏱️ 6:41 • 19h ago
+👁️ 14K • 👍 433 • 💬 52 • ⏱️ 6:41 • 20h ago
 
 ---
 
@@ -222,7 +220,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 Farooq tv
 
-👁️ 3K • 👍 35 • 💬 1 • ⏱️ 0:09 • 17h ago
+👁️ 3K • 👍 35 • 💬 1 • ⏱️ 0:09 • 18h ago
 
 ---
 

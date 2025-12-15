@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T08:55:41.733083+00:00'
+updated: '2025-12-15T09:34:31.859494+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 08:55 UTC  
+**Last Updated:** December 15, 2025 at 09:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
+**24h:** -0.0%  
 **7d:** -3.4%  
-**30d:** -4.7%  
-**90d:** -22.9%  
-**1y:** -15.2%  
+**30d:** -4.8%  
+**90d:** -23.0%  
+**1y:** -15.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1793.09B
+**Market Cap:** $1794.26B
 Rank #1
 
-**Circulating Supply:** 19,962,275 BTC
+**Circulating Supply:** 19,962,334 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.7%
 
 **All-Time Low:** $67.81
-+132387.8%
++132455.7%
 
 ---
 
@@ -79,21 +79,13 @@ Rank #1
 
 **[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
 
-11h ago
-
----
-
-**[When in doubt, zoom out 📈](https://www.reddit.com/r/Bitcoin/comments/1pmu9t8/when_in_doubt_zoom_out/)**
-
-5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
-
-7h ago
+12h ago
 
 ---
 
@@ -101,7 +93,15 @@ Rank #1
 
 The French parliament just voted on an amendment forcing us to declare self-custody wallets (Ledger/Trezor) to the tax authorities if they hold more than €5,000. This effectively builds a massive centralized honeypot linking real identities to home addresses and exact holdings, which is a massive security risk and a wrench attack nightmare. ​I'm urgently looking for technical strategies to protect my privacy here. I need to know if "structuring" by splitting the stack into multiple sub-€5k wallets is a viable way to bypass the threshold, or if I should be looking into CoinJoin/Whirlpool to sever the link from my KYC exchange history before moving to fresh storage. I'm also trying to understand how they could possibly enforce this without me voluntarily doxxing my XPUB, so I'm curious if non-compliance is the general consensus. Any advice on keeping my stack off this registry would be appreciated.
 
-1h ago
+2h ago
+
+---
+
+**[When in doubt, zoom out 📈](https://www.reddit.com/r/Bitcoin/comments/1pmu9t8/when_in_doubt_zoom_out/)**
+
+5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
+
+8h ago
 
 ---
 
@@ -109,7 +109,7 @@ The French parliament just voted on an amendment forcing us to declare self-cust
 
 Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
 
-12h ago
+13h ago
 
 ---
 
@@ -119,23 +119,23 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 ---
 
+**[Anyone bought 50K at 2021 just to dip to 16K at 2022?](https://www.reddit.com/r/Bitcoin/comments/1pn17cb/anyone_bought_50k_at_2021_just_to_dip_to_16k_at/)**
+
+Must been hurt, and now we got people bought at 124K crying when it's 90K. Absolute cinema.
+
+2h ago
+
+---
+
 **[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
 
-16h ago
+17h ago
 
 ---
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-15h ago
-
----
-
-**[Anyone bought 50K at 2021 just to dip to 16K at 2022?](https://www.reddit.com/r/Bitcoin/comments/1pn17cb/anyone_bought_50k_at_2021_just_to_dip_to_16k_at/)**
-
-Must been hurt, and now we got people bought at 124K crying when it's 90K. Absolute cinema.
-
-1h ago
+16h ago
 
 ---
 
@@ -151,7 +151,7 @@ Must been hurt, and now we got people bought at 124K crying when it's 90K. Absol
 
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -163,9 +163,20 @@ CoinDesk • 10h ago
 
 ---
 
-**[Bitcoin price today: ticks down below $90k amid risk-off mood; key US data awaited](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-ticks-down-below-90k-amid-riskoff-mood-key-us-data-awaited-4407239)**
+**[Bitcoin Struggles to Recover After Tech Appetite Wanes](https://www.barrons.com/livecoverage/stock-market-news-today-121525/card/bitcoin-struggles-to-recover-after-tech-appetite-wanes-IGyLtphjQmi4aOHfwi9g?gaa_at=eafs&gaa_n=AWEtsqeWD6Y3hr2ih2GkEu9GEHCFArO3Avf3BAaZQEb-GHyt2S109osM2wKq&gaa_ts=693fd997&gaa_sig=lfBj2odc1bi78GJPo4Ga61d6V-F2sIar1wLGRmxk8FxSno4oWmR6UJYhpnaUggJzc29XBFR0kaGDpUOiV79tnA%3D%3D)**
 
-Investing.com • 1h ago
+Bitcoin rose slightly but remained below the key $90,000 level as it struggled to recover meaningfully after hitting a near two-week low overnight.
+The cryptocurrency has been hit by a rotation away from artificial intelligence-related stocks after results from Oracle and Broadcom last week failed
+
+Barron's • 46m ago
+
+---
+
+**[Did People Really Say That Bitcoin Would Hit $1 Million in 2025? Here's How the Top Price Predictions Played Out](https://www.fool.com/investing/2025/12/15/did-people-really-say-that-bitcoin-would-hit-1-mil/)**
+
+Pretty much nobody got it right this year.
+
+The Motley Fool • 4m ago
 
 ---
 
@@ -177,7 +188,7 @@ Investor's Business Daily • 2d ago
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -193,7 +204,15 @@ CoinDesk • 1h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 3h ago
+Financial Times • 4h ago
+
+---
+
+**[Crypto winter could spur 'Darwinian phase' for digital asset treasury companies](https://finance.yahoo.com/news/crypto-winter-could-spur-darwinian-phase-for-digital-asset-treasury-companies-150010208.html)**
+
+Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,21 +220,7 @@ Financial Times • 3h ago
 
 Key PointsCardano is approaching one of its largest-ever growth opportunities.
 
-Nasdaq • 14h ago
-
----
-
-**[Better Buy in 2026: Nvidia Stock or Bitcoin?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-nvidia-stock-or-bitcoin/)**
-
-Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
-
-The Motley Fool • 23h ago
-
----
-
-**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
-
-x.com • 1d ago
+Nasdaq • 15h ago
 
 ---
 
@@ -293,7 +298,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 261 • ⏱️ 9:35 • 9h ago
+👁️ 35K • 👍 2K • 💬 261 • ⏱️ 9:35 • 10h ago
 
 ---
 
@@ -303,7 +308,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 155 • ⏱️ 14:17 • 9h ago
+👁️ 26K • 👍 2K • 💬 155 • ⏱️ 14:17 • 10h ago
 
 ---
 
@@ -323,7 +328,7 @@ Bitcoin is sitting at a knife's edge. Bulls are fighting for their lives to defe
 
 📺 Crypto Banter
 
-👁️ 2K • 👍 208 • 3h ago
+👁️ 2K • 👍 208 • 4h ago
 
 ---
 
@@ -333,7 +338,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 4K • 👍 283 • 💬 100 • ⏱️ 15:03 • 3h ago
+👁️ 4K • 👍 283 • 💬 100 • ⏱️ 15:03 • 4h ago
 
 ---
 
@@ -353,7 +358,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 167 • ⏱️ 9:48 • 15h ago
+👁️ 25K • 👍 2K • 💬 167 • ⏱️ 9:48 • 16h ago
 
 ---
 
@@ -363,7 +368,7 @@ TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE 
 
 📺 Jason Pizzino
 
-👁️ 8K • 👍 616 • 💬 261 • ⏱️ 34:43 • 6h ago
+👁️ 8K • 👍 616 • 💬 261 • ⏱️ 34:43 • 7h ago
 
 ---
 
@@ -373,7 +378,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 13K • 👍 886 • 💬 111 • ⏱️ 3:56 • 15h ago
+👁️ 13K • 👍 886 • 💬 111 • ⏱️ 3:56 • 16h ago
 
 ---
 
