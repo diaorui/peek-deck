@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T05:16:42.742900+00:00'
+updated: '2025-12-15T05:45:29.639202+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 05:16 UTC  
+**Last Updated:** December 15, 2025 at 05:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -5.8%  
-**30d:** +0.9%  
-**90d:** -31.9%  
-**1y:** -21.5%  
+**24h:** +0.3%  
+**7d:** -6.0%  
+**30d:** +0.6%  
+**90d:** -32.0%  
+**1y:** -21.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.70B
+**Market Cap:** $376.31B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
@@ -62,7 +62,7 @@ No max supply
 -36.9%
 
 **All-Time Low:** $0.43
-+720738.7%
++720198.2%
 
 ---
 
@@ -172,7 +172,13 @@ AMBCrypto • 1d ago
 
 Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Tron outperforms Bitcoin, Ethereum and major tokens, defying broader crypto market weakness](https://www.msn.com/en-us/money/markets/tron-outperforms-bitcoin-ethereum-and-major-tokens-defying-broader-crypto-market-weakness/ar-AA1SlW2K?ocid=finance-verthp-feeds)**
+
+MSN • 16m ago
 
 ---
 
@@ -181,6 +187,14 @@ Yahoo Finance • 10h ago
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
 TradingView — Track All Markets • 13h ago
+
+---
+
+**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
+
+Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
+
+Nasdaq • 17h ago
 
 ---
 
@@ -200,33 +214,17 @@ CoinDesk • 2d ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
-
-Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
-
-Nasdaq • 17h ago
-
----
-
 **[Firedancer is live, but Solana is violating the one safety rule Ethereum treats as non-negotiable](https://cryptoslate.com/firedancer-is-live-but-solana-is-violating-the-one-safety-rule-ethereum-treats-as-non-negotiable/)**
 
 Firedancer could start a new wave of adoption for Solana, especially from institutions that see a mitigated centralization risk from its validators.
 
-CryptoSlate • 8h ago
+CryptoSlate • 9h ago
 
 ---
 
 **[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
 
 TipRanks • 19h ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-latest-news-analyst-forecasts-and-whats-driving-the-ethereum-treasury-trade-dec-12-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
-
-ts2.tech • 2d ago
 
 ---
 
@@ -240,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 487 • 👍 50 • 💬 2 • ⏱️ 6:25 • 1h ago
+👁️ 487 • 👍 50 • 💬 2 • ⏱️ 6:25 • 2h ago
 
 ---
 
@@ -260,7 +258,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 453 • 33m ago
+👁️ 2K • 👍 453 • 1h ago
 
 ---
 
@@ -290,7 +288,7 @@ We have covered the bull case extensively—the dividends, the MAVAN launch, and
 
 📺 Wall Street Stockcast
 
-👁️ 894 • 👍 31 • 💬 18 • ⏱️ 10:35 • 7h ago
+👁️ 894 • 👍 31 • 💬 18 • ⏱️ 10:35 • 8h ago
 
 ---
 

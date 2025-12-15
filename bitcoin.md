@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T05:16:42.736792+00:00'
+updated: '2025-12-15T05:45:29.633086+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 05:16 UTC  
+**Last Updated:** December 15, 2025 at 05:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.4%  
-**7d:** -3.5%  
+**7d:** -3.4%  
 **30d:** -4.8%  
 **90d:** -23.0%  
 **1y:** -15.3%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1789.79B
+**Market Cap:** $1788.66B
 Rank #1
 
-**Circulating Supply:** 19,962,231 BTC
+**Circulating Supply:** 19,962,275 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.9%
 
 **All-Time Low:** $67.81
-+132112.1%
++132042.8%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
 
-7h ago
-
----
-
-**[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
-
-12h ago
+8h ago
 
 ---
 
@@ -107,7 +101,7 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -125,6 +119,12 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 ---
 
+**[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
+
+12h ago
+
+---
+
 **[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
 
 13h ago
@@ -133,15 +133,13 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[Not again 😩 No more dip](https://www.reddit.com/r/Bitcoin/comments/1pmsjz5/not_again_no_more_dip/)**
 
-5h ago
+6h ago
 
 ---
 
-**[This is what I do when my wife is mall shopping and I’m on the bench outside](https://www.reddit.com/r/Bitcoin/comments/1pmqpwf/this_is_what_i_do_when_my_wife_is_mall_shopping/)**
+**[We are going down a bit, get ready for the Peter Schiff tweets 😂](https://www.reddit.com/r/Bitcoin/comments/1pmtxa0/we_are_going_down_a_bit_get_ready_for_the_peter/)**
 
-I have empty hands
-
-6h ago
+5h ago
 
 ---
 
@@ -159,23 +157,15 @@ The Block • 7h ago
 
 Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Why Bitcoin Price is Going Down Today?](https://www.tradingview.com/news/coinpedia:a64cb1a6d094b:0-why-bitcoin-price-is-going-down-today/)**
+**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
-Bitcoin price is trading below $90,000 and has now slipped under $89,000, changing hands near $88,794, down 1.46% in the last 24 hours.One of the reasons behind today’s drop is growing concern over a possible interest rate hike by the Bank of Japan (BoJ).Although no official rate increase has been…
+Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-TradingView — Track All Markets • 12h ago
-
----
-
-**[3 Reasons Why Bullish Bitcoin Price Predictions Still Hold](https://finance.yahoo.com/news/3-reasons-why-bullish-bitcoin-121812190.html)**
-
-Bitcoin price prediction to $180,000 remains in focus as hidden signals emerge. Here’s why bulls aren’t backing off yet.
-
-Yahoo Finance • 16h ago
+Financial Times • 44m ago
 
 ---
 
@@ -184,6 +174,14 @@ Yahoo Finance • 16h ago
 Bitcoin slipped below $90,000 on Friday as Asian markets started the final full trading week of 2025 on a weaker footing, with growing doubts over technology earnings weighing on risk appetite across equities and crypto alike.Equity futures pointed to losses for Australian, Hong Kong and Japanese benchmarks in early trading ...
 
 Yahoo Finance • 1h ago
+
+---
+
+**[XRP ETF News: Milestone as Ripple Linked Products See 30 Days of Positive Inflows](https://www.coindesk.com/markets/2025/12/15/xrp-spot-etfs-rack-up-30-day-inflow-streak-in-divergence-from-bitcoin-ether)**
+
+The products have attracted fresh capital every trading day since launch, lifting cumulative net inflows to about $975 million.
+
+CoinDesk • 43m ago
 
 ---
 
@@ -199,11 +197,11 @@ Reuters • 4h ago
 
 ---
 
-**[Jim Cramer on Strategy Inc: “I Think You Should Just Own Bitcoin”](https://finance.yahoo.com/news/jim-cramer-strategy-inc-think-153441432.html)**
+**[Strategy Inc (MSTR) Stock News on Dec. 14, 2025: Nasdaq-100 Decision, MSCI Index Risk, Bitcoin Buys, and Wall Street Forecasts](https://ts2.tech/en/strategy-inc-mstr-stock-news-on-dec-14-2025-nasdaq-100-decision-msci-index-risk-bitcoin-buys-and-wall-street-forecasts/)**
 
-Strategy Inc (NASDAQ:MSTR) is one of the stocks on Jim Cramer’s radar recently. A caller asked Cramer’s one-year performance projection for the stock, and here’s what he had to say: “Well, look, let’s leave it like this, they call it now Strategy, but I like Bitcoin and I think you should just own Bitcoin. I […]
+Strategy Inc (MSTR) Stock News on Dec. 14, 2025: Nasdaq-100 Decision, MSCI Index Risk, Bitcoin Buys, and Wall Street Forecasts - TechStock²
 
-Yahoo Finance • 1d ago
+ts2.tech • 10h ago
 
 ---
 
@@ -211,15 +209,13 @@ Yahoo Finance • 1d ago
 
 Key PointsCardano is approaching one of its largest-ever growth opportunities.
 
-Nasdaq • 10h ago
+Nasdaq • 11h ago
 
 ---
 
-**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
+**[Tron outperforms Bitcoin, Ethereum and major tokens, defying broader crypto market weakness](https://www.msn.com/en-us/money/markets/tron-outperforms-bitcoin-ethereum-and-major-tokens-defying-broader-crypto-market-weakness/ar-AA1SlW2K?ocid=finance-verthp-feeds)**
 
-Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
-
-Bloomberg.com • 2d ago
+MSN • 16m ago
 
 ---
 
@@ -231,7 +227,7 @@ Bloomberg.com • 2d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 6 • 💬 2 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 7 • 💬 2 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -297,7 +293,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 212 • ⏱️ 9:35 • 5h ago
+👁️ 25K • 👍 1K • 💬 212 • ⏱️ 9:35 • 6h ago
 
 ---
 
@@ -307,7 +303,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 107 • ⏱️ 14:17 • 5h ago
+👁️ 19K • 👍 1K • 💬 107 • ⏱️ 14:17 • 6h ago
 
 ---
 
@@ -317,7 +313,7 @@ TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE 
 
 📺 Jason Pizzino
 
-👁️ 4K • 👍 404 • 💬 133 • ⏱️ 34:43 • 2h ago
+👁️ 4K • 👍 404 • 💬 133 • ⏱️ 34:43 • 3h ago
 
 ---
 
@@ -337,7 +333,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 72K • 👍 5K • 💬 398 • ⏱️ 17:53 • 13h ago
+👁️ 72K • 👍 5K • 💬 398 • ⏱️ 17:53 • 14h ago
 
 ---
 
@@ -387,7 +383,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 559 • 💬 99 • ⏱️ 3:45 • 8h ago
+👁️ 4K • 👍 559 • 💬 99 • ⏱️ 3:45 • 9h ago
 
 ---
 

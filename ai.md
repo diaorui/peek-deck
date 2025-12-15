@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T05:16:42.728242+00:00'
+updated: '2025-12-15T05:45:29.624123+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 05:16 UTC  
+**Last Updated:** December 15, 2025 at 05:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -77,19 +77,11 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 ---
 
-**[Passive income / farming - DePIN & AI](https://www.reddit.com/r/artificial/comments/1pmryqb/passive_income_farming_depin_ai/)**
-
-Grass has jumped from a simple concept to a multi-million dollar, airdrop rewarding, revenue-generating AI data network with real traction They are projecting $12.8M in revenue this quarter, and adoption has exploded to 8.5M monthly active users in just 2 years. 475K on Discord, 573K on Twitter Season 1 Grass ended with an Airdrop to users based on accumulated Network Points. Grass Airdrop Season 2 is coming soon with even better rewards In October, Grass raised $10M, and their multimodal repository has passed 250 petabytes. Grass now operates at the lowest sustainable cost structure in the residential proxy sector Grass already provides core data infrastructure for multiple AI labs and is running trials of its SERP API with leading SEO firms. This API is the first step toward Live Context Retrieval, real-time data streams for AI models. LCR is shaping up to be one of the biggest future products in the AI data space and will bring higher-frequency, real-time on-chain settlement that increases Grass token utility If you want to earn ahead of Airdrop 2, you can stack up points by just using your Android phone or computer regularly. And the points will be worth Grass tokens that can be sold for money after Airdrop 2 You can register here with your email and start farming And you can find out more at grass.io
-
-6h ago
-
----
-
 **[Exploring a more direct way to edit AI images after getting frustrated myself](https://www.reddit.com/r/artificial/comments/1pmc0h3/exploring_a_more_direct_way_to_edit_ai_images/)**
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-17h ago
+18h ago
 
 ---
 
@@ -107,6 +99,14 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 ---
 
+**[Passive income / farming - DePIN & AI](https://www.reddit.com/r/artificial/comments/1pmryqb/passive_income_farming_depin_ai/)**
+
+Grass has jumped from a simple concept to a multi-million dollar, airdrop rewarding, revenue-generating AI data network with real traction They are projecting $12.8M in revenue this quarter, and adoption has exploded to 8.5M monthly active users in just 2 years. 475K on Discord, 573K on Twitter Season 1 Grass ended with an Airdrop to users based on accumulated Network Points. Grass Airdrop Season 2 is coming soon with even better rewards In October, Grass raised $10M, and their multimodal repository has passed 250 petabytes. Grass now operates at the lowest sustainable cost structure in the residential proxy sector Grass already provides core data infrastructure for multiple AI labs and is running trials of its SERP API with leading SEO firms. This API is the first step toward Live Context Retrieval, real-time data streams for AI models. LCR is shaping up to be one of the biggest future products in the AI data space and will bring higher-frequency, real-time on-chain settlement that increases Grass token utility If you want to earn ahead of Airdrop 2, you can stack up points by just using your Android phone or computer regularly. And the points will be worth Grass tokens that can be sold for money after Airdrop 2 You can register here with your email and start farming And you can find out more at grass.io
+
+6h ago
+
+---
+
 **[AI is NOT the problem. The 1% billionaires who control them are. Their never-ending quest for power and more IS THE PROBLEM. Stop blaming the puppets and start blaming the puppeteers.](https://www.reddit.com/r/artificial/comments/1plxp93/ai_is_not_the_problem_the_1_billionaires_who/)**
 
 1d ago
@@ -117,37 +117,9 @@ Hi everyone, I love LLMs for summarizing documents, but I work with some sensiti
 
 ## Google News: "ai"
 
-**[The View From Inside the AI Bubble](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/)**
-
-Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
-
-The Atlantic • 17h ago
-
----
-
 **[Wall Street Sees AI Bubble Coming and Is Betting on What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
 
 Bloomberg.com • 15h ago
-
----
-
-**[Is A.I. Actually a Bubble?](https://www.newyorker.com/culture/open-questions/is-ai-actually-a-bubble)**
-
-The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
-
-The New Yorker • 2d ago
-
----
-
-**[AI Is Getting Dangerously Good at Political Persuasion](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion)**
-
-Bloomberg.com • 46m ago
-
----
-
-**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
-
-The Economist • 18h ago
 
 ---
 
@@ -157,31 +129,59 @@ The Washington Post • 11h ago
 
 ---
 
+**[Trump signs order blocking states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro)**
+
+California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
+
+BBC • 2d ago
+
+---
+
 **[Trump’s AI moratorium threatens state-level crackdowns on housing costs](https://www.politico.com/news/2025/12/14/trumps-ai-moratorium-threatens-state-level-crackdown-on-housing-costs-00688789)**
 
 Politico • 12h ago
 
 ---
 
-**[Experts urge caution as Trump’s big bill incentivizes AI in healthcare](https://www.theguardian.com/us-news/2025/dec/14/trump-healthcare-ai)**
+**[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
 
-Analysts say benefits could be felt in under-resourced rural hospitals but warn against AI as a cost-cutting measure
-
-The Guardian • 17h ago
+Axios • 42m ago
 
 ---
 
-**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqd8ZJw_7VMatiXX40dEZCEpBs02PpnmK6Q7WYSdXCWiVGueQibMh9aU&gaa_ts=693f96fd&gaa_sig=_5qYCTUvsDJ15Mj9na16qCS4yAqiEJmOwcg7yHVDjNnh6HhH8vNZvTHNHtfVdNEuUfGyFNvl-KalOTgwObg0sw%3D%3D)**
+**[Publishers are hunting for AI prompt data — now they’re starting to get it from third-party companies](https://digiday.com/media/publishers-are-hunting-for-ai-prompt-data-now-theyre-starting-to-get-it-from-tk/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)**
+
+Publishers are finally gaining some visibility into AI search, as new prompt data tools crack open a black box.
+
+Digiday • 38m ago
+
+---
+
+**[AI is triggering a quiet hiring comeback for some entry-level talent, say public company CEOs](https://www.businessinsider.com/ai-hiring-comeback-entry-level-jobs-ceo-teneo-survey-2025-12)**
+
+A new survey shows CEOs expect AI to boost hiring in 2026, especially for entry-level roles.
+
+Business Insider • 30m ago
+
+---
+
+**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
+
+The Economist • 18h ago
+
+---
+
+**[The View From Inside the AI Bubble](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/)**
+
+Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
+
+The Atlantic • 17h ago
+
+---
+
+**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqfb7miDUHlAH1S9329ZjdRu8RZWM2gqwqJJiPAHwzEFgWljrweYXG9I&gaa_ts=693fa3ce&gaa_sig=aoFj2TnHkGQCh6DURRNj2UyQJ9tToEsVv4WhZ7h2Tk0LSo11W4CrEr4bQ3RRX9QW8YEr_MHUanZMAFG1kaceVQ%3D%3D)**
 
 The Wall Street Journal • 7h ago
-
----
-
-**[Want job security in the age of AI? Get a state license – any state license](https://www.theguardian.com/business/2025/dec/15/job-security-state-license)**
-
-The coming tech boom is about to launch a boom in people who do things with their hands and minds
-
-The Guardian • 14h ago
 
 ---
 
@@ -199,7 +199,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 435 • 💬 426 • 1d ago
+⬆️ 435 • 💬 431 • 1d ago
 
 ---
 
@@ -207,7 +207,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 221 • 💬 96 • 15h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 225 • 💬 98 • 16h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -223,7 +223,7 @@ A summary of the techniques in place to protect my git forge
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 144 • 💬 201 • 16h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 145 • 💬 201 • 17h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -247,7 +247,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 100 • 💬 84 • 4h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 108 • 💬 95 • 5h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -263,7 +263,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 78 • 💬 98 • 5h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 79 • 💬 104 • 5h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -317,7 +317,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 29K • 👍 2K • 💬 235 • ⏱️ 20:44 • 4h ago
+👁️ 29K • 👍 2K • 💬 235 • ⏱️ 20:44 • 5h ago
 
 ---
 
@@ -357,7 +357,7 @@ Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
 
 📺 Anime world 
 
-👁️ 35K • 👍 508 • ⏱️ 0:22 • 15h ago
+👁️ 35K • 👍 508 • ⏱️ 0:22 • 16h ago
 
 ---
 
@@ -383,7 +383,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,711 • 6d ago
+⬇️ 277,583 • ❤️ 2,713 • 6d ago
 
 ---
 
@@ -419,7 +419,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 337 • 12h ago
+⬇️ 15,778 • ❤️ 337 • 13h ago
 
 ---
 
@@ -431,7 +431,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 3,369 • ❤️ 299 • 5d ago
+⬇️ 3,369 • ❤️ 299 • 6d ago
 
 ---
 
@@ -443,7 +443,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 35,747 • ❤️ 284 • 5d ago
+⬇️ 35,747 • ❤️ 286 • 5d ago
 
 ---
 
@@ -455,7 +455,7 @@ SamKash-Tolstoy is a lightweight LoRA adapter for text generation, specialized i
 
 `text-generation`
 
-⬇️ 11,439 • ❤️ 741 • 17d ago
+⬇️ 11,439 • ❤️ 765 • 17d ago
 
 ---
 
@@ -479,7 +479,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,725 • ❤️ 205 • 12h ago
+⬇️ 4,725 • ❤️ 205 • 13h ago
 
 ---
 
@@ -651,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.0k • 🔱 336 • 11h ago
+⭐ 3.0k • 🔱 336 • 12h ago
 
 ---
 
