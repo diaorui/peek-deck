@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T10:33:24.035800+00:00'
+updated: '2025-12-15T10:55:18.964930+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 10:33 UTC  
+**Last Updated:** December 15, 2025 at 10:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -3.2%  
-**30d:** -4.6%  
-**90d:** -22.8%  
-**1y:** -15.1%  
+**24h:** +0.2%  
+**7d:** -3.6%  
+**30d:** -4.9%  
+**90d:** -23.1%  
+**1y:** -15.4%  
 
 ---
 
@@ -123,7 +123,7 @@ Must been hurt, and now we got people bought at 124K crying when it's 90K. Absol
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -141,7 +141,7 @@ Must been hurt, and now we got people bought at 124K crying when it's 90K. Absol
 
 **[We are going down a bit, get ready for the Peter Schiff tweets 😂](https://www.reddit.com/r/Bitcoin/comments/1pmtxa0/we_are_going_down_a_bit_get_ready_for_the_peter/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1h ago
 
 Nasdaq and MOVE index patterns warrant caution for BTC bulls.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ Financial Times • 5h ago
 
 **[Bitcoin Holders Face Heavy Losses in 10 Years, Says Peter Schiff](https://www.ccn.com/news/crypto/bitcoin-holders-heavy-losses-10-years-peter-schiff-gold-surge/)**
 
-CCN.com • 20m ago
+CCN.com • 42m ago
 
 ---
 
@@ -281,7 +281,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 2h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 3h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
@@ -305,7 +305,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 513 • ⏱️ 9:39 • 9h ago
+👁️ 31K • 👍 2K • 💬 513 • ⏱️ 9:39 • 10h ago
 
 ---
 
@@ -355,7 +355,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 81K • 👍 5K • 💬 421 • ⏱️ 17:53 • 18h ago
+👁️ 81K • 👍 5K • 💬 421 • ⏱️ 17:53 • 19h ago
 
 ---
 
@@ -385,7 +385,7 @@ BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/Cha
 
 📺 Chart Junkies
 
-👁️ 2K • 👍 103 • 💬 83 • ⏱️ 14:42 • 12h ago
+👁️ 2K • 👍 103 • 💬 83 • ⏱️ 14:42 • 13h ago
 
 ---
 

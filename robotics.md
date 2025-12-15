@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T10:33:24.043702+00:00'
+updated: '2025-12-15T10:55:18.974241+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 10:33 UTC  
+**Last Updated:** December 15, 2025 at 10:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
 
-5h ago
+6h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hello, I'm a PhD student working a project where I develoved a data adquisition 
 
 It’s pretty fun, not just for my kid, but for me too!
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in was
 
 **[do you actually hand-write URDFs from scratch?](https://www.reddit.com/r/robotics/comments/1pn0vtu/do_you_actually_handwrite_urdfs_from_scratch/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -138,7 +138,7 @@ CNET • 1d ago
 
 They make robot vacuums, lots of them
 
-The Verge • 1h ago
+The Verge • 2h ago
 
 ---
 
@@ -160,7 +160,7 @@ Times Union • 21h ago
 
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 

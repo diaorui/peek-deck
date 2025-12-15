@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T10:33:24.040944+00:00'
+updated: '2025-12-15T10:55:18.970926+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 10:33 UTC  
+**Last Updated:** December 15, 2025 at 10:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
-**7d:** -4.3%  
-**30d:** +2.5%  
-**90d:** -30.8%  
-**1y:** -20.3%  
+**24h:** +2.5%  
+**7d:** -4.8%  
+**30d:** +2.0%  
+**90d:** -31.1%  
+**1y:** -20.6%  
 
 ---
 
@@ -172,7 +172,7 @@ AMBCrypto • 1d ago
 
 Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
-Nasdaq • 22h ago
+Nasdaq • 23h ago
 
 ---
 
@@ -290,7 +290,7 @@ We have covered the bull case extensively—the dividends, the MAVAN launch, and
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 33 • 💬 18 • ⏱️ 10:35 • 12h ago
+👁️ 1K • 👍 33 • 💬 18 • ⏱️ 10:35 • 13h ago
 
 ---
 
@@ -320,7 +320,7 @@ OPEN ACCOUNT & DEPOSIT & TRADE & VIP GROUP ACCESS ( LIFETIME ) --- 1. XM - https
 
 📺 The Scalper King
 
-👁️ 32K • 👍 1K • 6h ago
+👁️ 32K • 👍 1K • 7h ago
 
 ---
 
