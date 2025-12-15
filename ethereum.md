@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T06:46:41.460578+00:00'
+updated: '2025-12-15T07:13:43.704709+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 06:46 UTC  
+**Last Updated:** December 15, 2025 at 07:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,9 +43,9 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.5%  
-**7d:** -5.6%  
-**30d:** +1.1%  
-**90d:** -31.7%  
+**7d:** -5.7%  
+**30d:** +1.0%  
+**90d:** -31.8%  
 **1y:** -21.4%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-44m ago
+1h ago
 
 ---
 
@@ -172,7 +172,7 @@ AMBCrypto • 1d ago
 
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
@@ -194,7 +194,7 @@ MSN • 1h ago
 
 Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
-Nasdaq • 18h ago
+Nasdaq • 19h ago
 
 ---
 
@@ -202,7 +202,7 @@ Nasdaq • 18h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday after correcting slightly in the previous week. The top three cryptocurrencies by market capitalization could face increased downside risk as bearish momentum builds across key indicators.
 
-FXStreet • 2h ago
+FXStreet • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 8K • 👍 355 • 💬 54 • ⏱️ 20:08 • 9h ago
+👁️ 8K • 👍 355 • 💬 54 • ⏱️ 20:08 • 10h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 149 • 💬 5 • ⏱️ 8:04 • 14h ago
+👁️ 3K • 👍 149 • 💬 5 • ⏱️ 8:04 • 15h ago
 
 ---
 
@@ -320,7 +320,7 @@ Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.pa
 
 📺 Thomas Boleto – Bitcoin Insights
 
-👁️ 112 • 👍 18 • 💬 2 • ⏱️ 15:33 • 4h ago
+👁️ 112 • 👍 18 • 💬 2 • ⏱️ 15:33 • 5h ago
 
 ---
 

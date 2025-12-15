@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T06:46:41.465413+00:00'
+updated: '2025-12-15T07:13:43.708038+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 06:46 UTC  
+**Last Updated:** December 15, 2025 at 07:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-9h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 RIP, between the failed Amazon acquisition and the stiff competition this was a long time coming but still very sad. Theyre being bought by their Chinese manufacturer, which I found interesting when there are so many Chinese competitors in the market. I wonder if they will try to continue the brand.
 
-🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 3h ago
+🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 4h ago
 
 ---
 
@@ -60,7 +60,7 @@ Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on th
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-20h ago
+21h ago
 
 ---
 
@@ -84,7 +84,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-20h ago
+21h ago
 
 ---
 
@@ -96,7 +96,7 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 **[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -154,7 +154,7 @@ South China Morning Post • 1d ago
 
 Robot companies are racing toward a breakout year, but they'll have to confront some fundamental problems before making bigger promises.
 
-CNET • 22h ago
+CNET • 23h ago
 
 ---
 
@@ -176,7 +176,7 @@ Reuters • 3h ago
 
 /PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
 
-PR Newswire • 6h ago
+PR Newswire • 7h ago
 
 ---
 
@@ -198,7 +198,7 @@ TechCrunch • 4h ago
 
 📺 CNET
 
-👁️ 14K • 👍 418 • 💬 51 • ⏱️ 6:41 • 17h ago
+👁️ 14K • 👍 418 • 💬 51 • ⏱️ 6:41 • 18h ago
 
 ---
 
@@ -218,7 +218,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 176K • 👍 6K • 💬 216 • ⏱️ 0:34 • 22h ago
+👁️ 176K • 👍 6K • 💬 216 • ⏱️ 0:34 • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 190K • 👍 918 • 💬 303 • ⏱️ 0:47 • 5d ago
+👁️ 190K • 👍 918 • 💬 303 • ⏱️ 0:47 • 6d ago
 
 ---
 

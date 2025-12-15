@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T06:46:41.451248+00:00'
+updated: '2025-12-15T07:13:43.698540+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 06:46 UTC  
+**Last Updated:** December 15, 2025 at 07:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,278.29
+### $89,767.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -3.5%  
+**24h:** -0.6%  
+**7d:** -3.4%  
 **30d:** -4.8%  
 **90d:** -23.0%  
-**1y:** -15.3%  
+**1y:** -15.2%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
 
-10h ago
+11h ago
 
 ---
 
@@ -101,7 +101,7 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
 
-5h ago
+6h ago
 
 ---
 
@@ -113,13 +113,13 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -149,7 +149,7 @@ I have empty hands
 
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 8h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -181,13 +181,13 @@ Yahoo Finance • 1h ago
 
 Trading volumes have thinned noticeably in recent sessions, amplifying price moves and reinforcing a defensive tone, some market watchers say.
 
-CoinDesk • 52m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -325,7 +325,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 255 • ⏱️ 9:39 • 5h ago
+👁️ 19K • 👍 1K • 💬 255 • ⏱️ 9:39 • 6h ago
 
 ---
 
@@ -345,7 +345,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 12K • 👍 850 • 💬 73 • ⏱️ 3:56 • 13h ago
+👁️ 12K • 👍 850 • 💬 73 • ⏱️ 3:56 • 14h ago
 
 ---
 
@@ -355,7 +355,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 150 • ⏱️ 9:48 • 13h ago
+👁️ 24K • 👍 2K • 💬 150 • ⏱️ 9:48 • 14h ago
 
 ---
 
@@ -365,7 +365,7 @@ For more than a decade, Bitcoin lived by one rhythm: the four-year halving cycle
 
 📺 The Bitcoin Revolution
 
-👁️ 1K • 👍 66 • 💬 54 • ⏱️ 12:07 • 15h ago
+👁️ 1K • 👍 66 • 💬 54 • ⏱️ 12:07 • 16h ago
 
 ---
 
