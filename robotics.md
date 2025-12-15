@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T11:20:52.329006+00:00'
+updated: '2025-12-15T11:38:41.514605+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 11:20 UTC  
+**Last Updated:** December 15, 2025 at 11:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 **[Custom Differential Drive Robot | ESP32 + micro-ROS + ROS 2 + PID Control (Video)](https://www.reddit.com/r/robotics/comments/1pn389p/custom_differential_drive_robot_esp32_microros/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hello, I'm a PhD student working a project where I develoved a data adquisition 
 
 It’s pretty fun, not just for my kid, but for me too!
 
-2h ago
+3h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Verge • 2h ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 20h ago
+InvestorPlace • 21h ago
 
 ---
 
@@ -160,7 +160,7 @@ Times Union • 22h ago
 
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-The Motley Fool • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -208,7 +208,7 @@ Scientific American • 2d ago
 
 📺 Farooq tv
 
-👁️ 7K • 👍 47 • 💬 1 • ⏱️ 0:09 • 19h ago
+👁️ 7K • 👍 47 • 💬 1 • ⏱️ 0:09 • 20h ago
 
 ---
 

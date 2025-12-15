@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T11:20:52.326218+00:00'
+updated: '2025-12-15T11:38:41.511336+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 11:20 UTC  
+**Last Updated:** December 15, 2025 at 11:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
+**24h:** +1.8%  
 **7d:** -4.8%  
-**30d:** +1.9%  
-**90d:** -31.2%  
+**30d:** +2.0%  
+**90d:** -31.1%  
 **1y:** -20.7%  
 
 ---
@@ -180,7 +180,7 @@ Nasdaq • 23h ago
 
 Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -218,7 +218,7 @@ FXStreet • 7h ago
 
 **[Bitcoin, Ethereum funds see outflows while XRP ETFs log nearly $1 billion in unbroken 30-day inflow streak since debut](https://www.msn.com/en-us/money/markets/bitcoin-ethereum-funds-see-outflows-while-xrp-etfs-log-nearly-1-billion-in-unbroken-30-day-inflow-streak-since-debut/ar-AA1SmL3t?ocid=finance-verthp-feeds)**
 
-MSN • 1h ago
+MSN • 2h ago
 
 ---
 
@@ -226,7 +226,7 @@ MSN • 1h ago
 
 Firedancer could start a new wave of adoption for Solana, especially from institutions that see a mitigated centralization risk from its validators.
 
-CryptoSlate • 14h ago
+CryptoSlate • 15h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 128 • 💬 8 • ⏱️ 6:25 • 7h ago
+👁️ 2K • 👍 128 • 💬 8 • ⏱️ 6:25 • 8h ago
 
 ---
 

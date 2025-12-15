@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T11:20:52.313577+00:00'
+updated: '2025-12-15T11:38:41.496934+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
-- social
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 11:20 UTC  
+**Last Updated:** December 15, 2025 at 11:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ This took a hot second, but I finally mapped out the The Intelligence Analysis F
 
 People are starting to hand more decisions to AI agents, from booking trips to sorting digital files. The idea sounds simple. Tell the agent what you want, then let it work through the steps. The hard part is what the agent does with personal data along the way. A new research study digs into this problem, and asks a basic question. How should an AI agent know when to use someone’s data without asking every time?
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 1h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-23h ago
+1d ago
 
 ---
 
@@ -137,7 +137,7 @@ The Economist • 1d ago
 
 It's unnerving how much of the global economy is dependent on $400 million lithography machines.
 
-Gizmodo • 50m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Gizmodo • 50m ago
 
 Andrew Left is headed for a big legal fight in 2026. Business Insider viewed his conversation with Claude to see how he's prepping for the case.
 
-Business Insider • 50m ago
+Business Insider • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Business Insider • 50m ago
 
 A new generation of AI algorithms aim to go beyond detecting cancers to predicting risk for cardiovascular diseases.
 
-statnews.com • 1h ago
+statnews.com • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Wall Street Journal • 13h ago
 
 **[AI Is Getting Dangerously Good at Political Persuasion](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -223,7 +223,7 @@ Some (well-known) consequences of AI automating work
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 211 • 💬 188 • 10h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 211 • 💬 188 • 11h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -315,7 +315,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 47K • 👍 2K • 💬 284 • ⏱️ 20:44 • 10h ago
+👁️ 47K • 👍 2K • 💬 284 • ⏱️ 20:44 • 11h ago
 
 ---
 
@@ -335,7 +335,7 @@ In Dubai, this futuristic AI Salon Pod delivers an instant hair transformation w
 
 📺 AI Robot Lab
 
-👁️ 1.3M • 👍 6K • 💬 24 • ⏱️ 0:16 • 1d ago
+👁️ 1.3M • 👍 6K • 💬 24 • ⏱️ 0:16 • 2d ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.3k • 🔱 361 • 1h ago
+⭐ 3.3k • 🔱 361 • 2h ago
 
 ---
 
@@ -719,7 +719,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 863 • 🔱 49 • 3h ago
+⭐ 863 • 🔱 49 • 4h ago
 
 ---
 

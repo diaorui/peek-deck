@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T11:20:52.321006+00:00'
+updated: '2025-12-15T11:38:41.505405+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 11:20 UTC  
+**Last Updated:** December 15, 2025 at 11:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -3.3%  
-**30d:** -4.7%  
-**90d:** -22.9%  
-**1y:** -15.1%  
+**24h:** +0.2%  
+**7d:** -3.4%  
+**30d:** -4.8%  
+**90d:** -23.0%  
+**1y:** -15.3%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -129,7 +129,7 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[Back in 2012 i was busy copy and pasting jpeg from my dad's pc to my nokia N-gage lol](https://www.reddit.com/r/Bitcoin/comments/1pn2i9e/back_in_2012_i_was_busy_copy_and_pasting_jpeg/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Block • 13h ago
 
 Itaú Asset Management, Brazil’s largest privately-owned asset manager, is now officially advising its clients to buy Bitcoin BTC $89 857 24h volatility: 0.0% Market cap: $1.79 T Vol. 24h: $35.22 B . This marks a major turning point for crypto adoption in Latin America. The firm suggests a “calibrated” 1% ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -183,13 +183,13 @@ The Motley Fool • 17h ago
 
 New analysis suggests Bitcoin’s four-year cycles have been replaced — and the world’s biggest cryptocurrency could rebound to $140,000 at some point in the next 180 days.According to Copper, the arrival of exchange-traded funds tracking BTC’s spot price have changed this digital asset’s behavior, and given way to what it ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Price Slips Below $90,000, XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqdy6smalAr38I-a8amabSnED6fNLa92XUb2Qndi9_5oTU2xRxb6ZnGe&gaa_ts=693ff27f&gaa_sig=sVddLcym-i12_RXvEXzb3N55jrw1DGHm76vF9Z1rn6_qoJBpYDonZL6C2n6spCFK37sM6LjGHO5wGgGP5o5elQ%3D%3D)**
 
-Barron's • 34m ago
+Barron's • 52m ago
 
 ---
 
@@ -197,7 +197,7 @@ Barron's • 34m ago
 
 This top crypto has dropped 27% in the past two months.
 
-The Motley Fool • 42m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -253,7 +253,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 4d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 5d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 163 • ⏱️ 14:17 • 11h ago
+👁️ 30K • 👍 2K • 💬 163 • ⏱️ 14:17 • 12h ago
 
 ---
 
@@ -315,7 +315,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 277 • ⏱️ 9:35 • 11h ago
+👁️ 42K • 👍 2K • 💬 277 • ⏱️ 9:35 • 12h ago
 
 ---
 
@@ -335,7 +335,7 @@ TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE 
 
 📺 Jason Pizzino
 
-👁️ 11K • 👍 762 • 💬 299 • ⏱️ 34:43 • 8h ago
+👁️ 11K • 👍 762 • 💬 299 • ⏱️ 34:43 • 9h ago
 
 ---
 
@@ -355,7 +355,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 81K • 👍 5K • 💬 421 • ⏱️ 17:53 • 19h ago
+👁️ 81K • 👍 5K • 💬 421 • ⏱️ 17:53 • 20h ago
 
 ---
 
