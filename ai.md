@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T19:26:31.858052+00:00'
+updated: '2025-12-15T19:41:32.603824+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 19:26 UTC  
+**Last Updated:** December 15, 2025 at 19:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Now RAM prices are hitting record highs, because it's more profitable for manufa
 
 **[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.reddit.com/r/artificial/comments/1pnbr3t/google_ai_summaries_are_ruining_the_livelihoods/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion) • 2h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion) • 3h ago
 
 ---
 
@@ -63,7 +63,7 @@ Now RAM prices are hitting record highs, because it's more profitable for manufa
 
 Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/watch?v=9O0djoqgasw
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 Also: All the news and watercooler chat from Fortune.
 
-🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 2h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 3h ago
 
 ---
 
@@ -111,7 +111,7 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
 
-10h ago
+11h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’ve been playing around with some AI video tools lately just to see what’s 
 
 A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 2h ago
 
 The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
 
-CNN • 2h ago
+CNN • 3h ago
 
 ---
 
@@ -165,7 +165,7 @@ Axios • 5h ago
 
 Nearly half of US workers say they use AI, up from just 21% a few years ago, according to a new Gallup poll. No wonder OpenAI intends to focus on enterprise products in 2026.
 
-PCMag • 41m ago
+PCMag • 56m ago
 
 ---
 
@@ -173,13 +173,13 @@ PCMag • 41m ago
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-Fortune • 20m ago
+Fortune • 35m ago
 
 ---
 
 **[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqecxIR4wjQkU9m-PXafwf1BzPwqvwa6EYDpTjZHmFSGxRK08vunH9dv&gaa_ts=6940644f&gaa_sig=h5_tU9jahHt0z9vXMaZ84erkezT_VfcQ59JpkdeKzbwpfCwaAu8BNS_yDS-yncZ9N77zsqjjxO-IBqWGavktXA%3D%3D)**
 
-The Wall Street Journal • 10m ago
+The Wall Street Journal • 25m ago
 
 ---
 
@@ -227,7 +227,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 254 • 💬 257 • 18h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 254 • 💬 257 • 19h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.5k • 🔱 375 • 9h ago
+⭐ 3.5k • 🔱 375 • 10h ago
 
 ---
 

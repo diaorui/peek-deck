@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T19:26:31.866829+00:00'
+updated: '2025-12-15T19:41:32.612501+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 19:26 UTC  
+**Last Updated:** December 15, 2025 at 19:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,158.45
+### $86,162.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -7.2%  
-**30d:** -8.5%  
-**90d:** -26.0%  
-**1y:** -18.6%  
+**24h:** -3.0%  
+**7d:** -7.4%  
+**30d:** -8.7%  
+**90d:** -26.2%  
+**1y:** -18.8%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Are you still buying?
 
-3h ago
+4h ago
 
 ---
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ Buy some bitcoin and store it.
 
 **[The best ever gift to receive? what have u done if u had got this gift](https://www.reddit.com/r/Bitcoin/comments/1pn7aw1/the_best_ever_gift_to_receive_what_have_u_done_if/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -109,13 +109,13 @@ Buy some bitcoin and store it.
 
 The bitcoin manipulation is wild esp with Saylor’s buys. He buys almost a billion and the price crashes what am I missing? #btc
 
-3h ago
+4h ago
 
 ---
 
 **[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
 **[Bitcoin Holders: Bull Market vs. Bear Market](https://www.reddit.com/r/Bitcoin/comments/1pnf280/bitcoin_holders_bull_market_vs_bear_market/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 14h ago
 
 Popular Ethereum wallet MetaMask has added support for Bitcoin, expanding more broadly ahead of its planned token launch.
 
-Yahoo Finance • 35m ago
+Yahoo Finance • 50m ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 35m ago
 
 American Bitcoin Corp increased its Bitcoin holdings by 261 BTC, taking total reserves to 5,044 BTC. The latest purchase comes as Bitcoin BTC $86 253 24h volatility: 2.9% Market cap: $1.72 T Vol. 24h: $49.03 B traded near $89,700 at press time, valuing the company’s stash at more than $450 ...
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 42m ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 27m ago
 
 The original cryptocurrency has been drifting toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October, analysts have said.  Bitcoin fell as much as 3.3% to $85,5787 on Monday, and is down around 30% from its record high of more than $126,000.  “We’ve continued to trade this very choppy range between 85k-94k in BTC, with a continued lack of interest and low volumes broadly across crypto markets,” said Bohan Jiang, senior derivatives trader at FalconX.
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Motley Fool • 4h ago
 
 Bitcoin price slipped below $90,000 during typically thin Sunday trading, magnifying downside volatility as traders pulled back risk ahead of a heavy week of U.S. economic data.
 
-Bitcoin Magazine • 4h ago
+Bitcoin Magazine • 5h ago
 
 ---
 
@@ -307,7 +307,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 558 • 💬 102 • ⏱️ 23:41 • 2h ago
+👁️ 7K • 👍 558 • 💬 102 • ⏱️ 23:41 • 3h ago
 
 ---
 
@@ -337,7 +337,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 158 • ⏱️ 52:24 • 3h ago
+👁️ 19K • 👍 1K • 💬 158 • ⏱️ 52:24 • 4h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 2K • 💬 198 • ⏱️ 14:17 • 19h ago
+👁️ 42K • 👍 2K • 💬 198 • ⏱️ 14:17 • 20h ago
 
 ---
 
@@ -367,7 +367,7 @@ THIS BITCOIN KEYNOTE IS SHAKING THE ENTIRE MARKET. Michael Saylor takes the stag
 
 📺 Dani Ruth
 
-👁️ 3K • 👍 1K • 58m ago
+👁️ 3K • 👍 1K • 1h ago
 
 ---
 
@@ -377,7 +377,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 2K • 💬 425 • ⏱️ 9:35 • 19h ago
+👁️ 61K • 👍 2K • 💬 425 • ⏱️ 9:35 • 20h ago
 
 ---
 
@@ -387,7 +387,7 @@ Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!*
 
 📺 Crypto Casey
 
-👁️ 5K • 👍 819 • 💬 64 • ⏱️ 14:34 • 2h ago
+👁️ 5K • 👍 819 • 💬 64 • ⏱️ 14:34 • 3h ago
 
 ---
 
@@ -397,7 +397,7 @@ Come look into the next BIG move in crypto! All LIVE analysis, charting, and tra
 
 📺 Tom Crown
 
-👁️ 3K • 👍 258 • 💬 12 • ⏱️ 1:17:49 • 15m ago
+👁️ 3K • 👍 258 • 💬 12 • ⏱️ 1:17:49 • 30m ago
 
 ---
 

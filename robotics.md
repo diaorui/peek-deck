@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T19:26:31.875950+00:00'
+updated: '2025-12-15T19:41:32.621929+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 19:26 UTC  
+**Last Updated:** December 15, 2025 at 19:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -98,7 +98,7 @@ Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on th
 
 **[Custom Differential Drive Robot | ESP32 + micro-ROS + ROS 2 + PID Control (Video)](https://www.reddit.com/r/robotics/comments/1pn389p/custom_differential_drive_robot_esp32_microros/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -140,7 +140,7 @@ Fortune • 2d ago
 
 Elon Musk isn't sleeping well these days — and it's not the launch schedules or Tesla earnings calls. It's AI. On an episode of "The Katie Miller Podcast" released in December, the Tesla CEO was asked if anything keeps him up at night. He responded, "AI. Yeah, actually." He then said, "I've had a lot of AI nightmares… many days in a row." The conversation started with Miller referencing Musk's past claims that people might not need to work in the future. Musk said that belief still holds. "Assum
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -148,7 +148,7 @@ Yahoo • 1h ago
 
 Two Quebecers have been crowned champions at the World Robot Olympiad, a major robotics competition for young people. They won the gold medal in the category of Future Engineers.
 
-Yahoo News Canada • 1h ago
+Yahoo News Canada • 2h ago
 
 ---
 
@@ -156,7 +156,7 @@ Yahoo News Canada • 1h ago
 
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -188,7 +188,7 @@ ts2.tech • 5h ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 14h ago
+InvestorPlace • 15h ago
 
 ---
 
@@ -202,7 +202,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 4K • 👍 136 • 💬 12 • ⏱️ 1:05 • 4h ago
+👁️ 4K • 👍 136 • 💬 12 • ⏱️ 1:05 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T19:26:31.872762+00:00'
+updated: '2025-12-15T19:41:32.618598+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 19:26 UTC  
+**Last Updated:** December 15, 2025 at 19:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -46,7 +46,7 @@ Live Ethereum monitoring dashboard
 **7d:** -11.0%  
 **30d:** -4.7%  
 **90d:** -35.6%  
-**1y:** -25.8%  
+**1y:** -25.9%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-28m ago
+43m ago
 
 ---
 
@@ -88,7 +88,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-49m ago
+1h ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 2d ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 3d ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1h ago
 
 Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 831 • 👍 106 • 💬 21 • ⏱️ 10:03 • 3h ago
+👁️ 831 • 👍 106 • 💬 21 • ⏱️ 10:03 • 4h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 9 • ⏱️ 6:25 • 15h ago
+👁️ 3K • 👍 169 • 💬 9 • ⏱️ 6:25 • 16h ago
 
 ---
 
@@ -278,7 +278,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 2K • 💬 425 • ⏱️ 9:35 • 19h ago
+👁️ 61K • 👍 2K • 💬 425 • ⏱️ 9:35 • 20h ago
 
 ---
 
