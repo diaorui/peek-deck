@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T13:53:55.521075+00:00'
+updated: '2025-12-15T14:22:36.769727+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 13:53 UTC  
+**Last Updated:** December 15, 2025 at 14:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,537.93
+### $89,049.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -3.6%  
+**24h:** +0.7%  
+**7d:** -3.7%  
 **30d:** -5.0%  
-**90d:** -23.1%  
+**90d:** -23.2%  
 **1y:** -15.5%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 The French parliament just voted on an amendment forcing us to declare self-custody wallets (Ledger/Trezor) to the tax authorities if they hold more than €5,000. This effectively builds a massive centralized honeypot linking real identities to home addresses and exact holdings, which is a massive security risk and a wrench attack nightmare. ​I'm urgently looking for technical strategies to protect my privacy here. I need to know if "structuring" by splitting the stack into multiple sub-€5k wallets is a viable way to bypass the threshold, or if I should be looking into CoinJoin/Whirlpool to sever the link from my KYC exchange history before moving to fresh storage. I'm also trying to understand how they could possibly enforce this without me voluntarily doxxing my XPUB, so I'm curious if non-compliance is the general consensus. Any advice on keeping my stack off this registry would be appreciated.
 
-6h ago
+7h ago
 
 ---
 
@@ -93,7 +93,7 @@ The French parliament just voted on an amendment forcing us to declare self-cust
 
 **[The best ever gift to receive? what have u done if u had got this gift](https://www.reddit.com/r/Bitcoin/comments/1pn7aw1/the_best_ever_gift_to_receive_what_have_u_done_if/)**
 
-27m ago
+55m ago
 
 ---
 
@@ -107,7 +107,7 @@ The French parliament just voted on an amendment forcing us to declare self-cust
 
 Now banks aren't even required to have reserve deposits! In the United States, as of December 2025, the required reserve ratio for depository institutions (including commercial banks, savings banks, credit unions, and others) is 0%. The Federal Reserve Board set reserve requirement ratios to zero percent effective March 26, 2020, in response to economic conditions, and this policy remains in effect with no announced plans to reinstate them.
 
-1h ago
+2h ago
 
 ---
 
@@ -115,7 +115,7 @@ Now banks aren't even required to have reserve deposits! In the United States, a
 
 5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
 
-12h ago
+13h ago
 
 ---
 
@@ -123,13 +123,13 @@ Now banks aren't even required to have reserve deposits! In the United States, a
 
 Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 1h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 2h ago
 
 ---
 
 **[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -137,13 +137,13 @@ Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
 Must been hurt, and now we got people bought at 124K crying when it's 90K. Absolute cinema.
 
-6h ago
+7h ago
 
 ---
 
 **[Member of r/bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pn5j1p/member_of_rbitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -155,13 +155,13 @@ Must been hurt, and now we got people bought at 124K crying when it's 90K. Absol
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 5h ago
 
 This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -185,13 +185,13 @@ The Motley Fool • 19h ago
 
 Veteran trader Peter Brandt warns that bitcoin's growth parabola has fractured, potentially leading to a price drop to $25,000.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Bitcoin Analyst Predicts $6M In Just 15 Years — How Much Bitcoin Will You Need To Retire?](https://www.ccn.com/news/crypto/bitcoin-analyst-predicts-6m-how-much-bitcoin-you-need-retire/)**
 
-CCN.com • 1h ago
+CCN.com • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Barron's • 3h ago
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -219,7 +219,7 @@ Tom's Hardware • 2d ago
 
 Strategy chair Michael Saylor signaled that his firm may add to its Bitcoin holdings just as the market slid again on Sunday, a move that kept traders on edge and fed fresh debate over what is driving the declines.Back To More Orange DotsAccording to a post on X, Saylor shared a chart with the phra…
 
-TradingView — Track All Markets • 1h ago
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -247,7 +247,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 59m ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 1h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 541 • ⏱️ 9:39 • 12h ago
+👁️ 34K • 👍 2K • 💬 541 • ⏱️ 9:39 • 13h ago
 
 ---
 
@@ -335,7 +335,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 12K • 👍 550 • 💬 323 • ⏱️ 15:03 • 8h ago
+👁️ 12K • 👍 550 • 💬 323 • ⏱️ 15:03 • 9h ago
 
 ---
 
@@ -375,7 +375,7 @@ Is Bitcoin's recent crash really just “market volatility”—or are major ins
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 204 • ⏱️ 9:48 • 20h ago
+👁️ 27K • 👍 2K • 💬 204 • ⏱️ 9:48 • 21h ago
 
 ---
 
