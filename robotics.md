@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T23:48:58.699203+00:00'
+updated: '2025-12-15T23:59:41.977067+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 23:48 UTC  
+**Last Updated:** December 15, 2025 at 23:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -140,7 +140,7 @@ Scientific American • 2d ago
 
 They make robot vacuums, lots of them
 
-The Verge • 14h ago
+The Verge • 15h ago
 
 ---
 
