@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T22:41:23.733020+00:00'
+updated: '2025-12-15T22:53:51.204065+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 22:41 UTC  
+**Last Updated:** December 15, 2025 at 22:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -7.7%  
-**30d:** -9.0%  
-**90d:** -26.4%  
-**1y:** -19.0%  
+**24h:** -2.5%  
+**7d:** -7.4%  
+**30d:** -8.7%  
+**90d:** -26.2%  
+**1y:** -18.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1717.46B
+**Market Cap:** $1717.54B
 Rank #1
 
 **Circulating Supply:** 19,962,565 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.7%
+-31.8%
 
 **All-Time Low:** $67.81
-+126810.5%
++126745.6%
 
 ---
 
@@ -97,6 +97,12 @@ Are you still buying?
 
 ---
 
+**[Just doing my part. Dip = bought](https://www.reddit.com/r/Bitcoin/comments/1pnazib/just_doing_my_part_dip_bought/)**
+
+6h ago
+
+---
+
 **[Don’t Sell](https://www.reddit.com/r/Bitcoin/comments/1pn8nl0/dont_sell/)**
 
 Buy some bitcoin and store it.
@@ -125,12 +131,6 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 ---
 
-**[Just doing my part. Dip = bought](https://www.reddit.com/r/Bitcoin/comments/1pnazib/just_doing_my_part_dip_bought/)**
-
-6h ago
-
----
-
 **[Bitcoin is Dead](https://www.reddit.com/r/Bitcoin/comments/1pnhr4c/bitcoin_is_dead/)**
 
 Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many times Bitcoin has been declared dead by critics and media, with the complete database of Bitcoin deaths.
@@ -139,9 +139,9 @@ Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many time
 
 ---
 
-**[Ah Shit. Here we go again](https://www.reddit.com/r/Bitcoin/comments/1pnau8j/ah_shit_here_we_go_again/)**
+**[14 of the top 25 U.S. Banks are building bitcoin products for customers](https://www.reddit.com/r/Bitcoin/comments/1pnhvtj/14_of_the_top_25_us_banks_are_building_bitcoin/)**
 
-6h ago
+2h ago
 
 ---
 
@@ -165,6 +165,28 @@ Financial Times • 17h ago
 
 ---
 
+**[Bitcoin Down, MSTR Sliding — Why Did a $284B NY Pension Fund Buy Despite a 7% Drop?](https://finance.yahoo.com/news/bitcoin-down-mstr-sliding-why-220037972.html)**
+
+Bitcoin prices extended their decline this week, dragging closely correlated equities lower and pushing shares of Strategy (MSTR) down sharply during regular trading hours. Yet even as the stock slid more than 7% in a single session, one of the largest public pension funds in the United States quietly increased ...
+
+Yahoo Finance • 53m ago
+
+---
+
+**[Got Bitcoin or XRP? Do This 1 Thing Right Now or Risk Disaster.](https://www.fool.com/investing/2025/12/15/got-bitcoin-or-xrp-do-this-1-thing-right-now-or-ri/)**
+
+Sometimes you are the biggest risk to your portfolio's health.
+
+The Motley Fool • 7h ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqeiDbz4AsJhXYbZ8dzM0_awMYLTFDxNnhHvlMkTzDmV-ovnS9PiEqUU&gaa_ts=694094ed&gaa_sig=1xjjYmgmc7gz3RXsFi1eZU5YLXNm3mR82HMt08VLYfm6X8LebyEEGJg30FEu2_vU2MZDau_UOV7BRWFTEumiyQ%3D%3D)**
+
+Barron's • 4h ago
+
+---
+
 **[Why are BTC, XRP, ETH and SOL down today and what's next](https://www.coindesk.com/markets/2025/12/15/signs-of-fatigue-but-downside-likely-limited-as-bitcoin-tumbles-out-of-trading-range)**
 
 Crypto-related stocks suffered far deeper declines as bitcoin slumped well below its recent trading range.
@@ -173,37 +195,9 @@ CoinDesk • 1h ago
 
 ---
 
-**[Look Out Below: Another 3% Drop In Bitcoin Brings This Token Toward a Key Level](https://www.fool.com/investing/2025/12/15/look-out-below-another-3-drop-in-bitcoin-brings-th/)**
-
-Bitcoin's recent price decline has picked up steam in recent weeks.
-
-The Motley Fool • 1h ago
-
----
-
-**[UK Supreme Court Shuts Down $13 Billion Bitcoin SV Case Appeal](https://finance.yahoo.com/news/uk-supreme-court-shuts-down-212918846.html)**
-
-Bitcoin SV (BSV) investors had their appeal refused by the UK Supreme Court, dismissing a $13 billion claim in the process.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcvTlOS7aVL1WSCcEJHPvpVuz4xLbab2osb4y9h3MHevOAgNhl1brxU&gaa_ts=69408d07&gaa_sig=b1g2EYXcuZxzZ1HAzExp0B8xMdEUvseiXZQcvlztz7kp8KLBi_C9JX-QBcJ5QQjz00dFY1Z6xqPw7RbsRauN3w%3D%3D)**
-
-Barron's • 4h ago
-
----
-
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
 The Block • 1d ago
-
----
-
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqf-jZ7sldC4z7Q0vrodaB36CLnIxHYSt4gnkjruqNMmepdPP9RKXh1L&gaa_ts=69408d07&gaa_sig=EhYannIOL915HajXX_I3sFWqltW69gJEVhzn6ueZy934PlLU0rjuepn-78ildsjynIk27ZYC64w8buGCrtdjUA%3D%3D)**
-
-MarketWatch • 9h ago
 
 ---
 
@@ -216,6 +210,14 @@ thestreet.com • 5h ago
 **[Bitcoin price today: subdued below $89k amid risk-off mood; key US data awaited](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-ticks-down-below-90k-amid-riskoff-mood-key-us-data-awaited-4407239)**
 
 Investing.com • 15h ago
+
+---
+
+**[Luke Gromen Turns Bearish, Warns Bitcoin Could Slide to $40K](https://bitbo.io/news/gromen-bitcoin-bearish-40k/)**
+
+Macro analyst Luke Gromen has adopted a near-term bearish stance on Bitcoin, citing macroeconomic shifts, technical weakness, and rising quantum risk narratives as reasons for a possible slide to $40,000 in 2026.
+
+Bitbo • 9h ago
 
 ---
 
@@ -287,7 +289,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 14h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 15h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T22:41:23.738974+00:00'
+updated: '2025-12-15T22:53:51.210068+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 22:41 UTC  
+**Last Updated:** December 15, 2025 at 22:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.11B
+**Market Cap:** $355.00B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.6%
 
 **All-Time Low:** $0.43
-+679027.6%
++678939.9%
 
 ---
 
@@ -92,11 +92,19 @@ I’ve never bought ETH before, but I’m thinking of getting some exposure now.
 
 ---
 
+**[https://ethereumobituaries.com/](https://www.reddit.com/r/ethereum/comments/1pnlj78/httpsethereumobituariescom/)**
+
+https://preview.redd.it/29vkhaf25g7g1.jpg?width=640&format=pjpg&auto=webp&s=11ef8e687e7c4442b7963a4c5380567b25d2dc77 https://preview.redd.it/wsemopfa5g7g1.png?width=516&format=png&auto=webp&s=c5d6601cde283f957ebfbb75a5e4901342a2d265 Le site Ethereum Obituaries (ethereumobituaries.com) est un projet open-source qui recense toutes les fois où Ethereum a été déclaré “mort” ou “finito” dans les médias ou par des personnalités crypto. Il ne s’agit pas d’un site d’actualité officiel, mais d’un suivi chronologique de narratifs bearish autour d’ETH, avec une carte/chronologie de ces annonces 🕰️. GitHub Qui l’a conçu ? Selon le README du dépôt officiel sur GitHub, le site a été créé par Jrag, avec une mention “Created by Jrag (with help from AI as I am not a dev)”. GitHub En plus, sur la page principale et les liens associés, il est indiqué “Tinkered by Jrag.eth” sur Twitter, ce qui renforce que le créateur/mainteneur principal utilise ce pseudonyme lié à une adresse ENS (Ethereum Name Service). Ethereum Obituaries Donc, le concepteur du site est Jrag / Jrag.eth, qui a compilé et visualisé ces “obituaries” à partir d’une base de données et d’événements, en s’appuyant sur une repo GitHub publique. GitHub
+
+5m ago
+
+---
+
 **[Echidna 2.3 released with symbolic execution capabilities, Foundry reproducer integration and revamped coverage reports!](https://www.reddit.com/r/ethereum/comments/1pnh16m/echidna_23_released_with_symbolic_execution/)**
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 2h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 3h ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[1-Year Anniversary of EigenCloud's 1% Protocol Guild Pledge Contribution](https://www.reddit.com/r/ethereum/comments/1pl0vsm/1year_anniversary_of_eigenclouds_1_protocol_guild/)**
-
-One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
-
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,11 +158,27 @@ The Block • 10h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
+**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
 
-Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
+Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
-Decrypt • 4h ago
+CoinDesk • 8h ago
+
+---
+
+**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
+
+If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
+
+Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -174,19 +190,11 @@ The Motley Fool • 1h ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://finance.yahoo.com/news/better-buy-2026-ethereum-xrp-115000740.html)**
+**[Why Are Bitcoin, Ethereum and XRP Prices Falling Today?](https://www.tradingview.com/news/coinpedia:5f55e8b63094b:0-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
 
-If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+The cryptocurrency market is under pressure today, with Bitcoin, Ethereum and XRP among other altcoins all seeing sharp declines. Total crypto market value has slipped to around $3 trillion, down more than 1%.Bitcoin dropped below $87,000, Ethereum fell near $3,000, and XRP slid to around $1.92. Se…
 
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Forms Wyckoff Breakout Setup: $10,000 Price Target Back In Focus](https://www.tradingview.com/news/newsbtc:fae39eed8094b:0-ethereum-forms-wyckoff-breakout-setup-10-000-price-target-back-in-focus/)**
-
-A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
-
-TradingView — Track All Markets • 1d ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -206,25 +214,19 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
-
-Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
-
-BeInCrypto • 1d ago
-
----
-
-**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
-
-CCN.com • 9h ago
-
----
-
 **[Crypto Prices Today: Bitcoin Holds Near $89,500, Ethereum Steadies at $3,130 as Markets Watch BOJ, UK Crypto Rules and ETF Flows (Dec. 15, 2025)](https://ts2.tech/en/crypto-prices-today-bitcoin-holds-near-89500-ethereum-steadies-at-3130-as-markets-watch-boj-uk-crypto-rules-and-etf-flows-dec-15-2025/)**
 
 Crypto Prices Today: Bitcoin Holds Near $89,500, Ethereum Steadies at $3,130 as Markets Watch BOJ, UK Crypto Rules and ETF Flows (Dec. 15, 2025) - TechStock²
 
 ts2.tech • 8h ago
+
+---
+
+**[Prysm Bug After Fusaka Threatened Ethereum Stability](https://crypto.news/what-broke-ethereums-fusaka-upgrade/)**
+
+Prysm revealed a bug after Ethereum’s Fusaka upgrade that caused validator failures, missed epochs, and near-finality loss.
+
+crypto.news • 1d ago
 
 ---
 
@@ -318,7 +320,7 @@ Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitte
 
 📺 The Blockchain Today
 
-👁️ 906 • 👍 85 • 💬 12 • ⏱️ 3:50 • 11h ago
+👁️ 906 • 👍 85 • 💬 12 • ⏱️ 3:50 • 12h ago
 
 ---
 
