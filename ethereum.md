@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T09:34:31.865479+00:00'
+updated: '2025-12-15T09:56:52.315125+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 09:34 UTC  
+**Last Updated:** December 15, 2025 at 09:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -5.2%  
-**30d:** +1.5%  
-**90d:** -31.4%  
-**1y:** -21.0%  
+**24h:** +1.6%  
+**7d:** -4.8%  
+**30d:** +1.9%  
+**90d:** -31.2%  
+**1y:** -20.7%  
 
 ---
 
@@ -188,7 +188,7 @@ TradingView — Track All Markets • 17h ago
 
 Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
-Nasdaq • 21h ago
+Nasdaq • 22h ago
 
 ---
 
@@ -218,7 +218,7 @@ The Motley Fool • 2d ago
 
 **[Bitcoin, Ethereum funds see outflows while XRP ETFs log nearly $1 billion in unbroken 30-day inflow streak since debut](https://www.msn.com/en-us/money/markets/bitcoin-ethereum-funds-see-outflows-while-xrp-etfs-log-nearly-1-billion-in-unbroken-30-day-inflow-streak-since-debut/ar-AA1SmL3t?ocid=finance-verthp-feeds)**
 
-MSN • 1m ago
+MSN • 24m ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 5 • ⏱️ 6:25 • 6h ago
+👁️ 2K • 👍 128 • 💬 8 • ⏱️ 6:25 • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 8K • 👍 375 • 💬 94 • ⏱️ 20:08 • 12h ago
+👁️ 9K • 👍 384 • 💬 109 • ⏱️ 20:08 • 13h ago
 
 ---
 
@@ -260,27 +260,7 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 3K • 💬 290 • ⏱️ 31:03 • 2d ago
-
----
-
-**[The Risky Side of BMNR: Dilution, Volatility, and ETH Crashes (Bear Case)](https://www.youtube.com/watch?v=Y7U-zxH5T8Y)**
-
-We have covered the bull case extensively—the dividends, the MAVAN launch, and Tom Lee's supercycle. But a responsible ...
-
-📺 Wall Street Stockcast
-
-👁️ 1K • 👍 31 • 💬 18 • ⏱️ 10:35 • 11h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJcS4Gn5_Ak)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 151 • 💬 5 • ⏱️ 8:04 • 17h ago
+👁️ 66K • 👍 3K • 💬 292 • ⏱️ 31:03 • 2d ago
 
 ---
 
@@ -294,13 +274,33 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 ---
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJcS4Gn5_Ak)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 152 • 💬 5 • ⏱️ 8:04 • 17h ago
+
+---
+
+**[The Risky Side of BMNR: Dilution, Volatility, and ETH Crashes (Bear Case)](https://www.youtube.com/watch?v=Y7U-zxH5T8Y)**
+
+We have covered the bull case extensively—the dividends, the MAVAN launch, and Tom Lee's supercycle. But a responsible ...
+
+📺 Wall Street Stockcast
+
+👁️ 1K • 👍 33 • 💬 18 • ⏱️ 10:35 • 12h ago
+
+---
+
 **[Raoul Pal: &quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” New 2026 Crypto Cycle Prediction](https://www.youtube.com/watch?v=dK9fW80oEng)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 697 • 💬 47 • ⏱️ 20:45 • 1d ago
+👁️ 19K • 👍 706 • 💬 47 • ⏱️ 20:45 • 1d ago
 
 ---
 
@@ -314,13 +314,13 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 ---
 
-**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
+**[LIVE TRADING BTC GOLD | 15/12/2025 |#crypto  #livetrading #btc #forex #forextrading](https://www.youtube.com/watch?v=Hdlw--629gM)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+OPEN ACCOUNT & DEPOSIT & TRADE & VIP GROUP ACCESS ( LIFETIME ) --- 1. XM - https://affs.click/MKgCB ( Partner code ...
 
-📺 Savvy Finance
+📺 The Scalper King
 
-👁️ 6K • 👍 226 • 💬 12 • ⏱️ 21:14 • 1d ago
+👁️ 32K • 👍 1K • 6h ago
 
 ---
 
@@ -330,7 +330,7 @@ Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.pa
 
 📺 Thomas Boleto – Bitcoin Insights
 
-👁️ 181 • 👍 29 • 💬 5 • ⏱️ 15:33 • 7h ago
+👁️ 239 • 👍 29 • 💬 6 • ⏱️ 15:33 • 7h ago
 
 ---
 

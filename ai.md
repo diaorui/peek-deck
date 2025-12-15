@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T09:34:31.850828+00:00'
+updated: '2025-12-15T09:56:52.300525+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - social
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 09:34 UTC  
+**Last Updated:** December 15, 2025 at 09:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ RIP Copilot.
 
 "And somehow he sort of mostly manages to pull off what appears to be impossible."
 
-🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 7h ago
+🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ RIP Copilot.
 
 I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
 
-53m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ I’ve been playing around with some AI video tools lately just to see what’s 
 
 TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
 
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 9h ago
+🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 10h ago
 
 ---
 
@@ -81,7 +81,7 @@ This took a hot second, but I finally mapped out the The Intelligence Analysis F
 
 People are starting to hand more decisions to AI agents, from booking trips to sorting digital files. The idea sounds simple. Tell the agent what you want, then let it work through the steps. The hard part is what the agent does with personal data along the way. A new research study digs into this problem, and asks a basic question. How should an AI agent know when to use someone’s data without asking every time?
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 3m ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 25m ago
 
 ---
 
@@ -135,7 +135,7 @@ The Washington Post • 15h ago
 
 On December 4, 2025 four guest speakers shared and discussed insights from their current research on AI in the Media with international academic partners and alumni at the biannual IMS Digital Media Debate.
 
-DW • 13m ago
+DW • 35m ago
 
 ---
 
@@ -217,7 +217,7 @@ Some (well-known) consequences of AI automating work
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 179 • 💬 141 • 8h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 179 • 💬 141 • 9h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -249,7 +249,7 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 120 • 💬 140 • 9h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 120 • 💬 140 • 10h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -279,47 +279,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 22K • 👍 981 • 💬 96 • ⏱️ 12:07 • 10h ago
-
----
-
-**[Our 2025 Reports on Artificial Intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
-
-From November, Anderson Cooper's report on why Anthropic's CEO spends so much time warning of AI's potential dangers.
-
-📺 60 Minutes
-
-👁️ 368K • 👍 6K • 💬 845 • ⏱️ 1:21:07 • 1d ago
-
----
-
-**[OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)**
-
-Deploying on Railway feels like magic. Get $20 in free credits to try it out - https://railway.com/?referralCode=fireship Sam Altman ...
-
-📺 Fireship
-
-👁️ 406K • 👍 16K • 💬 928 • ⏱️ 4:01 • 2d ago
-
----
-
-**[Lady Soldier Rescues Grandma and Builds Golden Carousel for Her 😭 #ai #save #army](https://www.youtube.com/watch?v=Rg0j9jUTTPM)**
-
-Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
-
-📺 Anime world 
-
-👁️ 75K • 👍 603 • 💬 1 • ⏱️ 0:22 • 20h ago
-
----
-
-**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
-
-IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
-
-📺 Eurodollar University
-
-👁️ 40K • 👍 2K • 💬 262 • ⏱️ 20:44 • 9h ago
+👁️ 26K • 👍 1K • 💬 111 • ⏱️ 12:07 • 11h ago
 
 ---
 
@@ -329,17 +289,57 @@ Our Discord Community (FREE): https://discord.com/invite/Efbjh7Qj4V Review our s
 
 📺 2 and 20
 
-👁️ 93K • 👍 4K • 💬 511 • ⏱️ 12:40 • 1d ago
+👁️ 104K • 👍 4K • 💬 557 • ⏱️ 12:40 • 1d ago
 
 ---
 
-**[Why YouTube Won&#39;t Stop Pushing AI Nonsense...](https://www.youtube.com/watch?v=We7FzVfIIcs)**
+**[Our 2025 Reports on Artificial Intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
 
-Hello guys and gals, it's me Mutahar again! This time we take a look at why sites like YouTube are taking AI so seriously.
+From November, Anderson Cooper's report on why Anthropic's CEO spends so much time warning of AI's potential dangers.
 
-📺 SomeOrdinaryGamers
+📺 60 Minutes
 
-👁️ 73K • 👍 4K • 💬 768 • ⏱️ 19:00 • 1d ago
+👁️ 385K • 👍 6K • 💬 864 • ⏱️ 1:21:07 • 1d ago
+
+---
+
+**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
+
+IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
+
+📺 Eurodollar University
+
+👁️ 47K • 👍 2K • 💬 284 • ⏱️ 20:44 • 9h ago
+
+---
+
+**[🤖Dubai’s Newest AI Salon Pod Will Shock You 😲AI Haircut Machine 7.1 ✂️ Dubai’s Future Is Here!](https://www.youtube.com/watch?v=KOQ6aBWk1kE)**
+
+In Dubai, this AI Salon Pod delivers an instant hair transformation. Precision scanning, robotic styling and next-gen AI haircut ...
+
+📺 AI Robot Lab
+
+👁️ 66K • 👍 771 • 💬 12 • ⏱️ 0:17 • 23h ago
+
+---
+
+**[🤖Dubai’s Newest AI Salon Pod Will Shock You 😲AI Haircut Machine 7.0 ✂️ Dubai’s Future Is Here!](https://www.youtube.com/watch?v=PYTTK3vpDso)**
+
+In Dubai, this futuristic AI Salon Pod delivers an instant hair transformation with precision scanning, robotic styling and next-gen ...
+
+📺 AI Robot Lab
+
+👁️ 1.3M • 👍 6K • 💬 24 • ⏱️ 0:16 • 1d ago
+
+---
+
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=RxCG7MSt0pk)**
+
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+
+📺 Impossible AIs
+
+👁️ 161K • 👍 562 • 💬 13 • ⏱️ 8:26 • 2d ago
 
 ---
 
@@ -349,7 +349,7 @@ The YouTube algorithm is now full of AI generated Christmas videos... Merry SLOP
 
 📺 Steve Terreberry
 
-👁️ 233K • 👍 13K • 💬 2K • ⏱️ 16:45 • 1d ago
+👁️ 240K • 👍 14K • 💬 2K • ⏱️ 16:45 • 1d ago
 
 ---
 
@@ -359,17 +359,17 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 45K • 👍 1K • 💬 280 • ⏱️ 15:01 • 2d ago
+👁️ 45K • 👍 1K • 💬 282 • ⏱️ 15:01 • 2d ago
 
 ---
 
-**[Are AI toys exciting or dangerous? | BBC News](https://www.youtube.com/watch?v=bGrdPmrjDBQ)**
+**[OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)**
 
-In the run up to the festive season, the selection of toys on offer seems to get bigger every year – and we're now seeing more and ...
+Deploying on Railway feels like magic. Get $20 in free credits to try it out - https://railway.com/?referralCode=fireship Sam Altman ...
 
-📺 BBC News
+📺 Fireship
 
-👁️ 17K • 👍 352 • 💬 115 • ⏱️ 3:10 • 1d ago
+👁️ 411K • 👍 16K • 💬 939 • ⏱️ 4:01 • 2d ago
 
 ---
 
@@ -421,7 +421,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 340 • 16h ago
+⬇️ 15,778 • ❤️ 340 • 17h ago
 
 ---
 
@@ -469,7 +469,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,725 • ❤️ 205 • 16h ago
+⬇️ 4,725 • ❤️ 205 • 17h ago
 
 ---
 
@@ -537,7 +537,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 195 • 💬 4 • ⭐ 6,928 • 17d ago
+▲ 196 • 💬 4 • ⭐ 6,928 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -549,22 +549,9 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 19 • 💬 2 • ⭐ 12,117 • 6d ago
+▲ 19 • 💬 2 • ⭐ 12,226 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
-
----
-
-**[The Well: a Large-Scale Collection of Diverse Physics Simulations for
-  Machine Learning](https://huggingface.co/papers/2412.00568)**
-
-*Ruben Ohana, Michael McCabe, Lucas Meyer et al. (26 authors)*
-
-A large-scale dataset collection, The Well, provides diverse numerical simulations for benchmarking machine learning models in physical systems simulation.
-
-▲ 23 • 💬 2 • ⭐ 1,574 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.00568) • [💻 code](https://github.com/PolymathicAI/the_well)
 
 ---
 
@@ -578,6 +565,19 @@ Promptomatix automates prompt optimization for Large Language Models, improving 
 ▲ 17 • 💬 2 • ⭐ 407 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.14241) • [💻 code](https://github.com/SalesforceAIResearch/promptomatix)
+
+---
+
+**[The Well: a Large-Scale Collection of Diverse Physics Simulations for
+  Machine Learning](https://huggingface.co/papers/2412.00568)**
+
+*Ruben Ohana, Michael McCabe, Lucas Meyer et al. (26 authors)*
+
+A large-scale dataset collection, The Well, provides diverse numerical simulations for benchmarking machine learning models in physical systems simulation.
+
+▲ 23 • 💬 2 • ⭐ 1,583 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.00568) • [💻 code](https://github.com/PolymathicAI/the_well)
 
 ---
 
@@ -607,29 +607,30 @@ A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spok
 
 ---
 
-**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
-*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
 
-🏢 AI at Meta
+🏢 PaddlePaddle
 
-Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 112 • 💬 4 • ⭐ 5,818 • 24d ago
+▲ 107 • 💬 6 • ⭐ 66,301 • 2mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
-**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
-*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
 
-MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 35 • 💬 4 • ⭐ 50,409 • 14mo ago
+▲ 137 • 💬 2 • ⭐ 50,431 • 2mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -643,7 +644,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.1k • 🔱 2.3k • 44m ago
+⭐ 15.2k • 🔱 2.4k • 1h ago
 
 ---
 
@@ -653,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.2k • 🔱 353 • 1h ago
+⭐ 3.3k • 🔱 359 • 23m ago
 
 ---
 
@@ -663,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.8k • 🔱 139 • 6d ago
+⭐ 1.8k • 🔱 140 • 6d ago
 
 ---
 
@@ -703,7 +704,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 892 • 🔱 23 • 7d ago
+⭐ 891 • 🔱 23 • 7d ago
 
 ---
 
@@ -723,7 +724,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 704 • 🔱 105 • 6h ago
+⭐ 714 • 🔱 105 • 6h ago
 
 ---
 
@@ -733,7 +734,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 697 • 🔱 105 • 2d ago
+⭐ 701 • 🔱 106 • 3d ago
 
 ---
 

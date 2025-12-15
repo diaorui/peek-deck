@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T09:34:31.868689+00:00'
+updated: '2025-12-15T09:56:52.318415+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 09:34 UTC  
+**Last Updated:** December 15, 2025 at 09:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
 
-4h ago
+5h ago
 
 ---
 
@@ -82,7 +82,7 @@ I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in was
 
 **[Custom Differential Drive Robot | ESP32 + micro-ROS + ROS 2 + PID Control (Video)](https://www.reddit.com/r/robotics/comments/1pn389p/custom_differential_drive_robot_esp32_microros/)**
 
-7m ago
+29m ago
 
 ---
 
@@ -90,7 +90,7 @@ I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in was
 
 Hello, I'm a PhD student working a project where I develoved a data adquisition system for an old franka robot with the original gripper in c++. In order to enhance the demonstration technique I use (kinesthetic), I would like to test waters with a VR based teleoperation system, since I have seen that they provide more ergonomy to capture data. I own a meta quest 3 headset with its controllers. I'm quite new to teleoperation and the issue I'm facing is that is being difficult to find a framework I can use that isnt based on ROS, which I cant use because the hardware limitation. For instance, I would like something very similar to this video: teloperation I have found frameworks like, OpenTeach, LeVR... but those are made for human hand tracking which Im not interested. I have also been trying to get information on any tutorial/reference page where to start implementing a teleoperation system from scratch, but I'm not sure if this is the best approach... Thanks in advance to any answer!
 
-21m ago
+43m ago
 
 ---
 
@@ -98,13 +98,13 @@ Hello, I'm a PhD student working a project where I develoved a data adquisition 
 
 It’s pretty fun, not just for my kid, but for me too!
 
-57m ago
+1h ago
 
 ---
 
 **[do you actually hand-write URDFs from scratch?](https://www.reddit.com/r/robotics/comments/1pn0vtu/do_you_actually_handwrite_urdfs_from_scratch/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -146,7 +146,7 @@ InvestorPlace • 19h ago
 
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Motley Fool • 13h ago
 
 They make robot vacuums, lots of them
 
-The Verge • 41m ago
+The Verge • 1h ago
 
 ---
 
@@ -186,7 +186,7 @@ TechCrunch • 7h ago
 
 A team of MIT researchers created a speech-to-reality system that enables a robot to build furniture with just a simple request.
 
-The Robot Report • 19h ago
+The Robot Report • 20h ago
 
 ---
 
@@ -200,17 +200,7 @@ The Robot Report • 19h ago
 
 📺 CNET
 
-👁️ 14K • 👍 433 • 💬 52 • ⏱️ 6:41 • 20h ago
-
----
-
-**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
-
-Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
-
-📺 vt.physics
-
-👁️ 190K • 👍 6K • 💬 228 • ⏱️ 0:34 • 1d ago
+👁️ 15K • 👍 441 • 💬 52 • ⏱️ 6:41 • 20h ago
 
 ---
 
@@ -220,7 +210,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 Farooq tv
 
-👁️ 3K • 👍 35 • 💬 1 • ⏱️ 0:09 • 18h ago
+👁️ 7K • 👍 47 • 💬 1 • ⏱️ 0:09 • 18h ago
 
 ---
 
@@ -230,7 +220,17 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 128K • 👍 2K • 💬 930 • ⏱️ 14:26 • 6d ago
+👁️ 129K • 👍 2K • 💬 932 • ⏱️ 14:26 • 6d ago
+
+---
+
+**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+
+Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+
+📺 vt.physics
+
+👁️ 206K • 👍 7K • 💬 234 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -238,27 +238,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI . Robot
 
-👁️ 30K • 👍 424 • 💬 10 • ⏱️ 0:16 • 1d ago
-
----
-
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
-
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
-
-📺 The Straits Times
-
-👁️ 190K • 👍 918 • 💬 303 • ⏱️ 0:47 • 6d ago
-
----
-
-**[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
-
-PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
-
-📺 LIGHTS ARE OFF
-
-👁️ 1.5M • 👍 68K • 💬 7K • ⏱️ 8:45 • 2d ago
+👁️ 31K • 👍 427 • 💬 10 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -272,21 +252,41 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 ---
 
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+
+📺 The Straits Times
+
+👁️ 190K • 👍 919 • 💬 303 • ⏱️ 0:47 • 6d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=8FCykVCNXic)**
+
+robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
+
+📺 She Shorts AI
+
+👁️ 288K • 👍 1K • 💬 6 • ⏱️ 0:11 • 6d ago
+
+---
+
 **[2025 Robot Expo Unveils New AI Humanoid Robots. #robotics #aihumanoid #robot #futuretech](https://www.youtube.com/watch?v=LV3STsEdQ0A)**
 
 📺 AI . Robot
 
-👁️ 703K • 👍 8K • 💬 118 • ⏱️ 0:17 • 5d ago
+👁️ 709K • 👍 9K • 💬 118 • ⏱️ 0:17 • 5d ago
 
 ---
 
-**[Are robots the future of space exploration? | BBC News](https://www.youtube.com/watch?v=-2Tq-leZgs4)**
+**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
 
-How can robots help astronauts survive in space? The National Space Industry Hub in Sydney, Australia, is home to some of the ...
+Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
 
-📺 BBC News
+📺 The Military Show
 
-👁️ 16K • 👍 309 • 💬 133 • ⏱️ 5:17 • 1d ago
+👁️ 366K • 👍 10K • 💬 587 • ⏱️ 16:55 • 3d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T09:34:31.859494+00:00'
+updated: '2025-12-15T09:56:52.309151+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 09:34 UTC  
+**Last Updated:** December 15, 2025 at 09:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -3.4%  
-**30d:** -4.8%  
-**90d:** -23.0%  
-**1y:** -15.3%  
+**24h:** +0.1%  
+**7d:** -3.3%  
+**30d:** -4.6%  
+**90d:** -22.9%  
+**1y:** -15.1%  
 
 ---
 
@@ -115,7 +115,7 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -141,7 +141,7 @@ Must been hurt, and now we got people bought at 124K crying when it's 90K. Absol
 
 **[We are going down a bit, get ready for the Peter Schiff tweets 😂](https://www.reddit.com/r/Bitcoin/comments/1pmtxa0/we_are_going_down_a_bit_get_ready_for_the_peter/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Block • 11h ago
 
 Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -168,7 +168,7 @@ CoinDesk • 10h ago
 Bitcoin rose slightly but remained below the key $90,000 level as it struggled to recover meaningfully after hitting a near two-week low overnight.
 The cryptocurrency has been hit by a rotation away from artificial intelligence-related stocks after results from Oracle and Broadcom last week failed
 
-Barron's • 46m ago
+Barron's • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ Barron's • 46m ago
 
 Pretty much nobody got it right this year.
 
-The Motley Fool • 4m ago
+The Motley Fool • 26m ago
 
 ---
 
@@ -196,7 +196,7 @@ Reuters • 8h ago
 
 Nasdaq and MOVE index patterns warrant caution for BTC bulls.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -284,7 +284,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 1h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 2h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
@@ -292,23 +292,13 @@ Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin
 
 ## YouTube Videos: "bitcoin"
 
-**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 35K • 👍 2K • 💬 261 • ⏱️ 9:35 • 10h ago
-
----
-
 **[Why is Bitcoin STUCK at $90K?! (This Explains Everything)](https://www.youtube.com/watch?v=9Xi0PnWSLto)**
 
 Bitcoin's been dropping like clockwork at market open—but is it just normal volatility, or something more sinister? From Japanese ...
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 155 • ⏱️ 14:17 • 10h ago
+👁️ 30K • 👍 2K • 💬 163 • ⏱️ 14:17 • 10h ago
 
 ---
 
@@ -318,17 +308,17 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 365 • ⏱️ 9:39 • 8h ago
+👁️ 31K • 👍 2K • 💬 513 • ⏱️ 9:39 • 9h ago
 
 ---
 
-**[CRITICAL: If THIS Level Fails BTC Is Will Drop Down To $…](https://www.youtube.com/watch?v=FgNo37Oi3i4)**
+**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
 
-Bitcoin is sitting at a knife's edge. Bulls are fighting for their lives to defend some key levels. If this support level fails, I'll be buying ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
-📺 Crypto Banter
+📺 Altcoin Daily
 
-👁️ 2K • 👍 208 • 4h ago
+👁️ 42K • 👍 2K • 💬 277 • ⏱️ 9:35 • 10h ago
 
 ---
 
@@ -338,27 +328,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 4K • 👍 283 • 💬 100 • ⏱️ 15:03 • 4h ago
-
----
-
-**[WARNING: BITCOIN HISTORY REPEATS....](https://www.youtube.com/watch?v=taFQpBsejIU)**
-
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
-
-📺 Crypto Rover
-
-👁️ 2K • 👍 222 • 💬 5 • ⏱️ 8:12 • 3h ago
-
----
-
-**[Is Bitcoin Being Manipulated? How the Evidence is Stacking Up](https://www.youtube.com/watch?v=4hrSrugd7tA)**
-
-Is Bitcoin's recent crash really just “market volatility”—or are major institutions gaming the system? In this breakdown, Oceans ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 167 • ⏱️ 9:48 • 16h ago
+👁️ 9K • 👍 450 • 💬 308 • ⏱️ 15:03 • 4h ago
 
 ---
 
@@ -368,17 +338,17 @@ TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE 
 
 📺 Jason Pizzino
 
-👁️ 8K • 👍 616 • 💬 261 • ⏱️ 34:43 • 7h ago
+👁️ 11K • 👍 762 • 💬 299 • ⏱️ 34:43 • 7h ago
 
 ---
 
-**[Bitcoin Is Doing It Again (Don&#39;t Get Fooled)](https://www.youtube.com/watch?v=iKZcVtbHFbk)**
+**[Is Bitcoin Being Manipulated? How the Evidence is Stacking Up](https://www.youtube.com/watch?v=4hrSrugd7tA)**
 
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+Is Bitcoin's recent crash really just “market volatility”—or are major institutions gaming the system? In this breakdown, Oceans ...
 
-📺 Crypto Tips
+📺 Simply Bitcoin
 
-👁️ 13K • 👍 886 • 💬 111 • ⏱️ 3:56 • 16h ago
+👁️ 26K • 👍 2K • 💬 201 • ⏱️ 9:48 • 16h ago
 
 ---
 
@@ -388,7 +358,37 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 76K • 👍 5K • 💬 415 • ⏱️ 17:53 • 17h ago
+👁️ 81K • 👍 5K • 💬 421 • ⏱️ 17:53 • 18h ago
+
+---
+
+**[Bitcoin Is Doing It Again (Don&#39;t Get Fooled)](https://www.youtube.com/watch?v=iKZcVtbHFbk)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 14K • 👍 922 • 💬 109 • ⏱️ 3:56 • 16h ago
+
+---
+
+**[Michael Saylor: Important Warning To All Small Bitcoin Investors &quot;It&#39;s A Fake Crash&quot;](https://www.youtube.com/watch?v=t7-FO_qOqp8)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 9K • 👍 406 • 💬 82 • ⏱️ 18:38 • 18h ago
+
+---
+
+**[BITCOIN: This Week All Hell Will Break Loose. (not clickbait)](https://www.youtube.com/watch?v=q8sozya0hDw)**
+
+BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/ChartJunkies CJ BONUS + VIP fees for life ...
+
+📺 Chart Junkies
+
+👁️ 2K • 👍 103 • 💬 83 • ⏱️ 14:42 • 12h ago
 
 ---
 
