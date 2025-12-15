@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T09:56:52.318415+00:00'
+updated: '2025-12-15T10:33:24.043702+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 09:56 UTC  
+**Last Updated:** December 15, 2025 at 10:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-12h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 RIP, between the failed Amazon acquisition and the stiff competition this was a long time coming but still very sad. Theyre being bought by their Chinese manufacturer, which I found interesting when there are so many Chinese competitors in the market. I wonder if they will try to continue the brand.
 
-🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 7h ago
 
 ---
 
@@ -60,7 +60,7 @@ Been messing around with this little mobile camera, it’s about the size of a c
 
 Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
 
-10h ago
+11h ago
 
 ---
 
@@ -68,21 +68,13 @@ Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on th
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-23h ago
-
----
-
-**[Web flasher for Rockchip](https://www.reddit.com/r/robotics/comments/1pn1yf5/web_flasher_for_rockchip/)**
-
-I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in wasm and now I can flash directly from browser. Code is open source! more details: https://asadmemon.com/rkdeveloptool/ code: https://github.com/asadm/rkdeveloptool
-
-1h ago
+1d ago
 
 ---
 
 **[Custom Differential Drive Robot | ESP32 + micro-ROS + ROS 2 + PID Control (Video)](https://www.reddit.com/r/robotics/comments/1pn389p/custom_differential_drive_robot_esp32_microros/)**
 
-29m ago
+1h ago
 
 ---
 
@@ -90,7 +82,7 @@ I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in was
 
 Hello, I'm a PhD student working a project where I develoved a data adquisition system for an old franka robot with the original gripper in c++. In order to enhance the demonstration technique I use (kinesthetic), I would like to test waters with a VR based teleoperation system, since I have seen that they provide more ergonomy to capture data. I own a meta quest 3 headset with its controllers. I'm quite new to teleoperation and the issue I'm facing is that is being difficult to find a framework I can use that isnt based on ROS, which I cant use because the hardware limitation. For instance, I would like something very similar to this video: teloperation I have found frameworks like, OpenTeach, LeVR... but those are made for human hand tracking which Im not interested. I have also been trying to get information on any tutorial/reference page where to start implementing a teleoperation system from scratch, but I'm not sure if this is the best approach... Thanks in advance to any answer!
 
-43m ago
+1h ago
 
 ---
 
@@ -99,6 +91,14 @@ Hello, I'm a PhD student working a project where I develoved a data adquisition 
 It’s pretty fun, not just for my kid, but for me too!
 
 1h ago
+
+---
+
+**[Web flasher for Rockchip](https://www.reddit.com/r/robotics/comments/1pn1yf5/web_flasher_for_rockchip/)**
+
+I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in wasm and now I can flash directly from browser. Code is open source! more details: https://asadmemon.com/rkdeveloptool/ code: https://github.com/asadm/rkdeveloptool
+
+2h ago
 
 ---
 
@@ -114,7 +114,7 @@ It’s pretty fun, not just for my kid, but for me too!
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -134,11 +134,25 @@ CNET • 1d ago
 
 ---
 
+**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
+
+They make robot vacuums, lots of them
+
+The Verge • 1h ago
+
+---
+
 **[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 19h ago
+InvestorPlace • 20h ago
+
+---
+
+**[They built robots and won. Now they want more middle schoolers to join in.](https://www.timesunion.com/education/article/steamwhiz-aims-expand-k-8-robotics-teams-albany-21236899.php)**
+
+Times Union • 21h ago
 
 ---
 
@@ -147,14 +161,6 @@ InvestorPlace • 19h ago
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
 The Motley Fool • 14h ago
-
----
-
-**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
-
-They make robot vacuums, lots of them
-
-The Verge • 1h ago
 
 ---
 
@@ -178,15 +184,7 @@ Scientific American • 1d ago
 
 iRobot survived three decades of competition, but couldn't survive European regulators killing its Amazon buyout. Now it's being taken over by its own supplier in bankruptcy court.
 
-TechCrunch • 7h ago
-
----
-
-**[With AI, MIT researchers teach a robot to build furniture by just asking](https://www.therobotreport.com/mit-researchers-use-ai-teach-a-robot-build-furniture-just-asking/)**
-
-A team of MIT researchers created a speech-to-reality system that enables a robot to build furniture with just a simple request.
-
-The Robot Report • 20h ago
+TechCrunch • 8h ago
 
 ---
 
@@ -200,7 +198,7 @@ The Robot Report • 20h ago
 
 📺 CNET
 
-👁️ 15K • 👍 441 • 💬 52 • ⏱️ 6:41 • 20h ago
+👁️ 15K • 👍 441 • 💬 52 • ⏱️ 6:41 • 21h ago
 
 ---
 
@@ -210,7 +208,7 @@ The Robot Report • 20h ago
 
 📺 Farooq tv
 
-👁️ 7K • 👍 47 • 💬 1 • ⏱️ 0:09 • 18h ago
+👁️ 7K • 👍 47 • 💬 1 • ⏱️ 0:09 • 19h ago
 
 ---
 
