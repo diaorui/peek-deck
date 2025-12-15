@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T23:17:39.389919+00:00'
+updated: '2025-12-15T23:37:05.770885+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 23:17 UTC  
+**Last Updated:** December 15, 2025 at 23:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 Also: All the news and watercooler chat from Fortune.
 
-🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 6h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 7h ago
 
 ---
 
@@ -73,7 +73,7 @@ Also: All the news and watercooler chat from Fortune.
 
 Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI Foundation Google drops Deep Research + AlphaEvolve agent A collection of AI Agent Updates! 🧵 1. Stripe Launches Agentic Commerce Suite Single integration for businesses to sell via multiple AI agents. Handles product discovery, agentic checkout, payments, and fraud. Manage all agents from Stripe Dashboard. Works with existing commerce stack. AI-native commerce infrastructure now available. 2. OpenAI Co-Founds Agentic AI Foundation with Anthropic and Block Under Linux Foundation to support open, interoperable standards for agentic AI. Donating to establish standards enabling safe, reliable agents across tools and repositories. Industry leaders aligning on agent interoperability. 3. Google Opens Gemini Deep Research Agent to Developers Most advanced autonomous research capabilities now embeddable in applications for first time. Also open-sourcing DeepSearchQA benchmark for evaluating agents on complex search tasks. Google's agent infrastructure available to all developers. 4. Anthropic is Developing New Agent Mode for Claude Code-named "Yukon Gold" - tasks-based complex agent experience with toggle between classic chat and agent mode. Also testing pixel art avatar generation from uploaded photos. Claude may be getting a dedicated agent interface. 5. Google Cloud Unveils AlphaEvolve Coding Agent Gemini-powered agent for designing advanced algorithms. Uses LLMs to propose intelligent code modifications with feedback loop that evolves algorithms to be more efficient. Now in private preview. Haven’t tried, but seems promising. 6. Real Agent Usage Data: Harvard Analyzes Hundreds of Millions of Queries Perplexity study shows 55% personal use, 30% professional. Productivity/workflow dominates (36% of queries), followed by learning/research (21%). Users shift from simple to complex tasks over time. Real data on how people actually use agents. 7. Stitchbygoogle Launches Redesign Agent with Code Generation Screenshot apps, visually reimagine with Gemini Pro, then convert redesigns into working HTML. "Shipmas" week begins - new ship daily with big launch Wednesday. Screenshot → Redesign → Code → Deploy workflow now live. 8. Cursor Agents Can Now Debug Your Hardest Bugs Debug Mode instruments code, spins up server, captures logs, and streams runtime data to agent. Version 2.2 adds multi-agent judging (picks best solution) and Plan Mode improvements with diagrams. AI agents now debugging production code. 9. Code Drops Major Agent Experience Upgrade Agent sessions integrated into chat view. Isolated background agents via Git worktrees enable multiple agents without conflicts. Seamless delegation with automatic context transfer between local, background, and cloud agents. Multi-agent workflows now native in VS Code. 10. Microsoft Research Unveils Agent Lightning Decouples how agents work from training. Turns each agent step into reinforcement learning data. Developers can improve agent performance with almost zero code changes. RL for agents without code rewrites. That's a wrap on this week's Agentic news. Which update are you trying first? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ I’ve been playing around with some AI video tools lately just to see what’s 
 
 Don't ask it to add a confidence score. Don't add it to sum up items on a receipt. Don't ask it to confirm how many rows there are in a PDF.
 
-🔗 [BAML](https://boundaryml.com/blog/llms-do-not-understand-numbers) • 2h ago
+🔗 [BAML](https://boundaryml.com/blog/llms-do-not-understand-numbers) • 3h ago
 
 ---
 
@@ -133,27 +133,11 @@ The New York Times • 7h ago
 
 ---
 
-**[US government launches ‘Tech Force’ to hire AI talent](https://www.cnn.com/2025/12/15/tech/government-tech-force-ai)**
+**[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.theguardian.com/technology/2025/dec/15/google-ai-recipes-food-bloggers)**
 
-The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
+AI Mode is mangling recipes by merging instructions from multiple creators – and causing them huge dips in ad traffic
 
-CNN • 6h ago
-
----
-
-**[Trump admin to hire 1,000 specialists for 'Tech Force' to build AI, finance projects](https://www.cnbc.com/2025/12/15/trump-ai-tech-force-amazon-apple.html)**
-
-A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
-
-CNBC • 6h ago
-
----
-
-**[Trump admin will recruit 1,000 technologists for elite 'Tech Force' to modernize government](https://www.foxnews.com/politics/trump-admin-recruit-1000-technologists-elite-tech-force-modernize-government)**
-
-Trump administration launches Tech Force program to recruit 1,000 technologists for AI modernization across federal agencies over two-year terms.
-
-Fox News • 1h ago
+The Guardian • 1h ago
 
 ---
 
@@ -167,25 +151,45 @@ Gallup • 18h ago
 
 **[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
 
-Axios • 8h ago
+Axios • 9h ago
 
 ---
 
 **[More people using AI at work: Gallup](https://thehill.com/policy/technology/5650115-us-employees-ai-adoption/)**
 
-thehill.com • 40m ago
+thehill.com • 1h ago
 
 ---
 
-**[The White House’s unabashed embrace of AI](https://www.politico.com/news/2025/12/15/the-white-houses-unabashed-embrace-of-ai-00690885)**
+**[Merriam-Webster declares 'slop' its word of the year in nod to growth of AI](https://www.cnbc.com/2025/12/15/merriam-webster-declares-slop-word-of-the-year-nod-to-growth-of-ai.html)**
 
-Politico • 1h ago
+Slop refers to the low-quality content created by artificial intelligence that's showing up across social media.
+
+CNBC • 53m ago
 
 ---
 
-**[DeSantis: Florida has ‘right’ to regulate AI rules despite Trump’s order](https://thehill.com/homenews/administration/5649792-florida-desantis-ai-regulation/)**
+**['Slop' Is Merriam-Webster's 2025 Word of the Year as AI Content Floods the Internet](https://www.cnet.com/tech/services-and-software/slop-is-merriam-websters-2025-word-of-the-year-as-ai-content-floods-the-internet/)**
 
-thehill.com • 3h ago
+"AI Slop": a succinct definition of the current state of the internet.
+
+CNET • 4h ago
+
+---
+
+**[‘Flood of slop’: Merriam-Webster’s 2025 Word of the Year takes a dig at AI](https://www.oregonlive.com/trending/2025/12/flood-of-slop-merriam-websters-2025-word-of-the-year-takes-a-dig-at-ai.html)**
+
+From “tariffs” to “6 7,” these are the words people looked up most this year.
+
+OregonLive.com • 2h ago
+
+---
+
+**[US government launches ‘Tech Force’ to hire AI talent](https://www.cnn.com/2025/12/15/tech/government-tech-force-ai)**
+
+The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
+
+CNN • 7h ago
 
 ---
 
@@ -197,7 +201,7 @@ thehill.com • 3h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 519 • 💬 862 • 23h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 521 • 💬 870 • 23h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -211,7 +215,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 344 • 💬 350 • 23h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 348 • 💬 353 • 23h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -219,7 +223,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 262 • 💬 276 • 22h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 266 • 💬 283 • 23h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -227,7 +231,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 246 • 💬 114 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 246 • 💬 115 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -255,15 +259,15 @@ Brian Merchant has been collecting personal stories for his series AI Killed My 
 
 ---
 
-**[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
+**[Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://news.ycombinator.com/item?id=46277477)**
 
-⬆️ 64 • 💬 60 • 2d ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
+⬆️ 65 • 💬 37 • 6h ago • [X (formerly Twitter)](https://twitter.com/AKurian001/status/1986979144014701026)
 
 ---
 
-**[Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://news.ycombinator.com/item?id=46277477)**
+**[Purdue University approves new AI requirement for all undergrads](https://news.ycombinator.com/item?id=46257939)**
 
-⬆️ 63 • 💬 37 • 5h ago • [X (formerly Twitter)](https://twitter.com/AKurian001/status/1986979144014701026)
+⬆️ 64 • 💬 60 • 2d ago • [forbes.com](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/)
 
 ---
 
@@ -317,7 +321,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 78K • 👍 3K • 💬 431 • ⏱️ 20:44 • 22h ago
+👁️ 78K • 👍 3K • 💬 431 • ⏱️ 20:44 • 23h ago
 
 ---
 
@@ -455,7 +459,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 6,481 • ❤️ 224 • 3d ago
+⬇️ 6,481 • ❤️ 225 • 3d ago
 
 ---
 
@@ -467,7 +471,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 5,608 • ❤️ 210 • 1d ago
+⬇️ 5,608 • ❤️ 211 • 1d ago
 
 ---
 
@@ -479,7 +483,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 203 • 4d ago
+⬇️ 0 • ❤️ 204 • 4d ago
 
 ---
 
@@ -491,7 +495,7 @@ AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent 
 
 `image-text-to-text` `934,400`
 
-⬇️ 7,541 • ❤️ 174 • 6d ago
+⬇️ 7,541 • ❤️ 175 • 6d ago
 
 ---
 
@@ -653,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.5k • 🔱 376 • 13h ago
+⭐ 3.5k • 🔱 376 • 14h ago
 
 ---
 
@@ -683,7 +687,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 3h ago
+⭐ 1.1k • 🔱 137 • 4h ago
 
 ---
 

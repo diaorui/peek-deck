@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T23:17:39.398404+00:00'
+updated: '2025-12-15T23:37:05.779494+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 23:17 UTC  
+**Last Updated:** December 15, 2025 at 23:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,366.58
+### $86,372.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -6.9%  
-**30d:** -8.2%  
-**90d:** -25.8%  
-**1y:** -18.3%  
+**24h:** -2.1%  
+**7d:** -7.1%  
+**30d:** -8.4%  
+**90d:** -25.9%  
+**1y:** -18.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1717.54B
+**Market Cap:** $1723.06B
 Rank #1
 
-**Circulating Supply:** 19,962,565 BTC
+**Circulating Supply:** 19,962,584 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.8%
+-31.5%
 
 **All-Time Low:** $67.81
-+126745.6%
++127257.3%
 
 ---
 
@@ -87,7 +87,7 @@ Are you still buying?
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -107,13 +107,13 @@ Are you still buying?
 
 Buy some bitcoin and store it.
 
-8h ago
+9h ago
 
 ---
 
 **[The best ever gift to receive? what have u done if u had got this gift](https://www.reddit.com/r/Bitcoin/comments/1pn7aw1/the_best_ever_gift_to_receive_what_have_u_done_if/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -121,13 +121,13 @@ Buy some bitcoin and store it.
 
 I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin Holders: Bull Market vs. Bear Market](https://www.reddit.com/r/Bitcoin/comments/1pnf280/bitcoin_holders_bull_market_vs_bear_market/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many time
 
 **[14 of the top 25 U.S. Banks are building bitcoin products for customers](https://www.reddit.com/r/Bitcoin/comments/1pnhvtj/14_of_the_top_25_us_banks_are_building_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -165,25 +165,19 @@ Financial Times • 18h ago
 
 ---
 
-**[Bitcoin Down, MSTR Sliding — Why Did a $284B NY Pension Fund Buy Despite a 7% Drop?](https://finance.yahoo.com/news/bitcoin-down-mstr-sliding-why-220037972.html)**
+**[Why Did Bitcoin Cash Sink 5% Today?](https://www.fool.com/investing/2025/12/15/why-did-bitcoin-cash-sink-5-today/)**
 
-Bitcoin prices extended their decline this week, dragging closely correlated equities lower and pushing shares of Strategy (MSTR) down sharply during regular trading hours. Yet even as the stock slid more than 7% in a single session, one of the largest public pension funds in the United States quietly increased ...
+This prominent altcoin has seen its valuation increasingly come into question in recent days.
+
+The Motley Fool • 12m ago
+
+---
+
+**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
+
+Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
 
 Yahoo Finance • 1h ago
-
----
-
-**[Got Bitcoin or XRP? Do This 1 Thing Right Now or Risk Disaster.](https://www.fool.com/investing/2025/12/15/got-bitcoin-or-xrp-do-this-1-thing-right-now-or-ri/)**
-
-Sometimes you are the biggest risk to your portfolio's health.
-
-The Motley Fool • 8h ago
-
----
-
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqeiDbz4AsJhXYbZ8dzM0_awMYLTFDxNnhHvlMkTzDmV-ovnS9PiEqUU&gaa_ts=694094ed&gaa_sig=1xjjYmgmc7gz3RXsFi1eZU5YLXNm3mR82HMt08VLYfm6X8LebyEEGJg30FEu2_vU2MZDau_UOV7BRWFTEumiyQ%3D%3D)**
-
-Barron's • 4h ago
 
 ---
 
@@ -191,7 +185,13 @@ Barron's • 4h ago
 
 Crypto-related stocks suffered far deeper declines as bitcoin slumped well below its recent trading range.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcDcgk-HtZbMeTJ19HbgKSbMWW05ZshdHSiQXKQFNrKylaiA60bXZxg&gaa_ts=69409f0c&gaa_sig=EAaoA_qWPGuRQYKvfJ5zqh5C6h748lgW3j3WZ7isLsTj2AtFwAHMPFjAJujB0bVOT9VWrQH1DYw1hD6bNUecGA%3D%3D)**
+
+Barron's • 4h ago
 
 ---
 
@@ -207,17 +207,19 @@ thestreet.com • 6h ago
 
 ---
 
-**[Bitcoin price today: subdued below $89k amid risk-off mood; key US data awaited](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-ticks-down-below-90k-amid-riskoff-mood-key-us-data-awaited-4407239)**
-
-Investing.com • 16h ago
-
----
-
 **[Luke Gromen Turns Bearish, Warns Bitcoin Could Slide to $40K](https://bitbo.io/news/gromen-bitcoin-bearish-40k/)**
 
 Macro analyst Luke Gromen has adopted a near-term bearish stance on Bitcoin, citing macroeconomic shifts, technical weakness, and rising quantum risk narratives as reasons for a possible slide to $40,000 in 2026.
 
 Bitbo • 10h ago
+
+---
+
+**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+
+Forbes • 1d ago
 
 ---
 
@@ -275,13 +277,21 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 4d ago
+⬆️ 2 • 💬 0 • 5d ago
 
 ---
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
 ⬆️ 2 • 💬 1 • 6d ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+
+---
+
+**[ChatGPT Is Helping Federal Officers Misrepresent Confrontations With Protesters](https://news.ycombinator.com/item?id=46237740)**
+
+We’ve already written several times about the danger posed by adding AI to law enforcement incident/arrest reports. There are a lot of obvious problems, ranging from AI misinterpreting what i…
+
+⬆️ 8 • 💬 0 • 4d ago • [Techdirt](https://www.techdirt.com/2025/12/11/chatgpt-is-pitching-in-to-help-federal-officers-misrepresent-confrontations-with-protesters/)
 
 ---
 
@@ -303,7 +313,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 519 • 💬 42 • ⏱️ 40:28 • 5h ago
+👁️ 8K • 👍 519 • 💬 42 • ⏱️ 40:28 • 6h ago
 
 ---
 
@@ -313,7 +323,7 @@ Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning wheth
 
 📺 The Wolf Of All Streets
 
-👁️ 20K • 👍 1K • 💬 244 • ⏱️ 1:05:55 • 7h ago
+👁️ 20K • 👍 1K • 💬 244 • ⏱️ 1:05:55 • 8h ago
 
 ---
 
@@ -323,7 +333,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 185 • ⏱️ 52:24 • 7h ago
+👁️ 24K • 👍 1K • 💬 185 • ⏱️ 52:24 • 8h ago
 
 ---
 
@@ -333,7 +343,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 696 • 💬 129 • ⏱️ 23:41 • 6h ago
+👁️ 12K • 👍 696 • 💬 129 • ⏱️ 23:41 • 7h ago
 
 ---
 
@@ -353,7 +363,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 2K • 💬 428 • ⏱️ 9:35 • 23h ago
+👁️ 65K • 👍 2K • 💬 428 • ⏱️ 9:35 • 1d ago
 
 ---
 
@@ -363,7 +373,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 2K • 💬 203 • ⏱️ 14:17 • 23h ago
+👁️ 44K • 👍 2K • 💬 203 • ⏱️ 14:17 • 1d ago
 
 ---
 
@@ -383,7 +393,7 @@ Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!*
 
 📺 Crypto Casey
 
-👁️ 11K • 👍 1K • 💬 116 • ⏱️ 14:34 • 6h ago
+👁️ 11K • 👍 1K • 💬 116 • ⏱️ 14:34 • 7h ago
 
 ---
 

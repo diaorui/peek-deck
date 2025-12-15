@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T23:17:39.404503+00:00'
+updated: '2025-12-15T23:37:05.785567+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 23:17 UTC  
+**Last Updated:** December 15, 2025 at 23:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -3.6%  
-**7d:** -10.6%  
-**30d:** -4.3%  
-**90d:** -35.3%  
-**1y:** -25.5%  
+**7d:** -10.7%  
+**30d:** -4.4%  
+**90d:** -35.4%  
+**1y:** -25.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.00B
+**Market Cap:** $357.39B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.2%
 
 **All-Time Low:** $0.43
-+678939.9%
++683526.7%
 
 ---
 
@@ -96,7 +96,7 @@ I’ve never bought ETH before, but I’m thinking of getting some exposure now.
 
 https://preview.redd.it/29vkhaf25g7g1.jpg?width=640&format=pjpg&auto=webp&s=11ef8e687e7c4442b7963a4c5380567b25d2dc77 https://preview.redd.it/wsemopfa5g7g1.png?width=516&format=png&auto=webp&s=c5d6601cde283f957ebfbb75a5e4901342a2d265 Le site Ethereum Obituaries (ethereumobituaries.com) est un projet open-source qui recense toutes les fois où Ethereum a été déclaré “mort” ou “finito” dans les médias ou par des personnalités crypto. Il ne s’agit pas d’un site d’actualité officiel, mais d’un suivi chronologique de narratifs bearish autour d’ETH, avec une carte/chronologie de ces annonces 🕰️. GitHub Qui l’a conçu ? Selon le README du dépôt officiel sur GitHub, le site a été créé par Jrag, avec une mention “Created by Jrag (with help from AI as I am not a dev)”. GitHub En plus, sur la page principale et les liens associés, il est indiqué “Tinkered by Jrag.eth” sur Twitter, ce qui renforce que le créateur/mainteneur principal utilise ce pseudonyme lié à une adresse ENS (Ethereum Name Service). Ethereum Obituaries Donc, le concepteur du site est Jrag / Jrag.eth, qui a compilé et visualisé ces “obituaries” à partir d’une base de données et d’événements, en s’appuyant sur une repo GitHub publique. GitHub
 
-29m ago
+48m ago
 
 ---
 
@@ -112,7 +112,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-4h ago
+5h ago
 
 ---
 
@@ -186,15 +186,15 @@ Nasdaq • 1d ago
 
 A mix of macro and token-specific factors are pushing investors away from Ethereum and toward other assets.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Why Are Bitcoin, Ethereum and XRP Prices Falling Today?](https://www.tradingview.com/news/coinpedia:5f55e8b63094b:0-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
+**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
 
-The cryptocurrency market is under pressure today, with Bitcoin, Ethereum and XRP among other altcoins all seeing sharp declines. Total crypto market value has slipped to around $3 trillion, down more than 1%.Bitcoin dropped below $87,000, Ethereum fell near $3,000, and XRP slid to around $1.92. Se…
+Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
 
-TradingView — Track All Markets • 7h ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -206,19 +206,19 @@ CryptoSlate • 7h ago
 
 ---
 
+**[Why Are Bitcoin, Ethereum and XRP Prices Falling Today?](https://www.tradingview.com/news/coinpedia:5f55e8b63094b:0-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
+
+The cryptocurrency market is under pressure today, with Bitcoin, Ethereum and XRP among other altcoins all seeing sharp declines. Total crypto market value has slipped to around $3 trillion, down more than 1%.Bitcoin dropped below $87,000, Ethereum fell near $3,000, and XRP slid to around $1.92. Se…
+
+TradingView — Track All Markets • 8h ago
+
+---
+
 **[Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment](https://ambcrypto.com/greed-vs-fear-at-3k-inside-ethereums-make-or-break-moment/)**
 
 Ethereum approaches whale levels: Is greed fueling the next crash?
 
 AMBCrypto • 2d ago
-
----
-
-**[Crypto Prices Today: Bitcoin Holds Near $89,500, Ethereum Steadies at $3,130 as Markets Watch BOJ, UK Crypto Rules and ETF Flows (Dec. 15, 2025)](https://ts2.tech/en/crypto-prices-today-bitcoin-holds-near-89500-ethereum-steadies-at-3130-as-markets-watch-boj-uk-crypto-rules-and-etf-flows-dec-15-2025/)**
-
-Crypto Prices Today: Bitcoin Holds Near $89,500, Ethereum Steadies at $3,130 as Markets Watch BOJ, UK Crypto Rules and ETF Flows (Dec. 15, 2025) - TechStock²
-
-ts2.tech • 9h ago
 
 ---
 
@@ -240,7 +240,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 5K • 👍 529 • 💬 41 • ⏱️ 13:11 • 2h ago
+👁️ 5K • 👍 529 • 💬 41 • ⏱️ 13:11 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 519 • 💬 42 • ⏱️ 40:28 • 5h ago
+👁️ 8K • 👍 519 • 💬 42 • ⏱️ 40:28 • 6h ago
 
 ---
 
@@ -290,7 +290,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 69 • 👍 6 • 💬 1 • ⏱️ 7:19 • 1h ago
+👁️ 69 • 👍 6 • 💬 1 • ⏱️ 7:19 • 2h ago
 
 ---
 
@@ -300,7 +300,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 171 • 💬 10 • ⏱️ 6:25 • 19h ago
+👁️ 3K • 👍 171 • 💬 10 • ⏱️ 6:25 • 20h ago
 
 ---
 

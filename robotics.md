@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T23:17:39.407772+00:00'
+updated: '2025-12-15T23:37:05.788823+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 23:17 UTC  
+**Last Updated:** December 15, 2025 at 23:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,15 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-3h ago
+4h ago
+
+---
+
+**[High Torque and zero backlash cycloidal drive for diy robotic arm](https://www.reddit.com/r/robotics/comments/1pnlepi/high_torque_and_zero_backlash_cycloidal_drive_for/)**
+
+This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
+
+53m ago
 
 ---
 
@@ -98,15 +106,7 @@ Been messing around with this little mobile camera, it’s about the size of a c
 
 Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
 
-23h ago
-
----
-
-**[High Torque and zero backlash cycloidal drive for diy robotic arm](https://www.reddit.com/r/robotics/comments/1pnlepi/high_torque_and_zero_backlash_cycloidal_drive_for/)**
-
-This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
-
-34m ago
+1d ago
 
 ---
 
@@ -148,15 +148,13 @@ The Verge • 14h ago
 
 This bot got lost
 
-The Verge • 31m ago
+The Verge • 50m ago
 
 ---
 
-**[iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private](https://ts2.tech/en/irobot-bankruptcy-roomba-maker-files-for-chapter-11-picea-robotics-to-acquire-and-take-company-private/)**
+**[Roomba Maker iRobot Files for Bankruptcy, With Chinese Supplier Taking Control](https://www.nytimes.com/2025/12/15/business/roomba-irobot-bankruptcy.html)**
 
-iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private - TechStock²
-
-ts2.tech • 9h ago
+The New York Times • 12h ago
 
 ---
 
@@ -172,7 +170,7 @@ The Motley Fool • 1d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -180,7 +178,7 @@ Seeking Alpha • 4h ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 12h ago
+InvestorPlace • 13h ago
 
 ---
 
@@ -248,7 +246,7 @@ This self aware robot escaped... (and he's after US) Like and subscribe. socials
 
 📺 Qerello
 
-👁️ 4K • 👍 266 • 💬 42 • ⏱️ 12:54 • 22h ago
+👁️ 4K • 👍 266 • 💬 42 • ⏱️ 12:54 • 23h ago
 
 ---
 
