@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T19:52:49.872123+00:00'
+updated: '2025-12-15T20:18:50.252990+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 19:52 UTC  
+**Last Updated:** December 15, 2025 at 20:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Now RAM prices are hitting record highs, because it's more profitable for manufacturers to sell specialized RAM to data centers than it is to you. Other chips overpriced too. Electricity price is ramping up, since tech giants need more and more of it, and are willing to pay higher and higher prices - more than you for sure. What's next, drinking water? Air? It's like reality is being warped by AI instead of people.
 
-2h ago
+3h ago
 
 ---
 
@@ -71,7 +71,7 @@ Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/wa
 
 RIP Copilot.
 
-🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 18h ago
+🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 19h ago
 
 ---
 
@@ -79,7 +79,7 @@ RIP Copilot.
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 4h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 5h ago
 
 ---
 
@@ -95,7 +95,7 @@ Also: All the news and watercooler chat from Fortune.
 
 "And somehow he sort of mostly manages to pull off what appears to be impossible."
 
-🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 17h ago
+🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 18h ago
 
 ---
 
@@ -127,31 +127,53 @@ CNBC • 3h ago
 
 ---
 
-**[US government launches ‘Tech Force’ to hire AI talent](https://www.cnn.com/2025/12/15/tech/government-tech-force-ai)**
+**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
-
-CNN • 3h ago
+The New York Times • 4h ago
 
 ---
 
-**[US government launches campaign to hire engineers for AI, tech roles](https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/)**
+**[Mark Cuban Sends Strong Message to Creatives About AI](https://www.inc.com/ava-levinson/mark-cuban-sends-strong-message-to-creatives-about-ai/91278961)**
 
-Reuters • 2h ago
-
----
-
-**[In A.I. Boom, Venture Capital Firms Are Raising Loads More Money](https://www.nytimes.com/2025/12/15/technology/ai-venture-capital-big-funds.html)**
-
-The New York Times • 5h ago
+Inc.com • 10m ago
 
 ---
 
-**[AI Use at Work Rises](https://www.gallup.com/workplace/699689/ai-use-at-work-rises.aspx)**
+**[AI infrastructure selloff continues on Wall Street as Broadcom, Oracle shares slide](https://www.cnbc.com/2025/12/15/ai-infrastructure-selloff-continues-broadcom-oracle-coreweave-shares-slide.html)**
 
-New Gallup data shows a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025.
+In at least one corner of the AI market, sentiment has turned decidedly negative.
 
-Gallup.com • 14h ago
+CNBC • 20m ago
+
+---
+
+**[Investors are Using the Same Tool as ‘The Big Short’ Guys to Hedge Against an AI Bubble](https://gizmodo.com/investors-are-using-the-same-tool-as-the-big-short-guys-to-hedge-against-an-ai-bubble-2000699860)**
+
+That's a good sign, right?
+
+Gizmodo • 17m ago
+
+---
+
+**[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.theguardian.com/technology/2025/dec/15/google-ai-recipes-food-bloggers)**
+
+AI Mode is mangling recipes by merging instructions from multiple creators – and causing them huge dips in ad traffic
+
+The Guardian • 5h ago
+
+---
+
+**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqdY3TpmfTnhevuiy1lvoT5KDY7zXN6Yk4Q5jHPAGIk3Y0w_eF3lFWvz&gaa_ts=6940708f&gaa_sig=W22YzMFMtHKgki9EpCGQv7mBr4MfHTWcR244N4epCJaRnWS0HeE8v8lBlw0xiMM50I_ZK4XzDwzdjsUYgOiIjQ%3D%3D)**
+
+The Wall Street Journal • 22h ago
+
+---
+
+**[Stanford AI Experts Predict What Will Happen in 2026](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026)**
+
+The era of AI evangelism is giving way to evaluation. Stanford faculty see a coming year defined by rigor, transparency, and a long-overdue focus on actual utility over speculative promise.
+
+Stanford HAI • 6h ago
 
 ---
 
@@ -161,31 +183,11 @@ Axios • 5h ago
 
 ---
 
-**[AI at Work Has Doubled: Here Are the Top Jobs Using It](https://www.pcmag.com/news/ai-at-work-has-doubled-here-are-the-top-jobs-using-it)**
+**[Deloitte's CTO: companies are spending 93% on tech and only 7% on people and that has to change](https://fortune.com/2025/12/15/deloitte-cto-bill-briggs-what-really-scares-ceos-about-ai-human-resources/)**
 
-Nearly half of US workers say they use AI, up from just 21% a few years ago, according to a new Gallup poll. No wonder OpenAI intends to focus on enterprise products in 2026.
+Bill Briggs recognizes an old inertia inside the boardroom: “I felt it in my travels, but I hadn’t been able to quantify it.”
 
-PCMag • 1h ago
-
----
-
-**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/)**
-
-Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
-
-Fortune • 46m ago
-
----
-
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqecxIR4wjQkU9m-PXafwf1BzPwqvwa6EYDpTjZHmFSGxRK08vunH9dv&gaa_ts=6940644f&gaa_sig=h5_tU9jahHt0z9vXMaZ84erkezT_VfcQ59JpkdeKzbwpfCwaAu8BNS_yDS-yncZ9N77zsqjjxO-IBqWGavktXA%3D%3D)**
-
-The Wall Street Journal • 36m ago
-
----
-
-**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
-
-The Economist • 1d ago
+Fortune • 9h ago
 
 ---
 
@@ -197,13 +199,7 @@ The Economist • 1d ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 533 • 💬 289 • 2d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
-
----
-
-**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
-
-⬆️ 449 • 💬 449 • 2d ago
+⬆️ 533 • 💬 290 • 2d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -211,7 +207,13 @@ Update your apps to use new features, and test your apps against API changes.
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 442 • 💬 750 • 19h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 468 • 💬 789 • 20h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+
+---
+
+**[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
+
+⬆️ 450 • 💬 452 • 2d ago
 
 ---
 
@@ -219,7 +221,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 322 • 💬 318 • 20h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 329 • 💬 330 • 20h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -227,7 +229,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 254 • 💬 257 • 19h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 256 • 💬 264 • 19h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -235,7 +237,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 244 • 💬 112 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 245 • 💬 112 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -243,7 +245,7 @@ Some (well-known) consequences of AI automating work
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 151 • 💬 215 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 152 • 💬 216 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -291,7 +293,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 143 • ⏱️ 12:07 • 20h ago
+👁️ 35K • 👍 1K • 💬 143 • ⏱️ 12:07 • 21h ago
 
 ---
 
@@ -399,7 +401,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 84,213 • ❤️ 440 • 6d ago
+⬇️ 84,213 • ❤️ 441 • 6d ago
 
 ---
 
@@ -423,7 +425,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 21,397 • ❤️ 353 • 1d ago
+⬇️ 21,397 • ❤️ 354 • 1d ago
 
 ---
 
@@ -435,7 +437,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 3,683 • ❤️ 310 • 6d ago
+⬇️ 3,683 • ❤️ 311 • 6d ago
 
 ---
 
@@ -459,7 +461,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 6,481 • ❤️ 222 • 3d ago
+⬇️ 6,481 • ❤️ 223 • 3d ago
 
 ---
 
@@ -471,7 +473,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 5,608 • ❤️ 209 • 1d ago
+⬇️ 5,608 • ❤️ 210 • 1d ago
 
 ---
 
@@ -483,7 +485,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 201 • 4d ago
+⬇️ 0 • ❤️ 202 • 4d ago
 
 ---
 
@@ -495,27 +497,13 @@ AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent 
 
 `image-text-to-text` `934,400`
 
-⬇️ 7,541 • ❤️ 172 • 6d ago
+⬇️ 7,541 • ❤️ 173 • 6d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 130 • 💬 6 • ⭐ 18,046 • 3mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
 
 **[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
 
@@ -525,9 +513,23 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 10 • 💬 1 • ⭐ 60 • 3d ago
+▲ 10 • 💬 1 • ⭐ 206 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
+
+---
+
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 130 • 💬 6 • ⭐ 18,099 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -579,7 +581,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 V-RGBX is an end-to-end framework for intrinsic-aware video editing that combines video inverse rendering, photorealistic synthesis, and keyframe-based editing to produce consistent and physically plausible edits.
 
-▲ 23 • 💬 1 • ⭐ 35 • 3d ago
+▲ 23 • 💬 1 • ⭐ 40 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11799) • [💻 code](https://github.com/Aleafy/V-RGBX) • [🔗 project](https://aleafy.github.io/vrgbx/)
 
@@ -657,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.5k • 🔱 375 • 10h ago
+⭐ 3.5k • 🔱 376 • 10h ago
 
 ---
 
@@ -687,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 1h ago
+⭐ 1.1k • 🔱 137 • 43m ago
 
 ---
 
@@ -717,7 +719,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 864 • 🔱 49 • 6h ago
+⭐ 865 • 🔱 49 • 7h ago
 
 ---
 
@@ -727,7 +729,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 736 • 🔱 105 • 16h ago
+⭐ 739 • 🔱 107 • 17h ago
 
 ---
 

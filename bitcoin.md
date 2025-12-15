@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T19:52:49.880614+00:00'
+updated: '2025-12-15T20:18:50.261421+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 19:52 UTC  
+**Last Updated:** December 15, 2025 at 20:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,162.89
+### $85,742.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** -7.3%  
-**30d:** -8.6%  
-**90d:** -26.1%  
-**1y:** -18.7%  
+**24h:** -2.6%  
+**7d:** -7.4%  
+**30d:** -8.7%  
+**90d:** -26.2%  
+**1y:** -18.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1720.85B
+**Market Cap:** $1715.45B
 Rank #1
 
-**Circulating Supply:** 19,962,484 BTC
+**Circulating Supply:** 19,962,509 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.6%
+-32.0%
 
 **All-Time Low:** $67.81
-+127164.4%
++126393.1%
 
 ---
 
@@ -105,14 +105,6 @@ Buy some bitcoin and store it.
 
 ---
 
-**[Bitcoin manipulation](https://www.reddit.com/r/Bitcoin/comments/1pna4zg/bitcoin_manipulation/)**
-
-The bitcoin manipulation is wild esp with Saylor’s buys. He buys almost a billion and the price crashes what am I missing? #btc
-
-4h ago
-
----
-
 **[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
 
 2h ago
@@ -121,13 +113,13 @@ The bitcoin manipulation is wild esp with Saylor’s buys. He buys almost a bill
 
 **[Just doing my part. Dip = bought](https://www.reddit.com/r/Bitcoin/comments/1pnazib/just_doing_my_part_dip_bought/)**
 
-3h ago
+4h ago
 
 ---
 
-**[Time for the Monday Morning Manipulation](https://www.reddit.com/r/Bitcoin/comments/1pn9ek0/time_for_the_monday_morning_manipulation/)**
+**[Bitcoin Holders: Bull Market vs. Bear Market](https://www.reddit.com/r/Bitcoin/comments/1pnf280/bitcoin_holders_bull_market_vs_bear_market/)**
 
-4h ago
+1h ago
 
 ---
 
@@ -135,13 +127,19 @@ The bitcoin manipulation is wild esp with Saylor’s buys. He buys almost a bill
 
 Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 7h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 8h ago
 
 ---
 
-**[Bitcoin Holders: Bull Market vs. Bear Market](https://www.reddit.com/r/Bitcoin/comments/1pnf280/bitcoin_holders_bull_market_vs_bear_market/)**
+**[Ah Shit. Here we go again](https://www.reddit.com/r/Bitcoin/comments/1pnau8j/ah_shit_here_we_go_again/)**
 
-1h ago
+4h ago
+
+---
+
+**[Time for the Monday Morning Manipulation](https://www.reddit.com/r/Bitcoin/comments/1pn9ek0/time_for_the_monday_morning_manipulation/)**
+
+5h ago
 
 ---
 
@@ -161,31 +159,21 @@ Bloomberg.com • 1h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
-**[Crypto Wallet MetaMask Expands From Ethereum and Solana to Bitcoin](https://finance.yahoo.com/news/crypto-wallet-metamask-expands-ethereum-185128982.html)**
+**[Strategy Snaps Up $1 Billion In Bitcoin As The BTC Treasury Firm Remains In Nasdaq 100 Index](https://www.tradingview.com/news/zycrypto:09e23e601094b:0-strategy-snaps-up-1-billion-in-bitcoin-as-the-btc-treasury-firm-remains-in-nasdaq-100-index/)**
 
-Popular Ethereum wallet MetaMask has added support for Bitcoin, expanding more broadly ahead of its planned token launch.
+Michael Saylor’s Strategy is back in the business of acquiring large tranches of Bitcoin, announcing a purchase of nearly $1 billion worth of BTC.
 
-Yahoo Finance • 1h ago
-
----
-
-**[American Bitcoin Lifts BTC Holdings to $500M as Bitcoin Slips Below $90,000](https://finance.yahoo.com/news/american-bitcoin-lifts-btc-holdings-185925697.html)**
-
-American Bitcoin Corp increased its Bitcoin holdings by 261 BTC, taking total reserves to 5,044 BTC. The latest purchase comes as Bitcoin BTC $86 253 24h volatility: 2.9% Market cap: $1.72 T Vol. 24h: $49.03 B traded near $89,700 at press time, valuing the company’s stash at more than $450 ...
-
-Yahoo Finance • 53m ago
+TradingView — Track All Markets • 42m ago
 
 ---
 
-**[Bitcoin Breaches $86,000 While Sinking Toward Year’s Lows](https://finance.yahoo.com/news/bitcoin-breaches-86-000-while-183150651.html)**
+**[Bitcoin sees one-year low in active addresses, raising fresh concerns over blockspace demand](https://www.theblock.co/post/382585/bitcoin-year-low-active-addresses-concerns-blockspace-demand)**
 
-The original cryptocurrency has been drifting toward the lower bound of its recent trading range with any increase in the price seen being met by selling from investors who purchased the largest cryptocurrency near the all-time high reached in early October, analysts have said.  Bitcoin fell as much as 3.3% to $85,5787 on Monday, and is down around 30% from its record high of more than $126,000.  “We’ve continued to trade this very choppy range between 85k-94k in BTC, with a continued lack of interest and low volumes broadly across crypto markets,” said Bohan Jiang, senior derivatives trader at FalconX.
-
-Yahoo Finance • 1h ago
+The Block • 43m ago
 
 ---
 
@@ -193,13 +181,15 @@ Yahoo Finance • 1h ago
 
 Veteran trader Peter Brandt warns that bitcoin's growth parabola has fractured, potentially leading to a price drop to $25,000.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqfEq9qGBLXTTGvANS6w6juJa4fFLxQZavGGJfzF8CAPwXt_NIN5gF4k&gaa_ts=6940644d&gaa_sig=j-byx3sAge51KTkBqJKEYeEqVlNfa9AqD-qXvSREL120sUNWO4ixmTko9w2pMa-upNduzW8kn4NHdpxfBq6enw%3D%3D)**
+**[Crypto winter could spur 'Darwinian phase' for digital asset treasury companies](https://finance.yahoo.com/news/crypto-winter-could-spur-darwinian-phase-for-digital-asset-treasury-companies-150010208.html)**
 
-Barron's • 1h ago
+Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -207,7 +197,13 @@ Barron's • 1h ago
 
 Sometimes you are the biggest risk to your portfolio's health.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
+
+---
+
+**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqdCRj-1CVGhsSR13_OzBL2WNQJJ4oo6hxyCe1Kybdn9LIxXMRnR2PIF&gaa_ts=69407090&gaa_sig=O6l9a3ghNUsFcdEAyyovj944G5tKEgz4Y78iKcxEgKF2ozwOVlXSvwVgO5qAHopzKwtVKU6a7RQPXy7qxZ26EA%3D%3D)**
+
+Barron's • 2h ago
 
 ---
 
@@ -219,9 +215,9 @@ Bitcoin Magazine • 5h ago
 
 ---
 
-**[Michael Saylor's Strategy acquires 10,645 bitcoin for $980 million, bringing total treasury holdings to 671,268 BTC](https://www.theblock.co/post/382490/michael-saylor-strategy-buys-bitcoin-nasdaq-100)**
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqdJVxEqc4YcEGEq5YUabXyAgDeWUd_s8RB3qVMu8fsuZZFbCxn95c5u&gaa_ts=69407090&gaa_sig=hTxY35RPbqTW0CCXAjFaRgyGvymi2pSUxzmFqNwYMqkyQKSn98H-YoqHsGN7XrbxifJuJ6HodOCFyhM39GEkAQ%3D%3D)**
 
-The Block • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -249,7 +245,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 6h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 7h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -293,7 +289,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 11h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 12h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
@@ -357,7 +353,7 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 3K • 👍 204 • 💬 17 • ⏱️ 6:02 • 3h ago
+👁️ 3K • 👍 204 • 💬 17 • ⏱️ 6:02 • 4h ago
 
 ---
 
@@ -397,7 +393,7 @@ Come look into the next BIG move in crypto! All LIVE analysis, charting, and tra
 
 📺 Tom Crown
 
-👁️ 3K • 👍 258 • 💬 12 • ⏱️ 1:17:49 • 41m ago
+👁️ 3K • 👍 258 • 💬 12 • ⏱️ 1:17:49 • 1h ago
 
 ---
 

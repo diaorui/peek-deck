@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T19:52:49.886602+00:00'
+updated: '2025-12-15T20:18:50.267397+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 19:52 UTC  
+**Last Updated:** December 15, 2025 at 20:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,45 +42,61 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.8%  
-**7d:** -11.4%  
-**30d:** -5.1%  
-**90d:** -35.9%  
-**1y:** -26.2%  
+**24h:** -4.9%  
+**7d:** -11.8%  
+**30d:** -5.6%  
+**90d:** -36.2%  
+**1y:** -26.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.71B
+**Market Cap:** $353.98B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.3%
+-40.9%
 
 **All-Time Low:** $0.43
-+681457.3%
++675297.7%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion December 15, 2025](https://www.reddit.com/r/ethereum/comments/1pn03v7/daily_general_discussion_december_15_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-13h ago
-
----
-
 **[JPMorgan Launches $100M Tokenized Money Market Fund on Ethereum](https://www.reddit.com/r/ethereum/comments/1pnfr0z/jpmorgan_launches_100m_tokenized_money_market/)**
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-55m ago
+1h ago
+
+---
+
+**[Daily General Discussion December 15, 2025](https://www.reddit.com/r/ethereum/comments/1pn03v7/daily_general_discussion_december_15_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+14h ago
+
+---
+
+**[Best way to buy Ethereum for long-term holding? Need advice](https://www.reddit.com/r/ethereum/comments/1pncxqo/best_way_to_buy_ethereum_for_longterm_holding/)**
+
+I’ve never bought ETH before, but I’m thinking of getting some exposure now. I know the basics, I just want to buy ETH and move it to self-custody, hardware wallet, cold storage, the works. Plan is to buy and hold long term. Now I’m confused about the best approach. Some exchanges have crazy fees, others don’t allow ETH purchases, and I’ve read horror stories of accounts getting frozen on Binance. I want a safe, hassle-free way to buy ETH and make sure I can move it securely to my own wallet.
+
+3h ago
+
+---
+
+**[Echidna 2.3 released with symbolic execution capabilities, Foundry reproducer integration and revamped coverage reports!](https://www.reddit.com/r/ethereum/comments/1pnh16m/echidna_23_released_with_symbolic_execution/)**
+
+Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
+
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 32m ago
 
 ---
 
@@ -89,14 +105,6 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
 1h ago
-
----
-
-**[Best way to buy Ethereum for long-term holding? Need advice](https://www.reddit.com/r/ethereum/comments/1pncxqo/best_way_to_buy_ethereum_for_longterm_holding/)**
-
-I’ve never bought ETH before, but I’m thinking of getting some exposure now. I know the basics, I just want to buy ETH and move it to self-custody, hardware wallet, cold storage, the works. Plan is to buy and hold long term. Now I’m confused about the best approach. Some exchanges have crazy fees, others don’t allow ETH purchases, and I’ve read horror stories of accounts getting frozen on Binance. I want a safe, hassle-free way to buy ETH and make sure I can move it securely to my own wallet.
-
-2h ago
 
 ---
 
@@ -140,21 +148,13 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 ---
 
-**[Ethereal news weekly #2 | BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation](https://www.reddit.com/r/ethereum/comments/1pkr4j5/ethereal_news_weekly_2_bpo1_upgrade_increased/)**
-
-BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
-
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -178,21 +178,15 @@ Yahoo Finance • 2h ago
 
 Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
+**[Why Are Bitcoin, Ethereum and XRP Prices Falling Today?](https://www.tradingview.com/news/coinpedia:5f55e8b63094b:0-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
 
-Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
+The cryptocurrency market is under pressure today, with Bitcoin, Ethereum and XRP among other altcoins all seeing sharp declines. Total crypto market value has slipped to around $3 trillion, down more than 1%.Bitcoin dropped below $87,000, Ethereum fell near $3,000, and XRP slid to around $1.92. Se…
 
-Nasdaq • 1d ago
-
----
-
-**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
-
-CCN.com • 6h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -200,15 +194,13 @@ CCN.com • 6h ago
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 3h ago
+CryptoSlate • 4h ago
 
 ---
 
-**[Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment](https://ambcrypto.com/greed-vs-fear-at-3k-inside-ethereums-make-or-break-moment/)**
+**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
 
-Ethereum approaches whale levels: Is greed fueling the next crash?
-
-AMBCrypto • 1d ago
+CCN.com • 7h ago
 
 ---
 
@@ -220,11 +212,19 @@ BeInCrypto • 1d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum hold steady as XRP ETF inflows surge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-aim-for-recovery-xrp-holds-key-support-202512121200)**
+**[Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment](https://ambcrypto.com/greed-vs-fear-at-3k-inside-ethereums-make-or-break-moment/)**
 
-Bitcoin (BTC) is trading above $92,000 at the time of writing on Friday, as volatility across the cryptocurrency market cools following the Federal Reserve’s (Fed) hawkish interest rate cut.
+Ethereum approaches whale levels: Is greed fueling the next crash?
 
-FXStreet • 3d ago
+AMBCrypto • 1d ago
+
+---
+
+**[Bitcoin, Ethereum options expiry puts max pain levels to the test Dec. 20](https://crypto.news/bitcoin-ethereum-options-expiry-puts-max-pain-levels-to-the-test-dec-20/)**
+
+Bitcoin and Ethereum options worth billions expire Dec. 20, with max pain clusters and BTC put skew setting the stage for short‑term volatility.​
+
+crypto.news • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 10 • ⏱️ 5:52 • 4h ago
+👁️ 2K • 👍 119 • 💬 10 • ⏱️ 5:52 • 5h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 11K • 👍 412 • 💬 161 • ⏱️ 20:08 • 22h ago
+👁️ 11K • 👍 412 • 💬 161 • ⏱️ 20:08 • 23h ago
 
 ---
 

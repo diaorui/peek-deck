@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T19:52:49.889824+00:00'
+updated: '2025-12-15T20:18:50.270629+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 19:52 UTC  
+**Last Updated:** December 15, 2025 at 20:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
 
-6h ago
+7h ago
+
+---
+
+**[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
+
+52m ago
 
 ---
 
@@ -44,7 +50,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +58,7 @@ Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 
 
 RIP, between the failed Amazon acquisition and the stiff competition this was a long time coming but still very sad. Theyre being bought by their Chinese manufacturer, which I found interesting when there are so many Chinese competitors in the market. I wonder if they will try to continue the brand.
 
-🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 16h ago
+🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 17h ago
 
 ---
 
@@ -60,15 +66,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-22h ago
-
----
-
-**[Training a robot arm to pick steadily with reinforcement learning.](https://www.reddit.com/r/robotics/comments/1pn70vh/training_a_robot_arm_to_pick_steadily_with/)**
-
-Everything here is done in simulation — from perception to grasping and lifting, the policy learns the whole pipeline by itself. With physically accurate dynamics and reliable collision handling, the arm ends up learning much more stable control behaviors. You can pretty clearly see how RL improves grasp stability over training, rather than just memorizing motions.
-
-6h ago
+23h ago
 
 ---
 
@@ -77,6 +75,14 @@ Everything here is done in simulation — from perception to grasping and liftin
 IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-robotics/Reachy_Mini_Assembly_Guide
 
 4h ago
+
+---
+
+**[Training a robot arm to pick steadily with reinforcement learning.](https://www.reddit.com/r/robotics/comments/1pn70vh/training_a_robot_arm_to_pick_steadily_with/)**
+
+Everything here is done in simulation — from perception to grasping and lifting, the policy learns the whole pipeline by itself. With physically accurate dynamics and reliable collision handling, the arm ends up learning much more stable control behaviors. You can pretty clearly see how RL improves grasp stability over training, rather than just memorizing motions.
+
+7h ago
 
 ---
 
@@ -92,21 +98,15 @@ Been messing around with this little mobile camera, it’s about the size of a c
 
 Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
 
-20h ago
+21h ago
 
 ---
 
-**[Custom Differential Drive Robot | ESP32 + micro-ROS + ROS 2 + PID Control (Video)](https://www.reddit.com/r/robotics/comments/1pn389p/custom_differential_drive_robot_esp32_microros/)**
+**[Workkkkk!!](https://www.reddit.com/r/robotics/comments/1pnf57o/workkkkk/)**
 
-10h ago
+Hey I'm struggling a lot to get a job or any work experience, can anyone genuinely guide or have a chat to help or figure me out I'm worried a lot .
 
----
-
-**[Next gen drones infrastructure by Zipline](https://www.reddit.com/r/robotics/comments/1pmam73/next_gen_drones_infrastructure_by_zipline/)**
-
-From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
-
-1d ago
+1h ago
 
 ---
 
@@ -116,7 +116,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 1d ago
+The New York Times • 22h ago
 
 ---
 
@@ -136,35 +136,11 @@ Fortune • 2d ago
 
 ---
 
-**[Elon Musk Says He's Been Having 'AI Nightmares' Lately —'If I Could, I Would Certainly Slow Down AI And Robotics, But I Can't'](https://www.yahoo.com/news/articles/elon-musk-says-hes-having-173017488.html)**
-
-Elon Musk isn't sleeping well these days — and it's not the launch schedules or Tesla earnings calls. It's AI. On an episode of "The Katie Miller Podcast" released in December, the Tesla CEO was asked if anything keeps him up at night. He responded, "AI. Yeah, actually." He then said, "I've had a lot of AI nightmares… many days in a row." The conversation started with Miller referencing Musk's past claims that people might not need to work in the future. Musk said that belief still holds. "Assum
-
-Yahoo • 2h ago
-
----
-
-**[After a decade of trying, Quebecers become world robotics champions](https://ca.news.yahoo.com/decade-trying-quebecers-become-world-173311840.html)**
-
-Two Quebecers have been crowned champions at the World Robot Olympiad, a major robotics competition for young people. They won the gold medal in the category of Future Engineers.
-
-Yahoo News Canada • 2h ago
-
----
-
-**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
-
-The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
-
-The Motley Fool • 1d ago
-
----
-
 **[iRobot Announces Strategic Transaction to Drive Long-Term Growth Plan](https://www.prnewswire.com/news-releases/irobot-announces-strategic-transaction-to-drive-long-term-growth-plan-302641744.html)**
 
 /PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
 
-PR Newswire • 19h ago
+PR Newswire • 20h ago
 
 ---
 
@@ -180,7 +156,15 @@ The Verge • 11h ago
 
 iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private - TechStock²
 
-ts2.tech • 5h ago
+ts2.tech • 6h ago
+
+---
+
+**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
+
+The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -189,6 +173,20 @@ ts2.tech • 5h ago
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
 InvestorPlace • 15h ago
+
+---
+
+**[They built robots and won. Now they want more middle schoolers to join in.](https://www.timesunion.com/education/article/steamwhiz-aims-expand-k-8-robotics-teams-albany-21236899.php)**
+
+timesunion.com • 1d ago
+
+---
+
+**[Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology (AMCI:NASDAQ)](https://seekingalpha.com/news/4531631-meet-amc-robotics-the-spac-name-looking-for-a-breakthrough-in-ai-powered-robotic-technology)**
+
+Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
+
+Seeking Alpha • 1h ago
 
 ---
 
