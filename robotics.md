@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T08:25:09.903444+00:00'
+updated: '2025-12-15T08:55:41.742265+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 08:25 UTC  
+**Last Updated:** December 15, 2025 at 08:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
 
-3h ago
+4h ago
 
 ---
 
@@ -76,13 +76,21 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in wasm and now I can flash directly from browser. Code is open source! more details: https://asadmemon.com/rkdeveloptool/ code: https://github.com/asadm/rkdeveloptool
 
-25m ago
+56m ago
+
+---
+
+**[Coding it and then having VinciBot run through the planned route](https://www.reddit.com/r/robotics/comments/1pn2i4r/coding_it_and_then_having_vincibot_run_through/)**
+
+It’s pretty fun, not just for my kid, but for me too!
+
+18m ago
 
 ---
 
 **[do you actually hand-write URDFs from scratch?](https://www.reddit.com/r/robotics/comments/1pn0vtu/do_you_actually_handwrite_urdfs_from_scratch/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -90,7 +98,7 @@ I wanted a web flasher for my project, wrapped Rockchip’s rkdeveloptool in was
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
-20h ago
+21h ago
 
 ---
 
@@ -102,19 +110,13 @@ I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the
 
 ---
 
-**[MuJoCo-rs 2.2.0: New release of Rust bindings and idiomatic wrappers around the MuJoCo simulation library](https://www.reddit.com/r/robotics/comments/1pmmtdp/mujocors_220_new_release_of_rust_bindings_and/)**
-
-12h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 22h ago
+The New York Times • 11h ago
 
 ---
 
@@ -122,7 +124,7 @@ The New York Times • 22h ago
 
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -130,7 +132,7 @@ The Motley Fool • 12h ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 12h ago
+InvestorPlace • 18h ago
 
 ---
 
@@ -158,6 +160,14 @@ Fortune • 1d ago
 
 ---
 
+**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://finance.yahoo.com/news/94-billion-robotics-market-set-194400551.html)**
+
+This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
@@ -170,7 +180,7 @@ Scientific American • 1d ago
 
 iRobot survived three decades of competition, but couldn't survive European regulators killing its Amazon buyout. Now it's being taken over by its own supplier in bankruptcy court.
 
-TechCrunch • 5h ago
+TechCrunch • 6h ago
 
 ---
 
@@ -178,15 +188,7 @@ TechCrunch • 5h ago
 
 A team of MIT researchers created a speech-to-reality system that enables a robot to build furniture with just a simple request.
 
-The Robot Report • 18h ago
-
----
-
-**[Streamer Sued for Assaulting Gay Robot](https://futurism.com/robots-and-machines/streamer-sued-for-assaulting-gay-robot)**
-
-Jake the Rizzbot, a bipedal, slang-slinging humanoid, was allegedly assaulted and permanently damaged by streamer IShowSpeed.
-
-Futurism • 13h ago
+The Robot Report • 19h ago
 
 ---
 
@@ -220,7 +222,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 Farooq tv
 
-👁️ 3K • 👍 35 • 💬 1 • ⏱️ 0:09 • 16h ago
+👁️ 3K • 👍 35 • 💬 1 • ⏱️ 0:09 • 17h ago
 
 ---
 

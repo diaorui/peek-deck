@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T08:25:09.900228+00:00'
+updated: '2025-12-15T08:55:41.739043+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 08:25 UTC  
+**Last Updated:** December 15, 2025 at 08:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -5.5%  
-**30d:** +1.2%  
-**90d:** -31.6%  
-**1y:** -21.3%  
+**24h:** +0.9%  
+**7d:** -5.3%  
+**30d:** +1.4%  
+**90d:** -31.5%  
+**1y:** -21.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.07B
+**Market Cap:** $378.99B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.7%
+-36.5%
 
 **All-Time Low:** $0.43
-+723353.1%
++725129.2%
 
 ---
 
@@ -178,7 +178,7 @@ TradingView — Track All Markets • 16h ago
 
 **[Tron outperforms Bitcoin, Ethereum and major tokens, defying broader crypto market weakness](https://www.msn.com/en-us/money/markets/tron-outperforms-bitcoin-ethereum-and-major-tokens-defying-broader-crypto-market-weakness/ar-AA1SlW2K?ocid=finance-verthp-feeds)**
 
-MSN • 2h ago
+MSN • 3h ago
 
 ---
 
@@ -186,7 +186,7 @@ MSN • 2h ago
 
 Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
-Nasdaq • 20h ago
+Nasdaq • 21h ago
 
 ---
 
@@ -202,7 +202,7 @@ FXStreet • 4h ago
 
 Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
 
-BeInCrypto • 13h ago
+BeInCrypto • 14h ago
 
 ---
 
@@ -226,7 +226,7 @@ The Motley Fool • 2d ago
 
 Firedancer could start a new wave of adoption for Solana, especially from institutions that see a mitigated centralization risk from its validators.
 
-CryptoSlate • 11h ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 5 • ⏱️ 6:25 • 4h ago
+👁️ 1K • 👍 92 • 💬 5 • ⏱️ 6:25 • 5h ago
 
 ---
 
@@ -270,7 +270,7 @@ We have covered the bull case extensively—the dividends, the MAVAN launch, and
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 31 • 💬 18 • ⏱️ 10:35 • 10h ago
+👁️ 1K • 👍 31 • 💬 18 • ⏱️ 10:35 • 11h ago
 
 ---
 

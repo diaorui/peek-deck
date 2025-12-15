@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T08:25:09.894201+00:00'
+updated: '2025-12-15T08:55:41.733083+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 08:25 UTC  
+**Last Updated:** December 15, 2025 at 08:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1791.85B
+**Market Cap:** $1793.09B
 Rank #1
 
 **Circulating Supply:** 19,962,275 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-28.7%
 
 **All-Time Low:** $67.81
-+132275.8%
++132387.8%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
-
-10h ago
-
----
-
 **[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
 
 9h ago
+
+---
+
+**[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
+
+11h ago
 
 ---
 
@@ -94,6 +94,14 @@ Rank #1
 5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
 
 7h ago
+
+---
+
+**[[France] Gov mandates declaring Cold Wallets >€5k. Need privacy strategy](https://www.reddit.com/r/Bitcoin/comments/1pn1cj8/france_gov_mandates_declaring_cold_wallets_5k/)**
+
+The French parliament just voted on an amendment forcing us to declare self-custody wallets (Ledger/Trezor) to the tax authorities if they hold more than €5,000. This effectively builds a massive centralized honeypot linking real identities to home addresses and exact holdings, which is a massive security risk and a wrench attack nightmare. ​I'm urgently looking for technical strategies to protect my privacy here. I need to know if "structuring" by splitting the stack into multiple sub-€5k wallets is a viable way to bypass the threshold, or if I should be looking into CoinJoin/Whirlpool to sever the link from my KYC exchange history before moving to fresh storage. I'm also trying to understand how they could possibly enforce this without me voluntarily doxxing my XPUB, so I'm curious if non-compliance is the general consensus. Any advice on keeping my stack off this registry would be appreciated.
+
+1h ago
 
 ---
 
@@ -107,15 +115,7 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-17h ago
-
----
-
-**[[France] Gov mandates declaring Cold Wallets >€5k. Need privacy strategy](https://www.reddit.com/r/Bitcoin/comments/1pn1cj8/france_gov_mandates_declaring_cold_wallets_5k/)**
-
-The French parliament just voted on an amendment forcing us to declare self-custody wallets (Ledger/Trezor) to the tax authorities if they hold more than €5,000. This effectively builds a massive centralized honeypot linking real identities to home addresses and exact holdings, which is a massive security risk and a wrench attack nightmare. ​I'm urgently looking for technical strategies to protect my privacy here. I need to know if "structuring" by splitting the stack into multiple sub-€5k wallets is a viable way to bypass the threshold, or if I should be looking into CoinJoin/Whirlpool to sever the link from my KYC exchange history before moving to fresh storage. I'm also trying to understand how they could possibly enforce this without me voluntarily doxxing my XPUB, so I'm curious if non-compliance is the general consensus. Any advice on keeping my stack off this registry would be appreciated.
-
-1h ago
+18h ago
 
 ---
 
@@ -131,15 +131,17 @@ The French parliament just voted on an amendment forcing us to declare self-cust
 
 ---
 
-**[Not again 😩 No more dip](https://www.reddit.com/r/Bitcoin/comments/1pmsjz5/not_again_no_more_dip/)**
+**[Anyone bought 50K at 2021 just to dip to 16K at 2022?](https://www.reddit.com/r/Bitcoin/comments/1pn17cb/anyone_bought_50k_at_2021_just_to_dip_to_16k_at/)**
 
-8h ago
+Must been hurt, and now we got people bought at 124K crying when it's 90K. Absolute cinema.
+
+1h ago
 
 ---
 
 **[We are going down a bit, get ready for the Peter Schiff tweets 😂](https://www.reddit.com/r/Bitcoin/comments/1pmtxa0/we_are_going_down_a_bit_get_ready_for_the_peter/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -153,11 +155,11 @@ The Block • 10h ago
 
 ---
 
-**[Bitcoin Below $89K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
+**[Bitcoin Falls Below $90K, Markets Turn Cautious Ahead of U.S. Data and BOJ Decision](https://www.coindesk.com/markets/2025/12/14/bitcoin-dips-below-usd90k-amid-fading-risk-appetite-ahead-of-key-macro-events)**
 
 Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -183,15 +185,7 @@ Reuters • 7h ago
 
 Nasdaq and MOVE index patterns warrant caution for BTC bulls.
 
-CoinDesk • 36m ago
-
----
-
-**[Crypto winter could spur 'Darwinian phase' for digital asset treasury companies](https://finance.yahoo.com/news/crypto-winter-could-spur-darwinian-phase-for-digital-asset-treasury-companies-150010208.html)**
-
-Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
-
-Yahoo Finance • 10h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -207,7 +201,7 @@ Financial Times • 3h ago
 
 Key PointsCardano is approaching one of its largest-ever growth opportunities.
 
-Nasdaq • 13h ago
+Nasdaq • 14h ago
 
 ---
 
@@ -215,7 +209,13 @@ Nasdaq • 13h ago
 
 Nvidia and Bitcoin have produced blistering returns for investors during the past few years.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
+
+---
+
+**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
+
+x.com • 1d ago
 
 ---
 
@@ -279,7 +279,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 32m ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 1h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
@@ -293,7 +293,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 261 • ⏱️ 9:35 • 8h ago
+👁️ 35K • 👍 2K • 💬 261 • ⏱️ 9:35 • 9h ago
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 155 • ⏱️ 14:17 • 8h ago
+👁️ 26K • 👍 2K • 💬 155 • ⏱️ 14:17 • 9h ago
 
 ---
 
@@ -313,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 365 • ⏱️ 9:39 • 7h ago
+👁️ 27K • 👍 1K • 💬 365 • ⏱️ 9:39 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 222 • 💬 5 • ⏱️ 8:12 • 2h ago
+👁️ 2K • 👍 222 • 💬 5 • ⏱️ 8:12 • 3h ago
 
 ---
 
@@ -363,7 +363,7 @@ TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE 
 
 📺 Jason Pizzino
 
-👁️ 8K • 👍 616 • 💬 261 • ⏱️ 34:43 • 5h ago
+👁️ 8K • 👍 616 • 💬 261 • ⏱️ 34:43 • 6h ago
 
 ---
 
@@ -383,7 +383,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 76K • 👍 5K • 💬 415 • ⏱️ 17:53 • 16h ago
+👁️ 76K • 👍 5K • 💬 415 • ⏱️ 17:53 • 17h ago
 
 ---
 
