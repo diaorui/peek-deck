@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T04:50:25.463379+00:00'
+updated: '2025-12-15T05:16:42.742900+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 04:50 UTC  
+**Last Updated:** December 15, 2025 at 05:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -5.9%  
-**30d:** +0.7%  
+**24h:** +0.4%  
+**7d:** -5.8%  
+**30d:** +0.9%  
 **90d:** -31.9%  
-**1y:** -21.6%  
+**1y:** -21.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 10h ago
 
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -218,7 +218,7 @@ CryptoSlate • 8h ago
 
 **[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
 
-TipRanks • 18h ago
+TipRanks • 19h ago
 
 ---
 
@@ -234,13 +234,33 @@ ts2.tech • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=qZYRCR8s6kw)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 487 • 👍 50 • 💬 2 • ⏱️ 6:25 • 1h ago
+
+---
+
 **[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JI8ZbMLvojQ)**
 
 BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
 📺 Crypto World
 
-👁️ 6K • 👍 318 • 💬 48 • ⏱️ 20:08 • 7h ago
+👁️ 8K • 👍 355 • 💬 54 • ⏱️ 20:08 • 8h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 15 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=SuUVoWX91kc)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 2K • 👍 453 • 33m ago
 
 ---
 
@@ -250,17 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 148 • 💬 4 • ⏱️ 8:04 • 12h ago
-
----
-
-**[The Risky Side of BMNR: Dilution, Volatility, and ETH Crashes (Bear Case)](https://www.youtube.com/watch?v=Y7U-zxH5T8Y)**
-
-We have covered the bull case extensively—the dividends, the MAVAN launch, and Tom Lee's supercycle. But a responsible ...
-
-📺 Wall Street Stockcast
-
-👁️ 675 • 👍 28 • 💬 18 • ⏱️ 10:35 • 7h ago
+👁️ 3K • 👍 149 • 💬 5 • ⏱️ 8:04 • 13h ago
 
 ---
 
@@ -270,7 +280,17 @@ EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotr
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 289 • ⏱️ 31:03 • 2d ago
+👁️ 65K • 👍 3K • 💬 290 • ⏱️ 31:03 • 2d ago
+
+---
+
+**[The Risky Side of BMNR: Dilution, Volatility, and ETH Crashes (Bear Case)](https://www.youtube.com/watch?v=Y7U-zxH5T8Y)**
+
+We have covered the bull case extensively—the dividends, the MAVAN launch, and Tom Lee's supercycle. But a responsible ...
+
+📺 Wall Street Stockcast
+
+👁️ 894 • 👍 31 • 💬 18 • ⏱️ 10:35 • 7h ago
 
 ---
 
@@ -280,17 +300,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 659 • 💬 46 • ⏱️ 20:45 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Prediction Now | Crypto Analysis &amp; Market Forecast](https://www.youtube.com/watch?v=GUpSOMIOr0E)**
-
-Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.patreon.com/ThomasBoleto/membership ...
-
-📺 Thomas Boleto – Bitcoin Insights
-
-👁️ 37 • 👍 9 • 💬 1 • ⏱️ 15:33 • 2h ago
+👁️ 18K • 👍 677 • 💬 46 • ⏱️ 20:45 • 1d ago
 
 ---
 
@@ -300,7 +310,17 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Guitar Repair@StringTech
 
-👁️ 8K • 👍 4K • 1d ago
+👁️ 9K • 👍 4K • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Prediction Now | Crypto Analysis &amp; Market Forecast](https://www.youtube.com/watch?v=GUpSOMIOr0E)**
+
+Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.patreon.com/ThomasBoleto/membership ...
+
+📺 Thomas Boleto – Bitcoin Insights
+
+👁️ 112 • 👍 18 • 💬 2 • ⏱️ 15:33 • 3h ago
 
 ---
 
@@ -310,27 +330,7 @@ Ethereum is showing a major bullish signal — one that last time led to a massi
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 457 • 💬 14 • ⏱️ 48:44 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zVOGjXgpUBg)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:34 • 1d ago
-
----
-
-**[&quot;A HUGE SHOCK Is Coming! 2026 Will Be Crypto&#39;s Most Successful Year&quot; - Tom Lee](https://www.youtube.com/watch?v=659AVWLN0bE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 224 • 💬 12 • ⏱️ 21:14 • 1d ago
+👁️ 7K • 👍 458 • 💬 14 • ⏱️ 48:44 • 2d ago
 
 ---
 

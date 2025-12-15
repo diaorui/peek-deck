@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T04:50:25.466990+00:00'
+updated: '2025-12-15T05:16:42.746234+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 04:50 UTC  
+**Last Updated:** December 15, 2025 at 05:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 RIP, between the failed Amazon acquisition and the stiff competition this was a long time coming but still very sad. Theyre being bought by their Chinese manufacturer, which I found interesting when there are so many Chinese competitors in the market. I wonder if they will try to continue the brand.
 
-🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 1h ago
+🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 2h ago
 
 ---
 
@@ -60,7 +60,7 @@ Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on th
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-18h ago
+19h ago
 
 ---
 
@@ -76,7 +76,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
 Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
 
-6m ago
+32m ago
 
 ---
 
@@ -84,7 +84,7 @@ Been messing around with this little mobile camera, it’s about the size of a c
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-18h ago
+19h ago
 
 ---
 
@@ -138,7 +138,7 @@ InvestorPlace • 14h ago
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 22h ago
+South China Morning Post • 23h ago
 
 ---
 
@@ -146,7 +146,7 @@ South China Morning Post • 22h ago
 
 Robot companies are racing toward a breakout year, but they'll have to confront some fundamental problems before making bigger promises.
 
-CNET • 20h ago
+CNET • 21h ago
 
 ---
 
@@ -170,7 +170,7 @@ IEEE Spectrum • 3d ago
 
 /PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
 
-PR Newswire • 4h ago
+PR Newswire • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ TechCrunch • 2h ago
 
 📺 CNET
 
-👁️ 13K • 👍 397 • 💬 49 • ⏱️ 6:41 • 15h ago
+👁️ 14K • 👍 418 • 💬 51 • ⏱️ 6:41 • 16h ago
 
 ---
 
@@ -210,7 +210,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 127K • 👍 2K • 💬 925 • ⏱️ 14:26 • 6d ago
+👁️ 127K • 👍 2K • 💬 927 • ⏱️ 14:26 • 6d ago
 
 ---
 
@@ -220,7 +220,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 167K • 👍 5K • 💬 204 • ⏱️ 0:34 • 20h ago
+👁️ 176K • 👍 6K • 💬 216 • ⏱️ 0:34 • 21h ago
 
 ---
 
@@ -228,17 +228,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 29K • 👍 410 • 💬 10 • ⏱️ 0:16 • 1d ago
-
----
-
-**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
-
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
-
-📺 Associated Press
-
-👁️ 24K • 👍 95 • 💬 33 • ⏱️ 1:26 • 2d ago
+👁️ 30K • 👍 418 • 💬 10 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -248,7 +238,17 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 190K • 👍 917 • 💬 303 • ⏱️ 0:47 • 5d ago
+👁️ 190K • 👍 918 • 💬 303 • ⏱️ 0:47 • 5d ago
+
+---
+
+**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+
+📺 Associated Press
+
+👁️ 24K • 👍 97 • 💬 34 • ⏱️ 1:26 • 2d ago
 
 ---
 
@@ -262,16 +262,6 @@ robots #irc #humanoid At the latest tech expo, a man shows off his brand new rob
 
 ---
 
-**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
-
-Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
-
-📺 The Military Show
-
-👁️ 363K • 👍 10K • 💬 580 • ⏱️ 16:55 • 3d ago
-
----
-
 **[Are robots the future of space exploration? | BBC News](https://www.youtube.com/watch?v=-2Tq-leZgs4)**
 
 How can robots help astronauts survive in space? The National Space Industry Hub in Sydney, Australia, is home to some of the ...
@@ -282,13 +272,23 @@ How can robots help astronauts survive in space? The National Space Industry Hub
 
 ---
 
+**[Ukraine’s ROBOT Army Just SCORED a World-First Frontline Kill Against Russia](https://www.youtube.com/watch?v=_hX5jWmAe3k)**
+
+Ukraine's battlefield is changing fast as ground robots move from support roles to frontline attackers. After a Ukrainian DevDroid ...
+
+📺 The Military Show
+
+👁️ 364K • 👍 10K • 💬 581 • ⏱️ 16:55 • 3d ago
+
+---
+
 **[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
 
 I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
 
 📺 Kyle Krueger
 
-👁️ 4.9M • 👍 155K • 💬 3K • ⏱️ 0:51 • 4d ago
+👁️ 5.0M • 👍 156K • 💬 3K • ⏱️ 0:51 • 4d ago
 
 ---
 

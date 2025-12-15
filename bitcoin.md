@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T04:50:25.452796+00:00'
+updated: '2025-12-15T05:16:42.736792+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 04:50 UTC  
+**Last Updated:** December 15, 2025 at 05:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -3.4%  
+**24h:** -0.4%  
+**7d:** -3.5%  
 **30d:** -4.8%  
 **90d:** -23.0%  
-**1y:** -15.2%  
+**1y:** -15.3%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I just sold my 2024 Mustang that I bought brand new last year for $55,676 — ended up getting $31,500 for it. Honestly, I loved that car, but I decided it was time to let it go for something bigger. I’m putting the entire $31.5K into Bitcoin-related assets. I’m already invested around $75K in MSTR and MARA, and this sale gives me more dry powder to average in. I know it’s not a typical decision, but I’m 22 and I believe in where Bitcoin and the ecosystem are headed long term. My plan is to buy a Corvette with the profits — could be wrong, could be right. But I’d rather take the shot now than look back wishing I did. Let’s see where this journey goes 🚀 Added the bill too soo you guys know this isn’t a fake post
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ I just sold my 2024 Mustang that I bought brand new last year for $55,676 — en
 
 Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
 
-8h ago
+9h ago
 
 ---
 
@@ -121,13 +121,13 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
 
-3h ago
+4h ago
 
 ---
 
 **[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -151,7 +151,7 @@ I have empty hands
 
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 6h ago
 
 Bitcoin price is trading below $90,000 and has now slipped under $89,000, changing hands near $88,794, down 1.46% in the last 24 hours.One of the reasons behind today’s drop is growing concern over a possible interest rate hike by the Bank of Japan (BoJ).Although no official rate increase has been…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 16h ago
 
 Bitcoin slipped below $90,000 on Friday as Asian markets started the final full trading week of 2025 on a weaker footing, with growing doubts over technology earnings weighing on risk appetite across equities and crypto alike.Equity futures pointed to losses for Australian, Hong Kong and Japanese benchmarks in early trading ...
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Investor's Business Daily • 2d ago
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -297,7 +297,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 1K • 💬 121 • ⏱️ 9:35 • 5h ago
+👁️ 25K • 👍 1K • 💬 212 • ⏱️ 9:35 • 5h ago
 
 ---
 
@@ -307,7 +307,27 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 1K • 💬 70 • ⏱️ 14:17 • 5h ago
+👁️ 19K • 👍 1K • 💬 107 • ⏱️ 14:17 • 5h ago
+
+---
+
+**[History Reveals Bitcoin Stops Crashing When This Occurs Next](https://www.youtube.com/watch?v=o50OlLdfZb0)**
+
+TIA PRO CHRISTMAS SALE* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+
+📺 Jason Pizzino
+
+👁️ 4K • 👍 404 • 💬 133 • ⏱️ 34:43 • 2h ago
+
+---
+
+**[Time To Call It For Bitcoin &amp; Crypto?](https://www.youtube.com/watch?v=zC-OTO2coYs)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 19K • 👍 1K • 💬 255 • ⏱️ 9:39 • 4h ago
 
 ---
 
@@ -317,17 +337,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 66K • 👍 5K • 💬 383 • ⏱️ 17:53 • 13h ago
-
----
-
-**[Is Bitcoin Being Manipulated? How the Evidence is Stacking Up](https://www.youtube.com/watch?v=4hrSrugd7tA)**
-
-Is Bitcoin's recent crash really just “market volatility”—or are major institutions gaming the system? In this breakdown, Oceans ...
-
-📺 Simply Bitcoin
-
-👁️ 22K • 👍 2K • 💬 144 • ⏱️ 9:48 • 11h ago
+👁️ 72K • 👍 5K • 💬 398 • ⏱️ 17:53 • 13h ago
 
 ---
 
@@ -337,37 +347,27 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 11K • 👍 797 • 💬 64 • ⏱️ 3:56 • 11h ago
+👁️ 12K • 👍 850 • 💬 73 • ⏱️ 3:56 • 12h ago
 
 ---
 
-**[BITCOIN CRASH COMING?!?!?!? (Watch By Tomorrow)](https://www.youtube.com/watch?v=LIWtEqJtAPs)**
+**[Is Bitcoin Being Manipulated? How the Evidence is Stacking Up](https://www.youtube.com/watch?v=4hrSrugd7tA)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
+Is Bitcoin's recent crash really just “market volatility”—or are major institutions gaming the system? In this breakdown, Oceans ...
 
-📺 Crypto Kid
+📺 Simply Bitcoin
 
-👁️ 4K • 👍 511 • 💬 96 • ⏱️ 3:45 • 8h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JI8ZbMLvojQ)**
-
-BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 318 • 💬 48 • ⏱️ 20:08 • 7h ago
+👁️ 24K • 👍 2K • 💬 150 • ⏱️ 9:48 • 12h ago
 
 ---
 
-**[Michael Saylor: Important Warning To All Small Bitcoin Investors &quot;It&#39;s A Fake Crash&quot;](https://www.youtube.com/watch?v=t7-FO_qOqp8)**
+**[Michael Saylor: &quot;Bitcoin&#39;s 4-Year Cycle is DEAD&quot;](https://www.youtube.com/watch?v=lCFPjiS8Ujc)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+For more than a decade, Bitcoin lived by one rhythm: the four-year halving cycle. Each supply cut sparked a new wave of optimism ...
 
-📺 Crypto Nutshell
+📺 The Bitcoin Revolution
 
-👁️ 7K • 👍 336 • 💬 27 • ⏱️ 18:38 • 13h ago
+👁️ 1K • 👍 66 • 💬 54 • ⏱️ 12:07 • 14h ago
 
 ---
 
@@ -377,17 +377,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 15K • 👍 689 • 💬 13 • ⏱️ 24:03 • 1d ago
+👁️ 16K • 👍 713 • 💬 13 • ⏱️ 24:03 • 1d ago
 
 ---
 
-**[LIVE: BlackRock CEO Announces Major Crypto Move! This Speech Will Reshape the Crypto Industry!](https://www.youtube.com/watch?v=thKLbgvY1OQ)**
+**[BITCOIN CRASH COMING?!?!?!? (Watch By Tomorrow)](https://www.youtube.com/watch?v=LIWtEqJtAPs)**
 
-SHOCKING ANNOUNCEMENT FROM BLACKROCK! In a groundbreaking live speech, BlackRock CEO Larry Fink reveals the ...
+WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
 
-📺 SELALUNASMR
+📺 Crypto Kid
 
-👁️ 13K • 👍 3K • 11h ago
+👁️ 4K • 👍 559 • 💬 99 • ⏱️ 3:45 • 8h ago
 
 ---
 
