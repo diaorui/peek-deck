@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T13:14:17.047758+00:00'
+updated: '2025-12-15T13:53:55.512474+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 13:14 UTC  
+**Last Updated:** December 15, 2025 at 13:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ RIP Copilot.
 
 I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ I’ve been playing around with some AI video tools lately just to see what’s 
 
 TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
 
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 13h ago
+🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 14h ago
 
 ---
 
@@ -73,7 +73,15 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 People are starting to hand more decisions to AI agents, from booking trips to sorting digital files. The idea sounds simple. Tell the agent what you want, then let it work through the steps. The hard part is what the agent does with personal data along the way. A new research study digs into this problem, and asks a basic question. How should an AI agent know when to use someone’s data without asking every time?
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 3h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 4h ago
+
+---
+
+**[If AI replaces workers, should it also pay taxes?](https://www.reddit.com/r/artificial/comments/1pn7tvx/if_ai_replaces_workers_should_it_also_pay_taxes/)**
+
+The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
+
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 3m ago
 
 ---
 
@@ -109,14 +117,6 @@ A lot of AI image tools are powerful, but they rely heavily on long, precise pro
 
 ---
 
-**[Sick of uploading sensitive PDFs to ChatGPT? I built a fully offline "Second Brain" using Llama 3 + Python (No API keys needed)](https://www.reddit.com/r/artificial/comments/1pmas1w/sick_of_uploading_sensitive_pdfs_to_chatgpt_i/)**
-
-Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -129,40 +129,6 @@ Yahoo Finance • 4h ago
 
 ---
 
-**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
-
-The Economist • 1d ago
-
----
-
-**[The AI boom will turn to bust in 2026, says this forecaster who offers his trade of the year](https://www.marketwatch.com/story/the-ai-boom-will-turn-to-bust-next-year-says-this-forecaster-who-offers-his-trade-of-the-year-9c2a2332?gaa_at=eafs&gaa_n=AWEtsqcVcMFul7IJWlAXm5IjxDP73QFIFtHfJorZYqWFKZ2KC0exmePAoGVS&gaa_ts=69400d11&gaa_sig=pfkzzhxUHNOYWwrh-ktl8ekcbAM4XA3q8Lk7_DsyP0iXwkOVSrAGJ5aP2DgbhxvlirW_AAu2-mpW_-28TtivEA%3D%3D)**
-
-MarketWatch • 1h ago
-
----
-
-**[Mirelo raises $41M from Index and a16z to solve AI video’s silent problem](https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/)**
-
-Mirelo, a German startup that is building AI to add synced sound effects to videos, has raised a $41 million seed round led by Index Ventures and Andreessen Horowitz.
-
-TechCrunch • 44m ago
-
----
-
-**[Earnings calls citing ‘AI’ surge in 2025 as ‘uncertainty’ mentions fade](https://fortune.com/2025/12/15/earnings-calls-citing-ai-surge-2025-uncertainty-mentions-fade-cfo/)**
-
-AI talk hits a record high.
-
-Fortune • 46m ago
-
----
-
-**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqdUVijKsO1NTzO1ryOTVIOBFLiPjNLOX5A4qhAmIdZf7cqEqRGY6LUG&gaa_ts=69400d11&gaa_sig=bidntQnXc4yZ-IfhdJ7dpCFIeUgFIS1sF4XO6zLq2i60eufJzbjj1dK0DMttOApS0cja7I4JJC9pwbT584-y6Q%3D%3D)**
-
-The Wall Street Journal • 15h ago
-
----
-
 **[The View From Inside the AI Bubble](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/)**
 
 Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
@@ -171,19 +137,51 @@ The Atlantic • 1d ago
 
 ---
 
-**[AI Use at Work Rises](https://www.gallup.com/workplace/699689/ai-use-at-work-rises.aspx)**
+**[Is A.I. Actually a Bubble?](https://www.newyorker.com/culture/open-questions/is-ai-actually-a-bubble)**
 
-New Gallup data shows a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025.
+The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
 
-Gallup.com • 8h ago
+The New Yorker • 3d ago
 
 ---
 
-**[Want job security in the age of AI? Get a state license – any state license](https://www.theguardian.com/business/2025/dec/15/job-security-state-license)**
+**[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
 
-The coming tech boom is about to launch a boom in people who do things with their hands and minds
+Axios • 8h ago
 
-The Guardian • 22h ago
+---
+
+**[Amazon Shareholder Resolution Targets AI Work With Israel, DHS](https://www.bloomberg.com/news/articles/2025-12-15/amazon-shareholder-resolution-targets-ai-work-with-israel-dhs)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Mirelo raises $41M from Index and a16z to solve AI video’s silent problem](https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/)**
+
+Mirelo, a German startup that is building AI to add synced sound effects to videos, has raised a $41 million seed round led by Index Ventures and Andreessen Horowitz.
+
+TechCrunch • 1h ago
+
+---
+
+**[The Download: introducing the AI Hype Correction package](https://www.technologyreview.com/2025/12/15/1129719/the-download-introducing-the-ai-hype-correction-package/)**
+
+Plus: Roomba maker iRobot has filed for bankruptcy
+
+MIT Technology Review • 43m ago
+
+---
+
+**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
+
+The Economist • 1d ago
+
+---
+
+**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqfIETlFrSDvxsrmuzhUh2_Uk3CEVMz72mNWQoddIkbLy77gMbaUUNdp&gaa_ts=6940165c&gaa_sig=cAfYq1UOdgE_PoJefIU8qkky5daVP4gcXtIJz5mJXECz1DgNQ_Rt5CWgQClYmE-bfERlZv1bhBtkqJVtpbM8gg%3D%3D)**
+
+The Wall Street Journal • 15h ago
 
 ---
 
@@ -207,7 +205,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 446 • 💬 437 • 1d ago
+⬆️ 447 • 💬 445 • 1d ago
 
 ---
 
@@ -215,15 +213,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 236 • 💬 107 • 23h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
-
----
-
-**[Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted](https://news.ycombinator.com/item?id=46268844)**
-
-Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
-
-⬆️ 223 • 💬 212 • 12h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 237 • 💬 107 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -231,7 +221,15 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 202 • 💬 319 • 12h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 229 • 💬 386 • 13h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+
+---
+
+**[Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted](https://news.ycombinator.com/item?id=46268844)**
+
+Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
+
+⬆️ 226 • 💬 223 • 13h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -239,7 +237,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 183 • 💬 201 • 13h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 197 • 💬 215 • 14h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -305,7 +303,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 52K • 👍 2K • 💬 316 • ⏱️ 20:44 • 12h ago
+👁️ 52K • 👍 2K • 💬 316 • ⏱️ 20:44 • 13h ago
 
 ---
 
@@ -315,7 +313,7 @@ Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
 
 📺 Anime world 
 
-👁️ 143K • 👍 1K • 💬 1 • ⏱️ 0:22 • 23h ago
+👁️ 143K • 👍 1K • 💬 1 • ⏱️ 0:22 • 1d ago
 
 ---
 
@@ -375,7 +373,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 419K • 👍 25K • 💬 3K • ⏱️ 11:22 • 10h ago
+👁️ 419K • 👍 25K • 💬 3K • ⏱️ 11:22 • 11h ago
 
 ---
 
@@ -391,7 +389,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 286,283 • ❤️ 2,731 • 6d ago
+⬇️ 286,283 • ❤️ 2,732 • 6d ago
 
 ---
 
@@ -403,7 +401,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 84,213 • ❤️ 434 • 5d ago
+⬇️ 84,213 • ❤️ 435 • 5d ago
 
 ---
 
@@ -415,7 +413,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 142,846 • ❤️ 846 • 2d ago
+⬇️ 142,846 • ❤️ 847 • 2d ago
 
 ---
 
@@ -427,7 +425,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 21,397 • ❤️ 347 • 20h ago
+⬇️ 21,397 • ❤️ 348 • 21h ago
 
 ---
 
@@ -451,7 +449,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 41,723 • ❤️ 296 • 6d ago
+⬇️ 41,723 • ❤️ 298 • 6d ago
 
 ---
 
@@ -475,7 +473,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 5,608 • ❤️ 206 • 20h ago
+⬇️ 5,608 • ❤️ 206 • 21h ago
 
 ---
 
@@ -515,7 +513,7 @@ AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent 
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 129 • 💬 6 • ⭐ 18,046 • 3mo ago
+▲ 130 • 💬 6 • ⭐ 18,046 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -541,7 +539,7 @@ PersonaLive is a diffusion-based framework for real-time portrait animation that
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 26 • 💬 2 • ⭐ 6,937 • 17d ago
+▲ 26 • 💬 2 • ⭐ 6,937 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -555,7 +553,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 196 • 💬 4 • ⭐ 6,928 • 17d ago
+▲ 196 • 💬 4 • ⭐ 6,928 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -581,7 +579,7 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 V-RGBX is an end-to-end framework for intrinsic-aware video editing that combines video inverse rendering, photorealistic synthesis, and keyframe-based editing to produce consistent and physically plausible edits.
 
-▲ 22 • 💬 1 • ⭐ 35 • 2d ago
+▲ 23 • 💬 1 • ⭐ 35 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11799) • [💻 code](https://github.com/Aleafy/V-RGBX) • [🔗 project](https://aleafy.github.io/vrgbx/)
 
@@ -633,7 +631,7 @@ Wan-Move enhances motion control in video generative models by integrating motio
 
 A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
 
-▲ 6 • 💬 1 • ⭐ 51,082 • 13mo ago
+▲ 6 • 💬 1 • ⭐ 51,101 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
 
@@ -649,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.3k • 🔱 2.4k • 4h ago
+⭐ 15.3k • 🔱 2.4k • 5h ago
 
 ---
 
@@ -659,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.4k • 🔱 364 • 3h ago
+⭐ 3.4k • 🔱 367 • 4h ago
 
 ---
 
@@ -719,7 +717,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 863 • 🔱 49 • 5h ago
+⭐ 863 • 🔱 49 • 44m ago
 
 ---
 
@@ -729,7 +727,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 723 • 🔱 104 • 10h ago
+⭐ 727 • 🔱 104 • 10h ago
 
 ---
 
@@ -739,7 +737,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 703 • 🔱 106 • 3d ago
+⭐ 704 • 🔱 106 • 3d ago
 
 ---
 

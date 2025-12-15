@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T13:14:17.062938+00:00'
+updated: '2025-12-15T13:53:55.527146+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 13:14 UTC  
+**Last Updated:** December 15, 2025 at 13:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -5.2%  
-**30d:** +1.6%  
-**90d:** -31.4%  
-**1y:** -21.0%  
+**24h:** +1.7%  
+**7d:** -5.4%  
+**30d:** +1.3%  
+**90d:** -31.6%  
+**1y:** -21.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $379.25B
+**Market Cap:** $378.80B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.5%
+-36.6%
 
 **All-Time Low:** $0.43
-+725186.9%
++724623.4%
 
 ---
 
@@ -116,19 +116,19 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 ---
 
-**[New Proposal for a Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1pkr6dl/new_proposal_for_a_simplified_standard_for/)**
-
-Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
-
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 3d ago
-
----
-
 **[Ethereal news weekly #2 | BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation](https://www.reddit.com/r/ethereum/comments/1pkr4j5/ethereal_news_weekly_2_bpo1_upgrade_increased/)**
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
 🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 3d ago
+
+---
+
+**[New Proposal for a Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1pkr6dl/new_proposal_for_a_simplified_standard_for/)**
+
+Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
+
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 3d ago
 
 ---
 
@@ -172,7 +172,15 @@ AMBCrypto • 1d ago
 
 The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
+
+---
+
+**[Digital Asset ETP Inflows Hit $716M as Bitcoin, Ethereum and XRP Lead Weekly Gains: CoinShares](https://finance.yahoo.com/news/digital-asset-etp-inflows-hit-123756320.html)**
+
+Digital asset investment products recorded another week of inflows as improving sentiment around major cryptocurrencies continues to draw capital back into the market, according to the latest data from CoinShares.Weekly inflows into digital asset exchange-traded products (ETPs) reached $716 million, pushing total assets under management (AuM) to $180 billion. While ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -182,11 +190,11 @@ The Block • 1h ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://finance.yahoo.com/news/better-buy-2026-ethereum-xrp-115000740.html)**
+**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
 
-If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
-Yahoo Finance • 1d ago
+Nasdaq • 1d ago
 
 ---
 
@@ -198,9 +206,17 @@ TradingView — Track All Markets • 21h ago
 
 ---
 
-**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
+**[JPMorgan Bets on Ethereum — Is Tom Lee’s $20K Price Prediction More Likely Now?](https://www.ccn.com/news/crypto/jpmorgan-bullish-ethereum-tokenized-money-fund-launch-lee-expects-price/)**
 
-CCN.com • 11m ago
+CCN.com • 36m ago
+
+---
+
+**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
+
+Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
+
+BeInCrypto • 19h ago
 
 ---
 
@@ -209,20 +225,6 @@ CCN.com • 11m ago
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday after correcting slightly in the previous week. The top three cryptocurrencies by market capitalization could face increased downside risk as bearish momentum builds across key indicators.
 
 FXStreet • 9h ago
-
----
-
-**[Why Ethereum Sank 5% Today, While the Crypto Market Inched Higher](https://www.fool.com/investing/2025/12/12/why-ethereum-sank-5-today-while-the-crypto-market/)**
-
-Sentiment around Ethereum has been bouncing around considerably in recent days.
-
-The Motley Fool • 2d ago
-
----
-
-**[JPMorgan pushes deeper into crypto strategy with MONY fund on Ethereum: Report](https://www.msn.com/en-us/money/markets/jpmorgan-pushes-deeper-into-crypto-strategy-with-mony-fund-on-ethereum-report/ar-AA1SnH1e?ocid=finance-verthp-feeds)**
-
-MSN • 1h ago
 
 ---
 
@@ -236,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 155 • 💬 9 • ⏱️ 6:25 • 9h ago
+👁️ 2K • 👍 155 • 💬 9 • ⏱️ 6:25 • 10h ago
 
 ---
 
@@ -276,7 +278,7 @@ Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitte
 
 📺 The Blockchain Today
 
-👁️ 163 • 👍 28 • 💬 9 • ⏱️ 3:50 • 2h ago
+👁️ 163 • 👍 28 • 💬 9 • ⏱️ 3:50 • 3h ago
 
 ---
 
@@ -306,7 +308,7 @@ We have covered the bull case extensively—the dividends, the MAVAN launch, and
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 34 • 💬 34 • ⏱️ 10:35 • 15h ago
+👁️ 1K • 👍 34 • 💬 34 • ⏱️ 10:35 • 16h ago
 
 ---
 
