@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T21:25:36.033149+00:00'
+updated: '2025-12-15T21:43:28.377403+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 21:25 UTC  
+**Last Updated:** December 15, 2025 at 21:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Now RAM prices are hitting record highs, because it's more profitable for manufa
 
 **[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.reddit.com/r/artificial/comments/1pnbr3t/google_ai_summaries_are_ruining_the_livelihoods/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion) • 4h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion) • 5h ago
 
 ---
 
@@ -63,7 +63,7 @@ Now RAM prices are hitting record highs, because it's more profitable for manufa
 
 Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/watch?v=9O0djoqgasw
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 Also: All the news and watercooler chat from Fortune.
 
-🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 4h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 5h ago
 
 ---
 
@@ -99,19 +99,19 @@ Also: All the news and watercooler chat from Fortune.
 
 ---
 
-**[LLMs do not understand numbers](https://www.reddit.com/r/artificial/comments/1pni9ib/llms_do_not_understand_numbers/)**
-
-Don't ask it to add a confidence score. Don't add it to sum up items on a receipt. Don't ask it to confirm how many rows there are in a PDF.
-
-🔗 [BAML](https://boundaryml.com/blog/llms-do-not-understand-numbers) • 50m ago
-
----
-
 **[Simulated Company Shows Most AI Agents Flunk the Job](https://www.reddit.com/r/artificial/comments/1pmstyr/simulated_company_shows_most_ai_agents_flunk_the/)**
 
 TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
 
 🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 21h ago
+
+---
+
+**[Tried a few AI video tools recently, here’s what I liked and didn’t](https://www.reddit.com/r/artificial/comments/1pn2k1n/tried_a_few_ai_video_tools_recently_heres_what_i/)**
+
+I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
+
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 5h ago
 
 A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -137,35 +137,27 @@ CNBC • 4h ago
 
 The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
-**[US government launches campaign to hire engineers for AI, tech roles](https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/)**
+**[The White House’s unabashed embrace of AI](https://www.politico.com/news/2025/12/15/the-white-houses-unabashed-embrace-of-ai-00690885)**
 
-Reuters • 4h ago
-
----
-
-**[Klarna Launches Open Standard for Making Products Discoverable by AI Agents](https://www.pymnts.com/news/artificial-intelligence/2025/klarna-launches-open-standard-making-products-discoverable-ai-agents/)**
-
-Klarna launched an open standard that it said makes products easily discoverable and understandable by artificial intelligence agents. The new Agentic
-
-PYMNTS.com • 41m ago
+Politico • 8m ago
 
 ---
 
-**[This is the AI question that stops a boardroom cold](https://www.businessinsider.com/sc/enterprise-ai-investment-falls-short-without-intelligent-data)**
+**[Watch AI Spending Anchoring Macroeconomy: Board’s Gallagher](https://www.bloomberg.com/news/videos/2025-12-15/ai-spending-anchoring-macroeconomy-board-s-gallagher-video)**
 
-AI investments in enterprises often stall without quality data. Discover why unified, context-rich data is key to successful AI transformation.
-
-Business Insider • 38m ago
+Bloomberg.com • 53m ago
 
 ---
 
-**[New AI Medicare program to review patient services in Texas; doctors have concerns](https://www.kxan.com/news/texas/new-ai-medicare-program-to-review-patient-services-in-texas-doctors-have-concerns/)**
+**[Creative Commons announces tentative support for AI ‘pay-to-crawl’ systems](https://techcrunch.com/2025/12/15/creative-commons-announces-tentative-support-for-ai-pay-to-crawl-systems/)**
 
-KXAN Austin • 46m ago
+The organization offered support for this idea of an AI marketplace, and suggested several guiding principles.
+
+TechCrunch • 48m ago
 
 ---
 
@@ -174,6 +166,12 @@ KXAN Austin • 46m ago
 AI Mode is mangling recipes by merging instructions from multiple creators – and causing them huge dips in ad traffic
 
 The Guardian • 6h ago
+
+---
+
+**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqexYUVO-s6ZCFi3EDxanLqCzhWdrJgfvkWZUmj9OFIlFtsyYN9w6ipA&gaa_ts=69408465&gaa_sig=14j6BODk971UI_2tQQ8M0URCT4xjjWrTopqshQz3eor_PFcVskVsjjoPrlNu7srNc_DwTL6vYgkJYKwvnIPYuA%3D%3D)**
+
+The Wall Street Journal • 23h ago
 
 ---
 
@@ -187,7 +185,7 @@ Gallup • 16h ago
 
 **[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -199,7 +197,7 @@ Axios • 6h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 487 • 💬 806 • 21h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 505 • 💬 835 • 21h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -213,7 +211,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 333 • 💬 336 • 21h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 338 • 💬 343 • 21h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -221,7 +219,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 258 • 💬 268 • 20h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 259 • 💬 273 • 21h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -237,7 +235,7 @@ Some (well-known) consequences of AI automating work
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 152 • 💬 216 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 153 • 💬 216 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -263,11 +261,9 @@ Brian Merchant has been collecting personal stories for his series AI Killed My 
 
 ---
 
-**[Copywriters reveal how AI has decimated their industry](https://news.ycombinator.com/item?id=46272921)**
+**[Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://news.ycombinator.com/item?id=46277477)**
 
-Copywriters were one of the first to have their jobs targeted by AI firms. These are their stories, three years into the AI era.
-
-⬆️ 57 • 💬 36 • 10h ago • [bloodinthemachine.com](https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the)
+⬆️ 59 • 💬 36 • 4h ago • [X (formerly Twitter)](https://twitter.com/AKurian001/status/1986979144014701026)
 
 ---
 
@@ -275,13 +271,13 @@ Copywriters were one of the first to have their jobs targeted by AI firms. These
 
 ## YouTube Videos: "ai"
 
-**[Our 2025 Reports on Artificial Intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
+**[Artificial Intelligence in 2025 | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
 
 From November, Anderson Cooper's report on why Anthropic's CEO spends so much time warning of AI's potential dangers.
 
 📺 60 Minutes
 
-👁️ 437K • 👍 7K • 💬 989 • ⏱️ 1:21:07 • 2d ago
+👁️ 450K • 👍 7K • 💬 1K • ⏱️ 1:21:07 • 2d ago
 
 ---
 
@@ -291,7 +287,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 143 • ⏱️ 12:07 • 22h ago
+👁️ 36K • 👍 1K • 💬 145 • ⏱️ 12:07 • 22h ago
 
 ---
 
@@ -311,37 +307,7 @@ Our Discord Community (FREE): https://discord.com/invite/Efbjh7Qj4V Review our s
 
 📺 2 and 20
 
-👁️ 161K • 👍 6K • 💬 786 • ⏱️ 12:40 • 2d ago
-
----
-
-**[AI Pranks Are Trash](https://www.youtube.com/watch?v=8Z9Oe-8rfEA)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 604K • 👍 34K • 💬 4K • ⏱️ 11:22 • 18h ago
-
----
-
-**[OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)**
-
-Deploying on Railway feels like magic. Get $20 in free credits to try it out - https://railway.com/?referralCode=fireship Sam Altman ...
-
-📺 Fireship
-
-👁️ 436K • 👍 17K • 💬 986 • ⏱️ 4:01 • 2d ago
-
----
-
-**[AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!](https://www.youtube.com/watch?v=IHwt6UxiKOw)**
-
-Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
-
-📺 Matthew Berman
-
-👁️ 47K • 👍 1K • 💬 308 • ⏱️ 15:01 • 2d ago
+👁️ 171K • 👍 6K • 💬 776 • ⏱️ 12:40 • 2d ago
 
 ---
 
@@ -351,17 +317,47 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 73K • 👍 3K • 💬 419 • ⏱️ 20:44 • 21h ago
+👁️ 78K • 👍 3K • 💬 431 • ⏱️ 20:44 • 21h ago
 
 ---
 
-**[Why YouTube Won&#39;t Stop Pushing AI Nonsense...](https://www.youtube.com/watch?v=We7FzVfIIcs)**
+**[AI Pranks Are Trash](https://www.youtube.com/watch?v=8Z9Oe-8rfEA)**
 
-Hello guys and gals, it's me Mutahar again! This time we take a look at why sites like YouTube are taking AI so seriously.
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
 
-📺 SomeOrdinaryGamers
+📺 penguinz0
 
-👁️ 80K • 👍 4K • 💬 813 • ⏱️ 19:00 • 1d ago
+👁️ 657K • 👍 36K • 💬 4K • ⏱️ 11:22 • 18h ago
+
+---
+
+**[Which SORA AI Disney Trailer Should Be Made Into A Full Movie Next?](https://www.youtube.com/watch?v=wBDmFB4iWPQ)**
+
+Which SORA AI Disney Trailer Should Be Made Into A Full Movie Next? #funny #funnyvideos #viral #comedy #funnyviral #ai ...
+
+📺 Bigfoot Feed
+
+👁️ 43K • 👍 616 • 💬 25 • ⏱️ 0:51 • 22h ago
+
+---
+
+**[OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)**
+
+Deploying on Railway feels like magic. Get $20 in free credits to try it out - https://railway.com/?referralCode=fireship Sam Altman ...
+
+📺 Fireship
+
+👁️ 442K • 👍 17K • 💬 996 • ⏱️ 4:01 • 2d ago
+
+---
+
+**[AI News: Deepseek Controversy, GPT-5.2, OpenAI x Disney, Meta Closed-Source and more!](https://www.youtube.com/watch?v=IHwt6UxiKOw)**
+
+Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+
+📺 Matthew Berman
+
+👁️ 47K • 👍 1K • 💬 316 • ⏱️ 15:01 • 2d ago
 
 ---
 
@@ -371,7 +367,7 @@ In the run up to the festive season, the selection of toys on offer seems to get
 
 📺 BBC News
 
-👁️ 18K • 👍 374 • 💬 116 • ⏱️ 3:10 • 2d ago
+👁️ 18K • 👍 376 • 💬 115 • ⏱️ 3:10 • 2d ago
 
 ---
 
@@ -399,7 +395,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 84,213 • ❤️ 441 • 6d ago
+⬇️ 84,213 • ❤️ 442 • 6d ago
 
 ---
 
@@ -483,7 +479,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 202 • 4d ago
+⬇️ 0 • ❤️ 203 • 4d ago
 
 ---
 
@@ -657,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.5k • 🔱 377 • 11h ago
+⭐ 3.5k • 🔱 377 • 12h ago
 
 ---
 
@@ -687,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 1h ago
+⭐ 1.1k • 🔱 137 • 2h ago
 
 ---
 

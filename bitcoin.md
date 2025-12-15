@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T21:25:36.041576+00:00'
+updated: '2025-12-15T21:43:28.385855+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 21:25 UTC  
+**Last Updated:** December 15, 2025 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.0%  
-**7d:** -7.6%  
-**30d:** -8.9%  
-**90d:** -26.3%  
-**1y:** -19.0%  
+**24h:** -2.7%  
+**7d:** -7.3%  
+**30d:** -8.6%  
+**90d:** -26.1%  
+**1y:** -18.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1714.06B
+**Market Cap:** $1718.37B
 Rank #1
 
 **Circulating Supply:** 19,962,543 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.9%
+-31.7%
 
 **All-Time Low:** $67.81
-+126528.8%
++126842.9%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 Are you still buying?
 
-5h ago
+6h ago
 
 ---
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -101,13 +101,21 @@ Are you still buying?
 
 Buy some bitcoin and store it.
 
-6h ago
+7h ago
 
 ---
 
 **[The best ever gift to receive? what have u done if u had got this gift](https://www.reddit.com/r/Bitcoin/comments/1pn7aw1/the_best_ever_gift_to_receive_what_have_u_done_if/)**
 
-7h ago
+8h ago
+
+---
+
+**[Square just sent me 29,164 sats for being the first Bitcoin-paying customer at a local coffee shop.](https://www.reddit.com/r/Bitcoin/comments/1pnhv00/square_just_sent_me_29164_sats_for_being_the/)**
+
+I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
+
+1h ago
 
 ---
 
@@ -119,15 +127,7 @@ Buy some bitcoin and store it.
 
 **[Bitcoin Holders: Bull Market vs. Bear Market](https://www.reddit.com/r/Bitcoin/comments/1pnf280/bitcoin_holders_bull_market_vs_bear_market/)**
 
-2h ago
-
----
-
-**[Square just sent me 29,164 sats for being the first Bitcoin-paying customer at a local coffee shop.](https://www.reddit.com/r/Bitcoin/comments/1pnhv00/square_just_sent_me_29164_sats_for_being_the/)**
-
-I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
-
-1h ago
+3h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
 Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -165,23 +165,33 @@ Financial Times • 16h ago
 
 ---
 
-**[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
+**[Bitcoin extends 2025 losses as silver, gold, & copper surge](https://finance.yahoo.com/video/bitcoin-extends-2025-losses-silver-205256153.html)**
 
-The Block • 47m ago
+Bitcoin (BTC-USD) has fallen below $86,000 on Monday as 2025 draws to a close. Yahoo Finance Senior Reporter Ines Ferré outlines the cryptocurrency's year-to-date decline as metals, like gold (GC=F), silver (SI=F), and copper (HG=F), continue to surge. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
----
-
-**[Billionaire Michael Saylor Announces New $1 Billion Bitcoin Purchase – Does He Know Something is Coming?](https://finance.yahoo.com/news/billionaire-michael-saylor-announces-1-133134376.html)**
-
-Bitcoin bull Michael Saylor’s Strategy has doubled down on its long-standing conviction, announcing another massive Bitcoin buy worth nearly $1 billion. Key Takeaways: Strategy bought $980 million in Bitcoin, increasing its holdings to 671,268 BTC. The purchase was funded through stock sales The purchase comes after Strategy created a $1.44 ...
-
-Yahoo Finance • 7h ago
+Yahoo Finance • 50m ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqekvadHJ26yXvGAyAybYibLCHzVA5xYN_wxpdwK1x6k8XsaITFrnSy6&gaa_ts=69407986&gaa_sig=OeRp5g1k2qNuC4avwSBnAT2fTySI9K2WmDsVDf8qyNz-BlyH_tYYXAXHSTHQePx0vks4FXtUnJu5wKs4V3ImvA%3D%3D)**
+**[Look Out Below: Another 3% Drop In Bitcoin Brings This Token Toward a Key Level](https://www.fool.com/investing/2025/12/15/look-out-below-another-3-drop-in-bitcoin-brings-th/)**
 
-Barron's • 2h ago
+Bitcoin's recent price decline has picked up steam in recent weeks.
+
+The Motley Fool • 40m ago
+
+---
+
+**[Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers](https://www.tradingview.com/news/cointelegraph:63cd5dade094b:0-bitcoin-drops-under-86k-as-2-78b-in-btc-whale-selling-overwhelms-active-dip-buyers/)**
+
+Bitcoin (BTC) dropped below $86,000 on Monday, continuing to expand on a liquidity imbalance as smaller participants continued to buy dips. However, large holders are using the demand to exit positions, keeping downside pressure firmly in place.Key takeaways:Whales dominate the sell-side as retail…
+
+TradingView — Track All Markets • 1h ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqf06qHX3inDKRBPfNMVCTwCEnxUJdquaIbGUc10n2PDOWAg7yBOuM40&gaa_ts=69408466&gaa_sig=y904F3VWgnUMgr_CfremxqDxl1tavabbvJNQ81Wch5FX03h50VNe5IKgIbEhvFBCjpIWVb2CGWmFkQeNTfCjhA%3D%3D)**
+
+Barron's • 3h ago
 
 ---
 
@@ -193,31 +203,23 @@ CoinDesk • 9h ago
 
 ---
 
-**[Got Bitcoin or XRP? Do This 1 Thing Right Now or Risk Disaster.](https://www.fool.com/investing/2025/12/15/got-bitcoin-or-xrp-do-this-1-thing-right-now-or-ri/)**
+**[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-Sometimes you are the biggest risk to your portfolio's health.
-
-The Motley Fool • 6h ago
+The Block • 23h ago
 
 ---
 
-**[Bitcoin price today: subdued below $89k amid risk-off mood; key US data awaited](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-ticks-down-below-90k-amid-riskoff-mood-key-us-data-awaited-4407239)**
+**[Bitcoin Price Bleeds Below $89,000 After Grim Weekend](https://bitcoinmagazine.com/markets/bitcoin-price-bleeds-below-89000)**
 
-Investing.com • 14h ago
+Bitcoin price slipped below $90,000 during typically thin Sunday trading, magnifying downside volatility as traders pulled back risk ahead of a heavy week of U.S. economic data.
+
+Bitcoin Magazine • 7h ago
 
 ---
 
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqfbZdJv8Uj2nn3iKnFrl_40l813S6gkLkDRflb_w5NoTukjh8t_4FmM&gaa_ts=69407986&gaa_sig=EqgpNFvE6TwouOQtXv_4-utFBdOajol4YJk3LLCJHCbV7-e-wZNQQbYpG0ohh3CRHuTJVTUDhjgxpv7kQU7msg%3D%3D)**
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqe153nZCbjreMoC5nNT2URzozreo3sX5lok13muLUeP7zotmaN0dmKj&gaa_ts=69408466&gaa_sig=x99ogA6E2yi5wHFivAegXGxvg42kd_R6YASBi1XlDbrax1x54kpzEre8u_uA1tcyZ5GeqtNnwsx_zlh0MRWy_g%3D%3D)**
 
 MarketWatch • 8h ago
-
----
-
-**[Luke Gromen Turns Bearish, Warns Bitcoin Could Slide to $40K](https://bitbo.io/news/gromen-bitcoin-bearish-40k/)**
-
-Macro analyst Luke Gromen has adopted a near-term bearish stance on Bitcoin, citing macroeconomic shifts, technical weakness, and rising quantum risk narratives as reasons for a possible slide to $40,000 in 2026.
-
-Bitbo • 8h ago
 
 ---
 
@@ -297,23 +299,13 @@ Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin
 
 ## YouTube Videos: "bitcoin"
 
-**[WTF BITCOIN!!](https://www.youtube.com/watch?v=yPlm3_Cv8pQ)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 7K • 👍 558 • 💬 102 • ⏱️ 23:41 • 4h ago
-
----
-
 **[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
 
 WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 360 • 💬 23 • ⏱️ 40:28 • 4h ago
+👁️ 8K • 👍 519 • 💬 42 • ⏱️ 40:28 • 4h ago
 
 ---
 
@@ -323,7 +315,7 @@ Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning wheth
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 910 • 💬 188 • ⏱️ 1:05:55 • 6h ago
+👁️ 20K • 👍 1K • 💬 244 • ⏱️ 1:05:55 • 6h ago
 
 ---
 
@@ -333,37 +325,27 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 158 • ⏱️ 52:24 • 5h ago
+👁️ 24K • 👍 1K • 💬 185 • ⏱️ 52:24 • 6h ago
 
 ---
 
-**[Why is Bitcoin STUCK at $90K?! (This Explains Everything)](https://www.youtube.com/watch?v=9Xi0PnWSLto)**
+**[WTF BITCOIN!!](https://www.youtube.com/watch?v=yPlm3_Cv8pQ)**
 
-Bitcoin's been dropping like clockwork at market open—but is it just normal volatility, or something more sinister? From Japanese ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Simply Bitcoin
+📺 My Financial Friend
 
-👁️ 42K • 👍 2K • 💬 198 • ⏱️ 14:17 • 21h ago
-
----
-
-**[Bitcoin’s insane breakdown may begin….](https://www.youtube.com/watch?v=on8TdOYSVA0)**
-
-Time is running out; the financial system is breaking at this very moment. Even if you ask AI, it will tell you. Time to get tangible ...
-
-📺 Davinci Jeremie
-
-👁️ 3K • 👍 204 • 💬 17 • ⏱️ 6:02 • 5h ago
+👁️ 12K • 👍 696 • 💬 129 • ⏱️ 23:41 • 5h ago
 
 ---
 
-**[LIVE : Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Prediction](https://www.youtube.com/watch?v=auuRGxDygpU)**
+**[&quot;It&#39;s HAPPENED! The Fed Just Gave Bitcoin the Green Light” - Jordi Visser](https://www.youtube.com/watch?v=S6I0tNQpmSM)**
 
-THIS BITCOIN KEYNOTE IS SHAKING THE ENTIRE MARKET. Michael Saylor takes the stage at the Bitcoin Conference with a ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Dani Ruth
+📺 Savvy Finance
 
-👁️ 3K • 👍 1K • 2h ago
+👁️ 2K • 👍 157 • 💬 7 • ⏱️ 22:13 • 4h ago
 
 ---
 
@@ -373,7 +355,27 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 2K • 💬 425 • ⏱️ 9:35 • 21h ago
+👁️ 65K • 👍 2K • 💬 428 • ⏱️ 9:35 • 22h ago
+
+---
+
+**[Why is Bitcoin STUCK at $90K?! (This Explains Everything)](https://www.youtube.com/watch?v=9Xi0PnWSLto)**
+
+Bitcoin's been dropping like clockwork at market open—but is it just normal volatility, or something more sinister? From Japanese ...
+
+📺 Simply Bitcoin
+
+👁️ 44K • 👍 2K • 💬 203 • ⏱️ 14:17 • 22h ago
+
+---
+
+**[Time To Call It For Bitcoin &amp; Crypto?](https://www.youtube.com/watch?v=zC-OTO2coYs)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 42K • 👍 2K • 💬 617 • ⏱️ 9:39 • 20h ago
 
 ---
 
@@ -383,17 +385,17 @@ Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!*
 
 📺 Crypto Casey
 
-👁️ 5K • 👍 819 • 💬 64 • ⏱️ 14:34 • 4h ago
+👁️ 11K • 👍 1K • 💬 116 • ⏱️ 14:34 • 5h ago
 
 ---
 
-**[Why Bitcoin is Dropping? | Live Bitcoin Trading Price](https://www.youtube.com/watch?v=CzkerQQP0s4)**
+**[Is Bitcoin Being Manipulated? How the Evidence is Stacking Up](https://www.youtube.com/watch?v=4hrSrugd7tA)**
 
-Come look into the next BIG move in crypto! All LIVE analysis, charting, and trades! 1️⃣ SIGN UP With ANY ...
+Is Bitcoin's recent crash really just “market volatility”—or are major institutions gaming the system? In this breakdown, Oceans ...
 
-📺 Tom Crown
+📺 Simply Bitcoin
 
-👁️ 3K • 👍 258 • 💬 12 • ⏱️ 1:17:49 • 2h ago
+👁️ 31K • 👍 2K • 💬 212 • ⏱️ 9:48 • 1d ago
 
 ---
 

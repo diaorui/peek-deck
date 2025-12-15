@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T21:25:36.050803+00:00'
+updated: '2025-12-15T21:43:28.395120+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 21:25 UTC  
+**Last Updated:** December 15, 2025 at 21:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -102,11 +102,9 @@ Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on th
 
 ---
 
-**[Workkkkk!!](https://www.reddit.com/r/robotics/comments/1pnf57o/workkkkk/)**
+**[Custom Differential Drive Robot | ESP32 + micro-ROS + ROS 2 + PID Control (Video)](https://www.reddit.com/r/robotics/comments/1pn389p/custom_differential_drive_robot_esp32_microros/)**
 
-Hey I'm struggling a lot to get a job or any work experience, can anyone genuinely guide or have a chat to help or figure me out I'm worried a lot .
-
-2h ago
+12h ago
 
 ---
 
@@ -116,7 +114,7 @@ Hey I'm struggling a lot to get a job or any work experience, can anyone genuine
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -168,11 +166,19 @@ ts2.tech • 7h ago
 
 ---
 
+**[Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology (AMCI:NASDAQ)](https://seekingalpha.com/news/4531631-meet-amc-robotics-the-spac-name-looking-for-a-breakthrough-in-ai-powered-robotic-technology)**
+
+Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
+
+Seeking Alpha • 3h ago
+
+---
+
 **[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 13h ago
+InvestorPlace • 11h ago
 
 ---
 
@@ -182,27 +188,9 @@ timesunion.com • 1d ago
 
 ---
 
-**[Quantum Systems and Frontline Robotics Open Joint Drone Production Facility in Germany for Ukraine](https://militarnyi.com/en/news/quantum-systems-and-frontline-robotics-open-joint-drone-production-facility-in-germany-for-ukraine/)**
-
-German company Quantum Systems and Ukrainian drone manufacturer Frontline Robotics announced the creation of a joint venture, Quantum Frontline Industries.
-
-Мілітарний • 4h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
-
-We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
-
-📺 CNET
-
-👁️ 4K • 👍 136 • 💬 12 • ⏱️ 1:05 • 6h ago
-
----
 
 **[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
 
@@ -210,7 +198,27 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 18K • 👍 525 • 💬 66 • ⏱️ 6:41 • 1d ago
+👁️ 19K • 👍 560 • 💬 72 • ⏱️ 6:41 • 1d ago
+
+---
+
+**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
+
+We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
+
+📺 CNET
+
+👁️ 7K • 👍 168 • 💬 17 • ⏱️ 1:05 • 7h ago
+
+---
+
+**[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
+
+Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
+
+📺 RICHLEV
+
+👁️ 98K • 👍 3K • 💬 800 • ⏱️ 17:05 • 18h ago
 
 ---
 
@@ -218,7 +226,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 AI . Robot
 
-👁️ 95K • 👍 1K • 💬 14 • ⏱️ 0:21 • 1d ago
+👁️ 121K • 👍 1K • 💬 15 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -228,27 +236,17 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 243K • 👍 8K • 💬 266 • ⏱️ 0:34 • 1d ago
+👁️ 256K • 👍 8K • 💬 279 • ⏱️ 0:34 • 1d ago
 
 ---
 
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+**[This self aware robot escaped... (and he&#39;s after US)](https://www.youtube.com/watch?v=EvJwEw3lOwo)**
 
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+This self aware robot escaped... (and he's after US) Like and subscribe. socials INSTAGRAM: https://www.instagram.com/qerello_/ ...
 
-📺 The Straits Times
+📺 Qerello
 
-👁️ 191K • 👍 926 • 💬 303 • ⏱️ 0:47 • 6d ago
-
----
-
-**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
-
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
-
-📺 Associated Press
-
-👁️ 27K • 👍 101 • 💬 40 • ⏱️ 1:26 • 2d ago
+👁️ 4K • 👍 266 • 💬 42 • ⏱️ 12:54 • 21h ago
 
 ---
 
@@ -256,17 +254,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 AI . Robot
 
-👁️ 34K • 👍 470 • 💬 11 • ⏱️ 0:16 • 2d ago
-
----
-
-**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
-
-I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
-
-📺 Kyle Krueger
-
-👁️ 5.2M • 👍 163K • 💬 3K • ⏱️ 0:51 • 4d ago
+👁️ 36K • 👍 486 • 💬 12 • ⏱️ 0:16 • 2d ago
 
 ---
 
@@ -280,13 +268,23 @@ Boy Pressed Test Mode Button...Robot went Crazy #ai #robot #cat.
 
 ---
 
-**[Future Tech Upgrade: Humanoid Robot Shocks the World! #humanoidrobot #robot #techexpo](https://www.youtube.com/watch?v=4JxhMlQTVZg)**
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
 
-Innovation​ #Robotics​ #Expo2025​ Join me on an exciting journey into the world of future technology as I explore the latest ...
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
 
-📺 SHORTS WORLD
+📺 The Straits Times
 
-👁️ 146K • 💬 2 • ⏱️ 0:08 • 4d ago
+👁️ 191K • 👍 926 • 💬 303 • ⏱️ 0:47 • 6d ago
+
+---
+
+**[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
+
+PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
+
+📺 LIGHTS ARE OFF
+
+👁️ 1.8M • 👍 77K • 💬 8K • ⏱️ 8:45 • 2d ago
 
 ---
 

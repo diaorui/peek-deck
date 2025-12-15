@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T21:25:36.047572+00:00'
+updated: '2025-12-15T21:43:28.391870+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 21:25 UTC  
+**Last Updated:** December 15, 2025 at 21:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -46,23 +46,23 @@ Live Ethereum monitoring dashboard
 **7d:** -11.5%  
 **30d:** -5.2%  
 **90d:** -36.0%  
-**1y:** -26.2%  
+**1y:** -26.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.68B
+**Market Cap:** $354.87B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.5%
 
 **All-Time Low:** $0.43
-+677256.2%
++679360.2%
 
 ---
 
@@ -104,7 +104,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-2h ago
+3h ago
 
 ---
 
@@ -158,27 +158,27 @@ The Block • 9h ago
 
 ---
 
-**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
+**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
 
-Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
+Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
 
-CoinDesk • 7h ago
-
----
-
-**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
-
-Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
-
-Nasdaq • 1d ago
+Decrypt • 3h ago
 
 ---
 
-**[Why Are Bitcoin, Ethereum and XRP Prices Falling Today?](https://www.tradingview.com/news/coinpedia:5f55e8b63094b:0-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
+**[3 Reasons Why Ethereum Plunged 5% Today](https://www.fool.com/investing/2025/12/15/3-reasons-why-ethereum-plunged-5-today/)**
 
-The cryptocurrency market is under pressure today, with Bitcoin, Ethereum and XRP among other altcoins all seeing sharp declines. Total crypto market value has slipped to around $3 trillion, down more than 1%.Bitcoin dropped below $87,000, Ethereum fell near $3,000, and XRP slid to around $1.92. Se…
+A mix of macro and token-specific factors are pushing investors away from Ethereum and toward other assets.
 
-TradingView — Track All Markets • 5h ago
+The Motley Fool • 24m ago
+
+---
+
+**[Better Buy in 2026: Ethereum or XRP?](https://finance.yahoo.com/news/better-buy-2026-ethereum-xrp-115000740.html)**
+
+If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -187,6 +187,14 @@ TradingView — Track All Markets • 5h ago
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
 CryptoSlate • 5h ago
+
+---
+
+**[Why Are Bitcoin, Ethereum and XRP Prices Falling Today?](https://www.tradingview.com/news/coinpedia:5f55e8b63094b:0-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
+
+The cryptocurrency market is under pressure today, with Bitcoin, Ethereum and XRP among other altcoins all seeing sharp declines. Total crypto market value has slipped to around $3 trillion, down more than 1%.Bitcoin dropped below $87,000, Ethereum fell near $3,000, and XRP slid to around $1.92. Se…
+
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -212,19 +220,11 @@ crypto.news • 7h ago
 
 ---
 
-**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
+**[Crypto Prices Today: Bitcoin Holds Near $89,500, Ethereum Steadies at $3,130 as Markets Watch BOJ, UK Crypto Rules and ETF Flows (Dec. 15, 2025)](https://ts2.tech/en/crypto-prices-today-bitcoin-holds-near-89500-ethereum-steadies-at-3130-as-markets-watch-boj-uk-crypto-rules-and-etf-flows-dec-15-2025/)**
 
-The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
+Crypto Prices Today: Bitcoin Holds Near $89,500, Ethereum Steadies at $3,130 as Markets Watch BOJ, UK Crypto Rules and ETF Flows (Dec. 15, 2025) - TechStock²
 
-CoinDesk • 7h ago
-
----
-
-**[Crypto Today: Bitcoin, Ethereum hold steady as XRP ETF inflows surge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-aim-for-recovery-xrp-holds-key-support-202512121200)**
-
-Bitcoin (BTC) is trading above $92,000 at the time of writing on Friday, as volatility across the cryptocurrency market cools following the Federal Reserve’s (Fed) hawkish interest rate cut.
-
-FXStreet • 3d ago
+ts2.tech • 7h ago
 
 ---
 
@@ -232,13 +232,33 @@ FXStreet • 3d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Cathie Wood Swaps Tesla For Ethereum🚨Crypto Market Update](https://www.youtube.com/watch?v=r74Wf7xsdXk)**
+
+Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a consumer-focused blockchain, each taking on key ...
+
+📺 Paul Barron Network
+
+👁️ 5K • 👍 529 • 💬 41 • ⏱️ 13:11 • 1h ago
+
+---
+
 **[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
 
 WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 360 • 💬 23 • ⏱️ 40:28 • 4h ago
+👁️ 8K • 👍 519 • 💬 42 • ⏱️ 40:28 • 4h ago
+
+---
+
+**[Cathie Wood on Bitcoin, Ethereum, Solana and the Bittensor TAO Halving](https://www.youtube.com/watch?v=jOd7smi4_B0)**
+
+Cathie Wood talks cryptocurrency investment and we cover today's Bittensor halving event. https://x.com/SuiNetwork Despite the ...
+
+📺 Altcoin Buzz
+
+👁️ 224 • 👍 24 • 💬 4 • ⏱️ 11:56 • 30m ago
 
 ---
 
@@ -248,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 10 • ⏱️ 5:52 • 6h ago
+👁️ 2K • 👍 129 • 💬 10 • ⏱️ 5:52 • 6h ago
 
 ---
 
@@ -258,7 +278,17 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 831 • 👍 106 • 💬 21 • ⏱️ 10:03 • 5h ago
+👁️ 1K • 👍 161 • 💬 24 • ⏱️ 10:03 • 6h ago
+
+---
+
+**[Ethereum Volatility Spike, EXTREMELY Bearish Signals?](https://www.youtube.com/watch?v=kJnZz4QVm6Q)**
+
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 69 • 👍 6 • 💬 1 • ⏱️ 7:19 • 20m ago
 
 ---
 
@@ -268,57 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 9 • ⏱️ 6:25 • 17h ago
-
----
-
-**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 61K • 👍 2K • 💬 425 • ⏱️ 9:35 • 21h ago
-
----
-
-**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
-
-EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
-
-📺 Altcoin Daily
-
-👁️ 68K • 👍 3K • 💬 304 • ⏱️ 31:03 • 3d ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=WNjd5vnNnHo)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Guitar Repair@StringTech
-
-👁️ 10K • 👍 4K • 2d ago
-
----
-
-**[Crypto About To Take-Off 🚨🚀 (Bitcoin, Ethereum, Liquidation Heatmaps) ](https://www.youtube.com/watch?v=glu93mgZG6w)**
-
-Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitter: https://x.com/_TheBlockchain ...
-
-📺 The Blockchain Today
-
-👁️ 821 • 👍 84 • 💬 12 • ⏱️ 3:50 • 10h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JI8ZbMLvojQ)**
-
-BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 412 • 💬 161 • ⏱️ 20:08 • 1d ago
+👁️ 3K • 👍 171 • 💬 10 • ⏱️ 6:25 • 18h ago
 
 ---
 
@@ -328,7 +308,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 779 • 💬 54 • ⏱️ 20:45 • 2d ago
+👁️ 23K • 👍 784 • 💬 54 • ⏱️ 20:45 • 2d ago
+
+---
+
+**[Crypto About To Take-Off 🚨🚀 (Bitcoin, Ethereum, Liquidation Heatmaps) ](https://www.youtube.com/watch?v=glu93mgZG6w)**
+
+Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitter: https://x.com/_TheBlockchain ...
+
+📺 The Blockchain Today
+
+👁️ 906 • 👍 85 • 💬 12 • ⏱️ 3:50 • 10h ago
+
+---
+
+**[🍗 Stop Gooning: Tom Lee just bought more Ethereum !! (A Nancy Pelosi Gooner Explains...)](https://www.youtube.com/watch?v=EelXTAqTPrw)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 2K • 👍 243 • 💬 17 • ⏱️ 27:17 • 1d ago
 
 ---
 
