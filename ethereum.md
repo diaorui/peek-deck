@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T14:22:36.774947+00:00'
+updated: '2025-12-15T14:51:38.891924+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 14:22 UTC  
+**Last Updated:** December 15, 2025 at 14:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** -5.3%  
-**30d:** +1.5%  
-**90d:** -31.7%  
-**1y:** -21.1%  
+**24h:** -0.1%  
+**7d:** -7.1%  
+**30d:** -0.5%  
+**90d:** -32.8%  
+**1y:** -22.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.80B
+**Market Cap:** $375.52B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.6%
+-37.3%
 
 **All-Time Low:** $0.43
-+724623.4%
++716133.4%
 
 ---
 
@@ -172,7 +172,7 @@ AMBCrypto • 1d ago
 
 The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -180,13 +180,19 @@ CoinDesk • 2h ago
 
 Digital asset investment products recorded another week of inflows as improving sentiment around major cryptocurrencies continues to draw capital back into the market, according to the latest data from CoinShares.Weekly inflows into digital asset exchange-traded products (ETPs) reached $716 million, pushing total assets under management (AuM) to $180 billion. While ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[JPMorgan launches tokenized money-market fund on Ethereum: WSJ](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum?utm_source=policy.xml&utm_medium=rss)**
 
 The Block • 2h ago
+
+---
+
+**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
+
+CCN.com • 1h ago
 
 ---
 
@@ -206,25 +212,19 @@ TradingView — Track All Markets • 22h ago
 
 ---
 
-**[JPMorgan Bets on Ethereum — Is Tom Lee’s $20K Price Prediction More Likely Now?](https://www.ccn.com/news/crypto/jpmorgan-bullish-ethereum-tokenized-money-fund-launch-lee-expects-price/)**
-
-CCN.com • 1h ago
-
----
-
 **[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
 
 Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
 
-BeInCrypto • 19h ago
+BeInCrypto • 20h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP face pressure near key technical barriers](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-face-pressure-near-key-technical-barriers-202512150408)**
+**[Crypto Today: Bitcoin nears $90K, Ethereum and XRP face key hurdles](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trade-under-pressure-amid-mixed-retail-and-technical-signals-202512151200)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday after correcting slightly in the previous week. The top three cryptocurrencies by market capitalization could face increased downside risk as bearish momentum builds across key indicators.
+Bitcoin (BTC) is advancing toward $90,000 at the time of writing on Monday, as the broader cryptocurrency market pushes for recovery following last week’s monetary policy-triggered headwinds.
 
-FXStreet • 10h ago
+FXStreet • 2h ago
 
 ---
 
@@ -238,37 +238,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 155 • 💬 9 • ⏱️ 6:25 • 10h ago
+👁️ 2K • 👍 165 • 💬 9 • ⏱️ 6:25 • 11h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JI8ZbMLvojQ)**
+**[Bitcoin’s Next Major Wave Is Taking Shape | Ethereum Signals Strength](https://www.youtube.com/watch?v=FBEpHX-gFAQ)**
 
-BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Crypto World
+📺 CryptosRUs
 
-👁️ 10K • 👍 391 • 💬 116 • ⏱️ 20:08 • 17h ago
-
----
-
-**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
-
-EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
-
-📺 Altcoin Daily
-
-👁️ 67K • 👍 3K • 💬 298 • ⏱️ 31:03 • 2d ago
-
----
-
-**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
-
-Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 462 • 💬 14 • ⏱️ 48:44 • 2d ago
+👁️ 3K • 👍 287 • 32m ago
 
 ---
 
@@ -278,7 +258,37 @@ Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitte
 
 📺 The Blockchain Today
 
-👁️ 163 • 👍 28 • 💬 9 • ⏱️ 3:50 • 3h ago
+👁️ 407 • 👍 59 • 💬 11 • ⏱️ 3:50 • 4h ago
+
+---
+
+**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
+
+EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
+
+📺 Altcoin Daily
+
+👁️ 67K • 👍 3K • 💬 301 • ⏱️ 31:03 • 2d ago
+
+---
+
+**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 52K • 👍 2K • 💬 358 • ⏱️ 9:35 • 15h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JI8ZbMLvojQ)**
+
+BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 399 • 💬 117 • ⏱️ 20:08 • 17h ago
 
 ---
 
@@ -288,17 +298,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 723 • 💬 50 • ⏱️ 20:45 • 1d ago
+👁️ 20K • 👍 747 • 💬 52 • ⏱️ 20:45 • 1d ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=WNjd5vnNnHo)**
+**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
 
-📺 Guitar Repair@StringTech
+📺 Discover Crypto
 
-👁️ 9K • 👍 4K • 2d ago
+👁️ 7K • 👍 463 • 💬 14 • ⏱️ 48:44 • 2d ago
 
 ---
 
@@ -308,7 +318,7 @@ We have covered the bull case extensively—the dividends, the MAVAN launch, and
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 34 • 💬 34 • ⏱️ 10:35 • 16h ago
+👁️ 1K • 👍 36 • 💬 33 • ⏱️ 10:35 • 17h ago
 
 ---
 
@@ -318,17 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 153 • 💬 5 • ⏱️ 8:04 • 22h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zVOGjXgpUBg)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 123 • 💬 4 • ⏱️ 4:34 • 1d ago
+👁️ 3K • 👍 155 • 💬 5 • ⏱️ 8:04 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T14:22:36.762193+00:00'
+updated: '2025-12-15T14:51:38.870084+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - social
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 14:22 UTC  
+**Last Updated:** December 15, 2025 at 14:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ RIP Copilot.
 
 ---
 
+**[If AI replaces workers, should it also pay taxes?](https://www.reddit.com/r/artificial/comments/1pn7tvx/if_ai_replaces_workers_should_it_also_pay_taxes/)**
+
+The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
+
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 1h ago
+
+---
+
 **[Microsoft AI CEO Mustafa Suleyman opens up about his peers and calls Elon Musk a "bulldozer" with "superhuman capabilities to bend reality to his will"](https://www.reddit.com/r/artificial/comments/1pmvf41/microsoft_ai_ceo_mustafa_suleyman_opens_up_about/)**
 
 "And somehow he sort of mostly manages to pull off what appears to be impossible."
@@ -57,7 +65,7 @@ RIP Copilot.
 
 I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
 
-5h ago
+6h ago
 
 ---
 
@@ -73,15 +81,7 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 People are starting to hand more decisions to AI agents, from booking trips to sorting digital files. The idea sounds simple. Tell the agent what you want, then let it work through the steps. The hard part is what the agent does with personal data along the way. A new research study digs into this problem, and asks a basic question. How should an AI agent know when to use someone’s data without asking every time?
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 4h ago
-
----
-
-**[If AI replaces workers, should it also pay taxes?](https://www.reddit.com/r/artificial/comments/1pn7tvx/if_ai_replaces_workers_should_it_also_pay_taxes/)**
-
-The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
-
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 32m ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 5h ago
 
 ---
 
@@ -121,11 +121,33 @@ A lot of AI image tools are powerful, but they rely heavily on long, precise pro
 
 ## Google News: "ai"
 
-**[Wall Street Sees AI Bubble Coming and Is Betting on What Pops It](https://finance.yahoo.com/news/wall-street-sees-ai-bubble-140000205.html)**
+**[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
 
-From a recent selloff in the shares of Nvidia Corp., to Oracle Corp.’s plunge after reporting mounting spending on AI, to souring sentiment around a network of companies exposed to OpenAI, signs of skepticism are increasing.  “We’re in the phase of the cycle where the rubber meets the road,” said Jim Morrow, chief executive officer of Callodine Capital Management.  The S&P 500’s three-year, $30 trillion bull run has largely been driven by the world’s biggest tech companies like Alphabet Inc. and Microsoft Corp., as well as firms benefiting from spending on AI infrastructure like chipmakers Nvidia and Broadcom Inc., and electricity providers such as Constellation Energy Corp. If they stop rising, the equities indexes will follow.
+Axios • 9h ago
 
-Yahoo Finance • 5h ago
+---
+
+**[Wall Street Sees AI Bubble Coming and Is Betting on What Pops It](https://www.bloomberg.com/news/articles/2025-12-14/wall-street-sees-an-ai-bubble-forming-and-is-gaming-what-pops-it)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[US launches campaign to hire AI engineers for federal roles](https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/)**
+
+Reuters • 20m ago
+
+---
+
+**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
+
+The Economist • 1d ago
+
+---
+
+**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqcpkmb8vW1DOcIFXdpk20kfOEr6l-GyAPmbBNMQdIHsEQ7rg-C8mEg_&gaa_ts=694023e0&gaa_sig=liBr0Fqb8DVURw4oNTjrLTrLSPGlEHtF-niPlwf8rFEwcOi5JGvQDyFB1aRpv7NdA0MeJl3juIldgJNGI698nA%3D%3D)**
+
+The Wall Street Journal • 14h ago
 
 ---
 
@@ -137,57 +159,33 @@ The Atlantic • 1d ago
 
 ---
 
-**[Is A.I. Actually a Bubble?](https://www.newyorker.com/culture/open-questions/is-ai-actually-a-bubble)**
+**[Texas universities deploy AI tools to review and rewrite how some courses discuss race and gender](https://www.texastribune.org/2025/12/15/texas-universities-ai-course-audits/)**
 
-The narrative of boom and bust is familiar—but also out of step with the possibilities of a new technology.
+Records obtained by The Texas Tribune show how universities are using the technology to reshape curriculum under political pressure, raising concerns about academic freedom.
 
-The New Yorker • 3d ago
-
----
-
-**[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
-
-Axios • 8h ago
+The Texas Tribune • 3h ago
 
 ---
 
-**[Amazon Shareholder Resolution Targets AI Work With Israel, DHS](https://www.bloomberg.com/news/articles/2025-12-15/amazon-shareholder-resolution-targets-ai-work-with-israel-dhs)**
+**[‘Iterate through’: Why The Washington Post launched an error-ridden AI product](https://www.semafor.com/article/12/14/2025/iterate-through-why-the-washington-post-launched-an-error-ridden-ai-product)**
 
-Bloomberg.com • 2h ago
+Between 68% and 84% of AI-generated scripts failed the Postâs own internal testing, but the paper launched the AI podcast feature anyway.
 
----
-
-**[Mirelo raises $41M from Index and a16z to solve AI video’s silent problem](https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/)**
-
-Mirelo, a German startup that is building AI to add synced sound effects to videos, has raised a $41 million seed round led by Index Ventures and Andreessen Horowitz.
-
-TechCrunch • 1h ago
-
----
-
-**[The Download: introducing the AI Hype Correction package](https://www.technologyreview.com/2025/12/15/1129719/the-download-introducing-the-ai-hype-correction-package/)**
-
-Plus: Roomba maker iRobot has filed for bankruptcy
-
-MIT Technology Review • 1h ago
-
----
-
-**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
-
-The Economist • 1d ago
-
----
-
-**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqfIETlFrSDvxsrmuzhUh2_Uk3CEVMz72mNWQoddIkbLy77gMbaUUNdp&gaa_ts=6940165c&gaa_sig=cAfYq1UOdgE_PoJefIU8qkky5daVP4gcXtIJz5mJXECz1DgNQ_Rt5CWgQClYmE-bfERlZv1bhBtkqJVtpbM8gg%3D%3D)**
-
-The Wall Street Journal • 16h ago
+https-//www.semafor.com • 12h ago
 
 ---
 
 **[Trump’s AI moratorium threatens state-level crackdowns on housing costs](https://www.politico.com/news/2025/12/14/trumps-ai-moratorium-threatens-state-level-crackdown-on-housing-costs-00688789)**
 
 Politico • 21h ago
+
+---
+
+**[CEOs usually favor less regulation. But not all are happy with Trump’s executive order to block state AI laws](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/)**
+
+Also: All the news and watercooler chat from Fortune.
+
+Fortune • 3h ago
 
 ---
 
@@ -199,21 +197,13 @@ Politico • 21h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 530 • 💬 288 • 2d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 531 • 💬 288 • 2d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 447 • 💬 445 • 1d ago
-
----
-
-**[AI and the ironies of automation – Part 2](https://news.ycombinator.com/item?id=46262816)**
-
-Some (well-known) consequences of AI automating work
-
-⬆️ 237 • 💬 107 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 447 • 💬 447 • 1d ago
 
 ---
 
@@ -221,7 +211,15 @@ Some (well-known) consequences of AI automating work
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 229 • 💬 386 • 14h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 277 • 💬 460 • 14h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+
+---
+
+**[AI and the ironies of automation – Part 2](https://news.ycombinator.com/item?id=46262816)**
+
+Some (well-known) consequences of AI automating work
+
+⬆️ 238 • 💬 108 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -229,7 +227,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 226 • 💬 223 • 13h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 232 • 💬 232 • 14h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -237,7 +235,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 197 • 💬 215 • 14h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 228 • 💬 238 • 15h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -245,7 +243,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 148 • 💬 211 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 149 • 💬 213 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -261,7 +259,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Educators can show in secondary school maths that AI systems don’t think, making maths more interesting while teaching core concepts of AI.
 
-⬆️ 130 • 💬 243 • 2d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
+⬆️ 131 • 💬 243 • 2d ago • [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/)
 
 ---
 
@@ -277,43 +275,23 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 ## YouTube Videos: "ai"
 
-**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
-
-OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
-
-📺 AI Revolution
-
-👁️ 29K • 👍 1K • 💬 119 • ⏱️ 12:07 • 15h ago
-
----
-
 **[Our 2025 Reports on Artificial Intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
 
 From November, Anderson Cooper's report on why Anthropic's CEO spends so much time warning of AI's potential dangers.
 
 📺 60 Minutes
 
-👁️ 397K • 👍 6K • 💬 885 • ⏱️ 1:21:07 • 2d ago
+👁️ 410K • 👍 7K • 💬 925 • ⏱️ 1:21:07 • 2d ago
 
 ---
 
-**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
+**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
 
-IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
+OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
 
-📺 Eurodollar University
+📺 AI Revolution
 
-👁️ 52K • 👍 2K • 💬 316 • ⏱️ 20:44 • 13h ago
-
----
-
-**[Lady Soldier Rescues Grandma and Builds Golden Carousel for Her 😭 #ai #save #army](https://www.youtube.com/watch?v=Rg0j9jUTTPM)**
-
-Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
-
-📺 Anime world 
-
-👁️ 143K • 👍 1K • 💬 1 • ⏱️ 0:22 • 1d ago
+👁️ 31K • 👍 1K • 💬 132 • ⏱️ 12:07 • 15h ago
 
 ---
 
@@ -323,7 +301,17 @@ Our Discord Community (FREE): https://discord.com/invite/Efbjh7Qj4V Review our s
 
 📺 2 and 20
 
-👁️ 115K • 👍 5K • 💬 624 • ⏱️ 12:40 • 1d ago
+👁️ 130K • 👍 5K • 💬 693 • ⏱️ 12:40 • 2d ago
+
+---
+
+**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
+
+IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
+
+📺 Eurodollar University
+
+👁️ 60K • 👍 3K • 💬 380 • ⏱️ 20:44 • 14h ago
 
 ---
 
@@ -333,7 +321,17 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 417K • 👍 17K • 💬 949 • ⏱️ 4:01 • 2d ago
+👁️ 423K • 👍 17K • 💬 963 • ⏱️ 4:01 • 2d ago
+
+---
+
+**[ROTATION AWAY FROM AI STOCKS, AMD TURNS TO SAMSUNG, CONSUMER SPENDING | MARKET OPEN](https://www.youtube.com/watch?v=5KczevwSTvA)**
+
+Welcome to the Lunch Time stock market hour with your host Couch Investor aka Neil. 15% OFF Fiscal AI: https://fiscal.ai/couch ...
+
+📺 Couch Investor
+
+👁️ 2K • 👍 92 • 1h ago
 
 ---
 
@@ -343,7 +341,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at why site
 
 📺 SomeOrdinaryGamers
 
-👁️ 76K • 👍 4K • 💬 781 • ⏱️ 19:00 • 1d ago
+👁️ 77K • 👍 4K • 💬 792 • ⏱️ 19:00 • 1d ago
 
 ---
 
@@ -357,23 +355,21 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 ---
 
-**[The 6 Most Profitable AI Businesses to Start in 2026](https://www.youtube.com/watch?v=X_X7WE1JBRg)**
+**[Are AI toys exciting or dangerous? | BBC News](https://www.youtube.com/watch?v=bGrdPmrjDBQ)**
 
-Get your FREE Executive Assistant Playbook here: https://go.danmartell.com/4oCwS0c Are you building an AI software ...
+In the run up to the festive season, the selection of toys on offer seems to get bigger every year – and we're now seeing more and ...
 
-📺 Dan Martell
+📺 BBC News
 
-👁️ 107K • 👍 5K • 💬 318 • ⏱️ 19:49 • 3d ago
+👁️ 18K • 👍 367 • 💬 115 • ⏱️ 3:10 • 2d ago
 
 ---
 
-**[AI Pranks Are Trash](https://www.youtube.com/watch?v=8Z9Oe-8rfEA)**
+**[COOKED AI responses 52 🥀 #deadinternettheory](https://www.youtube.com/watch?v=t_NveKiEWI0)**
 
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+📺 Stumb
 
-📺 penguinz0
-
-👁️ 419K • 👍 25K • 💬 3K • ⏱️ 11:22 • 11h ago
+👁️ 623K • 👍 26K • 💬 611 • ⏱️ 0:22 • 14h ago
 
 ---
 
@@ -389,7 +385,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 286,283 • ❤️ 2,732 • 6d ago
+⬇️ 286,283 • ❤️ 2,735 • 6d ago
 
 ---
 
@@ -401,7 +397,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 84,213 • ❤️ 435 • 5d ago
+⬇️ 84,213 • ❤️ 436 • 5d ago
 
 ---
 
@@ -413,7 +409,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 142,846 • ❤️ 847 • 2d ago
+⬇️ 142,846 • ❤️ 850 • 2d ago
 
 ---
 
@@ -425,7 +421,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 21,397 • ❤️ 348 • 21h ago
+⬇️ 21,397 • ❤️ 349 • 22h ago
 
 ---
 
@@ -437,7 +433,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 3,683 • ❤️ 306 • 6d ago
+⬇️ 3,683 • ❤️ 308 • 6d ago
 
 ---
 
@@ -461,7 +457,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 6,481 • ❤️ 220 • 3d ago
+⬇️ 6,481 • ❤️ 221 • 3d ago
 
 ---
 
@@ -473,7 +469,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 5,608 • ❤️ 206 • 21h ago
+⬇️ 5,608 • ❤️ 208 • 22h ago
 
 ---
 
@@ -485,7 +481,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 195 • 4d ago
+⬇️ 0 • ❤️ 196 • 4d ago
 
 ---
 
@@ -647,7 +643,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.3k • 🔱 2.4k • 5h ago
+⭐ 15.3k • 🔱 2.4k • 6h ago
 
 ---
 
@@ -657,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.4k • 🔱 367 • 4h ago
+⭐ 3.4k • 🔱 367 • 5h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T14:22:36.777740+00:00'
+updated: '2025-12-15T14:51:38.895384+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 14:22 UTC  
+**Last Updated:** December 15, 2025 at 14:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,15 +68,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
 
-9h ago
-
----
-
-**[Robotic Arm Controlled By VLM(Vision Language Model)](https://www.reddit.com/r/robotics/comments/1pms3ie/robotic_arm_controlled_by_vlmvision_language_model/)**
-
-Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
-
-15h ago
+10h ago
 
 ---
 
@@ -88,9 +80,17 @@ Everything here is done in simulation — from perception to grasping and liftin
 
 ---
 
+**[Robotic Arm Controlled By VLM(Vision Language Model)](https://www.reddit.com/r/robotics/comments/1pms3ie/robotic_arm_controlled_by_vlmvision_language_model/)**
+
+Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
+
+15h ago
+
+---
+
 **[Custom Differential Drive Robot | ESP32 + micro-ROS + ROS 2 + PID Control (Video)](https://www.reddit.com/r/robotics/comments/1pn389p/custom_differential_drive_robot_esp32_microros/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -102,9 +102,11 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 ---
 
-**[A new AI claims human level learning without human training data](https://www.reddit.com/r/robotics/comments/1pn7s6a/a_new_ai_claims_human_level_learning_without/)**
+**[Looking for feedback on an open-source volumetric data format for robotics / perception](https://www.reddit.com/r/robotics/comments/1pn73c3/looking_for_feedback_on_an_opensource_volumetric/)**
 
-34m ago
+Hi everyone! I’m working on an open-source project called CIVD, a volumetric data format meant for robotics and perception workflows. I’m early in my robotics journey and would really value practical feedback from people who’ve worked with perception stacks, datasets, or simulators: 1/ Does this kind of data layout make sense in real robotics pipelines? 2/ Where would it break down? 3/ Are there existing tools or formats I should study more closely? Any feedback will be greatly appreciated. I’m just looking to learn and improve the design. Not sure if I can post my GitHub. If it’s allowed I’ll put it in the comments!!!
+
+1h ago
 
 ---
 
@@ -114,7 +116,7 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
@@ -134,22 +136,6 @@ CNET • 1d ago
 
 ---
 
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
-
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
-
-Fortune • 1d ago
-
----
-
-**[Humanoid robots take center stage at Silicon Valley summit](https://apnews.com/video/humanoid-robots-take-center-stage-at-silicon-valley-summit-b6be0dba62ee4be5b4f910d2920e3a4a)**
-
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life into robots that walk, talk and move like humans.
-
-AP News • 2d ago
-
----
-
 **[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
 
 They make robot vacuums, lots of them
@@ -158,19 +144,11 @@ The Verge • 5h ago
 
 ---
 
-**[Roomba maker iRobot gets cleaned out in Chapter 11](https://www.theregister.com/2025/12/15/irobot_chapter_11/)**
+**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
 
-: Company vacuumed up by its own manufacturer
+The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-theregister.com • 1h ago
-
----
-
-**[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
-
-As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
-
-InvestorPlace • 23h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -180,11 +158,35 @@ Times Union • 1d ago
 
 ---
 
-**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
+**[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
 
-The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
+As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-The Motley Fool • 18h ago
+InvestorPlace • 1d ago
+
+---
+
+**[iRobot Announces Strategic Transaction to Drive Long-Term Growth Plan](https://www.prnewswire.com/news-releases/irobot-announces-strategic-transaction-to-drive-long-term-growth-plan-302641744.html)**
+
+/PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
+
+PR Newswire • 14h ago
+
+---
+
+**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
+
+General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
+
+Scientific American • 2d ago
+
+---
+
+**[How iRobot lost its way home](https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/)**
+
+iRobot survived three decades of competition, but couldn't survive European regulators killing its Amazon buyout. Now it's being taken over by its own supplier in bankruptcy court.
+
+TechCrunch • 12h ago
 
 ---
 
@@ -192,13 +194,23 @@ The Motley Fool • 18h ago
 
 ## YouTube Videos: "robotics"
 
+**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
+
+We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
+
+📺 CNET
+
+👁️ 246 • 👍 29 • ⏱️ 1:05 • 12m ago
+
+---
+
 **[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
 
 0:00 Intro: Big Plans and Major Hurdles for 2026 0:25 The First Challenge: Safety 0:46 The Danger of Hard Bodies and Pinch ...
 
 📺 CNET
 
-👁️ 15K • 👍 456 • 💬 52 • ⏱️ 6:41 • 1d ago
+👁️ 16K • 👍 470 • 💬 55 • ⏱️ 6:41 • 1d ago
 
 ---
 
@@ -208,15 +220,7 @@ The Motley Fool • 18h ago
 
 📺 Farooq tv
 
-👁️ 13K • 👍 97 • 💬 1 • ⏱️ 0:09 • 22h ago
-
----
-
-**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
-
-📺 AI . Robot
-
-👁️ 32K • 👍 436 • 💬 10 • ⏱️ 0:16 • 2d ago
+👁️ 26K • 👍 103 • 💬 2 • ⏱️ 0:09 • 23h ago
 
 ---
 
@@ -226,7 +230,15 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 129K • 👍 2K • 💬 933 • ⏱️ 14:26 • 6d ago
+👁️ 129K • 👍 2K • 💬 934 • ⏱️ 14:26 • 6d ago
+
+---
+
+**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
+
+📺 AI . Robot
+
+👁️ 54K • 👍 892 • 💬 12 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -236,17 +248,15 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 216K • 👍 7K • 💬 239 • ⏱️ 0:34 • 1d ago
+👁️ 225K • 👍 7K • 💬 250 • ⏱️ 0:34 • 1d ago
 
 ---
 
-**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
 
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+📺 AI . Robot
 
-📺 Associated Press
-
-👁️ 26K • 👍 98 • 💬 38 • ⏱️ 1:26 • 2d ago
+👁️ 32K • 👍 448 • 💬 10 • ⏱️ 0:16 • 2d ago
 
 ---
 
@@ -256,7 +266,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 190K • 👍 921 • 💬 303 • ⏱️ 0:47 • 6d ago
+👁️ 190K • 👍 924 • 💬 303 • ⏱️ 0:47 • 6d ago
 
 ---
 
@@ -264,27 +274,17 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 AI . Robot
 
-👁️ 715K • 👍 9K • 💬 118 • ⏱️ 0:17 • 6d ago
+👁️ 721K • 👍 9K • 💬 118 • ⏱️ 0:17 • 6d ago
 
 ---
 
-**[Boy Pressed Test Mode Button...Robot went Crazy 🤖😳 #ai #robot #cat](https://www.youtube.com/watch?v=hRf4HyPmFtA)**
+**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
 
-Boy Pressed Test Mode Button...Robot went Crazy #ai #robot #cat.
+I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
 
-📺 Ai Animation World
+📺 Kyle Krueger
 
-👁️ 88K • 💬 4 • ⏱️ 0:37 • 1d ago
-
----
-
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=0Z8lyW1FCZg)**
-
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
-
-📺 Humanoid Robot 🤖
-
-👁️ 122K • 👍 1K • 💬 11 • ⏱️ 0:18 • 2d ago
+👁️ 5.1M • 👍 161K • 💬 3K • ⏱️ 0:51 • 4d ago
 
 ---
 
