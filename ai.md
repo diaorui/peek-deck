@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T21:54:31.848759+00:00'
+updated: '2025-12-15T22:20:19.817220+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - news
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 21:54 UTC  
+**Last Updated:** December 15, 2025 at 22:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Now RAM prices are hitting record highs, because it's more profitable for manufacturers to sell specialized RAM to data centers than it is to you. Other chips overpriced too. Electricity price is ramping up, since tech giants need more and more of it, and are willing to pay higher and higher prices - more than you for sure. What's next, drinking water? Air? It's like reality is being warped by AI instead of people.
 
-4h ago
+5h ago
 
 ---
 
@@ -71,7 +71,7 @@ Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/wa
 
 RIP Copilot.
 
-🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 20h ago
+🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 21h ago
 
 ---
 
@@ -95,23 +95,23 @@ Also: All the news and watercooler chat from Fortune.
 
 "And somehow he sort of mostly manages to pull off what appears to be impossible."
 
-🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 19h ago
+🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 20h ago
 
 ---
 
-**[Simulated Company Shows Most AI Agents Flunk the Job](https://www.reddit.com/r/artificial/comments/1pmstyr/simulated_company_shows_most_ai_agents_flunk_the/)**
+**[The best Chinese open-weight models — and the strongest US rivals](https://www.reddit.com/r/artificial/comments/1pneiei/the_best_chinese_openweight_models_and_the/)**
 
-TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
+The Understanding AI guide to open-weight models.
 
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 22h ago
+🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 4h ago
 
 ---
 
-**[Tried a few AI video tools recently, here’s what I liked and didn’t](https://www.reddit.com/r/artificial/comments/1pn2k1n/tried_a_few_ai_video_tools_recently_heres_what_i/)**
+**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pnf368/its_been_a_big_week_for_agentic_ai_here_are_10/)**
 
-I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
+Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI Foundation Google drops Deep Research + AlphaEvolve agent A collection of AI Agent Updates! 🧵 1. Stripe Launches Agentic Commerce Suite Single integration for businesses to sell via multiple AI agents. Handles product discovery, agentic checkout, payments, and fraud. Manage all agents from Stripe Dashboard. Works with existing commerce stack. AI-native commerce infrastructure now available. 2. OpenAI Co-Founds Agentic AI Foundation with Anthropic and Block Under Linux Foundation to support open, interoperable standards for agentic AI. Donating to establish standards enabling safe, reliable agents across tools and repositories. Industry leaders aligning on agent interoperability. 3. Google Opens Gemini Deep Research Agent to Developers Most advanced autonomous research capabilities now embeddable in applications for first time. Also open-sourcing DeepSearchQA benchmark for evaluating agents on complex search tasks. Google's agent infrastructure available to all developers. 4. Anthropic is Developing New Agent Mode for Claude Code-named "Yukon Gold" - tasks-based complex agent experience with toggle between classic chat and agent mode. Also testing pixel art avatar generation from uploaded photos. Claude may be getting a dedicated agent interface. 5. Google Cloud Unveils AlphaEvolve Coding Agent Gemini-powered agent for designing advanced algorithms. Uses LLMs to propose intelligent code modifications with feedback loop that evolves algorithms to be more efficient. Now in private preview. Haven’t tried, but seems promising. 6. Real Agent Usage Data: Harvard Analyzes Hundreds of Millions of Queries Perplexity study shows 55% personal use, 30% professional. Productivity/workflow dominates (36% of queries), followed by learning/research (21%). Users shift from simple to complex tasks over time. Real data on how people actually use agents. 7. Stitchbygoogle Launches Redesign Agent with Code Generation Screenshot apps, visually reimagine with Gemini Pro, then convert redesigns into working HTML. "Shipmas" week begins - new ship daily with big launch Wednesday. Screenshot → Redesign → Code → Deploy workflow now live. 8. Cursor Agents Can Now Debug Your Hardest Bugs Debug Mode instruments code, spins up server, captures logs, and streams runtime data to agent. Version 2.2 adds multi-agent judging (picks best solution) and Plan Mode improvements with diagrams. AI agents now debugging production code. 9. Code Drops Major Agent Experience Upgrade Agent sessions integrated into chat view. Isolated background agents via Git worktrees enable multiple agents without conflicts. Seamless delegation with automatic context transfer between local, background, and cloud agents. Multi-agent workflows now native in VS Code. 10. Microsoft Research Unveils Agent Lightning Decouples how agents work from training. Turns each agent step into reinforcement learning data. Developers can improve agent performance with almost zero code changes. RL for agents without code rewrites. That's a wrap on this week's Agentic news. Which update are you trying first? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-13h ago
+3h ago
 
 ---
 
@@ -141,23 +141,47 @@ CNN • 5h ago
 
 ---
 
+**[Trump admin will recruit 1,000 technologists for elite 'Tech Force' to modernize government](https://www.foxnews.com/politics/trump-admin-recruit-1000-technologists-elite-tech-force-modernize-government)**
+
+Trump administration launches Tech Force program to recruit 1,000 technologists for AI modernization across federal agencies over two-year terms.
+
+Fox News • 24m ago
+
+---
+
 **[The White House’s unabashed embrace of AI](https://www.politico.com/news/2025/12/15/the-white-houses-unabashed-embrace-of-ai-00690885)**
 
-Politico • 19m ago
+Politico • 45m ago
 
 ---
 
-**[Watch AI Spending Anchoring Macroeconomy: Board’s Gallagher](https://www.bloomberg.com/news/videos/2025-12-15/ai-spending-anchoring-macroeconomy-board-s-gallagher-video)**
+**[DeSantis: Florida has ‘right’ to regulate AI rules despite Trump’s order](https://thehill.com/homenews/administration/5649792-florida-desantis-ai-regulation/)**
 
-Bloomberg.com • 1h ago
+thehill.com • 2h ago
 
 ---
 
-**[Creative Commons announces tentative support for AI ‘pay-to-crawl’ systems](https://techcrunch.com/2025/12/15/creative-commons-announces-tentative-support-for-ai-pay-to-crawl-systems/)**
+**[Trump order that discourages state AI laws is an 'abuse of power,' Sen. Costa says](https://www.post-gazette.com/news/politics-state/2025/12/15/pennsylvania-trump-state-ai-regulation-costa-sunday/stories/202512150087)**
 
-The organization offered support for this idea of an AI marketplace, and suggested several guiding principles.
+HARRISBURG – A new executive order from President Donald Trump that pressures states to stay away from regulating artificial intelligence with the...
 
-TechCrunch • 59m ago
+Pittsburgh Post-Gazette • 41m ago
+
+---
+
+**[Space Force uses AI challenge to push everyday use of artificial intelligence](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/)**
+
+Space Force uses AI challenge to push everyday use of artificial intelligence Space Force uses AI challenge to push everyday use of artificial intelligence
+
+SpaceNews • 52m ago
+
+---
+
+**[AI has taken toys: This new virtual playground is outselling Xbox consoles this holiday season](https://nypost.com/2025/12/15/shopping/meet-the-new-ai-playground-thats-outselling-xbox-consoles/)**
+
+AI is coming for toys. Kids and their parents are already hooked.
+
+New York Post • 35m ago
 
 ---
 
@@ -165,27 +189,7 @@ TechCrunch • 59m ago
 
 AI Mode is mangling recipes by merging instructions from multiple creators – and causing them huge dips in ad traffic
 
-The Guardian • 6h ago
-
----
-
-**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqexYUVO-s6ZCFi3EDxanLqCzhWdrJgfvkWZUmj9OFIlFtsyYN9w6ipA&gaa_ts=69408465&gaa_sig=14j6BODk971UI_2tQQ8M0URCT4xjjWrTopqshQz3eor_PFcVskVsjjoPrlNu7srNc_DwTL6vYgkJYKwvnIPYuA%3D%3D)**
-
-The Wall Street Journal • 23h ago
-
----
-
-**[AI Use at Work Rises](https://www.gallup.com/workplace/699689/ai-use-at-work-rises.aspx)**
-
-New Gallup data shows a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025.
-
-Gallup • 16h ago
-
----
-
-**[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
-
-Axios • 7h ago
+The Guardian • 7h ago
 
 ---
 
@@ -197,13 +201,13 @@ Axios • 7h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 505 • 💬 835 • 21h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 518 • 💬 849 • 22h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 450 • 💬 452 • 2d ago
+⬆️ 450 • 💬 453 • 2d ago
 
 ---
 
@@ -211,7 +215,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 338 • 💬 343 • 22h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 341 • 💬 343 • 22h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -219,7 +223,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 259 • 💬 273 • 21h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 259 • 💬 275 • 21h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -227,7 +231,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 245 • 💬 113 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 246 • 💬 113 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -235,7 +239,7 @@ Some (well-known) consequences of AI automating work
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 153 • 💬 216 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 153 • 💬 217 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -263,7 +267,7 @@ Brian Merchant has been collecting personal stories for his series AI Killed My 
 
 **[Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://news.ycombinator.com/item?id=46277477)**
 
-⬆️ 59 • 💬 36 • 4h ago • [X (formerly Twitter)](https://twitter.com/AKurian001/status/1986979144014701026)
+⬆️ 62 • 💬 36 • 4h ago • [X (formerly Twitter)](https://twitter.com/AKurian001/status/1986979144014701026)
 
 ---
 
@@ -287,7 +291,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 36K • 👍 1K • 💬 145 • ⏱️ 12:07 • 22h ago
+👁️ 36K • 👍 1K • 💬 145 • ⏱️ 12:07 • 23h ago
 
 ---
 
@@ -337,7 +341,7 @@ Which SORA AI Disney Trailer Should Be Made Into A Full Movie Next? #funny #funn
 
 📺 Bigfoot Feed
 
-👁️ 43K • 👍 616 • 💬 25 • ⏱️ 0:51 • 22h ago
+👁️ 43K • 👍 616 • 💬 25 • ⏱️ 0:51 • 23h ago
 
 ---
 
@@ -347,7 +351,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 442K • 👍 17K • 💬 996 • ⏱️ 4:01 • 2d ago
+👁️ 442K • 👍 17K • 💬 996 • ⏱️ 4:01 • 3d ago
 
 ---
 
@@ -713,7 +717,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 865 • 🔱 49 • 8h ago
+⭐ 865 • 🔱 49 • 9h ago
 
 ---
 
@@ -723,7 +727,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 739 • 🔱 107 • 18h ago
+⭐ 739 • 🔱 107 • 19h ago
 
 ---
 

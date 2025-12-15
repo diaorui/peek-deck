@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T21:54:31.863890+00:00'
+updated: '2025-12-15T22:20:19.831817+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 21:54 UTC  
+**Last Updated:** December 15, 2025 at 22:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** -11.2%  
-**30d:** -4.9%  
+**24h:** -3.9%  
+**7d:** -11.3%  
+**30d:** -5.0%  
 **90d:** -35.8%  
-**1y:** -26.0%  
+**1y:** -26.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.87B
+**Market Cap:** $355.11B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.5%
 
 **All-Time Low:** $0.43
-+679360.2%
++679027.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve never bought ETH before, but I’m thinking of getting some exposure now. I know the basics, I just want to buy ETH and move it to self-custody, hardware wallet, cold storage, the works. Plan is to buy and hold long term. Now I’m confused about the best approach. Some exchanges have crazy fees, others don’t allow ETH purchases, and I’ve read horror stories of accounts getting frozen on Binance. I want a safe, hassle-free way to buy ETH and make sure I can move it securely to my own wallet.
 
-4h ago
+5h ago
 
 ---
 
@@ -154,7 +154,7 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 4h ago
 
 A mix of macro and token-specific factors are pushing investors away from Ethereum and toward other assets.
 
-The Motley Fool • 35m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -182,25 +182,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum Forms Wyckoff Breakout Setup: $10,000 Price Target Back In Focus](https://www.tradingview.com/news/newsbtc:fae39eed8094b:0-ethereum-forms-wyckoff-breakout-setup-10-000-price-target-back-in-focus/)**
+
+A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
 **[Ethereum is fighting for survival as insiders warn a "dangerous complacency" could make it irrelevant by 2030](https://cryptoslate.com/ethereum-is-fighting-for-survival-as-insiders-warn-a-dangerous-complacency-could-make-it-irrelevant-by-2030/)**
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 5h ago
-
----
-
-**[Why Are Bitcoin, Ethereum and XRP Prices Falling Today?](https://www.tradingview.com/news/coinpedia:5f55e8b63094b:0-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
-
-The cryptocurrency market is under pressure today, with Bitcoin, Ethereum and XRP among other altcoins all seeing sharp declines. Total crypto market value has slipped to around $3 trillion, down more than 1%.Bitcoin dropped below $87,000, Ethereum fell near $3,000, and XRP slid to around $1.92. Se…
-
-TradingView — Track All Markets • 6h ago
-
----
-
-**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
-
-CCN.com • 8h ago
+CryptoSlate • 6h ago
 
 ---
 
@@ -212,11 +206,17 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum options expiry puts max pain levels to the test Dec. 20](https://crypto.news/bitcoin-ethereum-options-expiry-puts-max-pain-levels-to-the-test-dec-20/)**
+**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
 
-Bitcoin and Ethereum options worth billions expire Dec. 20, with max pain clusters and BTC put skew setting the stage for short‑term volatility.​
+Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
 
-crypto.news • 7h ago
+BeInCrypto • 1d ago
+
+---
+
+**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
+
+CCN.com • 9h ago
 
 ---
 
@@ -224,7 +224,7 @@ crypto.news • 7h ago
 
 Crypto Prices Today: Bitcoin Holds Near $89,500, Ethereum Steadies at $3,130 as Markets Watch BOJ, UK Crypto Rules and ETF Flows (Dec. 15, 2025) - TechStock²
 
-ts2.tech • 7h ago
+ts2.tech • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 519 • 💬 42 • ⏱️ 40:28 • 4h ago
+👁️ 8K • 👍 519 • 💬 42 • ⏱️ 40:28 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ Cathie Wood talks cryptocurrency investment and we cover today's Bittensor halvi
 
 📺 Altcoin Buzz
 
-👁️ 224 • 👍 24 • 💬 4 • ⏱️ 11:56 • 41m ago
+👁️ 224 • 👍 24 • 💬 4 • ⏱️ 11:56 • 1h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 10 • ⏱️ 5:52 • 6h ago
+👁️ 2K • 👍 129 • 💬 10 • ⏱️ 5:52 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 69 • 👍 6 • 💬 1 • ⏱️ 7:19 • 32m ago
+👁️ 69 • 👍 6 • 💬 1 • ⏱️ 7:19 • 57m ago
 
 ---
 

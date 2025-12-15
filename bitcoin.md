@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T21:54:31.857649+00:00'
+updated: '2025-12-15T22:20:19.825738+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 21:54 UTC  
+**Last Updated:** December 15, 2025 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,673.33
+### $86,088.48
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
+**24h:** -2.5%  
 **7d:** -7.4%  
 **30d:** -8.7%  
 **90d:** -26.1%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1718.37B
+**Market Cap:** $1717.46B
 Rank #1
 
-**Circulating Supply:** 19,962,543 BTC
+**Circulating Supply:** 19,962,565 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -31.7%
 
 **All-Time Low:** $67.81
-+126842.9%
++126810.5%
 
 ---
 
@@ -115,13 +115,7 @@ Buy some bitcoin and store it.
 
 I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
 
-1h ago
-
----
-
-**[Just doing my part. Dip = bought](https://www.reddit.com/r/Bitcoin/comments/1pnazib/just_doing_my_part_dip_bought/)**
-
-5h ago
+2h ago
 
 ---
 
@@ -131,17 +125,23 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 ---
 
-**[Ah Shit. Here we go again](https://www.reddit.com/r/Bitcoin/comments/1pnau8j/ah_shit_here_we_go_again/)**
+**[Just doing my part. Dip = bought](https://www.reddit.com/r/Bitcoin/comments/1pnazib/just_doing_my_part_dip_bought/)**
 
 6h ago
 
 ---
 
-**[Bitcoin Hashrate Slumps as Xinjiang Mining Centres Appear to Go Dark](https://www.reddit.com/r/Bitcoin/comments/1pn5xmn/bitcoin_hashrate_slumps_as_xinjiang_mining/)**
+**[Bitcoin is Dead](https://www.reddit.com/r/Bitcoin/comments/1pnhr4c/bitcoin_is_dead/)**
 
-Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
+Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many times Bitcoin has been declared dead by critics and media, with the complete database of Bitcoin deaths.
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 9h ago
+🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 2h ago
+
+---
+
+**[Ah Shit. Here we go again](https://www.reddit.com/r/Bitcoin/comments/1pnau8j/ah_shit_here_we_go_again/)**
+
+6h ago
 
 ---
 
@@ -161,15 +161,15 @@ Bloomberg.com • 1h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
-**[Bitcoin extends 2025 losses as silver, gold, & copper surge](https://finance.yahoo.com/video/bitcoin-extends-2025-losses-silver-205256153.html)**
+**[Why are BTC, XRP, ETH and SOL down today and what's next](https://www.coindesk.com/markets/2025/12/15/signs-of-fatigue-but-downside-likely-limited-as-bitcoin-tumbles-out-of-trading-range)**
 
-Bitcoin (BTC-USD) has fallen below $86,000 on Monday as 2025 draws to a close. Yahoo Finance Senior Reporter Ines Ferré outlines the cryptocurrency's year-to-date decline as metals, like gold (GC=F), silver (SI=F), and copper (HG=F), continue to surge. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
+Crypto-related stocks suffered far deeper declines as bitcoin slumped well below its recent trading range.
 
-Yahoo Finance • 1h ago
+CoinDesk • 44m ago
 
 ---
 
@@ -177,49 +177,45 @@ Yahoo Finance • 1h ago
 
 Bitcoin's recent price decline has picked up steam in recent weeks.
 
-The Motley Fool • 51m ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers](https://www.tradingview.com/news/cointelegraph:63cd5dade094b:0-bitcoin-drops-under-86k-as-2-78b-in-btc-whale-selling-overwhelms-active-dip-buyers/)**
+**[UK Supreme Court Shuts Down $13 Billion Bitcoin SV Case Appeal](https://finance.yahoo.com/news/uk-supreme-court-shuts-down-212918846.html)**
 
-Bitcoin (BTC) dropped below $86,000 on Monday, continuing to expand on a liquidity imbalance as smaller participants continued to buy dips. However, large holders are using the demand to exit positions, keeping downside pressure firmly in place.Key takeaways:Whales dominate the sell-side as retail…
+Bitcoin SV (BSV) investors had their appeal refused by the UK Supreme Court, dismissing a $13 billion claim in the process.
 
-TradingView — Track All Markets • 1h ago
+Yahoo Finance • 51m ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqf06qHX3inDKRBPfNMVCTwCEnxUJdquaIbGUc10n2PDOWAg7yBOuM40&gaa_ts=69408466&gaa_sig=y904F3VWgnUMgr_CfremxqDxl1tavabbvJNQ81Wch5FX03h50VNe5IKgIbEhvFBCjpIWVb2CGWmFkQeNTfCjhA%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcvTlOS7aVL1WSCcEJHPvpVuz4xLbab2osb4y9h3MHevOAgNhl1brxU&gaa_ts=69408d07&gaa_sig=b1g2EYXcuZxzZ1HAzExp0B8xMdEUvseiXZQcvlztz7kp8KLBi_C9JX-QBcJ5QQjz00dFY1Z6xqPw7RbsRauN3w%3D%3D)**
 
 Barron's • 3h ago
 
 ---
 
-**[Bitcoin (BTC) Could Crash to $25K as Parabolic Arc Has Snapped, Veteran Trader Says](https://www.coindesk.com/markets/2025/12/15/bitcoin-s-parabolic-arc-snaps-trader-peter-brandt-eyes-usd25k-crash-floor)**
-
-Veteran trader Peter Brandt warns that bitcoin's growth parabola has fractured, potentially leading to a price drop to $25,000.
-
-CoinDesk • 9h ago
-
----
-
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin Price Bleeds Below $89,000 After Grim Weekend](https://bitcoinmagazine.com/markets/bitcoin-price-bleeds-below-89000)**
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqf-jZ7sldC4z7Q0vrodaB36CLnIxHYSt4gnkjruqNMmepdPP9RKXh1L&gaa_ts=69408d07&gaa_sig=EhYannIOL915HajXX_I3sFWqltW69gJEVhzn6ueZy934PlLU0rjuepn-78ildsjynIk27ZYC64w8buGCrtdjUA%3D%3D)**
 
-Bitcoin price slipped below $90,000 during typically thin Sunday trading, magnifying downside volatility as traders pulled back risk ahead of a heavy week of U.S. economic data.
-
-Bitcoin Magazine • 7h ago
+MarketWatch • 9h ago
 
 ---
 
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqe153nZCbjreMoC5nNT2URzozreo3sX5lok13muLUeP7zotmaN0dmKj&gaa_ts=69408466&gaa_sig=x99ogA6E2yi5wHFivAegXGxvg42kd_R6YASBi1XlDbrax1x54kpzEre8u_uA1tcyZ5GeqtNnwsx_zlh0MRWy_g%3D%3D)**
+**[Legendary analyst warns of 80% Bitcoin ‘decay’](https://www.thestreet.com/crypto/markets/legendary-analyst-warns-of-80-bitcoin-decay)**
 
-MarketWatch • 8h ago
+thestreet.com • 5h ago
+
+---
+
+**[Bitcoin price today: subdued below $89k amid risk-off mood; key US data awaited](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-ticks-down-below-90k-amid-riskoff-mood-key-us-data-awaited-4407239)**
+
+Investing.com • 15h ago
 
 ---
 
@@ -305,7 +301,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 519 • 💬 42 • ⏱️ 40:28 • 4h ago
+👁️ 8K • 👍 519 • 💬 42 • ⏱️ 40:28 • 5h ago
 
 ---
 
@@ -345,7 +341,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 157 • 💬 7 • ⏱️ 22:13 • 4h ago
+👁️ 2K • 👍 157 • 💬 7 • ⏱️ 22:13 • 5h ago
 
 ---
 
@@ -375,7 +371,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 42K • 👍 2K • 💬 617 • ⏱️ 9:39 • 20h ago
+👁️ 42K • 👍 2K • 💬 617 • ⏱️ 9:39 • 21h ago
 
 ---
 
