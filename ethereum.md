@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T12:24:37.522825+00:00'
+updated: '2025-12-15T13:14:17.062938+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 12:24 UTC  
+**Last Updated:** December 15, 2025 at 13:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** -4.9%  
-**30d:** +1.8%  
-**90d:** -31.2%  
-**1y:** -20.8%  
+**24h:** +2.0%  
+**7d:** -5.2%  
+**30d:** +1.6%  
+**90d:** -31.4%  
+**1y:** -21.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $380.51B
+**Market Cap:** $379.25B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.2%
+-36.5%
 
 **All-Time Low:** $0.43
-+728332.6%
++725186.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -120,7 +120,7 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by numerous projects, including a number of high-profile teams:   ZKsync Li.Fi Aavegotchi Trust Wallet Towns Protocol Boson Protocol Stobox Venus Protocol hardhat-deploy Etherscan  Despite its use, ERC-2535 has sometimes been described as complex or “hard to understand,” even though its actual requirements are small, simple and straightforward.  The diamond pattern is not complex. Over time, I’ve noticed that most of the ...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 2d ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/proposal-for-a-simplified-standard-for-diamond-contracts/27119) • 3d ago
 
 ---
 
@@ -128,7 +128,7 @@ Preface Over the years ERC-2535 Diamonds has been adopted enthusiastically by nu
 
 BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 2d ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 3d ago
 
 ---
 
@@ -172,23 +172,21 @@ AMBCrypto • 1d ago
 
 The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.
 
-CoinDesk • 48m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
+**[JPMorgan launches tokenized money-market fund on Ethereum: WSJ](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum?utm_source=policy.xml&utm_medium=rss)**
 
-Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
-
-Nasdaq • 1d ago
+The Block • 1h ago
 
 ---
 
-**[Ethereum Price Could Be Silently Nearing a Breakout, Here’s Why](https://finance.yahoo.com/news/ethereum-price-could-silently-nearing-183000491.html)**
+**[Better Buy in 2026: Ethereum or XRP?](https://finance.yahoo.com/news/better-buy-2026-ethereum-xrp-115000740.html)**
 
-Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
+If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,7 +194,13 @@ Yahoo Finance • 17h ago
 
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
-TradingView — Track All Markets • 20h ago
+TradingView — Track All Markets • 21h ago
+
+---
+
+**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
+
+CCN.com • 11m ago
 
 ---
 
@@ -204,7 +208,7 @@ TradingView — Track All Markets • 20h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday after correcting slightly in the previous week. The top three cryptocurrencies by market capitalization could face increased downside risk as bearish momentum builds across key indicators.
 
-FXStreet • 8h ago
+FXStreet • 9h ago
 
 ---
 
@@ -218,15 +222,7 @@ The Motley Fool • 2d ago
 
 **[JPMorgan pushes deeper into crypto strategy with MONY fund on Ethereum: Report](https://www.msn.com/en-us/money/markets/jpmorgan-pushes-deeper-into-crypto-strategy-with-mony-fund-on-ethereum-report/ar-AA1SnH1e?ocid=finance-verthp-feeds)**
 
-MSN • 25m ago
-
----
-
-**[Firedancer is live, but Solana is violating the one safety rule Ethereum treats as non-negotiable](https://cryptoslate.com/firedancer-is-live-but-solana-is-violating-the-one-safety-rule-ethereum-treats-as-non-negotiable/)**
-
-Firedancer could start a new wave of adoption for Solana, especially from institutions that see a mitigated centralization risk from its validators.
-
-CryptoSlate • 15h ago
+MSN • 1h ago
 
 ---
 
@@ -240,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 155 • 💬 9 • ⏱️ 6:25 • 8h ago
+👁️ 2K • 👍 155 • 💬 9 • ⏱️ 6:25 • 9h ago
 
 ---
 
@@ -250,7 +246,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 10K • 👍 391 • 💬 116 • ⏱️ 20:08 • 15h ago
+👁️ 10K • 👍 391 • 💬 116 • ⏱️ 20:08 • 16h ago
 
 ---
 
@@ -280,7 +276,7 @@ Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitte
 
 📺 The Blockchain Today
 
-👁️ 163 • 👍 28 • 💬 9 • ⏱️ 3:50 • 1h ago
+👁️ 163 • 👍 28 • 💬 9 • ⏱️ 3:50 • 2h ago
 
 ---
 
@@ -310,7 +306,7 @@ We have covered the bull case extensively—the dividends, the MAVAN launch, and
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 34 • 💬 34 • ⏱️ 10:35 • 14h ago
+👁️ 1K • 👍 34 • 💬 34 • ⏱️ 10:35 • 15h ago
 
 ---
 
@@ -320,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 153 • 💬 5 • ⏱️ 8:04 • 20h ago
+👁️ 3K • 👍 153 • 💬 5 • ⏱️ 8:04 • 21h ago
 
 ---
 
