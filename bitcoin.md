@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T00:52:32.295257+00:00'
+updated: '2025-12-15T02:55:21.112128+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 00:52 UTC  
+**Last Updated:** December 15, 2025 at 02:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,640.18
+### $89,909.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -5.2%  
-**30d:** -6.6%  
-**90d:** -24.4%  
-**1y:** -16.8%  
+**24h:** -0.9%  
+**7d:** -3.7%  
+**30d:** -5.1%  
+**90d:** -23.2%  
+**1y:** -15.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.59B
+**Market Cap:** $1783.01B
 Rank #1
 
-**Circulating Supply:** 19,962,193 BTC
+**Circulating Supply:** 19,962,231 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-29.2%
 
 **All-Time Low:** $67.81
-+130137.4%
++131622.5%
 
 ---
 
 ## Fear & Greed Index
 
-### 21
+### 16
 **EXTREME FEAR**
 
 ---
@@ -79,19 +79,25 @@ Rank #1
 
 **[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
 
-3h ago
+5h ago
 
 ---
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-7h ago
+9h ago
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
+**[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
 
 10h ago
+
+---
+
+**[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
+
+3h ago
 
 ---
 
@@ -99,23 +105,25 @@ Rank #1
 
 Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
 
-4h ago
+6h ago
 
 ---
 
-**[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
+
+12h ago
+
+---
+
+**[When in doubt, zoom out 📈](https://www.reddit.com/r/Bitcoin/comments/1pmu9t8/when_in_doubt_zoom_out/)**
+
+5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
 
 1h ago
 
 ---
 
-**[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
-
-8h ago
-
----
-
-**[Get Ready](https://www.reddit.com/r/Bitcoin/comments/1pmpze2/get_ready/)**
+**[Not again 😩 No more dip](https://www.reddit.com/r/Bitcoin/comments/1pmsjz5/not_again_no_more_dip/)**
 
 3h ago
 
@@ -125,19 +133,13 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 I have empty hands
 
-2h ago
+4h ago
 
 ---
 
 **[Don't listen to "economists"...](https://www.reddit.com/r/Bitcoin/comments/1pm4kob/dont_listen_to_economists/)**
 
-20h ago
-
----
-
-**[Not again 😩 No more dip](https://www.reddit.com/r/Bitcoin/comments/1pmsjz5/not_again_no_more_dip/)**
-
-1h ago
+22h ago
 
 ---
 
@@ -145,11 +147,17 @@ I have empty hands
 
 ## Google News: "bitcoin"
 
+**[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
+
+The Block • 4h ago
+
+---
+
 **[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Forbes • 13h ago
+Forbes • 15h ago
 
 ---
 
@@ -157,21 +165,13 @@ Forbes • 13h ago
 
 Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-reuters.com • 1d ago
-
----
-
-**[MicroStrategy (MSTR): Reassessing Valuation After Sharp Recent Share Price Declines and Bitcoin-Linked Volatility](https://finance.yahoo.com/news/microstrategy-mstr-reassessing-valuation-sharp-021012443.html)**
-
-Strategy (MSTR) has had a rough stretch, with the stock down around 21% over the past month and nearly 47% in the past 3 months, prompting fresh questions about valuation and Bitcoin exposure. See our latest analysis for Strategy. The latest slide, including a 1 day share price return of minus 3.7 percent and a year to date share price return of roughly minus 41 percent, suggests momentum is clearly fading even after an exceptional 3 year total shareholder return above 900 percent. If Bitcoin...
-
-Yahoo Finance • 22h ago
+Reuters • 1h ago
 
 ---
 
@@ -179,15 +179,21 @@ Yahoo Finance • 22h ago
 
 Strategy Inc (MSTR) Stock News on Dec. 14, 2025: Nasdaq-100 Decision, MSCI Index Risk, Bitcoin Buys, and Wall Street Forecasts - TechStock²
 
-ts2.tech • 5h ago
+ts2.tech • 7h ago
 
 ---
 
-**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://www.fool.com/investing/2025/12/14/which-cryptocurrency-has-more-upside-bitcoin-vs-ca/)**
+**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-This match-up has a clear winner, but that doesn't mean you should bet the farm on it.
+Investor's Business Daily • 2d ago
 
-The Motley Fool • 6h ago
+---
+
+**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://www.nasdaq.com/articles/which-cryptocurrency-has-more-upside-bitcoin-vs-cardano)**
+
+Key PointsCardano is approaching one of its largest-ever growth opportunities.
+
+Nasdaq • 8h ago
 
 ---
 
@@ -210,12 +216,6 @@ CoinDesk • 1d ago
 **[Key facts: Bitcoin ETFs see $237M inflows; Grayscale predicts 2026 high](https://www.tradingview.com/news/tradingview:c4734af0513af:0-key-facts-bitcoin-etfs-see-237m-inflows-grayscale-predicts-2026-high/)**
 
 TradingView — Track All Markets • 1d ago
-
----
-
-**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
-
-x.com • 1d ago
 
 ---
 
@@ -287,13 +287,23 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ## YouTube Videos: "bitcoin"
 
-**[Is Bitcoin Being Manipulated? How the Evidence is Stacking Up](https://www.youtube.com/watch?v=4hrSrugd7tA)**
+**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
 
-Is Bitcoin's recent crash really just “market volatility”—or are major institutions gaming the system? In this breakdown, Oceans ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 15K • 👍 1K • 💬 121 • ⏱️ 9:35 • 3h ago
+
+---
+
+**[Why is Bitcoin STUCK at $90K?! (This Explains Everything)](https://www.youtube.com/watch?v=9Xi0PnWSLto)**
+
+Bitcoin's been dropping like clockwork at market open—but is it just normal volatility, or something more sinister? From Japanese ...
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 2K • 💬 123 • ⏱️ 9:48 • 7h ago
+👁️ 9K • 👍 1K • 💬 70 • ⏱️ 14:17 • 3h ago
 
 ---
 
@@ -303,17 +313,17 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 4K • 💬 343 • ⏱️ 17:53 • 9h ago
+👁️ 66K • 👍 5K • 💬 383 • ⏱️ 17:53 • 11h ago
 
 ---
 
-**[BITCOIN CRASH COMING?!?!?!? (Watch By Tomorrow)](https://www.youtube.com/watch?v=LIWtEqJtAPs)**
+**[Is Bitcoin Being Manipulated? How the Evidence is Stacking Up](https://www.youtube.com/watch?v=4hrSrugd7tA)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
+Is Bitcoin's recent crash really just “market volatility”—or are major institutions gaming the system? In this breakdown, Oceans ...
 
-📺 Crypto Kid
+📺 Simply Bitcoin
 
-👁️ 2K • 👍 406 • 💬 78 • ⏱️ 3:45 • 4h ago
+👁️ 22K • 👍 2K • 💬 144 • ⏱️ 9:48 • 9h ago
 
 ---
 
@@ -323,17 +333,27 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 695 • 💬 56 • ⏱️ 3:56 • 7h ago
+👁️ 11K • 👍 797 • 💬 64 • ⏱️ 3:56 • 9h ago
 
 ---
 
-**[🚨URGENT🚨 Crypto CRASH Warning: Smart Money Is TRICKING You!](https://www.youtube.com/watch?v=CR1uoKcH8yw)**
+**[BITCOIN CRASH COMING?!?!?!? (Watch By Tomorrow)](https://www.youtube.com/watch?v=LIWtEqJtAPs)**
 
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
+WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
 
-📺 Discover Crypto
+📺 Crypto Kid
 
-👁️ 4K • 👍 221 • 💬 34 • ⏱️ 17:54 • 6h ago
+👁️ 4K • 👍 511 • 💬 96 • ⏱️ 3:45 • 6h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JI8ZbMLvojQ)**
+
+BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 318 • 💬 48 • ⏱️ 20:08 • 5h ago
 
 ---
 
@@ -343,37 +363,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 283 • 💬 18 • ⏱️ 18:38 • 9h ago
-
----
-
-**[⚠️ Why We Will Hit $36,900 In Bitcoin](https://www.youtube.com/watch?v=emTuAfNK5qE)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Bearhard - Bitcoin Strategy
-
-👁️ 5K • 👍 353 • 💬 88 • ⏱️ 10:43 • 11h ago
-
----
-
-**[BITCOIN LIVE : BTC AND CRYPTO SELL OFF INTO THE WEEKLY CANDLE CLOSE](https://www.youtube.com/watch?v=IfqK383NzoQ)**
-
-bitcoin #btc #eth #trading #ethereum Bitcoin (BTC), Gold, Oil, Stocks. Cryptocurrency and Stock Market Technical Analysis and ...
-
-📺 Mitch Ray
-
-👁️ 650 • 👍 102 • 3h ago
-
----
-
-**[How Fed Rate Cuts Affect Bitcoin, AI &amp; The Market](https://www.youtube.com/watch?v=dGxR_00APUM)**
-
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
-
-📺 Anthony Pompliano
-
-👁️ 53K • 👍 2K • 💬 24 • ⏱️ 48:39 • 1d ago
+👁️ 7K • 👍 336 • 💬 27 • ⏱️ 18:38 • 11h ago
 
 ---
 
@@ -383,7 +373,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 13K • 👍 633 • 💬 12 • ⏱️ 24:03 • 23h ago
+👁️ 15K • 👍 689 • 💬 13 • ⏱️ 24:03 • 1d ago
+
+---
+
+**[LIVE: BlackRock CEO Announces Major Crypto Move! This Speech Will Reshape the Crypto Industry!](https://www.youtube.com/watch?v=thKLbgvY1OQ)**
+
+SHOCKING ANNOUNCEMENT FROM BLACKROCK! In a groundbreaking live speech, BlackRock CEO Larry Fink reveals the ...
+
+📺 SELALUNASMR
+
+👁️ 13K • 👍 3K • 9h ago
 
 ---
 
