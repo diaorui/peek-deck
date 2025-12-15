@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T05:45:29.624123+00:00'
+updated: '2025-12-15T05:57:35.369706+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 05:45 UTC  
+**Last Updated:** December 15, 2025 at 05:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ RIP Copilot.
 
 TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
 
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 5h ago
+🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 "And somehow he sort of mostly manages to pull off what appears to be impossible."
 
-🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 3h ago
+🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 4h ago
 
 ---
 
@@ -145,7 +145,7 @@ Politico • 12h ago
 
 **[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
 
-Axios • 42m ago
+Axios • 54m ago
 
 ---
 
@@ -153,7 +153,7 @@ Axios • 42m ago
 
 Publishers are finally gaining some visibility into AI search, as new prompt data tools crack open a black box.
 
-Digiday • 38m ago
+Digiday • 50m ago
 
 ---
 
@@ -161,7 +161,7 @@ Digiday • 38m ago
 
 A new survey shows CEOs expect AI to boost hiring in 2026, especially for entry-level roles.
 
-Business Insider • 30m ago
+Business Insider • 42m ago
 
 ---
 
@@ -181,7 +181,7 @@ The Atlantic • 17h ago
 
 **[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqfb7miDUHlAH1S9329ZjdRu8RZWM2gqwqJJiPAHwzEFgWljrweYXG9I&gaa_ts=693fa3ce&gaa_sig=aoFj2TnHkGQCh6DURRNj2UyQJ9tToEsVv4WhZ7h2Tk0LSo11W4CrEr4bQ3RRX9QW8YEr_MHUanZMAFG1kaceVQ%3D%3D)**
 
-The Wall Street Journal • 7h ago
+The Wall Street Journal • 8h ago
 
 ---
 
@@ -263,7 +263,7 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 79 • 💬 104 • 5h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 79 • 💬 104 • 6h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -287,7 +287,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 17K • 👍 847 • 💬 87 • ⏱️ 12:07 • 6h ago
+👁️ 17K • 👍 847 • 💬 87 • ⏱️ 12:07 • 7h ago
 
 ---
 
@@ -641,7 +641,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.8k • 🔱 2.3k • 1h ago
+⭐ 14.8k • 🔱 2.3k • 2h ago
 
 ---
 

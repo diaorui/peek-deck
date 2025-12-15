@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T05:45:29.633086+00:00'
+updated: '2025-12-15T05:57:35.378159+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 05:45 UTC  
+**Last Updated:** December 15, 2025 at 05:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.4%  
-**7d:** -3.4%  
+**7d:** -3.5%  
 **30d:** -4.8%  
 **90d:** -23.0%  
 **1y:** -15.3%  
@@ -87,7 +87,7 @@ Rank #1
 
 I just sold my 2024 Mustang that I bought brand new last year for $55,676 — ended up getting $31,500 for it. Honestly, I loved that car, but I decided it was time to let it go for something bigger. I’m putting the entire $31.5K into Bitcoin-related assets. I’m already invested around $75K in MSTR and MARA, and this sale gives me more dry powder to average in. I know it’s not a typical decision, but I’m 22 and I believe in where Bitcoin and the ecosystem are headed long term. My plan is to buy a Corvette with the profits — could be wrong, could be right. But I’d rather take the shot now than look back wishing I did. Let’s see where this journey goes 🚀 Added the bill too soo you guys know this isn’t a fake post
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +107,7 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 7h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 44m ago
+Financial Times • 56m ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 The products have attracted fresh capital every trading day since launch, lifting cumulative net inflows to about $975 million.
 
-CoinDesk • 43m ago
+CoinDesk • 56m ago
 
 ---
 
@@ -215,7 +215,7 @@ Nasdaq • 11h ago
 
 **[Tron outperforms Bitcoin, Ethereum and major tokens, defying broader crypto market weakness](https://www.msn.com/en-us/money/markets/tron-outperforms-bitcoin-ethereum-and-major-tokens-defying-broader-crypto-market-weakness/ar-AA1SlW2K?ocid=finance-verthp-feeds)**
 
-MSN • 16m ago
+MSN • 28m ago
 
 ---
 
@@ -243,7 +243,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 1 • 2d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 1 • 3d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -323,7 +323,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 255 • ⏱️ 9:39 • 4h ago
+👁️ 19K • 👍 1K • 💬 255 • ⏱️ 9:39 • 5h ago
 
 ---
 

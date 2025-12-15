@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T05:45:29.639202+00:00'
+updated: '2025-12-15T05:57:35.384190+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 05:45 UTC  
+**Last Updated:** December 15, 2025 at 05:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -6.0%  
-**30d:** +0.6%  
+**24h:** +0.4%  
+**7d:** -5.9%  
+**30d:** +0.8%  
 **90d:** -32.0%  
-**1y:** -21.7%  
+**1y:** -21.6%  
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 11h ago
 
 **[Tron outperforms Bitcoin, Ethereum and major tokens, defying broader crypto market weakness](https://www.msn.com/en-us/money/markets/tron-outperforms-bitcoin-ethereum-and-major-tokens-defying-broader-crypto-market-weakness/ar-AA1SlW2K?ocid=finance-verthp-feeds)**
 
-MSN • 16m ago
+MSN • 28m ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView — Track All Markets • 13h ago
 
 Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
-Nasdaq • 17h ago
+Nasdaq • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 8K • 👍 355 • 💬 54 • ⏱️ 20:08 • 8h ago
+👁️ 8K • 👍 355 • 💬 54 • ⏱️ 20:08 • 9h ago
 
 ---
 
