@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T17:54:20.939208+00:00'
+updated: '2025-12-15T18:30:43.715828+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 17:54 UTC  
+**Last Updated:** December 15, 2025 at 18:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,955.37
+### $2,939.94
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.1%  
-**7d:** -11.3%  
-**30d:** -5.0%  
-**90d:** -35.9%  
-**1y:** -26.0%  
+**24h:** -5.3%  
+**7d:** -11.6%  
+**30d:** -5.4%  
+**90d:** -36.1%  
+**1y:** -26.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.91B
+**Market Cap:** $354.21B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.2%
+-40.8%
 
 **All-Time Low:** $0.43
-+683240.3%
++676233.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve never bought ETH before, but I’m thinking of getting some exposure now. I know the basics, I just want to buy ETH and move it to self-custody, hardware wallet, cold storage, the works. Plan is to buy and hold long term. Now I’m confused about the best approach. Some exchanges have crazy fees, others don’t allow ETH purchases, and I’ve read horror stories of accounts getting frozen on Binance. I want a safe, hassle-free way to buy ETH and make sure I can move it securely to my own wallet.
 
-42m ago
+1h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -162,7 +162,15 @@ The Block • 5h ago
 
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
-CoinDesk • 3h ago
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
+
+Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
+
+Decrypt • 43m ago
 
 ---
 
@@ -170,15 +178,7 @@ CoinDesk • 3h ago
 
 Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
-CoinDesk • 3h ago
-
----
-
-**[Why Did The Bitcoin, Ethereum, And XRP Prices Crash, And Will It Continue?](https://www.tradingview.com/news/newsbtc:a8f6b7e64094b:0-why-did-the-bitcoin-ethereum-and-xrp-prices-crash-and-will-it-continue/)**
-
-Crypto pundit Crypto Wimar has explained why the Bitcoin, Ethereum, and XRP prices crashed, highlighting the continuous selling pressure. The crypto market is also at risk of further downward pressure due to macro factors such as the impending Japan rate hike. Why The Bitcoin, Ethereum, And XRP Pri…
-
-TradingView — Track All Markets • 2h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -192,15 +192,15 @@ Nasdaq • 1d ago
 
 **[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
 
-CCN.com • 4h ago
+CCN.com • 5h ago
 
 ---
 
-**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://decrypt.co/352365/tom-lees-bitmine-keeps-buying-ethereum-adding-320-million-eth-treasury)**
+**[Ethereum is fighting for survival as insiders warn a "dangerous complacency" could make it irrelevant by 2030](https://cryptoslate.com/ethereum-is-fighting-for-survival-as-insiders-warn-a-dangerous-complacency-could-make-it-irrelevant-by-2030/)**
 
-Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
+As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-Decrypt • 2h ago
+CryptoSlate • 2h ago
 
 ---
 
@@ -216,15 +216,15 @@ AMBCrypto • 1d ago
 
 Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
 
-BeInCrypto • 23h ago
+BeInCrypto • 1d ago
 
 ---
 
-**[Crypto Today: Bitcoin nears $90K, Ethereum and XRP face key hurdles](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trade-under-pressure-amid-mixed-retail-and-technical-signals-202512151200)**
+**[Crypto Today: Bitcoin, Ethereum hold steady as XRP ETF inflows surge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-aim-for-recovery-xrp-holds-key-support-202512121200)**
 
-Bitcoin (BTC) is advancing toward $90,000 at the time of writing on Monday, as the broader cryptocurrency market pushes for recovery following last week’s monetary policy-triggered headwinds.
+Bitcoin (BTC) is trading above $92,000 at the time of writing on Friday, as volatility across the cryptocurrency market cools following the Federal Reserve’s (Fed) hawkish interest rate cut.
 
-FXStreet • 5h ago
+FXStreet • 3d ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 957 • 👍 91 • 💬 7 • ⏱️ 5:52 • 2h ago
+👁️ 957 • 👍 91 • 💬 7 • ⏱️ 5:52 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 1K • 👍 109 • 1h ago
+👁️ 1K • 👍 109 • 2h ago
 
 ---
 
@@ -288,7 +288,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 2K • 💬 413 • ⏱️ 9:35 • 18h ago
+👁️ 56K • 👍 2K • 💬 413 • ⏱️ 9:35 • 19h ago
 
 ---
 
@@ -308,7 +308,7 @@ History doesn't repeat, but it often rhymes. And right now, the Ethereum chart i
 
 📺 Wall Street Stockcast
 
-👁️ 250 • 👍 13 • 💬 22 • ⏱️ 29:53 • 3h ago
+👁️ 250 • 👍 13 • 💬 22 • ⏱️ 29:53 • 4h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 10K • 👍 408 • 💬 149 • ⏱️ 20:08 • 20h ago
+👁️ 10K • 👍 408 • 💬 149 • ⏱️ 20:08 • 21h ago
 
 ---
 
