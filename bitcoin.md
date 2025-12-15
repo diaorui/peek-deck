@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T20:57:06.823125+00:00'
+updated: '2025-12-15T21:25:36.041576+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 20:57 UTC  
+**Last Updated:** December 15, 2025 at 21:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,860.62
+### $85,673.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -7.4%  
-**30d:** -8.7%  
-**90d:** -26.2%  
-**1y:** -18.8%  
+**24h:** -3.0%  
+**7d:** -7.6%  
+**30d:** -8.9%  
+**90d:** -26.3%  
+**1y:** -19.0%  
 
 ---
 
@@ -113,7 +113,7 @@ Buy some bitcoin and store it.
 
 **[Just doing my part. Dip = bought](https://www.reddit.com/r/Bitcoin/comments/1pnazib/just_doing_my_part_dip_bought/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -127,7 +127,7 @@ Buy some bitcoin and store it.
 
 I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
 
-37m ago
+1h ago
 
 ---
 
@@ -141,7 +141,7 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 8h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-hashrate-slumps-xinjiang-mining-centres-appear-go-dark) • 9h ago
 
 ---
 
@@ -161,13 +161,13 @@ Bloomberg.com • 2h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
 **[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
 
-The Block • 18m ago
+The Block • 47m ago
 
 ---
 
@@ -189,7 +189,7 @@ Barron's • 2h ago
 
 Veteran trader Peter Brandt warns that bitcoin's growth parabola has fractured, potentially leading to a price drop to $25,000.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -197,19 +197,19 @@ CoinDesk • 8h ago
 
 Sometimes you are the biggest risk to your portfolio's health.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
 **[Bitcoin price today: subdued below $89k amid risk-off mood; key US data awaited](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-ticks-down-below-90k-amid-riskoff-mood-key-us-data-awaited-4407239)**
 
-Investing.com • 13h ago
+Investing.com • 14h ago
 
 ---
 
 **[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqfbZdJv8Uj2nn3iKnFrl_40l813S6gkLkDRflb_w5NoTukjh8t_4FmM&gaa_ts=69407986&gaa_sig=EqgpNFvE6TwouOQtXv_4-utFBdOajol4YJk3LLCJHCbV7-e-wZNQQbYpG0ohh3CRHuTJVTUDhjgxpv7kQU7msg%3D%3D)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 
@@ -313,7 +313,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 360 • 💬 23 • ⏱️ 40:28 • 3h ago
+👁️ 5K • 👍 360 • 💬 23 • ⏱️ 40:28 • 4h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning wheth
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 910 • 💬 188 • ⏱️ 1:05:55 • 5h ago
+👁️ 14K • 👍 910 • 💬 188 • ⏱️ 1:05:55 • 6h ago
 
 ---
 
@@ -353,7 +353,7 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 3K • 👍 204 • 💬 17 • ⏱️ 6:02 • 4h ago
+👁️ 3K • 👍 204 • 💬 17 • ⏱️ 6:02 • 5h ago
 
 ---
 
@@ -393,7 +393,7 @@ Come look into the next BIG move in crypto! All LIVE analysis, charting, and tra
 
 📺 Tom Crown
 
-👁️ 3K • 👍 258 • 💬 12 • ⏱️ 1:17:49 • 1h ago
+👁️ 3K • 👍 258 • 💬 12 • ⏱️ 1:17:49 • 2h ago
 
 ---
 

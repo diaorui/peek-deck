@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T20:57:06.814148+00:00'
+updated: '2025-12-15T21:25:36.033149+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
+- news
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 20:57 UTC  
+**Last Updated:** December 15, 2025 at 21:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Now RAM prices are hitting record highs, because it's more profitable for manufacturers to sell specialized RAM to data centers than it is to you. Other chips overpriced too. Electricity price is ramping up, since tech giants need more and more of it, and are willing to pay higher and higher prices - more than you for sure. What's next, drinking water? Air? It's like reality is being warped by AI instead of people.
 
-3h ago
+4h ago
 
 ---
 
@@ -71,7 +71,7 @@ Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/wa
 
 RIP Copilot.
 
-🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 19h ago
+🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 20h ago
 
 ---
 
@@ -103,7 +103,7 @@ Also: All the news and watercooler chat from Fortune.
 
 Don't ask it to add a confidence score. Don't add it to sum up items on a receipt. Don't ask it to confirm how many rows there are in a PDF.
 
-🔗 [BAML](https://boundaryml.com/blog/llms-do-not-understand-numbers) • 22m ago
+🔗 [BAML](https://boundaryml.com/blog/llms-do-not-understand-numbers) • 50m ago
 
 ---
 
@@ -143,7 +143,7 @@ CNN • 4h ago
 
 **[US government launches campaign to hire engineers for AI, tech roles](https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -151,7 +151,7 @@ Reuters • 3h ago
 
 Klarna launched an open standard that it said makes products easily discoverable and understandable by artificial intelligence agents. The new Agentic
 
-PYMNTS.com • 12m ago
+PYMNTS.com • 41m ago
 
 ---
 
@@ -159,13 +159,13 @@ PYMNTS.com • 12m ago
 
 AI investments in enterprises often stall without quality data. Discover why unified, context-rich data is key to successful AI transformation.
 
-Business Insider • 10m ago
+Business Insider • 38m ago
 
 ---
 
 **[New AI Medicare program to review patient services in Texas; doctors have concerns](https://www.kxan.com/news/texas/new-ai-medicare-program-to-review-patient-services-in-texas-doctors-have-concerns/)**
 
-KXAN Austin • 17m ago
+KXAN Austin • 46m ago
 
 ---
 
@@ -173,7 +173,7 @@ KXAN Austin • 17m ago
 
 AI Mode is mangling recipes by merging instructions from multiple creators – and causing them huge dips in ad traffic
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Guardian • 5h ago
 
 New Gallup data shows a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025.
 
-Gallup • 15h ago
+Gallup • 16h ago
 
 ---
 
@@ -199,7 +199,7 @@ Axios • 6h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 487 • 💬 806 • 20h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 487 • 💬 806 • 21h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -267,7 +267,7 @@ Brian Merchant has been collecting personal stories for his series AI Killed My 
 
 Copywriters were one of the first to have their jobs targeted by AI firms. These are their stories, three years into the AI era.
 
-⬆️ 57 • 💬 36 • 9h ago • [bloodinthemachine.com](https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the)
+⬆️ 57 • 💬 36 • 10h ago • [bloodinthemachine.com](https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the)
 
 ---
 
@@ -351,7 +351,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 73K • 👍 3K • 💬 419 • ⏱️ 20:44 • 20h ago
+👁️ 73K • 👍 3K • 💬 419 • ⏱️ 20:44 • 21h ago
 
 ---
 
@@ -537,7 +537,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 20 • 💬 2 • ⭐ 12,310 • 7d ago
+▲ 21 • 💬 2 • ⭐ 12,310 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -551,7 +551,7 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 26 • 💬 2 • ⭐ 6,984 • 18d ago
+▲ 27 • 💬 2 • ⭐ 6,984 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -579,7 +579,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 V-RGBX is an end-to-end framework for intrinsic-aware video editing that combines video inverse rendering, photorealistic synthesis, and keyframe-based editing to produce consistent and physically plausible edits.
 
-▲ 23 • 💬 1 • ⭐ 40 • 3d ago
+▲ 24 • 💬 1 • ⭐ 40 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11799) • [💻 code](https://github.com/Aleafy/V-RGBX) • [🔗 project](https://aleafy.github.io/vrgbx/)
 
@@ -631,7 +631,7 @@ Wan-Move enhances motion control in video generative models by integrating motio
 
 A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
 
-▲ 6 • 💬 1 • ⭐ 51,101 • 13mo ago
+▲ 6 • 💬 1 • ⭐ 51,121 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.5k • 🔱 376 • 11h ago
+⭐ 3.5k • 🔱 377 • 11h ago
 
 ---
 
@@ -717,7 +717,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 865 • 🔱 49 • 7h ago
+⭐ 865 • 🔱 49 • 8h ago
 
 ---
 
@@ -727,7 +727,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 739 • 🔱 107 • 17h ago
+⭐ 739 • 🔱 107 • 18h ago
 
 ---
 
@@ -737,7 +737,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 708 • 🔱 109 • 3d ago
+⭐ 708 • 🔱 110 • 3d ago
 
 ---
 
