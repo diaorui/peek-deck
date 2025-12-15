@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T04:04:52.853508+00:00'
+updated: '2025-12-15T04:50:25.452796+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 04:04 UTC  
+**Last Updated:** December 15, 2025 at 04:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -3.8%  
-**30d:** -5.1%  
-**90d:** -23.2%  
-**1y:** -15.6%  
+**24h:** -0.3%  
+**7d:** -3.4%  
+**30d:** -4.8%  
+**90d:** -23.0%  
+**1y:** -15.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1782.66B
+**Market Cap:** $1789.79B
 Rank #1
 
 **Circulating Supply:** 19,962,231 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.2%
+-28.9%
 
 **All-Time Low:** $67.81
-+131618.0%
++132112.1%
 
 ---
 
@@ -79,39 +79,13 @@ Rank #1
 
 **[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
 
-6h ago
+7h ago
 
 ---
 
 **[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
 
-10h ago
-
----
-
-**[I am now a whole coiner](https://www.reddit.com/r/Bitcoin/comments/1pmnnkq/i_am_now_a_whole_coiner/)**
-
-Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
-
-7h ago
-
----
-
-**[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
-
 11h ago
-
----
-
-**[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
-
-4h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
-
-13h ago
 
 ---
 
@@ -123,6 +97,26 @@ I just sold my 2024 Mustang that I bought brand new last year for $55,676 — en
 
 ---
 
+**[I am now a whole coiner](https://www.reddit.com/r/Bitcoin/comments/1pmnnkq/i_am_now_a_whole_coiner/)**
+
+Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
+
+8h ago
+
+---
+
+**[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
+
+5h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
+
+14h ago
+
+---
+
 **[When in doubt, zoom out 📈](https://www.reddit.com/r/Bitcoin/comments/1pmu9t8/when_in_doubt_zoom_out/)**
 
 5 years ago, I bet with a random Redditor that the price would never dip below $15K. The bet would settle if the dip never happens before the end of 2025, or if we reached $100K before that time. When the price did hit $100K, I reached out. Fast forward to today, and this legend logged in their account, saw my DM and actually honored the bet! Just wanted to give them a shout-out for following through. All settled over Lightning of course.
@@ -131,9 +125,15 @@ I just sold my 2024 Mustang that I bought brand new last year for $55,676 — en
 
 ---
 
+**[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
+
+12h ago
+
+---
+
 **[Not again 😩 No more dip](https://www.reddit.com/r/Bitcoin/comments/1pmsjz5/not_again_no_more_dip/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ I just sold my 2024 Mustang that I bought brand new last year for $55,676 — en
 
 I have empty hands
 
-5h ago
+6h ago
 
 ---
 
@@ -151,7 +151,7 @@ I have empty hands
 
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -159,29 +159,31 @@ The Block • 5h ago
 
 Bitcoin traded below $90,000 in quiet Sunday trading as crypto markets consolidated ahead of U.S. inflation data and central bank events.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Asia Morning Briefing: Bitcoin Drifts Near $89K as Traders Step Back and Balance Sheets Step In](https://www.coindesk.com/markets/2025/12/15/asia-morning-briefing-bitcoin-drifts-near-usd89k-as-traders-step-back-and-balance-sheets-step-in)**
+**[Why Bitcoin Price is Going Down Today?](https://www.tradingview.com/news/coinpedia:a64cb1a6d094b:0-why-bitcoin-price-is-going-down-today/)**
 
-FlowDesk sees fading post-Fed demand and low leverage, while Glassnode data show digital asset treasuries quietly resuming bitcoin accumulation in a range-bound market.
+Bitcoin price is trading below $90,000 and has now slipped under $89,000, changing hands near $88,794, down 1.46% in the last 24 hours.One of the reasons behind today’s drop is growing concern over a possible interest rate hike by the Bank of Japan (BoJ).Although no official rate increase has been…
 
-CoinDesk • 1h ago
-
----
-
-**[Crypto winter could spur 'Darwinian phase' for digital asset treasury companies](https://finance.yahoo.com/news/crypto-winter-could-spur-darwinian-phase-for-digital-asset-treasury-companies-150010208.html)**
-
-Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
-
-Yahoo Finance • 6h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+**[3 Reasons Why Bullish Bitcoin Price Predictions Still Hold](https://finance.yahoo.com/news/3-reasons-why-bullish-bitcoin-121812190.html)**
 
-Reuters • 2h ago
+Bitcoin price prediction to $180,000 remains in focus as hidden signals emerge. Here’s why bulls aren’t backing off yet.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Asia Market Open: Bitcoin Edges Lower As Stocks Retreat On Clouded Tech Outlook](https://finance.yahoo.com/news/asia-market-open-bitcoin-edges-040432755.html)**
+
+Bitcoin slipped below $90,000 on Friday as Asian markets started the final full trading week of 2025 on a weaker footing, with growing doubts over technology earnings weighing on risk appetite across equities and crypto alike.Equity futures pointed to losses for Australian, Hong Kong and Japanese benchmarks in early trading ...
+
+Yahoo Finance • 46m ago
 
 ---
 
@@ -191,9 +193,17 @@ Investor's Business Daily • 2d ago
 
 ---
 
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100 By Reuters](https://www.investing.com/news/stock-market-news/bitcoin-hoarding-company-strategy-remains-in-nasdaq-100-4407140)**
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
-Investing.com • 2h ago
+Reuters • 3h ago
+
+---
+
+**[Jim Cramer on Strategy Inc: “I Think You Should Just Own Bitcoin”](https://finance.yahoo.com/news/jim-cramer-strategy-inc-think-153441432.html)**
+
+Strategy Inc (NASDAQ:MSTR) is one of the stocks on Jim Cramer’s radar recently. A caller asked Cramer’s one-year performance projection for the stock, and here’s what he had to say: “Well, look, let’s leave it like this, they call it now Strategy, but I like Bitcoin and I think you should just own Bitcoin. I […]
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -201,7 +211,7 @@ Investing.com • 2h ago
 
 Key PointsCardano is approaching one of its largest-ever growth opportunities.
 
-Nasdaq • 9h ago
+Nasdaq • 10h ago
 
 ---
 
@@ -210,14 +220,6 @@ Nasdaq • 9h ago
 Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
 
 Bloomberg.com • 2d ago
-
----
-
-**[Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access](https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access)**
-
-Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative.
-
-CoinDesk • 1d ago
 
 ---
 
@@ -295,7 +297,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 1K • 💬 121 • ⏱️ 9:35 • 4h ago
+👁️ 15K • 👍 1K • 💬 121 • ⏱️ 9:35 • 5h ago
 
 ---
 
@@ -305,7 +307,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 1K • 💬 70 • ⏱️ 14:17 • 4h ago
+👁️ 9K • 👍 1K • 💬 70 • ⏱️ 14:17 • 5h ago
 
 ---
 
@@ -315,7 +317,7 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 66K • 👍 5K • 💬 383 • ⏱️ 17:53 • 12h ago
+👁️ 66K • 👍 5K • 💬 383 • ⏱️ 17:53 • 13h ago
 
 ---
 
@@ -345,7 +347,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 511 • 💬 96 • ⏱️ 3:45 • 7h ago
+👁️ 4K • 👍 511 • 💬 96 • ⏱️ 3:45 • 8h ago
 
 ---
 
@@ -365,7 +367,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 336 • 💬 27 • ⏱️ 18:38 • 12h ago
+👁️ 7K • 👍 336 • 💬 27 • ⏱️ 18:38 • 13h ago
 
 ---
 

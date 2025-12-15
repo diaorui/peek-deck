@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T04:04:52.862933+00:00'
+updated: '2025-12-15T04:50:25.466990+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 04:04 UTC  
+**Last Updated:** December 15, 2025 at 04:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 RIP, between the failed Amazon acquisition and the stiff competition this was a long time coming but still very sad. Theyre being bought by their Chinese manufacturer, which I found interesting when there are so many Chinese competitors in the market. I wonder if they will try to continue the brand.
 
-🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 56m ago
+🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 1h ago
 
 ---
 
@@ -52,7 +52,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on th
 
 From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/status/1999619292594340271 Zipline (drone delivery company) - Wikipedia: https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company))
 
-17h ago
+18h ago
 
 ---
 
@@ -68,7 +68,15 @@ From Keller Cliffton (Founder and CEO of Zipline) on 𝕏: https://x.com/Keller/
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
-16h ago
+17h ago
+
+---
+
+**[How do you guys plan routes for mobile cameras?](https://www.reddit.com/r/robotics/comments/1pmypxe/how_do_you_guys_plan_routes_for_mobile_cameras/)**
+
+Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
+
+6m ago
 
 ---
 
@@ -76,19 +84,19 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/1999712278204285361
 
 I ran into a video on youtube of a 6 DOFs robot arm protoype. Interestingly, the designer places the 3 motors of J4, J5, and J6 in the elbow. J4 and J6 can rotate infinitely. Sadly, the creator never updated about this again, nor he ever elaborated about the design even though there were so many people that asked about the transmission system specifically.
 
-17h ago
+18h ago
 
 ---
 
 **[MuJoCo-rs 2.2.0: New release of Rust bindings and idiomatic wrappers around the MuJoCo simulation library](https://www.reddit.com/r/robotics/comments/1pmmtdp/mujocors_220_new_release_of_rust_bindings_and/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Manus Data Capture Glove Live Demo: Precision Hand Tracking](https://www.reddit.com/r/robotics/comments/1pm8jhn/manus_data_capture_glove_live_demo_precision_hand/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -100,29 +108,21 @@ Science Advances: Loop closure grasping: Topological transformations enable stro
 
 ---
 
-**[Reachy mini - local setup](https://www.reddit.com/r/robotics/comments/1pmh70c/reachy_mini_local_setup/)**
-
-Hello! I got a Reachy Mini (the wireless version) and I’m receiving it next week! I want to be able to run my models locally but I’m afraid I don’t have the right setup for this. In total what I have is a MacBook Pro Max M1 (64Go) and an MSI with a 4080. We also have a Lenovo with 5080 but that’s my husband’s and I want my own 😅 Is it worth it to get a 5090? Or would a 5080 do the job? It’s for research purposes (solo) and experimenting with nice powerful models. And do you have a more wallet friendly approach? Also do you recommend just buying the computer or building one? (Which option is cheaper?)
-
-🔗 [huggingface.co](https://huggingface.co/blog/reachy-mini) • 12h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
-**[Butler reboot: European firm to deploy 10,000 household humanoid robots in factories](https://interestingengineering.com/ai-robotics/1x-to-deploy-humanoid-robots-for-warehouses)**
+**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
 
-1X has partnered with EQT to make up to 10,000 Neo humanoid robots available to more than 300 companies between 2026 and 2030.
+The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-Interesting Engineering • 2d ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -130,7 +130,7 @@ Interesting Engineering • 2d ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 13h ago
+InvestorPlace • 14h ago
 
 ---
 
@@ -150,11 +150,19 @@ CNET • 20h ago
 
 ---
 
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
+**[Humanoid robots take center stage at Silicon Valley summit, but skepticism remains](https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616)**
 
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
+The commercial boom in artificial intelligence has sparked interest in humanoid robots. Venture capitalist Modar Alaoui, founder of the Humanoids Summit, gathered over 2,000 people, including top engineers from Disney and Google, to showcase technology and discuss the future of humanoids.
 
-Fortune • 1d ago
+AP News • 2d ago
+
+---
+
+**[Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm)**
+
+Ghost Robotics' Vision 60 gets a new arm, enhancing its capabilities for military and public safety use.
+
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -166,19 +174,11 @@ PR Newswire • 4h ago
 
 ---
 
-**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://finance.yahoo.com/news/94-billion-robotics-market-set-194400551.html)**
+**[Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics](https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/)**
 
-This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
+Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and autonomous machines need real-time intelligence to…
 
-Yahoo Finance • 1d ago
-
----
-
-**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
-
-The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
-
-The Motley Fool • 8h ago
+NVIDIA Developer • 3d ago
 
 ---
 
@@ -186,7 +186,7 @@ The Motley Fool • 8h ago
 
 iRobot survived three decades of competition, but couldn't survive European regulators killing its Amazon buyout. Now it's being taken over by its own supplier in bankruptcy court.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 

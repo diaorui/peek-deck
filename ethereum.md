@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T04:04:52.859629+00:00'
+updated: '2025-12-15T04:50:25.463379+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 04:04 UTC  
+**Last Updated:** December 15, 2025 at 04:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,032.56
+### $3,109.41
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -6.3%  
-**30d:** +0.3%  
-**90d:** -32.2%  
-**1y:** -22.0%  
+**24h:** +0.2%  
+**7d:** -5.9%  
+**30d:** +0.7%  
+**90d:** -31.9%  
+**1y:** -21.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.40B
+**Market Cap:** $376.70B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-36.9%
 
 **All-Time Low:** $0.43
-+718491.4%
++720738.7%
 
 ---
 
@@ -152,27 +152,11 @@ Hi, total crypto newbie here. I need some guidance and expert advice on the best
 
 ## Google News: "ethereum"
 
-**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://finance.yahoo.com/news/xrp-launching-ethereum-solana-heres-201721726.html)**
-
-The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
-
-Yahoo Finance • 2d ago
-
----
-
 **[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
 
 The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
 
 Decrypt • 2d ago
-
----
-
-**[XRP Price Analysis: Wrapped XRP Goes Live on Solana, Ethereum in Ripple Boost](https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem)**
-
-Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges.
-
-CoinDesk • 2d ago
 
 ---
 
@@ -184,19 +168,19 @@ AMBCrypto • 1d ago
 
 ---
 
+**[Ethereum Price Could Be Silently Nearing a Breakout, Here’s Why](https://finance.yahoo.com/news/ethereum-price-could-silently-nearing-183000491.html)**
+
+Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
+
+Yahoo Finance • 10h ago
+
+---
+
 **[Ethereum Forms Wyckoff Breakout Setup: $10,000 Price Target Back In Focus](https://www.tradingview.com/news/newsbtc:fae39eed8094b:0-ethereum-forms-wyckoff-breakout-setup-10-000-price-target-back-in-focus/)**
 
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
 TradingView — Track All Markets • 12h ago
-
----
-
-**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
-
-Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
-
-BeInCrypto • 9h ago
 
 ---
 
@@ -216,17 +200,33 @@ CoinDesk • 2d ago
 
 ---
 
+**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
+
+Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
+
+Nasdaq • 17h ago
+
+---
+
 **[Firedancer is live, but Solana is violating the one safety rule Ethereum treats as non-negotiable](https://cryptoslate.com/firedancer-is-live-but-solana-is-violating-the-one-safety-rule-ethereum-treats-as-non-negotiable/)**
 
 Firedancer could start a new wave of adoption for Solana, especially from institutions that see a mitigated centralization risk from its validators.
 
-CryptoSlate • 7h ago
+CryptoSlate • 8h ago
 
 ---
 
 **[Ethereum ETF Sees 21% Surge in AUM Amidst Market Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-21-surge-in-aum-amidst-market-volatility)**
 
-TipRanks • 17h ago
+TipRanks • 18h ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-latest-news-analyst-forecasts-and-whats-driving-the-ethereum-treasury-trade-dec-12-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock: Latest News, Analyst Forecasts, and What’s Driving the Ethereum-Treasury Trade (Dec. 12, 2025) - TechStock²
+
+ts2.tech • 2d ago
 
 ---
 
@@ -260,7 +260,7 @@ We have covered the bull case extensively—the dividends, the MAVAN launch, and
 
 📺 Wall Street Stockcast
 
-👁️ 675 • 👍 28 • 💬 18 • ⏱️ 10:35 • 6h ago
+👁️ 675 • 👍 28 • 💬 18 • ⏱️ 10:35 • 7h ago
 
 ---
 
@@ -320,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:34 • 23h ago
+👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:34 • 1d ago
 
 ---
 

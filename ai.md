@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T04:04:52.844833+00:00'
+updated: '2025-12-15T04:50:25.443432+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - news
 - repositories
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 04:04 UTC  
+**Last Updated:** December 15, 2025 at 04:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Instead, she looks to hire software engineers with AI fluency to her startup tha
 
 Grass has jumped from a simple concept to a multi-million dollar, airdrop rewarding, revenue-generating AI data network with real traction They are projecting $12.8M in revenue this quarter, and adoption has exploded to 8.5M monthly active users in just 2 years. 475K on Discord, 573K on Twitter Season 1 Grass ended with an Airdrop to users based on accumulated Network Points. Grass Airdrop Season 2 is coming soon with even better rewards In October, Grass raised $10M, and their multimodal repository has passed 250 petabytes. Grass now operates at the lowest sustainable cost structure in the residential proxy sector Grass already provides core data infrastructure for multiple AI labs and is running trials of its SERP API with leading SEO firms. This API is the first step toward Live Context Retrieval, real-time data streams for AI models. LCR is shaping up to be one of the biggest future products in the AI data space and will bring higher-frequency, real-time on-chain settlement that increases Grass token utility If you want to earn ahead of Airdrop 2, you can stack up points by just using your Android phone or computer regularly. And the points will be worth Grass tokens that can be sold for money after Airdrop 2 You can register here with your email and start farming And you can find out more at grass.io
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Grass has jumped from a simple concept to a multi-million dollar, airdrop reward
 
 A lot of AI image tools are powerful, but they rely heavily on long, precise prompts. That works, but it also creates friction when you just want to change one small thing. I ran into this problem enough times that I started experimenting with a different interaction for myself. Instead of re-writing prompts, I tried pointing at the exact area in the image and describing the change in a few words. It made me wonder if spatial guidance can sometimes work better than text alone. I am curious how people here think about human in the loop interfaces like this. When does pointing beat prompting?
 
-16h ago
+17h ago
 
 ---
 
@@ -97,7 +97,7 @@ A lot of AI image tools are powerful, but they rely heavily on long, precise pro
 
 Hi everyone, I love LLMs for summarizing documents, but I work with some sensitive data (contracts/personal finance) that I strictly refuse to upload to the cloud. I realized many people are stuck between "not using AI" or "giving away their data". So, I built a simple, local RAG (Retrieval-Augmented Generation) pipeline that runs 100% offline on my MacBook. The Stack (Free & Open Source): Engine: Ollama (Running Llama 3 8b) Glue: Python + LangChain Memory: ChromaDB (Vector Store) It’s surprisingly fast. It ingests a PDF, chunks it, creates embeddings locally, and then I can chat with it without a single byte leaving my WiFi. I made a video tutorial walking through the setup and the code. (Note: Audio is Spanish, but code/subtitles are universal): 📺 https://youtu.be/sj1yzbXVXM0?si=s5mXfGto9cSL8GkW 💻 https://gist.github.com/JoaquinRuiz/e92bbf50be2dffd078b57febb3d961b2 Are you guys using any specific local UI for this, or do you stick to CLI/Scripts like me?
 
-17h ago
+18h ago
 
 ---
 
@@ -139,15 +139,15 @@ The New Yorker • 2d ago
 
 ---
 
-**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
+**[AI Is Getting Dangerously Good at Political Persuasion](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion)**
 
-The Economist • 16h ago
+Bloomberg.com • 20m ago
 
 ---
 
-**[Asia stocks sink as AI doubts batter tech; weak China data weighs](https://www.investing.com/news/stock-market-news/asia-stocks-sink-as-ai-doubts-batter-tech-weak-china-data-weighs-4407152)**
+**[Job apocalypse? Humbug! AI is creating brand new occupations](https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations)**
 
-Investing.com • 1h ago
+The Economist • 17h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Guardian • 16h ago
 
 ---
 
-**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqdl2elxzJjkCoUjadtrwTWfHtqCy7ZeT5dagHV0Vl66OnUjydR39iu7&gaa_ts=693f8c4d&gaa_sig=zPt81WkGuxRn0XkHM9ilvv_FsHxHmNxeLv-wAeeqJ75EZcfepbZbPDkXFgGF3xRIr_Sz4cTuGO-cIirSFC9-TA%3D%3D)**
+**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqd8ZJw_7VMatiXX40dEZCEpBs02PpnmK6Q7WYSdXCWiVGueQibMh9aU&gaa_ts=693f96fd&gaa_sig=_5qYCTUvsDJ15Mj9na16qCS4yAqiEJmOwcg7yHVDjNnh6HhH8vNZvTHNHtfVdNEuUfGyFNvl-KalOTgwObg0sw%3D%3D)**
 
 The Wall Street Journal • 6h ago
 
@@ -207,7 +207,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 219 • 💬 95 • 14h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 221 • 💬 96 • 15h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -223,7 +223,7 @@ A summary of the techniques in place to protect my git forge
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 143 • 💬 201 • 15h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 144 • 💬 201 • 16h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -231,7 +231,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 131 • 💬 87 • 1d ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 131 • 💬 88 • 1d ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -243,6 +243,14 @@ Educators can show in secondary school maths that AI systems don’t think, maki
 
 ---
 
+**[Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted](https://news.ycombinator.com/item?id=46268844)**
+
+Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
+
+⬆️ 100 • 💬 84 • 4h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+
+---
+
 **[New Kindle feature uses AI to answer questions about books](https://news.ycombinator.com/item?id=46248417)**
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
@@ -251,19 +259,11 @@ The new feature, called Ask this Book, is already drawing controversy and unansw
 
 ---
 
-**[Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted](https://news.ycombinator.com/item?id=46268844)**
-
-Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
-
-⬆️ 80 • 💬 75 • 3h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
-
----
-
 **[AI agents are starting to eat SaaS](https://news.ycombinator.com/item?id=46268452)**
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 76 • 💬 95 • 4h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 78 • 💬 98 • 5h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -383,7 +383,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 277,583 • ❤️ 2,710 • 6d ago
+⬇️ 277,583 • ❤️ 2,711 • 6d ago
 
 ---
 
@@ -419,7 +419,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 15,778 • ❤️ 337 • 11h ago
+⬇️ 15,778 • ❤️ 337 • 12h ago
 
 ---
 
@@ -455,7 +455,7 @@ SamKash-Tolstoy is a lightweight LoRA adapter for text generation, specialized i
 
 `text-generation`
 
-⬇️ 11,439 • ❤️ 729 • 17d ago
+⬇️ 11,439 • ❤️ 741 • 17d ago
 
 ---
 
@@ -479,7 +479,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 4,725 • ❤️ 205 • 11h ago
+⬇️ 4,725 • ❤️ 205 • 12h ago
 
 ---
 
@@ -641,7 +641,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 14.7k • 🔱 2.3k • 7m ago
+⭐ 14.7k • 🔱 2.3k • 53m ago
 
 ---
 
@@ -651,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.0k • 🔱 334 • 10h ago
+⭐ 3.0k • 🔱 334 • 11h ago
 
 ---
 
@@ -711,7 +711,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 861 • 🔱 49 • 6h ago
+⭐ 861 • 🔱 49 • 7h ago
 
 ---
 
