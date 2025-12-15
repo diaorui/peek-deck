@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T22:20:19.825738+00:00'
+updated: '2025-12-15T22:41:23.733020+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 22:20 UTC  
+**Last Updated:** December 15, 2025 at 22:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,088.48
+### $86,077.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -7.4%  
-**30d:** -8.7%  
-**90d:** -26.1%  
-**1y:** -18.7%  
+**24h:** -2.8%  
+**7d:** -7.7%  
+**30d:** -9.0%  
+**90d:** -26.4%  
+**1y:** -19.0%  
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 Are you still buying?
 
-6h ago
+7h ago
 
 ---
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -101,13 +101,13 @@ Are you still buying?
 
 Buy some bitcoin and store it.
 
-7h ago
+8h ago
 
 ---
 
 **[The best ever gift to receive? what have u done if u had got this gift](https://www.reddit.com/r/Bitcoin/comments/1pn7aw1/the_best_ever_gift_to_receive_what_have_u_done_if/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 **[Bitcoin Holders: Bull Market vs. Bear Market](https://www.reddit.com/r/Bitcoin/comments/1pnf280/bitcoin_holders_bull_market_vs_bear_market/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many time
 
 Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 17h ago
 
 Crypto-related stocks suffered far deeper declines as bitcoin slumped well below its recent trading range.
 
-CoinDesk • 44m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -185,13 +185,13 @@ The Motley Fool • 1h ago
 
 Bitcoin SV (BSV) investors had their appeal refused by the UK Supreme Court, dismissing a $13 billion claim in the process.
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcvTlOS7aVL1WSCcEJHPvpVuz4xLbab2osb4y9h3MHevOAgNhl1brxU&gaa_ts=69408d07&gaa_sig=b1g2EYXcuZxzZ1HAzExp0B8xMdEUvseiXZQcvlztz7kp8KLBi_C9JX-QBcJ5QQjz00dFY1Z6xqPw7RbsRauN3w%3D%3D)**
 
-Barron's • 3h ago
+Barron's • 4h ago
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning wheth
 
 📺 The Wolf Of All Streets
 
-👁️ 20K • 👍 1K • 💬 244 • ⏱️ 1:05:55 • 6h ago
+👁️ 20K • 👍 1K • 💬 244 • ⏱️ 1:05:55 • 7h ago
 
 ---
 
@@ -321,7 +321,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 185 • ⏱️ 52:24 • 6h ago
+👁️ 24K • 👍 1K • 💬 185 • ⏱️ 52:24 • 7h ago
 
 ---
 
@@ -331,7 +331,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 696 • 💬 129 • ⏱️ 23:41 • 5h ago
+👁️ 12K • 👍 696 • 💬 129 • ⏱️ 23:41 • 6h ago
 
 ---
 
@@ -351,7 +351,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 2K • 💬 428 • ⏱️ 9:35 • 22h ago
+👁️ 65K • 👍 2K • 💬 428 • ⏱️ 9:35 • 23h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 2K • 💬 203 • ⏱️ 14:17 • 22h ago
+👁️ 44K • 👍 2K • 💬 203 • ⏱️ 14:17 • 23h ago
 
 ---
 
@@ -381,7 +381,7 @@ Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!*
 
 📺 Crypto Casey
 
-👁️ 11K • 👍 1K • 💬 116 • ⏱️ 14:34 • 5h ago
+👁️ 11K • 👍 1K • 💬 116 • ⏱️ 14:34 • 6h ago
 
 ---
 

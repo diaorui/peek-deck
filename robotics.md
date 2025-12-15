@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T22:20:19.835055+00:00'
+updated: '2025-12-15T22:41:23.742207+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 22:20 UTC  
+**Last Updated:** December 15, 2025 at 22:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on th
 
 **[Custom Differential Drive Robot | ESP32 + micro-ROS + ROS 2 + PID Control (Video)](https://www.reddit.com/r/robotics/comments/1pn389p/custom_differential_drive_robot_esp32_microros/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 1d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -178,7 +178,7 @@ Seeking Alpha • 3h ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 11h ago
+InvestorPlace • 12h ago
 
 ---
 
@@ -208,7 +208,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 7K • 👍 168 • 💬 17 • ⏱️ 1:05 • 7h ago
+👁️ 7K • 👍 168 • 💬 17 • ⏱️ 1:05 • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ This self aware robot escaped... (and he's after US) Like and subscribe. socials
 
 📺 Qerello
 
-👁️ 4K • 👍 266 • 💬 42 • ⏱️ 12:54 • 21h ago
+👁️ 4K • 👍 266 • 💬 42 • ⏱️ 12:54 • 22h ago
 
 ---
 

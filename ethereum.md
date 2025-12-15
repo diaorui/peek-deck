@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T22:20:19.831817+00:00'
+updated: '2025-12-15T22:41:23.738974+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 22:20 UTC  
+**Last Updated:** December 15, 2025 at 22:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.9%  
-**7d:** -11.3%  
-**30d:** -5.0%  
-**90d:** -35.8%  
+**24h:** -4.0%  
+**7d:** -11.4%  
+**30d:** -5.1%  
+**90d:** -35.9%  
 **1y:** -26.1%  
 
 ---
@@ -104,7 +104,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-3h ago
+4h ago
 
 ---
 
@@ -238,7 +238,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 5K • 👍 529 • 💬 41 • ⏱️ 13:11 • 1h ago
+👁️ 5K • 👍 529 • 💬 41 • ⏱️ 13:11 • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 1K • 👍 161 • 💬 24 • ⏱️ 10:03 • 6h ago
+👁️ 1K • 👍 161 • 💬 24 • ⏱️ 10:03 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 69 • 👍 6 • 💬 1 • ⏱️ 7:19 • 57m ago
+👁️ 69 • 👍 6 • 💬 1 • ⏱️ 7:19 • 1h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 171 • 💬 10 • ⏱️ 6:25 • 18h ago
+👁️ 3K • 👍 171 • 💬 10 • ⏱️ 6:25 • 19h ago
 
 ---
 
