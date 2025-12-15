@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T17:37:19.931972+00:00'
+updated: '2025-12-15T17:54:20.924813+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - repositories
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 17:37 UTC  
+**Last Updated:** December 15, 2025 at 17:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 3h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/wa
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 2h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 Now RAM prices are hitting record highs, because it's more profitable for manufacturers to sell specialized RAM to data centers than it is to you. Other chips overpriced too. Electricity price is ramping up, since tech giants need more and more of it, and are willing to pay higher and higher prices - more than you for sure. What's next, drinking water? Air? It's like reality is being warped by AI instead of people.
 
-38m ago
+55m ago
 
 ---
 
@@ -103,7 +103,7 @@ Also: All the news and watercooler chat from Fortune.
 
 TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
 
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 17h ago
+🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 18h ago
 
 ---
 
@@ -111,7 +111,7 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
 
-8h ago
+9h ago
 
 ---
 
@@ -135,13 +135,13 @@ Axios • 3h ago
 
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
 **[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqdj-mLXa9ebK9ToC8DjpSRqwKjkpeynjYaorlN8hfs1sbXCJ5qtB-tL&gaa_ts=69404ab0&gaa_sig=h4ACAToFjgEEAXnskmqG2MvIPCBOAv1LhxgCCWaRuP52sKXusmmr0OwjzLT52LD27aEz7FROe4mQ0VjBFwVaMA%3D%3D)**
 
-The Wall Street Journal • 13h ago
+The Wall Street Journal • 14h ago
 
 ---
 
@@ -221,7 +221,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 293 • 💬 290 • 17h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 293 • 💬 290 • 18h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -313,7 +313,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 542K • 👍 31K • 💬 3K • ⏱️ 11:22 • 14h ago
+👁️ 542K • 👍 31K • 💬 3K • ⏱️ 11:22 • 15h ago
 
 ---
 
@@ -533,6 +533,18 @@ PersonaLive is a diffusion-based framework for real-time portrait animation that
 
 ---
 
+**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+
+*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+
+DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+
+▲ 19 • 💬 2 • ⭐ 12,310 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -561,18 +573,6 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
-
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
-
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
-
-▲ 19 • 💬 2 • ⭐ 12,226 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
-
----
-
 **[V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties](https://huggingface.co/papers/2512.11799)**
 
 *Ye Fang, Tong Wu, Valentin Deschaintre et al. (9 authors)*
@@ -587,19 +587,6 @@ V-RGBX is an end-to-end framework for intrinsic-aware video editing that combine
 
 ---
 
-**[The Well: a Large-Scale Collection of Diverse Physics Simulations for
-  Machine Learning](https://huggingface.co/papers/2412.00568)**
-
-*Ruben Ohana, Michael McCabe, Lucas Meyer et al. (26 authors)*
-
-A large-scale dataset collection, The Well, provides diverse numerical simulations for benchmarking machine learning models in physical systems simulation.
-
-▲ 23 • 💬 2 • ⭐ 1,583 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.00568) • [💻 code](https://github.com/PolymathicAI/the_well)
-
----
-
 **[Promptomatix: An Automatic Prompt Optimization Framework for Large
   Language Models](https://huggingface.co/papers/2507.14241)**
 
@@ -610,6 +597,19 @@ Promptomatix automates prompt optimization for Large Language Models, improving 
 ▲ 17 • 💬 2 • ⭐ 423 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.14241) • [💻 code](https://github.com/SalesforceAIResearch/promptomatix)
+
+---
+
+**[The Well: a Large-Scale Collection of Diverse Physics Simulations for
+  Machine Learning](https://huggingface.co/papers/2412.00568)**
+
+*Ruben Ohana, Michael McCabe, Lucas Meyer et al. (26 authors)*
+
+A large-scale dataset collection, The Well, provides diverse numerical simulations for benchmarking machine learning models in physical systems simulation.
+
+▲ 23 • 💬 2 • ⭐ 1,590 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.00568) • [💻 code](https://github.com/PolymathicAI/the_well)
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.5k • 🔱 2.4k • 8h ago
+⭐ 15.5k • 🔱 2.4k • 9h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.5k • 🔱 372 • 8h ago
+⭐ 3.5k • 🔱 375 • 8h ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 56m ago
+⭐ 1.1k • 🔱 137 • 1h ago
 
 ---
 
@@ -739,7 +739,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 706 • 🔱 109 • 3d ago
+⭐ 707 • 🔱 109 • 3d ago
 
 ---
 

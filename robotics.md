@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T17:37:19.947745+00:00'
+updated: '2025-12-15T17:54:20.942417+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 17:37 UTC  
+**Last Updated:** December 15, 2025 at 17:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Everything here is done in simulation — from perception to grasping and liftin
 
 Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
 
-12h ago
+13h ago
 
 ---
 
@@ -84,7 +84,7 @@ Been messing around with this little mobile camera, it’s about the size of a c
 
 IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-robotics/Reachy_Mini_Assembly_Guide
 
-1h ago
+2h ago
 
 ---
 
@@ -148,7 +148,7 @@ PR Newswire • 17h ago
 
 They make robot vacuums, lots of them
 
-The Verge • 8h ago
+The Verge • 9h ago
 
 ---
 
@@ -210,7 +210,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 2K • 👍 95 • 💬 8 • ⏱️ 1:05 • 2h ago
+👁️ 2K • 👍 95 • 💬 8 • ⏱️ 1:05 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T17:37:19.939542+00:00'
+updated: '2025-12-15T17:54:20.933260+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 17:37 UTC  
+**Last Updated:** December 15, 2025 at 17:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,024.00
+### $85,652.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.5%  
-**7d:** -7.7%  
-**30d:** -9.0%  
-**90d:** -26.4%  
-**1y:** -19.0%  
+**24h:** -3.8%  
+**7d:** -7.9%  
+**30d:** -9.2%  
+**90d:** -26.5%  
+**1y:** -19.2%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Are you still buying?
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
 **[Ah Shit. Here we go again](https://www.reddit.com/r/Bitcoin/comments/1pnau8j/ah_shit_here_we_go_again/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 4h ago
 
 **[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqf20xltAYfmypHHL2vZ0BSzp2B0bhzXE4LQINqVByYtk4sEAkwx4NsH&gaa_ts=69404ab2&gaa_sig=FIj3sjfI0WAiaroP9TowaYw2caBO_CjUevsL0wI99GQiqwryIyZ3R14uoCtE2FSuutBATC5JrHyiW6dhRKZtdQ%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Tom's Hardware • 2d ago
 
 Roughly 400,000 bitcoin mining machines shut down in China, according to former Canaan chairman.
 
-CoinDesk • 18m ago
+CoinDesk • 35m ago
 
 ---
 
@@ -217,13 +217,13 @@ The Motley Fool • 2h ago
 
 Despite its impressive long-term trajectory, Bitcoin remains a polarizing asset.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[Bitcoin Price Slips Below $90,000, XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqe6wyrjtX31Lj_9RWOai8Acvsvi9EPY04ujuysxuamRliYYkHJEB2SH&gaa_ts=69404ab2&gaa_sig=iVu2hSWzmWd3mRg911nIHtmad5bkbdPGhDcfvOTlJsaCb_CIliR4Zj_lpPFarOlxb7fK7JvytBzpqPnbCyfdHQ%3D%3D)**
 
-Barron's • 6h ago
+Barron's • 7h ago
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 9h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 10h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin is flashing a dangerous signal we've only seen a handful of times before
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 285 • 💬 6 • ⏱️ 1:02:20 • 59m ago
+👁️ 3K • 👍 285 • 💬 6 • ⏱️ 1:02:20 • 1h ago
 
 ---
 
@@ -349,7 +349,7 @@ Stay informed with the latest insights on **bitcoin today**, focusing on effecti
 
 📺 Krown
 
-👁️ 2K • 👍 150 • 2h ago
+👁️ 2K • 👍 150 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T17:37:19.944898+00:00'
+updated: '2025-12-15T17:54:20.939208+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - cryptocurrency
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 17:37 UTC  
+**Last Updated:** December 15, 2025 at 17:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,973.00
+### $2,955.37
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.8%  
-**7d:** -10.8%  
-**30d:** -4.4%  
-**90d:** -35.4%  
-**1y:** -25.6%  
+**24h:** -5.1%  
+**7d:** -11.3%  
+**30d:** -5.0%  
+**90d:** -35.9%  
+**1y:** -26.0%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve never bought ETH before, but I’m thinking of getting some exposure now. I know the basics, I just want to buy ETH and move it to self-custody, hardware wallet, cold storage, the works. Plan is to buy and hold long term. Now I’m confused about the best approach. Some exchanges have crazy fees, others don’t allow ETH purchases, and I’ve read horror stories of accounts getting frozen on Binance. I want a safe, hassle-free way to buy ETH and make sure I can move it securely to my own wallet.
 
-25m ago
+42m ago
 
 ---
 
@@ -200,7 +200,7 @@ CCN.com • 4h ago
 
 Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 341 • 👍 49 • 💬 21 • ⏱️ 10:03 • 1h ago
+👁️ 341 • 👍 49 • 💬 21 • ⏱️ 10:03 • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitte
 
 📺 The Blockchain Today
 
-👁️ 632 • 👍 74 • 💬 12 • ⏱️ 3:50 • 6h ago
+👁️ 632 • 👍 74 • 💬 12 • ⏱️ 3:50 • 7h ago
 
 ---
 
