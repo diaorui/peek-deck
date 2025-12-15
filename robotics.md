@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T16:43:42.152405+00:00'
+updated: '2025-12-15T17:05:01.478767+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 16:43 UTC  
+**Last Updated:** December 15, 2025 at 17:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
 
-3h ago
+4h ago
 
 ---
 
@@ -76,7 +76,7 @@ Everything here is done in simulation — from perception to grasping and liftin
 
 Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
 
-11h ago
+12h ago
 
 ---
 
@@ -92,7 +92,7 @@ Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on th
 
 IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-robotics/Reachy_Mini_Assembly_Guide
 
-55m ago
+1h ago
 
 ---
 
@@ -140,7 +140,7 @@ Fortune • 2d ago
 
 /PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
 
-PR Newswire • 16h ago
+PR Newswire • 17h ago
 
 ---
 
@@ -148,7 +148,7 @@ PR Newswire • 16h ago
 
 They make robot vacuums, lots of them
 
-The Verge • 7h ago
+The Verge • 8h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Verge • 7h ago
 
 iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private - TechStock²
 
-ts2.tech • 2h ago
+ts2.tech • 3h ago
 
 ---
 
@@ -194,33 +194,31 @@ IFLScience • 1h ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
-
-We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
-
-📺 CNET
-
-👁️ 246 • 👍 29 • ⏱️ 1:05 • 2h ago
-
----
-
 **[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
 
 0:00 Intro: Big Plans and Major Hurdles for 2026 0:25 The First Challenge: Safety 0:46 The Danger of Hard Bodies and Pinch ...
 
 📺 CNET
 
-👁️ 16K • 👍 470 • 💬 55 • ⏱️ 6:41 • 1d ago
+👁️ 17K • 👍 494 • 💬 60 • ⏱️ 6:41 • 1d ago
 
 ---
 
-**[&quot;Ultra-Realistic Android Girl in Advanced Robotics Lab — 8K Tech Showcase&quot; #robot #humanoid](https://www.youtube.com/watch?v=q3HNfaToS9s)**
+**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
 
-"Ultra-Realistic Android Girl in Advanced Robotics Lab — 8K Tech Showcase" #robot #humanoid A humanoid robot girl leaps ...
+We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
 
-📺 Farooq tv
+📺 CNET
 
-👁️ 26K • 👍 103 • 💬 2 • ⏱️ 0:09 • 1d ago
+👁️ 2K • 👍 95 • 💬 8 • ⏱️ 1:05 • 2h ago
+
+---
+
+**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
+
+📺 AI . Robot
+
+👁️ 66K • 👍 1K • 💬 14 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -230,15 +228,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 129K • 👍 2K • 💬 934 • ⏱️ 14:26 • 6d ago
-
----
-
-**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
-
-📺 AI . Robot
-
-👁️ 54K • 👍 892 • 💬 12 • ⏱️ 0:21 • 1d ago
+👁️ 130K • 👍 2K • 💬 936 • ⏱️ 14:26 • 6d ago
 
 ---
 
@@ -248,15 +238,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 225K • 👍 7K • 💬 250 • ⏱️ 0:34 • 1d ago
-
----
-
-**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
-
-📺 AI . Robot
-
-👁️ 32K • 👍 448 • 💬 10 • ⏱️ 0:16 • 2d ago
+👁️ 233K • 👍 7K • 💬 254 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -266,25 +248,43 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 190K • 👍 924 • 💬 303 • ⏱️ 0:47 • 6d ago
+👁️ 190K • 👍 925 • 💬 303 • ⏱️ 0:47 • 6d ago
 
 ---
 
-**[2025 Robot Expo Unveils New AI Humanoid Robots. #robotics #aihumanoid #robot #futuretech](https://www.youtube.com/watch?v=LV3STsEdQ0A)**
+**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+
+📺 Associated Press
+
+👁️ 27K • 👍 100 • 💬 40 • ⏱️ 1:26 • 2d ago
+
+---
+
+**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
 
 📺 AI . Robot
 
-👁️ 721K • 👍 9K • 💬 118 • ⏱️ 0:17 • 6d ago
+👁️ 33K • 👍 459 • 💬 10 • ⏱️ 0:16 • 2d ago
 
 ---
 
-**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
+**[#elonmusk unveils the #tesla Cyber Drone X2 #hoverbike #robotics #ai #drone](https://www.youtube.com/watch?v=rHxdy_4K2UM)**
 
-I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
+📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-📺 Kyle Krueger
+👁️ 110K • 👍 1K • 💬 22 • ⏱️ 0:11 • 3d ago
 
-👁️ 5.1M • 👍 161K • 💬 3K • ⏱️ 0:51 • 4d ago
+---
+
+**[Review of the Orange Robot Showcased at the December Expo - N178](https://www.youtube.com/watch?v=-JJVG7AGq1Q)**
+
+We review the orange robot showcased at the December Expo, exploring its design, features, and why it stood out to attendees; ...
+
+📺 AI Robots Alive
+
+👁️ 13K • 👍 87 • 💬 1 • ⏱️ 0:08 • 16h ago
 
 ---
 

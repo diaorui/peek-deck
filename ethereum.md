@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T16:43:42.149160+00:00'
+updated: '2025-12-15T17:05:01.475379+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 16:43 UTC  
+**Last Updated:** December 15, 2025 at 17:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,981.74
+### $2,991.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
-**7d:** -10.5%  
-**30d:** -4.2%  
-**90d:** -35.3%  
-**1y:** -25.4%  
+**24h:** -3.7%  
+**7d:** -9.9%  
+**30d:** -3.5%  
+**90d:** -35.1%  
+**1y:** -25.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 4h ago
 
 Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 1h ago
 
 **[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -208,7 +208,7 @@ AMBCrypto • 1d ago
 
 Bitcoin (BTC) is advancing toward $90,000 at the time of writing on Monday, as the broader cryptocurrency market pushes for recovery following last week’s monetary policy-triggered headwinds.
 
-FXStreet • 4h ago
+FXStreet • 5h ago
 
 ---
 
@@ -232,23 +232,43 @@ CoinDesk • 2h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=E57-UT_Vyow)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 957 • 👍 91 • 💬 7 • ⏱️ 5:52 • 2h ago
+
+---
+
+**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
+
+WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
+
+📺 Digital Asset News
+
+👁️ 1K • 👍 109 • 55m ago
+
+---
+
+**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
+
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+
+📺 Crypto With James
+
+👁️ 341 • 👍 49 • 💬 21 • ⏱️ 10:03 • 1h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=qZYRCR8s6kw)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 165 • 💬 9 • ⏱️ 6:25 • 13h ago
-
----
-
-**[Bitcoin’s Next Major Wave Is Taking Shape | Ethereum Signals Strength](https://www.youtube.com/watch?v=FBEpHX-gFAQ)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 3K • 👍 287 • 2h ago
+👁️ 3K • 👍 168 • 💬 9 • ⏱️ 6:25 • 13h ago
 
 ---
 
@@ -258,17 +278,7 @@ Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitte
 
 📺 The Blockchain Today
 
-👁️ 407 • 👍 59 • 💬 11 • ⏱️ 3:50 • 5h ago
-
----
-
-**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
-
-EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
-
-📺 Altcoin Daily
-
-👁️ 67K • 👍 3K • 💬 301 • ⏱️ 31:03 • 2d ago
+👁️ 632 • 👍 74 • 💬 12 • ⏱️ 3:50 • 6h ago
 
 ---
 
@@ -278,7 +288,27 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 358 • ⏱️ 9:35 • 17h ago
+👁️ 56K • 👍 2K • 💬 413 • ⏱️ 9:35 • 17h ago
+
+---
+
+**[Crypto Expert&#39;s Shocking Prediction For Bitcoin, Ethereum, and 2026 Market Crash](https://www.youtube.com/watch?v=C6DjJujR7BY)**
+
+EllioTrdes Interview - Crypto in 2026 YouTube - https://www.youtube.com/@elliotrades_official X - https://x.com/elliotrades ...
+
+📺 Altcoin Daily
+
+👁️ 68K • 👍 3K • 💬 302 • ⏱️ 31:03 • 2d ago
+
+---
+
+**[Why Ethereum Is About To Repeat The &quot;April Fractal&quot; - ETH Bottom Signal](https://www.youtube.com/watch?v=RliBq8RCxjQ)**
+
+History doesn't repeat, but it often rhymes. And right now, the Ethereum chart is rhyming perfectly with April 2025—the exact ...
+
+📺 Wall Street Stockcast
+
+👁️ 250 • 👍 13 • 💬 22 • ⏱️ 29:53 • 2h ago
 
 ---
 
@@ -288,47 +318,17 @@ BITCOIN & ALTCOIN WARNING: It's Getting WORSE (Urgent)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 10K • 👍 399 • 💬 117 • ⏱️ 20:08 • 19h ago
+👁️ 10K • 👍 408 • 💬 149 • ⏱️ 20:08 • 20h ago
 
 ---
 
-**[Raoul Pal: &quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” New 2026 Crypto Cycle Prediction](https://www.youtube.com/watch?v=dK9fW80oEng)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=WNjd5vnNnHo)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 Crypto Nutshell
+📺 Guitar Repair@StringTech
 
-👁️ 20K • 👍 747 • 💬 52 • ⏱️ 20:45 • 2d ago
-
----
-
-**[Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://www.youtube.com/watch?v=zQn3SOPRVm4)**
-
-Ethereum is showing a major bullish signal — one that last time led to a massive 260% price rally. So the big question now is: Can ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 463 • 💬 14 • ⏱️ 48:44 • 3d ago
-
----
-
-**[The Risky Side of BMNR: Dilution, Volatility, and ETH Crashes (Bear Case)](https://www.youtube.com/watch?v=Y7U-zxH5T8Y)**
-
-We have covered the bull case extensively—the dividends, the MAVAN launch, and Tom Lee's supercycle. But a responsible ...
-
-📺 Wall Street Stockcast
-
-👁️ 1K • 👍 36 • 💬 33 • ⏱️ 10:35 • 18h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJcS4Gn5_Ak)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 155 • 💬 5 • ⏱️ 8:04 • 1d ago
+👁️ 10K • 👍 4K • 2d ago
 
 ---
 

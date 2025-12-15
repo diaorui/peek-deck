@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T16:43:42.134641+00:00'
+updated: '2025-12-15T17:05:01.460337+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 16:43 UTC  
+**Last Updated:** December 15, 2025 at 17:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 2h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 RIP Copilot.
 
-🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 15h ago
+🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 16h ago
 
 ---
 
@@ -65,7 +65,7 @@ Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/wa
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 1h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 "And somehow he sort of mostly manages to pull off what appears to be impossible."
 
-🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 14h ago
+🔗 [Fortune](https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/) • 15h ago
 
 ---
 
@@ -81,13 +81,13 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 Also: All the news and watercooler chat from Fortune.
 
-🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 14m ago
+🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 35m ago
 
 ---
 
 **[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.reddit.com/r/artificial/comments/1pnbr3t/google_ai_summaries_are_ruining_the_livelihoods/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion) • 14m ago
+🔗 [bloomberg.com](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion) • 36m ago
 
 ---
 
@@ -95,7 +95,7 @@ Also: All the news and watercooler chat from Fortune.
 
 TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
 
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 16h ago
+🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 17h ago
 
 ---
 
@@ -129,13 +129,13 @@ Axios • 11h ago
 
 If Elon Musk is right, your six-figure salary—and every savings and investment you’ve built—could be irrelevant within a few decades.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
 **[Nvidia buys AI software provider SchedMD to expand open-source AI push](https://www.reuters.com/business/nvidia-buys-ai-software-provider-schedmd-expand-open-source-ai-push-2025-12-15/)**
 
-Reuters • 7m ago
+Reuters • 28m ago
 
 ---
 
@@ -143,7 +143,7 @@ Reuters • 7m ago
 
 A new report from the ABA Task Force on Law and Artificial Intelligence explores artificial intelligence’s impact on the legal profession and provides resources to help lawyers and judges continue to navigate the complex and rapidly changing technology.
 
-ABA Journal • 19m ago
+ABA Journal • 41m ago
 
 ---
 
@@ -151,13 +151,13 @@ ABA Journal • 19m ago
 
 The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
 
-CNN • 14m ago
+CNN • 35m ago
 
 ---
 
 **[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqeHq67nL1GxA6nbXFxebWnB5TAg_c2zkOot41xa1XF-rEglVcbKFwqh&gaa_ts=69403e24&gaa_sig=5JoEtYNthxdDlbXM28XnduoHHXrx-7d7uUDgTsN9aN0mMpj80_lVq5OVn9OUZvHZ03s9sJErLDq90dNbZ-ebyA%3D%3D)**
 
-The Wall Street Journal • 18h ago
+The Wall Street Journal • 19h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Economist • 1d ago
 
 AI Mode is mangling recipes by merging instructions from multiple creators – and causing them huge dips in ad traffic
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Guardian • 1h ago
 
 Four ways to think about this year's reckoning
 
-MIT Technology Review • 6h ago
+MIT Technology Review • 7h ago
 
 ---
 
@@ -221,7 +221,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 278 • 💬 277 • 16h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 278 • 💬 277 • 17h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -283,7 +283,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 410K • 👍 7K • 💬 925 • ⏱️ 1:21:07 • 2d ago
+👁️ 424K • 👍 7K • 💬 952 • ⏱️ 1:21:07 • 2d ago
 
 ---
 
@@ -293,7 +293,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 31K • 👍 1K • 💬 132 • ⏱️ 12:07 • 17h ago
+👁️ 33K • 👍 1K • 💬 139 • ⏱️ 12:07 • 18h ago
 
 ---
 
@@ -303,7 +303,17 @@ Our Discord Community (FREE): https://discord.com/invite/Efbjh7Qj4V Review our s
 
 📺 2 and 20
 
-👁️ 130K • 👍 5K • 💬 693 • ⏱️ 12:40 • 2d ago
+👁️ 147K • 👍 6K • 💬 743 • ⏱️ 12:40 • 2d ago
+
+---
+
+**[AI Pranks Are Trash](https://www.youtube.com/watch?v=8Z9Oe-8rfEA)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+
+📺 penguinz0
+
+👁️ 542K • 👍 31K • 💬 3K • ⏱️ 11:22 • 14h ago
 
 ---
 
@@ -313,7 +323,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 60K • 👍 3K • 💬 380 • ⏱️ 20:44 • 16h ago
+👁️ 68K • 👍 3K • 💬 401 • ⏱️ 20:44 • 16h ago
 
 ---
 
@@ -323,17 +333,7 @@ Deploying on Railway feels like magic. Get $20 in free credits to try it out - h
 
 📺 Fireship
 
-👁️ 423K • 👍 17K • 💬 963 • ⏱️ 4:01 • 2d ago
-
----
-
-**[ROTATION AWAY FROM AI STOCKS, AMD TURNS TO SAMSUNG, CONSUMER SPENDING | MARKET OPEN](https://www.youtube.com/watch?v=5KczevwSTvA)**
-
-Welcome to the Lunch Time stock market hour with your host Couch Investor aka Neil. 15% OFF Fiscal AI: https://fiscal.ai/couch ...
-
-📺 Couch Investor
-
-👁️ 2K • 👍 92 • 3h ago
+👁️ 429K • 👍 17K • 💬 979 • ⏱️ 4:01 • 2d ago
 
 ---
 
@@ -343,7 +343,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at why site
 
 📺 SomeOrdinaryGamers
 
-👁️ 77K • 👍 4K • 💬 792 • ⏱️ 19:00 • 1d ago
+👁️ 79K • 👍 4K • 💬 803 • ⏱️ 19:00 • 1d ago
 
 ---
 
@@ -353,7 +353,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 46K • 👍 1K • 💬 283 • ⏱️ 15:01 • 2d ago
+👁️ 46K • 👍 1K • 💬 298 • ⏱️ 15:01 • 2d ago
 
 ---
 
@@ -363,15 +363,17 @@ In the run up to the festive season, the selection of toys on offer seems to get
 
 📺 BBC News
 
-👁️ 18K • 👍 367 • 💬 115 • ⏱️ 3:10 • 2d ago
+👁️ 18K • 👍 370 • 💬 116 • ⏱️ 3:10 • 2d ago
 
 ---
 
-**[COOKED AI responses 52 🥀 #deadinternettheory](https://www.youtube.com/watch?v=t_NveKiEWI0)**
+**[GPT 5.2, realtime video editor, AI stereo videos, mobile AI agents, full body control: AI NEWS](https://www.youtube.com/watch?v=fpAbYRNxYPM)**
 
-📺 Stumb
+INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more #ai #ainews #aitools #aivideo Thanks to our ...
 
-👁️ 623K • 👍 26K • 💬 611 • ⏱️ 0:22 • 16h ago
+📺 AI Search
+
+👁️ 86K • 👍 4K • 💬 436 • ⏱️ 47:09 • 1d ago
 
 ---
 
@@ -647,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.5k • 🔱 2.4k • 7h ago
+⭐ 15.5k • 🔱 2.4k • 8h ago
 
 ---
 
@@ -687,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 2m ago
+⭐ 1.1k • 🔱 137 • 24m ago
 
 ---
 
@@ -727,7 +729,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 736 • 🔱 105 • 13h ago
+⭐ 736 • 🔱 105 • 14h ago
 
 ---
 

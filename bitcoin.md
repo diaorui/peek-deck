@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T16:43:42.143164+00:00'
+updated: '2025-12-15T17:05:01.469226+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 16:43 UTC  
+**Last Updated:** December 15, 2025 at 17:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,386.41
+### $86,258.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.2%  
-**7d:** -7.3%  
-**30d:** -8.6%  
-**90d:** -26.1%  
-**1y:** -18.7%  
+**24h:** -2.8%  
+**7d:** -7.0%  
+**30d:** -8.3%  
+**90d:** -25.8%  
+**1y:** -18.4%  
 
 ---
 
@@ -117,7 +117,7 @@ The bitcoin manipulation is wild esp with Saylor’s buys. He buys almost a bill
 
 **[Time for the Monday Morning Manipulation](https://www.reddit.com/r/Bitcoin/comments/1pn9ek0/time_for_the_monday_morning_manipulation/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
 **[Ah Shit. Here we go again](https://www.reddit.com/r/Bitcoin/comments/1pnau8j/ah_shit_here_we_go_again/)**
 
-49m ago
+1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
 Now banks aren't even required to have reserve deposits! In the United States, as of December 2025, the required reserve ratio for depository institutions (including commercial banks, savings banks, credit unions, and others) is 0%. The Federal Reserve Board set reserve requirement ratios to zero percent effective March 26, 2020, in response to economic conditions, and this policy remains in effect with no announced plans to reinstate them.
 
-4h ago
+5h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bloomberg.com • 1h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -173,13 +173,13 @@ Financial Times • 11h ago
 
 The curse of the U.S. trading session — in which bitcoin tends to fall as American stocks trade — has hit yet again.
 
-CoinDesk • 47m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin Price Slips Below $90,000, XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqduJe_uB-o-IrDsL-dkiWuLAXw66GhMZXquuy1DN1j6TXndICsvORDB&gaa_ts=69403e26&gaa_sig=soxvk2-iZOkr_aY3aeatkpmlWWuC64wx4Nip4v6BlqE9ySshcwOoZdpo3_I9z5Qx4Tt00vTs0tn3Mg5TS_XIbA%3D%3D)**
 
-Barron's • 5h ago
+Barron's • 6h ago
 
 ---
 
@@ -203,13 +203,13 @@ Bitcoin Magazine • 2h ago
 
 Sometimes you are the biggest risk to your portfolio's health.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
 **[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 18h ago
 
 In a recent post, Bloomberg Intelligence’s senior macro strategist Mike McGlone drew a direct parallel between the Bloomberg Galaxy Crypto Index in 2025 and the Dow in 1929, calling the setup "Peak Bitcoin?" and framing the current phase as the early stage of a purge, not a pause — a purge similar…
 
-TradingView — Track All Markets • 55m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -251,7 +251,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 3h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 4h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 8h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 9h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
@@ -303,23 +303,23 @@ Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin
 
 ## YouTube Videos: "bitcoin"
 
-**[Why is Bitcoin STUCK at $90K?! (This Explains Everything)](https://www.youtube.com/watch?v=9Xi0PnWSLto)**
+**[Bitcoin Dumps Below $90K AGAIN! Is The Cycle Top In?](https://www.youtube.com/watch?v=a5ZeFMSR08U)**
 
-Bitcoin's been dropping like clockwork at market open—but is it just normal volatility, or something more sinister? From Japanese ...
+Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning whether 2% inflation is officially dead, while the SEC's ...
 
-📺 Simply Bitcoin
+📺 The Wolf Of All Streets
 
-👁️ 36K • 👍 2K • 💬 184 • ⏱️ 14:17 • 17h ago
+👁️ 8K • 👍 680 • 💬 107 • ⏱️ 1:05:55 • 1h ago
 
 ---
 
-**[Bitcoin’s Next Major Wave Is Taking Shape | Ethereum Signals Strength](https://www.youtube.com/watch?v=FBEpHX-gFAQ)**
+**[Bitcoin: This Is BAD (Last 3 Times Crypto Dumped HARD)](https://www.youtube.com/watch?v=wVjvYHBpf2I)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+Bitcoin is flashing a dangerous signal we've only seen a handful of times before and the last 3 times it happened, crypto dumped ...
 
-📺 CryptosRUs
+📺 Discover Crypto
 
-👁️ 3K • 👍 287 • 2h ago
+👁️ 3K • 👍 285 • 💬 6 • ⏱️ 1:02:20 • 27m ago
 
 ---
 
@@ -329,7 +329,27 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 358 • ⏱️ 9:35 • 17h ago
+👁️ 56K • 👍 2K • 💬 413 • ⏱️ 9:35 • 17h ago
+
+---
+
+**[Why is Bitcoin STUCK at $90K?! (This Explains Everything)](https://www.youtube.com/watch?v=9Xi0PnWSLto)**
+
+Bitcoin's been dropping like clockwork at market open—but is it just normal volatility, or something more sinister? From Japanese ...
+
+📺 Simply Bitcoin
+
+👁️ 40K • 👍 2K • 💬 192 • ⏱️ 14:17 • 17h ago
+
+---
+
+**[Bitcoin Price Action LIVE - Everyone Is Bearish?](https://www.youtube.com/watch?v=_RA8YsRI9Yw)**
+
+Stay informed with the latest insights on **bitcoin today**, focusing on effective **trading strategy** and essential **technical ...
+
+📺 Krown
+
+👁️ 2K • 👍 150 • 2h ago
 
 ---
 
@@ -339,7 +359,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 37K • 👍 2K • 💬 559 • ⏱️ 9:39 • 15h ago
+👁️ 40K • 👍 2K • 💬 580 • ⏱️ 9:39 • 16h ago
 
 ---
 
@@ -349,47 +369,7 @@ Bitcoin what now? IT's LIKE STEROIDS: 5g Grows Muscle & Burns Fat! https://youtu
 
 📺 MMCrypto
 
-👁️ 15K • 👍 2K • 💬 188 • ⏱️ 3:50 • 6h ago
-
----
-
-**[🚨 BREAKING: JAPAN WILL CRASH BITCOIN!!?](https://www.youtube.com/watch?v=XEtLHjjN-U8)**
-
-Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BUUID2 (up to $2200 USDT) My Strategy ...
-
-📺 Conor Kenny
-
-👁️ 15K • 👍 628 • 💬 332 • ⏱️ 15:03 • 11h ago
-
----
-
-**[Bitcoin Dumps Below $90K AGAIN! Is The Cycle Top In?](https://www.youtube.com/watch?v=a5ZeFMSR08U)**
-
-Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning whether 2% inflation is officially dead, while the SEC's ...
-
-📺 The Wolf Of All Streets
-
-👁️ 3K • 👍 273 • 3h ago
-
----
-
-**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=Y2qfKc-FpxA)**
-
-Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out ITC premium before the SALE ends so you can lock ...
-
-📺 Benjamin Cowen
-
-👁️ 90K • 👍 6K • 💬 440 • ⏱️ 17:53 • 1d ago
-
----
-
-**[Is Bitcoin Being Manipulated? How the Evidence is Stacking Up](https://www.youtube.com/watch?v=4hrSrugd7tA)**
-
-Is Bitcoin's recent crash really just “market volatility”—or are major institutions gaming the system? In this breakdown, Oceans ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 2K • 💬 203 • ⏱️ 9:48 • 23h ago
+👁️ 21K • 👍 2K • 💬 222 • ⏱️ 3:50 • 6h ago
 
 ---
 
@@ -399,7 +379,27 @@ Bitcoin is moving sideways as markets head into holiday mode, but major macro sh
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 778 • 💬 24 • ⏱️ 49:34 • 2h ago
+👁️ 12K • 👍 1K • 💬 47 • ⏱️ 49:34 • 3h ago
+
+---
+
+**[🚨 BREAKING: JAPAN WILL CRASH BITCOIN!!?](https://www.youtube.com/watch?v=XEtLHjjN-U8)**
+
+Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BUUID2 (up to $2200 USDT) My Strategy ...
+
+📺 Conor Kenny
+
+👁️ 17K • 👍 686 • 💬 340 • ⏱️ 15:03 • 12h ago
+
+---
+
+**[Is Bitcoin Being Manipulated? How the Evidence is Stacking Up](https://www.youtube.com/watch?v=4hrSrugd7tA)**
+
+Is Bitcoin's recent crash really just “market volatility”—or are major institutions gaming the system? In this breakdown, Oceans ...
+
+📺 Simply Bitcoin
+
+👁️ 29K • 👍 2K • 💬 206 • ⏱️ 9:48 • 1d ago
 
 ---
 
