@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T11:38:41.505405+00:00'
+updated: '2025-12-15T11:51:29.072986+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 11:38 UTC  
+**Last Updated:** December 15, 2025 at 11:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.3%  
 **7d:** -3.4%  
-**30d:** -4.8%  
-**90d:** -23.0%  
-**1y:** -15.3%  
+**30d:** -4.7%  
+**90d:** -22.9%  
+**1y:** -15.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1793.72B
+**Market Cap:** $1789.41B
 Rank #1
 
 **Circulating Supply:** 19,962,334 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-28.9%
 
 **All-Time Low:** $67.81
-+132321.5%
++132110.6%
 
 ---
 
@@ -77,12 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
-
-12h ago
-
----
-
 **[Critics never talk about this...](https://www.reddit.com/r/Bitcoin/comments/1pmpkms/critics_never_talk_about_this/)**
 
 14h ago
@@ -94,6 +88,12 @@ Rank #1
 The French parliament just voted on an amendment forcing us to declare self-custody wallets (Ledger/Trezor) to the tax authorities if they hold more than €5,000. This effectively builds a massive centralized honeypot linking real identities to home addresses and exact holdings, which is a massive security risk and a wrench attack nightmare. ​I'm urgently looking for technical strategies to protect my privacy here. I need to know if "structuring" by splitting the stack into multiple sub-€5k wallets is a viable way to bypass the threshold, or if I should be looking into CoinJoin/Whirlpool to sever the link from my KYC exchange history before moving to fresh storage. I'm also trying to understand how they could possibly enforce this without me voluntarily doxxing my XPUB, so I'm curious if non-compliance is the general consensus. Any advice on keeping my stack off this registry would be appreciated.
 
 4h ago
+
+---
+
+**[Been here before, We’re better at it now.](https://www.reddit.com/r/Bitcoin/comments/1pms6mi/been_here_before_were_better_at_it_now/)**
+
+12h ago
 
 ---
 
@@ -113,6 +113,12 @@ Must been hurt, and now we got people bought at 124K crying when it's 90K. Absol
 
 ---
 
+**[Back in 2012 i was busy copy and pasting jpeg from my dad's pc to my nokia N-gage lol](https://www.reddit.com/r/Bitcoin/comments/1pn2i9e/back_in_2012_i_was_busy_copy_and_pasting_jpeg/)**
+
+3h ago
+
+---
+
 **[I am now a whole coiner](https://www.reddit.com/r/Bitcoin/comments/1pmnnkq/i_am_now_a_whole_coiner/)**
 
 Alt for obvious reasons As of yesterday, I am now the proud owner of one whole Bitcoin! I started investing in 2018 when it was $4,500 and unfortunately sold 0.10 Bitcoin back when it was $20,000. After that mistake I never sold again and have been stacking ever since. For those curious my average buy price is $36,000.
@@ -123,25 +129,19 @@ Alt for obvious reasons As of yesterday, I am now the proud owner of one whole B
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pmfq5e/daily_meme_until_100000/)**
 
-20h ago
+21h ago
 
 ---
 
-**[Back in 2012 i was busy copy and pasting jpeg from my dad's pc to my nokia N-gage lol](https://www.reddit.com/r/Bitcoin/comments/1pn2i9e/back_in_2012_i_was_busy_copy_and_pasting_jpeg/)**
+**[Bitcoin is still a bit down, prepare everyone:](https://www.reddit.com/r/Bitcoin/comments/1pn361g/bitcoin_is_still_a_bit_down_prepare_everyone/)**
 
-3h ago
+2h ago
 
 ---
 
 **[Poor guy🥲](https://www.reddit.com/r/Bitcoin/comments/1pmhkj5/poor_guy/)**
 
 19h ago
-
----
-
-**[There is no "we" in HODL](https://www.reddit.com/r/Bitcoin/comments/1pmj8ul/there_is_no_we_in_hodl/)**
-
-18h ago
 
 ---
 
@@ -155,19 +155,19 @@ The Block • 13h ago
 
 ---
 
-**[Brazil’s Largest Bank Endorses Bitcoin for Investor Portfolios](https://finance.yahoo.com/news/brazil-largest-bank-endorses-bitcoin-082553081.html)**
-
-Itaú Asset Management, Brazil’s largest privately-owned asset manager, is now officially advising its clients to buy Bitcoin BTC $89 857 24h volatility: 0.0% Market cap: $1.79 T Vol. 24h: $35.22 B . This marks a major turning point for crypto adoption in Latin America. The firm suggests a “calibrated” 1% ...
-
-Yahoo Finance • 3h ago
-
----
-
 **[Brazil’s Largest Asset Manager Recommends Investors Put Up to 3% of their Money in Bitcoin to Hedge Against FX, Market Shocks](https://www.coindesk.com/business/2025/12/13/brazil-s-largest-asset-manager-recommends-investors-put-up-to-3-of-their-money-in-bitcoin-to-hedge-against-fx-market-shocks)**
 
 The recommendation is in line with other global asset managers like BlackRock and Bank of America suggesting small portfolio allocations to the largest cryptocurrency.
 
 CoinDesk • 1d ago
+
+---
+
+**[Brazil’s Largest Private Bank Advises 3% Bitcoin Allocation For Clients](https://finance.yahoo.com/news/brazil-largest-private-bank-advises-210131274.html)**
+
+Brazil's top bank Itaú Unibanco has advised clients to allocate up to 3% of their portfolios to Bitcoin by 2026.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -179,25 +179,9 @@ The Motley Fool • 17h ago
 
 ---
 
-**[Bitcoin Could Hit $140,000 in Next 180 Days, Expert Says](https://finance.yahoo.com/news/bitcoin-could-hit-140-000-092219611.html)**
+**[Bitcoin Price Slips Below $90,000, XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqeoyZIlLELWz3dFRZOauswUhA0RDbCjDQcH6PLBqDMW8e-SEA07BfX6&gaa_ts=693ff9a0&gaa_sig=85-LPlLRhhnuEpur9AnzFVfYReV4Jw7clgFqx05EGTCDr0UP3xKpe_uQcfdD0QS4OvCgGXfayWZdk2AI-NPAyA%3D%3D)**
 
-New analysis suggests Bitcoin’s four-year cycles have been replaced — and the world’s biggest cryptocurrency could rebound to $140,000 at some point in the next 180 days.According to Copper, the arrival of exchange-traded funds tracking BTC’s spot price have changed this digital asset’s behavior, and given way to what it ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin Price Slips Below $90,000, XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqdy6smalAr38I-a8amabSnED6fNLa92XUb2Qndi9_5oTU2xRxb6ZnGe&gaa_ts=693ff27f&gaa_sig=sVddLcym-i12_RXvEXzb3N55jrw1DGHm76vF9Z1rn6_qoJBpYDonZL6C2n6spCFK37sM6LjGHO5wGgGP5o5elQ%3D%3D)**
-
-Barron's • 52m ago
-
----
-
-**[Is Bitcoin the Most Compelling Digital Asset for Long-Term Investors?](https://www.fool.com/investing/2025/12/15/bitcoin-most-compelling-digital-asset-investors/)**
-
-This top crypto has dropped 27% in the past two months.
-
-The Motley Fool • 1h ago
+Barron's • 1h ago
 
 ---
 
@@ -218,6 +202,22 @@ Investor's Business Daily • 2d ago
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
 Reuters • 10h ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://finance.yahoo.com/news/bitcoin-hoarder-company-strategy-remains-012159080.html)**
+
+Bitcoin hoarding ​giant ‌Strategy clung to ‌its place in the Nasdaq ⁠100 on ‌Friday, continuing its ‍year-long stint in the benchmark ​at a ‌time where analysts have raised questions over its ⁠business ​model. (Reporting ​by Shashwat Chauhan and Ruchika ‍Khanna ⁠in Bengaluru; Editing ⁠by Anil D'Silva ‌and Christian ‌Schmollinger)
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Vanguard Equity Quant Says Bitcoin Still a ‘Digital Labubu’ Toy, For Now](https://www.bloomberg.com/news/articles/2025-12-12/vanguard-equity-quant-says-bitcoin-still-a-digital-labubu-toy-for-now)**
+
+Vanguard Group may now allow clients to trade spot Bitcoin exchange-traded funds, but one of the firm’s senior investment leaders says its underlying view of crypto remains unchanged.
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -385,7 +385,7 @@ BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/Cha
 
 📺 Chart Junkies
 
-👁️ 2K • 👍 103 • 💬 83 • ⏱️ 14:42 • 13h ago
+👁️ 2K • 👍 103 • 💬 83 • ⏱️ 14:42 • 14h ago
 
 ---
 

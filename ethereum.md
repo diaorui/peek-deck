@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T11:38:41.511336+00:00'
+updated: '2025-12-15T11:51:29.078924+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 11:38 UTC  
+**Last Updated:** December 15, 2025 at 11:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,119.35
+### $3,148.83
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** -4.8%  
-**30d:** +2.0%  
-**90d:** -31.1%  
+**24h:** +1.7%  
+**7d:** -4.9%  
+**30d:** +1.9%  
+**90d:** -31.2%  
 **1y:** -20.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $381.43B
+**Market Cap:** $380.23B
 Rank #2
 
 **Circulating Supply:** 120,695,108 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.2%
+-36.3%
 
 **All-Time Low:** $0.43
-+728986.2%
++727958.4%
 
 ---
 
@@ -168,11 +168,19 @@ AMBCrypto • 1d ago
 
 ---
 
+**[Tokenization News: $4T Bank JPMorgan Launches Onchain Fund on Ethereum](https://www.coindesk.com/business/2025/12/15/jpmorgan-launches-tokenized-money-market-fund-on-ethereum-as-wall-street-moves-onchain-report)**
+
+The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.
+
+CoinDesk • 14m ago
+
+---
+
 **[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
 
 Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
-Nasdaq • 23h ago
+Nasdaq • 1d ago
 
 ---
 
@@ -189,14 +197,6 @@ Yahoo Finance • 17h ago
 A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a…
 
 TradingView — Track All Markets • 19h ago
-
----
-
-**[Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum](https://www.coindesk.com/web3/2025/12/12/backed-chainlink-launch-xbridge-to-move-tokenized-stocks-between-solana-and-ethereum)**
-
-The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.
-
-CoinDesk • 2d ago
 
 ---
 
@@ -290,7 +290,7 @@ We have covered the bull case extensively—the dividends, the MAVAN launch, and
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 33 • 💬 18 • ⏱️ 10:35 • 13h ago
+👁️ 1K • 👍 33 • 💬 18 • ⏱️ 10:35 • 14h ago
 
 ---
 
@@ -320,7 +320,7 @@ OPEN ACCOUNT & DEPOSIT & TRADE & VIP GROUP ACCESS ( LIFETIME ) --- 1. XM - https
 
 📺 The Scalper King
 
-👁️ 32K • 👍 1K • 7h ago
+👁️ 32K • 👍 1K • 8h ago
 
 ---
 

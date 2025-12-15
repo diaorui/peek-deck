@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T11:38:41.496934+00:00'
+updated: '2025-12-15T11:51:29.064466+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - videos
 - social
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 11:38 UTC  
+**Last Updated:** December 15, 2025 at 11:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ RIP Copilot.
 
 I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
 
-2h ago
+3h ago
 
 ---
 
@@ -141,19 +141,31 @@ Gizmodo • 1h ago
 
 ---
 
-**[How famed short-seller Andrew Left has been using AI to prepare for his criminal case](https://www.businessinsider.com/andrew-left-short-seller-securities-fraud-legal-defense-claude-ai-2025-12)**
+**[My thoughts on AI safety](https://www.noahpinion.blog/p/my-thoughts-on-ai-safety)**
 
-Andrew Left is headed for a big legal fight in 2026. Business Insider viewed his conversation with Claude to see how he's prepping for the case.
+Contemplating the unknowable.
 
-Business Insider • 1h ago
+Noahpinion | Noah Smith • 1h ago
 
 ---
 
-**[The AI industry wants to turn the routine mammogram into a powerful multitool](https://www.statnews.com/2025/12/15/mammogram-ai-predictive-models-both-breast-cancer-heart-disease/)**
+**[Trump’s AI moratorium threatens state-level crackdowns on housing costs](https://www.politico.com/news/2025/12/14/trumps-ai-moratorium-threatens-state-level-crackdown-on-housing-costs-00688789)**
 
-A new generation of AI algorithms aim to go beyond detecting cancers to predicting risk for cardiovascular diseases.
+Politico • 18h ago
 
-statnews.com • 2h ago
+---
+
+**[California lawmakers say they’ll keep pushing to regulate AI](https://www.sacbee.com/news/politics-government/capitol-alert/article313663986.html)**
+
+Sacramento Bee • 51m ago
+
+---
+
+**[CEOs usually favor less regulation. But not all are happy with Trump’s executive order to block state AI laws](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/)**
+
+Also: All the news and watercooler chat from Fortune.
+
+Fortune • 38m ago
 
 ---
 
@@ -161,15 +173,7 @@ statnews.com • 2h ago
 
 New Gallup data shows a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025.
 
-Gallup.com • 6h ago
-
----
-
-**[The View From Inside the AI Bubble](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/)**
-
-Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
-
-The Atlantic • 23h ago
+Gallup • 6h ago
 
 ---
 
@@ -181,15 +185,11 @@ The Guardian • 20h ago
 
 ---
 
-**[Opinion | The Good, Bad and Ugly of AI](https://www.wsj.com/tech/personal-tech/the-good-bad-and-ugly-of-ai-4ea8fa6b?gaa_at=eafs&gaa_n=AWEtsqeWsL4lk5iGnYG3uyE8eWYpAKLq_BjwrXbzpO_lwOT5wqDdVspVE4gu&gaa_ts=693ff27e&gaa_sig=o9673X--Uy8YASs43GJu7pZyq8UTlI0DnJi75khMTd1Yce-8qJGgf38a-TuJsn1ieAKJ8h853I-bJuZl2drKfw%3D%3D)**
+**[The View From Inside the AI Bubble](https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/)**
 
-The Wall Street Journal • 13h ago
+Secret parties, lavish buffets, and talks of annihilation at one of the largest AI-research conferences
 
----
-
-**[AI Is Getting Dangerously Good at Political Persuasion](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion)**
-
-Bloomberg.com • 7h ago
+The Atlantic • 23h ago
 
 ---
 
@@ -207,7 +207,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 442 • 💬 437 • 1d ago
+⬆️ 443 • 💬 437 • 1d ago
 
 ---
 
@@ -215,7 +215,7 @@ Update your apps to use new features, and test your apps against API changes.
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 234 • 💬 106 • 22h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 235 • 💬 106 • 22h ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -223,7 +223,23 @@ Some (well-known) consequences of AI automating work
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 211 • 💬 188 • 11h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 215 • 💬 197 • 11h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+
+---
+
+**[If AI replaces workers, should it also pay taxes?](https://news.ycombinator.com/item?id=46268709)**
+
+The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
+
+⬆️ 153 • 💬 241 • 11h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+
+---
+
+**[AI agents are starting to eat SaaS](https://news.ycombinator.com/item?id=46268452)**
+
+Software ate the world. Agents are going to eat SaaS.
+
+⬆️ 152 • 💬 174 • 12h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -232,22 +248,6 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
 ⬆️ 148 • 💬 209 • 23h ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
-
----
-
-**[AI agents are starting to eat SaaS](https://news.ycombinator.com/item?id=46268452)**
-
-Software ate the world. Agents are going to eat SaaS.
-
-⬆️ 141 • 💬 163 • 11h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
-
----
-
-**[If AI replaces workers, should it also pay taxes?](https://news.ycombinator.com/item?id=46268709)**
-
-The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
-
-⬆️ 136 • 💬 220 • 11h ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 286,283 • ❤️ 2,727 • 6d ago
+⬇️ 286,283 • ❤️ 2,729 • 6d ago
 
 ---
 
@@ -415,7 +415,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 142,846 • ❤️ 844 • 2d ago
+⬇️ 142,846 • ❤️ 845 • 2d ago
 
 ---
 
@@ -427,7 +427,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 21,397 • ❤️ 344 • 18h ago
+⬇️ 21,397 • ❤️ 345 • 19h ago
 
 ---
 
@@ -439,7 +439,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 3,683 • ❤️ 305 • 6d ago
+⬇️ 3,683 • ❤️ 306 • 6d ago
 
 ---
 
@@ -475,7 +475,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 5,608 • ❤️ 206 • 18h ago
+⬇️ 5,608 • ❤️ 206 • 19h ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.2k • 🔱 2.4k • 2h ago
+⭐ 15.2k • 🔱 2.4k • 3h ago
 
 ---
 
