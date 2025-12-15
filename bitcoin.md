@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T20:18:50.261421+00:00'
+updated: '2025-12-15T20:42:36.899851+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 20:18 UTC  
+**Last Updated:** December 15, 2025 at 20:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,742.55
+### $85,860.62
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -7.4%  
-**30d:** -8.7%  
+**24h:** -2.7%  
+**7d:** -7.5%  
+**30d:** -8.8%  
 **90d:** -26.2%  
 **1y:** -18.8%  
 
@@ -81,13 +81,13 @@ Rank #1
 
 Are you still buying?
 
-4h ago
+5h ago
 
 ---
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,19 +95,19 @@ Are you still buying?
 
 Buy some bitcoin and store it.
 
-5h ago
+6h ago
 
 ---
 
 **[The best ever gift to receive? what have u done if u had got this gift](https://www.reddit.com/r/Bitcoin/comments/1pn7aw1/the_best_ever_gift_to_receive_what_have_u_done_if/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ Buy some bitcoin and store it.
 
 **[Bitcoin Holders: Bull Market vs. Bear Market](https://www.reddit.com/r/Bitcoin/comments/1pnf280/bitcoin_holders_bull_market_vs_bear_market/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -151,7 +151,7 @@ Bitcoin hashrate drops ~10% in a day, likely tied to Xinjiang shutdowns
 
 Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -167,13 +167,13 @@ Financial Times • 15h ago
 
 Michael Saylor’s Strategy is back in the business of acquiring large tranches of Bitcoin, announcing a purchase of nearly $1 billion worth of BTC.
 
-TradingView — Track All Markets • 42m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
 **[Bitcoin sees one-year low in active addresses, raising fresh concerns over blockspace demand](https://www.theblock.co/post/382585/bitcoin-year-low-active-addresses-concerns-blockspace-demand)**
 
-The Block • 43m ago
+The Block • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 8h ago
 
 Digital asset treasury companies could see consolidation ahead, where only the strong will outlast the crypto winter.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -211,7 +211,7 @@ Barron's • 2h ago
 
 Bitcoin price slipped below $90,000 during typically thin Sunday trading, magnifying downside volatility as traders pulled back risk ahead of a heavy week of U.S. economic data.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
@@ -303,7 +303,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 558 • 💬 102 • ⏱️ 23:41 • 3h ago
+👁️ 7K • 👍 558 • 💬 102 • ⏱️ 23:41 • 4h ago
 
 ---
 
@@ -313,7 +313,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 360 • 💬 23 • ⏱️ 40:28 • 2h ago
+👁️ 5K • 👍 360 • 💬 23 • ⏱️ 40:28 • 3h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning wheth
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 910 • 💬 188 • ⏱️ 1:05:55 • 4h ago
+👁️ 14K • 👍 910 • 💬 188 • ⏱️ 1:05:55 • 5h ago
 
 ---
 
@@ -333,7 +333,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 158 • ⏱️ 52:24 • 4h ago
+👁️ 19K • 👍 1K • 💬 158 • ⏱️ 52:24 • 5h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 2K • 💬 198 • ⏱️ 14:17 • 20h ago
+👁️ 42K • 👍 2K • 💬 198 • ⏱️ 14:17 • 21h ago
 
 ---
 
@@ -363,7 +363,7 @@ THIS BITCOIN KEYNOTE IS SHAKING THE ENTIRE MARKET. Michael Saylor takes the stag
 
 📺 Dani Ruth
 
-👁️ 3K • 👍 1K • 1h ago
+👁️ 3K • 👍 1K • 2h ago
 
 ---
 
@@ -373,7 +373,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 2K • 💬 425 • ⏱️ 9:35 • 20h ago
+👁️ 61K • 👍 2K • 💬 425 • ⏱️ 9:35 • 21h ago
 
 ---
 
@@ -383,7 +383,7 @@ Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!*
 
 📺 Crypto Casey
 
-👁️ 5K • 👍 819 • 💬 64 • ⏱️ 14:34 • 3h ago
+👁️ 5K • 👍 819 • 💬 64 • ⏱️ 14:34 • 4h ago
 
 ---
 

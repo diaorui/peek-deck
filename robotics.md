@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T20:18:50.270629+00:00'
+updated: '2025-12-15T20:42:36.907861+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 20:18 UTC  
+**Last Updated:** December 15, 2025 at 20:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -106,7 +106,7 @@ Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on th
 
 Hey I'm struggling a lot to get a job or any work experience, can anyone genuinely guide or have a chat to help or figure me out I'm worried a lot .
 
-1h ago
+2h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hey I'm struggling a lot to get a job or any work experience, can anyone genuine
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Motley Fool • 1d ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 15h ago
+InvestorPlace • 16h ago
 
 ---
 
@@ -186,7 +186,7 @@ timesunion.com • 1d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -200,7 +200,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 4K • 👍 136 • 💬 12 • ⏱️ 1:05 • 5h ago
+👁️ 4K • 👍 136 • 💬 12 • ⏱️ 1:05 • 6h ago
 
 ---
 

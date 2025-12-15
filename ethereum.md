@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T20:18:50.267397+00:00'
+updated: '2025-12-15T20:42:36.905100+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 20:18 UTC  
+**Last Updated:** December 15, 2025 at 20:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.9%  
-**7d:** -11.8%  
-**30d:** -5.6%  
-**90d:** -36.2%  
-**1y:** -26.7%  
+**24h:** -4.3%  
+**7d:** -11.2%  
+**30d:** -4.9%  
+**90d:** -35.8%  
+**1y:** -26.0%  
 
 ---
 
@@ -96,7 +96,7 @@ I’ve never bought ETH before, but I’m thinking of getting some exposure now.
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 32m ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 55m ago
 
 ---
 
@@ -104,7 +104,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-1h ago
+2h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 8h ago
 
 Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 6h ago
 
 The cryptocurrency market is under pressure today, with Bitcoin, Ethereum and XRP among other altcoins all seeing sharp declines. Total crypto market value has slipped to around $3 trillion, down more than 1%.Bitcoin dropped below $87,000, Ethereum fell near $3,000, and XRP slid to around $1.92. Se…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -238,7 +238,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 360 • 💬 23 • ⏱️ 40:28 • 2h ago
+👁️ 5K • 👍 360 • 💬 23 • ⏱️ 40:28 • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 831 • 👍 106 • 💬 21 • ⏱️ 10:03 • 4h ago
+👁️ 831 • 👍 106 • 💬 21 • ⏱️ 10:03 • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 9 • ⏱️ 6:25 • 16h ago
+👁️ 3K • 👍 169 • 💬 9 • ⏱️ 6:25 • 17h ago
 
 ---
 
@@ -278,7 +278,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 2K • 💬 425 • ⏱️ 9:35 • 20h ago
+👁️ 61K • 👍 2K • 💬 425 • ⏱️ 9:35 • 21h ago
 
 ---
 

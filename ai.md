@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T20:18:50.252990+00:00'
+updated: '2025-12-15T20:42:36.892325+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 20:18 UTC  
+**Last Updated:** December 15, 2025 at 20:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Now RAM prices are hitting record highs, because it's more profitable for manufa
 
 **[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.reddit.com/r/artificial/comments/1pnbr3t/google_ai_summaries_are_ruining_the_livelihoods/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion) • 3h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/opinion/articles/2025-12-15/ai-is-getting-dangerously-good-at-political-persuasion) • 4h ago
 
 ---
 
@@ -63,7 +63,7 @@ Now RAM prices are hitting record highs, because it's more profitable for manufa
 
 Full discussion with MIT's Max Tegmark and Dean Ball: https://www.youtube.com/watch?v=9O0djoqgasw
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 Also: All the news and watercooler chat from Fortune.
 
-🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 3h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 4h ago
 
 ---
 
@@ -111,7 +111,7 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
 
-11h ago
+12h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’ve been playing around with some AI video tools lately just to see what’s 
 
 A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 4h ago
 
 **[Mark Cuban Sends Strong Message to Creatives About AI](https://www.inc.com/ava-levinson/mark-cuban-sends-strong-message-to-creatives-about-ai/91278961)**
 
-Inc.com • 10m ago
+Inc.com • 34m ago
 
 ---
 
@@ -143,7 +143,7 @@ Inc.com • 10m ago
 
 In at least one corner of the AI market, sentiment has turned decidedly negative.
 
-CNBC • 20m ago
+CNBC • 43m ago
 
 ---
 
@@ -151,7 +151,7 @@ CNBC • 20m ago
 
 That's a good sign, right?
 
-Gizmodo • 17m ago
+Gizmodo • 41m ago
 
 ---
 
@@ -179,7 +179,7 @@ Stanford HAI • 6h ago
 
 **[The jobs where people are using AI the most](https://www.axios.com/2025/12/15/ai-chatgpt-jobs)**
 
-Axios • 5h ago
+Axios • 6h ago
 
 ---
 
@@ -199,7 +199,7 @@ Fortune • 9h ago
 
 Update your apps to use new features, and test your apps against API changes.
 
-⬆️ 533 • 💬 290 • 2d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+⬆️ 533 • 💬 290 • 3d ago • [Apple Developer Documentation](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
 
 ---
 
@@ -229,7 +229,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 256 • 💬 264 • 19h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 256 • 💬 264 • 20h ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -261,7 +261,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 The new feature, called Ask this Book, is already drawing controversy and unanswered questions.
 
-⬆️ 82 • 💬 130 • 2d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
+⬆️ 82 • 💬 130 • 3d ago • [Reactor](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/)
 
 ---
 
@@ -353,7 +353,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 73K • 👍 3K • 💬 419 • ⏱️ 20:44 • 19h ago
+👁️ 73K • 👍 3K • 💬 419 • ⏱️ 20:44 • 20h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.5k • 🔱 376 • 10h ago
+⭐ 3.5k • 🔱 376 • 11h ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 43m ago
+⭐ 1.1k • 🔱 137 • 1h ago
 
 ---
 
