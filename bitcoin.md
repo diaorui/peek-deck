@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T23:37:05.779494+00:00'
+updated: '2025-12-15T23:48:58.690016+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 23:37 UTC  
+**Last Updated:** December 15, 2025 at 23:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Are you still buying?
 
-7h ago
+8h ago
 
 ---
 
@@ -93,7 +93,7 @@ Are you still buying?
 
 **[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many time
 
 Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 18h ago
 
 This prominent altcoin has seen its valuation increasingly come into question in recent days.
 
-The Motley Fool • 12m ago
+The Motley Fool • 23m ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 2h ago
 
 **[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcDcgk-HtZbMeTJ19HbgKSbMWW05ZshdHSiQXKQFNrKylaiA60bXZxg&gaa_ts=69409f0c&gaa_sig=EAaoA_qWPGuRQYKvfJ5zqh5C6h748lgW3j3WZ7isLsTj2AtFwAHMPFjAJujB0bVOT9VWrQH1DYw1hD6bNUecGA%3D%3D)**
 
-Barron's • 4h ago
+Barron's • 5h ago
 
 ---
 
@@ -313,17 +313,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 519 • 💬 42 • ⏱️ 40:28 • 6h ago
-
----
-
-**[Bitcoin Dumps Below $90K AGAIN! Is The Cycle Top In?](https://www.youtube.com/watch?v=a5ZeFMSR08U)**
-
-Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning whether 2% inflation is officially dead, while the SEC's ...
-
-📺 The Wolf Of All Streets
-
-👁️ 20K • 👍 1K • 💬 244 • ⏱️ 1:05:55 • 8h ago
+👁️ 11K • 👍 629 • 💬 53 • ⏱️ 40:28 • 6h ago
 
 ---
 
@@ -333,7 +323,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 185 • ⏱️ 52:24 • 8h ago
+👁️ 26K • 👍 1K • 💬 221 • ⏱️ 52:24 • 8h ago
 
 ---
 
@@ -343,27 +333,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 696 • 💬 129 • ⏱️ 23:41 • 7h ago
+👁️ 15K • 👍 748 • 💬 211 • ⏱️ 23:41 • 7h ago
 
 ---
 
-**[&quot;It&#39;s HAPPENED! The Fed Just Gave Bitcoin the Green Light” - Jordi Visser](https://www.youtube.com/watch?v=S6I0tNQpmSM)**
+**[Bitcoin Dumps Below $90K AGAIN! Is The Cycle Top In?](https://www.youtube.com/watch?v=a5ZeFMSR08U)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning whether 2% inflation is officially dead, while the SEC's ...
 
-📺 Savvy Finance
+📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 157 • 💬 7 • ⏱️ 22:13 • 6h ago
-
----
-
-**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 65K • 👍 2K • 💬 428 • ⏱️ 9:35 • 1d ago
+👁️ 23K • 👍 1K • 💬 295 • ⏱️ 1:05:55 • 8h ago
 
 ---
 
@@ -373,37 +353,57 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 2K • 💬 203 • ⏱️ 14:17 • 1d ago
+👁️ 45K • 👍 2K • 💬 217 • ⏱️ 14:17 • 1d ago
 
 ---
 
-**[Time To Call It For Bitcoin &amp; Crypto?](https://www.youtube.com/watch?v=zC-OTO2coYs)**
+**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 617 • ⏱️ 9:39 • 22h ago
-
----
-
-**[The Banks’ Secret Attack on Bitcoin Has Begun: Synthetic BTC to Control Price! (Don’t Fall for It..)](https://www.youtube.com/watch?v=N54rj8w7kQQ)**
-
-Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!* ⚡   *Limited Time!* — before Dec 22 2025!
-
-📺 Crypto Casey
-
-👁️ 11K • 👍 1K • 💬 116 • ⏱️ 14:34 • 7h ago
+👁️ 68K • 👍 3K • 💬 431 • ⏱️ 9:35 • 1d ago
 
 ---
 
-**[Is Bitcoin Being Manipulated? How the Evidence is Stacking Up](https://www.youtube.com/watch?v=4hrSrugd7tA)**
+**[Bitcoin CRASHED HARD! Will Bitcoin Crash Below $80k SOON? Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=wO8nL0aBzI8)**
 
-Is Bitcoin's recent crash really just “market volatility”—or are major institutions gaming the system? In this breakdown, Oceans ...
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
 
-📺 Simply Bitcoin
+📺 Crypto Jebb
 
-👁️ 31K • 👍 2K • 💬 212 • ⏱️ 9:48 • 1d ago
+👁️ 5K • 👍 398 • 💬 121 • ⏱️ 8:05 • 4h ago
+
+---
+
+**[Why Bitcoin is Dropping? | Live Bitcoin Trading Price](https://www.youtube.com/watch?v=CzkerQQP0s4)**
+
+Come look into the next BIG move in crypto! All LIVE analysis, charting, and trades! 1️⃣ SIGN UP With ANY ...
+
+📺 Tom Crown
+
+👁️ 5K • 👍 285 • 💬 19 • ⏱️ 1:13:56 • 4h ago
+
+---
+
+**[Bitcoin Testing FINAL Support.. If This Breaks, It Gets Ugly!](https://www.youtube.com/watch?v=H8xdqEAKJTM)**
+
+Premium Discord   https://Frankiecandlestrading.com Try my FREE Indicator   ...
+
+📺 Frankie Candles 
+
+👁️ 2K • 👍 230 • 1h ago
+
+---
+
+**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=Y2qfKc-FpxA)**
+
+Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out ITC premium before the SALE ends so you can lock ...
+
+📺 Benjamin Cowen
+
+👁️ 103K • 👍 7K • 💬 485 • ⏱️ 17:53 • 1d ago
 
 ---
 

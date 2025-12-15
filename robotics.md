@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T23:37:05.788823+00:00'
+updated: '2025-12-15T23:48:58.699203+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 23:37 UTC  
+**Last Updated:** December 15, 2025 at 23:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
 
-53m ago
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-robotics/Reachy_Mini_Assembly_Guide
 
-7h ago
+8h ago
 
 ---
 
@@ -98,7 +98,7 @@ Everything here is done in simulation — from perception to grasping and liftin
 
 Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
 
-18h ago
+19h ago
 
 ---
 
@@ -148,13 +148,13 @@ The Verge • 14h ago
 
 This bot got lost
 
-The Verge • 50m ago
+The Verge • 1h ago
 
 ---
 
 **[Roomba Maker iRobot Files for Bankruptcy, With Chinese Supplier Taking Control](https://www.nytimes.com/2025/12/15/business/roomba-irobot-bankruptcy.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 19K • 👍 560 • 💬 72 • ⏱️ 6:41 • 1d ago
+👁️ 20K • 👍 582 • 💬 87 • ⏱️ 6:41 • 1d ago
 
 ---
 
@@ -208,17 +208,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 7K • 👍 168 • 💬 17 • ⏱️ 1:05 • 8h ago
-
----
-
-**[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
-
-Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
-
-📺 RICHLEV
-
-👁️ 98K • 👍 3K • 💬 800 • ⏱️ 17:05 • 20h ago
+👁️ 10K • 👍 189 • 💬 24 • ⏱️ 1:05 • 9h ago
 
 ---
 
@@ -226,7 +216,7 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 
 📺 AI . Robot
 
-👁️ 121K • 👍 1K • 💬 15 • ⏱️ 0:21 • 1d ago
+👁️ 132K • 👍 2K • 💬 15 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -236,35 +226,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 256K • 👍 8K • 💬 279 • ⏱️ 0:34 • 1d ago
-
----
-
-**[This self aware robot escaped... (and he&#39;s after US)](https://www.youtube.com/watch?v=EvJwEw3lOwo)**
-
-This self aware robot escaped... (and he's after US) Like and subscribe. socials INSTAGRAM: https://www.instagram.com/qerello_/ ...
-
-📺 Qerello
-
-👁️ 4K • 👍 266 • 💬 42 • ⏱️ 12:54 • 23h ago
-
----
-
-**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
-
-📺 AI . Robot
-
-👁️ 36K • 👍 486 • 💬 12 • ⏱️ 0:16 • 2d ago
-
----
-
-**[Boy Pressed Test Mode Button...Robot went Crazy 🤖😳 #ai #robot #cat](https://www.youtube.com/watch?v=hRf4HyPmFtA)**
-
-Boy Pressed Test Mode Button...Robot went Crazy #ai #robot #cat.
-
-📺 Ai Animation World
-
-👁️ 97K • 💬 5 • ⏱️ 0:37 • 1d ago
+👁️ 265K • 👍 8K • 💬 288 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -274,17 +236,55 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 191K • 👍 926 • 💬 303 • ⏱️ 0:47 • 6d ago
+👁️ 191K • 👍 928 • 💬 303 • ⏱️ 0:47 • 6d ago
 
 ---
 
-**[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
+**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
 
-PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
+📺 AI . Robot
 
-📺 LIGHTS ARE OFF
+👁️ 37K • 👍 493 • 💬 12 • ⏱️ 0:16 • 2d ago
 
-👁️ 1.8M • 👍 77K • 💬 8K • ⏱️ 8:45 • 2d ago
+---
+
+**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+
+📺 Associated Press
+
+👁️ 27K • 👍 103 • 💬 41 • ⏱️ 1:26 • 3d ago
+
+---
+
+**[Piston Hood System | 4142B Gizmo | Robot Rundown](https://www.youtube.com/watch?v=StqdEtTqsDs)**
+
+4142B Gizmo from Hawaii shows off their piston hood system and the functionality that having a re-direct has for Push Back.
+
+📺 FUN Robotics Network
+
+👁️ 436 • 👍 19 • 💬 1 • ⏱️ 1:25 • 1h ago
+
+---
+
+**[Are robots the future of space exploration? | BBC News](https://www.youtube.com/watch?v=-2Tq-leZgs4)**
+
+How can robots help astronauts survive in space? The National Space Industry Hub in Sydney, Australia, is home to some of the ...
+
+📺 BBC News
+
+👁️ 17K • 👍 325 • 💬 137 • ⏱️ 5:17 • 2d ago
+
+---
+
+**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
+
+I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
+
+📺 Kyle Krueger
+
+👁️ 5.2M • 👍 164K • 💬 3K • ⏱️ 0:51 • 5d ago
 
 ---
 

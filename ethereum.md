@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-15T23:37:05.785567+00:00'
+updated: '2025-12-15T23:48:58.695984+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 23:37 UTC  
+**Last Updated:** December 15, 2025 at 23:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** -10.7%  
-**30d:** -4.4%  
-**90d:** -35.4%  
-**1y:** -25.6%  
+**24h:** -3.7%  
+**7d:** -10.8%  
+**30d:** -4.5%  
+**90d:** -35.5%  
+**1y:** -25.7%  
 
 ---
 
@@ -96,7 +96,7 @@ I’ve never bought ETH before, but I’m thinking of getting some exposure now.
 
 https://preview.redd.it/29vkhaf25g7g1.jpg?width=640&format=pjpg&auto=webp&s=11ef8e687e7c4442b7963a4c5380567b25d2dc77 https://preview.redd.it/wsemopfa5g7g1.png?width=516&format=png&auto=webp&s=c5d6601cde283f957ebfbb75a5e4901342a2d265 Le site Ethereum Obituaries (ethereumobituaries.com) est un projet open-source qui recense toutes les fois où Ethereum a été déclaré “mort” ou “finito” dans les médias ou par des personnalités crypto. Il ne s’agit pas d’un site d’actualité officiel, mais d’un suivi chronologique de narratifs bearish autour d’ETH, avec une carte/chronologie de ces annonces 🕰️. GitHub Qui l’a conçu ? Selon le README du dépôt officiel sur GitHub, le site a été créé par Jrag, avec une mention “Created by Jrag (with help from AI as I am not a dev)”. GitHub En plus, sur la page principale et les liens associés, il est indiqué “Tinkered by Jrag.eth” sur Twitter, ce qui renforce que le créateur/mainteneur principal utilise ce pseudonyme lié à une adresse ENS (Ethereum Name Service). Ethereum Obituaries Donc, le concepteur du site est Jrag / Jrag.eth, qui a compilé et visualisé ces “obituaries” à partir d’une base de données et d’événements, en s’appuyant sur une repo GitHub publique. GitHub
 
-48m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://preview.redd.it/29vkhaf25g7g1.jpg?width=640&format=pjpg&auto=webp&s=11ef
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 3h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 4h ago
 
 ---
 
@@ -240,7 +240,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 5K • 👍 529 • 💬 41 • ⏱️ 13:11 • 3h ago
+👁️ 16K • 👍 1K • 💬 81 • ⏱️ 13:11 • 3h ago
 
 ---
 
@@ -250,27 +250,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 519 • 💬 42 • ⏱️ 40:28 • 6h ago
-
----
-
-**[Cathie Wood on Bitcoin, Ethereum, Solana and the Bittensor TAO Halving](https://www.youtube.com/watch?v=jOd7smi4_B0)**
-
-Cathie Wood talks cryptocurrency investment and we cover today's Bittensor halving event. https://x.com/SuiNetwork Despite the ...
-
-📺 Altcoin Buzz
-
-👁️ 224 • 👍 24 • 💬 4 • ⏱️ 11:56 • 2h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=E57-UT_Vyow)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 129 • 💬 10 • ⏱️ 5:52 • 8h ago
+👁️ 11K • 👍 629 • 💬 53 • ⏱️ 40:28 • 6h ago
 
 ---
 
@@ -280,17 +260,37 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 1K • 👍 161 • 💬 24 • ⏱️ 10:03 • 7h ago
+👁️ 2K • 👍 217 • 💬 24 • ⏱️ 10:03 • 8h ago
 
 ---
 
-**[Ethereum Volatility Spike, EXTREMELY Bearish Signals?](https://www.youtube.com/watch?v=kJnZz4QVm6Q)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=E57-UT_Vyow)**
 
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Trade Confident
+📺 More Crypto Online
 
-👁️ 69 • 👍 6 • 💬 1 • ⏱️ 7:19 • 2h ago
+👁️ 3K • 👍 135 • 💬 10 • ⏱️ 5:52 • 8h ago
+
+---
+
+**[Bitcoin’s Next Major Wave Is Taking Shape...Despite the Short Term Weakness](https://www.youtube.com/watch?v=FBEpHX-gFAQ)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 26K • 👍 1K • 💬 221 • ⏱️ 52:24 • 8h ago
+
+---
+
+**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
+
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 11K • 👍 610 • 💬 38 • ⏱️ 14:28 • 2d ago
 
 ---
 
@@ -304,33 +304,33 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[Raoul Pal: &quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” New 2026 Crypto Cycle Prediction](https://www.youtube.com/watch?v=dK9fW80oEng)**
+**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
-📺 Crypto Nutshell
+📺 Altcoin Daily
 
-👁️ 23K • 👍 784 • 💬 54 • ⏱️ 20:45 • 2d ago
-
----
-
-**[Crypto About To Take-Off 🚨🚀 (Bitcoin, Ethereum, Liquidation Heatmaps) ](https://www.youtube.com/watch?v=glu93mgZG6w)**
-
-Apex Omni (DEX): https://deeplink.omni.apex.exchange/whaleportal SOCIALS: Twitter: https://x.com/_TheBlockchain ...
-
-📺 The Blockchain Today
-
-👁️ 906 • 👍 85 • 💬 12 • ⏱️ 3:50 • 12h ago
+👁️ 68K • 👍 3K • 💬 431 • ⏱️ 9:35 • 1d ago
 
 ---
 
-**[🍗 Stop Gooning: Tom Lee just bought more Ethereum !! (A Nancy Pelosi Gooner Explains...)](https://www.youtube.com/watch?v=EelXTAqTPrw)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=WNjd5vnNnHo)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 🌟yourfriendsommi
+📺 Guitar Repair@StringTech
 
-👁️ 2K • 👍 243 • 💬 17 • ⏱️ 27:17 • 1d ago
+👁️ 10K • 👍 4K • 2d ago
+
+---
+
+**[BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Yo2EacUJ9OQ)**
+
+BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 190 • 💬 42 • ⏱️ 25:11 • 1h ago
 
 ---
 

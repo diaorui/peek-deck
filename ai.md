@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-15T23:37:05.770885+00:00'
+updated: '2025-12-15T23:48:58.681509+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 15, 2025 at 23:37 UTC  
+**Last Updated:** December 15, 2025 at 23:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -105,7 +105,7 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
 
-14h ago
+15h ago
 
 ---
 
@@ -165,7 +165,7 @@ thehill.com • 1h ago
 
 Slop refers to the low-quality content created by artificial intelligence that's showing up across social media.
 
-CNBC • 53m ago
+CNBC • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 348 • 💬 353 • 23h ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 348 • 💬 353 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -281,7 +281,7 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 450K • 👍 7K • 💬 1K • ⏱️ 1:21:07 • 2d ago
+👁️ 461K • 👍 7K • 💬 1K • ⏱️ 1:21:07 • 2d ago
 
 ---
 
@@ -291,7 +291,17 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 36K • 👍 1K • 💬 145 • ⏱️ 12:07 • 1d ago
+👁️ 37K • 👍 1K • 💬 151 • ⏱️ 12:07 • 1d ago
+
+---
+
+**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
+
+IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
+
+📺 Eurodollar University
+
+👁️ 81K • 👍 3K • 💬 446 • ⏱️ 20:44 • 23h ago
 
 ---
 
@@ -311,17 +321,27 @@ Our Discord Community (FREE): https://discord.com/invite/Efbjh7Qj4V Review our s
 
 📺 2 and 20
 
-👁️ 171K • 👍 6K • 💬 776 • ⏱️ 12:40 • 2d ago
+👁️ 178K • 👍 7K • 💬 798 • ⏱️ 12:40 • 2d ago
 
 ---
 
-**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
+**[Build anything with Google AI Studio, here&#39;s how...](https://www.youtube.com/watch?v=IVWTX1CyOEw)**
 
-IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 Eurodollar University
+📺 Julian Goldie SEO
 
-👁️ 78K • 👍 3K • 💬 431 • ⏱️ 20:44 • 23h ago
+👁️ 5K • 👍 105 • 💬 14 • ⏱️ 36:04 • 20h ago
+
+---
+
+**[Why YouTube Won&#39;t Stop Pushing AI Nonsense...](https://www.youtube.com/watch?v=We7FzVfIIcs)**
+
+Hello guys and gals, it's me Mutahar again! This time we take a look at why sites like YouTube are taking AI so seriously.
+
+📺 SomeOrdinaryGamers
+
+👁️ 83K • 👍 5K • 💬 931 • ⏱️ 19:00 • 2d ago
 
 ---
 
@@ -331,27 +351,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 657K • 👍 36K • 💬 4K • ⏱️ 11:22 • 20h ago
-
----
-
-**[Which SORA AI Disney Trailer Should Be Made Into A Full Movie Next?](https://www.youtube.com/watch?v=wBDmFB4iWPQ)**
-
-Which SORA AI Disney Trailer Should Be Made Into A Full Movie Next? #funny #funnyvideos #viral #comedy #funnyviral #ai ...
-
-📺 Bigfoot Feed
-
-👁️ 43K • 👍 616 • 💬 25 • ⏱️ 0:51 • 1d ago
-
----
-
-**[OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)**
-
-Deploying on Railway feels like magic. Get $20 in free credits to try it out - https://railway.com/?referralCode=fireship Sam Altman ...
-
-📺 Fireship
-
-👁️ 442K • 👍 17K • 💬 996 • ⏱️ 4:01 • 3d ago
+👁️ 689K • 👍 37K • 💬 4K • ⏱️ 11:22 • 21h ago
 
 ---
 
@@ -371,7 +371,7 @@ In the run up to the festive season, the selection of toys on offer seems to get
 
 📺 BBC News
 
-👁️ 18K • 👍 376 • 💬 115 • ⏱️ 3:10 • 2d ago
+👁️ 19K • 👍 380 • 💬 115 • ⏱️ 3:10 • 2d ago
 
 ---
 
@@ -565,7 +565,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 197 • 💬 4 • ⭐ 6,981 • 18d ago
+▲ 198 • 💬 4 • ⭐ 6,981 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.5k • 🔱 376 • 14h ago
+⭐ 3.5k • 🔱 377 • 14h ago
 
 ---
 
@@ -677,7 +677,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.2k • 🔱 312 • 9d ago
+⭐ 1.2k • 🔱 313 • 9d ago
 
 ---
 
@@ -707,7 +707,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 892 • 🔱 23 • 8d ago
+⭐ 893 • 🔱 23 • 8d ago
 
 ---
 
