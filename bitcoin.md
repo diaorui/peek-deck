@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T21:34:05.832299+00:00'
+updated: '2025-12-16T21:48:34.649387+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 21:34 UTC  
+**Last Updated:** December 16, 2025 at 21:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** -4.8%  
-**30d:** -5.1%  
-**90d:** -25.1%  
-**1y:** -17.6%  
+**24h:** +1.9%  
+**7d:** -4.4%  
+**30d:** -4.7%  
+**90d:** -24.8%  
+**1y:** -17.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.31B
+**Market Cap:** $1754.00B
 Rank #1
 
 **Circulating Supply:** 19,962,981 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.3%
 
 **All-Time Low:** $67.81
-+129105.1%
++129467.9%
 
 ---
 
@@ -76,6 +76,12 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[I miss the old bitcoin, straight from the GO Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pob13l/i_miss_the_old_bitcoin_straight_from_the_go/)**
+
+2h ago
+
+---
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
@@ -89,12 +95,6 @@ Rank #1
 
 ---
 
-**[I miss the old bitcoin, straight from the GO Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pob13l/i_miss_the_old_bitcoin_straight_from_the_go/)**
-
-2h ago
-
----
-
 **[Everyday someone posts it and the last dip is getting lower 😂😭😭](https://www.reddit.com/r/Bitcoin/comments/1po94vv/everyday_someone_posts_it_and_the_last_dip_is/)**
 
 3h ago
@@ -105,7 +105,7 @@ Rank #1
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-2h ago
+3h ago
 
 ---
 
@@ -125,13 +125,13 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 ---
 
-**[This is what buying Bitcoin looked like in 2011 - 1BTC = $3.5](https://www.reddit.com/r/Bitcoin/comments/1po8477/this_is_what_buying_bitcoin_looked_like_in_2011/)**
+**[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
 
-3h ago
+5h ago
 
 ---
 
-**[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
+**[This is what buying Bitcoin looked like in 2011 - 1BTC = $3.5](https://www.reddit.com/r/Bitcoin/comments/1po8477/this_is_what_buying_bitcoin_looked_like_in_2011/)**
 
 4h ago
 
@@ -139,7 +139,7 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 **[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -147,9 +147,11 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqe6P2qk1jPsooU8kdmlj4xCj55Hp7TcTtXtkYSa_pkMuUNjE2b_U2H2&gaa_ts=6941ce9a&gaa_sig=oWNvOBT7Hp-jFLObQMAPFBUEErqECOyJVmeY0hChZZ6P0sR9ze_FQGMLH3ZAQ8G1tRs33EcahSrsEvegpO5Rzg%3D%3D)**
+**[Bitcoin Fatigue Sets In as Token Heads for Fourth Annual Loss](https://www.bloomberg.com/news/articles/2025-12-16/bitcoin-fatigue-sets-in-as-token-heads-for-fourth-annual-loss)**
 
-Barron's • 1d ago
+Bitcoin is headed for the fourth annual decline in its history, and the first one that didn’t coincide with a major scandal or industry meltdown.
+
+Bloomberg.com • 2h ago
 
 ---
 
@@ -161,17 +163,19 @@ Financial Times • 1d ago
 
 ---
 
-**[Did MicroStrategy Make Its Worst Bitcoin Purchase of 2025?](https://finance.yahoo.com/news/did-microstrategy-worst-bitcoin-purchase-202057862.html)**
+**[What's next for bitcoin price (BTC) after small bounce to $87,000](https://www.coindesk.com/markets/2025/12/16/bitcoin-bounces-from-monday-s-worst-levels-but-sub-usd80-000-may-come-next-analyst-says)**
 
-This week, MicroStrategy bought Bitcoin at $92K just before a sharp drop. Was it poor timing or part of a long-term strategy?
+Crypto markets remain "fragile," said Samer Hasn from XS.com. Traders are either stepping aside or being forced out.
 
-Yahoo Finance • 1h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
+**[Bitcoin Market Decline a 'Healthy Retracement,' Says MARA's Thiel](https://finance.yahoo.com/video/bitcoin-market-decline-healthy-retracement-200321778.html)**
 
-The Block • 10h ago
+Bitcoin is headed for its fourth annual decline in its history, falling as much as 5.2% and is now about 7% lower for the year, with volumes low and investors bailing on Bitcoin ETFs. The bear market means Bitcoin has decoupled from stocks, with the S&P 500 closing at a record earlier this month and up 16% for the year, while Bitcoin has struggled to find a footing, indicating traders are staying on the sidelines, at least for now. MARA Chairman & CEO Fred Thiel, however, expects a great performance from Bitcoin over the course of the coming year despite a 'healthy retracement' in the marketplace. He joined Carol Massar and Tim Stenovec on 'Bloomberg Businessweek Daily' to break it down.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,6 +187,12 @@ dlnews.com • 11h ago
 
 ---
 
+**[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
+
+The Block • 1d ago
+
+---
+
 **[U.S. Spot Bitcoin ETFs See Biggest Outflows Since Nov. 20](https://bitbo.io/news/bitcoin-etf-outflows-monday/)**
 
 U.S. spot bitcoin ETFs saw $357.6 million of net outflows on Monday, part of a $582 million combined ETF withdrawal, as bitcoin fell to as low as $85,100 and traders watched the $83,000 ETF cost-basis level for support.
@@ -191,35 +201,25 @@ Bitbo • 6h ago
 
 ---
 
-**[Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-shed-582m-144648653.html)**
-
-U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
-
-Yahoo Finance • 6h ago
-
----
-
 **[Why bitcoin ETFs look like they’re falling short, even as their role grows: Asia Morning Briefing](https://www.coindesk.com/markets/2025/12/16/why-bitcoin-etfs-look-like-they-re-falling-short-even-as-their-role-grows-asia-morning-briefing)**
 
 What looks like underperformance reflects a structural shift: ETF flows now smooth volatility rather than amplify crypto rallies.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
-**[Strategy Inc (MSTR) Stock News Today: $980M Bitcoin Buy, Nasdaq 100 Stay, MSCI Index Risk, and Wall Street Forecasts (Dec. 16, 2025)](https://ts2.tech/en/strategy-inc-mstr-stock-news-today-980m-bitcoin-buy-nasdaq-100-stay-msci-index-risk-and-wall-street-forecasts-dec-16-2025/)**
+**[There's a Proposed ETF for People Who Think Bitcoin Performs Better at Night](https://www.investopedia.com/there-s-a-proposed-etf-for-people-who-think-bitcoin-performs-better-at-night-btc-11867463)**
 
-Strategy Inc (MSTR) Stock News Today: $980M Bitcoin Buy, Nasdaq 100 Stay, MSCI Index Risk, and Wall Street Forecasts (Dec. 16, 2025) - TechStock²
+Nicholas Wealth filed to launch an ETF that aims to capture the performance of bitcoin outside the U.S. stock market's trading hours.
 
-ts2.tech • 5h ago
+Investopedia • 5h ago
 
 ---
 
-**[This department store stock has outperformed Nvidia, Tesla, Broadcom, and Bitcoin over the last five years](https://seekingalpha.com/news/4531529-this-department-store-stock-has-outperformed-nvidia-tesla-broadcom-and-bitcoin-over-the-last-five-years)**
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqeILMYOcC6uZGqVieFRkI2rVMSZ47acJ8s7s3Brkgi4zwSCAjZBNSuu&gaa_ts=6941d718&gaa_sig=QwbyWohayNVypMRexuX4bbNf-LJonVqY2TPTr-eksjktlpCnkVKi_bXiyVdIIV4iCzGZW0OyKBC4xQspRcYVBw%3D%3D)**
 
-This department store stock has outperformed Nvidia, Broadcom, Tesla, and Bitcoin over the last five years
-
-Seeking Alpha • 8h ago
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -263,7 +263,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 11h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 12h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -327,7 +327,7 @@ Aura Stop leaving yourself vulnerable to data breaches. Go to my sponsor https:/
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 731 • 💬 63 • ⏱️ 16:49 • 7h ago
+👁️ 9K • 👍 731 • 💬 63 • ⏱️ 16:49 • 8h ago
 
 ---
 
@@ -387,7 +387,7 @@ A major warning signal just flashed in Bitcoin — long-term holders are startin
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 430 • 💬 9 • ⏱️ 1:09:01 • 4h ago
+👁️ 5K • 👍 430 • 💬 9 • ⏱️ 1:09:01 • 5h ago
 
 ---
 

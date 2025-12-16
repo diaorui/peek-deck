@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T21:34:05.838312+00:00'
+updated: '2025-12-16T21:48:34.656017+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 21:34 UTC  
+**Last Updated:** December 16, 2025 at 21:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
+**24h:** +0.5%  
 **7d:** -11.0%  
 **30d:** -2.5%  
 **90d:** -35.6%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.79B
+**Market Cap:** $356.74B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.3%
 
 **All-Time Low:** $0.43
-+679678.9%
++682362.7%
 
 ---
 
@@ -92,7 +92,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -148,23 +148,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcGeQSCsYsKMMooLeOok-J7R-Rx5nn-U9HTQ3nc0Q44nqXWnKAd48S8&gaa_ts=6941d71a&gaa_sig=QcyscArjymTEcfb6AHLLs0h2p21WOE_JxfGRO4wt7WvclAE0oq4aRDv4zv46ns5DilzhK8eLCDbEY4TqxsBL5A%3D%3D)**
 
-The Block • 1d ago
-
----
-
-**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[JPMorgan Taps Ethereum for Tokenized 'MONY' Fund](https://finance.yahoo.com/news/jpmorgan-taps-ethereum-tokenized-mony-151021495.html)**
-
-JPMorgan Chase will begin offering an Ethereum-based, tokenized money-market fund called "MONY" to qualified investors on Tuesday.
-
-Yahoo Finance • 1d ago
+Barron's • 7h ago
 
 ---
 
@@ -198,6 +184,26 @@ The Block • 1d ago
 
 ---
 
+**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
+
+The Block • 1d ago
+
+---
+
+**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[JPMorgan Taps Ethereum for Tokenized 'MONY' Fund](https://finance.yahoo.com/news/jpmorgan-taps-ethereum-tokenized-mony-151021495.html)**
+
+JPMorgan Chase will begin offering an Ethereum-based, tokenized money-market fund called "MONY" to qualified investors on Tuesday.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
 CCN.com • 6h ago
@@ -207,14 +213,6 @@ CCN.com • 6h ago
 **[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
 
 TipRanks • 5h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
-
-Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
-
-Decrypt • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substanti
 
 📺 Paul Barron Network
 
-👁️ 10K • 👍 665 • 💬 155 • ⏱️ 29:25 • 4h ago
+👁️ 10K • 👍 665 • 💬 155 • ⏱️ 29:25 • 5h ago
 
 ---
 
@@ -318,7 +316,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 2K • 👍 138 • 💬 44 • ⏱️ 8:42 • 8h ago
+👁️ 2K • 👍 138 • 💬 44 • ⏱️ 8:42 • 9h ago
 
 ---
 

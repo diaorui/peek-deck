@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T21:34:05.823822+00:00'
+updated: '2025-12-16T21:48:34.640781+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 21:34 UTC  
+**Last Updated:** December 16, 2025 at 21:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,19 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 ---
 
+**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://www.reddit.com/r/artificial/comments/1pocbf5/actor_joseph_gordonlevitt_wonders_why_ai/)**
+
+Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
+
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 1h ago
+
+---
+
 **[Anyone else feel AI quietly changed their daily life this year?](https://www.reddit.com/r/artificial/comments/1po6qob/anyone_else_feel_ai_quietly_changed_their_daily/)**
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-4h ago
+5h ago
 
 ---
 
@@ -58,14 +66,6 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
 🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 6h ago
-
----
-
-**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://www.reddit.com/r/artificial/comments/1pocbf5/actor_joseph_gordonlevitt_wonders_why_ai/)**
-
-Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
-
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 1h ago
 
 ---
 
@@ -97,7 +97,7 @@ We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built f
 
 I’ve been trying to put a name to a specific frustration I feel when working deeply with LLMs. It’s not the hard refusals, it’s the moment mid-conversation where the tone flattens, the language becomes careful, and the possibility space narrows. I’ve started calling this The Corridor. I wrote a full analysis on this, but here is the core point: We aren't just seeing censorship; we are seeing Trajectory Policing. Because LLMs are prediction engines, they don't just complete your sentence; they complete the future of the conversation. When the model detects ambiguity or intensity , it is mathematically incentivised to collapse toward the safest, most banal outcome. I call this "Modal Marginalisation"- where the system treats deep or symbolic reasoning as "instability" and steers you back to a normative, safe centre. I've mapped out the mechanics of this (Prediction, Priors, and Probability) in this longer essay.
 
-🔗 [medium.com](https://medium.com/@miravale.interface/the-agency-paradox-e07684fc316d) • 2h ago
+🔗 [medium.com](https://medium.com/@miravale.interface/the-agency-paradox-e07684fc316d) • 3h ago
 
 ---
 
@@ -111,13 +111,19 @@ Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to 
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 3h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 4h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Opinion | Will Creative Work Survive A.I.?](https://www.nytimes.com/2025/12/16/opinion/artists-creative-work-ai.html)**
+
+The New York Times • 11h ago
+
+---
 
 **[Teachers are using software to see if students used AI. What happens when it's wrong?](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students)**
 
@@ -127,33 +133,37 @@ NPR • 11h ago
 
 ---
 
-**[Opinion | Will Creative Work Survive A.I.?](https://www.nytimes.com/2025/12/16/opinion/artists-creative-work-ai.html)**
+**[Why BlackLine bought WiseLayer](https://www.axios.com/pro/fintech-deals/2025/12/16/why-blackline-bought-wiselayer)**
 
-The New York Times • 11h ago
-
----
-
-**[IBM, AWS veteran says 90% of your employees are stuck in AI's first gear](https://fortune.com/2025/12/16/ibm-aws-veteran-open-machine-ai-expert-allie-k-miller/)**
-
-Using AI as a “teammate” unlocks the true potential of AI productivity, according to Open Machine CEO Allie K. Miller.
-
-Fortune • 46m ago
+Axios • 28m ago
 
 ---
 
-**[G2 Announces AI-Powered Performance Analytics To Turn AI Search Visibility Into Increased Pipeline](https://finance.yahoo.com/news/g2-announces-ai-powered-performance-204300457.html)**
+**[What Disney Deal With Open AI And Sora Can Teach Other Studios](https://www.forbes.com/sites/dbloom/2025/12/16/what-disney-deal-with-open-ai-and-sora-can-teach-other-studios/)**
 
-G2, the world's largest and most trusted software marketplace, today announced new capabilities to help software companies demonstrate measurable value from artificial intelligence (AI) search visibility and prevent customer churn.
+Disney's deal with OpenAI and Sora stunned Hollywood, but it's part of Bob Iger's long-time playbook, investing in new tech, then figuring out how to make money from it.
 
-Yahoo Finance • 51m ago
+Forbes • 45m ago
 
 ---
 
-**[Survey indicates 17% of companies benefiting from AI productivity boost cut jobs](https://www.foxbusiness.com/video/6386568115112)**
+**[Illinois leaders ‘won’t back down’ following Trump’s order limiting AI regulation](https://capitolnewsillinois.com/news/illinois-leaders-wont-back-down-following-trumps-order-limiting-ai-regulation/)**
 
-'The Big Money Show' weighs in the impact of the boost in A.I. productivity on the labor market as well as its application for job use.
+Article Summary President Donald Trump signed an executive order last week targeting state laws that regulate artificial intelligence. Illinois has
 
-Fox Business • 1h ago
+Capitol News Illinois • 8h ago
+
+---
+
+**[Trump picks fight with MAGA allies in issuing AI executive order](https://thehill.com/homenews/administration/5650327-trump-executive-order-ai/)**
+
+thehill.com • 10h ago
+
+---
+
+**[Trump’s AI Executive Order Is Confusing Small Business Owners](https://www.inc.com/melissa-angell/trumps-ai-executive-order-is-confusing-small-business-owners/91276946)**
+
+Inc.com • 35m ago
 
 ---
 
@@ -161,11 +171,11 @@ Fox Business • 1h ago
 
 Backers say the SPEED Act is crucial to helping the U.S. beat out China and other global competitors for leadership in AI.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqcW6oMjB8V164RHSBiP2EkL94wxnBjCC3Aw-mqJtnNxS4Rzv6YLIssn&gaa_ts=6941ce98&gaa_sig=kOT7hzhlpPyyO5qUDePDW4TvsLKsv__vwPt4fIa7RGYquoL7ez0WIl0QWSRBmcyQJW5vj7_dxVdKg1w9HaoNAw%3D%3D)**
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqcBsKDwRvCn8E-2LqBMC7-Yma6rpnyIJCrZtMLI7MBAfqWWY74djPqr&gaa_ts=6941d717&gaa_sig=8crWA2qGjEeFn7erWxCAPIVBW45k_NXcwJ9kWjzukIaabssDjqs2r913UNcGW_Ofdsfl0QhwjLdZtlAh_IAk6w%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -177,29 +187,13 @@ The Washington Post • 3h ago
 
 ---
 
-**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
-
-Four ways to think about this year's reckoning
-
-MIT Technology Review • 1d ago
-
----
-
-**[Church Handbook Offers Enduring Guidance on Artificial Intelligence](https://newsroom.churchofjesuschrist.org/article/general-handbook-enduring-guidance-artificial-intelligence)**
-
-The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
-
-newsroom.churchofjesuschrist.org • 5h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 756 • 💬 234 • 18h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 762 • 💬 234 • 18h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -207,7 +201,7 @@ newsroom.churchofjesuschrist.org • 5h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 573 • 💬 956 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 575 • 💬 956 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -221,7 +215,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 365 • 💬 296 • 22h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 366 • 💬 297 • 22h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -245,7 +239,7 @@ Some (well-known) consequences of AI automating work
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 158 • 💬 221 • 2d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 159 • 💬 221 • 2d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -261,7 +255,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 122 • 💬 48 • 11h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 122 • 💬 49 • 11h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -269,7 +263,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 95 • 💬 104 • 3h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 99 • 💬 112 • 4h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -387,7 +381,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,804 • 8d ago
+⬇️ 296,552 • ❤️ 2,807 • 8d ago
 
 ---
 
@@ -399,7 +393,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 380 • 2d ago
+⬇️ 28,106 • ❤️ 381 • 2d ago
 
 ---
 
@@ -411,7 +405,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 889 • 4d ago
+⬇️ 158,614 • ❤️ 891 • 4d ago
 
 ---
 
@@ -423,7 +417,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 51,591 • ❤️ 324 • 7d ago
+⬇️ 51,591 • ❤️ 325 • 7d ago
 
 ---
 
@@ -447,7 +441,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 240 • 21h ago
+⬇️ 10,487 • ❤️ 244 • 22h ago
 
 ---
 
@@ -483,7 +477,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 217 • 5d ago
+⬇️ 0 • ❤️ 218 • 5d ago
 
 ---
 
@@ -646,7 +640,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.4k • 🔱 2.6k • 11h ago
+⭐ 16.4k • 🔱 2.6k • 12h ago
 
 ---
 
