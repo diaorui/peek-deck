@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T08:41:40.354100+00:00'
+updated: '2025-12-16T09:01:48.763561+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - news
 - social
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 08:41 UTC  
+**Last Updated:** December 16, 2025 at 09:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -7.4%  
-**7d:** -12.0%  
-**30d:** -3.6%  
-**90d:** -36.3%  
-**1y:** -24.9%  
+**24h:** -7.3%  
+**7d:** -11.8%  
+**30d:** -3.4%  
+**90d:** -36.2%  
+**1y:** -24.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 12h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 13h ago
 
 ---
 
@@ -170,13 +170,13 @@ The Block • 20h ago
 
 Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -200,7 +200,7 @@ BeInCrypto • 1d ago
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 16h ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -236,7 +236,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 164 • ⏱️ 12:16 • 8h ago
+👁️ 37K • 👍 2K • 💬 164 • ⏱️ 12:16 • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 123 • 💬 37 • ⏱️ 6:53 • 8h ago
+👁️ 3K • 👍 123 • 💬 37 • ⏱️ 6:53 • 9h ago
 
 ---
 
@@ -286,7 +286,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 351 • 💬 75 • ⏱️ 18:30 • 4h ago
+👁️ 3K • 👍 351 • 💬 75 • ⏱️ 18:30 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 156 • 💬 3 • ⏱️ 8:04 • 9h ago
+👁️ 2K • 👍 156 • 💬 3 • ⏱️ 8:04 • 10h ago
 
 ---
 
@@ -316,7 +316,7 @@ TAO's halving isn't just another crypto event and it definitely isn't what most 
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 203 • 💬 11 • ⏱️ 41:01 • 17h ago
+👁️ 4K • 👍 203 • 💬 11 • ⏱️ 41:01 • 18h ago
 
 ---
 

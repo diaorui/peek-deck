@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T08:41:40.348171+00:00'
+updated: '2025-12-16T09:01:48.758255+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - news
 - social
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 08:41 UTC  
+**Last Updated:** December 16, 2025 at 09:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.9%  
-**7d:** -6.1%  
-**30d:** -6.4%  
-**90d:** -26.1%  
-**1y:** -18.7%  
+**24h:** -4.2%  
+**7d:** -6.2%  
+**30d:** -6.6%  
+**90d:** -26.3%  
+**1y:** -18.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 100k range might take till next year
 
-9h ago
+10h ago
 
 ---
 
@@ -155,7 +155,7 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -247,7 +247,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 19h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 20h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -327,7 +327,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 164 • ⏱️ 12:16 • 8h ago
+👁️ 37K • 👍 2K • 💬 164 • ⏱️ 12:16 • 9h ago
 
 ---
 
@@ -337,7 +337,7 @@ We have a classic case of the bear market blues :( Make sure you check out ITC p
 
 📺 Benjamin Cowen
 
-👁️ 11K • 👍 1K • 💬 95 • ⏱️ 19:58 • 1h ago
+👁️ 11K • 👍 1K • 💬 95 • ⏱️ 19:58 • 2h ago
 
 ---
 
@@ -377,7 +377,7 @@ Prediction markets. Crypto casinos. Tokenized stocks. A generation being told th
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 139 • 💬 5 • ⏱️ 14:39 • 13h ago
+👁️ 3K • 👍 139 • 💬 5 • ⏱️ 14:39 • 14h ago
 
 ---
 
