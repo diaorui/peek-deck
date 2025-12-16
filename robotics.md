@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T04:54:32.652571+00:00'
+updated: '2025-12-16T05:21:21.495082+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 04:54 UTC  
+**Last Updated:** December 16, 2025 at 05:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
 
-15h ago
+16h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 Been getting a lot of questions about how this projects works. Decided to post another video that shows the camera feed and also what the ai voice is saying as it is working through a prompt. Again feel free to ask any questions!!! Full video: https://youtu.be/UOc8WNjLqPs?si=XO0M8RQBZ7FDof1S
 
-5h ago
+6h ago
 
 ---
 
@@ -274,7 +274,7 @@ What should a robot look like? How necessary is a body? Where do the boundaries 
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 39 • 💬 3 • ⏱️ 1:25 • 6h ago
+👁️ 1K • 👍 39 • 💬 3 • ⏱️ 1:25 • 7h ago
 
 ---
 

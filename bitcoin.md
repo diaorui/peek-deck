@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T04:54:32.643264+00:00'
+updated: '2025-12-16T05:21:21.485935+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 04:54 UTC  
+**Last Updated:** December 16, 2025 at 05:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,807.25
+### $85,950.00
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -4.3%  
-**7d:** -6.7%  
-**30d:** -7.0%  
-**90d:** -26.6%  
-**1y:** -19.2%  
+**7d:** -6.4%  
+**30d:** -6.7%  
+**90d:** -26.4%  
+**1y:** -19.0%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 100k range might take till next year
 
-5h ago
+6h ago
 
 ---
 
 **[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
 
-8h ago
+9h ago
 
 ---
 
@@ -109,7 +109,7 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many times Bitcoin has been declared dead by critics and media, with the complete database of Bitcoin deaths.
 
-🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 8h ago
+🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 9h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 6h ago
 
 Bitcoin's drop to $85,800 has pushed new whales into 2023-level losses, while on-chain data reveals short-term holders buying the dips.
 
-Decrypt • 45m ago
+Decrypt • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 1h ago
 
 Bitcoin dropped nearly 4% to about $85,940 on Tuesday as Asian equities slipped at the open, with investors cutting risk before a run of US economic data that could shape the next leg for interest rates.Indexes in Japan dipped, while Australian shares edged higher, after the S&P 500 fell for ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 23h ago
+Financial Times • 1d ago
 
 ---
 
@@ -217,13 +217,13 @@ Barron's • 10h ago
 
 Sometimes you are the biggest risk to your portfolio's health.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
 **[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqeYk7ci3751KTcsSiAuqdb9mJcjvZi4UbtYGnpDRqqnPiL2gqUy03Jf&gaa_ts=6940e971&gaa_sig=tJAmZVe-99eSXx6vhtPrSLfMjElzc7LQC_I6UsBn16OH8mB4BMwi0E2H8o55i5BNuV-cfteF2li-QsJTPUplwg%3D%3D)**
 
-MarketWatch • 15h ago
+MarketWatch • 16h ago
 
 ---
 
@@ -327,7 +327,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 14K • 👍 728 • 💬 64 • ⏱️ 40:28 • 11h ago
+👁️ 14K • 👍 728 • 💬 64 • ⏱️ 40:28 • 12h ago
 
 ---
 
@@ -387,7 +387,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 8K • 👍 464 • 💬 137 • ⏱️ 8:05 • 9h ago
+👁️ 8K • 👍 464 • 💬 137 • ⏱️ 8:05 • 10h ago
 
 ---
 

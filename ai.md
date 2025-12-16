@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T04:54:32.634720+00:00'
+updated: '2025-12-16T05:21:21.477520+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 04:54 UTC  
+**Last Updated:** December 16, 2025 at 05:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Also: All the news and watercooler chat from Fortune.
 
 Over the past few months, I’ve been watching the pattern behind OpenAI’s releases. 5.2 dropping right before the holidays makes sense. End-of-year metrics matter, and strong Q4 performance boosts investor confidence. OpenAI now has a three-year licensing deal with Disney. Disney is one of the largest entertainment corporations in the world, and partnerships at that scale require stability, predictability, and performance metrics that appeal to investors and enterprise clients. 5.2 behaves like a model built to impress those groups first. Consumers were never the target audience for this release.
 
-28m ago
+55m ago
 
 ---
 
@@ -89,7 +89,7 @@ Over the past few months, I’ve been watching the pattern behind OpenAI’s rel
 
 The Understanding AI guide to open-weight models.
 
-🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 10h ago
+🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 11h ago
 
 ---
 
@@ -139,13 +139,13 @@ CNN • 12h ago
 
 **[US government launches campaign to hire engineers for AI, tech roles](https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 12h ago
 
 **[Nvidia unveils new open-source AI models amid boom in Chinese offerings](https://www.reuters.com/world/china/nvidia-unveils-new-open-source-ai-models-amid-boom-chinese-offerings-2025-12-15/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
@@ -173,7 +173,7 @@ Reuters • 14h ago
 
 The company is positioning its new offerings as a business-ready way for enterprises to build domain-specific agents without first needing to create foundation models.
 
-InfoWorld • 40m ago
+InfoWorld • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Guardian • 6h ago
 
 **[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqdR0wZGzvKhbN0ejckIuIkLscUYuf9njZlYcKHXHLKu5mx1gWh8d7IS&gaa_ts=6940e970&gaa_sig=kme4jVieOxtYLrekUnldsBG7L8SEN8fg_XCuajbVbJQ40m_rh5AkcoR7KT5w8QefZAjkez2j-A-KxXvA0bj2yQ%3D%3D)**
 
-The Wall Street Journal • 9h ago
+The Wall Street Journal • 10h ago
 
 ---
 
@@ -235,7 +235,7 @@ Some (well-known) consequences of AI automating work
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 179 • 💬 50 • 1h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 179 • 💬 50 • 2h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -327,7 +327,7 @@ Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
 
 📺 The Daily Show
 
-👁️ 169K • 👍 14K • 💬 351 • ⏱️ 2:38 • 13h ago
+👁️ 169K • 👍 14K • 💬 351 • ⏱️ 2:38 • 14h ago
 
 ---
 
@@ -365,7 +365,7 @@ Tiny punjabi women cutting Ginat fruits|hyper realistic ai art #shorts #ai Step 
 
 📺 Ai _fun _drama 
 
-👁️ 407 • 👍 2 • ⏱️ 0:26 • 1h ago
+👁️ 407 • 👍 2 • ⏱️ 0:26 • 2h ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Python`
 
-⭐ 1.1k • 🔱 217 • 15d ago
+⭐ 1.1k • 🔱 217 • 16d ago
 
 ---
 
@@ -711,7 +711,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 865 • 🔱 49 • 15h ago
+⭐ 865 • 🔱 49 • 16h ago
 
 ---
 

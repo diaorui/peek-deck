@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T04:54:32.649293+00:00'
+updated: '2025-12-16T05:21:21.491888+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 04:54 UTC  
+**Last Updated:** December 16, 2025 at 05:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.7%  
-**7d:** -12.4%  
-**30d:** -4.0%  
-**90d:** -36.6%  
-**1y:** -25.2%  
+**24h:** -7.1%  
+**7d:** -12.2%  
+**30d:** -3.7%  
+**90d:** -36.4%  
+**1y:** -25.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve never bought ETH before, but I’m thinking of getting some exposure now. I know the basics, I just want to buy ETH and move it to self-custody, hardware wallet, cold storage, the works. Plan is to buy and hold long term. Now I’m confused about the best approach. Some exchanges have crazy fees, others don’t allow ETH purchases, and I’ve read horror stories of accounts getting frozen on Binance. Thinking of using CoinSwitch, it seems good to me. I want a safe, hassle-free way to buy ETH and make sure I can move it securely to my own wallet.
 
-11h ago
+12h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 11h ago
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 13h ago
 
 **['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -208,7 +208,7 @@ BeInCrypto • 1d ago
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 12h ago
+CryptoSlate • 13h ago
 
 ---
 
@@ -248,7 +248,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 14K • 👍 728 • 💬 64 • ⏱️ 40:28 • 11h ago
+👁️ 14K • 👍 728 • 💬 64 • ⏱️ 40:28 • 12h ago
 
 ---
 
@@ -258,7 +258,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 93 • 💬 14 • ⏱️ 6:53 • 4h ago
+👁️ 1K • 👍 93 • 💬 14 • ⏱️ 6:53 • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ TAO's halving isn't just another crypto event and it definitely isn't what most 
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 195 • 💬 10 • ⏱️ 41:01 • 13h ago
+👁️ 4K • 👍 195 • 💬 10 • ⏱️ 41:01 • 14h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 131 • 💬 3 • ⏱️ 8:04 • 5h ago
+👁️ 1K • 👍 131 • 💬 3 • ⏱️ 8:04 • 6h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 136 • 💬 2 • ⏱️ 5:52 • 13h ago
+👁️ 3K • 👍 136 • 💬 2 • ⏱️ 5:52 • 14h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 7K • 👍 333 • 💬 102 • ⏱️ 25:11 • 6h ago
+👁️ 7K • 👍 333 • 💬 102 • ⏱️ 25:11 • 7h ago
 
 ---
 
