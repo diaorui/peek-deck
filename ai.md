@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T17:02:37.262470+00:00'
+updated: '2025-12-16T17:35:31.367046+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 17:02 UTC  
+**Last Updated:** December 16, 2025 at 17:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Grok chatbot faces scrutiny after sharing false claims about Bondi Beach shooting](https://www.reddit.com/r/artificial/comments/1po74xm/grok_chatbot_faces_scrutiny_after_sharing_false/)**
+
+Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 37m ago
+
+---
+
 **[Anthropic Exec Forces AI Chatbot on Gay Discord Community, Members Flee](https://www.reddit.com/r/artificial/comments/1po4nzu/anthropic_exec_forces_ai_chatbot_on_gay_discord/)**
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 1h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 2h ago
 
 ---
 
@@ -49,7 +57,15 @@ AI news, discussions, and developments
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 2h ago
+
+---
+
+**[Anyone else feel AI quietly changed their daily life this year?](https://www.reddit.com/r/artificial/comments/1po6qob/anyone_else_feel_ai_quietly_changed_their_daily/)**
+
+I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
+
+51m ago
 
 ---
 
@@ -69,14 +85,6 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 ---
 
-**[If AI replaces workers, should it also pay taxes?](https://www.reddit.com/r/artificial/comments/1pn7tvx/if_ai_replaces_workers_should_it_also_pay_taxes/)**
-
-The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
-
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 1d ago
-
----
-
 **[ZLUDA for CUDA on non-NVIDIA GPUs enables AMD ROCm 7 support](https://www.reddit.com/r/artificial/comments/1po01ci/zluda_for_cuda_on_nonnvidia_gpus_enables_amd_rocm/)**
 
 The ZLUDA open-source project that has been through several incarnations but ultimately about getting CUDA software up and running on non-NVIDIA GPUs now supports the AMD ROCm 7 series.
@@ -85,11 +93,19 @@ The ZLUDA open-source project that has been through several incarnations but ult
 
 ---
 
+**[If AI replaces workers, should it also pay taxes?](https://www.reddit.com/r/artificial/comments/1pn7tvx/if_ai_replaces_workers_should_it_also_pay_taxes/)**
+
+The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
+
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 1d ago
+
+---
+
 **[AI Bathroom Monitors? Welcome To America’s New Surveillance High Schools](https://www.reddit.com/r/artificial/comments/1po5yrw/ai_bathroom_monitors_welcome_to_americas_new/)**
 
 Schools across the U.S. are rolling out AI-powered surveillance technology, including drones, facial recognition and even bathroom listening devices. But there’s not much data to prove they keep kids safe.
 
-🔗 [Forbes](https://go.forbes.com/evAZNR) • 48m ago
+🔗 [Forbes](https://go.forbes.com/evAZNR) • 1h ago
 
 ---
 
@@ -98,22 +114,6 @@ Schools across the U.S. are rolling out AI-powered surveillance technology, incl
 Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to bolster the open-source AI ecosystem
 
 🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 1h ago
-
----
-
-**[Nvidia Becomes a Major Model Maker With Nemotron 3](https://www.reddit.com/r/artificial/comments/1pn9big/nvidia_becomes_a_major_model_maker_with_nemotron_3/)**
-
-The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
-
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 1d ago
-
----
-
-**[Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot](https://www.reddit.com/r/artificial/comments/1pmuboi/microsoft_scales_back_ai_goals_because_almost/)**
-
-RIP Copilot.
-
-🔗 [extremetech.com](https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot) • 1d ago
 
 ---
 
@@ -131,7 +131,7 @@ NPR • 7h ago
 
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 1d ago
+The New York Times • 20h ago
 
 ---
 
@@ -141,45 +141,23 @@ The New York Times • 7h ago
 
 ---
 
-**[At least 16 sites eyed for data centers in Michigan amid AI boom. Here’s where](https://www.mlive.com/news/2025/12/at-least-16-sites-eyed-for-data-centers-in-michigan-amid-ai-boom-heres-where.html)**
+**[Racks of AI chips are too damn heavy](https://www.theverge.com/ai-artificial-intelligence/844966/heavy-ai-data-center-buildout)**
 
-Booming interest in artificial intelligence and new state tax breaks are driving a frenzy of data center development proposals across the Lower Peninsula.
+Too great a weight.
 
-MLive.com • 1h ago
-
----
-
-**[Banking's AI reckoning: 13 expert predictions for 2026](https://finance.yahoo.com/news/bankings-ai-reckoning-13-expert-162100759.html)**
-
-The AI experiments are over. In 2026, banking enters a new phase – one where autonomous agents handle real customer requests, synthetic data threatens core repositories and trust becomes a measurable performance metric. The question is no longer whether AI will transform banking but whether institutions are prepared for the consequences of the accelerating transformation already underway.
-
-Yahoo Finance • 41m ago
+The Verge • 4h ago
 
 ---
 
-**[Sergey Brin says his commute involves talking to an unreleased Gemini AI model about building data centers](https://www.businessinsider.com/google-sergey-brin-gemini-live-dogfooding-data-centers-2025-12)**
+**[Here’s where to invest in AI, copper and credit before the holidays, according to Citi](https://www.marketwatch.com/story/heres-where-to-invest-in-ai-copper-and-credit-before-the-holidays-according-to-citi-c12c4f44?gaa_at=eafs&gaa_n=AWEtsqeUKwv5c7lmAM118n3sA2fxS5XeqdwiwW8km_IH4LdAIbKgNlWuCBjc&gaa_ts=69419bc7&gaa_sig=hsmRJkfQy1j403nVGW4gZzHdQrI2TYo8TdnBYV-DT4H-JLZ7ofgDnjxlm3o6df9JRSyl-Xn5L4MBjj67PCzDSA%3D%3D)**
 
-"Give me a few weeks to actually ship what I have access to," Google cofounder Sergey Brin said, describing a coming Gemini Live model.
-
-Business Insider • 55m ago
+MarketWatch • 9m ago
 
 ---
 
-**[Allen Institute for AI rivals Google, Meta and OpenAI with open-source AI vision model](https://www.geekwire.com/2025/allen-institute-for-ai-rivals-google-meta-and-openai-with-open-source-video-analysis-model/)**
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqc1Y1EJaYgYOXTpfA3Pzxj2XE-CRSMOmy5YHOJTJuAOUePj1GNdmF-V&gaa_ts=69419bc8&gaa_sig=7OiQbnNLHoyKNTenIGW-i-Kzw_kGxIHoEd7QfkhQIyQNObXVcdu_bTddGyenqhRmxkU7Ac860quNFDO3n4450w%3D%3D)**
 
-GeekWire • 45m ago
-
----
-
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqd5CgP-Wk84QE88BGihMCMhqnyX_ZIOihppOWdNb6Z_Ao088eFti_Zd&gaa_ts=69418f07&gaa_sig=V75jKSKYw9pL2JH-2SrxZ-kt7NKQMA8MHAlJ_ymfYC9hWTlfB3pajpQgDSWMKTVwx6eBY50h1pCA89HcxyPQ8g%3D%3D)**
-
-The Wall Street Journal • 21h ago
-
----
-
-**[Publishers and brands grapple with AI errors](https://www.axios.com/2025/12/16/ai-media-mistakes-backlash)**
-
-Axios • 1h ago
+The Wall Street Journal • 22h ago
 
 ---
 
@@ -189,13 +167,35 @@ The Washington Post • 1h ago
 
 ---
 
+**[Bank of America's top chip stocks to play AI in 2026](https://www.cnbc.com/2025/12/16/bank-of-americas-top-chip-stocks-to-play-ai-in-2026.html)**
+
+AI poster child Nvidia is among Bank of America's top six for 2026.
+
+CNBC • 1h ago
+
+---
+
+**[Why 2026 could be the year of anti-AI marketing](https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap)**
+
+It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
+
+CNN • 6h ago
+
+---
+
+**[Publishers and brands grapple with AI errors](https://www.axios.com/2025/12/16/ai-media-mistakes-backlash)**
+
+Axios • 2h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 706 • 💬 225 • 13h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 727 • 💬 227 • 14h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -203,7 +203,7 @@ The Washington Post • 1h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 569 • 💬 934 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 571 • 💬 938 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -211,13 +211,13 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 385 • 💬 375 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 388 • 💬 375 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 352 • 💬 286 • 18h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 355 • 💬 289 • 18h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -225,7 +225,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 295 • 💬 300 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 297 • 💬 301 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -241,7 +241,7 @@ Some (well-known) consequences of AI automating work
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 158 • 💬 219 • 2d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 158 • 💬 220 • 2d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -253,17 +253,19 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 ---
 
+**[ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://news.ycombinator.com/item?id=46286666)**
+
+Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
+
+⬆️ 86 • 💬 35 • 7h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+
+---
+
 **[Willison on Merchant's "Copywriters reveal how AI has decimated their industry"](https://news.ycombinator.com/item?id=46261998)**
 
 Brian Merchant has been collecting personal stories for his series AI Killed My Job - previously covering tech workers, translators, and artists - and this latest piece includes anecdotes from …
 
 ⬆️ 80 • 💬 89 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
-
----
-
-**[Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://news.ycombinator.com/item?id=46277477)**
-
-⬆️ 79 • 💬 39 • 23h ago • [X (formerly Twitter)](https://twitter.com/AKurian001/status/1986979144014701026)
 
 ---
 
@@ -307,7 +309,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 29K • 👍 671 • 💬 104 • ⏱️ 11:23 • 16h ago
+👁️ 29K • 👍 671 • 💬 104 • ⏱️ 11:23 • 17h ago
 
 ---
 
@@ -383,7 +385,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,801 • 8d ago
+⬇️ 296,552 • ❤️ 2,802 • 8d ago
 
 ---
 
@@ -407,7 +409,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 883 • 4d ago
+⬇️ 158,614 • ❤️ 884 • 4d ago
 
 ---
 
@@ -455,7 +457,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 225 • 17h ago
+⬇️ 10,487 • ❤️ 230 • 17h ago
 
 ---
 
@@ -467,7 +469,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 6,543 • ❤️ 222 • 2d ago
+⬇️ 6,543 • ❤️ 223 • 2d ago
 
 ---
 
@@ -483,15 +485,13 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 ---
 
-**[AutoGLM-Phone-9B-Multilingual](https://huggingface.co/zai-org/AutoGLM-Phone-9B-Multilingual)**
+**[Qwen-Image-i2L](https://huggingface.co/DiffSynth-Studio/Qwen-Image-i2L)**
 
-*Z.ai*
+*DiffSynth-Studio*
 
-AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent assistance, capable of understanding smartphone UIs via multimodal perception and executing tasks through ADB. It enables natural language control for automated operations on Android devices.
+Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-`image-text-to-text` `934,400`
-
-⬇️ 7,731 • ❤️ 184 • 7d ago
+⬇️ 0 • ❤️ 185 • 11h ago
 
 ---
 

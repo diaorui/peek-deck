@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T17:02:37.276920+00:00'
+updated: '2025-12-16T17:35:31.381468+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 17:02 UTC  
+**Last Updated:** December 16, 2025 at 17:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -11.5%  
-**30d:** -3.0%  
-**90d:** -35.9%  
+**24h:** -0.1%  
+**7d:** -11.6%  
+**30d:** -3.1%  
+**90d:** -36.0%  
 **1y:** -24.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.44B
+**Market Cap:** $354.03B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.7%
 
 **All-Time Low:** $0.43
-+677965.2%
++677591.1%
 
 ---
 
@@ -154,13 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 1h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -172,9 +166,29 @@ Decrypt • 1d ago
 
 ---
 
+**['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
+
+The Block • 1d ago
+
+---
+
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
 The Block • 1d ago
+
+---
+
+**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Tokenization News: $4T Bank JPMorgan Launches Onchain Fund on Ethereum](https://www.coindesk.com/business/2025/12/15/jpmorgan-launches-tokenized-money-market-fund-on-ethereum-as-wall-street-moves-onchain-report)**
+
+The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -190,7 +204,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin and Ethereum wavered after U.S. jobs data, but prediction markets still favor a return to $100K amid expected Fed rate cuts.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -202,25 +216,9 @@ Nasdaq • 2d ago
 
 ---
 
-**[Ethereum News Today: ETH Fails to Hold $3K Amid ETF Outflows, Underperforms Market](https://www.binance.com/sl/square/post/12-16-2025-ethereum-news-today-eth-fails-to-hold-3k-amid-etf-outflows-underperforms-market-33796769389849)**
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-Binance • 1h ago
-
----
-
-**[Which Breakout Could Come First: Bitcoin at $100K or Ethereum Above $4,000?](https://www.tradingview.com/news/coinpedia:914e7218a094b:0-which-breakout-could-come-first-bitcoin-at-100k-or-ethereum-above-4-000/)**
-
-Bitcoin and Ethereum are entering one of their most critical phases of the year after a sharp market-wide pullback sent BTC briefly below $86,000, shaking out overleveraged traders and resetting sentiment across major assets. Despite the volatility, both cryptocurrencies are now coiling near major…
-
-TradingView — Track All Markets • 4h ago
-
----
-
-**[Ethereum is fighting for survival as insiders warn a "dangerous complacency" could make it irrelevant by 2030](https://cryptoslate.com/ethereum-is-fighting-for-survival-as-insiders-warn-a-dangerous-complacency-could-make-it-irrelevant-by-2030/)**
-
-As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
-
-CryptoSlate • 1d ago
+CCN.com • 2h ago
 
 ---
 
@@ -274,7 +272,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 48K • 👍 2K • 💬 116 • ⏱️ 13:11 • 20h ago
+👁️ 48K • 👍 2K • 💬 116 • ⏱️ 13:11 • 21h ago
 
 ---
 
@@ -304,7 +302,7 @@ Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substanti
 
 📺 Paul Barron Network
 
-👁️ 944 • 👍 84 • 💬 16 • ⏱️ 29:25 • 25m ago
+👁️ 944 • 👍 84 • 💬 16 • ⏱️ 29:25 • 58m ago
 
 ---
 
@@ -324,7 +322,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 18K • 👍 838 • 💬 86 • ⏱️ 40:28 • 23h ago
+👁️ 18K • 👍 838 • 💬 86 • ⏱️ 40:28 • 1d ago
 
 ---
 

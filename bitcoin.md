@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T17:02:37.270932+00:00'
+updated: '2025-12-16T17:35:31.375444+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 17:02 UTC  
+**Last Updated:** December 16, 2025 at 17:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,576.67
+### $87,476.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** -4.5%  
-**30d:** -4.8%  
-**90d:** -24.9%  
-**1y:** -17.4%  
+**24h:** +1.6%  
+**7d:** -4.7%  
+**30d:** -5.1%  
+**90d:** -25.1%  
+**1y:** -17.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1749.92B
+**Market Cap:** $1744.15B
 Rank #1
 
-**Circulating Supply:** 19,962,928 BTC
+**Circulating Supply:** 19,962,934 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.7%
 
 **All-Time Low:** $67.81
-+129168.5%
++128717.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ Are you still buying?
 
 **[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -131,17 +131,19 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 ---
 
+**[2013 → 2024: The same person, the same Bitcoin, completely different life milestones.](https://www.reddit.com/r/Bitcoin/comments/1po6uf3/2013_2024_the_same_person_the_same_bitcoin/)**
+
+In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
+
+48m ago
+
+---
+
 **[Don’t Sell](https://www.reddit.com/r/Bitcoin/comments/1pn8nl0/dont_sell/)**
 
 Buy some bitcoin and store it.
 
 1d ago
-
----
-
-**[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
-
-20h ago
 
 ---
 
@@ -153,7 +155,7 @@ Buy some bitcoin and store it.
 
 Bitcoin is headed for the fourth annual decline in its history, and the first one that didn’t coincide with a major scandal or industry meltdown.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -161,13 +163,27 @@ Bloomberg.com • 2h ago
 
 Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
-**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqdLIFZPQXSRoDSquBVuoBG6kbGNIYy3xce7IYZX55BYsZr-OhsWn7wG&gaa_ts=69418f08&gaa_sig=sHdxSZK5Y4QuTbufaokEWal-HAO22MJfiRCYnl7Bdsna9isplmpbG-sXHyeCnnzf-FV8u04W0F8vKarfFBc-kQ%3D%3D)**
+**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqdInVR73PtdnqMtXkOl97Ry-nYeDm9d61-3sGkGPQKKJetESkwtZoYP&gaa_ts=69419bc9&gaa_sig=dTMpTTVyrQ-6jH50E_qj8p1cUHWxXI8iDRkoEl0QaH62eG-h0NBrIBzVQ5AKMW9tRDKxal3Dq6yslrdjswtnyg%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
+
+---
+
+**[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
+
+The Block • 6h ago
+
+---
+
+**[Bitwise Chief: Bitcoin to Hit Fresh Records in 2026 and Break Four-Year Cycle](https://finance.yahoo.com/news/bitwise-chief-bitcoin-hit-fresh-160657168.html)**
+
+Major asset managers are forecasting that Bitcoin will shatter its traditional four-year cycle and reach new all-time highs in 2026, driven by massive institutional capital inflows and regulatory clarity. Bitwise Chief Investment Officer Matt Hougan and Grayscale Research both project BTC will exceed its previous peak despite conventional wisdom suggesting ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,11 +195,11 @@ CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin Treasury Companies Are Undervalued](https://bitcoinmagazine.com/markets/bitcoin-treasury-companies-are-undervalued)**
+**[Bitcoin (BTC) treasury company news: ABTC brings holdings to 5,098 coins](https://www.coindesk.com/markets/2025/12/16/eric-trump-s-american-bitcoin-jumps-to-20th-among-public-btc-treasury-companies)**
 
-Exceptional opportunity in Bitcoin treasury companies: Asymmetric upside if BTC rebounds. MSTR could hit $500/share in bullish scenario.
+After its latest purchase, the company now holds 5,098 bitcoin worth nearly $450 million
 
-Bitcoin Magazine • 2h ago
+CoinDesk • 18m ago
 
 ---
 
@@ -201,25 +217,11 @@ The Block • 20h ago
 
 ---
 
-**[Look Out Below: Another 3% Drop In Bitcoin Brings This Token Toward a Key Level](https://www.fool.com/investing/2025/12/15/look-out-below-another-3-drop-in-bitcoin-brings-th/)**
+**[Serious 2026 $3 Trillion Crypto ‘Collapse’ Fed Warning Issued—$10,000 Bitcoin Price Predicted As Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2025/12/16/serious-2026-3-trillion-crypto-collapse-fed-warning-issued-10000-bitcoin-price-predicted-as-crash-fears-swirl/)**
 
-Bitcoin's recent price decline has picked up steam in recent weeks.
+The bitcoin price could be teetering on the verge of a massive crash that could wipe out almost all cryptocurrencies...
 
-The Motley Fool • 19h ago
-
----
-
-**[Don't Be Surprised If Bitcoin Resets to $10,000: Top Bloomberg Expert Reveals 2007 Parallel](https://www.tradingview.com/news/u_today:3da8d4b66094b:0-don-t-be-surprised-if-bitcoin-resets-to-10-000-top-bloomberg-expert-reveals-2007-parallel/)**
-
-Mike McGlone, a Bloomberg Intelligence strategist, continues to insist that Bitcoin could go back up to $10,000, and his reasoning has nothing to do with belief, messaging or loyalty to the asset. At the end of the day, it is all about who has already bought, when that money came in and who is left…
-
-TradingView — Track All Markets • 3h ago
-
----
-
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqddgUdFpQ6TaqTjc4WlSzQwAZI8WKt109RXg2hx6Vs7bGhdK6iwJM2w&gaa_ts=69418f08&gaa_sig=WwSUfBq9Jtkv2TfbriJYbufdLKDcIDTr3nUDH2iixnfIE5oAXV-Rfd7xNJkgiDn_3_ue6ieIbt5EaFdy7Qk64Q%3D%3D)**
-
-MarketWatch • 1d ago
+Forbes • 4h ago
 
 ---
 
@@ -231,7 +233,7 @@ MarketWatch • 1d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 7 • 💬 3 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 7 • 💬 3 • 3d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -275,14 +277,6 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 ---
 
-**[Show HN: Swift Bitcoin - Experimental full node and dev framework for Swift](https://news.ycombinator.com/item?id=46207529)**
-
-Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
-
-⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
-
----
-
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
 ⬆️ 2 • 💬 0 • 5d ago
@@ -291,7 +285,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 8 • 💬 1 • 1h ago
+⬆️ 8 • 💬 1 • 2h ago
 
 ---
 
@@ -305,7 +299,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 21K • 👍 484 • 💬 310 • ⏱️ 10:03 • 10h ago
+👁️ 21K • 👍 484 • 💬 310 • ⏱️ 10:03 • 11h ago
 
 ---
 
@@ -315,7 +309,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 2K • 💬 523 • ⏱️ 8:04 • 15h ago
+👁️ 28K • 👍 2K • 💬 523 • ⏱️ 8:04 • 16h ago
 
 ---
 
@@ -375,7 +369,7 @@ A major warning signal just flashed in Bitcoin — long-term holders are startin
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 292 • 💬 1 • ⏱️ 1:09:01 • 19m ago
+👁️ 2K • 👍 292 • 💬 1 • ⏱️ 1:09:01 • 52m ago
 
 ---
 
@@ -385,7 +379,7 @@ Japan is about to hike rates, and history says Bitcoin gets rekt every time. Wit
 
 📺 Simply Bitcoin
 
-👁️ 41K • 👍 3K • 💬 307 • ⏱️ 18:49 • 17h ago
+👁️ 41K • 👍 3K • 💬 307 • ⏱️ 18:49 • 18h ago
 
 ---
 
