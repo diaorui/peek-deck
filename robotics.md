@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T10:23:25.509053+00:00'
+updated: '2025-12-16T10:48:21.531710+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 10:23 UTC  
+**Last Updated:** December 16, 2025 at 10:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
-7h ago
+8h ago
 
 ---
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -56,7 +56,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
-4h ago
+5h ago
 
 ---
 
@@ -64,7 +64,7 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
-6h ago
+7h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Been getting a lot of questions about how this projects works. Decided to post a
 
 IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-robotics/Reachy_Mini_Assembly_Guide
 
-18h ago
+19h ago
 
 ---
 
@@ -138,13 +138,13 @@ PR Newswire • 1d ago
 
 The filing comes just one year after Amazon dropped the ball on a $1.7 billion acquisition of the company.
 
-MassLive.com • 19h ago
+MassLive.com • 20h ago
 
 ---
 
 **[Trending tickers: Ford, PayPal, AMC Robotics, Korea Zinc and Rolls-Royce](https://uk.finance.yahoo.com/news/ford-paypal-amc-robotics-korea-zinc-rolls-royce-trending-tickers-092758134.html)**
 
-Yahoo Finance UK • 55m ago
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -152,7 +152,7 @@ Yahoo Finance UK • 55m ago
 
 It is my pleasure to open this edition of our quarterly newsletter as we approach the end of 2025 - a year that has brought remarkable momentum, important breakthroughs, and renewed confidence to the global robotics community.
 
-International Federation of Robotics • 10m ago
+International Federation of Robotics • 35m ago
 
 ---
 
@@ -168,7 +168,7 @@ The Motley Fool • 1d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -184,7 +184,7 @@ InvestorPlace • 1d ago
 
 German company Quantum Systems and Ukrainian drone manufacturer Frontline Robotics announced the creation of a joint venture, Quantum Frontline Industries.
 
-Мілітарний • 17h ago
+Мілітарний • 18h ago
 
 ---
 
@@ -198,7 +198,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 15K • 👍 510 • 💬 68 • ⏱️ 11:23 • 10h ago
+👁️ 18K • 👍 551 • 💬 69 • ⏱️ 11:23 • 10h ago
 
 ---
 
@@ -208,7 +208,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 23K • 👍 632 • 💬 97 • ⏱️ 6:41 • 1d ago
+👁️ 24K • 👍 637 • 💬 94 • ⏱️ 6:41 • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 294K • 👍 9K • 💬 317 • ⏱️ 0:34 • 2d ago
+👁️ 300K • 👍 10K • 💬 317 • ⏱️ 0:34 • 2d ago
 
 ---
 
@@ -226,17 +226,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 190K • 👍 2K • 💬 18 • ⏱️ 0:21 • 1d ago
-
----
-
-**[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
-
-Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
-
-📺 RICHLEV
-
-👁️ 138K • 👍 4K • 💬 937 • ⏱️ 17:05 • 1d ago
+👁️ 214K • 👍 2K • 💬 22 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -244,7 +234,7 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 
 📺 BlueAI25
 
-👁️ 8K • 👍 89 • 💬 6 • ⏱️ 0:24 • 14h ago
+👁️ 9K • 👍 93 • 💬 6 • ⏱️ 0:24 • 15h ago
 
 ---
 
@@ -264,17 +254,7 @@ Discover the latest girlfriend robot in this eye-opening tech expo experience! E
 
 📺 Ricey Rice
 
-👁️ 193K • 👍 659 • 💬 5 • ⏱️ 0:06 • 20h ago
-
----
-
-**[This self aware robot escaped... (and he&#39;s after US)](https://www.youtube.com/watch?v=EvJwEw3lOwo)**
-
-This self aware robot escaped... (and he's after US) Like and subscribe. socials INSTAGRAM: https://www.instagram.com/qerello_/ ...
-
-📺 Qerello
-
-👁️ 5K • 👍 306 • 💬 48 • ⏱️ 12:54 • 1d ago
+👁️ 205K • 👍 714 • 💬 10 • ⏱️ 0:06 • 20h ago
 
 ---
 
@@ -284,7 +264,27 @@ This self aware robot escaped... (and he's after US) Like and subscribe. socials
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 49 • 💬 4 • ⏱️ 1:25 • 12h ago
+👁️ 2K • 👍 51 • 💬 4 • ⏱️ 1:25 • 12h ago
+
+---
+
+**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
+
+I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
+
+📺 Kyle Krueger
+
+👁️ 5.4M • 👍 168K • 💬 3K • ⏱️ 0:51 • 5d ago
+
+---
+
+**[AI Robot Harvesting Grapes in the Vineyard 🍇🤖](https://www.youtube.com/watch?v=o0EILTw-1hs)**
+
+Experience the future of agriculture! In this video, an AI-powered farming robot assists a farmer by harvesting grapes with ...
+
+📺 𝗦𝗺𝗮𝗿𝘁 𝗙𝗮𝗿𝗺𝗶𝗻𝗴 𝗧𝗲𝗰𝗵
+
+👁️ 8K • 👍 34 • ⏱️ 0:08 • 2h ago
 
 ---
 

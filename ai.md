@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T10:23:25.491109+00:00'
+updated: '2025-12-16T10:48:21.513707+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 10:23 UTC  
+**Last Updated:** December 16, 2025 at 10:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ RIP Copilot.
 
 Also: All the news and watercooler chat from Fortune.
 
-🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 17h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 18h ago
 
 ---
 
@@ -90,7 +90,7 @@ Also: All the news and watercooler chat from Fortune.
 When I reverse-engineered ChatGPT’s memory system, I found it uses pre-computed summaries injected into every prompt. But Claude’s approach is different. Through extensive experimentation, I discovered Claude uses on-demand tools and selective retrieval, a fundamentally different architecture. But how does this actually work? And how does it compare to ChatGPT’s approach?
 This is the second post in a series where I reverse-engineer the memory systems of popular AI assistants. The first post focused on ChatGPT’s memory system.
 
-🔗 [manthanguptaa.in](https://manthanguptaa.in/posts/claude_memory) • 3h ago
+🔗 [manthanguptaa.in](https://manthanguptaa.in/posts/claude_memory) • 4h ago
 
 ---
 
@@ -98,7 +98,7 @@ This is the second post in a series where I reverse-engineer the memory systems 
 
 Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI Foundation Google drops Deep Research + AlphaEvolve agent A collection of AI Agent Updates! 🧵 1. Stripe Launches Agentic Commerce Suite Single integration for businesses to sell via multiple AI agents. Handles product discovery, agentic checkout, payments, and fraud. Manage all agents from Stripe Dashboard. Works with existing commerce stack. AI-native commerce infrastructure now available. 2. OpenAI Co-Founds Agentic AI Foundation with Anthropic and Block Under Linux Foundation to support open, interoperable standards for agentic AI. Donating to establish standards enabling safe, reliable agents across tools and repositories. Industry leaders aligning on agent interoperability. 3. Google Opens Gemini Deep Research Agent to Developers Most advanced autonomous research capabilities now embeddable in applications for first time. Also open-sourcing DeepSearchQA benchmark for evaluating agents on complex search tasks. Google's agent infrastructure available to all developers. 4. Anthropic is Developing New Agent Mode for Claude Code-named "Yukon Gold" - tasks-based complex agent experience with toggle between classic chat and agent mode. Also testing pixel art avatar generation from uploaded photos. Claude may be getting a dedicated agent interface. 5. Google Cloud Unveils AlphaEvolve Coding Agent Gemini-powered agent for designing advanced algorithms. Uses LLMs to propose intelligent code modifications with feedback loop that evolves algorithms to be more efficient. Now in private preview. Haven’t tried, but seems promising. 6. Real Agent Usage Data: Harvard Analyzes Hundreds of Millions of Queries Perplexity study shows 55% personal use, 30% professional. Productivity/workflow dominates (36% of queries), followed by learning/research (21%). Users shift from simple to complex tasks over time. Real data on how people actually use agents. 7. Stitchbygoogle Launches Redesign Agent with Code Generation Screenshot apps, visually reimagine with Gemini Pro, then convert redesigns into working HTML. "Shipmas" week begins - new ship daily with big launch Wednesday. Screenshot → Redesign → Code → Deploy workflow now live. 8. Cursor Agents Can Now Debug Your Hardest Bugs Debug Mode instruments code, spins up server, captures logs, and streams runtime data to agent. Version 2.2 adds multi-agent judging (picks best solution) and Plan Mode improvements with diagrams. AI agents now debugging production code. 9. Code Drops Major Agent Experience Upgrade Agent sessions integrated into chat view. Isolated background agents via Git worktrees enable multiple agents without conflicts. Seamless delegation with automatic context transfer between local, background, and cloud agents. Multi-agent workflows now native in VS Code. 10. Microsoft Research Unveils Agent Lightning Decouples how agents work from training. Turns each agent step into reinforcement learning data. Developers can improve agent performance with almost zero code changes. RL for agents without code rewrites. That's a wrap on this week's Agentic news. Which update are you trying first? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-15h ago
+16h ago
 
 ---
 
@@ -130,7 +130,7 @@ The New York Times • 13h ago
 
 **[‘We have a right to do this’: DeSantis wants Florida to move ahead with AI policies](https://www.politico.com/news/2025/12/15/we-have-a-right-to-do-this-desantis-wants-florida-to-move-ahead-with-ai-policies-00690680)**
 
-Politico • 16h ago
+Politico • 17h ago
 
 ---
 
@@ -138,7 +138,7 @@ Politico • 16h ago
 
 A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -152,7 +152,7 @@ The New York Times • 4d ago
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-NPR • 23m ago
+NPR • 48m ago
 
 ---
 
@@ -160,7 +160,7 @@ NPR • 23m ago
 
 More than half or 53% of shoppers surveyed by CouponFollow said they have or plan to use AI for holiday shopping.
 
-USA Today • 17m ago
+USA Today • 42m ago
 
 ---
 
@@ -168,7 +168,7 @@ USA Today • 17m ago
 
 Most executives say their AI projects arenât delivering returns, but nearly 70% still plan to spend more next year.
 
-Gizmodo • 22m ago
+Gizmodo • 47m ago
 
 ---
 
@@ -176,7 +176,7 @@ Gizmodo • 22m ago
 
 AI Mode is mangling recipes by merging instructions from multiple creators – and causing them huge dips in ad traffic
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -282,17 +282,17 @@ From November, Anderson Cooper's report on why Anthropic's CEO spends so much ti
 
 📺 60 Minutes
 
-👁️ 530K • 👍 8K • 💬 1K • ⏱️ 1:21:07 • 2d ago
+👁️ 539K • 👍 8K • 💬 1K • ⏱️ 1:21:07 • 2d ago
 
 ---
 
-**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
+**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
 
-OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
+Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
 
 📺 AI Revolution
 
-👁️ 41K • 👍 2K • 💬 162 • ⏱️ 12:07 • 1d ago
+👁️ 18K • 👍 551 • 💬 69 • ⏱️ 11:23 • 10h ago
 
 ---
 
@@ -302,7 +302,27 @@ Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bily
 
 📺 Tom Bilyeu
 
-👁️ 51K • 👍 2K • 💬 628 • ⏱️ 23:28 • 21h ago
+👁️ 53K • 👍 2K • 💬 627 • ⏱️ 23:28 • 21h ago
+
+---
+
+**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
+
+OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
+
+📺 AI Revolution
+
+👁️ 41K • 👍 2K • 💬 163 • ⏱️ 12:07 • 1d ago
+
+---
+
+**[The Most Powerful AI Shift Is Happening Without Anyone Noticing](https://www.youtube.com/watch?v=EjQpzEeiL3k)**
+
+Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPTERS ⤵ 00:00 – Keep It Curious 04:03 – Disney ...
+
+📺 Dylan Curious
+
+👁️ 7K • 👍 428 • 💬 71 • ⏱️ 30:05 • 19h ago
 
 ---
 
@@ -312,7 +332,15 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 111K • 👍 4K • 💬 600 • ⏱️ 20:44 • 1d ago
+👁️ 118K • 👍 4K • 💬 632 • ⏱️ 20:44 • 1d ago
+
+---
+
+**[I bought 3 AI-generated products.. here’s what they REALLY look like. 🤡](https://www.youtube.com/watch?v=p6sslqc-BME)**
+
+📺 Maggie McGaugh
+
+👁️ 153K • 👍 8K • 💬 129 • ⏱️ 1:16 • 14h ago
 
 ---
 
@@ -322,7 +350,7 @@ Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
 
 📺 Anime world 
 
-👁️ 207K • 👍 1K • 💬 1 • ⏱️ 0:22 • 1d ago
+👁️ 208K • 👍 1K • 💬 1 • ⏱️ 0:22 • 1d ago
 
 ---
 
@@ -332,23 +360,7 @@ The White House has raised fresh concerns after admitting that China is turning 
 
 📺 Mint
 
-👁️ 45K • 👍 567 • 💬 231 • ⏱️ 4:14 • 1d ago
-
----
-
-**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
-
-📺 AI . Robot
-
-👁️ 190K • 👍 2K • 💬 18 • ⏱️ 0:21 • 1d ago
-
----
-
-**[Josh Johnson shares why he thinks that ultimately, AI can&#39;t win when it comes to comedy #AfterTheCut](https://www.youtube.com/watch?v=whpGVeJidS8)**
-
-📺 The Daily Show
-
-👁️ 210K • 👍 16K • 💬 407 • ⏱️ 2:38 • 19h ago
+👁️ 54K • 👍 652 • 💬 278 • ⏱️ 4:14 • 1d ago
 
 ---
 
@@ -358,17 +370,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at why site
 
 📺 SomeOrdinaryGamers
 
-👁️ 85K • 👍 5K • 💬 941 • ⏱️ 19:00 • 2d ago
-
----
-
-**[Build anything with Google AI Studio, here&#39;s how...](https://www.youtube.com/watch?v=IVWTX1CyOEw)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 6K • 👍 113 • 💬 10 • ⏱️ 36:04 • 1d ago
+👁️ 86K • 👍 5K • 💬 944 • ⏱️ 19:00 • 2d ago
 
 ---
 
@@ -480,7 +482,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 185 • 10h ago
+⬇️ 10,487 • ❤️ 185 • 11h ago
 
 ---
 
@@ -646,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.1k • 🔱 2.5k • 46m ago
+⭐ 16.1k • 🔱 2.5k • 1h ago
 
 ---
 
@@ -686,7 +688,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 33m ago
+⭐ 1.1k • 🔱 137 • 58m ago
 
 ---
 

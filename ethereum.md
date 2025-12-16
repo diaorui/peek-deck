@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T10:23:25.505840+00:00'
+updated: '2025-12-16T10:48:21.528379+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 10:23 UTC  
+**Last Updated:** December 16, 2025 at 10:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -7.3%  
-**7d:** -11.9%  
-**30d:** -3.4%  
-**90d:** -36.2%  
-**1y:** -24.8%  
+**24h:** -6.4%  
+**7d:** -11.0%  
+**30d:** -2.5%  
+**90d:** -35.6%  
+**1y:** -24.1%  
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 14h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 15h ago
 
 ---
 
@@ -104,7 +104,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-15h ago
+16h ago
 
 ---
 
@@ -184,7 +184,7 @@ CoinDesk • 20h ago
 
 Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -192,7 +192,7 @@ Decrypt • 18h ago
 
 A mix of macro and token-specific factors are pushing investors away from Ethereum and toward other assets.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -232,53 +232,33 @@ Crypto Briefing • 15h ago
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
-
-THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
-
-📺 Altcoin Daily
-
-👁️ 37K • 👍 2K • 💬 164 • ⏱️ 12:16 • 10h ago
-
----
-
 **[Cathie Wood Swaps Tesla For Ethereum🚨Crypto Market Update](https://www.youtube.com/watch?v=r74Wf7xsdXk)**
 
 Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a consumer-focused blockchain, each taking on key ...
 
 📺 Paul Barron Network
 
-👁️ 41K • 👍 2K • 💬 119 • ⏱️ 13:11 • 13h ago
+👁️ 43K • 👍 2K • 💬 101 • ⏱️ 13:11 • 14h ago
 
 ---
 
-**[🚨 JP Morgan Launches ETHEREUM FUND (Prepare NOW!)](https://www.youtube.com/watch?v=Jxy67yKHoHo)**
+**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
 
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
+THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
 
-📺 Discover Crypto
+📺 Altcoin Daily
 
-👁️ 3K • 👍 123 • 💬 37 • ⏱️ 6:53 • 10h ago
-
----
-
-**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
-
-WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
-
-📺 Digital Asset News
-
-👁️ 16K • 👍 787 • 💬 73 • ⏱️ 40:28 • 17h ago
+👁️ 42K • 👍 2K • 💬 181 • ⏱️ 12:16 • 10h ago
 
 ---
 
-**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
+**[ETHEREUM PULLBACK UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=b2xuQhyaxag)**
 
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto With James
+📺 Cilinix Crypto
 
-👁️ 3K • 👍 226 • 💬 44 • ⏱️ 10:03 • 18h ago
+👁️ 96 • 👍 13 • 💬 1 • ⏱️ 4:48 • 46m ago
 
 ---
 
@@ -288,7 +268,37 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 351 • 💬 75 • ⏱️ 18:30 • 6h ago
+👁️ 4K • 👍 405 • 💬 79 • ⏱️ 18:30 • 6h ago
+
+---
+
+**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
+
+WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
+
+📺 Digital Asset News
+
+👁️ 17K • 👍 808 • 💬 71 • ⏱️ 40:28 • 17h ago
+
+---
+
+**[🚨 JP Morgan Launches ETHEREUM FUND (Prepare NOW!)](https://www.youtube.com/watch?v=Jxy67yKHoHo)**
+
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
+
+📺 Discover Crypto
+
+👁️ 3K • 👍 129 • 💬 18 • ⏱️ 6:53 • 10h ago
+
+---
+
+**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
+
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+
+📺 Crypto With James
+
+👁️ 3K • 👍 230 • 💬 82 • ⏱️ 10:03 • 19h ago
 
 ---
 
@@ -298,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 156 • 💬 3 • ⏱️ 8:04 • 11h ago
+👁️ 2K • 👍 161 • 💬 3 • ⏱️ 8:04 • 11h ago
 
 ---
 
@@ -308,27 +318,17 @@ BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 9K • 👍 398 • 💬 71 • ⏱️ 25:11 • 12h ago
+👁️ 10K • 👍 413 • 💬 87 • ⏱️ 25:11 • 12h ago
 
 ---
 
-**[Why I&#39;m Choosing TAO Over Ethereum! [Bittensor Halving Explained]](https://www.youtube.com/watch?v=q_ULZd6Dndo)**
+**[Cathie Wood on Bitcoin, Ethereum, Solana and the Bittensor TAO Halving](https://www.youtube.com/watch?v=jOd7smi4_B0)**
 
-TAO's halving isn't just another crypto event and it definitely isn't what most people think. In this episode, Alessandro breaks down ...
+Cathie Wood talks cryptocurrency investment and we cover today's Bittensor halving event. https://x.com/SuiNetwork Despite the ...
 
-📺 Crypto Banter
+📺 Altcoin Buzz
 
-👁️ 4K • 👍 203 • 💬 11 • ⏱️ 41:01 • 19h ago
-
----
-
-**[🚨 PELIGRA BITCOIN: ESTO NOS HARÁ CAER a $70K! 👉 ETHEREUM confirma una GRAN NOTICIA | SOLANA](https://www.youtube.com/watch?v=vOgzbh8OPg4)**
-
-Semana explosiva para Bitcoin y la bolsa de valores: El mercado entra en una fase de máxima tensión y la gran pregunta es si ...
-
-📺 WhatsUpCripto
-
-👁️ 2K • 👍 220 • 💬 54 • ⏱️ 18:43 • 11h ago
+👁️ 3K • 👍 163 • 💬 44 • ⏱️ 11:56 • 13h ago
 
 ---
 
