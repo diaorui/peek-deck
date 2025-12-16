@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T16:41:08.132628+00:00'
+updated: '2025-12-16T17:02:37.276920+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 16:41 UTC  
+**Last Updated:** December 16, 2025 at 17:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -11.8%  
-**30d:** -3.4%  
-**90d:** -36.2%  
-**1y:** -24.8%  
+**24h:** +0.0%  
+**7d:** -11.5%  
+**30d:** -3.0%  
+**90d:** -35.9%  
+**1y:** -24.5%  
 
 ---
 
@@ -70,7 +70,7 @@ No max supply
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 2h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 3h ago
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-21h ago
+22h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 20h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 21h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Block • 1d ago
 
 U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -204,7 +204,7 @@ Nasdaq • 2d ago
 
 **[Ethereum News Today: ETH Fails to Hold $3K Amid ETF Outflows, Underperforms Market](https://www.binance.com/sl/square/post/12-16-2025-ethereum-news-today-eth-fails-to-hold-3k-amid-etf-outflows-underperforms-market-33796769389849)**
 
-Binance • 45m ago
+Binance • 1h ago
 
 ---
 
@@ -234,17 +234,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 2K • 💬 49 • ⏱️ 7:49 • 4h ago
-
----
-
-**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
-
-THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
-
-📺 Altcoin Daily
-
-👁️ 50K • 👍 3K • 💬 215 • ⏱️ 12:16 • 16h ago
+👁️ 9K • 👍 2K • 💬 45 • ⏱️ 7:49 • 5h ago
 
 ---
 
@@ -254,27 +244,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 476 • 👍 73 • 💬 19 • ⏱️ 8:42 • 4h ago
-
----
-
-**[Cathie Wood Swaps Tesla For Ethereum🚨Crypto Market Update](https://www.youtube.com/watch?v=r74Wf7xsdXk)**
-
-Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a consumer-focused blockchain, each taking on key ...
-
-📺 Paul Barron Network
-
-👁️ 46K • 👍 2K • 💬 114 • ⏱️ 13:11 • 20h ago
-
----
-
-**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=5CPL09p3ViQ)**
-
-Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Demat Account Dhan ...
-
-📺 Trade with Burner
-
-👁️ 4K • 👍 673 • 2h ago
+👁️ 905 • 👍 99 • 💬 24 • ⏱️ 8:42 • 4h ago
 
 ---
 
@@ -284,17 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 420 • 👍 33 • 💬 1 • ⏱️ 4:48 • 6h ago
-
----
-
-**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
-
-WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
-
-📺 Digital Asset News
-
-👁️ 17K • 👍 832 • 💬 86 • ⏱️ 40:28 • 23h ago
+👁️ 578 • 👍 36 • 💬 2 • ⏱️ 4:48 • 7h ago
 
 ---
 
@@ -304,7 +264,17 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 144 • 💬 18 • ⏱️ 6:53 • 16h ago
+👁️ 4K • 👍 155 • 💬 18 • ⏱️ 6:53 • 17h ago
+
+---
+
+**[Cathie Wood Swaps Tesla For Ethereum🚨Crypto Market Update](https://www.youtube.com/watch?v=r74Wf7xsdXk)**
+
+Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a consumer-focused blockchain, each taking on key ...
+
+📺 Paul Barron Network
+
+👁️ 48K • 👍 2K • 💬 116 • ⏱️ 13:11 • 20h ago
 
 ---
 
@@ -314,7 +284,27 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 509 • 💬 66 • ⏱️ 18:30 • 12h ago
+👁️ 6K • 👍 530 • 💬 69 • ⏱️ 18:30 • 13h ago
+
+---
+
+**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
+
+THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
+
+📺 Altcoin Daily
+
+👁️ 54K • 👍 3K • 💬 220 • ⏱️ 12:16 • 17h ago
+
+---
+
+**[Gold vs Tokenized Gold on Ethereum🔥Peter Schiff INTERVIEW](https://www.youtube.com/watch?v=Yg1qDTzcZ28)**
+
+Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substantial gains in gold and silver. At Binance Blockchain ...
+
+📺 Paul Barron Network
+
+👁️ 944 • 👍 84 • 💬 16 • ⏱️ 29:25 • 25m ago
 
 ---
 
@@ -324,7 +314,17 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 234 • 💬 76 • ⏱️ 10:03 • 1d ago
+👁️ 3K • 👍 235 • 💬 78 • ⏱️ 10:03 • 1d ago
+
+---
+
+**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
+
+WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
+
+📺 Digital Asset News
+
+👁️ 18K • 👍 838 • 💬 86 • ⏱️ 40:28 • 23h ago
 
 ---
 

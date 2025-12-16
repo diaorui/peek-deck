@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T16:41:08.135854+00:00'
+updated: '2025-12-16T17:02:37.280102+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 16:41 UTC  
+**Last Updated:** December 16, 2025 at 17:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -72,7 +72,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Hello everyone, I’ll jump straight to my question. I’m currently looking to connect with professionals who are involved in research in robotics, especially areas like computer vision, robotic arms, and work at the intersection of AI and robotics. A bit about me: I’m currently in my internship phase and don’t have any prior research or publishing experience, but I do have a strong interest and solid knowledge in developing robots, experimenting with algorithms, and hands-on tinkering. I’m actively looking to collaborate and publish research in this domain. I can roughly dedicate around 10 hours per week to this effort. If anyone is interested, please feel free to DM me. I can share some of my work. I’d also really appreciate any advice on how to approach or find professors and researchers working in these areas. I’ve already reached out to my professors, but their research domains are quite different from what I’m looking for, which is why I’m trying to connect with people outside my immediate academic circle. Thanks in advance!
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
-12h ago
+13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ I just ordered all of the parts and finished 3D printing all of the components. 
 
 This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
 
-17h ago
+18h ago
 
 ---
 
@@ -196,7 +196,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 23K • 👍 642 • 💬 103 • ⏱️ 11:23 • 16h ago
+👁️ 29K • 👍 671 • 💬 104 • ⏱️ 11:23 • 16h ago
 
 ---
 
@@ -206,7 +206,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 24K • 👍 648 • 💬 101 • ⏱️ 6:41 • 2d ago
+👁️ 25K • 👍 652 • 💬 104 • ⏱️ 6:41 • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 307K • 👍 10K • 💬 330 • ⏱️ 0:34 • 2d ago
+👁️ 314K • 👍 10K • 💬 343 • ⏱️ 0:34 • 2d ago
 
 ---
 
@@ -224,7 +224,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 250K • 👍 3K • 💬 24 • ⏱️ 0:21 • 2d ago
+👁️ 284K • 👍 3K • 💬 27 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -238,11 +238,23 @@ Business Insider tells you all you need to know about business, finance, tech, r
 
 ---
 
-**[Docking A Cyborg Centaur(Remy&#39;s Mechanical)⚙️#airobot #humanoidrobot #robotics #humanoid #robot](https://www.youtube.com/watch?v=Vg_1gSMUj6Q)**
+**[Scientists Discover Simple Knot Use Revolutionises Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
 
-📺 BlueAI25
+Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
 
-👁️ 12K • 👍 119 • 💬 8 • ⏱️ 0:24 • 20h ago
+📺 Dr Ben Miles
+
+👁️ 2K • 👍 374 • 💬 18 • ⏱️ 1:38 • 44m ago
+
+---
+
+**[AI Robot Harvesting Grapes in the Vineyard 🍇🤖](https://www.youtube.com/watch?v=o0EILTw-1hs)**
+
+Experience the future of agriculture! In this video, an AI-powered farming robot assists a farmer by harvesting grapes with ...
+
+📺 𝗦𝗺𝗮𝗿𝘁 𝗙𝗮𝗿𝗺𝗶𝗻𝗴 𝗧𝗲𝗰𝗵
+
+👁️ 134K • 👍 388 • ⏱️ 0:08 • 8h ago
 
 ---
 
@@ -252,7 +264,7 @@ Discover the latest girlfriend robot in this eye-opening tech expo experience! E
 
 📺 Ricey Rice
 
-👁️ 226K • 👍 796 • 💬 11 • ⏱️ 0:06 • 1d ago
+👁️ 239K • 👍 842 • 💬 11 • ⏱️ 0:06 • 1d ago
 
 ---
 
@@ -262,7 +274,7 @@ I actually turned my smartphone into a desktop pet... This is LOOI Robot by Tang
 
 📺 Kyle Krueger
 
-👁️ 5.4M • 👍 170K • 💬 3K • ⏱️ 0:51 • 5d ago
+👁️ 5.4M • 👍 171K • 💬 3K • ⏱️ 0:51 • 5d ago
 
 ---
 
@@ -273,16 +285,6 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 📺 Associated Press
 
 👁️ 28K • 👍 105 • 💬 41 • ⏱️ 1:26 • 3d ago
-
----
-
-**[Why does Atlas stand up like that?  #bostondynamics #atlas #robot](https://www.youtube.com/watch?v=7MXQG-f9jtk)**
-
-Atlas moves like a contortionist, but it's not just showing off. One of our software engineers explains how this behavior helps Atlas ...
-
-📺 Boston Dynamics
-
-👁️ 177K • 👍 6K • 💬 231 • ⏱️ 1:11 • 7d ago
 
 ---
 

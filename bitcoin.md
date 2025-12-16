@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T16:41:08.126647+00:00'
+updated: '2025-12-16T17:02:37.270932+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 16:41 UTC  
+**Last Updated:** December 16, 2025 at 17:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** -4.6%  
-**30d:** -4.9%  
+**24h:** +1.9%  
+**7d:** -4.5%  
+**30d:** -4.8%  
 **90d:** -24.9%  
 **1y:** -17.4%  
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -101,13 +101,13 @@ Are you still buying?
 
 100k range might take till next year
 
-17h ago
+18h ago
 
 ---
 
 **[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
 
-56m ago
+1h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Motley Fool • 19h ago
 
 Mike McGlone, a Bloomberg Intelligence strategist, continues to insist that Bitcoin could go back up to $10,000, and his reasoning has nothing to do with belief, messaging or loyalty to the asset. At the end of the day, it is all about who has already bought, when that money came in and who is left…
 
-TradingView — Track All Markets • 2h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -305,7 +305,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 12K • 👍 405 • 💬 240 • ⏱️ 10:03 • 10h ago
+👁️ 21K • 👍 484 • 💬 310 • ⏱️ 10:03 • 10h ago
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 518 • ⏱️ 8:04 • 15h ago
+👁️ 28K • 👍 2K • 💬 523 • ⏱️ 8:04 • 15h ago
 
 ---
 
@@ -325,27 +325,37 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 215 • ⏱️ 12:16 • 16h ago
+👁️ 54K • 👍 3K • 💬 220 • ⏱️ 12:16 • 17h ago
 
 ---
 
-**[Could Japan TRIGGER a Bitcoin Crash to $40,000?!](https://www.youtube.com/watch?v=Eu8BtRbYSy0)**
+**[Why Panic Selling Bitcoin NOW Could be the Worst Idea!](https://www.youtube.com/watch?v=ZZV--oWO_h8)**
 
-Japan is about to hike rates, and history says Bitcoin gets rekt every time. With a $1T treasury stash, a carry trade unwind, and an ...
+Bitcoin feels stalled. Prices are down, fear is up, and dopamine-chasing traders are folding. But what if this lull is the setup for the ...
 
 📺 Simply Bitcoin
 
-👁️ 39K • 👍 3K • 💬 304 • ⏱️ 18:49 • 17h ago
+👁️ 4K • 👍 470 • 💬 38 • ⏱️ 16:49 • 3h ago
 
 ---
 
-**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
+**[Will 1 Bitcoin Be Generational Wealth? Whales Selling, Legacy Planning &amp; Price Drivers](https://www.youtube.com/watch?v=6zFglF1aMKc)**
 
-WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
+A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell sat down with Matthew McClintock, head of The ...
 
-📺 Digital Asset News
+📺 Natalie Brunell
 
-👁️ 17K • 👍 832 • 💬 86 • ⏱️ 40:28 • 23h ago
+👁️ 1K • 👍 140 • ⏱️ 57:23 • 2h ago
+
+---
+
+**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
+
+These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! AI Trading Club: ...
+
+📺 Thomas Kralow
+
+👁️ 9K • 👍 2K • 💬 45 • ⏱️ 7:49 • 5h ago
 
 ---
 
@@ -355,7 +365,27 @@ We have a classic case of the bear market blues :( Make sure you check out ITC p
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 250 • ⏱️ 19:58 • 9h ago
+👁️ 51K • 👍 4K • 💬 301 • ⏱️ 19:58 • 10h ago
+
+---
+
+**[🚨 WARNING: Bitcoin Holders Are SELLING! (Was That The Top?)](https://www.youtube.com/watch?v=RSQV9sLeY5o)**
+
+A major warning signal just flashed in Bitcoin — long-term holders are starting to SELL. Historically, when this happens, the ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 292 • 💬 1 • ⏱️ 1:09:01 • 19m ago
+
+---
+
+**[Could Japan TRIGGER a Bitcoin Crash to $40,000?!](https://www.youtube.com/watch?v=Eu8BtRbYSy0)**
+
+Japan is about to hike rates, and history says Bitcoin gets rekt every time. With a $1T treasury stash, a carry trade unwind, and an ...
+
+📺 Simply Bitcoin
+
+👁️ 41K • 👍 3K • 💬 307 • ⏱️ 18:49 • 17h ago
 
 ---
 
@@ -365,37 +395,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 372 • ⏱️ 52:24 • 1d ago
-
----
-
-**[Why is Bitcoin STUCK at $90K?! (This Explains Everything)](https://www.youtube.com/watch?v=9Xi0PnWSLto)**
-
-Bitcoin's been dropping like clockwork at market open—but is it just normal volatility, or something more sinister? From Japanese ...
-
-📺 Simply Bitcoin
-
-👁️ 49K • 👍 2K • 💬 176 • ⏱️ 14:17 • 1d ago
-
----
-
-**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 75K • 👍 3K • 💬 275 • ⏱️ 9:35 • 1d ago
-
----
-
-**[Jobs Report Shock: What It Means for Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=Jqf_fYYOl24)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 4K • 👍 381 • 2h ago
+👁️ 31K • 👍 1K • 💬 370 • ⏱️ 52:24 • 1d ago
 
 ---
 

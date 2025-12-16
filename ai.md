@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T16:41:08.118176+00:00'
+updated: '2025-12-16T17:02:37.262470+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- repositories
 - videos
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 16:41 UTC  
+**Last Updated:** December 16, 2025 at 17:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built f
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 11h ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 12h ago
 
 ---
 
@@ -81,7 +81,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 The ZLUDA open-source project that has been through several incarnations but ultimately about getting CUDA software up and running on non-NVIDIA GPUs now supports the AMD ROCm 7 series.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/ZLUDA-ROCm-7) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/ZLUDA-ROCm-7) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ The ZLUDA open-source project that has been through several incarnations but ult
 
 Schools across the U.S. are rolling out AI-powered surveillance technology, including drones, facial recognition and even bathroom listening devices. But there’s not much data to prove they keep kids safe.
 
-🔗 [Forbes](https://go.forbes.com/evAZNR) • 27m ago
+🔗 [Forbes](https://go.forbes.com/evAZNR) • 48m ago
 
 ---
 
@@ -97,7 +97,7 @@ Schools across the U.S. are rolling out AI-powered surveillance technology, incl
 
 Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to bolster the open-source AI ecosystem
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 50m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 1h ago
 
 ---
 
@@ -125,7 +125,7 @@ RIP Copilot.
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-NPR • 6h ago
+NPR • 7h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 1d ago
 
 **[Senators Investigate Role of A.I. Data Centers in Rising Electricity Costs](https://www.nytimes.com/2025/12/16/business/energy-environment/senate-democrats-electricity-prices-data-centers.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -153,7 +153,7 @@ MLive.com • 1h ago
 
 The AI experiments are over. In 2026, banking enters a new phase – one where autonomous agents handle real customer requests, synthetic data threatens core repositories and trust becomes a measurable performance metric. The question is no longer whether AI will transform banking but whether institutions are prepared for the consequences of the accelerating transformation already underway.
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 41m ago
 
 ---
 
@@ -161,13 +161,13 @@ Yahoo Finance • 20m ago
 
 "Give me a few weeks to actually ship what I have access to," Google cofounder Sergey Brin said, describing a coming Gemini Live model.
 
-Business Insider • 34m ago
+Business Insider • 55m ago
 
 ---
 
 **[Allen Institute for AI rivals Google, Meta and OpenAI with open-source AI vision model](https://www.geekwire.com/2025/allen-institute-for-ai-rivals-google-meta-and-openai-with-open-source-video-analysis-model/)**
 
-GeekWire • 23m ago
+GeekWire • 45m ago
 
 ---
 
@@ -185,7 +185,7 @@ Axios • 1h ago
 
 **[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
 
-The Washington Post • 38m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 352 • 💬 286 • 17h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 352 • 💬 286 • 18h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -271,13 +271,13 @@ Brian Merchant has been collecting personal stories for his series AI Killed My 
 
 ## YouTube Videos: "ai"
 
-**[900 Days Left – AI Is Coming for Capitalism](https://www.youtube.com/watch?v=A8mj1Ngz2JI)**
+**[How I Turn One Image into Multiple Camera Angles with AI](https://www.youtube.com/watch?v=6rBtlnfUBLk)**
 
-Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bilyeu tackles one of the most urgent questions of ...
+Create with OpenArt https://www.openart.ai/home/?ref=isa-18 In this video, I show you how to turn a single image into a full set ...
 
-📺 Tom Bilyeu
+📺 Isa does AI
 
-👁️ 55K • 👍 2K • 💬 673 • ⏱️ 23:28 • 1d ago
+👁️ 4K • 💬 4 • ⏱️ 12:03 • 3h ago
 
 ---
 
@@ -287,7 +287,7 @@ Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPT
 
 📺 Dylan Curious
 
-👁️ 7K • 👍 458 • 💬 86 • ⏱️ 30:05 • 1d ago
+👁️ 8K • 👍 467 • 💬 90 • ⏱️ 30:05 • 1d ago
 
 ---
 
@@ -297,7 +297,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 42K • 👍 2K • 💬 166 • ⏱️ 12:07 • 1d ago
+👁️ 43K • 👍 2K • 💬 169 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -307,7 +307,17 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 23K • 👍 642 • 💬 103 • ⏱️ 11:23 • 16h ago
+👁️ 29K • 👍 671 • 💬 104 • ⏱️ 11:23 • 16h ago
+
+---
+
+**[900 Days Left – AI Is Coming for Capitalism](https://www.youtube.com/watch?v=A8mj1Ngz2JI)**
+
+Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bilyeu tackles one of the most urgent questions of ...
+
+📺 Tom Bilyeu
+
+👁️ 57K • 👍 2K • 💬 682 • ⏱️ 23:28 • 1d ago
 
 ---
 
@@ -317,35 +327,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 135K • 👍 5K • 💬 785 • ⏱️ 20:44 • 1d ago
-
----
-
-**[AI STOCKS GO DEEP RED, PAYPAL BANK, UNEMPLOYMENT/PAYROLLS | MARKET OPEN](https://www.youtube.com/watch?v=-TOHi_Y2UpQ)**
-
-Welcome to the Lunch Time stock market hour with your host Couch Investor aka Neil. 15% OFF Fiscal AI: https://fiscal.ai/couch ...
-
-📺 Couch Investor
-
-👁️ 2K • 👍 126 • 4h ago
-
----
-
-**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
-
-📺 AI . Robot
-
-👁️ 250K • 👍 3K • 💬 24 • ⏱️ 0:21 • 2d ago
-
----
-
-**[Lady Soldier Rescues Grandma and Builds Golden Carousel for Her 😭 #ai #save #army](https://www.youtube.com/watch?v=Rg0j9jUTTPM)**
-
-Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
-
-📺 Anime world 
-
-👁️ 208K • 👍 1K • 💬 1 • ⏱️ 0:22 • 2d ago
+👁️ 150K • 👍 5K • 💬 850 • ⏱️ 20:44 • 1d ago
 
 ---
 
@@ -355,17 +337,37 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 52K • 👍 296 • 💬 15 • ⏱️ 8:43 • 2d ago
+👁️ 55K • 👍 308 • 💬 15 • ⏱️ 8:43 • 2d ago
 
 ---
 
-**[China Rejects US-Made AI Chips, The White House Admits That Export Strategy May Be Failing](https://www.youtube.com/watch?v=WRwqRoIfAAU)**
+**[Expect AI stocks like Nvidia to rerate higher, says Fundstrat&#39;s Tom Lee](https://www.youtube.com/watch?v=GdIy6O4b_zw)**
 
-The White House has raised fresh concerns after admitting that China is turning away U.S.-made AI chips, including Nvidia's H200 ...
+Tom Lee. Fundstrat Global Advisors head of research and Fundstrat Capital CIO, joins 'Squawk Box' to discuss the latest market ...
 
-📺 Mint
+📺 CNBC Television
 
-👁️ 67K • 👍 789 • 💬 338 • ⏱️ 4:14 • 1d ago
+👁️ 142K • 👍 1K • 💬 401 • ⏱️ 5:24 • 1d ago
+
+---
+
+**[🤖Dubai’s Newest AI Salon Pod Will Shock You 😲AI Haircut Machine 7.1 ✂️ Dubai’s Future Is Here!](https://www.youtube.com/watch?v=KOQ6aBWk1kE)**
+
+In Dubai, this AI Salon Pod delivers an instant hair transformation. Precision scanning, robotic styling and next-gen AI haircut ...
+
+📺 AI Robot Lab
+
+👁️ 107K • 👍 2K • 💬 24 • ⏱️ 0:17 • 2d ago
+
+---
+
+**[AI Pranks Are Trash](https://www.youtube.com/watch?v=8Z9Oe-8rfEA)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+
+📺 penguinz0
+
+👁️ 798K • 👍 41K • 💬 4K • ⏱️ 11:22 • 1d ago
 
 ---
 
@@ -393,7 +395,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 379 • 1d ago
+⬇️ 28,106 • ❤️ 379 • 2d ago
 
 ---
 
@@ -453,7 +455,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 225 • 16h ago
+⬇️ 10,487 • ❤️ 225 • 17h ago
 
 ---
 
@@ -465,7 +467,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 6,543 • ❤️ 222 • 1d ago
+⬇️ 6,543 • ❤️ 222 • 2d ago
 
 ---
 
@@ -650,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.8k • 🔱 414 • 2h ago
+⭐ 3.8k • 🔱 414 • 3h ago
 
 ---
 
@@ -680,7 +682,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 3h ago
+⭐ 1.1k • 🔱 137 • 4h ago
 
 ---
 
@@ -730,7 +732,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 752 • 🔱 115 • 10h ago
+⭐ 752 • 🔱 115 • 11h ago
 
 ---
 
