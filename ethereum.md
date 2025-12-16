@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T05:21:21.491888+00:00'
+updated: '2025-12-16T05:44:05.886248+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 05:21 UTC  
+**Last Updated:** December 16, 2025 at 05:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -7.1%  
-**7d:** -12.2%  
-**30d:** -3.7%  
-**90d:** -36.4%  
-**1y:** -25.0%  
+**24h:** -6.9%  
+**7d:** -12.0%  
+**30d:** -3.5%  
+**90d:** -36.3%  
+**1y:** -25.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $350.49B
+**Market Cap:** $352.05B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.2%
+-40.9%
 
 **All-Time Low:** $0.43
-+671269.7%
++675179.9%
 
 ---
 
@@ -84,14 +84,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Best way to buy Ethereum for long-term holding? Need advice](https://www.reddit.com/r/ethereum/comments/1pncxqo/best_way_to_buy_ethereum_for_longterm_holding/)**
-
-I’ve never bought ETH before, but I’m thinking of getting some exposure now. I know the basics, I just want to buy ETH and move it to self-custody, hardware wallet, cold storage, the works. Plan is to buy and hold long term. Now I’m confused about the best approach. Some exchanges have crazy fees, others don’t allow ETH purchases, and I’ve read horror stories of accounts getting frozen on Binance. Thinking of using CoinSwitch, it seems good to me. I want a safe, hassle-free way to buy ETH and make sure I can move it securely to my own wallet.
-
-12h ago
-
----
-
 **[Echidna 2.3 released with symbolic execution capabilities, Foundry reproducer integration and revamped coverage reports!](https://www.reddit.com/r/ethereum/comments/1pnh16m/echidna_23_released_with_symbolic_execution/)**
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
@@ -104,7 +96,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-10h ago
+11h ago
 
 ---
 
@@ -148,6 +140,14 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 ---
 
+**[Ethereal news weekly #2 | BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation](https://www.reddit.com/r/ethereum/comments/1pkr4j5/ethereal_news_weekly_2_bpo1_upgrade_increased/)**
+
+BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
+
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -160,9 +160,19 @@ Decrypt • 11h ago
 
 ---
 
-**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
+**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
 
-The Block • 17h ago
+Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
+
+CoinDesk • 14h ago
+
+---
+
+**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
+
+If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -170,7 +180,7 @@ The Block • 17h ago
 
 Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -184,15 +194,21 @@ The Block • 14h ago
 
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
+**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+The Block • 17h ago
 
-The Motley Fool • 1d ago
+---
+
+**[3 Reasons Why Ethereum Plunged 5% Today](https://finance.yahoo.com/news/3-reasons-why-ethereum-plunged-213923494.html)**
+
+A mix of macro and token-specific factors are pushing investors away from Ethereum and toward other assets.
+
+Yahoo Finance • 8h ago
 
 ---
 
@@ -212,22 +228,6 @@ CryptoSlate • 13h ago
 
 ---
 
-**[Why Are Bitcoin, Ethereum and XRP Prices Falling Today?](https://www.tradingview.com/news/coinpedia:5f55e8b63094b:0-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
-
-The cryptocurrency market is under pressure today, with Bitcoin, Ethereum and XRP among other altcoins all seeing sharp declines. Total crypto market value has slipped to around $3 trillion, down more than 1%.Bitcoin dropped below $87,000, Ethereum fell near $3,000, and XRP slid to around $1.92. Se…
-
-TradingView — Track All Markets • 13h ago
-
----
-
-**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
-
-Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
-
-Nasdaq • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 34K • 👍 2K • 💬 101 • ⏱️ 13:11 • 8h ago
+👁️ 34K • 👍 2K • 💬 101 • ⏱️ 13:11 • 9h ago
 
 ---
 
@@ -308,7 +308,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 223 • 💬 46 • ⏱️ 10:03 • 13h ago
+👁️ 3K • 👍 223 • 💬 46 • ⏱️ 10:03 • 14h ago
 
 ---
 

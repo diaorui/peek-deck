@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T05:21:21.485935+00:00'
+updated: '2025-12-16T05:44:05.881057+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 05:21 UTC  
+**Last Updated:** December 16, 2025 at 05:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1708.89B
+**Market Cap:** $1715.97B
 Rank #1
 
 **Circulating Supply:** 19,962,703 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--32.0%
+-31.8%
 
 **All-Time Low:** $67.81
-+126310.6%
++126778.0%
 
 ---
 
@@ -99,12 +99,6 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 ---
 
-**[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
-
-11h ago
-
----
-
 **[Bitcoin is Dead](https://www.reddit.com/r/Bitcoin/comments/1pnhr4c/bitcoin_is_dead/)**
 
 Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many times Bitcoin has been declared dead by critics and media, with the complete database of Bitcoin deaths.
@@ -117,13 +111,13 @@ Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many time
 
 Are you still buying?
 
-13h ago
+14h ago
 
 ---
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -131,7 +125,7 @@ Are you still buying?
 
 Buy some bitcoin and store it.
 
-14h ago
+15h ago
 
 ---
 
@@ -139,13 +133,19 @@ Buy some bitcoin and store it.
 
 Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
 
-4h ago
+5h ago
 
 ---
 
 **[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
 
-4h ago
+5h ago
+
+---
+
+**[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
+
+12h ago
 
 ---
 
@@ -153,43 +153,41 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Breaches $86,000 While Sinking Toward Year’s Lows](https://www.bloomberg.com/news/articles/2025-12-15/bitcoin-breaches-86-000-while-sinking-toward-year-s-lows)**
-
-Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
-
-Bloomberg.com • 4h ago
-
----
-
 **[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
 
 Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Bitcoin's Retreat to $85,000 Shifts Losses to New Entrants](https://decrypt.co/352470/bitcoins-retreat-85000-shifts-losses-new-entrants)**
+**[Bitcoin Breaches $86,000 While Sinking Toward Year’s Lows](https://www.bloomberg.com/news/articles/2025-12-15/bitcoin-breaches-86-000-while-sinking-toward-year-s-lows)**
+
+Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
+
+Bloomberg.com • 1h ago
+
+---
+
+**[BTC, ETH, XRP, ADA Price News: Bitcoin, ether, cardano extend losses](https://www.coindesk.com/markets/2025/12/16/bitcoin-ether-and-xrp-extend-losses-as-year-end-caution-builds)**
+
+Global markets mirrored this trend, with Asian equities and U.S. equity futures softening, while the dollar hovered near two-month lows.
+
+CoinDesk • 32m ago
+
+---
+
+**[Bitcoin slides below $86,000, ether falls as traders rotate into safer assets](https://www.theblock.co/post/382639/bitcoin-slides-below-86000)**
+
+The Block • 41m ago
+
+---
+
+**[Bitcoin's Retreat to $85,000 Shifts Losses to New Entrants](https://finance.yahoo.com/news/bitcoins-retreat-85-000-shifts-040750696.html)**
 
 Bitcoin's drop to $85,800 has pushed new whales into 2023-level losses, while on-chain data reveals short-term holders buying the dips.
 
-Decrypt • 1h ago
-
----
-
-**[Bitcoin (BTC), Crypto News: $500 million lost to liquidations in latest plunge](https://www.coindesk.com/markets/2025/12/16/bitcoin-ai-stock-slide-sees-over-usd500-million-in-bullish-bets-wiped-out)**
-
-Data shows 181,893 traders were liquidated, with long positions accounting for over 87% of total losses.
-
-CoinDesk • 1h ago
-
----
-
-**[Asia Market Open: Bitcoin Tumbles to $85k as Asian Shares Decline in Pre-Jobs Data Trade](https://finance.yahoo.com/news/asia-market-open-bitcoin-tumbles-031639055.html)**
-
-Bitcoin dropped nearly 4% to about $85,940 on Tuesday as Asian equities slipped at the open, with investors cutting risk before a run of US economic data that could shape the next leg for interest rates.Indexes in Japan dipped, while Australian shares edged higher, after the S&P 500 fell for ...
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,15 +199,9 @@ Financial Times • 1d ago
 
 ---
 
-**[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcRArKFlyg-ViZUOjKV4CYenWg2iUrDa6RKvJghNLloEJoH_toum0HE&gaa_ts=6940f50b&gaa_sig=auBBcdtbIulb4oy34zu6ta7aGS6_lEVjeC4TI3b2KC6-HF6bTeq4dJLfqTHEV8JFu-SeUCouuwQmjUDEWstZ0A%3D%3D)**
 
-The Block • 8h ago
-
----
-
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfSiQacWlIw9WerlA64Ma56X-_9omPQ4gEkuoXcW2GPjFAMPSJEDKjm&gaa_ts=6940e971&gaa_sig=ixgwArxZt2QDZVIAgwjJxJAgYA1ps43qAnYqUn9NfmouJGatIbkOrc5UGkc3zIU9nwMQ6idHEUel890DhtUawg%3D%3D)**
-
-Barron's • 10h ago
+Barron's • 11h ago
 
 ---
 
@@ -221,9 +213,15 @@ The Motley Fool • 14h ago
 
 ---
 
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqeYk7ci3751KTcsSiAuqdb9mJcjvZi4UbtYGnpDRqqnPiL2gqUy03Jf&gaa_ts=6940e971&gaa_sig=tJAmZVe-99eSXx6vhtPrSLfMjElzc7LQC_I6UsBn16OH8mB4BMwi0E2H8o55i5BNuV-cfteF2li-QsJTPUplwg%3D%3D)**
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqffox3-mSG75a7KhXrRidOhY_Cc8yMIfY2qOE2ECE5-o0rS0Dw4fzz6&gaa_ts=6940f50b&gaa_sig=IGKTjamTYV2bSiwyuSEwMvCqyOuHp-Trwdc0O9eN120woHY4OfFs8NYWu8vouFsqa3FAqTZEBkcJDviRYCBOfw%3D%3D)**
 
 MarketWatch • 16h ago
+
+---
+
+**[Legendary analyst warns of 80% Bitcoin ‘decay’](https://www.thestreet.com/crypto/markets/legendary-analyst-warns-of-80-bitcoin-decay)**
+
+thestreet.com • 12h ago
 
 ---
 
@@ -317,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 854 • 💬 296 • ⏱️ 8:04 • 3h ago
+👁️ 9K • 👍 854 • 💬 296 • ⏱️ 8:04 • 4h ago
 
 ---
 
@@ -337,7 +335,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 315 • ⏱️ 52:24 • 13h ago
+👁️ 30K • 👍 1K • 💬 315 • ⏱️ 52:24 • 14h ago
 
 ---
 
@@ -347,7 +345,7 @@ Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!*
 
 📺 Crypto Casey
 
-👁️ 25K • 👍 2K • 💬 258 • ⏱️ 14:34 • 12h ago
+👁️ 25K • 👍 2K • 💬 258 • ⏱️ 14:34 • 13h ago
 
 ---
 
@@ -357,7 +355,7 @@ Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning wheth
 
 📺 The Wolf Of All Streets
 
-👁️ 27K • 👍 1K • 💬 374 • ⏱️ 1:05:55 • 13h ago
+👁️ 27K • 👍 1K • 💬 374 • ⏱️ 1:05:55 • 14h ago
 
 ---
 

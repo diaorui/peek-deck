@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T05:21:21.495082+00:00'
+updated: '2025-12-16T05:44:05.889008+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 05:21 UTC  
+**Last Updated:** December 16, 2025 at 05:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -56,7 +56,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
 
-6h ago
+7h ago
 
 ---
 
@@ -65,6 +65,14 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
 1h ago
+
+---
+
+**[DIY powered exoskeleton by a college student](https://www.reddit.com/r/robotics/comments/1pntdfq/diy_powered_exoskeleton_by_a_college_student/)**
+
+Just saw this video of a college student building a powered exoskeleton by hand. Stuff like this always makes me think about how far exoskeletons have come. Companies like dnsys have already released lower limb exoskeletons as mobility aids for rehabilitation and daily use. Curious what people here think. Are we actually getting closer to wider adoption, for example in military or medical contexts, or are power, weight, and comfort still the main blockers?
+
+47m ago
 
 ---
 
@@ -100,14 +108,6 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 ---
 
-**[Can we take a moment to appreciate how clean this robot assembly guide is?](https://www.reddit.com/r/robotics/comments/1pnaon4/can_we_take_a_moment_to_appreciate_how_clean_this/)**
-
-IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-robotics/Reachy_Mini_Assembly_Guide
-
-13h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -128,15 +128,15 @@ The Verge • 20h ago
 
 **[Roomba Maker iRobot Files for Bankruptcy, With Chinese Supplier Taking Control](https://www.nytimes.com/2025/12/15/business/roomba-irobot-bankruptcy.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
-**[Major Mass. robotics company files for Chapter 11 bankruptcy, will sell to China](https://www.masslive.com/news/2025/12/major-mass-robotics-company-files-for-chapter-11-bankruptcy-will-sell-to-china.html)**
+**[Roomba maker iRobot gets cleaned out in Chapter 11](https://www.theregister.com/2025/12/15/irobot_chapter_11/)**
 
-The filing comes just one year after Amazon dropped the ball on a $1.7 billion acquisition of the company.
+: Company vacuumed up by its own manufacturer
 
-MassLive.com • 14h ago
+theregister.com • 16h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Motley Fool • 1d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -164,11 +164,11 @@ InvestorPlace • 1d ago
 
 ---
 
-**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
 
-Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
 
-South China Morning Post • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -178,11 +178,11 @@ Times Union • 1d ago
 
 ---
 
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
 
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-Fortune • 2d ago
+South China Morning Post • 1d ago
 
 ---
 
