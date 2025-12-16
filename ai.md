@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T06:39:13.340551+00:00'
+updated: '2025-12-16T07:01:02.707298+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 06:39 UTC  
+**Last Updated:** December 16, 2025 at 07:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 1h ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 16h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 15h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 16h ago
 
 ---
 
@@ -90,7 +90,7 @@ Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI 
 When I reverse-engineered ChatGPT’s memory system, I found it uses pre-computed summaries injected into every prompt. But Claude’s approach is different. Through extensive experimentation, I discovered Claude uses on-demand tools and selective retrieval, a fundamentally different architecture. But how does this actually work? And how does it compare to ChatGPT’s approach?
 This is the second post in a series where I reverse-engineer the memory systems of popular AI assistants. The first post focused on ChatGPT’s memory system.
 
-🔗 [manthanguptaa.in](https://manthanguptaa.in/posts/claude_memory) • 3m ago
+🔗 [manthanguptaa.in](https://manthanguptaa.in/posts/claude_memory) • 24m ago
 
 ---
 
@@ -98,7 +98,7 @@ This is the second post in a series where I reverse-engineer the memory systems 
 
 US government launches ‘Tech Force’ to hire AI talent.[1] Deep-learning model predicts how fruit flies form, cell by cell.[2] Nvidia bulks up open source offerings with an acquisition and new open AI models.[3] Podcast industry under siege as AI bots flood airways.[4] Sources: [1] https://www.cnn.com/2025/12/15/tech/government-tech-force-ai [2] https://news.mit.edu/2025/deep-learning-model-predicts-how-fruit-flies-form-1215 [3] https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/ [4] https://www.yahoo.com/news/articles/podcast-industry-under-siege-ai-051031178.html
 
-46m ago
+1h ago
 
 ---
 
@@ -154,7 +154,7 @@ Politico • 9h ago
 
 Liz Kendall faces pressure from campaigners as she tells parliament there is no clear consensus on issue
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -170,7 +170,7 @@ Digiday • 1h ago
 
 yoona.ai migrated to Google Cloud to power its AI platform helping designers predict trends and reduce their environmental impact.
 
-Google Cloud • 25m ago
+Google Cloud • 47m ago
 
 ---
 
@@ -184,7 +184,7 @@ The Wall Street Journal • 11h ago
 
 Four ways to think about this year's reckoning
 
-MIT Technology Review • 20h ago
+MIT Technology Review • 21h ago
 
 ---
 
@@ -244,7 +244,7 @@ Some (well-known) consequences of AI automating work
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 174 • 💬 79 • 7h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 174 • 💬 79 • 8h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -282,7 +282,7 @@ Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bily
 
 📺 Tom Bilyeu
 
-👁️ 49K • 👍 2K • 💬 604 • ⏱️ 23:28 • 17h ago
+👁️ 49K • 👍 2K • 💬 604 • ⏱️ 23:28 • 18h ago
 
 ---
 
@@ -368,7 +368,7 @@ The White House has raised fresh concerns after admitting that China is turning 
 
 📺 Mint
 
-👁️ 35K • 👍 489 • 💬 204 • ⏱️ 4:14 • 20h ago
+👁️ 35K • 👍 489 • 💬 204 • ⏱️ 4:14 • 21h ago
 
 ---
 
@@ -508,7 +508,7 @@ AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 15 • 💬 2 • ⭐ 341 • 4d ago
+▲ 16 • 💬 2 • ⭐ 341 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -522,7 +522,7 @@ PersonaLive is a diffusion-based framework for real-time portrait animation that
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 130 • 💬 6 • ⭐ 18,099 • 3mo ago
+▲ 130 • 💬 6 • ⭐ 18,200 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -644,7 +644,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.9k • 🔱 2.5k • 21h ago
+⭐ 16.0k • 🔱 2.5k • 38m ago
 
 ---
 
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.6k • 🔱 388 • 1h ago
+⭐ 3.7k • 🔱 390 • 1h ago
 
 ---
 
@@ -714,7 +714,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 865 • 🔱 49 • 17h ago
+⭐ 866 • 🔱 49 • 17h ago
 
 ---
 
@@ -724,7 +724,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 747 • 🔱 107 • 1d ago
+⭐ 748 • 🔱 107 • 1d ago
 
 ---
 
@@ -734,7 +734,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 724 • 🔱 112 • 45m ago
+⭐ 735 • 🔱 112 • 1h ago
 
 ---
 

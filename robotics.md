@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T06:39:13.358107+00:00'
+updated: '2025-12-16T07:01:02.724861+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 06:39 UTC  
+**Last Updated:** December 16, 2025 at 07:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -56,7 +56,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
-2h ago
+3h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
 
-7h ago
+8h ago
 
 ---
 
@@ -72,7 +72,7 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 
 Just saw this video of a college student building a powered exoskeleton by hand. Stuff like this always makes me think about how far exoskeletons have come. Companies like dnsys have already released lower limb exoskeletons as mobility aids for rehabilitation and daily use. Curious what people here think. Are we actually getting closer to wider adoption, for example in military or medical contexts, or are power, weight, and comfort still the main blockers?
 
-1h ago
+2h ago
 
 ---
 
@@ -122,13 +122,13 @@ The New York Times • 1d ago
 
 They make robot vacuums, lots of them
 
-The Verge • 21h ago
+The Verge • 22h ago
 
 ---
 
 **[Roomba Maker iRobot Files for Bankruptcy, With Chinese Supplier Taking Control](https://www.nytimes.com/2025/12/15/business/roomba-irobot-bankruptcy.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -224,7 +224,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 191K • 👍 934 • 💬 303 • ⏱️ 0:47 • 6d ago
+👁️ 191K • 👍 934 • 💬 303 • ⏱️ 0:47 • 7d ago
 
 ---
 
@@ -232,7 +232,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 BlueAI25
 
-👁️ 7K • 👍 80 • 💬 6 • ⏱️ 0:24 • 10h ago
+👁️ 7K • 👍 80 • 💬 6 • ⏱️ 0:24 • 11h ago
 
 ---
 
@@ -272,7 +272,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 44 • 💬 4 • ⏱️ 1:25 • 8h ago
+👁️ 2K • 👍 44 • 💬 4 • ⏱️ 1:25 • 9h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T06:39:13.348968+00:00'
+updated: '2025-12-16T07:01:02.715701+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 06:39 UTC  
+**Last Updated:** December 16, 2025 at 07:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.8%  
-**7d:** -6.3%  
-**30d:** -6.6%  
-**90d:** -26.3%  
-**1y:** -18.9%  
+**24h:** -3.7%  
+**7d:** -5.9%  
+**30d:** -6.2%  
+**90d:** -26.0%  
+**1y:** -18.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 100k range might take till next year
 
-7h ago
+8h ago
 
 ---
 
@@ -111,7 +111,7 @@ Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many time
 
 Are you still buying?
 
-14h ago
+15h ago
 
 ---
 
@@ -139,13 +139,13 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 **[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 8h ago
 
 Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 1h ago
 
 A slide in Bitcoin price on Monday triggered over $584 million in liquidations of bullish bets, primarily affecting long positions.
 
-Seeking Alpha • 57m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Financial Times • 1d ago
 
 **[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcwtb8tVrMDZgCowVH0sk1cBJdWi4OgCHHxLxK2COqidTDsjP0k74zl&gaa_ts=694101f9&gaa_sig=4jVDFKgpt__2Ph0YW2kRRWYHHwvo7bNxTe-UYWn0lLz_DSX63zj0jsDGlZYLKmm3FcCWWr_NmYsJxBlAV13btA%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
@@ -249,7 +249,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 17h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 18h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -301,7 +301,7 @@ We’ve already written several times about the danger posed by adding AI to law
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 22h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 23h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
