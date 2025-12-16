@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T19:19:59.730960+00:00'
+updated: '2025-12-16T19:35:34.199017+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 19:19 UTC  
+**Last Updated:** December 16, 2025 at 19:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -12.0%  
-**30d:** -3.6%  
-**90d:** -36.3%  
-**1y:** -24.9%  
+**24h:** -0.0%  
+**7d:** -11.8%  
+**30d:** -3.2%  
+**90d:** -36.1%  
+**1y:** -24.6%  
 
 ---
 
@@ -172,7 +172,7 @@ Bloomberg.com • 1d ago
 
 Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 49K • 👍 2K • 💬 116 • ⏱️ 13:11 • 22h ago
+👁️ 49K • 👍 2K • 💬 116 • ⏱️ 13:11 • 23h ago
 
 ---
 

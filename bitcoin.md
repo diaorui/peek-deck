@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T19:19:59.724933+00:00'
+updated: '2025-12-16T19:35:34.192979+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 19:19 UTC  
+**Last Updated:** December 16, 2025 at 19:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,875.74
+### $87,330.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** -5.1%  
-**30d:** -5.4%  
-**90d:** -25.3%  
+**24h:** +1.7%  
+**7d:** -4.8%  
+**30d:** -5.1%  
+**90d:** -25.1%  
 **1y:** -17.6%  
 
 ---
@@ -103,7 +103,7 @@ Rank #1
 
 **[This is what buying Bitcoin looked like in 2011 - 1BTC = $3.5](https://www.reddit.com/r/Bitcoin/comments/1po8477/this_is_what_buying_bitcoin_looked_like_in_2011/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ Are you still buying?
 
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-41m ago
+57m ago
 
 ---
 
@@ -143,7 +143,7 @@ Are you still buying?
 
 There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
-1h ago
+2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1h ago
 
 Imagine managing your Bitcoin right alongside your Ethereum assets in the wallet you already trust—MetaMask just made it real, and it's a game-changer for everyday crypto users.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -285,7 +285,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 9 • 💬 2 • 3h ago
+⬆️ 9 • 💬 2 • 4h ago
 
 ---
 
@@ -299,7 +299,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 27K • 👍 543 • 💬 337 • ⏱️ 10:03 • 12h ago
+👁️ 27K • 👍 543 • 💬 337 • ⏱️ 10:03 • 13h ago
 
 ---
 
@@ -309,7 +309,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 2K • 💬 610 • ⏱️ 8:04 • 17h ago
+👁️ 28K • 👍 2K • 💬 610 • ⏱️ 8:04 • 18h ago
 
 ---
 

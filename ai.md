@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T19:19:59.716395+00:00'
+updated: '2025-12-16T19:35:34.184539+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - social
 - repositories
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 19:19 UTC  
+**Last Updated:** December 16, 2025 at 19:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 3h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 4h ago
 
 ---
 
@@ -89,7 +89,7 @@ We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built f
 
 I’ve been trying to put a name to a specific frustration I feel when working deeply with LLMs. It’s not the hard refusals, it’s the moment mid-conversation where the tone flattens, the language becomes careful, and the possibility space narrows. I’ve started calling this The Corridor. I wrote a full analysis on this, but here is the core point: We aren't just seeing censorship; we are seeing Trajectory Policing. Because LLMs are prediction engines, they don't just complete your sentence; they complete the future of the conversation. When the model detects ambiguity or intensity , it is mathematically incentivised to collapse toward the safest, most banal outcome. I call this "Modal Marginalisation"- where the system treats deep or symbolic reasoning as "instability" and steers you back to a normative, safe centre. I've mapped out the mechanics of this (Prediction, Priors, and Probability) in this longer essay.
 
-🔗 [medium.com](https://medium.com/@miravale.interface/the-agency-paradox-e07684fc316d) • 39m ago
+🔗 [medium.com](https://medium.com/@miravale.interface/the-agency-paradox-e07684fc316d) • 54m ago
 
 ---
 
@@ -145,13 +145,13 @@ The New York Times • 1h ago
 
 Too great a weight.
 
-The Verge • 5h ago
+The Verge • 6h ago
 
 ---
 
 **[Goldman Revamps Tech Banking Group as AI Infrastructure Booms](https://www.bloomberg.com/news/articles/2025-12-16/goldman-revamps-tech-banking-group-as-ai-infrastructure-booms)**
 
-Bloomberg.com • 15m ago
+Bloomberg.com • 31m ago
 
 ---
 
@@ -163,7 +163,7 @@ The Wall Street Journal • 1d ago
 
 **[AI models are perfecting their hacking skills](https://www.axios.com/2025/12/16/ai-models-hacking-stanford-openai-warnings)**
 
-Axios • 48m ago
+Axios • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ MIT Technology Review • 1d ago
 
 It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
 
-CNN • 7h ago
+CNN • 8h ago
 
 ---
 
@@ -329,7 +329,7 @@ The AI bubble is showing signs of popping and the tech industry is waking up fro
 
 📺 Brian Jenney
 
-👁️ 50K • 👍 3K • 💬 637 • ⏱️ 15:40 • 19h ago
+👁️ 50K • 👍 3K • 💬 637 • ⏱️ 15:40 • 20h ago
 
 ---
 
