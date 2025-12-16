@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T15:59:33.986203+00:00'
+updated: '2025-12-16T16:41:08.118176+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 15:59 UTC  
+**Last Updated:** December 16, 2025 at 16:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 36m ago
-
----
-
-**[Linus Torvalds is 'a huge believer' in using AI to maintain code - just don't call it a revolution](https://www.reddit.com/r/artificial/comments/1pntfs5/linus_torvalds_is_a_huge_believer_in_using_ai_to/)**
-
-Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
-
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 10h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 1h ago
 
 ---
 
@@ -57,7 +49,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 30m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 1h ago
 
 ---
 
@@ -66,6 +58,14 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
 1h ago
+
+---
+
+**[Linus Torvalds is 'a huge believer' in using AI to maintain code - just don't call it a revolution](https://www.reddit.com/r/artificial/comments/1pntfs5/linus_torvalds_is_a_huge_believer_in_using_ai_to/)**
+
+Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
+
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 11h ago
 
 ---
 
@@ -85,11 +85,19 @@ The ZLUDA open-source project that has been through several incarnations but ult
 
 ---
 
+**[AI Bathroom Monitors? Welcome To America’s New Surveillance High Schools](https://www.reddit.com/r/artificial/comments/1po5yrw/ai_bathroom_monitors_welcome_to_americas_new/)**
+
+Schools across the U.S. are rolling out AI-powered surveillance technology, including drones, facial recognition and even bathroom listening devices. But there’s not much data to prove they keep kids safe.
+
+🔗 [Forbes](https://go.forbes.com/evAZNR) • 27m ago
+
+---
+
 **[Red Hat acquires another AI company](https://www.reddit.com/r/artificial/comments/1po5dd8/red_hat_acquires_another_ai_company/)**
 
 Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to bolster the open-source AI ecosystem
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 8m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 50m ago
 
 ---
 
@@ -109,14 +117,6 @@ RIP Copilot.
 
 ---
 
-**[Compact offline medical SLM with Native Knowledge Graph + RAG audit (benchmark + HF demo)](https://www.reddit.com/r/artificial/comments/1pnwh03/compact_offline_medical_slm_with_native_knowledge/)**
-
-I’ve been experimenting with a slightly different approach to medical LMs and would really value feedback from people working on ML, health IT, or clinical education. Instead of chasing more parameters, I built a ~6 GB medical SLM that’s tightly coupled to a biomedical knowledge graph and a self‑contained RAG/audit layer. The goal is not to sound smarter than GPT‑4, but to be *safer, more structured, and auditable* for clinical decision support / education use cases. Core setup: - Base: BioGPT‑Large (~6 GB footprint) - Biomedical knowledge graph: 5k+ nodes, 25k+ edges across diseases, symptoms, treatments, risk factors, diagnostics, body parts, cellular structures - Graph‑aware embeddings + special tokens so the model “anchors” to graph concepts - Built‑in RAG/audit: entity + semantic search over the graph to validate each answer against the graph before accepting it I ran a small 5 case internal evaluation on multi sentence clinical questions (diagnosis + risk factors + tests + treatments + contraindications). Scoring dimensions: contextual accuracy, multi‑hop reasoning, entity structure, clarity, hallucination resistance. This model landed at 4.5/5 overall, including 5/5 on hallucination resistance. Baselines were typical medical SLMs (BioBERT/PubMedBERT/ClinicalBERT) and large general LLMs. Trade‑offs vs big LLMs: less fluent, more constrained; better at staying inside medically grounded entities/relations; easier to audit because every answer is tied back to explicit graph nodes. For anyone curious, there’s a HF Space demo here (model is private, Space is public responses can take 30–180s+ because of shared infra; locally it’s ~3–5s per query) on GPU, 7-10s on CPU: https://huggingface.co/spaces/cmtopbas/medical-slm-testing I’d really appreciate: - Critical feedback on the architecture (graph + audit layer) - Ideas for realistic, high‑impact use cases (e.g. med ed, trainee tools, clinician reference) where this kind of architecture would be useful - Pointers to similar work I should be aware of so I’m not reinventing the wheel Happy to share more detailed benchmarks/trace examples if there’s interest. Question 1: A 55-year-old male patient presents with persistent chest pain radiating to the left arm. He has a history of hypertension and Type 2 diabetes. ECG shows ST-segment elevation. The patient is allergic to aspirin. Question: Based on the patient’s condition, what treatments are recommended, which are contraindicated, and which risk factors are involved? Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 9 Answer → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 10 ◇ Best effort (Missing: Riskfactor) Answer 1: Hypertension is common among patients who have CKD. It can be treated effectively if it is identified early and managed appropriately. Patients should avoid medications that may exacerbate their symptoms or cause adverse effects such as angiotensin converting enzyme (ACE) inhibitors. If an ACE inhibitor cannot be used because of intolerance, then other antihypertensive agents are available. In addition to blood pressure control, treatment for heart failure includes use of diuretics, beta blockers, aldosterone antagonists, and digoxin. Treatment options also include calcium channel blockers, alpha adrenergic receptor agonists, vasodilators, and endothelin receptor antagonists. Please consult a healthcare professional for personalized medical advice. Question 2: Female patient presents with fatigue, swelling in her ankles, has a history of hypertension and chronic kidney disease. Also experiences persistent cough when taking ACE inhibitors and her Echocardiogram shows reduced ejection fraction. What is the diagnosis and treatment based on her combined diagnosis Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 8 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 7 ✓ Graph-validated (Valid) Answer 2: The diagnosis is acute heart failure (HF) due to left ventricular systolic dysfunction. Treatment includes diuretics for congestion and vasodilators or inotropes for hypotension. Angiotensin-converting enzyme inhibitor therapy should be discontinued if there are signs of worsening renal function. Hypertension can worsen cardiac outcomes by increasing afterload on the heart. Chronic kidney disease may also contribute to poor prognosis through increased risk of cardiovascular events and death. Please consult a healthcare professional for personalized medical advice. Question 3: A 45-year-old male patient reports frequent urination, excessive thirst, and fatigue. He has a family history of type 2 diabetes and is overweight. Blood tests show elevated fasting glucose and HbA1c levels. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 9 ✓ Graph-validated (Valid) Answer 3: Type 2 Diabetes Mellitus (T2DM) is an endocrine disorder that affects millions worldwide. It can be diagnosed by measuring blood sugar levels or glycated hemoglobin A1c. The American Diabetes Association recommends screening for T2DM in adults with any one of the following characteristics: age > 4 0 years; < 1 8 y / o Body Mass Index (BMI); African ancestry; Hispanic ethnicity; Asian descent; or having polycystic ovarian syndrome. Patients should also have at least two other features of the metabolic syndrome to increase their risk of developing T2DM. Treatment options are based on patients' comorbidities and goals for glycemic control. Lifestyle modifications such as diet and exercise are first line treatment but may not achieve optimal results if they fail. Medications including metformin, sulfonylureas, thiazolidinediones, dipeptidyl peptidase IV inhibitors, glucagon like peptide-1RAs. Please consult a healthcare professional for personalized medical advice. Question 4: A 30-year-old female patient reports persistent cough, fever, and shortness of breath. She recently returned from a trip abroad and has a mild history of asthma. Chest X-ray shows patchy infiltrates in the lower lobes. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications. Prompt → Categories: ['DiagnosticTest', 'Disease', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 4: The diagnosis is acute respiratory distress syndrome (ARDS) caused by pneumonia with secondary bacterial infection. ARDS can be fatal if not treated promptly. Risk factors for ARDS are discussed along with treatment options including antibiotics, corticosteroids, mechanical ventilation, vasopressors, and extracorporeal membrane oxygenation. Treatment should focus on preventing further complications such as nosocomial infections or ventilator associated events. Please consult a healthcare professional for personalized medical advice. Question 5: A 50-year-old male patient experiences abdominal pain, bloating, and intermittent diarrhea. He has a family history of celiac disease and reports gluten sensitivity. Blood tests show elevated anti-tTG antibodies. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 7 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 5: Celiac Disease is an autoimmune disorder that affects approximately 1% to 2% of people in North America. It can be diagnosed by serologic testing for IgA antitissue transglutaminase (anti-tTG) antibody levels or duodenal biopsy. The diagnosis should trigger a discussion about dietary restrictions with patients and their families. Patients must also understand the potential risks associated with untreated celiac disease, including increased susceptibility to cancer, cardiovascular diseases, type I diabetes mellitus, osteoporosis, infertility, neurologic disorders, and psychiatric conditions. Treatment options are limited but may involve lifelong adherence to a strict gluten free diet. This includes avoiding wheat products, rye, barley, oats, legumes, nuts, seeds, and other grains containing glutenins. Other treatment options include oral supplements such as zinc sulfate and magnesium oxide; however, these have not been. Please consult a healthcare professional for personalized medical advice. Please consult a healthcare professional for personalized medical advice.
-
-7h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,67 +125,67 @@ I’ve been experimenting with a slightly different approach to medical LMs and 
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-NPR • 5h ago
+NPR • 6h ago
 
 ---
 
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 18h ago
+The New York Times • 1d ago
+
+---
+
+**[Senators Investigate Role of A.I. Data Centers in Rising Electricity Costs](https://www.nytimes.com/2025/12/16/business/energy-environment/senate-democrats-electricity-prices-data-centers.html)**
+
+The New York Times • 6h ago
+
+---
+
+**[At least 16 sites eyed for data centers in Michigan amid AI boom. Here’s where](https://www.mlive.com/news/2025/12/at-least-16-sites-eyed-for-data-centers-in-michigan-amid-ai-boom-heres-where.html)**
+
+Booming interest in artificial intelligence and new state tax breaks are driving a frenzy of data center development proposals across the Lower Peninsula.
+
+MLive.com • 1h ago
+
+---
+
+**[Banking's AI reckoning: 13 expert predictions for 2026](https://finance.yahoo.com/news/bankings-ai-reckoning-13-expert-162100759.html)**
+
+The AI experiments are over. In 2026, banking enters a new phase – one where autonomous agents handle real customer requests, synthetic data threatens core repositories and trust becomes a measurable performance metric. The question is no longer whether AI will transform banking but whether institutions are prepared for the consequences of the accelerating transformation already underway.
+
+Yahoo Finance • 20m ago
+
+---
+
+**[Sergey Brin says his commute involves talking to an unreleased Gemini AI model about building data centers](https://www.businessinsider.com/google-sergey-brin-gemini-live-dogfooding-data-centers-2025-12)**
+
+"Give me a few weeks to actually ship what I have access to," Google cofounder Sergey Brin said, describing a coming Gemini Live model.
+
+Business Insider • 34m ago
+
+---
+
+**[Allen Institute for AI rivals Google, Meta and OpenAI with open-source AI vision model](https://www.geekwire.com/2025/allen-institute-for-ai-rivals-google-meta-and-openai-with-open-source-video-analysis-model/)**
+
+GeekWire • 23m ago
+
+---
+
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqd5CgP-Wk84QE88BGihMCMhqnyX_ZIOihppOWdNb6Z_Ao088eFti_Zd&gaa_ts=69418f07&gaa_sig=V75jKSKYw9pL2JH-2SrxZ-kt7NKQMA8MHAlJ_ymfYC9hWTlfB3pajpQgDSWMKTVwx6eBY50h1pCA89HcxyPQ8g%3D%3D)**
+
+The Wall Street Journal • 21h ago
 
 ---
 
 **[Publishers and brands grapple with AI errors](https://www.axios.com/2025/12/16/ai-media-mistakes-backlash)**
 
-Axios • 28m ago
-
----
-
-**[AI boom seen lifting chipmaking equipment sales 9% to $126 billion in 2026](https://finance.yahoo.com/news/ai-boom-seen-lifting-chipmaking-152903092.html)**
-
-AMSTERDAM, Dec 16 (Reuters) - Sales of equipment used to make computer chip wafers ​will rise about 9% to $126 billion ‌in 2026 and a further 7.3% to $135 billion in ‌2027, as chipmakers expand capacity for logic and memory chips used in artificial intelligence, industry group SEMI forecast on Tuesday.
-
-Yahoo Finance • 30m ago
-
----
-
-**[Perplexity AI Revamps iPad App to Deepen Focus on Research Tools](https://www.bloomberg.com/news/articles/2025-12-16/perplexity-ai-revamps-ipad-app-to-deepen-focus-on-research-tools)**
-
-Bloomberg.com • 2m ago
-
----
-
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqdemQ1BWQ5kHwk23GIndxB_xPZ0gp91a6L0psdDZ7jEHBdwUw31z7SS&gaa_ts=69418544&gaa_sig=tIjpe0-iusiLMt6TxJBeGwVJV6Tyvr6cPnuHY-WbW4L-xagvZCtT8TBJhtVkR9OuCzPxrh8_bo4H40tlxFiySA%3D%3D)**
-
-The Wall Street Journal • 20h ago
-
----
-
-**[Why 2026 could be the year of anti-AI marketing](https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap)**
-
-It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
-
-CNN • 4h ago
+Axios • 1h ago
 
 ---
 
 **[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
 
-The Washington Post • 1h ago
-
----
-
-**[Trump admin to hire 1,000 specialists for 'Tech Force' to build AI, finance projects](https://www.cnbc.com/2025/12/15/trump-ai-tech-force-amazon-apple.html)**
-
-A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
-
-CNBC • 23h ago
-
----
-
-**[Business leaders agree AI is the future. They just wish it worked right now.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
-
-Reuters • 3h ago
+The Washington Post • 38m ago
 
 ---
 
@@ -195,7 +195,7 @@ Reuters • 3h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 677 • 💬 221 • 12h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 706 • 💬 225 • 13h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -203,7 +203,7 @@ Reuters • 3h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 567 • 💬 934 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 569 • 💬 934 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -211,13 +211,13 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 385 • 💬 374 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 385 • 💬 375 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 348 • 💬 279 • 17h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 352 • 💬 286 • 17h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -225,7 +225,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 293 • 💬 300 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 295 • 💬 300 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -263,7 +263,7 @@ Brian Merchant has been collecting personal stories for his series AI Killed My 
 
 **[Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://news.ycombinator.com/item?id=46277477)**
 
-⬆️ 78 • 💬 39 • 22h ago • [X (formerly Twitter)](https://twitter.com/AKurian001/status/1986979144014701026)
+⬆️ 79 • 💬 39 • 23h ago • [X (formerly Twitter)](https://twitter.com/AKurian001/status/1986979144014701026)
 
 ---
 
@@ -307,7 +307,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 23K • 👍 642 • 💬 103 • ⏱️ 11:23 • 15h ago
+👁️ 23K • 👍 642 • 💬 103 • ⏱️ 11:23 • 16h ago
 
 ---
 
@@ -381,7 +381,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,801 • 7d ago
+⬇️ 296,552 • ❤️ 2,801 • 8d ago
 
 ---
 
@@ -405,7 +405,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 880 • 4d ago
+⬇️ 158,614 • ❤️ 883 • 4d ago
 
 ---
 
@@ -445,6 +445,18 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 ---
 
+**[NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16)**
+
+*NVIDIA*
+
+NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mamba architecture, excelling at reasoning tasks by generating explicit reasoning traces. It supports multiple languages and is suitable for commercial use, offering high accuracy in complex problem-solving.
+
+`text-generation` `31.6B`
+
+⬇️ 10,487 • ❤️ 225 • 16h ago
+
+---
+
 **[Devstral-2-123B-Instruct-2512](https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512)**
 
 *Mistral AI_*
@@ -454,18 +466,6 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 `125.0B`
 
 ⬇️ 6,543 • ❤️ 222 • 1d ago
-
----
-
-**[NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16)**
-
-*NVIDIA*
-
-NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mamba architecture, excelling at reasoning tasks by generating explicit reasoning traces. It supports multiple languages and is suitable for commercial use, offering high accuracy in complex problem-solving.
-
-`text-generation` `31.6B`
-
-⬇️ 10,487 • ❤️ 219 • 16h ago
 
 ---
 
@@ -640,7 +640,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.3k • 🔱 2.5k • 6h ago
+⭐ 16.3k • 🔱 2.6k • 7h ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.8k • 🔱 411 • 2h ago
+⭐ 3.8k • 🔱 414 • 2h ago
 
 ---
 
@@ -670,7 +670,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 315 • 10d ago
+⭐ 1.3k • 🔱 316 • 10d ago
 
 ---
 
@@ -700,7 +700,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 896 • 🔱 23 • 8d ago
+⭐ 897 • 🔱 23 • 8d ago
 
 ---
 
@@ -720,7 +720,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 754 • 🔱 110 • 1d ago
+⭐ 756 • 🔱 110 • 1d ago
 
 ---
 
@@ -730,7 +730,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 751 • 🔱 115 • 10h ago
+⭐ 752 • 🔱 115 • 10h ago
 
 ---
 

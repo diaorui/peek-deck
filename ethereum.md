@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T15:59:34.000599+00:00'
+updated: '2025-12-16T16:41:08.132628+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 15:59 UTC  
+**Last Updated:** December 16, 2025 at 16:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** -10.5%  
-**30d:** -2.0%  
-**90d:** -35.2%  
-**1y:** -23.6%  
+**24h:** +0.1%  
+**7d:** -11.8%  
+**30d:** -3.4%  
+**90d:** -36.2%  
+**1y:** -24.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.37B
+**Market Cap:** $354.44B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-40.6%
 
 **All-Time Low:** $0.43
-+685649.2%
++677965.2%
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -110,7 +110,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-21h ago
+22h ago
 
 ---
 
@@ -150,17 +150,31 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
+**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
 
-The Block • 1d ago
+Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
+
+Yahoo Finance • 5h ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
+CCN.com • 1h ago
 
-Nasdaq • 2d ago
+---
+
+**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://decrypt.co/352365/tom-lees-bitmine-keeps-buying-ethereum-adding-320-million-eth-treasury)**
+
+Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
+
+Decrypt • 1d ago
+
+---
+
+**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
+
+The Block • 1d ago
 
 ---
 
@@ -176,27 +190,21 @@ Yahoo Finance • 1h ago
 
 Bitcoin and Ethereum wavered after U.S. jobs data, but prediction markets still favor a return to $100K amid expected Fed rate cuts.
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
+**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
 
-Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
+Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
-Yahoo Finance • 4h ago
-
----
-
-**['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
-
-The Block • 1d ago
+Nasdaq • 2d ago
 
 ---
 
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+**[Ethereum News Today: ETH Fails to Hold $3K Amid ETF Outflows, Underperforms Market](https://www.binance.com/sl/square/post/12-16-2025-ethereum-news-today-eth-fails-to-hold-3k-amid-etf-outflows-underperforms-market-33796769389849)**
 
-CCN.com • 42m ago
+Binance • 45m ago
 
 ---
 
@@ -204,7 +212,7 @@ CCN.com • 42m ago
 
 Bitcoin and Ethereum are entering one of their most critical phases of the year after a sharp market-wide pullback sent BTC briefly below $86,000, shaking out overleveraged traders and resetting sentiment across major assets. Despite the volatility, both cryptocurrencies are now coiling near major…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -213,14 +221,6 @@ TradingView — Track All Markets • 3h ago
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
 CryptoSlate • 1d ago
-
----
-
-**[Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment](https://ambcrypto.com/greed-vs-fear-at-3k-inside-ethereums-make-or-break-moment/)**
-
-Ethereum approaches whale levels: Is greed fueling the next crash?
-
-AMBCrypto • 2d ago
 
 ---
 
@@ -254,7 +254,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 476 • 👍 73 • 💬 19 • ⏱️ 8:42 • 3h ago
+👁️ 476 • 👍 73 • 💬 19 • ⏱️ 8:42 • 4h ago
 
 ---
 
@@ -264,7 +264,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 46K • 👍 2K • 💬 114 • ⏱️ 13:11 • 19h ago
+👁️ 46K • 👍 2K • 💬 114 • ⏱️ 13:11 • 20h ago
 
 ---
 
@@ -274,7 +274,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 4K • 👍 673 • 1h ago
+👁️ 4K • 👍 673 • 2h ago
 
 ---
 
@@ -284,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 420 • 👍 33 • 💬 1 • ⏱️ 4:48 • 5h ago
+👁️ 420 • 👍 33 • 💬 1 • ⏱️ 4:48 • 6h ago
 
 ---
 
@@ -294,7 +294,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 17K • 👍 832 • 💬 86 • ⏱️ 40:28 • 22h ago
+👁️ 17K • 👍 832 • 💬 86 • ⏱️ 40:28 • 23h ago
 
 ---
 
@@ -304,7 +304,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 144 • 💬 18 • ⏱️ 6:53 • 15h ago
+👁️ 4K • 👍 144 • 💬 18 • ⏱️ 6:53 • 16h ago
 
 ---
 

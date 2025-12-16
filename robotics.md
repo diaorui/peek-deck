@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T15:59:34.003915+00:00'
+updated: '2025-12-16T16:41:08.135854+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 15:59 UTC  
+**Last Updated:** December 16, 2025 at 16:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-5h ago
+6h ago
 
 ---
 
@@ -48,7 +48,15 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-20h ago
+21h ago
+
+---
+
+**[A self-balancing wheel](https://www.reddit.com/r/robotics/comments/1po0ani/a_selfbalancing_wheel/)**
+
+I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
+
+4h ago
 
 ---
 
@@ -60,19 +68,11 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 ---
 
-**[A self-balancing wheel](https://www.reddit.com/r/robotics/comments/1po0ani/a_selfbalancing_wheel/)**
-
-I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
-
-3h ago
-
----
-
 **[Getting into Robotics Research](https://www.reddit.com/r/robotics/comments/1po42nn/getting_into_robotics_research/)**
 
 Hello everyone, I’ll jump straight to my question. I’m currently looking to connect with professionals who are involved in research in robotics, especially areas like computer vision, robotic arms, and work at the intersection of AI and robotics. A bit about me: I’m currently in my internship phase and don’t have any prior research or publishing experience, but I do have a strong interest and solid knowledge in developing robots, experimenting with algorithms, and hands-on tinkering. I’m actively looking to collaborate and publish research in this domain. I can roughly dedicate around 10 hours per week to this effort. If anyone is interested, please feel free to DM me. I can share some of my work. I’d also really appreciate any advice on how to approach or find professors and researchers working in these areas. I’ve already reached out to my professors, but their research domains are quite different from what I’m looking for, which is why I’m trying to connect with people outside my immediate academic circle. Thanks in advance!
 
-59m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello everyone, I’ll jump straight to my question. I’m currently looking to 
 
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
-10h ago
+11h ago
 
 ---
 
@@ -118,19 +118,19 @@ The New York Times • 2d ago
 
 ---
 
-**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+**[China’s Unitree teases platform allowing users to control robots via smartphones](https://www.scmp.com/tech/big-tech/article/3336380/chinas-unitree-teases-platform-allowing-users-control-robots-through-smartphones)**
 
-Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+Hangzhou robotics unicorn’s platform is designed to bring embodied intelligence into everyday life.
 
 South China Morning Post • 2d ago
 
 ---
 
-**[2026 and the Rise of Humanoid Robots: Looking at Trust, Privacy and the Future of Work](https://www.cnet.com/tech/computing/2026-and-the-rise-of-humanoid-robots-looking-at-trust-privacy-and-the-future-of-work/)**
+**[Cofounder of bankrupt Roomba maker iRobot says Elon Musk's vision of robots is 'pure fantasy'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
 
-Robot companies are racing toward a breakout year, but they'll have to confront some fundamental problems before making bigger promises.
+Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-CNET • 2d ago
+Fortune • 2h ago
 
 ---
 
@@ -142,25 +142,17 @@ The Verge • 1d ago
 
 ---
 
-**[Serve Robotics has deployed 2,000+ delivery robots across the U.S.](https://www.therobotreport.com/serve-robotics-has-deployed-2000-delivery-robots-across-u-s/)**
-
-Since the start of the year, Serve Robotics has expanded its fleet of sidewalk delivery robots twentyfold.
-
-The Robot Report • 2h ago
-
----
-
-**[BARA, the Bay Area Robotics Association, launches to accelerate embodied AI](https://www.therobotreport.com/bay-area-robotics-association-bara-launches-accelerate-embodied-ai/)**
-
-BARA said it intends to connect San Francisco Bay Area investors and startups to shape robotics and embodied AI.
-
-The Robot Report • 2h ago
-
----
-
 **[Two BCSC VEX IQ robotics teams earn a spot in state championship competition](https://www.therepublic.com/2025/12/16/two-bcsc-vex-iq-robotics-teams-earn-a-spot-in-state-championship-competition/)**
 
-The Republic News • 10h ago
+The Republic News • 11h ago
+
+---
+
+**[Serve Robotics Deploys 2,000 Robots & Leads U.S. Sidewalk Delivery](https://finance.yahoo.com/news/serve-robotics-deploys-2-000-163700829.html)**
+
+SERV reaches its 2025 target with 2,000+ autonomous robots, becoming the largest U.S. sidewalk delivery fleet through rapid expansion and disciplined execution.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -184,7 +176,13 @@ InvestorPlace • 2d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 22h ago
+
+---
+
+**[3 Underrated Robotics Stocks Poised for Huge Gains](https://www.marketbeat.com/stock-ideas/3-underrated-robotics-stocks-poised-for-huge-gains/)**
+
+MarketBeat • 1d ago
 
 ---
 
@@ -198,7 +196,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 23K • 👍 642 • 💬 103 • ⏱️ 11:23 • 15h ago
+👁️ 23K • 👍 642 • 💬 103 • ⏱️ 11:23 • 16h ago
 
 ---
 
@@ -284,7 +282,7 @@ Atlas moves like a contortionist, but it's not just showing off. One of our soft
 
 📺 Boston Dynamics
 
-👁️ 177K • 👍 6K • 💬 231 • ⏱️ 1:11 • 6d ago
+👁️ 177K • 👍 6K • 💬 231 • ⏱️ 1:11 • 7d ago
 
 ---
 
