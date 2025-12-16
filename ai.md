@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T02:21:17.733848+00:00'
+updated: '2025-12-16T03:44:43.391944+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- social
 - videos
 - news
-- social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 02:21 UTC  
+**Last Updated:** December 16, 2025 at 03:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 12h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 13h ago
 
 ---
 
@@ -49,7 +49,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 11h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 12h ago
 
 ---
 
@@ -61,19 +61,19 @@ RIP Copilot.
 
 ---
 
-**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pnf368/its_been_a_big_week_for_agentic_ai_here_are_10/)**
-
-Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI Foundation Google drops Deep Research + AlphaEvolve agent A collection of AI Agent Updates! 🧵 1. Stripe Launches Agentic Commerce Suite Single integration for businesses to sell via multiple AI agents. Handles product discovery, agentic checkout, payments, and fraud. Manage all agents from Stripe Dashboard. Works with existing commerce stack. AI-native commerce infrastructure now available. 2. OpenAI Co-Founds Agentic AI Foundation with Anthropic and Block Under Linux Foundation to support open, interoperable standards for agentic AI. Donating to establish standards enabling safe, reliable agents across tools and repositories. Industry leaders aligning on agent interoperability. 3. Google Opens Gemini Deep Research Agent to Developers Most advanced autonomous research capabilities now embeddable in applications for first time. Also open-sourcing DeepSearchQA benchmark for evaluating agents on complex search tasks. Google's agent infrastructure available to all developers. 4. Anthropic is Developing New Agent Mode for Claude Code-named "Yukon Gold" - tasks-based complex agent experience with toggle between classic chat and agent mode. Also testing pixel art avatar generation from uploaded photos. Claude may be getting a dedicated agent interface. 5. Google Cloud Unveils AlphaEvolve Coding Agent Gemini-powered agent for designing advanced algorithms. Uses LLMs to propose intelligent code modifications with feedback loop that evolves algorithms to be more efficient. Now in private preview. Haven’t tried, but seems promising. 6. Real Agent Usage Data: Harvard Analyzes Hundreds of Millions of Queries Perplexity study shows 55% personal use, 30% professional. Productivity/workflow dominates (36% of queries), followed by learning/research (21%). Users shift from simple to complex tasks over time. Real data on how people actually use agents. 7. Stitchbygoogle Launches Redesign Agent with Code Generation Screenshot apps, visually reimagine with Gemini Pro, then convert redesigns into working HTML. "Shipmas" week begins - new ship daily with big launch Wednesday. Screenshot → Redesign → Code → Deploy workflow now live. 8. Cursor Agents Can Now Debug Your Hardest Bugs Debug Mode instruments code, spins up server, captures logs, and streams runtime data to agent. Version 2.2 adds multi-agent judging (picks best solution) and Plan Mode improvements with diagrams. AI agents now debugging production code. 9. Code Drops Major Agent Experience Upgrade Agent sessions integrated into chat view. Isolated background agents via Git worktrees enable multiple agents without conflicts. Seamless delegation with automatic context transfer between local, background, and cloud agents. Multi-agent workflows now native in VS Code. 10. Microsoft Research Unveils Agent Lightning Decouples how agents work from training. Turns each agent step into reinforcement learning data. Developers can improve agent performance with almost zero code changes. RL for agents without code rewrites. That's a wrap on this week's Agentic news. Which update are you trying first? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
-
-7h ago
-
----
-
 **[Not all CEOs favor Trump's executive order to block state AI laws](https://www.reddit.com/r/artificial/comments/1pnbrtt/not_all_ceos_favor_trumps_executive_order_to/)**
 
 Also: All the news and watercooler chat from Fortune.
 
-🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 9h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 11h ago
+
+---
+
+**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pnf368/its_been_a_big_week_for_agentic_ai_here_are_10/)**
+
+Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI Foundation Google drops Deep Research + AlphaEvolve agent A collection of AI Agent Updates! 🧵 1. Stripe Launches Agentic Commerce Suite Single integration for businesses to sell via multiple AI agents. Handles product discovery, agentic checkout, payments, and fraud. Manage all agents from Stripe Dashboard. Works with existing commerce stack. AI-native commerce infrastructure now available. 2. OpenAI Co-Founds Agentic AI Foundation with Anthropic and Block Under Linux Foundation to support open, interoperable standards for agentic AI. Donating to establish standards enabling safe, reliable agents across tools and repositories. Industry leaders aligning on agent interoperability. 3. Google Opens Gemini Deep Research Agent to Developers Most advanced autonomous research capabilities now embeddable in applications for first time. Also open-sourcing DeepSearchQA benchmark for evaluating agents on complex search tasks. Google's agent infrastructure available to all developers. 4. Anthropic is Developing New Agent Mode for Claude Code-named "Yukon Gold" - tasks-based complex agent experience with toggle between classic chat and agent mode. Also testing pixel art avatar generation from uploaded photos. Claude may be getting a dedicated agent interface. 5. Google Cloud Unveils AlphaEvolve Coding Agent Gemini-powered agent for designing advanced algorithms. Uses LLMs to propose intelligent code modifications with feedback loop that evolves algorithms to be more efficient. Now in private preview. Haven’t tried, but seems promising. 6. Real Agent Usage Data: Harvard Analyzes Hundreds of Millions of Queries Perplexity study shows 55% personal use, 30% professional. Productivity/workflow dominates (36% of queries), followed by learning/research (21%). Users shift from simple to complex tasks over time. Real data on how people actually use agents. 7. Stitchbygoogle Launches Redesign Agent with Code Generation Screenshot apps, visually reimagine with Gemini Pro, then convert redesigns into working HTML. "Shipmas" week begins - new ship daily with big launch Wednesday. Screenshot → Redesign → Code → Deploy workflow now live. 8. Cursor Agents Can Now Debug Your Hardest Bugs Debug Mode instruments code, spins up server, captures logs, and streams runtime data to agent. Version 2.2 adds multi-agent judging (picks best solution) and Plan Mode improvements with diagrams. AI agents now debugging production code. 9. Code Drops Major Agent Experience Upgrade Agent sessions integrated into chat view. Isolated background agents via Git worktrees enable multiple agents without conflicts. Seamless delegation with automatic context transfer between local, background, and cloud agents. Multi-agent workflows now native in VS Code. 10. Microsoft Research Unveils Agent Lightning Decouples how agents work from training. Turns each agent step into reinforcement learning data. Developers can improve agent performance with almost zero code changes. RL for agents without code rewrites. That's a wrap on this week's Agentic news. Which update are you trying first? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ Also: All the news and watercooler chat from Fortune.
 
 The Understanding AI guide to open-weight models.
 
-🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 8h ago
+🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 9h ago
 
 ---
 
@@ -105,7 +105,7 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
 
-17h ago
+19h ago
 
 ---
 
@@ -113,7 +113,7 @@ I’ve been playing around with some AI video tools lately just to see what’s 
 
 People are starting to hand more decisions to AI agents, from booking trips to sorting digital files. The idea sounds simple. Tell the agent what you want, then let it work through the steps. The hard part is what the agent does with personal data along the way. A new research study digs into this problem, and asks a basic question. How should an AI agent know when to use someone’s data without asking every time?
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 16h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 18h ago
 
 ---
 
@@ -123,7 +123,7 @@ People are starting to hand more decisions to AI agents, from booking trips to s
 
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 5h ago
 
 The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
 
-CNN • 9h ago
+CNN • 11h ago
 
 ---
 
@@ -139,35 +139,41 @@ CNN • 9h ago
 
 A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
 
-CNBC • 9h ago
+CNBC • 11h ago
 
 ---
 
-**[US government launches campaign to hire engineers for AI, tech roles](https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/)**
+**[The White House’s unabashed embrace of AI](https://www.politico.com/news/2025/12/15/the-white-houses-unabashed-embrace-of-ai-00690885)**
 
-Reuters • 9h ago
-
----
-
-**[AI infrastructure selloff continues on Wall Street as Broadcom, Oracle shares slide](https://www.cnbc.com/2025/12/15/ai-infrastructure-selloff-continues-broadcom-oracle-coreweave-shares-slide.html)**
-
-In at least one corner of the AI market, sentiment has turned decidedly negative.
-
-CNBC • 6h ago
+Politico • 6h ago
 
 ---
 
-**[Oracle Stock Can't Shake Slide As AI Data Center Stocks Fall](https://www.investors.com/news/technology/oracle-stock-fall-ai-crwv-nvda-amzn/)**
+**[CNBC Daily Open: Debt worries continue to weigh on AI-related stocks](https://www.cnbc.com/2025/12/16/cnbc-daily-open-debt-worries-continue-to-weigh-on-ai-related-stocks.html)**
 
-Investor's Business Daily • 7h ago
+The ready availability of clients means companies that provide the compute just need to make sure their finances are in order.
+
+CNBC • 2h ago
 
 ---
 
-**[Down 42% From Its High, Is Oracle the Best AI Growth Stock to Buy in 2026?](https://finance.yahoo.com/news/down-42-high-oracle-best-012000090.html)**
+**[Why Oracle’s stock — and its bonds — can’t shake off AI spending fears](https://www.marketwatch.com/story/why-oracles-stock-and-its-bonds-cant-shake-off-ai-spending-fears-aec2365c?gaa_at=eafs&gaa_n=AWEtsqftHVJSJ3BK7RSBXraYZLRWidqAKc0JkwFKBywyJkbVpZjHIm5Lj4WC&gaa_ts=6940d913&gaa_sig=A-WiEoOFdlAGeXPudQQHdIcOd8PADv-WqldiAPLVZfEobldwmJ5FozryEbN3mzpR-XZZ5UGs-seRvCP3ivzQCg%3D%3D)**
 
-Oracle could fall further, but the growth potential is impossible to ignore.
+MarketWatch • 11h ago
 
-Yahoo Finance • 1h ago
+---
+
+**[Exclusive | CoreWeave’s Staggering Fall From Market Grace Highlights AI Bubble Fears](https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321?gaa_at=eafs&gaa_n=AWEtsqeJJA-LaP9qZJWgRch9gsIonRN-hGrKbWnkW-5HzkrvsltxfCTYqbi_&gaa_ts=6940d913&gaa_sig=rC6O2sCfkfRAkayNdiFhya6UVvke9CpfwU7ryvGuxmmIYbVoMfxL2XQScpXoCdd2kAl9C1mBf5QhTanJvaYBKg%3D%3D)**
+
+The Wall Street Journal • 1h ago
+
+---
+
+**[Former Mesquite coach used AI for step-by-step child grooming plan, police says](https://www.fox4news.com/news/former-mesquite-coach-used-ai-child-grooming-plan-police-says)**
+
+Newly released documents detail why police arrested a former Mesquite teacher and volleyball coach on child grooming charges.
+
+FOX 4 News Dallas-Fort Worth • 31m ago
 
 ---
 
@@ -175,7 +181,7 @@ Yahoo Finance • 1h ago
 
 AI Mode is mangling recipes by merging instructions from multiple creators – and causing them huge dips in ad traffic
 
-The Guardian • 3h ago
+The Guardian • 5h ago
 
 ---
 
@@ -183,13 +189,7 @@ The Guardian • 3h ago
 
 The era of AI evangelism is giving way to evaluation. Stanford faculty see a coming year defined by rigor, transparency, and a long-overdue focus on actual utility over speculative promise.
 
-Stanford HAI • 12h ago
-
----
-
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqd1m3dDqAP5cU7IT3nQm-DAQxAbOv5OpuQMgE4L8bdrDuPf6FodwfgQ&gaa_ts=6940c585&gaa_sig=7c74m-3TtMTAa756nfUbF04ckjdSBeoZCFf6fZdtzG9_V6Q9-iDB5_LwW8OAA3dUfZlFvicpfISVOOtoRdO9eQ%3D%3D)**
-
-The Wall Street Journal • 7h ago
+Stanford HAI • 13h ago
 
 ---
 
@@ -201,13 +201,13 @@ The Wall Street Journal • 7h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 530 • 💬 886 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 532 • 💬 889 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 450 • 💬 453 • 2d ago
+⬆️ 451 • 💬 453 • 2d ago
 
 ---
 
@@ -215,7 +215,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 353 • 💬 357 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 357 • 💬 360 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -223,7 +223,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 268 • 💬 288 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 270 • 💬 289 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -231,7 +231,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 247 • 💬 117 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 249 • 💬 117 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -243,17 +243,17 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 ---
 
+**[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
+
+⬆️ 150 • 💬 65 • 4h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+
+---
+
 **[If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://news.ycombinator.com/item?id=46260106)**
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
 ⬆️ 135 • 💬 91 • 2d ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
-
----
-
-**[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
-
-⬆️ 123 • 💬 43 • 3h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -267,7 +267,7 @@ Brian Merchant has been collecting personal stories for his series AI Killed My 
 
 **[Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://news.ycombinator.com/item?id=46277477)**
 
-⬆️ 66 • 💬 37 • 8h ago • [X (formerly Twitter)](https://twitter.com/AKurian001/status/1986979144014701026)
+⬆️ 69 • 💬 37 • 10h ago • [X (formerly Twitter)](https://twitter.com/AKurian001/status/1986979144014701026)
 
 ---
 
@@ -291,7 +291,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 107 • 💬 10 • ⏱️ 36:04 • 23h ago
+👁️ 5K • 👍 107 • 💬 10 • ⏱️ 36:04 • 1d ago
 
 ---
 
@@ -359,7 +359,7 @@ Matt Witheiler, head of late-stage growth at Wellington Management, joins CNBC's
 
 📺 CNBC Television
 
-👁️ 5K • 👍 24 • 💬 6 • ⏱️ 4:19 • 9h ago
+👁️ 5K • 👍 24 • 💬 6 • ⏱️ 4:19 • 11h ago
 
 ---
 
@@ -385,7 +385,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 286,283 • ❤️ 2,761 • 7d ago
+⬇️ 286,283 • ❤️ 2,763 • 7d ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 84,213 • ❤️ 448 • 6d ago
+⬇️ 84,213 • ❤️ 449 • 6d ago
 
 ---
 
@@ -409,7 +409,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 142,846 • ❤️ 860 • 3d ago
+⬇️ 142,846 • ❤️ 862 • 3d ago
 
 ---
 
@@ -421,7 +421,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 21,397 • ❤️ 357 • 1d ago
+⬇️ 21,397 • ❤️ 359 • 1d ago
 
 ---
 
@@ -433,7 +433,7 @@ GLM-4.6V is a versatile multimodal model supporting image-text-to-text tasks, fe
 
 `image-text-to-text` `107.7B`
 
-⬇️ 3,683 • ❤️ 312 • 6d ago
+⬇️ 3,683 • ❤️ 314 • 6d ago
 
 ---
 
@@ -445,7 +445,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 41,723 • ❤️ 303 • 6d ago
+⬇️ 41,723 • ❤️ 305 • 6d ago
 
 ---
 
@@ -457,7 +457,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 6,481 • ❤️ 226 • 3d ago
+⬇️ 6,481 • ❤️ 227 • 3d ago
 
 ---
 
@@ -481,7 +481,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 206 • 4d ago
+⬇️ 0 • ❤️ 208 • 4d ago
 
 ---
 
@@ -509,7 +509,7 @@ AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 12 • 💬 2 • ⭐ 206 • 4d ago
+▲ 15 • 💬 2 • ⭐ 206 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -535,7 +535,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 23 • 💬 2 • ⭐ 12,310 • 7d ago
+▲ 25 • 💬 2 • ⭐ 12,434 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -577,22 +577,9 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 V-RGBX is an end-to-end framework for intrinsic-aware video editing that combines video inverse rendering, photorealistic synthesis, and keyframe-based editing to produce consistent and physically plausible edits.
 
-▲ 24 • 💬 2 • ⭐ 40 • 3d ago
+▲ 25 • 💬 2 • ⭐ 40 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11799) • [💻 code](https://github.com/Aleafy/V-RGBX) • [🔗 project](https://aleafy.github.io/vrgbx/)
-
----
-
-**[The Well: a Large-Scale Collection of Diverse Physics Simulations for
-  Machine Learning](https://huggingface.co/papers/2412.00568)**
-
-*Ruben Ohana, Michael McCabe, Lucas Meyer et al. (26 authors)*
-
-A large-scale dataset collection, The Well, provides diverse numerical simulations for benchmarking machine learning models in physical systems simulation.
-
-▲ 23 • 💬 2 • ⭐ 1,590 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.00568) • [💻 code](https://github.com/PolymathicAI/the_well)
 
 ---
 
@@ -606,6 +593,19 @@ Promptomatix automates prompt optimization for Large Language Models, improving 
 ▲ 17 • 💬 2 • ⭐ 430 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.14241) • [💻 code](https://github.com/SalesforceAIResearch/promptomatix)
+
+---
+
+**[The Well: a Large-Scale Collection of Diverse Physics Simulations for
+  Machine Learning](https://huggingface.co/papers/2412.00568)**
+
+*Ruben Ohana, Michael McCabe, Lucas Meyer et al. (26 authors)*
+
+A large-scale dataset collection, The Well, provides diverse numerical simulations for benchmarking machine learning models in physical systems simulation.
+
+▲ 23 • 💬 2 • ⭐ 1,596 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.00568) • [💻 code](https://github.com/PolymathicAI/the_well)
 
 ---
 
@@ -645,7 +645,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.7k • 🔱 2.4k • 17h ago
+⭐ 15.8k • 🔱 2.5k • 18h ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.6k • 🔱 381 • 16h ago
+⭐ 3.6k • 🔱 383 • 18h ago
 
 ---
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 6h ago
+⭐ 1.1k • 🔱 137 • 8h ago
 
 ---
 
@@ -715,7 +715,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 865 • 🔱 49 • 13h ago
+⭐ 865 • 🔱 49 • 14h ago
 
 ---
 
@@ -725,7 +725,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 745 • 🔱 107 • 23h ago
+⭐ 747 • 🔱 107 • 1d ago
 
 ---
 
@@ -735,7 +735,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 712 • 🔱 110 • 3d ago
+⭐ 717 • 🔱 111 • 3d ago
 
 ---
 
