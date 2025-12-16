@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T17:53:03.314258+00:00'
+updated: '2025-12-16T18:25:28.464752+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 17:53 UTC  
+**Last Updated:** December 16, 2025 at 18:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 54m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 1h ago
 
 ---
 
@@ -49,15 +49,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 2h ago
-
----
-
-**[Mozilla names new CEO, Firefox to evolve into a "modern AI browser"](https://www.reddit.com/r/artificial/comments/1po4ttq/mozilla_names_new_ceo_firefox_to_evolve_into_a/)**
-
-Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 2h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 3h ago
 
 ---
 
@@ -69,11 +61,11 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 ---
 
-**[We used Qwen3-Coder to build a 2D Mario-style game in seconds (demo + setup guide)](https://www.reddit.com/r/artificial/comments/1po40li/we_used_qwen3coder_to_build_a_2d_mariostyle_game/)**
+**[Mozilla names new CEO, Firefox to evolve into a "modern AI browser"](https://www.reddit.com/r/artificial/comments/1po4ttq/mozilla_names_new_ceo_firefox_to_evolve_into_a/)**
 
-We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
+Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 2h ago
 
 ---
 
@@ -81,7 +73,15 @@ We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built f
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 12h ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 13h ago
+
+---
+
+**[We used Qwen3-Coder to build a 2D Mario-style game in seconds (demo + setup guide)](https://www.reddit.com/r/artificial/comments/1po40li/we_used_qwen3coder_to_build_a_2d_mariostyle_game/)**
+
+We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
+
+3h ago
 
 ---
 
@@ -101,19 +101,17 @@ The technological race among industry giants and the wave of layoffs they have a
 
 ---
 
-**[AI Bathroom Monitors? Welcome To America’s New Surveillance High Schools](https://www.reddit.com/r/artificial/comments/1po5yrw/ai_bathroom_monitors_welcome_to_americas_new/)**
+**[It's been a big week for AI ; Here are 10 massive changes you might've missed:](https://www.reddit.com/r/artificial/comments/1po98hk/its_been_a_big_week_for_ai_here_are_10_massive/)**
 
-Schools across the U.S. are rolling out AI-powered surveillance technology, including drones, facial recognition and even bathroom listening devices. But there’s not much data to prove they keep kids safe.
+First LLM trained in space Gemini now built into Apple iPhones and iPads Disney invests $1B into AI A collection of AI Updates! 🧵 1. OpenAI Rolls Out GPT-5.2 to Everyone GPT-5.2 Instant, Thinking, and Pro are live for Free/Plus/Pro/Business/Enterprise. Also in API and Codex. First model hitting human expert level on 44-occupation knowledge work eval including spreadsheets and presentations. State-of-the-art long-context reasoning. 2. Google Rolls Out Built-In Gemini AI on Apple Devices Gemini AI experience now available on iPhone and iPad. Puts Google's AI stack directly inside Apple's widely popular technology. Major new channel of reach for Gemini. 3. Disney Invests $1B in OpenAI - Characters are Coming to Sora Users can generate videos and images with Disney characters including Mickey Mouse, Ariel, and Cinderella across Sora and ChatGPT Image. Covers Disney, Marvel, Pixar, and Star Wars IPs. Huge entertainment IPs are now available for AI generation. 4. AI Trained in Space for the First Time Starcloud-1 used Nvidia H100 to train nano-GPT model on Shakespeare's complete works and ran inference successfully. Also ran inference on Gemma model. Goal: move computing off Earth to leverage abundant solar energy. 5. xAI Launches World's First Nationwide AI Tutor Program Partnership with El Salvador brings personalized Grok tutoring to 1M+ public-school students across 5,000+ schools over next two years. Empowers thousands of teachers as collaborative partners. Will other LLMs try partnerships like this? 6. Microsoft AI Accelerates Cancer Discovery GigaTIME simulates spatial proteomics from pathology slides, enabling population-scale tumor microenvironment analysis across dozens of cancer types. Partnership with Providence and UW. Published in Cell today. AI revealing links between mutations, immunity, and outcomes. 7. Google Labs Launches Disco - Remix Open Tabs Into Custom Apps GenTabs uses Gemini 3 to understand complex tasks through open tabs and chat history, then creates interactive web apps. Describe the tool you need and refine with natural language. Links back to original sources. Aims to turn browser chaos into functional apps. 8. Google Releases Updated Gemini 2.5 Flash Native Audio Now available via Live API with sharper function calling, robust instruction following, and smoother conversations. Also launching TTS updates with emotional style versatility, context-aware pacing, and improved multi-speaker capabilities. Major voice and audio improvements. 9. Grok Voice Mode Gets Major Upgrades Point camera at anything and ask "What am I looking at?" for instant analysis. Scans notes, places, paintings, documents, translates languages. Real-time web search. Talk to Grok like a normal person in your language. 10. OpenAI Realtime API Gets Major Audio Improvements 89% fewer hallucinations in transcription, 35% fewer word errors in TTS, 22% better instruction following, 13% better function calling. Stronger in Chinese, Japanese, Indonesian, Hindi, Bengali, Italian. Audio reliability significantly upgraded. That's a wrap on this week's AI News. Which update are you trying first? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
 
-🔗 [Forbes](https://go.forbes.com/evAZNR) • 1h ago
+8m ago
 
 ---
 
-**[Red Hat acquires another AI company](https://www.reddit.com/r/artificial/comments/1po5dd8/red_hat_acquires_another_ai_company/)**
+**[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to bolster the open-source AI ecosystem
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 2h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 42m ago
 
 ---
 
@@ -125,19 +123,19 @@ Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to 
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-NPR • 7h ago
+NPR • 8h ago
 
 ---
 
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
 **[Senators Investigate Role of A.I. Data Centers in Rising Electricity Costs](https://www.nytimes.com/2025/12/16/business/energy-environment/senate-democrats-electricity-prices-data-centers.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -149,43 +147,47 @@ The Verge • 4h ago
 
 ---
 
-**[Here’s where to invest in AI, copper and credit before the holidays, according to Citi](https://www.marketwatch.com/story/heres-where-to-invest-in-ai-copper-and-credit-before-the-holidays-according-to-citi-c12c4f44?gaa_at=eafs&gaa_n=AWEtsqeUKwv5c7lmAM118n3sA2fxS5XeqdwiwW8km_IH4LdAIbKgNlWuCBjc&gaa_ts=69419bc7&gaa_sig=hsmRJkfQy1j403nVGW4gZzHdQrI2TYo8TdnBYV-DT4H-JLZ7ofgDnjxlm3o6df9JRSyl-Xn5L4MBjj67PCzDSA%3D%3D)**
+**[AI Mining Patient Messages for Cancer Research](https://www.medscape.com/viewarticle/can-ai-use-patient-messages-identify-new-cancer-care-2025a1000wak)**
 
-MarketWatch • 27m ago
-
----
-
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqc1Y1EJaYgYOXTpfA3Pzxj2XE-CRSMOmy5YHOJTJuAOUePj1GNdmF-V&gaa_ts=69419bc8&gaa_sig=7OiQbnNLHoyKNTenIGW-i-Kzw_kGxIHoEd7QfkhQIyQNObXVcdu_bTddGyenqhRmxkU7Ac860quNFDO3n4450w%3D%3D)**
-
-The Wall Street Journal • 22h ago
+Medscape • 23m ago
 
 ---
 
-**[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
+**[Here's an unusual AI play for 2026: glasses](https://www.cnbc.com/2025/12/16/heres-an-unusual-ai-play-for-2026-glasses-.html)**
 
-The Washington Post • 1h ago
+Eyewear stock Warby Parker has room to run and offers exposure to the AI trade, according to Piper Sandler. The firm will roll out its AI glasses next year.
 
----
-
-**[Bank of America's top chip stocks to play AI in 2026](https://www.cnbc.com/2025/12/16/bank-of-americas-top-chip-stocks-to-play-ai-in-2026.html)**
-
-AI poster child Nvidia is among Bank of America's top six for 2026.
-
-CNBC • 1h ago
+CNBC • 13m ago
 
 ---
 
-**[Why 2026 could be the year of anti-AI marketing](https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap)**
+**[CNBC Daily Open: Debt worries continue to weigh on AI-related stocks](https://www.cnbc.com/2025/12/16/cnbc-daily-open-debt-worries-continue-to-weigh-on-ai-related-stocks.html)**
 
-It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
+The ready availability of clients means companies that provide the compute just need to make sure their finances are in order.
 
-CNN • 6h ago
+CNBC • 16h ago
 
 ---
 
-**[Publishers and brands grapple with AI errors](https://www.axios.com/2025/12/16/ai-media-mistakes-backlash)**
+**[Global selloff in stocks signals AI bubble may be ending in the healthiest way possible](https://fortune.com/2025/12/16/stocks-global-selloff-ai-bubble-ends/)**
 
-Axios • 2h ago
+Investors are selling off individual stocks of companies that seem to be overextended, but they are broadly bullish on stocks as a whole.
+
+Fortune • 6h ago
+
+---
+
+**[Oil falls to 4-year low, CoreWeave slides on AI bubble concerns](https://finance.yahoo.com/video/oil-falls-4-low-coreweave-180419172.html)**
+
+Yahoo Finance's John Hyland tracks today's top moving stocks and biggest market stories in this Market Minute, including the market (^DJI, ^IXIC, ^GSPC) reaction to the November jobs report, crude oil (CL=F, BZ=F) prices falling to a four-year low, Meta Platforms' (META) plans for Instagram TV on Amazon Fire (AMZN) products, and CoreWeave (CRWV) stock sliding over AI bubble concerns. Stay up to date on the latest market action, minute-by-minute, with&nbsp;Yahoo Finance's Market Minute.
+
+Yahoo Finance • 21m ago
+
+---
+
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqfzu7A_CkMfgC38BX3XivXHKIzyPYOMjCmDTf1LlpW1tcgzsklzqYRZ&gaa_ts=6941a77f&gaa_sig=j_3MD6aUdeoefGTATW8eaR-LnTlDpNeluwnJhHixzYdyb3r8LcaS3jpIiVF_Jkb8zDKHsFjg8nrb3RFnnsp_hw%3D%3D)**
+
+The Wall Street Journal • 23h ago
 
 ---
 
@@ -195,7 +197,7 @@ Axios • 2h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 727 • 💬 227 • 14h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 734 • 💬 227 • 15h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -203,7 +205,7 @@ Axios • 2h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 571 • 💬 938 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 571 • 💬 942 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -217,7 +219,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 355 • 💬 289 • 19h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 358 • 💬 293 • 19h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -225,7 +227,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 297 • 💬 301 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 297 • 💬 304 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -257,7 +259,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 86 • 💬 35 • 8h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 98 • 💬 41 • 8h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -279,7 +281,7 @@ Create with OpenArt https://www.openart.ai/home/?ref=isa-18 In this video, I sho
 
 📺 Isa does AI
 
-👁️ 4K • 💬 4 • ⏱️ 12:03 • 3h ago
+👁️ 4K • 💬 4 • ⏱️ 12:03 • 4h ago
 
 ---
 
@@ -309,7 +311,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 29K • 👍 671 • 💬 104 • ⏱️ 11:23 • 17h ago
+👁️ 29K • 👍 671 • 💬 104 • ⏱️ 11:23 • 18h ago
 
 ---
 
@@ -409,7 +411,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 884 • 4d ago
+⬇️ 158,614 • ❤️ 885 • 4d ago
 
 ---
 
@@ -421,7 +423,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 51,591 • ❤️ 322 • 7d ago
+⬇️ 51,591 • ❤️ 323 • 7d ago
 
 ---
 
@@ -433,7 +435,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 102,395 • ❤️ 459 • 6d ago
+⬇️ 102,395 • ❤️ 459 • 7d ago
 
 ---
 
@@ -457,7 +459,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 230 • 18h ago
+⬇️ 10,487 • ❤️ 234 • 18h ago
 
 ---
 
@@ -469,7 +471,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 6,543 • ❤️ 223 • 2d ago
+⬇️ 6,543 • ❤️ 224 • 2d ago
 
 ---
 
@@ -652,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.9k • 🔱 418 • 3h ago
+⭐ 3.9k • 🔱 418 • 4h ago
 
 ---
 
@@ -682,7 +684,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 34m ago
+⭐ 1.1k • 🔱 137 • 1h ago
 
 ---
 
@@ -732,7 +734,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 753 • 🔱 117 • 11h ago
+⭐ 753 • 🔱 117 • 12h ago
 
 ---
 

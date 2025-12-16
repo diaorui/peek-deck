@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T17:53:03.321791+00:00'
+updated: '2025-12-16T18:25:28.473268+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 17:53 UTC  
+**Last Updated:** December 16, 2025 at 18:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,148.93
+### $87,354.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -5.2%  
-**30d:** -5.6%  
-**90d:** -25.5%  
-**1y:** -18.0%  
+**24h:** +1.5%  
+**7d:** -4.8%  
+**30d:** -5.1%  
+**90d:** -25.1%  
+**1y:** -17.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1744.15B
+**Market Cap:** $1743.37B
 Rank #1
 
-**Circulating Supply:** 19,962,934 BTC
+**Circulating Supply:** 19,962,946 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.8%
 
 **All-Time Low:** $67.81
-+128717.3%
++128645.0%
 
 ---
 
@@ -79,13 +79,19 @@ Rank #1
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
 6h ago
+
+---
+
+**[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
+
+2h ago
 
 ---
 
@@ -101,33 +107,7 @@ Are you still buying?
 
 100k range might take till next year
 
-18h ago
-
----
-
-**[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
-
-2h ago
-
----
-
-**[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
-
-16h ago
-
----
-
-**[99.1% of Volume in BTC Today Was Movement of Coins Held Less than 180 Days](https://www.reddit.com/r/Bitcoin/comments/1pno0m5/991_of_volume_in_btc_today_was_movement_of_coins/)**
-
-Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
-
-17h ago
-
----
-
-**[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
-
-17h ago
+19h ago
 
 ---
 
@@ -139,11 +119,29 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 ---
 
-**[Don’t Sell](https://www.reddit.com/r/Bitcoin/comments/1pn8nl0/dont_sell/)**
+**[This is what buying Bitcoin looked like in 2011 - 1BTC = $3.5](https://www.reddit.com/r/Bitcoin/comments/1po8477/this_is_what_buying_bitcoin_looked_like_in_2011/)**
 
-Buy some bitcoin and store it.
+50m ago
 
-1d ago
+---
+
+**[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
+
+1h ago
+
+---
+
+**[I'm 17 and I'm investing in BTC.](https://www.reddit.com/r/Bitcoin/comments/1po8f29/im_17_and_im_investing_in_btc/)**
+
+Hello everyone, good morning/evening first of all. I'm 17 and I'm slowly learning about Bitcoin. While I'm learning, I'm doing weekly dollar-cost averaging, but I want to invest in other things and I wanted to ask what other investments you would recommend for someone interested in this world. I don't know if anyone could share their experiences investing in Bitcoin and other things. Thank you very much :)
+
+39m ago
+
+---
+
+**[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
+
+17h ago
 
 ---
 
@@ -155,7 +153,7 @@ Buy some bitcoin and store it.
 
 Bitcoin is headed for the fourth annual decline in its history, and the first one that didn’t coincide with a major scandal or industry meltdown.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -167,39 +165,25 @@ Yahoo Finance • 19h ago
 
 ---
 
-**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqdInVR73PtdnqMtXkOl97Ry-nYeDm9d61-3sGkGPQKKJetESkwtZoYP&gaa_ts=69419bc9&gaa_sig=dTMpTTVyrQ-6jH50E_qj8p1cUHWxXI8iDRkoEl0QaH62eG-h0NBrIBzVQ5AKMW9tRDKxal3Dq6yslrdjswtnyg%3D%3D)**
+**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqcmXdWTLRbsc6uqNTASi2B1x30CpVYU0xqTN6kl3OzS5Un98vgfeLxl&gaa_ts=6941a780&gaa_sig=yAIqerl_2RWsU5tbENDiRUROevn3gQwPMnatS1rhW5crEQqpPBby0fbCwAqitZWzAUJykl-fguPd96enmCU41g%3D%3D)**
 
-Barron's • 23h ago
-
----
-
-**[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
-
-The Block • 6h ago
+Barron's • 1d ago
 
 ---
 
-**[Bitwise Chief: Bitcoin to Hit Fresh Records in 2026 and Break Four-Year Cycle](https://finance.yahoo.com/news/bitwise-chief-bitcoin-hit-fresh-160657168.html)**
+**[If You Bought Bitcoin 10 Years Ago at Today’s Price, Here’s What You’d Have Now](https://finance.yahoo.com/news/bought-bitcoin-10-years-ago-175505796.html)**
 
-Major asset managers are forecasting that Bitcoin will shatter its traditional four-year cycle and reach new all-time highs in 2026, driven by massive institutional capital inflows and regulatory clarity. Bitwise Chief Investment Officer Matt Hougan and Grayscale Research both project BTC will exceed its previous peak despite conventional wisdom suggesting ...
+See how much a Bitcoin investment from 10 years ago would be worth today and what it means for long-term crypto growth.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Crypto asset manager Bitwise says bitcoin will break its four-year cycle in 2026](https://www.coindesk.com/markets/2025/12/16/crypto-asset-manager-bitwise-says-bitcoin-will-break-its-four-year-cycle-in-2026)**
-
-Bitwise CIO Matt Hougan said BTC is likely to hit all-time highs next year, with lower volatility and weaker equity correlations reshaping how institutions view the asset.
-
-CoinDesk • 3h ago
+Yahoo Finance • 30m ago
 
 ---
 
-**[Bitcoin (BTC) treasury company news: ABTC brings holdings to 5,098 coins](https://www.coindesk.com/markets/2025/12/16/eric-trump-s-american-bitcoin-jumps-to-20th-among-public-btc-treasury-companies)**
+**[After A Decade On Ethereum, Why MetaMask Is Finally Embracing Bitcoin](https://bitcoinmagazine.com/business/metamask-launches-native-bitcoin-integration-for-30-million-active-users)**
 
-After its latest purchase, the company now holds 5,098 bitcoin worth nearly $450 million
+Imagine managing your Bitcoin right alongside your Ethereum assets in the wallet you already trust—MetaMask just made it real, and it's a game-changer for everyday crypto users.
 
-CoinDesk • 35m ago
+Bitcoin Magazine • 54m ago
 
 ---
 
@@ -211,9 +195,25 @@ Financial Times • 1d ago
 
 ---
 
-**[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
+**[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
 
-The Block • 21h ago
+The Block • 7h ago
+
+---
+
+**[Crypto asset manager Bitwise says bitcoin will break its four-year cycle in 2026](https://www.coindesk.com/markets/2025/12/16/crypto-asset-manager-bitwise-says-bitcoin-will-break-its-four-year-cycle-in-2026)**
+
+Bitwise CIO Matt Hougan said BTC is likely to hit all-time highs next year, with lower volatility and weaker equity correlations reshaping how institutions view the asset.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitwise Chief: Bitcoin to Hit Fresh Records in 2026 and Break Four-Year Cycle](https://finance.yahoo.com/news/bitwise-chief-bitcoin-hit-fresh-160657168.html)**
+
+Major asset managers are forecasting that Bitcoin will shatter its traditional four-year cycle and reach new all-time highs in 2026, driven by massive institutional capital inflows and regulatory clarity. Bitwise Chief Investment Officer Matt Hougan and Grayscale Research both project BTC will exceed its previous peak despite conventional wisdom suggesting ...
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -221,7 +221,7 @@ The Block • 21h ago
 
 The bitcoin price could be teetering on the verge of a massive crash that could wipe out almost all cryptocurrencies...
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -285,7 +285,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 8 • 💬 1 • 2h ago
+⬆️ 8 • 💬 1 • 3h ago
 
 ---
 
@@ -309,7 +309,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 2K • 💬 523 • ⏱️ 8:04 • 16h ago
+👁️ 28K • 👍 2K • 💬 523 • ⏱️ 8:04 • 17h ago
 
 ---
 
@@ -379,7 +379,7 @@ Japan is about to hike rates, and history says Bitcoin gets rekt every time. Wit
 
 📺 Simply Bitcoin
 
-👁️ 41K • 👍 3K • 💬 307 • ⏱️ 18:49 • 18h ago
+👁️ 41K • 👍 3K • 💬 307 • ⏱️ 18:49 • 19h ago
 
 ---
 

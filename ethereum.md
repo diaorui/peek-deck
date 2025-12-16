@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T17:53:03.327008+00:00'
+updated: '2025-12-16T18:25:28.479377+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 17:53 UTC  
+**Last Updated:** December 16, 2025 at 18:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -11.7%  
-**30d:** -3.3%  
-**90d:** -36.1%  
-**1y:** -24.7%  
+**24h:** -0.6%  
+**7d:** -11.8%  
+**30d:** -3.4%  
+**90d:** -36.2%  
+**1y:** -24.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.03B
+**Market Cap:** $353.04B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.8%
 
 **All-Time Low:** $0.43
-+677591.1%
++675992.8%
 
 ---
 
@@ -70,7 +70,7 @@ No max supply
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 3h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 4h ago
 
 ---
 
@@ -78,7 +78,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
+
+---
+
+**[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
+
+38m ago
 
 ---
 
@@ -86,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-22h ago
+23h ago
 
 ---
 
@@ -138,14 +144,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Daily General Discussion December 12, 2025](https://www.reddit.com/r/ethereum/comments/1pkkhsl/daily_general_discussion_december_12_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,11 +156,9 @@ Yahoo Finance • 6h ago
 
 ---
 
-**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://decrypt.co/352365/tom-lees-bitmine-keeps-buying-ethereum-adding-320-million-eth-treasury)**
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
-
-Decrypt • 1d ago
+CCN.com • 3h ago
 
 ---
 
@@ -178,12 +174,6 @@ The Block • 1d ago
 
 ---
 
-**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Tokenization News: $4T Bank JPMorgan Launches Onchain Fund on Ethereum](https://www.coindesk.com/business/2025/12/15/jpmorgan-launches-tokenized-money-market-fund-on-ethereum-as-wall-street-moves-onchain-report)**
 
 The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.
@@ -192,11 +182,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-shed-582m-144648653.html)**
+**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
 
-U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
-
-Yahoo Finance • 3h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -204,7 +192,7 @@ Yahoo Finance • 3h ago
 
 Bitcoin and Ethereum wavered after U.S. jobs data, but prediction markets still favor a return to $100K amid expected Fed rate cuts.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -216,9 +204,17 @@ Nasdaq • 2d ago
 
 ---
 
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+**[Ethereum News Today: ETH Fails to Hold $3K Amid ETF Outflows, Underperforms Market](https://www.binance.com/fr-AF/square/post/12-16-2025-ethereum-news-today-eth-fails-to-hold-3k-amid-etf-outflows-underperforms-market-33796769389849)**
 
-CCN.com • 2h ago
+Binance • 2h ago
+
+---
+
+**[Ethereum 2-Year Trend Maps Out This Unique Crash Path To Bottom At $2,187](https://www.tradingview.com/news/newsbtc:ba81f9af4094b:0-ethereum-2-year-trend-maps-out-this-unique-crash-path-to-bottom-at-2-187/)**
+
+Ethereum’s price action has weakened further over the past 24 hours, with the cryptocurrency falling below $3,000 and shedding about 6.8% in the last 24 hours alone. The immediate price action points to reclaiming this $3,000 support, but a longer-term technical view suggests the current decline ma…
+
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -252,7 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 578 • 👍 36 • 💬 2 • ⏱️ 4:48 • 7h ago
+👁️ 578 • 👍 36 • 💬 2 • ⏱️ 4:48 • 8h ago
 
 ---
 
@@ -262,7 +258,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 155 • 💬 18 • ⏱️ 6:53 • 17h ago
+👁️ 4K • 👍 155 • 💬 18 • ⏱️ 6:53 • 18h ago
 
 ---
 
