@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T10:48:21.531710+00:00'
+updated: '2025-12-16T11:00:07.967454+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 10:48 UTC  
+**Last Updated:** December 16, 2025 at 11:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,11 +52,11 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 ---
 
-**[Robots are coming..](https://www.reddit.com/r/robotics/comments/1pnty34/robots_are_coming/)**
+**[Concept of a robot worm driven by smooth waves that travel along a continuously deformable mesh](https://www.reddit.com/r/robotics/comments/1pnylnk/concept_of_a_robot_worm_driven_by_smooth_waves/)**
 
-Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
+Paper (paywall): Worms, waves and robots: https://ieeexplore.ieee.org/abstract/document/6224805
 
-5h ago
+34m ago
 
 ---
 
@@ -65,6 +65,14 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
 7h ago
+
+---
+
+**[Robots are coming..](https://www.reddit.com/r/robotics/comments/1pnty34/robots_are_coming/)**
+
+Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
+
+5h ago
 
 ---
 
@@ -100,14 +108,6 @@ Been getting a lot of questions about how this projects works. Decided to post a
 
 ---
 
-**[Can we take a moment to appreciate how clean this robot assembly guide is?](https://www.reddit.com/r/robotics/comments/1pnaon4/can_we_take_a_moment_to_appreciate_how_clean_this/)**
-
-IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-robotics/Reachy_Mini_Assembly_Guide
-
-19h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,27 +118,27 @@ The New York Times • 2d ago
 
 ---
 
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+
+South China Morning Post • 2d ago
+
+---
+
+**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
+
+General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
+
+Scientific American • 2d ago
+
+---
+
 **[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
 
 They make robot vacuums, lots of them
 
 The Verge • 1d ago
-
----
-
-**[iRobot Announces Strategic Transaction to Drive Long-Term Growth Plan](https://www.prnewswire.com/news-releases/irobot-announces-strategic-transaction-to-drive-long-term-growth-plan-302641744.html)**
-
-/PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
-
-PR Newswire • 1d ago
-
----
-
-**[Major Mass. robotics company files for Chapter 11 bankruptcy, will sell to China](https://www.masslive.com/news/2025/12/major-mass-robotics-company-files-for-chapter-11-bankruptcy-will-sell-to-china.html)**
-
-The filing comes just one year after Amazon dropped the ball on a $1.7 billion acquisition of the company.
-
-MassLive.com • 20h ago
 
 ---
 
@@ -152,7 +152,7 @@ Yahoo Finance UK • 1h ago
 
 It is my pleasure to open this edition of our quarterly newsletter as we approach the end of 2025 - a year that has brought remarkable momentum, important breakthroughs, and renewed confidence to the global robotics community.
 
-International Federation of Robotics • 35m ago
+International Federation of Robotics • 47m ago
 
 ---
 
@@ -164,19 +164,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology (AMCI:NASDAQ)](https://seekingalpha.com/news/4531631-meet-amc-robotics-the-spac-name-looking-for-a-breakthrough-in-ai-powered-robotic-technology)**
-
-Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
-
-Seeking Alpha • 16h ago
-
----
-
 **[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
 InvestorPlace • 1d ago
+
+---
+
+**[Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology (AMCI:NASDAQ)](https://seekingalpha.com/news/4531631-meet-amc-robotics-the-spac-name-looking-for-a-breakthrough-in-ai-powered-robotic-technology)**
+
+Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
+
+Seeking Alpha • 16h ago
 
 ---
 

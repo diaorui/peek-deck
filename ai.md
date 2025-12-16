@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T10:48:21.513707+00:00'
+updated: '2025-12-16T11:00:07.949660+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 10:48 UTC  
+**Last Updated:** December 16, 2025 at 11:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 5h ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 20h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 21h ago
 
 ---
 
@@ -57,7 +57,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 19h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 20h ago
 
 ---
 
@@ -94,19 +94,19 @@ This is the second post in a series where I reverse-engineer the memory systems 
 
 ---
 
+**[One-Minute Daily AI News 12/15/2025](https://www.reddit.com/r/artificial/comments/1pnue0h/oneminute_daily_ai_news_12152025/)**
+
+US government launches ‘Tech Force’ to hire AI talent.[1] Deep-learning model predicts how fruit flies form, cell by cell.[2] Nvidia bulks up open source offerings with an acquisition and new open AI models.[3] Podcast industry under siege as AI bots flood airways.[4] Sources: [1] https://www.cnn.com/2025/12/15/tech/government-tech-force-ai [2] https://news.mit.edu/2025/deep-learning-model-predicts-how-fruit-flies-form-1215 [3] https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/ [4] https://www.yahoo.com/news/articles/podcast-industry-under-siege-ai-051031178.html
+
+5h ago
+
+---
+
 **[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pnf368/its_been_a_big_week_for_agentic_ai_here_are_10/)**
 
 Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI Foundation Google drops Deep Research + AlphaEvolve agent A collection of AI Agent Updates! 🧵 1. Stripe Launches Agentic Commerce Suite Single integration for businesses to sell via multiple AI agents. Handles product discovery, agentic checkout, payments, and fraud. Manage all agents from Stripe Dashboard. Works with existing commerce stack. AI-native commerce infrastructure now available. 2. OpenAI Co-Founds Agentic AI Foundation with Anthropic and Block Under Linux Foundation to support open, interoperable standards for agentic AI. Donating to establish standards enabling safe, reliable agents across tools and repositories. Industry leaders aligning on agent interoperability. 3. Google Opens Gemini Deep Research Agent to Developers Most advanced autonomous research capabilities now embeddable in applications for first time. Also open-sourcing DeepSearchQA benchmark for evaluating agents on complex search tasks. Google's agent infrastructure available to all developers. 4. Anthropic is Developing New Agent Mode for Claude Code-named "Yukon Gold" - tasks-based complex agent experience with toggle between classic chat and agent mode. Also testing pixel art avatar generation from uploaded photos. Claude may be getting a dedicated agent interface. 5. Google Cloud Unveils AlphaEvolve Coding Agent Gemini-powered agent for designing advanced algorithms. Uses LLMs to propose intelligent code modifications with feedback loop that evolves algorithms to be more efficient. Now in private preview. Haven’t tried, but seems promising. 6. Real Agent Usage Data: Harvard Analyzes Hundreds of Millions of Queries Perplexity study shows 55% personal use, 30% professional. Productivity/workflow dominates (36% of queries), followed by learning/research (21%). Users shift from simple to complex tasks over time. Real data on how people actually use agents. 7. Stitchbygoogle Launches Redesign Agent with Code Generation Screenshot apps, visually reimagine with Gemini Pro, then convert redesigns into working HTML. "Shipmas" week begins - new ship daily with big launch Wednesday. Screenshot → Redesign → Code → Deploy workflow now live. 8. Cursor Agents Can Now Debug Your Hardest Bugs Debug Mode instruments code, spins up server, captures logs, and streams runtime data to agent. Version 2.2 adds multi-agent judging (picks best solution) and Plan Mode improvements with diagrams. AI agents now debugging production code. 9. Code Drops Major Agent Experience Upgrade Agent sessions integrated into chat view. Isolated background agents via Git worktrees enable multiple agents without conflicts. Seamless delegation with automatic context transfer between local, background, and cloud agents. Multi-agent workflows now native in VS Code. 10. Microsoft Research Unveils Agent Lightning Decouples how agents work from training. Turns each agent step into reinforcement learning data. Developers can improve agent performance with almost zero code changes. RL for agents without code rewrites. That's a wrap on this week's Agentic news. Which update are you trying first? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
 16h ago
-
----
-
-**[One-Minute Daily AI News 12/15/2025](https://www.reddit.com/r/artificial/comments/1pnue0h/oneminute_daily_ai_news_12152025/)**
-
-US government launches ‘Tech Force’ to hire AI talent.[1] Deep-learning model predicts how fruit flies form, cell by cell.[2] Nvidia bulks up open source offerings with an acquisition and new open AI models.[3] Podcast industry under siege as AI bots flood airways.[4] Sources: [1] https://www.cnn.com/2025/12/15/tech/government-tech-force-ai [2] https://news.mit.edu/2025/deep-learning-model-predicts-how-fruit-flies-form-1215 [3] https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/ [4] https://www.yahoo.com/news/articles/podcast-industry-under-siege-ai-051031178.html
-
-4h ago
 
 ---
 
@@ -121,12 +121,6 @@ The Understanding AI guide to open-weight models.
 ---
 
 ## Google News: "ai"
-
-**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
-
-The New York Times • 13h ago
-
----
 
 **[‘We have a right to do this’: DeSantis wants Florida to move ahead with AI policies](https://www.politico.com/news/2025/12/15/we-have-a-right-to-do-this-desantis-wants-florida-to-move-ahead-with-ai-policies-00690680)**
 
@@ -148,35 +142,31 @@ The New York Times • 4d ago
 
 ---
 
+**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
+
+The New York Times • 19h ago
+
+---
+
 **[Teachers are using software to see if students used AI. What happens when it's wrong?](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students)**
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-NPR • 48m ago
+NPR • 1h ago
 
 ---
 
-**[Here's how AI is helping holiday shoppers](https://www.usatoday.com/story/money/2025/12/16/holiday-shoppers-ai-gift-giving/87718158007/)**
+**[Musicians are deeply concerned about AI. So why are the major labels embracing it?](https://www.theguardian.com/music/2025/dec/16/musicians-are-deeply-concerned-about-ai-so-why-are-the-major-labels-embracing-it)**
 
-More than half or 53% of shoppers surveyed by CouponFollow said they have or plan to use AI for holiday shopping.
+Companies such as Udio, Suno and Klay will let you use AI to make new music based on existing artists’ work. It could mean more royalties – but many are worried
 
-USA Today • 42m ago
-
----
-
-**[CEOs Want to Keep Pouring Money Into AI, Despite Weak Returns: Survey](https://gizmodo.com/ceos-want-to-keep-pouring-money-into-ai-despite-weak-returns-survey-2000700007)**
-
-Most executives say their AI projects arenât delivering returns, but nearly 70% still plan to spend more next year.
-
-Gizmodo • 47m ago
+The Guardian • 59m ago
 
 ---
 
-**[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.theguardian.com/technology/2025/dec/15/google-ai-recipes-food-bloggers)**
+**[The two visions for AI driving executives and Wall Street apart](https://www.axios.com/2025/12/16/google-facebook-meta-ai-wall-street)**
 
-AI Mode is mangling recipes by merging instructions from multiple creators – and causing them huge dips in ad traffic
-
-The Guardian • 12h ago
+Axios • 29m ago
 
 ---
 
@@ -188,9 +178,17 @@ MIT Technology Review • 1d ago
 
 ---
 
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqd0jLjzAf4gD7dKalAECg5WAPd5CwfzafcZCKodVKUVYufBJws9JIhK&gaa_ts=69413689&gaa_sig=DSOmMjDAc4KRYHUdy8nFTuAFsDgSRmfAMu-vuLSkpyUkSLOa_At98Xxatyuo1BM1QgmsAYixBt9yRBodCjzR8g%3D%3D)**
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqfUNA40Ujbyx_vaeY1A8uMKd1lsBMEUXWIS7ASOXU-i-ZxfJiz0NtOz&gaa_ts=69413f20&gaa_sig=2Z6JjYjET4LAqxwYB47czagnDOQvT4W9MhukPRVmPtCIqf4stRL2htuZ-II4F5Obo-vT3p-I_eXkvej9k5l_rw%3D%3D)**
 
 The Wall Street Journal • 15h ago
+
+---
+
+**[Here's how AI is helping holiday shoppers](https://www.usatoday.com/story/money/2025/12/16/holiday-shoppers-ai-gift-giving/87718158007/)**
+
+More than half or 53% of shoppers surveyed by CouponFollow said they have or plan to use AI for holiday shopping.
+
+USA Today • 54m ago
 
 ---
 
@@ -202,19 +200,19 @@ The Wall Street Journal • 15h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 553 • 💬 922 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 555 • 💬 926 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 483 • 💬 154 • 7h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 503 • 💬 162 • 7h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 456 • 💬 459 • 2d ago
+⬆️ 456 • 💬 460 • 2d ago
 
 ---
 
@@ -222,7 +220,13 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 373 • 💬 367 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 374 • 💬 367 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+
+---
+
+**[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
+
+⬆️ 288 • 💬 173 • 12h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -230,13 +234,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 280 • 💬 296 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
-
----
-
-**[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
-
-⬆️ 273 • 💬 161 • 11h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 280 • 💬 297 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -322,7 +320,7 @@ Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPT
 
 📺 Dylan Curious
 
-👁️ 7K • 👍 428 • 💬 71 • ⏱️ 30:05 • 19h ago
+👁️ 7K • 👍 428 • 💬 71 • ⏱️ 30:05 • 20h ago
 
 ---
 
@@ -386,7 +384,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,781 • 7d ago
+⬇️ 296,552 • ❤️ 2,785 • 7d ago
 
 ---
 
@@ -410,7 +408,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 871 • 3d ago
+⬇️ 158,614 • ❤️ 872 • 3d ago
 
 ---
 
@@ -422,7 +420,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 102,395 • ❤️ 455 • 6d ago
+⬇️ 102,395 • ❤️ 456 • 6d ago
 
 ---
 
@@ -482,7 +480,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 185 • 11h ago
+⬇️ 10,487 • ❤️ 186 • 11h ago
 
 ---
 
@@ -542,6 +540,33 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 198 • 💬 4 • ⭐ 7,089 • 18d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 25 • 💬 1 • ⭐ 65,529 • 27mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -553,20 +578,6 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 27 • 💬 2 • ⭐ 7,026 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 198 • 💬 4 • ⭐ 7,017 • 18d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -624,20 +635,6 @@ Wan-Move enhances motion control in video generative models by integrating motio
 
 ---
 
-**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
-
-*Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
-
-🏢 Apple
-
-SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
-
-▲ 2 • 💬 2 • ⭐ 163 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -658,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.7k • 🔱 404 • 5h ago
+⭐ 3.8k • 🔱 404 • 5h ago
 
 ---
 
@@ -688,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 58m ago
+⭐ 1.1k • 🔱 137 • 1h ago
 
 ---
 
@@ -728,7 +725,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 750 • 🔱 107 • 1d ago
+⭐ 750 • 🔱 108 • 1d ago
 
 ---
 
@@ -738,7 +735,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 744 • 🔱 114 • 4h ago
+⭐ 746 • 🔱 114 • 5h ago
 
 ---
 

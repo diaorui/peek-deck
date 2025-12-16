@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T10:48:21.522262+00:00'
+updated: '2025-12-16T11:00:07.958181+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - social
 - cryptocurrency
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 10:48 UTC  
+**Last Updated:** December 16, 2025 at 11:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -2.9%  
-**7d:** -5.4%  
+**7d:** -5.3%  
 **30d:** -5.7%  
-**90d:** -25.6%  
+**90d:** -25.5%  
 **1y:** -18.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1723.96B
+**Market Cap:** $1737.68B
 Rank #1
 
-**Circulating Supply:** 19,962,800 BTC
+**Circulating Supply:** 19,962,821 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.5%
+-30.9%
 
 **All-Time Low:** $67.81
-+127282.4%
++128308.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 100k range might take till next year
 
-11h ago
+12h ago
 
 ---
 
@@ -151,14 +151,6 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Breaches $86,000 While Sinking Toward Year’s Lows](https://www.bloomberg.com/news/articles/2025-12-15/bitcoin-breaches-86-000-while-sinking-toward-year-s-lows)**
-
-Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
-
-Bloomberg.com • 6h ago
-
----
-
 **[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
@@ -167,12 +159,25 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Falls Again as Investors Cut Risk Exposure](https://www.barrons.com/livecoverage/stock-market-news-today-121625/card/bitcoin-falls-again-as-investors-cut-risk-exposure-kZwJN0Jy502gSQ8gbi5y?gaa_at=eafs&gaa_n=AWEtsqdxN8Za-DlpQKuuwTi78r7kgxIVc8ZN4ZulSC4kQ4GtXiXBL-JUeA7s&gaa_ts=6941368a&gaa_sig=HhFqmyIRJmev7qyeyTLbOgHQfcF1wPB5Nger5LcV50HI-OsBaVhN-DXvf1x3oiNAmogNc32bqMDm92RwYHY6QA%3D%3D)**
+**[Bitcoin Breaches $86,000 While Sinking Toward Year’s Lows](https://www.bloomberg.com/news/articles/2025-12-15/bitcoin-breaches-86-000-while-sinking-toward-year-s-lows)**
 
-Bitcoin was falling following declines in U.S. and Asian equities overnight as investors trim exposures to risky assets ahead of key U.S. data and a raft of central bank decisions.
-The delayed U.S. nonfarm payrolls report for November and partial data for October will be released at 8:30 a.m. GMT.
+Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
 
-Barron's • 2h ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall. Why Tuesday Is Make or Break for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfECzeAQUPvKJ6D40w8vP5M_K4JUvw44lmPrGeKw9PCpUE3iFXt8vI-&gaa_ts=69413f21&gaa_sig=rIh1dyykDDslIihUDt7t_3CEyHEi95qXob6h5q0utCrmALLVD7ZJ7XnQXZJIKrzZOtdq1oU5NlgdncOm5Sf8aA%3D%3D)**
+
+Barron's • 35m ago
+
+---
+
+**[Here's What History Says to Expect for Bitcoin in December](https://www.fool.com/investing/2025/12/16/heres-what-history-says-to-expect-for-bitcoin-in-d/)**
+
+If history is any guide, Bitcoin could soar in value by year-end.
+
+The Motley Fool • 30m ago
 
 ---
 
@@ -181,14 +186,6 @@ Barron's • 2h ago
 New analysis suggests Bitcoin’s four-year cycles have been replaced — and the world’s biggest cryptocurrency could rebound to $140,000 at some point in the next 180 days.According to Copper, the arrival of exchange-traded funds tracking BTC’s spot price have changed this digital asset’s behavior, and given way to what it ...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Got Bitcoin or XRP? Do This 1 Thing Right Now or Risk Disaster.](https://www.fool.com/investing/2025/12/15/got-bitcoin-or-xrp-do-this-1-thing-right-now-or-ri/)**
-
-Sometimes you are the biggest risk to your portfolio's health.
-
-The Motley Fool • 19h ago
 
 ---
 
@@ -208,15 +205,15 @@ Seeking Alpha • 5h ago
 
 ---
 
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqc3FTDgEVX7aVBbhK6DuulokXp3RpYksIluyeRlALKkO56rKoV3sK-6&gaa_ts=6941368a&gaa_sig=zYy71fhIG1bMaZpi2N5-7qL_wOKn2dntHseAF4DUR_r_9kWNOviffbMntNaxpx2ux3WcQFfrTZDNnEhKZc4IwQ%3D%3D)**
-
-MarketWatch • 21h ago
-
----
-
 **[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
 
 The Block • 14h ago
+
+---
+
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqeS7WYnpsVYDJ9XPgZL2BapMx73Ejj_AWrG0QvUZzPg7gycpZ_AbNOz&gaa_ts=69413f21&gaa_sig=dfrjj1G80yjJvHqnO2vgD4GLeiMMZyVxkPwLLxIO2hqWxjslYc_cbNHEDvNNhz4sfaofdGnMSixu5QMw08BpeA%3D%3D)**
+
+MarketWatch • 21h ago
 
 ---
 
@@ -250,7 +247,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 21h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 22h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -378,7 +375,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 181 • ⏱️ 12:16 • 10h ago
+👁️ 42K • 👍 2K • 💬 181 • ⏱️ 12:16 • 11h ago
 
 ---
 
@@ -398,7 +395,7 @@ Check out our Long Form Videos for up to date Precious Metals Information!
 
 📺 SilverStackerCracker 
 
-👁️ 978 • 👍 28 • 💬 5 • ⏱️ 0:40 • 11h ago
+👁️ 978 • 👍 28 • 💬 5 • ⏱️ 0:40 • 12h ago
 
 ---
 

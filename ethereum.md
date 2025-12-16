@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T10:48:21.528379+00:00'
+updated: '2025-12-16T11:00:07.964190+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- videos
 - social
 - cryptocurrency
-- videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 10:48 UTC  
+**Last Updated:** December 16, 2025 at 11:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.4%  
-**7d:** -11.0%  
+**24h:** -6.5%  
+**7d:** -11.1%  
 **30d:** -2.5%  
 **90d:** -35.6%  
 **1y:** -24.1%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.18B
+**Market Cap:** $355.96B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.3%
 
 **All-Time Low:** $0.43
-+676133.7%
++681346.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-15h ago
+16h ago
 
 ---
 
@@ -154,15 +154,13 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 **[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
+**[Bitcoin, XRP, Ethereum Fall. Why Tuesday Is Make or Break for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfvqylBj6UD6kze5iLk77NNeeLJOYw7WZFFxAcHqFznFqGxaLTK3Nwl&gaa_ts=69413f23&gaa_sig=RR70CC400IIsKfxPzU8Wez8GkcoednShv8XzSO0sGcrShNOkHFih-Gm4gkjrMmfyK46fu85gOqvYu9q8crfBAA%3D%3D)**
 
-Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
-
-Nasdaq • 1d ago
+Barron's • 35m ago
 
 ---
 
@@ -208,7 +206,7 @@ BeInCrypto • 1d ago
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -248,7 +246,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 181 • ⏱️ 12:16 • 10h ago
+👁️ 42K • 👍 2K • 💬 181 • ⏱️ 12:16 • 11h ago
 
 ---
 
@@ -258,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 96 • 👍 13 • 💬 1 • ⏱️ 4:48 • 46m ago
+👁️ 96 • 👍 13 • 💬 1 • ⏱️ 4:48 • 58m ago
 
 ---
 
@@ -268,7 +266,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 405 • 💬 79 • ⏱️ 18:30 • 6h ago
+👁️ 4K • 👍 405 • 💬 79 • ⏱️ 18:30 • 7h ago
 
 ---
 
@@ -308,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 161 • 💬 3 • ⏱️ 8:04 • 11h ago
+👁️ 2K • 👍 161 • 💬 3 • ⏱️ 8:04 • 12h ago
 
 ---
 
