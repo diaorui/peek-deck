@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T14:34:48.283958+00:00'
+updated: '2025-12-16T14:56:14.082325+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 14:34 UTC  
+**Last Updated:** December 16, 2025 at 14:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,157.40
+### $87,536.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -5.6%  
-**30d:** -5.9%  
-**90d:** -25.8%  
-**1y:** -18.3%  
+**24h:** +0.4%  
+**7d:** -4.9%  
+**30d:** -5.2%  
+**90d:** -25.2%  
+**1y:** -17.7%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Are you still buying?
 
-22h ago
+23h ago
 
 ---
 
@@ -107,7 +107,7 @@ Are you still buying?
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -115,7 +115,7 @@ Are you still buying?
 
 Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
 
-13h ago
+14h ago
 
 ---
 
@@ -127,7 +127,7 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 **[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -181,7 +181,7 @@ Seeking Alpha • 1h ago
 
 **[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdvXoYK_OovE_U8VxF41vmlD21pdqwFM5xKZiBujVPJ57gZoStH4umN&gaa_ts=69417168&gaa_sig=qv7ySgR4_wgiVqiG3WHJFmHOVcOIwvAJcb9BYnT6h6B55f1QQ3DrYqWo4Zu8Z99xS0W4O7caHUTiT6cwSe_-1w%3D%3D)**
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
@@ -195,7 +195,7 @@ Financial Times • 1d ago
 
 **[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -257,7 +257,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 4h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 5h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -293,43 +293,33 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 ## YouTube Videos: "bitcoin"
 
-**[My Bitcoin and Crypto Portfolio Is Hurting...](https://www.youtube.com/watch?v=Eq7VK3EDdn4)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 25K • 👍 1K • 💬 498 • ⏱️ 8:04 • 13h ago
-
----
-
 **[Inside the future of Bitcoin](https://www.youtube.com/watch?v=N7Z7tpwSlBg)**
 
 Strategy CEO Phong Le discusses what investors can look forward to in 2026 and analyzes where Bitcoin is headed on 'The ...
 
 📺 Fox Business
 
-👁️ 7K • 👍 266 • 💬 183 • ⏱️ 10:03 • 8h ago
+👁️ 12K • 👍 405 • 💬 240 • ⏱️ 10:03 • 8h ago
 
 ---
 
-**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
+**[My Bitcoin and Crypto Portfolio Is Hurting...](https://www.youtube.com/watch?v=Eq7VK3EDdn4)**
 
-WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Digital Asset News
+📺 CryptosRUs
 
-👁️ 17K • 👍 822 • 💬 76 • ⏱️ 40:28 • 21h ago
+👁️ 26K • 👍 1K • 💬 518 • ⏱️ 8:04 • 13h ago
 
 ---
 
-**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=pkDDBb1EYwg)**
+**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
 
-We have a classic case of the bear market blues :( Make sure you check out ITC premium before the SALE ends so you can lock ...
+THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
 
-📺 Benjamin Cowen
+📺 Altcoin Daily
 
-👁️ 31K • 👍 3K • 💬 219 • ⏱️ 19:58 • 7h ago
+👁️ 50K • 👍 3K • 💬 215 • ⏱️ 12:16 • 15h ago
 
 ---
 
@@ -339,17 +329,37 @@ Japan is about to hike rates, and history says Bitcoin gets rekt every time. Wit
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 297 • ⏱️ 18:49 • 15h ago
+👁️ 39K • 👍 3K • 💬 304 • ⏱️ 18:49 • 15h ago
 
 ---
 
-**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
+**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
 
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
 
-📺 Altcoin Daily
+📺 Digital Asset News
 
-👁️ 74K • 👍 3K • 💬 274 • ⏱️ 9:35 • 1d ago
+👁️ 17K • 👍 832 • 💬 86 • ⏱️ 40:28 • 21h ago
+
+---
+
+**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=pkDDBb1EYwg)**
+
+We have a classic case of the bear market blues :( Make sure you check out ITC premium before the SALE ends so you can lock ...
+
+📺 Benjamin Cowen
+
+👁️ 40K • 👍 3K • 💬 250 • ⏱️ 19:58 • 8h ago
+
+---
+
+**[Bitcoin’s Next Major Wave Is Taking Shape...Despite the Short Term Weakness](https://www.youtube.com/watch?v=FBEpHX-gFAQ)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 31K • 👍 1K • 💬 372 • ⏱️ 52:24 • 23h ago
 
 ---
 
@@ -363,33 +373,23 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 ---
 
-**[Bitcoin’s Next Major Wave Is Taking Shape...Despite the Short Term Weakness](https://www.youtube.com/watch?v=FBEpHX-gFAQ)**
+**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 75K • 👍 3K • 💬 275 • ⏱️ 9:35 • 1d ago
+
+---
+
+**[Jobs Report Shock: What It Means for Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=Jqf_fYYOl24)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 355 • ⏱️ 52:24 • 23h ago
-
----
-
-**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=Y2qfKc-FpxA)**
-
-Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out ITC premium before the SALE ends so you can lock ...
-
-📺 Benjamin Cowen
-
-👁️ 111K • 👍 7K • 💬 512 • ⏱️ 17:53 • 1d ago
-
----
-
-**[Bitcoin CRASHED HARD! Will Bitcoin Crash Below $80k SOON? Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=wO8nL0aBzI8)**
-
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
-
-📺 Crypto Jebb
-
-👁️ 9K • 👍 493 • 💬 134 • ⏱️ 8:05 • 19h ago
+👁️ 4K • 👍 381 • 40m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T14:34:48.275220+00:00'
+updated: '2025-12-16T14:56:14.073775+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 14:34 UTC  
+**Last Updated:** December 16, 2025 at 14:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 The ZLUDA open-source project that has been through several incarnations but ultimately about getting CUDA software up and running on non-NVIDIA GPUs now supports the AMD ROCm 7 series.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/ZLUDA-ROCm-7) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/ZLUDA-ROCm-7) • 3h ago
 
 ---
 
@@ -65,13 +65,13 @@ The ZLUDA open-source project that has been through several incarnations but ult
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 23h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 1d ago
 
 ---
 
 **[Dismissing discussion of AGI as “science fiction” should be seen as a sign of total unseriousness. Time travel is science fiction. Martians are science fiction. “Even many 𝘴𝘬𝘦𝘱𝘵𝘪𝘤𝘢𝘭 experts think we may well build it in the next decade or two” is not science fiction.](https://www.reddit.com/r/artificial/comments/1po1393/dismissing_discussion_of_agi_as_science_fiction/)**
 
-🔗 [helentoner.substack.com](https://helentoner.substack.com/p/long-timelines-to-advanced-ai-have) • 1h ago
+🔗 [helentoner.substack.com](https://helentoner.substack.com/p/long-timelines-to-advanced-ai-have) • 2h ago
 
 ---
 
@@ -103,7 +103,7 @@ Also: All the news and watercooler chat from Fortune.
 
 US government launches ‘Tech Force’ to hire AI talent.[1] Deep-learning model predicts how fruit flies form, cell by cell.[2] Nvidia bulks up open source offerings with an acquisition and new open AI models.[3] Podcast industry under siege as AI bots flood airways.[4] Sources: [1] https://www.cnn.com/2025/12/15/tech/government-tech-force-ai [2] https://news.mit.edu/2025/deep-learning-model-predicts-how-fruit-flies-form-1215 [3] https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/ [4] https://www.yahoo.com/news/articles/podcast-industry-under-siege-ai-051031178.html
 
-8h ago
+9h ago
 
 ---
 
@@ -129,7 +129,7 @@ NPR • 4h ago
 
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -149,7 +149,7 @@ Bloomberg.com • 4h ago
 
 **[Don’t throw the generative baby out with the AI bathwater](https://thehill.com/opinion/technology/5649753-ai-jagged-technological-frontier/)**
 
-thehill.com • 34m ago
+thehill.com • 56m ago
 
 ---
 
@@ -157,7 +157,7 @@ thehill.com • 34m ago
 
 A new study has shown that prompts in the form of poems confuse AI models like ChatGPT, Gemini and Claude — to the point where sometimes, security mechanisms don't kick in. Are poets the new hackers?
 
-dw.com • 17m ago
+dw.com • 39m ago
 
 ---
 
@@ -165,7 +165,7 @@ dw.com • 17m ago
 
 DALLAS, December 16, 2025--With AI at the forefront of most current business innovations, small business experts from Thryv, Inc. (NASDAQ:THRY) share their predictions for those trends poised to transform how SMBs compete and succeed in 2026.
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 51m ago
 
 ---
 
@@ -225,7 +225,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 343 • 💬 255 • 15h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 343 • 💬 255 • 16h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -273,23 +273,13 @@ Brian Merchant has been collecting personal stories for his series AI Killed My 
 
 ## YouTube Videos: "ai"
 
-**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
+**[900 Days Left – AI Is Coming for Capitalism](https://www.youtube.com/watch?v=A8mj1Ngz2JI)**
 
-IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
+Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bilyeu tackles one of the most urgent questions of ...
 
-📺 Eurodollar University
+📺 Tom Bilyeu
 
-👁️ 126K • 👍 4K • 💬 683 • ⏱️ 20:44 • 1d ago
-
----
-
-**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
-
-OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
-
-📺 AI Revolution
-
-👁️ 42K • 👍 2K • 💬 163 • ⏱️ 12:07 • 1d ago
+👁️ 55K • 👍 2K • 💬 673 • ⏱️ 23:28 • 1d ago
 
 ---
 
@@ -299,7 +289,17 @@ Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPT
 
 📺 Dylan Curious
 
-👁️ 7K • 👍 450 • 💬 93 • ⏱️ 30:05 • 23h ago
+👁️ 7K • 👍 458 • 💬 86 • ⏱️ 30:05 • 1d ago
+
+---
+
+**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
+
+OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
+
+📺 AI Revolution
+
+👁️ 42K • 👍 2K • 💬 166 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -309,7 +309,35 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 21K • 👍 605 • 💬 100 • ⏱️ 11:23 • 14h ago
+👁️ 23K • 👍 642 • 💬 103 • ⏱️ 11:23 • 14h ago
+
+---
+
+**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
+
+IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
+
+📺 Eurodollar University
+
+👁️ 135K • 👍 5K • 💬 785 • ⏱️ 20:44 • 1d ago
+
+---
+
+**[AI STOCKS GO DEEP RED, PAYPAL BANK, UNEMPLOYMENT/PAYROLLS | MARKET OPEN](https://www.youtube.com/watch?v=-TOHi_Y2UpQ)**
+
+Welcome to the Lunch Time stock market hour with your host Couch Investor aka Neil. 15% OFF Fiscal AI: https://fiscal.ai/couch ...
+
+📺 Couch Investor
+
+👁️ 2K • 👍 126 • 2h ago
+
+---
+
+**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
+
+📺 AI . Robot
+
+👁️ 250K • 👍 3K • 💬 24 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -323,11 +351,13 @@ Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
 
 ---
 
-**[I bought 3 AI-generated products.. here’s what they REALLY look like. 🤡](https://www.youtube.com/watch?v=p6sslqc-BME)**
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=4_WX7Vr4Hcg)**
 
-📺 Maggie McGaugh
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
 
-👁️ 170K • 👍 9K • 💬 132 • ⏱️ 1:16 • 18h ago
+📺 Impossible AIs
+
+👁️ 52K • 👍 296 • 💬 15 • ⏱️ 8:43 • 2d ago
 
 ---
 
@@ -337,37 +367,7 @@ The White House has raised fresh concerns after admitting that China is turning 
 
 📺 Mint
 
-👁️ 61K • 👍 723 • 💬 320 • ⏱️ 4:14 • 1d ago
-
----
-
-**[Slicing the solar system (AI ASMR)](https://www.youtube.com/watch?v=2SjWN7ZSx3Q)**
-
-this video is AI Generated and contains no copyright sound NOTE: This video does not contain harmful content so please don't ...
-
-📺 saturn2309altacc2
-
-👁️ 365 • 👍 11 • ⏱️ 2:29 • 4h ago
-
----
-
-**[Why YouTube Won&#39;t Stop Pushing AI Nonsense...](https://www.youtube.com/watch?v=We7FzVfIIcs)**
-
-Hello guys and gals, it's me Mutahar again! This time we take a look at why sites like YouTube are taking AI so seriously.
-
-📺 SomeOrdinaryGamers
-
-👁️ 86K • 👍 5K • 💬 948 • ⏱️ 19:00 • 2d ago
-
----
-
-**[Build anything with Google AI Studio, here&#39;s how...](https://www.youtube.com/watch?v=IVWTX1CyOEw)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 6K • 👍 114 • 💬 10 • ⏱️ 36:04 • 1d ago
+👁️ 67K • 👍 789 • 💬 338 • ⏱️ 4:14 • 1d ago
 
 ---
 
@@ -479,7 +479,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 215 • 14h ago
+⬇️ 10,487 • ❤️ 215 • 15h ago
 
 ---
 
@@ -642,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.2k • 🔱 2.5k • 4h ago
+⭐ 16.2k • 🔱 2.5k • 5h ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.8k • 🔱 409 • 39m ago
+⭐ 3.8k • 🔱 409 • 1h ago
 
 ---
 
@@ -682,7 +682,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 1h ago
+⭐ 1.1k • 🔱 137 • 2h ago
 
 ---
 
@@ -732,7 +732,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 751 • 🔱 115 • 8h ago
+⭐ 751 • 🔱 115 • 9h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T14:34:48.293508+00:00'
+updated: '2025-12-16T14:56:14.091524+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 14:34 UTC  
+**Last Updated:** December 16, 2025 at 14:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ I recently made this prototype of a self-balancing wheel provided with robotic m
 
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
-10h ago
+11h ago
 
 ---
 
@@ -88,13 +88,13 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
 
-15h ago
+16h ago
 
 ---
 
 **[50 wheels lego](https://www.reddit.com/r/robotics/comments/1pnufll/50_wheels_lego/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Motley Fool • 1d ago
 
 SERV reaches its 2025 target with 2,000+ autonomous robots, becoming the largest U.S. sidewalk delivery fleet through rapid expansion and disciplined execution.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -198,7 +198,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 21K • 👍 605 • 💬 100 • ⏱️ 11:23 • 14h ago
+👁️ 23K • 👍 642 • 💬 103 • ⏱️ 11:23 • 14h ago
 
 ---
 
@@ -208,7 +208,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 24K • 👍 644 • 💬 96 • ⏱️ 6:41 • 2d ago
+👁️ 24K • 👍 648 • 💬 101 • ⏱️ 6:41 • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 303K • 👍 10K • 💬 322 • ⏱️ 0:34 • 2d ago
+👁️ 307K • 👍 10K • 💬 330 • ⏱️ 0:34 • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 235K • 👍 2K • 💬 23 • ⏱️ 0:21 • 2d ago
+👁️ 250K • 👍 3K • 💬 24 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -244,7 +244,7 @@ Business Insider tells you all you need to know about business, finance, tech, r
 
 📺 BlueAI25
 
-👁️ 11K • 👍 101 • 💬 7 • ⏱️ 0:24 • 18h ago
+👁️ 12K • 👍 119 • 💬 8 • ⏱️ 0:24 • 19h ago
 
 ---
 
@@ -254,7 +254,7 @@ Discover the latest girlfriend robot in this eye-opening tech expo experience! E
 
 📺 Ricey Rice
 
-👁️ 216K • 👍 765 • 💬 11 • ⏱️ 0:06 • 1d ago
+👁️ 226K • 👍 796 • 💬 11 • ⏱️ 0:06 • 1d ago
 
 ---
 
@@ -264,7 +264,17 @@ I actually turned my smartphone into a desktop pet... This is LOOI Robot by Tang
 
 📺 Kyle Krueger
 
-👁️ 5.4M • 👍 169K • 💬 3K • ⏱️ 0:51 • 5d ago
+👁️ 5.4M • 👍 170K • 💬 3K • ⏱️ 0:51 • 5d ago
+
+---
+
+**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+
+📺 Associated Press
+
+👁️ 28K • 👍 105 • 💬 41 • ⏱️ 1:26 • 3d ago
 
 ---
 
@@ -274,17 +284,7 @@ Atlas moves like a contortionist, but it's not just showing off. One of our soft
 
 📺 Boston Dynamics
 
-👁️ 176K • 👍 6K • 💬 231 • ⏱️ 1:11 • 6d ago
-
----
-
-**[Piston Hood System | 4142B Gizmo | Robot Rundown](https://www.youtube.com/watch?v=StqdEtTqsDs)**
-
-4142B Gizmo from Hawaii shows off their piston hood system and the functionality that having a re-direct has for Push Back.
-
-📺 FUN Robotics Network
-
-👁️ 2K • 👍 52 • 💬 4 • ⏱️ 1:25 • 16h ago
+👁️ 177K • 👍 6K • 💬 231 • ⏱️ 1:11 • 6d ago
 
 ---
 

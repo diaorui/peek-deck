@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T14:34:48.290047+00:00'
+updated: '2025-12-16T14:56:14.088324+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 14:34 UTC  
+**Last Updated:** December 16, 2025 at 14:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** -11.7%  
-**30d:** -3.2%  
-**90d:** -36.1%  
-**1y:** -24.6%  
+**24h:** -2.4%  
+**7d:** -11.5%  
+**30d:** -3.0%  
+**90d:** -35.9%  
+**1y:** -24.4%  
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 40m ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 1h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 18h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 19h ago
 
 ---
 
@@ -110,7 +110,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-19h ago
+20h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 1d ago
 
 Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -204,7 +204,7 @@ Nasdaq • 2d ago
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -228,23 +228,13 @@ BeInCrypto • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Cathie Wood Swaps Tesla For Ethereum🚨Crypto Market Update](https://www.youtube.com/watch?v=r74Wf7xsdXk)**
+**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
 
-Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a consumer-focused blockchain, each taking on key ...
+These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! AI Trading Club: ...
 
-📺 Paul Barron Network
+📺 Thomas Kralow
 
-👁️ 45K • 👍 2K • 💬 103 • ⏱️ 13:11 • 18h ago
-
----
-
-**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
-
-WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
-
-📺 Digital Asset News
-
-👁️ 17K • 👍 822 • 💬 76 • ⏱️ 40:28 • 21h ago
+👁️ 5K • 👍 2K • 💬 49 • ⏱️ 7:49 • 3h ago
 
 ---
 
@@ -254,17 +244,57 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 209 • ⏱️ 12:16 • 14h ago
+👁️ 50K • 👍 3K • 💬 215 • ⏱️ 12:16 • 15h ago
 
 ---
 
-**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
+**[Why Ethereum Is Doomed 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=-CqX5Vh_qTE)**
 
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 Crypto With James
+📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 232 • 💬 78 • ⏱️ 10:03 • 22h ago
+👁️ 476 • 👍 73 • 💬 19 • ⏱️ 8:42 • 2h ago
+
+---
+
+**[Cathie Wood Swaps Tesla For Ethereum🚨Crypto Market Update](https://www.youtube.com/watch?v=r74Wf7xsdXk)**
+
+Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a consumer-focused blockchain, each taking on key ...
+
+📺 Paul Barron Network
+
+👁️ 46K • 👍 2K • 💬 114 • ⏱️ 13:11 • 18h ago
+
+---
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=5CPL09p3ViQ)**
+
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Demat Account Dhan ...
+
+📺 Trade with Burner
+
+👁️ 4K • 👍 673 • 44m ago
+
+---
+
+**[ETHEREUM PULLBACK UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=b2xuQhyaxag)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 420 • 👍 33 • 💬 1 • ⏱️ 4:48 • 4h ago
+
+---
+
+**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
+
+WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
+
+📺 Digital Asset News
+
+👁️ 17K • 👍 832 • 💬 86 • ⏱️ 40:28 • 21h ago
 
 ---
 
@@ -274,7 +304,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 137 • 💬 17 • ⏱️ 6:53 • 14h ago
+👁️ 4K • 👍 144 • 💬 18 • ⏱️ 6:53 • 14h ago
 
 ---
 
@@ -284,47 +314,17 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 478 • 💬 65 • ⏱️ 18:30 • 10h ago
+👁️ 6K • 👍 509 • 💬 66 • ⏱️ 18:30 • 11h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=g5zFM6YQLYI)**
+**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
 
-📺 More Crypto Online
+📺 Crypto With James
 
-👁️ 3K • 👍 169 • 💬 4 • ⏱️ 8:04 • 15h ago
-
----
-
-**[Why I&#39;m Choosing TAO Over Ethereum! [Bittensor Halving Explained]](https://www.youtube.com/watch?v=q_ULZd6Dndo)**
-
-TAO's halving isn't just another crypto event and it definitely isn't what most people think. In this episode, Alessandro breaks down ...
-
-📺 Crypto Banter
-
-👁️ 4K • 👍 210 • 💬 11 • ⏱️ 41:01 • 23h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=E57-UT_Vyow)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 137 • 💬 2 • ⏱️ 5:52 • 23h ago
-
----
-
-**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 74K • 👍 3K • 💬 274 • ⏱️ 9:35 • 1d ago
+👁️ 3K • 👍 234 • 💬 76 • ⏱️ 10:03 • 23h ago
 
 ---
 
