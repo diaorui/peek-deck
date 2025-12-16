@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T21:48:34.659369+00:00'
+updated: '2025-12-16T21:58:59.743404+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 21:48 UTC  
+**Last Updated:** December 16, 2025 at 21:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Hello everyone, I’ll jump straight to my question. I’m currently looking to 
 
 I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
 
-6h ago
+7h ago
 
 ---
 
@@ -242,7 +242,7 @@ Business Insider tells you all you need to know about business, finance, tech, r
 
 📺 Business Insider
 
-👁️ 141K • 👍 721 • 💬 152 • ⏱️ 1:10 • 6d ago
+👁️ 141K • 👍 721 • 💬 152 • ⏱️ 1:10 • 7d ago
 
 ---
 

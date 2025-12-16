@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T21:48:34.649387+00:00'
+updated: '2025-12-16T21:58:59.734097+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 21:48 UTC  
+**Last Updated:** December 16, 2025 at 21:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** -4.4%  
-**30d:** -4.7%  
-**90d:** -24.8%  
-**1y:** -17.2%  
+**24h:** +1.6%  
+**7d:** -4.6%  
+**30d:** -5.0%  
+**90d:** -25.0%  
+**1y:** -17.5%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -167,7 +167,7 @@ Financial Times • 1d ago
 
 Crypto markets remain "fragile," said Samer Hasn from XS.com. Traders are either stepping aside or being forced out.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -347,7 +347,7 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 5K • 👍 320 • 💬 23 • ⏱️ 57:23 • 6h ago
+👁️ 5K • 👍 320 • 💬 23 • ⏱️ 57:23 • 7h ago
 
 ---
 
@@ -357,7 +357,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 1K • 👍 131 • 💬 49 • ⏱️ 8:15 • 2h ago
+👁️ 1K • 👍 131 • 💬 49 • ⏱️ 8:15 • 3h ago
 
 ---
 
@@ -367,7 +367,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 47 • ⏱️ 7:49 • 9h ago
+👁️ 15K • 👍 2K • 💬 47 • ⏱️ 7:49 • 10h ago
 
 ---
 
@@ -377,7 +377,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 237 • ⏱️ 12:16 • 21h ago
+👁️ 59K • 👍 3K • 💬 237 • ⏱️ 12:16 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T21:48:34.640781+00:00'
+updated: '2025-12-16T21:58:59.725589+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 21:48 UTC  
+**Last Updated:** December 16, 2025 at 21:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 4h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ I’ve been trying to put a name to a specific frustration I feel when working d
 
 Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to bolster the open-source AI ecosystem
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 5h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 6h ago
 
 ---
 
@@ -135,7 +135,7 @@ NPR • 11h ago
 
 **[Why BlackLine bought WiseLayer](https://www.axios.com/pro/fintech-deals/2025/12/16/why-blackline-bought-wiselayer)**
 
-Axios • 28m ago
+Axios • 38m ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 28m ago
 
 Disney's deal with OpenAI and Sora stunned Hollywood, but it's part of Bob Iger's long-time playbook, investing in new tech, then figuring out how to make money from it.
 
-Forbes • 45m ago
+Forbes • 56m ago
 
 ---
 
@@ -163,7 +163,7 @@ thehill.com • 10h ago
 
 **[Trump’s AI Executive Order Is Confusing Small Business Owners](https://www.inc.com/melissa-angell/trumps-ai-executive-order-is-confusing-small-business-owners/91276946)**
 
-Inc.com • 35m ago
+Inc.com • 46m ago
 
 ---
 
@@ -215,7 +215,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 366 • 💬 297 • 22h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 366 • 💬 297 • 23h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -255,7 +255,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 122 • 💬 49 • 11h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 122 • 💬 49 • 12h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -347,7 +347,7 @@ The fellas at Red Letter Media like to talk about not just movies, but current t
 
 📺 RedLetterMedia
 
-👁️ 172K • 👍 17K • 💬 3K • ⏱️ 59:17 • 5h ago
+👁️ 172K • 👍 17K • 💬 3K • ⏱️ 59:17 • 6h ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.9k • 🔱 418 • 7h ago
+⭐ 3.9k • 🔱 418 • 8h ago
 
 ---
 
@@ -730,7 +730,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 753 • 🔱 117 • 15h ago
+⭐ 753 • 🔱 117 • 16h ago
 
 ---
 
