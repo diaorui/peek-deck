@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T11:28:57.156340+00:00'
+updated: '2025-12-16T11:45:15.250833+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 11:28 UTC  
+**Last Updated:** December 16, 2025 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,029.27
+### $87,192.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.0%  
-**7d:** -5.3%  
-**30d:** -5.6%  
-**90d:** -25.5%  
-**1y:** -18.1%  
+**24h:** -2.8%  
+**7d:** -5.1%  
+**30d:** -5.4%  
+**90d:** -25.3%  
+**1y:** -17.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1737.68B
+**Market Cap:** $1738.12B
 Rank #1
 
 **Circulating Supply:** 19,962,821 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.9%
 
 **All-Time Low:** $67.81
-+128308.8%
++128314.7%
 
 ---
 
@@ -77,11 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Don’t panic people](https://www.reddit.com/r/Bitcoin/comments/1pnlszj/dont_panic_people/)**
+**[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
 
-100k range might take till next year
-
-12h ago
+11h ago
 
 ---
 
@@ -95,7 +93,7 @@ Rank #1
 
 Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
 
-10h ago
+11h ago
 
 ---
 
@@ -103,13 +101,21 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 Are you still buying?
 
-19h ago
+20h ago
+
+---
+
+**[Don’t panic people](https://www.reddit.com/r/Bitcoin/comments/1pnlszj/dont_panic_people/)**
+
+100k range might take till next year
+
+12h ago
 
 ---
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -121,12 +127,6 @@ Buy some bitcoin and store it.
 
 ---
 
-**[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
-
-10h ago
-
----
-
 **[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
 
 15h ago
@@ -135,7 +135,7 @@ Buy some bitcoin and store it.
 
 **[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -151,6 +151,12 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 ## Google News: "bitcoin"
 
+**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqeQkR4R04ZMCtpFjRCwa_mQAAe2aJ948KdGJveskkVhHexCecl-gBRW&gaa_ts=694149b2&gaa_sig=0jAcTu5D6I2hT_GbohblvmtYSWYIcnW7g5mlFZYucc4pcXZaPvAc4CDdM91OKIgLYa5w-AksJjwxzQiZgnhxPA%3D%3D)**
+
+Barron's • 17h ago
+
+---
+
 **[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
@@ -159,25 +165,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Breaches $86,000 While Sinking Toward Year’s Lows](https://www.bloomberg.com/news/articles/2025-12-15/bitcoin-breaches-86-000-while-sinking-toward-year-s-lows)**
-
-Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
-
-Bloomberg.com • 6h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall. Why Tuesday Is Make or Break for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfECzeAQUPvKJ6D40w8vP5M_K4JUvw44lmPrGeKw9PCpUE3iFXt8vI-&gaa_ts=69413f21&gaa_sig=rIh1dyykDDslIihUDt7t_3CEyHEi95qXob6h5q0utCrmALLVD7ZJ7XnQXZJIKrzZOtdq1oU5NlgdncOm5Sf8aA%3D%3D)**
-
-Barron's • 1h ago
-
----
-
 **[Here's What History Says to Expect for Bitcoin in December](https://www.fool.com/investing/2025/12/16/heres-what-history-says-to-expect-for-bitcoin-in-d/)**
 
 If history is any guide, Bitcoin could soar in value by year-end.
 
-The Motley Fool • 58m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -189,11 +181,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[BTC, ETH, XRP, ADA Price News: Bitcoin, ether, cardano extend losses](https://www.coindesk.com/markets/2025/12/16/bitcoin-ether-and-xrp-extend-losses-as-year-end-caution-builds)**
+**[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
 
-Global markets mirrored this trend, with Asian equities and U.S. equity futures softening, while the dollar hovered near two-month lows.
-
-CoinDesk • 6h ago
+The Block • 15h ago
 
 ---
 
@@ -201,17 +191,17 @@ CoinDesk • 6h ago
 
 A slide in Bitcoin price on Monday triggered over $584 million in liquidations of bullish bets, primarily affecting long positions.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 6h ago
 
 ---
 
-**[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
+**[Peter Schiff Accuses CNBC of Bitcoin Bias as Tom Lee Claims BTC Could See 200% Growth](https://www.ccn.com/news/crypto/peter-schiff-accuses-cnbc-bitcoin-bias-tom-lee-claims-btc-growth/)**
 
-The Block • 14h ago
+CCN.com • 1h ago
 
 ---
 
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqeS7WYnpsVYDJ9XPgZL2BapMx73Ejj_AWrG0QvUZzPg7gycpZ_AbNOz&gaa_ts=69413f21&gaa_sig=dfrjj1G80yjJvHqnO2vgD4GLeiMMZyVxkPwLLxIO2hqWxjslYc_cbNHEDvNNhz4sfaofdGnMSixu5QMw08BpeA%3D%3D)**
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqdZUk5Jey-iKkop5Ly5y7XwUeLK-jbWxIry0dQvt3G7wBKN6b5ymE-C&gaa_ts=694149b2&gaa_sig=w26UvNsqiT3k0EO3ipuh3vbuOkLMp-nHQmZt3gc-nkywf_XOu3lhy4FYbwd8faH1WHPw-XREUag4j2dAIgNxoA%3D%3D)**
 
 MarketWatch • 22h ago
 
@@ -220,6 +210,14 @@ MarketWatch • 22h ago
 **[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
 
 Reuters • 1d ago
+
+---
+
+**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+
+Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+
+Forbes • 1d ago
 
 ---
 
@@ -263,7 +261,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 1h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 2h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -315,7 +313,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 4K • 👍 132 • 💬 148 • ⏱️ 10:03 • 4h ago
+👁️ 4K • 👍 132 • 💬 148 • ⏱️ 10:03 • 5h ago
 
 ---
 
@@ -325,7 +323,7 @@ We have a classic case of the bear market blues :( Make sure you check out ITC p
 
 📺 Benjamin Cowen
 
-👁️ 22K • 👍 2K • 💬 150 • ⏱️ 19:58 • 4h ago
+👁️ 22K • 👍 2K • 💬 150 • ⏱️ 19:58 • 5h ago
 
 ---
 
@@ -365,7 +363,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 340 • ⏱️ 52:24 • 19h ago
+👁️ 31K • 👍 1K • 💬 340 • ⏱️ 52:24 • 20h ago
 
 ---
 

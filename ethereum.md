@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T11:28:57.162391+00:00'
+updated: '2025-12-16T11:45:15.256860+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 11:28 UTC  
+**Last Updated:** December 16, 2025 at 11:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.5%  
-**7d:** -11.0%  
-**30d:** -2.5%  
+**24h:** -6.6%  
+**7d:** -11.1%  
+**30d:** -2.6%  
 **90d:** -35.6%  
 **1y:** -24.1%  
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.96B
+**Market Cap:** $356.34B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.3%
 
 **All-Time Low:** $0.43
-+681346.4%
++681970.0%
 
 ---
 
@@ -81,6 +81,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
 16h ago
+
+---
+
+**[Building on Ethereum is powerful, but product development seems not easy](https://www.reddit.com/r/ethereum/comments/1pnzud9/building_on_ethereum_is_powerful_but_product/)**
+
+Smart contracts are great, but stitching everything together into a real app is exhausting. Frontend, wallets, security, UX… it adds up fast. How are smaller teams handling full App development without burning out?
+
+4m ago
 
 ---
 
@@ -104,7 +112,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-16h ago
+17h ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[1-Year Anniversary of EigenCloud's 1% Protocol Guild Pledge Contribution](https://www.reddit.com/r/ethereum/comments/1pl0vsm/1year_anniversary_of_eigenclouds_1_protocol_guild/)**
-
-One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
-
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,7 +158,7 @@ Bloomberg.com • 19h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall. Why Tuesday Is Make or Break for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfvqylBj6UD6kze5iLk77NNeeLJOYw7WZFFxAcHqFznFqGxaLTK3Nwl&gaa_ts=69413f23&gaa_sig=RR70CC400IIsKfxPzU8Wez8GkcoednShv8XzSO0sGcrShNOkHFih-Gm4gkjrMmfyK46fu85gOqvYu9q8crfBAA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall. Why Tuesday Is Make or Break for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe66N50J6FgvKHS6UfmBcelsowY6ljhmuZ8hDzRWO5kuM08ImwmxkC6&gaa_ts=694149b3&gaa_sig=Q3J_Pfr2eoVfxHwDSa9sovJxN9Lf1ViU-z0VaTRXNHKCgUc8nfVuZ2H_18IOcPjxjUJY8Xk4RGd6kc5t6LuoIg%3D%3D)**
 
 Barron's • 1h ago
 
@@ -182,7 +182,7 @@ CoinDesk • 21h ago
 
 Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -190,7 +190,7 @@ Decrypt • 19h ago
 
 A mix of macro and token-specific factors are pushing investors away from Ethereum and toward other assets.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -236,7 +236,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 43K • 👍 2K • 💬 101 • ⏱️ 13:11 • 14h ago
+👁️ 43K • 👍 2K • 💬 101 • ⏱️ 13:11 • 15h ago
 
 ---
 
@@ -296,7 +296,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 230 • 💬 82 • ⏱️ 10:03 • 19h ago
+👁️ 3K • 👍 230 • 💬 82 • ⏱️ 10:03 • 20h ago
 
 ---
 
