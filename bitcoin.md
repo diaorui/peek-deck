@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T05:56:06.981973+00:00'
+updated: '2025-12-16T06:39:13.348968+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 05:56 UTC  
+**Last Updated:** December 16, 2025 at 06:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,950.00
+### $86,366.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.4%  
-**7d:** -6.6%  
-**30d:** -6.9%  
-**90d:** -26.5%  
-**1y:** -19.1%  
+**24h:** -3.8%  
+**7d:** -6.3%  
+**30d:** -6.6%  
+**90d:** -26.3%  
+**1y:** -18.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1715.97B
+**Market Cap:** $1722.26B
 Rank #1
 
-**Circulating Supply:** 19,962,703 BTC
+**Circulating Supply:** 19,962,718 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.8%
+-31.5%
 
 **All-Time Low:** $67.81
-+126778.0%
++127329.6%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 100k range might take till next year
 
-6h ago
+7h ago
 
 ---
 
 **[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many times Bitcoin has been declared dead by critics and media, with the complete database of Bitcoin deaths.
 
-🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 9h ago
+🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 10h ago
 
 ---
 
@@ -117,7 +117,7 @@ Are you still buying?
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ Are you still buying?
 
 Buy some bitcoin and store it.
 
-15h ago
+16h ago
 
 ---
 
@@ -133,7 +133,7 @@ Buy some bitcoin and store it.
 
 Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
 
-5h ago
+6h ago
 
 ---
 
@@ -157,7 +157,7 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -173,21 +173,21 @@ Bloomberg.com • 1h ago
 
 Global markets mirrored this trend, with Asian equities and U.S. equity futures softening, while the dollar hovered near two-month lows.
 
-CoinDesk • 44m ago
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin bullish bets over $550 million wiped out - report (BTC:NYSEARCA)](https://seekingalpha.com/news/4531737-bitcoin-bullish-bets-over-550-million-wiped-out---report)**
+
+A slide in Bitcoin price on Monday triggered over $584 million in liquidations of bullish bets, primarily affecting long positions.
+
+Seeking Alpha • 57m ago
 
 ---
 
 **[Bitcoin slides below $86,000, ether falls as traders rotate into safer assets](https://www.theblock.co/post/382639/bitcoin-slides-below-86000)**
 
-The Block • 53m ago
-
----
-
-**[Bitcoin's Retreat to $85,000 Shifts Losses to New Entrants](https://finance.yahoo.com/news/bitcoins-retreat-85-000-shifts-040750696.html)**
-
-Bitcoin's drop to $85,800 has pushed new whales into 2023-level losses, while on-chain data reveals short-term holders buying the dips.
-
-Yahoo Finance • 1h ago
+The Block • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Financial Times • 1d ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcRArKFlyg-ViZUOjKV4CYenWg2iUrDa6RKvJghNLloEJoH_toum0HE&gaa_ts=6940f50b&gaa_sig=auBBcdtbIulb4oy34zu6ta7aGS6_lEVjeC4TI3b2KC6-HF6bTeq4dJLfqTHEV8JFu-SeUCouuwQmjUDEWstZ0A%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcwtb8tVrMDZgCowVH0sk1cBJdWi4OgCHHxLxK2COqidTDsjP0k74zl&gaa_ts=694101f9&gaa_sig=4jVDFKgpt__2Ph0YW2kRRWYHHwvo7bNxTe-UYWn0lLz_DSX63zj0jsDGlZYLKmm3FcCWWr_NmYsJxBlAV13btA%3D%3D)**
 
 Barron's • 11h ago
 
@@ -209,19 +209,19 @@ Barron's • 11h ago
 
 Sometimes you are the biggest risk to your portfolio's health.
 
-The Motley Fool • 14h ago
-
----
-
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqffox3-mSG75a7KhXrRidOhY_Cc8yMIfY2qOE2ECE5-o0rS0Dw4fzz6&gaa_ts=6940f50b&gaa_sig=IGKTjamTYV2bSiwyuSEwMvCqyOuHp-Trwdc0O9eN120woHY4OfFs8NYWu8vouFsqa3FAqTZEBkcJDviRYCBOfw%3D%3D)**
-
-MarketWatch • 16h ago
+The Motley Fool • 15h ago
 
 ---
 
 **[Legendary analyst warns of 80% Bitcoin ‘decay’](https://www.thestreet.com/crypto/markets/legendary-analyst-warns-of-80-bitcoin-decay)**
 
-thestreet.com • 12h ago
+thestreet.com • 13h ago
+
+---
+
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqf9ddUnkV4FW9kfzW4BMS22dZe3RbutaiEHhzHGgSxlXnTQbt7HsksO&gaa_ts=694101f9&gaa_sig=DE_gTQ7phGDa9yk4-iLIPl1VDLfY-FcAhv3FBmPnutjfQFmtgl_T9yZobgLWQfYMjn1hRshhNZBWCenQAZjAmg%3D%3D)**
+
+MarketWatch • 17h ago
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 854 • 💬 296 • ⏱️ 8:04 • 4h ago
+👁️ 15K • 👍 1K • 💬 345 • ⏱️ 8:04 • 5h ago
 
 ---
 
@@ -325,7 +325,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 14K • 👍 728 • 💬 64 • ⏱️ 40:28 • 12h ago
+👁️ 16K • 👍 762 • 💬 72 • ⏱️ 40:28 • 13h ago
 
 ---
 
@@ -335,37 +335,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 315 • ⏱️ 52:24 • 14h ago
-
----
-
-**[The Banks’ Secret Attack on Bitcoin Has Begun: Synthetic BTC to Control Price! (Don’t Fall for It..)](https://www.youtube.com/watch?v=N54rj8w7kQQ)**
-
-Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!* ⚡   *Limited Time!* — before Dec 22 2025!
-
-📺 Crypto Casey
-
-👁️ 25K • 👍 2K • 💬 258 • ⏱️ 14:34 • 13h ago
-
----
-
-**[Bitcoin Dumps Below $90K AGAIN! Is The Cycle Top In?](https://www.youtube.com/watch?v=a5ZeFMSR08U)**
-
-Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning whether 2% inflation is officially dead, while the SEC's ...
-
-📺 The Wolf Of All Streets
-
-👁️ 27K • 👍 1K • 💬 374 • ⏱️ 1:05:55 • 14h ago
-
----
-
-**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 72K • 👍 3K • 💬 279 • ⏱️ 9:35 • 1d ago
+👁️ 30K • 👍 1K • 💬 309 • ⏱️ 52:24 • 15h ago
 
 ---
 
@@ -375,17 +345,7 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 47K • 👍 2K • 💬 177 • ⏱️ 14:17 • 1d ago
-
----
-
-**[Bitcoin CRASHED HARD! Will Bitcoin Crash Below $80k SOON? Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=wO8nL0aBzI8)**
-
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
-
-📺 Crypto Jebb
-
-👁️ 8K • 👍 464 • 💬 137 • ⏱️ 8:05 • 10h ago
+👁️ 48K • 👍 2K • 💬 177 • ⏱️ 14:17 • 1d ago
 
 ---
 
@@ -395,17 +355,57 @@ Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out IT
 
 📺 Benjamin Cowen
 
-👁️ 107K • 👍 7K • 💬 505 • ⏱️ 17:53 • 1d ago
+👁️ 108K • 👍 7K • 💬 509 • ⏱️ 17:53 • 1d ago
 
 ---
 
-**[Time To Call It For Bitcoin &amp; Crypto?](https://www.youtube.com/watch?v=zC-OTO2coYs)**
+**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 405 • ⏱️ 9:39 • 1d ago
+👁️ 73K • 👍 3K • 💬 282 • ⏱️ 9:35 • 1d ago
+
+---
+
+**[The Banks’ Secret Attack on Bitcoin Has Begun: Synthetic BTC to Control Price! (Don’t Fall for It..)](https://www.youtube.com/watch?v=N54rj8w7kQQ)**
+
+Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!* ⚡   *Limited Time!* — before Dec 22 2025!
+
+📺 Crypto Casey
+
+👁️ 28K • 👍 3K • 💬 260 • ⏱️ 14:34 • 14h ago
+
+---
+
+**[BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Yo2EacUJ9OQ)**
+
+BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 379 • 💬 102 • ⏱️ 25:11 • 8h ago
+
+---
+
+**[&quot;My 2026 Bitcoin Prediction Will Offend Both Bulls and Bears&quot; - Raoul Pal Blows Hot!](https://www.youtube.com/watch?v=5tnxmCQE6X8)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 18K • 👍 629 • 💬 37 • ⏱️ 21:16 • 2d ago
+
+---
+
+**[Bitcoin CRASHED HARD! Will Bitcoin Crash Below $80k SOON? Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=wO8nL0aBzI8)**
+
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
+
+📺 Crypto Jebb
+
+👁️ 8K • 👍 473 • 💬 137 • ⏱️ 8:05 • 11h ago
 
 ---
 

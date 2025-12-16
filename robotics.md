@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T05:56:06.991207+00:00'
+updated: '2025-12-16T06:39:13.358107+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 05:56 UTC  
+**Last Updated:** December 16, 2025 at 06:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -42,21 +42,13 @@ Robotics research and industry news
 
 I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
 
-16h ago
+17h ago
 
 ---
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
 3h ago
-
----
-
-**[High Torque and zero backlash cycloidal drive for diy robotic arm](https://www.reddit.com/r/robotics/comments/1pnlepi/high_torque_and_zero_backlash_cycloidal_drive_for/)**
-
-This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
-
-7h ago
 
 ---
 
@@ -68,11 +60,19 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 ---
 
+**[High Torque and zero backlash cycloidal drive for diy robotic arm](https://www.reddit.com/r/robotics/comments/1pnlepi/high_torque_and_zero_backlash_cycloidal_drive_for/)**
+
+This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
+
+7h ago
+
+---
+
 **[DIY powered exoskeleton by a college student](https://www.reddit.com/r/robotics/comments/1pntdfq/diy_powered_exoskeleton_by_a_college_student/)**
 
 Just saw this video of a college student building a powered exoskeleton by hand. Stuff like this always makes me think about how far exoskeletons have come. Companies like dnsys have already released lower limb exoskeletons as mobility aids for rehabilitation and daily use. Curious what people here think. Are we actually getting closer to wider adoption, for example in military or medical contexts, or are power, weight, and comfort still the main blockers?
 
-59m ago
+1h ago
 
 ---
 
@@ -80,7 +80,15 @@ Just saw this video of a college student building a powered exoskeleton by hand.
 
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
 
-17h ago
+18h ago
+
+---
+
+**[Robots are coming..](https://www.reddit.com/r/robotics/comments/1pnty34/robots_are_coming/)**
+
+Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
+
+1h ago
 
 ---
 
@@ -96,15 +104,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 Been getting a lot of questions about how this projects works. Decided to post another video that shows the camera feed and also what the ai voice is saying as it is working through a prompt. Again feel free to ask any questions!!! Full video: https://youtu.be/UOc8WNjLqPs?si=XO0M8RQBZ7FDof1S
 
-6h ago
-
----
-
-**[Marc Raibert's new 'RAI Institute' reveals the UMV: A reinforcement-learning robot that teaches itself to bunny hop and 'dance'](https://www.reddit.com/r/robotics/comments/1pmp2lt/marc_raiberts_new_rai_institute_reveals_the_umv_a/)**
-
-This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and AI Institute). Unlike traditional control systems, this robot uses Reinforcement Learning (RL) to master "Athletic Intelligence." It wasn't hard-coded to jump, it learned how to fling its upper body mass to execute bunny hops, wheelies and 360-spins to navigate obstacles.. Key Specs: Architecture: Split-mass design. The heavy "upper body" acts as a counter-weight (like a rider), while the lower "bike" handles traction. Zero-Shot Transfer: It learned these physics in simulation and transferred them to the real robot without a safety tether. The Lineage: This comes from the team led by Marc Raibert (founder of Boston Dynamics), pushing beyond the "Spot" era into agile wheeled mobility. Source: RAI Institute / The Neural AI 🔗 : https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/?hl=en-IN
-
-1d ago
+7h ago
 
 ---
 
@@ -136,7 +136,7 @@ The New York Times • 11h ago
 
 : Company vacuumed up by its own manufacturer
 
-theregister.com • 16h ago
+theregister.com • 17h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Motley Fool • 1d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -164,11 +164,11 @@ InvestorPlace • 1d ago
 
 ---
 
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
 
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-Fortune • 2d ago
+South China Morning Post • 2d ago
 
 ---
 
@@ -178,11 +178,11 @@ Times Union • 1d ago
 
 ---
 
-**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+**[Quantum Systems and Frontline Robotics Open Joint Drone Production Facility in Germany for Ukraine](https://militarnyi.com/en/news/quantum-systems-and-frontline-robotics-open-joint-drone-production-facility-in-germany-for-ukraine/)**
 
-Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+German company Quantum Systems and Ukrainian drone manufacturer Frontline Robotics announced the creation of a joint venture, Quantum Frontline Industries.
 
-South China Morning Post • 1d ago
+Мілітарний • 14h ago
 
 ---
 
@@ -196,7 +196,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 22K • 👍 612 • 💬 95 • ⏱️ 6:41 • 1d ago
+👁️ 23K • 👍 621 • 💬 97 • ⏱️ 6:41 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 281K • 👍 9K • 💬 308 • ⏱️ 0:34 • 1d ago
+👁️ 288K • 👍 9K • 💬 313 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 155K • 👍 2K • 💬 16 • ⏱️ 0:21 • 1d ago
+👁️ 172K • 👍 2K • 💬 17 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -224,7 +224,15 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 191K • 👍 930 • 💬 303 • ⏱️ 0:47 • 6d ago
+👁️ 191K • 👍 934 • 💬 303 • ⏱️ 0:47 • 6d ago
+
+---
+
+**[Docking A Cyborg Centaur(Remy&#39;s Mechanical)⚙️#airobot #humanoidrobot #robotics #humanoid #robot](https://www.youtube.com/watch?v=Vg_1gSMUj6Q)**
+
+📺 BlueAI25
+
+👁️ 7K • 👍 80 • 💬 6 • ⏱️ 0:24 • 10h ago
 
 ---
 
@@ -234,7 +242,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 27K • 👍 103 • 💬 41 • ⏱️ 1:26 • 3d ago
+👁️ 28K • 👍 103 • 💬 41 • ⏱️ 1:26 • 3d ago
 
 ---
 
@@ -244,27 +252,17 @@ I actually turned my smartphone into a desktop pet... This is LOOI Robot by Tang
 
 📺 Kyle Krueger
 
-👁️ 5.3M • 👍 166K • 💬 3K • ⏱️ 0:51 • 5d ago
+👁️ 5.3M • 👍 167K • 💬 3K • ⏱️ 0:51 • 5d ago
 
 ---
 
-**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
 
-In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
 
-📺 Google DeepMind
+📺 AI Revolution
 
-👁️ 276K • 👍 8K • 💬 565 • ⏱️ 17:44 • 5d ago
-
----
-
-**[The Robot Body](https://www.youtube.com/watch?v=TJFMMOlbyIw)**
-
-What should a robot look like? How necessary is a body? Where do the boundaries of ourselves begin and end? Exploring ...
-
-📺 Sarah Davis Baker
-
-👁️ 38K • 👍 4K • 💬 423 • ⏱️ 37:14 • 5d ago
+👁️ 11K • 👍 453 • 💬 60 • ⏱️ 11:23 • 6h ago
 
 ---
 
@@ -274,17 +272,17 @@ What should a robot look like? How necessary is a body? Where do the boundaries 
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 39 • 💬 3 • ⏱️ 1:25 • 7h ago
+👁️ 2K • 👍 44 • 💬 4 • ⏱️ 1:25 • 8h ago
 
 ---
 
-**[Future Tech Upgrade: Humanoid Robot Shocks the World! #humanoidrobot #robot #techexpo](https://www.youtube.com/watch?v=4JxhMlQTVZg)**
+**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
 
-Innovation​ #Robotics​ #Expo2025​ Join me on an exciting journey into the world of future technology as I explore the latest ...
+We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
 
-📺 SHORTS WORLD
+📺 CNET
 
-👁️ 154K • 💬 2 • ⏱️ 0:08 • 5d ago
+👁️ 18K • 👍 227 • 💬 28 • ⏱️ 1:05 • 16h ago
 
 ---
 

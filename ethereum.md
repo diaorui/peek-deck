@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T05:56:06.988005+00:00'
+updated: '2025-12-16T06:39:13.354909+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 05:56 UTC  
+**Last Updated:** December 16, 2025 at 06:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.9%  
-**7d:** -11.9%  
-**30d:** -3.5%  
-**90d:** -36.2%  
-**1y:** -24.8%  
+**24h:** -6.1%  
+**7d:** -11.5%  
+**30d:** -3.0%  
+**90d:** -35.9%  
+**1y:** -24.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.05B
+**Market Cap:** $354.39B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.5%
 
 **All-Time Low:** $0.43
-+675179.9%
++679117.7%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-10h ago
+11h ago
+
+---
+
+**[Daily General Discussion December 16, 2025](https://www.reddit.com/r/ethereum/comments/1pnuj08/daily_general_discussion_december_16_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+38m ago
 
 ---
 
@@ -80,7 +88,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +104,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +112,7 @@ Hey folks, I’m looking for a production-ready Android wallet that satisfies al
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +128,7 @@ Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm try
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -128,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -137,14 +145,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
 
 🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 3d ago
-
----
-
-**[Ethereal news weekly #2 | BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation](https://www.reddit.com/r/ethereum/comments/1pkr4j5/ethereal_news_weekly_2_bpo1_upgrade_increased/)**
-
-BPO1 upgrade increased blobs, DTC securities tokenization pilot, William Mougayar: Ethereum valuation
-
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-2/) • 3d ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 12h ago
 
 Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
-CoinDesk • 14h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -173,6 +173,12 @@ CoinDesk • 14h ago
 If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
 The Motley Fool • 1d ago
+
+---
+
+**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
+
+The Block • 18h ago
 
 ---
 
@@ -186,7 +192,7 @@ Yahoo Finance • 14h ago
 
 **['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -194,21 +200,7 @@ The Block • 14h ago
 
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
-CoinDesk • 6h ago
-
----
-
-**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
-
-The Block • 17h ago
-
----
-
-**[3 Reasons Why Ethereum Plunged 5% Today](https://finance.yahoo.com/news/3-reasons-why-ethereum-plunged-213923494.html)**
-
-A mix of macro and token-specific factors are pushing investors away from Ethereum and toward other assets.
-
-Yahoo Finance • 8h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -228,6 +220,14 @@ CryptoSlate • 14h ago
 
 ---
 
+**[An Ethereum whale raises its holdings to $1.7B: Will this move affect ETH?](https://ambcrypto.com/an-ethereum-whale-raises-its-holdings-to-1-7b-will-this-move-affect-eth/)**
+
+An Ethereum whale purchased 38,576 ETH worth $119 million.
+
+AMBCrypto • 19h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 34K • 👍 2K • 💬 101 • ⏱️ 13:11 • 9h ago
+👁️ 38K • 👍 2K • 💬 104 • ⏱️ 13:11 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 14K • 👍 728 • 💬 64 • ⏱️ 40:28 • 12h ago
+👁️ 16K • 👍 762 • 💬 72 • ⏱️ 40:28 • 13h ago
 
 ---
 
@@ -258,7 +258,17 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 93 • 💬 14 • ⏱️ 6:53 • 5h ago
+👁️ 2K • 👍 111 • 💬 16 • ⏱️ 6:53 • 6h ago
+
+---
+
+**[JPMORGAN BANK TOKENIZES ON ETHEREUM! BITCOIN PULLSBACK &amp; CRYPTO MARKET STRUCTURE DELAYED!](https://www.youtube.com/watch?v=VXwSUsqLNr8)**
+
+Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market Fund on Ethereum. The senate markup on ...
+
+📺 Thinking Crypto
+
+👁️ 2K • 👍 272 • 💬 55 • ⏱️ 18:30 • 2h ago
 
 ---
 
@@ -268,7 +278,7 @@ TAO's halving isn't just another crypto event and it definitely isn't what most 
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 195 • 💬 10 • ⏱️ 41:01 • 14h ago
+👁️ 4K • 👍 200 • 💬 10 • ⏱️ 41:01 • 15h ago
 
 ---
 
@@ -278,17 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 131 • 💬 3 • ⏱️ 8:04 • 7h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=E57-UT_Vyow)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 136 • 💬 2 • ⏱️ 5:52 • 14h ago
+👁️ 2K • 👍 148 • 💬 3 • ⏱️ 8:04 • 7h ago
 
 ---
 
@@ -298,17 +298,17 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 72K • 👍 3K • 💬 279 • ⏱️ 9:35 • 1d ago
+👁️ 73K • 👍 3K • 💬 282 • ⏱️ 9:35 • 1d ago
 
 ---
 
-**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
+**[Why The Crypto Waterfall Stopped (And Why I&#39;m Holding) #shorts](https://www.youtube.com/watch?v=nfjAm4KP3lI)**
 
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+The market is bleeding, but the cycle isn't over. In this video, I explain the "Waterfall Effect" and the real reason Altseason stalled: ...
 
-📺 Crypto With James
+📺 Crypto Clarity with Blake
 
-👁️ 3K • 👍 223 • 💬 46 • ⏱️ 10:03 • 14h ago
+👁️ 484 • 👍 5 • 💬 1 • ⏱️ 0:56 • 1h ago
 
 ---
 
@@ -322,13 +322,13 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 ---
 
-**[BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Yo2EacUJ9OQ)**
+**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
 
-BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
 
-📺 Crypto World
+📺 Crypto With James
 
-👁️ 7K • 👍 333 • 💬 102 • ⏱️ 25:11 • 7h ago
+👁️ 3K • 👍 226 • 💬 43 • ⏱️ 10:03 • 15h ago
 
 ---
 

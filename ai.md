@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T05:56:06.973373+00:00'
+updated: '2025-12-16T06:39:13.340551+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- repositories
 - news
 - social
-- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 05:56 UTC  
+**Last Updated:** December 16, 2025 at 06:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Linus Torvalds is 'a huge believer' in using AI to maintain code - just don't call it a revolution](https://www.reddit.com/r/artificial/comments/1pntfs5/linus_torvalds_is_a_huge_believer_in_using_ai_to/)**
+
+Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
+
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 1h ago
+
+---
+
 **[If AI replaces workers, should it also pay taxes?](https://www.reddit.com/r/artificial/comments/1pn7tvx/if_ai_replaces_workers_should_it_also_pay_taxes/)**
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
 🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 16h ago
-
----
-
-**[Linus Torvalds is 'a huge believer' in using AI to maintain code - just don't call it a revolution](https://www.reddit.com/r/artificial/comments/1pntfs5/linus_torvalds_is_a_huge_believer_in_using_ai_to/)**
-
-Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
-
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 56m ago
 
 ---
 
@@ -69,27 +69,36 @@ RIP Copilot.
 
 ---
 
-**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pnf368/its_been_a_big_week_for_agentic_ai_here_are_10/)**
-
-Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI Foundation Google drops Deep Research + AlphaEvolve agent A collection of AI Agent Updates! 🧵 1. Stripe Launches Agentic Commerce Suite Single integration for businesses to sell via multiple AI agents. Handles product discovery, agentic checkout, payments, and fraud. Manage all agents from Stripe Dashboard. Works with existing commerce stack. AI-native commerce infrastructure now available. 2. OpenAI Co-Founds Agentic AI Foundation with Anthropic and Block Under Linux Foundation to support open, interoperable standards for agentic AI. Donating to establish standards enabling safe, reliable agents across tools and repositories. Industry leaders aligning on agent interoperability. 3. Google Opens Gemini Deep Research Agent to Developers Most advanced autonomous research capabilities now embeddable in applications for first time. Also open-sourcing DeepSearchQA benchmark for evaluating agents on complex search tasks. Google's agent infrastructure available to all developers. 4. Anthropic is Developing New Agent Mode for Claude Code-named "Yukon Gold" - tasks-based complex agent experience with toggle between classic chat and agent mode. Also testing pixel art avatar generation from uploaded photos. Claude may be getting a dedicated agent interface. 5. Google Cloud Unveils AlphaEvolve Coding Agent Gemini-powered agent for designing advanced algorithms. Uses LLMs to propose intelligent code modifications with feedback loop that evolves algorithms to be more efficient. Now in private preview. Haven’t tried, but seems promising. 6. Real Agent Usage Data: Harvard Analyzes Hundreds of Millions of Queries Perplexity study shows 55% personal use, 30% professional. Productivity/workflow dominates (36% of queries), followed by learning/research (21%). Users shift from simple to complex tasks over time. Real data on how people actually use agents. 7. Stitchbygoogle Launches Redesign Agent with Code Generation Screenshot apps, visually reimagine with Gemini Pro, then convert redesigns into working HTML. "Shipmas" week begins - new ship daily with big launch Wednesday. Screenshot → Redesign → Code → Deploy workflow now live. 8. Cursor Agents Can Now Debug Your Hardest Bugs Debug Mode instruments code, spins up server, captures logs, and streams runtime data to agent. Version 2.2 adds multi-agent judging (picks best solution) and Plan Mode improvements with diagrams. AI agents now debugging production code. 9. Code Drops Major Agent Experience Upgrade Agent sessions integrated into chat view. Isolated background agents via Git worktrees enable multiple agents without conflicts. Seamless delegation with automatic context transfer between local, background, and cloud agents. Multi-agent workflows now native in VS Code. 10. Microsoft Research Unveils Agent Lightning Decouples how agents work from training. Turns each agent step into reinforcement learning data. Developers can improve agent performance with almost zero code changes. RL for agents without code rewrites. That's a wrap on this week's Agentic news. Which update are you trying first? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
-
-11h ago
-
----
-
 **[Not all CEOs favor Trump's executive order to block state AI laws](https://www.reddit.com/r/artificial/comments/1pnbrtt/not_all_ceos_favor_trumps_executive_order_to/)**
 
 Also: All the news and watercooler chat from Fortune.
 
-🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 13h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 14h ago
 
 ---
 
-**[5.2 was built to impress investors. In this video, I explain how I came to that conclusion](https://www.reddit.com/r/artificial/comments/1pnst04/52_was_built_to_impress_investors_in_this_video_i/)**
+**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pnf368/its_been_a_big_week_for_agentic_ai_here_are_10/)**
 
-Over the past few months, I’ve been watching the pattern behind OpenAI’s releases. 5.2 dropping right before the holidays makes sense. End-of-year metrics matter, and strong Q4 performance boosts investor confidence. OpenAI now has a three-year licensing deal with Disney. Disney is one of the largest entertainment corporations in the world, and partnerships at that scale require stability, predictability, and performance metrics that appeal to investors and enterprise clients. 5.2 behaves like a model built to impress those groups first. Consumers were never the target audience for this release.
+Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI Foundation Google drops Deep Research + AlphaEvolve agent A collection of AI Agent Updates! 🧵 1. Stripe Launches Agentic Commerce Suite Single integration for businesses to sell via multiple AI agents. Handles product discovery, agentic checkout, payments, and fraud. Manage all agents from Stripe Dashboard. Works with existing commerce stack. AI-native commerce infrastructure now available. 2. OpenAI Co-Founds Agentic AI Foundation with Anthropic and Block Under Linux Foundation to support open, interoperable standards for agentic AI. Donating to establish standards enabling safe, reliable agents across tools and repositories. Industry leaders aligning on agent interoperability. 3. Google Opens Gemini Deep Research Agent to Developers Most advanced autonomous research capabilities now embeddable in applications for first time. Also open-sourcing DeepSearchQA benchmark for evaluating agents on complex search tasks. Google's agent infrastructure available to all developers. 4. Anthropic is Developing New Agent Mode for Claude Code-named "Yukon Gold" - tasks-based complex agent experience with toggle between classic chat and agent mode. Also testing pixel art avatar generation from uploaded photos. Claude may be getting a dedicated agent interface. 5. Google Cloud Unveils AlphaEvolve Coding Agent Gemini-powered agent for designing advanced algorithms. Uses LLMs to propose intelligent code modifications with feedback loop that evolves algorithms to be more efficient. Now in private preview. Haven’t tried, but seems promising. 6. Real Agent Usage Data: Harvard Analyzes Hundreds of Millions of Queries Perplexity study shows 55% personal use, 30% professional. Productivity/workflow dominates (36% of queries), followed by learning/research (21%). Users shift from simple to complex tasks over time. Real data on how people actually use agents. 7. Stitchbygoogle Launches Redesign Agent with Code Generation Screenshot apps, visually reimagine with Gemini Pro, then convert redesigns into working HTML. "Shipmas" week begins - new ship daily with big launch Wednesday. Screenshot → Redesign → Code → Deploy workflow now live. 8. Cursor Agents Can Now Debug Your Hardest Bugs Debug Mode instruments code, spins up server, captures logs, and streams runtime data to agent. Version 2.2 adds multi-agent judging (picks best solution) and Plan Mode improvements with diagrams. AI agents now debugging production code. 9. Code Drops Major Agent Experience Upgrade Agent sessions integrated into chat view. Isolated background agents via Git worktrees enable multiple agents without conflicts. Seamless delegation with automatic context transfer between local, background, and cloud agents. Multi-agent workflows now native in VS Code. 10. Microsoft Research Unveils Agent Lightning Decouples how agents work from training. Turns each agent step into reinforcement learning data. Developers can improve agent performance with almost zero code changes. RL for agents without code rewrites. That's a wrap on this week's Agentic news. Which update are you trying first? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-1h ago
+12h ago
+
+---
+
+**[How Claude & ChatGPT's Memory System Works](https://www.reddit.com/r/artificial/comments/1pnv4u8/how_claude_chatgpts_memory_system_works/)**
+
+When I reverse-engineered ChatGPT’s memory system, I found it uses pre-computed summaries injected into every prompt. But Claude’s approach is different. Through extensive experimentation, I discovered Claude uses on-demand tools and selective retrieval, a fundamentally different architecture. But how does this actually work? And how does it compare to ChatGPT’s approach?
+This is the second post in a series where I reverse-engineer the memory systems of popular AI assistants. The first post focused on ChatGPT’s memory system.
+
+🔗 [manthanguptaa.in](https://manthanguptaa.in/posts/claude_memory) • 3m ago
+
+---
+
+**[One-Minute Daily AI News 12/15/2025](https://www.reddit.com/r/artificial/comments/1pnue0h/oneminute_daily_ai_news_12152025/)**
+
+US government launches ‘Tech Force’ to hire AI talent.[1] Deep-learning model predicts how fruit flies form, cell by cell.[2] Nvidia bulks up open source offerings with an acquisition and new open AI models.[3] Podcast industry under siege as AI bots flood airways.[4] Sources: [1] https://www.cnn.com/2025/12/15/tech/government-tech-force-ai [2] https://news.mit.edu/2025/deep-learning-model-predicts-how-fruit-flies-form-1215 [3] https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/ [4] https://www.yahoo.com/news/articles/podcast-industry-under-siege-ai-051031178.html
+
+46m ago
 
 ---
 
@@ -97,7 +106,7 @@ Over the past few months, I’ve been watching the pattern behind OpenAI’s rel
 
 The Understanding AI guide to open-weight models.
 
-🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 11h ago
+🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 12h ago
 
 ---
 
@@ -109,21 +118,13 @@ The Understanding AI guide to open-weight models.
 
 ---
 
-**[Simulated Company Shows Most AI Agents Flunk the Job](https://www.reddit.com/r/artificial/comments/1pmstyr/simulated_company_shows_most_ai_agents_flunk_the/)**
-
-TheAgentCompany and its employees are fake, but the simulation environment created by CMU researchers to benchmark AI agents and test their abilities on real-world tasks shows that most AIs would make terrible office workers.
-
-🔗 [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/news/2025/agent-company) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Introducing GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)**
+**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-OpenAI • 4d ago
+The New York Times • 9h ago
 
 ---
 
@@ -131,7 +132,7 @@ OpenAI • 4d ago
 
 A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -139,35 +140,21 @@ CNBC • 13h ago
 
 The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
 
-CNN • 13h ago
+CNN • 14h ago
 
 ---
 
 **[The White House’s unabashed embrace of AI](https://www.politico.com/news/2025/12/15/the-white-houses-unabashed-embrace-of-ai-00690885)**
 
-Politico • 8h ago
+Politico • 9h ago
 
 ---
 
-**[Google AI summaries are ruining the livelihoods of recipe writers: ‘It’s an extinction event’](https://www.theguardian.com/technology/2025/dec/15/google-ai-recipes-food-bloggers)**
+**[Boost for artists in AI copyright battle as only 3% back UK active opt-out plan](https://www.theguardian.com/technology/2025/dec/16/boost-for-artists-in-ai-copyright-battle-as-only-3-per-cent-back-uk-active-opt-out-plan)**
 
-AI Mode is mangling recipes by merging instructions from multiple creators – and causing them huge dips in ad traffic
+Liz Kendall faces pressure from campaigners as she tells parliament there is no clear consensus on issue
 
-The Guardian • 7h ago
-
----
-
-**[China AI chip firm Biren to launch Hong Kong IPO in coming weeks, sources say](https://www.reuters.com/world/china/china-ai-chip-firm-biren-launch-hong-kong-ipo-coming-weeks-sources-say-2025-12-16/)**
-
-Reuters • 2h ago
-
----
-
-**[How are Greater Cincinnati universities approaching AI? Policies at UC, Miami, NKU, more](https://www.cincinnati.com/story/news/education/2025/12/16/how-are-greater-cincinnati-universities-embracing-regulating-ai/87065914007/)**
-
-How are Greater Cincinnati's colleges and universities responding to the AI craze? Here's a look at which policies and guidelines are in place.
-
-Cincinnati Enquirer • 46m ago
+The Guardian • 1h ago
 
 ---
 
@@ -175,19 +162,35 @@ Cincinnati Enquirer • 46m ago
 
 This week’s Digiday Podcast delves into the copyright concerns and potential trademark issues surrounding brands’ use of generative AI tools.
 
-Digiday • 52m ago
+Digiday • 1h ago
 
 ---
 
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqcGtCMhViZO6qEOmkb7DwUQbQ_QbPhbL--VLbNlKCs6TY00rfssxAZ9&gaa_ts=6940f50c&gaa_sig=7WLY9AApXWMkvMxBT4EpVt0DFYPFLBuoD21C-MOAIkUkGQHOn6mNSt_1tpN-fc7q5xXUyyq4OD8asEGZz2fRhA%3D%3D)**
+**[yoona.ai case study](https://cloud.google.com/customers/yoona)**
 
-The Wall Street Journal • 10h ago
+yoona.ai migrated to Google Cloud to power its AI platform helping designers predict trends and reduce their environmental impact.
+
+Google Cloud • 25m ago
 
 ---
 
-**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqd00kNF5bVuPf5MXOsfHrvyPrncKcqNwQ1aPVcoCccbv_VezRieCogM&gaa_ts=694101f7&gaa_sig=a64UYnZAi5irJsnduG5rUxjpBLG6ucF2h06IzRn6DpVxTE2neyR_r8TH1z1v7K4fZhyjy-FEY-EiECpIM3GdXA%3D%3D)**
 
-The New York Times • 8h ago
+The Wall Street Journal • 11h ago
+
+---
+
+**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
+
+Four ways to think about this year's reckoning
+
+MIT Technology Review • 20h ago
+
+---
+
+**[‘We have a right to do this’: DeSantis wants Florida to move ahead with AI policies](https://www.politico.com/news/2025/12/15/we-have-a-right-to-do-this-desantis-wants-florida-to-move-ahead-with-ai-policies-00690680)**
+
+Politico • 13h ago
 
 ---
 
@@ -199,13 +202,13 @@ The New York Times • 8h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 537 • 💬 898 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 538 • 💬 905 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 454 • 💬 454 • 2d ago
+⬆️ 455 • 💬 454 • 2d ago
 
 ---
 
@@ -213,7 +216,13 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 362 • 💬 361 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 363 • 💬 362 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+
+---
+
+**[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
+
+⬆️ 305 • 💬 100 • 3h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -221,7 +230,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 275 • 💬 291 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 276 • 💬 291 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -233,15 +242,9 @@ Some (well-known) consequences of AI automating work
 
 ---
 
-**[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
-
-⬆️ 244 • 💬 76 • 2h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
-
----
-
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 168 • 💬 74 • 7h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 174 • 💬 79 • 7h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -249,7 +252,7 @@ Some (well-known) consequences of AI automating work
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 157 • 💬 217 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 158 • 💬 217 • 1d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -273,13 +276,23 @@ Brian Merchant has been collecting personal stories for his series AI Killed My 
 
 ## YouTube Videos: "ai"
 
+**[900 Days Left – AI Is Coming for Capitalism](https://www.youtube.com/watch?v=A8mj1Ngz2JI)**
+
+Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bilyeu tackles one of the most urgent questions of ...
+
+📺 Tom Bilyeu
+
+👁️ 49K • 👍 2K • 💬 604 • ⏱️ 23:28 • 17h ago
+
+---
+
 **[Artificial Intelligence in 2025 | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=KpOcUrPdx-4)**
 
 From November, Anderson Cooper's report on why Anthropic's CEO spends so much time warning of AI's potential dangers.
 
 📺 60 Minutes
 
-👁️ 497K • 👍 8K • 💬 1K • ⏱️ 1:21:07 • 2d ago
+👁️ 517K • 👍 8K • 💬 1K • ⏱️ 1:21:07 • 2d ago
 
 ---
 
@@ -289,7 +302,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 40K • 👍 1K • 💬 157 • ⏱️ 12:07 • 1d ago
+👁️ 40K • 👍 2K • 💬 162 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -299,17 +312,15 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 96K • 👍 4K • 💬 535 • ⏱️ 20:44 • 1d ago
+👁️ 104K • 👍 4K • 💬 568 • ⏱️ 20:44 • 1d ago
 
 ---
 
-**[Why YouTube Won&#39;t Stop Pushing AI Nonsense...](https://www.youtube.com/watch?v=We7FzVfIIcs)**
+**[Josh Johnson shares why he thinks that ultimately, AI can&#39;t win when it comes to comedy #AfterTheCut](https://www.youtube.com/watch?v=whpGVeJidS8)**
 
-Hello guys and gals, it's me Mutahar again! This time we take a look at why sites like YouTube are taking AI so seriously.
+📺 The Daily Show
 
-📺 SomeOrdinaryGamers
-
-👁️ 84K • 👍 5K • 💬 936 • ⏱️ 19:00 • 2d ago
+👁️ 195K • 👍 15K • 💬 381 • ⏱️ 2:38 • 15h ago
 
 ---
 
@@ -323,11 +334,13 @@ Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
 
 ---
 
-**[Josh Johnson shares why he thinks that ultimately, AI can&#39;t win when it comes to comedy #AfterTheCut](https://www.youtube.com/watch?v=whpGVeJidS8)**
+**[Why YouTube Won&#39;t Stop Pushing AI Nonsense...](https://www.youtube.com/watch?v=We7FzVfIIcs)**
 
-📺 The Daily Show
+Hello guys and gals, it's me Mutahar again! This time we take a look at why sites like YouTube are taking AI so seriously.
 
-👁️ 169K • 👍 14K • 💬 351 • ⏱️ 2:38 • 14h ago
+📺 SomeOrdinaryGamers
+
+👁️ 85K • 👍 5K • 💬 937 • ⏱️ 19:00 • 2d ago
 
 ---
 
@@ -335,17 +348,7 @@ Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
 
 📺 AI . Robot
 
-👁️ 155K • 👍 2K • 💬 16 • ⏱️ 0:21 • 1d ago
-
----
-
-**[The AI Bubble is Worse Than You Think](https://www.youtube.com/watch?v=oT896h76s-Y)**
-
-Our Discord Community (FREE): https://discord.com/invite/Efbjh7Qj4V Review our sources ▻ https://pastebin.com/10agciWR ...
-
-📺 2 and 20
-
-👁️ 188K • 👍 7K • 💬 840 • ⏱️ 12:40 • 2d ago
+👁️ 172K • 👍 2K • 💬 17 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -355,17 +358,17 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 6K • 👍 109 • 💬 10 • ⏱️ 36:04 • 1d ago
+👁️ 6K • 👍 111 • 💬 10 • ⏱️ 36:04 • 1d ago
 
 ---
 
-**[Tiny punjabi women cutting Ginat fruits|hyper realistic ai art #shorts #ai 🔪🍇🍓🥭](https://www.youtube.com/watch?v=jr3AXqdDrvY)**
+**[China Rejects US-Made AI Chips, The White House Admits That Export Strategy May Be Failing](https://www.youtube.com/watch?v=WRwqRoIfAAU)**
 
-Tiny punjabi women cutting Ginat fruits|hyper realistic ai art #shorts #ai Step into a magical miniature world where tiny ...
+The White House has raised fresh concerns after admitting that China is turning away U.S.-made AI chips, including Nvidia's H200 ...
 
-📺 Ai _fun _drama 
+📺 Mint
 
-👁️ 407 • 👍 2 • ⏱️ 0:26 • 2h ago
+👁️ 35K • 👍 489 • 💬 204 • ⏱️ 4:14 • 20h ago
 
 ---
 
@@ -381,7 +384,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 286,283 • ❤️ 2,766 • 7d ago
+⬇️ 286,283 • ❤️ 2,767 • 7d ago
 
 ---
 
@@ -393,7 +396,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 84,213 • ❤️ 449 • 6d ago
+⬇️ 84,213 • ❤️ 450 • 6d ago
 
 ---
 
@@ -417,7 +420,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 21,397 • ❤️ 362 • 1d ago
+⬇️ 21,397 • ❤️ 364 • 1d ago
 
 ---
 
@@ -441,7 +444,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 41,723 • ❤️ 306 • 6d ago
+⬇️ 41,723 • ❤️ 307 • 6d ago
 
 ---
 
@@ -453,7 +456,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 6,481 • ❤️ 228 • 4d ago
+⬇️ 6,481 • ❤️ 229 • 4d ago
 
 ---
 
@@ -477,7 +480,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 208 • 4d ago
+⬇️ 0 • ❤️ 208 • 5d ago
 
 ---
 
@@ -489,7 +492,7 @@ AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent 
 
 `image-text-to-text` `934,400`
 
-⬇️ 7,541 • ❤️ 177 • 6d ago
+⬇️ 7,541 • ❤️ 178 • 6d ago
 
 ---
 
@@ -651,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.6k • 🔱 388 • 44m ago
+⭐ 3.6k • 🔱 388 • 1h ago
 
 ---
 
@@ -681,7 +684,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 10h ago
+⭐ 1.1k • 🔱 137 • 11h ago
 
 ---
 
@@ -711,7 +714,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 865 • 🔱 49 • 16h ago
+⭐ 865 • 🔱 49 • 17h ago
 
 ---
 
@@ -731,7 +734,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 724 • 🔱 112 • 2m ago
+⭐ 724 • 🔱 112 • 45m ago
 
 ---
 
