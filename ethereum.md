@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T22:45:41.967669+00:00'
+updated: '2025-12-16T22:56:17.318063+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 22:45 UTC  
+**Last Updated:** December 16, 2025 at 22:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -10.9%  
-**30d:** -2.4%  
-**90d:** -35.5%  
-**1y:** -24.0%  
+**24h:** -0.3%  
+**7d:** -11.0%  
+**30d:** -2.5%  
+**90d:** -35.6%  
+**1y:** -24.1%  
 
 ---
 
@@ -70,7 +70,7 @@ No max supply
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 8h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 9h ago
 
 ---
 
@@ -92,7 +92,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -226,7 +226,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 47 • ⏱️ 7:49 • 10h ago
+👁️ 15K • 👍 2K • 💬 47 • ⏱️ 7:49 • 11h ago
 
 ---
 
@@ -256,7 +256,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 237 • ⏱️ 12:16 • 22h ago
+👁️ 59K • 👍 3K • 💬 237 • ⏱️ 12:16 • 23h ago
 
 ---
 
@@ -286,7 +286,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 7K • 👍 552 • 💬 74 • ⏱️ 18:30 • 18h ago
+👁️ 7K • 👍 552 • 💬 74 • ⏱️ 18:30 • 19h ago
 
 ---
 

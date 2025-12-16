@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T22:45:41.961676+00:00'
+updated: '2025-12-16T22:56:17.312012+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 22:45 UTC  
+**Last Updated:** December 16, 2025 at 22:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +1.6%  
 **7d:** -4.4%  
-**30d:** -4.7%  
+**30d:** -4.8%  
 **90d:** -24.8%  
 **1y:** -17.3%  
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 **[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -189,7 +189,7 @@ dlnews.com • 12h ago
 
 **[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -349,7 +349,7 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 5K • 👍 320 • 💬 23 • ⏱️ 57:23 • 7h ago
+👁️ 5K • 👍 320 • 💬 23 • ⏱️ 57:23 • 8h ago
 
 ---
 
@@ -359,7 +359,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 1K • 👍 131 • 💬 49 • ⏱️ 8:15 • 3h ago
+👁️ 1K • 👍 131 • 💬 49 • ⏱️ 8:15 • 4h ago
 
 ---
 
@@ -369,7 +369,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 47 • ⏱️ 7:49 • 10h ago
+👁️ 15K • 👍 2K • 💬 47 • ⏱️ 7:49 • 11h ago
 
 ---
 
@@ -379,7 +379,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 237 • ⏱️ 12:16 • 22h ago
+👁️ 59K • 👍 3K • 💬 237 • ⏱️ 12:16 • 23h ago
 
 ---
 
