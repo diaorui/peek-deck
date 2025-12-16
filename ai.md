@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T18:55:01.165725+00:00'
+updated: '2025-12-16T19:19:59.716395+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 18:55 UTC  
+**Last Updated:** December 16, 2025 at 19:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 1h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 13h ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 14h ago
 
 ---
 
@@ -81,7 +81,15 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
-3h ago
+4h ago
+
+---
+
+**[The Agency Paradox: Why safety-tuning creates a "Corridor" that narrows human thought.](https://www.reddit.com/r/artificial/comments/1po9vm8/the_agency_paradox_why_safetytuning_creates_a/)**
+
+I’ve been trying to put a name to a specific frustration I feel when working deeply with LLMs. It’s not the hard refusals, it’s the moment mid-conversation where the tone flattens, the language becomes careful, and the possibility space narrows. I’ve started calling this The Corridor. I wrote a full analysis on this, but here is the core point: We aren't just seeing censorship; we are seeing Trajectory Policing. Because LLMs are prediction engines, they don't just complete your sentence; they complete the future of the conversation. When the model detects ambiguity or intensity , it is mathematically incentivised to collapse toward the safest, most banal outcome. I call this "Modal Marginalisation"- where the system treats deep or symbolic reasoning as "instability" and steers you back to a normative, safe centre. I've mapped out the mechanics of this (Prediction, Priors, and Probability) in this longer essay.
+
+🔗 [medium.com](https://medium.com/@miravale.interface/the-agency-paradox-e07684fc316d) • 39m ago
 
 ---
 
@@ -93,25 +101,19 @@ The ZLUDA open-source project that has been through several incarnations but ult
 
 ---
 
+**[Red Hat acquires another AI company](https://www.reddit.com/r/artificial/comments/1po5dd8/red_hat_acquires_another_ai_company/)**
+
+Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to bolster the open-source AI ecosystem
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 3h ago
+
+---
+
 **[If AI replaces workers, should it also pay taxes?](https://www.reddit.com/r/artificial/comments/1pn7tvx/if_ai_replaces_workers_should_it_also_pay_taxes/)**
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
 🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 1d ago
-
----
-
-**[It's been a big week for AI ; Here are 10 massive changes you might've missed:](https://www.reddit.com/r/artificial/comments/1po98hk/its_been_a_big_week_for_ai_here_are_10_massive/)**
-
-First LLM trained in space Gemini now built into Apple iPhones and iPads Disney invests $1B into AI A collection of AI Updates! 🧵 1. OpenAI Rolls Out GPT-5.2 to Everyone GPT-5.2 Instant, Thinking, and Pro are live for Free/Plus/Pro/Business/Enterprise. Also in API and Codex. First model hitting human expert level on 44-occupation knowledge work eval including spreadsheets and presentations. State-of-the-art long-context reasoning. 2. Google Rolls Out Built-In Gemini AI on Apple Devices Gemini AI experience now available on iPhone and iPad. Puts Google's AI stack directly inside Apple's widely popular technology. Major new channel of reach for Gemini. 3. Disney Invests $1B in OpenAI - Characters are Coming to Sora Users can generate videos and images with Disney characters including Mickey Mouse, Ariel, and Cinderella across Sora and ChatGPT Image. Covers Disney, Marvel, Pixar, and Star Wars IPs. Huge entertainment IPs are now available for AI generation. 4. AI Trained in Space for the First Time Starcloud-1 used Nvidia H100 to train nano-GPT model on Shakespeare's complete works and ran inference successfully. Also ran inference on Gemma model. Goal: move computing off Earth to leverage abundant solar energy. 5. xAI Launches World's First Nationwide AI Tutor Program Partnership with El Salvador brings personalized Grok tutoring to 1M+ public-school students across 5,000+ schools over next two years. Empowers thousands of teachers as collaborative partners. Will other LLMs try partnerships like this? 6. Microsoft AI Accelerates Cancer Discovery GigaTIME simulates spatial proteomics from pathology slides, enabling population-scale tumor microenvironment analysis across dozens of cancer types. Partnership with Providence and UW. Published in Cell today. AI revealing links between mutations, immunity, and outcomes. 7. Google Labs Launches Disco - Remix Open Tabs Into Custom Apps GenTabs uses Gemini 3 to understand complex tasks through open tabs and chat history, then creates interactive web apps. Describe the tool you need and refine with natural language. Links back to original sources. Aims to turn browser chaos into functional apps. 8. Google Releases Updated Gemini 2.5 Flash Native Audio Now available via Live API with sharper function calling, robust instruction following, and smoother conversations. Also launching TTS updates with emotional style versatility, context-aware pacing, and improved multi-speaker capabilities. Major voice and audio improvements. 9. Grok Voice Mode Gets Major Upgrades Point camera at anything and ask "What am I looking at?" for instant analysis. Scans notes, places, paintings, documents, translates languages. Real-time web search. Talk to Grok like a normal person in your language. 10. OpenAI Realtime API Gets Major Audio Improvements 89% fewer hallucinations in transcription, 35% fewer word errors in TTS, 22% better instruction following, 13% better function calling. Stronger in Chinese, Japanese, Indonesian, Hindi, Bengali, Italian. Audio reliability significantly upgraded. That's a wrap on this week's AI News. Which update are you trying first? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
-
-38m ago
-
----
-
-**[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 1h ago
 
 ---
 
@@ -123,19 +125,19 @@ First LLM trained in space Gemini now built into Apple iPhones and iPads Disney 
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-NPR • 8h ago
+NPR • 9h ago
 
 ---
 
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
 **[Senators Investigate Role of A.I. Data Centers in Rising Electricity Costs](https://www.nytimes.com/2025/12/16/business/energy-environment/senate-democrats-electricity-prices-data-centers.html)**
 
-The New York Times • 8h ago
+The New York Times • 1h ago
 
 ---
 
@@ -147,47 +149,43 @@ The Verge • 5h ago
 
 ---
 
-**[AI Mining Patient Messages for Cancer Research](https://www.medscape.com/viewarticle/can-ai-use-patient-messages-identify-new-cancer-care-2025a1000wak)**
+**[Goldman Revamps Tech Banking Group as AI Infrastructure Booms](https://www.bloomberg.com/news/articles/2025-12-16/goldman-revamps-tech-banking-group-as-ai-infrastructure-booms)**
 
-Medscape • 53m ago
-
----
-
-**[Here's an unusual AI play for 2026: glasses](https://www.cnbc.com/2025/12/16/heres-an-unusual-ai-play-for-2026-glasses-.html)**
-
-Eyewear stock Warby Parker has room to run and offers exposure to the AI trade, according to Piper Sandler. The firm will roll out its AI glasses next year.
-
-CNBC • 43m ago
+Bloomberg.com • 15m ago
 
 ---
 
-**[CNBC Daily Open: Debt worries continue to weigh on AI-related stocks](https://www.cnbc.com/2025/12/16/cnbc-daily-open-debt-worries-continue-to-weigh-on-ai-related-stocks.html)**
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqeQ_BgKyXYoL85c-X4WdiVVW6TJTj-W4OEM3i2UOI9vTwGgfchKOB5W&gaa_ts=6941b446&gaa_sig=TZSYZdIcCiy-LWaa1y7QsZBqGTLUbtwDANRvV67G9RYm2vM_SxllKBcInw0bsxhYWYhfJT-FuYQElta6Mr72_A%3D%3D)**
 
-The ready availability of clients means companies that provide the compute just need to make sure their finances are in order.
-
-CNBC • 17h ago
+The Wall Street Journal • 1d ago
 
 ---
 
-**[Global selloff in stocks signals AI bubble may be ending in the healthiest way possible](https://fortune.com/2025/12/16/stocks-global-selloff-ai-bubble-ends/)**
+**[AI models are perfecting their hacking skills](https://www.axios.com/2025/12/16/ai-models-hacking-stanford-openai-warnings)**
 
-Investors are selling off individual stocks of companies that seem to be overextended, but they are broadly bullish on stocks as a whole.
-
-Fortune • 7h ago
+Axios • 48m ago
 
 ---
 
-**[Oil falls to 4-year low, CoreWeave slides on AI bubble concerns](https://finance.yahoo.com/video/oil-falls-4-low-coreweave-180419172.html)**
+**[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
 
-Yahoo Finance's John Hyland tracks today's top moving stocks and biggest market stories in this Market Minute, including the market (^DJI, ^IXIC, ^GSPC) reaction to the November jobs report, crude oil (CL=F, BZ=F) prices falling to a four-year low, Meta Platforms' (META) plans for Instagram TV on Amazon Fire (AMZN) products, and CoreWeave (CRWV) stock sliding over AI bubble concerns. Stay up to date on the latest market action, minute-by-minute, with&nbsp;Yahoo Finance's Market Minute.
-
-Yahoo Finance • 50m ago
+The Washington Post • 1h ago
 
 ---
 
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqfzu7A_CkMfgC38BX3XivXHKIzyPYOMjCmDTf1LlpW1tcgzsklzqYRZ&gaa_ts=6941a77f&gaa_sig=j_3MD6aUdeoefGTATW8eaR-LnTlDpNeluwnJhHixzYdyb3r8LcaS3jpIiVF_Jkb8zDKHsFjg8nrb3RFnnsp_hw%3D%3D)**
+**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
 
-The Wall Street Journal • 23h ago
+Four ways to think about this year's reckoning
+
+MIT Technology Review • 1d ago
+
+---
+
+**[Why 2026 could be the year of anti-AI marketing](https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap)**
+
+It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
+
+CNN • 7h ago
 
 ---
 
@@ -197,7 +195,7 @@ The Wall Street Journal • 23h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 734 • 💬 227 • 15h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 742 • 💬 232 • 16h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -205,7 +203,7 @@ The Wall Street Journal • 23h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 571 • 💬 942 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 573 • 💬 945 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -213,13 +211,13 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 388 • 💬 375 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 392 • 💬 375 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 358 • 💬 293 • 20h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 360 • 💬 294 • 20h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -227,7 +225,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 297 • 💬 304 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 297 • 💬 305 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -235,7 +233,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 255 • 💬 118 • 2d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 256 • 💬 118 • 2d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -243,7 +241,7 @@ Some (well-known) consequences of AI automating work
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 158 • 💬 220 • 2d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 158 • 💬 221 • 2d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -259,7 +257,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 98 • 💬 41 • 9h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 113 • 💬 46 • 9h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -275,43 +273,13 @@ Brian Merchant has been collecting personal stories for his series AI Killed My 
 
 ## YouTube Videos: "ai"
 
-**[How I Turn One Image into Multiple Camera Angles with AI](https://www.youtube.com/watch?v=6rBtlnfUBLk)**
-
-Create with OpenArt https://www.openart.ai/home/?ref=isa-18 In this video, I show you how to turn a single image into a full set ...
-
-📺 Isa does AI
-
-👁️ 4K • 💬 4 • ⏱️ 12:03 • 4h ago
-
----
-
-**[The Most Powerful AI Shift Is Happening Without Anyone Noticing](https://www.youtube.com/watch?v=EjQpzEeiL3k)**
-
-Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPTERS ⤵ 00:00 – Keep It Curious 04:03 – Disney ...
-
-📺 Dylan Curious
-
-👁️ 8K • 👍 467 • 💬 90 • ⏱️ 30:05 • 1d ago
-
----
-
-**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
-
-OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
-
-📺 AI Revolution
-
-👁️ 43K • 👍 2K • 💬 169 • ⏱️ 12:07 • 1d ago
-
----
-
 **[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
 
 Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
 
 📺 AI Revolution
 
-👁️ 29K • 👍 671 • 💬 104 • ⏱️ 11:23 • 18h ago
+👁️ 34K • 👍 696 • 💬 127 • ⏱️ 11:23 • 19h ago
 
 ---
 
@@ -321,7 +289,27 @@ Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bily
 
 📺 Tom Bilyeu
 
-👁️ 57K • 👍 2K • 💬 682 • ⏱️ 23:28 • 1d ago
+👁️ 59K • 👍 2K • 💬 682 • ⏱️ 23:28 • 1d ago
+
+---
+
+**[The Most Powerful AI Shift Is Happening Without Anyone Noticing](https://www.youtube.com/watch?v=EjQpzEeiL3k)**
+
+Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPTERS ⤵ 00:00 – Keep It Curious 04:03 – Disney ...
+
+📺 Dylan Curious
+
+👁️ 8K • 👍 476 • 💬 87 • ⏱️ 30:05 • 1d ago
+
+---
+
+**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
+
+OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
+
+📺 AI Revolution
+
+👁️ 43K • 👍 2K • 💬 170 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -331,47 +319,55 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 150K • 👍 5K • 💬 850 • ⏱️ 20:44 • 1d ago
+👁️ 163K • 👍 5K • 💬 902 • ⏱️ 20:44 • 1d ago
 
 ---
 
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=4_WX7Vr4Hcg)**
+**[I Quit an AI Startup After 6 Months - Here&#39;s What I learned](https://www.youtube.com/watch?v=oOvl_htqhy8)**
 
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+The AI bubble is showing signs of popping and the tech industry is waking up from a long night of partying. We were told to “do ...
 
-📺 Impossible AIs
+📺 Brian Jenney
 
-👁️ 55K • 👍 308 • 💬 15 • ⏱️ 8:43 • 2d ago
-
----
-
-**[Expect AI stocks like Nvidia to rerate higher, says Fundstrat&#39;s Tom Lee](https://www.youtube.com/watch?v=GdIy6O4b_zw)**
-
-Tom Lee. Fundstrat Global Advisors head of research and Fundstrat Capital CIO, joins 'Squawk Box' to discuss the latest market ...
-
-📺 CNBC Television
-
-👁️ 142K • 👍 1K • 💬 401 • ⏱️ 5:24 • 1d ago
+👁️ 50K • 👍 3K • 💬 637 • ⏱️ 15:40 • 19h ago
 
 ---
 
-**[🤖Dubai’s Newest AI Salon Pod Will Shock You 😲AI Haircut Machine 7.1 ✂️ Dubai’s Future Is Here!](https://www.youtube.com/watch?v=KOQ6aBWk1kE)**
+**[How I Turn One Image into Multiple Camera Angles with AI](https://www.youtube.com/watch?v=6rBtlnfUBLk)**
 
-In Dubai, this AI Salon Pod delivers an instant hair transformation. Precision scanning, robotic styling and next-gen AI haircut ...
+Create with OpenArt https://www.openart.ai/home/?ref=isa-18 In this video, I show you how to turn a single image into a full set ...
 
-📺 AI Robot Lab
+📺 Isa does AI
 
-👁️ 107K • 👍 2K • 💬 24 • ⏱️ 0:17 • 2d ago
+👁️ 5K • 💬 5 • ⏱️ 12:03 • 5h ago
 
 ---
 
-**[AI Pranks Are Trash](https://www.youtube.com/watch?v=8Z9Oe-8rfEA)**
+**[Lady Soldier Rescues Grandma and Builds Golden Carousel for Her 😭 #ai #save #army](https://www.youtube.com/watch?v=Rg0j9jUTTPM)**
 
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
 
-📺 penguinz0
+📺 Anime world 
 
-👁️ 798K • 👍 41K • 💬 4K • ⏱️ 11:22 • 1d ago
+👁️ 208K • 👍 1K • 💬 1 • ⏱️ 0:22 • 2d ago
+
+---
+
+**[I made a game to beat AI.](https://www.youtube.com/watch?v=BD0qL7TF-ro)**
+
+Thank you to Holzkern for being a sponsor on this channel! Click my link http://www.holzkern.com/TheStellarJay and use my code ...
+
+📺 TheStellarJay
+
+👁️ 132K • 👍 13K • 💬 625 • ⏱️ 11:31 • 1d ago
+
+---
+
+**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
+
+📺 AI . Robot
+
+👁️ 348K • 👍 3K • 💬 30 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -411,7 +407,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 885 • 4d ago
+⬇️ 158,614 • ❤️ 886 • 4d ago
 
 ---
 
@@ -423,7 +419,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 51,591 • ❤️ 323 • 7d ago
+⬇️ 51,591 • ❤️ 324 • 7d ago
 
 ---
 
@@ -435,7 +431,19 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 102,395 • ❤️ 459 • 7d ago
+⬇️ 102,395 • ❤️ 460 • 7d ago
+
+---
+
+**[NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16)**
+
+*NVIDIA*
+
+NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mamba architecture, excelling at reasoning tasks by generating explicit reasoning traces. It supports multiple languages and is suitable for commercial use, offering high accuracy in complex problem-solving.
+
+`text-generation` `31.6B`
+
+⬇️ 10,487 • ❤️ 236 • 19h ago
 
 ---
 
@@ -451,18 +459,6 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 ---
 
-**[NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16)**
-
-*NVIDIA*
-
-NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mamba architecture, excelling at reasoning tasks by generating explicit reasoning traces. It supports multiple languages and is suitable for commercial use, offering high accuracy in complex problem-solving.
-
-`text-generation` `31.6B`
-
-⬇️ 10,487 • ❤️ 234 • 19h ago
-
----
-
 **[Devstral-2-123B-Instruct-2512](https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512)**
 
 *Mistral AI_*
@@ -471,7 +467,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 6,543 • ❤️ 224 • 2d ago
+⬇️ 6,543 • ❤️ 225 • 2d ago
 
 ---
 
@@ -654,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.9k • 🔱 418 • 4h ago
+⭐ 3.9k • 🔱 418 • 5h ago
 
 ---
 
@@ -684,7 +680,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 1h ago
+⭐ 1.1k • 🔱 137 • 2h ago
 
 ---
 

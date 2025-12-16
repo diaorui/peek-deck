@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T18:55:01.174277+00:00'
+updated: '2025-12-16T19:19:59.724933+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 18:55 UTC  
+**Last Updated:** December 16, 2025 at 19:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** -4.3%  
-**30d:** -4.6%  
-**90d:** -24.7%  
-**1y:** -17.2%  
+**24h:** +1.4%  
+**7d:** -5.1%  
+**30d:** -5.4%  
+**90d:** -25.3%  
+**1y:** -17.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1743.37B
+**Market Cap:** $1745.44B
 Rank #1
 
-**Circulating Supply:** 19,962,946 BTC
+**Circulating Supply:** 19,962,965 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-30.7%
 
 **All-Time Low:** $67.81
-+128645.0%
++128701.1%
 
 ---
 
@@ -77,21 +77,41 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
-
-5h ago
-
----
-
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
 7h ago
 
 ---
 
+**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
+
+6h ago
+
+---
+
+**[Everyday someone posts it and the last dip is getting lower 😂😭😭](https://www.reddit.com/r/Bitcoin/comments/1po94vv/everyday_someone_posts_it_and_the_last_dip_is/)**
+
+1h ago
+
+---
+
 **[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
 
 3h ago
+
+---
+
+**[This is what buying Bitcoin looked like in 2011 - 1BTC = $3.5](https://www.reddit.com/r/Bitcoin/comments/1po8477/this_is_what_buying_bitcoin_looked_like_in_2011/)**
+
+1h ago
+
+---
+
+**[2013 → 2024: The same person, the same Bitcoin, completely different life milestones.](https://www.reddit.com/r/Bitcoin/comments/1po6uf3/2013_2024_the_same_person_the_same_bitcoin/)**
+
+In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
+
+2h ago
 
 ---
 
@@ -107,41 +127,23 @@ Are you still buying?
 
 100k range might take till next year
 
-19h ago
+20h ago
 
 ---
 
-**[2013 → 2024: The same person, the same Bitcoin, completely different life milestones.](https://www.reddit.com/r/Bitcoin/comments/1po6uf3/2013_2024_the_same_person_the_same_bitcoin/)**
+**[Finally made it to 0.1 BTC](https://www.reddit.com/r/Bitcoin/comments/1po9tfz/finally_made_it_to_01_btc/)**
 
-In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
+25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-2h ago
+41m ago
 
 ---
 
-**[This is what buying Bitcoin looked like in 2011 - 1BTC = $3.5](https://www.reddit.com/r/Bitcoin/comments/1po8477/this_is_what_buying_bitcoin_looked_like_in_2011/)**
+**[BTC will break $150K soon, I believe!!!!](https://www.reddit.com/r/Bitcoin/comments/1po7ya6/btc_will_break_150k_soon_i_believe/)**
+
+There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
 1h ago
-
----
-
-**[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
-
-2h ago
-
----
-
-**[I'm 17 and I'm investing in BTC.](https://www.reddit.com/r/Bitcoin/comments/1po8f29/im_17_and_im_investing_in_btc/)**
-
-Hello everyone, good morning/evening first of all. I'm 17 and I'm slowly learning about Bitcoin. While I'm learning, I'm doing weekly dollar-cost averaging, but I want to invest in other things and I wanted to ask what other investments you would recommend for someone interested in this world. I don't know if anyone could share their experiences investing in Bitcoin and other things. Thank you very much :)
-
-1h ago
-
----
-
-**[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
-
-17h ago
 
 ---
 
@@ -153,21 +155,21 @@ Hello everyone, good morning/evening first of all. I'm 17 and I'm slowly learnin
 
 Bitcoin is headed for the fourth annual decline in its history, and the first one that didn’t coincide with a major scandal or industry meltdown.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
-
-Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
-
-Yahoo Finance • 20h ago
-
----
-
-**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqcmXdWTLRbsc6uqNTASi2B1x30CpVYU0xqTN6kl3OzS5Un98vgfeLxl&gaa_ts=6941a780&gaa_sig=yAIqerl_2RWsU5tbENDiRUROevn3gQwPMnatS1rhW5crEQqpPBby0fbCwAqitZWzAUJykl-fguPd96enmCU41g%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfVdAxHvgqQ0w--kolf7aREGSES474VxbHZ2FVl7WsEj0dPXn301QbU&gaa_ts=6941b448&gaa_sig=KqEqqjOhhd_fMccdwLmwoxJhHI48b4-Zfqb60QY5KojsxCVfkroNAiTsmx-gcOXUocsDSY2BbF_6D-30Hq9OMA%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[Bitcoin (BTC) treasury company news: ABTC brings holdings to 5,098 coins](https://www.coindesk.com/markets/2025/12/16/eric-trump-s-american-bitcoin-jumps-to-20th-among-public-btc-treasury-companies)**
+
+After its latest purchase, the company now holds 5,098 bitcoin worth nearly $450 million
+
+CoinDesk • 2h ago
 
 ---
 
@@ -175,7 +177,7 @@ Barron's • 1d ago
 
 See how much a Bitcoin investment from 10 years ago would be worth today and what it means for long-term crypto growth.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -192,6 +194,12 @@ Bitcoin Magazine • 1h ago
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
 Financial Times • 1d ago
+
+---
+
+**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqez5_FhNpnEW2uWLOPHHDeMPxTLl4mBcHsC4yBw19TTvUgXRCKo3Ba1&gaa_ts=6941b448&gaa_sig=bmJankSjohmZAGrrcFaIJnJkry13hgfCtgm2OJh2okHmBqjrZhdf046hXOiPPnV58tA3qS7Z5TD-2TOQLdj2rg%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -213,15 +221,7 @@ CoinDesk • 4h ago
 
 Major asset managers are forecasting that Bitcoin will shatter its traditional four-year cycle and reach new all-time highs in 2026, driven by massive institutional capital inflows and regulatory clarity. Bitwise Chief Investment Officer Matt Hougan and Grayscale Research both project BTC will exceed its previous peak despite conventional wisdom suggesting ...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Serious 2026 $3 Trillion Crypto ‘Collapse’ Fed Warning Issued—$10,000 Bitcoin Price Predicted As Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2025/12/16/serious-2026-3-trillion-crypto-collapse-fed-warning-issued-10000-bitcoin-price-predicted-as-crash-fears-swirl/)**
-
-The bitcoin price could be teetering on the verge of a massive crash that could wipe out almost all cryptocurrencies...
-
-Forbes • 5h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -285,7 +285,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 8 • 💬 1 • 3h ago
+⬆️ 9 • 💬 2 • 3h ago
 
 ---
 
@@ -299,7 +299,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 21K • 👍 484 • 💬 310 • ⏱️ 10:03 • 12h ago
+👁️ 27K • 👍 543 • 💬 337 • ⏱️ 10:03 • 12h ago
 
 ---
 
@@ -309,17 +309,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 2K • 💬 523 • ⏱️ 8:04 • 17h ago
-
----
-
-**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
-
-THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
-
-📺 Altcoin Daily
-
-👁️ 54K • 👍 3K • 💬 220 • ⏱️ 12:16 • 19h ago
+👁️ 28K • 👍 2K • 💬 610 • ⏱️ 8:04 • 17h ago
 
 ---
 
@@ -329,7 +319,7 @@ Bitcoin feels stalled. Prices are down, fear is up, and dopamine-chasing traders
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 470 • 💬 38 • ⏱️ 16:49 • 5h ago
+👁️ 7K • 👍 618 • 💬 52 • ⏱️ 16:49 • 5h ago
 
 ---
 
@@ -339,27 +329,7 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 1K • 👍 140 • ⏱️ 57:23 • 4h ago
-
----
-
-**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
-
-These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! AI Trading Club: ...
-
-📺 Thomas Kralow
-
-👁️ 9K • 👍 2K • 💬 45 • ⏱️ 7:49 • 7h ago
-
----
-
-**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=pkDDBb1EYwg)**
-
-We have a classic case of the bear market blues :( Make sure you check out ITC premium before the SALE ends so you can lock ...
-
-📺 Benjamin Cowen
-
-👁️ 51K • 👍 4K • 💬 301 • ⏱️ 19:58 • 12h ago
+👁️ 3K • 👍 248 • 💬 23 • ⏱️ 57:23 • 4h ago
 
 ---
 
@@ -369,27 +339,57 @@ A major warning signal just flashed in Bitcoin — long-term holders are startin
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 292 • 💬 1 • ⏱️ 1:09:01 • 2h ago
+👁️ 4K • 👍 399 • 💬 82 • ⏱️ 1:09:01 • 2h ago
 
 ---
 
-**[Could Japan TRIGGER a Bitcoin Crash to $40,000?!](https://www.youtube.com/watch?v=Eu8BtRbYSy0)**
+**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
 
-Japan is about to hike rates, and history says Bitcoin gets rekt every time. With a $1T treasury stash, a carry trade unwind, and an ...
+These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! AI Trading Club: ...
+
+📺 Thomas Kralow
+
+👁️ 13K • 👍 2K • 💬 59 • ⏱️ 7:49 • 7h ago
+
+---
+
+**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=pkDDBb1EYwg)**
+
+We have a classic case of the bear market blues :( Make sure you check out ITC premium before the SALE ends so you can lock ...
+
+📺 Benjamin Cowen
+
+👁️ 61K • 👍 4K • 💬 334 • ⏱️ 19:58 • 12h ago
+
+---
+
+**[BREAKING: BITCOIN JUST DID THIS FOR FIRST TIME SINCE 2020 – THIS HAPPENED NEXT](https://www.youtube.com/watch?v=vzVpMNGR9oU)**
+
+INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://cryptocrewuniversity.com/sibmy ...
+
+📺 Crypto Crew University
+
+👁️ 18K • 👍 1K • 💬 144 • ⏱️ 8:22 • 5h ago
+
+---
+
+**[Why is Bitcoin STUCK at $90K?! (This Explains Everything)](https://www.youtube.com/watch?v=9Xi0PnWSLto)**
+
+Bitcoin's been dropping like clockwork at market open—but is it just normal volatility, or something more sinister? From Japanese ...
 
 📺 Simply Bitcoin
 
-👁️ 41K • 👍 3K • 💬 307 • ⏱️ 18:49 • 19h ago
+👁️ 50K • 👍 2K • 💬 179 • ⏱️ 14:17 • 1d ago
 
 ---
 
-**[Bitcoin’s Next Major Wave Is Taking Shape...Despite the Short Term Weakness](https://www.youtube.com/watch?v=FBEpHX-gFAQ)**
+**[CRYPTO.COM Is Quietly TAKING OVER (Why It Matters)](https://www.youtube.com/watch?v=qVfaAMLqWC8)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+Thanks to Crypto/com for sponsoring this video. Get 10% off trading fees! www.crypto.com/exch/cryptocapitalventure While most of ...
 
-📺 CryptosRUs
+📺 Dan Gambardello
 
-👁️ 31K • 👍 1K • 💬 370 • ⏱️ 52:24 • 1d ago
+👁️ 2K • 👍 256 • 💬 184 • ⏱️ 6:33 • 3h ago
 
 ---
 

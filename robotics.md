@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T18:55:01.183555+00:00'
+updated: '2025-12-16T19:19:59.734169+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 18:55 UTC  
+**Last Updated:** December 16, 2025 at 19:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 Hello everyone, I’ll jump straight to my question. I’m currently looking to connect with professionals who are involved in research in robotics, especially areas like computer vision, robotic arms, and work at the intersection of AI and robotics. A bit about me: I’m currently in my internship phase and don’t have any prior research or publishing experience, but I do have a strong interest and solid knowledge in developing robots, experimenting with algorithms, and hands-on tinkering. I’m actively looking to collaborate and publish research in this domain. I can roughly dedicate around 10 hours per week to this effort. If anyone is interested, please feel free to DM me. I can share some of my work. I’d also really appreciate any advice on how to approach or find professors and researchers working in these areas. I’ve already reached out to my professors, but their research domains are quite different from what I’m looking for, which is why I’m trying to connect with people outside my immediate academic circle. Thanks in advance!
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
 
-1h ago
+2h ago
 
 ---
 
@@ -126,17 +126,9 @@ The Verge • 1d ago
 
 ---
 
-**[Robotics industry reacts to iRobot’s bankruptcy](https://www.therobotreport.com/robotics-industry-reacts-to-irobot-bankruptcy/)**
-
-iRobot’s Chapter 11 bankruptcy has sparked intense reactions, with opinions on regulation, innovation, manufacturing, and global competition.
-
-The Robot Report • 1h ago
-
----
-
 **[Two BCSC VEX IQ robotics teams earn a spot in state championship competition](https://www.therepublic.com/2025/12/16/two-bcsc-vex-iq-robotics-teams-earn-a-spot-in-state-championship-competition/)**
 
-The Republic News • 13h ago
+The Republic News • 14h ago
 
 ---
 
@@ -180,6 +172,14 @@ Fortune • 3d ago
 
 ---
 
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+
+South China Morning Post • 2d ago
+
+---
+
 **[AMC Robotics Gets Retail Talking Following AlphaVest Merger – ‘Holding This Now Is Like Holding PLTR Few Years Ago’](https://stocktwits.com/news-articles/markets/equity/amc-robotics-gets-retail-talking-following-alpha-vest-merger/cLeJfj2REYs)**
 
 Stocktwits • 2h ago
@@ -196,7 +196,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 29K • 👍 671 • 💬 104 • ⏱️ 11:23 • 18h ago
+👁️ 34K • 👍 696 • 💬 127 • ⏱️ 11:23 • 19h ago
 
 ---
 
@@ -206,7 +206,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 25K • 👍 652 • 💬 104 • ⏱️ 6:41 • 2d ago
+👁️ 25K • 👍 653 • 💬 105 • ⏱️ 6:41 • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 314K • 👍 10K • 💬 343 • ⏱️ 0:34 • 2d ago
+👁️ 322K • 👍 11K • 💬 351 • ⏱️ 0:34 • 2d ago
 
 ---
 
@@ -224,7 +224,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 284K • 👍 3K • 💬 27 • ⏱️ 0:21 • 2d ago
+👁️ 348K • 👍 3K • 💬 30 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ Business Insider tells you all you need to know about business, finance, tech, r
 
 📺 Business Insider
 
-👁️ 141K • 👍 719 • 💬 152 • ⏱️ 1:10 • 6d ago
+👁️ 141K • 👍 720 • 💬 152 • ⏱️ 1:10 • 6d ago
 
 ---
 
@@ -244,17 +244,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 2K • 👍 374 • 💬 18 • ⏱️ 1:38 • 2h ago
-
----
-
-**[AI Robot Harvesting Grapes in the Vineyard 🍇🤖](https://www.youtube.com/watch?v=o0EILTw-1hs)**
-
-Experience the future of agriculture! In this video, an AI-powered farming robot assists a farmer by harvesting grapes with ...
-
-📺 𝗦𝗺𝗮𝗿𝘁 𝗙𝗮𝗿𝗺𝗶𝗻𝗴 𝗧𝗲𝗰𝗵
-
-👁️ 134K • 👍 388 • ⏱️ 0:08 • 10h ago
+👁️ 4K • 👍 831 • 💬 30 • ⏱️ 1:38 • 3h ago
 
 ---
 
@@ -264,7 +254,7 @@ Discover the latest girlfriend robot in this eye-opening tech expo experience! E
 
 📺 Ricey Rice
 
-👁️ 239K • 👍 842 • 💬 11 • ⏱️ 0:06 • 1d ago
+👁️ 258K • 👍 852 • 💬 11 • ⏱️ 0:06 • 1d ago
 
 ---
 
@@ -274,7 +264,17 @@ I actually turned my smartphone into a desktop pet... This is LOOI Robot by Tang
 
 📺 Kyle Krueger
 
-👁️ 5.4M • 👍 171K • 💬 3K • ⏱️ 0:51 • 5d ago
+👁️ 5.5M • 👍 171K • 💬 3K • ⏱️ 0:51 • 5d ago
+
+---
+
+**[AI Robot Harvesting Grapes in the Vineyard 🍇🤖](https://www.youtube.com/watch?v=o0EILTw-1hs)**
+
+Experience the future of agriculture! In this video, an AI-powered farming robot assists a farmer by harvesting grapes with ...
+
+📺 𝗦𝗺𝗮𝗿𝘁 𝗙𝗮𝗿𝗺𝗶𝗻𝗴 𝗧𝗲𝗰𝗵
+
+👁️ 382K • 👍 392 • ⏱️ 0:08 • 10h ago
 
 ---
 
@@ -284,7 +284,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 28K • 👍 105 • 💬 41 • ⏱️ 1:26 • 3d ago
+👁️ 28K • 👍 105 • 💬 43 • ⏱️ 1:26 • 3d ago
 
 ---
 
