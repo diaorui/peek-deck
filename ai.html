@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-16T21:58:59.226918+00:00"
+          "dateModified": "2025-12-16T22:28:20.581050+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -1023,20 +1023,22 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pofcf0/beyond_llms_real_path_to_genai/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/bw4IokEpNmbUzanEAWEHV3WbdDrthiexQUMf5Pk82j0.jpeg?width=640&crop=smart&auto=webp&s=4dacfed14b1a41f95dbf1b79eeb70ef5b727f45f" alt="AI promised a revolution. Companies are still waiting." onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/" target="_blank" onclick="event.stopPropagation();">AI promised a revolution. Companies are still waiting.</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1pofcf0/beyond_llms_real_path_to_genai/" target="_blank" onclick="event.stopPropagation();">Beyond LLMs: Real Path to GenAI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I’ve been experimenting with a slightly different approach to AI, and I’d genuinely value feedback from people working in ML, health IT, or clinical education. Instead of scaling parameters, I built a compact medical SLM (6GB) that’s tightly coupled to a medical knowledge graph and a self-contained RAG + audit layer, designed to keep outputs grounded in verifiable medical entities and relationships. The underlying Graph Info Map currently contains 5k+ nodes and 25k+ edges spanning diseases, symptoms, treatments, risk factors, diagnostics, body parts, and cellular structures. The model uses KG-specific tokens and annotated medical text as anchors serving as a reference dictionary and a mechanism for understanding multidirectional medical relationships. Despite its small size, the system can handle multi-symptom clinical scenarios and produce diagnoses and treatment options that remain consistent with the graph. I’ve included five such prompt examples below. In these tests, outputs stayed within validated entities and relations avoiding the free-form hallucinations often seen in unconstrained generative models. Trade-offs vs large LLMs: Less fluent and more constrained, but significantly easier to audit, more medically grounded, and fully self-contained (no internet required). Every output is traceable to explicit graph nodes. The model is still under active development, but the architecture, a native knowledge graph integrated directly into reasoning, has proven extensible and scalable as the information base grows (expanding with 200K new clinical cases). My current thinking is that this represents a viable path for certain GenAI systems: LLMs excel at language transmission, while knowledge graphs provide structured understanding, auditability, and hallucination resistance. I’m exploring applications as: an assistant for medical students a second-opinion support tool for clinicians I’m open to conversations with potential co-founders or investors with AI or medical backgrounds. Happy to share deeper benchmarks, trace-level examples, or a link to the Hugging Face demo with interested parties. Question 1: A 55-year-old male patient presents with persistent chest pain radiating to the left arm. He has a history of hypertension and Type 2 diabetes. ECG shows ST-segment elevation. The patient is allergic to aspirin. Question: Based on the patient’s condition, what treatments are recommended, which are contraindicated, and which risk factors are involved? Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 9 Answer → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 10 ◇ Best effort (Missing: Riskfactor) Answer 1: Hypertension is common among patients who have CKD. It can be treated effectively if it is identified early and managed appropriately. Patients should avoid medications that may exacerbate their symptoms or cause adverse effects such as angiotensin converting enzyme (ACE) inhibitors. If an ACE inhibitor cannot be used because of intolerance, then other antihypertensive agents are available. In addition to blood pressure control, treatment for heart failure includes use of diuretics, beta blockers, aldosterone antagonists, and digoxin. Treatment options also include calcium channel blockers, alpha adrenergic receptor agonists, vasodilators, and endothelin receptor antagonists. Please consult a healthcare professional for personalized medical advice. Question 2: Female patient presents with fatigue, swelling in her ankles, has a history of hypertension and chronic kidney disease. Also experiences persistent cough when taking ACE inhibitors and her Echocardiogram shows reduced ejection fraction. What is the diagnosis and treatment based on her combined diagnosis Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 8 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 7 ✓ Graph-validated (Valid) Answer 2: The diagnosis is acute heart failure (HF) due to left ventricular systolic dysfunction. Treatment includes diuretics for congestion and vasodilators or inotropes for hypotension. Angiotensin-converting enzyme inhibitor therapy should be discontinued if there are signs of worsening renal function. Hypertension can worsen cardiac outcomes by increasing afterload on the heart. Chronic kidney disease may also contribute to poor prognosis through increased risk of cardiovascular events and death. Please consult a healthcare professional for personalized medical advice. Question 3: A 45-year-old male patient reports frequent urination, excessive thirst, and fatigue. He has a family history of type 2 diabetes and is overweight. Blood tests show elevated fasting glucose and HbA1c levels. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 9 ✓ Graph-validated (Valid) Answer 3: Type 2 Diabetes Mellitus (T2DM) is an endocrine disorder that affects millions worldwide. It can be diagnosed by measuring blood sugar levels or glycated hemoglobin A1c. The American Diabetes Association recommends screening for T2DM in adults with any one of the following characteristics: age > 4 0 years; < 1 8 y / o Body Mass Index (BMI); African ancestry; Hispanic ethnicity; Asian descent; or having polycystic ovarian syndrome. Patients should also have at least two other features of the metabolic syndrome to increase their risk of developing T2DM. Treatment options are based on patients' comorbidities and goals for glycemic control. Lifestyle modifications such as diet and exercise are first line treatment but may not achieve optimal results if they fail. Medications including metformin, sulfonylureas, thiazolidinediones, dipeptidyl peptidase IV inhibitors, glucagon like peptide-1RAs. Please consult a healthcare professional for personalized medical advice. Question 4: A 30-year-old female patient reports persistent cough, fever, and shortness of breath. She recently returned from a trip abroad and has a mild history of asthma. Chest X-ray shows patchy infiltrates in the lower lobes. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications. Prompt → Categories: ['DiagnosticTest', 'Disease', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 4: The diagnosis is acute respiratory distress syndrome (ARDS) caused by pneumonia with secondary bacterial infection. ARDS can be fatal if not treated promptly. Risk factors for ARDS are discussed along with treatment options including antibiotics, corticosteroids, mechanical ventilation, vasopressors, and extracorporeal membrane oxygenation. Treatment should focus on preventing further complications such as nosocomial infections or ventilator associated events. Please consult a healthcare professional for personalized medical advice. Question 5: A 50-year-old male patient experiences abdominal pain, bloating, and intermittent diarrhea. He has a family history of celiac disease and reports gluten sensitivity. Blood tests show elevated anti-tTG antibodies. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 7 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 5: Celiac Disease is an autoimmune disorder that affects approximately 1% to 2% of people in North America. It can be diagnosed by serologic testing for IgA antitissue transglutaminase (anti-tTG) antibody levels or duodenal biopsy. The diagnosis should trigger a discussion about dietary restrictions with patients and their families. Patients must also understand the potential risks associated with untreated celiac disease, including increased susceptibility to cancer, cardiovascular diseases, type I diabetes mellitus, osteoporosis, infertility, neurologic disorders, and psychiatric conditions. Treatment options are limited but may involve lifelong adherence to a strict gluten free diet. This includes avoiding wheat products, rye, barley, oats, legumes, nuts, seeds, and other grains containing glutenins. Other treatment options include oral supplements such as zinc sulfate and magnesium oxide; however, these have not been. Please consult a healthcare professional for personalized medical advice. Please consult a healthcare professional for personalized medical advice. #medicalAI #LLM #RAG #GRAGH #SLM #knowledgegraph #healthtech #digitalhealth #AIinHealthcare #MedTech #BioGPT #GENAI
+                        </div>
                         
 
                         <!-- Metadata -->
@@ -1044,24 +1046,10 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1765906970.0"></span>
+                                    <span data-timestamp="1765923325.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>reuters.com</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -1091,7 +1079,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-16T21:48:04.117576+00:00">Updated 2025-12-16T21:48:04.117576+00:00</small>
+        <small data-timestamp="2025-12-16T22:27:57.050812+00:00">Updated 2025-12-16T22:27:57.050812+00:00</small>
     </div>
 </div>
 
@@ -1355,57 +1343,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/pro/fintech-deals/2025/12/16/why-blackline-bought-wiselayer', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/video/6386570652112', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/b3f3a203-4273-4ba9-a1ed-7f3fa29296d2/126ffb97-54b7-404a-a5cc-bcb9782af183/1280x720/match/1024/512/image.jpg?ve=1&tl=1');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.axios.com/pro/fintech-deals/2025/12/16/why-blackline-bought-wiselayer" target="_blank" onclick="event.stopPropagation();">Why BlackLine bought WiseLayer</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1765920005.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/dbloom/2025/12/16/what-disney-deal-with-open-ai-and-sora-can-teach-other-studios/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/6941c82cdda4ae0710554eb6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/dbloom/2025/12/16/what-disney-deal-with-open-ai-and-sora-can-teach-other-studios/" target="_blank" onclick="event.stopPropagation();">What Disney Deal With Open AI And Sora Can Teach Other Studios</a>
+                            <a href="https://www.foxbusiness.com/video/6386570652112" target="_blank" onclick="event.stopPropagation();">SoundHound AI CEO to unveil new in-vehicle tech and vision for generative AI at CES</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Disney's deal with OpenAI and Sora stunned Hollywood, but it's part of Bob Iger's long-time playbook, investing in new tech, then figuring out how to make money from it.
+                            SoundHound AI co-founder and CEO Keyvan Mohajer discusses the company's groundbreaking in-vehicle generative AI technology, enabling voice-command restaurant reservations, parking and other commerce on ‘The Claman Countdown.’
                         </div>
                         
 
@@ -1415,9 +1366,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox Business" class="news-favicon">
+                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
                                     
                                 </div>
                                 
@@ -1425,7 +1376,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1765918960.0"></span>
+                                    <span data-timestamp="1765922678.0"></span>
                                 </div>
                                 
                             </div>
@@ -1433,20 +1384,57 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://capitolnewsillinois.com/news/illinois-leaders-wont-back-down-following-trumps-order-limiting-ai-regulation/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqe5JlonVd0abbYC1ea-B9SVY87FW2aef2ibIJvPDF12R1QAWQB0cwUm&gaa_ts=6941e070&gaa_sig=gFXWhm_pfGp7OS7qZk5YE26uPZ7N4nBZvdEs-sfTwM7CCAk4uH-UBUt7s2xLi6PcuXeXm1rwAYMOGx3G1yGU8g%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i0.wp.com/capitolnewsillinois.com/wp-content/uploads/2025/12/240418-MORGAN-jn-0217.jpg?fit=1140%2C738&quality=89&ssl=1');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://capitolnewsillinois.com/news/illinois-leaders-wont-back-down-following-trumps-order-limiting-ai-regulation/" target="_blank" onclick="event.stopPropagation();">Illinois leaders ‘won’t back down’ following Trump’s order limiting AI regulation</a>
+                            <a href="https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqe5JlonVd0abbYC1ea-B9SVY87FW2aef2ibIJvPDF12R1QAWQB0cwUm&gaa_ts=6941e070&gaa_sig=gFXWhm_pfGp7OS7qZk5YE26uPZ7N4nBZvdEs-sfTwM7CCAk4uH-UBUt7s2xLi6PcuXeXm1rwAYMOGx3G1yGU8g%3D%3D" target="_blank" onclick="event.stopPropagation();">Opinion | AI Is About to Empty Madison Avenue</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Wall Street Journal" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1765826160.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://newsroom.churchofjesuschrist.org/article/general-handbook-enduring-guidance-artificial-intelligence', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://newsroom.churchofjesuschrist.org/media/640x480/089efea5c42a90de9c4fb86f45285d5c90dba3f6.jpeg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://newsroom.churchofjesuschrist.org/article/general-handbook-enduring-guidance-artificial-intelligence" target="_blank" onclick="event.stopPropagation();">Church Handbook Offers Enduring Guidance on Artificial Intelligence</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Article Summary President Donald Trump signed an executive order last week targeting state laws that regulate artificial intelligence. Illinois has
+                            The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
                         </div>
                         
 
@@ -1456,9 +1444,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://capitolnewsillinois.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Capitol News Illinois" class="news-favicon">
-                                    <a href="https://capitolnewsillinois.com" target="_blank" onclick="event.stopPropagation();">Capitol News Illinois</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://newsroom.churchofjesuschrist.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="newsroom.churchofjesuschrist.org" class="news-favicon">
+                                    <a href="https://newsroom.churchofjesuschrist.org" target="_blank" onclick="event.stopPropagation();">newsroom.churchofjesuschrist.org</a>
                                     
                                 </div>
                                 
@@ -1466,7 +1454,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1765890025.0"></span>
+                                    <span data-timestamp="1765901082.0"></span>
                                 </div>
                                 
                             </div>
@@ -1474,14 +1462,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://thehill.com/homenews/administration/5650327-trump-executive-order-ai/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://thehill.com/homenews/administration/5650327-trump-executive-order-ai/" target="_blank" onclick="event.stopPropagation();">Trump picks fight with MAGA allies in issuing AI executive order</a>
+                            <a href="https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/" target="_blank" onclick="event.stopPropagation();">Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1493,9 +1481,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="thehill.com" class="news-favicon">
-                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">thehill.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Washington Post" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
                                     
                                 </div>
                                 
@@ -1503,7 +1491,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1765882800.0"></span>
+                                    <span data-timestamp="1765908041.0"></span>
                                 </div>
                                 
                             </div>
@@ -1511,14 +1499,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.inc.com/melissa-angell/trumps-ai-executive-order-is-confusing-small-business-owners/91276946', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.inc.com/melissa-angell/trumps-ai-executive-order-is-confusing-small-business-owners/91276946" target="_blank" onclick="event.stopPropagation();">Trump’s AI Executive Order Is Confusing Small Business Owners</a>
+                            <a href="https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/" target="_blank" onclick="event.stopPropagation();">AI promised a revolution. Companies are still waiting.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1530,9 +1518,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.inc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Inc.com" class="news-favicon">
-                                    <a href="https://www.inc.com" target="_blank" onclick="event.stopPropagation();">Inc.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Reuters" class="news-favicon">
+                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
                                     
                                 </div>
                                 
@@ -1540,7 +1528,89 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1765919558.0"></span>
+                                    <span data-timestamp="1765919069.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://wp.technologyreview.com/wp-content/uploads/2025/12/MIT_AI-Hype_2-1.jpg?resize=1200,600');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/" target="_blank" onclick="event.stopPropagation();">The great AI hype correction of 2025</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Four ways to think about this year's reckoning
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.technologyreview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="MIT Technology Review" class="news-favicon">
+                                    <a href="https://www.technologyreview.com" target="_blank" onclick="event.stopPropagation();">MIT Technology Review</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1765792800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1408110239-20251215211710422.jpg?c=16x9&q=w_800,c_fill');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap" target="_blank" onclick="event.stopPropagation();">Why 2026 could be the year of anti-AI marketing</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNN" class="news-favicon">
+                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1765884658.0"></span>
                                 </div>
                                 
                             </div>
@@ -1589,80 +1659,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqcBsKDwRvCn8E-2LqBMC7-Yma6rpnyIJCrZtMLI7MBAfqWWY74djPqr&gaa_ts=6941d717&gaa_sig=8crWA2qGjEeFn7erWxCAPIVBW45k_NXcwJ9kWjzukIaabssDjqs2r913UNcGW_Ofdsfl0QhwjLdZtlAh_IAk6w%3D%3D', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqcBsKDwRvCn8E-2LqBMC7-Yma6rpnyIJCrZtMLI7MBAfqWWY74djPqr&gaa_ts=6941d717&gaa_sig=8crWA2qGjEeFn7erWxCAPIVBW45k_NXcwJ9kWjzukIaabssDjqs2r913UNcGW_Ofdsfl0QhwjLdZtlAh_IAk6w%3D%3D" target="_blank" onclick="event.stopPropagation();">Opinion | AI Is About to Empty Madison Avenue</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Wall Street Journal" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1765826160.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/" target="_blank" onclick="event.stopPropagation();">Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1765908041.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1683,7 +1679,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-16T21:48:32.511797+00:00">Updated 2025-12-16T21:48:32.511797+00:00</small>
+        <small data-timestamp="2025-12-16T22:28:17.179583+00:00">Updated 2025-12-16T22:28:17.179583+00:00</small>
     </div>
 </div>
 
@@ -1904,10 +1900,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 762</span>
+                                    <span class="post-points">▲ 768</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 234</span>
+                                    <span style="color: #9ca3af;">💬 235</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1953,10 +1949,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 575</span>
+                                    <span class="post-points">▲ 576</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 956</span>
+                                    <span style="color: #9ca3af;">💬 963</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2050,7 +2046,7 @@
                                     <span class="post-points">▲ 366</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 297</span>
+                                    <span style="color: #9ca3af;">💬 298</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2102,7 +2098,7 @@
                                     <span class="post-points">▲ 297</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 308</span>
+                                    <span style="color: #9ca3af;">💬 309</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2246,7 +2242,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 138</span>
+                                    <span class="post-points">▲ 139</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 91</span>
@@ -2295,7 +2291,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 122</span>
+                                    <span class="post-points">▲ 123</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 49</span>
@@ -2344,10 +2340,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 99</span>
+                                    <span class="post-points">▲ 101</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 112</span>
+                                    <span style="color: #9ca3af;">💬 114</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2392,7 +2388,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-16T21:48:04.111824+00:00">Updated 2025-12-16T21:48:04.111824+00:00</small>
+        <small data-timestamp="2025-12-16T22:27:56.848403+00:00">Updated 2025-12-16T22:27:56.848403+00:00</small>
     </div>
 </div>
 
@@ -3640,7 +3636,7 @@
                                     <span class="model-stats">⬇️ 158,614</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 891</span>
+                                    <span class="model-stats">❤️ 892</span>
                                 </div>
                             </div>
                             
@@ -3814,7 +3810,7 @@
                                     <span class="model-stats">⬇️ 10,487</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 244</span>
+                                    <span class="model-stats">❤️ 245</span>
                                 </div>
                             </div>
                             
@@ -4074,7 +4070,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-16T21:48:14.813757+00:00">Updated 2025-12-16T21:48:14.813757+00:00</small>
+        <small data-timestamp="2025-12-16T22:28:10.144115+00:00">Updated 2025-12-16T22:28:10.144115+00:00</small>
     </div>
 </div>
 
@@ -4329,7 +4325,7 @@
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 11,986</span>
+                                    <span style="color: #9ca3af;">⭐ 12,077</span>
                                 </div>
                                 
                             </div>
@@ -4571,7 +4567,7 @@
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 12,568</span>
+                                    <span style="color: #9ca3af;">⭐ 12,592</span>
                                 </div>
                                 
                             </div>
@@ -4642,7 +4638,7 @@
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 17,834</span>
+                                    <span style="color: #9ca3af;">⭐ 17,874</span>
                                 </div>
                                 
                             </div>
@@ -4760,92 +4756,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2511.22677', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22677.png');" ></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2511.22677" target="_blank" onclick="event.stopPropagation();">Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Dongyang Liu, Peng Gao, David Liu et al. (11 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                            
-                            <img src="https://cdn-uploads.huggingface.co/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg" alt="Tongyi-MAI"
-                                class="org-avatar">
-                            
-                            <a href="https://huggingface.co/Tongyi-MAI" target="_blank"
-                                onclick="event.stopPropagation();">
-                                Tongyi-MAI
-                            </a>
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 27</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 2</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 7,099</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2511.22677" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        🎓 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/Tongyi-MAI/Z-Image/tree/main" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://tongyi-mai.github.io/Z-Image-blog/" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        🔗 project
-                                    </a>
-                                </div>
-                                
-                            </div>
-                            
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2025-11-27T13:24:28.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2511.22699', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png');" ></div>
@@ -4925,6 +4835,92 @@
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
                                     <span class="paper-age" data-timestamp="2025-11-27T13:52:07.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2511.22677', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22677.png');" ></div>
+
+                    <div class="paper-content">
+                        <!-- Paper title (fixed 2-line height) -->
+                        <div class="paper-title">
+                            <a href="https://huggingface.co/papers/2511.22677" target="_blank" onclick="event.stopPropagation();">Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield</a>
+                        </div>
+
+                        <!-- Authors -->
+                        <div class="paper-authors">
+                            Dongyang Liu, Peng Gao, David Liu et al. (11 authors)
+                        </div>
+
+                        <!-- Organization (always reserve space for consistent card height) -->
+                        <div class="paper-organization">
+                            
+                            
+                            <img src="https://cdn-uploads.huggingface.co/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg" alt="Tongyi-MAI"
+                                class="org-avatar">
+                            
+                            <a href="https://huggingface.co/Tongyi-MAI" target="_blank"
+                                onclick="event.stopPropagation();">
+                                Tongyi-MAI
+                            </a>
+                            
+                        </div>
+
+                        <!-- Rich description (AI summary if available, otherwise full summary) -->
+                        
+                        <div class="paper-summary">
+                            The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+                        </div>
+                        
+
+                        <!-- Metadata (stats, links, time) -->
+                        <div class="paper-meta">
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <span class="paper-stats">▲ 27</span>
+                                </div>
+                                <div class="paper-meta-item">
+                                    <span style="color: #9ca3af;">💬 2</span>
+                                </div>
+                                
+                                <div class="paper-meta-item">
+                                    <span style="color: #9ca3af;">⭐ 7,130</span>
+                                </div>
+                                
+                            </div>
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <a href="https://arxiv.org/abs/2511.22677" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        🎓 arXiv
+                                    </a>
+                                </div>
+                                
+                                <div class="paper-meta-item">
+                                    <a href="https://github.com/Tongyi-MAI/Z-Image/tree/main" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        💻 code
+                                    </a>
+                                </div>
+                                
+                                
+                                <div class="paper-meta-item">
+                                    <a href="https://tongyi-mai.github.io/Z-Image-blog/" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        🔗 project
+                                    </a>
+                                </div>
+                                
+                            </div>
+                            
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <span class="paper-age" data-timestamp="2025-11-27T13:24:28.000Z"></span>
                                 </div>
                             </div>
                             
@@ -5042,7 +5038,7 @@
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 46,888</span>
+                                    <span style="color: #9ca3af;">⭐ 46,940</span>
                                 </div>
                                 
                             </div>
@@ -5102,7 +5098,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-16T21:11:50.553220+00:00">Updated 2025-12-16T21:11:50.553220+00:00</small>
+        <small data-timestamp="2025-12-16T22:27:57.861774+00:00">Updated 2025-12-16T22:27:57.861774+00:00</small>
     </div>
 </div>
 
@@ -5646,7 +5642,7 @@
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-12-16T17:18:35Z"></span>
+                                <span class="repo-age" data-timestamp="2025-12-16T21:51:19Z"></span>
                             </div>
                         </div>
                         
@@ -5987,7 +5983,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-16T21:11:49.780244+00:00">Updated 2025-12-16T21:11:49.780244+00:00</small>
+        <small data-timestamp="2025-12-16T22:27:57.159549+00:00">Updated 2025-12-16T22:27:57.159549+00:00</small>
     </div>
 </div>
 

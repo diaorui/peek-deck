@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T21:58:59.725589+00:00'
+updated: '2025-12-16T22:28:21.009180+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 21:58 UTC  
+**Last Updated:** December 16, 2025 at 22:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 1h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 6h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 7h ago
 
 ---
 
@@ -81,7 +81,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 16h ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 17h ago
 
 ---
 
@@ -109,9 +109,11 @@ Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to 
 
 ---
 
-**[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
+**[Beyond LLMs: Real Path to GenAI](https://www.reddit.com/r/artificial/comments/1pofcf0/beyond_llms_real_path_to_genai/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 4h ago
+I’ve been experimenting with a slightly different approach to AI, and I’d genuinely value feedback from people working in ML, health IT, or clinical education. Instead of scaling parameters, I built a compact medical SLM (6GB) that’s tightly coupled to a medical knowledge graph and a self-contained RAG + audit layer, designed to keep outputs grounded in verifiable medical entities and relationships. The underlying Graph Info Map currently contains 5k+ nodes and 25k+ edges spanning diseases, symptoms, treatments, risk factors, diagnostics, body parts, and cellular structures. The model uses KG-specific tokens and annotated medical text as anchors serving as a reference dictionary and a mechanism for understanding multidirectional medical relationships. Despite its small size, the system can handle multi-symptom clinical scenarios and produce diagnoses and treatment options that remain consistent with the graph. I’ve included five such prompt examples below. In these tests, outputs stayed within validated entities and relations avoiding the free-form hallucinations often seen in unconstrained generative models. Trade-offs vs large LLMs: Less fluent and more constrained, but significantly easier to audit, more medically grounded, and fully self-contained (no internet required). Every output is traceable to explicit graph nodes. The model is still under active development, but the architecture, a native knowledge graph integrated directly into reasoning, has proven extensible and scalable as the information base grows (expanding with 200K new clinical cases). My current thinking is that this represents a viable path for certain GenAI systems: LLMs excel at language transmission, while knowledge graphs provide structured understanding, auditability, and hallucination resistance. I’m exploring applications as: an assistant for medical students a second-opinion support tool for clinicians I’m open to conversations with potential co-founders or investors with AI or medical backgrounds. Happy to share deeper benchmarks, trace-level examples, or a link to the Hugging Face demo with interested parties. Question 1: A 55-year-old male patient presents with persistent chest pain radiating to the left arm. He has a history of hypertension and Type 2 diabetes. ECG shows ST-segment elevation. The patient is allergic to aspirin. Question: Based on the patient’s condition, what treatments are recommended, which are contraindicated, and which risk factors are involved? Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 9 Answer → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 10 ◇ Best effort (Missing: Riskfactor) Answer 1: Hypertension is common among patients who have CKD. It can be treated effectively if it is identified early and managed appropriately. Patients should avoid medications that may exacerbate their symptoms or cause adverse effects such as angiotensin converting enzyme (ACE) inhibitors. If an ACE inhibitor cannot be used because of intolerance, then other antihypertensive agents are available. In addition to blood pressure control, treatment for heart failure includes use of diuretics, beta blockers, aldosterone antagonists, and digoxin. Treatment options also include calcium channel blockers, alpha adrenergic receptor agonists, vasodilators, and endothelin receptor antagonists. Please consult a healthcare professional for personalized medical advice. Question 2: Female patient presents with fatigue, swelling in her ankles, has a history of hypertension and chronic kidney disease. Also experiences persistent cough when taking ACE inhibitors and her Echocardiogram shows reduced ejection fraction. What is the diagnosis and treatment based on her combined diagnosis Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 8 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 7 ✓ Graph-validated (Valid) Answer 2: The diagnosis is acute heart failure (HF) due to left ventricular systolic dysfunction. Treatment includes diuretics for congestion and vasodilators or inotropes for hypotension. Angiotensin-converting enzyme inhibitor therapy should be discontinued if there are signs of worsening renal function. Hypertension can worsen cardiac outcomes by increasing afterload on the heart. Chronic kidney disease may also contribute to poor prognosis through increased risk of cardiovascular events and death. Please consult a healthcare professional for personalized medical advice. Question 3: A 45-year-old male patient reports frequent urination, excessive thirst, and fatigue. He has a family history of type 2 diabetes and is overweight. Blood tests show elevated fasting glucose and HbA1c levels. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 9 ✓ Graph-validated (Valid) Answer 3: Type 2 Diabetes Mellitus (T2DM) is an endocrine disorder that affects millions worldwide. It can be diagnosed by measuring blood sugar levels or glycated hemoglobin A1c. The American Diabetes Association recommends screening for T2DM in adults with any one of the following characteristics: age > 4 0 years; < 1 8 y / o Body Mass Index (BMI); African ancestry; Hispanic ethnicity; Asian descent; or having polycystic ovarian syndrome. Patients should also have at least two other features of the metabolic syndrome to increase their risk of developing T2DM. Treatment options are based on patients' comorbidities and goals for glycemic control. Lifestyle modifications such as diet and exercise are first line treatment but may not achieve optimal results if they fail. Medications including metformin, sulfonylureas, thiazolidinediones, dipeptidyl peptidase IV inhibitors, glucagon like peptide-1RAs. Please consult a healthcare professional for personalized medical advice. Question 4: A 30-year-old female patient reports persistent cough, fever, and shortness of breath. She recently returned from a trip abroad and has a mild history of asthma. Chest X-ray shows patchy infiltrates in the lower lobes. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications. Prompt → Categories: ['DiagnosticTest', 'Disease', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 4: The diagnosis is acute respiratory distress syndrome (ARDS) caused by pneumonia with secondary bacterial infection. ARDS can be fatal if not treated promptly. Risk factors for ARDS are discussed along with treatment options including antibiotics, corticosteroids, mechanical ventilation, vasopressors, and extracorporeal membrane oxygenation. Treatment should focus on preventing further complications such as nosocomial infections or ventilator associated events. Please consult a healthcare professional for personalized medical advice. Question 5: A 50-year-old male patient experiences abdominal pain, bloating, and intermittent diarrhea. He has a family history of celiac disease and reports gluten sensitivity. Blood tests show elevated anti-tTG antibodies. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 7 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 5: Celiac Disease is an autoimmune disorder that affects approximately 1% to 2% of people in North America. It can be diagnosed by serologic testing for IgA antitissue transglutaminase (anti-tTG) antibody levels or duodenal biopsy. The diagnosis should trigger a discussion about dietary restrictions with patients and their families. Patients must also understand the potential risks associated with untreated celiac disease, including increased susceptibility to cancer, cardiovascular diseases, type I diabetes mellitus, osteoporosis, infertility, neurologic disorders, and psychiatric conditions. Treatment options are limited but may involve lifelong adherence to a strict gluten free diet. This includes avoiding wheat products, rye, barley, oats, legumes, nuts, seeds, and other grains containing glutenins. Other treatment options include oral supplements such as zinc sulfate and magnesium oxide; however, these have not been. Please consult a healthcare professional for personalized medical advice. Please consult a healthcare professional for personalized medical advice. #medicalAI #LLM #RAG #GRAGH #SLM #knowledgegraph #healthtech #digitalhealth #AIinHealthcare #MedTech #BioGPT #GENAI
+
+12m ago
 
 ---
 
@@ -121,7 +123,7 @@ Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to 
 
 **[Opinion | Will Creative Work Survive A.I.?](https://www.nytimes.com/2025/12/16/opinion/artists-creative-work-ai.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -129,41 +131,57 @@ The New York Times • 11h ago
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
-**[Why BlackLine bought WiseLayer](https://www.axios.com/pro/fintech-deals/2025/12/16/why-blackline-bought-wiselayer)**
+**[SoundHound AI CEO to unveil new in-vehicle tech and vision for generative AI at CES](https://www.foxbusiness.com/video/6386570652112)**
 
-Axios • 38m ago
+SoundHound AI co-founder and CEO Keyvan Mohajer discusses the company's groundbreaking in-vehicle generative AI technology, enabling voice-command restaurant reservations, parking and other commerce on ‘The Claman Countdown.’
 
----
-
-**[What Disney Deal With Open AI And Sora Can Teach Other Studios](https://www.forbes.com/sites/dbloom/2025/12/16/what-disney-deal-with-open-ai-and-sora-can-teach-other-studios/)**
-
-Disney's deal with OpenAI and Sora stunned Hollywood, but it's part of Bob Iger's long-time playbook, investing in new tech, then figuring out how to make money from it.
-
-Forbes • 56m ago
+Fox Business • 23m ago
 
 ---
 
-**[Illinois leaders ‘won’t back down’ following Trump’s order limiting AI regulation](https://capitolnewsillinois.com/news/illinois-leaders-wont-back-down-following-trumps-order-limiting-ai-regulation/)**
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqe5JlonVd0abbYC1ea-B9SVY87FW2aef2ibIJvPDF12R1QAWQB0cwUm&gaa_ts=6941e070&gaa_sig=gFXWhm_pfGp7OS7qZk5YE26uPZ7N4nBZvdEs-sfTwM7CCAk4uH-UBUt7s2xLi6PcuXeXm1rwAYMOGx3G1yGU8g%3D%3D)**
 
-Article Summary President Donald Trump signed an executive order last week targeting state laws that regulate artificial intelligence. Illinois has
-
-Capitol News Illinois • 8h ago
+The Wall Street Journal • 1d ago
 
 ---
 
-**[Trump picks fight with MAGA allies in issuing AI executive order](https://thehill.com/homenews/administration/5650327-trump-executive-order-ai/)**
+**[Church Handbook Offers Enduring Guidance on Artificial Intelligence](https://newsroom.churchofjesuschrist.org/article/general-handbook-enduring-guidance-artificial-intelligence)**
 
-thehill.com • 10h ago
+The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
+
+newsroom.churchofjesuschrist.org • 6h ago
 
 ---
 
-**[Trump’s AI Executive Order Is Confusing Small Business Owners](https://www.inc.com/melissa-angell/trumps-ai-executive-order-is-confusing-small-business-owners/91276946)**
+**[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
 
-Inc.com • 46m ago
+The Washington Post • 4h ago
+
+---
+
+**[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
+
+Reuters • 1h ago
+
+---
+
+**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
+
+Four ways to think about this year's reckoning
+
+MIT Technology Review • 1d ago
+
+---
+
+**[Why 2026 could be the year of anti-AI marketing](https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap)**
+
+It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
+
+CNN • 10h ago
 
 ---
 
@@ -175,25 +193,13 @@ CNBC • 5h ago
 
 ---
 
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqcBsKDwRvCn8E-2LqBMC7-Yma6rpnyIJCrZtMLI7MBAfqWWY74djPqr&gaa_ts=6941d717&gaa_sig=8crWA2qGjEeFn7erWxCAPIVBW45k_NXcwJ9kWjzukIaabssDjqs2r913UNcGW_Ofdsfl0QhwjLdZtlAh_IAk6w%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
-**[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
-
-The Washington Post • 3h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 762 • 💬 234 • 18h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 768 • 💬 235 • 19h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -201,7 +207,7 @@ The Washington Post • 3h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 575 • 💬 956 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 576 • 💬 963 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -215,7 +221,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 366 • 💬 297 • 23h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 366 • 💬 298 • 23h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -223,7 +229,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 297 • 💬 308 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 297 • 💬 309 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -247,7 +253,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
-⬆️ 138 • 💬 91 • 2d ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
+⬆️ 139 • 💬 91 • 2d ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
 
 ---
 
@@ -255,7 +261,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 122 • 💬 49 • 12h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 123 • 💬 49 • 12h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -263,7 +269,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 99 • 💬 112 • 4h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 101 • 💬 114 • 4h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -277,7 +283,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 38K • 👍 732 • 💬 131 • ⏱️ 11:23 • 21h ago
+👁️ 38K • 👍 732 • 💬 131 • ⏱️ 11:23 • 22h ago
 
 ---
 
@@ -297,7 +303,7 @@ The AI bubble is showing signs of popping and the tech industry is waking up fro
 
 📺 Brian Jenney
 
-👁️ 56K • 👍 3K • 💬 676 • ⏱️ 15:40 • 22h ago
+👁️ 56K • 👍 3K • 💬 676 • ⏱️ 15:40 • 23h ago
 
 ---
 
@@ -365,7 +371,7 @@ New York has become one of the first states to take major action against decepti
 
 📺 PURE Girl
 
-👁️ 80K • 👍 828 • 💬 79 • ⏱️ 0:05 • 19h ago
+👁️ 80K • 👍 828 • 💬 79 • ⏱️ 0:05 • 20h ago
 
 ---
 
@@ -405,7 +411,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 891 • 4d ago
+⬇️ 158,614 • ❤️ 892 • 4d ago
 
 ---
 
@@ -441,7 +447,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 244 • 22h ago
+⬇️ 10,487 • ❤️ 245 • 22h ago
 
 ---
 
@@ -503,7 +509,7 @@ VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware spee
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 7 • 💬 2 • ⭐ 11,986 • 1mo ago
+▲ 7 • 💬 2 • ⭐ 12,077 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -531,7 +537,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 23 • 💬 2 • ⭐ 422 • 4d ago
+▲ 23 • 💬 2 • ⭐ 422 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -543,7 +549,7 @@ PersonaLive is a diffusion-based framework for real-time portrait animation that
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 26 • 💬 2 • ⭐ 12,568 • 8d ago
+▲ 26 • 💬 2 • ⭐ 12,592 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -556,7 +562,7 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
 
-▲ 39 • 💬 1 • ⭐ 17,834 • 17mo ago
+▲ 39 • 💬 1 • ⭐ 17,874 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
 
@@ -576,20 +582,6 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 27 • 💬 2 • ⭐ 7,099 • 19d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -601,6 +593,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 199 • 💬 4 • ⭐ 7,127 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 27 • 💬 2 • ⭐ 7,130 • 19d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -624,7 +630,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 117 • 💬 18 • ⭐ 46,888 • 9mo ago
+▲ 117 • 💬 18 • ⭐ 46,940 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -680,7 +686,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 4h ago
+⭐ 1.1k • 🔱 137 • 37m ago
 
 ---
 

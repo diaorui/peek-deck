@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T21:58:59.734097+00:00'
+updated: '2025-12-16T22:28:21.018440+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 21:58 UTC  
+**Last Updated:** December 16, 2025 at 22:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +1.6%  
-**7d:** -4.6%  
-**30d:** -5.0%  
-**90d:** -25.0%  
-**1y:** -17.5%  
+**7d:** -4.4%  
+**30d:** -4.8%  
+**90d:** -24.8%  
+**1y:** -17.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.00B
+**Market Cap:** $1751.96B
 Rank #1
 
-**Circulating Supply:** 19,962,981 BTC
+**Circulating Supply:** 19,963,040 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.4%
 
 **All-Time Low:** $67.81
-+129467.9%
++129382.4%
 
 ---
 
@@ -79,7 +79,19 @@ Rank #1
 
 **[I miss the old bitcoin, straight from the GO Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pob13l/i_miss_the_old_bitcoin_straight_from_the_go/)**
 
-2h ago
+3h ago
+
+---
+
+**[Everyday someone posts it and the last dip is getting lower 😂😭😭](https://www.reddit.com/r/Bitcoin/comments/1po94vv/everyday_someone_posts_it_and_the_last_dip_is/)**
+
+4h ago
+
+---
+
+**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
+
+9h ago
 
 ---
 
@@ -89,15 +101,11 @@ Rank #1
 
 ---
 
-**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
+**[BTC will break $150K soon, I believe!!!!](https://www.reddit.com/r/Bitcoin/comments/1po7ya6/btc_will_break_150k_soon_i_believe/)**
 
-8h ago
+There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
----
-
-**[Everyday someone posts it and the last dip is getting lower 😂😭😭](https://www.reddit.com/r/Bitcoin/comments/1po94vv/everyday_someone_posts_it_and_the_last_dip_is/)**
-
-3h ago
+5h ago
 
 ---
 
@@ -114,14 +122,6 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
 3h ago
-
----
-
-**[BTC will break $150K soon, I believe!!!!](https://www.reddit.com/r/Bitcoin/comments/1po7ya6/btc_will_break_150k_soon_i_believe/)**
-
-There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
-
-4h ago
 
 ---
 
@@ -163,19 +163,19 @@ Financial Times • 1d ago
 
 ---
 
+**[Bitcoin Price Falls To $87,000, Market Sits In Extreme Fear](https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-87000)**
+
+The Bitcoin price hovered above $87,000 as prices stabilized, even as investor sentiment plunged into extreme fear.
+
+Bitcoin Magazine • 56m ago
+
+---
+
 **[What's next for bitcoin price (BTC) after small bounce to $87,000](https://www.coindesk.com/markets/2025/12/16/bitcoin-bounces-from-monday-s-worst-levels-but-sub-usd80-000-may-come-next-analyst-says)**
 
 Crypto markets remain "fragile," said Samer Hasn from XS.com. Traders are either stepping aside or being forced out.
 
 CoinDesk • 6h ago
-
----
-
-**[Bitcoin Market Decline a 'Healthy Retracement,' Says MARA's Thiel](https://finance.yahoo.com/video/bitcoin-market-decline-healthy-retracement-200321778.html)**
-
-Bitcoin is headed for its fourth annual decline in its history, falling as much as 5.2% and is now about 7% lower for the year, with volumes low and investors bailing on Bitcoin ETFs. The bear market means Bitcoin has decoupled from stocks, with the S&P 500 closing at a record earlier this month and up 16% for the year, while Bitcoin has struggled to find a footing, indicating traders are staying on the sidelines, at least for now. MARA Chairman & CEO Fred Thiel, however, expects a great performance from Bitcoin over the course of the coming year despite a 'healthy retracement' in the marketplace. He joined Carol Massar and Tim Stenovec on 'Bloomberg Businessweek Daily' to break it down.
-
-Yahoo Finance • 1h ago
 
 ---
 
@@ -187,9 +187,17 @@ dlnews.com • 11h ago
 
 ---
 
-**[Brazil's largest bank recommends a 3% Bitcoin portfolio allocation: 'real diversification'](https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification)**
+**[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
 
-The Block • 1d ago
+The Block • 11h ago
+
+---
+
+**[Strategy buys $980M more in bitcoin in past week (MSTR:NASDAQ)](https://seekingalpha.com/news/4531413-strategy-buys-980m-more-in-bitcoin-in-past-week)**
+
+Strategy (MSTR) boosts bitcoin holdings with $980M purchase; learn how this impacts crypto markets and stock performance.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -214,12 +222,6 @@ CoinDesk • 19h ago
 Nicholas Wealth filed to launch an ETF that aims to capture the performance of bitcoin outside the U.S. stock market's trading hours.
 
 Investopedia • 5h ago
-
----
-
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqeILMYOcC6uZGqVieFRkI2rVMSZ47acJ8s7s3Brkgi4zwSCAjZBNSuu&gaa_ts=6941d718&gaa_sig=QwbyWohayNVypMRexuX4bbNf-LJonVqY2TPTr-eksjktlpCnkVKi_bXiyVdIIV4iCzGZW0OyKBC4xQspRcYVBw%3D%3D)**
-
-The Wall Street Journal • 4h ago
 
 ---
 
@@ -283,7 +285,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 9 • 💬 2 • 6h ago
+⬆️ 9 • 💬 2 • 7h ago
 
 ---
 
@@ -307,7 +309,7 @@ INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://c
 
 📺 Crypto Crew University
 
-👁️ 24K • 👍 2K • 💬 139 • ⏱️ 8:22 • 7h ago
+👁️ 24K • 👍 2K • 💬 139 • ⏱️ 8:22 • 8h ago
 
 ---
 
@@ -317,7 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 238 • ⏱️ 46:12 • 6h ago
+👁️ 27K • 👍 1K • 💬 238 • ⏱️ 46:12 • 7h ago
 
 ---
 
@@ -337,7 +339,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 2K • 💬 583 • ⏱️ 8:04 • 20h ago
+👁️ 29K • 👍 2K • 💬 583 • ⏱️ 8:04 • 21h ago
 
 ---
 
