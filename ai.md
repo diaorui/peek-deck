@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T19:58:30.674925+00:00'
+updated: '2025-12-16T20:34:13.269021+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 19:58 UTC  
+**Last Updated:** December 16, 2025 at 20:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,14 +45,6 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 ---
 
-**[Anthropic Exec Forces AI Chatbot on Gay Discord Community, Members Flee](https://www.reddit.com/r/artificial/comments/1po4nzu/anthropic_exec_forces_ai_chatbot_on_gay_discord/)**
-
-“We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
-
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 4h ago
-
----
-
 **[Anyone else feel AI quietly changed their daily life this year?](https://www.reddit.com/r/artificial/comments/1po6qob/anyone_else_feel_ai_quietly_changed_their_daily/)**
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
@@ -61,11 +53,19 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 ---
 
+**[Anthropic Exec Forces AI Chatbot on Gay Discord Community, Members Flee](https://www.reddit.com/r/artificial/comments/1po4nzu/anthropic_exec_forces_ai_chatbot_on_gay_discord/)**
+
+“We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
+
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 5h ago
+
+---
+
 **[Mozilla names new CEO, Firefox to evolve into a "modern AI browser"](https://www.reddit.com/r/artificial/comments/1po4ttq/mozilla_names_new_ceo_firefox_to_evolve_into_a/)**
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 14h ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 15h ago
 
 ---
 
@@ -82,6 +82,14 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
 5h ago
+
+---
+
+**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://www.reddit.com/r/artificial/comments/1pocbf5/actor_joseph_gordonlevitt_wonders_why_ai/)**
+
+Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
+
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 19m ago
 
 ---
 
@@ -109,14 +117,6 @@ The ZLUDA open-source project that has been through several incarnations but ult
 
 ---
 
-**[If AI replaces workers, should it also pay taxes?](https://www.reddit.com/r/artificial/comments/1pn7tvx/if_ai_replaces_workers_should_it_also_pay_taxes/)**
-
-The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
-
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,71 +125,67 @@ The technological race among industry giants and the wave of layoffs they have a
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 22h ago
+The New York Times • 1d ago
 
 ---
 
-**[Grindr Goes ‘AI-First’ as It Strives to Be an ‘Everything App for the Gay Guy’](https://www.wired.com/story/grindr-ai-first-era-everything-app-for-the-gay-guy/)**
+**[Google retains spot as world's most popular internet service, but AI is growing fast](https://www.cbsnews.com/news/google-chatgpt-facebook-cloudflare-top-internet-services-2025/)**
 
-After controlling shareholders failed to take Grindr private and controversies over data and the banning of the phrase “No Zionists,” Grindr’s CEO opens up about AI, privacy, and big expansion plans.
+Global internet traffic rose 19% this year as people rely more on tech for daily communication and entertainment, new report finds.
 
-WIRED • 25m ago
-
----
-
-**[Psychologists are increasingly using – and worrying about – AI tools, poll finds : Shots - Health News](https://www.npr.org/sections/shots-health-news/2025/12/16/nx-s1-5645840/american-psychological-association-artificial-intelligence-ai)**
-
-A survey finds that 56% of psychologists are trying out artificial intelligence tools at work, mainly for administrative tasks. A majority also are concerned about harms of AI on patients and society.
-
-NPR • 31m ago
+CBS News • 35m ago
 
 ---
 
-**[Personal Perspective: LLMs cannot manage complex mental health issues.](https://www.psychologytoday.com/us/blog/how-to-do-academia/202512/ai-cannot-replace-the-expertise-of-psychologists)**
+**[The commoditization of "AI-first" marketing](https://www.fastcompany.com/91461295/the-commoditization-of-ai-first-marketing)**
 
-LLMs can, in theory, be useful in therapy, but they lack accuracy for complex cases, which is why it's vital to focus on complexity as a clinical touchstone.
-
-Psychology Today • 13m ago
+Fast Company • 23m ago
 
 ---
 
-**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/)**
+**[Inside the AI engine powering the NBA’s next generation of insights](https://www.washingtonpost.com/creativegroup/aws/inside-the-ai-engine-powering-the-nbas-next-generation-of-insights/)**
 
-Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
-
-Fortune • 1d ago
+The Washington Post • 20m ago
 
 ---
 
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqdl6af1OiwiZbfEqKwemsuUzuKuKPVMYHK9Gjb5pnMFlHibdMhK08xK&gaa_ts=6941bd4b&gaa_sig=RyOrg9rp7qaaMmfj_0_h887ZLJDN1mUPfkQ8kGEEUH81bDu5z1ArUfCE6c0ilg4Ewmq69dEYxliaMjGrqFMc1A%3D%3D)**
+**[AI future: Big Tech faces key House vote on reforming permit process](https://www.cnbc.com/2025/12/16/ai-congres-permitting-speed-act.html)**
+
+Backers say the SPEED Act is crucial to helping the U.S. beat out China and other global competitors for leadership in AI.
+
+CNBC • 3h ago
+
+---
+
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqcIg9JRyre8qudYNaO-hSqyqEYhBVpEyEjn5TH-Y7FGEhZKebU8pY1e&gaa_ts=6941c599&gaa_sig=tJmR0MPaHymJoAOR0rHiMisEsx65LsXR3Qr2brDmwF_fghWtvjtnF6xEHA_QcrBo_W_WtCyu1Gx7u3mTvBjBwg%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
-
-The Washington Post • 1h ago
-
----
-
-**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
-
-Four ways to think about this year's reckoning
-
-MIT Technology Review • 1d ago
-
----
-
 **[AI models are perfecting their hacking skills](https://www.axios.com/2025/12/16/ai-models-hacking-stanford-openai-warnings)**
 
-Axios • 1h ago
+Axios • 2h ago
+
+---
+
+**[Why 2026 could be the year of anti-AI marketing](https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap)**
+
+It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
+
+CNN • 9h ago
+
+---
+
+**[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
+
+Reuters • 7h ago
 
 ---
 
@@ -199,7 +195,7 @@ Axios • 1h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 745 • 💬 232 • 16h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 751 • 💬 234 • 17h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -207,7 +203,7 @@ Axios • 1h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 573 • 💬 947 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 573 • 💬 949 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -215,13 +211,13 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 392 • 💬 375 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 393 • 💬 375 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 363 • 💬 295 • 21h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 365 • 💬 295 • 21h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -261,15 +257,15 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 117 • 💬 47 • 10h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 122 • 💬 48 • 10h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
-**[Willison on Merchant's "Copywriters reveal how AI has decimated their industry"](https://news.ycombinator.com/item?id=46261998)**
+**[AI is wiping out entry-level tech jobs, leaving graduates stranded](https://news.ycombinator.com/item?id=46291504)**
 
-Brian Merchant has been collecting personal stories for his series AI Killed My Job - previously covering tech workers, translators, and artists - and this latest piece includes anecdotes from …
+Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 80 • 💬 89 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
+⬆️ 88 • 💬 93 • 2h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -283,7 +279,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 34K • 👍 696 • 💬 127 • ⏱️ 11:23 • 19h ago
+👁️ 34K • 👍 696 • 💬 127 • ⏱️ 11:23 • 20h ago
 
 ---
 
@@ -333,7 +329,7 @@ The AI bubble is showing signs of popping and the tech industry is waking up fro
 
 📺 Brian Jenney
 
-👁️ 50K • 👍 3K • 💬 637 • ⏱️ 15:40 • 20h ago
+👁️ 50K • 👍 3K • 💬 637 • ⏱️ 15:40 • 21h ago
 
 ---
 
@@ -343,7 +339,7 @@ Create with OpenArt https://www.openart.ai/home/?ref=isa-18 In this video, I sho
 
 📺 Isa does AI
 
-👁️ 5K • 💬 5 • ⏱️ 12:03 • 5h ago
+👁️ 5K • 💬 5 • ⏱️ 12:03 • 6h ago
 
 ---
 
@@ -447,7 +443,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 236 • 20h ago
+⬇️ 10,487 • ❤️ 237 • 20h ago
 
 ---
 
@@ -487,13 +483,15 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 ---
 
-**[Qwen-Image-i2L](https://huggingface.co/DiffSynth-Studio/Qwen-Image-i2L)**
+**[VoxCPM1.5](https://huggingface.co/openbmb/VoxCPM1.5)**
 
-*DiffSynth-Studio*
+*OpenBMB*
 
-Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
+VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware speech generation and true-to-life zero-shot voice cloning. It offers high-quality synthesis at 44.1kHz sampling rate and efficient streaming with an RTF as low as 0.17, supporting fine-tuning via SFT or LoRA.
 
-⬇️ 0 • ❤️ 185 • 14h ago
+`text-to-speech`
+
+⬇️ 2,401 • ❤️ 231 • 4d ago
 
 ---
 
@@ -684,7 +682,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 2h ago
+⭐ 1.1k • 🔱 137 • 3h ago
 
 ---
 
