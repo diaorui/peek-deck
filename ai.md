@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T14:56:14.073775+00:00'
+updated: '2025-12-16T15:28:44.701920+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 14:56 UTC  
+**Last Updated:** December 16, 2025 at 15:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 9h ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 10h ago
 
 ---
 
@@ -53,11 +53,27 @@ The technological race among industry giants and the wave of layoffs they have a
 
 ---
 
+**[Anthropic Exec Forces AI Chatbot on Gay Discord Community, Members Flee](https://www.reddit.com/r/artificial/comments/1po4nzu/anthropic_exec_forces_ai_chatbot_on_gay_discord/)**
+
+“We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
+
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 5m ago
+
+---
+
 **[ZLUDA for CUDA on non-NVIDIA GPUs enables AMD ROCm 7 support](https://www.reddit.com/r/artificial/comments/1po01ci/zluda_for_cuda_on_nonnvidia_gpus_enables_amd_rocm/)**
 
 The ZLUDA open-source project that has been through several incarnations but ultimately about getting CUDA software up and running on non-NVIDIA GPUs now supports the AMD ROCm 7 series.
 
 🔗 [phoronix.com](https://www.phoronix.com/news/ZLUDA-ROCm-7) • 3h ago
+
+---
+
+**[We used Qwen3-Coder to build a 2D Mario-style game in seconds (demo + setup guide)](https://www.reddit.com/r/artificial/comments/1po40li/we_used_qwen3coder_to_build_a_2d_mariostyle_game/)**
+
+We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
+
+31m ago
 
 ---
 
@@ -69,12 +85,6 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 ---
 
-**[Dismissing discussion of AGI as “science fiction” should be seen as a sign of total unseriousness. Time travel is science fiction. Martians are science fiction. “Even many 𝘴𝘬𝘦𝘱𝘵𝘪𝘤𝘢𝘭 experts think we may well build it in the next decade or two” is not science fiction.](https://www.reddit.com/r/artificial/comments/1po1393/dismissing_discussion_of_agi_as_science_fiction/)**
-
-🔗 [helentoner.substack.com](https://helentoner.substack.com/p/long-timelines-to-advanced-ai-have) • 2h ago
-
----
-
 **[Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot](https://www.reddit.com/r/artificial/comments/1pmuboi/microsoft_scales_back_ai_goals_because_almost/)**
 
 RIP Copilot.
@@ -83,11 +93,17 @@ RIP Copilot.
 
 ---
 
+**[Dismissing discussion of AGI as “science fiction” should be seen as a sign of total unseriousness. Time travel is science fiction. Martians are science fiction. “Even many 𝘴𝘬𝘦𝘱𝘵𝘪𝘤𝘢𝘭 experts think we may well build it in the next decade or two” is not science fiction.](https://www.reddit.com/r/artificial/comments/1po1393/dismissing_discussion_of_agi_as_science_fiction/)**
+
+🔗 [helentoner.substack.com](https://helentoner.substack.com/p/long-timelines-to-advanced-ai-have) • 2h ago
+
+---
+
 **[Compact offline medical SLM with Native Knowledge Graph + RAG audit (benchmark + HF demo)](https://www.reddit.com/r/artificial/comments/1pnwh03/compact_offline_medical_slm_with_native_knowledge/)**
 
 I’ve been experimenting with a slightly different approach to medical LMs and would really value feedback from people working on ML, health IT, or clinical education. Instead of chasing more parameters, I built a ~6 GB medical SLM that’s tightly coupled to a biomedical knowledge graph and a self‑contained RAG/audit layer. The goal is not to sound smarter than GPT‑4, but to be *safer, more structured, and auditable* for clinical decision support / education use cases. Core setup: - Base: BioGPT‑Large (~6 GB footprint) - Biomedical knowledge graph: 5k+ nodes, 25k+ edges across diseases, symptoms, treatments, risk factors, diagnostics, body parts, cellular structures - Graph‑aware embeddings + special tokens so the model “anchors” to graph concepts - Built‑in RAG/audit: entity + semantic search over the graph to validate each answer against the graph before accepting it I ran a small 5 case internal evaluation on multi sentence clinical questions (diagnosis + risk factors + tests + treatments + contraindications). Scoring dimensions: contextual accuracy, multi‑hop reasoning, entity structure, clarity, hallucination resistance. This model landed at 4.5/5 overall, including 5/5 on hallucination resistance. Baselines were typical medical SLMs (BioBERT/PubMedBERT/ClinicalBERT) and large general LLMs. Trade‑offs vs big LLMs: less fluent, more constrained; better at staying inside medically grounded entities/relations; easier to audit because every answer is tied back to explicit graph nodes. For anyone curious, there’s a HF Space demo here (model is private, Space is public responses can take 30–180s+ because of shared infra; locally it’s ~3–5s per query) on GPU, 7-10s on CPU: https://huggingface.co/spaces/cmtopbas/medical-slm-testing I’d really appreciate: - Critical feedback on the architecture (graph + audit layer) - Ideas for realistic, high‑impact use cases (e.g. med ed, trainee tools, clinician reference) where this kind of architecture would be useful - Pointers to similar work I should be aware of so I’m not reinventing the wheel Happy to share more detailed benchmarks/trace examples if there’s interest. Question 1: A 55-year-old male patient presents with persistent chest pain radiating to the left arm. He has a history of hypertension and Type 2 diabetes. ECG shows ST-segment elevation. The patient is allergic to aspirin. Question: Based on the patient’s condition, what treatments are recommended, which are contraindicated, and which risk factors are involved? Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 9 Answer → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 10 ◇ Best effort (Missing: Riskfactor) Answer 1: Hypertension is common among patients who have CKD. It can be treated effectively if it is identified early and managed appropriately. Patients should avoid medications that may exacerbate their symptoms or cause adverse effects such as angiotensin converting enzyme (ACE) inhibitors. If an ACE inhibitor cannot be used because of intolerance, then other antihypertensive agents are available. In addition to blood pressure control, treatment for heart failure includes use of diuretics, beta blockers, aldosterone antagonists, and digoxin. Treatment options also include calcium channel blockers, alpha adrenergic receptor agonists, vasodilators, and endothelin receptor antagonists. Please consult a healthcare professional for personalized medical advice. Question 2: Female patient presents with fatigue, swelling in her ankles, has a history of hypertension and chronic kidney disease. Also experiences persistent cough when taking ACE inhibitors and her Echocardiogram shows reduced ejection fraction. What is the diagnosis and treatment based on her combined diagnosis Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 8 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 7 ✓ Graph-validated (Valid) Answer 2: The diagnosis is acute heart failure (HF) due to left ventricular systolic dysfunction. Treatment includes diuretics for congestion and vasodilators or inotropes for hypotension. Angiotensin-converting enzyme inhibitor therapy should be discontinued if there are signs of worsening renal function. Hypertension can worsen cardiac outcomes by increasing afterload on the heart. Chronic kidney disease may also contribute to poor prognosis through increased risk of cardiovascular events and death. Please consult a healthcare professional for personalized medical advice. Question 3: A 45-year-old male patient reports frequent urination, excessive thirst, and fatigue. He has a family history of type 2 diabetes and is overweight. Blood tests show elevated fasting glucose and HbA1c levels. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 9 ✓ Graph-validated (Valid) Answer 3: Type 2 Diabetes Mellitus (T2DM) is an endocrine disorder that affects millions worldwide. It can be diagnosed by measuring blood sugar levels or glycated hemoglobin A1c. The American Diabetes Association recommends screening for T2DM in adults with any one of the following characteristics: age > 4 0 years; < 1 8 y / o Body Mass Index (BMI); African ancestry; Hispanic ethnicity; Asian descent; or having polycystic ovarian syndrome. Patients should also have at least two other features of the metabolic syndrome to increase their risk of developing T2DM. Treatment options are based on patients' comorbidities and goals for glycemic control. Lifestyle modifications such as diet and exercise are first line treatment but may not achieve optimal results if they fail. Medications including metformin, sulfonylureas, thiazolidinediones, dipeptidyl peptidase IV inhibitors, glucagon like peptide-1RAs. Please consult a healthcare professional for personalized medical advice. Question 4: A 30-year-old female patient reports persistent cough, fever, and shortness of breath. She recently returned from a trip abroad and has a mild history of asthma. Chest X-ray shows patchy infiltrates in the lower lobes. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications. Prompt → Categories: ['DiagnosticTest', 'Disease', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 4: The diagnosis is acute respiratory distress syndrome (ARDS) caused by pneumonia with secondary bacterial infection. ARDS can be fatal if not treated promptly. Risk factors for ARDS are discussed along with treatment options including antibiotics, corticosteroids, mechanical ventilation, vasopressors, and extracorporeal membrane oxygenation. Treatment should focus on preventing further complications such as nosocomial infections or ventilator associated events. Please consult a healthcare professional for personalized medical advice. Question 5: A 50-year-old male patient experiences abdominal pain, bloating, and intermittent diarrhea. He has a family history of celiac disease and reports gluten sensitivity. Blood tests show elevated anti-tTG antibodies. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 7 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 5: Celiac Disease is an autoimmune disorder that affects approximately 1% to 2% of people in North America. It can be diagnosed by serologic testing for IgA antitissue transglutaminase (anti-tTG) antibody levels or duodenal biopsy. The diagnosis should trigger a discussion about dietary restrictions with patients and their families. Patients must also understand the potential risks associated with untreated celiac disease, including increased susceptibility to cancer, cardiovascular diseases, type I diabetes mellitus, osteoporosis, infertility, neurologic disorders, and psychiatric conditions. Treatment options are limited but may involve lifelong adherence to a strict gluten free diet. This includes avoiding wheat products, rye, barley, oats, legumes, nuts, seeds, and other grains containing glutenins. Other treatment options include oral supplements such as zinc sulfate and magnesium oxide; however, these have not been. Please consult a healthcare professional for personalized medical advice. Please consult a healthcare professional for personalized medical advice.
 
-6h ago
+7h ago
 
 ---
 
@@ -99,22 +115,6 @@ Also: All the news and watercooler chat from Fortune.
 
 ---
 
-**[One-Minute Daily AI News 12/15/2025](https://www.reddit.com/r/artificial/comments/1pnue0h/oneminute_daily_ai_news_12152025/)**
-
-US government launches ‘Tech Force’ to hire AI talent.[1] Deep-learning model predicts how fruit flies form, cell by cell.[2] Nvidia bulks up open source offerings with an acquisition and new open AI models.[3] Podcast industry under siege as AI bots flood airways.[4] Sources: [1] https://www.cnn.com/2025/12/15/tech/government-tech-force-ai [2] https://news.mit.edu/2025/deep-learning-model-predicts-how-fruit-flies-form-1215 [3] https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/ [4] https://www.yahoo.com/news/articles/podcast-industry-under-siege-ai-051031178.html
-
-9h ago
-
----
-
-**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pnf368/its_been_a_big_week_for_agentic_ai_here_are_10/)**
-
-Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI Foundation Google drops Deep Research + AlphaEvolve agent A collection of AI Agent Updates! 🧵 1. Stripe Launches Agentic Commerce Suite Single integration for businesses to sell via multiple AI agents. Handles product discovery, agentic checkout, payments, and fraud. Manage all agents from Stripe Dashboard. Works with existing commerce stack. AI-native commerce infrastructure now available. 2. OpenAI Co-Founds Agentic AI Foundation with Anthropic and Block Under Linux Foundation to support open, interoperable standards for agentic AI. Donating to establish standards enabling safe, reliable agents across tools and repositories. Industry leaders aligning on agent interoperability. 3. Google Opens Gemini Deep Research Agent to Developers Most advanced autonomous research capabilities now embeddable in applications for first time. Also open-sourcing DeepSearchQA benchmark for evaluating agents on complex search tasks. Google's agent infrastructure available to all developers. 4. Anthropic is Developing New Agent Mode for Claude Code-named "Yukon Gold" - tasks-based complex agent experience with toggle between classic chat and agent mode. Also testing pixel art avatar generation from uploaded photos. Claude may be getting a dedicated agent interface. 5. Google Cloud Unveils AlphaEvolve Coding Agent Gemini-powered agent for designing advanced algorithms. Uses LLMs to propose intelligent code modifications with feedback loop that evolves algorithms to be more efficient. Now in private preview. Haven’t tried, but seems promising. 6. Real Agent Usage Data: Harvard Analyzes Hundreds of Millions of Queries Perplexity study shows 55% personal use, 30% professional. Productivity/workflow dominates (36% of queries), followed by learning/research (21%). Users shift from simple to complex tasks over time. Real data on how people actually use agents. 7. Stitchbygoogle Launches Redesign Agent with Code Generation Screenshot apps, visually reimagine with Gemini Pro, then convert redesigns into working HTML. "Shipmas" week begins - new ship daily with big launch Wednesday. Screenshot → Redesign → Code → Deploy workflow now live. 8. Cursor Agents Can Now Debug Your Hardest Bugs Debug Mode instruments code, spins up server, captures logs, and streams runtime data to agent. Version 2.2 adds multi-agent judging (picks best solution) and Plan Mode improvements with diagrams. AI agents now debugging production code. 9. Code Drops Major Agent Experience Upgrade Agent sessions integrated into chat view. Isolated background agents via Git worktrees enable multiple agents without conflicts. Seamless delegation with automatic context transfer between local, background, and cloud agents. Multi-agent workflows now native in VS Code. 10. Microsoft Research Unveils Agent Lightning Decouples how agents work from training. Turns each agent step into reinforcement learning data. Developers can improve agent performance with almost zero code changes. RL for agents without code rewrites. That's a wrap on this week's Agentic news. Which update are you trying first? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
-
-20h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,7 +123,7 @@ Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI 
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-NPR • 4h ago
+NPR • 5h ago
 
 ---
 
@@ -133,53 +133,33 @@ The New York Times • 23h ago
 
 ---
 
-**[Racks of AI chips are too damn heavy](https://www.theverge.com/ai-artificial-intelligence/844966/heavy-ai-data-center-buildout)**
+**[‘SNL’ Stays Silent On Alleged AI Image During Trump Story On Weekend Update](https://deadline.com/2025/12/snl-silent-ai-image-weekend-update-1236649831/)**
 
-Too great a weight.
+'SNL' star Colin Jost made a gag about Donald Trump's rally at Mount Airy Casino Resort using an alleged AI image. 'SNL' had no comment.
 
-The Verge • 1h ago
-
----
-
-**[Oracle's $248 Billion Rent is Another AI ‘Bombshell’](https://www.bloomberg.com/opinion/articles/2025-12-16/ai-bubble-oracle-delivers-next-bombshell-with-248-billion-rent)**
-
-Bloomberg.com • 4h ago
+Deadline • 20m ago
 
 ---
 
-**[Don’t throw the generative baby out with the AI bathwater](https://thehill.com/opinion/technology/5649753-ai-jagged-technological-frontier/)**
+**[Divinity Maker Is Uses Gen AI But Promises No Slop In Final Game](https://kotaku.com/larian-studios-gen-ai-divinity-bg3-2000653850)**
 
-thehill.com • 56m ago
+The RPG powerhouse promises no genAI in the finished game
 
----
-
-**[AI language models duped by poems](https://www.dw.com/en/ai-language-models-duped-by-poems/a-75180648)**
-
-A new study has shown that prompts in the form of poems confuse AI models like ChatGPT, Gemini and Claude — to the point where sometimes, security mechanisms don't kick in. Are poets the new hackers?
-
-dw.com • 39m ago
+Kotaku • 39m ago
 
 ---
 
-**[Thryv Experts Share Top AI Trends That Will Drive Small Business Success in 2026](https://finance.yahoo.com/news/thryv-experts-share-top-ai-140500501.html)**
+**[Bethlehem man sentenced under Pennsylvania’s new AI child porn law](https://www.lehighvalleylive.com/lehigh-county/2025/12/bethlehem-man-sentenced-under-pennsylvanias-new-ai-child-porn-law.html)**
 
-DALLAS, December 16, 2025--With AI at the forefront of most current business innovations, small business experts from Thryv, Inc. (NASDAQ:THRY) share their predictions for those trends poised to transform how SMBs compete and succeed in 2026.
+The 35-year-old received 2-10 years after using AI to generate nude images of children from social media photos, marking one of the first convictions under the 2024 legislation.
 
-Yahoo Finance • 51m ago
-
----
-
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqest0o7Kj7Y_u7-qTaiSPk74b0Hs-_YA5Zs7SZf27fUiIOaAX6Viwgo&gaa_ts=69417166&gaa_sig=h-T-9OPBMS7R3_RRtoOXczAakQFzPWAMBseyuCzC1Onq2Fyf7hoD48hQb9G0LoEwdVfB6DtZESFqqVnG5brz-w%3D%3D)**
-
-The Wall Street Journal • 19h ago
+lehighvalleylive • 39m ago
 
 ---
 
-**[Musicians are deeply concerned about AI. So why are the major labels embracing it?](https://www.theguardian.com/music/2025/dec/16/musicians-are-deeply-concerned-about-ai-so-why-are-the-major-labels-embracing-it)**
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqeUD2Js2ISoPrBAaPtwkX9xeDZHQH5xZmSyWm_Cs4ar5r_yveuyQHwN&gaa_ts=69417e02&gaa_sig=lvnqjWyKW6aKe630ZTvLPpierdlhUlNZmiBp_wo4bhKK9Nj5uOzy_fapuU_4a6D0H39P5LZdby6od1UvwibH2g%3D%3D)**
 
-Companies such as Udio, Suno and Klay will let you use AI to make new music based on existing artists’ work. It could mean more royalties – but many are worried
-
-The Guardian • 4h ago
+The Wall Street Journal • 20h ago
 
 ---
 
@@ -191,13 +171,35 @@ CNN • 3h ago
 
 ---
 
+**[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
+
+The Washington Post • 41m ago
+
+---
+
+**[Musicians are deeply concerned about AI. So why are the major labels embracing it?](https://www.theguardian.com/music/2025/dec/16/musicians-are-deeply-concerned-about-ai-so-why-are-the-major-labels-embracing-it)**
+
+Companies such as Udio, Suno and Klay will let you use AI to make new music based on existing artists’ work. It could mean more royalties – but many are worried
+
+The Guardian • 5h ago
+
+---
+
+**[Trump admin to hire 1,000 specialists for 'Tech Force' to build AI, finance projects](https://www.cnbc.com/2025/12/15/trump-ai-tech-force-amazon-apple.html)**
+
+A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
+
+CNBC • 22h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 622 • 💬 202 • 11h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 661 • 💬 210 • 12h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -205,13 +207,13 @@ CNN • 3h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 565 • 💬 932 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 566 • 💬 934 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 458 • 💬 460 • 2d ago
+⬆️ 458 • 💬 461 • 2d ago
 
 ---
 
@@ -219,13 +221,13 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 383 • 💬 373 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 385 • 💬 374 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 343 • 💬 255 • 16h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 346 • 💬 267 • 16h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -249,7 +251,7 @@ Some (well-known) consequences of AI automating work
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
 
-⬆️ 158 • 💬 218 • 2d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
+⬆️ 158 • 💬 219 • 2d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
 
 ---
 
@@ -309,7 +311,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 23K • 👍 642 • 💬 103 • ⏱️ 11:23 • 14h ago
+👁️ 23K • 👍 642 • 💬 103 • ⏱️ 11:23 • 15h ago
 
 ---
 
@@ -329,7 +331,7 @@ Welcome to the Lunch Time stock market hour with your host Couch Investor aka Ne
 
 📺 Couch Investor
 
-👁️ 2K • 👍 126 • 2h ago
+👁️ 2K • 👍 126 • 3h ago
 
 ---
 
@@ -383,7 +385,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,797 • 7d ago
+⬇️ 296,552 • ❤️ 2,800 • 7d ago
 
 ---
 
@@ -395,7 +397,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 377 • 1d ago
+⬇️ 28,106 • ❤️ 379 • 1d ago
 
 ---
 
@@ -407,7 +409,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 878 • 3d ago
+⬇️ 158,614 • ❤️ 879 • 3d ago
 
 ---
 
@@ -459,6 +461,18 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 ---
 
+**[NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16)**
+
+*NVIDIA*
+
+NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mamba architecture, excelling at reasoning tasks by generating explicit reasoning traces. It supports multiple languages and is suitable for commercial use, offering high accuracy in complex problem-solving.
+
+`text-generation` `31.6B`
+
+⬇️ 10,487 • ❤️ 218 • 15h ago
+
+---
+
 **[GLM-TTS](https://huggingface.co/zai-org/GLM-TTS)**
 
 *Z.ai*
@@ -471,27 +485,13 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 ---
 
-**[NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16)**
+**[Qwen-Image-i2L](https://huggingface.co/DiffSynth-Studio/Qwen-Image-i2L)**
 
-*NVIDIA*
+*DiffSynth-Studio*
 
-NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mamba architecture, excelling at reasoning tasks by generating explicit reasoning traces. It supports multiple languages and is suitable for commercial use, offering high accuracy in complex problem-solving.
+Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-`text-generation` `31.6B`
-
-⬇️ 10,487 • ❤️ 215 • 15h ago
-
----
-
-**[AutoGLM-Phone-9B-Multilingual](https://huggingface.co/zai-org/AutoGLM-Phone-9B-Multilingual)**
-
-*Z.ai*
-
-AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent assistance, capable of understanding smartphone UIs via multimodal perception and executing tasks through ADB. It enables natural language control for automated operations on Android devices.
-
-`image-text-to-text` `934,400`
-
-⬇️ 7,731 • ❤️ 183 • 6d ago
+⬇️ 0 • ❤️ 184 • 9h ago
 
 ---
 
@@ -505,23 +505,9 @@ AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent 
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 5 • 💬 2 • ⭐ 11,986 • 29d ago
+▲ 6 • 💬 2 • ⭐ 11,986 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
-**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
-
-*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
-
-🏢 GVC Lab at Great Bay University
-
-PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
-
-▲ 20 • 💬 2 • ⭐ 341 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
 ---
 
@@ -533,9 +519,23 @@ PersonaLive is a diffusion-based framework for real-time portrait animation that
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 130 • 💬 6 • ⭐ 18,200 • 3mo ago
+▲ 130 • 💬 6 • ⭐ 18,331 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
+**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
+
+*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
+
+🏢 GVC Lab at Great Bay University
+
+PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
+
+▲ 21 • 💬 2 • ⭐ 422 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
 ---
 
@@ -561,6 +561,20 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 ▲ 39 • 💬 1 • ⭐ 17,834 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
+
+---
+
+**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
+
+*Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
+
+🏢 Apple
+
+SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
+
+▲ 4 • 💬 2 • ⭐ 426 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
 ---
 
@@ -618,20 +632,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[Fara-7B: An Efficient Agentic Model for Computer Use](https://huggingface.co/papers/2511.19663)**
-
-*Ahmed Awadallah, Yash Lara, Raghav Magazine et al. (12 authors)*
-
-🏢 Microsoft
-
-FaraGen creates synthetic datasets for computer use agents, enabling the training of efficient and high-performing models like Fara-7B on diverse web tasks, outperforming larger models on benchmarks.
-
-▲ 12 • 💬 2 • ⭐ 3,187 • 21d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.19663) • [💻 code](https://github.com/microsoft/fara) • [🔗 project](https://aka.ms/msaif/fara)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -642,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.2k • 🔱 2.5k • 5h ago
+⭐ 16.3k • 🔱 2.5k • 5h ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.8k • 🔱 409 • 1h ago
+⭐ 3.8k • 🔱 411 • 1h ago
 
 ---
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.8k • 🔱 140 • 7d ago
+⭐ 1.8k • 🔱 141 • 7d ago
 
 ---
 
@@ -702,7 +702,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 895 • 🔱 23 • 8d ago
+⭐ 896 • 🔱 23 • 8d ago
 
 ---
 
@@ -722,7 +722,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 752 • 🔱 110 • 1d ago
+⭐ 754 • 🔱 110 • 1d ago
 
 ---
 

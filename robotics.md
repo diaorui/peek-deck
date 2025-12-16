@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T14:56:14.091524+00:00'
+updated: '2025-12-16T15:28:44.719486+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 14:56 UTC  
+**Last Updated:** December 16, 2025 at 15:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-4h ago
+5h ago
 
 ---
 
@@ -48,7 +48,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -64,7 +64,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,23 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
-9h ago
+10h ago
+
+---
+
+**[Getting into Robotics Research](https://www.reddit.com/r/robotics/comments/1po42nn/getting_into_robotics_research/)**
+
+Hello everyone, I’ll jump straight to my question. I’m currently looking to connect with professionals who are involved in research in robotics, especially areas like computer vision, robotic arms, and work at the intersection of AI and robotics. A bit about me: I’m currently in my internship phase and don’t have any prior research or publishing experience, but I do have a strong interest and solid knowledge in developing robots, experimenting with algorithms, and hands-on tinkering. I’m actively looking to collaborate and publish research in this domain. I can roughly dedicate around 10 hours per week to this effort. If anyone is interested, please feel free to DM me. I can share some of my work. I’d also really appreciate any advice on how to approach or find professors and researchers working in these areas. I’ve already reached out to my professors, but their research domains are quite different from what I’m looking for, which is why I’m trying to connect with people outside my immediate academic circle. Thanks in advance!
+
+28m ago
+
+---
+
+**[Should I learn to use Linux when building the SO-ARM101?](https://www.reddit.com/r/robotics/comments/1po3vt1/should_i_learn_to_use_linux_when_building_the/)**
+
+I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
+
+36m ago
 
 ---
 
@@ -92,25 +108,11 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 
 ---
 
-**[50 wheels lego](https://www.reddit.com/r/robotics/comments/1pnufll/50_wheels_lego/)**
-
-9h ago
-
----
-
-**[X-Humanoid, a system that takes real-person videos as input and outputs a new video showing a robot performing the same actions. They "robotized" a large amount of existing real-world human video, generating millions of frames of robot videos with human-like movements that can be used for training.](https://www.reddit.com/r/robotics/comments/1pn5qy5/xhumanoid_a_system_that_takes_realperson_videos/)**
-
-Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
+**[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
 The New York Times • 2d ago
 
@@ -137,6 +139,12 @@ Fortune • 2d ago
 They make robot vacuums, lots of them
 
 The Verge • 1d ago
+
+---
+
+**[Two BCSC VEX IQ robotics teams earn a spot in state championship competition](https://www.therepublic.com/2025/12/16/two-bcsc-vex-iq-robotics-teams-earn-a-spot-in-state-championship-competition/)**
+
+The Republic News • 10h ago
 
 ---
 
@@ -168,15 +176,7 @@ InvestorPlace • 2d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 20h ago
-
----
-
-**[Quantum Systems, Frontline Robotics Launch Joint Drone Production in Germany](https://www.kyivpost.com/post/66273)**
-
-Germany’s Quantum Systems and Ukraine’s Frontline Robotics have launched a joint venture to mass-produce Ukrainian drones in Germany, with all systems destined for Ukraine’s Defense Forces.
-
-Kyiv Post • 1d ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -198,7 +198,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 23K • 👍 642 • 💬 103 • ⏱️ 11:23 • 14h ago
+👁️ 23K • 👍 642 • 💬 103 • ⏱️ 11:23 • 15h ago
 
 ---
 
