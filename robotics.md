@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T22:56:17.321335+00:00'
+updated: '2025-12-16T23:23:41.724831+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 22:56 UTC  
+**Last Updated:** December 16, 2025 at 23:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
 
-10h ago
+11h ago
 
 ---
 
@@ -84,6 +84,14 @@ I just ordered all of the parts and finished 3D printing all of the components. 
 
 ---
 
+**[AI has mastered chess it still hasn't mastered gravity](https://www.reddit.com/r/robotics/comments/1pogr5x/ai_has_mastered_chess_it_still_hasnt_mastered/)**
+
+We spend a lot of time debating AGI and the "Left Shift" in software. But as this video proves, the "Physical Shift" is a much harder engineering problem. This is a perfect example of Moravec’s Paradox: High-level reasoning (coding, writing, math) requires surprisingly little computation. Low-level motor skills (walking, balance, not face-planting) require massive computational power. The Economic Reality Check: While our digital agents are getting smarter by the week, the "Core Economy"—construction, logistics, and elder care—is still bound by physics. We aren't just waiting for better software; we are waiting for better actuators, batteries, and sensor fusion. The Verdict: The "Terminator" future is on hold... at least until the next firmware update. For now, enjoy the bloopers. Robotics #AI #MoravecsParadox #FutureOfWork #Engineering LinkedIn
+
+🔗 [linkedin.com](https://www.linkedin.com/posts/procoder_robotics-ai-moravecsparadox-activity-7406588876745744384-ZeJp?utm_source=share&utm_medium=member_android&rcm=ACoAAABvw7ABTak_BnRFmTE0cY0j_nROJbWBXPU) • 9m ago
+
+---
+
 **[Boost Robotics is Hiring Founding Engineers (ML for Manipulation, General Software, and Hardware) in Cambridge, MA](https://www.reddit.com/r/robotics/comments/1pns1d5/boost_robotics_is_hiring_founding_engineers_ml/)**
 
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
@@ -97,14 +105,6 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
 
 1d ago
-
----
-
-**[How to run dual-arm UR5e with MoveIt 2 on real hardware](https://www.reddit.com/r/robotics/comments/1po7dth/how_to_run_dualarm_ur5e_with_moveit_2_on_real/)**
-
-Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
-
-5h ago
 
 ---
 
@@ -122,7 +122,7 @@ The New York Times • 2d ago
 
 The microbots have tiny computers, sensors, and actuators. They can sense temperature and swim autonomously.
 
-SingularityHub • 7h ago
+SingularityHub • 8h ago
 
 ---
 
@@ -144,13 +144,13 @@ Tech Xplore • 1d ago
 
 From disaster zones, to oil spills, to the Great Pyramids of Giza, iRobot has taken its robot everywhere in its 35 years.
 
-The Robot Report • 40m ago
+The Robot Report • 1h ago
 
 ---
 
 **[Two BCSC VEX IQ robotics teams earn a spot in state championship competition](https://www.therepublic.com/2025/12/16/two-bcsc-vex-iq-robotics-teams-earn-a-spot-in-state-championship-competition/)**
 
-The Republic News • 17h ago
+The Republic News • 18h ago
 
 ---
 
@@ -162,19 +162,19 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Serve Robotics Deploys 2,000 Robots & Leads U.S. Sidewalk Delivery](https://finance.yahoo.com/news/serve-robotics-deploys-2-000-163700829.html)**
-
-SERV reaches its 2025 target with 2,000+ autonomous robots, becoming the largest U.S. sidewalk delivery fleet through rapid expansion and disciplined execution.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
 
 They make robot vacuums, lots of them
 
 The Verge • 1d ago
+
+---
+
+**[Serve Robotics Deploys 2,000 Robots & Leads U.S. Sidewalk Delivery](https://finance.yahoo.com/news/serve-robotics-deploys-2-000-163700829.html)**
+
+SERV reaches its 2025 target with 2,000+ autonomous robots, becoming the largest U.S. sidewalk delivery fleet through rapid expansion and disciplined execution.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 38K • 👍 732 • 💬 131 • ⏱️ 11:23 • 22h ago
+👁️ 38K • 👍 732 • 💬 131 • ⏱️ 11:23 • 23h ago
 
 ---
 
@@ -216,7 +216,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 7K • 👍 1K • 💬 33 • ⏱️ 1:38 • 6h ago
+👁️ 7K • 👍 1K • 💬 33 • ⏱️ 1:38 • 7h ago
 
 ---
 

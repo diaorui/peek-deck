@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T22:56:17.312012+00:00'
+updated: '2025-12-16T23:23:41.715379+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 22:56 UTC  
+**Last Updated:** December 16, 2025 at 23:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** -4.4%  
+**24h:** +2.3%  
+**7d:** -4.5%  
 **30d:** -4.8%  
-**90d:** -24.8%  
+**90d:** -24.9%  
 **1y:** -17.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.96B
+**Market Cap:** $1750.84B
 Rank #1
 
-**Circulating Supply:** 19,963,040 BTC
+**Circulating Supply:** 19,963,065 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.4%
 
 **All-Time Low:** $67.81
-+129382.4%
++129290.9%
 
 ---
 
@@ -85,19 +85,19 @@ Rank #1
 
 **[Everyday someone posts it and the last dip is getting lower 😂😭😭](https://www.reddit.com/r/Bitcoin/comments/1po94vv/everyday_someone_posts_it_and_the_last_dip_is/)**
 
-4h ago
-
----
-
-**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
-
-9h ago
+5h ago
 
 ---
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
 11h ago
+
+---
+
+**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
+
+10h ago
 
 ---
 
@@ -125,9 +125,9 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 ---
 
-**[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
+**[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
 
-6h ago
+1h ago
 
 ---
 
@@ -137,9 +137,9 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 ---
 
-**[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
+**[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
 
-7h ago
+6h ago
 
 ---
 
@@ -163,19 +163,55 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Price Falls To $87,000, Market Sits In Extreme Fear](https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-87000)**
+**[Bitcoin Treasury KindlyMD Faces Nasdaq Delisting With Stock Down 99%](https://finance.yahoo.com/news/bitcoin-treasury-kindlymd-faces-nasdaq-222119629.html)**
 
-The Bitcoin price hovered above $87,000 as prices stabilized, even as investor sentiment plunged into extreme fear.
+KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Bitcoin Magazine • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[What's next for bitcoin price (BTC) after small bounce to $87,000](https://www.coindesk.com/markets/2025/12/16/bitcoin-bounces-from-monday-s-worst-levels-but-sub-usd80-000-may-come-next-analyst-says)**
+**[Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle](https://finance.yahoo.com/news/why-bitwise-expects-bitcoin-highs-224447870.html)**
 
-Crypto markets remain "fragile," said Samer Hasn from XS.com. Traders are either stepping aside or being forced out.
+Crypto investment firm Bitwise believes Bitcoin will set a new all-time high price in 2026 and end the typical four-year cycle. Here's why.
+
+Yahoo Finance • 38m ago
+
+---
+
+**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqf-IrMkdm0vLgWevB9hJUXeMPrEhP-bUcFSymCO-JDuYWRe6-w_BYS7&gaa_ts=6941ed0a&gaa_sig=48grtnEmobKzNhdunbDae1oHgJW6TK1vBv1zORI4dBXyxEVEkQnTflz62bKQJtX3YqMKQsYtMmUwxg_X9yl02Q%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Look Out Below: Another 3% Drop In Bitcoin Brings This Token Toward a Key Level](https://www.fool.com/investing/2025/12/15/look-out-below-another-3-drop-in-bitcoin-brings-th/)**
+
+Bitcoin's recent price decline has picked up steam in recent weeks.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin (BTC) treasury company news: ABTC brings holdings to 5,098 coins](https://www.coindesk.com/markets/2025/12/16/eric-trump-s-american-bitcoin-jumps-to-20th-among-public-btc-treasury-companies)**
+
+After its latest purchase, the company now holds 5,098 bitcoin worth nearly $450 million
 
 CoinDesk • 6h ago
+
+---
+
+**[Billionaire Michael Saylor Announces New $1 Billion Bitcoin Purchase – Does He Know Something is Coming?](https://finance.yahoo.com/news/billionaire-michael-saylor-announces-1-133134376.html)**
+
+Bitcoin bull Michael Saylor’s Strategy has doubled down on its long-standing conviction, announcing another massive Bitcoin buy worth nearly $1 billion. Key Takeaways: Strategy bought $980 million in Bitcoin, increasing its holdings to 671,268 BTC. The purchase was funded through stock sales The purchase comes after Strategy created a $1.44 ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqf5cNORxe20ZWWggWWCaVBnJQ4DWT_oqmlvA5WEaiI6CWrtU-ppDReB&gaa_ts=6941ed0a&gaa_sig=g-VS2d0eSSYnqmSkQcwax6Mbwqvz3z1vRmARaNrwrCuMhci1-2Uiuy-mYXI4g2ORHliJgZufiH5OlpL2eyZZaQ%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -184,44 +220,6 @@ CoinDesk • 6h ago
 Michael Saylor’s Strategy now holds about $58 billion in Bitcoin. The treasury company’s CEO predicts massive Bitcoin buying in 2026. The firm’s stock price is down 63% from its July high.
 
 dlnews.com • 12h ago
-
----
-
-**[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
-
-The Block • 12h ago
-
----
-
-**[Strategy buys $980M more in bitcoin in past week (MSTR:NASDAQ)](https://seekingalpha.com/news/4531413-strategy-buys-980m-more-in-bitcoin-in-past-week)**
-
-Strategy (MSTR) boosts bitcoin holdings with $980M purchase; learn how this impacts crypto markets and stock performance.
-
-Seeking Alpha • 1d ago
-
----
-
-**[U.S. Spot Bitcoin ETFs See Biggest Outflows Since Nov. 20](https://bitbo.io/news/bitcoin-etf-outflows-monday/)**
-
-U.S. spot bitcoin ETFs saw $357.6 million of net outflows on Monday, part of a $582 million combined ETF withdrawal, as bitcoin fell to as low as $85,100 and traders watched the $83,000 ETF cost-basis level for support.
-
-Bitbo • 7h ago
-
----
-
-**[Why bitcoin ETFs look like they’re falling short, even as their role grows: Asia Morning Briefing](https://www.coindesk.com/markets/2025/12/16/why-bitcoin-etfs-look-like-they-re-falling-short-even-as-their-role-grows-asia-morning-briefing)**
-
-What looks like underperformance reflects a structural shift: ETF flows now smooth volatility rather than amplify crypto rallies.
-
-CoinDesk • 20h ago
-
----
-
-**[There's a Proposed ETF for People Who Think Bitcoin Performs Better at Night](https://www.investopedia.com/there-s-a-proposed-etf-for-people-who-think-bitcoin-performs-better-at-night-btc-11867463)**
-
-Nicholas Wealth filed to launch an ETF that aims to capture the performance of bitcoin outside the U.S. stock market's trading hours.
-
-Investopedia • 6h ago
 
 ---
 
@@ -285,7 +283,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 9 • 💬 2 • 7h ago
+⬆️ 10 • 💬 2 • 8h ago
 
 ---
 
@@ -309,7 +307,7 @@ INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://c
 
 📺 Crypto Crew University
 
-👁️ 24K • 👍 2K • 💬 139 • ⏱️ 8:22 • 8h ago
+👁️ 24K • 👍 2K • 💬 139 • ⏱️ 8:22 • 9h ago
 
 ---
 

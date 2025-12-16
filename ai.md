@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T22:56:17.303383+00:00'
+updated: '2025-12-16T23:23:41.706725+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 22:56 UTC  
+**Last Updated:** December 16, 2025 at 23:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 5h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 2h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 7h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 8h ago
 
 ---
 
@@ -81,7 +81,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 17h ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 18h ago
 
 ---
 
@@ -89,7 +89,15 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
-7h ago
+8h ago
+
+---
+
+**[Mozilla’s new CEO is doubling down on an AI future for Firefox | Anthony Enzor-DeMeo says he thinks there’s room for another browser, even an AI browser — as long as you can trust it.](https://www.reddit.com/r/artificial/comments/1pofqfd/mozillas_new_ceo_is_doubling_down_on_an_ai_future/)**
+
+Anthony Enzor-DeMeo is taking charge of one of the internet’s most important — and most complicated — companies.
+
+🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 52m ago
 
 ---
 
@@ -109,43 +117,73 @@ Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to 
 
 ---
 
-**[Beyond LLMs: Real Path to GenAI](https://www.reddit.com/r/artificial/comments/1pofcf0/beyond_llms_real_path_to_genai/)**
-
-I’ve been experimenting with a slightly different approach to AI, and I’d genuinely value feedback from people working in ML, health IT, or clinical education. Instead of scaling parameters, I built a compact medical SLM (6GB) that’s tightly coupled to a medical knowledge graph and a self-contained RAG + audit layer, designed to keep outputs grounded in verifiable medical entities and relationships. The underlying Graph Info Map currently contains 5k+ nodes and 25k+ edges spanning diseases, symptoms, treatments, risk factors, diagnostics, body parts, and cellular structures. The model uses KG-specific tokens and annotated medical text as anchors serving as a reference dictionary and a mechanism for understanding multidirectional medical relationships. Despite its small size, the system can handle multi-symptom clinical scenarios and produce diagnoses and treatment options that remain consistent with the graph. I’ve included five such prompt examples below. In these tests, outputs stayed within validated entities and relations avoiding the free-form hallucinations often seen in unconstrained generative models. Trade-offs vs large LLMs: Less fluent and more constrained, but significantly easier to audit, more medically grounded, and fully self-contained (no internet required). Every output is traceable to explicit graph nodes. The model is still under active development, but the architecture, a native knowledge graph integrated directly into reasoning, has proven extensible and scalable as the information base grows (expanding with 200K new clinical cases). My current thinking is that this represents a viable path for certain GenAI systems: LLMs excel at language transmission, while knowledge graphs provide structured understanding, auditability, and hallucination resistance. I’m exploring applications as: an assistant for medical students a second-opinion support tool for clinicians I’m open to conversations with potential co-founders or investors with AI or medical backgrounds. Happy to share deeper benchmarks, trace-level examples, or a link to the Hugging Face demo with interested parties. Question 1: A 55-year-old male patient presents with persistent chest pain radiating to the left arm. He has a history of hypertension and Type 2 diabetes. ECG shows ST-segment elevation. The patient is allergic to aspirin. Question: Based on the patient’s condition, what treatments are recommended, which are contraindicated, and which risk factors are involved? Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 9 Answer → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 10 ◇ Best effort (Missing: Riskfactor) Answer 1: Hypertension is common among patients who have CKD. It can be treated effectively if it is identified early and managed appropriately. Patients should avoid medications that may exacerbate their symptoms or cause adverse effects such as angiotensin converting enzyme (ACE) inhibitors. If an ACE inhibitor cannot be used because of intolerance, then other antihypertensive agents are available. In addition to blood pressure control, treatment for heart failure includes use of diuretics, beta blockers, aldosterone antagonists, and digoxin. Treatment options also include calcium channel blockers, alpha adrenergic receptor agonists, vasodilators, and endothelin receptor antagonists. Please consult a healthcare professional for personalized medical advice. Question 2: Female patient presents with fatigue, swelling in her ankles, has a history of hypertension and chronic kidney disease. Also experiences persistent cough when taking ACE inhibitors and her Echocardiogram shows reduced ejection fraction. What is the diagnosis and treatment based on her combined diagnosis Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 8 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 7 ✓ Graph-validated (Valid) Answer 2: The diagnosis is acute heart failure (HF) due to left ventricular systolic dysfunction. Treatment includes diuretics for congestion and vasodilators or inotropes for hypotension. Angiotensin-converting enzyme inhibitor therapy should be discontinued if there are signs of worsening renal function. Hypertension can worsen cardiac outcomes by increasing afterload on the heart. Chronic kidney disease may also contribute to poor prognosis through increased risk of cardiovascular events and death. Please consult a healthcare professional for personalized medical advice. Question 3: A 45-year-old male patient reports frequent urination, excessive thirst, and fatigue. He has a family history of type 2 diabetes and is overweight. Blood tests show elevated fasting glucose and HbA1c levels. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 9 ✓ Graph-validated (Valid) Answer 3: Type 2 Diabetes Mellitus (T2DM) is an endocrine disorder that affects millions worldwide. It can be diagnosed by measuring blood sugar levels or glycated hemoglobin A1c. The American Diabetes Association recommends screening for T2DM in adults with any one of the following characteristics: age > 4 0 years; < 1 8 y / o Body Mass Index (BMI); African ancestry; Hispanic ethnicity; Asian descent; or having polycystic ovarian syndrome. Patients should also have at least two other features of the metabolic syndrome to increase their risk of developing T2DM. Treatment options are based on patients' comorbidities and goals for glycemic control. Lifestyle modifications such as diet and exercise are first line treatment but may not achieve optimal results if they fail. Medications including metformin, sulfonylureas, thiazolidinediones, dipeptidyl peptidase IV inhibitors, glucagon like peptide-1RAs. Please consult a healthcare professional for personalized medical advice. Question 4: A 30-year-old female patient reports persistent cough, fever, and shortness of breath. She recently returned from a trip abroad and has a mild history of asthma. Chest X-ray shows patchy infiltrates in the lower lobes. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications. Prompt → Categories: ['DiagnosticTest', 'Disease', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 4: The diagnosis is acute respiratory distress syndrome (ARDS) caused by pneumonia with secondary bacterial infection. ARDS can be fatal if not treated promptly. Risk factors for ARDS are discussed along with treatment options including antibiotics, corticosteroids, mechanical ventilation, vasopressors, and extracorporeal membrane oxygenation. Treatment should focus on preventing further complications such as nosocomial infections or ventilator associated events. Please consult a healthcare professional for personalized medical advice. Question 5: A 50-year-old male patient experiences abdominal pain, bloating, and intermittent diarrhea. He has a family history of celiac disease and reports gluten sensitivity. Blood tests show elevated anti-tTG antibodies. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 7 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 5: Celiac Disease is an autoimmune disorder that affects approximately 1% to 2% of people in North America. It can be diagnosed by serologic testing for IgA antitissue transglutaminase (anti-tTG) antibody levels or duodenal biopsy. The diagnosis should trigger a discussion about dietary restrictions with patients and their families. Patients must also understand the potential risks associated with untreated celiac disease, including increased susceptibility to cancer, cardiovascular diseases, type I diabetes mellitus, osteoporosis, infertility, neurologic disorders, and psychiatric conditions. Treatment options are limited but may involve lifelong adherence to a strict gluten free diet. This includes avoiding wheat products, rye, barley, oats, legumes, nuts, seeds, and other grains containing glutenins. Other treatment options include oral supplements such as zinc sulfate and magnesium oxide; however, these have not been. Please consult a healthcare professional for personalized medical advice. Please consult a healthcare professional for personalized medical advice. #medicalAI #LLM #RAG #GRAGH #SLM #knowledgegraph #healthtech #digitalhealth #AIinHealthcare #MedTech #BioGPT #GENAI
-
-40m ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Opinion | Will Creative Work Survive A.I.?](https://www.nytimes.com/2025/12/16/opinion/artists-creative-work-ai.html)**
-
-The New York Times • 12h ago
-
----
 
 **[Teachers are using software to see if students used AI. What happens when it's wrong?](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students)**
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
-**[SoundHound AI CEO to unveil new in-vehicle tech and vision for generative AI at CES](https://www.foxbusiness.com/video/6386570652112)**
+**[Opinion | The Starving Artist vs. A.I.: Guess Who Is Winning?](https://www.nytimes.com/2025/12/16/opinion/artists-creative-work-ai.html)**
 
-SoundHound AI co-founder and CEO Keyvan Mohajer discusses the company's groundbreaking in-vehicle generative AI technology, enabling voice-command restaurant reservations, parking and other commerce on ‘The Claman Countdown.’
-
-Fox Business • 51m ago
+The New York Times • 13h ago
 
 ---
 
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqe5JlonVd0abbYC1ea-B9SVY87FW2aef2ibIJvPDF12R1QAWQB0cwUm&gaa_ts=6941e070&gaa_sig=gFXWhm_pfGp7OS7qZk5YE26uPZ7N4nBZvdEs-sfTwM7CCAk4uH-UBUt7s2xLi6PcuXeXm1rwAYMOGx3G1yGU8g%3D%3D)**
+**[Larian CEO Responds to Divinity Gen AI Backlash: 'We Are Neither Releasing a Game With Any AI Components, Nor Are We Looking at Trimming Down Teams to Replace Them With AI'](https://www.ign.com/articles/larian-ceo-responds-to-divinity-gen-ai-backlash-we-are-neither-releasing-a-game-with-any-ai-components-nor-are-we-looking-at-trimming-down-teams-to-replace-them-with-ai)**
+
+This morning, the news broke that Larian Studios, developer of Baldur's Gate 3 and the upcoming, just-announced Divinity, is apparently using generative AI behind the scenes. The backlash has been swift, and now Larian founder and game director Swen Vincke is responding to clarify his remarks.
+
+IGN • 5h ago
+
+---
+
+**[BG3 studio Larian says it's using genAI for Divinity, but not 'looking at trimming down teams to replace them'](https://www.polygon.com/divinity-larian-studios-generative-ai-swen-vincke/)**
+
+'We are neither releasing a game with any AI components, nor are we looking at trimming down teams to replace them with AI'
+
+Polygon • 48m ago
+
+---
+
+**[Baldur's Gate, Divinity Dev CEO Responds To Backlash Over Generative AI Comments](https://www.gamespot.com/articles/baldurs-gate-divinity-dev-reveals-how-it-uses-generative-ai/1100-6537001/)**
+
+The new Divinity game will have no AI-generated content in it, however.
+
+GameSpot • 2h ago
+
+---
+
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqcQVLpsWtLpPTWAwdiHOcDmpO6V8nXR38jtA3q9ZpO3S3RJtQfEmj70&gaa_ts=6941ed62&gaa_sig=pfPcY1yLk08IYBQy_W2S4IiKKWS2f5fBbjmuhocmLZMC06ptC8DFlow50CQi4f60WJtRHmtrbCqT1IqF5A-HuQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
+
+---
+
+**[OpenAI Just Dropped a New AI Image Model in ChatGPT to Rival Google's Nano Banana](https://www.cnet.com/tech/services-and-software/openai-new-ai-image-model-1-5-to-rival-googles-nano-banana/)**
+
+OpenAI's Image Model 1.5 is out now, and it comes with a new creative studio for editing.
+
+CNET • 5h ago
+
+---
+
+**[OpenAI releases new image model as it races to outpace Google’s Nano Banana amid company code red](https://fortune.com/2025/12/16/openai-releases-new-image-model-as-it-races-to-outpace-googles-nano-banana-amid-company-code-red/)**
+
+The update follows Sam Altman’s internal “code red” push, as OpenAI races to counter Google’s fast-growing Gemini and its viral Nano Banana image model.
+
+Fortune • 5h ago
+
+---
+
+**[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
+
+The Washington Post • 5h ago
 
 ---
 
@@ -153,43 +191,7 @@ The Wall Street Journal • 1d ago
 
 The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
 
-newsroom.churchofjesuschrist.org • 6h ago
-
----
-
-**[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
-
-The Washington Post • 4h ago
-
----
-
-**[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
-
-Reuters • 1h ago
-
----
-
-**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
-
-Four ways to think about this year's reckoning
-
-MIT Technology Review • 1d ago
-
----
-
-**[Why 2026 could be the year of anti-AI marketing](https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap)**
-
-It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
-
-CNN • 11h ago
-
----
-
-**[AI future: Big Tech faces key House vote on reforming permit process](https://www.cnbc.com/2025/12/16/ai-congres-permitting-speed-act.html)**
-
-Backers say the SPEED Act is crucial to helping the U.S. beat out China and other global competitors for leadership in AI.
-
-CNBC • 6h ago
+newsroom.churchofjesuschrist.org • 7h ago
 
 ---
 
@@ -199,7 +201,7 @@ CNBC • 6h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 768 • 💬 235 • 19h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 775 • 💬 237 • 20h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -207,7 +209,7 @@ CNBC • 6h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 576 • 💬 963 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 578 • 💬 966 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -215,13 +217,13 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 393 • 💬 375 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 394 • 💬 375 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 366 • 💬 298 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 367 • 💬 302 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -238,6 +240,12 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 Some (well-known) consequences of AI automating work
 
 ⬆️ 256 • 💬 118 • 2d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+
+---
+
+**[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
+
+⬆️ 179 • 💬 94 • 2h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -261,15 +269,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 123 • 💬 49 • 13h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
-
----
-
-**[AI is wiping out entry-level tech jobs, leaving graduates stranded](https://news.ycombinator.com/item?id=46291504)**
-
-Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
-
-⬆️ 101 • 💬 114 • 5h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 125 • 💬 49 • 13h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -283,7 +283,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 38K • 👍 732 • 💬 131 • ⏱️ 11:23 • 22h ago
+👁️ 38K • 👍 732 • 💬 131 • ⏱️ 11:23 • 23h ago
 
 ---
 
@@ -313,7 +313,7 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 📺 AI Revolution
 
-👁️ 44K • 👍 2K • 💬 171 • ⏱️ 12:07 • 1d ago
+👁️ 44K • 👍 2K • 💬 171 • ⏱️ 12:07 • 2d ago
 
 ---
 
@@ -371,7 +371,7 @@ New York has become one of the first states to take major action against decepti
 
 📺 PURE Girl
 
-👁️ 80K • 👍 828 • 💬 79 • ⏱️ 0:05 • 20h ago
+👁️ 80K • 👍 828 • 💬 79 • ⏱️ 0:05 • 21h ago
 
 ---
 
@@ -391,18 +391,6 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 ---
 
-**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
-
-*Mistral AI_*
-
-Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
-
-`24.0B`
-
-⬇️ 28,106 • ❤️ 381 • 2d ago
-
----
-
 **[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
 
 *Microsoft*
@@ -411,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 892 • 4d ago
+⬇️ 158,614 • ❤️ 894 • 4d ago
 
 ---
 
@@ -435,7 +423,19 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 102,395 • ❤️ 460 • 7d ago
+⬇️ 102,395 • ❤️ 461 • 7d ago
+
+---
+
+**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
+
+*Mistral AI_*
+
+Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
+
+`24.0B`
+
+⬇️ 28,106 • ❤️ 382 • 2d ago
 
 ---
 
@@ -447,7 +447,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 245 • 23h ago
+⬇️ 10,487 • ❤️ 246 • 23h ago
 
 ---
 
@@ -460,18 +460,6 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 `automatic-speech-recognition` `2.3B`
 
 ⬇️ 74,813 • ❤️ 235 • 4d ago
-
----
-
-**[Devstral-2-123B-Instruct-2512](https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512)**
-
-*Mistral AI_*
-
-Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineering tasks, excelling in codebase exploration, multi-file editing, and powering SWE agents with a 256k context window.
-
-`125.0B`
-
-⬇️ 6,543 • ❤️ 226 • 2d ago
 
 ---
 
@@ -496,6 +484,16 @@ VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware spee
 `text-to-speech`
 
 ⬇️ 2,401 • ❤️ 231 • 4d ago
+
+---
+
+**[Qwen-Image-i2L](https://huggingface.co/DiffSynth-Studio/Qwen-Image-i2L)**
+
+*DiffSynth-Studio*
+
+Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
+
+⬇️ 0 • ❤️ 187 • 17h ago
 
 ---
 

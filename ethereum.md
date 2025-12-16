@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T22:56:17.318063+00:00'
+updated: '2025-12-16T23:23:41.721517+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 22:56 UTC  
+**Last Updated:** December 16, 2025 at 23:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,959.09
+### $2,955.67
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
+**24h:** +0.5%  
 **7d:** -11.0%  
-**30d:** -2.5%  
+**30d:** -2.4%  
 **90d:** -35.6%  
-**1y:** -24.1%  
+**1y:** -24.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.42B
+**Market Cap:** $355.92B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.3%
 
 **All-Time Low:** $0.43
-+681759.9%
++682332.6%
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -148,7 +148,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqc2934FIjxiVYTGa4Nw4ONDY5RLxPjeo8vGXg4xMj7PeYdMfOUS3rd5&gaa_ts=6941e073&gaa_sig=cshAc5NkJ27cabs4xSAeHaNsZMonUVvOGtbUidEkByhXTztLwjhX-Utsv-24Sv_-3wkYYdXjfyJYAbiIh41Bgg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcKc5rOFY1gwoQA7we-Q5bWa0xVMyRPnIrTpcd991_3xOgMEx5uYbzy&gaa_ts=6941ed0d&gaa_sig=6O4gCrWbBFs3eLOl1kbn_-ESwok_a7o4Oe5_Geiw-835KNwBsLdGP5Wbzgb8ry96OMSEvSxFjgCpjPGjPVa59w%3D%3D)**
 
 Barron's • 1h ago
 
@@ -158,7 +158,7 @@ Barron's • 1h ago
 
 Bitcoin and Ethereum dipped and then climbed Tuesday following U.S. jobs data that shows the highest unemployment rate in four years.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -206,13 +206,13 @@ Yahoo Finance • 1d ago
 
 **[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-CCN.com • 7h ago
+CCN.com • 8h ago
 
 ---
 
 **[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
 
-TipRanks • 6h ago
+TipRanks • 7h ago
 
 ---
 
@@ -276,7 +276,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 166 • 💬 18 • ⏱️ 6:53 • 22h ago
+👁️ 4K • 👍 166 • 💬 18 • ⏱️ 6:53 • 23h ago
 
 ---
 
@@ -296,7 +296,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 160 • 👍 19 • 💬 20 • ⏱️ 8:32 • 4h ago
+👁️ 160 • 👍 19 • 💬 20 • ⏱️ 8:32 • 5h ago
 
 ---
 
