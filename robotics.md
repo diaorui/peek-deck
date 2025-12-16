@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T12:51:29.020300+00:00'
+updated: '2025-12-16T13:33:09.861868+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 12:51 UTC  
+**Last Updated:** December 16, 2025 at 13:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-2h ago
+3h ago
 
 ---
 
@@ -48,7 +48,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -56,7 +56,15 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
 
-23h ago
+1d ago
+
+---
+
+**[A self-balancing wheel](https://www.reddit.com/r/robotics/comments/1po0ani/a_selfbalancing_wheel/)**
+
+I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
+
+1h ago
 
 ---
 
@@ -68,19 +76,11 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 ---
 
-**[A self-balancing wheel](https://www.reddit.com/r/robotics/comments/1po0ani/a_selfbalancing_wheel/)**
-
-I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
-
-45m ago
-
----
-
 **[Robots are coming..](https://www.reddit.com/r/robotics/comments/1pnty34/robots_are_coming/)**
 
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
-7h ago
+8h ago
 
 ---
 
@@ -92,19 +92,17 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 
 ---
 
-**[Can a software developer found a succesful robotics company?](https://www.reddit.com/r/robotics/comments/1pnzbpt/can_a_software_developer_found_a_succesful/)**
-
-What do you guys think? Do you know examples of founders that built successful robotics companies but they didn't come from robotics background? I see that most founders of robotics startups have robotics background compared to software where there are many companies that have founders that are not developers.
-
-1h ago
-
----
-
 **[X-Humanoid, a system that takes real-person videos as input and outputs a new video showing a robot performing the same actions. They "robotized" a large amount of existing real-world human video, generating millions of frames of robot videos with human-like movements that can be used for training.](https://www.reddit.com/r/robotics/comments/1pn5qy5/xhumanoid_a_system_that_takes_realperson_videos/)**
 
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
 
 1d ago
+
+---
+
+**[50 wheels lego](https://www.reddit.com/r/robotics/comments/1pnufll/50_wheels_lego/)**
+
+7h ago
 
 ---
 
@@ -115,6 +113,22 @@ Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
 The New York Times • 2d ago
+
+---
+
+**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
+
+“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
+
+Fortune • 2d ago
+
+---
+
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+
+South China Morning Post • 2d ago
 
 ---
 
@@ -130,7 +144,7 @@ The Verge • 1d ago
 
 It is my pleasure to open this edition of our quarterly newsletter as we approach the end of 2025 - a year that has brought remarkable momentum, important breakthroughs, and renewed confidence to the global robotics community.
 
-International Federation of Robotics • 2h ago
+International Federation of Robotics • 3h ago
 
 ---
 
@@ -150,20 +164,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[3 Underrated Robotics Stocks Poised for Huge Gains](https://www.marketbeat.com/stock-ideas/3-underrated-robotics-stocks-poised-for-huge-gains/)**
-
-MarketBeat • 1d ago
-
----
-
-**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://finance.yahoo.com/news/94-billion-robotics-market-set-194400551.html)**
-
-This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
-
-Yahoo Finance • 2d ago
-
----
-
 **[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
@@ -176,15 +176,15 @@ InvestorPlace • 1d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 
-**[Quantum Systems and Frontline Robotics Open Joint Drone Production Facility in Germany for Ukraine](https://militarnyi.com/en/news/quantum-systems-and-frontline-robotics-open-joint-drone-production-facility-in-germany-for-ukraine/)**
+**[Quantum Systems, Frontline Robotics Launch Joint Drone Production in Germany](https://www.kyivpost.com/post/66273)**
 
-German company Quantum Systems and Ukrainian drone manufacturer Frontline Robotics announced the creation of a joint venture, Quantum Frontline Industries.
+Germany’s Quantum Systems and Ukraine’s Frontline Robotics have launched a joint venture to mass-produce Ukrainian drones in Germany, with all systems destined for Ukraine’s Defense Forces.
 
-Мілітарний • 20h ago
+Kyiv Post • 23h ago
 
 ---
 
@@ -198,7 +198,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 21K • 👍 605 • 💬 100 • ⏱️ 11:23 • 12h ago
+👁️ 21K • 👍 605 • 💬 100 • ⏱️ 11:23 • 13h ago
 
 ---
 
@@ -208,7 +208,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 24K • 👍 644 • 💬 96 • ⏱️ 6:41 • 1d ago
+👁️ 24K • 👍 644 • 💬 96 • ⏱️ 6:41 • 2d ago
 
 ---
 
@@ -254,7 +254,7 @@ Discover the latest girlfriend robot in this eye-opening tech expo experience! E
 
 📺 Ricey Rice
 
-👁️ 216K • 👍 765 • 💬 11 • ⏱️ 0:06 • 22h ago
+👁️ 216K • 👍 765 • 💬 11 • ⏱️ 0:06 • 23h ago
 
 ---
 
@@ -284,7 +284,7 @@ Atlas moves like a contortionist, but it's not just showing off. One of our soft
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 52 • 💬 4 • ⏱️ 1:25 • 14h ago
+👁️ 2K • 👍 52 • 💬 4 • ⏱️ 1:25 • 15h ago
 
 ---
 

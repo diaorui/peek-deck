@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T12:51:29.011212+00:00'
+updated: '2025-12-16T13:33:09.852804+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 12:51 UTC  
+**Last Updated:** December 16, 2025 at 13:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,253.51
+### $87,512.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -4.8%  
-**30d:** -5.2%  
-**90d:** -25.2%  
-**1y:** -17.7%  
+**24h:** -0.8%  
+**7d:** -5.1%  
+**30d:** -5.5%  
+**90d:** -25.4%  
+**1y:** -17.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1743.69B
+**Market Cap:** $1744.15B
 Rank #1
 
-**Circulating Supply:** 19,962,846 BTC
+**Circulating Supply:** 19,962,859 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.6%
 
 **All-Time Low:** $67.81
-+128733.5%
++128929.6%
 
 ---
 
@@ -77,12 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
-
-11h ago
-
----
-
 **[Me checking on the homies I convinced to buy Bitcoin at 124K](https://www.reddit.com/r/Bitcoin/comments/1pnahuo/me_checking_on_the_homies_i_convinced_to_buy/)**
 
 Are you still buying?
@@ -91,11 +85,17 @@ Are you still buying?
 
 ---
 
+**[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
+
+1h ago
+
+---
+
 **[Don’t panic people](https://www.reddit.com/r/Bitcoin/comments/1pnlszj/dont_panic_people/)**
 
 100k range might take till next year
 
-13h ago
+14h ago
 
 ---
 
@@ -105,15 +105,15 @@ Are you still buying?
 
 ---
 
-**[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
-
-58m ago
-
----
-
 **[99.1% of Volume in BTC Today Was Movement of Coins Held Less than 180 Days](https://www.reddit.com/r/Bitcoin/comments/1pno0m5/991_of_volume_in_btc_today_was_movement_of_coins/)**
 
 Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
+
+12h ago
+
+---
+
+**[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
 
 12h ago
 
@@ -129,19 +129,19 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 Buy some bitcoin and store it.
 
-22h ago
+23h ago
+
+---
+
+**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
+
+21m ago
 
 ---
 
 **[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
 
-16h ago
-
----
-
-**[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
-
-19h ago
+17h ago
 
 ---
 
@@ -149,9 +149,63 @@ Buy some bitcoin and store it.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqdxml2IKzqm3BxgAmFlqRLMzOySg5wH8R7i49b9pbJBP2bsYHb6cUNe&gaa_ts=69415938&gaa_sig=7p-Io3mCZVugZ91zQhMXQ-2BYM9ieGs7bgDHGOdto2-6dknCIbuoV5NYQoYO_1PYqV_hx92luqZY0bY5Sd7xEg%3D%3D)**
+**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqflW_FBtj8TILM30JZSlSEaoZr_G2VzaHmJUrsg4SCdbjzYv0QrR9i7&gaa_ts=694162fd&gaa_sig=s7KBIveAE2SsGpG2uGBEivkmPl09XofKj8Gc2-fFM-vSZr-x-ljPKbqiR-bKTtHtAdsc6oB92WvbOY9UG6I_Sg%3D%3D)**
+
+Barron's • 19h ago
+
+---
+
+**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
+
+Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdRNX1qlSogYFS4UPRkx91QgRfQ5jfuTzVQEPxk8skh-Z6lu-Hwi6vr&gaa_ts=694162fd&gaa_sig=XbYgGmuA4qWMFbugISg_JGGE7EBnv8PLbrkXfPsVPDSq3HCVYC8GZ-Fa5FgWYPASIycWXSUJfp-2_irYMvYNRw%3D%3D)**
 
 Barron's • 18h ago
+
+---
+
+**[Michael Saylor Buys Another $1B in Bitcoin as Grayscale Predicts All Time High Within 6 Months — Is It Likely?](https://finance.yahoo.com/news/michael-saylor-buys-another-1b-121215863.html)**
+
+Strategy added nearly $1 billion worth of Bitcoin for a second straight week. Grayscale expects Bitcoin to reach a new all-time high in the first ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin vs. Zcash: Which Is More Likely to Be a Millionaire Maker?](https://www.fool.com/investing/2025/12/16/bitcoin-vs-zcash-which-is-more-likely-to-be-a-mill/)**
+
+Will the tried-and-tested asset grow faster than the scrappy upstart?
+
+The Motley Fool • 1h ago
+
+---
+
+**[Why bitcoin ETFs look like they’re falling short, even as their role grows: Asia Morning Briefing](https://www.coindesk.com/markets/2025/12/16/why-bitcoin-etfs-look-like-they-re-falling-short-even-as-their-role-grows-asia-morning-briefing)**
+
+What looks like underperformance reflects a structural shift: ETF flows now smooth volatility rather than amplify crypto rallies.
+
+CoinDesk • 1h ago
+
+---
+
+**[XRP ETF News: Milestone as Ripple Linked Products See 30 Days of Positive Inflows](https://www.coindesk.com/markets/2025/12/15/xrp-spot-etfs-rack-up-30-day-inflow-streak-in-divergence-from-bitcoin-ether)**
+
+The products have attracted fresh capital every trading day since launch, lifting cumulative net inflows to about $975 million.
+
+CoinDesk • 1d ago
+
+---
+
+**[U.S. BTC and ETH ETFs see biggest outflows since Nov. 20](https://www.coindesk.com/markets/2025/12/16/u-s-bitcoin-ether-etfs-see-largest-outflows-since-nov-20-as-btc-declines)**
+
+Monday once again emerges as a pressure point for bitcoin, aligning ETF outflows with recurring bitcoin lows.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -163,59 +217,9 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin vs. Zcash: Which Is More Likely to Be a Millionaire Maker?](https://www.fool.com/investing/2025/12/16/bitcoin-vs-zcash-which-is-more-likely-to-be-a-mill/)**
-
-Will the tried-and-tested asset grow faster than the scrappy upstart?
-
-The Motley Fool • 36m ago
-
----
-
-**[Bitcoin Could Hit $140,000 in Next 180 Days, Expert Says](https://finance.yahoo.com/news/bitcoin-could-hit-140-000-092219611.html)**
-
-New analysis suggests Bitcoin’s four-year cycles have been replaced — and the world’s biggest cryptocurrency could rebound to $140,000 at some point in the next 180 days.According to Copper, the arrival of exchange-traded funds tracking BTC’s spot price have changed this digital asset’s behavior, and given way to what it ...
-
-Yahoo Finance • 1d ago
-
----
-
 **[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
 
 The Block • 16h ago
-
----
-
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqcKATAqnwTvsxe-1yI5bZdx2FPc4DgntH-BgabnQRYS1mUVBFqIwWuP&gaa_ts=69415938&gaa_sig=SsTOx-FGcZWFXw4-DIsRhuoFzlmKxHOBqzdTpHuazRy1y571dhmS6nag-XB-nd2X9GPGQip2GDxGI6jp9IogBQ%3D%3D)**
-
-MarketWatch • 23h ago
-
----
-
-**[Strategy Buys Almost $1 Billion in Bitcoin Again in Past Week](https://www.bloomberg.com/news/articles/2025-12-15/strategy-buys-almost-1-billion-in-bitcoin-again-in-past-week)**
-
-Michael Saylor’s Strategy Inc. acquired almost $1 billion in Bitcoin for a second consecutive week, as the original digital asset treasury company continues to ramp up purchases following the recent pullback in the price of the largest cryptocurrency.
-
-Bloomberg.com • 10h ago
-
----
-
-**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
-
-Reuters • 1d ago
-
----
-
-**[Bitcoin Whipsaws Near $89K as Wintermute Transfer Claims and CME Gap Talk Collide](https://coinpaper.com/13128/bitcoin-whipsaws-near-89-k-as-wintermute-transfer-claims-and-cme-gap-talk-collide)**
-
-Bitcoin trades near $89,000 as Wintermute transfer claims, a narrowing CME gap, and rising support test shape focus.
-
-Coinpaper • 19h ago
-
----
-
-**[Here's what history says to expect for Bitcoin in December](https://www.msn.com/en-us/money/markets/here-s-what-history-says-to-expect-for-bitcoin-in-december/ar-AA1Srv3i?ocid=finance-verthp-feeds)**
-
-MSN • 58m ago
 
 ---
 
@@ -243,7 +247,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 23h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 1d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -301,7 +305,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 498 • ⏱️ 8:04 • 11h ago
+👁️ 25K • 👍 1K • 💬 498 • ⏱️ 8:04 • 12h ago
 
 ---
 
@@ -311,7 +315,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 7K • 👍 266 • 💬 183 • ⏱️ 10:03 • 6h ago
+👁️ 7K • 👍 266 • 💬 183 • ⏱️ 10:03 • 7h ago
 
 ---
 
@@ -321,7 +325,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 17K • 👍 822 • 💬 76 • ⏱️ 40:28 • 19h ago
+👁️ 17K • 👍 822 • 💬 76 • ⏱️ 40:28 • 20h ago
 
 ---
 
@@ -341,7 +345,7 @@ Japan is about to hike rates, and history says Bitcoin gets rekt every time. Wit
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 297 • ⏱️ 18:49 • 13h ago
+👁️ 37K • 👍 3K • 💬 297 • ⏱️ 18:49 • 14h ago
 
 ---
 
@@ -371,7 +375,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 355 • ⏱️ 52:24 • 21h ago
+👁️ 31K • 👍 1K • 💬 355 • ⏱️ 52:24 • 22h ago
 
 ---
 
@@ -391,7 +395,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 9K • 👍 493 • 💬 134 • ⏱️ 8:05 • 17h ago
+👁️ 9K • 👍 493 • 💬 134 • ⏱️ 8:05 • 18h ago
 
 ---
 

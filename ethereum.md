@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T12:51:29.017144+00:00'
+updated: '2025-12-16T13:33:09.858703+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 12:51 UTC  
+**Last Updated:** December 16, 2025 at 13:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,927.19
+### $2,967.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -6.1%  
-**7d:** -11.3%  
-**30d:** -2.8%  
-**90d:** -35.8%  
-**1y:** -24.3%  
+**24h:** -3.1%  
+**7d:** -10.8%  
+**30d:** -2.3%  
+**90d:** -35.5%  
+**1y:** -23.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.70B
+**Market Cap:** $356.90B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.3%
+-40.1%
 
 **All-Time Low:** $0.43
-+682441.2%
++684219.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-17h ago
+18h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 21h ago
 
 **['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -170,19 +170,13 @@ The Block • 21h ago
 
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
 The Block • 1d ago
-
----
-
-**[Bitcoin slides below $86,000, ether falls as traders rotate into safer assets](https://www.theblock.co/post/382639/bitcoin-slides-below-86000)**
-
-The Block • 7h ago
 
 ---
 
@@ -194,19 +188,17 @@ Nasdaq • 2d ago
 
 ---
 
-**[Ethereum is fighting for survival as insiders warn a "dangerous complacency" could make it irrelevant by 2030](https://cryptoslate.com/ethereum-is-fighting-for-survival-as-insiders-warn-a-dangerous-complacency-could-make-it-irrelevant-by-2030/)**
+**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
 
-As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
+Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
 
-CryptoSlate • 20h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[An Ethereum whale raises its holdings to $1.7B: Will this move affect ETH?](https://ambcrypto.com/an-ethereum-whale-raises-its-holdings-to-1-7b-will-this-move-affect-eth/)**
+**[Bitcoin slides below $86,000, ether falls as traders rotate into safer assets](https://www.theblock.co/post/382639/bitcoin-slides-below-86000)**
 
-An Ethereum whale purchased 38,576 ETH worth $119 million.
-
-AMBCrypto • 1d ago
+The Block • 8h ago
 
 ---
 
@@ -218,11 +210,19 @@ BeInCrypto • 1d ago
 
 ---
 
-**[BlackRock moves $140 million in Ethereum to Coinbase as ETH slides 6%](https://cryptobriefing.com/blackrock-ethereum-transfer-coinbase-prime-2/)**
+**[Ethereum is fighting for survival as insiders warn a "dangerous complacency" could make it irrelevant by 2030](https://cryptoslate.com/ethereum-is-fighting-for-survival-as-insiders-warn-a-dangerous-complacency-could-make-it-irrelevant-by-2030/)**
 
-BlackRock Ethereum transfer sends 47,500 ETH to Coinbase Prime amid ETF outflows, with Ethereum price dipping over 6%.
+As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-Crypto Briefing • 47m ago
+CryptoSlate • 21h ago
+
+---
+
+**[An Ethereum whale raises its holdings to $1.7B: Will this move affect ETH?](https://ambcrypto.com/an-ethereum-whale-raises-its-holdings-to-1-7b-will-this-move-affect-eth/)**
+
+An Ethereum whale purchased 38,576 ETH worth $119 million.
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 17K • 👍 822 • 💬 76 • ⏱️ 40:28 • 19h ago
+👁️ 17K • 👍 822 • 💬 76 • ⏱️ 40:28 • 20h ago
 
 ---
 
@@ -276,7 +276,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 137 • 💬 17 • ⏱️ 6:53 • 12h ago
+👁️ 3K • 👍 137 • 💬 17 • ⏱️ 6:53 • 13h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 4 • ⏱️ 8:04 • 13h ago
+👁️ 3K • 👍 169 • 💬 4 • ⏱️ 8:04 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ TAO's halving isn't just another crypto event and it definitely isn't what most 
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 210 • 💬 11 • ⏱️ 41:01 • 21h ago
+👁️ 4K • 👍 210 • 💬 11 • ⏱️ 41:01 • 22h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 137 • 💬 2 • ⏱️ 5:52 • 21h ago
+👁️ 3K • 👍 137 • 💬 2 • ⏱️ 5:52 • 22h ago
 
 ---
 
