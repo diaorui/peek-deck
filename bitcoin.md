@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T03:44:43.401082+00:00'
+updated: '2025-12-16T04:23:16.967508+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 03:44 UTC  
+**Last Updated:** December 16, 2025 at 04:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,652.25
+### $85,807.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.4%  
+**24h:** -4.3%  
 **7d:** -6.6%  
 **30d:** -6.9%  
-**90d:** -26.6%  
+**90d:** -26.5%  
 **1y:** -19.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1710.71B
+**Market Cap:** $1713.15B
 Rank #1
 
-**Circulating Supply:** 19,962,668 BTC
+**Circulating Supply:** 19,962,687 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -32.0%
 
 **All-Time Low:** $67.81
-+126400.5%
++126399.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 100k range might take till next year
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 **[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ Rank #1
 
 I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
 
-7h ago
+8h ago
 
 ---
 
@@ -111,17 +111,11 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 ---
 
-**[Just doing my part. Dip = bought](https://www.reddit.com/r/Bitcoin/comments/1pnazib/just_doing_my_part_dip_bought/)**
-
-11h ago
-
----
-
 **[Bitcoin is Dead](https://www.reddit.com/r/Bitcoin/comments/1pnhr4c/bitcoin_is_dead/)**
 
 Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many times Bitcoin has been declared dead by critics and media, with the complete database of Bitcoin deaths.
 
-🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 7h ago
+🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 8h ago
 
 ---
 
@@ -149,6 +143,12 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 ---
 
+**[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
+
+3h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -169,27 +169,27 @@ Yahoo Finance • 5h ago
 
 ---
 
-**[Why bitcoin ETFs look like they’re falling short, even as their role grows: Asia Morning Briefing](https://www.coindesk.com/markets/2025/12/16/why-bitcoin-etfs-look-like-they-re-falling-short-even-as-their-role-grows-asia-morning-briefing)**
-
-What looks like underperformance reflects a structural shift: ETF flows now smooth volatility rather than amplify crypto rallies.
-
-CoinDesk • 1h ago
-
----
-
 **[Bitcoin (BTC), Crypto News: $500 million lost to liquidations in latest plunge](https://www.coindesk.com/markets/2025/12/16/bitcoin-ai-stock-slide-sees-over-usd500-million-in-bullish-bets-wiped-out)**
 
 Data shows 181,893 traders were liquidated, with long positions accounting for over 87% of total losses.
 
-CoinDesk • 17m ago
+CoinDesk • 38m ago
 
 ---
 
-**[Gold Nears ATH Again as Bitcoin Hits Historic Low—Rotation Ahead?](https://finance.yahoo.com/news/gold-nears-ath-again-bitcoin-023644510.html)**
+**[Asia Market Open: Bitcoin Tumbles to $85k as Asian Shares Decline in Pre-Jobs Data Trade](https://www.tradingview.com/news/cryptonews:20aaf9416094b:0-asia-market-open-bitcoin-tumbles-to-85k-as-asian-shares-decline-in-pre-jobs-data-trade/)**
 
-Gold at $4,305 nears ATH as Bitcoin drops to $86K. BTC/Gold RSI hits levels seen at 2015, 2018, 2022 bear market bottoms.
+Bitcoin dropped nearly 4% to about $85,940 on Tuesday as Asian equities slipped at the open, with investors cutting risk before a run of US economic data that could shape the next leg for interest rates.Indexes in Japan dipped, while Australian shares edged higher, after the S&P 500 fell for a seco…
 
-Yahoo Finance • 1h ago
+TradingView — Track All Markets • 1h ago
+
+---
+
+**[Bitcoin's Retreat to $85,000 Shifts Losses to New Entrants](https://finance.yahoo.com/news/bitcoins-retreat-85-000-shifts-040750696.html)**
+
+Bitcoin's drop to $85,800 has pushed new whales into 2023-level losses, while on-chain data reveals short-term holders buying the dips.
+
+Yahoo Finance • 16m ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 22h ago
+Financial Times • 23h ago
 
 ---
 
@@ -207,23 +207,23 @@ The Block • 7h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcB3kruHZRpk0k2mq1OGRyuAqLUSWeQoVyp-UHBODKr1mzE49JT9jO0&gaa_ts=6940d915&gaa_sig=ZXuAX4pD3anV1TEbMIGt3Gbw0vtgqBwguYxax5ZsbvXnnhn-7q44SBR2LMjmcGqPo3ZjchRH1ux9QJGyS8p8jA%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdMfVs5uzL04pIbDH6YqxEEloWKHidMmdg-_AmMcliHqW9tc-BLKg6Y&gaa_ts=6940e21c&gaa_sig=pALIQsCLPt-mO3S1FTI4uq-ifSqlpXDqApe526W_AcpeskfrlUv80AbicSNAlS7BNiym9WtpxoaJ2WeAi33zoA%3D%3D)**
 
 Barron's • 9h ago
 
 ---
 
-**[Look Out Below: Another 3% Drop In Bitcoin Brings This Token Toward a Key Level](https://www.fool.com/investing/2025/12/15/look-out-below-another-3-drop-in-bitcoin-brings-th/)**
+**[Got Bitcoin or XRP? Do This 1 Thing Right Now or Risk Disaster.](https://www.fool.com/investing/2025/12/15/got-bitcoin-or-xrp-do-this-1-thing-right-now-or-ri/)**
 
-Bitcoin's recent price decline has picked up steam in recent weeks.
+Sometimes you are the biggest risk to your portfolio's health.
 
-The Motley Fool • 6h ago
+The Motley Fool • 13h ago
 
 ---
 
-**[Legendary analyst warns of 80% Bitcoin ‘decay’](https://www.thestreet.com/crypto/markets/legendary-analyst-warns-of-80-bitcoin-decay)**
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqdRWh6orUALd5cruo9Oafv_aL_n8Y3jl2IzD9ep9fWvQUEvohnQ5OeK&gaa_ts=6940e21c&gaa_sig=pJTnI0dtjd13L7F8I2Ivgaa3ftfU8cWoTIpRx9LMivLIKrIBVEt2htCMnmuzeyXT1eQDjS9OtG-ZlmXIky_WMg%3D%3D)**
 
-thestreet.com • 10h ago
+MarketWatch • 15h ago
 
 ---
 
@@ -251,7 +251,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 14h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 15h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -303,7 +303,7 @@ We’ve already written several times about the danger posed by adding AI to law
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 19h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 20h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
@@ -311,13 +311,23 @@ Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin
 
 ## YouTube Videos: "bitcoin"
 
+**[My Bitcoin and Crypto Portfolio Is Hurting...](https://www.youtube.com/watch?v=Eq7VK3EDdn4)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 9K • 👍 854 • 💬 296 • ⏱️ 8:04 • 2h ago
+
+---
+
 **[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
 
 WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 697 • 💬 58 • ⏱️ 40:28 • 10h ago
+👁️ 14K • 👍 728 • 💬 64 • ⏱️ 40:28 • 11h ago
 
 ---
 
@@ -327,17 +337,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 315 • ⏱️ 52:24 • 12h ago
-
----
-
-**[Bitcoin CRASHED HARD! Will Bitcoin Crash Below $80k SOON? Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=wO8nL0aBzI8)**
-
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
-
-📺 Crypto Jebb
-
-👁️ 7K • 👍 443 • 💬 153 • ⏱️ 8:05 • 8h ago
+👁️ 30K • 👍 1K • 💬 315 • ⏱️ 52:24 • 12h ago
 
 ---
 
@@ -347,7 +347,7 @@ Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!*
 
 📺 Crypto Casey
 
-👁️ 22K • 👍 2K • 💬 247 • ⏱️ 14:34 • 11h ago
+👁️ 25K • 👍 2K • 💬 258 • ⏱️ 14:34 • 11h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning wheth
 
 📺 The Wolf Of All Streets
 
-👁️ 26K • 👍 1K • 💬 356 • ⏱️ 1:05:55 • 12h ago
+👁️ 27K • 👍 1K • 💬 374 • ⏱️ 1:05:55 • 13h ago
 
 ---
 
@@ -367,27 +367,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 71K • 👍 3K • 💬 277 • ⏱️ 9:35 • 1d ago
-
----
-
-**[What&#39;s Coming for BTC &amp; Crypto Will SURPASS 2021 &amp; 2017&quot; - Jordi Visser](https://www.youtube.com/watch?v=S6I0tNQpmSM)**
-
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged: https://www.itrustcapital.com/go/savvy-finance If you're ...
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 202 • 💬 38 • ⏱️ 22:13 • 10h ago
-
----
-
-**[WTF BITCOIN!!](https://www.youtube.com/watch?v=yPlm3_Cv8pQ)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 17K • 👍 780 • 💬 218 • ⏱️ 23:41 • 11h ago
+👁️ 72K • 👍 3K • 💬 279 • ⏱️ 9:35 • 1d ago
 
 ---
 
@@ -397,17 +377,37 @@ Bitcoin's been dropping like clockwork at market open—but is it just normal vo
 
 📺 Simply Bitcoin
 
-👁️ 46K • 👍 2K • 💬 174 • ⏱️ 14:17 • 1d ago
+👁️ 47K • 👍 2K • 💬 177 • ⏱️ 14:17 • 1d ago
 
 ---
 
-**[Buy Bitcoin in 2026? (after its recent 30% drop) | Akshat Shrivastava](https://www.youtube.com/watch?v=QK00F1Bfw0U)**
+**[Bitcoin CRASHED HARD! Will Bitcoin Crash Below $80k SOON? Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=wO8nL0aBzI8)**
 
-You can check CoinDCX here: https://join.coindcx.com/invite/ComPB. Invest in the US Stock Market and Global Equities with ...
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
 
-📺 Akshat Shrivastava
+📺 Crypto Jebb
 
-👁️ 31K • 👍 771 • 💬 118 • ⏱️ 25:36 • 12h ago
+👁️ 8K • 👍 464 • 💬 137 • ⏱️ 8:05 • 9h ago
+
+---
+
+**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=Y2qfKc-FpxA)**
+
+Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out ITC premium before the SALE ends so you can lock ...
+
+📺 Benjamin Cowen
+
+👁️ 107K • 👍 7K • 💬 505 • ⏱️ 17:53 • 1d ago
+
+---
+
+**[Time To Call It For Bitcoin &amp; Crypto?](https://www.youtube.com/watch?v=zC-OTO2coYs)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 44K • 👍 2K • 💬 405 • ⏱️ 9:39 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T03:44:43.410403+00:00'
+updated: '2025-12-16T04:23:16.976880+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 03:44 UTC  
+**Last Updated:** December 16, 2025 at 04:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
 
-14h ago
+15h ago
 
 ---
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
-59m ago
+1h ago
 
 ---
 
@@ -64,7 +64,15 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
 
-15h ago
+16h ago
+
+---
+
+**[Boost Robotics is Hiring Founding Engineers (ML for Manipulation, General Software, and Hardware) in Cambridge, MA](https://www.reddit.com/r/robotics/comments/1pns1d5/boost_robotics_is_hiring_founding_engineers_ml/)**
+
+Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
+
+36m ago
 
 ---
 
@@ -80,7 +88,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 Been getting a lot of questions about how this projects works. Decided to post another video that shows the camera feed and also what the ai voice is saying as it is working through a prompt. Again feel free to ask any questions!!! Full video: https://youtu.be/UOc8WNjLqPs?si=XO0M8RQBZ7FDof1S
 
-4h ago
+5h ago
 
 ---
 
@@ -96,15 +104,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-robotics/Reachy_Mini_Assembly_Guide
 
-11h ago
-
----
-
-**[Training a robot arm to pick steadily with reinforcement learning.](https://www.reddit.com/r/robotics/comments/1pn70vh/training_a_robot_arm_to_pick_steadily_with/)**
-
-Everything here is done in simulation — from perception to grasping and lifting, the policy learns the whole pipeline by itself. With physically accurate dynamics and reliable collision handling, the arm ends up learning much more stable control behaviors. You can pretty clearly see how RL improves grasp stability over training, rather than just memorizing motions.
-
-14h ago
+12h ago
 
 ---
 
@@ -138,7 +138,7 @@ Fortune • 2d ago
 
 They make robot vacuums, lots of them
 
-The Verge • 18h ago
+The Verge • 19h ago
 
 ---
 
@@ -146,15 +146,15 @@ The Verge • 18h ago
 
 iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private - TechStock²
 
-ts2.tech • 13h ago
+ts2.tech • 14h ago
 
 ---
 
-**[Roomba maker iRobot gets cleaned out in Chapter 11](https://www.theregister.com/2025/12/15/irobot_chapter_11/)**
+**[Major Mass. robotics company files for Chapter 11 bankruptcy, will sell to China](https://www.masslive.com/news/2025/12/major-mass-robotics-company-files-for-chapter-11-bankruptcy-will-sell-to-china.html)**
 
-: Company vacuumed up by its own manufacturer
+The filing comes just one year after Amazon dropped the ball on a $1.7 billion acquisition of the company.
 
-theregister.com • 14h ago
+MassLive.com • 13h ago
 
 ---
 
@@ -178,7 +178,7 @@ Seeking Alpha • 9h ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 14h ago
+InvestorPlace • 17h ago
 
 ---
 
@@ -198,25 +198,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 21K • 👍 595 • 💬 92 • ⏱️ 6:41 • 1d ago
-
----
-
-**[&quot;Ultra-Realistic Android Girl in Advanced Robotics Lab — 8K Tech Showcase&quot; #robot #humanoid](https://www.youtube.com/watch?v=q3HNfaToS9s)**
-
-"Ultra-Realistic Android Girl in Advanced Robotics Lab — 8K Tech Showcase" #robot #humanoid A humanoid robot girl leaps ...
-
-📺 Farooq tv
-
-👁️ 28K • 👍 112 • 💬 3 • ⏱️ 0:09 • 1d ago
-
----
-
-**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
-
-📺 AI . Robot
-
-👁️ 143K • 👍 2K • 💬 15 • ⏱️ 0:21 • 1d ago
+👁️ 22K • 👍 612 • 💬 95 • ⏱️ 6:41 • 1d ago
 
 ---
 
@@ -226,7 +208,15 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 274K • 👍 9K • 💬 300 • ⏱️ 0:34 • 1d ago
+👁️ 281K • 👍 9K • 💬 308 • ⏱️ 0:34 • 1d ago
+
+---
+
+**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
+
+📺 AI . Robot
+
+👁️ 155K • 👍 2K • 💬 16 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -236,7 +226,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 191K • 👍 928 • 💬 303 • ⏱️ 0:47 • 6d ago
+👁️ 191K • 👍 930 • 💬 303 • ⏱️ 0:47 • 6d ago
 
 ---
 
@@ -250,11 +240,33 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 ---
 
-**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
+**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
 
-📺 AI . Robot
+I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
 
-👁️ 37K • 👍 504 • 💬 13 • ⏱️ 0:16 • 2d ago
+📺 Kyle Krueger
+
+👁️ 5.3M • 👍 166K • 💬 3K • ⏱️ 0:51 • 5d ago
+
+---
+
+**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+
+In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+
+📺 Google DeepMind
+
+👁️ 276K • 👍 8K • 💬 565 • ⏱️ 17:44 • 5d ago
+
+---
+
+**[The Robot Body](https://www.youtube.com/watch?v=TJFMMOlbyIw)**
+
+What should a robot look like? How necessary is a body? Where do the boundaries of ourselves begin and end? Exploring ...
+
+📺 Sarah Davis Baker
+
+👁️ 38K • 👍 4K • 💬 423 • ⏱️ 37:14 • 5d ago
 
 ---
 
@@ -264,27 +276,17 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 FUN Robotics Network
 
-👁️ 860 • 👍 24 • 💬 3 • ⏱️ 1:25 • 5h ago
+👁️ 1K • 👍 39 • 💬 3 • ⏱️ 1:25 • 6h ago
 
 ---
 
-**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
+**[Future Tech Upgrade: Humanoid Robot Shocks the World! #humanoidrobot #robot #techexpo](https://www.youtube.com/watch?v=4JxhMlQTVZg)**
 
-I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
+Innovation​ #Robotics​ #Expo2025​ Join me on an exciting journey into the world of future technology as I explore the latest ...
 
-📺 Kyle Krueger
+📺 SHORTS WORLD
 
-👁️ 5.3M • 👍 165K • 💬 3K • ⏱️ 0:51 • 5d ago
-
----
-
-**[Boy Pressed Test Mode Button...Robot went Crazy 🤖😳 #ai #robot #cat](https://www.youtube.com/watch?v=hRf4HyPmFtA)**
-
-Boy Pressed Test Mode Button...Robot went Crazy #ai #robot #cat.
-
-📺 Ai Animation World
-
-👁️ 97K • 💬 5 • ⏱️ 0:37 • 1d ago
+👁️ 154K • 💬 2 • ⏱️ 0:08 • 5d ago
 
 ---
 

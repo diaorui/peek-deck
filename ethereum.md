@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T03:44:43.407184+00:00'
+updated: '2025-12-16T04:23:16.973589+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 03:44 UTC  
+**Last Updated:** December 16, 2025 at 04:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.9%  
-**7d:** -11.5%  
-**30d:** -3.0%  
-**90d:** -35.9%  
-**1y:** -24.4%  
+**24h:** -6.0%  
+**7d:** -11.7%  
+**30d:** -3.3%  
+**90d:** -36.1%  
+**1y:** -24.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.51B
+**Market Cap:** $353.72B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.8%
 
 **All-Time Low:** $0.43
-+677983.7%
++676436.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -88,7 +88,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve never bought ETH before, but I’m thinking of getting some exposure now. I know the basics, I just want to buy ETH and move it to self-custody, hardware wallet, cold storage, the works. Plan is to buy and hold long term. Now I’m confused about the best approach. Some exchanges have crazy fees, others don’t allow ETH purchases, and I’ve read horror stories of accounts getting frozen on Binance. Thinking of using CoinSwitch, it seems good to me. I want a safe, hassle-free way to buy ETH and make sure I can move it securely to my own wallet.
 
-10h ago
+11h ago
+
+---
+
+**[DTCC receives No-Action Letter from SEC to tokenize assets | The Depository Trust & Clearing Corporation (DTCC) posted on the topic | LinkedIn](https://www.reddit.com/r/ethereum/comments/1pnso01/dtcc_receives_noaction_letter_from_sec_to/)**
+
+In an historic milestone, DTC received a No‑Action Letter from the SEC to tokenize certain DTC‑custodied assets. By leveraging blockchain, DTCC aims to bridge TradFi and DeFi, advancing a more resilient, inclusive and efficient global financial system. 
+
+Learn more: https://brnw.ch/21wYhMn | 22 comments on LinkedIn
+
+🔗 [linkedin.com](https://www.linkedin.com/posts/dtcc_dtc-authorized-to-offer-new-tokenization-activity-7405003603888787456-FgUl?utm_source=share&utm_medium=member_ios&rcm=ACoAAAVe_y4BrGwnSznq61uk80DOy7saVsWkg5I) • 4m ago
 
 ---
 
@@ -96,7 +106,7 @@ I’ve never bought ETH before, but I’m thinking of getting some exposure now.
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 7h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 8h ago
 
 ---
 
@@ -140,21 +150,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[1-Year Anniversary of EigenCloud's 1% Protocol Guild Pledge Contribution](https://www.reddit.com/r/ethereum/comments/1pl0vsm/1year_anniversary_of_eigenclouds_1_protocol_guild/)**
-
-One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
-
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-The Block • 15h ago
+The Block • 16h ago
+
+---
+
+**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
+
+Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
+
+CoinDesk • 12h ago
 
 ---
 
@@ -162,7 +172,23 @@ The Block • 15h ago
 
 Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
 
-Decrypt • 9h ago
+Decrypt • 10h ago
+
+---
+
+**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
+
+If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin seeks support at 85,000; Ethereum looks for a rebound at 2,900. Is the opportunity here?](https://news.futunn.com/en/post/66230713/bitcoin-seeks-support-at-85000-ethereum-looks-for-a-rebound)**
+
+Thecryptocurrency market experienced a pullback amid diverging Fed policies and liquidity fluctuations. Bitcoin rebounded to near $90,000 yesterday morning but entered a consolidation phase, before shifting into a downward trend during the U.S. trading session. It hit a low of $85,000 in the early hours and has since recovered to around $86,000 as of this writing, still down 1.9% for the day. Ethereum also came under pressure, with insufficient momentum after a rebound to $3,170 during the day. It fell to a low of $2,900 in the evening and has since recovered to around $3,000, posting a 24-hour decline of 1.09%.
+
+富途牛牛 • 1h ago
 
 ---
 
@@ -176,7 +202,7 @@ Yahoo Finance • 12h ago
 
 **['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -185,14 +211,6 @@ The Block • 12h ago
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
 CoinDesk • 4h ago
-
----
-
-**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
-
-If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -208,23 +226,7 @@ BeInCrypto • 1d ago
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 11h ago
-
----
-
-**[Why Are Bitcoin, Ethereum and XRP Prices Falling Today?](https://www.tradingview.com/news/coinpedia:5f55e8b63094b:0-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
-
-The cryptocurrency market is under pressure today, with Bitcoin, Ethereum and XRP among other altcoins all seeing sharp declines. Total crypto market value has slipped to around $3 trillion, down more than 1%.Bitcoin dropped below $87,000, Ethereum fell near $3,000, and XRP slid to around $1.92. Se…
-
-TradingView — Track All Markets • 12h ago
-
----
-
-**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
-
-Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
-
-Nasdaq • 1d ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -238,7 +240,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 29K • 👍 1K • 💬 94 • ⏱️ 13:11 • 7h ago
+👁️ 34K • 👍 2K • 💬 101 • ⏱️ 13:11 • 7h ago
 
 ---
 
@@ -248,37 +250,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 697 • 💬 58 • ⏱️ 40:28 • 10h ago
-
----
-
-**[Bitcoin’s Next Major Wave Is Taking Shape...Despite the Short Term Weakness](https://www.youtube.com/watch?v=FBEpHX-gFAQ)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 28K • 👍 1K • 💬 315 • ⏱️ 52:24 • 12h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=E57-UT_Vyow)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 136 • 💬 2 • ⏱️ 5:52 • 12h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=WNjd5vnNnHo)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Guitar Repair@StringTech
-
-👁️ 10K • 👍 4K • 2d ago
+👁️ 14K • 👍 728 • 💬 64 • ⏱️ 40:28 • 11h ago
 
 ---
 
@@ -288,37 +260,37 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 895 • 👍 61 • 💬 11 • ⏱️ 6:53 • 3h ago
+👁️ 1K • 👍 93 • 💬 14 • ⏱️ 6:53 • 4h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=qZYRCR8s6kw)**
+**[Why I&#39;m Choosing TAO Over Ethereum! [Bittensor Halving Explained]](https://www.youtube.com/watch?v=q_ULZd6Dndo)**
+
+TAO's halving isn't just another crypto event and it definitely isn't what most people think. In this episode, Alessandro breaks down ...
+
+📺 Crypto Banter
+
+👁️ 4K • 👍 195 • 💬 10 • ⏱️ 41:01 • 13h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=g5zFM6YQLYI)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 171 • 💬 4 • ⏱️ 6:25 • 1d ago
+👁️ 1K • 👍 131 • 💬 3 • ⏱️ 8:04 • 5h ago
 
 ---
 
-**[BlackRock’s Big Crypto Bet: CEO&#39;s Shocking Announcement Rocks the Financial World!](https://www.youtube.com/watch?v=iXi4zWSTgcE)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=E57-UT_Vyow)**
 
-BREAKING: BLACKROCK MAKES MASSIVE CRYPTO MOVE! In a stunning live address, BlackRock CEO Larry Fink has just ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Addi Apgar 
+📺 More Crypto Online
 
-👁️ 7K • 👍 4K • 3h ago
-
----
-
-**[JPMorgan Rolls Out Tokenized Money Market Fund on Ethereum](https://www.youtube.com/watch?v=UyjHO6JzB3k)**
-
-JPMorgan Chase is diving deeper into blockchain, rolling out its first tokenized money market fund on Ethereum. The "MONY" ...
-
-📺 CoinDesk
-
-👁️ 316 • 👍 14 • 💬 37 • ⏱️ 2:52 • 11h ago
+👁️ 3K • 👍 136 • 💬 2 • ⏱️ 5:52 • 13h ago
 
 ---
 
@@ -328,7 +300,37 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 71K • 👍 3K • 💬 277 • ⏱️ 9:35 • 1d ago
+👁️ 72K • 👍 3K • 💬 279 • ⏱️ 9:35 • 1d ago
+
+---
+
+**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
+
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+
+📺 Crypto With James
+
+👁️ 3K • 👍 223 • 💬 46 • ⏱️ 10:03 • 12h ago
+
+---
+
+**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
+
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 11K • 👍 610 • 💬 38 • ⏱️ 14:28 • 2d ago
+
+---
+
+**[BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Yo2EacUJ9OQ)**
+
+BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 333 • 💬 102 • ⏱️ 25:11 • 6h ago
 
 ---
 
