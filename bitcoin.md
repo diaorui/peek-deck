@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T19:46:57.387591+00:00'
+updated: '2025-12-16T19:58:30.683262+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 19:46 UTC  
+**Last Updated:** December 16, 2025 at 19:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** -4.7%  
-**30d:** -5.0%  
-**90d:** -25.1%  
-**1y:** -17.5%  
+**24h:** +2.0%  
+**7d:** -4.6%  
+**30d:** -4.9%  
+**90d:** -24.9%  
+**1y:** -17.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1745.44B
+**Market Cap:** $1750.49B
 Rank #1
 
-**Circulating Supply:** 19,962,965 BTC
+**Circulating Supply:** 19,962,981 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.5%
 
 **All-Time Low:** $67.81
-+128701.1%
++129125.8%
 
 ---
 
@@ -77,19 +77,41 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
-
-7h ago
-
----
-
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
 6h ago
 
 ---
 
+**[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
+
+8h ago
+
+---
+
 **[Everyday someone posts it and the last dip is getting lower 😂😭😭](https://www.reddit.com/r/Bitcoin/comments/1po94vv/everyday_someone_posts_it_and_the_last_dip_is/)**
+
+1h ago
+
+---
+
+**[I miss the old bitcoin, straight from the GO Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pob13l/i_miss_the_old_bitcoin_straight_from_the_go/)**
+
+33m ago
+
+---
+
+**[2013 → 2024: The same person, the same Bitcoin, completely different life milestones.](https://www.reddit.com/r/Bitcoin/comments/1po6uf3/2013_2024_the_same_person_the_same_bitcoin/)**
+
+In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
+
+3h ago
+
+---
+
+**[Finally made it to 0.1 BTC](https://www.reddit.com/r/Bitcoin/comments/1po9tfz/finally_made_it_to_01_btc/)**
+
+25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
 1h ago
 
@@ -107,11 +129,9 @@ Rank #1
 
 ---
 
-**[2013 → 2024: The same person, the same Bitcoin, completely different life milestones.](https://www.reddit.com/r/Bitcoin/comments/1po6uf3/2013_2024_the_same_person_the_same_bitcoin/)**
+**[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
 
-In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
-
-2h ago
+3h ago
 
 ---
 
@@ -120,30 +140,6 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 Are you still buying?
 
 1d ago
-
----
-
-**[Don’t panic people](https://www.reddit.com/r/Bitcoin/comments/1pnlszj/dont_panic_people/)**
-
-100k range might take till next year
-
-20h ago
-
----
-
-**[Finally made it to 0.1 BTC](https://www.reddit.com/r/Bitcoin/comments/1po9tfz/finally_made_it_to_01_btc/)**
-
-25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
-
-1h ago
-
----
-
-**[BTC will break $150K soon, I believe!!!!](https://www.reddit.com/r/Bitcoin/comments/1po7ya6/btc_will_break_150k_soon_i_believe/)**
-
-There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
-
-2h ago
 
 ---
 
@@ -159,17 +155,17 @@ Bloomberg.com • 5h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfVdAxHvgqQ0w--kolf7aREGSES474VxbHZ2FVl7WsEj0dPXn301QbU&gaa_ts=6941b448&gaa_sig=KqEqqjOhhd_fMccdwLmwoxJhHI48b4-Zfqb60QY5KojsxCVfkroNAiTsmx-gcOXUocsDSY2BbF_6D-30Hq9OMA%3D%3D)**
+**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
 
-Barron's • 1d ago
+Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
+
+Yahoo Finance • 21h ago
 
 ---
 
-**[Bitcoin (BTC) treasury company news: ABTC brings holdings to 5,098 coins](https://www.coindesk.com/markets/2025/12/16/eric-trump-s-american-bitcoin-jumps-to-20th-among-public-btc-treasury-companies)**
+**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqeCx-29dIZAVsGZq8YdjIDbNMVTSIjeo_9we0N9zJEACdT5Wl949J0-&gaa_ts=6941bd4c&gaa_sig=Y8xUswgKJBJI5LWf2O7omLpNhm9ot5ULl9NR7QCojuFP7A-SUkbziWN9yJH4r0h_AocYh3XkmjRE9x4A2MG0yw%3D%3D)**
 
-After its latest purchase, the company now holds 5,098 bitcoin worth nearly $450 million
-
-CoinDesk • 2h ago
+Barron's • 1d ago
 
 ---
 
@@ -177,15 +173,15 @@ CoinDesk • 2h ago
 
 See how much a Bitcoin investment from 10 years ago would be worth today and what it means for long-term crypto growth.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[After A Decade On Ethereum, Why MetaMask Is Finally Embracing Bitcoin](https://bitcoinmagazine.com/business/metamask-launches-native-bitcoin-integration-for-30-million-active-users)**
+**[CleanSpark (CLSK) Is Down 19.8% After Pivoting From Pure Bitcoin Mining Toward AI Data Infrastructure](https://finance.yahoo.com/news/cleanspark-clsk-down-19-8-181152083.html)**
 
-Imagine managing your Bitcoin right alongside your Ethereum assets in the wallet you already trust—MetaMask just made it real, and it's a game-changer for everyday crypto users.
+Earlier this month, CleanSpark reported unaudited October and November 2025 production of 587 and then 587 Bitcoins, respectively, with November output slipping 4% as Bitcoin miners faced pressure from renewed crackdowns in China and a weaker crypto market backdrop. At the same time, CleanSpark is trying to broaden its identity beyond Bitcoin mining by raising US$1.15 billion through zero‑coupon convertible notes to fund data center, power infrastructure, and AI-focused high-performance...
 
-Bitcoin Magazine • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,31 +193,31 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqez5_FhNpnEW2uWLOPHHDeMPxTLl4mBcHsC4yBw19TTvUgXRCKo3Ba1&gaa_ts=6941b448&gaa_sig=bmJankSjohmZAGrrcFaIJnJkry13hgfCtgm2OJh2okHmBqjrZhdf046hXOiPPnV58tA3qS7Z5TD-2TOQLdj2rg%3D%3D)**
+**[Strategy CEO: Why nations will drive Bitcoin shopping spree in 2026](https://www.dlnews.com/articles/markets/strategy-ceo-why-nations-will-drive-bitcoin-shopping-spree-in-2026/)**
 
-Barron's • 1d ago
+Michael Saylor’s Strategy now holds about $58 billion in Bitcoin. The treasury company’s CEO predicts massive Bitcoin buying in 2026. The firm’s stock price is down 63% from its July high.
+
+dlnews.com • 9h ago
+
+---
+
+**[Serious 2026 $3 Trillion Crypto ‘Collapse’ Fed Warning Issued—$10,000 Bitcoin Price Predicted As Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2025/12/16/serious-2026-3-trillion-crypto-collapse-fed-warning-issued-10000-bitcoin-price-predicted-as-crash-fears-swirl/)**
+
+The bitcoin price could be teetering on the verge of a massive crash that could wipe out almost all cryptocurrencies...
+
+Forbes • 6h ago
 
 ---
 
 **[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
-**[Crypto asset manager Bitwise says bitcoin will break its four-year cycle in 2026](https://www.coindesk.com/markets/2025/12/16/crypto-asset-manager-bitwise-says-bitcoin-will-break-its-four-year-cycle-in-2026)**
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqeFWw7z2IjGTeJDReygWJKquXWu7Nvjd-TQ0-d3YR5HX6E2a4y2x0WT&gaa_ts=6941bd4c&gaa_sig=KkuG5jkqDOQBkbpK0fnpN2vkR0NlNFFVBuc7EOWqV7ppBt6dzd6iJOYikkcaw-MAa99cvaGHq89DQHp6X_CavQ%3D%3D)**
 
-Bitwise CIO Matt Hougan said BTC is likely to hit all-time highs next year, with lower volatility and weaker equity correlations reshaping how institutions view the asset.
-
-CoinDesk • 5h ago
-
----
-
-**[Bitwise Chief: Bitcoin to Hit Fresh Records in 2026 and Break Four-Year Cycle](https://finance.yahoo.com/news/bitwise-chief-bitcoin-hit-fresh-160657168.html)**
-
-Major asset managers are forecasting that Bitcoin will shatter its traditional four-year cycle and reach new all-time highs in 2026, driven by massive institutional capital inflows and regulatory clarity. Bitwise Chief Investment Officer Matt Hougan and Grayscale Research both project BTC will exceed its previous peak despite conventional wisdom suggesting ...
-
-Yahoo Finance • 3h ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -329,7 +325,7 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 3K • 👍 248 • 💬 23 • ⏱️ 57:23 • 4h ago
+👁️ 3K • 👍 248 • 💬 23 • ⏱️ 57:23 • 5h ago
 
 ---
 
@@ -349,7 +345,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 2K • 💬 59 • ⏱️ 7:49 • 7h ago
+👁️ 13K • 👍 2K • 💬 59 • ⏱️ 7:49 • 8h ago
 
 ---
 

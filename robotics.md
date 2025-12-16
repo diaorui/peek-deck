@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T19:46:57.397323+00:00'
+updated: '2025-12-16T19:58:30.692397+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 19:46 UTC  
+**Last Updated:** December 16, 2025 at 19:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Hello everyone, I’ll jump straight to my question. I’m currently looking to 
 
 I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ I just ordered all of the parts and finished 3D printing all of the components. 
 
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
-15h ago
+16h ago
 
 ---
 
@@ -132,14 +132,6 @@ The Republic News • 14h ago
 
 ---
 
-**[Serve Robotics Deploys 2,000 Robots & Leads U.S. Sidewalk Delivery](https://finance.yahoo.com/news/serve-robotics-deploys-2-000-163700829.html)**
-
-SERV reaches its 2025 target with 2,000+ autonomous robots, becoming the largest U.S. sidewalk delivery fleet through rapid expansion and disciplined execution.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology (AMCI:NASDAQ)](https://seekingalpha.com/news/4531631-meet-amc-robotics-the-spac-name-looking-for-a-breakthrough-in-ai-powered-robotic-technology)**
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
@@ -148,11 +140,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
+**[Serve Robotics Deploys 2,000 Robots & Leads U.S. Sidewalk Delivery](https://finance.yahoo.com/news/serve-robotics-deploys-2-000-163700829.html)**
 
-The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
+SERV reaches its 2025 target with 2,000+ autonomous robots, becoming the largest U.S. sidewalk delivery fleet through rapid expansion and disciplined execution.
 
-The Motley Fool • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -164,11 +156,17 @@ InvestorPlace • 2d ago
 
 ---
 
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
+**[Cofounder of bankrupt Roomba maker iRobot says Elon Musk's vision of robots is 'pure fantasy'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
 
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
+Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 3d ago
+Fortune • 5h ago
+
+---
+
+**[AMC Robotics Gets Retail Talking Following AlphaVest Merger – ‘Holding This Now Is Like Holding PLTR Few Years Ago’](https://stocktwits.com/news-articles/markets/equity/amc-robotics-gets-retail-talking-following-alpha-vest-merger/cLeJfj2REYs)**
+
+Stocktwits • 3h ago
 
 ---
 
@@ -180,9 +178,9 @@ South China Morning Post • 2d ago
 
 ---
 
-**[AMC Robotics Gets Retail Talking Following AlphaVest Merger – ‘Holding This Now Is Like Holding PLTR Few Years Ago’](https://stocktwits.com/news-articles/markets/equity/amc-robotics-gets-retail-talking-following-alpha-vest-merger/cLeJfj2REYs)**
+**[3 Underrated Robotics Stocks Poised for Huge Gains](https://www.marketbeat.com/stock-ideas/3-underrated-robotics-stocks-poised-for-huge-gains/)**
 
-Stocktwits • 3h ago
+MarketBeat • 1d ago
 
 ---
 

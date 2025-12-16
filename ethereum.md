@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T19:46:57.393633+00:00'
+updated: '2025-12-16T19:58:30.689208+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 19:46 UTC  
+**Last Updated:** December 16, 2025 at 19:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,943.53
+### $2,948.01
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.6%  
-**7d:** -11.3%  
-**30d:** -2.8%  
-**90d:** -35.8%  
-**1y:** -24.3%  
+**7d:** -11.2%  
+**30d:** -2.7%  
+**90d:** -35.7%  
+**1y:** -24.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.03B
+**Market Cap:** $356.29B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.4%
 
 **All-Time Low:** $0.43
-+675078.2%
++680427.2%
 
 ---
 
@@ -70,7 +70,7 @@ No max supply
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 5h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 6h ago
 
 ---
 
@@ -82,17 +82,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
-
-1h ago
-
----
-
 **[JPMorgan Launches $100M Tokenized Money Market Fund on Ethereum](https://www.reddit.com/r/ethereum/comments/1pnfr0z/jpmorgan_launches_100m_tokenized_money_market/)**
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
 1d ago
+
+---
+
+**[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
+
+2h ago
 
 ---
 
@@ -154,17 +154,17 @@ The Block • 1d ago
 
 ---
 
+**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
+
+Bloomberg.com • 1d ago
+
+---
+
 **[Tokenization News: $4T Bank JPMorgan Launches Onchain Fund on Ethereum](https://www.coindesk.com/business/2025/12/15/jpmorgan-launches-tokenized-money-market-fund-on-ethereum-as-wall-street-moves-onchain-report)**
 
 The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.
 
 CoinDesk • 1d ago
-
----
-
-**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -176,15 +176,17 @@ Yahoo Finance • 8h ago
 
 ---
 
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 4h ago
-
----
-
 **['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
 
 The Block • 1d ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-cathie-wood-buys-the-dip-as-bitmine-pushes-toward-5-of-ethereum-supply/)**
+
+BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply - TechStock²
+
+ts2.tech • 7h ago
 
 ---
 
@@ -196,23 +198,23 @@ Nasdaq • 2d ago
 
 ---
 
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+
+CCN.com • 4h ago
+
+---
+
 **[Ethereum News Today: ETH Fails to Hold $3K Amid ETF Outflows, Underperforms Market](https://www.binance.com/fr-AF/square/post/12-16-2025-ethereum-news-today-eth-fails-to-hold-3k-amid-etf-outflows-underperforms-market-33796769389849)**
 
-Binance • 3h ago
+Binance • 4h ago
 
 ---
 
-**[Ethereum 2-Year Trend Maps Out This Unique Crash Path To Bottom At $2,187](https://www.tradingview.com/news/newsbtc:ba81f9af4094b:0-ethereum-2-year-trend-maps-out-this-unique-crash-path-to-bottom-at-2-187/)**
+**[Ethereum is fighting for survival as insiders warn a "dangerous complacency" could make it irrelevant by 2030](https://cryptoslate.com/ethereum-is-fighting-for-survival-as-insiders-warn-a-dangerous-complacency-could-make-it-irrelevant-by-2030/)**
 
-Ethereum’s price action has weakened further over the past 24 hours, with the cryptocurrency falling below $3,000 and shedding about 6.8% in the last 24 hours alone. The immediate price action points to reclaiming this $3,000 support, but a longer-term technical view suggests the current decline ma…
+As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-TradingView — Track All Markets • 3h ago
-
----
-
-**[Insider Whale Opens $600 Million Ethereum Long — What Does This Mean for the ETH Price?](https://www.ccn.com/analysis/crypto/insider-whale-ethereum-eth-price/)**
-
-CCN.com • 1d ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -226,7 +228,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 2K • 💬 59 • ⏱️ 7:49 • 7h ago
+👁️ 13K • 👍 2K • 💬 59 • ⏱️ 7:49 • 8h ago
 
 ---
 
@@ -256,7 +258,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 233 • ⏱️ 12:16 • 19h ago
+👁️ 57K • 👍 3K • 💬 233 • ⏱️ 12:16 • 20h ago
 
 ---
 
@@ -286,7 +288,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 541 • 💬 75 • ⏱️ 18:30 • 15h ago
+👁️ 6K • 👍 541 • 💬 75 • ⏱️ 18:30 • 16h ago
 
 ---
 

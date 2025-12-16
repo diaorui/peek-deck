@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T19:46:57.379165+00:00'
+updated: '2025-12-16T19:58:30.674925+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 19:46 UTC  
+**Last Updated:** December 16, 2025 at 19:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 2h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
-4h ago
+5h ago
 
 ---
 
@@ -93,19 +93,19 @@ I’ve been trying to put a name to a specific frustration I feel when working d
 
 ---
 
-**[ZLUDA for CUDA on non-NVIDIA GPUs enables AMD ROCm 7 support](https://www.reddit.com/r/artificial/comments/1po01ci/zluda_for_cuda_on_nonnvidia_gpus_enables_amd_rocm/)**
-
-The ZLUDA open-source project that has been through several incarnations but ultimately about getting CUDA software up and running on non-NVIDIA GPUs now supports the AMD ROCm 7 series.
-
-🔗 [phoronix.com](https://www.phoronix.com/news/ZLUDA-ROCm-7) • 7h ago
-
----
-
 **[Red Hat acquires another AI company](https://www.reddit.com/r/artificial/comments/1po5dd8/red_hat_acquires_another_ai_company/)**
 
 Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to bolster the open-source AI ecosystem
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 4h ago
+
+---
+
+**[ZLUDA for CUDA on non-NVIDIA GPUs enables AMD ROCm 7 support](https://www.reddit.com/r/artificial/comments/1po01ci/zluda_for_cuda_on_nonnvidia_gpus_enables_amd_rocm/)**
+
+The ZLUDA open-source project that has been through several incarnations but ultimately about getting CUDA software up and running on non-NVIDIA GPUs now supports the AMD ROCm 7 series.
+
+🔗 [phoronix.com](https://www.phoronix.com/news/ZLUDA-ROCm-7) • 8h ago
 
 ---
 
@@ -135,35 +135,41 @@ The New York Times • 22h ago
 
 ---
 
-**[Senators Investigate Role of A.I. Data Centers in Rising Electricity Costs](https://www.nytimes.com/2025/12/16/business/energy-environment/senate-democrats-electricity-prices-data-centers.html)**
+**[Grindr Goes ‘AI-First’ as It Strives to Be an ‘Everything App for the Gay Guy’](https://www.wired.com/story/grindr-ai-first-era-everything-app-for-the-gay-guy/)**
 
-The New York Times • 2h ago
+After controlling shareholders failed to take Grindr private and controversies over data and the banning of the phrase “No Zionists,” Grindr’s CEO opens up about AI, privacy, and big expansion plans.
 
----
-
-**[Racks of AI chips are too damn heavy](https://www.theverge.com/ai-artificial-intelligence/844966/heavy-ai-data-center-buildout)**
-
-Too great a weight.
-
-The Verge • 6h ago
+WIRED • 25m ago
 
 ---
 
-**[Goldman Revamps Tech Banking Group as AI Infrastructure Booms](https://www.bloomberg.com/news/articles/2025-12-16/goldman-revamps-tech-banking-group-as-ai-infrastructure-booms)**
+**[Psychologists are increasingly using – and worrying about – AI tools, poll finds : Shots - Health News](https://www.npr.org/sections/shots-health-news/2025/12/16/nx-s1-5645840/american-psychological-association-artificial-intelligence-ai)**
 
-Bloomberg.com • 42m ago
+A survey finds that 56% of psychologists are trying out artificial intelligence tools at work, mainly for administrative tasks. A majority also are concerned about harms of AI on patients and society.
+
+NPR • 31m ago
 
 ---
 
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqeQ_BgKyXYoL85c-X4WdiVVW6TJTj-W4OEM3i2UOI9vTwGgfchKOB5W&gaa_ts=6941b446&gaa_sig=TZSYZdIcCiy-LWaa1y7QsZBqGTLUbtwDANRvV67G9RYm2vM_SxllKBcInw0bsxhYWYhfJT-FuYQElta6Mr72_A%3D%3D)**
+**[Personal Perspective: LLMs cannot manage complex mental health issues.](https://www.psychologytoday.com/us/blog/how-to-do-academia/202512/ai-cannot-replace-the-expertise-of-psychologists)**
+
+LLMs can, in theory, be useful in therapy, but they lack accuracy for complex cases, which is why it's vital to focus on complexity as a clinical touchstone.
+
+Psychology Today • 13m ago
+
+---
+
+**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/)**
+
+Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
+
+Fortune • 1d ago
+
+---
+
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqdl6af1OiwiZbfEqKwemsuUzuKuKPVMYHK9Gjb5pnMFlHibdMhK08xK&gaa_ts=6941bd4b&gaa_sig=RyOrg9rp7qaaMmfj_0_h887ZLJDN1mUPfkQ8kGEEUH81bDu5z1ArUfCE6c0ilg4Ewmq69dEYxliaMjGrqFMc1A%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[AI models are perfecting their hacking skills](https://www.axios.com/2025/12/16/ai-models-hacking-stanford-openai-warnings)**
-
-Axios • 1h ago
 
 ---
 
@@ -181,11 +187,9 @@ MIT Technology Review • 1d ago
 
 ---
 
-**[Why 2026 could be the year of anti-AI marketing](https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap)**
+**[AI models are perfecting their hacking skills](https://www.axios.com/2025/12/16/ai-models-hacking-stanford-openai-warnings)**
 
-It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
-
-CNN • 8h ago
+Axios • 1h ago
 
 ---
 
@@ -195,7 +199,7 @@ CNN • 8h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 742 • 💬 232 • 16h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 745 • 💬 232 • 16h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -203,7 +207,7 @@ CNN • 8h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 573 • 💬 945 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 573 • 💬 947 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -217,7 +221,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 360 • 💬 294 • 20h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 363 • 💬 295 • 21h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -225,7 +229,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 297 • 💬 305 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 297 • 💬 306 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -257,7 +261,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 113 • 💬 46 • 9h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 117 • 💬 47 • 10h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -395,7 +399,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 379 • 2d ago
+⬇️ 28,106 • ❤️ 380 • 2d ago
 
 ---
 
@@ -407,7 +411,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 886 • 4d ago
+⬇️ 158,614 • ❤️ 887 • 4d ago
 
 ---
 
@@ -467,7 +471,7 @@ Devstral 2 123B Instruct is an FP8 agentic LLM optimized for software engineerin
 
 `125.0B`
 
-⬇️ 6,543 • ❤️ 225 • 2d ago
+⬇️ 6,543 • ❤️ 226 • 2d ago
 
 ---
 
@@ -489,7 +493,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 185 • 13h ago
+⬇️ 0 • ❤️ 185 • 14h ago
 
 ---
 
@@ -590,20 +594,6 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 199 • 💬 4 • ⭐ 7,089 • 19d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -614,6 +604,20 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 25 • 💬 1 • ⭐ 65,529 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 199 • 💬 4 • ⭐ 7,127 • 19d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -650,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.9k • 🔱 418 • 5h ago
+⭐ 3.9k • 🔱 418 • 6h ago
 
 ---
 
@@ -720,7 +724,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 758 • 🔱 110 • 1d ago
+⭐ 759 • 🔱 110 • 1d ago
 
 ---
 
@@ -730,7 +734,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 753 • 🔱 117 • 13h ago
+⭐ 753 • 🔱 117 • 14h ago
 
 ---
 
