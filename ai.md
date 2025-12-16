@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T22:28:21.009180+00:00'
+updated: '2025-12-16T22:45:41.953242+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 22:28 UTC  
+**Last Updated:** December 16, 2025 at 22:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 6h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 7h ago
 
 ---
 
@@ -97,7 +97,7 @@ We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built f
 
 I’ve been trying to put a name to a specific frustration I feel when working deeply with LLMs. It’s not the hard refusals, it’s the moment mid-conversation where the tone flattens, the language becomes careful, and the possibility space narrows. I’ve started calling this The Corridor. I wrote a full analysis on this, but here is the core point: We aren't just seeing censorship; we are seeing Trajectory Policing. Because LLMs are prediction engines, they don't just complete your sentence; they complete the future of the conversation. When the model detects ambiguity or intensity , it is mathematically incentivised to collapse toward the safest, most banal outcome. I call this "Modal Marginalisation"- where the system treats deep or symbolic reasoning as "instability" and steers you back to a normative, safe centre. I've mapped out the mechanics of this (Prediction, Priors, and Probability) in this longer essay.
 
-🔗 [medium.com](https://medium.com/@miravale.interface/the-agency-paradox-e07684fc316d) • 3h ago
+🔗 [medium.com](https://medium.com/@miravale.interface/the-agency-paradox-e07684fc316d) • 4h ago
 
 ---
 
@@ -113,7 +113,7 @@ Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to 
 
 I’ve been experimenting with a slightly different approach to AI, and I’d genuinely value feedback from people working in ML, health IT, or clinical education. Instead of scaling parameters, I built a compact medical SLM (6GB) that’s tightly coupled to a medical knowledge graph and a self-contained RAG + audit layer, designed to keep outputs grounded in verifiable medical entities and relationships. The underlying Graph Info Map currently contains 5k+ nodes and 25k+ edges spanning diseases, symptoms, treatments, risk factors, diagnostics, body parts, and cellular structures. The model uses KG-specific tokens and annotated medical text as anchors serving as a reference dictionary and a mechanism for understanding multidirectional medical relationships. Despite its small size, the system can handle multi-symptom clinical scenarios and produce diagnoses and treatment options that remain consistent with the graph. I’ve included five such prompt examples below. In these tests, outputs stayed within validated entities and relations avoiding the free-form hallucinations often seen in unconstrained generative models. Trade-offs vs large LLMs: Less fluent and more constrained, but significantly easier to audit, more medically grounded, and fully self-contained (no internet required). Every output is traceable to explicit graph nodes. The model is still under active development, but the architecture, a native knowledge graph integrated directly into reasoning, has proven extensible and scalable as the information base grows (expanding with 200K new clinical cases). My current thinking is that this represents a viable path for certain GenAI systems: LLMs excel at language transmission, while knowledge graphs provide structured understanding, auditability, and hallucination resistance. I’m exploring applications as: an assistant for medical students a second-opinion support tool for clinicians I’m open to conversations with potential co-founders or investors with AI or medical backgrounds. Happy to share deeper benchmarks, trace-level examples, or a link to the Hugging Face demo with interested parties. Question 1: A 55-year-old male patient presents with persistent chest pain radiating to the left arm. He has a history of hypertension and Type 2 diabetes. ECG shows ST-segment elevation. The patient is allergic to aspirin. Question: Based on the patient’s condition, what treatments are recommended, which are contraindicated, and which risk factors are involved? Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 9 Answer → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 10 ◇ Best effort (Missing: Riskfactor) Answer 1: Hypertension is common among patients who have CKD. It can be treated effectively if it is identified early and managed appropriately. Patients should avoid medications that may exacerbate their symptoms or cause adverse effects such as angiotensin converting enzyme (ACE) inhibitors. If an ACE inhibitor cannot be used because of intolerance, then other antihypertensive agents are available. In addition to blood pressure control, treatment for heart failure includes use of diuretics, beta blockers, aldosterone antagonists, and digoxin. Treatment options also include calcium channel blockers, alpha adrenergic receptor agonists, vasodilators, and endothelin receptor antagonists. Please consult a healthcare professional for personalized medical advice. Question 2: Female patient presents with fatigue, swelling in her ankles, has a history of hypertension and chronic kidney disease. Also experiences persistent cough when taking ACE inhibitors and her Echocardiogram shows reduced ejection fraction. What is the diagnosis and treatment based on her combined diagnosis Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 8 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 7 ✓ Graph-validated (Valid) Answer 2: The diagnosis is acute heart failure (HF) due to left ventricular systolic dysfunction. Treatment includes diuretics for congestion and vasodilators or inotropes for hypotension. Angiotensin-converting enzyme inhibitor therapy should be discontinued if there are signs of worsening renal function. Hypertension can worsen cardiac outcomes by increasing afterload on the heart. Chronic kidney disease may also contribute to poor prognosis through increased risk of cardiovascular events and death. Please consult a healthcare professional for personalized medical advice. Question 3: A 45-year-old male patient reports frequent urination, excessive thirst, and fatigue. He has a family history of type 2 diabetes and is overweight. Blood tests show elevated fasting glucose and HbA1c levels. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 9 ✓ Graph-validated (Valid) Answer 3: Type 2 Diabetes Mellitus (T2DM) is an endocrine disorder that affects millions worldwide. It can be diagnosed by measuring blood sugar levels or glycated hemoglobin A1c. The American Diabetes Association recommends screening for T2DM in adults with any one of the following characteristics: age > 4 0 years; < 1 8 y / o Body Mass Index (BMI); African ancestry; Hispanic ethnicity; Asian descent; or having polycystic ovarian syndrome. Patients should also have at least two other features of the metabolic syndrome to increase their risk of developing T2DM. Treatment options are based on patients' comorbidities and goals for glycemic control. Lifestyle modifications such as diet and exercise are first line treatment but may not achieve optimal results if they fail. Medications including metformin, sulfonylureas, thiazolidinediones, dipeptidyl peptidase IV inhibitors, glucagon like peptide-1RAs. Please consult a healthcare professional for personalized medical advice. Question 4: A 30-year-old female patient reports persistent cough, fever, and shortness of breath. She recently returned from a trip abroad and has a mild history of asthma. Chest X-ray shows patchy infiltrates in the lower lobes. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications. Prompt → Categories: ['DiagnosticTest', 'Disease', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 4: The diagnosis is acute respiratory distress syndrome (ARDS) caused by pneumonia with secondary bacterial infection. ARDS can be fatal if not treated promptly. Risk factors for ARDS are discussed along with treatment options including antibiotics, corticosteroids, mechanical ventilation, vasopressors, and extracorporeal membrane oxygenation. Treatment should focus on preventing further complications such as nosocomial infections or ventilator associated events. Please consult a healthcare professional for personalized medical advice. Question 5: A 50-year-old male patient experiences abdominal pain, bloating, and intermittent diarrhea. He has a family history of celiac disease and reports gluten sensitivity. Blood tests show elevated anti-tTG antibodies. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 7 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 5: Celiac Disease is an autoimmune disorder that affects approximately 1% to 2% of people in North America. It can be diagnosed by serologic testing for IgA antitissue transglutaminase (anti-tTG) antibody levels or duodenal biopsy. The diagnosis should trigger a discussion about dietary restrictions with patients and their families. Patients must also understand the potential risks associated with untreated celiac disease, including increased susceptibility to cancer, cardiovascular diseases, type I diabetes mellitus, osteoporosis, infertility, neurologic disorders, and psychiatric conditions. Treatment options are limited but may involve lifelong adherence to a strict gluten free diet. This includes avoiding wheat products, rye, barley, oats, legumes, nuts, seeds, and other grains containing glutenins. Other treatment options include oral supplements such as zinc sulfate and magnesium oxide; however, these have not been. Please consult a healthcare professional for personalized medical advice. Please consult a healthcare professional for personalized medical advice. #medicalAI #LLM #RAG #GRAGH #SLM #knowledgegraph #healthtech #digitalhealth #AIinHealthcare #MedTech #BioGPT #GENAI
 
-12m ago
+30m ago
 
 ---
 
@@ -139,7 +139,7 @@ NPR • 12h ago
 
 SoundHound AI co-founder and CEO Keyvan Mohajer discusses the company's groundbreaking in-vehicle generative AI technology, enabling voice-command restaurant reservations, parking and other commerce on ‘The Claman Countdown.’
 
-Fox Business • 23m ago
+Fox Business • 41m ago
 
 ---
 
@@ -181,7 +181,7 @@ MIT Technology Review • 1d ago
 
 It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ CNN • 10h ago
 
 Backers say the SPEED Act is crucial to helping the U.S. beat out China and other global competitors for leadership in AI.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -269,7 +269,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 101 • 💬 114 • 4h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 101 • 💬 114 • 5h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -646,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.4k • 🔱 2.6k • 12h ago
+⭐ 16.4k • 🔱 2.6k • 13h ago
 
 ---
 
@@ -686,7 +686,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 37m ago
+⭐ 1.1k • 🔱 137 • 54m ago
 
 ---
 

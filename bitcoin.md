@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T22:28:21.018440+00:00'
+updated: '2025-12-16T22:45:41.961676+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 22:28 UTC  
+**Last Updated:** December 16, 2025 at 22:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +1.6%  
 **7d:** -4.4%  
-**30d:** -4.8%  
+**30d:** -4.7%  
 **90d:** -24.8%  
 **1y:** -17.3%  
 
@@ -121,7 +121,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-3h ago
+4h ago
 
 ---
 
@@ -133,13 +133,13 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 **[This is what buying Bitcoin looked like in 2011 - 1BTC = $3.5](https://www.reddit.com/r/Bitcoin/comments/1po8477/this_is_what_buying_bitcoin_looked_like_in_2011/)**
 
-4h ago
+5h ago
 
 ---
 
 **[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -151,7 +151,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 Bitcoin is headed for the fourth annual decline in its history, and the first one that didn’t coincide with a major scandal or industry meltdown.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ Financial Times • 1d ago
 
 The Bitcoin price hovered above $87,000 as prices stabilized, even as investor sentiment plunged into extreme fear.
 
-Bitcoin Magazine • 56m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 6h ago
 
 Michael Saylor’s Strategy now holds about $58 billion in Bitcoin. The treasury company’s CEO predicts massive Bitcoin buying in 2026. The firm’s stock price is down 63% from its July high.
 
-dlnews.com • 11h ago
+dlnews.com • 12h ago
 
 ---
 
@@ -205,7 +205,7 @@ Seeking Alpha • 1d ago
 
 U.S. spot bitcoin ETFs saw $357.6 million of net outflows on Monday, part of a $582 million combined ETF withdrawal, as bitcoin fell to as low as $85,100 and traders watched the $83,000 ETF cost-basis level for support.
 
-Bitbo • 6h ago
+Bitbo • 7h ago
 
 ---
 
@@ -213,7 +213,7 @@ Bitbo • 6h ago
 
 What looks like underperformance reflects a structural shift: ETF flows now smooth volatility rather than amplify crypto rallies.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -221,7 +221,7 @@ CoinDesk • 19h ago
 
 Nicholas Wealth filed to launch an ETF that aims to capture the performance of bitcoin outside the U.S. stock market's trading hours.
 
-Investopedia • 5h ago
+Investopedia • 6h ago
 
 ---
 
@@ -265,7 +265,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 12h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 13h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -299,7 +299,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 31K • 👍 599 • 💬 355 • ⏱️ 10:03 • 15h ago
+👁️ 31K • 👍 599 • 💬 355 • ⏱️ 10:03 • 16h ago
 
 ---
 
@@ -329,7 +329,7 @@ Aura Stop leaving yourself vulnerable to data breaches. Go to my sponsor https:/
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 731 • 💬 63 • ⏱️ 16:49 • 8h ago
+👁️ 9K • 👍 731 • 💬 63 • ⏱️ 16:49 • 9h ago
 
 ---
 
@@ -389,7 +389,7 @@ A major warning signal just flashed in Bitcoin — long-term holders are startin
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 430 • 💬 9 • ⏱️ 1:09:01 • 5h ago
+👁️ 5K • 👍 430 • 💬 9 • ⏱️ 1:09:01 • 6h ago
 
 ---
 

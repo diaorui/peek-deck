@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T22:28:21.023695+00:00'
+updated: '2025-12-16T22:45:41.967669+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 22:28 UTC  
+**Last Updated:** December 16, 2025 at 22:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -11.2%  
-**30d:** -2.7%  
-**90d:** -35.7%  
-**1y:** -24.2%  
+**24h:** -0.2%  
+**7d:** -10.9%  
+**30d:** -2.4%  
+**90d:** -35.5%  
+**1y:** -24.0%  
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqc2934FIjxiVYTGa4Nw4ONDY5RLxPjeo8vGXg4xMj7PeYdMfOUS3rd5&gaa_ts=6941e073&gaa_sig=cshAc5NkJ27cabs4xSAeHaNsZMonUVvOGtbUidEkByhXTztLwjhX-Utsv-24Sv_-3wkYYdXjfyJYAbiIh41Bgg%3D%3D)**
 
-Barron's • 47m ago
+Barron's • 1h ago
 
 ---
 
@@ -166,7 +166,7 @@ Decrypt • 7h ago
 
 Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -236,7 +236,7 @@ Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substanti
 
 📺 Paul Barron Network
 
-👁️ 10K • 👍 665 • 💬 155 • ⏱️ 29:25 • 5h ago
+👁️ 10K • 👍 665 • 💬 155 • ⏱️ 29:25 • 6h ago
 
 ---
 
@@ -316,7 +316,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 2K • 👍 138 • 💬 44 • ⏱️ 8:42 • 9h ago
+👁️ 2K • 👍 138 • 💬 44 • ⏱️ 8:42 • 10h ago
 
 ---
 
