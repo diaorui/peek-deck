@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T15:47:08.707044+00:00'
+updated: '2025-12-16T15:59:34.003915+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 15:47 UTC  
+**Last Updated:** December 16, 2025 at 15:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,11 +68,11 @@ I recently made this prototype of a self-balancing wheel provided with robotic m
 
 ---
 
-**[Boost Robotics is Hiring Founding Engineers (ML for Manipulation, General Software, and Hardware) in Cambridge, MA](https://www.reddit.com/r/robotics/comments/1pns1d5/boost_robotics_is_hiring_founding_engineers_ml/)**
+**[Getting into Robotics Research](https://www.reddit.com/r/robotics/comments/1po42nn/getting_into_robotics_research/)**
 
-Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
+Hello everyone, I’ll jump straight to my question. I’m currently looking to connect with professionals who are involved in research in robotics, especially areas like computer vision, robotic arms, and work at the intersection of AI and robotics. A bit about me: I’m currently in my internship phase and don’t have any prior research or publishing experience, but I do have a strong interest and solid knowledge in developing robots, experimenting with algorithms, and hands-on tinkering. I’m actively looking to collaborate and publish research in this domain. I can roughly dedicate around 10 hours per week to this effort. If anyone is interested, please feel free to DM me. I can share some of my work. I’d also really appreciate any advice on how to approach or find professors and researchers working in these areas. I’ve already reached out to my professors, but their research domains are quite different from what I’m looking for, which is why I’m trying to connect with people outside my immediate academic circle. Thanks in advance!
 
-12h ago
+59m ago
 
 ---
 
@@ -84,11 +84,11 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 ---
 
-**[Getting into Robotics Research](https://www.reddit.com/r/robotics/comments/1po42nn/getting_into_robotics_research/)**
+**[Boost Robotics is Hiring Founding Engineers (ML for Manipulation, General Software, and Hardware) in Cambridge, MA](https://www.reddit.com/r/robotics/comments/1pns1d5/boost_robotics_is_hiring_founding_engineers_ml/)**
 
-Hello everyone, I’ll jump straight to my question. I’m currently looking to connect with professionals who are involved in research in robotics, especially areas like computer vision, robotic arms, and work at the intersection of AI and robotics. A bit about me: I’m currently in my internship phase and don’t have any prior research or publishing experience, but I do have a strong interest and solid knowledge in developing robots, experimenting with algorithms, and hands-on tinkering. I’m actively looking to collaborate and publish research in this domain. I can roughly dedicate around 10 hours per week to this effort. If anyone is interested, please feel free to DM me. I can share some of my work. I’d also really appreciate any advice on how to approach or find professors and researchers working in these areas. I’ve already reached out to my professors, but their research domains are quite different from what I’m looking for, which is why I’m trying to connect with people outside my immediate academic circle. Thanks in advance!
+Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
-47m ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello everyone, I’ll jump straight to my question. I’m currently looking to 
 
 I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
 
-55m ago
+1h ago
 
 ---
 
@@ -126,11 +126,11 @@ South China Morning Post • 2d ago
 
 ---
 
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
+**[2026 and the Rise of Humanoid Robots: Looking at Trust, Privacy and the Future of Work](https://www.cnet.com/tech/computing/2026-and-the-rise-of-humanoid-robots-looking-at-trust-privacy-and-the-future-of-work/)**
 
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
+Robot companies are racing toward a breakout year, but they'll have to confront some fundamental problems before making bigger promises.
 
-Fortune • 3d ago
+CNET • 2d ago
 
 ---
 
@@ -139,6 +139,22 @@ Fortune • 3d ago
 They make robot vacuums, lots of them
 
 The Verge • 1d ago
+
+---
+
+**[Serve Robotics has deployed 2,000+ delivery robots across the U.S.](https://www.therobotreport.com/serve-robotics-has-deployed-2000-delivery-robots-across-u-s/)**
+
+Since the start of the year, Serve Robotics has expanded its fleet of sidewalk delivery robots twentyfold.
+
+The Robot Report • 2h ago
+
+---
+
+**[BARA, the Bay Area Robotics Association, launches to accelerate embodied AI](https://www.therobotreport.com/bay-area-robotics-association-bara-launches-accelerate-embodied-ai/)**
+
+BARA said it intends to connect San Francisco Bay Area investors and startups to shape robotics and embodied AI.
+
+The Robot Report • 2h ago
 
 ---
 
@@ -156,14 +172,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Serve Robotics Deploys 2,000 Robots & Leads U.S. Sidewalk Delivery](https://finance.yahoo.com/news/serve-robotics-deploys-2-000-163700829.html)**
-
-SERV reaches its 2025 target with 2,000+ autonomous robots, becoming the largest U.S. sidewalk delivery fleet through rapid expansion and disciplined execution.
-
-Yahoo Finance • 23h ago
-
----
-
 **[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
@@ -177,14 +185,6 @@ InvestorPlace • 2d ago
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
 Seeking Alpha • 21h ago
-
----
-
-**[UiPath: This Is Not The AI Or Robotics Stock To Buy Now (NYSE:PATH)](https://seekingalpha.com/article/4853312-uipath-q3-this-is-not-the-ai-or-robotics-stock-to-buy-now)**
-
-UiPath is a software company focused on robotic process automation and there is a spirited debate as to its positioning amid the current AI transformation. Learn more about PATH stock here.
-
-Seeking Alpha • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ Business Insider tells you all you need to know about business, finance, tech, r
 
 📺 BlueAI25
 
-👁️ 12K • 👍 119 • 💬 8 • ⏱️ 0:24 • 19h ago
+👁️ 12K • 👍 119 • 💬 8 • ⏱️ 0:24 • 20h ago
 
 ---
 

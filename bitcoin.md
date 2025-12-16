@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T15:47:08.697743+00:00'
+updated: '2025-12-16T15:59:33.994628+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 15:47 UTC  
+**Last Updated:** December 16, 2025 at 15:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,456.71
+### $88,113.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -4.9%  
-**30d:** -5.3%  
-**90d:** -25.2%  
-**1y:** -17.7%  
+**24h:** +1.4%  
+**7d:** -4.5%  
+**30d:** -4.9%  
+**90d:** -24.9%  
+**1y:** -17.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1741.47B
+**Market Cap:** $1757.15B
 Rank #1
 
-**Circulating Supply:** 19,962,875 BTC
+**Circulating Supply:** 19,962,928 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.0%
+-30.2%
 
 **All-Time Low:** $67.81
-+128276.3%
++129748.1%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -105,15 +105,15 @@ Are you still buying?
 
 ---
 
-**[Time to buy?](https://www.reddit.com/r/Bitcoin/comments/1po3hmm/time_to_buy/)**
-
-1h ago
-
----
-
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
 23h ago
+
+---
+
+**[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
+
+14h ago
 
 ---
 
@@ -122,12 +122,6 @@ Are you still buying?
 Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
 
 15h ago
-
----
-
-**[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
-
-14h ago
 
 ---
 
@@ -145,11 +139,17 @@ Buy some bitcoin and store it.
 
 ---
 
+**[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
+
+19h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqcHZ5lI9sNQfEe6bc_KqC1_OY1lmZtxJC0z_H0lFgtVn_dBqq0NmSjj&gaa_ts=69417e04&gaa_sig=aUqYrz8GGdumU5PSH_5mL6q_2AsfXp0wUCQp3laTIT8jZZChCS06iSOcZ3uV9naCURB2tlW4nevJOM_Q7oK2VA%3D%3D)**
+**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqc0j3e1oBWFBLZAlNgRrIZ45s8zXXb_8oi1ApnAWFIcG6gBWcGEV0WI&gaa_ts=69418545&gaa_sig=xsYcSNeY52JuYrPiTpZBgBb2BBOSPHfQudDj3UBvuyBbpPkFv-i6vtil5yBosdIuZbIDmyAW8-5n8BC8X1CKDg%3D%3D)**
 
 Barron's • 21h ago
 
@@ -171,11 +171,11 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[This department store stock has outperformed Nvidia, Tesla, Broadcom, and Bitcoin over the last five years](https://seekingalpha.com/news/4531529-this-department-store-stock-has-outperformed-nvidia-tesla-broadcom-and-bitcoin-over-the-last-five-years)**
+**[Bitcoin Treasury Companies Are Undervalued](https://bitcoinmagazine.com/markets/bitcoin-treasury-companies-are-undervalued)**
 
-This department store stock has outperformed Nvidia, Broadcom, Tesla, and Bitcoin over the last five years
+Exceptional opportunity in Bitcoin treasury companies: Asymmetric upside if BTC rebounds. MSTR could hit $500/share in bullish scenario.
 
-Seeking Alpha • 2h ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -193,6 +193,14 @@ The Block • 19h ago
 
 ---
 
+**[Got Bitcoin or XRP? Do This 1 Thing Right Now or Risk Disaster.](https://www.fool.com/investing/2025/12/15/got-bitcoin-or-xrp-do-this-1-thing-right-now-or-ri/)**
+
+Sometimes you are the biggest risk to your portfolio's health.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Don't Be Surprised If Bitcoin Resets to $10,000: Top Bloomberg Expert Reveals 2007 Parallel](https://www.tradingview.com/news/u_today:3da8d4b66094b:0-don-t-be-surprised-if-bitcoin-resets-to-10-000-top-bloomberg-expert-reveals-2007-parallel/)**
 
 Mike McGlone, a Bloomberg Intelligence strategist, continues to insist that Bitcoin could go back up to $10,000, and his reasoning has nothing to do with belief, messaging or loyalty to the asset. At the end of the day, it is all about who has already bought, when that money came in and who is left…
@@ -201,15 +209,9 @@ TradingView — Track All Markets • 1h ago
 
 ---
 
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqeFJlDGmeN2ZOEHGE0qT9WK1EWdQZzs8Wiwm2No54i_5CvP85GPSP-9&gaa_ts=69417e04&gaa_sig=TCwLRUVU5tlyJ9xU6jjOpHev_P5rbWHwUc2AK7pdrSb_iEIcXiJnWr3trEmGNXi9qa1nVimAQ_96JCw-Fr2CKQ%3D%3D)**
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqfsJRWEnn9yoTh9yFCNsSxILPnD5J-m3CsOn88YWoQ65E0EltmtqIee&gaa_ts=69418545&gaa_sig=cWnonItKkzfPi-2FmCiQKruY-Qo25sQnG6cGYjq1mMAxqYbkk2552HZU8XEqWGt066u6lb7oZ649PGqkCwMSEA%3D%3D)**
 
 MarketWatch • 1d ago
-
----
-
-**[Michael Saylor Buys Another $1B in Bitcoin as Grayscale Predicts All Time High Within 6 Months — Is It Likely?](https://www.ccn.com/news/crypto/michael-saylor-buys-1b-bitcoin-grayscale-predicts-all-time-high/)**
-
-CCN.com • 3h ago
 
 ---
 
@@ -237,7 +239,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 3 • 2d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 3 • 3d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -287,15 +289,9 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 ---
 
-**["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
-
-⬆️ 2 • 💬 1 • 6d ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
-
----
-
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 4 • 💬 0 • 24m ago
+⬆️ 7 • 💬 0 • 36m ago
 
 ---
 
@@ -329,7 +325,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 215 • ⏱️ 12:16 • 15h ago
+👁️ 50K • 👍 3K • 💬 215 • ⏱️ 12:16 • 16h ago
 
 ---
 

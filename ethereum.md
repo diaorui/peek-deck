@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T15:47:08.703810+00:00'
+updated: '2025-12-16T15:59:34.000599+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 15:47 UTC  
+**Last Updated:** December 16, 2025 at 15:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -11.0%  
-**30d:** -2.5%  
-**90d:** -35.6%  
-**1y:** -24.1%  
+**24h:** -0.5%  
+**7d:** -10.5%  
+**30d:** -2.0%  
+**90d:** -35.2%  
+**1y:** -23.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.83B
+**Market Cap:** $358.37B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.0%
 
 **All-Time Low:** $0.43
-+675209.9%
++685649.2%
 
 ---
 
@@ -70,7 +70,7 @@ No max supply
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 1h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 2h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-20h ago
+21h ago
 
 ---
 
@@ -150,9 +150,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
+**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-Bloomberg.com • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -172,6 +172,34 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Bitcoin and Ethereum Wobble as US Reports Highest Unemployment Rate Since 2021](https://finance.yahoo.com/news/bitcoin-ethereum-wobble-us-reports-152320670.html)**
+
+Bitcoin and Ethereum wavered after U.S. jobs data, but prediction markets still favor a return to $100K amid expected Fed rate cuts.
+
+Yahoo Finance • 36m ago
+
+---
+
+**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
+
+Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
+
+Yahoo Finance • 4h ago
+
+---
+
+**['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
+
+The Block • 1d ago
+
+---
+
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+
+CCN.com • 42m ago
+
+---
+
 **[Which Breakout Could Come First: Bitcoin at $100K or Ethereum Above $4,000?](https://www.tradingview.com/news/coinpedia:914e7218a094b:0-which-breakout-could-come-first-bitcoin-at-100k-or-ethereum-above-4-000/)**
 
 Bitcoin and Ethereum are entering one of their most critical phases of the year after a sharp market-wide pullback sent BTC briefly below $86,000, shaking out overleveraged traders and resetting sentiment across major assets. Despite the volatility, both cryptocurrencies are now coiling near major…
@@ -184,45 +212,15 @@ TradingView — Track All Markets • 3h ago
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
 
 ---
 
-**['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
+**[Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment](https://ambcrypto.com/greed-vs-fear-at-3k-inside-ethereums-make-or-break-moment/)**
 
-The Block • 1d ago
+Ethereum approaches whale levels: Is greed fueling the next crash?
 
----
-
-**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
-
-The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
-
-CoinDesk • 1d ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-cathie-wood-buys-the-dip-as-bitmine-pushes-toward-5-of-ethereum-supply/)**
-
-BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply - TechStock²
-
-ts2.tech • 2h ago
-
----
-
-**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
-
-Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
-
-BeInCrypto • 1d ago
-
----
-
-**[An Ethereum whale raises its holdings to $1.7B: Will this move affect ETH?](https://ambcrypto.com/an-ethereum-whale-raises-its-holdings-to-1-7b-will-this-move-affect-eth/)**
-
-An Ethereum whale purchased 38,576 ETH worth $119 million.
-
-AMBCrypto • 1d ago
+AMBCrypto • 2d ago
 
 ---
 
@@ -236,7 +234,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 2K • 💬 49 • ⏱️ 7:49 • 3h ago
+👁️ 5K • 👍 2K • 💬 49 • ⏱️ 7:49 • 4h ago
 
 ---
 
@@ -246,7 +244,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 215 • ⏱️ 12:16 • 15h ago
+👁️ 50K • 👍 3K • 💬 215 • ⏱️ 12:16 • 16h ago
 
 ---
 
@@ -316,7 +314,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 509 • 💬 66 • ⏱️ 18:30 • 11h ago
+👁️ 6K • 👍 509 • 💬 66 • ⏱️ 18:30 • 12h ago
 
 ---
 
