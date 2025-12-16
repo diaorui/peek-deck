@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-15T23:59:41.967723+00:00'
+updated: '2025-12-16T02:21:17.742388+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 15, 2025 at 23:59 UTC  
+**Last Updated:** December 16, 2025 at 02:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,372.91
+### $85,766.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -7.0%  
-**30d:** -8.3%  
-**90d:** -25.8%  
-**1y:** -18.4%  
+**24h:** -3.8%  
+**7d:** -6.6%  
+**30d:** -7.0%  
+**90d:** -26.6%  
+**1y:** -19.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1723.06B
+**Market Cap:** $1715.03B
 Rank #1
 
-**Circulating Supply:** 19,962,584 BTC
+**Circulating Supply:** 19,962,650 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.5%
+-31.8%
 
 **All-Time Low:** $67.81
-+127257.3%
++126626.1%
 
 ---
 
@@ -77,43 +77,31 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Don’t panic people](https://www.reddit.com/r/Bitcoin/comments/1pnlszj/dont_panic_people/)**
+
+100k range might take till next year
+
+3h ago
+
+---
+
 **[Me checking on the homies I convinced to buy Bitcoin at 124K](https://www.reddit.com/r/Bitcoin/comments/1pnahuo/me_checking_on_the_homies_i_convinced_to_buy/)**
 
 Are you still buying?
 
-8h ago
+10h ago
 
 ---
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-7h ago
-
----
-
-**[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
-
-6h ago
-
----
-
-**[Just doing my part. Dip = bought](https://www.reddit.com/r/Bitcoin/comments/1pnazib/just_doing_my_part_dip_bought/)**
-
-7h ago
-
----
-
-**[Don’t Sell](https://www.reddit.com/r/Bitcoin/comments/1pn8nl0/dont_sell/)**
-
-Buy some bitcoin and store it.
-
 9h ago
 
 ---
 
-**[The best ever gift to receive? what have u done if u had got this gift](https://www.reddit.com/r/Bitcoin/comments/1pn7aw1/the_best_ever_gift_to_receive_what_have_u_done_if/)**
+**[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
 
-10h ago
+6h ago
 
 ---
 
@@ -121,13 +109,27 @@ Buy some bitcoin and store it.
 
 I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
 
-3h ago
+6h ago
 
 ---
 
-**[Bitcoin Holders: Bull Market vs. Bear Market](https://www.reddit.com/r/Bitcoin/comments/1pnf280/bitcoin_holders_bull_market_vs_bear_market/)**
+**[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
 
-5h ago
+8h ago
+
+---
+
+**[Just doing my part. Dip = bought](https://www.reddit.com/r/Bitcoin/comments/1pnazib/just_doing_my_part_dip_bought/)**
+
+10h ago
+
+---
+
+**[Don’t Sell](https://www.reddit.com/r/Bitcoin/comments/1pn8nl0/dont_sell/)**
+
+Buy some bitcoin and store it.
+
+11h ago
 
 ---
 
@@ -135,13 +137,15 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many times Bitcoin has been declared dead by critics and media, with the complete database of Bitcoin deaths.
 
-🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 3h ago
+🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 6h ago
 
 ---
 
-**[14 of the top 25 U.S. Banks are building bitcoin products for customers](https://www.reddit.com/r/Bitcoin/comments/1pnhvtj/14_of_the_top_25_us_banks_are_building_bitcoin/)**
+**[99.1% of Volume in BTC Today Was Movement of Coins Held Less than 180 Days](https://www.reddit.com/r/Bitcoin/comments/1pno0m5/991_of_volume_in_btc_today_was_movement_of_coins/)**
 
-3h ago
+Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
+
+1h ago
 
 ---
 
@@ -153,7 +157,7 @@ Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many time
 
 Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -161,15 +165,15 @@ Bloomberg.com • 3h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 18h ago
+Financial Times • 21h ago
 
 ---
 
-**[Why Did Bitcoin Cash Sink 5% Today?](https://www.fool.com/investing/2025/12/15/why-did-bitcoin-cash-sink-5-today/)**
+**[Bitcoin Bleeding Continues As Cryptocurrency Nears $85,000](https://www.forbes.com/sites/digital-assets/2025/12/15/bitcoin-bleeding-continues-as-cryptocurrency-nears-85000/)**
 
-This prominent altcoin has seen its valuation increasingly come into question in recent days.
+Bitcoin prices extended their recent losses Monday, December 15, approaching $85,000 as the world’s most prominent digital currency struggled with notable headwinds.
 
-The Motley Fool • 34m ago
+Forbes • 1h ago
 
 ---
 
@@ -177,7 +181,7 @@ The Motley Fool • 34m ago
 
 Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -185,13 +189,19 @@ Yahoo Finance • 1h ago
 
 Crypto-related stocks suffered far deeper declines as bitcoin slumped well below its recent trading range.
 
-CoinDesk • 2h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcDcgk-HtZbMeTJ19HbgKSbMWW05ZshdHSiQXKQFNrKylaiA60bXZxg&gaa_ts=69409f0c&gaa_sig=EAaoA_qWPGuRQYKvfJ5zqh5C6h748lgW3j3WZ7isLsTj2AtFwAHMPFjAJujB0bVOT9VWrQH1DYw1hD6bNUecGA%3D%3D)**
+**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqcGerxITknSCH6oXugOYU17Y6P3eTP8mAwEsRDjy2tzaSbjp8E48VDV&gaa_ts=6940c532&gaa_sig=R0D5RFuViZYTwPbcv6kimw9Or_3V0Lt-gUrLTSyF6OodzwM7KxK9EF7kOffYlAMC9CQC80JctQ8qwcnUDyH5XA%3D%3D)**
 
-Barron's • 5h ago
+Barron's • 8h ago
+
+---
+
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqchP673H9BtzRg-1j_fgzhdopoAgWY3_W89H_jCRyt7mQGzz5b6lwGI&gaa_ts=6940c532&gaa_sig=bYDymq2lL0q2QF3eYBeXOceaZRlm7VoLQxfKA2WV2_AR9LknSJ2SPUhwelgpFN2icz16Qi6CEfv-CqtiDF4nNQ%3D%3D)**
+
+MarketWatch • 13h ago
 
 ---
 
@@ -203,23 +213,15 @@ The Block • 1d ago
 
 **[Legendary analyst warns of 80% Bitcoin ‘decay’](https://www.thestreet.com/crypto/markets/legendary-analyst-warns-of-80-bitcoin-decay)**
 
-thestreet.com • 6h ago
+thestreet.com • 9h ago
 
 ---
 
-**[Luke Gromen Turns Bearish, Warns Bitcoin Could Slide to $40K](https://bitbo.io/news/gromen-bitcoin-bearish-40k/)**
+**[Look Out Below: Another 3% Drop In Bitcoin Brings This Token Toward a Key Level](https://www.fool.com/investing/2025/12/15/look-out-below-another-3-drop-in-bitcoin-brings-th/)**
 
-Macro analyst Luke Gromen has adopted a near-term bearish stance on Bitcoin, citing macroeconomic shifts, technical weakness, and rising quantum risk narratives as reasons for a possible slide to $40,000 in 2026.
+Bitcoin's recent price decline has picked up steam in recent weeks.
 
-Bitbo • 11h ago
-
----
-
-**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
-
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
-
-Forbes • 1d ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -247,7 +249,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 11h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 13h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -299,7 +301,7 @@ We’ve already written several times about the danger posed by adding AI to law
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 16h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 18h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
@@ -313,7 +315,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 629 • 💬 53 • ⏱️ 40:28 • 6h ago
+👁️ 13K • 👍 697 • 💬 58 • ⏱️ 40:28 • 9h ago
 
 ---
 
@@ -323,47 +325,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 221 • ⏱️ 52:24 • 8h ago
-
----
-
-**[WTF BITCOIN!!](https://www.youtube.com/watch?v=yPlm3_Cv8pQ)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 15K • 👍 748 • 💬 211 • ⏱️ 23:41 • 7h ago
-
----
-
-**[Bitcoin Dumps Below $90K AGAIN! Is The Cycle Top In?](https://www.youtube.com/watch?v=a5ZeFMSR08U)**
-
-Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning whether 2% inflation is officially dead, while the SEC's ...
-
-📺 The Wolf Of All Streets
-
-👁️ 23K • 👍 1K • 💬 295 • ⏱️ 1:05:55 • 8h ago
-
----
-
-**[Why is Bitcoin STUCK at $90K?! (This Explains Everything)](https://www.youtube.com/watch?v=9Xi0PnWSLto)**
-
-Bitcoin's been dropping like clockwork at market open—but is it just normal volatility, or something more sinister? From Japanese ...
-
-📺 Simply Bitcoin
-
-👁️ 45K • 👍 2K • 💬 217 • ⏱️ 14:17 • 1d ago
-
----
-
-**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 68K • 👍 3K • 💬 431 • ⏱️ 9:35 • 1d ago
+👁️ 28K • 👍 1K • 💬 315 • ⏱️ 52:24 • 10h ago
 
 ---
 
@@ -373,37 +335,77 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 398 • 💬 121 • ⏱️ 8:05 • 4h ago
+👁️ 7K • 👍 443 • 💬 153 • ⏱️ 8:05 • 7h ago
 
 ---
 
-**[Why Bitcoin is Dropping? | Live Bitcoin Trading Price](https://www.youtube.com/watch?v=CzkerQQP0s4)**
+**[The Banks’ Secret Attack on Bitcoin Has Begun: Synthetic BTC to Control Price! (Don’t Fall for It..)](https://www.youtube.com/watch?v=N54rj8w7kQQ)**
 
-Come look into the next BIG move in crypto! All LIVE analysis, charting, and trades! 1️⃣ SIGN UP With ANY ...
+Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!* ⚡   *Limited Time!* — before Dec 22 2025!
 
-📺 Tom Crown
+📺 Crypto Casey
 
-👁️ 5K • 👍 285 • 💬 19 • ⏱️ 1:13:56 • 4h ago
-
----
-
-**[Bitcoin Testing FINAL Support.. If This Breaks, It Gets Ugly!](https://www.youtube.com/watch?v=H8xdqEAKJTM)**
-
-Premium Discord   https://Frankiecandlestrading.com Try my FREE Indicator   ...
-
-📺 Frankie Candles 
-
-👁️ 2K • 👍 230 • 1h ago
+👁️ 22K • 👍 2K • 💬 247 • ⏱️ 14:34 • 9h ago
 
 ---
 
-**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=Y2qfKc-FpxA)**
+**[Bitcoin Dumps Below $90K AGAIN! Is The Cycle Top In?](https://www.youtube.com/watch?v=a5ZeFMSR08U)**
 
-Why is the price of #Bitcoin dropping? Let's discuss! Make sure you check out ITC premium before the SALE ends so you can lock ...
+Bitcoin #Crypto #Finance The Fed's latest rate cut has markets questioning whether 2% inflation is officially dead, while the SEC's ...
 
-📺 Benjamin Cowen
+📺 The Wolf Of All Streets
 
-👁️ 103K • 👍 7K • 💬 485 • ⏱️ 17:53 • 1d ago
+👁️ 26K • 👍 1K • 💬 356 • ⏱️ 1:05:55 • 10h ago
+
+---
+
+**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 71K • 👍 3K • 💬 277 • ⏱️ 9:35 • 1d ago
+
+---
+
+**[What&#39;s Coming for BTC &amp; Crypto Will SURPASS 2021 &amp; 2017&quot; - Jordi Visser](https://www.youtube.com/watch?v=S6I0tNQpmSM)**
+
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged: https://www.itrustcapital.com/go/savvy-finance If you're ...
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 202 • 💬 38 • ⏱️ 22:13 • 9h ago
+
+---
+
+**[WTF BITCOIN!!](https://www.youtube.com/watch?v=yPlm3_Cv8pQ)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 17K • 👍 780 • 💬 218 • ⏱️ 23:41 • 9h ago
+
+---
+
+**[Why is Bitcoin STUCK at $90K?! (This Explains Everything)](https://www.youtube.com/watch?v=9Xi0PnWSLto)**
+
+Bitcoin's been dropping like clockwork at market open—but is it just normal volatility, or something more sinister? From Japanese ...
+
+📺 Simply Bitcoin
+
+👁️ 46K • 👍 2K • 💬 174 • ⏱️ 14:17 • 1d ago
+
+---
+
+**[Buy Bitcoin in 2026? (after its recent 30% drop) | Akshat Shrivastava](https://www.youtube.com/watch?v=QK00F1Bfw0U)**
+
+You can check CoinDCX here: https://join.coindcx.com/invite/ComPB. Invest in the US Stock Market and Global Equities with ...
+
+📺 Akshat Shrivastava
+
+👁️ 31K • 👍 771 • 💬 118 • ⏱️ 25:36 • 11h ago
 
 ---
 

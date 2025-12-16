@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-15T23:59:41.977067+00:00'
+updated: '2025-12-16T02:21:17.751877+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 15, 2025 at 23:59 UTC  
+**Last Updated:** December 16, 2025 at 02:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
 
-10h ago
+13h ago
 
 ---
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
 
-1h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
 
-11h ago
+14h ago
 
 ---
 
@@ -66,7 +66,7 @@ Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 
 
 RIP, between the failed Amazon acquisition and the stiff competition this was a long time coming but still very sad. Theyre being bought by their Chinese manufacturer, which I found interesting when there are so many Chinese competitors in the market. I wonder if they will try to continue the brand.
 
-🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 20h ago
+🔗 [reuters.com](https://www.reuters.com/technology/irobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15/) • 23h ago
 
 ---
 
@@ -82,7 +82,15 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-robotics/Reachy_Mini_Assembly_Guide
 
-8h ago
+10h ago
+
+---
+
+**[Robot Arm Controlled by VLM](https://www.reddit.com/r/robotics/comments/1pnm6jw/robot_arm_controlled_by_vlm/)**
+
+Been getting a lot of questions about how this projects works. Decided to post another video that shows the camera feed and also what the ai voice is saying as it is working through a prompt. Again feel free to ask any questions!!! Full video: https://youtu.be/UOc8WNjLqPs?si=XO0M8RQBZ7FDof1S
+
+3h ago
 
 ---
 
@@ -90,7 +98,7 @@ IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-
 
 Everything here is done in simulation — from perception to grasping and lifting, the policy learns the whole pipeline by itself. With physically accurate dynamics and reliable collision handling, the arm ends up learning much more stable control behaviors. You can pretty clearly see how RL improves grasp stability over training, rather than just memorizing motions.
 
-10h ago
+13h ago
 
 ---
 
@@ -98,15 +106,7 @@ Everything here is done in simulation — from perception to grasping and liftin
 
 Been messing around with this little mobile camera, it’s about the size of a cat or dog and can cruise around the house. Problem is… I have zero clue how to plan its route properly. My first thought was just A to B, but I also wanna make sure it doesn’t keep going in circles, checks all the corners, and can dodge stuff if things move around. Did some digging and found a few ways people do it: Fixed route: Set a path, it just follows it. Easy, but kinda rigid. Random walk: Goes wherever, feels more natural, but probably not super efficient. Algorithmic stuff (like SLAM): Can plan paths automatically and avoid obstacles, but sounds complicated and needs some serious computing power. Anyone here tried something like this? How do you actually get it to move smooth and safe around the house?
 
-19h ago
-
----
-
-**[Robotic Arm Controlled By VLM(Vision Language Model)](https://www.reddit.com/r/robotics/comments/1pms3ie/robotic_arm_controlled_by_vlmvision_language_model/)**
-
-Full Video - https://youtu.be/UOc8WNjLqPs?si=gnnimviX_Xdomv6l Been working on this project for about the past 4 months, the goal was to make a robot arm that I can prompt with something like "clean up the table" and then step by step the arm would complete the actions. How it works - I am using Gemini 3.0(used 1.5 ER before but 3.0 was more accurate locating objects) as the "brain" and a depth sense camera in an eye to hand setup. When Gemini receives an instruction like clean up the table it would analyze the image/video and choose the next back step. For example if it see's it is not currently holding anything it would know the next step is to pick up an object because it can not put something away unless it is holding it. Once that action is complete Gemini will scan the environment again and choose the next best step after that which would be to place the object in the bag. Feel free to ask any questions!! I learned about VLA models after I was already completed with this project so the goal is for that to be the next upgrade so I can do more complex task.
-
-1d ago
+21h ago
 
 ---
 
@@ -120,41 +120,27 @@ The New York Times • 1d ago
 
 ---
 
-**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
-
-Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
-
-South China Morning Post • 1d ago
-
----
-
-**[Why Humanoid Robots Still Can’t Survive in the Real World](https://www.scientificamerican.com/article/why-humanoid-robots-and-embodied-ai-still-struggle-in-the-real-world/)**
-
-General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
-
-Scientific American • 2d ago
-
----
-
 **[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
 
 They make robot vacuums, lots of them
 
-The Verge • 15h ago
+The Verge • 5d ago
 
 ---
 
-**[How Roomba invented the home robot — and lost the future](https://www.theverge.com/tech/844964/how-irobot-invented-the-roomba-and-lost-the-future-of-home-robotics)**
+**[iRobot to enter Chapter 11 and be acquired by Chinese creditor](https://www.therobotreport.com/irobot-to-enter-chapter-11-acquired-chinese-creditor/)**
 
-This bot got lost
+iRobot has begun bankruptcy proceedings under which its Chinese creditors will acquire the consumer robot company and continue the brand.
 
-The Verge • 1h ago
+The Robot Report • 7h ago
 
 ---
 
-**[Roomba Maker iRobot Files for Bankruptcy, With Chinese Supplier Taking Control](https://www.nytimes.com/2025/12/15/business/roomba-irobot-bankruptcy.html)**
+**[How iRobot lost its way home](https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/)**
 
-The New York Times • 13h ago
+iRobot survived three decades of competition, but couldn't survive European regulators killing its Amazon buyout. Now it's being taken over by its own supplier in bankruptcy court.
+
+TechCrunch • 23h ago
 
 ---
 
@@ -170,7 +156,7 @@ The Motley Fool • 1d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -178,13 +164,29 @@ Seeking Alpha • 5h ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 13h ago
+InvestorPlace • 15h ago
 
 ---
 
 **[They built robots and won. Now they want more middle schoolers to join in.](https://www.timesunion.com/education/article/steamwhiz-aims-expand-k-8-robotics-teams-albany-21236899.php)**
 
-timesunion.com • 1d ago
+Times Union • 1d ago
+
+---
+
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+
+South China Morning Post • 1d ago
+
+---
+
+**[Quantum Systems and Frontline Robotics Open Joint Drone Production Facility in Germany for Ukraine](https://militarnyi.com/en/news/quantum-systems-and-frontline-robotics-open-joint-drone-production-facility-in-germany-for-ukraine/)**
+
+German company Quantum Systems and Ukrainian drone manufacturer Frontline Robotics announced the creation of a joint venture, Quantum Frontline Industries.
+
+Мілітарний • 9h ago
 
 ---
 
@@ -198,17 +200,17 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 20K • 👍 582 • 💬 87 • ⏱️ 6:41 • 1d ago
+👁️ 21K • 👍 595 • 💬 92 • ⏱️ 6:41 • 1d ago
 
 ---
 
-**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
+**[&quot;Ultra-Realistic Android Girl in Advanced Robotics Lab — 8K Tech Showcase&quot; #robot #humanoid](https://www.youtube.com/watch?v=q3HNfaToS9s)**
 
-We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
+"Ultra-Realistic Android Girl in Advanced Robotics Lab — 8K Tech Showcase" #robot #humanoid A humanoid robot girl leaps ...
 
-📺 CNET
+📺 Farooq tv
 
-👁️ 10K • 👍 189 • 💬 24 • ⏱️ 1:05 • 9h ago
+👁️ 28K • 👍 112 • 💬 3 • ⏱️ 0:09 • 1d ago
 
 ---
 
@@ -216,7 +218,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 AI . Robot
 
-👁️ 132K • 👍 2K • 💬 15 • ⏱️ 0:21 • 1d ago
+👁️ 143K • 👍 2K • 💬 15 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -226,7 +228,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 265K • 👍 8K • 💬 288 • ⏱️ 0:34 • 1d ago
+👁️ 274K • 👍 9K • 💬 300 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -240,14 +242,6 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 ---
 
-**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
-
-📺 AI . Robot
-
-👁️ 37K • 👍 493 • 💬 12 • ⏱️ 0:16 • 2d ago
-
----
-
 **[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
 
 Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
@@ -258,23 +252,21 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 ---
 
+**[Humanoid Robots Revealed So Far. #robotics #humanoidrobot #robot #ai #futuretech](https://www.youtube.com/watch?v=LutBKiVP_kw)**
+
+📺 AI . Robot
+
+👁️ 37K • 👍 504 • 💬 13 • ⏱️ 0:16 • 2d ago
+
+---
+
 **[Piston Hood System | 4142B Gizmo | Robot Rundown](https://www.youtube.com/watch?v=StqdEtTqsDs)**
 
 4142B Gizmo from Hawaii shows off their piston hood system and the functionality that having a re-direct has for Push Back.
 
 📺 FUN Robotics Network
 
-👁️ 436 • 👍 19 • 💬 1 • ⏱️ 1:25 • 1h ago
-
----
-
-**[Are robots the future of space exploration? | BBC News](https://www.youtube.com/watch?v=-2Tq-leZgs4)**
-
-How can robots help astronauts survive in space? The National Space Industry Hub in Sydney, Australia, is home to some of the ...
-
-📺 BBC News
-
-👁️ 17K • 👍 325 • 💬 137 • ⏱️ 5:17 • 2d ago
+👁️ 860 • 👍 24 • 💬 3 • ⏱️ 1:25 • 4h ago
 
 ---
 
@@ -284,7 +276,17 @@ I actually turned my smartphone into a desktop pet... This is LOOI Robot by Tang
 
 📺 Kyle Krueger
 
-👁️ 5.2M • 👍 164K • 💬 3K • ⏱️ 0:51 • 5d ago
+👁️ 5.3M • 👍 165K • 💬 3K • ⏱️ 0:51 • 5d ago
+
+---
+
+**[Boy Pressed Test Mode Button...Robot went Crazy 🤖😳 #ai #robot #cat](https://www.youtube.com/watch?v=hRf4HyPmFtA)**
+
+Boy Pressed Test Mode Button...Robot went Crazy #ai #robot #cat.
+
+📺 Ai Animation World
+
+👁️ 97K • 💬 5 • ⏱️ 0:37 • 1d ago
 
 ---
 
