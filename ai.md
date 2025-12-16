@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T11:45:15.242377+00:00'
+updated: '2025-12-16T11:55:46.447887+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 11:45 UTC  
+**Last Updated:** December 16, 2025 at 11:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 21h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 22h ago
 
 ---
 
@@ -57,7 +57,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 20h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 21h ago
 
 ---
 
@@ -98,7 +98,7 @@ This is the second post in a series where I reverse-engineer the memory systems 
 
 US government launches ‘Tech Force’ to hire AI talent.[1] Deep-learning model predicts how fruit flies form, cell by cell.[2] Nvidia bulks up open source offerings with an acquisition and new open AI models.[3] Podcast industry under siege as AI bots flood airways.[4] Sources: [1] https://www.cnn.com/2025/12/15/tech/government-tech-force-ai [2] https://news.mit.edu/2025/deep-learning-model-predicts-how-fruit-flies-form-1215 [3] https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/ [4] https://www.yahoo.com/news/articles/podcast-industry-under-siege-ai-051031178.html
 
-5h ago
+6h ago
 
 ---
 
@@ -132,7 +132,7 @@ NPR • 1h ago
 
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -152,7 +152,7 @@ Politico • 14h ago
 
 **[Trump picks fight with MAGA allies in issuing AI executive order](https://thehill.com/homenews/administration/5650327-trump-executive-order-ai/)**
 
-thehill.com • 45m ago
+thehill.com • 55m ago
 
 ---
 
@@ -226,7 +226,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 303 • 💬 192 • 12h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 303 • 💬 192 • 13h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -320,7 +320,7 @@ Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPT
 
 📺 Dylan Curious
 
-👁️ 7K • 👍 428 • 💬 71 • ⏱️ 30:05 • 20h ago
+👁️ 7K • 👍 428 • 💬 71 • ⏱️ 30:05 • 21h ago
 
 ---
 
@@ -480,7 +480,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 192 • 11h ago
+⬇️ 10,487 • ❤️ 192 • 12h ago
 
 ---
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 1h ago
+⭐ 1.1k • 🔱 137 • 2h ago
 
 ---
 
@@ -735,7 +735,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 746 • 🔱 114 • 5h ago
+⭐ 746 • 🔱 114 • 6h ago
 
 ---
 

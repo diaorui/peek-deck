@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T11:45:15.256860+00:00'
+updated: '2025-12-16T11:55:46.462427+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 11:45 UTC  
+**Last Updated:** December 16, 2025 at 11:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -46,7 +46,7 @@ Live Ethereum monitoring dashboard
 **7d:** -11.1%  
 **30d:** -2.6%  
 **90d:** -35.6%  
-**1y:** -24.1%  
+**1y:** -24.0%  
 
 ---
 
@@ -88,7 +88,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 Smart contracts are great, but stitching everything together into a real app is exhausting. Frontend, wallets, security, UX… it adds up fast. How are smaller teams handling full App development without burning out?
 
-4m ago
+14m ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 15h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 16h ago
 
 ---
 
@@ -206,7 +206,7 @@ BeInCrypto • 1d ago
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 19h ago
+CryptoSlate • 20h ago
 
 ---
 
@@ -246,7 +246,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 181 • ⏱️ 12:16 • 11h ago
+👁️ 42K • 👍 2K • 💬 181 • ⏱️ 12:16 • 12h ago
 
 ---
 
@@ -266,7 +266,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 405 • 💬 79 • ⏱️ 18:30 • 7h ago
+👁️ 4K • 👍 405 • 💬 79 • ⏱️ 18:30 • 8h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 161 • 💬 3 • ⏱️ 8:04 • 12h ago
+👁️ 2K • 👍 161 • 💬 3 • ⏱️ 8:04 • 13h ago
 
 ---
 

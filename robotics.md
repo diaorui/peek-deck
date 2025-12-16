@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T11:45:15.260101+00:00'
+updated: '2025-12-16T11:55:46.465758+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 11:45 UTC  
+**Last Updated:** December 16, 2025 at 11:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
-7h ago
+8h ago
 
 ---
 
@@ -96,13 +96,13 @@ Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 
 
 What do you guys think? Do you know examples of founders that built successful robotics companies but they didn't come from robotics background? I see that most founders of robotics startups have robotics background compared to software where there are many companies that have founders that are not developers.
 
-34m ago
+45m ago
 
 ---
 
 **[50 wheels lego](https://www.reddit.com/r/robotics/comments/1pnufll/50_wheels_lego/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -232,7 +232,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 BlueAI25
 
-👁️ 9K • 👍 93 • 💬 6 • ⏱️ 0:24 • 15h ago
+👁️ 9K • 👍 93 • 💬 6 • ⏱️ 0:24 • 16h ago
 
 ---
 

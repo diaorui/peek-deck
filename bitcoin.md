@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T11:45:15.250833+00:00'
+updated: '2025-12-16T11:55:46.456383+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 11:45 UTC  
+**Last Updated:** December 16, 2025 at 11:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,192.28
+### $87,236.36
 
 ---
 
@@ -47,7 +47,7 @@ Live Bitcoin monitoring dashboard
 **24h:** -2.8%  
 **7d:** -5.1%  
 **30d:** -5.4%  
-**90d:** -25.3%  
+**90d:** -25.4%  
 **1y:** -17.9%  
 
 ---
@@ -217,7 +217,7 @@ Reuters • 1d ago
 
 Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
 
-Forbes • 1d ago
+Forbes • 2d ago
 
 ---
 
@@ -245,7 +245,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 22h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 23h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -373,7 +373,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 181 • ⏱️ 12:16 • 11h ago
+👁️ 42K • 👍 2K • 💬 181 • ⏱️ 12:16 • 12h ago
 
 ---
 
