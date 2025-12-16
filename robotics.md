@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T09:54:11.323003+00:00'
+updated: '2025-12-16T10:23:25.509053+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 09:54 UTC  
+**Last Updated:** December 16, 2025 at 10:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,23 +38,23 @@ Robotics research and industry news
 
 ---
 
-**[Don't throw away your old phone: This hexapod uses a smartphone as its entire "brain" (using the native IMU + GPU for active balancing)](https://www.reddit.com/r/robotics/comments/1pn6uru/dont_throw_away_your_old_phone_this_hexapod_uses/)**
-
-I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
-
-20h ago
-
----
-
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
 14h ago
 
 ---
 
-**[DIY powered exoskeleton by a college student](https://www.reddit.com/r/robotics/comments/1pntdfq/diy_powered_exoskeleton_by_a_college_student/)**
+**[Don't throw away your old phone: This hexapod uses a smartphone as its entire "brain" (using the native IMU + GPU for active balancing)](https://www.reddit.com/r/robotics/comments/1pn6uru/dont_throw_away_your_old_phone_this_hexapod_uses/)**
 
-Just saw this video of a college student building a powered exoskeleton by hand. Stuff like this always makes me think about how far exoskeletons have come. Companies like dnsys have already released lower limb exoskeletons as mobility aids for rehabilitation and daily use. Curious what people here think. Are we actually getting closer to wider adoption, for example in military or medical contexts, or are power, weight, and comfort still the main blockers?
+I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
+
+21h ago
+
+---
+
+**[Robots are coming..](https://www.reddit.com/r/robotics/comments/1pnty34/robots_are_coming/)**
+
+Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
 4h ago
 
@@ -65,14 +65,6 @@ Just saw this video of a college student building a powered exoskeleton by hand.
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
 6h ago
-
----
-
-**[Robots are coming..](https://www.reddit.com/r/robotics/comments/1pnty34/robots_are_coming/)**
-
-Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
-
-4h ago
 
 ---
 
@@ -88,7 +80,7 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
 
-21h ago
+22h ago
 
 ---
 
@@ -104,7 +96,15 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 Been getting a lot of questions about how this projects works. Decided to post another video that shows the camera feed and also what the ai voice is saying as it is working through a prompt. Again feel free to ask any questions!!! Full video: https://youtu.be/UOc8WNjLqPs?si=XO0M8RQBZ7FDof1S
 
-10h ago
+11h ago
+
+---
+
+**[Can we take a moment to appreciate how clean this robot assembly guide is?](https://www.reddit.com/r/robotics/comments/1pnaon4/can_we_take_a_moment_to_appreciate_how_clean_this/)**
+
+IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-robotics/Reachy_Mini_Assembly_Guide
+
+18h ago
 
 ---
 
@@ -114,7 +114,7 @@ Been getting a lot of questions about how this projects works. Decided to post a
 
 **[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
@@ -134,11 +134,25 @@ PR Newswire • 1d ago
 
 ---
 
-**[Roomba maker iRobot gets cleaned out in Chapter 11](https://www.theregister.com/2025/12/15/irobot_chapter_11/)**
+**[Major Mass. robotics company files for Chapter 11 bankruptcy, will sell to China](https://www.masslive.com/news/2025/12/major-mass-robotics-company-files-for-chapter-11-bankruptcy-will-sell-to-china.html)**
 
-: Company vacuumed up by its own manufacturer
+The filing comes just one year after Amazon dropped the ball on a $1.7 billion acquisition of the company.
 
-theregister.com • 20h ago
+MassLive.com • 19h ago
+
+---
+
+**[Trending tickers: Ford, PayPal, AMC Robotics, Korea Zinc and Rolls-Royce](https://uk.finance.yahoo.com/news/ford-paypal-amc-robotics-korea-zinc-rolls-royce-trending-tickers-092758134.html)**
+
+Yahoo Finance UK • 55m ago
+
+---
+
+**[President’s Report by Takayuki Ito](https://ifr.org/ifr-press-releases/news/presidents-report-by-takayuki-ito-4-2025)**
+
+It is my pleasure to open this edition of our quarterly newsletter as we approach the end of 2025 - a year that has brought remarkable momentum, important breakthroughs, and renewed confidence to the global robotics community.
+
+International Federation of Robotics • 10m ago
 
 ---
 
@@ -147,14 +161,6 @@ theregister.com • 20h ago
 The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
 The Motley Fool • 1d ago
-
----
-
-**[Serve Robotics Deploys 2,000 Robots & Leads U.S. Sidewalk Delivery](https://finance.yahoo.com/news/serve-robotics-deploys-2-000-163700829.html)**
-
-SERV reaches its 2025 target with 2,000+ autonomous robots, becoming the largest U.S. sidewalk delivery fleet through rapid expansion and disciplined execution.
-
-Yahoo Finance • 17h ago
 
 ---
 
@@ -182,14 +188,6 @@ German company Quantum Systems and Ukrainian drone manufacturer Frontline Roboti
 
 ---
 
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
-
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
-
-Fortune • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +198,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 15K • 👍 510 • 💬 68 • ⏱️ 11:23 • 9h ago
+👁️ 15K • 👍 510 • 💬 68 • ⏱️ 11:23 • 10h ago
 
 ---
 
@@ -266,7 +264,7 @@ Discover the latest girlfriend robot in this eye-opening tech expo experience! E
 
 📺 Ricey Rice
 
-👁️ 193K • 👍 659 • 💬 5 • ⏱️ 0:06 • 19h ago
+👁️ 193K • 👍 659 • 💬 5 • ⏱️ 0:06 • 20h ago
 
 ---
 
@@ -286,7 +284,7 @@ This self aware robot escaped... (and he's after US) Like and subscribe. socials
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 49 • 💬 4 • ⏱️ 1:25 • 11h ago
+👁️ 2K • 👍 49 • 💬 4 • ⏱️ 1:25 • 12h ago
 
 ---
 

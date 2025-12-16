@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T09:54:11.313702+00:00'
+updated: '2025-12-16T10:23:25.499680+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 09:54 UTC  
+**Last Updated:** December 16, 2025 at 10:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,337.90
+### $86,491.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.1%  
-**7d:** -6.2%  
+**24h:** -3.4%  
+**7d:** -5.9%  
 **30d:** -6.5%  
 **90d:** -26.2%  
 **1y:** -18.8%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1722.36B
+**Market Cap:** $1723.96B
 Rank #1
 
-**Circulating Supply:** 19,962,784 BTC
+**Circulating Supply:** 19,962,800 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.6%
+-31.5%
 
 **All-Time Low:** $67.81
-+127133.4%
++127282.4%
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 100k range might take till next year
 
-10h ago
+11h ago
+
+---
+
+**[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
+
+9h ago
 
 ---
 
@@ -115,12 +121,6 @@ Buy some bitcoin and store it.
 
 ---
 
-**[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
-
-8h ago
-
----
-
 **[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
 
 9h ago
@@ -129,7 +129,7 @@ Buy some bitcoin and store it.
 
 **[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -143,7 +143,7 @@ Buy some bitcoin and store it.
 
 I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
 
-13h ago
+14h ago
 
 ---
 
@@ -167,15 +167,7 @@ Financial Times • 1d ago
 
 ---
 
-**[BTC, XRP, ETH, SOL Price Analysis: 75 of top 100 coins trade below key averages](https://www.coindesk.com/markets/2025/12/16/crypto-bear-grip-tightens-as-75-of-top-100-coins-trade-below-key-averages-vs-just-29-nasdaq-stocks)**
-
-Crypto's bear grip squeezes tighter as 75 of top 100 coins trade below 50- and 200-day SMAs.
-
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin Falls Again as Investors Cut Risk Exposure](https://www.barrons.com/livecoverage/stock-market-news-today-121625/card/bitcoin-falls-again-as-investors-cut-risk-exposure-kZwJN0Jy502gSQ8gbi5y?modCode=hp_LEDE_C_LC_1&gaa_at=eafs&gaa_n=AWEtsqdft_r8D50pCEzQLkB_Wx1QeRoGfwv8kr0NyOts-G17eVEdVF1bfPqE&gaa_ts=69412bb3&gaa_sig=GExvjyYcsoEdxslFjhL3NP2OcuEGLkNUe9EO6T0V3AZDg_7ZLZ-9jMIoOl4BAlEm90APAvw2rBFmTrkP0EfZRA%3D%3D)**
+**[Bitcoin Falls Again as Investors Cut Risk Exposure](https://www.barrons.com/livecoverage/stock-market-news-today-121625/card/bitcoin-falls-again-as-investors-cut-risk-exposure-kZwJN0Jy502gSQ8gbi5y?gaa_at=eafs&gaa_n=AWEtsqdxN8Za-DlpQKuuwTi78r7kgxIVc8ZN4ZulSC4kQ4GtXiXBL-JUeA7s&gaa_ts=6941368a&gaa_sig=HhFqmyIRJmev7qyeyTLbOgHQfcF1wPB5Nger5LcV50HI-OsBaVhN-DXvf1x3oiNAmogNc32bqMDm92RwYHY6QA%3D%3D)**
 
 Bitcoin was falling following declines in U.S. and Asian equities overnight as investors trim exposures to risky assets ahead of key U.S. data and a raft of central bank decisions.
 The delayed U.S. nonfarm payrolls report for November and partial data for October will be released at 8:30 a.m. GMT.
@@ -184,11 +176,11 @@ Barron's • 1h ago
 
 ---
 
-**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
+**[Bitcoin Could Hit $140,000 in Next 180 Days, Expert Says](https://finance.yahoo.com/news/bitcoin-could-hit-140-000-092219611.html)**
 
-Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
+New analysis suggests Bitcoin’s four-year cycles have been replaced — and the world’s biggest cryptocurrency could rebound to $140,000 at some point in the next 180 days.According to Copper, the arrival of exchange-traded funds tracking BTC’s spot price have changed this digital asset’s behavior, and given way to what it ...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,19 +188,15 @@ Yahoo Finance • 11h ago
 
 Sometimes you are the biggest risk to your portfolio's health.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
-**[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
+**[BTC, ETH, XRP, ADA Price News: Bitcoin, ether, cardano extend losses](https://www.coindesk.com/markets/2025/12/16/bitcoin-ether-and-xrp-extend-losses-as-year-end-caution-builds)**
 
-The Block • 13h ago
+Global markets mirrored this trend, with Asian equities and U.S. equity futures softening, while the dollar hovered near two-month lows.
 
----
-
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqc3-cnkTpdjG0ayZNUFAnMs0vx2vPlXLJxo9srcJWdBIFZl7s3gLz2E&gaa_ts=69412bb3&gaa_sig=V4i7WZStlExwghCAsIfQah3sGotTUK-elTZB1KdxqmidL_gcRc3tt8YWx6YMlWz3RRtCMK50ZQ8RgK65Kz5Jmw%3D%3D)**
-
-MarketWatch • 20h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -220,11 +208,21 @@ Seeking Alpha • 4h ago
 
 ---
 
-**[Bitcoin Price Crash Fears Suddenly Emerge After Serious Saylor Warning](https://www.forbes.com/sites/digital-assets/2025/12/14/saylor-issues-stark-warning-amid-sudden-scramble-to-update-bitcoin-price-predictions/)**
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqc3FTDgEVX7aVBbhK6DuulokXp3RpYksIluyeRlALKkO56rKoV3sK-6&gaa_ts=6941368a&gaa_sig=zYy71fhIG1bMaZpi2N5-7qL_wOKn2dntHseAF4DUR_r_9kWNOviffbMntNaxpx2ux3WcQFfrTZDNnEhKZc4IwQ%3D%3D)**
 
-Michael Saylor has warned of “chaos, confusion," and "profoundly harmful consequences" if his bitcoin-buying company Strategy is ejected from MSCI indices...
+MarketWatch • 21h ago
 
-Forbes • 1d ago
+---
+
+**[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
+
+The Block • 13h ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -252,7 +250,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 20h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 21h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -261,6 +259,14 @@ Bithoven is a smart contract language for composing powerful and secure instrume
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
 ⬆️ 1 • 💬 1 • 4d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+
+---
+
+**[Bitcoin-Gold Flippening – Flip.gold](https://news.ycombinator.com/item?id=46286571)**
+
+Current flip point: $1,490,141 per bitcoin - 5.79% progress
+
+⬆️ 1 • 💬 0 • 43m ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -322,7 +328,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 16K • 👍 787 • 💬 73 • ⏱️ 40:28 • 16h ago
+👁️ 16K • 👍 787 • 💬 73 • ⏱️ 40:28 • 17h ago
 
 ---
 
@@ -392,7 +398,7 @@ BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 9K • 👍 398 • 💬 71 • ⏱️ 25:11 • 11h ago
+👁️ 9K • 👍 398 • 💬 71 • ⏱️ 25:11 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T09:54:11.319742+00:00'
+updated: '2025-12-16T10:23:25.505840+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 09:54 UTC  
+**Last Updated:** December 16, 2025 at 10:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,928.09
+### $2,927.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -7.2%  
-**7d:** -11.7%  
-**30d:** -3.2%  
-**90d:** -36.1%  
-**1y:** -24.6%  
+**24h:** -7.3%  
+**7d:** -11.9%  
+**30d:** -3.4%  
+**90d:** -36.2%  
+**1y:** -24.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.38B
+**Market Cap:** $353.18B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+676082.9%
++676133.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-14h ago
+15h ago
 
 ---
 
@@ -154,7 +154,7 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 **[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -168,7 +168,7 @@ Nasdaq • 1d ago
 
 **['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Block • 18h ago
 
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -208,7 +208,7 @@ BeInCrypto • 1d ago
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 17h ago
+CryptoSlate • 18h ago
 
 ---
 
@@ -216,7 +216,7 @@ CryptoSlate • 17h ago
 
 An Ethereum whale purchased 38,576 ETH worth $119 million.
 
-AMBCrypto • 22h ago
+AMBCrypto • 23h ago
 
 ---
 
@@ -224,7 +224,7 @@ AMBCrypto • 22h ago
 
 Trust Wallet now offers zero swap gas on Ethereum, covering transaction fees for users and enabling cost-free token swaps.
 
-Crypto Briefing • 14h ago
+Crypto Briefing • 15h ago
 
 ---
 
@@ -258,7 +258,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 123 • 💬 37 • ⏱️ 6:53 • 9h ago
+👁️ 3K • 👍 123 • 💬 37 • ⏱️ 6:53 • 10h ago
 
 ---
 
@@ -268,7 +268,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 16K • 👍 787 • 💬 73 • ⏱️ 40:28 • 16h ago
+👁️ 16K • 👍 787 • 💬 73 • ⏱️ 40:28 • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 156 • 💬 3 • ⏱️ 8:04 • 10h ago
+👁️ 2K • 👍 156 • 💬 3 • ⏱️ 8:04 • 11h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 9K • 👍 398 • 💬 71 • ⏱️ 25:11 • 11h ago
+👁️ 9K • 👍 398 • 💬 71 • ⏱️ 25:11 • 12h ago
 
 ---
 
@@ -318,7 +318,7 @@ TAO's halving isn't just another crypto event and it definitely isn't what most 
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 203 • 💬 11 • ⏱️ 41:01 • 18h ago
+👁️ 4K • 👍 203 • 💬 11 • ⏱️ 41:01 • 19h ago
 
 ---
 
@@ -328,7 +328,7 @@ Semana explosiva para Bitcoin y la bolsa de valores: El mercado entra en una fas
 
 📺 WhatsUpCripto
 
-👁️ 2K • 👍 220 • 💬 54 • ⏱️ 18:43 • 10h ago
+👁️ 2K • 👍 220 • 💬 54 • ⏱️ 18:43 • 11h ago
 
 ---
 
