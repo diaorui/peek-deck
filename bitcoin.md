@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T15:28:44.710347+00:00'
+updated: '2025-12-16T15:47:08.697743+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 15:28 UTC  
+**Last Updated:** December 16, 2025 at 15:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,236.97
+### $87,456.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -5.1%  
-**30d:** -5.5%  
-**90d:** -25.4%  
-**1y:** -17.9%  
+**24h:** +1.0%  
+**7d:** -4.9%  
+**30d:** -5.3%  
+**90d:** -25.2%  
+**1y:** -17.7%  
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Are you still buying?
 
-23h ago
+1d ago
 
 ---
 
@@ -107,13 +107,13 @@ Are you still buying?
 
 **[Time to buy?](https://www.reddit.com/r/Bitcoin/comments/1po3hmm/time_to_buy/)**
 
-52m ago
+1h ago
 
 ---
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -121,7 +121,7 @@ Are you still buying?
 
 Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
 
-14h ago
+15h ago
 
 ---
 
@@ -133,7 +133,7 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 **[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -159,7 +159,7 @@ Barron's • 21h ago
 
 Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -189,7 +189,7 @@ Financial Times • 1d ago
 
 **[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -261,7 +261,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 5h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 6h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swi
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 4 • 💬 0 • 6m ago
+⬆️ 4 • 💬 0 • 24m ago
 
 ---
 
@@ -309,7 +309,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 12K • 👍 405 • 💬 240 • ⏱️ 10:03 • 8h ago
+👁️ 12K • 👍 405 • 💬 240 • ⏱️ 10:03 • 9h ago
 
 ---
 
@@ -359,7 +359,7 @@ We have a classic case of the bear market blues :( Make sure you check out ITC p
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 250 • ⏱️ 19:58 • 8h ago
+👁️ 40K • 👍 3K • 💬 250 • ⏱️ 19:58 • 9h ago
 
 ---
 
@@ -369,7 +369,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 372 • ⏱️ 52:24 • 23h ago
+👁️ 31K • 👍 1K • 💬 372 • ⏱️ 52:24 • 1d ago
 
 ---
 

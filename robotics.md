@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T15:28:44.719486+00:00'
+updated: '2025-12-16T15:47:08.707044+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 15:28 UTC  
+**Last Updated:** December 16, 2025 at 15:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -72,7 +72,7 @@ I recently made this prototype of a self-balancing wheel provided with robotic m
 
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 Hello everyone, I’ll jump straight to my question. I’m currently looking to connect with professionals who are involved in research in robotics, especially areas like computer vision, robotic arms, and work at the intersection of AI and robotics. A bit about me: I’m currently in my internship phase and don’t have any prior research or publishing experience, but I do have a strong interest and solid knowledge in developing robots, experimenting with algorithms, and hands-on tinkering. I’m actively looking to collaborate and publish research in this domain. I can roughly dedicate around 10 hours per week to this effort. If anyone is interested, please feel free to DM me. I can share some of my work. I’d also really appreciate any advice on how to approach or find professors and researchers working in these areas. I’ve already reached out to my professors, but their research domains are quite different from what I’m looking for, which is why I’m trying to connect with people outside my immediate academic circle. Thanks in advance!
 
-28m ago
+47m ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello everyone, I’ll jump straight to my question. I’m currently looking to 
 
 I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
 
-36m ago
+55m ago
 
 ---
 
@@ -104,7 +104,7 @@ I just ordered all of the parts and finished 3D printing all of the components. 
 
 This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
 
-16h ago
+17h ago
 
 ---
 
@@ -130,7 +130,7 @@ South China Morning Post • 2d ago
 
 “The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
 
-Fortune • 2d ago
+Fortune • 3d ago
 
 ---
 
@@ -160,7 +160,7 @@ The Motley Fool • 1d ago
 
 SERV reaches its 2025 target with 2,000+ autonomous robots, becoming the largest U.S. sidewalk delivery fleet through rapid expansion and disciplined execution.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 

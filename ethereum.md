@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T15:28:44.716289+00:00'
+updated: '2025-12-16T15:47:08.703810+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 15:28 UTC  
+**Last Updated:** December 16, 2025 at 15:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** -12.1%  
-**30d:** -3.7%  
-**90d:** -36.4%  
-**1y:** -25.0%  
+**24h:** -1.0%  
+**7d:** -11.0%  
+**30d:** -2.5%  
+**90d:** -35.6%  
+**1y:** -24.1%  
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 19h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 20h ago
 
 ---
 
@@ -110,7 +110,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-20h ago
+21h ago
 
 ---
 
@@ -168,7 +168,7 @@ Nasdaq • 2d ago
 
 U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 41m ago
 
 Bitcoin and Ethereum are entering one of their most critical phases of the year after a sharp market-wide pullback sent BTC briefly below $86,000, shaking out overleveraged traders and resetting sentiment across major assets. Despite the volatility, both cryptocurrencies are now coiling near major…
 
-TradingView — Track All Markets • 2h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 476 • 👍 73 • 💬 19 • ⏱️ 8:42 • 2h ago
+👁️ 476 • 👍 73 • 💬 19 • ⏱️ 8:42 • 3h ago
 
 ---
 
@@ -266,7 +266,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 46K • 👍 2K • 💬 114 • ⏱️ 13:11 • 18h ago
+👁️ 46K • 👍 2K • 💬 114 • ⏱️ 13:11 • 19h ago
 
 ---
 
@@ -326,7 +326,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 234 • 💬 76 • ⏱️ 10:03 • 23h ago
+👁️ 3K • 👍 234 • 💬 76 • ⏱️ 10:03 • 1d ago
 
 ---
 

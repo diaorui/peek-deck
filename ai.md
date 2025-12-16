@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T15:28:44.701920+00:00'
+updated: '2025-12-16T15:47:08.689080+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 15:28 UTC  
+**Last Updated:** December 16, 2025 at 15:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 5m ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 24m ago
 
 ---
 
@@ -73,7 +73,7 @@ The ZLUDA open-source project that has been through several incarnations but ult
 
 We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
-31m ago
+49m ago
 
 ---
 
@@ -111,7 +111,7 @@ I’ve been experimenting with a slightly different approach to medical LMs and 
 
 Also: All the news and watercooler chat from Fortune.
 
-🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 22h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 23h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 23h ago
 
 'SNL' star Colin Jost made a gag about Donald Trump's rally at Mount Airy Casino Resort using an alleged AI image. 'SNL' had no comment.
 
-Deadline • 20m ago
+Deadline • 39m ago
 
 ---
 
@@ -145,7 +145,7 @@ Deadline • 20m ago
 
 The RPG powerhouse promises no genAI in the finished game
 
-Kotaku • 39m ago
+Kotaku • 58m ago
 
 ---
 
@@ -153,7 +153,7 @@ Kotaku • 39m ago
 
 The 35-year-old received 2-10 years after using AI to generate nude images of children from social media photos, marking one of the first convictions under the 2024 legislation.
 
-lehighvalleylive • 39m ago
+lehighvalleylive • 58m ago
 
 ---
 
@@ -167,13 +167,13 @@ The Wall Street Journal • 20h ago
 
 It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
 **[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
 
-The Washington Post • 41m ago
+The Washington Post • 59m ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 5h ago
 
 A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -213,7 +213,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 458 • 💬 461 • 2d ago
+⬆️ 458 • 💬 461 • 3d ago
 
 ---
 
@@ -409,7 +409,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 879 • 3d ago
+⬇️ 158,614 • ❤️ 879 • 4d ago
 
 ---
 
@@ -469,7 +469,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 218 • 15h ago
+⬇️ 10,487 • ❤️ 218 • 16h ago
 
 ---
 
@@ -642,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.3k • 🔱 2.5k • 5h ago
+⭐ 16.3k • 🔱 2.5k • 6h ago
 
 ---
 
