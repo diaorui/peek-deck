@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T17:35:31.381468+00:00'
+updated: '2025-12-16T17:53:03.327008+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 17:35 UTC  
+**Last Updated:** December 16, 2025 at 17:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -11.6%  
-**30d:** -3.1%  
-**90d:** -36.0%  
-**1y:** -24.5%  
+**24h:** -0.2%  
+**7d:** -11.7%  
+**30d:** -3.3%  
+**90d:** -36.1%  
+**1y:** -24.7%  
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 21h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 22h ago
 
 ---
 
@@ -110,7 +110,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-22h ago
+23h ago
 
 ---
 
@@ -196,7 +196,7 @@ CoinDesk • 1d ago
 
 U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -232,7 +232,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 9K • 👍 2K • 💬 45 • ⏱️ 7:49 • 5h ago
+👁️ 9K • 👍 2K • 💬 45 • ⏱️ 7:49 • 6h ago
 
 ---
 
@@ -242,7 +242,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 905 • 👍 99 • 💬 24 • ⏱️ 8:42 • 4h ago
+👁️ 905 • 👍 99 • 💬 24 • ⏱️ 8:42 • 5h ago
 
 ---
 
@@ -282,7 +282,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 530 • 💬 69 • ⏱️ 18:30 • 13h ago
+👁️ 6K • 👍 530 • 💬 69 • ⏱️ 18:30 • 14h ago
 
 ---
 
@@ -292,7 +292,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 220 • ⏱️ 12:16 • 17h ago
+👁️ 54K • 👍 3K • 💬 220 • ⏱️ 12:16 • 18h ago
 
 ---
 
@@ -302,7 +302,7 @@ Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substanti
 
 📺 Paul Barron Network
 
-👁️ 944 • 👍 84 • 💬 16 • ⏱️ 29:25 • 58m ago
+👁️ 944 • 👍 84 • 💬 16 • ⏱️ 29:25 • 1h ago
 
 ---
 

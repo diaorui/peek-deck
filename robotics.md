@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T17:35:31.384631+00:00'
+updated: '2025-12-16T17:53:03.329776+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 17:35 UTC  
+**Last Updated:** December 16, 2025 at 17:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ I just ordered all of the parts and finished 3D printing all of the components. 
 
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
-13h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
 
-28m ago
+45m ago
 
 ---
 
@@ -128,7 +128,7 @@ The Verge • 1d ago
 
 **[Private equity giant EQT discusses its humanoid robot rollout](https://www.axios.com/2025/12/16/eqt-private-equity-humanoid-robot-1x)**
 
-Axios • 7m ago
+Axios • 25m ago
 
 ---
 
@@ -142,7 +142,7 @@ Tech Xplore • 1d ago
 
 The fully programmable, autonomous microbot only costs one penny to make.
 
-Popular Science • 36m ago
+Popular Science • 54m ago
 
 ---
 

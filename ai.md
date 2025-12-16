@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T17:35:31.367046+00:00'
+updated: '2025-12-16T17:53:03.314258+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 17:35 UTC  
+**Last Updated:** December 16, 2025 at 17:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 37m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 54m ago
 
 ---
 
@@ -65,7 +65,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-51m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 The ZLUDA open-source project that has been through several incarnations but ultimately about getting CUDA software up and running on non-NVIDIA GPUs now supports the AMD ROCm 7 series.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/ZLUDA-ROCm-7) • 5h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/ZLUDA-ROCm-7) • 6h ago
 
 ---
 
@@ -113,7 +113,7 @@ Schools across the U.S. are rolling out AI-powered surveillance technology, incl
 
 Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to bolster the open-source AI ecosystem
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Verge • 4h ago
 
 **[Here’s where to invest in AI, copper and credit before the holidays, according to Citi](https://www.marketwatch.com/story/heres-where-to-invest-in-ai-copper-and-credit-before-the-holidays-according-to-citi-c12c4f44?gaa_at=eafs&gaa_n=AWEtsqeUKwv5c7lmAM118n3sA2fxS5XeqdwiwW8km_IH4LdAIbKgNlWuCBjc&gaa_ts=69419bc7&gaa_sig=hsmRJkfQy1j403nVGW4gZzHdQrI2TYo8TdnBYV-DT4H-JLZ7ofgDnjxlm3o6df9JRSyl-Xn5L4MBjj67PCzDSA%3D%3D)**
 
-MarketWatch • 9m ago
+MarketWatch • 27m ago
 
 ---
 
@@ -217,7 +217,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 355 • 💬 289 • 18h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 355 • 💬 289 • 19h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -257,7 +257,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 86 • 💬 35 • 7h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 86 • 💬 35 • 8h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -457,7 +457,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 230 • 17h ago
+⬇️ 10,487 • ❤️ 230 • 18h ago
 
 ---
 
@@ -491,7 +491,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 185 • 11h ago
+⬇️ 0 • ❤️ 185 • 12h ago
 
 ---
 
@@ -505,7 +505,7 @@ Qwen-Image-i2L models generate LoRA weights from input images for style transfer
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 6 • 💬 2 • ⭐ 11,986 • 29d ago
+▲ 7 • 💬 2 • ⭐ 11,986 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -545,7 +545,7 @@ PersonaLive is a diffusion-based framework for real-time portrait animation that
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 25 • 💬 2 • ⭐ 12,568 • 8d ago
+▲ 26 • 💬 2 • ⭐ 12,568 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -642,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.3k • 🔱 2.6k • 7h ago
+⭐ 16.4k • 🔱 2.6k • 8h ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.8k • 🔱 414 • 3h ago
+⭐ 3.9k • 🔱 418 • 3h ago
 
 ---
 
@@ -672,7 +672,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 316 • 10d ago
+⭐ 1.3k • 🔱 317 • 10d ago
 
 ---
 
@@ -682,7 +682,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 4h ago
+⭐ 1.1k • 🔱 137 • 34m ago
 
 ---
 
@@ -712,7 +712,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 867 • 🔱 49 • 1d ago
+⭐ 868 • 🔱 49 • 1d ago
 
 ---
 
@@ -722,7 +722,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 756 • 🔱 110 • 1d ago
+⭐ 757 • 🔱 110 • 1d ago
 
 ---
 
@@ -732,7 +732,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 752 • 🔱 115 • 11h ago
+⭐ 753 • 🔱 117 • 11h ago
 
 ---
 

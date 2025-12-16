@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T17:35:31.375444+00:00'
+updated: '2025-12-16T17:53:03.321791+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 17:35 UTC  
+**Last Updated:** December 16, 2025 at 17:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,476.69
+### $87,148.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** -4.7%  
-**30d:** -5.1%  
-**90d:** -25.1%  
-**1y:** -17.6%  
+**24h:** +1.1%  
+**7d:** -5.2%  
+**30d:** -5.6%  
+**90d:** -25.5%  
+**1y:** -18.0%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ Are you still buying?
 
 **[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -121,13 +121,13 @@ Are you still buying?
 
 Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
 
-16h ago
+17h ago
 
 ---
 
 **[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-48m ago
+1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1h ago
 
 Bitwise CIO Matt Hougan said BTC is likely to hit all-time highs next year, with lower volatility and weaker equity correlations reshaping how institutions view the asset.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 2h ago
 
 After its latest purchase, the company now holds 5,098 bitcoin worth nearly $450 million
 
-CoinDesk • 18m ago
+CoinDesk • 35m ago
 
 ---
 
@@ -213,7 +213,7 @@ Financial Times • 1d ago
 
 **[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -265,7 +265,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 7h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 8h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -319,7 +319,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 220 • ⏱️ 12:16 • 17h ago
+👁️ 54K • 👍 3K • 💬 220 • ⏱️ 12:16 • 18h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin feels stalled. Prices are down, fear is up, and dopamine-chasing traders
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 470 • 💬 38 • ⏱️ 16:49 • 3h ago
+👁️ 4K • 👍 470 • 💬 38 • ⏱️ 16:49 • 4h ago
 
 ---
 
@@ -339,7 +339,7 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 1K • 👍 140 • ⏱️ 57:23 • 2h ago
+👁️ 1K • 👍 140 • ⏱️ 57:23 • 3h ago
 
 ---
 
@@ -349,7 +349,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 9K • 👍 2K • 💬 45 • ⏱️ 7:49 • 5h ago
+👁️ 9K • 👍 2K • 💬 45 • ⏱️ 7:49 • 6h ago
 
 ---
 
@@ -359,7 +359,7 @@ We have a classic case of the bear market blues :( Make sure you check out ITC p
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 4K • 💬 301 • ⏱️ 19:58 • 10h ago
+👁️ 51K • 👍 4K • 💬 301 • ⏱️ 19:58 • 11h ago
 
 ---
 
@@ -369,7 +369,7 @@ A major warning signal just flashed in Bitcoin — long-term holders are startin
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 292 • 💬 1 • ⏱️ 1:09:01 • 52m ago
+👁️ 2K • 👍 292 • 💬 1 • ⏱️ 1:09:01 • 1h ago
 
 ---
 
