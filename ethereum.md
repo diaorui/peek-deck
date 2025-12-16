@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T07:32:32.469120+00:00'
+updated: '2025-12-16T07:47:49.859632+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 07:32 UTC  
+**Last Updated:** December 16, 2025 at 07:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.6%  
-**7d:** -11.7%  
-**30d:** -3.2%  
-**90d:** -36.1%  
-**1y:** -24.6%  
+**24h:** -7.0%  
+**7d:** -12.1%  
+**30d:** -3.6%  
+**90d:** -36.4%  
+**1y:** -25.0%  
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I remember the Hollywood Doc fello on Twitter. But whom else was associated? Specifically who did CoffeeZilla talk too
 
-45m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ I remember the Hollywood Doc fello on Twitter. But whom else was associated? Spe
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 11h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 12h ago
 
 ---
 
@@ -112,7 +112,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-12h ago
+13h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 19h ago
 
 Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -222,7 +222,7 @@ Crypto Briefing • 12h ago
 
 **[3 reasons why Ethereum plunged 5% today](https://www.msn.com/en-us/money/savingandinvesting/3-reasons-why-ethereum-plunged-5-today/ar-AA1SpuPp?ocid=finance-verthp-feeds)**
 
-MSN • 8h ago
+MSN • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 38K • 👍 2K • 💬 104 • ⏱️ 13:11 • 10h ago
+👁️ 38K • 👍 2K • 💬 104 • ⏱️ 13:11 • 11h ago
 
 ---
 
@@ -326,7 +326,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 226 • 💬 43 • ⏱️ 10:03 • 15h ago
+👁️ 3K • 👍 226 • 💬 43 • ⏱️ 10:03 • 16h ago
 
 ---
 

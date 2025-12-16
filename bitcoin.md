@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T07:32:32.463099+00:00'
+updated: '2025-12-16T07:47:49.854279+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 07:32 UTC  
+**Last Updated:** December 16, 2025 at 07:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -4.2%  
-**7d:** -6.4%  
-**30d:** -6.7%  
-**90d:** -26.4%  
-**1y:** -19.0%  
+**24h:** -4.5%  
+**7d:** -6.6%  
+**30d:** -6.9%  
+**90d:** -26.5%  
+**1y:** -19.1%  
 
 ---
 
@@ -111,13 +111,13 @@ Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many time
 
 Are you still buying?
 
-15h ago
+16h ago
 
 ---
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -133,13 +133,13 @@ Buy some bitcoin and store it.
 
 Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
 
-6h ago
+7h ago
 
 ---
 
 **[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -157,7 +157,7 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 9h ago
 
 A slide in Bitcoin price on Monday triggered over $584 million in liquidations of bullish bets, primarily affecting long positions.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -205,7 +205,7 @@ Financial Times • 1d ago
 
 Crypto-related stocks suffered far deeper declines as bitcoin slumped well below its recent trading range.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -219,7 +219,7 @@ The Motley Fool • 16h ago
 
 **[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdxQHEjiFoYzE71_by24SsvMC9k10wPVS3xA1RrqfQq4QbXuD4kdODA&gaa_ts=69410e7c&gaa_sig=k0txHdYH2B0XL-3Afozg3mS17fM40Gr0dmZWT0ifAosZXjUAFvQ9rV_bk6gyUQ1Le4-huT8njZKLldJFDxTQSw%3D%3D)**
 
-Barron's • 12h ago
+Barron's • 13h ago
 
 ---
 
@@ -339,7 +339,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 309 • ⏱️ 52:24 • 15h ago
+👁️ 30K • 👍 1K • 💬 309 • ⏱️ 52:24 • 16h ago
 
 ---
 
