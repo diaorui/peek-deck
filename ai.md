@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T20:50:46.247193+00:00'
+updated: '2025-12-16T21:12:14.862998+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 20:50 UTC  
+**Last Updated:** December 16, 2025 at 21:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 3h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 4h ago
 
 ---
 
@@ -61,6 +61,14 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 ---
 
+**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://www.reddit.com/r/artificial/comments/1pocbf5/actor_joseph_gordonlevitt_wonders_why_ai/)**
+
+Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
+
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 57m ago
+
+---
+
 **[Mozilla names new CEO, Firefox to evolve into a "modern AI browser"](https://www.reddit.com/r/artificial/comments/1po4ttq/mozilla_names_new_ceo_firefox_to_evolve_into_a/)**
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
@@ -73,7 +81,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 15h ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 16h ago
 
 ---
 
@@ -81,15 +89,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
-5h ago
-
----
-
-**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://www.reddit.com/r/artificial/comments/1pocbf5/actor_joseph_gordonlevitt_wonders_why_ai/)**
-
-Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
-
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 35m ago
+6h ago
 
 ---
 
@@ -105,15 +105,13 @@ I’ve been trying to put a name to a specific frustration I feel when working d
 
 Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to bolster the open-source AI ecosystem
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 5h ago
 
 ---
 
-**[ZLUDA for CUDA on non-NVIDIA GPUs enables AMD ROCm 7 support](https://www.reddit.com/r/artificial/comments/1po01ci/zluda_for_cuda_on_nonnvidia_gpus_enables_amd_rocm/)**
+**[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-The ZLUDA open-source project that has been through several incarnations but ultimately about getting CUDA software up and running on non-NVIDIA GPUs now supports the AMD ROCm 7 series.
-
-🔗 [phoronix.com](https://www.phoronix.com/news/ZLUDA-ROCm-7) • 8h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 3h ago
 
 ---
 
@@ -125,33 +123,37 @@ The ZLUDA open-source project that has been through several incarnations but ult
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-NPR • 10h ago
+NPR • 11h ago
 
 ---
 
-**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
+**[Opinion | Will Creative Work Survive A.I.?](https://www.nytimes.com/2025/12/16/opinion/artists-creative-work-ai.html)**
 
-The New York Times • 1d ago
-
----
-
-**[Google retains spot as world's most popular internet service, but AI is growing fast](https://www.cbsnews.com/news/google-chatgpt-facebook-cloudflare-top-internet-services-2025/)**
-
-Global internet traffic rose 19% this year as people rely more on tech for daily communication and entertainment, new report finds.
-
-CBS News • 51m ago
+The New York Times • 11h ago
 
 ---
 
-**[The commoditization of "AI-first" marketing](https://www.fastcompany.com/91461295/the-commoditization-of-ai-first-marketing)**
+**[IBM, AWS veteran says 90% of your employees are stuck in AI's first gear](https://fortune.com/2025/12/16/ibm-aws-veteran-open-machine-ai-expert-allie-k-miller/)**
 
-Fast Company • 40m ago
+Using AI as a “teammate” unlocks the true potential of AI productivity, according to Open Machine CEO Allie K. Miller.
+
+Fortune • 24m ago
 
 ---
 
-**[Inside the AI engine powering the NBA’s next generation of insights](https://www.washingtonpost.com/creativegroup/aws/inside-the-ai-engine-powering-the-nbas-next-generation-of-insights/)**
+**[G2 Announces AI-Powered Performance Analytics To Turn AI Search Visibility Into Increased Pipeline](https://finance.yahoo.com/news/g2-announces-ai-powered-performance-204300457.html)**
 
-The Washington Post • 37m ago
+G2, the world's largest and most trusted software marketplace, today announced new capabilities to help software companies demonstrate measurable value from artificial intelligence (AI) search visibility and prevent customer churn.
+
+Yahoo Finance • 29m ago
+
+---
+
+**[Survey indicates 17% of companies benefiting from AI productivity boost cut jobs](https://www.foxbusiness.com/video/6386568115112)**
+
+'The Big Money Show' weighs in the impact of the boost in A.I. productivity on the labor market as well as its application for job use.
+
+Fox Business • 40m ago
 
 ---
 
@@ -163,29 +165,31 @@ CNBC • 4h ago
 
 ---
 
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqcIg9JRyre8qudYNaO-hSqyqEYhBVpEyEjn5TH-Y7FGEhZKebU8pY1e&gaa_ts=6941c599&gaa_sig=tJmR0MPaHymJoAOR0rHiMisEsx65LsXR3Qr2brDmwF_fghWtvjtnF6xEHA_QcrBo_W_WtCyu1Gx7u3mTvBjBwg%3D%3D)**
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqcW6oMjB8V164RHSBiP2EkL94wxnBjCC3Aw-mqJtnNxS4Rzv6YLIssn&gaa_ts=6941ce98&gaa_sig=kOT7hzhlpPyyO5qUDePDW4TvsLKsv__vwPt4fIa7RGYquoL7ez0WIl0QWSRBmcyQJW5vj7_dxVdKg1w9HaoNAw%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[AI models are perfecting their hacking skills](https://www.axios.com/2025/12/16/ai-models-hacking-stanford-openai-warnings)**
+**[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
 
-Axios • 2h ago
-
----
-
-**[Why 2026 could be the year of anti-AI marketing](https://www.cnn.com/2025/12/16/business/anti-ai-backlash-nightcap)**
-
-It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content.
-
-CNN • 9h ago
+The Washington Post • 3h ago
 
 ---
 
-**[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
+**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
 
-Reuters • 8h ago
+Four ways to think about this year's reckoning
+
+MIT Technology Review • 1d ago
+
+---
+
+**[Church Handbook Offers Enduring Guidance on Artificial Intelligence](https://newsroom.churchofjesuschrist.org/article/general-handbook-enduring-guidance-artificial-intelligence)**
+
+The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
+
+newsroom.churchofjesuschrist.org • 5h ago
 
 ---
 
@@ -195,7 +199,7 @@ Reuters • 8h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 751 • 💬 234 • 17h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 756 • 💬 234 • 18h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -203,7 +207,7 @@ Reuters • 8h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 573 • 💬 949 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 573 • 💬 956 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -217,7 +221,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 365 • 💬 295 • 22h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 365 • 💬 296 • 22h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -225,7 +229,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 297 • 💬 306 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 297 • 💬 308 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -257,7 +261,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 122 • 💬 48 • 10h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 122 • 💬 48 • 11h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -265,7 +269,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 88 • 💬 93 • 3h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 95 • 💬 104 • 3h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -279,7 +283,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 34K • 👍 696 • 💬 127 • ⏱️ 11:23 • 20h ago
+👁️ 34K • 👍 696 • 💬 127 • ⏱️ 11:23 • 21h ago
 
 ---
 
@@ -339,7 +343,7 @@ Create with OpenArt https://www.openart.ai/home/?ref=isa-18 In this video, I sho
 
 📺 Isa does AI
 
-👁️ 5K • 💬 5 • ⏱️ 12:03 • 6h ago
+👁️ 5K • 💬 5 • ⏱️ 12:03 • 7h ago
 
 ---
 
@@ -383,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,802 • 8d ago
+⬇️ 296,552 • ❤️ 2,804 • 8d ago
 
 ---
 
@@ -407,7 +411,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 887 • 4d ago
+⬇️ 158,614 • ❤️ 889 • 4d ago
 
 ---
 
@@ -443,7 +447,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 237 • 21h ago
+⬇️ 10,487 • ❤️ 240 • 21h ago
 
 ---
 
@@ -533,7 +537,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 21 • 💬 2 • ⭐ 422 • 4d ago
+▲ 23 • 💬 2 • ⭐ 422 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -592,19 +596,6 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 25 • 💬 1 • ⭐ 65,529 • 27mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -616,6 +607,19 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 199 • 💬 4 • ⭐ 7,127 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 25 • 💬 1 • ⭐ 65,560 • 27mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -652,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.9k • 🔱 418 • 6h ago
+⭐ 3.9k • 🔱 418 • 7h ago
 
 ---
 
@@ -732,7 +736,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 753 • 🔱 117 • 14h ago
+⭐ 753 • 🔱 117 • 15h ago
 
 ---
 
