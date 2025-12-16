@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T09:01:48.763561+00:00'
+updated: '2025-12-16T09:37:11.358484+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 09:01 UTC  
+**Last Updated:** December 16, 2025 at 09:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,888.00
+### $2,928.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -7.3%  
-**7d:** -11.8%  
-**30d:** -3.4%  
-**90d:** -36.2%  
-**1y:** -24.7%  
+**24h:** -7.1%  
+**7d:** -11.6%  
+**30d:** -3.2%  
+**90d:** -36.0%  
+**1y:** -24.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.50B
+**Market Cap:** $353.38B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+675995.1%
++676082.9%
 
 ---
 
@@ -104,7 +104,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-14h ago
+15h ago
 
 ---
 
@@ -152,25 +152,17 @@ One year ago today, eigenfoundation, a contributor to eigencloud, completed thei
 
 ## Google News: "ethereum"
 
+**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
+
+Bloomberg.com • 17h ago
+
+---
+
 **[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
 
 Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
 Nasdaq • 1d ago
-
----
-
-**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
-
-The Block • 20h ago
-
----
-
-**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://finance.yahoo.com/news/tom-lees-bitmine-keeps-buying-154149939.html)**
-
-Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
-
-Yahoo Finance • 17h ago
 
 ---
 
@@ -184,7 +176,23 @@ The Block • 18h ago
 
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
+
+---
+
+**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://decrypt.co/352365/tom-lees-bitmine-keeps-buying-ethereum-adding-320-million-eth-treasury)**
+
+Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
+
+Decrypt • 17h ago
+
+---
+
+**[3 Reasons Why Ethereum Plunged 5% Today](https://finance.yahoo.com/news/3-reasons-why-ethereum-plunged-213923494.html)**
+
+A mix of macro and token-specific factors are pushing investors away from Ethereum and toward other assets.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -208,7 +216,7 @@ CryptoSlate • 17h ago
 
 An Ethereum whale purchased 38,576 ETH worth $119 million.
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -216,13 +224,7 @@ AMBCrypto • 21h ago
 
 Trust Wallet now offers zero swap gas on Ethereum, covering transaction fees for users and enabling cost-free token swaps.
 
-Crypto Briefing • 13h ago
-
----
-
-**[Bitcoin slides below $86,000, ether falls as traders rotate into safer assets](https://www.theblock.co/post/382639/bitcoin-slides-below-86000)**
-
-The Block • 3h ago
+Crypto Briefing • 14h ago
 
 ---
 
@@ -246,7 +248,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 41K • 👍 2K • 💬 119 • ⏱️ 13:11 • 12h ago
+👁️ 41K • 👍 2K • 💬 119 • ⏱️ 13:11 • 13h ago
 
 ---
 
@@ -266,7 +268,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 16K • 👍 787 • 💬 73 • ⏱️ 40:28 • 15h ago
+👁️ 16K • 👍 787 • 💬 73 • ⏱️ 40:28 • 16h ago
 
 ---
 
@@ -306,7 +308,7 @@ BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 9K • 👍 398 • 💬 71 • ⏱️ 25:11 • 10h ago
+👁️ 9K • 👍 398 • 💬 71 • ⏱️ 25:11 • 11h ago
 
 ---
 
@@ -326,7 +328,7 @@ Semana explosiva para Bitcoin y la bolsa de valores: El mercado entra en una fas
 
 📺 WhatsUpCripto
 
-👁️ 2K • 👍 220 • 💬 54 • ⏱️ 18:43 • 9h ago
+👁️ 2K • 👍 220 • 💬 54 • ⏱️ 18:43 • 10h ago
 
 ---
 

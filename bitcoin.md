@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T09:01:48.758255+00:00'
+updated: '2025-12-16T09:37:11.352414+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 09:01 UTC  
+**Last Updated:** December 16, 2025 at 09:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,366.58
+### $86,337.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.2%  
-**7d:** -6.2%  
-**30d:** -6.6%  
-**90d:** -26.3%  
-**1y:** -18.9%  
+**24h:** -3.9%  
+**7d:** -6.0%  
+**30d:** -6.3%  
+**90d:** -26.1%  
+**1y:** -18.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1721.04B
+**Market Cap:** $1722.36B
 Rank #1
 
-**Circulating Supply:** 19,962,775 BTC
+**Circulating Supply:** 19,962,784 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.7%
+-31.6%
 
 **All-Time Low:** $67.81
-+126968.3%
++127133.4%
 
 ---
 
@@ -85,6 +85,14 @@ Rank #1
 
 ---
 
+**[99.1% of Volume in BTC Today Was Movement of Coins Held Less than 180 Days](https://www.reddit.com/r/Bitcoin/comments/1pno0m5/991_of_volume_in_btc_today_was_movement_of_coins/)**
+
+Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
+
+9h ago
+
+---
+
 **[Me checking on the homies I convinced to buy Bitcoin at 124K](https://www.reddit.com/r/Bitcoin/comments/1pnahuo/me_checking_on_the_homies_i_convinced_to_buy/)**
 
 Are you still buying?
@@ -95,7 +103,7 @@ Are you still buying?
 
 **[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -103,13 +111,11 @@ Are you still buying?
 
 Buy some bitcoin and store it.
 
-18h ago
+19h ago
 
 ---
 
-**[99.1% of Volume in BTC Today Was Movement of Coins Held Less than 180 Days](https://www.reddit.com/r/Bitcoin/comments/1pno0m5/991_of_volume_in_btc_today_was_movement_of_coins/)**
-
-Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
+**[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
 
 8h ago
 
@@ -121,15 +127,9 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 ---
 
-**[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
-
-7h ago
-
----
-
 **[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
 
-12h ago
+13h ago
 
 ---
 
@@ -159,14 +159,6 @@ Bloomberg.com • 4h ago
 
 ---
 
-**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
-
-Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
-
-Yahoo Finance • 10h ago
-
----
-
 **[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
@@ -175,19 +167,36 @@ Financial Times • 1d ago
 
 ---
 
+**[BTC, XRP, ETH, SOL Price Analysis: 75 of top 100 coins trade below key averages](https://www.coindesk.com/markets/2025/12/16/crypto-bear-grip-tightens-as-75-of-top-100-coins-trade-below-key-averages-vs-just-29-nasdaq-stocks)**
+
+Crypto's bear grip squeezes tighter as 75 of top 100 coins trade below 50- and 200-day SMAs.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin Falls Again as Investors Cut Risk Exposure](https://www.barrons.com/livecoverage/stock-market-news-today-121625/card/bitcoin-falls-again-as-investors-cut-risk-exposure-kZwJN0Jy502gSQ8gbi5y?modCode=hp_LEDE_C_LC_1&gaa_at=eafs&gaa_n=AWEtsqdft_r8D50pCEzQLkB_Wx1QeRoGfwv8kr0NyOts-G17eVEdVF1bfPqE&gaa_ts=69412bb3&gaa_sig=GExvjyYcsoEdxslFjhL3NP2OcuEGLkNUe9EO6T0V3AZDg_7ZLZ-9jMIoOl4BAlEm90APAvw2rBFmTrkP0EfZRA%3D%3D)**
+
+Bitcoin was falling following declines in U.S. and Asian equities overnight as investors trim exposures to risky assets ahead of key U.S. data and a raft of central bank decisions.
+The delayed U.S. nonfarm payrolls report for November and partial data for October will be released at 8:30 a.m. GMT.
+
+Barron's • 49m ago
+
+---
+
+**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
+
+Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
+
+Yahoo Finance • 11h ago
+
+---
+
 **[Got Bitcoin or XRP? Do This 1 Thing Right Now or Risk Disaster.](https://www.fool.com/investing/2025/12/15/got-bitcoin-or-xrp-do-this-1-thing-right-now-or-ri/)**
 
 Sometimes you are the biggest risk to your portfolio's health.
 
-The Motley Fool • 17h ago
-
----
-
-**[Why are BTC, XRP, ETH and SOL down today and what's next](https://www.coindesk.com/markets/2025/12/15/signs-of-fatigue-but-downside-likely-limited-as-bitcoin-tumbles-out-of-trading-range)**
-
-Crypto-related stocks suffered far deeper declines as bitcoin slumped well below its recent trading range.
-
-CoinDesk • 11h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -197,21 +206,17 @@ The Block • 12h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqeyPw1zkgRkHAN-YCoR5KdHJs0Kcu_3o-YPNKMPSIC1RkZsuXISgNCO&gaa_ts=69411eac&gaa_sig=o-dWrK3txqndaH9iYe-966H4whoJeiZt7Fnk3gTIjkRtZf_AxrfaJN2MjpK_FZv9YQrGrlSTYNEMivCuk3nN8g%3D%3D)**
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqc3-cnkTpdjG0ayZNUFAnMs0vx2vPlXLJxo9srcJWdBIFZl7s3gLz2E&gaa_ts=69412bb3&gaa_sig=V4i7WZStlExwghCAsIfQah3sGotTUK-elTZB1KdxqmidL_gcRc3tt8YWx6YMlWz3RRtCMK50ZQ8RgK65Kz5Jmw%3D%3D)**
 
-Barron's • 14h ago
-
----
-
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqfC32AcHsiDgGJZAgAep2BTjhWQbABNkDj-q7vOls97ly-S9NfM4eTI&gaa_ts=69411eac&gaa_sig=8aUp-WflzW8MPm4mANQSdH6juhPViyhjWVOJvgB4W-qEubcvR9uSYHwNqG1aeeQLGPqSZ64zU0n_PPTqK77RdA%3D%3D)**
-
-MarketWatch • 19h ago
+MarketWatch • 20h ago
 
 ---
 
-**[Legendary analyst warns of 80% Bitcoin ‘decay’](https://www.thestreet.com/crypto/markets/legendary-analyst-warns-of-80-bitcoin-decay)**
+**[Bitcoin bullish bets over $550 million wiped out - report (BTC:NYSEARCA)](https://seekingalpha.com/news/4531737-bitcoin-bullish-bets-over-550-million-wiped-out---report)**
 
-thestreet.com • 15h ago
+A slide in Bitcoin price on Monday triggered over $584 million in liquidations of bullish bets, primarily affecting long positions.
+
+Seeking Alpha • 3h ago
 
 ---
 
@@ -297,7 +302,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 416 • ⏱️ 8:04 • 7h ago
+👁️ 20K • 👍 1K • 💬 416 • ⏱️ 8:04 • 8h ago
 
 ---
 
@@ -307,7 +312,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 1K • 👍 59 • 💬 97 • ⏱️ 10:03 • 2h ago
+👁️ 1K • 👍 59 • 💬 97 • ⏱️ 10:03 • 3h ago
 
 ---
 
@@ -317,7 +322,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 16K • 👍 787 • 💬 73 • ⏱️ 40:28 • 15h ago
+👁️ 16K • 👍 787 • 💬 73 • ⏱️ 40:28 • 16h ago
 
 ---
 
@@ -387,7 +392,7 @@ BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 9K • 👍 398 • 💬 71 • ⏱️ 25:11 • 10h ago
+👁️ 9K • 👍 398 • 💬 71 • ⏱️ 25:11 • 11h ago
 
 ---
 
