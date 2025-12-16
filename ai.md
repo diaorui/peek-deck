@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T07:01:02.707298+00:00'
+updated: '2025-12-16T07:32:32.454622+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 07:01 UTC  
+**Last Updated:** December 16, 2025 at 07:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ RIP Copilot.
 
 Also: All the news and watercooler chat from Fortune.
 
-🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 14h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 15h ago
 
 ---
 
@@ -90,7 +90,7 @@ Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI 
 When I reverse-engineered ChatGPT’s memory system, I found it uses pre-computed summaries injected into every prompt. But Claude’s approach is different. Through extensive experimentation, I discovered Claude uses on-demand tools and selective retrieval, a fundamentally different architecture. But how does this actually work? And how does it compare to ChatGPT’s approach?
 This is the second post in a series where I reverse-engineer the memory systems of popular AI assistants. The first post focused on ChatGPT’s memory system.
 
-🔗 [manthanguptaa.in](https://manthanguptaa.in/posts/claude_memory) • 24m ago
+🔗 [manthanguptaa.in](https://manthanguptaa.in/posts/claude_memory) • 56m ago
 
 ---
 
@@ -106,7 +106,7 @@ US government launches ‘Tech Force’ to hire AI talent.[1] Deep-learning mode
 
 The Understanding AI guide to open-weight models.
 
-🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 12h ago
+🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 13h ago
 
 ---
 
@@ -122,9 +122,23 @@ The Understanding AI guide to open-weight models.
 
 ## Google News: "ai"
 
+**[Boost for artists in AI copyright battle as only 3% back UK active opt-out plan](https://www.theguardian.com/technology/2025/dec/16/boost-for-artists-in-ai-copyright-battle-as-only-3-per-cent-back-uk-active-opt-out-plan)**
+
+Liz Kendall faces pressure from campaigners as she tells parliament there is no clear consensus on issue
+
+The Guardian • 2h ago
+
+---
+
 **[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
+
+---
+
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqe7M0NgvIJtcWlV7dPgcaBhV2zCz7JM6I2Q8FXai_wjGQLY67VnWHW-&gaa_ts=69410e7a&gaa_sig=6YPLPVF4IXwZK2wR3AtQz5r9qgkHgmVLyHIDvGi1u7ZzMpYFgBd944oRCfG6_r77L0FCDcCts2NYI-TDENR0dw%3D%3D)**
+
+The Wall Street Journal • 12h ago
 
 ---
 
@@ -140,43 +154,13 @@ CNBC • 14h ago
 
 The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
 
-CNN • 14h ago
+CNN • 15h ago
 
 ---
 
-**[The White House’s unabashed embrace of AI](https://www.politico.com/news/2025/12/15/the-white-houses-unabashed-embrace-of-ai-00690885)**
+**[Trump turns to Big Tech for AI government workforce](https://www.axios.com/2025/12/15/trump-big-tech-ai-government-workforce)**
 
-Politico • 9h ago
-
----
-
-**[Boost for artists in AI copyright battle as only 3% back UK active opt-out plan](https://www.theguardian.com/technology/2025/dec/16/boost-for-artists-in-ai-copyright-battle-as-only-3-per-cent-back-uk-active-opt-out-plan)**
-
-Liz Kendall faces pressure from campaigners as she tells parliament there is no clear consensus on issue
-
-The Guardian • 2h ago
-
----
-
-**[The Disney-OpenAI deal and generative AI copyright concerns](https://digiday.com/marketing/the-disney-openai-deal-and-generative-ai-copyright-concerns/)**
-
-This week’s Digiday Podcast delves into the copyright concerns and potential trademark issues surrounding brands’ use of generative AI tools.
-
-Digiday • 1h ago
-
----
-
-**[yoona.ai case study](https://cloud.google.com/customers/yoona)**
-
-yoona.ai migrated to Google Cloud to power its AI platform helping designers predict trends and reduce their environmental impact.
-
-Google Cloud • 47m ago
-
----
-
-**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqd00kNF5bVuPf5MXOsfHrvyPrncKcqNwQ1aPVcoCccbv_VezRieCogM&gaa_ts=694101f7&gaa_sig=a64UYnZAi5irJsnduG5rUxjpBLG6ucF2h06IzRn6DpVxTE2neyR_r8TH1z1v7K4fZhyjy-FEY-EiECpIM3GdXA%3D%3D)**
-
-The Wall Street Journal • 11h ago
+Axios • 10h ago
 
 ---
 
@@ -190,7 +174,21 @@ MIT Technology Review • 21h ago
 
 **[‘We have a right to do this’: DeSantis wants Florida to move ahead with AI policies](https://www.politico.com/news/2025/12/15/we-have-a-right-to-do-this-desantis-wants-florida-to-move-ahead-with-ai-policies-00690680)**
 
-Politico • 13h ago
+Politico • 14h ago
+
+---
+
+**[Trump Signs Executive Order to Neuter State A.I. Laws](https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html)**
+
+The New York Times • 4d ago
+
+---
+
+**[DeSantis says Florida can regulate AI despite Trump’s executive order: 'We have a right to do this'](https://www.foxbusiness.com/politics/desantis-says-florida-can-regulate-ai-trumps-executive-order-we-have-right-do-this)**
+
+Gov. Ron DeSantis said Florida can regulate artificial intelligence despite President Donald Trump's executive order to create a national AI standard.
+
+Fox Business • 8h ago
 
 ---
 
@@ -202,7 +200,7 @@ Politico • 13h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 538 • 💬 905 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 542 • 💬 907 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -216,13 +214,13 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 363 • 💬 362 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 364 • 💬 362 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 305 • 💬 100 • 3h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 359 • 💬 117 • 4h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -230,7 +228,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 276 • 💬 291 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 278 • 💬 292 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -238,13 +236,13 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 250 • 💬 117 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 252 • 💬 118 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 174 • 💬 79 • 8h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 208 • 💬 100 • 8h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -320,7 +318,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 The Daily Show
 
-👁️ 195K • 👍 15K • 💬 381 • ⏱️ 2:38 • 15h ago
+👁️ 195K • 👍 15K • 💬 381 • ⏱️ 2:38 • 16h ago
 
 ---
 
@@ -384,7 +382,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 286,283 • ❤️ 2,767 • 7d ago
+⬇️ 286,283 • ❤️ 2,768 • 7d ago
 
 ---
 
@@ -456,7 +454,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 6,481 • ❤️ 229 • 4d ago
+⬇️ 6,481 • ❤️ 231 • 4d ago
 
 ---
 
@@ -644,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.0k • 🔱 2.5k • 38m ago
+⭐ 16.0k • 🔱 2.5k • 1h ago
 
 ---
 
@@ -654,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.7k • 🔱 390 • 1h ago
+⭐ 3.7k • 🔱 390 • 2h ago
 
 ---
 
@@ -674,7 +672,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.2k • 🔱 315 • 9d ago
+⭐ 1.2k • 🔱 315 • 10d ago
 
 ---
 
@@ -714,7 +712,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 866 • 🔱 49 • 17h ago
+⭐ 866 • 🔱 49 • 18h ago
 
 ---
 

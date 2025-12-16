@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T07:01:02.721608+00:00'
+updated: '2025-12-16T07:32:32.469120+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 07:01 UTC  
+**Last Updated:** December 16, 2025 at 07:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,31 +42,39 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.2%  
-**7d:** -11.2%  
-**30d:** -2.7%  
-**90d:** -35.8%  
-**1y:** -24.3%  
+**24h:** -6.6%  
+**7d:** -11.7%  
+**30d:** -3.2%  
+**90d:** -36.1%  
+**1y:** -24.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.39B
+**Market Cap:** $353.72B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.8%
 
 **All-Time Low:** $0.43
-+679117.7%
++676674.2%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion December 16, 2025](https://www.reddit.com/r/ethereum/comments/1pnuj08/daily_general_discussion_december_16_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
 
 **[JPMorgan Launches $100M Tokenized Money Market Fund on Ethereum](https://www.reddit.com/r/ethereum/comments/1pnfr0z/jpmorgan_launches_100m_tokenized_money_market/)**
 
@@ -76,19 +84,19 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 ---
 
-**[Daily General Discussion December 16, 2025](https://www.reddit.com/r/ethereum/comments/1pnuj08/daily_general_discussion_december_16_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-59m ago
-
----
-
 **[Daily General Discussion December 15, 2025](https://www.reddit.com/r/ethereum/comments/1pn03v7/daily_general_discussion_december_15_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[Who was Hailey Welsh's crypto team?](https://www.reddit.com/r/ethereum/comments/1pnvbh8/who_was_hailey_welshs_crypto_team/)**
+
+I remember the Hollywood Doc fello on Twitter. But whom else was associated? Specifically who did CoffeeZilla talk too
+
+45m ago
 
 ---
 
@@ -140,45 +148,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[1-Year Anniversary of EigenCloud's 1% Protocol Guild Pledge Contribution](https://www.reddit.com/r/ethereum/comments/1pl0vsm/1year_anniversary_of_eigenclouds_1_protocol_guild/)**
-
-One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
-
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
+**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
 
-Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
+Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
 
-Decrypt • 13h ago
-
----
-
-**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
-
-Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
-
-CoinDesk • 10h ago
-
----
-
-**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
-
-If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
-
-The Motley Fool • 1d ago
+Nasdaq • 1d ago
 
 ---
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -200,7 +184,7 @@ The Block • 16h ago
 
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -224,7 +208,21 @@ CryptoSlate • 15h ago
 
 An Ethereum whale purchased 38,576 ETH worth $119 million.
 
-AMBCrypto • 19h ago
+AMBCrypto • 20h ago
+
+---
+
+**[Trust Wallet introduces zero swap gas fees on Ethereum](https://cryptobriefing.com/zero-swap-gas-ethereum/)**
+
+Trust Wallet now offers zero swap gas on Ethereum, covering transaction fees for users and enabling cost-free token swaps.
+
+Crypto Briefing • 12h ago
+
+---
+
+**[3 reasons why Ethereum plunged 5% today](https://www.msn.com/en-us/money/savingandinvesting/3-reasons-why-ethereum-plunged-5-today/ar-AA1SpuPp?ocid=finance-verthp-feeds)**
+
+MSN • 8h ago
 
 ---
 
@@ -248,7 +246,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 16K • 👍 762 • 💬 72 • ⏱️ 40:28 • 13h ago
+👁️ 16K • 👍 762 • 💬 72 • ⏱️ 40:28 • 14h ago
 
 ---
 
@@ -308,7 +306,7 @@ The market is bleeding, but the cycle isn't over. In this video, I explain the "
 
 📺 Crypto Clarity with Blake
 
-👁️ 484 • 👍 5 • 💬 1 • ⏱️ 0:56 • 1h ago
+👁️ 484 • 👍 5 • 💬 1 • ⏱️ 0:56 • 2h ago
 
 ---
 

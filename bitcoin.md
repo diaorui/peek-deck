@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T07:01:02.715701+00:00'
+updated: '2025-12-16T07:32:32.463099+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 07:01 UTC  
+**Last Updated:** December 16, 2025 at 07:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.7%  
-**7d:** -5.9%  
-**30d:** -6.2%  
-**90d:** -26.0%  
-**1y:** -18.6%  
+**24h:** -4.2%  
+**7d:** -6.4%  
+**30d:** -6.7%  
+**90d:** -26.4%  
+**1y:** -19.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1722.26B
+**Market Cap:** $1719.84B
 Rank #1
 
-**Circulating Supply:** 19,962,718 BTC
+**Circulating Supply:** 19,962,765 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.5%
+-31.6%
 
 **All-Time Low:** $67.81
-+127329.6%
++127015.5%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 **[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
 
-10h ago
+11h ago
 
 ---
 
@@ -103,7 +103,7 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many times Bitcoin has been declared dead by critics and media, with the complete database of Bitcoin deaths.
 
-🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 10h ago
+🔗 [Bitcoin Is Dead](https://bitcoindeaths.com/) • 11h ago
 
 ---
 
@@ -125,7 +125,7 @@ Are you still buying?
 
 Buy some bitcoin and store it.
 
-16h ago
+17h ago
 
 ---
 
@@ -143,23 +143,15 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 ---
 
-**[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
+**[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
 
-13h ago
+6h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
-
-Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
-
-Yahoo Finance • 8h ago
-
----
 
 **[Bitcoin Breaches $86,000 While Sinking Toward Year’s Lows](https://www.bloomberg.com/news/articles/2025-12-15/bitcoin-breaches-86-000-while-sinking-toward-year-s-lows)**
 
@@ -169,11 +161,11 @@ Bloomberg.com • 2h ago
 
 ---
 
-**[BTC, ETH, XRP, ADA Price News: Bitcoin, ether, cardano extend losses](https://www.coindesk.com/markets/2025/12/16/bitcoin-ether-and-xrp-extend-losses-as-year-end-caution-builds)**
+**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
 
-Global markets mirrored this trend, with Asian equities and U.S. equity futures softening, while the dollar hovered near two-month lows.
+Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
 
-CoinDesk • 1h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -185,9 +177,19 @@ Seeking Alpha • 1h ago
 
 ---
 
-**[Bitcoin slides below $86,000, ether falls as traders rotate into safer assets](https://www.theblock.co/post/382639/bitcoin-slides-below-86000)**
+**[Saylor’s MSTR Stock Hammered By Bitcoin Sell-Off: How Low Can Bitcoin Go?](https://finance.yahoo.com/news/saylor-mstr-stock-hammered-bitcoin-055654720.html)**
 
-The Block • 1h ago
+As the new week begins, crypto news today continues to cause fear and uncertainty in the market, with Bitcoin dropping -0.8% overnight and losing its crucial $90,000 support level. The fear and greed index remains firmly in the ‘extreme fear’ zone at 16, as traders continue to lose hope amid ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[MetaMask Adds Bitcoin Support, Teases More Blockchain Integrations](https://finance.yahoo.com/news/metamask-adds-bitcoin-support-teases-061231942.html)**
+
+Crypto wallet provider MetaMask has expanded its multichain push by adding native support for Bitcoin, marking a notable shift for a platform long associated with Ethereum-based networks. Key Takeaways: MetaMask added native Bitcoin support, allowing users to buy, swap, and send BTC directly from the wallet. The move replaces wrapped ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -199,9 +201,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcwtb8tVrMDZgCowVH0sk1cBJdWi4OgCHHxLxK2COqidTDsjP0k74zl&gaa_ts=694101f9&gaa_sig=4jVDFKgpt__2Ph0YW2kRRWYHHwvo7bNxTe-UYWn0lLz_DSX63zj0jsDGlZYLKmm3FcCWWr_NmYsJxBlAV13btA%3D%3D)**
+**[Why are BTC, XRP, ETH and SOL down today and what's next](https://www.coindesk.com/markets/2025/12/15/signs-of-fatigue-but-downside-likely-limited-as-bitcoin-tumbles-out-of-trading-range)**
 
-Barron's • 12h ago
+Crypto-related stocks suffered far deeper declines as bitcoin slumped well below its recent trading range.
+
+CoinDesk • 9h ago
 
 ---
 
@@ -209,19 +213,19 @@ Barron's • 12h ago
 
 Sometimes you are the biggest risk to your portfolio's health.
 
-The Motley Fool • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
-**[Legendary analyst warns of 80% Bitcoin ‘decay’](https://www.thestreet.com/crypto/markets/legendary-analyst-warns-of-80-bitcoin-decay)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdxQHEjiFoYzE71_by24SsvMC9k10wPVS3xA1RrqfQq4QbXuD4kdODA&gaa_ts=69410e7c&gaa_sig=k0txHdYH2B0XL-3Afozg3mS17fM40Gr0dmZWT0ifAosZXjUAFvQ9rV_bk6gyUQ1Le4-huT8njZKLldJFDxTQSw%3D%3D)**
 
-thestreet.com • 13h ago
+Barron's • 12h ago
 
 ---
 
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqf9ddUnkV4FW9kfzW4BMS22dZe3RbutaiEHhzHGgSxlXnTQbt7HsksO&gaa_ts=694101f9&gaa_sig=DE_gTQ7phGDa9yk4-iLIPl1VDLfY-FcAhv3FBmPnutjfQFmtgl_T9yZobgLWQfYMjn1hRshhNZBWCenQAZjAmg%3D%3D)**
+**[Bitcoin slides below $86,000, ether falls as traders rotate into safer assets](https://www.theblock.co/post/382639/bitcoin-slides-below-86000)**
 
-MarketWatch • 17h ago
+The Block • 2h ago
 
 ---
 
@@ -315,7 +319,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 1K • 💬 345 • ⏱️ 8:04 • 5h ago
+👁️ 15K • 👍 1K • 💬 345 • ⏱️ 8:04 • 6h ago
 
 ---
 
@@ -325,7 +329,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 16K • 👍 762 • 💬 72 • ⏱️ 40:28 • 13h ago
+👁️ 16K • 👍 762 • 💬 72 • ⏱️ 40:28 • 14h ago
 
 ---
 
@@ -375,7 +379,7 @@ Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!*
 
 📺 Crypto Casey
 
-👁️ 28K • 👍 3K • 💬 260 • ⏱️ 14:34 • 14h ago
+👁️ 28K • 👍 3K • 💬 260 • ⏱️ 14:34 • 15h ago
 
 ---
 
@@ -385,7 +389,7 @@ BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 379 • 💬 102 • ⏱️ 25:11 • 8h ago
+👁️ 8K • 👍 379 • 💬 102 • ⏱️ 25:11 • 9h ago
 
 ---
 
@@ -405,7 +409,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 8K • 👍 473 • 💬 137 • ⏱️ 8:05 • 11h ago
+👁️ 8K • 👍 473 • 💬 137 • ⏱️ 8:05 • 12h ago
 
 ---
 
