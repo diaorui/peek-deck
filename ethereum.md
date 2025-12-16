@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T18:25:28.479377+00:00'
+updated: '2025-12-16T18:55:01.180322+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 18:25 UTC  
+**Last Updated:** December 16, 2025 at 18:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,967.09
+### $2,943.53
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -11.8%  
-**30d:** -3.4%  
-**90d:** -36.2%  
-**1y:** -24.8%  
+**24h:** +0.6%  
+**7d:** -10.7%  
+**30d:** -2.2%  
+**90d:** -35.4%  
+**1y:** -23.8%  
 
 ---
 
@@ -70,7 +70,7 @@ No max supply
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 4h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 5h ago
 
 ---
 
@@ -84,7 +84,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-38m ago
+1h ago
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 22h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 23h ago
 
 ---
 
@@ -116,7 +116,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-23h ago
+1d ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -228,7 +228,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 9K • 👍 2K • 💬 45 • ⏱️ 7:49 • 6h ago
+👁️ 9K • 👍 2K • 💬 45 • ⏱️ 7:49 • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 905 • 👍 99 • 💬 24 • ⏱️ 8:42 • 5h ago
+👁️ 905 • 👍 99 • 💬 24 • ⏱️ 8:42 • 6h ago
 
 ---
 
@@ -268,7 +268,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 48K • 👍 2K • 💬 116 • ⏱️ 13:11 • 21h ago
+👁️ 48K • 👍 2K • 💬 116 • ⏱️ 13:11 • 22h ago
 
 ---
 
@@ -278,7 +278,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 530 • 💬 69 • ⏱️ 18:30 • 14h ago
+👁️ 6K • 👍 530 • 💬 69 • ⏱️ 18:30 • 15h ago
 
 ---
 
@@ -288,7 +288,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 220 • ⏱️ 12:16 • 18h ago
+👁️ 54K • 👍 3K • 💬 220 • ⏱️ 12:16 • 19h ago
 
 ---
 
@@ -298,7 +298,7 @@ Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substanti
 
 📺 Paul Barron Network
 
-👁️ 944 • 👍 84 • 💬 16 • ⏱️ 29:25 • 1h ago
+👁️ 944 • 👍 84 • 💬 16 • ⏱️ 29:25 • 2h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T18:25:28.473268+00:00'
+updated: '2025-12-16T18:55:01.174277+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 18:25 UTC  
+**Last Updated:** December 16, 2025 at 18:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,354.52
+### $87,875.74
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** -4.8%  
-**30d:** -5.1%  
-**90d:** -25.1%  
-**1y:** -17.6%  
+**24h:** +2.0%  
+**7d:** -4.3%  
+**30d:** -4.6%  
+**90d:** -24.7%  
+**1y:** -17.2%  
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
-6h ago
+7h ago
 
 ---
 
 **[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -115,19 +115,19 @@ Are you still buying?
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-1h ago
+2h ago
 
 ---
 
 **[This is what buying Bitcoin looked like in 2011 - 1BTC = $3.5](https://www.reddit.com/r/Bitcoin/comments/1po8477/this_is_what_buying_bitcoin_looked_like_in_2011/)**
 
-50m ago
+1h ago
 
 ---
 
 **[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 Hello everyone, good morning/evening first of all. I'm 17 and I'm slowly learning about Bitcoin. While I'm learning, I'm doing weekly dollar-cost averaging, but I want to invest in other things and I wanted to ask what other investments you would recommend for someone interested in this world. I don't know if anyone could share their experiences investing in Bitcoin and other things. Thank you very much :)
 
-39m ago
+1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg.com • 4h ago
 
 Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -175,7 +175,7 @@ Barron's • 1d ago
 
 See how much a Bitcoin investment from 10 years ago would be worth today and what it means for long-term crypto growth.
 
-Yahoo Finance • 30m ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 30m ago
 
 Imagine managing your Bitcoin right alongside your Ethereum assets in the wallet you already trust—MetaMask just made it real, and it's a game-changer for everyday crypto users.
 
-Bitcoin Magazine • 54m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ Financial Times • 1d ago
 
 **[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Block • 7h ago
 
 Bitwise CIO Matt Hougan said BTC is likely to hit all-time highs next year, with lower volatility and weaker equity correlations reshaping how institutions view the asset.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -265,7 +265,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 8h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 9h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -299,7 +299,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 21K • 👍 484 • 💬 310 • ⏱️ 10:03 • 11h ago
+👁️ 21K • 👍 484 • 💬 310 • ⏱️ 10:03 • 12h ago
 
 ---
 
@@ -319,7 +319,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 220 • ⏱️ 12:16 • 18h ago
+👁️ 54K • 👍 3K • 💬 220 • ⏱️ 12:16 • 19h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin feels stalled. Prices are down, fear is up, and dopamine-chasing traders
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 470 • 💬 38 • ⏱️ 16:49 • 4h ago
+👁️ 4K • 👍 470 • 💬 38 • ⏱️ 16:49 • 5h ago
 
 ---
 
@@ -339,7 +339,7 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 1K • 👍 140 • ⏱️ 57:23 • 3h ago
+👁️ 1K • 👍 140 • ⏱️ 57:23 • 4h ago
 
 ---
 
@@ -349,7 +349,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 9K • 👍 2K • 💬 45 • ⏱️ 7:49 • 6h ago
+👁️ 9K • 👍 2K • 💬 45 • ⏱️ 7:49 • 7h ago
 
 ---
 
@@ -359,7 +359,7 @@ We have a classic case of the bear market blues :( Make sure you check out ITC p
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 4K • 💬 301 • ⏱️ 19:58 • 11h ago
+👁️ 51K • 👍 4K • 💬 301 • ⏱️ 19:58 • 12h ago
 
 ---
 
@@ -369,7 +369,7 @@ A major warning signal just flashed in Bitcoin — long-term holders are startin
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 292 • 💬 1 • ⏱️ 1:09:01 • 1h ago
+👁️ 2K • 👍 292 • 💬 1 • ⏱️ 1:09:01 • 2h ago
 
 ---
 

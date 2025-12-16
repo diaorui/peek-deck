@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T18:25:28.464752+00:00'
+updated: '2025-12-16T18:55:01.165725+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- videos
 - repositories
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 18:25 UTC  
+**Last Updated:** December 16, 2025 at 18:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built f
 
 The ZLUDA open-source project that has been through several incarnations but ultimately about getting CUDA software up and running on non-NVIDIA GPUs now supports the AMD ROCm 7 series.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/ZLUDA-ROCm-7) • 6h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/ZLUDA-ROCm-7) • 7h ago
 
 ---
 
@@ -105,13 +105,13 @@ The technological race among industry giants and the wave of layoffs they have a
 
 First LLM trained in space Gemini now built into Apple iPhones and iPads Disney invests $1B into AI A collection of AI Updates! 🧵 1. OpenAI Rolls Out GPT-5.2 to Everyone GPT-5.2 Instant, Thinking, and Pro are live for Free/Plus/Pro/Business/Enterprise. Also in API and Codex. First model hitting human expert level on 44-occupation knowledge work eval including spreadsheets and presentations. State-of-the-art long-context reasoning. 2. Google Rolls Out Built-In Gemini AI on Apple Devices Gemini AI experience now available on iPhone and iPad. Puts Google's AI stack directly inside Apple's widely popular technology. Major new channel of reach for Gemini. 3. Disney Invests $1B in OpenAI - Characters are Coming to Sora Users can generate videos and images with Disney characters including Mickey Mouse, Ariel, and Cinderella across Sora and ChatGPT Image. Covers Disney, Marvel, Pixar, and Star Wars IPs. Huge entertainment IPs are now available for AI generation. 4. AI Trained in Space for the First Time Starcloud-1 used Nvidia H100 to train nano-GPT model on Shakespeare's complete works and ran inference successfully. Also ran inference on Gemma model. Goal: move computing off Earth to leverage abundant solar energy. 5. xAI Launches World's First Nationwide AI Tutor Program Partnership with El Salvador brings personalized Grok tutoring to 1M+ public-school students across 5,000+ schools over next two years. Empowers thousands of teachers as collaborative partners. Will other LLMs try partnerships like this? 6. Microsoft AI Accelerates Cancer Discovery GigaTIME simulates spatial proteomics from pathology slides, enabling population-scale tumor microenvironment analysis across dozens of cancer types. Partnership with Providence and UW. Published in Cell today. AI revealing links between mutations, immunity, and outcomes. 7. Google Labs Launches Disco - Remix Open Tabs Into Custom Apps GenTabs uses Gemini 3 to understand complex tasks through open tabs and chat history, then creates interactive web apps. Describe the tool you need and refine with natural language. Links back to original sources. Aims to turn browser chaos into functional apps. 8. Google Releases Updated Gemini 2.5 Flash Native Audio Now available via Live API with sharper function calling, robust instruction following, and smoother conversations. Also launching TTS updates with emotional style versatility, context-aware pacing, and improved multi-speaker capabilities. Major voice and audio improvements. 9. Grok Voice Mode Gets Major Upgrades Point camera at anything and ask "What am I looking at?" for instant analysis. Scans notes, places, paintings, documents, translates languages. Real-time web search. Talk to Grok like a normal person in your language. 10. OpenAI Realtime API Gets Major Audio Improvements 89% fewer hallucinations in transcription, 35% fewer word errors in TTS, 22% better instruction following, 13% better function calling. Stronger in Chinese, Japanese, Indonesian, Hindi, Bengali, Italian. Audio reliability significantly upgraded. That's a wrap on this week's AI News. Which update are you trying first? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
 
-8m ago
+38m ago
 
 ---
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 42m ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 1h ago
 
 ---
 
@@ -143,13 +143,13 @@ The New York Times • 8h ago
 
 Too great a weight.
 
-The Verge • 4h ago
+The Verge • 5h ago
 
 ---
 
 **[AI Mining Patient Messages for Cancer Research](https://www.medscape.com/viewarticle/can-ai-use-patient-messages-identify-new-cancer-care-2025a1000wak)**
 
-Medscape • 23m ago
+Medscape • 53m ago
 
 ---
 
@@ -157,7 +157,7 @@ Medscape • 23m ago
 
 Eyewear stock Warby Parker has room to run and offers exposure to the AI trade, according to Piper Sandler. The firm will roll out its AI glasses next year.
 
-CNBC • 13m ago
+CNBC • 43m ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 13m ago
 
 The ready availability of clients means companies that provide the compute just need to make sure their finances are in order.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 16h ago
 
 Investors are selling off individual stocks of companies that seem to be overextended, but they are broadly bullish on stocks as a whole.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -181,7 +181,7 @@ Fortune • 6h ago
 
 Yahoo Finance's John Hyland tracks today's top moving stocks and biggest market stories in this Market Minute, including the market (^DJI, ^IXIC, ^GSPC) reaction to the November jobs report, crude oil (CL=F, BZ=F) prices falling to a four-year low, Meta Platforms' (META) plans for Instagram TV on Amazon Fire (AMZN) products, and CoreWeave (CRWV) stock sliding over AI bubble concerns. Stay up to date on the latest market action, minute-by-minute, with&nbsp;Yahoo Finance's Market Minute.
 
-Yahoo Finance • 21m ago
+Yahoo Finance • 50m ago
 
 ---
 
@@ -219,7 +219,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 358 • 💬 293 • 19h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 358 • 💬 293 • 20h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -259,7 +259,7 @@ In 2023, Meta researchers were able to decode images in thoughts from the brain'
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 98 • 💬 41 • 8h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 98 • 💬 41 • 9h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -459,7 +459,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 234 • 18h ago
+⬇️ 10,487 • ❤️ 234 • 19h ago
 
 ---
 
@@ -493,7 +493,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 185 • 12h ago
+⬇️ 0 • ❤️ 185 • 13h ago
 
 ---
 
@@ -644,7 +644,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.4k • 🔱 2.6k • 8h ago
+⭐ 16.4k • 🔱 2.6k • 9h ago
 
 ---
 
@@ -704,7 +704,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 897 • 🔱 23 • 8d ago
+⭐ 897 • 🔱 23 • 9d ago
 
 ---
 
@@ -724,7 +724,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 757 • 🔱 110 • 1d ago
+⭐ 758 • 🔱 110 • 1d ago
 
 ---
 
@@ -734,7 +734,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 753 • 🔱 117 • 12h ago
+⭐ 753 • 🔱 117 • 13h ago
 
 ---
 
