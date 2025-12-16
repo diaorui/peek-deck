@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T11:00:07.967454+00:00'
+updated: '2025-12-16T11:28:57.165669+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 11:00 UTC  
+**Last Updated:** December 16, 2025 at 11:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
 
-21h ago
+22h ago
 
 ---
 
@@ -56,7 +56,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Paper (paywall): Worms, waves and robots: https://ieeexplore.ieee.org/abstract/document/6224805
 
-34m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
 
-22h ago
+23h ago
 
 ---
 
@@ -104,7 +104,7 @@ RIP, between the failed Amazon acquisition and the stiff competition this was a 
 
 Been getting a lot of questions about how this projects works. Decided to post another video that shows the camera feed and also what the ai voice is saying as it is working through a prompt. Again feel free to ask any questions!!! Full video: https://youtu.be/UOc8WNjLqPs?si=XO0M8RQBZ7FDof1S
 
-11h ago
+12h ago
 
 ---
 
@@ -130,7 +130,7 @@ South China Morning Post • 2d ago
 
 General-purpose robots remain rare not for a lack of hardware but because we still can’t give machines the physical intuition humans learn through experience
 
-Scientific American • 2d ago
+Scientific American • 3d ago
 
 ---
 
@@ -144,7 +144,7 @@ The Verge • 1d ago
 
 **[Trending tickers: Ford, PayPal, AMC Robotics, Korea Zinc and Rolls-Royce](https://uk.finance.yahoo.com/news/ford-paypal-amc-robotics-korea-zinc-rolls-royce-trending-tickers-092758134.html)**
 
-Yahoo Finance UK • 1h ago
+Yahoo Finance UK • 2h ago
 
 ---
 
@@ -152,7 +152,7 @@ Yahoo Finance UK • 1h ago
 
 It is my pleasure to open this edition of our quarterly newsletter as we approach the end of 2025 - a year that has brought remarkable momentum, important breakthroughs, and renewed confidence to the global robotics community.
 
-International Federation of Robotics • 47m ago
+International Federation of Robotics • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ InvestorPlace • 1d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 17h ago
 
 ---
 
@@ -198,7 +198,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 18K • 👍 551 • 💬 69 • ⏱️ 11:23 • 10h ago
+👁️ 18K • 👍 551 • 💬 69 • ⏱️ 11:23 • 11h ago
 
 ---
 
@@ -254,7 +254,7 @@ Discover the latest girlfriend robot in this eye-opening tech expo experience! E
 
 📺 Ricey Rice
 
-👁️ 205K • 👍 714 • 💬 10 • ⏱️ 0:06 • 20h ago
+👁️ 205K • 👍 714 • 💬 10 • ⏱️ 0:06 • 21h ago
 
 ---
 
@@ -264,7 +264,7 @@ Discover the latest girlfriend robot in this eye-opening tech expo experience! E
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 51 • 💬 4 • ⏱️ 1:25 • 12h ago
+👁️ 2K • 👍 51 • 💬 4 • ⏱️ 1:25 • 13h ago
 
 ---
 

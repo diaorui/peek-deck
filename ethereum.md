@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T11:00:07.964190+00:00'
+updated: '2025-12-16T11:28:57.162391+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 11:00 UTC  
+**Last Updated:** December 16, 2025 at 11:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,7 +43,7 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -6.5%  
-**7d:** -11.1%  
+**7d:** -11.0%  
 **30d:** -2.5%  
 **90d:** -35.6%  
 **1y:** -24.1%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -160,13 +160,13 @@ Bloomberg.com • 19h ago
 
 **[Bitcoin, XRP, Ethereum Fall. Why Tuesday Is Make or Break for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfvqylBj6UD6kze5iLk77NNeeLJOYw7WZFFxAcHqFznFqGxaLTK3Nwl&gaa_ts=69413f23&gaa_sig=RR70CC400IIsKfxPzU8Wez8GkcoednShv8XzSO0sGcrShNOkHFih-Gm4gkjrMmfyK46fu85gOqvYu9q8crfBAA%3D%3D)**
 
-Barron's • 35m ago
+Barron's • 1h ago
 
 ---
 
 **['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Block • 19h ago
 
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -214,7 +214,7 @@ CryptoSlate • 19h ago
 
 An Ethereum whale purchased 38,576 ETH worth $119 million.
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ AMBCrypto • 23h ago
 
 Trust Wallet now offers zero swap gas on Ethereum, covering transaction fees for users and enabling cost-free token swaps.
 
-Crypto Briefing • 15h ago
+Crypto Briefing • 16h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 96 • 👍 13 • 💬 1 • ⏱️ 4:48 • 58m ago
+👁️ 96 • 👍 13 • 💬 1 • ⏱️ 4:48 • 1h ago
 
 ---
 
@@ -276,7 +276,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 17K • 👍 808 • 💬 71 • ⏱️ 40:28 • 17h ago
+👁️ 17K • 👍 808 • 💬 71 • ⏱️ 40:28 • 18h ago
 
 ---
 
@@ -286,7 +286,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 129 • 💬 18 • ⏱️ 6:53 • 10h ago
+👁️ 3K • 👍 129 • 💬 18 • ⏱️ 6:53 • 11h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 10K • 👍 413 • 💬 87 • ⏱️ 25:11 • 12h ago
+👁️ 10K • 👍 413 • 💬 87 • ⏱️ 25:11 • 13h ago
 
 ---
 
@@ -326,7 +326,7 @@ Cathie Wood talks cryptocurrency investment and we cover today's Bittensor halvi
 
 📺 Altcoin Buzz
 
-👁️ 3K • 👍 163 • 💬 44 • ⏱️ 11:56 • 13h ago
+👁️ 3K • 👍 163 • 💬 44 • ⏱️ 11:56 • 14h ago
 
 ---
 

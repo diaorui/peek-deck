@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T11:00:07.958181+00:00'
+updated: '2025-12-16T11:28:57.156340+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 11:00 UTC  
+**Last Updated:** December 16, 2025 at 11:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,205.86
+### $87,029.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
+**24h:** -3.0%  
 **7d:** -5.3%  
-**30d:** -5.7%  
+**30d:** -5.6%  
 **90d:** -25.5%  
 **1y:** -18.1%  
 
@@ -87,7 +87,7 @@ Rank #1
 
 **[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ Are you still buying?
 
 Buy some bitcoin and store it.
 
-20h ago
+21h ago
 
 ---
 
@@ -129,7 +129,7 @@ Buy some bitcoin and store it.
 
 **[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -143,7 +143,7 @@ Buy some bitcoin and store it.
 
 I used my cash balance that Square auto converted to Bitcoin for me to send via the Lightning Network. Was a surprisingly smooth experience.
 
-14h ago
+15h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 6h ago
 
 **[Bitcoin, XRP, Ethereum Fall. Why Tuesday Is Make or Break for the Crypto Recovery.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfECzeAQUPvKJ6D40w8vP5M_K4JUvw44lmPrGeKw9PCpUE3iFXt8vI-&gaa_ts=69413f21&gaa_sig=rIh1dyykDDslIihUDt7t_3CEyHEi95qXob6h5q0utCrmALLVD7ZJ7XnQXZJIKrzZOtdq1oU5NlgdncOm5Sf8aA%3D%3D)**
 
-Barron's • 35m ago
+Barron's • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Barron's • 35m ago
 
 If history is any guide, Bitcoin could soar in value by year-end.
 
-The Motley Fool • 30m ago
+The Motley Fool • 58m ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 1d ago
 
 Global markets mirrored this trend, with Asian equities and U.S. equity futures softening, while the dollar hovered near two-month lows.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Block • 14h ago
 
 **[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqeS7WYnpsVYDJ9XPgZL2BapMx73Ejj_AWrG0QvUZzPg7gycpZ_AbNOz&gaa_ts=69413f21&gaa_sig=dfrjj1G80yjJvHqnO2vgD4GLeiMMZyVxkPwLLxIO2hqWxjslYc_cbNHEDvNNhz4sfaofdGnMSixu5QMw08BpeA%3D%3D)**
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -271,7 +271,7 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 5d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -305,7 +305,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 445 • ⏱️ 8:04 • 9h ago
+👁️ 23K • 👍 1K • 💬 445 • ⏱️ 8:04 • 10h ago
 
 ---
 
@@ -335,7 +335,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 17K • 👍 808 • 💬 71 • ⏱️ 40:28 • 17h ago
+👁️ 17K • 👍 808 • 💬 71 • ⏱️ 40:28 • 18h ago
 
 ---
 
@@ -345,7 +345,7 @@ You can check CoinDCX here: https://join.coindcx.com/invite/ComPB. Invest in the
 
 📺 Akshat Shrivastava
 
-👁️ 47K • 👍 1K • 💬 186 • ⏱️ 25:36 • 19h ago
+👁️ 47K • 👍 1K • 💬 186 • ⏱️ 25:36 • 20h ago
 
 ---
 

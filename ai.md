@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T11:00:07.949660+00:00'
+updated: '2025-12-16T11:28:57.147682+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 11:00 UTC  
+**Last Updated:** December 16, 2025 at 11:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ The world’s top chipmaker wants open source AI to succeed—perhaps because cl
 
 I’ve been experimenting with a slightly different approach to medical LMs and would really value feedback from people working on ML, health IT, or clinical education. Instead of chasing more parameters, I built a ~6 GB medical SLM that’s tightly coupled to a biomedical knowledge graph and a self‑contained RAG/audit layer. The goal is not to sound smarter than GPT‑4, but to be *safer, more structured, and auditable* for clinical decision support / education use cases. Core setup: - Base: BioGPT‑Large (~6 GB footprint) - Biomedical knowledge graph: 5k+ nodes, 25k+ edges across diseases, symptoms, treatments, risk factors, diagnostics, body parts, cellular structures - Graph‑aware embeddings + special tokens so the model “anchors” to graph concepts - Built‑in RAG/audit: entity + semantic search over the graph to validate each answer against the graph before accepting it I ran a small 5 case internal evaluation on multi sentence clinical questions (diagnosis + risk factors + tests + treatments + contraindications). Scoring dimensions: contextual accuracy, multi‑hop reasoning, entity structure, clarity, hallucination resistance. This model landed at 4.5/5 overall, including 5/5 on hallucination resistance. Baselines were typical medical SLMs (BioBERT/PubMedBERT/ClinicalBERT) and large general LLMs. Trade‑offs vs big LLMs: less fluent, more constrained; better at staying inside medically grounded entities/relations; easier to audit because every answer is tied back to explicit graph nodes. For anyone curious, there’s a HF Space demo here (model is private, Space is public responses can take 30–180s+ because of shared infra; locally it’s ~3–5s per query) on GPU, 7-10s on CPU: https://huggingface.co/spaces/cmtopbas/medical-slm-testing I’d really appreciate: - Critical feedback on the architecture (graph + audit layer) - Ideas for realistic, high‑impact use cases (e.g. med ed, trainee tools, clinician reference) where this kind of architecture would be useful - Pointers to similar work I should be aware of so I’m not reinventing the wheel Happy to share more detailed benchmarks/trace examples if there’s interest. Question 1: A 55-year-old male patient presents with persistent chest pain radiating to the left arm. He has a history of hypertension and Type 2 diabetes. ECG shows ST-segment elevation. The patient is allergic to aspirin. Question: Based on the patient’s condition, what treatments are recommended, which are contraindicated, and which risk factors are involved? Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 9 Answer → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 10 ◇ Best effort (Missing: Riskfactor) Answer 1: Hypertension is common among patients who have CKD. It can be treated effectively if it is identified early and managed appropriately. Patients should avoid medications that may exacerbate their symptoms or cause adverse effects such as angiotensin converting enzyme (ACE) inhibitors. If an ACE inhibitor cannot be used because of intolerance, then other antihypertensive agents are available. In addition to blood pressure control, treatment for heart failure includes use of diuretics, beta blockers, aldosterone antagonists, and digoxin. Treatment options also include calcium channel blockers, alpha adrenergic receptor agonists, vasodilators, and endothelin receptor antagonists. Please consult a healthcare professional for personalized medical advice. Question 2: Female patient presents with fatigue, swelling in her ankles, has a history of hypertension and chronic kidney disease. Also experiences persistent cough when taking ACE inhibitors and her Echocardiogram shows reduced ejection fraction. What is the diagnosis and treatment based on her combined diagnosis Prompt → Categories: ['BodyPart', 'Disease', 'RiskFactor', 'Symptom', 'Treatment'] | Nodes: 8 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 7 ✓ Graph-validated (Valid) Answer 2: The diagnosis is acute heart failure (HF) due to left ventricular systolic dysfunction. Treatment includes diuretics for congestion and vasodilators or inotropes for hypotension. Angiotensin-converting enzyme inhibitor therapy should be discontinued if there are signs of worsening renal function. Hypertension can worsen cardiac outcomes by increasing afterload on the heart. Chronic kidney disease may also contribute to poor prognosis through increased risk of cardiovascular events and death. Please consult a healthcare professional for personalized medical advice. Question 3: A 45-year-old male patient reports frequent urination, excessive thirst, and fatigue. He has a family history of type 2 diabetes and is overweight. Blood tests show elevated fasting glucose and HbA1c levels. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 9 ✓ Graph-validated (Valid) Answer 3: Type 2 Diabetes Mellitus (T2DM) is an endocrine disorder that affects millions worldwide. It can be diagnosed by measuring blood sugar levels or glycated hemoglobin A1c. The American Diabetes Association recommends screening for T2DM in adults with any one of the following characteristics: age > 4 0 years; < 1 8 y / o Body Mass Index (BMI); African ancestry; Hispanic ethnicity; Asian descent; or having polycystic ovarian syndrome. Patients should also have at least two other features of the metabolic syndrome to increase their risk of developing T2DM. Treatment options are based on patients' comorbidities and goals for glycemic control. Lifestyle modifications such as diet and exercise are first line treatment but may not achieve optimal results if they fail. Medications including metformin, sulfonylureas, thiazolidinediones, dipeptidyl peptidase IV inhibitors, glucagon like peptide-1RAs. Please consult a healthcare professional for personalized medical advice. Question 4: A 30-year-old female patient reports persistent cough, fever, and shortness of breath. She recently returned from a trip abroad and has a mild history of asthma. Chest X-ray shows patchy infiltrates in the lower lobes. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications. Prompt → Categories: ['DiagnosticTest', 'Disease', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 5 Answer → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 4: The diagnosis is acute respiratory distress syndrome (ARDS) caused by pneumonia with secondary bacterial infection. ARDS can be fatal if not treated promptly. Risk factors for ARDS are discussed along with treatment options including antibiotics, corticosteroids, mechanical ventilation, vasopressors, and extracorporeal membrane oxygenation. Treatment should focus on preventing further complications such as nosocomial infections or ventilator associated events. Please consult a healthcare professional for personalized medical advice. Question 5: A 50-year-old male patient experiences abdominal pain, bloating, and intermittent diarrhea. He has a family history of celiac disease and reports gluten sensitivity. Blood tests show elevated anti-tTG antibodies. Identify the disease, list risk factors, symptoms, recommended treatments, and contraindications Prompt → Categories: ['DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Symptom', 'Treatment'] | Nodes: 7 Answer → Categories: ['BodyPart', 'DiagnosticTest', 'Disease', 'RiskFactor', 'Riskfactor', 'Treatment'] | Nodes: 6 ✓ Graph-validated (Valid) Answer 5: Celiac Disease is an autoimmune disorder that affects approximately 1% to 2% of people in North America. It can be diagnosed by serologic testing for IgA antitissue transglutaminase (anti-tTG) antibody levels or duodenal biopsy. The diagnosis should trigger a discussion about dietary restrictions with patients and their families. Patients must also understand the potential risks associated with untreated celiac disease, including increased susceptibility to cancer, cardiovascular diseases, type I diabetes mellitus, osteoporosis, infertility, neurologic disorders, and psychiatric conditions. Treatment options are limited but may involve lifelong adherence to a strict gluten free diet. This includes avoiding wheat products, rye, barley, oats, legumes, nuts, seeds, and other grains containing glutenins. Other treatment options include oral supplements such as zinc sulfate and magnesium oxide; however, these have not been. Please consult a healthcare professional for personalized medical advice. Please consult a healthcare professional for personalized medical advice.
 
-2h ago
+3h ago
 
 ---
 
@@ -114,7 +114,7 @@ Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI 
 
 The Understanding AI guide to open-weight models.
 
-🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 16h ago
+🔗 [understandingai.org](https://www.understandingai.org/p/the-best-chinese-open-weight-models) • 17h ago
 
 ---
 
@@ -124,7 +124,7 @@ The Understanding AI guide to open-weight models.
 
 **[‘We have a right to do this’: DeSantis wants Florida to move ahead with AI policies](https://www.politico.com/news/2025/12/15/we-have-a-right-to-do-this-desantis-wants-florida-to-move-ahead-with-ai-policies-00690680)**
 
-Politico • 17h ago
+Politico • 18h ago
 
 ---
 
@@ -160,13 +160,13 @@ NPR • 1h ago
 
 Companies such as Udio, Suno and Klay will let you use AI to make new music based on existing artists’ work. It could mean more royalties – but many are worried
 
-The Guardian • 59m ago
+The Guardian • 1h ago
 
 ---
 
 **[The two visions for AI driving executives and Wall Street apart](https://www.axios.com/2025/12/16/google-facebook-meta-ai-wall-street)**
 
-Axios • 29m ago
+Axios • 57m ago
 
 ---
 
@@ -180,7 +180,7 @@ MIT Technology Review • 1d ago
 
 **[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqfUNA40Ujbyx_vaeY1A8uMKd1lsBMEUXWIS7ASOXU-i-ZxfJiz0NtOz&gaa_ts=69413f20&gaa_sig=2Z6JjYjET4LAqxwYB47czagnDOQvT4W9MhukPRVmPtCIqf4stRL2htuZ-II4F5Obo-vT3p-I_eXkvej9k5l_rw%3D%3D)**
 
-The Wall Street Journal • 15h ago
+The Wall Street Journal • 16h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Wall Street Journal • 15h ago
 
 More than half or 53% of shoppers surveyed by CouponFollow said they have or plan to use AI for holiday shopping.
 
-USA Today • 54m ago
+USA Today • 1h ago
 
 ---
 
@@ -206,7 +206,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 503 • 💬 162 • 7h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 503 • 💬 162 • 8h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -290,7 +290,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 18K • 👍 551 • 💬 69 • ⏱️ 11:23 • 10h ago
+👁️ 18K • 👍 551 • 💬 69 • ⏱️ 11:23 • 11h ago
 
 ---
 
@@ -300,7 +300,7 @@ Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bily
 
 📺 Tom Bilyeu
 
-👁️ 53K • 👍 2K • 💬 627 • ⏱️ 23:28 • 21h ago
+👁️ 53K • 👍 2K • 💬 627 • ⏱️ 23:28 • 22h ago
 
 ---
 
@@ -338,7 +338,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Maggie McGaugh
 
-👁️ 153K • 👍 8K • 💬 129 • ⏱️ 1:16 • 14h ago
+👁️ 153K • 👍 8K • 💬 129 • ⏱️ 1:16 • 15h ago
 
 ---
 
@@ -534,7 +534,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 25 • 💬 2 • ⭐ 12,434 • 7d ago
+▲ 25 • 💬 2 • ⭐ 12,434 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -629,7 +629,7 @@ A large-scale dataset collection, The Well, provides diverse numerical simulatio
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 121 • 💬 3 • ⭐ 400 • 6d ago
+▲ 121 • 💬 3 • ⭐ 400 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move) • [🔗 project](https://wan-move.github.io/)
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.8k • 🔱 404 • 5h ago
+⭐ 3.8k • 🔱 404 • 6h ago
 
 ---
 
@@ -715,7 +715,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 867 • 🔱 49 • 21h ago
+⭐ 867 • 🔱 49 • 22h ago
 
 ---
 
