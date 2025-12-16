@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T07:47:49.859632+00:00'
+updated: '2025-12-16T07:58:44.007473+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 07:47 UTC  
+**Last Updated:** December 16, 2025 at 07:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -7.0%  
-**7d:** -12.1%  
-**30d:** -3.6%  
-**90d:** -36.4%  
-**1y:** -25.0%  
+**24h:** -6.8%  
+**7d:** -11.9%  
+**30d:** -3.4%  
+**90d:** -36.2%  
+**1y:** -24.8%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-12h ago
+13h ago
 
 ---
 
@@ -200,7 +200,7 @@ BeInCrypto • 1d ago
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
 
-CryptoSlate • 15h ago
+CryptoSlate • 16h ago
 
 ---
 
@@ -266,7 +266,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 272 • 💬 55 • ⏱️ 18:30 • 3h ago
+👁️ 2K • 👍 272 • 💬 55 • ⏱️ 18:30 • 4h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 148 • 💬 3 • ⏱️ 8:04 • 8h ago
+👁️ 2K • 👍 148 • 💬 3 • ⏱️ 8:04 • 9h ago
 
 ---
 

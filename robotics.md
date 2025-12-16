@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T07:47:49.862454+00:00'
+updated: '2025-12-16T07:58:44.010713+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 07:47 UTC  
+**Last Updated:** December 16, 2025 at 07:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 
 Just saw this video of a college student building a powered exoskeleton by hand. Stuff like this always makes me think about how far exoskeletons have come. Companies like dnsys have already released lower limb exoskeletons as mobility aids for rehabilitation and daily use. Curious what people here think. Are we actually getting closer to wider adoption, for example in military or medical contexts, or are power, weight, and comfort still the main blockers?
 
-2h ago
+3h ago
 
 ---
 
@@ -86,7 +86,7 @@ Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 
 
 **[50 wheels lego](https://www.reddit.com/r/robotics/comments/1pnufll/50_wheels_lego/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -136,7 +136,7 @@ Fortune • 2d ago
 
 They make robot vacuums, lots of them
 
-The Verge • 22h ago
+The Verge • 23h ago
 
 ---
 
@@ -144,7 +144,7 @@ The Verge • 22h ago
 
 iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private - TechStock²
 
-ts2.tech • 17h ago
+ts2.tech • 18h ago
 
 ---
 
@@ -232,7 +232,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 BlueAI25
 
-👁️ 7K • 👍 80 • 💬 6 • ⏱️ 0:24 • 11h ago
+👁️ 7K • 👍 80 • 💬 6 • ⏱️ 0:24 • 12h ago
 
 ---
 

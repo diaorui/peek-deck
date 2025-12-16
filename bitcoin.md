@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T07:47:49.854279+00:00'
+updated: '2025-12-16T07:58:44.001523+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 07:47 UTC  
+**Last Updated:** December 16, 2025 at 07:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -4.5%  
-**7d:** -6.6%  
-**30d:** -6.9%  
-**90d:** -26.5%  
-**1y:** -19.1%  
+**24h:** -4.2%  
+**7d:** -6.4%  
+**30d:** -6.7%  
+**90d:** -26.4%  
+**1y:** -19.0%  
 
 ---
 
@@ -181,7 +181,7 @@ Seeking Alpha • 2h ago
 
 As the new week begins, crypto news today continues to cause fear and uncertainty in the market, with Bitcoin dropping -0.8% overnight and losing its crucial $90,000 support level. The fear and greed index remains firmly in the ‘extreme fear’ zone at 16, as traders continue to lose hope amid ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -253,7 +253,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 18h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 19h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -305,7 +305,7 @@ We’ve already written several times about the danger posed by adding AI to law
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 23h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 1d ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
