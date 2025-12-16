@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T21:12:14.862998+00:00'
+updated: '2025-12-16T21:34:05.823822+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 21:12 UTC  
+**Last Updated:** December 16, 2025 at 21:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 5h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 57m ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 5h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 6h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 11h ago
 
 Using AI as a “teammate” unlocks the true potential of AI productivity, according to Open Machine CEO Allie K. Miller.
 
-Fortune • 24m ago
+Fortune • 46m ago
 
 ---
 
@@ -145,7 +145,7 @@ Fortune • 24m ago
 
 G2, the world's largest and most trusted software marketplace, today announced new capabilities to help software companies demonstrate measurable value from artificial intelligence (AI) search visibility and prevent customer churn.
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 51m ago
 
 ---
 
@@ -153,7 +153,7 @@ Yahoo Finance • 29m ago
 
 'The Big Money Show' weighs in the impact of the boost in A.I. productivity on the labor market as well as its application for job use.
 
-Fox Business • 40m ago
+Fox Business • 1h ago
 
 ---
 
@@ -283,7 +283,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 34K • 👍 696 • 💬 127 • ⏱️ 11:23 • 21h ago
+👁️ 38K • 👍 732 • 💬 131 • ⏱️ 11:23 • 21h ago
 
 ---
 
@@ -293,37 +293,7 @@ Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bily
 
 📺 Tom Bilyeu
 
-👁️ 59K • 👍 2K • 💬 682 • ⏱️ 23:28 • 1d ago
-
----
-
-**[The Most Powerful AI Shift Is Happening Without Anyone Noticing](https://www.youtube.com/watch?v=EjQpzEeiL3k)**
-
-Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPTERS ⤵ 00:00 – Keep It Curious 04:03 – Disney ...
-
-📺 Dylan Curious
-
-👁️ 8K • 👍 476 • 💬 87 • ⏱️ 30:05 • 1d ago
-
----
-
-**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
-
-OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
-
-📺 AI Revolution
-
-👁️ 43K • 👍 2K • 💬 170 • ⏱️ 12:07 • 1d ago
-
----
-
-**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
-
-IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
-
-📺 Eurodollar University
-
-👁️ 163K • 👍 5K • 💬 902 • ⏱️ 20:44 • 1d ago
+👁️ 61K • 👍 2K • 💬 694 • ⏱️ 23:28 • 1d ago
 
 ---
 
@@ -333,45 +303,75 @@ The AI bubble is showing signs of popping and the tech industry is waking up fro
 
 📺 Brian Jenney
 
-👁️ 50K • 👍 3K • 💬 637 • ⏱️ 15:40 • 21h ago
+👁️ 56K • 👍 3K • 💬 676 • ⏱️ 15:40 • 22h ago
 
 ---
 
-**[How I Turn One Image into Multiple Camera Angles with AI](https://www.youtube.com/watch?v=6rBtlnfUBLk)**
+**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
 
-Create with OpenArt https://www.openart.ai/home/?ref=isa-18 In this video, I show you how to turn a single image into a full set ...
+OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
 
-📺 Isa does AI
+📺 AI Revolution
 
-👁️ 5K • 💬 5 • ⏱️ 12:03 • 7h ago
-
----
-
-**[Lady Soldier Rescues Grandma and Builds Golden Carousel for Her 😭 #ai #save #army](https://www.youtube.com/watch?v=Rg0j9jUTTPM)**
-
-Lady Soldier Rescues Grandma and Builds Golden Carousel for Her #ai #save #army.
-
-📺 Anime world 
-
-👁️ 208K • 👍 1K • 💬 1 • ⏱️ 0:22 • 2d ago
+👁️ 44K • 👍 2K • 💬 171 • ⏱️ 12:07 • 1d ago
 
 ---
 
-**[I made a game to beat AI.](https://www.youtube.com/watch?v=BD0qL7TF-ro)**
+**[YouTube&#39;s AI is Being INVESTIGATED!](https://www.youtube.com/watch?v=YuK9E4soiFo)**
 
-Thank you to Holzkern for being a sponsor on this channel! Click my link http://www.holzkern.com/TheStellarJay and use my code ...
+YouTube's AI moderation has landed them in hot water, and now they are being investigated by the European Commission for ...
 
-📺 TheStellarJay
+📺 Deep Humor
 
-👁️ 132K • 👍 13K • 💬 625 • ⏱️ 11:31 • 1d ago
+👁️ 40K • 👍 3K • 💬 681 • ⏱️ 8:36 • 2d ago
 
 ---
 
-**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
+**[The Most Powerful AI Shift Is Happening Without Anyone Noticing](https://www.youtube.com/watch?v=EjQpzEeiL3k)**
 
-📺 AI . Robot
+Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPTERS ⤵ 00:00 – Keep It Curious 04:03 – Disney ...
 
-👁️ 348K • 👍 3K • 💬 30 • ⏱️ 0:21 • 2d ago
+📺 Dylan Curious
+
+👁️ 8K • 👍 482 • 💬 88 • ⏱️ 30:05 • 1d ago
+
+---
+
+**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
+
+IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
+
+📺 Eurodollar University
+
+👁️ 171K • 👍 6K • 💬 930 • ⏱️ 20:44 • 1d ago
+
+---
+
+**[A.I. Slop - Beyond the Black Void](https://www.youtube.com/watch?v=IPitD1eYLiM)**
+
+The fellas at Red Letter Media like to talk about not just movies, but current trends as well. And there's nothing more distressing as ...
+
+📺 RedLetterMedia
+
+👁️ 172K • 👍 17K • 💬 3K • ⏱️ 59:17 • 5h ago
+
+---
+
+**[I bought 3 AI-generated products.. here’s what they REALLY look like. 🤡](https://www.youtube.com/watch?v=p6sslqc-BME)**
+
+📺 Maggie McGaugh
+
+👁️ 229K • 👍 11K • 💬 155 • ⏱️ 1:16 • 1d ago
+
+---
+
+**[AI ads?NY says disclose it. 🚨 #shorts](https://www.youtube.com/watch?v=0HTvQBf2suI)**
+
+New York has become one of the first states to take major action against deceptive AI in media.A new law now requires ...
+
+📺 PURE Girl
+
+👁️ 80K • 👍 828 • 💬 79 • ⏱️ 0:05 • 19h ago
 
 ---
 
@@ -509,7 +509,7 @@ VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware spee
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 7 • 💬 2 • ⭐ 11,986 • 29d ago
+▲ 7 • 💬 2 • ⭐ 11,986 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -686,7 +686,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 3h ago
+⭐ 1.1k • 🔱 137 • 4h ago
 
 ---
 

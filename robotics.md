@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T21:12:14.880703+00:00'
+updated: '2025-12-16T21:34:05.841514+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 21:12 UTC  
+**Last Updated:** December 16, 2025 at 21:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello everyone, I’ll jump straight to my question. I’m currently looking to 
 
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
-15h ago
+16h ago
 
 ---
 
@@ -128,7 +128,7 @@ South China Morning Post • 2d ago
 
 **[Private equity giant EQT discusses its humanoid robot rollout](https://www.axios.com/2025/12/16/eqt-private-equity-humanoid-robot-1x)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -158,7 +158,7 @@ Interesting Engineering • 21h ago
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -166,7 +166,7 @@ Fortune • 6h ago
 
 iRobot's assets are now in the hands of a Chinese partner. What does this mean for the future of home robotics?
 
-IEEE Spectrum • 50m ago
+IEEE Spectrum • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 34K • 👍 696 • 💬 127 • ⏱️ 11:23 • 21h ago
+👁️ 38K • 👍 732 • 💬 131 • ⏱️ 11:23 • 21h ago
 
 ---
 
@@ -204,7 +204,25 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 25K • 👍 653 • 💬 105 • ⏱️ 6:41 • 2d ago
+👁️ 26K • 👍 661 • 💬 102 • ⏱️ 6:41 • 2d ago
+
+---
+
+**[The Next Evolution of Robotic Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
+
+Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
+
+📺 Dr Ben Miles
+
+👁️ 7K • 👍 1K • 💬 33 • ⏱️ 1:38 • 5h ago
+
+---
+
+**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
+
+📺 AI . Robot
+
+👁️ 367K • 👍 3K • 💬 31 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -214,15 +232,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 322K • 👍 11K • 💬 351 • ⏱️ 0:34 • 2d ago
-
----
-
-**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
-
-📺 AI . Robot
-
-👁️ 348K • 👍 3K • 💬 30 • ⏱️ 0:21 • 2d ago
+👁️ 327K • 👍 11K • 💬 357 • ⏱️ 0:34 • 2d ago
 
 ---
 
@@ -232,17 +242,7 @@ Business Insider tells you all you need to know about business, finance, tech, r
 
 📺 Business Insider
 
-👁️ 141K • 👍 720 • 💬 152 • ⏱️ 1:10 • 6d ago
-
----
-
-**[Scientists Discover Simple Knot Use Revolutionises Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
-
-Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
-
-📺 Dr Ben Miles
-
-👁️ 4K • 👍 831 • 💬 30 • ⏱️ 1:38 • 4h ago
+👁️ 141K • 👍 721 • 💬 152 • ⏱️ 1:10 • 6d ago
 
 ---
 
@@ -252,17 +252,27 @@ Discover the latest girlfriend robot in this eye-opening tech expo experience! E
 
 📺 Ricey Rice
 
-👁️ 258K • 👍 852 • 💬 11 • ⏱️ 0:06 • 1d ago
+👁️ 261K • 👍 861 • 💬 11 • ⏱️ 0:06 • 1d ago
 
 ---
 
-**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
+**[Lady Soldier Saves Grandma From Robotic Bull 😭 #ai #save #army](https://www.youtube.com/watch?v=ESiUIsHMCPE)**
 
-I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
+Lady Soldier Saves Grandma From Robotic Bull #ai #save #army.
 
-📺 Kyle Krueger
+📺 Anime world 
 
-👁️ 5.5M • 👍 171K • 💬 3K • ⏱️ 0:51 • 5d ago
+👁️ 37K • 👍 295 • 💬 2 • ⏱️ 0:24 • 1d ago
+
+---
+
+**[Boy Pressed Test Mode Button...Robot went Crazy 🤖😳 #ai #robot #cat](https://www.youtube.com/watch?v=hRf4HyPmFtA)**
+
+Boy Pressed Test Mode Button...Robot went Crazy #ai #robot #cat.
+
+📺 Ai Animation World
+
+👁️ 99K • 💬 5 • ⏱️ 0:37 • 2d ago
 
 ---
 
@@ -272,17 +282,7 @@ Experience the future of agriculture! In this video, an AI-powered farming robot
 
 📺 𝗦𝗺𝗮𝗿𝘁 𝗙𝗮𝗿𝗺𝗶𝗻𝗴 𝗧𝗲𝗰𝗵
 
-👁️ 382K • 👍 392 • ⏱️ 0:08 • 12h ago
-
----
-
-**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
-
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
-
-📺 Associated Press
-
-👁️ 28K • 👍 105 • 💬 43 • ⏱️ 1:26 • 3d ago
+👁️ 385K • 👍 393 • ⏱️ 0:08 • 13h ago
 
 ---
 

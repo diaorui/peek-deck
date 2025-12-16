@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T21:12:14.877476+00:00'
+updated: '2025-12-16T21:34:05.838312+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 21:12 UTC  
+**Last Updated:** December 16, 2025 at 21:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -11.2%  
-**30d:** -2.7%  
-**90d:** -35.8%  
-**1y:** -24.3%  
+**24h:** +0.4%  
+**7d:** -11.0%  
+**30d:** -2.5%  
+**90d:** -35.6%  
+**1y:** -24.1%  
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin and Ethereum dipped and then climbed Tuesday following U.S. jobs data that shows the highest unemployment rate in four years.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -180,7 +180,7 @@ Decrypt • 5h ago
 
 Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Block • 1d ago
 
 **[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -228,7 +228,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 2K • 💬 59 • ⏱️ 7:49 • 9h ago
+👁️ 15K • 👍 2K • 💬 47 • ⏱️ 7:49 • 9h ago
 
 ---
 
@@ -238,37 +238,7 @@ Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substanti
 
 📺 Paul Barron Network
 
-👁️ 4K • 👍 498 • 💬 127 • ⏱️ 29:25 • 4h ago
-
----
-
-**[Why Ethereum Is Doomed 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=-CqX5Vh_qTE)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Bearhard - Bitcoin Strategy
-
-👁️ 1K • 👍 122 • 💬 69 • ⏱️ 8:42 • 8h ago
-
----
-
-**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
-
-THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
-
-📺 Altcoin Daily
-
-👁️ 57K • 👍 3K • 💬 233 • ⏱️ 12:16 • 21h ago
-
----
-
-**[ETHEREUM PULLBACK UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=b2xuQhyaxag)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 593 • 👍 36 • 💬 2 • ⏱️ 4:48 • 11h ago
+👁️ 10K • 👍 665 • 💬 155 • ⏱️ 29:25 • 4h ago
 
 ---
 
@@ -278,37 +248,27 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 49K • 👍 2K • 💬 116 • ⏱️ 13:11 • 1d ago
+👁️ 50K • 👍 2K • 💬 120 • ⏱️ 13:11 • 1d ago
 
 ---
 
-**[JPMORGAN BANK TOKENIZES ON ETHEREUM! BITCOIN PULLSBACK &amp; CRYPTO MARKET STRUCTURE DELAYED!](https://www.youtube.com/watch?v=VXwSUsqLNr8)**
+**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
 
-Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market Fund on Ethereum. The senate markup on ...
+THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
 
-📺 Thinking Crypto
+📺 Altcoin Daily
 
-👁️ 6K • 👍 541 • 💬 75 • ⏱️ 18:30 • 17h ago
-
----
-
-**[Ethereum ETH Price Prediction: HIGHER](https://www.youtube.com/watch?v=mgBtqfTK41M)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 83 • 👍 12 • 💬 24 • ⏱️ 8:32 • 3h ago
+👁️ 59K • 👍 3K • 💬 237 • ⏱️ 12:16 • 21h ago
 
 ---
 
-**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
+**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
 
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
 
-📺 Crypto With James
+📺 Digital Asset News
 
-👁️ 3K • 👍 237 • 💬 98 • ⏱️ 10:03 • 1d ago
+👁️ 18K • 👍 824 • 💬 87 • ⏱️ 40:28 • 1d ago
 
 ---
 
@@ -318,7 +278,47 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 162 • 💬 43 • ⏱️ 6:53 • 21h ago
+👁️ 4K • 👍 166 • 💬 18 • ⏱️ 6:53 • 21h ago
+
+---
+
+**[JPMORGAN BANK TOKENIZES ON ETHEREUM! BITCOIN PULLSBACK &amp; CRYPTO MARKET STRUCTURE DELAYED!](https://www.youtube.com/watch?v=VXwSUsqLNr8)**
+
+Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market Fund on Ethereum. The senate markup on ...
+
+📺 Thinking Crypto
+
+👁️ 7K • 👍 552 • 💬 74 • ⏱️ 18:30 • 17h ago
+
+---
+
+**[Ethereum ETH Price Prediction: HIGHER](https://www.youtube.com/watch?v=mgBtqfTK41M)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 160 • 👍 19 • 💬 20 • ⏱️ 8:32 • 3h ago
+
+---
+
+**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
+
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+
+📺 Crypto With James
+
+👁️ 3K • 👍 239 • 💬 97 • ⏱️ 10:03 • 1d ago
+
+---
+
+**[Why Ethereum Is Doomed 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=-CqX5Vh_qTE)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Bearhard - Bitcoin Strategy
+
+👁️ 2K • 👍 138 • 💬 44 • ⏱️ 8:42 • 8h ago
 
 ---
 

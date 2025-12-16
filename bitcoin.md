@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T21:12:14.871440+00:00'
+updated: '2025-12-16T21:34:05.832299+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 21:12 UTC  
+**Last Updated:** December 16, 2025 at 21:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,602.78
+### $87,700.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** -4.6%  
-**30d:** -5.0%  
-**90d:** -25.0%  
-**1y:** -17.5%  
+**24h:** +1.5%  
+**7d:** -4.8%  
+**30d:** -5.1%  
+**90d:** -25.1%  
+**1y:** -17.6%  
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[I miss the old bitcoin, straight from the GO Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pob13l/i_miss_the_old_bitcoin_straight_from_the_go/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Everyday someone posts it and the last dip is getting lower 😂😭😭](https://www.reddit.com/r/Bitcoin/comments/1po94vv/everyday_someone_posts_it_and_the_last_dip_is/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -121,7 +121,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
-3h ago
+4h ago
 
 ---
 
@@ -165,7 +165,7 @@ Financial Times • 1d ago
 
 This week, MicroStrategy bought Bitcoin at $92K just before a sharp drop. Was it poor timing or part of a long-term strategy?
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 10h ago
 
 Michael Saylor’s Strategy now holds about $58 billion in Bitcoin. The treasury company’s CEO predicts massive Bitcoin buying in 2026. The firm’s stock price is down 63% from its July high.
 
-dlnews.com • 10h ago
+dlnews.com • 11h ago
 
 ---
 
@@ -187,7 +187,7 @@ dlnews.com • 10h ago
 
 U.S. spot bitcoin ETFs saw $357.6 million of net outflows on Monday, part of a $582 million combined ETF withdrawal, as bitcoin fell to as low as $85,100 and traders watched the $83,000 ETF cost-basis level for support.
 
-Bitbo • 5h ago
+Bitbo • 6h ago
 
 ---
 
@@ -211,7 +211,7 @@ CoinDesk • 18h ago
 
 Strategy Inc (MSTR) Stock News Today: $980M Bitcoin Buy, Nasdaq 100 Stay, MSCI Index Risk, and Wall Street Forecasts (Dec. 16, 2025) - TechStock²
 
-ts2.tech • 4h ago
+ts2.tech • 5h ago
 
 ---
 
@@ -219,7 +219,7 @@ ts2.tech • 4h ago
 
 This department store stock has outperformed Nvidia, Broadcom, Tesla, and Bitcoin over the last five years
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -283,7 +283,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 9 • 💬 2 • 5h ago
+⬆️ 9 • 💬 2 • 6h ago
 
 ---
 
@@ -297,67 +297,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 27K • 👍 543 • 💬 337 • ⏱️ 10:03 • 14h ago
-
----
-
-**[My Bitcoin and Crypto Portfolio Is Hurting...](https://www.youtube.com/watch?v=Eq7VK3EDdn4)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 28K • 👍 2K • 💬 610 • ⏱️ 8:04 • 19h ago
-
----
-
-**[Why Panic Selling Bitcoin NOW Could be the Worst Idea!](https://www.youtube.com/watch?v=ZZV--oWO_h8)**
-
-Bitcoin feels stalled. Prices are down, fear is up, and dopamine-chasing traders are folding. But what if this lull is the setup for the ...
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 618 • 💬 52 • ⏱️ 16:49 • 7h ago
-
----
-
-**[Will 1 Bitcoin Be Generational Wealth? Whales Selling, Legacy Planning &amp; Price Drivers](https://www.youtube.com/watch?v=6zFglF1aMKc)**
-
-A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell sat down with Matthew McClintock, head of The ...
-
-📺 Natalie Brunell
-
-👁️ 3K • 👍 248 • 💬 23 • ⏱️ 57:23 • 6h ago
-
----
-
-**[🚨 WARNING: Bitcoin Holders Are SELLING! (Was That The Top?)](https://www.youtube.com/watch?v=RSQV9sLeY5o)**
-
-A major warning signal just flashed in Bitcoin — long-term holders are starting to SELL. Historically, when this happens, the ...
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 399 • 💬 82 • ⏱️ 1:09:01 • 4h ago
-
----
-
-**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
-
-These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! AI Trading Club: ...
-
-📺 Thomas Kralow
-
-👁️ 13K • 👍 2K • 💬 59 • ⏱️ 7:49 • 9h ago
-
----
-
-**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=pkDDBb1EYwg)**
-
-We have a classic case of the bear market blues :( Make sure you check out ITC premium before the SALE ends so you can lock ...
-
-📺 Benjamin Cowen
-
-👁️ 61K • 👍 4K • 💬 334 • ⏱️ 19:58 • 14h ago
+👁️ 31K • 👍 599 • 💬 355 • ⏱️ 10:03 • 15h ago
 
 ---
 
@@ -367,27 +307,87 @@ INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://c
 
 📺 Crypto Crew University
 
-👁️ 18K • 👍 1K • 💬 144 • ⏱️ 8:22 • 7h ago
+👁️ 24K • 👍 2K • 💬 139 • ⏱️ 8:22 • 7h ago
 
 ---
 
-**[Why is Bitcoin STUCK at $90K?! (This Explains Everything)](https://www.youtube.com/watch?v=9Xi0PnWSLto)**
+**[Jobs Report Shock: What It Means for Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=Jqf_fYYOl24)**
 
-Bitcoin's been dropping like clockwork at market open—but is it just normal volatility, or something more sinister? From Japanese ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 27K • 👍 1K • 💬 238 • ⏱️ 46:12 • 6h ago
+
+---
+
+**[Why Panic Selling Bitcoin NOW Could be the Worst Idea!](https://www.youtube.com/watch?v=ZZV--oWO_h8)**
+
+Aura Stop leaving yourself vulnerable to data breaches. Go to my sponsor https://aura.com/simplybitcoin to get a 14-day free trial ...
 
 📺 Simply Bitcoin
 
-👁️ 50K • 👍 2K • 💬 179 • ⏱️ 14:17 • 1d ago
+👁️ 9K • 👍 731 • 💬 63 • ⏱️ 16:49 • 7h ago
 
 ---
 
-**[CRYPTO.COM Is Quietly TAKING OVER (Why It Matters)](https://www.youtube.com/watch?v=qVfaAMLqWC8)**
+**[My Bitcoin and Crypto Portfolio Is Hurting...](https://www.youtube.com/watch?v=Eq7VK3EDdn4)**
 
-Thanks to Crypto/com for sponsoring this video. Get 10% off trading fees! www.crypto.com/exch/cryptocapitalventure While most of ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Dan Gambardello
+📺 CryptosRUs
 
-👁️ 2K • 👍 256 • 💬 184 • ⏱️ 6:33 • 5h ago
+👁️ 29K • 👍 2K • 💬 583 • ⏱️ 8:04 • 20h ago
+
+---
+
+**[Will 1 Bitcoin Be Generational Wealth? Whales Selling, Legacy Planning &amp; Price Drivers](https://www.youtube.com/watch?v=6zFglF1aMKc)**
+
+A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell sat down with Matthew McClintock, head of The ...
+
+📺 Natalie Brunell
+
+👁️ 5K • 👍 320 • 💬 23 • ⏱️ 57:23 • 6h ago
+
+---
+
+**[Why Did Bitcoin CRASH? What Comes Next For Bitcoin?](https://www.youtube.com/watch?v=NC-_0etZPdI)**
+
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
+
+📺 Crypto Jebb
+
+👁️ 1K • 👍 131 • 💬 49 • ⏱️ 8:15 • 2h ago
+
+---
+
+**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
+
+These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! AI Trading Club: ...
+
+📺 Thomas Kralow
+
+👁️ 15K • 👍 2K • 💬 47 • ⏱️ 7:49 • 9h ago
+
+---
+
+**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
+
+THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
+
+📺 Altcoin Daily
+
+👁️ 59K • 👍 3K • 💬 237 • ⏱️ 12:16 • 21h ago
+
+---
+
+**[🚨 WARNING: Bitcoin Holders Are SELLING! (Was That The Top?)](https://www.youtube.com/watch?v=RSQV9sLeY5o)**
+
+A major warning signal just flashed in Bitcoin — long-term holders are starting to SELL. Historically, when this happens, the ...
+
+📺 Discover Crypto
+
+👁️ 5K • 👍 430 • 💬 9 • ⏱️ 1:09:01 • 4h ago
 
 ---
 
