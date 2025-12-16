@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T13:58:27.556461+00:00'
+updated: '2025-12-16T14:34:48.293508+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 13:58 UTC  
+**Last Updated:** December 16, 2025 at 14:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-3h ago
+4h ago
 
 ---
 
@@ -48,7 +48,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -64,7 +64,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
-8h ago
+9h ago
 
 ---
 
@@ -92,6 +92,12 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 
 ---
 
+**[50 wheels lego](https://www.reddit.com/r/robotics/comments/1pnufll/50_wheels_lego/)**
+
+8h ago
+
+---
+
 **[X-Humanoid, a system that takes real-person videos as input and outputs a new video showing a robot performing the same actions. They "robotized" a large amount of existing real-world human video, generating millions of frames of robot videos with human-like movements that can be used for training.](https://www.reddit.com/r/robotics/comments/1pn5qy5/xhumanoid_a_system_that_takes_realperson_videos/)**
 
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
@@ -100,27 +106,13 @@ Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 
 
 ---
 
-**[50 wheels lego](https://www.reddit.com/r/robotics/comments/1pnufll/50_wheels_lego/)**
-
-8h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
+**[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
 The New York Times • 2d ago
-
----
-
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
-
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
-
-Fortune • 2d ago
 
 ---
 
@@ -132,6 +124,14 @@ South China Morning Post • 2d ago
 
 ---
 
+**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
+
+“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
+
+Fortune • 2d ago
+
+---
+
 **[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
 
 They make robot vacuums, lots of them
@@ -140,11 +140,11 @@ The Verge • 1d ago
 
 ---
 
-**[President’s Report by Takayuki Ito](https://ifr.org/ifr-press-releases/news/presidents-report-by-takayuki-ito-4-2025)**
+**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
 
-It is my pleasure to open this edition of our quarterly newsletter as we approach the end of 2025 - a year that has brought remarkable momentum, important breakthroughs, and renewed confidence to the global robotics community.
+The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-International Federation of Robotics • 3h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -153,14 +153,6 @@ International Federation of Robotics • 3h ago
 SERV reaches its 2025 target with 2,000+ autonomous robots, becoming the largest U.S. sidewalk delivery fleet through rapid expansion and disciplined execution.
 
 Yahoo Finance • 21h ago
-
----
-
-**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
-
-The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -176,7 +168,7 @@ InvestorPlace • 2d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 19h ago
+Seeking Alpha • 20h ago
 
 ---
 
@@ -184,7 +176,15 @@ Seeking Alpha • 19h ago
 
 Germany’s Quantum Systems and Ukraine’s Frontline Robotics have launched a joint venture to mass-produce Ukrainian drones in Germany, with all systems destined for Ukraine’s Defense Forces.
 
-Kyiv Post • 23h ago
+Kyiv Post • 1d ago
+
+---
+
+**[UiPath: This Is Not The AI Or Robotics Stock To Buy Now (NYSE:PATH)](https://seekingalpha.com/article/4853312-uipath-q3-this-is-not-the-ai-or-robotics-stock-to-buy-now)**
+
+UiPath is a software company focused on robotic process automation and there is a spirited debate as to its positioning amid the current AI transformation. Learn more about PATH stock here.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 21K • 👍 605 • 💬 100 • ⏱️ 11:23 • 13h ago
+👁️ 21K • 👍 605 • 💬 100 • ⏱️ 11:23 • 14h ago
 
 ---
 
@@ -254,7 +254,7 @@ Discover the latest girlfriend robot in this eye-opening tech expo experience! E
 
 📺 Ricey Rice
 
-👁️ 216K • 👍 765 • 💬 11 • ⏱️ 0:06 • 23h ago
+👁️ 216K • 👍 765 • 💬 11 • ⏱️ 0:06 • 1d ago
 
 ---
 
@@ -284,7 +284,7 @@ Atlas moves like a contortionist, but it's not just showing off. One of our soft
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 52 • 💬 4 • ⏱️ 1:25 • 15h ago
+👁️ 2K • 👍 52 • 💬 4 • ⏱️ 1:25 • 16h ago
 
 ---
 

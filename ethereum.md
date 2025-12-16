@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T13:58:27.553256+00:00'
+updated: '2025-12-16T14:34:48.290047+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 13:58 UTC  
+**Last Updated:** December 16, 2025 at 14:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.0%  
-**7d:** -11.9%  
-**30d:** -3.5%  
-**90d:** -36.3%  
-**1y:** -24.9%  
+**24h:** -2.7%  
+**7d:** -11.7%  
+**30d:** -3.2%  
+**90d:** -36.1%  
+**1y:** -24.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.90B
+**Market Cap:** $353.61B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-40.6%
 
 **All-Time Low:** $0.43
-+684219.6%
++678671.9%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
+
+---
+
+**[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
+
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 40m ago
 
 ---
 
@@ -140,17 +146,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[1-Year Anniversary of EigenCloud's 1% Protocol Guild Pledge Contribution](https://www.reddit.com/r/ethereum/comments/1pl0vsm/1year_anniversary_of_eigenclouds_1_protocol_guild/)**
-
-One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
-
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
+
+The Block • 1d ago
+
+---
 
 **[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://decrypt.co/352365/tom-lees-bitmine-keeps-buying-ethereum-adding-320-million-eth-treasury)**
 
@@ -162,7 +166,7 @@ Decrypt • 22h ago
 
 **['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -170,13 +174,21 @@ The Block • 22h ago
 
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
-**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
+**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
 
-The Block • 1d ago
+Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Bitcoin slides below $86,000, ether falls as traders rotate into safer assets](https://www.theblock.co/post/382639/bitcoin-slides-below-86000)**
+
+The Block • 9h ago
 
 ---
 
@@ -188,28 +200,6 @@ Nasdaq • 2d ago
 
 ---
 
-**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
-
-Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin slides below $86,000, ether falls as traders rotate into safer assets](https://www.theblock.co/post/382639/bitcoin-slides-below-86000)**
-
-The Block • 8h ago
-
----
-
-**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
-
-Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
-
-BeInCrypto • 1d ago
-
----
-
 **[Ethereum is fighting for survival as insiders warn a "dangerous complacency" could make it irrelevant by 2030](https://cryptoslate.com/ethereum-is-fighting-for-survival-as-insiders-warn-a-dangerous-complacency-could-make-it-irrelevant-by-2030/)**
 
 As Ethereum navigates a pivotal evolution within the blockchain industry, Solana's rapid transaction growth reshapes the DeFi landscape.
@@ -218,11 +208,19 @@ CryptoSlate • 22h ago
 
 ---
 
-**[An Ethereum whale raises its holdings to $1.7B: Will this move affect ETH?](https://ambcrypto.com/an-ethereum-whale-raises-its-holdings-to-1-7b-will-this-move-affect-eth/)**
+**[Which Breakout Could Come First: Bitcoin at $100K or Ethereum Above $4,000?](https://www.tradingview.com/news/coinpedia:914e7218a094b:0-which-breakout-could-come-first-bitcoin-at-100k-or-ethereum-above-4-000/)**
 
-An Ethereum whale purchased 38,576 ETH worth $119 million.
+Bitcoin and Ethereum are entering one of their most critical phases of the year after a sharp market-wide pullback sent BTC briefly below $86,000, shaking out overleveraged traders and resetting sentiment across major assets. Despite the volatility, both cryptocurrencies are now coiling near major…
 
-AMBCrypto • 1d ago
+TradingView — Track All Markets • 2h ago
+
+---
+
+**[Major Ethereum Price Signal Forms Because of This Indicator](https://beincrypto.com/ethereum-price-breakout-signal/)**
+
+Ethereum price trades near a breakout zone as selling pressure eases. Key levels now decide whether $4,000 comes into play.
+
+BeInCrypto • 1d ago
 
 ---
 
@@ -236,7 +234,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 2K • 💬 103 • ⏱️ 13:11 • 17h ago
+👁️ 45K • 👍 2K • 💬 103 • ⏱️ 13:11 • 18h ago
 
 ---
 
@@ -246,7 +244,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 17K • 👍 822 • 💬 76 • ⏱️ 40:28 • 20h ago
+👁️ 17K • 👍 822 • 💬 76 • ⏱️ 40:28 • 21h ago
 
 ---
 
@@ -276,7 +274,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 137 • 💬 17 • ⏱️ 6:53 • 13h ago
+👁️ 3K • 👍 137 • 💬 17 • ⏱️ 6:53 • 14h ago
 
 ---
 
@@ -306,7 +304,7 @@ TAO's halving isn't just another crypto event and it definitely isn't what most 
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 210 • 💬 11 • ⏱️ 41:01 • 22h ago
+👁️ 4K • 👍 210 • 💬 11 • ⏱️ 41:01 • 23h ago
 
 ---
 
@@ -316,7 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 137 • 💬 2 • ⏱️ 5:52 • 22h ago
+👁️ 3K • 👍 137 • 💬 2 • ⏱️ 5:52 • 23h ago
 
 ---
 

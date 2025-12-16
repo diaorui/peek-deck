@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T13:58:27.547219+00:00'
+updated: '2025-12-16T14:34:48.283958+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 13:58 UTC  
+**Last Updated:** December 16, 2025 at 14:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,772.33
+### $87,157.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -5.7%  
-**30d:** -6.0%  
+**24h:** -0.4%  
+**7d:** -5.6%  
+**30d:** -5.9%  
 **90d:** -25.8%  
-**1y:** -18.4%  
+**1y:** -18.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1744.15B
+**Market Cap:** $1733.47B
 Rank #1
 
-**Circulating Supply:** 19,962,859 BTC
+**Circulating Supply:** 19,962,875 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.9%
 
 **All-Time Low:** $67.81
-+128929.6%
++128398.7%
 
 ---
 
@@ -77,11 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Me checking on the homies I convinced to buy Bitcoin at 124K](https://www.reddit.com/r/Bitcoin/comments/1pnahuo/me_checking_on_the_homies_i_convinced_to_buy/)**
+**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
-Are you still buying?
-
-22h ago
+1h ago
 
 ---
 
@@ -91,11 +89,19 @@ Are you still buying?
 
 ---
 
+**[Me checking on the homies I convinced to buy Bitcoin at 124K](https://www.reddit.com/r/Bitcoin/comments/1pnahuo/me_checking_on_the_homies_i_convinced_to_buy/)**
+
+Are you still buying?
+
+22h ago
+
+---
+
 **[Don’t panic people](https://www.reddit.com/r/Bitcoin/comments/1pnlszj/dont_panic_people/)**
 
 100k range might take till next year
 
-14h ago
+15h ago
 
 ---
 
@@ -115,7 +121,7 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 **[0.1 btc = 10M sats](https://www.reddit.com/r/Bitcoin/comments/1pnoxsp/01_btc_10m_sats/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -129,19 +135,13 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 Buy some bitcoin and store it.
 
-23h ago
-
----
-
-**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
-
-47m ago
+1d ago
 
 ---
 
 **[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -149,31 +149,17 @@ Buy some bitcoin and store it.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqflW_FBtj8TILM30JZSlSEaoZr_G2VzaHmJUrsg4SCdbjzYv0QrR9i7&gaa_ts=694162fd&gaa_sig=s7KBIveAE2SsGpG2uGBEivkmPl09XofKj8Gc2-fFM-vSZr-x-ljPKbqiR-bKTtHtAdsc6oB92WvbOY9UG6I_Sg%3D%3D)**
-
-Barron's • 19h ago
-
----
-
 **[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
 
 Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdRNX1qlSogYFS4UPRkx91QgRfQ5jfuTzVQEPxk8skh-Z6lu-Hwi6vr&gaa_ts=694162fd&gaa_sig=XbYgGmuA4qWMFbugISg_JGGE7EBnv8PLbrkXfPsVPDSq3HCVYC8GZ-Fa5FgWYPASIycWXSUJfp-2_irYMvYNRw%3D%3D)**
+**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqfPkQo26v2GFkOVgUZkQ3H80BKhg-KC9nLt-xZLIjFNezkmbYPJAl7p&gaa_ts=69417168&gaa_sig=QTRaayVwhlWCOIeABqoDSLZNeMatPdxrVXZkK06vuEyx2R7ss_RPV8dnEWHjhofk8Zsj9gswF-hXdMZELpR8IA%3D%3D)**
 
-Barron's • 19h ago
-
----
-
-**[Michael Saylor Buys Another $1B in Bitcoin as Grayscale Predicts All Time High Within 6 Months — Is It Likely?](https://finance.yahoo.com/news/michael-saylor-buys-another-1b-121215863.html)**
-
-Strategy added nearly $1 billion worth of Bitcoin for a second straight week. Grayscale expects Bitcoin to reach a new all-time high in the first ...
-
-Yahoo Finance • 1h ago
+Barron's • 20h ago
 
 ---
 
@@ -181,31 +167,21 @@ Yahoo Finance • 1h ago
 
 Will the tried-and-tested asset grow faster than the scrappy upstart?
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Why bitcoin ETFs look like they’re falling short, even as their role grows: Asia Morning Briefing](https://www.coindesk.com/markets/2025/12/16/why-bitcoin-etfs-look-like-they-re-falling-short-even-as-their-role-grows-asia-morning-briefing)**
+**[This department store stock has outperformed Nvidia, Tesla, Broadcom, and Bitcoin over the last five years](https://seekingalpha.com/news/4531529-this-department-store-stock-has-outperformed-nvidia-tesla-broadcom-and-bitcoin-over-the-last-five-years)**
 
-What looks like underperformance reflects a structural shift: ETF flows now smooth volatility rather than amplify crypto rallies.
+This department store stock has outperformed Nvidia, Broadcom, Tesla, and Bitcoin over the last five years
 
-CoinDesk • 2h ago
-
----
-
-**[XRP ETF News: Milestone as Ripple Linked Products See 30 Days of Positive Inflows](https://www.coindesk.com/markets/2025/12/15/xrp-spot-etfs-rack-up-30-day-inflow-streak-in-divergence-from-bitcoin-ether)**
-
-The products have attracted fresh capital every trading day since launch, lifting cumulative net inflows to about $975 million.
-
-CoinDesk • 1d ago
+Seeking Alpha • 1h ago
 
 ---
 
-**[U.S. BTC and ETH ETFs see biggest outflows since Nov. 20](https://www.coindesk.com/markets/2025/12/16/u-s-bitcoin-ether-etfs-see-largest-outflows-since-nov-20-as-btc-declines)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdvXoYK_OovE_U8VxF41vmlD21pdqwFM5xKZiBujVPJ57gZoStH4umN&gaa_ts=69417168&gaa_sig=qv7ySgR4_wgiVqiG3WHJFmHOVcOIwvAJcb9BYnT6h6B55f1QQ3DrYqWo4Zu8Z99xS0W4O7caHUTiT6cwSe_-1w%3D%3D)**
 
-Monday once again emerges as a pressure point for bitcoin, aligning ETF outflows with recurring bitcoin lows.
-
-CoinDesk • 2h ago
+Barron's • 19h ago
 
 ---
 
@@ -220,6 +196,24 @@ Financial Times • 1d ago
 **[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
 
 The Block • 17h ago
+
+---
+
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqe90ymHL07weZ9kiSP22r7OPv59hE5wQ_Zxn_t15k3EEyHXcM324cOy&gaa_ts=69417168&gaa_sig=NKF2YckptwtrIZnbL5y4oGeLWQdcX56l-Mt5vAWWFFx95iH3P5klOxwwejpa7DWOvS-ITaAi7H3QQpxfYg_dvQ%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Michael Saylor Buys Another $1B in Bitcoin as Grayscale Predicts All Time High Within 6 Months — Is It Likely?](https://www.ccn.com/news/crypto/michael-saylor-buys-1b-bitcoin-grayscale-predicts-all-time-high/)**
+
+CCN.com • 2h ago
+
+---
+
+**[Bitcoin hoarding company Strategy remains in Nasdaq 100](https://www.reuters.com/sustainability/climate-energy/bitcoin-hoarder-company-strategy-remains-nasdaq-100-2025-12-13/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -305,7 +299,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 498 • ⏱️ 8:04 • 12h ago
+👁️ 25K • 👍 1K • 💬 498 • ⏱️ 8:04 • 13h ago
 
 ---
 
@@ -315,7 +309,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 7K • 👍 266 • 💬 183 • ⏱️ 10:03 • 7h ago
+👁️ 7K • 👍 266 • 💬 183 • ⏱️ 10:03 • 8h ago
 
 ---
 
@@ -325,7 +319,7 @@ WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potenti
 
 📺 Digital Asset News
 
-👁️ 17K • 👍 822 • 💬 76 • ⏱️ 40:28 • 20h ago
+👁️ 17K • 👍 822 • 💬 76 • ⏱️ 40:28 • 21h ago
 
 ---
 
@@ -345,7 +339,7 @@ Japan is about to hike rates, and history says Bitcoin gets rekt every time. Wit
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 297 • ⏱️ 18:49 • 14h ago
+👁️ 37K • 👍 3K • 💬 297 • ⏱️ 18:49 • 15h ago
 
 ---
 
@@ -375,7 +369,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 355 • ⏱️ 52:24 • 22h ago
+👁️ 31K • 👍 1K • 💬 355 • ⏱️ 52:24 • 23h ago
 
 ---
 
@@ -395,7 +389,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 9K • 👍 493 • 💬 134 • ⏱️ 8:05 • 18h ago
+👁️ 9K • 👍 493 • 💬 134 • ⏱️ 8:05 • 19h ago
 
 ---
 
