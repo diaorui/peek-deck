@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T07:58:44.007473+00:00'
+updated: '2025-12-16T08:41:40.354100+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 07:58 UTC  
+**Last Updated:** December 16, 2025 at 08:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.8%  
-**7d:** -11.9%  
-**30d:** -3.4%  
-**90d:** -36.2%  
-**1y:** -24.8%  
+**24h:** -7.4%  
+**7d:** -12.0%  
+**30d:** -3.6%  
+**90d:** -36.3%  
+**1y:** -24.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.72B
+**Market Cap:** $353.50B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+676674.2%
++675995.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -92,14 +92,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Who was Hailey Welsh's crypto team?](https://www.reddit.com/r/ethereum/comments/1pnvbh8/who_was_hailey_welshs_crypto_team/)**
-
-I remember the Hollywood Doc fello on Twitter. But whom else was associated? Specifically who did CoffeeZilla talk too
-
-1h ago
-
----
-
 **[Echidna 2.3 released with symbolic execution capabilities, Foundry reproducer integration and revamped coverage reports!](https://www.reddit.com/r/ethereum/comments/1pnh16m/echidna_23_released_with_symbolic_execution/)**
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
@@ -112,7 +104,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-13h ago
+14h ago
 
 ---
 
@@ -148,6 +140,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[1-Year Anniversary of EigenCloud's 1% Protocol Guild Pledge Contribution](https://www.reddit.com/r/ethereum/comments/1pl0vsm/1year_anniversary_of_eigenclouds_1_protocol_guild/)**
+
+One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
+
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -162,7 +162,7 @@ Nasdaq • 1d ago
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 16h ago
 
 **['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 16h ago
 
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -208,7 +208,7 @@ CryptoSlate • 16h ago
 
 An Ethereum whale purchased 38,576 ETH worth $119 million.
 
-AMBCrypto • 20h ago
+AMBCrypto • 21h ago
 
 ---
 
@@ -216,13 +216,13 @@ AMBCrypto • 20h ago
 
 Trust Wallet now offers zero swap gas on Ethereum, covering transaction fees for users and enabling cost-free token swaps.
 
-Crypto Briefing • 12h ago
+Crypto Briefing • 13h ago
 
 ---
 
-**[3 reasons why Ethereum plunged 5% today](https://www.msn.com/en-us/money/savingandinvesting/3-reasons-why-ethereum-plunged-5-today/ar-AA1SpuPp?ocid=finance-verthp-feeds)**
+**[Bitcoin slides below $86,000, ether falls as traders rotate into safer assets](https://www.theblock.co/post/382639/bitcoin-slides-below-86000)**
 
-MSN • 9h ago
+The Block • 3h ago
 
 ---
 
@@ -230,23 +230,23 @@ MSN • 9h ago
 
 ## YouTube Videos: "ethereum"
 
+**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
+
+THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
+
+📺 Altcoin Daily
+
+👁️ 37K • 👍 2K • 💬 164 • ⏱️ 12:16 • 8h ago
+
+---
+
 **[Cathie Wood Swaps Tesla For Ethereum🚨Crypto Market Update](https://www.youtube.com/watch?v=r74Wf7xsdXk)**
 
 Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a consumer-focused blockchain, each taking on key ...
 
 📺 Paul Barron Network
 
-👁️ 38K • 👍 2K • 💬 104 • ⏱️ 13:11 • 11h ago
-
----
-
-**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
-
-WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
-
-📺 Digital Asset News
-
-👁️ 16K • 👍 762 • 💬 72 • ⏱️ 40:28 • 14h ago
+👁️ 41K • 👍 2K • 💬 119 • ⏱️ 13:11 • 12h ago
 
 ---
 
@@ -256,67 +256,17 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 111 • 💬 16 • ⏱️ 6:53 • 7h ago
+👁️ 3K • 👍 123 • 💬 37 • ⏱️ 6:53 • 8h ago
 
 ---
 
-**[JPMORGAN BANK TOKENIZES ON ETHEREUM! BITCOIN PULLSBACK &amp; CRYPTO MARKET STRUCTURE DELAYED!](https://www.youtube.com/watch?v=VXwSUsqLNr8)**
+**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
 
-Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market Fund on Ethereum. The senate markup on ...
+WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
 
-📺 Thinking Crypto
+📺 Digital Asset News
 
-👁️ 2K • 👍 272 • 💬 55 • ⏱️ 18:30 • 4h ago
-
----
-
-**[Why I&#39;m Choosing TAO Over Ethereum! [Bittensor Halving Explained]](https://www.youtube.com/watch?v=q_ULZd6Dndo)**
-
-TAO's halving isn't just another crypto event and it definitely isn't what most people think. In this episode, Alessandro breaks down ...
-
-📺 Crypto Banter
-
-👁️ 4K • 👍 200 • 💬 10 • ⏱️ 41:01 • 16h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=g5zFM6YQLYI)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 148 • 💬 3 • ⏱️ 8:04 • 9h ago
-
----
-
-**[Warren Buffett Just Sent a Final Warning (Bitcoin News)](https://www.youtube.com/watch?v=NOwcGhAiV-E)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 73K • 👍 3K • 💬 282 • ⏱️ 9:35 • 1d ago
-
----
-
-**[Why The Crypto Waterfall Stopped (And Why I&#39;m Holding) #shorts](https://www.youtube.com/watch?v=nfjAm4KP3lI)**
-
-The market is bleeding, but the cycle isn't over. In this video, I explain the "Waterfall Effect" and the real reason Altseason stalled: ...
-
-📺 Crypto Clarity with Blake
-
-👁️ 484 • 👍 5 • 💬 1 • ⏱️ 0:56 • 2h ago
-
----
-
-**[Don&#39;t Say I DIDN&#39;T TELL 🚨 You Bitcoin XRP Ethereum](https://www.youtube.com/watch?v=rABP1n0ZtA0)**
-
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 11K • 👍 610 • 💬 38 • ⏱️ 14:28 • 2d ago
+👁️ 16K • 👍 787 • 💬 73 • ⏱️ 40:28 • 15h ago
 
 ---
 
@@ -326,7 +276,57 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 226 • 💬 43 • ⏱️ 10:03 • 16h ago
+👁️ 3K • 👍 226 • 💬 44 • ⏱️ 10:03 • 17h ago
+
+---
+
+**[JPMORGAN BANK TOKENIZES ON ETHEREUM! BITCOIN PULLSBACK &amp; CRYPTO MARKET STRUCTURE DELAYED!](https://www.youtube.com/watch?v=VXwSUsqLNr8)**
+
+Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market Fund on Ethereum. The senate markup on ...
+
+📺 Thinking Crypto
+
+👁️ 3K • 👍 351 • 💬 75 • ⏱️ 18:30 • 4h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=g5zFM6YQLYI)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 156 • 💬 3 • ⏱️ 8:04 • 9h ago
+
+---
+
+**[BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Yo2EacUJ9OQ)**
+
+BITCOIN EMERGENCY: It Finally Confirmed (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 398 • 💬 71 • ⏱️ 25:11 • 10h ago
+
+---
+
+**[Why I&#39;m Choosing TAO Over Ethereum! [Bittensor Halving Explained]](https://www.youtube.com/watch?v=q_ULZd6Dndo)**
+
+TAO's halving isn't just another crypto event and it definitely isn't what most people think. In this episode, Alessandro breaks down ...
+
+📺 Crypto Banter
+
+👁️ 4K • 👍 203 • 💬 11 • ⏱️ 41:01 • 17h ago
+
+---
+
+**[🚨 PELIGRA BITCOIN: ESTO NOS HARÁ CAER a $70K! 👉 ETHEREUM confirma una GRAN NOTICIA | SOLANA](https://www.youtube.com/watch?v=vOgzbh8OPg4)**
+
+Semana explosiva para Bitcoin y la bolsa de valores: El mercado entra en una fase de máxima tensión y la gran pregunta es si ...
+
+📺 WhatsUpCripto
+
+👁️ 2K • 👍 220 • 💬 54 • ⏱️ 18:43 • 9h ago
 
 ---
 

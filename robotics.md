@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T07:58:44.010713+00:00'
+updated: '2025-12-16T08:41:40.357310+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 07:58 UTC  
+**Last Updated:** December 16, 2025 at 08:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
 
-18h ago
+19h ago
 
 ---
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -68,6 +68,14 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 
 ---
 
+**[Robots are coming..](https://www.reddit.com/r/robotics/comments/1pnty34/robots_are_coming/)**
+
+Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
+
+3h ago
+
+---
+
 **[DIY powered exoskeleton by a college student](https://www.reddit.com/r/robotics/comments/1pntdfq/diy_powered_exoskeleton_by_a_college_student/)**
 
 Just saw this video of a college student building a powered exoskeleton by hand. Stuff like this always makes me think about how far exoskeletons have come. Companies like dnsys have already released lower limb exoskeletons as mobility aids for rehabilitation and daily use. Curious what people here think. Are we actually getting closer to wider adoption, for example in military or medical contexts, or are power, weight, and comfort still the main blockers?
@@ -80,19 +88,11 @@ Just saw this video of a college student building a powered exoskeleton by hand.
 
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
 
-19h ago
+20h ago
 
 ---
 
 **[50 wheels lego](https://www.reddit.com/r/robotics/comments/1pnufll/50_wheels_lego/)**
-
-2h ago
-
----
-
-**[Robots are coming..](https://www.reddit.com/r/robotics/comments/1pnty34/robots_are_coming/)**
-
-Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
 2h ago
 
@@ -116,22 +116,6 @@ The New York Times • 1d ago
 
 ---
 
-**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
-
-Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
-
-South China Morning Post • 2d ago
-
----
-
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
-
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
-
-Fortune • 2d ago
-
----
-
 **[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
 
 They make robot vacuums, lots of them
@@ -140,11 +124,11 @@ The Verge • 23h ago
 
 ---
 
-**[iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private](https://ts2.tech/en/irobot-bankruptcy-roomba-maker-files-for-chapter-11-picea-robotics-to-acquire-and-take-company-private/)**
+**[iRobot Announces Strategic Transaction to Drive Long-Term Growth Plan](https://www.prnewswire.com/news-releases/irobot-announces-strategic-transaction-to-drive-long-term-growth-plan-302641744.html)**
 
-iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private - TechStock²
+/PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
 
-ts2.tech • 18h ago
+PR Newswire • 1d ago
 
 ---
 
@@ -152,7 +136,7 @@ ts2.tech • 18h ago
 
 : Company vacuumed up by its own manufacturer
 
-theregister.com • 18h ago
+theregister.com • 19h ago
 
 ---
 
@@ -164,11 +148,19 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Serve Robotics Deploys 2,000 Robots & Leads U.S. Sidewalk Delivery](https://finance.yahoo.com/news/serve-robotics-deploys-2-000-163700829.html)**
+
+SERV reaches its 2025 target with 2,000+ autonomous robots, becoming the largest U.S. sidewalk delivery fleet through rapid expansion and disciplined execution.
+
+Yahoo Finance • 16h ago
+
+---
+
 **[Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology (AMCI:NASDAQ)](https://seekingalpha.com/news/4531631-meet-amc-robotics-the-spac-name-looking-for-a-breakthrough-in-ai-powered-robotic-technology)**
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 14h ago
 
 ---
 
@@ -180,9 +172,19 @@ InvestorPlace • 1d ago
 
 ---
 
-**[They built robots and won. Now they want more middle schoolers to join in.](https://www.timesunion.com/education/article/steamwhiz-aims-expand-k-8-robotics-teams-albany-21236899.php)**
+**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
 
-Times Union • 1d ago
+“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
+
+Fortune • 2d ago
+
+---
+
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+
+South China Morning Post • 2d ago
 
 ---
 
@@ -190,13 +192,23 @@ Times Union • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
+
+Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
+
+📺 AI Revolution
+
+👁️ 15K • 👍 510 • 💬 68 • ⏱️ 11:23 • 8h ago
+
+---
+
 **[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
 
 Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
 
 📺 CNET
 
-👁️ 23K • 👍 621 • 💬 97 • ⏱️ 6:41 • 1d ago
+👁️ 23K • 👍 632 • 💬 97 • ⏱️ 6:41 • 1d ago
 
 ---
 
@@ -206,7 +218,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 288K • 👍 9K • 💬 313 • ⏱️ 0:34 • 1d ago
+👁️ 294K • 👍 9K • 💬 317 • ⏱️ 0:34 • 2d ago
 
 ---
 
@@ -214,17 +226,17 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 172K • 👍 2K • 💬 17 • ⏱️ 0:21 • 1d ago
+👁️ 190K • 👍 2K • 💬 18 • ⏱️ 0:21 • 1d ago
 
 ---
 
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+**[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
 
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
 
-📺 The Straits Times
+📺 RICHLEV
 
-👁️ 191K • 👍 934 • 💬 303 • ⏱️ 0:47 • 7d ago
+👁️ 138K • 👍 4K • 💬 937 • ⏱️ 17:05 • 1d ago
 
 ---
 
@@ -232,37 +244,37 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 BlueAI25
 
-👁️ 7K • 👍 80 • 💬 6 • ⏱️ 0:24 • 12h ago
+👁️ 8K • 👍 89 • 💬 6 • ⏱️ 0:24 • 12h ago
 
 ---
 
-**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+**[A Chinese #tech firm just unveiled a humanoid #robot strong enough to knock down its own CEO. #AI](https://www.youtube.com/watch?v=9V0Uvxp_oXk)**
 
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+Business Insider tells you all you need to know about business, finance, tech, retail, and more. Visit our homepage for the top ...
 
-📺 Associated Press
+📺 Business Insider
 
-👁️ 28K • 👍 103 • 💬 41 • ⏱️ 1:26 • 3d ago
-
----
-
-**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
-
-I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
-
-📺 Kyle Krueger
-
-👁️ 5.3M • 👍 167K • 💬 3K • ⏱️ 0:51 • 5d ago
+👁️ 141K • 👍 717 • 💬 152 • ⏱️ 1:10 • 6d ago
 
 ---
 
-**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
+**[Testing the Latest Girlfriend Robot My Eye Can&#39;t Believe This #robotics #tech #AI](https://www.youtube.com/watch?v=8BM43krXJXw)**
 
-Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
+Discover the latest girlfriend robot in this eye-opening tech expo experience! Explore advanced AI and robotics designed to ...
 
-📺 AI Revolution
+📺 Ricey Rice
 
-👁️ 11K • 👍 453 • 💬 60 • ⏱️ 11:23 • 7h ago
+👁️ 193K • 👍 659 • 💬 5 • ⏱️ 0:06 • 18h ago
+
+---
+
+**[This self aware robot escaped... (and he&#39;s after US)](https://www.youtube.com/watch?v=EvJwEw3lOwo)**
+
+This self aware robot escaped... (and he's after US) Like and subscribe. socials INSTAGRAM: https://www.instagram.com/qerello_/ ...
+
+📺 Qerello
+
+👁️ 5K • 👍 306 • 💬 48 • ⏱️ 12:54 • 1d ago
 
 ---
 
@@ -272,17 +284,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 44 • 💬 4 • ⏱️ 1:25 • 9h ago
-
----
-
-**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
-
-We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
-
-📺 CNET
-
-👁️ 18K • 👍 227 • 💬 28 • ⏱️ 1:05 • 17h ago
+👁️ 2K • 👍 49 • 💬 4 • ⏱️ 1:25 • 10h ago
 
 ---
 
