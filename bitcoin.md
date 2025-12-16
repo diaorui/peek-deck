@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T09:37:11.352414+00:00'
+updated: '2025-12-16T09:54:11.313702+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 09:37 UTC  
+**Last Updated:** December 16, 2025 at 09:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.9%  
-**7d:** -6.0%  
-**30d:** -6.3%  
-**90d:** -26.1%  
-**1y:** -18.7%  
+**24h:** -4.1%  
+**7d:** -6.2%  
+**30d:** -6.5%  
+**90d:** -26.2%  
+**1y:** -18.8%  
 
 ---
 
@@ -97,7 +97,7 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 Are you still buying?
 
-17h ago
+18h ago
 
 ---
 
@@ -123,7 +123,7 @@ Buy some bitcoin and store it.
 
 **[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ Buy some bitcoin and store it.
 
 **[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -155,7 +155,7 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -171,7 +171,7 @@ Financial Times • 1d ago
 
 Crypto's bear grip squeezes tighter as 75 of top 100 coins trade below 50- and 200-day SMAs.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ CoinDesk • 1h ago
 Bitcoin was falling following declines in U.S. and Asian equities overnight as investors trim exposures to risky assets ahead of key U.S. data and a raft of central bank decisions.
 The delayed U.S. nonfarm payrolls report for November and partial data for October will be released at 8:30 a.m. GMT.
 
-Barron's • 49m ago
+Barron's • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Motley Fool • 18h ago
 
 **[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -216,7 +216,7 @@ MarketWatch • 20h ago
 
 A slide in Bitcoin price on Monday triggered over $584 million in liquidations of bullish bets, primarily affecting long positions.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -332,7 +332,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 164 • ⏱️ 12:16 • 9h ago
+👁️ 37K • 👍 2K • 💬 164 • ⏱️ 12:16 • 10h ago
 
 ---
 
@@ -342,7 +342,7 @@ We have a classic case of the bear market blues :( Make sure you check out ITC p
 
 📺 Benjamin Cowen
 
-👁️ 11K • 👍 1K • 💬 95 • ⏱️ 19:58 • 2h ago
+👁️ 11K • 👍 1K • 💬 95 • ⏱️ 19:58 • 3h ago
 
 ---
 
@@ -382,7 +382,7 @@ Prediction markets. Crypto casinos. Tokenized stocks. A generation being told th
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 139 • 💬 5 • ⏱️ 14:39 • 14h ago
+👁️ 3K • 👍 139 • 💬 5 • ⏱️ 14:39 • 15h ago
 
 ---
 

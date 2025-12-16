@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T09:37:11.358484+00:00'
+updated: '2025-12-16T09:54:11.319742+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 09:37 UTC  
+**Last Updated:** December 16, 2025 at 09:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -7.1%  
-**7d:** -11.6%  
+**24h:** -7.2%  
+**7d:** -11.7%  
 **30d:** -3.2%  
-**90d:** -36.0%  
+**90d:** -36.1%  
 **1y:** -24.6%  
 
 ---
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 13h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 14h ago
 
 ---
 
@@ -184,7 +184,7 @@ CoinDesk • 19h ago
 
 Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -192,7 +192,7 @@ Decrypt • 17h ago
 
 A mix of macro and token-specific factors are pushing investors away from Ethereum and toward other assets.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 164 • ⏱️ 12:16 • 9h ago
+👁️ 37K • 👍 2K • 💬 164 • ⏱️ 12:16 • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 226 • 💬 44 • ⏱️ 10:03 • 17h ago
+👁️ 3K • 👍 226 • 💬 44 • ⏱️ 10:03 • 18h ago
 
 ---
 
@@ -288,7 +288,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 351 • 💬 75 • ⏱️ 18:30 • 5h ago
+👁️ 3K • 👍 351 • 💬 75 • ⏱️ 18:30 • 6h ago
 
 ---
 
