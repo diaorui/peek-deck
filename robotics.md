@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T05:44:05.889008+00:00'
+updated: '2025-12-16T05:56:06.991207+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 05:44 UTC  
+**Last Updated:** December 16, 2025 at 05:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -64,7 +64,7 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 Just saw this video of a college student building a powered exoskeleton by hand. Stuff like this always makes me think about how far exoskeletons have come. Companies like dnsys have already released lower limb exoskeletons as mobility aids for rehabilitation and daily use. Curious what people here think. Are we actually getting closer to wider adoption, for example in military or medical contexts, or are power, weight, and comfort still the main blockers?
 
-47m ago
+59m ago
 
 ---
 
@@ -122,7 +122,7 @@ The New York Times • 1d ago
 
 They make robot vacuums, lots of them
 
-The Verge • 20h ago
+The Verge • 21h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T05:44:05.873582+00:00'
+updated: '2025-12-16T05:56:06.973373+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 05:44 UTC  
+**Last Updated:** December 16, 2025 at 05:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 15h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 16h ago
 
 ---
 
@@ -49,7 +49,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 44m ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 56m ago
 
 ---
 
@@ -57,7 +57,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 14h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 15h ago
 
 ---
 
@@ -167,7 +167,7 @@ Reuters • 2h ago
 
 How are Greater Cincinnati's colleges and universities responding to the AI craze? Here's a look at which policies and guidelines are in place.
 
-Cincinnati Enquirer • 34m ago
+Cincinnati Enquirer • 46m ago
 
 ---
 
@@ -175,7 +175,7 @@ Cincinnati Enquirer • 34m ago
 
 This week’s Digiday Podcast delves into the copyright concerns and potential trademark issues surrounding brands’ use of generative AI tools.
 
-Digiday • 40m ago
+Digiday • 52m ago
 
 ---
 
@@ -241,7 +241,7 @@ Some (well-known) consequences of AI automating work
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 168 • 💬 74 • 6h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 168 • 💬 74 • 7h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -505,7 +505,7 @@ AutoGLM-Phone-9B-Multilingual is a vision-language model for mobile intelligent 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 15 • 💬 2 • ⭐ 206 • 4d ago
+▲ 15 • 💬 2 • ⭐ 341 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -573,7 +573,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 V-RGBX is an end-to-end framework for intrinsic-aware video editing that combines video inverse rendering, photorealistic synthesis, and keyframe-based editing to produce consistent and physically plausible edits.
 
-▲ 25 • 💬 2 • ⭐ 40 • 3d ago
+▲ 25 • 💬 2 • ⭐ 45 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11799) • [💻 code](https://github.com/Aleafy/V-RGBX) • [🔗 project](https://aleafy.github.io/vrgbx/)
 
@@ -641,7 +641,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.8k • 🔱 2.5k • 20h ago
+⭐ 15.9k • 🔱 2.5k • 21h ago
 
 ---
 
@@ -651,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.6k • 🔱 386 • 20h ago
+⭐ 3.6k • 🔱 388 • 44m ago
 
 ---
 
@@ -731,7 +731,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 721 • 🔱 111 • 3d ago
+⭐ 724 • 🔱 112 • 2m ago
 
 ---
 
