@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T04:23:16.973589+00:00'
+updated: '2025-12-16T04:54:32.649293+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 04:23 UTC  
+**Last Updated:** December 16, 2025 at 04:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,953.31
+### $2,888.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -6.0%  
-**7d:** -11.7%  
-**30d:** -3.3%  
-**90d:** -36.1%  
-**1y:** -24.7%  
+**24h:** -6.7%  
+**7d:** -12.4%  
+**30d:** -4.0%  
+**90d:** -36.6%  
+**1y:** -25.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.72B
+**Market Cap:** $350.49B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-41.2%
 
 **All-Time Low:** $0.43
-+676436.3%
++671269.7%
 
 ---
 
@@ -92,21 +92,11 @@ I’ve never bought ETH before, but I’m thinking of getting some exposure now.
 
 ---
 
-**[DTCC receives No-Action Letter from SEC to tokenize assets | The Depository Trust & Clearing Corporation (DTCC) posted on the topic | LinkedIn](https://www.reddit.com/r/ethereum/comments/1pnso01/dtcc_receives_noaction_letter_from_sec_to/)**
-
-In an historic milestone, DTC received a No‑Action Letter from the SEC to tokenize certain DTC‑custodied assets. By leveraging blockchain, DTCC aims to bridge TradFi and DeFi, advancing a more resilient, inclusive and efficient global financial system. 
-
-Learn more: https://brnw.ch/21wYhMn | 22 comments on LinkedIn
-
-🔗 [linkedin.com](https://www.linkedin.com/posts/dtcc_dtc-authorized-to-offer-new-tokenization-activity-7405003603888787456-FgUl?utm_source=share&utm_medium=member_ios&rcm=ACoAAAVe_y4BrGwnSznq61uk80DOy7saVsWkg5I) • 4m ago
-
----
-
 **[Echidna 2.3 released with symbolic execution capabilities, Foundry reproducer integration and revamped coverage reports!](https://www.reddit.com/r/ethereum/comments/1pnh16m/echidna_23_released_with_symbolic_execution/)**
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 8h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 9h ago
 
 ---
 
@@ -114,7 +104,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 Hey folks, I’m looking for a production-ready Android wallet that satisfies all of the following: 1) Passkey-based wallet (WebAuthn / no seed phrase, similar to https://github.com/passkeys-4337/smart-wallet) 2) WalletConnect support that works with the passkey-controlled smart account (not just legacy EOAs) I’ve tried Gemini Wallet, which technically checks the boxes, but I’ve found it unreliable in practice.
 
-9h ago
+10h ago
 
 ---
 
@@ -150,9 +140,25 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[1-Year Anniversary of EigenCloud's 1% Protocol Guild Pledge Contribution](https://www.reddit.com/r/ethereum/comments/1pl0vsm/1year_anniversary_of_eigenclouds_1_protocol_guild/)**
+
+One year ago today, eigenfoundation, a contributor to eigencloud, completed their 1% Protocol Guild pledge, an allocation of unprecedented size to Ethereum L1 contributors 💫 We commend them for recognizing the necessity to collectively fund the Ethereum project 🫡
+
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/1999562208624181490?s=20) • 3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
+
+**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
+
+Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
+
+Decrypt • 11h ago
+
+---
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
@@ -160,43 +166,11 @@ The Block • 16h ago
 
 ---
 
-**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
-
-Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
-
-CoinDesk • 12h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
-
-Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
-
-Decrypt • 10h ago
-
----
-
-**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
-
-If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
-
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin seeks support at 85,000; Ethereum looks for a rebound at 2,900. Is the opportunity here?](https://news.futunn.com/en/post/66230713/bitcoin-seeks-support-at-85000-ethereum-looks-for-a-rebound)**
-
-Thecryptocurrency market experienced a pullback amid diverging Fed policies and liquidity fluctuations. Bitcoin rebounded to near $90,000 yesterday morning but entered a consolidation phase, before shifting into a downward trend during the U.S. trading session. It hit a low of $85,000 in the early hours and has since recovered to around $86,000 as of this writing, still down 1.9% for the day. Ethereum also came under pressure, with insufficient momentum after a rebound to $3,170 during the day. It fell to a low of $2,900 in the evening and has since recovered to around $3,000, posting a 24-hour decline of 1.09%.
-
-富途牛牛 • 1h ago
-
----
-
 **[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://finance.yahoo.com/news/tom-lees-bitmine-keeps-buying-154149939.html)**
 
 Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -210,7 +184,15 @@ The Block • 13h ago
 
 The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
+
+---
+
+**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
+
+If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -230,6 +212,22 @@ CryptoSlate • 12h ago
 
 ---
 
+**[Why Are Bitcoin, Ethereum and XRP Prices Falling Today?](https://www.tradingview.com/news/coinpedia:5f55e8b63094b:0-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
+
+The cryptocurrency market is under pressure today, with Bitcoin, Ethereum and XRP among other altcoins all seeing sharp declines. Total crypto market value has slipped to around $3 trillion, down more than 1%.Bitcoin dropped below $87,000, Ethereum fell near $3,000, and XRP slid to around $1.92. Se…
+
+TradingView — Track All Markets • 13h ago
+
+---
+
+**[Better Buy in 2026: Ethereum or XRP?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-xrp)**
+
+Key PointsEthereum, as the top blockchain in the world for decentralized finance, has caught Wall Street's attention.
+
+Nasdaq • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -240,7 +238,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 34K • 👍 2K • 💬 101 • ⏱️ 13:11 • 7h ago
+👁️ 34K • 👍 2K • 💬 101 • ⏱️ 13:11 • 8h ago
 
 ---
 
@@ -310,7 +308,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 223 • 💬 46 • ⏱️ 10:03 • 12h ago
+👁️ 3K • 👍 223 • 💬 46 • ⏱️ 10:03 • 13h ago
 
 ---
 

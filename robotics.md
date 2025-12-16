@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T04:23:16.976880+00:00'
+updated: '2025-12-16T04:54:32.652571+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 04:23 UTC  
+**Last Updated:** December 16, 2025 at 04:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -48,7 +48,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -56,7 +56,15 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
 
-5h ago
+6h ago
+
+---
+
+**[Boost Robotics is Hiring Founding Engineers (ML for Manipulation, General Software, and Hardware) in Cambridge, MA](https://www.reddit.com/r/robotics/comments/1pns1d5/boost_robotics_is_hiring_founding_engineers_ml/)**
+
+Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
+
+1h ago
 
 ---
 
@@ -65,14 +73,6 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 Thread by Mike Shou on 𝕏: https://x.com/MikeShou1/status/1999332606966661202 Project page: https://showlab.github.io/X-Humanoid/ Paper link: https://arxiv.org/abs/2512.04537
 
 16h ago
-
----
-
-**[Boost Robotics is Hiring Founding Engineers (ML for Manipulation, General Software, and Hardware) in Cambridge, MA](https://www.reddit.com/r/robotics/comments/1pns1d5/boost_robotics_is_hiring_founding_engineers_ml/)**
-
-Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
-
-36m ago
 
 ---
 
@@ -104,7 +104,7 @@ This is the Ultra Mobile Vehicle (UMV) from the RAI Institute (The Robotics and 
 
 IMO, an underappreciated part of robotics. https://huggingface.co/spaces/pollen-robotics/Reachy_Mini_Assembly_Guide
 
-12h ago
+13h ago
 
 ---
 
@@ -118,35 +118,17 @@ The New York Times • 1d ago
 
 ---
 
-**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
-
-Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
-
-South China Morning Post • 1d ago
-
----
-
-**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
-
-“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
-
-Fortune • 2d ago
-
----
-
 **[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
 
 They make robot vacuums, lots of them
 
-The Verge • 19h ago
+The Verge • 20h ago
 
 ---
 
-**[iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private](https://ts2.tech/en/irobot-bankruptcy-roomba-maker-files-for-chapter-11-picea-robotics-to-acquire-and-take-company-private/)**
+**[Roomba Maker iRobot Files for Bankruptcy, With Chinese Supplier Taking Control](https://www.nytimes.com/2025/12/15/business/roomba-irobot-bankruptcy.html)**
 
-iRobot Bankruptcy: Roomba Maker Files for Chapter 11, Picea Robotics to Acquire and Take Company Private - TechStock²
-
-ts2.tech • 14h ago
+The New York Times • 10h ago
 
 ---
 
@@ -154,7 +136,7 @@ ts2.tech • 14h ago
 
 The filing comes just one year after Amazon dropped the ball on a $1.7 billion acquisition of the company.
 
-MassLive.com • 13h ago
+MassLive.com • 14h ago
 
 ---
 
@@ -170,7 +152,7 @@ The Motley Fool • 1d ago
 
 Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -178,13 +160,29 @@ Seeking Alpha • 9h ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 17h ago
+InvestorPlace • 1d ago
+
+---
+
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+
+South China Morning Post • 1d ago
 
 ---
 
 **[They built robots and won. Now they want more middle schoolers to join in.](https://www.timesunion.com/education/article/steamwhiz-aims-expand-k-8-robotics-teams-albany-21236899.php)**
 
 Times Union • 1d ago
+
+---
+
+**[Even in Silicon Valley, skepticism looms over robots, while 'China has certainly a lot more momentum on humanoids'](https://fortune.com/2025/12/13/humanoid-robots-silicon-valley-skepticism-china-momentum-ai-visual-language/)**
+
+“The humanoid space has a very, very big hill to climb,” said Cosima du Pasquier, founder and CEO of Haptica Robotics.
+
+Fortune • 2d ago
 
 ---
 

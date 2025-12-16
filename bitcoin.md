@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T04:23:16.967508+00:00'
+updated: '2025-12-16T04:54:32.643264+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 04:23 UTC  
+**Last Updated:** December 16, 2025 at 04:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -4.3%  
-**7d:** -6.6%  
-**30d:** -6.9%  
-**90d:** -26.5%  
+**7d:** -6.7%  
+**30d:** -7.0%  
+**90d:** -26.6%  
 **1y:** -19.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1713.15B
+**Market Cap:** $1708.89B
 Rank #1
 
-**Circulating Supply:** 19,962,687 BTC
+**Circulating Supply:** 19,962,703 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -32.0%
 
 **All-Time Low:** $67.81
-+126399.0%
++126310.6%
 
 ---
 
@@ -85,12 +85,6 @@ Rank #1
 
 ---
 
-**[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
-
-11h ago
-
----
-
 **[You sold 1 Bitcoin and the bank said bring a truck](https://www.reddit.com/r/Bitcoin/comments/1pnhi1u/you_sold_1_bitcoin_and_the_bank_said_bring_a_truck/)**
 
 8h ago
@@ -107,7 +101,7 @@ I used my cash balance that Square auto converted to Bitcoin for me to send via 
 
 **[Heard Santa is coming to town](https://www.reddit.com/r/Bitcoin/comments/1pndohp/heard_santa_is_coming_to_town/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -123,6 +117,12 @@ Bitcoin Is Dead tracks over 400 bitcoin obituaries since 2010. See how many time
 
 Are you still buying?
 
+13h ago
+
+---
+
+**[FUN FACT: #Bitcoin now has as many users as the internet did in 1997.](https://www.reddit.com/r/Bitcoin/comments/1pnbxdk/fun_fact_bitcoin_now_has_as_many_users_as_the/)**
+
 12h ago
 
 ---
@@ -131,7 +131,7 @@ Are you still buying?
 
 Buy some bitcoin and store it.
 
-13h ago
+14h ago
 
 ---
 
@@ -139,13 +139,13 @@ Buy some bitcoin and store it.
 
 Fact is 99.1% of volume in the last 12 hours has been coins less than half a year held. Really points to short term fears, liquidity hunting (as usual) and ETF flows. Those stacking continue to stack.
 
-3h ago
+4h ago
 
 ---
 
 **[Wise words of Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1pno3xn/wise_words_of_satoshi/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -157,7 +157,7 @@ Fact is 99.1% of volume in the last 12 hours has been coins less than half a yea
 
 Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -165,7 +165,15 @@ Bloomberg.com • 3h ago
 
 Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
+
+---
+
+**[Bitcoin's Retreat to $85,000 Shifts Losses to New Entrants](https://decrypt.co/352470/bitcoins-retreat-85000-shifts-losses-new-entrants)**
+
+Bitcoin's drop to $85,800 has pushed new whales into 2023-level losses, while on-chain data reveals short-term holders buying the dips.
+
+Decrypt • 45m ago
 
 ---
 
@@ -173,23 +181,15 @@ Yahoo Finance • 5h ago
 
 Data shows 181,893 traders were liquidated, with long positions accounting for over 87% of total losses.
 
-CoinDesk • 38m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Asia Market Open: Bitcoin Tumbles to $85k as Asian Shares Decline in Pre-Jobs Data Trade](https://www.tradingview.com/news/cryptonews:20aaf9416094b:0-asia-market-open-bitcoin-tumbles-to-85k-as-asian-shares-decline-in-pre-jobs-data-trade/)**
+**[Asia Market Open: Bitcoin Tumbles to $85k as Asian Shares Decline in Pre-Jobs Data Trade](https://finance.yahoo.com/news/asia-market-open-bitcoin-tumbles-031639055.html)**
 
-Bitcoin dropped nearly 4% to about $85,940 on Tuesday as Asian equities slipped at the open, with investors cutting risk before a run of US economic data that could shape the next leg for interest rates.Indexes in Japan dipped, while Australian shares edged higher, after the S&P 500 fell for a seco…
+Bitcoin dropped nearly 4% to about $85,940 on Tuesday as Asian equities slipped at the open, with investors cutting risk before a run of US economic data that could shape the next leg for interest rates.Indexes in Japan dipped, while Australian shares edged higher, after the S&P 500 fell for ...
 
-TradingView — Track All Markets • 1h ago
-
----
-
-**[Bitcoin's Retreat to $85,000 Shifts Losses to New Entrants](https://finance.yahoo.com/news/bitcoins-retreat-85-000-shifts-040750696.html)**
-
-Bitcoin's drop to $85,800 has pushed new whales into 2023-level losses, while on-chain data reveals short-term holders buying the dips.
-
-Yahoo Finance • 16m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -203,13 +203,13 @@ Financial Times • 23h ago
 
 **[MetaMask rolls out Bitcoin support, continuing multi-chain expansion](https://www.theblock.co/post/382616/metamask-rolls-out-bitcoin-support-continuing-multi-chain-expansion)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdMfVs5uzL04pIbDH6YqxEEloWKHidMmdg-_AmMcliHqW9tc-BLKg6Y&gaa_ts=6940e21c&gaa_sig=pALIQsCLPt-mO3S1FTI4uq-ifSqlpXDqApe526W_AcpeskfrlUv80AbicSNAlS7BNiym9WtpxoaJ2WeAi33zoA%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfSiQacWlIw9WerlA64Ma56X-_9omPQ4gEkuoXcW2GPjFAMPSJEDKjm&gaa_ts=6940e971&gaa_sig=ixgwArxZt2QDZVIAgwjJxJAgYA1ps43qAnYqUn9NfmouJGatIbkOrc5UGkc3zIU9nwMQ6idHEUel890DhtUawg%3D%3D)**
 
-Barron's • 9h ago
+Barron's • 10h ago
 
 ---
 
@@ -221,7 +221,7 @@ The Motley Fool • 13h ago
 
 ---
 
-**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqdRWh6orUALd5cruo9Oafv_aL_n8Y3jl2IzD9ep9fWvQUEvohnQ5OeK&gaa_ts=6940e21c&gaa_sig=pJTnI0dtjd13L7F8I2Ivgaa3ftfU8cWoTIpRx9LMivLIKrIBVEt2htCMnmuzeyXT1eQDjS9OtG-ZlmXIky_WMg%3D%3D)**
+**[Why gold and bitcoin are uninvestible to this Wall Street legend](https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?gaa_at=eafs&gaa_n=AWEtsqeYk7ci3751KTcsSiAuqdb9mJcjvZi4UbtYGnpDRqqnPiL2gqUy03Jf&gaa_ts=6940e971&gaa_sig=tJAmZVe-99eSXx6vhtPrSLfMjElzc7LQC_I6UsBn16OH8mB4BMwi0E2H8o55i5BNuV-cfteF2li-QsJTPUplwg%3D%3D)**
 
 MarketWatch • 15h ago
 
@@ -251,7 +251,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 15h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 1 • 💬 1 • 16h ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -303,7 +303,7 @@ We’ve already written several times about the danger posed by adding AI to law
 
 Solana Breakpoint highlights Raoul Pal’s macro-economic data insights, Bitcoin four-year cycle outlook, and why crypto markets could peak in 2026.
 
-⬆️ 1 • 💬 0 • 20h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
+⬆️ 1 • 💬 0 • 21h ago • [Altcoin Desk](https://altcoindesk.com/news/solana-breakpoint-highlights-raoul-pal-predicts-macro-driven-crypto-cycle-peak-in-2026/)
 
 ---
 
@@ -317,7 +317,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 854 • 💬 296 • ⏱️ 8:04 • 2h ago
+👁️ 9K • 👍 854 • 💬 296 • ⏱️ 8:04 • 3h ago
 
 ---
 
@@ -337,7 +337,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 315 • ⏱️ 52:24 • 12h ago
+👁️ 30K • 👍 1K • 💬 315 • ⏱️ 52:24 • 13h ago
 
 ---
 
@@ -347,7 +347,7 @@ Tangem ▻ 1+1 Deal Is Back!!* Holiday Special: *Buy 1, Get 2nd one at 50% Off!*
 
 📺 Crypto Casey
 
-👁️ 25K • 👍 2K • 💬 258 • ⏱️ 14:34 • 11h ago
+👁️ 25K • 👍 2K • 💬 258 • ⏱️ 14:34 • 12h ago
 
 ---
 

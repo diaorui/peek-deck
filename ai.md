@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T04:23:16.958864+00:00'
+updated: '2025-12-16T04:54:32.634720+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 04:23 UTC  
+**Last Updated:** December 16, 2025 at 04:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 14h ago
+🔗 [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.
 
-🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 13h ago
+🔗 [WIRED](https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ RIP Copilot.
 
 Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI Foundation Google drops Deep Research + AlphaEvolve agent A collection of AI Agent Updates! 🧵 1. Stripe Launches Agentic Commerce Suite Single integration for businesses to sell via multiple AI agents. Handles product discovery, agentic checkout, payments, and fraud. Manage all agents from Stripe Dashboard. Works with existing commerce stack. AI-native commerce infrastructure now available. 2. OpenAI Co-Founds Agentic AI Foundation with Anthropic and Block Under Linux Foundation to support open, interoperable standards for agentic AI. Donating to establish standards enabling safe, reliable agents across tools and repositories. Industry leaders aligning on agent interoperability. 3. Google Opens Gemini Deep Research Agent to Developers Most advanced autonomous research capabilities now embeddable in applications for first time. Also open-sourcing DeepSearchQA benchmark for evaluating agents on complex search tasks. Google's agent infrastructure available to all developers. 4. Anthropic is Developing New Agent Mode for Claude Code-named "Yukon Gold" - tasks-based complex agent experience with toggle between classic chat and agent mode. Also testing pixel art avatar generation from uploaded photos. Claude may be getting a dedicated agent interface. 5. Google Cloud Unveils AlphaEvolve Coding Agent Gemini-powered agent for designing advanced algorithms. Uses LLMs to propose intelligent code modifications with feedback loop that evolves algorithms to be more efficient. Now in private preview. Haven’t tried, but seems promising. 6. Real Agent Usage Data: Harvard Analyzes Hundreds of Millions of Queries Perplexity study shows 55% personal use, 30% professional. Productivity/workflow dominates (36% of queries), followed by learning/research (21%). Users shift from simple to complex tasks over time. Real data on how people actually use agents. 7. Stitchbygoogle Launches Redesign Agent with Code Generation Screenshot apps, visually reimagine with Gemini Pro, then convert redesigns into working HTML. "Shipmas" week begins - new ship daily with big launch Wednesday. Screenshot → Redesign → Code → Deploy workflow now live. 8. Cursor Agents Can Now Debug Your Hardest Bugs Debug Mode instruments code, spins up server, captures logs, and streams runtime data to agent. Version 2.2 adds multi-agent judging (picks best solution) and Plan Mode improvements with diagrams. AI agents now debugging production code. 9. Code Drops Major Agent Experience Upgrade Agent sessions integrated into chat view. Isolated background agents via Git worktrees enable multiple agents without conflicts. Seamless delegation with automatic context transfer between local, background, and cloud agents. Multi-agent workflows now native in VS Code. 10. Microsoft Research Unveils Agent Lightning Decouples how agents work from training. Turns each agent step into reinforcement learning data. Developers can improve agent performance with almost zero code changes. RL for agents without code rewrites. That's a wrap on this week's Agentic news. Which update are you trying first? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-9h ago
+10h ago
 
 ---
 
@@ -73,7 +73,15 @@ Stripe launches full Agentic Commerce Suite OpenAI + Anthropic found Agentic AI 
 
 Also: All the news and watercooler chat from Fortune.
 
-🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 11h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/trump-ai-state-laws-executive-order-ceo-reaction/) • 12h ago
+
+---
+
+**[5.2 was built to impress investors. In this video, I explain how I came to that conclusion](https://www.reddit.com/r/artificial/comments/1pnst04/52_was_built_to_impress_investors_in_this_video_i/)**
+
+Over the past few months, I’ve been watching the pattern behind OpenAI’s releases. 5.2 dropping right before the holidays makes sense. End-of-year metrics matter, and strong Q4 performance boosts investor confidence. OpenAI now has a three-year licensing deal with Disney. Disney is one of the largest entertainment corporations in the world, and partnerships at that scale require stability, predictability, and performance metrics that appeal to investors and enterprise clients. 5.2 behaves like a model built to impress those groups first. Consumers were never the target audience for this release.
+
+28m ago
 
 ---
 
@@ -105,15 +113,7 @@ TheAgentCompany and its employees are fake, but the simulation environment creat
 
 I’ve been playing around with some AI video tools lately just to see what’s actually useful, not just hype. I’m not a pro or anything, just trying to make decent videos without spending forever on them. These are the ones I ended up liking the most: imini – This one felt the easiest for me. I could type a prompt and get a nice-looking clip pretty fast without messing with a bunch of settings. Runway – Really powerful, but I had to spend some time learning it. Great if you want more control. Pika Labs – Fun for quick, creative clips. I use it more for ideas than full videos. Luma Dream Machine – Sometimes it looks amazing, sometimes not, but when it works it’s really impressive. CapCut – Not AI video generation, but I still use it all the time to clean things up and post. I still don’t think there’s one tool that does everything perfectly, so I kinda mix a few depending on what I’m making. Curious what you all are using, did I miss anything good?
 
-19h ago
-
----
-
-**[How researchers are teaching AI agents to ask for permission the right way](https://www.reddit.com/r/artificial/comments/1pn3aig/how_researchers_are_teaching_ai_agents_to_ask_for/)**
-
-People are starting to hand more decisions to AI agents, from booking trips to sorting digital files. The idea sounds simple. Tell the agent what you want, then let it work through the steps. The hard part is what the agent does with personal data along the way. A new research study digs into this problem, and asks a basic question. How should an AI agent know when to use someone’s data without asking every time?
-
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2025/12/15/research-ai-agent-permissions/) • 18h ago
+20h ago
 
 ---
 
@@ -121,17 +121,11 @@ People are starting to hand more decisions to AI agents, from booking trips to s
 
 ## Google News: "ai"
 
-**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
-
-The New York Times • 7h ago
-
----
-
 **[Trump admin to hire 1,000 specialists for 'Tech Force' to build AI, finance projects](https://www.cnbc.com/2025/12/15/trump-ai-tech-force-amazon-apple.html)**
 
 A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -139,7 +133,7 @@ CNBC • 11h ago
 
 The US government is launching an early career hiring and talent development program to bring more technology and artificial intelligence employees to the public sector, as part of the Trump administration’s efforts to modernize government systems and stay ahead in the global tech race.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -149,11 +143,23 @@ Reuters • 11h ago
 
 ---
 
-**[Former Mesquite coach used AI for step-by-step child grooming plan, police says](https://www.fox4news.com/news/former-mesquite-coach-used-ai-child-grooming-plan-police-says)**
+**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
 
-Newly released documents detail why police arrested a former Mesquite teacher and volleyball coach on child grooming charges.
+The New York Times • 7h ago
 
-FOX 4 News Dallas-Fort Worth • 1h ago
+---
+
+**[China AI chip firm Biren to launch Hong Kong IPO in coming weeks, sources say](https://www.reuters.com/world/china/china-ai-chip-firm-biren-launch-hong-kong-ipo-coming-weeks-sources-say-2025-12-16/)**
+
+Reuters • 1h ago
+
+---
+
+**[Nvidia buys AI software provider SchedMD to expand open-source AI push](https://finance.yahoo.com/news/nvidia-buys-ai-software-provider-163639653.html)**
+
+Nvidia said on Monday it acquired AI software firm SchedMD, as the chip designer doubles down on open-source ​technology and steps up investments in the artificial intelligence ecosystem ‌to fend off rising competition.  The chip designer built its reputation on speedy chips, but it ‌also offers a range of its own AI models, from physics simulations to self-driving vehicles, as open-source software that researchers and companies can use.  Nvidia said it would continue to distribute SchedMD's software on an open-source basis.
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -163,19 +169,11 @@ Reuters • 14h ago
 
 ---
 
-**[Nvidia buys AI software provider SchedMD to expand open-source AI push](https://finance.yahoo.com/news/nvidia-buys-ai-software-provider-163639653.html)**
-
-Nvidia said on Monday it acquired AI software firm SchedMD, as the chip designer doubles down on open-source ​technology and steps up investments in the artificial intelligence ecosystem ‌to fend off rising competition.  The chip designer built its reputation on speedy chips, but it ‌also offers a range of its own AI models, from physics simulations to self-driving vehicles, as open-source software that researchers and companies can use.  Nvidia said it would continue to distribute SchedMD's software on an open-source basis.
-
-Yahoo Finance • 11h ago
-
----
-
 **[Nvidia bets on open infrastructure for the agentic AI era with Nemotron 3](https://www.infoworld.com/article/4106756/nvidia-bets-on-open-infrastructure-for-the-agentic-ai-era-with-nemotron-3.html)**
 
 The company is positioning its new offerings as a business-ready way for enterprises to build domain-specific agents without first needing to create foundation models.
 
-InfoWorld • 9m ago
+InfoWorld • 40m ago
 
 ---
 
@@ -183,15 +181,13 @@ InfoWorld • 9m ago
 
 AI Mode is mangling recipes by merging instructions from multiple creators – and causing them huge dips in ad traffic
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
-**[Stanford AI Experts Predict What Will Happen in 2026](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026)**
+**[Opinion | AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2?gaa_at=eafs&gaa_n=AWEtsqdR0wZGzvKhbN0ejckIuIkLscUYuf9njZlYcKHXHLKu5mx1gWh8d7IS&gaa_ts=6940e970&gaa_sig=kme4jVieOxtYLrekUnldsBG7L8SEN8fg_XCuajbVbJQ40m_rh5AkcoR7KT5w8QefZAjkez2j-A-KxXvA0bj2yQ%3D%3D)**
 
-The era of AI evangelism is giving way to evaluation. Stanford faculty see a coming year defined by rigor, transparency, and a long-overdue focus on actual utility over speculative promise.
-
-Stanford HAI • 14h ago
+The Wall Street Journal • 9h ago
 
 ---
 
@@ -203,13 +199,13 @@ Stanford HAI • 14h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 534 • 💬 892 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 535 • 💬 894 • 1d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
 **[Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)**
 
-⬆️ 451 • 💬 453 • 2d ago
+⬆️ 453 • 💬 454 • 2d ago
 
 ---
 
@@ -217,7 +213,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 359 • 💬 360 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 361 • 💬 360 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -225,7 +221,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 273 • 💬 291 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 274 • 💬 291 • 1d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -233,7 +229,19 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 249 • 💬 117 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 250 • 💬 117 • 1d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+
+---
+
+**[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
+
+⬆️ 179 • 💬 50 • 1h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+
+---
+
+**[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
+
+⬆️ 163 • 💬 73 • 6h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -245,23 +253,11 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 ---
 
-**[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
-
-⬆️ 155 • 💬 66 • 5h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
-
----
-
 **[If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://news.ycombinator.com/item?id=46260106)**
 
 In 2023, Meta researchers were able to decode images in thoughts from the brain's magnetic fields. What if that's how the brain coordinates it's own global state?
 
 ⬆️ 136 • 💬 91 • 2d ago • [1393](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
-
----
-
-**[8M Users' AI Conversations Sold for Profit by "Privacy" Extensions](https://news.ycombinator.com/item?id=46284266)**
-
-⬆️ 128 • 💬 36 • 1h ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -457,7 +453,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 6,481 • ❤️ 227 • 4d ago
+⬇️ 6,481 • ❤️ 228 • 4d ago
 
 ---
 
@@ -645,7 +641,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 15.8k • 🔱 2.5k • 19h ago
+⭐ 15.8k • 🔱 2.5k • 20h ago
 
 ---
 
@@ -655,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.6k • 🔱 383 • 18h ago
+⭐ 3.6k • 🔱 386 • 19h ago
 
 ---
 
@@ -675,7 +671,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.2k • 🔱 314 • 9d ago
+⭐ 1.2k • 🔱 315 • 9d ago
 
 ---
 
@@ -685,7 +681,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 137 • 8h ago
+⭐ 1.1k • 🔱 137 • 9h ago
 
 ---
 
@@ -735,7 +731,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 717 • 🔱 111 • 3d ago
+⭐ 721 • 🔱 111 • 3d ago
 
 ---
 
