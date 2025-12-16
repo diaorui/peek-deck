@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T23:39:37.601056+00:00'
+updated: '2025-12-16T23:50:26.273892+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 23:39 UTC  
+**Last Updated:** December 16, 2025 at 23:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ I just ordered all of the parts and finished 3D printing all of the components. 
 
 We spend a lot of time debating AGI and the "Left Shift" in software. But as this video proves, the "Physical Shift" is a much harder engineering problem. This is a perfect example of Moravec’s Paradox: High-level reasoning (coding, writing, math) requires surprisingly little computation. Low-level motor skills (walking, balance, not face-planting) require massive computational power. The Economic Reality Check: While our digital agents are getting smarter by the week, the "Core Economy"—construction, logistics, and elder care—is still bound by physics. We aren't just waiting for better software; we are waiting for better actuators, batteries, and sensor fusion. The Verdict: The "Terminator" future is on hold... at least until the next firmware update. For now, enjoy the bloopers. Robotics #AI #MoravecsParadox #FutureOfWork #Engineering LinkedIn
 
-🔗 [linkedin.com](https://www.linkedin.com/posts/procoder_robotics-ai-moravecsparadox-activity-7406588876745744384-ZeJp?utm_source=share&utm_medium=member_android&rcm=ACoAAABvw7ABTak_BnRFmTE0cY0j_nROJbWBXPU) • 25m ago
+🔗 [linkedin.com](https://www.linkedin.com/posts/procoder_robotics-ai-moravecsparadox-activity-7406588876745744384-ZeJp?utm_source=share&utm_medium=member_android&rcm=ACoAAABvw7ABTak_BnRFmTE0cY0j_nROJbWBXPU) • 36m ago
 
 ---
 
@@ -96,7 +96,7 @@ We spend a lot of time debating AGI and the "Left Shift" in software. But as thi
 
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
-19h ago
+20h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T23:39:37.591795+00:00'
+updated: '2025-12-16T23:50:26.264465+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 23:39 UTC  
+**Last Updated:** December 16, 2025 at 23:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,700.42
+### $87,722.97
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +2.0%  
-**7d:** -4.8%  
+**7d:** -4.7%  
 **30d:** -5.1%  
 **90d:** -25.1%  
 **1y:** -17.6%  
@@ -113,7 +113,7 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-6h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 **[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -151,7 +151,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 Bitcoin is headed for the fourth annual decline in its history, and the first one that didn’t coincide with a major scandal or industry meltdown.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1h ago
 
 Crypto investment firm Bitwise believes Bitcoin will set a new all-time high price in 2026 and end the typical four-year cycle. Here's why.
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -263,7 +263,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 13h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 14h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -317,7 +317,7 @@ Aura Stop leaving yourself vulnerable to data breaches. Go to my sponsor https:/
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 812 • 💬 74 • ⏱️ 16:49 • 9h ago
+👁️ 11K • 👍 812 • 💬 74 • ⏱️ 16:49 • 10h ago
 
 ---
 
@@ -347,7 +347,7 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 6K • 👍 374 • 💬 23 • ⏱️ 57:23 • 8h ago
+👁️ 6K • 👍 374 • 💬 23 • ⏱️ 57:23 • 9h ago
 
 ---
 
@@ -367,7 +367,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 2K • 💬 56 • ⏱️ 7:49 • 11h ago
+👁️ 16K • 👍 2K • 💬 56 • ⏱️ 7:49 • 12h ago
 
 ---
 
@@ -387,7 +387,7 @@ Download Raoul Pal's 5-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 4K • 👍 260 • 💬 10 • ⏱️ 1:52 • 1h ago
+👁️ 4K • 👍 260 • 💬 10 • ⏱️ 1:52 • 2h ago
 
 ---
 

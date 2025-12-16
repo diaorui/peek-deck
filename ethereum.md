@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T23:39:37.597809+00:00'
+updated: '2025-12-16T23:50:26.270569+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 23:39 UTC  
+**Last Updated:** December 16, 2025 at 23:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -11.1%  
-**30d:** -2.6%  
-**90d:** -35.7%  
-**1y:** -24.1%  
+**24h:** +0.7%  
+**7d:** -10.8%  
+**30d:** -2.3%  
+**90d:** -35.5%  
+**1y:** -23.9%  
 
 ---
 
@@ -92,7 +92,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcKc5rOFY1gwoQA7we-Q5bWa0xVMyRPnIrTpcd991_3xOgMEx5uYbzy&gaa_ts=6941ed0d&gaa_sig=6O4gCrWbBFs3eLOl1kbn_-ESwok_a7o4Oe5_Geiw-835KNwBsLdGP5Wbzgb8ry96OMSEvSxFjgCpjPGjPVa59w%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 2K • 💬 56 • ⏱️ 7:49 • 11h ago
+👁️ 16K • 👍 2K • 💬 56 • ⏱️ 7:49 • 12h ago
 
 ---
 
@@ -276,7 +276,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 2K • 👍 143 • 💬 27 • ⏱️ 8:42 • 10h ago
+👁️ 2K • 👍 143 • 💬 27 • ⏱️ 8:42 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 7K • 👍 558 • 💬 91 • ⏱️ 18:30 • 19h ago
+👁️ 7K • 👍 558 • 💬 91 • ⏱️ 18:30 • 20h ago
 
 ---
 
