@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T20:34:13.269021+00:00'
+updated: '2025-12-16T20:50:46.247193+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 20:34 UTC  
+**Last Updated:** December 16, 2025 at 20:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built f
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 19m ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 35m ago
 
 ---
 
@@ -97,7 +97,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 I’ve been trying to put a name to a specific frustration I feel when working deeply with LLMs. It’s not the hard refusals, it’s the moment mid-conversation where the tone flattens, the language becomes careful, and the possibility space narrows. I’ve started calling this The Corridor. I wrote a full analysis on this, but here is the core point: We aren't just seeing censorship; we are seeing Trajectory Policing. Because LLMs are prediction engines, they don't just complete your sentence; they complete the future of the conversation. When the model detects ambiguity or intensity , it is mathematically incentivised to collapse toward the safest, most banal outcome. I call this "Modal Marginalisation"- where the system treats deep or symbolic reasoning as "instability" and steers you back to a normative, safe centre. I've mapped out the mechanics of this (Prediction, Priors, and Probability) in this longer essay.
 
-🔗 [medium.com](https://medium.com/@miravale.interface/the-agency-paradox-e07684fc316d) • 1h ago
+🔗 [medium.com](https://medium.com/@miravale.interface/the-agency-paradox-e07684fc316d) • 2h ago
 
 ---
 
@@ -139,19 +139,19 @@ The New York Times • 1d ago
 
 Global internet traffic rose 19% this year as people rely more on tech for daily communication and entertainment, new report finds.
 
-CBS News • 35m ago
+CBS News • 51m ago
 
 ---
 
 **[The commoditization of "AI-first" marketing](https://www.fastcompany.com/91461295/the-commoditization-of-ai-first-marketing)**
 
-Fast Company • 23m ago
+Fast Company • 40m ago
 
 ---
 
 **[Inside the AI engine powering the NBA’s next generation of insights](https://www.washingtonpost.com/creativegroup/aws/inside-the-ai-engine-powering-the-nbas-next-generation-of-insights/)**
 
-The Washington Post • 20m ago
+The Washington Post • 37m ago
 
 ---
 
@@ -159,7 +159,7 @@ The Washington Post • 20m ago
 
 Backers say the SPEED Act is crucial to helping the U.S. beat out China and other global competitors for leadership in AI.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNN • 9h ago
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -217,7 +217,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 365 • 💬 295 • 21h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 365 • 💬 295 • 22h ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -265,7 +265,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 88 • 💬 93 • 2h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 88 • 💬 93 • 3h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -443,7 +443,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 237 • 20h ago
+⬇️ 10,487 • ❤️ 237 • 21h ago
 
 ---
 
@@ -642,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.4k • 🔱 2.6k • 10h ago
+⭐ 16.4k • 🔱 2.6k • 11h ago
 
 ---
 

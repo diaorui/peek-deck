@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T20:34:13.283386+00:00'
+updated: '2025-12-16T20:50:46.261442+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 20:34 UTC  
+**Last Updated:** December 16, 2025 at 20:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,948.01
+### $2,959.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
+**24h:** +0.6%  
 **7d:** -11.1%  
 **30d:** -2.6%  
 **90d:** -35.7%  
-**1y:** -24.2%  
+**1y:** -24.1%  
 
 ---
 
@@ -92,7 +92,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -226,7 +226,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 2K • 💬 59 • ⏱️ 7:49 • 8h ago
+👁️ 13K • 👍 2K • 💬 59 • ⏱️ 7:49 • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substanti
 
 📺 Paul Barron Network
 
-👁️ 4K • 👍 498 • 💬 127 • ⏱️ 29:25 • 3h ago
+👁️ 4K • 👍 498 • 💬 127 • ⏱️ 29:25 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 1K • 👍 122 • 💬 69 • ⏱️ 8:42 • 7h ago
+👁️ 1K • 👍 122 • 💬 69 • ⏱️ 8:42 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 49K • 👍 2K • 💬 116 • ⏱️ 13:11 • 23h ago
+👁️ 49K • 👍 2K • 💬 116 • ⏱️ 13:11 • 1d ago
 
 ---
 
@@ -286,7 +286,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 541 • 💬 75 • ⏱️ 18:30 • 16h ago
+👁️ 6K • 👍 541 • 💬 75 • ⏱️ 18:30 • 17h ago
 
 ---
 
