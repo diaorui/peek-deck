@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T19:35:34.199017+00:00'
+updated: '2025-12-16T19:46:57.393633+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 19:35 UTC  
+**Last Updated:** December 16, 2025 at 19:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -11.8%  
-**30d:** -3.2%  
-**90d:** -36.1%  
-**1y:** -24.6%  
+**24h:** +0.6%  
+**7d:** -11.3%  
+**30d:** -2.8%  
+**90d:** -35.8%  
+**1y:** -24.3%  
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
 
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 23h ago
+🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substanti
 
 📺 Paul Barron Network
 
-👁️ 4K • 👍 498 • 💬 127 • ⏱️ 29:25 • 2h ago
+👁️ 4K • 👍 498 • 💬 127 • ⏱️ 29:25 • 3h ago
 
 ---
 
@@ -246,7 +246,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 1K • 👍 122 • 💬 69 • ⏱️ 8:42 • 6h ago
+👁️ 1K • 👍 122 • 💬 69 • ⏱️ 8:42 • 7h ago
 
 ---
 

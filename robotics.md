@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T19:35:34.202240+00:00'
+updated: '2025-12-16T19:46:57.397323+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 19:35 UTC  
+**Last Updated:** December 16, 2025 at 19:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -182,7 +182,7 @@ South China Morning Post • 2d ago
 
 **[AMC Robotics Gets Retail Talking Following AlphaVest Merger – ‘Holding This Now Is Like Holding PLTR Few Years Ago’](https://stocktwits.com/news-articles/markets/equity/amc-robotics-gets-retail-talking-following-alpha-vest-merger/cLeJfj2REYs)**
 
-Stocktwits • 2h ago
+Stocktwits • 3h ago
 
 ---
 

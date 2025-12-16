@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T19:35:34.192979+00:00'
+updated: '2025-12-16T19:46:57.387591+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 19:35 UTC  
+**Last Updated:** December 16, 2025 at 19:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** -4.8%  
-**30d:** -5.1%  
+**24h:** +1.8%  
+**7d:** -4.7%  
+**30d:** -5.0%  
 **90d:** -25.1%  
-**1y:** -17.6%  
+**1y:** -17.5%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -135,7 +135,7 @@ Are you still buying?
 
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-57m ago
+1h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Block • 8h ago
 
 Bitwise CIO Matt Hougan said BTC is likely to hit all-time highs next year, with lower volatility and weaker equity correlations reshaping how institutions view the asset.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -265,7 +265,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 9h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 10h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin feels stalled. Prices are down, fear is up, and dopamine-chasing traders
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 618 • 💬 52 • ⏱️ 16:49 • 5h ago
+👁️ 7K • 👍 618 • 💬 52 • ⏱️ 16:49 • 6h ago
 
 ---
 
@@ -339,7 +339,7 @@ A major warning signal just flashed in Bitcoin — long-term holders are startin
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 399 • 💬 82 • ⏱️ 1:09:01 • 2h ago
+👁️ 4K • 👍 399 • 💬 82 • ⏱️ 1:09:01 • 3h ago
 
 ---
 
@@ -359,7 +359,7 @@ We have a classic case of the bear market blues :( Make sure you check out ITC p
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 4K • 💬 334 • ⏱️ 19:58 • 12h ago
+👁️ 61K • 👍 4K • 💬 334 • ⏱️ 19:58 • 13h ago
 
 ---
 
