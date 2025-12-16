@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-16T23:23:41.715379+00:00'
+updated: '2025-12-16T23:39:37.591795+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 23:23 UTC  
+**Last Updated:** December 16, 2025 at 23:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** -4.5%  
-**30d:** -4.8%  
-**90d:** -24.9%  
-**1y:** -17.3%  
+**24h:** +2.0%  
+**7d:** -4.8%  
+**30d:** -5.1%  
+**90d:** -25.1%  
+**1y:** -17.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[I miss the old bitcoin, straight from the GO Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pob13l/i_miss_the_old_bitcoin_straight_from_the_go/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
-5h ago
+6h ago
 
 ---
 
@@ -121,19 +121,19 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-4h ago
+5h ago
 
 ---
 
 **[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
 
-1h ago
+2h ago
 
 ---
 
 **[This is what buying Bitcoin looked like in 2011 - 1BTC = $3.5](https://www.reddit.com/r/Bitcoin/comments/1po8477/this_is_what_buying_bitcoin_looked_like_in_2011/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1h ago
 
 Crypto investment firm Bitwise believes Bitcoin will set a new all-time high price in 2026 and end the typical four-year cycle. Here's why.
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 54m ago
 
 ---
 
@@ -219,7 +219,7 @@ Barron's • 1d ago
 
 Michael Saylor’s Strategy now holds about $58 billion in Bitcoin. The treasury company’s CEO predicts massive Bitcoin buying in 2026. The firm’s stock price is down 63% from its July high.
 
-dlnews.com • 12h ago
+dlnews.com • 13h ago
 
 ---
 
@@ -277,7 +277,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
-⬆️ 2 • 💬 0 • 5d ago
+⬆️ 2 • 💬 0 • 6d ago
 
 ---
 
@@ -291,23 +291,13 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 ## YouTube Videos: "bitcoin"
 
-**[Inside the future of Bitcoin](https://www.youtube.com/watch?v=N7Z7tpwSlBg)**
-
-Strategy CEO Phong Le discusses what investors can look forward to in 2026 and analyzes where Bitcoin is headed on 'The ...
-
-📺 Fox Business
-
-👁️ 31K • 👍 599 • 💬 355 • ⏱️ 10:03 • 16h ago
-
----
-
 **[BREAKING: BITCOIN JUST DID THIS FOR FIRST TIME SINCE 2020 – THIS HAPPENED NEXT](https://www.youtube.com/watch?v=vzVpMNGR9oU)**
 
 INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://cryptocrewuniversity.com/sibmy ...
 
 📺 Crypto Crew University
 
-👁️ 24K • 👍 2K • 💬 139 • ⏱️ 8:22 • 9h ago
+👁️ 28K • 👍 2K • 💬 144 • ⏱️ 8:22 • 9h ago
 
 ---
 
@@ -317,7 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 238 • ⏱️ 46:12 • 7h ago
+👁️ 30K • 👍 1K • 💬 234 • ⏱️ 46:12 • 8h ago
 
 ---
 
@@ -327,17 +317,27 @@ Aura Stop leaving yourself vulnerable to data breaches. Go to my sponsor https:/
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 731 • 💬 63 • ⏱️ 16:49 • 9h ago
+👁️ 11K • 👍 812 • 💬 74 • ⏱️ 16:49 • 9h ago
 
 ---
 
-**[My Bitcoin and Crypto Portfolio Is Hurting...](https://www.youtube.com/watch?v=Eq7VK3EDdn4)**
+**[Inside the future of Bitcoin](https://www.youtube.com/watch?v=N7Z7tpwSlBg)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+Strategy CEO Phong Le discusses what investors can look forward to in 2026 and analyzes where Bitcoin is headed on 'The ...
 
-📺 CryptosRUs
+📺 Fox Business
 
-👁️ 29K • 👍 2K • 💬 583 • ⏱️ 8:04 • 21h ago
+👁️ 36K • 👍 629 • 💬 370 • ⏱️ 10:03 • 17h ago
+
+---
+
+**[Larry Fink Is RIGHT About Bitcoin](https://www.youtube.com/watch?v=BzVOxdaaCWU)**
+
+Anthony and John Pompliano break down what's really happening in the bitcoin market — why price has stalled, how volatility is ...
+
+📺 Anthony Pompliano
+
+👁️ 2K • 👍 227 • 💬 4 • ⏱️ 41:39 • 1h ago
 
 ---
 
@@ -347,17 +347,17 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 5K • 👍 320 • 💬 23 • ⏱️ 57:23 • 8h ago
+👁️ 6K • 👍 374 • 💬 23 • ⏱️ 57:23 • 8h ago
 
 ---
 
-**[Why Did Bitcoin CRASH? What Comes Next For Bitcoin?](https://www.youtube.com/watch?v=NC-_0etZPdI)**
+**[$5.9 TRILLION Firm Says Bitcoin’s NEXT Supercycle Starts in 2026… | EP 1399](https://www.youtube.com/watch?v=qOYXE9k9YKo)**
 
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
+Huge asset manager says we might be on the verge of a 10 year bitcoin bull market?
 
-📺 Crypto Jebb
+📺 Simply Bitcoin
 
-👁️ 1K • 👍 131 • 💬 49 • ⏱️ 8:15 • 4h ago
+👁️ 4K • 👍 294 • 💬 16 • ⏱️ 1:31:08 • 4h ago
 
 ---
 
@@ -367,27 +367,27 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 47 • ⏱️ 7:49 • 11h ago
+👁️ 16K • 👍 2K • 💬 56 • ⏱️ 7:49 • 11h ago
 
 ---
 
-**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
+**[My Bitcoin and Crypto Portfolio Is Hurting...](https://www.youtube.com/watch?v=Eq7VK3EDdn4)**
 
-THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 59K • 👍 3K • 💬 237 • ⏱️ 12:16 • 23h ago
+👁️ 29K • 👍 2K • 💬 487 • ⏱️ 8:04 • 22h ago
 
 ---
 
-**[🚨 WARNING: Bitcoin Holders Are SELLING! (Was That The Top?)](https://www.youtube.com/watch?v=RSQV9sLeY5o)**
+**[LOST FAITH IN THE CRYPTO CYCLE? WATCH THIS | Raoul Pal at Solana Breakpoint | The Everything Code](https://www.youtube.com/watch?v=W_BD_FGaE2Y)**
 
-A major warning signal just flashed in Bitcoin — long-term holders are starting to SELL. Historically, when this happens, the ...
+Download Raoul Pal's 5-year investing roadmap for free:* https://rvtv.io/41fVHWF Unlock the potential to showcase your brand to ...
 
-📺 Discover Crypto
+📺 Raoul Pal The Journey Man
 
-👁️ 5K • 👍 430 • 💬 9 • ⏱️ 1:09:01 • 6h ago
+👁️ 4K • 👍 260 • 💬 10 • ⏱️ 1:52 • 1h ago
 
 ---
 

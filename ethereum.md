@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T23:23:41.721517+00:00'
+updated: '2025-12-16T23:39:37.597809+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 23:23 UTC  
+**Last Updated:** December 16, 2025 at 23:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,955.67
+### $2,957.03
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -11.0%  
-**30d:** -2.4%  
-**90d:** -35.6%  
-**1y:** -24.0%  
+**24h:** +0.4%  
+**7d:** -11.1%  
+**30d:** -2.6%  
+**90d:** -35.7%  
+**1y:** -24.1%  
 
 ---
 
@@ -166,7 +166,7 @@ Decrypt • 8h ago
 
 Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -220,23 +220,13 @@ TipRanks • 7h ago
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
-
-These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! AI Trading Club: ...
-
-📺 Thomas Kralow
-
-👁️ 15K • 👍 2K • 💬 47 • ⏱️ 7:49 • 11h ago
-
----
-
 **[Gold vs Tokenized Gold on Ethereum🔥Peter Schiff INTERVIEW](https://www.youtube.com/watch?v=Yg1qDTzcZ28)**
 
 Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substantial gains in gold and silver. At Binance Blockchain ...
 
 📺 Paul Barron Network
 
-👁️ 10K • 👍 665 • 💬 155 • ⏱️ 29:25 • 6h ago
+👁️ 13K • 👍 756 • 💬 159 • ⏱️ 29:25 • 7h ago
 
 ---
 
@@ -246,27 +236,17 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 50K • 👍 2K • 💬 120 • ⏱️ 13:11 • 1d ago
+👁️ 51K • 👍 2K • 💬 120 • ⏱️ 13:11 • 1d ago
 
 ---
 
-**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
+**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
 
-THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
+These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! AI Trading Club: ...
 
-📺 Altcoin Daily
+📺 Thomas Kralow
 
-👁️ 59K • 👍 3K • 💬 237 • ⏱️ 12:16 • 23h ago
-
----
-
-**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
-
-WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
-
-📺 Digital Asset News
-
-👁️ 18K • 👍 824 • 💬 87 • ⏱️ 40:28 • 1d ago
+👁️ 16K • 👍 2K • 💬 56 • ⏱️ 7:49 • 11h ago
 
 ---
 
@@ -276,37 +256,17 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 166 • 💬 18 • ⏱️ 6:53 • 23h ago
+👁️ 4K • 👍 167 • 💬 18 • ⏱️ 6:53 • 23h ago
 
 ---
 
-**[JPMORGAN BANK TOKENIZES ON ETHEREUM! BITCOIN PULLSBACK &amp; CRYPTO MARKET STRUCTURE DELAYED!](https://www.youtube.com/watch?v=VXwSUsqLNr8)**
+**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
 
-Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market Fund on Ethereum. The senate markup on ...
+THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
 
-📺 Thinking Crypto
+📺 Altcoin Daily
 
-👁️ 7K • 👍 552 • 💬 74 • ⏱️ 18:30 • 19h ago
-
----
-
-**[Ethereum ETH Price Prediction: HIGHER](https://www.youtube.com/watch?v=mgBtqfTK41M)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 160 • 👍 19 • 💬 20 • ⏱️ 8:32 • 5h ago
-
----
-
-**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
-
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
-
-📺 Crypto With James
-
-👁️ 3K • 👍 239 • 💬 97 • ⏱️ 10:03 • 1d ago
+👁️ 61K • 👍 3K • 💬 237 • ⏱️ 12:16 • 23h ago
 
 ---
 
@@ -316,7 +276,47 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 2K • 👍 138 • 💬 44 • ⏱️ 8:42 • 10h ago
+👁️ 2K • 👍 143 • 💬 27 • ⏱️ 8:42 • 10h ago
+
+---
+
+**[JPMORGAN BANK TOKENIZES ON ETHEREUM! BITCOIN PULLSBACK &amp; CRYPTO MARKET STRUCTURE DELAYED!](https://www.youtube.com/watch?v=VXwSUsqLNr8)**
+
+Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market Fund on Ethereum. The senate markup on ...
+
+📺 Thinking Crypto
+
+👁️ 7K • 👍 558 • 💬 91 • ⏱️ 18:30 • 19h ago
+
+---
+
+**[Ethereum ETH Price Prediction: HIGHER](https://www.youtube.com/watch?v=mgBtqfTK41M)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 228 • 👍 24 • 💬 14 • ⏱️ 8:32 • 5h ago
+
+---
+
+**[Bitcoin Dropping. Here&#39;s WHY. J.P. Morgan &amp; Ethereum Makes Sense.](https://www.youtube.com/watch?v=gL9obiboC58)**
+
+WHat a day for bitcoin and the markets at large. Bitcoin is dropping and potential reasons are Miner Capitulation with Chinese ...
+
+📺 Digital Asset News
+
+👁️ 18K • 👍 825 • 💬 87 • ⏱️ 40:28 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=g5zFM6YQLYI)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 177 • 💬 4 • ⏱️ 8:04 • 1d ago
 
 ---
 

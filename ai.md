@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-16T23:23:41.706725+00:00'
+updated: '2025-12-16T23:39:37.583223+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - repositories
-- news
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 16, 2025 at 23:23 UTC  
+**Last Updated:** December 16, 2025 at 23:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 7h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 8h ago
 
 ---
 
@@ -97,7 +97,7 @@ We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built f
 
 Anthony Enzor-DeMeo is taking charge of one of the internet’s most important — and most complicated — companies.
 
-🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 52m ago
+🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ IGN • 5h ago
 
 'We are neither releasing a game with any AI components, nor are we looking at trimming down teams to replace them with AI'
 
-Polygon • 48m ago
+Polygon • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Polygon • 48m ago
 
 The new Divinity game will have no AI-generated content in it, however.
 
-GameSpot • 2h ago
+GameSpot • 3h ago
 
 ---
 
@@ -283,27 +283,17 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 38K • 👍 732 • 💬 131 • ⏱️ 11:23 • 23h ago
+👁️ 41K • 👍 769 • 💬 119 • ⏱️ 11:23 • 23h ago
 
 ---
 
-**[900 Days Left – AI Is Coming for Capitalism](https://www.youtube.com/watch?v=A8mj1Ngz2JI)**
+**[A.I. Slop - Beyond the Black Void](https://www.youtube.com/watch?v=IPitD1eYLiM)**
 
-Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bilyeu tackles one of the most urgent questions of ...
+The fellas at Red Letter Media like to talk about not just movies, but current trends as well. And there's nothing more distressing as ...
 
-📺 Tom Bilyeu
+📺 RedLetterMedia
 
-👁️ 61K • 👍 2K • 💬 694 • ⏱️ 23:28 • 1d ago
-
----
-
-**[I Quit an AI Startup After 6 Months - Here&#39;s What I learned](https://www.youtube.com/watch?v=oOvl_htqhy8)**
-
-The AI bubble is showing signs of popping and the tech industry is waking up from a long night of partying. We were told to “do ...
-
-📺 Brian Jenney
-
-👁️ 56K • 👍 3K • 💬 676 • ⏱️ 15:40 • 23h ago
+👁️ 243K • 👍 21K • 💬 4K • ⏱️ 59:17 • 7h ago
 
 ---
 
@@ -317,23 +307,13 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 ---
 
-**[YouTube&#39;s AI is Being INVESTIGATED!](https://www.youtube.com/watch?v=YuK9E4soiFo)**
+**[900 Days Left – AI Is Coming for Capitalism](https://www.youtube.com/watch?v=A8mj1Ngz2JI)**
 
-YouTube's AI moderation has landed them in hot water, and now they are being investigated by the European Commission for ...
+Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bilyeu tackles one of the most urgent questions of ...
 
-📺 Deep Humor
+📺 Tom Bilyeu
 
-👁️ 40K • 👍 3K • 💬 681 • ⏱️ 8:36 • 2d ago
-
----
-
-**[The Most Powerful AI Shift Is Happening Without Anyone Noticing](https://www.youtube.com/watch?v=EjQpzEeiL3k)**
-
-Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPTERS ⤵ 00:00 – Keep It Curious 04:03 – Disney ...
-
-📺 Dylan Curious
-
-👁️ 8K • 👍 482 • 💬 88 • ⏱️ 30:05 • 1d ago
+👁️ 62K • 👍 2K • 💬 700 • ⏱️ 23:28 • 1d ago
 
 ---
 
@@ -343,17 +323,17 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 171K • 👍 6K • 💬 930 • ⏱️ 20:44 • 1d ago
+👁️ 177K • 👍 6K • 💬 961 • ⏱️ 20:44 • 1d ago
 
 ---
 
-**[A.I. Slop - Beyond the Black Void](https://www.youtube.com/watch?v=IPitD1eYLiM)**
+**[Bessent delivers urgent message to American workers: ‘Become an AI native’](https://www.youtube.com/watch?v=ni6hJXyJA0M)**
 
-The fellas at Red Letter Media like to talk about not just movies, but current trends as well. And there's nothing more distressing as ...
+U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the record tax refunds coming to Americans, detail the ...
 
-📺 RedLetterMedia
+📺 Fox Business
 
-👁️ 172K • 👍 17K • 💬 3K • ⏱️ 59:17 • 7h ago
+👁️ 93K • 👍 2K • 💬 568 • ⏱️ 14:37 • 8h ago
 
 ---
 
@@ -361,17 +341,37 @@ The fellas at Red Letter Media like to talk about not just movies, but current t
 
 📺 Maggie McGaugh
 
-👁️ 229K • 👍 11K • 💬 155 • ⏱️ 1:16 • 1d ago
+👁️ 238K • 👍 12K • 💬 156 • ⏱️ 1:16 • 1d ago
 
 ---
 
-**[AI ads?NY says disclose it. 🚨 #shorts](https://www.youtube.com/watch?v=0HTvQBf2suI)**
+**[The Most Powerful AI Shift Is Happening Without Anyone Noticing](https://www.youtube.com/watch?v=EjQpzEeiL3k)**
 
-New York has become one of the first states to take major action against deceptive AI in media.A new law now requires ...
+Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPTERS ⤵ 00:00 – Keep It Curious 04:03 – Disney ...
 
-📺 PURE Girl
+📺 Dylan Curious
 
-👁️ 80K • 👍 828 • 💬 79 • ⏱️ 0:05 • 21h ago
+👁️ 9K • 👍 493 • 💬 88 • ⏱️ 30:05 • 1d ago
+
+---
+
+**[I Quit an AI Startup After 6 Months - Here&#39;s What I learned](https://www.youtube.com/watch?v=oOvl_htqhy8)**
+
+The AI bubble is showing signs of popping and the tech industry is waking up from a long night of partying. We were told to “do ...
+
+📺 Brian Jenney
+
+👁️ 60K • 👍 3K • 💬 674 • ⏱️ 15:40 • 1d ago
+
+---
+
+**[Ranking SORA AI Disney Trailers💀](https://www.youtube.com/watch?v=H6B0lcYnx7E)**
+
+Ranking SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme #aimemes ...
+
+📺 Bigfoot Feed
+
+👁️ 339 • 👍 7 • 💬 5 • ⏱️ 0:54 • 13m ago
 
 ---
 
@@ -547,7 +547,7 @@ PersonaLive is a diffusion-based framework for real-time portrait animation that
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 26 • 💬 2 • ⭐ 12,592 • 8d ago
+▲ 27 • 💬 2 • ⭐ 12,592 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -644,7 +644,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.4k • 🔱 2.6k • 13h ago
+⭐ 16.4k • 🔱 2.6k • 14h ago
 
 ---
 
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 3.9k • 🔱 418 • 9h ago
+⭐ 3.9k • 🔱 419 • 9h ago
 
 ---
 
@@ -724,7 +724,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 759 • 🔱 110 • 1d ago
+⭐ 761 • 🔱 110 • 1d ago
 
 ---
 
@@ -734,7 +734,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 753 • 🔱 117 • 17h ago
+⭐ 756 • 🔱 117 • 17h ago
 
 ---
 

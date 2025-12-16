@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T23:23:41.724831+00:00'
+updated: '2025-12-16T23:39:37.601056+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 23:23 UTC  
+**Last Updated:** December 16, 2025 at 23:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-12h ago
+13h ago
 
 ---
 
@@ -72,7 +72,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ I just ordered all of the parts and finished 3D printing all of the components. 
 
 We spend a lot of time debating AGI and the "Left Shift" in software. But as this video proves, the "Physical Shift" is a much harder engineering problem. This is a perfect example of Moravec’s Paradox: High-level reasoning (coding, writing, math) requires surprisingly little computation. Low-level motor skills (walking, balance, not face-planting) require massive computational power. The Economic Reality Check: While our digital agents are getting smarter by the week, the "Core Economy"—construction, logistics, and elder care—is still bound by physics. We aren't just waiting for better software; we are waiting for better actuators, batteries, and sensor fusion. The Verdict: The "Terminator" future is on hold... at least until the next firmware update. For now, enjoy the bloopers. Robotics #AI #MoravecsParadox #FutureOfWork #Engineering LinkedIn
 
-🔗 [linkedin.com](https://www.linkedin.com/posts/procoder_robotics-ai-moravecsparadox-activity-7406588876745744384-ZeJp?utm_source=share&utm_medium=member_android&rcm=ACoAAABvw7ABTak_BnRFmTE0cY0j_nROJbWBXPU) • 9m ago
+🔗 [linkedin.com](https://www.linkedin.com/posts/procoder_robotics-ai-moravecsparadox-activity-7406588876745744384-ZeJp?utm_source=share&utm_medium=member_android&rcm=ACoAAABvw7ABTak_BnRFmTE0cY0j_nROJbWBXPU) • 25m ago
 
 ---
 
@@ -196,7 +196,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 38K • 👍 732 • 💬 131 • ⏱️ 11:23 • 23h ago
+👁️ 41K • 👍 769 • 💬 119 • ⏱️ 11:23 • 23h ago
 
 ---
 
@@ -206,7 +206,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 26K • 👍 661 • 💬 102 • ⏱️ 6:41 • 2d ago
+👁️ 26K • 👍 668 • 💬 107 • ⏱️ 6:41 • 2d ago
 
 ---
 
@@ -216,15 +216,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 7K • 👍 1K • 💬 33 • ⏱️ 1:38 • 7h ago
-
----
-
-**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
-
-📺 AI . Robot
-
-👁️ 367K • 👍 3K • 💬 31 • ⏱️ 0:21 • 2d ago
+👁️ 9K • 👍 1K • 💬 36 • ⏱️ 1:38 • 7h ago
 
 ---
 
@@ -234,57 +226,65 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 327K • 👍 11K • 💬 357 • ⏱️ 0:34 • 2d ago
+👁️ 332K • 👍 11K • 💬 361 • ⏱️ 0:34 • 2d ago
 
 ---
 
-**[A Chinese #tech firm just unveiled a humanoid #robot strong enough to knock down its own CEO. #AI](https://www.youtube.com/watch?v=9V0Uvxp_oXk)**
+**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
 
-Business Insider tells you all you need to know about business, finance, tech, retail, and more. Visit our homepage for the top ...
+📺 AI . Robot
 
-📺 Business Insider
-
-👁️ 141K • 👍 721 • 💬 152 • ⏱️ 1:10 • 7d ago
+👁️ 375K • 👍 3K • 💬 33 • ⏱️ 0:21 • 2d ago
 
 ---
 
-**[Testing the Latest Girlfriend Robot My Eye Can&#39;t Believe This #robotics #tech #AI](https://www.youtube.com/watch?v=8BM43krXJXw)**
+**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
 
-Discover the latest girlfriend robot in this eye-opening tech expo experience! Explore advanced AI and robotics designed to ...
+We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
 
-📺 Ricey Rice
+📺 CNET
 
-👁️ 261K • 👍 861 • 💬 11 • ⏱️ 0:06 • 1d ago
-
----
-
-**[Lady Soldier Saves Grandma From Robotic Bull 😭 #ai #save #army](https://www.youtube.com/watch?v=ESiUIsHMCPE)**
-
-Lady Soldier Saves Grandma From Robotic Bull #ai #save #army.
-
-📺 Anime world 
-
-👁️ 37K • 👍 295 • 💬 2 • ⏱️ 0:24 • 1d ago
+👁️ 27K • 👍 279 • 💬 28 • ⏱️ 1:05 • 1d ago
 
 ---
 
-**[Boy Pressed Test Mode Button...Robot went Crazy 🤖😳 #ai #robot #cat](https://www.youtube.com/watch?v=hRf4HyPmFtA)**
+**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
 
-Boy Pressed Test Mode Button...Robot went Crazy #ai #robot #cat.
+I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
 
-📺 Ai Animation World
+📺 Kyle Krueger
 
-👁️ 99K • 💬 5 • ⏱️ 0:37 • 2d ago
+👁️ 5.5M • 👍 172K • 💬 3K • ⏱️ 0:51 • 6d ago
 
 ---
 
-**[AI Robot Harvesting Grapes in the Vineyard 🍇🤖](https://www.youtube.com/watch?v=o0EILTw-1hs)**
+**[Insane Parking Flipper by 10255 RoboDux](https://www.youtube.com/watch?v=xurehBdnrdg)**
 
-Experience the future of agriculture! In this video, an AI-powered farming robot assists a farmer by harvesting grapes with ...
+Behind the Bot full explanation: https://youtu.be/OcYtVLsyUpI This video is supported by @StudicaRobotics. Studica structure is ...
 
-📺 𝗦𝗺𝗮𝗿𝘁 𝗙𝗮𝗿𝗺𝗶𝗻𝗴 𝗧𝗲𝗰𝗵
+📺 FUN Robotics Network
 
-👁️ 385K • 👍 393 • ⏱️ 0:08 • 14h ago
+👁️ 1K • 👍 33 • 💬 4 • ⏱️ 0:15 • 1h ago
+
+---
+
+**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+
+In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+
+📺 Google DeepMind
+
+👁️ 289K • 👍 8K • 💬 588 • ⏱️ 17:44 • 6d ago
+
+---
+
+**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+
+📺 Associated Press
+
+👁️ 28K • 👍 105 • 💬 43 • ⏱️ 1:26 • 4d ago
 
 ---
 
