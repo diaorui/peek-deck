@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T15:00:42.300393+00:00'
+updated: '2025-12-17T15:35:04.173637+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 15:00 UTC  
+**Last Updated:** December 17, 2025 at 15:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,799.33
+### $89,735.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** -3.0%  
-**30d:** -3.3%  
+**24h:** +2.1%  
+**7d:** -3.1%  
+**30d:** -3.5%  
 **90d:** -22.4%  
 **1y:** -10.8%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1785.04B
+**Market Cap:** $1793.55B
 Rank #1
 
-**Circulating Supply:** 19,963,337 BTC
+**Circulating Supply:** 19,963,362 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-28.7%
 
 **All-Time Low:** $67.81
-+131864.3%
++132442.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -91,7 +91,15 @@ Rank #1
 
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-10h ago
+11h ago
+
+---
+
+**[Back to 90k](https://www.reddit.com/r/Bitcoin/comments/1poyvvu/back_to_90k/)**
+
+Back to 90k.
+
+26m ago
 
 ---
 
@@ -99,7 +107,15 @@ Rank #1
 
 Just keep hodling and don't trust the news
 
-4h ago
+5h ago
+
+---
+
+**[Your Choice?](https://www.reddit.com/r/Bitcoin/comments/1poyk0f/your_choice/)**
+
+Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
+
+39m ago
 
 ---
 
@@ -131,59 +147,21 @@ They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth ann
 
 ---
 
-**[For those who yell manipulation all the time](https://www.reddit.com/r/Bitcoin/comments/1poqqb0/for_those_who_yell_manipulation_all_the_time/)**
-
-You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
-
-7h ago
-
----
-
-**[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
-
-17h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Crypto Markets Today: Bitcoin extends downtrend as risk appetite remains muted](https://www.coindesk.com/markets/2025/12/17/crypto-markets-today-bitcoin-drifts-lower-as-bearish-trend-persists)**
+**[Bitcoin Price (BTC) news: Early U.S. surge above $90,000](https://www.coindesk.com/markets/2025/12/17/bitcoin-re-takes-usd90-000-as-price-spikes-early-in-u-s-session)**
 
-Bitcoin slipped overnight, dragging the broader crypto market lower as traders remained cautious with few external cues to provide direction.
+Surging metals prices and dovish comments from leading Fed chair contender Chris Waller were among the news items possibly boosting crypto prices.
 
-CoinDesk • 3h ago
-
----
-
-**[Bhutan Pledges Up to 10,000 Bitcoin to Build New Mega-City](https://bitcoinmagazine.com/featured/bhutan-10000-bitcoin-to-build-mega-city)**
-
-Bhutan is pledging up to 10,000 bitcoin for its Gelephu Mindfulness City, that's nearly $1 billion at current prices.
-
-Bitcoin Magazine • 13m ago
+CoinDesk • 15m ago
 
 ---
 
 **[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
 
-The Block • 3h ago
-
----
-
-**[Bitcoin (BTC) treasury company news: ABTC brings holdings to 5,098 coins](https://www.coindesk.com/markets/2025/12/16/eric-trump-s-american-bitcoin-jumps-to-20th-among-public-btc-treasury-companies)**
-
-After its latest purchase, the company now holds 5,098 bitcoin worth nearly $450 million
-
-CoinDesk • 21h ago
-
----
-
-**[Speed Raises $8 Million to Expand Bitcoin and Stablecoin Payment Solutions](https://www.pymnts.com/news/fintech-investments/2025/speed-raises-8-million-dollars-expand-bitcoin-stablecoin-payment-solutions/)**
-
-Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
-
-PYMNTS.com • 17h ago
+The Block • 4h ago
 
 ---
 
@@ -195,11 +173,27 @@ Financial Times • 2d ago
 
 ---
 
-**[Serious 2026 $3 Trillion Crypto ‘Collapse’ Fed Warning Issued—$10,000 Bitcoin Price Predicted As Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2025/12/16/serious-2026-3-trillion-crypto-collapse-fed-warning-issued-10000-bitcoin-price-predicted-as-crash-fears-swirl/)**
+**[Speed Raises $8 Million to Expand Bitcoin and Stablecoin Payment Solutions](https://www.pymnts.com/news/fintech-investments/2025/speed-raises-8-million-dollars-expand-bitcoin-stablecoin-payment-solutions/)**
 
-The bitcoin price could be teetering on the verge of a massive crash that could wipe out almost all cryptocurrencies...
+Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
 
-Forbes • 1d ago
+PYMNTS.com • 18h ago
+
+---
+
+**[Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City](https://decrypt.co/352685/bhutan-pledges-10000-bitcoin-worth-1b-fund-mindfulness-city)**
+
+The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
+
+Decrypt • 8h ago
+
+---
+
+**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
+
+US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
+
+CryptoSlate • 5h ago
 
 ---
 
@@ -213,7 +207,7 @@ thestreet.com • 17h ago
 
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -221,7 +215,15 @@ Yahoo Finance • 16h ago
 
 Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
 
-TradingView — Track All Markets • 18h ago
+TradingView — Track All Markets • 19h ago
+
+---
+
+**[Scams involving Bitcoin ATMs on the rise, Mississippi secretary of state says](https://www.wapt.com/article/bitcoin-atm-scams-mississippi/69796967)**
+
+Mississippi Secretary of State Michael Watson has a warning for Mississippians.
+
+WAPT • 1h ago
 
 ---
 
@@ -277,7 +279,7 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 23h ago
+⬆️ 11 • 💬 3 • 1d ago
 
 ---
 
@@ -291,17 +293,27 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 209 • ⏱️ 9:01 • 16h ago
+👁️ 47K • 👍 3K • 💬 221 • ⏱️ 9:01 • 16h ago
 
 ---
 
-**[Bitcoin Support On Thin Ice As RSI Crashes Below 30… But It May Not Matter](https://www.youtube.com/watch?v=oYr5Ic58Qfs)**
+**[PAY ATTENTION: Bitcoin SET To DUMP On December 19th?](https://www.youtube.com/watch?v=kNCOJj4WUiA)**
 
-In this clip, I talk about the current state of bitcoin as RSI crashes to rare levels. **Exchange Partners** Bitunix Exchange ...
+Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopolitical tensions and monetary risks converge.
 
-📺 CryptosRus Extra
+📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 323 • 💬 128 • ⏱️ 10:50 • 14h ago
+👁️ 3K • 👍 335 • 💬 62 • ⏱️ 46:53 • 28m ago
+
+---
+
+**[Bitcoin This Is Very Weird](https://www.youtube.com/watch?v=B1bqYbqfV3c)**
+
+BTC, SOL, ETH, bear market, and stocks! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
+
+📺 Lark Davis
+
+👁️ 7K • 👍 527 • 💬 31 • ⏱️ 57:30 • 3h ago
 
 ---
 
@@ -311,27 +323,17 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 10K • 👍 900 • 💬 70 • ⏱️ 38:13 • 5h ago
+👁️ 13K • 👍 1K • 💬 79 • ⏱️ 38:13 • 6h ago
 
 ---
 
-**[THIS BITCOIN MOVE WILL TRICK YOU (BE SMARTER...)](https://www.youtube.com/watch?v=J6OQMQ1-kXs)**
+**[Bitcoin Support On Thin Ice As RSI Crashes Below 30… But It May Not Matter](https://www.youtube.com/watch?v=oYr5Ic58Qfs)**
 
-Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
+In this clip, I talk about the current state of bitcoin as RSI crashes to rare levels. **Exchange Partners** Bitunix Exchange ...
 
-📺 100XClub
+📺 CryptosRus Extra
 
-👁️ 4K • 👍 603 • 💬 116 • ⏱️ 10:23 • 6h ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=Y1VPxyUvepk)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 Brissa Pabón 
-
-👁️ 3K • 👍 4K • 3h ago
+👁️ 7K • 👍 325 • 💬 128 • ⏱️ 10:50 • 15h ago
 
 ---
 
@@ -341,7 +343,27 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 163 • ⏱️ 13:25 • 16h ago
+👁️ 29K • 👍 2K • 💬 171 • ⏱️ 13:25 • 16h ago
+
+---
+
+**[Bitcoin Live Trading: Everyone’s Waiting! Watch This Next Move! EP1857](https://www.youtube.com/watch?v=IVAJ4rIn1lM)**
+
+Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
+
+📺 Crypto Lifer
+
+👁️ 2K • 👍 239 • 1h ago
+
+---
+
+**[BITCOIN LIVE TRADING AND ANALYSIS! (Moves Detected)](https://www.youtube.com/watch?v=4mgLcNy93GU)**
+
+Affiliate Links: (We May Earn Commission) Blofin: https://blofin.com/invite/Bitcoinsensus (Up to $1000 Deposit Bonus) MY ...
+
+📺 Andy Bitcoinsensus
+
+👁️ 2K • 👍 153 • 1h ago
 
 ---
 
@@ -351,7 +373,7 @@ Anthony and John Pompliano break down what's really happening in the bitcoin mar
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 765 • 💬 4 • ⏱️ 41:39 • 17h ago
+👁️ 18K • 👍 809 • 💬 33 • ⏱️ 41:39 • 17h ago
 
 ---
 
@@ -361,27 +383,7 @@ My Preferred Exchange BYBIT https://partner.bybit.com/b/Didi NON-KYC Exchange: .
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 7K • 👍 620 • 💬 114 • ⏱️ 19:30 • 11h ago
-
----
-
-**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
-
-These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! Private livestream for ...
-
-📺 Thomas Kralow
-
-👁️ 19K • 👍 3K • 💬 34 • ⏱️ 7:49 • 1d ago
-
----
-
-**[This Macro Expert Thinks Bitcoin Is Going Lower in 2026...](https://www.youtube.com/watch?v=MWTIdtr2GXU)**
-
-Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned bearish, selling most of his Bitcoin around ...
-
-📺 Swan Bitcoin
-
-👁️ 37K • 👍 2K • 💬 253 • ⏱️ 18:36 • 16h ago
+👁️ 8K • 👍 663 • 💬 117 • ⏱️ 19:30 • 11h ago
 
 ---
 

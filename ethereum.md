@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T15:00:42.306947+00:00'
+updated: '2025-12-17T15:35:04.179784+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 15:00 UTC  
+**Last Updated:** December 17, 2025 at 15:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,925.22
+### $3,017.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** -7.3%  
-**30d:** -4.0%  
-**90d:** -32.9%  
-**1y:** -17.3%  
+**24h:** +2.3%  
+**7d:** -7.0%  
+**30d:** -3.7%  
+**90d:** -32.7%  
+**1y:** -17.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.48B
+**Market Cap:** $363.59B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.2%
 
 **All-Time Low:** $0.43
-+688282.1%
++694813.6%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
+
+---
+
+**[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
+
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 26m ago
 
 ---
 
@@ -86,7 +92,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The cryptocurrency industry is undergoing a fundamental structural shift, moving away from fragmented protocols toward a unified "Aggregatio...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 7h ago
+🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 8h ago
+
+---
+
+**[Ethereum mixers - current situation?](https://www.reddit.com/r/ethereum/comments/1poyrzj/ethereum_mixers_current_situation/)**
+
+What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
+
+30m ago
 
 ---
 
@@ -124,23 +138,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 idk man. the speed, the fees, the ux... solana teams and tools built on top of it and that support are shipping faster, like one-click leverage, instant swaps, sub-penny transactions. meanwhile eth still has gas drama and L2 fragmentation. but maybe im too deep in the solana ecosystem and cant see clearly anymore. what am i missing here?
 
-12h ago
-
----
-
-**[Daily General Discussion December 15, 2025](https://www.reddit.com/r/ethereum/comments/1pn03v7/daily_general_discussion_december_15_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
-**[Echidna 2.3 released with symbolic execution capabilities, Foundry reproducer integration and revamped coverage reports!](https://www.reddit.com/r/ethereum/comments/1pnh16m/echidna_23_released_with_symbolic_execution/)**
-
-Echidna 2.3.0 introduces symbolic execution capabilities to complement traditional fuzzing workflows. This update adds two verification modes that combine fuzzing with formal verification technique...
-
-🔗 [GitHub](https://github.com/crytic/echidna/releases/tag/v2.3.0) • 1d ago
+13h ago
 
 ---
 
@@ -148,7 +146,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe2-ZDVNKVEMVi--DWGbH1JD2Oqj7RhwxC0CLYDTqvM9s3i0FyO4TYI&gaa_ts=6942c908&gaa_sig=JulFvwlvCJWdH3e3T-JZM98NYNBYi11r8fL6eYS7TtyqMp41A0YgwNXH6hfOc4QU7OMhNxROx9RlonaKxdW1VA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe0XN-qkLCfXo9SvlIMXN4NLmp-W6TmjByaHwZZfqsMn4Au0ty7ztM5&gaa_ts=6942d10f&gaa_sig=4F_8fpSChSmyEgoXqQqJpj-4EEM39NIhD1QEHd4YEn_vcvPQmmYA_DS-k09m_GKc0SV9K3OZizlYB2BgEiThig%3D%3D)**
 
 Barron's • 17h ago
 
@@ -178,14 +176,6 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
-
-Is Ethereum really on the path to a price of $62,000 next year?
-
-The Motley Fool • 3h ago
-
----
-
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
 The Block • 2d ago
@@ -198,11 +188,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Tokenization News: $4T Bank JPMorgan Launches Onchain Fund on Ethereum](https://www.coindesk.com/business/2025/12/15/jpmorgan-launches-tokenized-money-market-fund-on-ethereum-as-wall-street-moves-onchain-report)**
+**[JPMorgan Bets on Ethereum With Tokenized Money Fund Launch — Is Tom Lee’s $20K Price Prediction More Likely Now?](https://finance.yahoo.com/news/jpmorgan-bets-ethereum-tokenized-money-131715297.html)**
 
-The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.
+The amount of Bitcoin needed to retire varies widely by location. The independent researcher provided a bullish outlook for Bitcoin. Market outlook remains divided. JPMorgan ...
 
-CoinDesk • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -216,7 +206,15 @@ Yahoo Finance • 1d ago
 
 **[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-CCN.com • 23h ago
+CCN.com • 1d ago
+
+---
+
+**[Cathie Wood's Ark Invest Buys the Dip on Coinbase, Circle and Tom Lee’s Ethereum Giant BitMine](https://decrypt.co/352571/cathie-woods-ark-invest-buys-dip-coinbase-circle-tom-lee-ethereum-bitmine)**
+
+The actively managed ETFs of Cathie Wood's Ark Invest loaded up on crypto-related equities like Coinbase, BitMine, and Circle as prices sagged Monday.
+
+Decrypt • 20h ago
 
 ---
 
@@ -230,17 +228,7 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 5K • 👍 303 • 💬 50 • ⏱️ 11:01 • 14h ago
-
----
-
-**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
-
-THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
-
-📺 Altcoin Daily
-
-👁️ 64K • 👍 3K • 💬 243 • ⏱️ 12:16 • 1d ago
+👁️ 5K • 👍 315 • 💬 53 • ⏱️ 11:01 • 15h ago
 
 ---
 
@@ -250,7 +238,17 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 3K • 💬 34 • ⏱️ 7:49 • 1d ago
+👁️ 20K • 👍 3K • 💬 34 • ⏱️ 7:49 • 1d ago
+
+---
+
+**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
+
+THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
+
+📺 Altcoin Daily
+
+👁️ 64K • 👍 3K • 💬 244 • ⏱️ 12:16 • 1d ago
 
 ---
 
@@ -260,15 +258,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 166 • 💬 37 • ⏱️ 8:42 • 1d ago
-
----
-
-**[Ethereum is crashing. Bitmine buys another $300 Million. What if they stop buying? #crypto #ethereum](https://www.youtube.com/watch?v=d1qGTK0tals)**
-
-📺 Nick Ford
-
-👁️ 294 • 👍 1 • ⏱️ 1:54 • 9h ago
+👁️ 3K • 👍 170 • 💬 38 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -278,7 +268,45 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 4K • 👍 248 • 💬 80 • ⏱️ 10:03 • 1d ago
+👁️ 4K • 👍 250 • 💬 79 • ⏱️ 10:03 • 1d ago
+
+---
+
+**[Ethereum is crashing. Bitmine buys another $300 Million. What if they stop buying? #crypto #ethereum](https://www.youtube.com/watch?v=d1qGTK0tals)**
+
+📺 Nick Ford
+
+👁️ 405 • 👍 3 • ⏱️ 1:54 • 9h ago
+
+---
+
+**[&quot;The 23-Hour Stock Market: What It Means for Ethereum &amp; BMNR&quot;](https://www.youtube.com/watch?v=zPbSe5ddR8M)**
+
+The line between the stock market and crypto is vanishing. Nasdaq has officially filed a proposal to extend trading hours to 23 ...
+
+📺 CryptoStock Lab
+
+👁️ 282 • 👍 23 • 💬 13 • ⏱️ 12:47 • 3h ago
+
+---
+
+**[🚨 JP Morgan Launches ETHEREUM FUND (Prepare NOW!)](https://www.youtube.com/watch?v=Jxy67yKHoHo)**
+
+Deezy looks at what JPM has planned for 2026! Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
+
+📺 Discover Crypto
+
+👁️ 5K • 👍 173 • 💬 18 • ⏱️ 6:53 • 1d ago
+
+---
+
+**[Gold vs Tokenized Gold on Ethereum🔥Peter Schiff INTERVIEW](https://www.youtube.com/watch?v=Yg1qDTzcZ28)**
+
+Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substantial gains in gold and silver. At Binance Blockchain ...
+
+📺 Paul Barron Network
+
+👁️ 20K • 👍 968 • 💬 207 • ⏱️ 29:25 • 22h ago
 
 ---
 
@@ -289,36 +317,6 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 📺 Paul Barron Network
 
 👁️ 53K • 👍 2K • 💬 121 • ⏱️ 13:11 • 1d ago
-
----
-
-**[&quot;The 23-Hour Stock Market: What It Means for Ethereum &amp; BMNR&quot;](https://www.youtube.com/watch?v=zPbSe5ddR8M)**
-
-The line between the stock market and crypto is vanishing. Nasdaq has officially filed a proposal to extend trading hours to 23 ...
-
-📺 CryptoStock Lab
-
-👁️ 121 • 👍 8 • 💬 2 • ⏱️ 12:47 • 2h ago
-
----
-
-**[🚨 JP Morgan Launches ETHEREUM FUND (Prepare NOW!)](https://www.youtube.com/watch?v=Jxy67yKHoHo)**
-
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
-
-📺 Discover Crypto
-
-👁️ 5K • 👍 173 • 💬 26 • ⏱️ 6:53 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=9VVof65W1VU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 132 • 💬 1 • ⏱️ 5:52 • 22h ago
 
 ---
 

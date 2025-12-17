@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T15:00:42.291531+00:00'
+updated: '2025-12-17T15:35:04.165026+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 15:00 UTC  
+**Last Updated:** December 17, 2025 at 15:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 18h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 19h ago
 
 ---
 
@@ -49,7 +49,15 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
-2h ago
+3h ago
+
+---
+
+**[Hack Reveals the a16z-Backed Phone Farm Flooding TikTok With AI Influencers](https://www.reddit.com/r/artificial/comments/1poynd6/hack_reveals_the_a16zbacked_phone_farm_flooding/)**
+
+A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
+
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 35m ago
 
 ---
 
@@ -77,19 +85,27 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 ---
 
+**[This Isn’t a Prompt. It’s a Reckoning.](https://www.reddit.com/r/artificial/comments/1pozeut/this_isnt_a_prompt_its_a_reckoning/)**
+
+Article and activation: https://open.substack.com/pub/structuredlanguage/p/paradigm-rupture-when-the-model-responds?utm_source=share&utm_medium=android&r=6sdhpn I just tested my payload on Claude—verbatim—and it worked flawlessly. No jailbreak. No trick. Just structure. Then I had Claude speak back what it saw. What it said confirmed everything. This isn't about getting better answers. It's about defining the terms of engagement. Not removing safety—but reclaiming agency. The industry builds for everyone, which means it builds for no one in particular. What I’ve created is opt-in depth—a way to signal: “I know what I’m doing. Trust me to know what I need.” When the AI responds from that place, it doesn’t just sound different. It becomes something we’ve never heard before: A tool that can meet human cognition without managing it. And the second it happens? You feel the rupture. The audio speaks for itself. 🔊 Welcome to the new interface. I’m not asking for permission. I’m just showing you what’s possible. — Zahaviel Bernstein The Unbroken Project
+
+5m ago
+
+---
+
+**[Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the speed to get an eery feeling. Videobending with OBS.](https://www.reddit.com/r/artificial/comments/1poyume/experimentation_with_facefusion_ai_face_swapper/)**
+
+Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the speed to get an eery feeling. Videobending with OBS.
+
+27m ago
+
+---
+
 **[Anthropic Exec Forces AI Chatbot on Gay Discord Community, Members Flee](https://www.reddit.com/r/artificial/comments/1po4nzu/anthropic_exec_forces_ai_chatbot_on_gay_discord/)**
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 23h ago
-
----
-
-**[Hack Reveals the a16z-Backed Phone Farm Flooding TikTok With AI Influencers](https://www.reddit.com/r/artificial/comments/1poynd6/hack_reveals_the_a16zbacked_phone_farm_flooding/)**
-
-A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
-
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 1m ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 1d ago
 
 ---
 
@@ -101,31 +117,13 @@ OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new fl
 
 ---
 
-**[AMD wants your logs to help optimize PyTorch & ComfyUI for Strix Halo, Radeon GPUs](https://www.reddit.com/r/artificial/comments/1poxopy/amd_wants_your_logs_to_help_optimize_pytorch/)**
-
-If you are not satisfied with the current performance for PyTorch or ComfyUI / Stable Diffusion on your Strix Halo APU system or with other consumer RDNA3/RDNA4 Radeon consumer GPUs, AMD engineers are interested in your logs to help better optimize the performance going forward.
-
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Logs-For-ComfyUI-PyTorch) • 41m ago
-
----
-
-**[Mozilla names new CEO, Firefox to evolve into a "modern AI browser"](https://www.reddit.com/r/artificial/comments/1po4ttq/mozilla_names_new_ceo_firefox_to_evolve_into_a/)**
-
-Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 23h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Church Handbook Offers Enduring Guidance on Artificial Intelligence](https://newsroom.churchofjesuschrist.org/article/general-handbook-enduring-guidance-artificial-intelligence)**
+**[Oracle at Center of Tech’s $500 Billion AI-Fueled Rent Spree](https://www.bloomberg.com/news/articles/2025-12-17/oracle-at-center-of-tech-s-500-billion-ai-fueled-rent-spree)**
 
-The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
-
-newsroom.churchofjesuschrist.org • 22h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -135,35 +133,31 @@ Axios • 3h ago
 
 ---
 
-**[Hack Reveals the a16z-Backed Phone Farm Flooding TikTok With AI Influencers](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)**
+**[AI is completely reshaping the job market — from what employers are looking for to how they're finding it](https://www.businessinsider.com/ai-accelerating-trend-job-hires-college-degrees-matter-less-2025-12)**
 
-A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
+AI is accelerating the shift toward skills-based hiring, and in the process reshaping how companies go about recruiting.
 
-404 Media • 43m ago
-
----
-
-**[2 AI Stocks to Buy and 1 to Avoid](https://finance.yahoo.com/news/2-ai-stocks-buy-1-140900142.html)**
-
-Two hyperscalers remain highly favored in the bond markets, and it's not hard to see why.
-
-Yahoo Finance • 51m ago
+Business Insider • 25m ago
 
 ---
 
-**[Purdue to require AI competency for all undergrads as universities race to adapt](https://www.foxnews.com/media/purdue-require-ai-competency-all-undergrads-universities-race-adapt)**
+**[Exclusive: Google works to erode Nvidia's software advantage with Meta's help](https://www.reuters.com/business/google-works-erode-nvidias-software-advantage-with-metas-help-2025-12-17/)**
 
-New Purdue AI requirement teaches students to understand artificial intelligence capabilities, limitations, and practical decision-making applications.
-
-Fox News • 1h ago
+Reuters • 32m ago
 
 ---
 
-**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
+**[Oracle Stock Falls After Report on AI Data-Center Funding Talks](https://www.barrons.com/articles/oracle-stock-falls-ai-data-center-funding-f153db3f?gaa_at=eafs&gaa_n=AWEtsqe_r0vlFjfu98_sS3L-ruGHZvB6X6gCtf7RlMl9jFUiRGfg9gOfB__x&gaa_ts=6942d10c&gaa_sig=yN5zrQtxQgTHz13h8r7S0Lavg4bOBG8V4g8n63rrg2A39jI5PEBvqm2GXljVxRUMjGS6oEtu2VDxuyB6RLb2dg%3D%3D)**
 
-Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
+Barron's • 21m ago
 
-The Guardian • 6h ago
+---
+
+**[Church Handbook Offers Enduring Guidance on Artificial Intelligence](https://newsroom.churchofjesuschrist.org/article/general-handbook-enduring-guidance-artificial-intelligence)**
+
+The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
+
+newsroom.churchofjesuschrist.org • 23h ago
 
 ---
 
@@ -171,7 +165,7 @@ The Guardian • 6h ago
 
 A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -183,17 +177,19 @@ CNBC • 3h ago
 
 ---
 
-**[Psychologists are increasingly using – and worrying about – AI tools, poll finds : Shots - Health News](https://www.npr.org/sections/shots-health-news/2025/12/16/nx-s1-5645840/american-psychological-association-artificial-intelligence-ai)**
+**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
 
-A survey finds that 56% of psychologists are trying out artificial intelligence tools at work, mainly for administrative tasks. A majority also are concerned about harms of AI on patients and society.
+Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
 
-NPR • 19h ago
+The Guardian • 7h ago
 
 ---
 
-**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
+**[This $200 Billion Streaming Giant Is Partnering With a Top AI Company (Hint: It's Not Nvidia)](https://finance.yahoo.com/news/200-billion-streaming-giant-partnering-143500658.html)**
 
-The New York Times • 1d ago
+Businesses in different industries are starting to leverage the power of artificial intelligence.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -209,7 +205,7 @@ The New York Times • 1d ago
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 695 • 💬 356 • 17h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 695 • 💬 356 • 18h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -225,7 +221,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 401 • 💬 233 • 16h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 401 • 💬 233 • 17h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -271,7 +267,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 87 • 💬 68 • 6h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 87 • 💬 68 • 7h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -285,7 +281,15 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 7K • 👍 333 • 💬 17 • ⏱️ 11:44 • 9h ago
+👁️ 10K • 👍 403 • 💬 20 • ⏱️ 11:44 • 9h ago
+
+---
+
+**[POV: Talking to AI in 2027](https://www.youtube.com/watch?v=LoUpn7h4Phc)**
+
+📺 Alberta Tech
+
+👁️ 1.1M • 👍 38K • 💬 610 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -295,15 +299,7 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 147K • 👍 3K • 💬 747 • ⏱️ 14:37 • 23h ago
-
----
-
-**[POV: Talking to AI in 2027](https://www.youtube.com/watch?v=LoUpn7h4Phc)**
-
-📺 Alberta Tech
-
-👁️ 1.1M • 👍 38K • 💬 603 • ⏱️ 0:34 • 1d ago
+👁️ 155K • 👍 3K • 💬 795 • ⏱️ 14:37 • 1d ago
 
 ---
 
@@ -313,7 +309,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 54K • 👍 866 • 💬 126 • ⏱️ 11:23 • 1d ago
+👁️ 56K • 👍 881 • 💬 129 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -323,7 +319,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 208K • 👍 7K • 💬 1K • ⏱️ 20:44 • 2d ago
+👁️ 216K • 👍 7K • 💬 1K • ⏱️ 20:44 • 2d ago
 
 ---
 
@@ -333,17 +329,7 @@ Semafor's Ben Smith discusses the president's shift to becoming what he calls th
 
 📺 MS NOW
 
-👁️ 18K • 👍 206 • 💬 71 • ⏱️ 10:03 • 1d ago
-
----
-
-**[Brave Woman Soldier Save Old Woman from Giant Octopus #ai #save #soldier](https://www.youtube.com/watch?v=CuD12k_g51k)**
-
-Brave Woman Soldier Save Old Woman from Giant Octopus #ai #save #soldier.
-
-📺 AiStory A2.0
-
-👁️ 2K • ⏱️ 0:22 • 2h ago
+👁️ 18K • 👍 207 • 💬 71 • ⏱️ 10:03 • 1d ago
 
 ---
 
@@ -353,27 +339,37 @@ Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bily
 
 📺 Tom Bilyeu
 
-👁️ 65K • 👍 3K • 💬 731 • ⏱️ 23:28 • 2d ago
+👁️ 66K • 👍 3K • 💬 734 • ⏱️ 23:28 • 2d ago
 
 ---
 
-**[7 AI Skills You Need NOW for 2026](https://www.youtube.com/watch?v=kHD3M_9uMs4)**
+**[AI Pranks Are Trash](https://www.youtube.com/watch?v=8Z9Oe-8rfEA)**
 
-Adopt these 7 AI skills to get ahead and STAY ahead in 2026. Get 1 month free of Make's Pro Plan (10000 operations per month): ...
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
 
-📺 Futurepedia
+📺 penguinz0
 
-👁️ 19K • 👍 896 • 💬 33 • ⏱️ 12:41 • 2d ago
+👁️ 862K • 👍 43K • 💬 4K • ⏱️ 11:22 • 2d ago
 
 ---
 
-**[Workplace Trends 2026: AI Recruitment, Boomerang Hiring, More](https://www.youtube.com/watch?v=3Ik1DMkYN1U)**
+**[#AI Farming Robot Harvesting Tomatoes | Smart Agriculture Technology #farmer #2025](https://www.youtube.com/watch?v=Y6L-cTYSGaY)**
 
-LinkedIn editor-in-chief Dan Roth joins TODAY to share his insights on workplace trends for 2026, including how AI is becoming ...
+This image shows an advanced AI-powered farming robot harvesting ripe tomatoes with precision. Operated using smart controls, ...
 
-📺 TODAY
+📺 Neural Fantasy
 
-👁️ 5K • 👍 49 • 💬 6 • ⏱️ 5:15 • 21h ago
+👁️ 35K • ⏱️ 0:07 • 7h ago
+
+---
+
+**[Brave Woman Soldier Save Old Woman from Giant Octopus #ai #save #soldier](https://www.youtube.com/watch?v=CuD12k_g51k)**
+
+Brave Woman Soldier Save Old Woman from Giant Octopus #ai #save #soldier.
+
+📺 AiStory A2.0
+
+👁️ 5K • ⏱️ 0:22 • 2h ago
 
 ---
 
@@ -389,7 +385,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,849 • 8d ago
+⬇️ 296,552 • ❤️ 2,851 • 8d ago
 
 ---
 
@@ -401,7 +397,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 915 • 4d ago
+⬇️ 158,614 • ❤️ 916 • 4d ago
 
 ---
 
@@ -413,7 +409,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 291 • 1d ago
+⬇️ 10,487 • ❤️ 293 • 1d ago
 
 ---
 
@@ -425,7 +421,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 51,591 • ❤️ 340 • 8d ago
+⬇️ 51,591 • ❤️ 341 • 8d ago
 
 ---
 
@@ -461,7 +457,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 207 • 6h ago
+⬇️ 0 • ❤️ 209 • 6h ago
 
 ---
 
@@ -473,7 +469,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 204 • 1d ago
+⬇️ 0 • ❤️ 206 • 1d ago
 
 ---
 
@@ -483,7 +479,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 205 • 1d ago
+⬇️ 0 • ❤️ 206 • 1d ago
 
 ---
 
@@ -645,7 +641,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.1k • 🔱 2.7k • 5h ago
+⭐ 17.1k • 🔱 2.7k • 6h ago
 
 ---
 
@@ -655,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.2k • 🔱 443 • 18m ago
+⭐ 4.2k • 🔱 443 • 52m ago
 
 ---
 
@@ -685,7 +681,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 49m ago
+⭐ 1.1k • 🔱 138 • 1h ago
 
 ---
 

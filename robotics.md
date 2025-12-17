@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T15:00:42.310317+00:00'
+updated: '2025-12-17T15:35:04.183111+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 15:00 UTC  
+**Last Updated:** December 17, 2025 at 15:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
 
-6h ago
+7h ago
+
+---
+
+**[Inside Avatar’s mech and robot design process](https://www.reddit.com/r/robotics/comments/1poyrwm/inside_avatars_mech_and_robot_design_process/)**
+
+Ben Procter, one of the designers behind Avatar’s human technology, explains how the team approached mech and robot control in the Avatar films. Instead of designing machines around what looks cool, the focus was on what would actually work. Human movement cannot be mapped directly onto multi-legged machines, so control systems had to account for balance, pressure, and scale in a way that made sense physically and visually. That approach carries through much of the human tech in Avatar, where machines are treated as tools with constraints, not characters, and designed to feel like they belong in a functioning world rather than just a single scene.
+
+30m ago
 
 ---
 
@@ -52,7 +60,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +82,7 @@ I recently made this prototype of a self-balancing wheel provided with robotic m
 
 Hello, my experience is only from R&D setups. For deploying a robot, what do people normally do? Do they use Jetson Nano/Orin/Thor to run the AI processes? One of my seniors said they still use the PC for deployment to make the AI processes run. Isn't it too big to add the PC to your sellable product just to run the AI processes? Is this an industrial practice?
 
-7h ago
+8h ago
 
 ---
 
@@ -100,17 +108,11 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 ---
 
-**[X Peng Robot removes cloth](https://www.reddit.com/r/robotics/comments/1pnumua/x_peng_robot_removes_cloth/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
+**[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
 The New York Times • 3d ago
 
@@ -124,27 +126,11 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Robots are levelling up: What the latest breakthroughs mean for 2026](https://www.goodwood.com/grr/event-coverage/festival-of-speed/robots-are-levelling-up-what-the-latest-breakthroughs-mean-for-2026/)**
-
-Robots have spent decades promising to transform our lives, now that transformation is beginning. From humanoids that can sprint, flip and work alongside people, to home robots learning tasks by demonstration and expressive performers roaming theme parks, 2025 has delivered breakthroughs unlike anything seen before. With FOS Future Lab returning to the 2026 Festival of Speed, Goodwood will once again be the place to get up close to the emerging technologies — and to see for yourself just how fast robotics is levelling up...
-
-Goodwood • 2h ago
-
----
-
-**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
-
-Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
-
-TechCrunch • 55m ago
-
----
-
 **[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
@@ -160,7 +146,7 @@ The Verge • 2d ago
 
 iRobot's assets are now in the hands of a Chinese partner. What does this mean for the future of home robotics?
 
-IEEE Spectrum • 18h ago
+IEEE Spectrum • 19h ago
 
 ---
 
@@ -168,7 +154,23 @@ IEEE Spectrum • 18h ago
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-NASA (.gov) • 16h ago
+NASA (.gov) • 17h ago
+
+---
+
+**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
+
+Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
+
+TechCrunch • 1h ago
+
+---
+
+**[This Robotics Stock Just Hit a Key Milestone. Should You Buy It Here?](https://finance.yahoo.com/news/robotics-stock-just-hit-key-191903482.html)**
+
+Serve demonstrates execution in AI-powered delivery, balancing rapid growth with heavy investment and cash burn.
+
+Yahoo Finance • 20h ago
 
 ---
 
@@ -176,15 +178,15 @@ NASA (.gov) • 16h ago
 
 AMC Robotics Corp. surged nearly 170%, driven by speculative trading rather than a clear fundamental catalyst. Learn more about AMCI stock here.
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 
-**[3 Underrated Robotics Stocks Poised for Huge Gains](https://finance.yahoo.com/news/3-underrated-robotics-stocks-poised-120300103.html)**
+**[An MIT roboticist who cofounded bankrupt Roomba maker iRobot says Elon Musk's vision of humanoid robot assistants is 'pure fantasy thinking'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
 
-Three potentially underrated robotics stocks—Stereotaxis, Knightscope, and PROCEPT BioRobotics—could be ones to keep an eye on in 2026.
+Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Yahoo Finance • 2d ago
+Fortune • 1d ago
 
 ---
 
@@ -198,7 +200,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 54K • 👍 866 • 💬 126 • ⏱️ 11:23 • 1d ago
+👁️ 56K • 👍 881 • 💬 129 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -208,7 +210,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 28K • 👍 691 • 💬 113 • ⏱️ 6:41 • 3d ago
+👁️ 28K • 👍 692 • 💬 113 • ⏱️ 6:41 • 3d ago
 
 ---
 
@@ -218,7 +220,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 16K • 👍 2K • 💬 45 • ⏱️ 1:38 • 22h ago
+👁️ 17K • 👍 2K • 💬 46 • ⏱️ 1:38 • 23h ago
 
 ---
 
@@ -228,15 +230,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 356K • 👍 12K • 💬 387 • ⏱️ 0:34 • 3d ago
-
----
-
-**[The Humanoid Robot’s CPU Was Stolen. #robotics #airobot #ai #robot #humanoidrobot](https://www.youtube.com/watch?v=iZ0BlhfU8Bg)**
-
-📺 AI . Robot
-
-👁️ 95K • 👍 982 • 💬 16 • ⏱️ 0:13 • 1d ago
+👁️ 360K • 👍 12K • 💬 385 • ⏱️ 0:34 • 3d ago
 
 ---
 
@@ -244,7 +238,25 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 417K • 👍 4K • 💬 41 • ⏱️ 0:21 • 3d ago
+👁️ 428K • 👍 4K • 💬 41 • ⏱️ 0:21 • 3d ago
+
+---
+
+**[The Humanoid Robot’s CPU Was Stolen. #robotics #airobot #ai #robot #humanoidrobot](https://www.youtube.com/watch?v=iZ0BlhfU8Bg)**
+
+📺 AI . Robot
+
+👁️ 117K • 👍 1K • 💬 16 • ⏱️ 0:13 • 1d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=Oo31_PpsP4I)**
+
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 30K • 👍 294 • 💬 1 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -254,7 +266,7 @@ Would you let an AI robot girl choose you, or would you walk away? Be honest. DI
 
 📺 SYN:THETIC_BLOOD
 
-👁️ 56K • 👍 1K • 💬 57 • ⏱️ 0:32 • 1d ago
+👁️ 63K • 👍 1K • 💬 60 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -264,7 +276,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 29K • 👍 292 • 💬 28 • ⏱️ 1:05 • 2d ago
+👁️ 30K • 👍 293 • 💬 28 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -274,17 +286,7 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 
 📺 RICHLEV
 
-👁️ 172K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
-
----
-
-**[A soldier built a robotic goat for his grandmother #ai #army #save #robot #shorts](https://www.youtube.com/watch?v=9JVdqSwGgiM)**
-
-A soldier built a robotic goat for his grandmother #ai #army #save #robot #shorts #aesthetic #akshaykhanna #effect #aivideo.
-
-📺 Ayan Bites
-
-👁️ 6K • 👍 78 • ⏱️ 0:29 • 9h ago
+👁️ 174K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
 
 ---
 
