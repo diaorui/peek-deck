@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T20:43:02.430923+00:00'
+updated: '2025-12-17T20:56:35.205043+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 20:43 UTC  
+**Last Updated:** December 17, 2025 at 20:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,19 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 ---
 
+**[Generative AI hype distracts us from AI’s more important breakthroughs](https://www.reddit.com/r/artificial/comments/1pp4ht7/generative_ai_hype_distracts_us_from_ais_more/)**
+
+It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
+
+🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 2h ago
+
+---
+
 **[AI Fatigue?](https://www.reddit.com/r/artificial/comments/1pov0h0/ai_fatigue/)**
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
 8h ago
-
----
-
-**[Generative AI hype distracts us from AI’s more important breakthroughs](https://www.reddit.com/r/artificial/comments/1pp4ht7/generative_ai_hype_distracts_us_from_ais_more/)**
-
-It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
-
-🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 1h ago
 
 ---
 
@@ -69,11 +69,19 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 ---
 
+**[Adding verification nodes made our agent system way more stable](https://www.reddit.com/r/artificial/comments/1pp6jii/adding_verification_nodes_made_our_agent_system/)**
+
+In our multi-step workflow where each step depended on the previous one’s output, problems we observed were silent errors: malformed JSON, missing fields, incorrect assumptions, etc. We added verification nodes between steps: check structure check schema check grounding retry or escalate if needed It turned the system from unpredictable to stable. It reminded me of how traditional systems use validation layers, but here the cost of skipping them compounds faster because each output becomes the next input. Anyone else tried adding checkpoints between AI-driven steps? What verification patterns worked for you?
+
+52m ago
+
+---
+
 **[Microsoft's TRELLIS 2-4B, An Open-Source Image-to-3D Model](https://www.reddit.com/r/artificial/comments/1povtpl/microsofts_trellis_24b_an_opensource_imageto3d/)**
 
 "An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
 
-7h ago
+8h ago
 
 ---
 
@@ -85,6 +93,14 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 ---
 
+**[Teachers are using software to see if students used AI. What happens when it's wrong?](https://www.reddit.com/r/artificial/comments/1pp77ps/teachers_are_using_software_to_see_if_students/)**
+
+School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
+
+🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 26m ago
+
+---
+
 **[Anyone else feel AI quietly changed their daily life this year?](https://www.reddit.com/r/artificial/comments/1po6qob/anyone_else_feel_ai_quietly_changed_their_daily/)**
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
@@ -93,27 +109,11 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 ---
 
-**[Adding verification nodes made our agent system way more stable](https://www.reddit.com/r/artificial/comments/1pp6jii/adding_verification_nodes_made_our_agent_system/)**
-
-In our multi-step workflow where each step depended on the previous one’s output, problems we observed were silent errors: malformed JSON, missing fields, incorrect assumptions, etc. We added verification nodes between steps: check structure check schema check grounding retry or escalate if needed It turned the system from unpredictable to stable. It reminded me of how traditional systems use validation layers, but here the cost of skipping them compounds faster because each output becomes the next input. Anyone else tried adding checkpoints between AI-driven steps? What verification patterns worked for you?
-
-38m ago
-
----
-
 **[The Year in Slop](https://www.reddit.com/r/artificial/comments/1pp5cm1/the_year_in_slop/)**
 
 This was the year that A.I.-generated content passed a kind of audiovisual Turing test, sometimes fooling us against our better judgment.
 
 🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 1h ago
-
----
-
-**[Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the speed to get an eery feeling. Videobending with OBS.](https://www.reddit.com/r/artificial/comments/1poyume/experimentation_with_facefusion_ai_face_swapper/)**
-
-Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the speed to get an eery feeling. Videobending with OBS.
-
-5h ago
 
 ---
 
@@ -127,23 +127,35 @@ Reuters • 5h ago
 
 ---
 
-**[U.S. and China Are Headed for an AI Collision](https://www.realcleardefense.com/articles/2025/12/17/us_and_china_are_headed_for_an_ai_collision_1153822.html)**
+**[Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)**
 
-RealClearDefense • 9h ago
+A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
 
----
-
-**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
-
-The New York Times • 42m ago
+Financial Times • 15h ago
 
 ---
 
-**[NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)**
+**[Amazon CEO Andy Jassy announces departure of AI exec Rohit Prasad in leadership shakeup](https://fortune.com/2025/12/17/amazon-ceo-andy-jassy-announces-departure-of-ai-exec-rohit-prasad-in-leadership-shakeup/)**
 
-NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
+Prasad's exit comes after Amazon struggled to show its internal AI efforts could match those of rivals and amid reports of a new AWS investment in OpenAI
 
-National Oceanic and Atmospheric Administration (NOAA) (.gov) • 8h ago
+Fortune • 22m ago
+
+---
+
+**[Hollywood stars launch Creators Coalition on AI](https://www.latimes.com/entertainment-arts/business/story/2025-12-17/hollywood-stars-launch-creators-coalition-on-ai)**
+
+A group of 18 people who work in the entertainment industry, including actors Joseph Gordon-Levitt and Natasha Lyonne launched a new coalition that aims to advocate for the rights of creators amid AI's boom.
+
+Los Angeles Times • 39m ago
+
+---
+
+**[Inside The Enterprise Shift Redefining Autonomous AI](https://www.forbes.com/sites/kolawolesamueladebayo/2025/12/17/inside-the-enterprise-shift-redefining-autonomous-ai/)**
+
+As AI agents take on real work, new rules for autonomy are emerging that favor reliability, clarity and human control.
+
+Forbes • 31m ago
 
 ---
 
@@ -155,33 +167,11 @@ CNBC • 1h ago
 
 ---
 
-**[Tech stocks plunge as AI angst returns](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866)**
+**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
 
-The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
+Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
 
-NBC News • 2h ago
-
----
-
-**[The sizzling AI trade is having this surprising effect on global markets](https://www.marketwatch.com/story/the-sizzling-ai-trade-is-having-this-surprising-effect-on-global-markets-5363219e?gaa_at=eafs&gaa_n=AWEtsqcWKKWsnoRP-3Wh5fZUhAIeRrF0LanfBVzvOcj5CUMjvzxChp4Vh5B2&gaa_ts=694313f8&gaa_sig=cVjvFP5_SOZNHNIKaPOEZLlSSoRZFhMImc4qQI0fd1f4Y55FzxsOIDBpbVcZWFkiqaT_HXRGHjriFWpuhNXzFw%3D%3D)**
-
-MarketWatch • 4h ago
-
----
-
-**[Woman Marries AI-Generated Boyfriend, Wears Augmented Reality Smart Glasses to Exchange Rings](https://people.com/woman-marries-ai-generated-boyfriend-wears-augmented-reality-smart-glasses-to-exchange-rings-11871301)**
-
-A woman in Japan married an AI-generated boyfriend, who was present on a phone screen, and exchanged rings using augmented reality glasses. Yurina Noguchi created her AI husband, Lune Klaus Verdure, based on a video game character.
-
-People.com • 1h ago
-
----
-
-**[Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)**
-
-A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
-
-Financial Times • 15h ago
+The Guardian • 3h ago
 
 ---
 
@@ -191,19 +181,33 @@ Bloomberg.com • 4h ago
 
 ---
 
+**[The 2,000-year-old debate that reveals AI’s biggest problem](https://www.vox.com/future-perfect/472545/ai-alignment-superintelligence-meaning-agency-autonomy)**
+
+Silicon Valley is racing to build a god — without understanding what makes a good one.
+
+Vox • 8h ago
+
+---
+
+**[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
+
+Axios • 9h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 811 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 814 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 773 • 💬 391 • 23h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 778 • 💬 393 • 23h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -215,19 +219,19 @@ The technological race among industry giants and the wave of layoffs they have a
 
 ---
 
-**[No AI* Here – A Response to Mozilla's Next Chapter](https://news.ycombinator.com/item?id=46295268)**
-
-Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
-
-⬆️ 479 • 💬 266 • 22h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
-
----
-
 **[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://news.ycombinator.com/item?id=46302267)**
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 448 • 💬 255 • 3h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 494 • 💬 290 • 3h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+
+---
+
+**[No AI* Here – A Response to Mozilla's Next Chapter](https://news.ycombinator.com/item?id=46295268)**
+
+Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
+
+⬆️ 490 • 💬 269 • 22h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -241,7 +245,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 373 • 💬 315 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 374 • 💬 315 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -249,7 +253,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 299 • 💬 311 • 2d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 299 • 💬 312 • 2d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -257,7 +261,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 169 • 💬 117 • 12h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 179 • 💬 122 • 12h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -337,7 +341,7 @@ GPT-Image-1.5 review. GPT Image 1.5 vs Nano Banana Pro. OpenAI's top AI image ge
 
 📺 AI Search
 
-👁️ 58K • 👍 2K • 💬 553 • ⏱️ 31:47 • 16h ago
+👁️ 58K • 👍 2K • 💬 553 • ⏱️ 31:47 • 17h ago
 
 ---
 
@@ -407,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 298 • 1d ago
+⬇️ 10,487 • ❤️ 299 • 8m ago
 
 ---
 
@@ -431,7 +435,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 228 • 14h ago
+⬇️ 0 • ❤️ 228 • 15h ago
 
 ---
 
@@ -443,7 +447,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 223 • 12h ago
+⬇️ 0 • ❤️ 225 • 12h ago
 
 ---
 
@@ -689,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 32m ago
+⭐ 1.1k • 🔱 138 • 45m ago
 
 ---
 

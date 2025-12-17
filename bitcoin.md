@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T20:43:02.439328+00:00'
+updated: '2025-12-17T20:56:35.213328+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 20:43 UTC  
+**Last Updated:** December 17, 2025 at 20:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,020.40
+### $86,023.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -6.9%  
-**30d:** -7.3%  
-**90d:** -25.5%  
-**1y:** -14.3%  
+**24h:** -2.1%  
+**7d:** -7.3%  
+**30d:** -7.6%  
+**90d:** -25.7%  
+**1y:** -14.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1711.22B
+**Market Cap:** $1716.97B
 Rank #1
 
-**Circulating Supply:** 19,963,446 BTC
+**Circulating Supply:** 19,963,453 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -31.8%
 
 **All-Time Low:** $67.81
-+126769.2%
++126698.4%
 
 ---
 
@@ -76,6 +76,12 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
+
+52m ago
+
+---
 
 **[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
 
@@ -99,13 +105,7 @@ Rank #1
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-5h ago
-
----
-
-**[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
-
-38m ago
+6h ago
 
 ---
 
@@ -159,15 +159,23 @@ CoinDesk • 1h ago
 
 **[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
-**[Bitcoin, gold, AI were key drivers of 2025's record ETF inflows](https://finance.yahoo.com/video/bitcoin-gold-ai-were-key-200000651.html)**
+**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://www.bloomberg.com/news/articles/2025-12-17/bitcoin-s-silent-exodus-hits-crypto-as-long-time-buyers-cash-out)**
 
-Net inflows into exchange-traded funds (ETFs) totaled a record $1.03 trillion last year, and they're already set to break that record this year, currently sitting at $1.28 trillion year to date. Amplify ETFs CEO, Christian Magoon, joins Market Catalysts host Julie Hyman to explain where money was going in 2025 and what ETF trends he anticipates next year. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+Bitcoin’s most entrenched investors are still cashing out — and the pressure is starting to show.
 
-Yahoo Finance • 43m ago
+Bloomberg.com • 12m ago
+
+---
+
+**[Peter Schiff Warns of Imminent Bitcoin Crash — Says US Headed for ‘Economic Crisis’](https://finance.yahoo.com/news/peter-schiff-warns-imminent-bitcoin-123215877.html)**
+
+Peter Schiff predicts Bitcoin will crash before the U.S. dollar. The Bitcoin critic warned of a major U.S. economic crisis. Technical analysis suggests further downside ...
+
+Yahoo Finance • 8h ago
 
 ---
 
@@ -177,7 +185,15 @@ The Block • 9h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdtig9V1a3DOPrmWNbhEAI96af6rCSosJfVzY-Iufe7adSzgQ896KAv&gaa_ts=694313f9&gaa_sig=bpQu5nNFisk7jR-53j59iSS2vUkSpn8vx3SPUGcafq3udkwKpb9RA043Sa2RNszmtxlHAdt0DdZAxHHF7oDjrQ%3D%3D)**
+**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
+
+Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
+
+Financial Times • 2d ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfByGfJKycbTAb_rK6_-u9cVc6RoY_Xt5NFPVJVvnKPTVuLkNt3k_5M&gaa_ts=69431c6d&gaa_sig=1gb4QuHXOaZ-lzO0FaFZcFhCssO7q6sc-fK5bA4BiMZBoob1VOo_RO9OC_jot2g5fooGhb1g_Kz-YXSfIOQRsQ%3D%3D)**
 
 Barron's • 2d ago
 
@@ -199,25 +215,9 @@ TradingView — Track All Markets • 3h ago
 
 ---
 
-**[Will Bitcoin Hit $200,000 in 2026?](https://finance.yahoo.com/news/bitcoin-hit-200-000-2026-185000629.html)**
-
-Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
-
-Yahoo Finance • 1h ago
-
----
-
 **[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
 
 The Block • 1d ago
-
----
-
-**[Will Bitcoin Hit $200,000 in 2026?](https://www.fool.com/investing/2025/12/17/will-bitcoin-hit-200000-in-2026/)**
-
-Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
-
-The Motley Fool • 2h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T20:43:02.448633+00:00'
+updated: '2025-12-17T20:56:35.222542+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 20:43 UTC  
+**Last Updated:** December 17, 2025 at 20:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Researchers at Penn & Michigan create the "World's Smallest Programmable Autonomous Robot." (It has Onboard computer, swims using electric fields and costs $0.01).](https://www.reddit.com/r/robotics/comments/1porb7t/researchers_at_penn_michigan_create_the_worlds/)**
-
-A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
-
-12h ago
-
----
-
 **[I Spent 3 Months Building This Robot: It Can Do More Than I Thought](https://www.reddit.com/r/robotics/comments/1pp28v0/i_spent_3_months_building_this_robot_it_can_do/)**
 
 Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
 
 3h ago
+
+---
+
+**[Researchers at Penn & Michigan create the "World's Smallest Programmable Autonomous Robot." (It has Onboard computer, swims using electric fields and costs $0.01).](https://www.reddit.com/r/robotics/comments/1porb7t/researchers_at_penn_michigan_create_the_worlds/)**
+
+A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
+
+12h ago
 
 ---
 
@@ -76,7 +76,15 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
 
-2h ago
+3h ago
+
+---
+
+**[Hunan Handwriting Recreation](https://www.reddit.com/r/robotics/comments/1pp7ekn/hunan_handwriting_recreation/)**
+
+I'm working on a project which aims at recreating the hand motion at the joint level while writing. I've used the SynGrasp hand model so far but I'm having a lot of trouble calculating the q(joint variables) values for each waypoint of the pre defined trajectory. If someone has worked on something similar do you mind giving a helping hand? I read the SynGrasp paper but it's genuinely confusing to animate the hand model for each waypoint. I'm only focusing on the kinematics of the motion.
+
+18m ago
 
 ---
 
@@ -84,23 +92,7 @@ An robotic arm picks up a toy bear from a sofa and places it into a basket. The 
 
 I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but without actually building the robot. I'm currently trying to put something together with threejs and the jolt physics engine, but I'd have to assume there's probably a better way to do it. If so, what are better ways to simulate a robot? +1 if it can run in a browser
 
-52m ago
-
----
-
-**[Hi, I’m new to robotics and I had a question related to a robot i’m working on now.](https://www.reddit.com/r/robotics/comments/1porfe0/hi_im_new_to_robotics_and_i_had_a_question/)**
-
-I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
-
-12h ago
-
----
-
-**[Discount Factor (gamma) Explained With Q-Learning + CartPole](https://www.reddit.com/r/robotics/comments/1pp051r/discount_factor_gamma_explained_with_qlearning/)**
-
-In this tutorial you will learn: how γ affects convergence and stability in Q-Learning, how to choose the right value for your own RL environment, and what happens when γ exceeds the recommended limits (for example, γ > 1.0) and why the algorithm crashes. Link: Discount Factor (gamma) Explained With Q-Learning + CartPole
-
-4h ago
+1h ago
 
 ---
 
@@ -112,13 +104,23 @@ In principle I understand the implicit flexibility of DOF arms, but in practice 
 
 ---
 
+**[Hi, I’m new to robotics and I had a question related to a robot i’m working on now.](https://www.reddit.com/r/robotics/comments/1porfe0/hi_im_new_to_robotics_and_i_had_a_question/)**
+
+I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
+
+12h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
 
-**[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
+**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
 
-The New York Times • 3d ago
+Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
+
+NASA (.gov) • 22h ago
 
 ---
 
@@ -136,19 +138,19 @@ CNN • 9h ago
 
 ---
 
+**[Robotics industry reacts to iRobot’s bankruptcy](https://www.therobotreport.com/robotics-industry-reacts-to-irobot-bankruptcy/)**
+
+iRobot’s Chapter 11 bankruptcy has sparked intense reactions, with opinions on regulation, innovation, manufacturing, and global competition.
+
+The Robot Report • 1d ago
+
+---
+
 **[The Roomba Was a Disappointment](https://www.theatlantic.com/technology/2025/12/roomba-dream-home-robotics/685293/)**
 
 The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.&nbsp;&nbsp;
 
-The Atlantic • 2h ago
-
----
-
-**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
-
-They make robot vacuums, lots of them
-
-The Verge • 2d ago
+The Atlantic • 3h ago
 
 ---
 
@@ -157,14 +159,6 @@ The Verge • 2d ago
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
 TechCrunch • 6h ago
-
----
-
-**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
-
-Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
-
-NASA (.gov) • 22h ago
 
 ---
 
@@ -184,11 +178,19 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+**[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
 
-Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-South China Morning Post • 3d ago
+InvestorPlace • 3d ago
+
+---
+
+**[An MIT roboticist who cofounded bankrupt Roomba maker iRobot says Elon Musk's vision of humanoid robot assistants is 'pure fantasy thinking'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
+
+Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+
+Fortune • 1d ago
 
 ---
 

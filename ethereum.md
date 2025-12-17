@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T20:43:02.445384+00:00'
+updated: '2025-12-17T20:56:35.219309+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - cryptocurrency
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 20:43 UTC  
+**Last Updated:** December 17, 2025 at 20:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,832.83
+### $2,824.76
 
 ---
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $339.31B
+**Market Cap:** $341.00B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
@@ -62,7 +62,7 @@ No max supply
 -43.0%
 
 **All-Time Low:** $0.43
-+651515.9%
++651562.1%
 
 ---
 
@@ -90,12 +90,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
-
-1h ago
-
----
-
 **[Help sending Blob transaction](https://www.reddit.com/r/ethereum/comments/1pp3efv/help_sending_blob_transaction/)**
 
 2h ago
@@ -107,6 +101,12 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
 🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 5h ago
+
+---
+
+**[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
+
+2h ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqd1OgOvMMNxv_bcSe3-wMecNECkC8sbFQXnh67l6-L4jI24GZ8C2P3d&gaa_ts=694313fb&gaa_sig=_gWeCYOTdBz3pTqzGj_Z9V2bdizWEPRl_MJPhDPYHjaFzjWYilHCskHn6EKhZNVvltM_L80TiemeeSXmKIJQxA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfR22c2qbEv2ac-DfVpkMY30QYiI9E84JGKlLlBBCzh5mkiklt51UOE&gaa_ts=69431c6e&gaa_sig=Y8FEnnQ_ohQIyKAsguXsE-JwsxVq89lC66U-1x2JMdYX641eyXZxNqg0bIqR32aG6pVUfNp6XaT4NgtzqGW3SQ%3D%3D)**
 
 Barron's • 23h ago
 
@@ -151,6 +151,14 @@ Barron's • 23h ago
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
 The Block • 2d ago
+
+---
+
+**[Here's Why Ethereum Sank More than 4% Today](https://www.fool.com/investing/2025/12/17/heres-why-ethereum-sank-more-than-4-today/)**
+
+The world's second-largest cryptocurrency isn't feeling the love from investors today.
+
+The Motley Fool • 41m ago
 
 ---
 
@@ -165,12 +173,6 @@ Yahoo Finance • 1d ago
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
 The Block • 7h ago
-
----
-
-**[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
-
-TipRanks • 1d ago
 
 ---
 
@@ -196,19 +198,17 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
+
+TipRanks • 1d ago
+
+---
+
 **[Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk](https://decrypt.co/352533/bitcoin-ethereum-etfs-shed-582m-in-a-day-as-institutions-trim-risk)**
 
 U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
 
 Decrypt • 1d ago
-
----
-
-**[BlackRock moves 47K Ethereum in a day: But the real story isn’t a sell-off](https://ambcrypto.com/blackrock-moves-47k-ethereum-in-a-day-but-the-real-story-isnt-a-sell-off/)**
-
-What are institutions seeing that retail traders are missing?
-
-AMBCrypto • 9h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 97 • 💬 5 • ⏱️ 4:45 • 4h ago
+👁️ 1K • 👍 97 • 💬 5 • ⏱️ 4:45 • 5h ago
 
 ---
 
@@ -300,7 +300,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Nick Ford
 
-👁️ 591 • 👍 5 • 💬 2 • ⏱️ 1:54 • 14h ago
+👁️ 591 • 👍 5 • 💬 2 • ⏱️ 1:54 • 15h ago
 
 ---
 
