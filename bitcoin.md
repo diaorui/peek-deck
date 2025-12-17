@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T06:58:23.118568+00:00'
+updated: '2025-12-17T07:30:37.037178+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 06:58 UTC  
+**Last Updated:** December 17, 2025 at 07:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.6%  
-**7d:** -6.4%  
-**30d:** -6.8%  
-**90d:** -25.1%  
-**1y:** -13.8%  
+**7d:** -6.2%  
+**30d:** -6.5%  
+**90d:** -24.9%  
+**1y:** -13.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1734.21B
+**Market Cap:** $1730.34B
 Rank #1
 
-**Circulating Supply:** 19,963,162 BTC
+**Circulating Supply:** 19,963,212 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.1%
+-31.2%
 
 **All-Time Low:** $67.81
-+127994.7%
++127758.7%
 
 ---
 
@@ -77,27 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
-
-9h ago
-
----
-
-**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
-
-17h ago
-
----
-
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
 2h ago
 
 ---
 
+**[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
+
+10h ago
+
+---
+
+**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
+
+18h ago
+
+---
+
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,13 @@ Rank #1
 
 There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
-13h ago
+14h ago
+
+---
+
+**[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
+
+2h ago
 
 ---
 
@@ -117,23 +123,17 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 ---
 
-**[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
+**[Finally made it to 0.1 BTC](https://www.reddit.com/r/Bitcoin/comments/1po9tfz/finally_made_it_to_01_btc/)**
 
-1h ago
+25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
+
+12h ago
 
 ---
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
 19h ago
-
----
-
-**[Finally made it to 0.1 BTC](https://www.reddit.com/r/Bitcoin/comments/1po9tfz/finally_made_it_to_01_btc/)**
-
-25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
-
-12h ago
 
 ---
 
@@ -147,31 +147,41 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Falls To $87,000, Market Sits In Extreme Fear](https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-87000)**
+**[BTC, ETH, ADA Price News: Bitcoin slides with ether and XRP as market tests $3 trillion floor](https://www.coindesk.com/markets/2025/12/17/bitcoin-slides-with-ether-and-xrp-as-market-tests-usd3t-floor)**
 
-The Bitcoin price hovered above $87,000 as prices stabilized, even as investor sentiment plunged into extreme fear.
+Crypto markets continued to decline, with overall capitalization falling below $3 trillion for the third time in a month.
 
-Bitcoin Magazine • 9h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdaRbEWJ-uLOqdLj9imEDRLGaZGF_sHZdXNBfbLfKSecsXaO54iuPnV&gaa_ts=694251ed&gaa_sig=A-peYpBOpLnswCrA_GR2CgqPNJOojQwgRp7GyRhIP2ZhplpY4LTG9IIMjWgNlsdKC99weN4Lh6nEBbNpYxqflw%3D%3D)**
+**[Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City](https://finance.yahoo.com/news/bhutan-pledges-10-000-bitcoin-065123571.html)**
+
+The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
+
+Yahoo Finance • 39m ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqexCFT2_-zKSbb-Yp4_G5TJ6P7SkyROXbbatbFqIt4DNGrHCAlvs2Pi&gaa_ts=69425f82&gaa_sig=zHTDC2IbUBo6WFrhEuDRL6uMCNormCG6rcUjvg6o5jTcP84mEP4H52uZxb_ILXVAcGspft8mLD5Rxwz2jTCOIQ%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Billionaire Michael Saylor Announces New $1 Billion Bitcoin Purchase – Does He Know Something is Coming?](https://finance.yahoo.com/news/billionaire-michael-saylor-announces-1-133134376.html)**
+**[Strategy Buys Almost $1 Billion in Bitcoin Again in Past Week](https://www.bloomberg.com/news/articles/2025-12-15/strategy-buys-almost-1-billion-in-bitcoin-again-in-past-week)**
 
-Bitcoin bull Michael Saylor’s Strategy has doubled down on its long-standing conviction, announcing another massive Bitcoin buy worth nearly $1 billion. Key Takeaways: Strategy bought $980 million in Bitcoin, increasing its holdings to 671,268 BTC. The purchase was funded through stock sales The purchase comes after Strategy created a $1.44 ...
+Michael Saylor’s Strategy Inc. acquired almost $1 billion in Bitcoin for a second consecutive week, as the original digital asset treasury company continues to ramp up purchases following the recent pullback in the price of the largest cryptocurrency.
 
-Yahoo Finance • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Michael Saylor's Strategy acquires 10,645 bitcoin for $980 million, bringing total treasury holdings to 671,268 BTC](https://www.theblock.co/post/382490/michael-saylor-strategy-buys-bitcoin-nasdaq-100)**
+**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
 
-The Block • 1d ago
+Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -193,7 +203,7 @@ thestreet.com • 9h ago
 
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -201,23 +211,15 @@ Yahoo Finance • 8h ago
 
 Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
-**[Bitcoin Bleeding Continues As Cryptocurrency Nears $85,000](https://www.forbes.com/sites/digital-assets/2025/12/15/bitcoin-bleeding-continues-as-cryptocurrency-nears-85000/)**
+**[Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole](https://www.tradingview.com/news/cointelegraph:8b4424dd2094b:0-bitcoin-could-go-sub-50k-if-quantum-isn-t-solved-by-2028-capriole/)**
 
-Bitcoin prices extended their recent losses Monday, December 15, approaching $85,000 as the world’s most prominent digital currency struggled with notable headwinds.
+Charles Edwards, the founder of quantitative Bitcoin and digital asset fund Capriole, warns that Bitcoin could head well under $50,000 if it isn’t quantum-resistant by 2028.Quantum computing’s potential threat to the crypto industry has long been debated and is considered an upcoming inflection poi…
 
-Forbes • 1d ago
-
----
-
-**[Bitcoin May Be Repeating 1929 Great Depression, Top Bloomberg Strategist Warns](https://www.tradingview.com/news/u_today:4cd76d412094b:0-bitcoin-may-be-repeating-1929-great-depression-top-bloomberg-strategist-warns/)**
-
-In a recent post, Bloomberg Intelligence’s senior macro strategist Mike McGlone drew a direct parallel between the Bloomberg Galaxy Crypto Index in 2025 and the Dow in 1929, calling the setup "Peak Bitcoin?" and framing the current phase as the early stage of a purge, not a pause — a purge similar…
-
-TradingView — Track All Markets • 1d ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -281,7 +283,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 15h ago
+⬆️ 11 • 💬 3 • 16h ago
 
 ---
 
@@ -315,7 +317,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 124 • ⏱️ 13:25 • 7h ago
+👁️ 20K • 👍 1K • 💬 124 • ⏱️ 13:25 • 8h ago
 
 ---
 
@@ -325,7 +327,7 @@ Anthony and John Pompliano break down what's really happening in the bitcoin mar
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 608 • 💬 4 • ⏱️ 41:39 • 8h ago
+👁️ 12K • 👍 608 • 💬 4 • ⏱️ 41:39 • 9h ago
 
 ---
 

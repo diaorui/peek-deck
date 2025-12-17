@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T06:58:23.111164+00:00'
+updated: '2025-12-17T07:30:37.028373+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 06:58 UTC  
+**Last Updated:** December 17, 2025 at 07:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 10h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 13h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 15h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 16h ago
 
 ---
 
@@ -81,7 +81,7 @@ OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new fl
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 15h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 16h ago
 
 ---
 
@@ -123,7 +123,7 @@ We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built f
 
 A survey finds that 56% of psychologists are trying out artificial intelligence tools at work, mainly for administrative tasks. A majority also are concerned about harms of AI on patients and society.
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
@@ -131,21 +131,21 @@ NPR • 11h ago
 
 The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
 
-newsroom.churchofjesuschrist.org • 14h ago
+newsroom.churchofjesuschrist.org • 15h ago
 
 ---
 
-**[Trump pulled UK trade deal over AI clash](https://www.telegraph.co.uk/us/politics/2025/12/16/trump-pulled-uk-trade-deal-ai-starmer/)**
+**[How Companies Are Using AI to Squeeze More From Your Wallet](https://www.barrons.com/articles/retailers-test-ai-for-variable-pricing-consumer-targeting-9390f661?gaa_at=eafs&gaa_n=AWEtsqeB0Tx2JkDbVyAzAxuG_lpslD_iwzXBuixM5NoXS2QoZF6YO9BiI_Ss&gaa_ts=69425f81&gaa_sig=j745XeJXm5feuJbHpjxL1VS5Y2snExz2PMu6oPCGAnbCtIoBLujvl9kHb2XAHd-xwYLVJ1PzFy-OeuqmnWLvKQ%3D%3D)**
 
-White House paused tech prosperity deal over fears Online Safety Act would stifle US growth
-
-The Telegraph • 12h ago
+Barron's • 1h ago
 
 ---
 
-**[Cracks in Trump’s GOP widen over Reiner comments, AI](https://thehill.com/newsletters/morning-report/5650663-trump-gop-backlash-reiner-ai/)**
+**[AI griefbots create a computerized afterlife. It’s complicated.](https://theweek.com/tech/artificial-intelligence-griefbots-afterlife-controversy)**
 
-thehill.com • 19h ago
+Some say the machines help people mourn; others are skeptical
+
+The Week • 30m ago
 
 ---
 
@@ -153,43 +153,39 @@ thehill.com • 19h ago
 
 Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
 
-The Guardian • 1h ago
-
----
-
-**[Publishers’ scorecard for Big Tech’s AI licensing deals](https://digiday.com/media/publishers-scorecard-for-big-techs-ai-licensing-deals/)**
-
-Digiday has compiled a scorecard grading AI platforms to make sense of the growing number of players in the AI content licensing market.
-
-Digiday • 1h ago
-
----
-
-**[How Companies Are Using AI to Squeeze More From Your Wallet](https://www.barrons.com/articles/retailers-test-ai-for-variable-pricing-consumer-targeting-9390f661?gaa_at=eafs&gaa_n=AWEtsqfsNI5I1GalRYeQ1ZwxhBVOQwavBJIvjQSJHIdeoDLP-VHamoTBjq90&gaa_ts=694251ec&gaa_sig=TzXUNvr6UdeXhv9SdMWmJCmc3j0gAgG_9wjNEmYAIWS-PU7seKfKrBcIRNAGYP6mgdVZqAW39HSD_IgTqz5IBw%3D%3D)**
-
-Barron's • 58m ago
-
----
-
-**[OpenAI’s new flagship image generator AI is here](https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5)**
-
-The company is positioning it as especially good for enterprise use.
-
-The Verge • 12h ago
-
----
-
-**[OpenAI continues on its ‘code red’ warpath with new image generation model](https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model/)**
-
-OpenAI rolls out GPT Image 1.5 for ChatGPT, promising 4x faster generation, better instruction-following, and precise edits. The launch escalates its rivalry with Google Gemini.
-
-TechCrunch • 12h ago
+The Guardian • 2h ago
 
 ---
 
 **[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
 
-The Washington Post • 12h ago
+The Washington Post • 13h ago
+
+---
+
+**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
+
+Four ways to think about this year's reckoning
+
+MIT Technology Review • 1d ago
+
+---
+
+**[Evaluating AI’s ability to perform scientific research tasks](https://openai.com/index/frontierscience/)**
+
+OpenAI • 14h ago
+
+---
+
+**[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
+
+Reuters • 10h ago
+
+---
+
+**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -199,7 +195,7 @@ The Washington Post • 12h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 786 • 💬 241 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 792 • 💬 241 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -207,13 +203,13 @@ The Washington Post • 12h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 580 • 💬 971 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 580 • 💬 972 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 483 • 💬 236 • 9h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 530 • 💬 264 • 10h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -221,13 +217,13 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 395 • 💬 376 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 397 • 💬 376 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 370 • 💬 308 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 370 • 💬 310 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -239,19 +235,19 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 ---
 
+**[No AI* Here – A Response to Mozilla's Next Chapter](https://news.ycombinator.com/item?id=46295268)**
+
+Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
+
+⬆️ 257 • 💬 139 • 9h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+
+---
+
 **[AI and the ironies of automation – Part 2](https://news.ycombinator.com/item?id=46262816)**
 
 Some (well-known) consequences of AI automating work
 
 ⬆️ 256 • 💬 119 • 2d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
-
----
-
-**[No AI* Here – A Response to Mozilla's Next Chapter](https://news.ycombinator.com/item?id=46295268)**
-
-Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
-
-⬆️ 225 • 💬 128 • 8h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -267,7 +263,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 139 • 💬 50 • 21h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 141 • 💬 50 • 21h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -289,7 +285,7 @@ Manus released version 1.6 with its most powerful agent yet, pushing tasks to fi
 
 📺 AI Revolution
 
-👁️ 9K • 👍 349 • 💬 28 • ⏱️ 9:33 • 7h ago
+👁️ 9K • 👍 349 • 💬 28 • ⏱️ 9:33 • 8h ago
 
 ---
 
@@ -319,7 +315,7 @@ Notebooklm has a new update! ➡️ Digital Product Plan Builder: https://bit.ly
 
 📺 Success With Sam
 
-👁️ 3K • 👍 169 • 💬 12 • ⏱️ 17:32 • 14h ago
+👁️ 3K • 👍 169 • 💬 12 • ⏱️ 17:32 • 15h ago
 
 ---
 
@@ -383,7 +379,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,819 • 8d ago
+⬇️ 296,552 • ❤️ 2,824 • 8d ago
 
 ---
 
@@ -395,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 902 • 4d ago
+⬇️ 158,614 • ❤️ 903 • 4d ago
 
 ---
 
@@ -431,7 +427,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 269 • 1d ago
+⬇️ 10,487 • ❤️ 271 • 1d ago
 
 ---
 
@@ -455,7 +451,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 74,813 • ❤️ 241 • 5d ago
+⬇️ 74,813 • ❤️ 243 • 5d ago
 
 ---
 
@@ -467,7 +463,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 220 • 1h ago
+⬇️ 0 • ❤️ 221 • 1h ago
 
 ---
 
@@ -479,7 +475,7 @@ VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware spee
 
 `text-to-speech`
 
-⬇️ 2,401 • ❤️ 242 • 4d ago
+⬇️ 2,401 • ❤️ 244 • 4d ago
 
 ---
 
@@ -489,7 +485,7 @@ VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware spee
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 193 • 1d ago
+⬇️ 0 • ❤️ 195 • 1d ago
 
 ---
 
@@ -670,7 +666,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 317 • 10d ago
+⭐ 1.3k • 🔱 317 • 11d ago
 
 ---
 
@@ -720,7 +716,7 @@ ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · C
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 797 • 🔱 67 • 1h ago
+⭐ 797 • 🔱 67 • 2h ago
 
 ---
 
