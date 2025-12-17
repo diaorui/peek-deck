@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T11:28:56.751181+00:00'
+updated: '2025-12-17T11:45:11.443414+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 11:28 UTC  
+**Last Updated:** December 17, 2025 at 11:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-18h ago
+19h ago
 
 ---
 
@@ -73,7 +73,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 14h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 15h ago
 
 ---
 
@@ -81,13 +81,13 @@ OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new fl
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 19h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 20h ago
 
 ---
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 17h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 18h ago
 
 ---
 
@@ -103,7 +103,7 @@ Between the new US Executive Order 14179 and the EU AI Act, the regulatory "spli
 
 Anthony Enzor-DeMeo is taking charge of one of the internet’s most important — and most complicated — companies.
 
-🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 12h ago
+🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 13h ago
 
 ---
 
@@ -135,23 +135,39 @@ Reuters • 14h ago
 
 **[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
 
-Axios • 58m ago
+Axios • 1h ago
 
 ---
 
-**[Inside Microsoft CEO Satya Nadella's AI Revolution](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12)**
+**[How Workers Will Adapt in the AI Era](https://time.com/7341258/how-workers-will-adapt-in-ai-era/)**
 
-Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
+"Whether AI brings prosperity along with disruption—or only disruption—depends on choices made now."
 
-Business Insider • 1h ago
+Time Magazine • 18m ago
 
 ---
 
-**[Trump Reportedly Pausing $40 Billion AI and Quantum Deal With UK](https://gizmodo.com/trump-reportedly-pausing-40-billion-ai-and-quantum-deal-with-uk-2000700305)**
+**[What happens if AI data centres slip the ‘surly bonds of earth’?](https://www.ft.com/content/cc07f853-4f1d-4e69-8bfb-9220175656ab)**
 
-The President is allegedly leveraging the pause to push for looser food and online safety regulations in the UK
+Outsourcing this infrastructure to space comes with a host of problems
 
-Gizmodo • 1h ago
+Financial Times • 6h ago
+
+---
+
+**[Lewiston votes down AI data center after public outcry](https://www.pressherald.com/2025/12/16/lewiston-votes-down-ai-data-center-project-after-public-outcry/)**
+
+One councilor said the data center proposal for Bates Mill No. 3 yielded 'by far' the most public feedback he's received on a single issue.
+
+The Portland Press Herald • 9h ago
+
+---
+
+**[7 reasons Michigan should be wary of DTE/Open AI data center | Opinion](https://www.freep.com/story/opinion/editorials/2025/12/17/detroit-open-ai-michigan-data-center-saline-township-oracle/87740150007/)**
+
+The Michigan Public Service Commission is expected to weigh in on special contracts required to build the data center at a Dec. 18 meeting.
+
+Detroit Free Press • 42m ago
 
 ---
 
@@ -177,33 +193,19 @@ The Washington Post • 17h ago
 
 ---
 
-**[Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)**
-
-A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
-
-Financial Times • 6h ago
-
----
-
-**[Evaluating AI’s ability to perform scientific research tasks](https://openai.com/index/frontierscience/)**
-
-OpenAI • 18h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 802 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 805 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 642 • 💬 332 • 14h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 662 • 💬 340 • 14h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -233,7 +235,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 349 • 💬 204 • 13h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 367 • 💬 213 • 13h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -241,7 +243,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 298 • 💬 309 • 2d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 298 • 💬 310 • 2d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -265,7 +267,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 148 • 💬 50 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 150 • 💬 50 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -287,7 +289,7 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 144K • 👍 3K • 💬 720 • ⏱️ 14:37 • 19h ago
+👁️ 144K • 👍 3K • 💬 720 • ⏱️ 14:37 • 20h ago
 
 ---
 
@@ -315,7 +317,7 @@ WATCH THE OG:* https://www.youtube.com/watch?v=kX0niftUdmQ *JOIN THE DISCORD SER
 
 📺 7-ElevenZ
 
-👁️ 112K • 👍 4K • 💬 736 • ⏱️ 15:31 • 21h ago
+👁️ 112K • 👍 4K • 💬 736 • ⏱️ 15:31 • 22h ago
 
 ---
 
@@ -363,7 +365,7 @@ LinkedIn editor-in-chief Dan Roth joins TODAY to share his insights on workplace
 
 📺 TODAY
 
-👁️ 4K • 👍 39 • 💬 3 • ⏱️ 5:15 • 17h ago
+👁️ 4K • 👍 39 • 💬 3 • ⏱️ 5:15 • 18h ago
 
 ---
 
@@ -379,7 +381,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,834 • 8d ago
+⬇️ 296,552 • ❤️ 2,836 • 8d ago
 
 ---
 
@@ -391,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 907 • 4d ago
+⬇️ 158,614 • ❤️ 908 • 4d ago
 
 ---
 
@@ -403,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 279 • 1d ago
+⬇️ 10,487 • ❤️ 282 • 1d ago
 
 ---
 
@@ -427,7 +429,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 223 • 5h ago
+⬇️ 0 • ❤️ 224 • 5h ago
 
 ---
 
@@ -451,7 +453,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 102,395 • ❤️ 466 • 7d ago
+⬇️ 102,395 • ❤️ 467 • 7d ago
 
 ---
 
@@ -463,7 +465,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 192 • 1d ago
+⬇️ 0 • ❤️ 195 • 1d ago
 
 ---
 
@@ -485,7 +487,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 184 • 2h ago
+⬇️ 0 • ❤️ 189 • 3h ago
 
 ---
 

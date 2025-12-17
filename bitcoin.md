@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T11:28:56.759597+00:00'
+updated: '2025-12-17T11:45:11.451789+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 11:28 UTC  
+**Last Updated:** December 17, 2025 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1728.10B
+**Market Cap:** $1733.79B
 Rank #1
 
-**Circulating Supply:** 19,963,212 BTC
+**Circulating Supply:** 19,963,293 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.3%
+-31.1%
 
 **All-Time Low:** $67.81
-+127556.7%
++127990.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -119,7 +119,15 @@ I was genuinely surprised and shocked to see this, especially since our country 
 
 You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
 
-3h ago
+4h ago
+
+---
+
+**[That's so Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1pot57w/thats_so_bitcoin_right_now/)**
+
+Just keep hodling and don't trust the news
+
+1h ago
 
 ---
 
@@ -139,17 +147,15 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 ---
 
-**[Finally made it to 0.1 BTC](https://www.reddit.com/r/Bitcoin/comments/1po9tfz/finally_made_it_to_01_btc/)**
-
-25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
-
-16h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdHh97JlkH3fiJykvpOf0GL0srQ16dhGdZWJZJGh4S8u0S_fLZoilVV&gaa_ts=69429b2e&gaa_sig=vHhRR2VFBzVB7yUFxTiA5VG4gMltfYZSj_Mn1aM_8EMrqSjtS9MuBbp1U8BpeWUqMQVjFT-9RBXLlu9krMnl9w%3D%3D)**
+
+Barron's • 14h ago
+
+---
 
 **[BTC, ETH, ADA Price News: Bitcoin slides with ether and XRP as market tests $3 trillion floor](https://www.coindesk.com/markets/2025/12/17/bitcoin-slides-with-ether-and-xrp-as-market-tests-usd3t-floor)**
 
@@ -159,33 +165,49 @@ CoinDesk • 5h ago
 
 ---
 
-**[Bhutan Pledges $1 Billion in Bitcoin to Build ‘Mindfulness City’ Without Selling Reserves](https://finance.yahoo.com/news/bhutan-pledges-1-billion-bitcoin-094159201.html)**
+**[How a stronger Chinese yuan (CNY) could lift bitcoin (BTC)](https://www.coindesk.com/markets/2025/12/17/how-strengthening-chinese-yuan-can-affect-bitcoin)**
 
-Bhutan unveiled a national Bitcoin Development Pledge on Tuesday, committing up to 10,000 BTC, worth approximately $1 billion, to fund construction of Gelephu Mindfulness City without liquidating its sovereign digital asset reserves.King Jigme Khesar Namgyel Wangchuck announced the allocation during his National Day Address, framing the commitment as a generational ...
+The yuan has rise to its highest in over two months against the dollar.
+
+CoinDesk • 17m ago
+
+---
+
+**[This Bitcoin Decline Is Not Like the Others](https://www.bloomberg.com/news/newsletters/2025-12-17/this-bitcoin-decline-is-not-like-the-others)**
+
+Bitcoin has decoupled from stocks, despite an abundance of would-be catalysts.
+
+Bloomberg.com • 21m ago
+
+---
+
+**[Bitcoin to Be ‘Hardened’ by Quantum Computing, Says Michael Saylor — Warnings Surge](https://finance.yahoo.com/news/bitcoin-hardened-quantum-computing-says-102215072.html)**
+
+Michael Saylor argues that quantum computing would ultimately strengthen Bitcoin. On-chain analysts say Bitcoin is not facing an existential threat from quantum computing. Grayscale expects ...
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bhutan Pledges $1B in Bitcoin to Support Gelephu Mindfulness City Development](https://www.coindesk.com/policy/2025/12/17/bhutan-commits-up-to-10-000-bitcoin-to-back-new-mindfulness-based-economic-hub)**
+**[Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole](https://www.tradingview.com/news/cointelegraph:8b4424dd2094b:0-bitcoin-could-go-sub-50k-if-quantum-isn-t-solved-by-2028-capriole/)**
 
-Bhutan has pledged up to 10,000 BTC to support the development of Gelephu Mindfulness City, deepening the country’s long-term digital asset strategy.
+Charles Edwards, the founder of quantitative Bitcoin and digital asset fund Capriole, warns that Bitcoin could head well under $50,000 if it isn’t quantum-resistant by 2028.Quantum computing’s potential threat to the crypto industry has long been debated and is considered an upcoming inflection poi…
 
-CoinDesk • 1h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
-**[Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City](https://decrypt.co/352685/bhutan-pledges-10000-bitcoin-worth-1b-fund-mindfulness-city)**
+**[Zero-Knowledge Tech Is the Key to Quantum-Proofing Bitcoin](https://www.coindesk.com/opinion/2025/12/16/zero-knowledge-tech-is-the-key-to-quantum-proofing-bitcoin)**
 
-The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
+We can quibble over the exact timeline, but the quantum future is an approaching certainty, argues Arpa Network CEO Felix Xu. The time to act is now, while we still can.
 
-Decrypt • 4h ago
+CoinDesk • 14h ago
 
 ---
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 13h ago
+thestreet.com • 14h ago
 
 ---
 
@@ -202,30 +224,6 @@ Yahoo Finance • 13h ago
 Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
 
 TradingView — Track All Markets • 15h ago
-
----
-
-**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
-
-Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
-
-Financial Times • 2d ago
-
----
-
-**[Serious 2026 $3 Trillion Crypto ‘Collapse’ Fed Warning Issued—$10,000 Bitcoin Price Predicted As Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2025/12/16/serious-2026-3-trillion-crypto-collapse-fed-warning-issued-10000-bitcoin-price-predicted-as-crash-fears-swirl/)**
-
-The bitcoin price could be teetering on the verge of a massive crash that could wipe out almost all cryptocurrencies...
-
-Forbes • 22h ago
-
----
-
-**[Speed Raises $8 Million to Expand Bitcoin and Stablecoin Payment Solutions](https://www.pymnts.com/news/fintech-investments/2025/speed-raises-8-million-dollars-expand-bitcoin-stablecoin-payment-solutions/)**
-
-Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
-
-PYMNTS.com • 14h ago
 
 ---
 
@@ -273,14 +271,6 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 ---
 
-**[IETF draft and Rust POC: NTP for Bitcoin price (no oracles)](https://news.ycombinator.com/item?id=46216539)**
-
-NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
-
-⬆️ 1 • 💬 0 • 7d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
-
----
-
 **[Show HN: Glogos: a consensus-free attestation proposal](https://news.ycombinator.com/item?id=46225485)**
 
 ⬆️ 2 • 💬 0 • 6d ago
@@ -303,7 +293,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 3K • 💬 199 • ⏱️ 9:01 • 12h ago
+👁️ 40K • 👍 3K • 💬 199 • ⏱️ 9:01 • 13h ago
 
 ---
 
@@ -313,7 +303,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 317 • 💬 101 • ⏱️ 10:50 • 10h ago
+👁️ 6K • 👍 317 • 💬 101 • ⏱️ 10:50 • 11h ago
 
 ---
 
@@ -353,7 +343,7 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 1K • 💬 227 • ⏱️ 18:36 • 12h ago
+👁️ 34K • 👍 1K • 💬 227 • ⏱️ 18:36 • 13h ago
 
 ---
 
@@ -383,7 +373,7 @@ Crypto looks chaotic on the surface — but underneath, a structural reset is ta
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 11K • 👍 261 • 💬 78 • ⏱️ 9:42 • 8h ago
+👁️ 11K • 👍 261 • 💬 78 • ⏱️ 9:42 • 9h ago
 
 ---
 

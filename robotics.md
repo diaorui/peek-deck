@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T11:28:56.769103+00:00'
+updated: '2025-12-17T11:45:11.461076+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 11:28 UTC  
+**Last Updated:** December 17, 2025 at 11:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -126,6 +126,22 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
+
+Tech historians may look back on 2025 as a kind of trough in consumer robotics.
+
+CNN • 14m ago
+
+---
+
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 45m ago
+
+---
+
 **[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
@@ -148,35 +164,11 @@ The Republic News • 1d ago
 
 ---
 
-**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
-
-They make robot vacuums, lots of them
-
-The Verge • 2d ago
-
----
-
-**[iRobot Announces Strategic Transaction to Drive Long-Term Growth Plan](https://www.prnewswire.com/news-releases/irobot-announces-strategic-transaction-to-drive-long-term-growth-plan-302641744.html)**
-
-/PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
-
-PR Newswire • 2d ago
-
----
-
-**[iRobot’s Cofounder Weighs In on Company’s Bankruptcy](https://spectrum.ieee.org/irobot-bankruptcy-colin-angle-amazon)**
-
-iRobot's assets are now in the hands of a Chinese partner. What does this mean for the future of home robotics?
-
-IEEE Spectrum • 15h ago
-
----
-
 **[Cofounder of bankrupt Roomba maker iRobot says Elon Musk's vision of robots is 'pure fantasy'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -185,6 +177,14 @@ Fortune • 20h ago
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
 South China Morning Post • 3d ago
+
+---
+
+**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
+
+They make robot vacuums, lots of them
+
+The Verge • 2d ago
 
 ---
 
