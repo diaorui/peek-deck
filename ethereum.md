@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T11:45:11.457811+00:00'
+updated: '2025-12-17T11:56:10.721878+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 11:45 UTC  
+**Last Updated:** December 17, 2025 at 11:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -9.4%  
-**30d:** -6.2%  
-**90d:** -34.4%  
-**1y:** -19.2%  
+**24h:** -0.8%  
+**7d:** -9.5%  
+**30d:** -6.3%  
+**90d:** -34.5%  
+**1y:** -19.3%  
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 21h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 22h ago
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -236,7 +236,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 3K • 💬 22 • ⏱️ 7:49 • 23h ago
+👁️ 19K • 👍 3K • 💬 22 • ⏱️ 7:49 • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Nick Ford
 
-👁️ 223 • 👍 1 • ⏱️ 1:54 • 5h ago
+👁️ 223 • 👍 1 • ⏱️ 1:54 • 6h ago
 
 ---
 
@@ -284,7 +284,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 18K • 👍 2K • 💬 247 • ⏱️ 15:51 • 18h ago
+👁️ 18K • 👍 2K • 💬 247 • ⏱️ 15:51 • 19h ago
 
 ---
 

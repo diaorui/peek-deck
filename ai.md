@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T11:45:11.443414+00:00'
+updated: '2025-12-17T11:56:10.707485+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 11:45 UTC  
+**Last Updated:** December 17, 2025 at 11:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -143,7 +143,7 @@ Axios • 1h ago
 
 "Whether AI brings prosperity along with disruption—or only disruption—depends on choices made now."
 
-Time Magazine • 18m ago
+Time Magazine • 29m ago
 
 ---
 
@@ -167,7 +167,7 @@ The Portland Press Herald • 9h ago
 
 The Michigan Public Service Commission is expected to weigh in on special contracts required to build the data center at a Dec. 18 meeting.
 
-Detroit Free Press • 42m ago
+Detroit Free Press • 53m ago
 
 ---
 
@@ -429,7 +429,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 224 • 5h ago
+⬇️ 0 • ❤️ 224 • 6h ago
 
 ---
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.1k • 🔱 440 • 21h ago
+⭐ 4.1k • 🔱 440 • 22h ago
 
 ---
 
@@ -677,7 +677,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 13h ago
+⭐ 1.1k • 🔱 138 • 14h ago
 
 ---
 

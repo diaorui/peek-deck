@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T11:45:11.451789+00:00'
+updated: '2025-12-17T11:56:10.715881+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 11:45 UTC  
+**Last Updated:** December 17, 2025 at 11:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,627.61
+### $87,117.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -6.2%  
-**30d:** -6.5%  
-**90d:** -24.9%  
-**1y:** -13.6%  
+**24h:** -0.1%  
+**7d:** -6.0%  
+**30d:** -6.4%  
+**90d:** -24.8%  
+**1y:** -13.5%  
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 I was genuinely surprised and shocked to see this, especially since our country is low-income and very slow when it comes to new technologies. Nice to see things are moving forward. P.S. Bosnia and Herzegovina, Europe
 
-2h ago
+3h ago
 
 ---
 
@@ -143,7 +143,7 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-18h ago
+19h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 5h ago
 
 The yuan has rise to its highest in over two months against the dollar.
 
-CoinDesk • 17m ago
+CoinDesk • 28m ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 17m ago
 
 Bitcoin has decoupled from stocks, despite an abundance of would-be catalysts.
 
-Bloomberg.com • 21m ago
+Bloomberg.com • 32m ago
 
 ---
 
@@ -201,7 +201,7 @@ TradingView — Track All Markets • 5h ago
 
 We can quibble over the exact timeline, but the quantum future is an approaching certainty, argues Arpa Network CEO Felix Xu. The time to act is now, while we still can.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -353,7 +353,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 3K • 💬 22 • ⏱️ 7:49 • 23h ago
+👁️ 19K • 👍 3K • 💬 22 • ⏱️ 7:49 • 1d ago
 
 ---
 
