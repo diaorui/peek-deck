@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T19:42:12.905319+00:00'
+updated: '2025-12-17T19:53:40.914091+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 19:42 UTC  
+**Last Updated:** December 17, 2025 at 19:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.0%  
-**7d:** -13.3%  
-**30d:** -10.3%  
-**90d:** -37.3%  
-**1y:** -22.7%  
+**24h:** -4.3%  
+**7d:** -12.7%  
+**30d:** -9.6%  
+**90d:** -36.8%  
+**1y:** -22.2%  
 
 ---
 
@@ -98,7 +98,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -216,13 +216,13 @@ TipRanks • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=f7OwaX9MfAQ)**
+**[Tom Lee Warning: “Here&#39;s Why We’re Set Up for a Strong Crypto Rally Into Year-End” [Prediction]](https://www.youtube.com/watch?v=MGJzxRGNalw)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bitcoin really break its own four year cycle? And if it ...
 
-📺 More Crypto Online
+📺 Crypto Nutshell
 
-👁️ 792 • 👍 77 • 💬 4 • ⏱️ 4:45 • 3h ago
+👁️ 3K • 👍 171 • 💬 10 • ⏱️ 20:34 • 4h ago
 
 ---
 
@@ -232,17 +232,17 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 317 • 💬 54 • ⏱️ 11:01 • 19h ago
+👁️ 6K • 👍 330 • 💬 55 • ⏱️ 11:01 • 19h ago
 
 ---
 
-**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=f7OwaX9MfAQ)**
 
-THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Altcoin Daily
+📺 More Crypto Online
 
-👁️ 64K • 👍 3K • 💬 243 • ⏱️ 12:16 • 1d ago
+👁️ 1K • 👍 97 • 💬 5 • ⏱️ 4:45 • 4h ago
 
 ---
 
@@ -252,7 +252,17 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 443 • 👍 28 • 💬 1 • ⏱️ 5:36 • 9h ago
+👁️ 520 • 👍 27 • 💬 1 • ⏱️ 5:36 • 9h ago
+
+---
+
+**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
+
+THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
+
+📺 Altcoin Daily
+
+👁️ 65K • 👍 3K • 💬 243 • ⏱️ 12:16 • 1d ago
 
 ---
 
@@ -272,7 +282,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 172 • 💬 40 • ⏱️ 8:42 • 1d ago
+👁️ 3K • 👍 175 • 💬 41 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -282,27 +292,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 4K • 👍 252 • 💬 50 • ⏱️ 10:03 • 2d ago
-
----
-
-**[BLACKROCK IS OFFLOADING BITCOIN &amp; ETH - PREPARE FOR YEN HIKE](https://www.youtube.com/watch?v=qIaZJVZwkb4)**
-
-Are blackrock clients removing risk from the table in preparation for the Japanese rate hike? We have 24 hours till the countdown ...
-
-📺 Traders Reality
-
-👁️ 4K • 👍 480 • 💬 16 • ⏱️ 32:42 • 4h ago
-
----
-
-**[&quot;The 23-Hour Stock Market: What It Means for Ethereum &amp; BMNR&quot;](https://www.youtube.com/watch?v=zPbSe5ddR8M)**
-
-The line between the stock market and crypto is vanishing. Nasdaq has officially filed a proposal to extend trading hours to 23 ...
-
-📺 CryptoStock Lab
-
-👁️ 427 • 👍 18 • 💬 13 • ⏱️ 12:47 • 7h ago
+👁️ 4K • 👍 253 • 💬 51 • ⏱️ 10:03 • 2d ago
 
 ---
 
@@ -310,7 +300,17 @@ The line between the stock market and crypto is vanishing. Nasdaq has officially
 
 📺 Nick Ford
 
-👁️ 511 • 👍 4 • 💬 2 • ⏱️ 1:54 • 13h ago
+👁️ 591 • 👍 5 • 💬 2 • ⏱️ 1:54 • 14h ago
+
+---
+
+**[Cathie Wood Swaps Tesla For Ethereum🚨Crypto Market Update](https://www.youtube.com/watch?v=r74Wf7xsdXk)**
+
+Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a consumer-focused blockchain, each taking on key ...
+
+📺 Paul Barron Network
+
+👁️ 54K • 👍 2K • 💬 122 • ⏱️ 13:11 • 1d ago
 
 ---
 

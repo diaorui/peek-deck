@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T19:42:12.908530+00:00'
+updated: '2025-12-17T19:53:40.917306+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 19:42 UTC  
+**Last Updated:** December 17, 2025 at 19:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
 
-1h ago
+2h ago
 
 ---
 
@@ -140,7 +140,7 @@ CNN • 8h ago
 
 The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.&nbsp;&nbsp;
 
-The Atlantic • 1h ago
+The Atlantic • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 58K • 👍 886 • 💬 132 • ⏱️ 11:23 • 1d ago
+👁️ 60K • 👍 897 • 💬 132 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -212,15 +212,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 28K • 👍 698 • 💬 113 • ⏱️ 6:41 • 3d ago
-
----
-
-**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
-
-📺 AI . Robot
-
-👁️ 440K • 👍 4K • 💬 41 • ⏱️ 0:21 • 3d ago
+👁️ 28K • 👍 699 • 💬 113 • ⏱️ 6:41 • 3d ago
 
 ---
 
@@ -230,7 +222,15 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 363K • 👍 12K • 💬 391 • ⏱️ 0:34 • 3d ago
+👁️ 366K • 👍 12K • 💬 400 • ⏱️ 0:34 • 3d ago
+
+---
+
+**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
+
+📺 AI . Robot
+
+👁️ 449K • 👍 4K • 💬 41 • ⏱️ 0:21 • 3d ago
 
 ---
 
@@ -240,7 +240,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 17K • 👍 2K • 💬 47 • ⏱️ 1:38 • 1d ago
+👁️ 18K • 👍 2K • 💬 47 • ⏱️ 1:38 • 1d ago
 
 ---
 
@@ -248,15 +248,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 AI . Robot
 
-👁️ 132K • 👍 1K • 💬 16 • ⏱️ 0:13 • 1d ago
-
----
-
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=5du7Itx0Xmg)**
-
-📺 Borunte Robot Lin 
-
-👁️ 5K • 👍 20 • ⏱️ 0:20 • 15h ago
+👁️ 141K • 👍 1K • 💬 16 • ⏱️ 0:13 • 1d ago
 
 ---
 
@@ -266,7 +258,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 30K • 👍 297 • 💬 31 • ⏱️ 1:05 • 2d ago
+👁️ 31K • 👍 301 • 💬 31 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -276,7 +268,17 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 
 📺 RICHLEV
 
-👁️ 175K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
+👁️ 176K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
+
+---
+
+**[Testing the Latest Girlfriend Robot My Eye Can&#39;t Believe This #robotics #tech #AI](https://www.youtube.com/watch?v=8BM43krXJXw)**
+
+Discover the latest girlfriend robot in this eye-opening tech expo experience! Explore advanced AI and robotics designed to ...
+
+📺 Ricey Rice
+
+👁️ 267K • 👍 873 • 💬 11 • ⏱️ 0:06 • 2d ago
 
 ---
 
@@ -286,7 +288,7 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 
 📺 Associated Press
 
-👁️ 28K • 👍 105 • 💬 44 • ⏱️ 1:26 • 4d ago
+👁️ 28K • 👍 106 • 💬 44 • ⏱️ 1:26 • 4d ago
 
 ---
 

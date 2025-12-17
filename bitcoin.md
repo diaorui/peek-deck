@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T19:42:12.899355+00:00'
+updated: '2025-12-17T19:53:40.908067+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 19:42 UTC  
+**Last Updated:** December 17, 2025 at 19:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,455.44
+### $86,037.86
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -2.2%  
-**7d:** -7.3%  
+**7d:** -7.4%  
 **30d:** -7.7%  
 **90d:** -25.8%  
 **1y:** -14.7%  
@@ -99,7 +99,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 3h ago
 
 **[The Daily: US senators introduce crypto fraud bill, K33 flags easing bitcoin sell pressure, BitMine adds $140M in ETH, and more](https://www.theblock.co/post/383044/the-daily-us-senators-introduce-crypto-fraud-bill-k33-flags-easing-bitcoin-sell-pressure-bitmine-adds-140m-in-eth-and-more?utm_source=companies.xml&utm_medium=rss)**
 
-The Block • 37m ago
+The Block • 49m ago
 
 ---
 
@@ -173,7 +173,7 @@ Financial Times • 2d ago
 
 **[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Block • 1d ago
 
 Crypto investment firm Bitwise believes Bitcoin will set a new all-time high price in 2026 and end the typical four-year cycle. Here's why.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -287,17 +287,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 420 • 💬 94 • ⏱️ 8:33 • 4h ago
-
----
-
-**[CRYPTO TRAP! They Are Lying To You About This Bitcoin Crash](https://www.youtube.com/watch?v=y1Qrr3lVMGo)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 50K • 👍 3K • 💬 229 • ⏱️ 9:01 • 21h ago
+👁️ 10K • 👍 578 • 💬 169 • ⏱️ 8:33 • 4h ago
 
 ---
 
@@ -307,17 +297,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 74 • ⏱️ 48:48 • 4h ago
-
----
-
-**[ALL IN! Crypto Investors Clear Message for 2026 [Max Bullish]](https://www.youtube.com/watch?v=q4y50ladu2w)**
-
-Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly with some of the biggest crypto investors, ...
-
-📺 Crypto Banter
-
-👁️ 7K • 👍 681 • 💬 25 • ⏱️ 48:33 • 5h ago
+👁️ 25K • 👍 1K • 💬 130 • ⏱️ 48:48 • 4h ago
 
 ---
 
@@ -327,7 +307,27 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 563 • 💬 173 • ⏱️ 46:53 • 4h ago
+👁️ 11K • 👍 708 • 💬 276 • ⏱️ 46:53 • 4h ago
+
+---
+
+**[CRYPTO TRAP! They Are Lying To You About This Bitcoin Crash](https://www.youtube.com/watch?v=y1Qrr3lVMGo)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 53K • 👍 3K • 💬 239 • ⏱️ 9:01 • 21h ago
+
+---
+
+**[ALL IN! Crypto Investors Clear Message for 2026 [Max Bullish]](https://www.youtube.com/watch?v=q4y50ladu2w)**
+
+Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly with some of the biggest crypto investors, ...
+
+📺 Crypto Banter
+
+👁️ 11K • 👍 875 • 💬 37 • ⏱️ 48:33 • 5h ago
 
 ---
 
@@ -337,17 +337,17 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 3K • 👍 552 • 💬 71 • ⏱️ 9:00 • 3h ago
+👁️ 8K • 👍 894 • 💬 105 • ⏱️ 9:00 • 3h ago
 
 ---
 
-**[Bitcoin This Is Very Weird](https://www.youtube.com/watch?v=B1bqYbqfV3c)**
+**[(LIVE) DISGUSTING CRYPTO PUMP AND DUMP - WTF JUST HAPPENED?](https://www.youtube.com/watch?v=j-OzxgsybUY)**
 
-BTC, SOL, ETH, bear market, and stocks! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
+Welcome Back To The Channel! Sign Up on BTCC – Get Up to $20000 in Rewards & A 10% Deposit Bonus: ...
 
-📺 Lark Davis
+📺 Tyler Hill Crypto
 
-👁️ 10K • 👍 608 • 💬 43 • ⏱️ 57:30 • 7h ago
+👁️ 4K • 👍 222 • 💬 24 • ⏱️ 49:16 • 1h ago
 
 ---
 
@@ -357,27 +357,27 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 16K • 👍 1K • 💬 109 • ⏱️ 38:13 • 10h ago
+👁️ 18K • 👍 1K • 💬 109 • ⏱️ 38:13 • 10h ago
 
 ---
 
-**[Bitcoin Support On Thin Ice As RSI Crashes Below 30… But It May Not Matter](https://www.youtube.com/watch?v=oYr5Ic58Qfs)**
+**[WHY IS CRYPTO DUMPING? Bank Of Japan Tesla &amp; Silver PUMP Live BTC Trading BCH Bitcoin Cash](https://www.youtube.com/watch?v=keScbVJHDzo)**
 
-In this clip, I talk about the current state of bitcoin as RSI crashes to rare levels. **Exchange Partners** Bitunix Exchange ...
+Come look into the next BIG move in crypto! All LIVE analysis, charting, and trades! 1️⃣ SIGN UP With ANY ...
 
-📺 CryptosRus Extra
+📺 Tom Crown
 
-👁️ 7K • 👍 327 • 💬 172 • ⏱️ 10:50 • 19h ago
+👁️ 3K • 👍 315 • 2h ago
 
 ---
 
-**[Is Bitcoin Entering a DECADE-LONG SUPERCYCLE? | $5 Trillion Says YES](https://www.youtube.com/watch?v=RMOkhRkiKW4)**
+**[BREAKING: BITCOIN JUST DID THIS FOR FIRST TIME SINCE 2020 – THIS HAPPENED NEXT](https://www.youtube.com/watch?v=vzVpMNGR9oU)**
 
-Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercycle, similar to the massive commodity boom of ...
+INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://cryptocrewuniversity.com/sibmy ...
 
-📺 Simply Bitcoin
+📺 Crypto Crew University
 
-👁️ 30K • 👍 2K • 💬 211 • ⏱️ 13:25 • 20h ago
+👁️ 39K • 👍 2K • 💬 168 • ⏱️ 8:22 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T19:42:12.890957+00:00'
+updated: '2025-12-17T19:53:40.899505+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 19:42 UTC  
+**Last Updated:** December 17, 2025 at 19:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 57m ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 1h ago
 
 ---
 
@@ -97,7 +97,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 This was the year that A.I.-generated content passed a kind of audiovisual Turing test, sometimes fooling us against our better judgment.
 
-🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 24m ago
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 35m ago
 
 ---
 
@@ -139,7 +139,7 @@ Vox • 7h ago
 
 Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving at the end of this year, the company confirmed.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -161,13 +161,13 @@ Reuters • 1h ago
 
 The Greene County Sheriff's Office will conduct a 6-month-long study to explore the use of AI-enabled body cameras.
 
-Springfield News-Leader • 51m ago
+Springfield News-Leader • 1h ago
 
 ---
 
 **[Boise man arrested under Idaho law banning AI child pornography](https://www.idahostatesman.com/news/local/crime/article313779388.html)**
 
-Idaho Statesman • 30m ago
+Idaho Statesman • 42m ago
 
 ---
 
@@ -275,13 +275,13 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 ## YouTube Videos: "ai"
 
-**[Gemini Super Gems: Google&#39;s NEW AI Super Agent! Goodbye N8N! (FULLY FREE AI App Generator)](https://www.youtube.com/watch?v=1choivCbZDg)**
+**[I built another AI Agent in 2 hours (and got paid $2600)](https://www.youtube.com/watch?v=bxGE_LXPyAU)**
 
-Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=901177 Google just dropped Super Gems in ...
+Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about All my FREE resources: ...
 
-📺 WorldofAI
+📺 Nate Herk | AI Automation
 
-👁️ 13K • 👍 490 • 💬 37 • ⏱️ 11:44 • 13h ago
+👁️ 4K • 👍 268 • 💬 21 • ⏱️ 27:34 • 4h ago
 
 ---
 
@@ -291,7 +291,7 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 166K • 👍 4K • 💬 1K • ⏱️ 14:37 • 1d ago
+👁️ 176K • 👍 4K • 💬 1K • ⏱️ 14:37 • 1d ago
 
 ---
 
@@ -299,7 +299,27 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Alberta Tech
 
-👁️ 1.1M • 👍 38K • 💬 614 • ⏱️ 0:34 • 1d ago
+👁️ 1.1M • 👍 39K • 💬 618 • ⏱️ 0:34 • 1d ago
+
+---
+
+**[Gemini Super Gems: Google&#39;s NEW AI Super Agent! Goodbye N8N! (FULLY FREE AI App Generator)](https://www.youtube.com/watch?v=1choivCbZDg)**
+
+Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=901177 Google just dropped Super Gems in ...
+
+📺 WorldofAI
+
+👁️ 15K • 👍 555 • 💬 33 • ⏱️ 11:44 • 13h ago
+
+---
+
+**[Dagen McDowell: I&#39;ve never bought into AI alarmism](https://www.youtube.com/watch?v=5VjB0DMm0kY)**
+
+'The Big Money Show' weighs in the impact of the boost in A.I. productivity on the labor market as well as its application for job use ...
+
+📺 Fox Business
+
+👁️ 7K • 👍 168 • 💬 77 • ⏱️ 7:54 • 22h ago
 
 ---
 
@@ -309,17 +329,27 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 58K • 👍 886 • 💬 132 • ⏱️ 11:23 • 1d ago
+👁️ 60K • 👍 897 • 💬 132 • ⏱️ 11:23 • 1d ago
 
 ---
 
-**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
+**[Did OpenAI just kill Nano Banana Pro?](https://www.youtube.com/watch?v=75b_5Y_jipg)**
 
-IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
+GPT-Image-1.5 review. GPT Image 1.5 vs Nano Banana Pro. OpenAI's top AI image generator. #ai #aitools #aiart ...
 
-📺 Eurodollar University
+📺 AI Search
 
-👁️ 224K • 👍 7K • 💬 1K • ⏱️ 20:44 • 2d ago
+👁️ 58K • 👍 2K • 💬 553 • ⏱️ 31:47 • 16h ago
+
+---
+
+**[Workplace Trends 2026: AI Recruitment, Boomerang Hiring, More](https://www.youtube.com/watch?v=3Ik1DMkYN1U)**
+
+LinkedIn editor-in-chief Dan Roth joins TODAY to share his insights on workplace trends for 2026, including how AI is becoming ...
+
+📺 TODAY
+
+👁️ 7K • 👍 84 • 💬 10 • ⏱️ 5:15 • 1d ago
 
 ---
 
@@ -329,43 +359,17 @@ Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bily
 
 📺 Tom Bilyeu
 
-👁️ 67K • 👍 3K • 💬 737 • ⏱️ 23:28 • 2d ago
+👁️ 67K • 👍 3K • 💬 740 • ⏱️ 23:28 • 2d ago
 
 ---
 
-**[Ai Brains In Earth Orbit 🤯 #shorts #ytshorts #lightinsky](https://www.youtube.com/watch?v=vN_WMkhffsg)**
+**[Manus Just Dropped Its Most Powerful AI Yet](https://www.youtube.com/watch?v=vXMrezKs8Hw)**
 
-Ai Brains In Earth Orbit AI doesn't just work on Earth anymore — its future may be in space. Today's AI relies on massive ...
+Manus released version 1.6 with its most powerful agent yet, pushing tasks to finish end to end with less supervision and fewer ...
 
-📺 Light in sky
+📺 AI Revolution
 
-👁️ 726 • 👍 24 • 💬 1 • ⏱️ 0:44 • 5h ago
-
----
-
-**[Ben Smith: Trump is betting his presidency on AI. Can he sell it?](https://www.youtube.com/watch?v=yI6__4Ojwz4)**
-
-Semafor's Ben Smith discusses the president's shift to becoming what he calls the 'AI president'. MS NOW: My Source for News, ...
-
-📺 MS NOW
-
-👁️ 18K • 👍 208 • 💬 77 • ⏱️ 10:03 • 2d ago
-
----
-
-**[Testing my parents if they can spot AI products￼￼? 🤔🎄🎁 #ai #christmasshopping #shopping](https://www.youtube.com/watch?v=tjRl3odfKbw)**
-
-📺 Thedapperdanielle
-
-👁️ 1.4M • 👍 120K • 💬 3K • ⏱️ 3:01 • 2d ago
-
----
-
-**[The Evolution Of AI #funny](https://www.youtube.com/watch?v=ROyPcyg3-Rc)**
-
-📺 Biggy Bailey
-
-👁️ 442K • 👍 21K • 💬 78 • ⏱️ 1:01 • 1d ago
+👁️ 15K • 👍 495 • 💬 39 • ⏱️ 9:33 • 20h ago
 
 ---
 
@@ -429,7 +433,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 228 • 13h ago
+⬇️ 0 • ❤️ 228 • 14h ago
 
 ---
 
