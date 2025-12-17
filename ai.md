@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T23:16:58.260066+00:00'
+updated: '2025-12-17T23:36:08.014928+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 23:16 UTC  
+**Last Updated:** December 17, 2025 at 23:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Hack Reveals the a16z-Backed Phone Farm Flooding TikTok With AI Influencers](https://www.reddit.com/r/artificial/comments/1poynd6/hack_reveals_the_a16zbacked_phone_farm_flooding/)**
-
-A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
-
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 8h ago
-
----
-
 **[Nadella's message to Microsoft execs: Get on board with the AI grind or get out](https://www.reddit.com/r/artificial/comments/1pp90g0/nadellas_message_to_microsoft_execs_get_on_board/)**
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
 🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 1h ago
+
+---
+
+**[Hack Reveals the a16z-Backed Phone Farm Flooding TikTok With AI Influencers](https://www.reddit.com/r/artificial/comments/1poynd6/hack_reveals_the_a16zbacked_phone_farm_flooding/)**
+
+A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
+
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 8h ago
 
 ---
 
@@ -77,6 +77,14 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 ---
 
+**[Google releases Gemini 3 Flash, promising improved intelligence and efficiency | Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.](https://www.reddit.com/r/artificial/comments/1ppasjd/google_releases_gemini_3_flash_promising_improved/)**
+
+Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
+
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 41m ago
+
+---
+
 **[Adding verification nodes made our agent system way more stable](https://www.reddit.com/r/artificial/comments/1pp6jii/adding_verification_nodes_made_our_agent_system/)**
 
 In our multi-step workflow where each step depended on the previous one’s output, problems we observed were silent errors: malformed JSON, missing fields, incorrect assumptions, etc. We added verification nodes between steps: check structure check schema check grounding retry or escalate if needed It turned the system from unpredictable to stable. It reminded me of how traditional systems use validation layers, but here the cost of skipping them compounds faster because each output becomes the next input. Anyone else tried adding checkpoints between AI-driven steps? What verification patterns worked for you?
@@ -89,7 +97,15 @@ In our multi-step workflow where each step depended on the previous one’s outp
 
 This was the year that A.I.-generated content passed a kind of audiovisual Turing test, sometimes fooling us against our better judgment.
 
-🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 3h ago
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 4h ago
+
+---
+
+**[Teachers are using software to see if students used AI. What happens when it's wrong?](https://www.reddit.com/r/artificial/comments/1pp77ps/teachers_are_using_software_to_see_if_students/)**
+
+School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
+
+🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 3h ago
 
 ---
 
@@ -101,31 +117,9 @@ This was the year that A.I.-generated content passed a kind of audiovisual Turin
 
 ---
 
-**[Grok chatbot faces scrutiny after sharing false claims about Bondi Beach shooting](https://www.reddit.com/r/artificial/comments/1po74xm/grok_chatbot_faces_scrutiny_after_sharing_false/)**
-
-Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 1d ago
-
----
-
-**[Teachers are using software to see if students used AI. What happens when it's wrong?](https://www.reddit.com/r/artificial/comments/1pp77ps/teachers_are_using_software_to_see_if_students/)**
-
-School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
-
-🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 2h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
-
-Reuters • 7h ago
-
----
 
 **[Micron forecasts surging revenue as computer memory demand for AI remains high](https://www.cnbc.com/2025/12/17/micron-q1-earnings-forecast-memory-demand-ai.html)**
 
@@ -135,11 +129,11 @@ CNBC • 1h ago
 
 ---
 
-**[Micron forecasts blowout earnings on booming AI market, shares rise 5.7%](https://finance.yahoo.com/news/chipmaker-micron-forecasts-quarterly-revenue-210411999.html)**
+**[Micron forecasts blowout earnings on booming AI market, shares rise 7.8%](https://finance.yahoo.com/news/chipmaker-micron-forecasts-quarterly-revenue-210411999.html)**
 
 Micron Technology forecast second-quarter adjusted profit at nearly double ​what Wall Street analysts expected on Wednesday, buoyed by ‌soaring prices for memory chips spurred by tight supplies and booming demand ‌from artificial intelligence data centers. Shares of the Boise, Idaho-based company rose 14% in extended trading after the forecast. Micron said it expected adjusted profit of $8.42 per share, plus or minus 20 ⁠cents, versus analyst estimates ‌of $4.78 per share, according to LSEG data.
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 15m ago
 
 ---
 
@@ -147,23 +141,13 @@ Yahoo Finance • 51m ago
 
 Micron Technology posted quarterly earnings that topped analysts' estimates, sending shares higher in extended trading Wednesday.
 
-Investopedia • 46m ago
+Investopedia • 1h ago
 
 ---
 
-**[James Cameron And Sam Worthington On Avatar: Fire And Ash’ And AI](https://deadline.com/2025/12/james-cameron-sam-worthington-avatar-fire-and-ash-1236651511/)**
+**[Wall Street closes lower as AI funding jitters drag tech stocks](https://www.reuters.com/business/media-telecom/wall-st-futures-inch-higher-investors-eye-more-data-geopolitics-2025-12-17/)**
 
-James Cameron and Sam Worthington discuss their  years-long ‘Avatar’ collaboration, box office and tackling AI: “We need to use it ethically”
-
-Deadline • 1h ago
-
----
-
-**[US tech stocks slide as Oracle data centre setback reignites AI concerns](https://www.ft.com/content/ce60f74f-ccc8-4bde-bbec-842041ecf8e7)**
-
-Software giant suffers renewed declines after backer Blue Owl pulls out of $10bn project
-
-Financial Times • 6h ago
+Reuters • 2h ago
 
 ---
 
@@ -171,27 +155,41 @@ Financial Times • 6h ago
 
 The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
 
-NBC News • 1h ago
+NBC News • 2h ago
 
 ---
 
-**[AI-Themed Stocks Take More Hits, Sending Nasdaq Lower](https://www.wsj.com/finance/stocks/ai-themed-stocks-take-more-hits-sending-nasdaq-lower-6a1227ad?gaa_at=eafs&gaa_n=AWEtsqfRJT04uXXqKmCCU5jmgDM8rlIr2i4BRibVPpNmV9VyDMmsLLQFTmOG&gaa_ts=694337e2&gaa_sig=1grTVkn10shBgnRC-KhO6UFatwXgCbYLs51pW2qAYiQCHiqnvUPgSVEM_9NjsFEnk8-mYWjKJ2E-8EBcPwhX_A%3D%3D)**
+**[Stocks Take a Hit as AI Fears Settle In](https://www.bloomberg.com/news/newsletters/2025-12-17/stocks-take-hit-as-ai-fears-settle-in-evening-briefing-americas)**
 
-The Wall Street Journal • 1h ago
-
----
-
-**[Amazon AI chief Rohit Prasad leaving; Infrastructure exec Peter DeSantis to lead unified AI group](https://www.geekwire.com/2025/amazon-ai-chief-rohit-prasad-leaving-infrastructure-exec-peter-desantis-to-lead-unified-ai-group/)**
-
-GeekWire • 5h ago
+Bloomberg.com • 29m ago
 
 ---
 
-**[Amazon says AI chief Rohit Prasad is leaving, Peter DeSantis to lead 'AGI' group](https://www.cnbc.com/2025/12/17/amazon-ai-chief-prasad-leaving-peter-desantis-agi-group.html)**
+**[Could This AI Chip Stock Make a Major Comeback by the End of the Year?](https://www.fool.com/investing/2025/12/17/could-ai-chip-stock-make-major-comeback-nvidia/)**
 
-Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving at the end of this year, the company confirmed.
+The stock has had big December surges before. Is another one about to happen?
 
-CNBC • 5h ago
+The Motley Fool • 40m ago
+
+---
+
+**[How AI technology could help Pittsburgh-area schools enhance security](https://www.cbsnews.com/pittsburgh/news/ai-technology-school-security-pittsburgh/)**
+
+New artificial intelligence technology could soon help enhance security at local school districts with the help of WiFi spatial intelligence.
+
+CBS News • 37m ago
+
+---
+
+**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
+
+The New York Times • 3h ago
+
+---
+
+**[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
+
+Reuters • 8h ago
 
 ---
 
@@ -207,7 +205,7 @@ CNBC • 5h ago
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 788 • 💬 397 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 788 • 💬 401 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -215,7 +213,7 @@ CNBC • 5h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 622 • 💬 356 • 6h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 660 • 💬 380 • 6h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -231,7 +229,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 513 • 💬 287 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 519 • 💬 291 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -261,15 +259,15 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 203 • 💬 139 • 14h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 204 • 💬 141 • 15h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
-**[ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://news.ycombinator.com/item?id=46286666)**
+**[Doublespeed hacked, revealing what its AI-generated accounts are promoting](https://news.ycombinator.com/item?id=46303291)**
 
-Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
+A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 158 • 💬 52 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 159 • 💬 87 • 5h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -387,7 +385,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,869 • 9d ago
+⬇️ 296,552 • ❤️ 2,871 • 9d ago
 
 ---
 
@@ -411,7 +409,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 302 • 2h ago
+⬇️ 10,487 • ❤️ 303 • 2h ago
 
 ---
 
@@ -435,7 +433,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 228 • 17h ago
+⬇️ 0 • ❤️ 229 • 17h ago
 
 ---
 
@@ -447,7 +445,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 228 • 14h ago
+⬇️ 0 • ❤️ 229 • 14h ago
 
 ---
 
@@ -459,7 +457,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 218 • 2d ago
+⬇️ 0 • ❤️ 219 • 2d ago
 
 ---
 
@@ -471,7 +469,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 394 • 23h ago
+⬇️ 28,106 • ❤️ 395 • 23h ago
 
 ---
 
@@ -493,7 +491,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 102,395 • ❤️ 469 • 8d ago
+⬇️ 102,395 • ❤️ 470 • 8d ago
 
 ---
 
@@ -643,7 +641,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.2k • 🔱 2.7k • 13h ago
+⭐ 17.2k • 🔱 2.7k • 14h ago
 
 ---
 
