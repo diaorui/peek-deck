@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T20:20:35.701701+00:00'
+updated: '2025-12-17T20:43:02.439328+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 20:20 UTC  
+**Last Updated:** December 17, 2025 at 20:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -7.3%  
-**30d:** -7.6%  
-**90d:** -25.7%  
-**1y:** -14.6%  
+**24h:** -1.7%  
+**7d:** -6.9%  
+**30d:** -7.3%  
+**90d:** -25.5%  
+**1y:** -14.3%  
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -105,13 +105,13 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-16m ago
+38m ago
 
 ---
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -125,7 +125,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 Tippity top of the daily mountain range
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Medium term holder 5+ years. I'm seeing so many posts with folks showing technic
 
 Just keep hodling and don't trust the news
 
-9h ago
+10h ago
 
 ---
 
@@ -153,7 +153,7 @@ Just keep hodling and don't trust the news
 
 One analyst isn't quite ready to call a bottom, but says bitcoin is surely in an oversold condition.
 
-CoinDesk • 47m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -167,13 +167,13 @@ Investor's Business Daily • 5h ago
 
 Net inflows into exchange-traded funds (ETFs) totaled a record $1.03 trillion last year, and they're already set to break that record this year, currently sitting at $1.28 trillion year to date. Amplify ETFs CEO, Christian Magoon, joins Market Catalysts host Julie Hyman to explain where money was going in 2025 and what ETF trends he anticipates next year. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 43m ago
 
 ---
 
 **[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 1d ago
 
 Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -297,7 +297,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 130 • ⏱️ 48:48 • 4h ago
+👁️ 25K • 👍 1K • 💬 130 • ⏱️ 48:48 • 5h ago
 
 ---
 
@@ -317,7 +317,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 239 • ⏱️ 9:01 • 21h ago
+👁️ 53K • 👍 3K • 💬 239 • ⏱️ 9:01 • 22h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T20:20:35.707739+00:00'
+updated: '2025-12-17T20:43:02.445384+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 20:20 UTC  
+**Last Updated:** December 17, 2025 at 20:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,806.55
+### $2,832.83
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.0%  
-**7d:** -12.5%  
-**30d:** -9.4%  
-**90d:** -36.7%  
-**1y:** -22.0%  
+**24h:** -4.4%  
+**7d:** -12.8%  
+**30d:** -9.7%  
+**90d:** -36.9%  
+**1y:** -22.3%  
 
 ---
 
@@ -106,7 +106,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 4h ago
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 5h ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqd1OgOvMMNxv_bcSe3-wMecNECkC8sbFQXnh67l6-L4jI24GZ8C2P3d&gaa_ts=694313fb&gaa_sig=_gWeCYOTdBz3pTqzGj_Z9V2bdizWEPRl_MJPhDPYHjaFzjWYilHCskHn6EKhZNVvltM_L80TiemeeSXmKIJQxA%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
 
 ---
 
@@ -232,7 +232,7 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 330 • 💬 55 • ⏱️ 11:01 • 19h ago
+👁️ 6K • 👍 330 • 💬 55 • ⏱️ 11:01 • 20h ago
 
 ---
 
@@ -310,7 +310,7 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 54K • 👍 2K • 💬 122 • ⏱️ 13:11 • 1d ago
+👁️ 54K • 👍 2K • 💬 122 • ⏱️ 13:11 • 2d ago
 
 ---
 

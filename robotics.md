@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T20:20:35.710928+00:00'
+updated: '2025-12-17T20:43:02.448633+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 20:20 UTC  
+**Last Updated:** December 17, 2025 at 20:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
 
-11h ago
+12h ago
 
 ---
 
@@ -60,7 +60,7 @@ Ben Procter, one of the designers behind Avatar’s human technology, explains h
 
 Can i make a phone bluetooth following cart ( phone acts as beacon cart follows it ) for indoor use with object avoidance only with these components esp32, 2 (torque≥10 kg.cm) dc motors, motor driver bts7960, 3 ultrasonic sensors,12 v 12 ah li-ion battery . Only using these essential parts, am i missing anything essential to make a cart like this Load excluding body weight 17 pounds (8 kg)
 
-2h ago
+3h ago
 
 ---
 
@@ -84,7 +84,7 @@ An robotic arm picks up a toy bear from a sofa and places it into a basket. The 
 
 I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but without actually building the robot. I'm currently trying to put something together with threejs and the jolt physics engine, but I'd have to assume there's probably a better way to do it. If so, what are better ways to simulate a robot? +1 if it can run in a browser
 
-29m ago
+52m ago
 
 ---
 
@@ -92,7 +92,7 @@ I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but with
 
 I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
 
-11h ago
+12h ago
 
 ---
 
@@ -108,7 +108,7 @@ In this tutorial you will learn: how γ affects convergence and stability in Q-L
 
 In principle I understand the implicit flexibility of DOF arms, but in practice they're usually slow, imprecise, small payload only, expensive, singularities etc etc. Gantry (XYZ) robots are so much faster, precise, don't have singularities, you name it. But nobody ever seems to use or build them, why is that?
 
-4h ago
+5h ago
 
 ---
 
@@ -132,7 +132,7 @@ The New York Times • 15h ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 8h ago
+CNN • 9h ago
 
 ---
 

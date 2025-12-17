@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T20:20:35.693295+00:00'
+updated: '2025-12-17T20:43:02.430923+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
+- repositories
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 20:20 UTC  
+**Last Updated:** December 17, 2025 at 20:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 In our multi-step workflow where each step depended on the previous one’s output, problems we observed were silent errors: malformed JSON, missing fields, incorrect assumptions, etc. We added verification nodes between steps: check structure check schema check grounding retry or escalate if needed It turned the system from unpredictable to stable. It reminded me of how traditional systems use validation layers, but here the cost of skipping them compounds faster because each output becomes the next input. Anyone else tried adding checkpoints between AI-driven steps? What verification patterns worked for you?
 
-16m ago
+38m ago
 
 ---
 
@@ -123,19 +123,19 @@ Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the 
 
 **[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
 **[U.S. and China Are Headed for an AI Collision](https://www.realcleardefense.com/articles/2025/12/17/us_and_china_are_headed_for_an_ai_collision_1153822.html)**
 
-RealClearDefense • 8h ago
+RealClearDefense • 9h ago
 
 ---
 
 **[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
 
-The New York Times • 20m ago
+The New York Times • 42m ago
 
 ---
 
@@ -151,7 +151,7 @@ National Oceanic and Atmospheric Administration (NOAA) (.gov) • 8h ago
 
 Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
 
-CNBC • 47m ago
+CNBC • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ MarketWatch • 4h ago
 
 A woman in Japan married an AI-generated boyfriend, who was present on a phone screen, and exchanged rings using augmented reality glasses. Yurina Noguchi created her AI husband, Lune Klaus Verdure, based on a video game character.
 
-People.com • 46m ago
+People.com • 1h ago
 
 ---
 
@@ -257,7 +257,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 169 • 💬 117 • 11h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 169 • 💬 117 • 12h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -317,7 +317,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 Fox Business
 
-👁️ 7K • 👍 168 • 💬 77 • ⏱️ 7:54 • 22h ago
+👁️ 7K • 👍 168 • 💬 77 • ⏱️ 7:54 • 23h ago
 
 ---
 
@@ -443,7 +443,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 223 • 11h ago
+⬇️ 0 • ❤️ 223 • 12h ago
 
 ---
 
@@ -639,7 +639,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.2k • 🔱 2.7k • 10h ago
+⭐ 17.2k • 🔱 2.7k • 11h ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.2k • 🔱 443 • 4h ago
+⭐ 4.2k • 🔱 443 • 5h ago
 
 ---
 
@@ -679,7 +679,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.2k • 🔱 98 • 3h ago
+⭐ 1.2k • 🔱 98 • 4h ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 9m ago
+⭐ 1.1k • 🔱 138 • 32m ago
 
 ---
 
