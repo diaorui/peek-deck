@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T21:53:13.629181+00:00'
+updated: '2025-12-17T22:16:55.907518+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 21:53 UTC  
+**Last Updated:** December 17, 2025 at 22:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -2.0%  
-**7d:** -7.2%  
-**30d:** -7.5%  
-**90d:** -25.6%  
-**1y:** -14.5%  
+**7d:** -7.3%  
+**30d:** -7.6%  
+**90d:** -25.7%  
+**1y:** -14.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1711.66B
+**Market Cap:** $1717.69B
 Rank #1
 
-**Circulating Supply:** 19,963,453 BTC
+**Circulating Supply:** 19,963,465 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--32.0%
+-31.8%
 
 **All-Time Low:** $67.81
-+126350.4%
++126794.3%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-1h ago
+2h ago
 
 ---
 
 **[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-6h ago
+7h ago
 
 ---
 
@@ -115,17 +115,19 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 ---
 
-**[Dumping again. I'm sorry.](https://www.reddit.com/r/Bitcoin/comments/1pp4vty/dumping_again_im_sorry/)**
-
-2h ago
-
----
-
 **[Bear Market](https://www.reddit.com/r/Bitcoin/comments/1pp4zhb/bear_market/)**
 
 Medium term holder 5+ years. I'm seeing so many posts with folks showing technical analysis and memes. Lots of panicky posts by new folks seeing price drops for the first time. Next, other posts of people worshipping QE and other monetary instruments that end up driving up asset prices and make cost of living brutal. This is my second bear market and here are my tips: 1) Treat Bitcoin like a long term, high volatility asset. If you DCA, give yourself 8-10 years. If you lump sum invest, your best bet is during bear cycles anytime between May to October. We are in a bear cycle now. 2) Is the 4 year cycle broken? It's irrelevant because your timeline should be long enough to see sustained gains unless there is a major recession. 3) Selling is normal and fiat does not suckkkkk. Yes, you heard that. You need money to eat, live, and buy things like homes, cars, tuition, and weddings. Bitcoin is an investment that helps. 4) Gold and diversified stocks matter as well. Bitcoin ideally should be 10% of a portfolio and that's also assuming you are comfortable with risk. 5) No leverage and no life savings. Don't do either. Nobody other than gamblers or insiders. 6) Stop worrying about what whales or insiders do. They have existed and will exist and will outleverage and outfinesse you in all scenarios as well.
 
-2h ago
+3h ago
+
+---
+
+**[It’s been two months… relaxxx](https://www.reddit.com/r/Bitcoin/comments/1pp7qp8/its_been_two_months_relaxxx/)**
+
+Everyone needs to chill and stack sats
+
+1h ago
 
 ---
 
@@ -137,11 +139,11 @@ Tippity top of the daily mountain range
 
 ---
 
-**[It’s been two months… relaxxx](https://www.reddit.com/r/Bitcoin/comments/1pp7qp8/its_been_two_months_relaxxx/)**
+**[Who’s buying the Dip](https://www.reddit.com/r/Bitcoin/comments/1pp68do/whos_buying_the_dip/)**
 
-Everyone needs to chill and stack sats
+Dca time!! Dont buy at 130k!
 
-1h ago
+2h ago
 
 ---
 
@@ -157,19 +159,7 @@ CoinDesk • 2h ago
 
 ---
 
-**[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
-
-Investor's Business Daily • 7h ago
-
----
-
-**[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
-
-The Block • 10h ago
-
----
-
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfMFdprcdOKuXuXopV0J6i652P7-kRiB_GSeaDLV5d6jYr_lGgfx81-&gaa_ts=69432723&gaa_sig=LrgUSM4X9Gg-isErdKQ39Q1IFx2ldSqCT2X9LG-hZaqMxZFOwn-OWTPKmKB4Qe5vJHIJlmklhQzuDIICyfvbog%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqeaAhQeypneBCIjBnW93ZVnt_zpT__W9yLQcGJkV5zqJxE_rY15mvy7&gaa_ts=69432f42&gaa_sig=oGi3S42uC37pJAlfYzRKXzTcEjryaV6d8XrrPzQNtI2Riwy7gy9Lc1Z_ougOLwOrrizMFE0-_MjbCdAlyCREKg%3D%3D)**
 
 Barron's • 2d ago
 
@@ -183,11 +173,23 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Saylor’s Long Bitcoin Bet Has Left Corporate Rivals Behind: Crypto Entrepreneur](https://www.tradingview.com/news/newsbtc:0390c14a3094b:0-saylor-s-long-bitcoin-bet-has-left-corporate-rivals-behind-crypto-entrepreneur/)**
+**[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Michael Saylor’s firm Strategy continues to make Bitcoin headlines with its enormous purchases, making it one of the largest holders in the world.Reports show the company owns 671,268 Bitcoin, roughly 3.2% of the total supply, valued at about $58.61 billion at the time of publication, according to…
+Investor's Business Daily • 36m ago
 
-TradingView — Track All Markets • 4h ago
+---
+
+**[Bitcoin hovers at $86,000 as token faces 'lackluster' end of 2025](https://finance.yahoo.com/news/bitcoin-hovers-at-86000-as-token-faces-lackluster-end-of-2025-165535813.html)**
+
+Jitters over AI-related stocks and speculation over who will take over Fed Chair Jerome Powell’s position next year may be keeping a lid on bitcoin prices.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
+
+The Block • 10h ago
 
 ---
 
@@ -199,25 +201,25 @@ Financial Times • 2d ago
 
 ---
 
-**[Will Bitcoin Hit $200,000 in 2026?](https://finance.yahoo.com/news/bitcoin-hit-200-000-2026-185000629.html)**
+**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
 
-Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
+US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
 
-Yahoo Finance • 3h ago
+CryptoSlate • 12h ago
+
+---
+
+**[Speed Raises $8 Million to Expand Bitcoin and Stablecoin Payment Solutions](https://www.pymnts.com/news/fintech-investments/2025/speed-raises-8-million-dollars-expand-bitcoin-stablecoin-payment-solutions/)**
+
+Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
+
+PYMNTS.com • 1d ago
 
 ---
 
 **[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
 
 The Block • 1d ago
-
----
-
-**[Prediction: Bitcoin Will Be Worth $270,000 in 5 Years](https://www.fool.com/investing/2025/12/15/prediction-bitcoin-will-be-worth-270000-in-5-years/)**
-
-Despite its impressive long-term trajectory, Bitcoin remains a polarizing asset.
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -261,7 +263,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 48m ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 1h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -295,7 +297,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 578 • 💬 169 • ⏱️ 8:33 • 6h ago
+👁️ 15K • 👍 630 • 💬 196 • ⏱️ 8:33 • 7h ago
 
 ---
 
@@ -305,17 +307,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 130 • ⏱️ 48:48 • 6h ago
+👁️ 31K • 👍 2K • 💬 174 • ⏱️ 48:48 • 6h ago
 
 ---
 
-**[PAY ATTENTION: Bitcoin SET To DUMP On December 19th?](https://www.youtube.com/watch?v=kNCOJj4WUiA)**
+**[Bitcoin Took A MAJOR BEARISH TURN! Are We Heading Lower??](https://www.youtube.com/watch?v=BM4trpqTX4o)**
 
-Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopolitical tensions and monetary risks converge.
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
 
-📺 The Wolf Of All Streets
+📺 Crypto Jebb
 
-👁️ 11K • 👍 708 • 💬 276 • ⏱️ 46:53 • 6h ago
+👁️ 2K • 👍 235 • 💬 63 • ⏱️ 9:12 • 3h ago
 
 ---
 
@@ -325,17 +327,27 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 239 • ⏱️ 9:01 • 23h ago
+👁️ 56K • 👍 3K • 💬 262 • ⏱️ 9:01 • 23h ago
 
 ---
 
-**[ALL IN! Crypto Investors Clear Message for 2026 [Max Bullish]](https://www.youtube.com/watch?v=q4y50ladu2w)**
+**[PAY ATTENTION: Bitcoin SET To DUMP On December 19th?](https://www.youtube.com/watch?v=kNCOJj4WUiA)**
 
-Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly with some of the biggest crypto investors, ...
+Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopolitical tensions and monetary risks converge.
 
-📺 Crypto Banter
+📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 875 • 💬 37 • ⏱️ 48:33 • 7h ago
+👁️ 15K • 👍 795 • 💬 386 • ⏱️ 46:53 • 7h ago
+
+---
+
+**[$80k IS NEXT. We ARE NOT finished. (Bitcoin ELITE Wave Analysis)](https://www.youtube.com/watch?v=HcdGHQ-8nyY)**
+
+BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/ChartJunkies CJ BONUS + VIP fees for life ...
+
+📺 Chart Junkies
+
+👁️ 821 • 👍 77 • 💬 23 • ⏱️ 10:16 • 4h ago
 
 ---
 
@@ -345,7 +357,17 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 8K • 👍 894 • 💬 105 • ⏱️ 9:00 • 5h ago
+👁️ 11K • 👍 1K • 💬 138 • ⏱️ 9:00 • 6h ago
+
+---
+
+**[Bitcoin Alert: Another Huge Fakeout! What&#39;s Next? (WATCH ASAP) 💥 Crypto News &amp; Analysis Today 📰](https://www.youtube.com/watch?v=8RC4OCIeXH4)**
+
+Join our FREE Crypto Telegram https://t.me/CryptoCacheTrading & Discord https://discord.gg/PJv2gykpb7 Bitunix Exchange ...
+
+📺 CryptoCache
+
+👁️ 1K • 👍 122 • 💬 25 • ⏱️ 20:59 • 5h ago
 
 ---
 
@@ -355,37 +377,17 @@ Welcome Back To The Channel! Sign Up on BTCC – Get Up to $20000 in Rewards & A
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 222 • 💬 24 • ⏱️ 49:16 • 3h ago
+👁️ 5K • 👍 260 • 💬 34 • ⏱️ 49:16 • 4h ago
 
 ---
 
-**[Tom Lee: BITCOIN TO $200,000 IN JANUARY?!!! (realistic analysis and QnA)](https://www.youtube.com/watch?v=38bEYQQGvRQ)**
+**[Saylor was right about Bitcoin…](https://www.youtube.com/watch?v=7DSigwvNTP4)**
 
-GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners ...
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
 
-📺 Ivan on Tech
+📺 Crypto Tips
 
-👁️ 18K • 👍 1K • 💬 109 • ⏱️ 38:13 • 12h ago
-
----
-
-**[WHY IS CRYPTO DUMPING? Bank Of Japan Tesla &amp; Silver PUMP Live BTC Trading BCH Bitcoin Cash](https://www.youtube.com/watch?v=keScbVJHDzo)**
-
-Come look into the next BIG move in crypto! All LIVE analysis, charting, and trades! 1️⃣ SIGN UP With ANY ...
-
-📺 Tom Crown
-
-👁️ 3K • 👍 315 • 4h ago
-
----
-
-**[BREAKING: BITCOIN JUST DID THIS FOR FIRST TIME SINCE 2020 – THIS HAPPENED NEXT](https://www.youtube.com/watch?v=vzVpMNGR9oU)**
-
-INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://cryptocrewuniversity.com/sibmy ...
-
-📺 Crypto Crew University
-
-👁️ 39K • 👍 2K • 💬 168 • ⏱️ 8:22 • 1d ago
+👁️ 6K • 👍 596 • 💬 95 • ⏱️ 8:45 • 5h ago
 
 ---
 

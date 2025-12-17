@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T21:53:13.635234+00:00'
+updated: '2025-12-17T22:16:55.913541+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 21:53 UTC  
+**Last Updated:** December 17, 2025 at 22:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,815.20
+### $2,819.78
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** -12.8%  
-**30d:** -9.7%  
+**24h:** -4.7%  
+**7d:** -12.7%  
+**30d:** -9.6%  
 **90d:** -36.8%  
 **1y:** -22.2%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $339.80B
+**Market Cap:** $339.85B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--43.1%
+-42.9%
 
 **All-Time Low:** $0.43
-+649832.2%
++652116.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
-6h ago
+7h ago
 
 ---
 
@@ -80,19 +80,25 @@ What is the current situation with using crypto mixers in the the US, UK and EU?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
 **[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
 
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 6h ago
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 7h ago
+
+---
+
+**[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
+
+3h ago
 
 ---
 
 **[Help sending Blob transaction](https://www.reddit.com/r/ethereum/comments/1pp3efv/help_sending_blob_transaction/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -101,12 +107,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
 🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 6h ago
-
----
-
-**[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
-
-3h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The cryptocurrency industry is undergoing a fundamental structural shift, moving away from fragmented protocols toward a unified "Aggregatio...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 14h ago
+🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 15h ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqeC1IXA_m9v6EQ4VoAntNMpCfznR5JlUlrvF7fSbzhytFN5DUfD2oWz&gaa_ts=69432725&gaa_sig=jf4hGxHC-i7uBSu07TC-ap6BZ0-qSoEqdir5-bhvfrbe3suSmLrEmaCcZFQG1nqo2FBouGqLfaPhL3-bV-tQdA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdrbfst8f9kgDNPdRJB7Q6yBsIhn47ptgB40J9c7S1U2bNbXcnjP2cA&gaa_ts=69432f44&gaa_sig=6EVbpbDfToketUmDXZgWntjXjzxkxdMSEsDEzmySNnIKdN4NwYz-S41B0InROFYISYg2snJRthSh7JYH2eAxTQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -156,17 +156,25 @@ Finance Magnates • 7h ago
 
 ---
 
-**[Why Bitcoin, Ethereum and XRP Prices Are Crashing Today](https://www.tradingview.com/news/coinpedia:a45941bd2094b:0-why-bitcoin-ethereum-and-xrp-prices-are-crashing-today/)**
+**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
 
-Cryptocurrency prices are under pressure today, with Bitcoin, Ethereum and XRP all trading lower as global market sentiment turns red. The total crypto market value has slipped to around $2.92 trillion, down nearly 2%, while investor sentiment remains weak. Bitcoin fell toward the $86,000 level aft…
+If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
 
-TradingView — Track All Markets • 5h ago
+The Motley Fool • 3d ago
 
 ---
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
 The Block • 2d ago
+
+---
+
+**[Here's Why Ethereum Sank More than 4% Today](https://www.fool.com/investing/2025/12/17/heres-why-ethereum-sank-more-than-4-today/)**
+
+The world's second-largest cryptocurrency isn't feeling the love from investors today.
+
+The Motley Fool • 2h ago
 
 ---
 
@@ -178,39 +186,31 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Here's Why Ethereum Sank More than 4% Today](https://www.fool.com/investing/2025/12/17/heres-why-ethereum-sank-more-than-4-today/)**
-
-The world's second-largest cryptocurrency isn't feeling the love from investors today.
-
-The Motley Fool • 1h ago
-
----
-
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
-**[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
+**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://finance.yahoo.com/news/tom-lees-bitmine-keeps-buying-154149939.html)**
 
-TipRanks • 1d ago
+Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
 
----
-
-**[Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk](https://decrypt.co/352533/bitcoin-ethereum-etfs-shed-582m-in-a-day-as-institutions-trim-risk)**
-
-U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
-
-Decrypt • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[BlackRock moves 47K Ethereum in a day: But the real story isn’t a sell-off](https://ambcrypto.com/blackrock-moves-47k-ethereum-in-a-day-but-the-real-story-isnt-a-sell-off/)**
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-What are institutions seeing that retail traders are missing?
+CCN.com • 1d ago
 
-AMBCrypto • 10h ago
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-cathie-wood-buys-the-dip-as-bitmine-pushes-toward-5-of-ethereum-supply/)**
+
+BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply - TechStock²
+
+ts2.tech • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 171 • 💬 10 • ⏱️ 20:34 • 6h ago
+👁️ 5K • 👍 217 • 💬 53 • ⏱️ 20:34 • 7h ago
 
 ---
 
@@ -234,27 +234,7 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 330 • 💬 55 • ⏱️ 11:01 • 21h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=f7OwaX9MfAQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 97 • 💬 5 • ⏱️ 4:45 • 6h ago
-
----
-
-**[WHERE I WILL BUY ETH🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=tWtyJgE0xrU)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 520 • 👍 27 • 💬 1 • ⏱️ 5:36 • 11h ago
+👁️ 6K • 👍 334 • 💬 58 • ⏱️ 11:01 • 21h ago
 
 ---
 
@@ -264,17 +244,27 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 243 • ⏱️ 12:16 • 1d ago
+👁️ 65K • 👍 3K • 💬 244 • ⏱️ 12:16 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
+**[WHERE I WILL BUY ETH🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=tWtyJgE0xrU)**
 
-These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! Private livestream for ...
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Thomas Kralow
+📺 Cilinix Crypto
 
-👁️ 20K • 👍 3K • 💬 34 • ⏱️ 7:49 • 1d ago
+👁️ 565 • 👍 28 • 💬 1 • ⏱️ 5:36 • 12h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=f7OwaX9MfAQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 106 • 💬 5 • ⏱️ 4:45 • 6h ago
 
 ---
 
@@ -284,7 +274,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 175 • 💬 41 • ⏱️ 8:42 • 1d ago
+👁️ 3K • 👍 177 • 💬 45 • ⏱️ 8:42 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
+
+These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! Private livestream for ...
+
+📺 Thomas Kralow
+
+👁️ 21K • 👍 3K • 💬 54 • ⏱️ 7:49 • 1d ago
 
 ---
 
@@ -294,7 +294,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 4K • 👍 253 • 💬 51 • ⏱️ 10:03 • 2d ago
+👁️ 4K • 👍 253 • 💬 72 • ⏱️ 10:03 • 2d ago
 
 ---
 
@@ -302,17 +302,17 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Nick Ford
 
-👁️ 591 • 👍 5 • 💬 2 • ⏱️ 1:54 • 16h ago
+👁️ 650 • 👍 5 • 💬 2 • ⏱️ 1:54 • 16h ago
 
 ---
 
-**[Cathie Wood Swaps Tesla For Ethereum🚨Crypto Market Update](https://www.youtube.com/watch?v=r74Wf7xsdXk)**
+**[&quot;The 23-Hour Stock Market: What It Means for Ethereum &amp; BMNR&quot;](https://www.youtube.com/watch?v=zPbSe5ddR8M)**
 
-Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a consumer-focused blockchain, each taking on key ...
+The line between the stock market and crypto is vanishing. Nasdaq has officially filed a proposal to extend trading hours to 23 ...
 
-📺 Paul Barron Network
+📺 CryptoStock Lab
 
-👁️ 54K • 👍 2K • 💬 122 • ⏱️ 13:11 • 2d ago
+👁️ 552 • 👍 20 • 💬 46 • ⏱️ 12:47 • 10h ago
 
 ---
 

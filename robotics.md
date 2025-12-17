@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T21:53:13.638515+00:00'
+updated: '2025-12-17T22:16:55.916758+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 21:53 UTC  
+**Last Updated:** December 17, 2025 at 22:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 Ben Procter, one of the designers behind Avatar’s human technology, explains how the team approached mech and robot control in the Avatar films. Instead of designing machines around what looks cool, the focus was on what would actually work. Human movement cannot be mapped directly onto multi-legged machines, so control systems had to account for balance, pressure, and scale in a way that made sense physically and visually. That approach carries through much of the human tech in Avatar, where machines are treated as tools with constraints, not characters, and designed to feel like they belong in a functioning world rather than just a single scene.
 
-6h ago
+7h ago
 
 ---
 
@@ -60,7 +60,7 @@ Ben Procter, one of the designers behind Avatar’s human technology, explains h
 
 On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM Just watched the Boston Dynamics tech talk on The Humanoid Mission in Manufacturing. One slide frames the roadmap as a gradual compression of layers, where classical perception, planning, manipulation, and control are absorbed into more unified end to end models. What stood out to me is that this suggests classical and optimization based control may be progressively replaced rather than simply augmented. Given that direction, is it still worth investing heavily in classical or optimization based control research for handling physics, contact, and stability underneath, or do people expect those responsibilities to eventually be fully learned by VLM or VLA style models? Curious how others here think about this tradeoff, especially in the context of balance and contact heavy manufacturing tasks.
 
-53m ago
+1h ago
 
 ---
 
@@ -80,14 +80,6 @@ Can i make a phone bluetooth following cart ( phone acts as beacon cart follows 
 
 ---
 
-**[How come everybody builds DOF arms, but nobody ever uses gantry (XYZ) ones?](https://www.reddit.com/r/robotics/comments/1pozk1f/how_come_everybody_builds_dof_arms_but_nobody/)**
-
-In principle I understand the implicit flexibility of DOF arms, but in practice they're usually slow, imprecise, small payload only, expensive, singularities etc etc. Gantry (XYZ) robots are so much faster, precise, don't have singularities, you name it. But nobody ever seems to use or build them, why is that?
-
-6h ago
-
----
-
 **[Concept of a robot worm driven by smooth waves that travel along a continuously deformable mesh](https://www.reddit.com/r/robotics/comments/1pnylnk/concept_of_a_robot_worm_driven_by_smooth_waves/)**
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
@@ -100,7 +92,15 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day and he said he wanted to invent something with me. I said what kind of thing would you like to make and he said a robot that helps old people. So here we are! The plans have been drawn! Project Jake has come to life. Now I fully understand that a lot of people here are far more advanced than a dad and son project but I really want this to be a special little project for a bit of bonding time. We have decided to start with the head and was going to use an old CRT Monitor but I have come to the conclusion that this would be far too difficult / heavy to support. So I have come to the conclusion of using an old flat screen monitor and building a frame around the back of it. Was thinking of grabbing a cheap old pc to wire up into the body. And this is where I am up to at the moment. Any ideas, tips and resources would be greatly appreciated !!
 
-15m ago
+39m ago
+
+---
+
+**[How come everybody builds DOF arms, but nobody ever uses gantry (XYZ) ones?](https://www.reddit.com/r/robotics/comments/1pozk1f/how_come_everybody_builds_dof_arms_but_nobody/)**
+
+In principle I understand the implicit flexibility of DOF arms, but in practice they're usually slow, imprecise, small payload only, expensive, singularities etc etc. Gantry (XYZ) robots are so much faster, precise, don't have singularities, you name it. But nobody ever seems to use or build them, why is that?
+
+6h ago
 
 ---
 
@@ -116,17 +116,17 @@ An robotic arm picks up a toy bear from a sofa and places it into a basket. The 
 
 ## Google News: "robotics"
 
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+
+The New York Times • 17h ago
+
+---
+
 **[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-NASA (.gov) • 23h ago
-
----
-
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
-
-The New York Times • 16h ago
+NASA (.gov) • 1d ago
 
 ---
 
@@ -158,7 +158,7 @@ The Atlantic • 4h ago
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
-TechCrunch • 7h ago
+TechCrunch • 8h ago
 
 ---
 
@@ -204,7 +204,17 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 60K • 👍 897 • 💬 132 • ⏱️ 11:23 • 1d ago
+👁️ 61K • 👍 908 • 💬 136 • ⏱️ 11:23 • 1d ago
+
+---
+
+**[The Robots Are Crashing Out](https://www.youtube.com/watch?v=NZPRfXa06ss)**
+
+Thanks to our LMG clips sponsors dbrand, Dell, and Secretlab. You can check them out at the links below: dbrand: ...
+
+📺 LMG Clips
+
+👁️ 32K • 👍 1K • 💬 167 • ⏱️ 7:42 • 1d ago
 
 ---
 
@@ -214,7 +224,23 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 28K • 👍 699 • 💬 113 • ⏱️ 6:41 • 3d ago
+👁️ 29K • 👍 710 • 💬 109 • ⏱️ 6:41 • 3d ago
+
+---
+
+**[The Humanoid Robot’s CPU Was Stolen. #robotics #airobot #ai #robot #humanoidrobot](https://www.youtube.com/watch?v=iZ0BlhfU8Bg)**
+
+📺 AI . Robot
+
+👁️ 145K • 👍 1K • 💬 16 • ⏱️ 0:13 • 1d ago
+
+---
+
+**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
+
+📺 AI . Robot
+
+👁️ 455K • 👍 4K • 💬 41 • ⏱️ 0:21 • 3d ago
 
 ---
 
@@ -224,33 +250,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 366K • 👍 12K • 💬 400 • ⏱️ 0:34 • 3d ago
-
----
-
-**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
-
-📺 AI . Robot
-
-👁️ 449K • 👍 4K • 💬 41 • ⏱️ 0:21 • 3d ago
-
----
-
-**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
-
-Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
-
-📺 Dr Ben Miles
-
-👁️ 18K • 👍 2K • 💬 47 • ⏱️ 1:38 • 1d ago
-
----
-
-**[The Humanoid Robot’s CPU Was Stolen. #robotics #airobot #ai #robot #humanoidrobot](https://www.youtube.com/watch?v=iZ0BlhfU8Bg)**
-
-📺 AI . Robot
-
-👁️ 141K • 👍 1K • 💬 16 • ⏱️ 0:13 • 1d ago
+👁️ 369K • 👍 12K • 💬 402 • ⏱️ 0:34 • 3d ago
 
 ---
 
@@ -260,7 +260,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 31K • 👍 301 • 💬 31 • ⏱️ 1:05 • 2d ago
+👁️ 31K • 👍 308 • 💬 30 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -270,7 +270,7 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 
 📺 RICHLEV
 
-👁️ 176K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
+👁️ 177K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
 
 ---
 
@@ -284,13 +284,13 @@ Discover the latest girlfriend robot in this eye-opening tech expo experience! E
 
 ---
 
-**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+**[AI Robot Harvesting Grapes in the Vineyard 🍇🤖](https://www.youtube.com/watch?v=o0EILTw-1hs)**
 
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+Experience the future of agriculture! In this video, an AI-powered farming robot assists a farmer by harvesting grapes with ...
 
-📺 Associated Press
+📺 𝗦𝗺𝗮𝗿𝘁 𝗙𝗮𝗿𝗺𝗶𝗻𝗴 𝗧𝗲𝗰𝗵
 
-👁️ 28K • 👍 106 • 💬 44 • ⏱️ 1:26 • 4d ago
+👁️ 394K • 👍 399 • ⏱️ 0:08 • 1d ago
 
 ---
 
