@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T23:36:08.029406+00:00'
+updated: '2025-12-17T23:48:47.173827+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 23:36 UTC  
+**Last Updated:** December 17, 2025 at 23:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** -12.7%  
-**30d:** -9.6%  
-**90d:** -36.8%  
-**1y:** -22.2%  
+**24h:** -3.9%  
+**7d:** -12.5%  
+**30d:** -9.4%  
+**90d:** -36.6%  
+**1y:** -22.0%  
 
 ---
 
@@ -94,13 +94,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 7h ago
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 8h ago
 
 ---
 
 **[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 2d ago
 
 Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
 
-Finance Magnates • 8h ago
+Finance Magnates • 9h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 106 • 💬 5 • ⏱️ 4:45 • 7h ago
+👁️ 2K • 👍 106 • 💬 5 • ⏱️ 4:45 • 8h ago
 
 ---
 

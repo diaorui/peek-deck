@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T23:36:08.014928+00:00'
+updated: '2025-12-17T23:48:47.159640+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 23:36 UTC  
+**Last Updated:** December 17, 2025 at 23:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 1h ago
+🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 4h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 41m ago
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 53m ago
 
 ---
 
@@ -125,7 +125,7 @@ School districts from Utah to Ohio to Alabama are spending thousands of dollars 
 
 The high demand for memory has driven Micron shares higher and they are up 168% in 2025.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -133,7 +133,7 @@ CNBC • 1h ago
 
 Micron Technology forecast second-quarter adjusted profit at nearly double ​what Wall Street analysts expected on Wednesday, buoyed by ‌soaring prices for memory chips spurred by tight supplies and booming demand ‌from artificial intelligence data centers. Shares of the Boise, Idaho-based company rose 14% in extended trading after the forecast. Micron said it expected adjusted profit of $8.42 per share, plus or minus 20 ⁠cents, versus analyst estimates ‌of $4.78 per share, according to LSEG data.
 
-Yahoo Finance • 15m ago
+Yahoo Finance • 28m ago
 
 ---
 
@@ -161,7 +161,7 @@ NBC News • 2h ago
 
 **[Stocks Take a Hit as AI Fears Settle In](https://www.bloomberg.com/news/newsletters/2025-12-17/stocks-take-hit-as-ai-fears-settle-in-evening-briefing-americas)**
 
-Bloomberg.com • 29m ago
+Bloomberg.com • 41m ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 29m ago
 
 The stock has had big December surges before. Is another one about to happen?
 
-The Motley Fool • 40m ago
+The Motley Fool • 52m ago
 
 ---
 
@@ -177,7 +177,7 @@ The Motley Fool • 40m ago
 
 New artificial intelligence technology could soon help enhance security at local school districts with the help of WiFi spatial intelligence.
 
-CBS News • 37m ago
+CBS News • 50m ago
 
 ---
 
@@ -237,7 +237,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 401 • 💬 383 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 401 • 💬 383 • 3d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -349,7 +349,7 @@ O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratig
 
 📺 MS NOW
 
-👁️ 16K • 👍 417 • 💬 296 • ⏱️ 14:44 • 9h ago
+👁️ 16K • 👍 417 • 💬 296 • ⏱️ 14:44 • 10h ago
 
 ---
 
@@ -369,7 +369,7 @@ CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
 
 📺 CNBC Television
 
-👁️ 14K • 👍 174 • 💬 151 • ⏱️ 3:16 • 6h ago
+👁️ 14K • 👍 174 • 💬 151 • ⏱️ 3:16 • 7h ago
 
 ---
 
@@ -433,7 +433,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 229 • 17h ago
+⬇️ 0 • ❤️ 229 • 18h ago
 
 ---
 
@@ -445,7 +445,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 229 • 14h ago
+⬇️ 0 • ❤️ 229 • 15h ago
 
 ---
 
@@ -651,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.2k • 🔱 443 • 7h ago
+⭐ 4.2k • 🔱 444 • 8h ago
 
 ---
 
@@ -665,6 +665,16 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 ---
 
+**[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)**
+
+#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
+
+`TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
+
+⭐ 1.3k • 🔱 101 • 7h ago
+
+---
+
 **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**
 
 An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -672,16 +682,6 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
 ⭐ 1.3k • 🔱 319 • 11d ago
-
----
-
-**[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)**
-
-#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
-
-`TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
-
-⭐ 1.3k • 🔱 100 • 6h ago
 
 ---
 
