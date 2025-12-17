@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T05:13:46.843343+00:00'
+updated: '2025-12-17T05:41:18.313182+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 05:13 UTC  
+**Last Updated:** December 17, 2025 at 05:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-18h ago
+19h ago
 
 ---
 
@@ -72,7 +72,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
-23h ago
+1d ago
 
 ---
 
@@ -174,7 +174,7 @@ The Verge • 1d ago
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -226,7 +226,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 12K • 👍 2K • 💬 42 • ⏱️ 1:38 • 12h ago
+👁️ 12K • 👍 2K • 💬 42 • ⏱️ 1:38 • 13h ago
 
 ---
 

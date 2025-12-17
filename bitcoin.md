@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T05:13:46.833789+00:00'
+updated: '2025-12-17T05:41:18.303843+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 05:13 UTC  
+**Last Updated:** December 17, 2025 at 05:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,765.98
+### $86,397.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -6.4%  
-**30d:** -6.7%  
-**90d:** -25.0%  
-**1y:** -13.8%  
+**24h:** -0.1%  
+**7d:** -6.6%  
+**30d:** -6.9%  
+**90d:** -25.2%  
+**1y:** -14.0%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
-11h ago
+12h ago
 
 ---
 
 **[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -115,19 +115,19 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-10h ago
+11h ago
 
 ---
 
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-46m ago
+1h ago
 
 ---
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-33m ago
+1h ago
 
 ---
 
@@ -139,7 +139,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 **[This is what buying Bitcoin looked like in 2011 - 1BTC = $3.5](https://www.reddit.com/r/Bitcoin/comments/1po8477/this_is_what_buying_bitcoin_looked_like_in_2011/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -151,7 +151,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 The Bitcoin price hovered above $87,000 as prices stabilized, even as investor sentiment plunged into extreme fear.
 
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 1d ago
 
 This week, MicroStrategy bought Bitcoin at $92K just before a sharp drop. Was it poor timing or part of a long-term strategy?
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -185,7 +185,7 @@ Financial Times • 2d ago
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 7h ago
+thestreet.com • 8h ago
 
 ---
 
@@ -201,7 +201,7 @@ TradingView — Track All Markets • 9h ago
 
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -217,7 +217,7 @@ CoinDesk • 1d ago
 
 U.S. spot bitcoin ETFs saw $357.6 million of net outflows on Monday, part of a $582 million combined ETF withdrawal, as bitcoin fell to as low as $85,100 and traders watched the $83,000 ETF cost-basis level for support.
 
-Bitbo • 13h ago
+Bitbo • 14h ago
 
 ---
 
@@ -261,7 +261,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 19h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 20h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -281,7 +281,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 13h ago
+⬆️ 11 • 💬 3 • 14h ago
 
 ---
 
@@ -305,7 +305,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 44K • 👍 697 • 💬 460 • ⏱️ 10:03 • 22h ago
+👁️ 44K • 👍 697 • 💬 460 • ⏱️ 10:03 • 23h ago
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 347 • ⏱️ 46:12 • 13h ago
+👁️ 34K • 👍 2K • 💬 347 • ⏱️ 46:12 • 14h ago
 
 ---
 
@@ -345,7 +345,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 234 • 💬 170 • ⏱️ 10:50 • 4h ago
+👁️ 3K • 👍 234 • 💬 170 • ⏱️ 10:50 • 5h ago
 
 ---
 
@@ -355,7 +355,7 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 21K • 👍 1K • 💬 225 • ⏱️ 18:36 • 6h ago
+👁️ 21K • 👍 1K • 💬 225 • ⏱️ 18:36 • 7h ago
 
 ---
 
@@ -375,7 +375,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 2K • 💬 158 • ⏱️ 9:01 • 6h ago
+👁️ 22K • 👍 2K • 💬 158 • ⏱️ 9:01 • 7h ago
 
 ---
 

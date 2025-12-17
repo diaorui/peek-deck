@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T05:13:46.825340+00:00'
+updated: '2025-12-17T05:41:18.295453+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 05:13 UTC  
+**Last Updated:** December 17, 2025 at 05:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 8h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 9h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 13h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 14h ago
 
 ---
 
@@ -73,7 +73,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 8h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 9h ago
 
 ---
 
@@ -81,7 +81,7 @@ OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new fl
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 13h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 14h ago
 
 ---
 
@@ -103,7 +103,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 Anthony Enzor-DeMeo is taking charge of one of the internet’s most important — and most complicated — companies.
 
-🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 6h ago
+🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 7h ago
 
 ---
 
@@ -123,7 +123,7 @@ We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built f
 
 A survey finds that 56% of psychologists are trying out artificial intelligence tools at work, mainly for administrative tasks. A majority also are concerned about harms of AI on patients and society.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
@@ -137,7 +137,7 @@ Reuters • 8h ago
 
 Digiday has compiled a scorecard grading AI platforms to make sense of the growing number of players in the AI content licensing market.
 
-Digiday • 11m ago
+Digiday • 39m ago
 
 ---
 
@@ -153,7 +153,7 @@ newsroom.churchofjesuschrist.org • 13h ago
 
 The company is positioning it as especially good for enterprise use.
 
-The Verge • 10h ago
+The Verge • 11h ago
 
 ---
 
@@ -213,7 +213,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 434 • 💬 214 • 7h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 434 • 💬 214 • 8h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -289,7 +289,7 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 132K • 👍 3K • 💬 691 • ⏱️ 14:37 • 13h ago
+👁️ 132K • 👍 3K • 💬 691 • ⏱️ 14:37 • 14h ago
 
 ---
 
@@ -640,7 +640,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.7k • 🔱 2.6k • 19h ago
+⭐ 16.7k • 🔱 2.6k • 20h ago
 
 ---
 
