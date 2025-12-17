@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T20:56:35.222542+00:00'
+updated: '2025-12-17T21:24:52.556797+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 20:56 UTC  
+**Last Updated:** December 17, 2025 at 21:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 Ben Procter, one of the designers behind Avatar’s human technology, explains how the team approached mech and robot control in the Avatar films. Instead of designing machines around what looks cool, the focus was on what would actually work. Human movement cannot be mapped directly onto multi-legged machines, so control systems had to account for balance, pressure, and scale in a way that made sense physically and visually. That approach carries through much of the human tech in Avatar, where machines are treated as tools with constraints, not characters, and designed to feel like they belong in a functioning world rather than just a single scene.
 
-5h ago
+6h ago
 
 ---
 
@@ -84,7 +84,7 @@ An robotic arm picks up a toy bear from a sofa and places it into a basket. The 
 
 I'm working on a project which aims at recreating the hand motion at the joint level while writing. I've used the SynGrasp hand model so far but I'm having a lot of trouble calculating the q(joint variables) values for each waypoint of the pre defined trajectory. If someone has worked on something similar do you mind giving a helping hand? I read the SynGrasp paper but it's genuinely confusing to animate the hand model for each waypoint. I'm only focusing on the kinematics of the motion.
 
-18m ago
+46m ago
 
 ---
 
@@ -120,13 +120,13 @@ I’m working on like a platform that carries a robotic arm mounted on it that c
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-NASA (.gov) • 22h ago
+NASA (.gov) • 23h ago
 
 ---
 
 **[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Atlantic • 3h ago
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
-TechCrunch • 6h ago
+TechCrunch • 7h ago
 
 ---
 

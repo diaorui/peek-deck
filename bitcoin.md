@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T20:56:35.213328+00:00'
+updated: '2025-12-17T21:24:52.547691+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 20:56 UTC  
+**Last Updated:** December 17, 2025 at 21:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,023.45
+### $85,940.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -7.3%  
-**30d:** -7.6%  
-**90d:** -25.7%  
-**1y:** -14.6%  
+**24h:** -2.2%  
+**7d:** -7.4%  
+**30d:** -7.7%  
+**90d:** -25.8%  
+**1y:** -14.7%  
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-52m ago
+1h ago
 
 ---
 
 **[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[Dumping again. I'm sorry.](https://www.reddit.com/r/Bitcoin/comments/1pp4vty/dumping_again_im_sorry/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ Tippity top of the daily mountain range
 
 Medium term holder 5+ years. I'm seeing so many posts with folks showing technical analysis and memes. Lots of panicky posts by new folks seeing price drops for the first time. Next, other posts of people worshipping QE and other monetary instruments that end up driving up asset prices and make cost of living brutal. This is my second bear market and here are my tips: 1) Treat Bitcoin like a long term, high volatility asset. If you DCA, give yourself 8-10 years. If you lump sum invest, your best bet is during bear cycles anytime between May to October. We are in a bear cycle now. 2) Is the 4 year cycle broken? It's irrelevant because your timeline should be long enough to see sustained gains unless there is a major recession. 3) Selling is normal and fiat does not suckkkkk. Yes, you heard that. You need money to eat, live, and buy things like homes, cars, tuition, and weddings. Bitcoin is an investment that helps. 4) Gold and diversified stocks matter as well. Bitcoin ideally should be 10% of a portfolio and that's also assuming you are comfortable with risk. 5) No leverage and no life savings. Don't do either. Nobody other than gamblers or insiders. 6) Stop worrying about what whales or insiders do. They have existed and will exist and will outleverage and outfinesse you in all scenarios as well.
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Medium term holder 5+ years. I'm seeing so many posts with folks showing technic
 
 Just keep hodling and don't trust the news
 
-10h ago
+11h ago
 
 ---
 
@@ -167,7 +167,7 @@ Investor's Business Daily • 6h ago
 
 Bitcoin’s most entrenched investors are still cashing out — and the pressure is starting to show.
 
-Bloomberg.com • 12m ago
+Bloomberg.com • 41m ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 8h ago
 
 **[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo Finance • 1d ago
 
 Michael Saylor’s firm Strategy continues to make Bitcoin headlines with its enormous purchases, making it one of the largest holders in the world.Reports show the company owns 671,268 Bitcoin, roughly 3.2% of the total supply, valued at about $58.61 billion at the time of publication, according to…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -287,7 +287,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 578 • 💬 169 • ⏱️ 8:33 • 5h ago
+👁️ 10K • 👍 578 • 💬 169 • ⏱️ 8:33 • 6h ago
 
 ---
 
@@ -307,7 +307,7 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 708 • 💬 276 • ⏱️ 46:53 • 5h ago
+👁️ 11K • 👍 708 • 💬 276 • ⏱️ 46:53 • 6h ago
 
 ---
 
@@ -327,7 +327,7 @@ Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly 
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 875 • 💬 37 • ⏱️ 48:33 • 6h ago
+👁️ 11K • 👍 875 • 💬 37 • ⏱️ 48:33 • 7h ago
 
 ---
 
@@ -337,7 +337,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 8K • 👍 894 • 💬 105 • ⏱️ 9:00 • 4h ago
+👁️ 8K • 👍 894 • 💬 105 • ⏱️ 9:00 • 5h ago
 
 ---
 
@@ -347,7 +347,7 @@ Welcome Back To The Channel! Sign Up on BTCC – Get Up to $20000 in Rewards & A
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 222 • 💬 24 • ⏱️ 49:16 • 2h ago
+👁️ 4K • 👍 222 • 💬 24 • ⏱️ 49:16 • 3h ago
 
 ---
 
@@ -357,7 +357,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 18K • 👍 1K • 💬 109 • ⏱️ 38:13 • 11h ago
+👁️ 18K • 👍 1K • 💬 109 • ⏱️ 38:13 • 12h ago
 
 ---
 
@@ -367,7 +367,7 @@ Come look into the next BIG move in crypto! All LIVE analysis, charting, and tra
 
 📺 Tom Crown
 
-👁️ 3K • 👍 315 • 3h ago
+👁️ 3K • 👍 315 • 4h ago
 
 ---
 

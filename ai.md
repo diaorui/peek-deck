@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T20:56:35.205043+00:00'
+updated: '2025-12-17T21:24:52.539331+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- news
 - videos
 - repositories
-- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 20:56 UTC  
+**Last Updated:** December 17, 2025 at 21:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 5h ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
-8h ago
+9h ago
 
 ---
 
@@ -73,7 +73,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 In our multi-step workflow where each step depended on the previous one’s output, problems we observed were silent errors: malformed JSON, missing fields, incorrect assumptions, etc. We added verification nodes between steps: check structure check schema check grounding retry or escalate if needed It turned the system from unpredictable to stable. It reminded me of how traditional systems use validation layers, but here the cost of skipping them compounds faster because each output becomes the next input. Anyone else tried adding checkpoints between AI-driven steps? What verification patterns worked for you?
 
-52m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 26m ago
+🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 54m ago
 
 ---
 
@@ -113,7 +113,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 This was the year that A.I.-generated content passed a kind of audiovisual Turing test, sometimes fooling us against our better judgment.
 
-🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 1h ago
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ Reuters • 5h ago
 
 A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -139,7 +139,7 @@ Financial Times • 15h ago
 
 Prasad's exit comes after Amazon struggled to show its internal AI efforts could match those of rivals and amid reports of a new AWS investment in OpenAI
 
-Fortune • 22m ago
+Fortune • 50m ago
 
 ---
 
@@ -147,7 +147,7 @@ Fortune • 22m ago
 
 A group of 18 people who work in the entertainment industry, including actors Joseph Gordon-Levitt and Natasha Lyonne launched a new coalition that aims to advocate for the rights of creators amid AI's boom.
 
-Los Angeles Times • 39m ago
+Los Angeles Times • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Los Angeles Times • 39m ago
 
 As AI agents take on real work, new rules for autonomy are emerging that favor reliability, clarity and human control.
 
-Forbes • 31m ago
+Forbes • 59m ago
 
 ---
 
@@ -177,7 +177,7 @@ The Guardian • 3h ago
 
 **[Google Releases More Efficient Gemini 3 AI Model Across Products](https://www.bloomberg.com/news/articles/2025-12-17/google-releases-more-efficient-gemini-3-ai-model-across-products)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg.com • 4h ago
 
 Silicon Valley is racing to build a god — without understanding what makes a good one.
 
-Vox • 8h ago
+Vox • 9h ago
 
 ---
 
@@ -207,7 +207,7 @@ Axios • 9h ago
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 778 • 💬 393 • 23h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 778 • 💬 393 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -223,7 +223,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 494 • 💬 290 • 3h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 494 • 💬 290 • 4h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -231,7 +231,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 490 • 💬 269 • 22h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 490 • 💬 269 • 23h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -283,7 +283,7 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 4K • 👍 268 • 💬 21 • ⏱️ 27:34 • 5h ago
+👁️ 4K • 👍 268 • 💬 21 • ⏱️ 27:34 • 6h ago
 
 ---
 
@@ -311,7 +311,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 15K • 👍 555 • 💬 33 • ⏱️ 11:44 • 14h ago
+👁️ 15K • 👍 555 • 💬 33 • ⏱️ 11:44 • 15h ago
 
 ---
 
@@ -371,7 +371,7 @@ Manus released version 1.6 with its most powerful agent yet, pushing tasks to fi
 
 📺 AI Revolution
 
-👁️ 15K • 👍 495 • 💬 39 • ⏱️ 9:33 • 21h ago
+👁️ 15K • 👍 495 • 💬 39 • ⏱️ 9:33 • 22h ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 299 • 8m ago
+⬇️ 10,487 • ❤️ 299 • 36m ago
 
 ---
 
@@ -471,7 +471,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 393 • 20h ago
+⬇️ 28,106 • ❤️ 393 • 21h ago
 
 ---
 
@@ -683,7 +683,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.2k • 🔱 98 • 4h ago
+⭐ 1.2k • 🔱 99 • 4h ago
 
 ---
 
@@ -693,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 45m ago
+⭐ 1.1k • 🔱 138 • 1h ago
 
 ---
 

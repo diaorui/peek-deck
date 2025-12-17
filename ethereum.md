@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T20:56:35.219309+00:00'
+updated: '2025-12-17T21:24:52.553612+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 20:56 UTC  
+**Last Updated:** December 17, 2025 at 21:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.4%  
-**7d:** -12.8%  
-**30d:** -9.7%  
-**90d:** -36.9%  
-**1y:** -22.3%  
+**24h:** -4.7%  
+**7d:** -12.9%  
+**30d:** -9.9%  
+**90d:** -37.0%  
+**1y:** -22.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
-5h ago
+6h ago
 
 ---
 
@@ -80,19 +80,19 @@ What is the current situation with using crypto mixers in the the US, UK and EU?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
 **[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
 
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 5h ago
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 6h ago
 
 ---
 
 **[Help sending Blob transaction](https://www.reddit.com/r/ethereum/comments/1pp3efv/help_sending_blob_transaction/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The cryptocurrency industry is undergoing a fundamental structural shift, moving away from fragmented protocols toward a unified "Aggregatio...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 13h ago
+🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 14h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Block • 2d ago
 
 The world's second-largest cryptocurrency isn't feeling the love from investors today.
 
-The Motley Fool • 41m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -222,7 +222,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 171 • 💬 10 • ⏱️ 20:34 • 5h ago
+👁️ 3K • 👍 171 • 💬 10 • ⏱️ 20:34 • 6h ago
 
 ---
 
@@ -252,7 +252,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 520 • 👍 27 • 💬 1 • ⏱️ 5:36 • 10h ago
+👁️ 520 • 👍 27 • 💬 1 • ⏱️ 5:36 • 11h ago
 
 ---
 
