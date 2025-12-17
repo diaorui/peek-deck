@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T18:59:54.435819+00:00'
+updated: '2025-12-17T19:27:55.394262+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 18:59 UTC  
+**Last Updated:** December 17, 2025 at 19:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.3%  
-**7d:** -12.9%  
-**30d:** -9.8%  
+**24h:** -4.5%  
+**7d:** -12.8%  
+**30d:** -9.7%  
 **90d:** -36.9%  
 **1y:** -22.3%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $343.97B
+**Market Cap:** $339.02B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.4%
+-43.2%
 
 **All-Time Low:** $0.43
-+657659.4%
++649238.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
-3h ago
+4h ago
 
 ---
 
@@ -80,13 +80,25 @@ What is the current situation with using crypto mixers in the the US, UK and EU?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
 **[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
 
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 3h ago
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 4h ago
+
+---
+
+**[Help sending Blob transaction](https://www.reddit.com/r/ethereum/comments/1pp3efv/help_sending_blob_transaction/)**
+
+1h ago
+
+---
+
+**[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
+
+43m ago
 
 ---
 
@@ -100,13 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The cryptocurrency industry is undergoing a fundamental structural shift, moving away from fragmented protocols toward a unified "Aggregatio...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 11h ago
-
----
-
-**[Help sending Blob transaction](https://www.reddit.com/r/ethereum/comments/1pp3efv/help_sending_blob_transaction/)**
-
-57m ago
+🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 12h ago
 
 ---
 
@@ -132,29 +138,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[JPMorgan Launches $100M Tokenized Money Market Fund on Ethereum](https://www.reddit.com/r/ethereum/comments/1pnfr0z/jpmorgan_launches_100m_tokenized_money_market/)**
-
-JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqccoHkPCA-RB-vMmx9xh9KB_s39BoHN7mOP5J9uCuYEkNyoiX-1ZB6d&gaa_ts=6942fbfd&gaa_sig=WyLkwueORllngY1C-8kv4jOr_Mtqx8Ps59UvmPhZsEFjy9QSoUTFShwiHL4ngSIRIjIeU8Ms5JXMhKqT-HJhzA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqc92BaefCOJXi1N5CR_MWmULnKodK8KKmbh915vRD5Aob1R5qcQy5P_&gaa_ts=69430793&gaa_sig=c-Ta338fx3Wgk7ODoBjUA8FoWupNisJnAo2Ssurh878on4mImfxKZfbr9Ox2S5aJTF3vQm9Ke5ZriTWSukhdyw%3D%3D)**
 
 Barron's • 21h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-fall-lowest-174706223.html)**
-
-Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -163,6 +153,14 @@ Yahoo Finance • 2d ago
 Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
 CoinDesk • 2d ago
+
+---
+
+**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
+
+If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+
+The Motley Fool • 3d ago
 
 ---
 
@@ -176,7 +174,13 @@ The Block • 2d ago
 
 The decline in ether contributed to the selling pressure on meme coins, as traders often use ETH as a risk gauge for altcoins.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
+
+---
+
+**[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
+
+The Block • 6h ago
 
 ---
 
@@ -196,17 +200,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Cathie Wood's Ark Invest Buys the Dip on Coinbase, Circle and Tom Lee’s Ethereum Giant BitMine](https://decrypt.co/352571/cathie-woods-ark-invest-buys-dip-coinbase-circle-tom-lee-ethereum-bitmine)**
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-The actively managed ETFs of Cathie Wood's Ark Invest loaded up on crypto-related equities like Coinbase, BitMine, and Circle as prices sagged Monday.
-
-Decrypt • 1d ago
-
----
-
-**[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
-
-The Block • 5h ago
+CCN.com • 1d ago
 
 ---
 
@@ -256,7 +252,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 443 • 👍 28 • 💬 1 • ⏱️ 5:36 • 8h ago
+👁️ 443 • 👍 28 • 💬 1 • ⏱️ 5:36 • 9h ago
 
 ---
 
@@ -306,7 +302,7 @@ The line between the stock market and crypto is vanishing. Nasdaq has officially
 
 📺 CryptoStock Lab
 
-👁️ 427 • 👍 18 • 💬 13 • ⏱️ 12:47 • 6h ago
+👁️ 427 • 👍 18 • 💬 13 • ⏱️ 12:47 • 7h ago
 
 ---
 

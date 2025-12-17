@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T18:59:54.430642+00:00'
+updated: '2025-12-17T19:27:55.388178+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 18:59 UTC  
+**Last Updated:** December 17, 2025 at 19:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,774.73
+### $85,781.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
+**24h:** -2.0%  
 **7d:** -7.2%  
 **30d:** -7.5%  
 **90d:** -25.7%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1726.71B
+**Market Cap:** $1712.92B
 Rank #1
 
 **Circulating Supply:** 19,963,428 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.5%
+-31.9%
 
 **All-Time Low:** $67.81
-+127347.3%
++126453.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -91,19 +91,13 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 ---
 
-**[You really thought that was it? Bitcoin said: relax… back down.](https://www.reddit.com/r/Bitcoin/comments/1pp04ul/you_really_thought_that_was_it_bitcoin_said_relax/)**
+**[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
 
 3h ago
 
 ---
 
-**[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
-
-14h ago
-
----
-
-**[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
+**[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
 2h ago
 
@@ -115,15 +109,17 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 ---
 
-**[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
+**[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-2h ago
+14h ago
 
 ---
 
-**[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
+**[Guess where my daily DCA buy happened lol](https://www.reddit.com/r/Bitcoin/comments/1pp46g0/guess_where_my_daily_dca_buy_happened_lol/)**
 
-14h ago
+Tippity top of the daily mountain range
+
+55m ago
 
 ---
 
@@ -131,15 +127,21 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 Just keep hodling and don't trust the news
 
-8h ago
+9h ago
 
 ---
 
-**[The Fatigue Filter](https://www.reddit.com/r/Bitcoin/comments/1povh2n/the_fatigue_filter/)**
+**[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth annual loss. First one without a scandal attached. No exchange collapsed. No founder arrested. No rug pull. Just... boredom. The tourists are checking out. Here's what the tourists never understand: the boring parts are the feature, not the bug. Every technological shift follows the same arc. Ridicule. Resistance. Magazine cover. But between resistance and magazine cover? There's a long, quiet stretch where nothing seems to happen. That's the dip. The dip is where most people quit. Not because they failed—because they got tired of waiting. I watched this happen in 2014. In 2018. In 2022. The headlines screamed death. The believers kept building. The difference between a tourist and a settler isn't conviction. It's tolerance for boredom. Tourists need the dopamine of daily gains. Settlers understand that positioning happens in the quiet. The same information is available to everyone. The Fed's moves. The ETF flows. The macro headwinds. But information without the patience to act on it is just noise. Risk isn't about volatility. Risk is a function of information and control. If you know why you're here, a down year isn't a crisis. It's a filter. The question isn't whether Bitcoin will recover. The question is whether you'll still be here when it does.
+15h ago
 
-6h ago
+---
+
+**[TA 12/17/25 no financial advice DYOR](https://www.reddit.com/r/Bitcoin/comments/1pp0bva/ta_121725_no_financial_advice_dyor/)**
+
+This could lead to amuch big f off pattern so be aware and do your own reasearch, i personlay will wait for the double penis bottom to enter!
+
+3h ago
 
 ---
 
@@ -155,17 +157,9 @@ CoinDesk • 3h ago
 
 ---
 
-**[Will Bitcoin Hit $200,000 in 2026?](https://www.fool.com/investing/2025/12/17/will-bitcoin-hit-200000-in-2026/)**
+**[The Daily: US senators introduce crypto fraud bill, K33 flags easing bitcoin sell pressure, BitMine adds $140M in ETH, and more](https://www.theblock.co/post/383044/the-daily-us-senators-introduce-crypto-fraud-bill-k33-flags-easing-bitcoin-sell-pressure-bitmine-adds-140m-in-eth-and-more?utm_source=companies.xml&utm_medium=rss)**
 
-Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
-
-The Motley Fool • 29m ago
-
----
-
-**[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
-
-The Block • 7h ago
+The Block • 23m ago
 
 ---
 
@@ -183,6 +177,28 @@ Investor's Business Daily • 4h ago
 
 ---
 
+**[Will Bitcoin Hit $200,000 in 2026?](https://www.fool.com/investing/2025/12/17/will-bitcoin-hit-200000-in-2026/)**
+
+Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
+
+The Motley Fool • 57m ago
+
+---
+
+**[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
+
+The Block • 1d ago
+
+---
+
+**[Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle](https://decrypt.co/352623/why-bitwise-expects-new-bitcoin-highs-2026-end-4-year-cycle)**
+
+Crypto investment firm Bitwise believes Bitcoin will set a new all-time high price in 2026 and end the typical four-year cycle. Here's why.
+
+Decrypt • 20h ago
+
+---
+
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
 thestreet.com • 21h ago
@@ -193,7 +209,7 @@ thestreet.com • 21h ago
 
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -201,23 +217,7 @@ Decrypt • 20h ago
 
 Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
 
-TradingView — Track All Markets • 22h ago
-
----
-
-**[Speed Raises $8 Million to Expand Bitcoin and Stablecoin Payment Solutions](https://www.pymnts.com/news/fintech-investments/2025/speed-raises-8-million-dollars-expand-bitcoin-stablecoin-payment-solutions/)**
-
-Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
-
-PYMNTS.com • 21h ago
-
----
-
-**[Bitcoin reverses brief $90K spike as U.S. stocks edge down (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4532551-bitcoin-reverses-brief-90k-spike-as-us-stocks-edge-down)**
-
-Bitcoin's (BTC-USD) price briefly surged to the $90K mark before quickly reversing course, coinciding with a slide in U.S. equities.
-
-Seeking Alpha • 1h ago
+TradingView — Track All Markets • 23h ago
 
 ---
 
@@ -287,7 +287,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 420 • 💬 94 • ⏱️ 8:33 • 3h ago
+👁️ 5K • 👍 420 • 💬 94 • ⏱️ 8:33 • 4h ago
 
 ---
 
@@ -317,7 +317,7 @@ Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly 
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 681 • 💬 25 • ⏱️ 48:33 • 4h ago
+👁️ 7K • 👍 681 • 💬 25 • ⏱️ 48:33 • 5h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 563 • 💬 173 • ⏱️ 46:53 • 3h ago
+👁️ 7K • 👍 563 • 💬 173 • ⏱️ 46:53 • 4h ago
 
 ---
 
@@ -337,7 +337,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 3K • 👍 552 • 💬 71 • ⏱️ 9:00 • 2h ago
+👁️ 3K • 👍 552 • 💬 71 • ⏱️ 9:00 • 3h ago
 
 ---
 
@@ -347,7 +347,7 @@ BTC, SOL, ETH, bear market, and stocks! BITUNIX TRADE THE TOP COINS (available e
 
 📺 Lark Davis
 
-👁️ 10K • 👍 608 • 💬 43 • ⏱️ 57:30 • 6h ago
+👁️ 10K • 👍 608 • 💬 43 • ⏱️ 57:30 • 7h ago
 
 ---
 
@@ -357,7 +357,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 16K • 👍 1K • 💬 109 • ⏱️ 38:13 • 9h ago
+👁️ 16K • 👍 1K • 💬 109 • ⏱️ 38:13 • 10h ago
 
 ---
 
@@ -377,7 +377,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 211 • ⏱️ 13:25 • 19h ago
+👁️ 30K • 👍 2K • 💬 211 • ⏱️ 13:25 • 20h ago
 
 ---
 

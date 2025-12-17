@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T18:59:54.423246+00:00'
+updated: '2025-12-17T19:27:55.379495+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 18:59 UTC  
+**Last Updated:** December 17, 2025 at 19:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
-6h ago
+7h ago
 
 ---
 
@@ -57,7 +57,15 @@ I am relatively new to this group and based on my limited interaction, feeling q
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 22h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 23h ago
+
+---
+
+**[Generative AI hype distracts us from AI’s more important breakthroughs](https://www.reddit.com/r/artificial/comments/1pp4ht7/generative_ai_hype_distracts_us_from_ais_more/)**
+
+It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
+
+🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 42m ago
 
 ---
 
@@ -85,11 +93,19 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 ---
 
+**[The Year in Slop](https://www.reddit.com/r/artificial/comments/1pp5cm1/the_year_in_slop/)**
+
+This was the year that A.I.-generated content passed a kind of audiovisual Turing test, sometimes fooling us against our better judgment.
+
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 10m ago
+
+---
+
 **[Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the speed to get an eery feeling. Videobending with OBS.](https://www.reddit.com/r/artificial/comments/1poyume/experimentation_with_facefusion_ai_face_swapper/)**
 
 Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the speed to get an eery feeling. Videobending with OBS.
 
-3h ago
+4h ago
 
 ---
 
@@ -97,23 +113,7 @@ Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the 
 
 If you are not satisfied with the current performance for PyTorch or ComfyUI / Stable Diffusion on your Strix Halo APU system or with other consumer RDNA3/RDNA4 Radeon consumer GPUs, AMD engineers are interested in your logs to help better optimize the performance going forward.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Logs-For-ComfyUI-PyTorch) • 4h ago
-
----
-
-**[Ai generated Tv tropes page.](https://www.reddit.com/r/artificial/comments/1pp07vf/ai_generated_tv_tropes_page/)**
-
-the image is an Ai generated Tv tropes page. https://ibb.co/zVFBMbjp alivie needs to be an tv tropes pages fr.
-
-2h ago
-
----
-
-**[OpenAI's answer to Google's viral Nano Banana Pro image model is here](https://www.reddit.com/r/artificial/comments/1pocv1c/openais_answer_to_googles_viral_nano_banana_pro/)**
-
-OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
-
-🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 22h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Logs-For-ComfyUI-PyTorch) • 5h ago
 
 ---
 
@@ -127,25 +127,11 @@ Reuters • 3h ago
 
 ---
 
-**[Oracle at Center of Tech’s $500 Billion AI-Fueled Rent Spree](https://www.bloomberg.com/news/articles/2025-12-17/oracle-at-center-of-tech-s-500-billion-ai-fueled-rent-spree)**
+**[The 2,000-year-old debate that reveals AI’s biggest problem](https://www.vox.com/future-perfect/472545/ai-alignment-superintelligence-meaning-agency-autonomy)**
 
-Bloomberg.com • 2h ago
+Silicon Valley is racing to build a god — without understanding what makes a good one.
 
----
-
-**[Oracle stock sinks as reported AI data center snag puts rising debt in focus](https://finance.yahoo.com/news/oracle-stock-sinks-as-reported-ai-data-center-snag-puts-rising-debt-in-focus-173526761.html)**
-
-Oracle stock tumbled as the Financial Times reported that private lender Blue Owl Capital will not back a $10 billion deal for its next data center.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Tech stocks plunge as AI angst returns](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866)**
-
-The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
-
-NBC News • 46m ago
+Vox • 7h ago
 
 ---
 
@@ -157,39 +143,53 @@ CNBC • 1h ago
 
 ---
 
-**[Amazon appoints longtime AWS exec Peter DeSantis to lead new AI org](https://techcrunch.com/2025/12/17/amazon-appoints-longtime-aws-exec-peter-desantis-to-lead-new-ai-org/)**
+**[Amazon Names New AI Chief Amid Battle to Take on Tech Rivals](https://finance.yahoo.com/news/amazon-names-ai-chief-amid-183011392.html)**
 
-DeSantis has spent 27 years at Amazon, including eight years as an SVP for AWS, the cloud provider that powers about one-third of the internet.
+Peter DeSantis will lead the new group, Amazon Chief Executive Officer Andy Jassy said Wednesday in a message to employees, which was also posted on the company’s corporate blog.  The new organization will combine Amazon’s Artificial General Intelligence team — which oversees the company’s Nova-branded AI models and the digital brains of the Alexa voice assistant — with Amazon’s chipmaking unit and quantum computing research.
 
-TechCrunch • 53m ago
-
----
-
-**[Amazon AI chief Rohit Prasad leaving; Infrastructure exec Peter DeSantis to lead unified AI group](https://www.geekwire.com/2025/amazon-ai-chief-rohit-prasad-leaving-infrastructure-exec-peter-desantis-to-lead-unified-ai-group/)**
-
-GeekWire • 1h ago
+Yahoo Finance • 57m ago
 
 ---
 
-**[Blackburn, Blumenthal raise alarms over AI toys](https://thehill.com/policy/technology/5653163-blackburn-blumenthal-ai-toys/)**
+**[Amazon taps veteran Peter DeSantis to lead AI, chip and quantum push](https://www.reuters.com/technology/amazon-taps-veteran-peter-desantis-lead-ai-chip-quantum-push-2025-12-17/)**
 
-thehill.com • 50m ago
-
----
-
-**[Video: Why Are A.I. Hits So Sad?](https://www.nytimes.com/video/podcasts/100000010592962/why-are-ai-hits-so-sad.html)**
-
-Jon Caramanica, a pop music critic at the New York Times, discusses the emotional emptiness of hits generated by artificial intelligence.
-
-The New York Times • 1h ago
+Reuters • 57m ago
 
 ---
 
-**[How Trump’s Bid to Crush State AI Laws Splits His Own Party](https://time.com/7341296/republican-backlash-trump-ai-executive-order/)**
+**[Greene County Sheriff's Office to explore AI-enabled body cameras](https://www.news-leader.com/story/news/local/ozarks/2025/12/17/greene-county-sheriffs-office-will-explore-using-ai-body-cameras/87799941007/)**
 
-Trump's attempt to restrict states' ability to regulate AI has drawn fierce backlash, even from supporters.
+The Greene County Sheriff's Office will conduct a 6-month-long study to explore the use of AI-enabled body cameras.
 
-Time Magazine • 1h ago
+Springfield News-Leader • 36m ago
+
+---
+
+**[Boise man arrested under Idaho law banning AI child pornography](https://www.idahostatesman.com/news/local/crime/article313779388.html)**
+
+Idaho Statesman • 16m ago
+
+---
+
+**[Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)**
+
+A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
+
+Financial Times • 14h ago
+
+---
+
+**[White House AI czar blasts blue states for inserting 'woke ideology' into artificial intelligence](https://www.foxbusiness.com/media/white-house-ai-czar-blasts-blue-states-inserting-woke-ideology-artificial-intelligence)**
+
+Trump AI czar David Sacks slams blue states for inserting 'woke' ideology into AI regulations, taking aim at Colorado's discrimination measures.
+
+Fox Business • 7h ago
+
+---
+
+**[U.S. and China Are Headed for an AI Collision](https://www.realcleardefense.com/articles/2025/12/17/us_and_china_are_headed_for_an_ai_collision_1153822.html)**
+
+RealClearDefense • 7h ago
 
 ---
 
@@ -205,7 +205,7 @@ Time Magazine • 1h ago
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 747 • 💬 379 • 21h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 760 • 💬 384 • 22h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -221,7 +221,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 447 • 💬 257 • 20h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 462 • 💬 262 • 21h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -229,13 +229,21 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 399 • 💬 383 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 400 • 💬 383 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 372 • 💬 315 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 373 • 💬 315 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+
+---
+
+**[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://news.ycombinator.com/item?id=46302267)**
+
+AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
+
+⬆️ 353 • 💬 198 • 2h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -247,11 +255,11 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 ---
 
-**[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://news.ycombinator.com/item?id=46302267)**
+**[AI's real superpower: consuming, not creating](https://news.ycombinator.com/item?id=46299552)**
 
-AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
+Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 231 • 💬 135 • 1h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 160 • 💬 107 • 10h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -260,14 +268,6 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
 ⬆️ 156 • 💬 50 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
-
----
-
-**[AI's real superpower: consuming, not creating](https://news.ycombinator.com/item?id=46299552)**
-
-Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
-
-⬆️ 140 • 💬 97 • 10h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -349,7 +349,7 @@ Semafor's Ben Smith discusses the president's shift to becoming what he calls th
 
 📺 MS NOW
 
-👁️ 18K • 👍 208 • 💬 77 • ⏱️ 10:03 • 1d ago
+👁️ 18K • 👍 208 • 💬 77 • ⏱️ 10:03 • 2d ago
 
 ---
 
@@ -381,7 +381,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,863 • 9d ago
+⬇️ 296,552 • ❤️ 2,865 • 9d ago
 
 ---
 
@@ -441,7 +441,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 220 • 10h ago
+⬇️ 0 • ❤️ 222 • 10h ago
 
 ---
 
@@ -453,7 +453,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 392 • 19h ago
+⬇️ 28,106 • ❤️ 393 • 19h ago
 
 ---
 
@@ -465,7 +465,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 213 • 2d ago
+⬇️ 0 • ❤️ 214 • 2d ago
 
 ---
 
@@ -475,7 +475,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 207 • 1d ago
+⬇️ 0 • ❤️ 208 • 1d ago
 
 ---
 
@@ -637,7 +637,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.2k • 🔱 2.7k • 9h ago
+⭐ 17.2k • 🔱 2.7k • 10h ago
 
 ---
 
@@ -687,7 +687,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 2h ago
+⭐ 1.1k • 🔱 138 • 3h ago
 
 ---
 
