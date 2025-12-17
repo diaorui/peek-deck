@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T23:48:47.159640+00:00'
+updated: '2025-12-17T23:59:28.754916+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 23:48 UTC  
+**Last Updated:** December 17, 2025 at 23:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 8h ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 9h ago
 
 ---
 
@@ -81,7 +81,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 53m ago
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 1h ago
 
 ---
 
@@ -113,7 +113,7 @@ School districts from Utah to Ohio to Alabama are spending thousands of dollars 
 
 "An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
 
-10h ago
+11h ago
 
 ---
 
@@ -133,7 +133,7 @@ CNBC • 2h ago
 
 Micron Technology forecast second-quarter adjusted profit at nearly double ​what Wall Street analysts expected on Wednesday, buoyed by ‌soaring prices for memory chips spurred by tight supplies and booming demand ‌from artificial intelligence data centers. Shares of the Boise, Idaho-based company rose 14% in extended trading after the forecast. Micron said it expected adjusted profit of $8.42 per share, plus or minus 20 ⁠cents, versus analyst estimates ‌of $4.78 per share, according to LSEG data.
 
-Yahoo Finance • 28m ago
+Yahoo Finance • 39m ago
 
 ---
 
@@ -161,7 +161,7 @@ NBC News • 2h ago
 
 **[Stocks Take a Hit as AI Fears Settle In](https://www.bloomberg.com/news/newsletters/2025-12-17/stocks-take-hit-as-ai-fears-settle-in-evening-briefing-americas)**
 
-Bloomberg.com • 41m ago
+Bloomberg.com • 52m ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 41m ago
 
 The stock has had big December surges before. Is another one about to happen?
 
-The Motley Fool • 52m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Motley Fool • 52m ago
 
 New artificial intelligence technology could soon help enhance security at local school districts with the help of WiFi spatial intelligence.
 
-CBS News • 50m ago
+CBS News • 1h ago
 
 ---
 
@@ -281,7 +281,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 17K • 👍 625 • 💬 34 • ⏱️ 11:44 • 17h ago
+👁️ 17K • 👍 625 • 💬 34 • ⏱️ 11:44 • 18h ago
 
 ---
 
@@ -309,7 +309,7 @@ Microsoft has released Trellis 2.0, a powerful new open-source AI model that gen
 
 📺 Stefan 3D AI Lab
 
-👁️ 5K • 👍 314 • 💬 35 • ⏱️ 9:45 • 9h ago
+👁️ 5K • 👍 314 • 💬 35 • ⏱️ 9:45 • 10h ago
 
 ---
 
@@ -409,7 +409,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 303 • 2h ago
+⬇️ 10,487 • ❤️ 303 • 3h ago
 
 ---
 
@@ -469,7 +469,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 395 • 23h ago
+⬇️ 28,106 • ❤️ 395 • 1d ago
 
 ---
 

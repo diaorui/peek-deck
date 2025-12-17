@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T23:48:47.173827+00:00'
+updated: '2025-12-17T23:59:28.769465+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 23:48 UTC  
+**Last Updated:** December 17, 2025 at 23:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -206,7 +206,7 @@ Investing.com • 14h ago
 
 Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
 
-ts2.tech • 2h ago
+ts2.tech • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 244 • ⏱️ 12:16 • 1d ago
+👁️ 65K • 👍 3K • 💬 244 • ⏱️ 12:16 • 2d ago
 
 ---
 
@@ -306,7 +306,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Nick Ford
 
-👁️ 650 • 👍 5 • 💬 2 • ⏱️ 1:54 • 17h ago
+👁️ 650 • 👍 5 • 💬 2 • ⏱️ 1:54 • 18h ago
 
 ---
 

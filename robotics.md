@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T23:48:47.177011+00:00'
+updated: '2025-12-17T23:59:28.772716+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 23:48 UTC  
+**Last Updated:** December 17, 2025 at 23:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM Just watched the Boston Dynamics tech talk on The Humanoid Mission in Manufacturing. One slide frames the roadmap as a gradual compression of layers, where classical perception, planning, manipulation, and control are absorbed into more unified end to end models. What stood out to me is that this suggests classical and optimization based control may be progressively replaced rather than simply augmented. Given that direction, is it still worth investing heavily in classical or optimization based control research for handling physics, contact, and stability underneath, or do people expect those responsibilities to eventually be fully learned by VLM or VLA style models? Curious how others here think about this tradeoff, especially in the context of balance and contact heavy manufacturing tasks.
 
-2h ago
+3h ago
 
 ---
 
@@ -108,7 +108,7 @@ An robotic arm picks up a toy bear from a sofa and places it into a basket. The 
 
 I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but without actually building the robot. I'm currently trying to put something together with threejs and the jolt physics engine, but I'd have to assume there's probably a better way to do it. If so, what are better ways to simulate a robot? +1 if it can run in a browser
 
-3h ago
+4h ago
 
 ---
 
