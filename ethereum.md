@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T22:16:55.913541+00:00'
+updated: '2025-12-17T22:40:38.906074+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 22:16 UTC  
+**Last Updated:** December 17, 2025 at 22:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,819.78
+### $2,827.06
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.7%  
-**7d:** -12.7%  
-**30d:** -9.6%  
-**90d:** -36.8%  
-**1y:** -22.2%  
+**24h:** -4.6%  
+**7d:** -12.6%  
+**30d:** -9.5%  
+**90d:** -36.7%  
+**1y:** -22.1%  
 
 ---
 
@@ -106,7 +106,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 6h ago
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 7h ago
 
 ---
 
@@ -234,7 +234,7 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 334 • 💬 58 • ⏱️ 11:01 • 21h ago
+👁️ 6K • 👍 334 • 💬 58 • ⏱️ 11:01 • 22h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T22:16:55.899137+00:00'
+updated: '2025-12-17T22:40:38.891486+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 22:16 UTC  
+**Last Updated:** December 17, 2025 at 22:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 34m ago
+🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 58m ago
 
 ---
 
@@ -89,7 +89,7 @@ In our multi-step workflow where each step depended on the previous one’s outp
 
 This was the year that A.I.-generated content passed a kind of audiovisual Turing test, sometimes fooling us against our better judgment.
 
-🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 2h ago
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 1h ago
+🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 2h ago
 
 ---
 
@@ -123,7 +123,7 @@ School districts from Utah to Ohio to Alabama are spending thousands of dollars 
 
 **[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -131,7 +131,7 @@ Reuters • 6h ago
 
 The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
 
-NBC News • 58m ago
+NBC News • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Financial Times • 5h ago
 
 More drops for AI stocks dragged the U.S. market to its worst day in nearly a month
 
-Los Angeles Times • 29m ago
+Los Angeles Times • 53m ago
 
 ---
 
@@ -155,7 +155,7 @@ Los Angeles Times • 29m ago
 
 The high demand for memory has driven Micron shares higher and they are up 168% in 2025.
 
-CNBC • 30m ago
+CNBC • 54m ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 1h ago
 
 **[Micron forecasts surging revenue as computer memory demand for AI remains high](https://www.msn.com/en-us/money/markets/micron-forecasts-surging-revenue-as-computer-memory-demand-for-ai-remains-high/ar-AA1Sy4Pt?ocid=finance-verthp-feeds)**
 
-MSN • 16m ago
+MSN • 40m ago
 
 ---
 
@@ -177,7 +177,7 @@ MSN • 16m ago
 
 Elon Musk dismisses Trump savings accounts, claiming AI will create "universal high income" and eliminate poverty, making saving unnecessary.
 
-Fox Business • 40m ago
+Fox Business • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Fox Business • 40m ago
 
 Jeremy Carrasco makes videos under the handle @showtoolsai on TikTok, advocating for AI video literacy and pointing out tells you can look for to see if the videos on your feed are AI generated.
 
-NPR • 35m ago
+NPR • 59m ago
 
 ---
 
@@ -261,7 +261,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 196 • 💬 136 • 13h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 196 • 💬 136 • 14h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -447,7 +447,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 226 • 13h ago
+⬇️ 0 • ❤️ 226 • 14h ago
 
 ---
 
@@ -549,7 +549,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 25 • 💬 2 • ⭐ 529 • 5d ago
+▲ 25 • 💬 2 • ⭐ 529 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -643,7 +643,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.2k • 🔱 2.7k • 12h ago
+⭐ 17.2k • 🔱 2.7k • 13h ago
 
 ---
 
@@ -683,7 +683,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.2k • 🔱 99 • 5h ago
+⭐ 1.3k • 🔱 100 • 5h ago
 
 ---
 
@@ -693,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 2h ago
+⭐ 1.1k • 🔱 138 • 39m ago
 
 ---
 
@@ -733,7 +733,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 782 • 🔱 124 • 1d ago
+⭐ 783 • 🔱 124 • 1d ago
 
 ---
 

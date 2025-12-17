@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T22:16:55.907518+00:00'
+updated: '2025-12-17T22:40:38.900027+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 22:16 UTC  
+**Last Updated:** December 17, 2025 at 22:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -7.3%  
-**30d:** -7.6%  
-**90d:** -25.7%  
-**1y:** -14.6%  
+**24h:** -1.7%  
+**7d:** -7.0%  
+**30d:** -7.3%  
+**90d:** -25.5%  
+**1y:** -14.3%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ Everyone needs to chill and stack sats
 
 Tippity top of the daily mountain range
 
-3h ago
+4h ago
 
 ---
 
@@ -155,7 +155,7 @@ Dca time!! Dont buy at 130k!
 
 One analyst isn't quite ready to call a bottom, but says bitcoin is surely in an oversold condition.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 36m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 5h ago
 
 **[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -307,7 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 174 • ⏱️ 48:48 • 6h ago
+👁️ 31K • 👍 2K • 💬 174 • ⏱️ 48:48 • 7h ago
 
 ---
 
@@ -327,7 +327,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 262 • ⏱️ 9:01 • 23h ago
+👁️ 56K • 👍 3K • 💬 262 • ⏱️ 9:01 • 1d ago
 
 ---
 
