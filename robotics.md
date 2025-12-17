@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T18:38:09.645744+00:00'
+updated: '2025-12-17T18:59:54.438567+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 18:38 UTC  
+**Last Updated:** December 17, 2025 at 18:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
 
-54m ago
+1h ago
 
 ---
 
@@ -92,7 +92,7 @@ I’m working on like a platform that carries a robotic arm mounted on it that c
 
 In this tutorial you will learn: how γ affects convergence and stability in Q-Learning, how to choose the right value for your own RL environment, and what happens when γ exceeds the recommended limits (for example, γ > 1.0) and why the algorithm crashes. Link: Discount Factor (gamma) Explained With Q-Learning + CartPole
 
-2h ago
+3h ago
 
 ---
 
@@ -140,7 +140,7 @@ CNN • 7h ago
 
 The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.&nbsp;&nbsp;
 
-The Atlantic • 50m ago
+The Atlantic • 1h ago
 
 ---
 
@@ -256,7 +256,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Borunte Robot Lin 
 
-👁️ 5K • 👍 20 • ⏱️ 0:20 • 14h ago
+👁️ 5K • 👍 20 • ⏱️ 0:20 • 15h ago
 
 ---
 

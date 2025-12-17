@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T18:38:09.630264+00:00'
+updated: '2025-12-17T18:59:54.430642+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 18:38 UTC  
+**Last Updated:** December 17, 2025 at 18:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,736.44
+### $85,774.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -6.4%  
-**30d:** -6.8%  
-**90d:** -25.1%  
-**1y:** -13.8%  
+**24h:** -2.1%  
+**7d:** -7.2%  
+**30d:** -7.5%  
+**90d:** -25.7%  
+**1y:** -14.5%  
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-3h ago
+4h ago
 
 ---
 
 **[You really thought that was it? Bitcoin said: relax… back down.](https://www.reddit.com/r/Bitcoin/comments/1pp04ul/you_really_thought_that_was_it_bitcoin_said_relax/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -117,7 +117,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 3h ago
 
 Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
 
-The Motley Fool • 8m ago
+The Motley Fool • 29m ago
 
 ---
 
@@ -179,7 +179,7 @@ Financial Times • 2d ago
 
 **[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -297,7 +297,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 229 • ⏱️ 9:01 • 19h ago
+👁️ 50K • 👍 3K • 💬 229 • ⏱️ 9:01 • 20h ago
 
 ---
 

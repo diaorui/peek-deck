@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T18:38:09.640736+00:00'
+updated: '2025-12-17T18:59:54.435819+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 18:38 UTC  
+**Last Updated:** December 17, 2025 at 18:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** -12.1%  
-**30d:** -9.0%  
-**90d:** -36.3%  
-**1y:** -21.6%  
+**24h:** -4.3%  
+**7d:** -12.9%  
+**30d:** -9.8%  
+**90d:** -36.9%  
+**1y:** -22.3%  
 
 ---
 
@@ -106,7 +106,7 @@ The cryptocurrency industry is undergoing a fundamental structural shift, moving
 
 **[Help sending Blob transaction](https://www.reddit.com/r/ethereum/comments/1pp3efv/help_sending_blob_transaction/)**
 
-35m ago
+57m ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JPMorgan Chase & Co. one of the world’s largest banking institutions with over $4 trillion in assets under management has launched its first tokenized money market fund on the Ethereum blockchain, a major milestone in institutional adoption of on-chain finance. The new fund, branded the My OnChain Net Yield Fund (MONY), was seeded with $100 million of JPMorgan’s own capital and built using the bank’s Kinexys Digital Assets tokenization platform. MONY is tokenized on Ethereum, meaning ownership is represented by digital tokens that can be held in compatible wallets and transferred on-chain. The fund invests in traditional short-term debt instruments, such as U.S. Treasuries and fully collateralized repurchase agreements, while earning daily dividends similar to conventional money market funds. Qualified investors can subscribe and redeem using U.S. dollars or the stablecoin USDC, blending traditional and on-chain liquidity. The fund is offered as a 506(c) private placement to qualified individual and institutional investors typically requiring significant assets under management and a minimum initial commitment (e.g. $1 million). MONY is accessible through Morgan Money, JPMorgan’s integrated liquidity management and analytics platform that now bridges traditional and tokenized assets. MONY illustrates how tokenization can combine the stability and yield characteristics of traditional money market funds with the programmability and settlement efficiency of blockchain technology. Investors gain the ability to hold yield-bearing positions directly on-chain, potentially unlocking new use cases such as automated collateralization, 24/7 settlement, and peer-to-peer transfers.
 
-1d ago
+2d ago
 
 ---
 
@@ -146,7 +146,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqccoHkPCA-RB-vMmx9xh9KB_s39BoHN7mOP5J9uCuYEkNyoiX-1ZB6d&gaa_ts=6942fbfd&gaa_sig=WyLkwueORllngY1C-8kv4jOr_Mtqx8Ps59UvmPhZsEFjy9QSoUTFShwiHL4ngSIRIjIeU8Ms5JXMhKqT-HJhzA%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 2d ago
 
 The actively managed ETFs of Cathie Wood's Ark Invest loaded up on crypto-related equities like Coinbase, BitMine, and Circle as prices sagged Monday.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -226,7 +226,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 792 • 👍 77 • 💬 4 • ⏱️ 4:45 • 2h ago
+👁️ 792 • 👍 77 • 💬 4 • ⏱️ 4:45 • 3h ago
 
 ---
 
@@ -296,7 +296,7 @@ Are blackrock clients removing risk from the table in preparation for the Japane
 
 📺 Traders Reality
 
-👁️ 4K • 👍 480 • 💬 16 • ⏱️ 32:42 • 3h ago
+👁️ 4K • 👍 480 • 💬 16 • ⏱️ 32:42 • 4h ago
 
 ---
 
@@ -314,7 +314,7 @@ The line between the stock market and crypto is vanishing. Nasdaq has officially
 
 📺 Nick Ford
 
-👁️ 511 • 👍 4 • 💬 2 • ⏱️ 1:54 • 12h ago
+👁️ 511 • 👍 4 • 💬 2 • ⏱️ 1:54 • 13h ago
 
 ---
 
