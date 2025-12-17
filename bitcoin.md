@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T16:52:09.669974+00:00'
+updated: '2025-12-17T17:19:07.339121+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 16:52 UTC  
+**Last Updated:** December 17, 2025 at 17:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,655.49
+### $86,444.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -6.6%  
-**30d:** -7.0%  
-**90d:** -25.2%  
-**1y:** -14.0%  
+**24h:** -1.3%  
+**7d:** -6.2%  
+**30d:** -6.6%  
+**90d:** -24.9%  
+**1y:** -13.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1733.89B
+**Market Cap:** $1729.61B
 Rank #1
 
 **Circulating Supply:** 19,963,375 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.3%
+-31.2%
 
 **All-Time Low:** $67.81
-+127674.7%
++127741.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Back to 90k.
 
-1h ago
+2h ago
 
 ---
 
@@ -91,29 +91,47 @@ Back to 90k.
 
 ---
 
+**[Your Choice?](https://www.reddit.com/r/Bitcoin/comments/1poyk0f/your_choice/)**
+
+Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
+
+2h ago
+
+---
+
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
 12h ago
 
 ---
 
-**[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
-
-12h ago
-
----
-
-**[Your Choice?](https://www.reddit.com/r/Bitcoin/comments/1poyk0f/your_choice/)**
-
-Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
+**[You really thought that was it? Bitcoin said: relax… back down.](https://www.reddit.com/r/Bitcoin/comments/1pp04ul/you_really_thought_that_was_it_bitcoin_said_relax/)**
 
 1h ago
 
 ---
 
-**[You really thought that was it? Bitcoin said: relax… back down.](https://www.reddit.com/r/Bitcoin/comments/1pp04ul/you_really_thought_that_was_it_bitcoin_said_relax/)**
+**[And yall tell me it’s no manipulation](https://www.reddit.com/r/Bitcoin/comments/1pp0ok7/and_yall_tell_me_its_no_manipulation/)**
 
-54m ago
+1h ago
+
+---
+
+**[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
+
+1h ago
+
+---
+
+**[These swings are crazy](https://www.reddit.com/r/Bitcoin/comments/1pp148h/these_swings_are_crazy/)**
+
+44m ago
+
+---
+
+**[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
+
+12h ago
 
 ---
 
@@ -125,95 +143,29 @@ Just keep hodling and don't trust the news
 
 ---
 
-**[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
-
-1d ago
-
----
-
-**[In my hometown, couple of days ago.](https://www.reddit.com/r/Bitcoin/comments/1porpmp/in_my_hometown_couple_of_days_ago/)**
-
-I was genuinely surprised and shocked to see this, especially since our country is low-income and very slow when it comes to new technologies. Nice to see things are moving forward. P.S. Bosnia and Herzegovina, Europe
-
-8h ago
-
----
-
-**[The Fatigue Filter](https://www.reddit.com/r/Bitcoin/comments/1povh2n/the_fatigue_filter/)**
-
-They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth annual loss. First one without a scandal attached. No exchange collapsed. No founder arrested. No rug pull. Just... boredom. The tourists are checking out. Here's what the tourists never understand: the boring parts are the feature, not the bug. Every technological shift follows the same arc. Ridicule. Resistance. Magazine cover. But between resistance and magazine cover? There's a long, quiet stretch where nothing seems to happen. That's the dip. The dip is where most people quit. Not because they failed—because they got tired of waiting. I watched this happen in 2014. In 2018. In 2022. The headlines screamed death. The believers kept building. The difference between a tourist and a settler isn't conviction. It's tolerance for boredom. Tourists need the dopamine of daily gains. Settlers understand that positioning happens in the quiet. The same information is available to everyone. The Fed's moves. The ETF flows. The macro headwinds. But information without the patience to act on it is just noise. Risk isn't about volatility. Risk is a function of information and control. If you know why you're here, a down year isn't a crisis. It's a filter. The question isn't whether Bitcoin will recover. The question is whether you'll still be here when it does.
-
-4h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price (BTC) news: Early U.S. surge above $90,000](https://www.coindesk.com/markets/2025/12/17/bitcoin-re-takes-usd90-000-as-price-spikes-early-in-u-s-session)**
+**[Bitcoin price (BTC) news: Major whipsaw on Wednesday sends price back below $88,000](https://www.coindesk.com/markets/2025/12/17/bitcoin-tumbles-back-below-usd88-000-as-gains-evaporate-as-quickly-as-they-formed)**
 
-Surging metals prices and dovish comments from leading Fed chair contender Chris Waller were among the news items possibly boosting crypto prices.
+It was a blink and you missed it rally as continued deflation in the AI trade sent the Nasdaq sharply lower, dragging crypto along with it.
 
 CoinDesk • 1h ago
 
 ---
 
-**[Norway’s Sovereign Wealth Fund Backs Metaplanet’s Bitcoin Strategy](https://bitcoinmagazine.com/news/norway-backs-metaplanets-bitcoin-strategy)**
+**[Bitcoin hovers at $86,000 as token faces 'lackluster' end of 2025](https://finance.yahoo.com/news/bitcoin-hovers-at-86000-as-token-faces-lackluster-end-of-2025-165535813.html)**
 
-Norway just voted in favor of all five management proposals for Metaplanet’s upcoming Extraordinary General Meeting (EGM) on Dec. 22, endorsing the firm’s bitcoin treasury strategy.
+Jitters over AI-related stocks and speculation over who will take over Fed Chair Jerome Powell’s position next year may be keeping a lid on bitcoin prices.
 
-Bitcoin Magazine • 1h ago
-
----
-
-**[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
-
-CCN.com • 2h ago
+Yahoo Finance • 23m ago
 
 ---
 
 **[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
 
 The Block • 5h ago
-
----
-
-**[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
-
-thestreet.com • 19h ago
-
----
-
-**[Bitcoin Treasury KindlyMD Faces Nasdaq Delisting With Stock Down 99%](https://finance.yahoo.com/news/bitcoin-treasury-kindlymd-faces-nasdaq-222119629.html)**
-
-KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
-
-Yahoo Finance • 18h ago
-
----
-
-**[Bitcoin Treasury KindlyMD Faces Nasdaq Delisting With Stock Down 99%](https://decrypt.co/352614/bitcoin-treasury-kindlymd-faces-nasdaq-delisting-stock-down-99-percent)**
-
-KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
-
-Decrypt • 18h ago
-
----
-
-**[Speed Raises $8 Million to Expand Bitcoin and Stablecoin Payment Solutions](https://www.pymnts.com/news/fintech-investments/2025/speed-raises-8-million-dollars-expand-bitcoin-stablecoin-payment-solutions/)**
-
-Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
-
-PYMNTS.com • 19h ago
-
----
-
-**[Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City](https://decrypt.co/352685/bhutan-pledges-10000-bitcoin-worth-1b-fund-mindfulness-city)**
-
-The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
-
-Decrypt • 9h ago
 
 ---
 
@@ -225,6 +177,52 @@ Financial Times • 2d ago
 
 ---
 
+**[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
+
+thestreet.com • 19h ago
+
+---
+
+**[Bitcoin Treasury KindlyMD Faces Nasdaq Delisting With Stock Down 99%](https://decrypt.co/352614/bitcoin-treasury-kindlymd-faces-nasdaq-delisting-stock-down-99-percent)**
+
+KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
+
+Decrypt • 18h ago
+
+---
+
+**[Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice](https://www.tradingview.com/news/cointelegraph:7059821cb094b:0-bitcoin-treasury-kindly-md-faces-potential-delisting-after-nasdaq-price-notice/)**
+
+Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
+
+TradingView — Track All Markets • 21h ago
+
+---
+
+**[Speed Raises $8 Million to Expand Bitcoin and Stablecoin Payment Solutions](https://www.pymnts.com/news/fintech-investments/2025/speed-raises-8-million-dollars-expand-bitcoin-stablecoin-payment-solutions/)**
+
+Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
+
+PYMNTS.com • 20h ago
+
+---
+
+**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
+
+US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
+
+CryptoSlate • 7h ago
+
+---
+
+**[Bitcoin Briefly Reclaims $90,000 After Early U.S. Spike](https://bitbo.io/news/bitcoin-reclaims-90k-us-spike/)**
+
+Bitcoin briefly pushed back above $90,000 in early U.S. trading as metals surged and Fed Governor Chris Waller struck a dovish tone on rates.
+
+Bitbo • 1h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -233,7 +231,7 @@ Financial Times • 2d ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 7 • 💬 3 • 3d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 7 • 💬 3 • 4d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -301,7 +299,7 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 335 • 💬 62 • ⏱️ 46:53 • 1h ago
+👁️ 3K • 👍 335 • 💬 62 • ⏱️ 46:53 • 2h ago
 
 ---
 
@@ -311,7 +309,7 @@ BTC, SOL, ETH, bear market, and stocks! BITUNIX TRADE THE TOP COINS (available e
 
 📺 Lark Davis
 
-👁️ 7K • 👍 527 • 💬 31 • ⏱️ 57:30 • 4h ago
+👁️ 7K • 👍 527 • 💬 31 • ⏱️ 57:30 • 5h ago
 
 ---
 
@@ -321,7 +319,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 13K • 👍 1K • 💬 79 • ⏱️ 38:13 • 7h ago
+👁️ 13K • 👍 1K • 💬 79 • ⏱️ 38:13 • 8h ago
 
 ---
 
@@ -341,7 +339,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 171 • ⏱️ 13:25 • 17h ago
+👁️ 29K • 👍 2K • 💬 171 • ⏱️ 13:25 • 18h ago
 
 ---
 
@@ -361,7 +359,7 @@ Affiliate Links: (We May Earn Commission) Blofin: https://blofin.com/invite/Bitc
 
 📺 Andy Bitcoinsensus
 
-👁️ 2K • 👍 153 • 2h ago
+👁️ 2K • 👍 153 • 3h ago
 
 ---
 
@@ -371,7 +369,7 @@ Anthony and John Pompliano break down what's really happening in the bitcoin mar
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 809 • 💬 33 • ⏱️ 41:39 • 18h ago
+👁️ 18K • 👍 809 • 💬 33 • ⏱️ 41:39 • 19h ago
 
 ---
 

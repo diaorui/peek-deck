@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T16:52:09.675391+00:00'
+updated: '2025-12-17T17:19:07.345049+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 16:52 UTC  
+**Last Updated:** December 17, 2025 at 17:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,875.71
+### $2,856.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** -11.7%  
-**30d:** -8.6%  
-**90d:** -36.1%  
-**1y:** -21.3%  
+**24h:** -2.7%  
+**7d:** -11.4%  
+**30d:** -8.1%  
+**90d:** -35.8%  
+**1y:** -20.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $347.13B
+**Market Cap:** $343.78B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
@@ -62,7 +62,7 @@ No max supply
 -42.2%
 
 **All-Time Low:** $0.43
-+660511.7%
++660451.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
-1h ago
+2h ago
 
 ---
 
 **[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
 
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 1h ago
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 2h ago
 
 ---
 
@@ -100,7 +100,7 @@ What is the current situation with using crypto mixers in the the US, UK and EU?
 
 The cryptocurrency industry is undergoing a fundamental structural shift, moving away from fragmented protocols toward a unified "Aggregatio...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 9h ago
+🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 10h ago
 
 ---
 
@@ -146,17 +146,17 @@ idk man. the speed, the fees, the ux... solana teams and tools built on top of i
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfpE5DtI05xiDlE1pUuTENrT663qBwCr_MqQ_V3_KLyOfTFbYH0zddP&gaa_ts=6942dc37&gaa_sig=6pnzslVetHKQ-iuspmiIM9VfhBz0TmMgbBrrNdxwJIR6BDhjBZQRxyvEt-ZAnJwXvGryQ_yj7MLBPczKEGTB6Q%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe2niZeZbtMvo2CtYDH1StXCrdO0bhvXJXVeopcmug4ikJetzk2DTNA&gaa_ts=6942e974&gaa_sig=2tOU_Y4hxo8r7hfnYz2kCmvM51JJVPFqU2GHf-QBHJFntqAPDRtkFLV1rZnGEGtmEWvE_rgV3xMkbkLY9gTV9Q%3D%3D)**
 
 Barron's • 19h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
+**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
 
-Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
+Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
-Decrypt • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -168,9 +168,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
+**[Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk](https://decrypt.co/352533/bitcoin-ethereum-etfs-shed-582m-in-a-day-as-institutions-trim-risk)**
 
-The Block • 3h ago
+U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
+
+Decrypt • 1d ago
 
 ---
 
@@ -178,7 +180,23 @@ The Block • 3h ago
 
 Ethereum price slips below $3,000 as weak investor confidence and declining on-chain activity pressure ETH near critical support levels.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Why Crypto Is Going Down Today? Bitcoin, XRP Price, Ethereum and Dogecoin Moves Under Death Cross](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-bitcoin-xrp-price-ethereum-and-dogecoin-moves-under-death-cross/)**
+
+Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
+
+Finance Magnates • 2h ago
+
+---
+
+**[DOGE, SHIB Price News: Dogecoin and Shiba Inu Drop Lower as Ethereum Loses Appeal](https://www.coindesk.com/markets/2025/12/17/dogecoin-and-shiba-inu-test-lower-levels-after-key-support-gives-way)**
+
+The decline in ether contributed to the selling pressure on meme coins, as traders often use ETH as a risk gauge for altcoins.
+
+CoinDesk • 2m ago
 
 ---
 
@@ -197,20 +215,6 @@ Bloomberg.com • 2d ago
 **[JPMorgan Bets on Ethereum — Is Tom Lee’s $20K Price Prediction More Likely Now?](https://www.ccn.com/news/crypto/jpmorgan-bullish-ethereum-tokenized-money-fund-launch-lee-expects-price/)**
 
 CCN.com • 2d ago
-
----
-
-**[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
-
-TipRanks • 1d ago
-
----
-
-**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
-
-Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -282,7 +286,7 @@ The line between the stock market and crypto is vanishing. Nasdaq has officially
 
 📺 CryptoStock Lab
 
-👁️ 282 • 👍 23 • 💬 13 • ⏱️ 12:47 • 4h ago
+👁️ 282 • 👍 23 • 💬 13 • ⏱️ 12:47 • 5h ago
 
 ---
 

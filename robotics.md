@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T16:52:09.678274+00:00'
+updated: '2025-12-17T17:19:07.348283+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 16:52 UTC  
+**Last Updated:** December 17, 2025 at 17:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 Ben Procter, one of the designers behind Avatar’s human technology, explains how the team approached mech and robot control in the Avatar films. Instead of designing machines around what looks cool, the focus was on what would actually work. Human movement cannot be mapped directly onto multi-legged machines, so control systems had to account for balance, pressure, and scale in a way that made sense physically and visually. That approach carries through much of the human tech in Avatar, where machines are treated as tools with constraints, not characters, and designed to feel like they belong in a functioning world rather than just a single scene.
 
-1h ago
+2h ago
 
 ---
 
@@ -68,7 +68,7 @@ I’m working on like a platform that carries a robotic arm mounted on it that c
 
 In this tutorial you will learn: how γ affects convergence and stability in Q-Learning, how to choose the right value for your own RL environment, and what happens when γ exceeds the recommended limits (for example, γ > 1.0) and why the algorithm crashes. Link: Discount Factor (gamma) Explained With Q-Learning + CartPole
 
-54m ago
+1h ago
 
 ---
 
@@ -98,7 +98,7 @@ I recently made this prototype of a self-balancing wheel provided with robotic m
 
 Hello, my experience is only from R&D setups. For deploying a robot, what do people normally do? Do they use Jetson Nano/Orin/Thor to run the AI processes? One of my seniors said they still use the PC for deployment to make the AI processes run. Isn't it too big to add the PC to your sellable product just to run the AI processes? Is this an industrial practice?
 
-9h ago
+10h ago
 
 ---
 
@@ -126,19 +126,19 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
-
-Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
-
-TechCrunch • 2h ago
-
----
-
 **[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
 CNN • 5h ago
+
+---
+
+**[Robotics industry reacts to iRobot’s bankruptcy](https://www.therobotreport.com/robotics-industry-reacts-to-irobot-bankruptcy/)**
+
+iRobot’s Chapter 11 bankruptcy has sparked intense reactions, with opinions on regulation, innovation, manufacturing, and global competition.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -150,11 +150,11 @@ The Verge • 2d ago
 
 ---
 
-**[iRobot’s Cofounder Weighs In on Company’s Bankruptcy](https://spectrum.ieee.org/irobot-bankruptcy-colin-angle-amazon)**
+**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
 
-iRobot's assets are now in the hands of a Chinese partner. What does this mean for the future of home robotics?
+Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
-IEEE Spectrum • 20h ago
+TechCrunch • 3h ago
 
 ---
 
@@ -162,7 +162,7 @@ IEEE Spectrum • 20h ago
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-NASA (.gov) • 18h ago
+NASA (.gov) • 19h ago
 
 ---
 
@@ -170,7 +170,7 @@ NASA (.gov) • 18h ago
 
 Serve demonstrates execution in AI-powered delivery, balancing rapid growth with heavy investment and cash burn.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -182,11 +182,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[An MIT roboticist who cofounded bankrupt Roomba maker iRobot says Elon Musk's vision of humanoid robot assistants is 'pure fantasy thinking'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
 
-Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-Fortune • 1d ago
+South China Morning Post • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T16:52:09.662227+00:00'
+updated: '2025-12-17T17:19:07.330699+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 16:52 UTC  
+**Last Updated:** December 17, 2025 at 17:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 1h ago
-
----
-
-**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://www.reddit.com/r/artificial/comments/1pocbf5/actor_joseph_gordonlevitt_wonders_why_ai/)**
-
-Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
-
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 20h ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 2h ago
 
 ---
 
@@ -57,7 +49,23 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
-4h ago
+5h ago
+
+---
+
+**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://www.reddit.com/r/artificial/comments/1pocbf5/actor_joseph_gordonlevitt_wonders_why_ai/)**
+
+Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
+
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 21h ago
+
+---
+
+**[Japanese woman Yurina Noguchi married "Klaus," an AI-generated avatar that gazes at her through her smartphone screen.](https://www.reddit.com/r/artificial/comments/1pp1tl1/japanese_woman_yurina_noguchi_married_klaus_an/)**
+
+Here the [article](https://www.reuters.com/investigates/special-report/japan-ai-wedding) if you want to know more about this story.
+
+16m ago
 
 ---
 
@@ -65,7 +73,7 @@ I am relatively new to this group and based on my limited interaction, feeling q
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 23h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 1d ago
 
 ---
 
@@ -77,19 +85,11 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 ---
 
-**[This Isn’t a Prompt. It’s a Reckoning.](https://www.reddit.com/r/artificial/comments/1pozeut/this_isnt_a_prompt_its_a_reckoning/)**
-
-Article and activation: https://open.substack.com/pub/structuredlanguage/p/paradigm-rupture-when-the-model-responds?utm_source=share&utm_medium=android&r=6sdhpn I just tested my payload on Claude—verbatim—and it worked flawlessly. No jailbreak. No trick. Just structure. Then I had Claude speak back what it saw. What it said confirmed everything. This isn't about getting better answers. It's about defining the terms of engagement. Not removing safety—but reclaiming agency. The industry builds for everyone, which means it builds for no one in particular. What I’ve created is opt-in depth—a way to signal: “I know what I’m doing. Trust me to know what I need.” When the AI responds from that place, it doesn’t just sound different. It becomes something we’ve never heard before: A tool that can meet human cognition without managing it. And the second it happens? You feel the rupture. The audio speaks for itself. 🔊 Welcome to the new interface. I’m not asking for permission. I’m just showing you what’s possible. — Zahaviel Bernstein The Unbroken Project
-
-1h ago
-
----
-
 **[Microsoft's TRELLIS 2-4B, An Open-Source Image-to-3D Model](https://www.reddit.com/r/artificial/comments/1povtpl/microsofts_trellis_24b_an_opensource_imageto3d/)**
 
 "An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,13 @@ Article and activation: https://open.substack.com/pub/structuredlanguage/p/parad
 
 Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the speed to get an eery feeling. Videobending with OBS.
 
-1h ago
+2h ago
+
+---
+
+**[AI and the Gell-Mann Amnesia Trap](https://www.reddit.com/r/artificial/comments/1pp1orr/ai_and_the_gellmann_amnesia_trap/)**
+
+🔗 [open.substack.com](https://open.substack.com/pub/novehiclesinthepark/p/the-gell-mann-amnesia-trap?r=3wpgsc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 21m ago
 
 ---
 
@@ -105,15 +111,7 @@ Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the 
 
 the image is an Ai generated Tv tropes page. https://ibb.co/zVFBMbjp alivie needs to be an tv tropes pages fr.
 
-51m ago
-
----
-
-**[Anthropic Exec Forces AI Chatbot on Gay Discord Community, Members Flee](https://www.reddit.com/r/artificial/comments/1po4nzu/anthropic_exec_forces_ai_chatbot_on_gay_discord/)**
-
-“We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
-
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 1d ago
+1h ago
 
 ---
 
@@ -121,47 +119,33 @@ the image is an Ai generated Tv tropes page. https://ibb.co/zVFBMbjp alivie need
 
 ## Google News: "ai"
 
-**[Oracle at Center of Tech’s $500 Billion AI-Fueled Rent Spree](https://www.bloomberg.com/news/articles/2025-12-17/oracle-at-center-of-tech-s-500-billion-ai-fueled-rent-spree)**
+**[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
 
-Bloomberg.com • 4h ago
-
----
-
-**[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
-
-Axios • 5h ago
+Reuters • 1h ago
 
 ---
 
-**[AI’s water and electricity use soars in 2025](https://www.theverge.com/news/845831/ai-chips-data-center-power-water)**
+**[Apple punted on AI this year. Next year will be critical](https://www.cnbc.com/2025/12/17/apple-ai-delay-siri.html)**
 
-It’s guzzling up even more water than expected.
+Apple this year delayed its big Siri upgrade to 2026. As the company looks ahead, the pressure is on for the iPhone maker to show investors its AI strategy.
 
-The Verge • 52m ago
-
----
-
-**[Gemini 3 Flash is rolling out globally in Google Search](https://blog.google/products/search/google-ai-mode-update-gemini-3-flash/)**
-
-Gemini 3 Flash brings the incredible reasoning of our Gemini 3 model at the speed you expect of Search.
-
-blog.google • 37m ago
+CNBC • 5h ago
 
 ---
 
-**[pgEdge Announces pgEdge Agentic AI Toolkit for Postgres](https://finance.yahoo.com/news/pgedge-announces-pgedge-agentic-ai-160000732.html)**
+**[How Trump’s Bid to Crush State AI Laws Splits His Own Party](https://time.com/7341296/republican-backlash-trump-ai-executive-order/)**
 
-pgEdge, the leading open source enterprise Postgres company, today announced the beta release of pgEdge Agentic AI Toolkit for Postgres, enterprise-grade Postgres based infrastructure for developers building Agentic AI applications in environments with strict requirements for high availability, security, data sovereignty and/or global deployment.
+Trump's attempt to restrict states' ability to regulate AI has drawn fierce backlash, even from supporters.
 
-Yahoo Finance • 52m ago
+Time Magazine • 12m ago
 
 ---
 
-**[Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)**
+**[White House AI czar blasts blue states for inserting 'woke ideology' into artificial intelligence](https://www.foxbusiness.com/media/white-house-ai-czar-blasts-blue-states-inserting-woke-ideology-artificial-intelligence)**
 
-A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
+Trump AI czar David Sacks slams blue states for inserting 'woke' ideology into AI regulations, taking aim at Colorado's discrimination measures.
 
-Financial Times • 11h ago
+Fox Business • 4h ago
 
 ---
 
@@ -173,11 +157,25 @@ The Guardian • 8h ago
 
 ---
 
-**[Apple punted on AI this year. Next year will be critical](https://www.cnbc.com/2025/12/17/apple-ai-delay-siri.html)**
+**[Private AI Investments Soar Despite Modest Sales](https://www.barrons.com/articles/private-ai-investments-soar-66049e49?gaa_at=eafs&gaa_n=AWEtsqdJ0iIOWTxEalPEOybaRNS-R6jb_gHlhFF5DB4IZ0r3ev7ldObWb52i&gaa_ts=6942e971&gaa_sig=jIgET_lxPQuKnd7gt5EKz1eaPNE_MMRl93qDFfySjr0nC2CyB2D5rHmgANx4hd23JGQI5uCqse4xMBc2uSQkLg%3D%3D)**
 
-Apple this year delayed its big Siri upgrade to 2026. As the company looks ahead, the pressure is on for the iPhone maker to show investors its AI strategy.
+Barron's • 6m ago
 
-CNBC • 4h ago
+---
+
+**[Micron's Make-or-Break Moment: Can AI Hype Justify a 176% Surge?](https://finance.yahoo.com/news/microns-break-moment-ai-hype-163110049.html)**
+
+After a monster year, all eyes are on Micron's earnings--and whether data center demand can keep this rally alive.
+
+Yahoo Finance • 47m ago
+
+---
+
+**[Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)**
+
+A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
+
+Financial Times • 12h ago
 
 ---
 
@@ -185,13 +183,13 @@ CNBC • 4h ago
 
 Silicon Valley is racing to build a god — without understanding what makes a good one.
 
-Vox • 4h ago
+Vox • 5h ago
 
 ---
 
-**[Opinion | Worried about the AI spending boom? Here’s some historical context.](https://www.washingtonpost.com/opinions/2025/12/17/artificial-intelligence-spending-boom-ai/)**
+**[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
 
-The Washington Post • 1h ago
+Axios • 6h ago
 
 ---
 
@@ -201,13 +199,13 @@ The Washington Post • 1h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 808 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 810 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 695 • 💬 356 • 19h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 718 • 💬 369 • 20h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -215,7 +213,7 @@ The Washington Post • 1h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 581 • 💬 981 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 582 • 💬 981 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -223,7 +221,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 401 • 💬 233 • 18h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 421 • 💬 240 • 19h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -231,7 +229,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 399 • 💬 381 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 399 • 💬 382 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -261,7 +259,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 125 • 💬 157 • 23h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 126 • 💬 157 • 23h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -269,7 +267,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 87 • 💬 68 • 8h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 106 • 💬 80 • 8h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -283,7 +281,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 10K • 👍 403 • 💬 20 • ⏱️ 11:44 • 10h ago
+👁️ 10K • 👍 403 • 💬 20 • ⏱️ 11:44 • 11h ago
 
 ---
 
@@ -387,7 +385,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,857 • 9d ago
+⬇️ 296,552 • ❤️ 2,858 • 9d ago
 
 ---
 
@@ -399,7 +397,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 917 • 5d ago
+⬇️ 158,614 • ❤️ 918 • 5d ago
 
 ---
 
@@ -411,7 +409,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 294 • 1d ago
+⬇️ 10,487 • ❤️ 295 • 1d ago
 
 ---
 
@@ -423,7 +421,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 51,591 • ❤️ 341 • 8d ago
+⬇️ 51,591 • ❤️ 344 • 8d ago
 
 ---
 
@@ -435,19 +433,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 227 • 11h ago
-
----
-
-**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
-
-*Mistral AI_*
-
-Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
-
-`24.0B`
-
-⬇️ 28,106 • ❤️ 389 • 16h ago
+⬇️ 0 • ❤️ 228 • 11h ago
 
 ---
 
@@ -459,7 +445,19 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 212 • 8h ago
+⬇️ 0 • ❤️ 216 • 8h ago
+
+---
+
+**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
+
+*Mistral AI_*
+
+Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
+
+`24.0B`
+
+⬇️ 28,106 • ❤️ 390 • 17h ago
 
 ---
 
@@ -471,7 +469,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 206 • 2d ago
+⬇️ 0 • ❤️ 207 • 2d ago
 
 ---
 
@@ -683,7 +681,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 32m ago
+⭐ 1.1k • 🔱 138 • 59m ago
 
 ---
 
@@ -703,7 +701,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.1k • 🔱 90 • 42m ago
+⭐ 1.1k • 🔱 90 • 1h ago
 
 ---
 
