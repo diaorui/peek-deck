@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T19:27:55.394262+00:00'
+updated: '2025-12-17T19:42:12.905319+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 19:27 UTC  
+**Last Updated:** December 17, 2025 at 19:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** -12.8%  
-**30d:** -9.7%  
-**90d:** -36.9%  
-**1y:** -22.3%  
+**24h:** -5.0%  
+**7d:** -13.3%  
+**30d:** -10.3%  
+**90d:** -37.3%  
+**1y:** -22.7%  
 
 ---
 
@@ -98,7 +98,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
 
-43m ago
+58m ago
 
 ---
 
@@ -120,7 +120,7 @@ The cryptocurrency industry is undergoing a fundamental structural shift, moving
 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 3h ago
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 4h ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqc92BaefCOJXi1N5CR_MWmULnKodK8KKmbh915vRD5Aob1R5qcQy5P_&gaa_ts=69430793&gaa_sig=c-Ta338fx3Wgk7ODoBjUA8FoWupNisJnAo2Ssurh878on4mImfxKZfbr9Ox2S5aJTF3vQm9Ke5ZriTWSukhdyw%3D%3D)**
 
-Barron's • 21h ago
+Barron's • 22h ago
 
 ---
 
@@ -232,7 +232,7 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 317 • 💬 54 • ⏱️ 11:01 • 18h ago
+👁️ 6K • 👍 317 • 💬 54 • ⏱️ 11:01 • 19h ago
 
 ---
 

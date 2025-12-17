@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T19:27:55.379495+00:00'
+updated: '2025-12-17T19:42:12.890957+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 19:27 UTC  
+**Last Updated:** December 17, 2025 at 19:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 42m ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 57m ago
 
 ---
 
@@ -97,7 +97,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 This was the year that A.I.-generated content passed a kind of audiovisual Turing test, sometimes fooling us against our better judgment.
 
-🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 10m ago
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 24m ago
 
 ---
 
@@ -123,7 +123,7 @@ If you are not satisfied with the current performance for PyTorch or ComfyUI / S
 
 **[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -147,13 +147,13 @@ CNBC • 1h ago
 
 Peter DeSantis will lead the new group, Amazon Chief Executive Officer Andy Jassy said Wednesday in a message to employees, which was also posted on the company’s corporate blog.  The new organization will combine Amazon’s Artificial General Intelligence team — which oversees the company’s Nova-branded AI models and the digital brains of the Alexa voice assistant — with Amazon’s chipmaking unit and quantum computing research.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Amazon taps veteran Peter DeSantis to lead AI, chip and quantum push](https://www.reuters.com/technology/amazon-taps-veteran-peter-desantis-lead-ai-chip-quantum-push-2025-12-17/)**
 
-Reuters • 57m ago
+Reuters • 1h ago
 
 ---
 
@@ -161,13 +161,13 @@ Reuters • 57m ago
 
 The Greene County Sheriff's Office will conduct a 6-month-long study to explore the use of AI-enabled body cameras.
 
-Springfield News-Leader • 36m ago
+Springfield News-Leader • 51m ago
 
 ---
 
 **[Boise man arrested under Idaho law banning AI child pornography](https://www.idahostatesman.com/news/local/crime/article313779388.html)**
 
-Idaho Statesman • 16m ago
+Idaho Statesman • 30m ago
 
 ---
 
@@ -189,7 +189,7 @@ Fox Business • 7h ago
 
 **[U.S. and China Are Headed for an AI Collision](https://www.realcleardefense.com/articles/2025/12/17/us_and_china_are_headed_for_an_ai_collision_1153822.html)**
 
-RealClearDefense • 7h ago
+RealClearDefense • 8h ago
 
 ---
 
@@ -259,7 +259,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 160 • 💬 107 • 10h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 160 • 💬 107 • 11h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -339,7 +339,7 @@ Ai Brains In Earth Orbit AI doesn't just work on Earth anymore — its future ma
 
 📺 Light in sky
 
-👁️ 726 • 👍 24 • 💬 1 • ⏱️ 0:44 • 4h ago
+👁️ 726 • 👍 24 • 💬 1 • ⏱️ 0:44 • 5h ago
 
 ---
 
@@ -441,7 +441,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 222 • 10h ago
+⬇️ 0 • ❤️ 222 • 11h ago
 
 ---
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.2k • 🔱 443 • 3h ago
+⭐ 4.2k • 🔱 443 • 4h ago
 
 ---
 
@@ -677,7 +677,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.2k • 🔱 92 • 2h ago
+⭐ 1.2k • 🔱 92 • 3h ago
 
 ---
 

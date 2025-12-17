@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T19:27:55.388178+00:00'
+updated: '2025-12-17T19:42:12.899355+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 19:27 UTC  
+**Last Updated:** December 17, 2025 at 19:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,781.83
+### $85,455.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -7.2%  
-**30d:** -7.5%  
-**90d:** -25.7%  
-**1y:** -14.5%  
+**24h:** -2.2%  
+**7d:** -7.3%  
+**30d:** -7.7%  
+**90d:** -25.8%  
+**1y:** -14.7%  
 
 ---
 
@@ -105,13 +105,13 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[These swings are crazy](https://www.reddit.com/r/Bitcoin/comments/1pp148h/these_swings_are_crazy/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -119,7 +119,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 Tippity top of the daily mountain range
 
-55m ago
+1h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 3h ago
 
 **[The Daily: US senators introduce crypto fraud bill, K33 flags easing bitcoin sell pressure, BitMine adds $140M in ETH, and more](https://www.theblock.co/post/383044/the-daily-us-senators-introduce-crypto-fraud-bill-k33-flags-easing-bitcoin-sell-pressure-bitmine-adds-140m-in-eth-and-more?utm_source=companies.xml&utm_medium=rss)**
 
-The Block • 23m ago
+The Block • 37m ago
 
 ---
 
@@ -181,7 +181,7 @@ Investor's Business Daily • 4h ago
 
 Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
 
-The Motley Fool • 57m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Decrypt • 20h ago
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 21h ago
+thestreet.com • 22h ago
 
 ---
 
@@ -297,7 +297,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 229 • ⏱️ 9:01 • 20h ago
+👁️ 50K • 👍 3K • 💬 229 • ⏱️ 9:01 • 21h ago
 
 ---
 
@@ -307,7 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 74 • ⏱️ 48:48 • 3h ago
+👁️ 17K • 👍 1K • 💬 74 • ⏱️ 48:48 • 4h ago
 
 ---
 
@@ -367,7 +367,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 327 • 💬 172 • ⏱️ 10:50 • 18h ago
+👁️ 7K • 👍 327 • 💬 172 • ⏱️ 10:50 • 19h ago
 
 ---
 

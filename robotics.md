@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T19:27:55.397501+00:00'
+updated: '2025-12-17T19:42:12.908530+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 19:27 UTC  
+**Last Updated:** December 17, 2025 at 19:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ An robotic arm picks up a toy bear from a sofa and places it into a basket. The 
 
 Can i make a phone bluetooth following cart ( phone acts as beacon cart follows it ) for indoor use with object avoidance only with these components esp32, 2 (torque≥10 kg.cm) dc motors, motor driver bts7960, 3 ultrasonic sensors,12 v 12 ah li-ion battery . Only using these essential parts, am i missing anything essential to make a cart like this Load excluding body weight 17 pounds (8 kg)
 
-1h ago
+2h ago
 
 ---
 
@@ -84,7 +84,7 @@ Can i make a phone bluetooth following cart ( phone acts as beacon cart follows 
 
 I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
 
-10h ago
+11h ago
 
 ---
 
@@ -100,7 +100,7 @@ In this tutorial you will learn: how γ affects convergence and stability in Q-L
 
 In principle I understand the implicit flexibility of DOF arms, but in practice they're usually slow, imprecise, small payload only, expensive, singularities etc etc. Gantry (XYZ) robots are so much faster, precise, don't have singularities, you name it. But nobody ever seems to use or build them, why is that?
 
-3h ago
+4h ago
 
 ---
 
@@ -132,7 +132,7 @@ The New York Times • 14h ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 7h ago
+CNN • 8h ago
 
 ---
 
