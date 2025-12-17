@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T13:30:32.462920+00:00'
+updated: '2025-12-17T13:53:23.354084+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 13:30 UTC  
+**Last Updated:** December 17, 2025 at 13:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -128,7 +128,7 @@ Interesting Engineering • 1d ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -152,7 +152,7 @@ IEEE Spectrum • 17h ago
 
 Although they're constantly improving, robots aren't necessarily known for their gentle touch. A new robotic system from MIT and Stanford takes a unique stab at changing that, with a robot that uses vine-like tendrils to do its lifting.
 
-New Atlas • 29m ago
+New Atlas • 52m ago
 
 ---
 

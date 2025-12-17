@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T13:30:32.453649+00:00'
+updated: '2025-12-17T13:53:23.344661+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 13:30 UTC  
+**Last Updated:** December 17, 2025 at 13:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,897.10
+### $87,496.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -6.0%  
-**30d:** -6.3%  
-**90d:** -24.7%  
-**1y:** -13.4%  
+**24h:** +0.7%  
+**7d:** -5.2%  
+**30d:** -5.6%  
+**90d:** -24.1%  
+**1y:** -12.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ Just keep hodling and don't trust the news
 
 I was genuinely surprised and shocked to see this, especially since our country is low-income and very slow when it comes to new technologies. Nice to see things are moving forward. P.S. Bosnia and Herzegovina, Europe
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ I was genuinely surprised and shocked to see this, especially since our country 
 
 They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth annual loss. First one without a scandal attached. No exchange collapsed. No founder arrested. No rug pull. Just... boredom. The tourists are checking out. Here's what the tourists never understand: the boring parts are the feature, not the bug. Every technological shift follows the same arc. Ridicule. Resistance. Magazine cover. But between resistance and magazine cover? There's a long, quiet stretch where nothing seems to happen. That's the dip. The dip is where most people quit. Not because they failed—because they got tired of waiting. I watched this happen in 2014. In 2018. In 2022. The headlines screamed death. The believers kept building. The difference between a tourist and a settler isn't conviction. It's tolerance for boredom. Tourists need the dopamine of daily gains. Settlers understand that positioning happens in the quiet. The same information is available to everyone. The Fed's moves. The ETF flows. The macro headwinds. But information without the patience to act on it is just noise. Risk isn't about volatility. Risk is a function of information and control. If you know why you're here, a down year isn't a crisis. It's a filter. The question isn't whether Bitcoin will recover. The question is whether you'll still be here when it does.
 
-53m ago
+1h ago
 
 ---
 
@@ -141,7 +141,7 @@ They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth ann
 
 You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
 
-5h ago
+6h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 7h ago
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 15h ago
+thestreet.com • 16h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Block • 2d ago
 
 **[Peter Schiff Warns of Imminent Bitcoin Crash — Says US Headed for ‘Economic Crisis’](https://www.ccn.com/news/crypto/peter-schiff-warns-bitcoin-crash-economic-crisis/)**
 
-CCN.com • 58m ago
+CCN.com • 1h ago
 
 ---
 
@@ -289,7 +289,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 209 • ⏱️ 9:01 • 14h ago
+👁️ 43K • 👍 3K • 💬 209 • ⏱️ 9:01 • 15h ago
 
 ---
 
@@ -299,7 +299,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 323 • 💬 128 • ⏱️ 10:50 • 12h ago
+👁️ 7K • 👍 323 • 💬 128 • ⏱️ 10:50 • 13h ago
 
 ---
 
@@ -329,7 +329,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Brissa Pabón 
 
-👁️ 3K • 👍 4K • 1h ago
+👁️ 3K • 👍 4K • 2h ago
 
 ---
 
@@ -359,7 +359,7 @@ My Preferred Exchange BYBIT https://partner.bybit.com/b/Didi NON-KYC Exchange: .
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 7K • 👍 620 • 💬 114 • ⏱️ 19:30 • 9h ago
+👁️ 7K • 👍 620 • 💬 114 • ⏱️ 19:30 • 10h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 37K • 👍 2K • 💬 253 • ⏱️ 18:36 • 14h ago
+👁️ 37K • 👍 2K • 💬 253 • ⏱️ 18:36 • 15h ago
 
 ---
 

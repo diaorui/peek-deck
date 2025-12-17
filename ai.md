@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T13:30:32.445210+00:00'
+updated: '2025-12-17T13:53:23.336132+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 13:30 UTC  
+**Last Updated:** December 17, 2025 at 13:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ I am relatively new to this group and based on my limited interaction, feeling q
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-20h ago
+21h ago
 
 ---
 
@@ -73,7 +73,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 "An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
 
-34m ago
+57m ago
 
 ---
 
@@ -89,7 +89,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 16h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 17h ago
 
 ---
 
@@ -103,7 +103,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 19h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 20h ago
 
 ---
 
@@ -129,7 +129,7 @@ NPR • 18h ago
 
 **[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -137,7 +137,7 @@ Axios • 2h ago
 
 Forbes’ expert contributors explain how AI agents can help holiday shoppers find gifts, identify deals, compare prices and even click “buy now” for you.
 
-Forbes • 30m ago
+Forbes • 53m ago
 
 ---
 
@@ -145,13 +145,13 @@ Forbes • 30m ago
 
 The report calls on US actors to engage with Chinese firms as the AI landscape continues to evolve.
 
-South China Morning Post • 30m ago
+South China Morning Post • 53m ago
 
 ---
 
 **[Hut 8, Fluidstack to Build AI Data Center for Anthropic in Louisiana](https://www.wsj.com/tech/ai/hut-8-fluidstack-to-build-ai-data-center-for-anthropic-in-louisiana-62dade43?gaa_at=eafs&gaa_n=AWEtsqcMiqun_6jEVusf30b4ts_sBVD1u2olcBlVLLYdExmwG446KJmjeTY6&gaa_ts=6942b3df&gaa_sig=eKfW4sDSvsqf1-PqNV0I8E8ZDCzEteycJqkfuKI6SKO_P2ARBZF6pDlzM7QbM0PXwGDP5F0kjtTJueHULKSOXQ%3D%3D)**
 
-The Wall Street Journal • 43m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -259,7 +259,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 125 • 💬 157 • 19h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 125 • 💬 157 • 20h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -289,7 +289,7 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 147K • 👍 3K • 💬 747 • ⏱️ 14:37 • 21h ago
+👁️ 147K • 👍 3K • 💬 747 • ⏱️ 14:37 • 22h ago
 
 ---
 
@@ -337,7 +337,7 @@ Brave Woman Soldier Save Old Woman from Giant Octopus #ai #save #soldier.
 
 📺 AiStory A2.0
 
-👁️ 2K • ⏱️ 0:22 • 49m ago
+👁️ 2K • ⏱️ 0:22 • 1h ago
 
 ---
 
@@ -431,7 +431,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 225 • 7h ago
+⬇️ 0 • ❤️ 225 • 8h ago
 
 ---
 
@@ -477,7 +477,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 198 • 4h ago
+⬇️ 0 • ❤️ 198 • 5h ago
 
 ---
 
@@ -598,7 +598,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 200 • 💬 4 • ⭐ 7,160 • 19d ago
+▲ 200 • 💬 4 • ⭐ 7,160 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -623,7 +623,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 This survey provides an updated overview of agent memory research, distinguishing its forms, functions, and dynamics, and highlights emerging research directions.
 
-▲ 81 • 💬 3 • ⭐ 178 • 2d ago
+▲ 83 • 💬 3 • ⭐ 178 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.13564) • [💻 code](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
 
@@ -639,7 +639,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.0k • 🔱 2.6k • 4h ago
+⭐ 17.1k • 🔱 2.7k • 4h ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.1k • 🔱 440 • 23h ago
+⭐ 4.1k • 🔱 443 • 23h ago
 
 ---
 
@@ -679,7 +679,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 15h ago
+⭐ 1.1k • 🔱 138 • 16h ago
 
 ---
 
@@ -699,7 +699,7 @@ ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · C
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 985 • 🔱 84 • 3h ago
+⭐ 1.0k • 🔱 86 • 1m ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 899 • 🔱 23 • 9d ago
+⭐ 902 • 🔱 23 • 9d ago
 
 ---
 
