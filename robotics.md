@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T14:45:16.690283+00:00'
+updated: '2025-12-17T15:00:42.310317+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 14:45 UTC  
+**Last Updated:** December 17, 2025 at 15:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,6 +124,22 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[Robots are levelling up: What the latest breakthroughs mean for 2026](https://www.goodwood.com/grr/event-coverage/festival-of-speed/robots-are-levelling-up-what-the-latest-breakthroughs-mean-for-2026/)**
+
+Robots have spent decades promising to transform our lives, now that transformation is beginning. From humanoids that can sprint, flip and work alongside people, to home robots learning tasks by demonstration and expressive performers roaming theme parks, 2025 has delivered breakthroughs unlike anything seen before. With FOS Future Lab returning to the 2026 Festival of Speed, Goodwood will once again be the place to get up close to the emerging technologies — and to see for yourself just how fast robotics is levelling up...
+
+Goodwood • 2h ago
+
+---
+
+**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
+
+Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
+
+TechCrunch • 55m ago
+
+---
+
 **[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
@@ -145,22 +161,6 @@ The Verge • 2d ago
 iRobot's assets are now in the hands of a Chinese partner. What does this mean for the future of home robotics?
 
 IEEE Spectrum • 18h ago
-
----
-
-**[Robots are levelling up: What the latest breakthroughs mean for 2026](https://www.goodwood.com/grr/event-coverage/festival-of-speed/robots-are-levelling-up-what-the-latest-breakthroughs-mean-for-2026/)**
-
-Robots have spent decades promising to transform our lives, now that transformation is beginning. From humanoids that can sprint, flip and work alongside people, to home robots learning tasks by demonstration and expressive performers roaming theme parks, 2025 has delivered breakthroughs unlike anything seen before. With FOS Future Lab returning to the 2026 Festival of Speed, Goodwood will once again be the place to get up close to the emerging technologies — and to see for yourself just how fast robotics is levelling up...
-
-Goodwood • 2h ago
-
----
-
-**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
-
-Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
-
-TechCrunch • 40m ago
 
 ---
 

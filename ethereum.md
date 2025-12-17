@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T14:45:16.687022+00:00'
+updated: '2025-12-17T15:00:42.306947+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 14:45 UTC  
+**Last Updated:** December 17, 2025 at 15:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -9.6%  
-**30d:** -6.4%  
-**90d:** -34.6%  
-**1y:** -19.4%  
+**24h:** +1.9%  
+**7d:** -7.3%  
+**30d:** -4.0%  
+**90d:** -32.9%  
+**1y:** -17.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.05B
+**Market Cap:** $359.48B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-39.7%
 
 **All-Time Low:** $0.43
-+679974.6%
++688282.1%
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -148,9 +148,33 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqd78oJ3sNxBrgf-xv8_IqDo_2i2-1WpWNrO8Jvr_iF3sbajHOH_BeJi&gaa_ts=6942bf4c&gaa_sig=zLeK6m_BsYdlUDfJWuJkQCIepWA0w9Gu8NNvGOFS3PVln6gWsIYRVTLS8NCxr1yFABpSwDDE_Z4Url8MzVH4Dg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe2-ZDVNKVEMVi--DWGbH1JD2Oqj7RhwxC0CLYDTqvM9s3i0FyO4TYI&gaa_ts=6942c908&gaa_sig=JulFvwlvCJWdH3e3T-JZM98NYNBYi11r8fL6eYS7TtyqMp41A0YgwNXH6hfOc4QU7OMhNxROx9RlonaKxdW1VA%3D%3D)**
 
 Barron's • 17h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
+
+Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
+
+Decrypt • 1d ago
+
+---
+
+**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
+
+Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
+
+CoinDesk • 2d ago
+
+---
+
+**[Ethereum Price Drops Below $3,000 Amid Declining Holder Conviction](https://finance.yahoo.com/news/ethereum-price-drops-below-3-140000715.html)**
+
+Ethereum price slips below $3,000 as weak investor confidence and declining on-chain activity pressure ETH near critical support levels.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -159,14 +183,6 @@ Barron's • 17h ago
 Is Ethereum really on the path to a price of $62,000 next year?
 
 The Motley Fool • 3h ago
-
----
-
-**[Ethereum Price Drops Below $3,000 Amid Declining Holder Conviction](https://finance.yahoo.com/news/ethereum-price-drops-below-3-140000715.html)**
-
-Ethereum price slips below $3,000 as weak investor confidence and declining on-chain activity pressure ETH near critical support levels.
-
-Yahoo Finance • 45m ago
 
 ---
 
@@ -201,20 +217,6 @@ Yahoo Finance • 1d ago
 **[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
 CCN.com • 23h ago
-
----
-
-**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
-
-The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
-
-CoinDesk • 2d ago
-
----
-
-**[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
-
-TipRanks • 22h ago
 
 ---
 
@@ -266,7 +268,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Nick Ford
 
-👁️ 294 • 👍 1 • ⏱️ 1:54 • 8h ago
+👁️ 294 • 👍 1 • ⏱️ 1:54 • 9h ago
 
 ---
 
