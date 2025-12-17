@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T07:57:39.837849+00:00'
+updated: '2025-12-17T08:39:50.259550+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 07:57 UTC  
+**Last Updated:** December 17, 2025 at 08:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,23 @@ Robotics research and industry news
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-21h ago
+22h ago
+
+---
+
+**[Researchers at Penn & Michigan create the "World's Smallest Programmable Autonomous Robot." (It has Onboard computer, swims using electric fields and costs $0.01).](https://www.reddit.com/r/robotics/comments/1porb7t/researchers_at_penn_michigan_create_the_worlds/)**
+
+A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
+
+18m ago
+
+---
+
+**[A self-balancing wheel](https://www.reddit.com/r/robotics/comments/1po0ani/a_selfbalancing_wheel/)**
+
+I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
+
+20h ago
 
 ---
 
@@ -46,11 +62,11 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 ---
 
-**[A self-balancing wheel](https://www.reddit.com/r/robotics/comments/1po0ani/a_selfbalancing_wheel/)**
+**[Hi, I’m new to robotics and I had a question related to a robot i’m working on now.](https://www.reddit.com/r/robotics/comments/1porfe0/hi_im_new_to_robotics_and_i_had_a_question/)**
 
-I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
+I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
 
-19h ago
+10m ago
 
 ---
 
@@ -58,7 +74,7 @@ I recently made this prototype of a self-balancing wheel provided with robotic m
 
 Hello, my experience is only from R&D setups. For deploying a robot, what do people normally do? Do they use Jetson Nano/Orin/Thor to run the AI processes? One of my seniors said they still use the PC for deployment to make the AI processes run. Isn't it too big to add the PC to your sellable product just to run the AI processes? Is this an industrial practice?
 
-42m ago
+1h ago
 
 ---
 
@@ -92,22 +108,6 @@ I just ordered all of the parts and finished 3D printing all of the components. 
 
 ---
 
-**[How to run dual-arm UR5e with MoveIt 2 on real hardware](https://www.reddit.com/r/robotics/comments/1po7dth/how_to_run_dualarm_ur5e_with_moveit_2_on_real/)**
-
-Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
-
-14h ago
-
----
-
-**[Boost Robotics is Hiring Founding Engineers (ML for Manipulation, General Software, and Hardware) in Cambridge, MA](https://www.reddit.com/r/robotics/comments/1pns1d5/boost_robotics_is_hiring_founding_engineers_ml/)**
-
-Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,17 +118,11 @@ The New York Times • 2d ago
 
 ---
 
-**[An MIT roboticist who cofounded bankrupt Roomba maker iRobot says Elon Musk's vision of humanoid robot assistants is 'pure fantasy thinking'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
+**[World’s smallest programmable robots think, swim, and sense temperature using light](https://interestingengineering.com/ai-robotics/worlds-smallest-autonomous-microrobots)**
 
-Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+Scientists unveil penny-sized microrobots that swim, sense temperature, and run for months using light-powered brains.
 
-Fortune • 17h ago
-
----
-
-**[Watch iRobot Co-Founder Greiner on The Future of Robotics](https://www.bloomberg.com/news/videos/2025-12-17/irobot-co-founder-greiner-on-the-future-of-robotics-video)**
-
-Bloomberg.com • 1h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -140,9 +134,17 @@ The Verge • 1d ago
 
 ---
 
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+**[Watch iRobot Co-Founder Calls Silence on China Sale “Bizarre”](https://www.bloomberg.com/news/videos/2025-12-17/irobot-co-founder-greiner-on-the-future-of-robotics-video)**
 
-The New York Times • 2h ago
+Bloomberg.com • 2h ago
+
+---
+
+**[iRobot Announces Strategic Transaction to Drive Long-Term Growth Plan](https://www.prnewswire.com/news-releases/irobot-announces-strategic-transaction-to-drive-long-term-growth-plan-302641744.html)**
+
+/PRNewswire/ -- iRobot Corporation (NASDAQ: IRBT) ("iRobot" or the "Company"), a leader in consumer robots, today announced that it entered into a...
+
+PR Newswire • 2d ago
 
 ---
 
@@ -151,6 +153,14 @@ The New York Times • 2h ago
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
 South China Morning Post • 3d ago
+
+---
+
+**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
+
+Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
+
+NASA (.gov) • 10h ago
 
 ---
 
@@ -173,14 +183,6 @@ The Republic News • 1d ago
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
 InvestorPlace • 2d ago
-
----
-
-**[Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology (AMCI:NASDAQ)](https://seekingalpha.com/news/4531631-meet-amc-robotics-the-spac-name-looking-for-a-breakthrough-in-ai-powered-robotic-technology)**
-
-Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
-
-Seeking Alpha • 1d ago
 
 ---
 
@@ -224,7 +226,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 13K • 👍 2K • 💬 43 • ⏱️ 1:38 • 15h ago
+👁️ 13K • 👍 2K • 💬 43 • ⏱️ 1:38 • 16h ago
 
 ---
 
@@ -234,7 +236,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 345K • 👍 11K • 💬 377 • ⏱️ 0:34 • 2d ago
+👁️ 345K • 👍 11K • 💬 377 • ⏱️ 0:34 • 3d ago
 
 ---
 

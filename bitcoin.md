@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T07:57:39.828520+00:00'
+updated: '2025-12-17T08:39:50.251169+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 07:57 UTC  
+**Last Updated:** December 17, 2025 at 08:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,117.89
+### $86,397.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -6.0%  
-**30d:** -6.3%  
-**90d:** -24.7%  
-**1y:** -13.4%  
+**24h:** +0.1%  
+**7d:** -6.7%  
+**30d:** -7.1%  
+**90d:** -25.3%  
+**1y:** -14.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1730.34B
+**Market Cap:** $1725.85B
 Rank #1
 
 **Circulating Supply:** 19,963,212 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.2%
+-31.4%
 
 **All-Time Low:** $67.81
-+127758.7%
++127385.6%
 
 ---
 
@@ -85,17 +85,23 @@ Rank #1
 
 **[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
-18h ago
+19h ago
 
 ---
 
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
+
+4h ago
+
+---
+
+**[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
 
 3h ago
 
@@ -105,13 +111,7 @@ Rank #1
 
 There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
-14h ago
-
----
-
-**[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
-
-2h ago
+15h ago
 
 ---
 
@@ -127,7 +127,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-13h ago
+14h ago
 
 ---
 
@@ -137,9 +137,11 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 ---
 
-**[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
+**[For those who yell manipulation all the time](https://www.reddit.com/r/Bitcoin/comments/1poqqb0/for_those_who_yell_manipulation_all_the_time/)**
 
-15h ago
+You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
+
+56m ago
 
 ---
 
@@ -147,11 +149,11 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 ## Google News: "bitcoin"
 
-**[BTC, ETH, ADA Price News: Bitcoin slides with ether and XRP as market tests $3 trillion floor](https://www.coindesk.com/markets/2025/12/17/bitcoin-slides-with-ether-and-xrp-as-market-tests-usd3t-floor)**
+**[Why are BTC, XRP, ETH and SOL down today and what's next](https://www.coindesk.com/markets/2025/12/15/signs-of-fatigue-but-downside-likely-limited-as-bitcoin-tumbles-out-of-trading-range)**
 
-Crypto markets continued to decline, with overall capitalization falling below $3 trillion for the third time in a month.
+Crypto-related stocks suffered far deeper declines as bitcoin slumped well below its recent trading range.
 
-CoinDesk • 1h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -163,7 +165,45 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqexCFT2_-zKSbb-Yp4_G5TJ6P7SkyROXbbatbFqIt4DNGrHCAlvs2Pi&gaa_ts=69425f82&gaa_sig=zHTDC2IbUBo6WFrhEuDRL6uMCNormCG6rcUjvg6o5jTcP84mEP4H52uZxb_ILXVAcGspft8mLD5Rxwz2jTCOIQ%3D%3D)**
+**[Bitcoin Holds Above $85,000 as Institutional Investors Cushion the Downside](https://finance.yahoo.com/news/bitcoin-holds-above-85-000-062214689.html)**
+
+Bitcoin price holds above $85,000 as resilient holders support BTC amid volatility and shifting on-chain momentum.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
+
+Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
+
+Financial Times • 2d ago
+
+---
+
+**[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
+
+thestreet.com • 11h ago
+
+---
+
+**[Bitcoin Treasury KindlyMD Faces Nasdaq Delisting With Stock Down 99%](https://finance.yahoo.com/news/bitcoin-treasury-kindlymd-faces-nasdaq-222119629.html)**
+
+KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice](https://www.tradingview.com/news/cointelegraph:7059821cb094b:0-bitcoin-treasury-kindly-md-faces-potential-delisting-after-nasdaq-price-notice/)**
+
+Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
+
+TradingView — Track All Markets • 12h ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfG3Wz9N_3xPpdz2mDGMXR8XSY-cBDS_lHL2SyEEFN7jBKVt8G6A5c1&gaa_ts=69426fbd&gaa_sig=By-2KCpSAM0brjEdJ8lSNpVQoDiIxO0WYJB8mQ0GceoPlTwcjHy-mqSArlRFfnEyk7bcijSSgTMBlxS1ZV-chw%3D%3D)**
 
 Barron's • 1d ago
 
@@ -182,44 +222,6 @@ Bloomberg.com • 1d ago
 Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
-
-Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
-
-Financial Times • 2d ago
-
----
-
-**[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
-
-thestreet.com • 10h ago
-
----
-
-**[Bitcoin Treasury KindlyMD Faces Nasdaq Delisting With Stock Down 99%](https://finance.yahoo.com/news/bitcoin-treasury-kindlymd-faces-nasdaq-222119629.html)**
-
-KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
-
-Yahoo Finance • 9h ago
-
----
-
-**[Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice](https://www.tradingview.com/news/cointelegraph:7059821cb094b:0-bitcoin-treasury-kindly-md-faces-potential-delisting-after-nasdaq-price-notice/)**
-
-Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
-
-TradingView — Track All Markets • 11h ago
-
----
-
-**[Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole](https://www.tradingview.com/news/cointelegraph:8b4424dd2094b:0-bitcoin-could-go-sub-50k-if-quantum-isn-t-solved-by-2028-capriole/)**
-
-Charles Edwards, the founder of quantitative Bitcoin and digital asset fund Capriole, warns that Bitcoin could head well under $50,000 if it isn’t quantum-resistant by 2028.Quantum computing’s potential threat to the crypto industry has long been debated and is considered an upcoming inflection poi…
-
-TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -283,7 +285,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 16h ago
+⬆️ 11 • 💬 3 • 17h ago
 
 ---
 
@@ -297,7 +299,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 166 • ⏱️ 9:01 • 9h ago
+👁️ 29K • 👍 2K • 💬 166 • ⏱️ 9:01 • 10h ago
 
 ---
 
@@ -307,7 +309,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 280 • 💬 133 • ⏱️ 10:50 • 7h ago
+👁️ 5K • 👍 280 • 💬 133 • ⏱️ 10:50 • 8h ago
 
 ---
 
@@ -317,7 +319,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 124 • ⏱️ 13:25 • 8h ago
+👁️ 20K • 👍 1K • 💬 124 • ⏱️ 13:25 • 9h ago
 
 ---
 
@@ -327,7 +329,7 @@ Anthony and John Pompliano break down what's really happening in the bitcoin mar
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 608 • 💬 4 • ⏱️ 41:39 • 9h ago
+👁️ 12K • 👍 608 • 💬 4 • ⏱️ 41:39 • 10h ago
 
 ---
 
@@ -337,7 +339,7 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 26K • 👍 1K • 💬 228 • ⏱️ 18:36 • 9h ago
+👁️ 26K • 👍 1K • 💬 228 • ⏱️ 18:36 • 10h ago
 
 ---
 
@@ -347,7 +349,7 @@ Crypto looks chaotic on the surface — but underneath, a structural reset is ta
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 4K • 👍 261 • 💬 47 • ⏱️ 9:42 • 5h ago
+👁️ 4K • 👍 261 • 💬 47 • ⏱️ 9:42 • 6h ago
 
 ---
 
