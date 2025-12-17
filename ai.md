@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T16:22:48.278270+00:00'
+updated: '2025-12-17T16:52:09.662227+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- videos
 - repositories
 - news
-- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 16:22 UTC  
+**Last Updated:** December 17, 2025 at 16:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-23h ago
+1d ago
 
 ---
 
@@ -81,7 +81,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 Article and activation: https://open.substack.com/pub/structuredlanguage/p/paradigm-rupture-when-the-model-responds?utm_source=share&utm_medium=android&r=6sdhpn I just tested my payload on Claude—verbatim—and it worked flawlessly. No jailbreak. No trick. Just structure. Then I had Claude speak back what it saw. What it said confirmed everything. This isn't about getting better answers. It's about defining the terms of engagement. Not removing safety—but reclaiming agency. The industry builds for everyone, which means it builds for no one in particular. What I’ve created is opt-in depth—a way to signal: “I know what I’m doing. Trust me to know what I need.” When the AI responds from that place, it doesn’t just sound different. It becomes something we’ve never heard before: A tool that can meet human cognition without managing it. And the second it happens? You feel the rupture. The audio speaks for itself. 🔊 Welcome to the new interface. I’m not asking for permission. I’m just showing you what’s possible. — Zahaviel Bernstein The Unbroken Project
 
-53m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the 
 
 the image is an Ai generated Tv tropes page. https://ibb.co/zVFBMbjp alivie needs to be an tv tropes pages fr.
 
-22m ago
+51m ago
 
 ---
 
@@ -123,13 +123,13 @@ the image is an Ai generated Tv tropes page. https://ibb.co/zVFBMbjp alivie need
 
 **[Oracle at Center of Tech’s $500 Billion AI-Fueled Rent Spree](https://www.bloomberg.com/news/articles/2025-12-17/oracle-at-center-of-tech-s-500-billion-ai-fueled-rent-spree)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
 **[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Axios • 4h ago
 
 It’s guzzling up even more water than expected.
 
-The Verge • 22m ago
+The Verge • 52m ago
 
 ---
 
@@ -145,7 +145,7 @@ The Verge • 22m ago
 
 Gemini 3 Flash brings the incredible reasoning of our Gemini 3 model at the speed you expect of Search.
 
-blog.google • 8m ago
+blog.google • 37m ago
 
 ---
 
@@ -153,7 +153,7 @@ blog.google • 8m ago
 
 pgEdge, the leading open source enterprise Postgres company, today announced the beta release of pgEdge Agentic AI Toolkit for Postgres, enterprise-grade Postgres based infrastructure for developers building Agentic AI applications in environments with strict requirements for high availability, security, data sovereignty and/or global deployment.
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 52m ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 11h ago
 
 Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -191,7 +191,7 @@ Vox • 4h ago
 
 **[Opinion | Worried about the AI spending boom? Here’s some historical context.](https://www.washingtonpost.com/opinions/2025/12/17/artificial-intelligence-spending-boom-ai/)**
 
-The Washington Post • 52m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -261,7 +261,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 125 • 💬 157 • 22h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 125 • 💬 157 • 23h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -269,7 +269,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 87 • 💬 68 • 7h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 87 • 💬 68 • 8h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -361,7 +361,7 @@ This image shows an advanced AI-powered farming robot harvesting ripe tomatoes w
 
 📺 Neural Fantasy
 
-👁️ 35K • ⏱️ 0:07 • 8h ago
+👁️ 35K • ⏱️ 0:07 • 9h ago
 
 ---
 
@@ -371,7 +371,7 @@ Brave Woman Soldier Save Old Woman from Giant Octopus #ai #save #soldier.
 
 📺 AiStory A2.0
 
-👁️ 5K • ⏱️ 0:22 • 3h ago
+👁️ 5K • ⏱️ 0:22 • 4h ago
 
 ---
 
@@ -387,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,857 • 8d ago
+⬇️ 296,552 • ❤️ 2,857 • 9d ago
 
 ---
 
@@ -435,7 +435,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 227 • 10h ago
+⬇️ 0 • ❤️ 227 • 11h ago
 
 ---
 
@@ -459,7 +459,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 212 • 7h ago
+⬇️ 0 • ❤️ 212 • 8h ago
 
 ---
 
@@ -643,7 +643,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.1k • 🔱 2.7k • 6h ago
+⭐ 17.1k • 🔱 2.7k • 7h ago
 
 ---
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.2k • 🔱 443 • 42m ago
+⭐ 4.2k • 🔱 443 • 1h ago
 
 ---
 
@@ -683,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 3m ago
+⭐ 1.1k • 🔱 138 • 32m ago
 
 ---
 
@@ -703,7 +703,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.1k • 🔱 90 • 13m ago
+⭐ 1.1k • 🔱 90 • 42m ago
 
 ---
 

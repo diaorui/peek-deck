@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T16:22:48.292617+00:00'
+updated: '2025-12-17T16:52:09.675391+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 16:22 UTC  
+**Last Updated:** December 17, 2025 at 16:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,017.23
+### $2,875.71
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** -11.5%  
-**30d:** -8.3%  
-**90d:** -35.9%  
-**1y:** -21.1%  
+**24h:** -2.1%  
+**7d:** -11.7%  
+**30d:** -8.6%  
+**90d:** -36.1%  
+**1y:** -21.3%  
 
 ---
 
@@ -108,7 +108,7 @@ The cryptocurrency industry is undergoing a fundamental structural shift, moving
 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 44m ago
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 1h ago
 
 ---
 
@@ -122,7 +122,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -148,7 +148,7 @@ idk man. the speed, the fees, the ux... solana teams and tools built on top of i
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfpE5DtI05xiDlE1pUuTENrT663qBwCr_MqQ_V3_KLyOfTFbYH0zddP&gaa_ts=6942dc37&gaa_sig=6pnzslVetHKQ-iuspmiIM9VfhBz0TmMgbBrrNdxwJIR6BDhjBZQRxyvEt-ZAnJwXvGryQ_yj7MLBPczKEGTB6Q%3D%3D)**
 
-Barron's • 18h ago
+Barron's • 19h ago
 
 ---
 
@@ -224,7 +224,7 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 5K • 👍 315 • 💬 53 • ⏱️ 11:01 • 15h ago
+👁️ 5K • 👍 315 • 💬 53 • ⏱️ 11:01 • 16h ago
 
 ---
 
@@ -272,7 +272,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Nick Ford
 
-👁️ 405 • 👍 3 • ⏱️ 1:54 • 10h ago
+👁️ 405 • 👍 3 • ⏱️ 1:54 • 11h ago
 
 ---
 
@@ -302,7 +302,7 @@ Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substanti
 
 📺 Paul Barron Network
 
-👁️ 20K • 👍 968 • 💬 207 • ⏱️ 29:25 • 23h ago
+👁️ 20K • 👍 968 • 💬 207 • ⏱️ 29:25 • 1d ago
 
 ---
 

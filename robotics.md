@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T16:22:48.295797+00:00'
+updated: '2025-12-17T16:52:09.678274+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 16:22 UTC  
+**Last Updated:** December 17, 2025 at 16:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
 
-7h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ I’m working on like a platform that carries a robotic arm mounted on it that c
 
 In this tutorial you will learn: how γ affects convergence and stability in Q-Learning, how to choose the right value for your own RL environment, and what happens when γ exceeds the recommended limits (for example, γ > 1.0) and why the algorithm crashes. Link: Discount Factor (gamma) Explained With Q-Learning + CartPole
 
-25m ago
+54m ago
 
 ---
 
@@ -76,7 +76,7 @@ In this tutorial you will learn: how γ affects convergence and stability in Q-L
 
 In principle I understand the implicit flexibility of DOF arms, but in practice they're usually slow, imprecise, small payload only, expensive, singularities etc etc. Gantry (XYZ) robots are so much faster, precise, don't have singularities, you name it. But nobody ever seems to use or build them, why is that?
 
-47m ago
+1h ago
 
 ---
 
@@ -138,7 +138,7 @@ TechCrunch • 2h ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 21h ago
 
 AMC Robotics Corp. surged nearly 170%, driven by speculative trading rather than a clear fundamental catalyst. Learn more about AMCI stock here.
 
-Seeking Alpha • 23h ago
+Seeking Alpha • 1d ago
 
 ---
 

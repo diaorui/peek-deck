@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T16:22:48.286682+00:00'
+updated: '2025-12-17T16:52:09.669974+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 16:22 UTC  
+**Last Updated:** December 17, 2025 at 16:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,556.61
+### $86,655.49
 
 ---
 
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.7%  
 **7d:** -6.6%  
-**30d:** -6.9%  
+**30d:** -7.0%  
 **90d:** -25.2%  
 **1y:** -14.0%  
 
@@ -93,13 +93,13 @@ Back to 90k.
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-11h ago
+12h ago
 
 ---
 
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[You really thought that was it? Bitcoin said: relax… back down.](https://www.reddit.com/r/Bitcoin/comments/1pp04ul/you_really_thought_that_was_it_bitcoin_said_relax/)**
 
-25m ago
+54m ago
 
 ---
 
@@ -135,7 +135,7 @@ Just keep hodling and don't trust the news
 
 I was genuinely surprised and shocked to see this, especially since our country is low-income and very slow when it comes to new technologies. Nice to see things are moving forward. P.S. Bosnia and Herzegovina, Europe
 
-7h ago
+8h ago
 
 ---
 
@@ -143,7 +143,7 @@ I was genuinely surprised and shocked to see this, especially since our country 
 
 They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth annual loss. First one without a scandal attached. No exchange collapsed. No founder arrested. No rug pull. Just... boredom. The tourists are checking out. Here's what the tourists never understand: the boring parts are the feature, not the bug. Every technological shift follows the same arc. Ridicule. Resistance. Magazine cover. But between resistance and magazine cover? There's a long, quiet stretch where nothing seems to happen. That's the dip. The dip is where most people quit. Not because they failed—because they got tired of waiting. I watched this happen in 2014. In 2018. In 2022. The headlines screamed death. The believers kept building. The difference between a tourist and a settler isn't conviction. It's tolerance for boredom. Tourists need the dopamine of daily gains. Settlers understand that positioning happens in the quiet. The same information is available to everyone. The Fed's moves. The ETF flows. The macro headwinds. But information without the patience to act on it is just noise. Risk isn't about volatility. Risk is a function of information and control. If you know why you're here, a down year isn't a crisis. It's a filter. The question isn't whether Bitcoin will recover. The question is whether you'll still be here when it does.
 
-3h ago
+4h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 1h ago
 
 Norway just voted in favor of all five management proposals for Metaplanet’s upcoming Extraordinary General Meeting (EGM) on Dec. 22, endorsing the firm’s bitcoin treasury strategy.
 
-Bitcoin Magazine • 38m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Block • 5h ago
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 18h ago
+thestreet.com • 19h ago
 
 ---
 
@@ -291,7 +291,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 221 • ⏱️ 9:01 • 17h ago
+👁️ 47K • 👍 3K • 💬 221 • ⏱️ 9:01 • 18h ago
 
 ---
 
@@ -331,7 +331,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 325 • 💬 128 • ⏱️ 10:50 • 15h ago
+👁️ 7K • 👍 325 • 💬 128 • ⏱️ 10:50 • 16h ago
 
 ---
 
@@ -351,7 +351,7 @@ Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.c
 
 📺 Crypto Lifer
 
-👁️ 2K • 👍 239 • 1h ago
+👁️ 2K • 👍 239 • 2h ago
 
 ---
 
@@ -381,7 +381,7 @@ My Preferred Exchange BYBIT https://partner.bybit.com/b/Didi NON-KYC Exchange: .
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 8K • 👍 663 • 💬 117 • ⏱️ 19:30 • 12h ago
+👁️ 8K • 👍 663 • 💬 117 • ⏱️ 19:30 • 13h ago
 
 ---
 
