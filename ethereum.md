@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T10:59:52.755123+00:00'
+updated: '2025-12-17T11:28:56.765690+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 10:59 UTC  
+**Last Updated:** December 17, 2025 at 11:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** -9.8%  
-**30d:** -6.6%  
-**90d:** -34.7%  
-**1y:** -19.6%  
+**24h:** -0.8%  
+**7d:** -9.6%  
+**30d:** -6.3%  
+**90d:** -34.5%  
+**1y:** -19.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The cryptocurrency industry is undergoing a fundamental structural shift, moving away from fragmented protocols toward a unified "Aggregatio...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 3h ago
+🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 4h ago
 
 ---
 
@@ -124,7 +124,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 idk man. the speed, the fees, the ux... solana teams and tools built on top of it and that support are shipping faster, like one-click leverage, instant swaps, sub-penny transactions. meanwhile eth still has gas drama and L2 fragmentation. but maybe im too deep in the solana ecosystem and cant see clearly anymore. what am i missing here?
 
-8h ago
+9h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 1d ago
 
 **[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqcAqB7VRhmIODoKVorZ0kjiJsuzdWZ93oZb-Kq6RKRJE8vOQpO6_cq4&gaa_ts=69429092&gaa_sig=Et_-x7K7SosLLDdKEqVTxNQdfpNnxgvlVaSURfT6pwncJjXFAP3OmB1j3RZ7CH7evimn0WoxPR8l8ZIoxaneRg%3D%3D)**
 
-Barron's • 21m ago
+Barron's • 50m ago
 
 ---
 
@@ -172,7 +172,7 @@ Barron's • 21m ago
 
 Bitcoin and Ethereum dipped and then climbed Tuesday following U.S. jobs data that shows the highest unemployment rate in four years.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -188,13 +188,13 @@ Yahoo Finance • 23h ago
 
 Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-CCN.com • 19h ago
+CCN.com • 20h ago
 
 ---
 
@@ -222,13 +222,23 @@ CoinDesk • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[REALISTIC ETH Price Prediction for 2026](https://www.youtube.com/watch?v=M2T6_rjIvpA)**
+
+As we head into what I'm expecting to be a "Bottom Year" (or bear market year), it's time to look at realistic and reasonable targets ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 5K • 👍 286 • 💬 42 • ⏱️ 11:01 • 10h ago
+
+---
+
 **[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
 
 These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! AI Trading Club: ...
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 2K • 💬 47 • ⏱️ 7:49 • 23h ago
+👁️ 19K • 👍 3K • 💬 22 • ⏱️ 7:49 • 23h ago
 
 ---
 
@@ -238,7 +248,15 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 243 • ⏱️ 12:16 • 1d ago
+👁️ 64K • 👍 3K • 💬 243 • ⏱️ 12:16 • 1d ago
+
+---
+
+**[Ethereum is crashing. Bitmine buys another $300 Million. What if they stop buying? #crypto #ethereum](https://www.youtube.com/watch?v=d1qGTK0tals)**
+
+📺 Nick Ford
+
+👁️ 223 • 👍 1 • ⏱️ 1:54 • 5h ago
 
 ---
 
@@ -248,25 +266,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 160 • 💬 33 • ⏱️ 8:42 • 22h ago
-
----
-
-**[Ethereum is crashing. Bitmine buys another $300 Million. What if they stop buying? #crypto #ethereum](https://www.youtube.com/watch?v=d1qGTK0tals)**
-
-📺 Nick Ford
-
-👁️ 195 • 👍 1 • ⏱️ 1:54 • 5h ago
-
----
-
-**[REALISTIC ETH Price Prediction for 2026](https://www.youtube.com/watch?v=M2T6_rjIvpA)**
-
-As we head into what I'm expecting to be a "Bottom Year" (or bear market year), it's time to look at realistic and reasonable targets ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 4K • 👍 257 • 💬 40 • ⏱️ 11:01 • 10h ago
+👁️ 3K • 👍 163 • 💬 35 • ⏱️ 8:42 • 22h ago
 
 ---
 
@@ -276,17 +276,17 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 4K • 👍 248 • 💬 66 • ⏱️ 10:03 • 1d ago
+👁️ 4K • 👍 248 • 💬 67 • ⏱️ 10:03 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=9VVof65W1VU)**
+**[ALTCOINS: THIS IS BAD... VERY BAD (SOL/ADA/ETH/XRP)](https://www.youtube.com/watch?v=8Y-E5MwP5Zw)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners ...
 
-📺 More Crypto Online
+📺 Ivan on Tech
 
-👁️ 2K • 👍 130 • 💬 1 • ⏱️ 5:52 • 18h ago
+👁️ 18K • 👍 2K • 💬 247 • ⏱️ 15:51 • 18h ago
 
 ---
 
@@ -296,17 +296,17 @@ Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a 
 
 📺 Paul Barron Network
 
-👁️ 53K • 👍 2K • 💬 113 • ⏱️ 13:11 • 1d ago
+👁️ 53K • 👍 2K • 💬 121 • ⏱️ 13:11 • 1d ago
 
 ---
 
-**[BITCOIN PRICE TRAP: Don&#39;t Be Fooled (WARNING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=d0kJXO-pwko)**
+**[🚨 JP Morgan Launches ETHEREUM FUND (Prepare NOW!)](https://www.youtube.com/watch?v=Jxy67yKHoHo)**
 
-BITCOIN PRICE TRAP: Don't Be Fooled (WARNING)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
-📺 Crypto World
+📺 Discover Crypto
 
-👁️ 6K • 👍 319 • 💬 88 • ⏱️ 20:42 • 15h ago
+👁️ 5K • 👍 172 • 💬 18 • ⏱️ 6:53 • 1d ago
 
 ---
 
@@ -316,7 +316,7 @@ Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substanti
 
 📺 Paul Barron Network
 
-👁️ 18K • 👍 911 • 💬 200 • ⏱️ 29:25 • 18h ago
+👁️ 19K • 👍 930 • 💬 202 • ⏱️ 29:25 • 18h ago
 
 ---
 

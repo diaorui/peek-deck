@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T10:59:52.740674+00:00'
+updated: '2025-12-17T11:28:56.751181+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 10:59 UTC  
+**Last Updated:** December 17, 2025 at 11:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 14h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 19h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 20h ago
 
 ---
 
@@ -95,7 +95,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 Between the new US Executive Order 14179 and the EU AI Act, the regulatory "splinternet" is officially here. ​Prompt injection is now the #1 security risk, and global regulators are demanding proof of lineage before granting market access. ​We need to move from static SBOMs to Dynamic AIBOMs. If you can't verify your training data, you can't ship the product. Here’s the architecture breakdown. https://www.linkedin.com/pulse/algorithmic-passport-why-global-ai-markets-demand-collin-hogue-spears-smepc?utm_source=share&utm_medium=member_android&utm_campaign=share_via
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ Anthony Enzor-DeMeo is taking charge of one of the internet’s most important �
 
 Synopsis: In our final episode of the season, Professor Hannah Fry sits down with Google DeepMind Co-founder and CEO Demis Hassabis for their annual check-in. Together, they look beyond the product launches to the scientific and technological questions that will define the next decade. Demis shares his vision for the path to AGI - from solving "root node" problems in fusion energy and material science to the rise of world models and simulations. They also explore what's beyond the frontier and the importance of balancing scientific rigor amid the competitive dynamics of AI advancement. Timestamps: 1 minute, 42 seconds: 2025 progress 5 minutes, 14 seconds: Jagged intelligence 7 minutes, 32 seconds: Mathematical version of AlphaGo? 9 minutes, 30 seconds: Transformative Science vs Prosiac Commercialization 12 minutes, 42 seconds: The Empirical Scaling Laws 17 minutes, 43 seconds: Genie and simulation 25 minutes, 47 seconds: Sparks of recursive self improvement witnessed via evolution in simulation 28 minutes, 26 seconds: The AI "bubble" 31 minutes, 56 seconds: Building ethical AI 34 minutes, 31 seconds: The advent of AGI 44 minutes, 44 seconds: Turing machines 49 minutes, 6 seconds: How it feels to lead the AI race Link to the Full Interview: https://www.youtube.com/watch?v=PqVbypvxDto
 
-14h ago
+15h ago
 
 ---
 
@@ -123,19 +123,19 @@ Synopsis: In our final episode of the season, Professor Hannah Fry sits down wit
 
 A survey finds that 56% of psychologists are trying out artificial intelligence tools at work, mainly for administrative tasks. A majority also are concerned about harms of AI on patients and society.
 
-NPR • 15h ago
+NPR • 16h ago
 
 ---
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
 **[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
 
-Axios • 29m ago
+Axios • 58m ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 29m ago
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-Business Insider • 59m ago
+Business Insider • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Business Insider • 59m ago
 
 The President is allegedly leveraging the pause to push for looser food and online safety regulations in the UK
 
-Gizmodo • 59m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Gizmodo • 59m ago
 
 Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -167,13 +167,13 @@ The Guardian • 2h ago
 
 The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
 
-newsroom.churchofjesuschrist.org • 18h ago
+newsroom.churchofjesuschrist.org • 19h ago
 
 ---
 
 **[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
 
-The Washington Post • 16h ago
+The Washington Post • 17h ago
 
 ---
 
@@ -181,13 +181,13 @@ The Washington Post • 16h ago
 
 A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
 **[Evaluating AI’s ability to perform scientific research tasks](https://openai.com/index/frontierscience/)**
 
-OpenAI • 17h ago
+OpenAI • 18h ago
 
 ---
 
@@ -203,7 +203,7 @@ OpenAI • 17h ago
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 642 • 💬 332 • 13h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 642 • 💬 332 • 14h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -233,7 +233,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 349 • 💬 204 • 12h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 349 • 💬 204 • 13h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -273,21 +273,21 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 ## YouTube Videos: "ai"
 
+**[POV: Talking to AI in 2027](https://www.youtube.com/watch?v=LoUpn7h4Phc)**
+
+📺 Alberta Tech
+
+👁️ 1.1M • 👍 38K • 💬 591 • ⏱️ 0:34 • 1d ago
+
+---
+
 **[Bessent delivers urgent message to American workers: ‘Become an AI native’](https://www.youtube.com/watch?v=ni6hJXyJA0M)**
 
 U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the record tax refunds coming to Americans, detail the ...
 
 📺 Fox Business
 
-👁️ 142K • 👍 3K • 💬 707 • ⏱️ 14:37 • 19h ago
-
----
-
-**[POV: Talking to AI in 2027](https://www.youtube.com/watch?v=LoUpn7h4Phc)**
-
-📺 Alberta Tech
-
-👁️ 1.1M • 👍 38K • 💬 583 • ⏱️ 0:34 • 1d ago
+👁️ 144K • 👍 3K • 💬 720 • ⏱️ 14:37 • 19h ago
 
 ---
 
@@ -297,27 +297,25 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 50K • 👍 839 • 💬 122 • ⏱️ 11:23 • 1d ago
+👁️ 52K • 👍 855 • 💬 124 • ⏱️ 11:23 • 1d ago
 
 ---
 
-**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
+**[I bought 3 AI-generated products.. here’s what they REALLY look like. 🤡](https://www.youtube.com/watch?v=p6sslqc-BME)**
 
-IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
+📺 Maggie McGaugh
 
-📺 Eurodollar University
-
-👁️ 197K • 👍 6K • 💬 1K • ⏱️ 20:44 • 2d ago
+👁️ 260K • 👍 12K • 💬 160 • ⏱️ 1:16 • 1d ago
 
 ---
 
-**[Google NEW AI NotebookLM Can Start a 1 Person Business (no coding)](https://www.youtube.com/watch?v=zUZWLaOfYm8)**
+**[These Fake AI Disney Trailers Gotta Chill TF Out 💀](https://www.youtube.com/watch?v=gi6f7pIZaV4)**
 
-Notebooklm has a new update! ➡️ Digital Product Plan Builder: https://bit.ly/NotebookLMPrompt ...
+WATCH THE OG:* https://www.youtube.com/watch?v=kX0niftUdmQ *JOIN THE DISCORD SERVER:* ...
 
-📺 Success With Sam
+📺 7-ElevenZ
 
-👁️ 3K • 👍 176 • 💬 13 • ⏱️ 17:32 • 18h ago
+👁️ 112K • 👍 4K • 💬 736 • ⏱️ 15:31 • 21h ago
 
 ---
 
@@ -327,37 +325,17 @@ Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPT
 
 📺 Dylan Curious
 
-👁️ 9K • 👍 508 • 💬 93 • ⏱️ 30:05 • 1d ago
+👁️ 9K • 👍 511 • 💬 94 • ⏱️ 30:05 • 1d ago
 
 ---
 
-**[#AI Farming Robot Harvesting Tomatoes | Smart Agriculture Technology #farmer #2025](https://www.youtube.com/watch?v=Y6L-cTYSGaY)**
+**[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
 
-This image shows an advanced AI-powered farming robot harvesting ripe tomatoes with precision. Operated using smart controls, ...
+IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
 
-📺 Neural Fantasy
+📺 Eurodollar University
 
-👁️ 12K • ⏱️ 0:07 • 3h ago
-
----
-
-**[Genspark&#39;s Super AI Agent is INSANE](https://www.youtube.com/watch?v=ayUZdS3ikqQ)**
-
-Try Genspark with free credits available upon signup. The wildest part? Genspark is offering unlimited usage of the AI Chat and AI ...
-
-📺 Tech With Tim
-
-👁️ 5K • 👍 170 • 💬 24 • ⏱️ 20:23 • 1d ago
-
----
-
-**[The Final Beast of Prophecy: One Nation Under AI?](https://www.youtube.com/watch?v=TPdvxfYB6tU)**
-
-To help NYSTV in their mission : https://www.paypal.me/nowyouseetv Check out my new YouTube Channel @PoundersQuest ...
-
-📺 Now You See TV
-
-👁️ 30K • 👍 2K • 💬 401 • ⏱️ 51:06 • 1d ago
+👁️ 203K • 👍 6K • 💬 1K • ⏱️ 20:44 • 2d ago
 
 ---
 
@@ -365,7 +343,27 @@ To help NYSTV in their mission : https://www.paypal.me/nowyouseetv Check out my 
 
 📺 Biggy Bailey
 
-👁️ 419K • 👍 20K • 💬 76 • ⏱️ 1:01 • 1d ago
+👁️ 426K • 👍 20K • 💬 78 • ⏱️ 1:01 • 1d ago
+
+---
+
+**[Ben Smith: Trump is betting his presidency on AI. Can he sell it?](https://www.youtube.com/watch?v=yI6__4Ojwz4)**
+
+Semafor's Ben Smith discusses the president's shift to becoming what he calls the 'AI president'. MS NOW: My Source for News, ...
+
+📺 MS NOW
+
+👁️ 18K • 👍 206 • 💬 71 • ⏱️ 10:03 • 1d ago
+
+---
+
+**[Workplace Trends 2026: AI Recruitment, Boomerang Hiring, More](https://www.youtube.com/watch?v=3Ik1DMkYN1U)**
+
+LinkedIn editor-in-chief Dan Roth joins TODAY to share his insights on workplace trends for 2026, including how AI is becoming ...
+
+📺 TODAY
+
+👁️ 4K • 👍 39 • 💬 3 • ⏱️ 5:15 • 17h ago
 
 ---
 
@@ -568,7 +566,7 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 27 • 💬 2 • ⭐ 12,619 • 8d ago
+▲ 27 • 💬 2 • ⭐ 12,619 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -637,7 +635,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.0k • 🔱 2.6k • 1h ago
+⭐ 17.0k • 🔱 2.6k • 2h ago
 
 ---
 
@@ -697,7 +695,7 @@ ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · C
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 931 • 🔱 80 • 33m ago
+⭐ 931 • 🔱 80 • 1h ago
 
 ---
 

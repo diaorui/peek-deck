@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T10:59:52.758363+00:00'
+updated: '2025-12-17T11:28:56.769103+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 10:59 UTC  
+**Last Updated:** December 17, 2025 at 11:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
 
-2h ago
+3h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’m working on like a platform that carries a robotic arm mounted on it that c
 
 I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
 
-22h ago
+23h ago
 
 ---
 
@@ -74,7 +74,7 @@ I recently made this prototype of a self-balancing wheel provided with robotic m
 
 Hello, my experience is only from R&D setups. For deploying a robot, what do people normally do? Do they use Jetson Nano/Orin/Thor to run the AI processes? One of my seniors said they still use the PC for deployment to make the AI processes run. Isn't it too big to add the PC to your sellable product just to run the AI processes? Is this an industrial practice?
 
-3h ago
+4h ago
 
 ---
 
@@ -130,7 +130,7 @@ Interesting Engineering • 1d ago
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-NASA (.gov) • 12h ago
+NASA (.gov) • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ PR Newswire • 2d ago
 
 iRobot's assets are now in the hands of a Chinese partner. What does this mean for the future of home robotics?
 
-IEEE Spectrum • 14h ago
+IEEE Spectrum • 15h ago
 
 ---
 
@@ -198,7 +198,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 50K • 👍 839 • 💬 122 • ⏱️ 11:23 • 1d ago
+👁️ 52K • 👍 855 • 💬 124 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -208,17 +208,15 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 27K • 👍 682 • 💬 111 • ⏱️ 6:41 • 2d ago
+👁️ 28K • 👍 683 • 💬 111 • ⏱️ 6:41 • 2d ago
 
 ---
 
-**[Guy Meets Humanoid Girlfriend Robot At Expo And Gets This Reaction](https://www.youtube.com/watch?v=E9Y81FrwXLc)**
+**[The Humanoid Robot’s CPU Was Stolen. #robotics #airobot #ai #robot #humanoidrobot](https://www.youtube.com/watch?v=iZ0BlhfU8Bg)**
 
-A shy guy meets a humanoid girlfriend robot at a tech expo. DISCLAIMER: All visuals are AI-generated using advanced image ...
+📺 AI . Robot
 
-📺 SYN:THETIC_BLOOD
-
-👁️ 20K • 👍 403 • 💬 14 • ⏱️ 0:22 • 1d ago
+👁️ 83K • 👍 882 • 💬 14 • ⏱️ 0:13 • 22h ago
 
 ---
 
@@ -228,7 +226,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 14K • 👍 2K • 💬 45 • ⏱️ 1:38 • 18h ago
+👁️ 15K • 👍 2K • 💬 45 • ⏱️ 1:38 • 19h ago
 
 ---
 
@@ -238,7 +236,15 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 348K • 👍 12K • 💬 379 • ⏱️ 0:34 • 3d ago
+👁️ 353K • 👍 12K • 💬 384 • ⏱️ 0:34 • 3d ago
+
+---
+
+**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
+
+📺 AI . Robot
+
+👁️ 411K • 👍 4K • 💬 41 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -248,15 +254,7 @@ Would you let an AI robot girl choose you, or would you walk away? Be honest. DI
 
 📺 SYN:THETIC_BLOOD
 
-👁️ 48K • 👍 1K • 💬 52 • ⏱️ 0:32 • 20h ago
-
----
-
-**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
-
-📺 AI . Robot
-
-👁️ 404K • 👍 4K • 💬 41 • ⏱️ 0:21 • 2d ago
+👁️ 52K • 👍 1K • 💬 55 • ⏱️ 0:32 • 21h ago
 
 ---
 
@@ -266,7 +264,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 29K • 👍 290 • 💬 28 • ⏱️ 1:05 • 1d ago
+👁️ 29K • 👍 292 • 💬 28 • ⏱️ 1:05 • 1d ago
 
 ---
 
@@ -276,7 +274,7 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 
 📺 RICHLEV
 
-👁️ 170K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
+👁️ 171K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
 
 ---
 
@@ -286,7 +284,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 295K • 👍 8K • 💬 596 • ⏱️ 17:44 • 6d ago
+👁️ 297K • 👍 8K • 💬 597 • ⏱️ 17:44 • 6d ago
 
 ---
 

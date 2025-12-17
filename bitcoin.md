@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T10:59:52.749056+00:00'
+updated: '2025-12-17T11:28:56.759597+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 10:59 UTC  
+**Last Updated:** December 17, 2025 at 11:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -6.6%  
-**30d:** -6.9%  
-**90d:** -25.2%  
-**1y:** -13.9%  
+**24h:** -0.3%  
+**7d:** -6.2%  
+**30d:** -6.5%  
+**90d:** -24.9%  
+**1y:** -13.6%  
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -105,7 +105,7 @@ I was genuinely surprised and shocked to see this, especially since our country 
 
 **[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -127,7 +127,7 @@ You don’t understand Bitcoin. And that’s okay — most people still don’t.
 
 There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
-17h ago
+18h ago
 
 ---
 
@@ -155,7 +155,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 Crypto markets continued to decline, with overall capitalization falling below $3 trillion for the third time in a month.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1h ago
 
 Bhutan has pledged up to 10,000 BTC to support the development of Gelephu Mindfulness City, deepening the country’s long-term digital asset strategy.
 
-CoinDesk • 42m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ thestreet.com • 13h ago
 
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 12h ago
 
 Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
@@ -217,7 +217,7 @@ Financial Times • 2d ago
 
 The bitcoin price could be teetering on the verge of a massive crash that could wipe out almost all cryptocurrencies...
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -225,7 +225,7 @@ Forbes • 21h ago
 
 Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
 
-PYMNTS.com • 13h ago
+PYMNTS.com • 14h ago
 
 ---
 
@@ -277,7 +277,7 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 7d ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -289,7 +289,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 19h ago
+⬆️ 11 • 💬 3 • 20h ago
 
 ---
 
@@ -303,7 +303,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 188 • ⏱️ 9:01 • 12h ago
+👁️ 40K • 👍 3K • 💬 199 • ⏱️ 9:01 • 12h ago
 
 ---
 
@@ -313,7 +313,17 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 304 • 💬 113 • ⏱️ 10:50 • 10h ago
+👁️ 6K • 👍 317 • 💬 101 • ⏱️ 10:50 • 10h ago
+
+---
+
+**[THIS BITCOIN MOVE WILL TRICK YOU (BE SMARTER...)](https://www.youtube.com/watch?v=J6OQMQ1-kXs)**
+
+Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
+
+📺 100XClub
+
+👁️ 3K • 👍 466 • 💬 122 • ⏱️ 10:23 • 3h ago
 
 ---
 
@@ -323,17 +333,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 146 • ⏱️ 13:25 • 11h ago
-
----
-
-**[This Macro Expert Thinks Bitcoin Is Going Lower in 2026...](https://www.youtube.com/watch?v=MWTIdtr2GXU)**
-
-Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned bearish, selling most of his Bitcoin around ...
-
-📺 Swan Bitcoin
-
-👁️ 30K • 👍 1K • 💬 220 • ⏱️ 18:36 • 12h ago
+👁️ 25K • 👍 2K • 💬 141 • ⏱️ 13:25 • 12h ago
 
 ---
 
@@ -343,7 +343,17 @@ Anthony and John Pompliano break down what's really happening in the bitcoin mar
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 650 • 💬 4 • ⏱️ 41:39 • 12h ago
+👁️ 16K • 👍 700 • 💬 4 • ⏱️ 41:39 • 13h ago
+
+---
+
+**[This Macro Expert Thinks Bitcoin Is Going Lower in 2026...](https://www.youtube.com/watch?v=MWTIdtr2GXU)**
+
+Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned bearish, selling most of his Bitcoin around ...
+
+📺 Swan Bitcoin
+
+👁️ 34K • 👍 1K • 💬 227 • ⏱️ 18:36 • 12h ago
 
 ---
 
@@ -353,7 +363,17 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 2K • 💬 47 • ⏱️ 7:49 • 23h ago
+👁️ 19K • 👍 3K • 💬 22 • ⏱️ 7:49 • 23h ago
+
+---
+
+**[BREAKING: BITCOIN JUST DID THIS FOR FIRST TIME SINCE 2020 – THIS HAPPENED NEXT](https://www.youtube.com/watch?v=vzVpMNGR9oU)**
+
+INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://cryptocrewuniversity.com/sibmy ...
+
+📺 Crypto Crew University
+
+👁️ 36K • 👍 2K • 💬 166 • ⏱️ 8:22 • 21h ago
 
 ---
 
@@ -363,37 +383,17 @@ Crypto looks chaotic on the surface — but underneath, a structural reset is ta
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 7K • 👍 261 • 💬 48 • ⏱️ 9:42 • 8h ago
+👁️ 11K • 👍 261 • 💬 78 • ⏱️ 9:42 • 8h ago
 
 ---
 
-**[Inside the future of Bitcoin](https://www.youtube.com/watch?v=N7Z7tpwSlBg)**
+**[HUGE WARNING FOR BITCOIN HOLDERS](https://www.youtube.com/watch?v=zMQrRtaDViw)**
 
-Strategy CEO Phong Le discusses what investors can look forward to in 2026 and analyzes where Bitcoin is headed on 'The ...
+BloFin: https://themoon.co/blofindepositreward Deposit to Get 20% Futures Bonus (Limited Users) BYBIT: ...
 
-📺 Fox Business
+📺 The Moon Show
 
-👁️ 48K • 👍 724 • 💬 467 • ⏱️ 10:03 • 1d ago
-
----
-
-**[LOST FAITH IN THE CRYPTO CYCLE? WATCH THIS | Raoul Pal at Solana Breakpoint | The Everything Code](https://www.youtube.com/watch?v=W_BD_FGaE2Y)**
-
-Download Raoul Pal's 5-year investing roadmap for free:* https://rvtv.io/41fVHWF Unlock the potential to showcase your brand to ...
-
-📺 Raoul Pal The Journey Man
-
-👁️ 15K • 👍 690 • 💬 29 • ⏱️ 1:52 • 13h ago
-
----
-
-**[Will 1 Bitcoin Be Generational Wealth? Whales Selling, Legacy Planning &amp; Price Drivers](https://www.youtube.com/watch?v=6zFglF1aMKc)**
-
-A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell sat down with Matthew McClintock, head of The ...
-
-📺 Natalie Brunell
-
-👁️ 10K • 👍 475 • 💬 55 • ⏱️ 57:23 • 20h ago
+👁️ 9K • 👍 543 • 💬 70 • ⏱️ 5:03 • 23h ago
 
 ---
 
