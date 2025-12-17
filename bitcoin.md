@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T21:42:18.032151+00:00'
+updated: '2025-12-17T21:53:13.629181+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 21:42 UTC  
+**Last Updated:** December 17, 2025 at 21:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -7.5%  
-**30d:** -7.8%  
-**90d:** -25.9%  
-**1y:** -14.8%  
+**24h:** -2.0%  
+**7d:** -7.2%  
+**30d:** -7.5%  
+**90d:** -25.6%  
+**1y:** -14.5%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ Tippity top of the daily mountain range
 
 Everyone needs to chill and stack sats
 
-50m ago
+1h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 2h ago
 
 **[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
@@ -203,7 +203,7 @@ Financial Times • 2d ago
 
 Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -261,7 +261,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 37m ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 48m ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 

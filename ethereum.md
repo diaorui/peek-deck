@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T21:42:18.038181+00:00'
+updated: '2025-12-17T21:53:13.635234+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 21:42 UTC  
+**Last Updated:** December 17, 2025 at 21:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.8%  
-**7d:** -13.1%  
-**30d:** -10.0%  
-**90d:** -37.0%  
-**1y:** -22.5%  
+**24h:** -4.5%  
+**7d:** -12.8%  
+**30d:** -9.7%  
+**90d:** -36.8%  
+**1y:** -22.2%  
 
 ---
 
@@ -106,7 +106,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -152,7 +152,7 @@ Barron's • 1d ago
 
 Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
 
-Finance Magnates • 6h ago
+Finance Magnates • 7h ago
 
 ---
 
@@ -160,7 +160,7 @@ Finance Magnates • 6h ago
 
 Cryptocurrency prices are under pressure today, with Bitcoin, Ethereum and XRP all trading lower as global market sentiment turns red. The total crypto market value has slipped to around $2.92 trillion, down nearly 2%, while investor sentiment remains weak. Bitcoin fell toward the $86,000 level aft…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 97 • 💬 5 • ⏱️ 4:45 • 5h ago
+👁️ 1K • 👍 97 • 💬 5 • ⏱️ 4:45 • 6h ago
 
 ---
 
@@ -302,7 +302,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Nick Ford
 
-👁️ 591 • 👍 5 • 💬 2 • ⏱️ 1:54 • 15h ago
+👁️ 591 • 👍 5 • 💬 2 • ⏱️ 1:54 • 16h ago
 
 ---
 

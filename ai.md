@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T21:42:18.023635+00:00'
+updated: '2025-12-17T21:53:13.620608+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 21:42 UTC  
+**Last Updated:** December 17, 2025 at 21:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 2h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 3h ago
 
 ---
 
@@ -137,13 +137,13 @@ MarketWatch • 1h ago
 
 The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
 
-NBC News • 23m ago
+NBC News • 34m ago
 
 ---
 
 **[Nvidia stock price takes another hit as Wall Street debates an AI bubble. Here’s why it’s down today](https://www.fastcompany.com/91462313/nvidia-stock-price-takes-another-hit-as-wall-street-debates-an-ai-bubble-heres-why-its-down-today)**
 
-Fast Company • 39m ago
+Fast Company • 50m ago
 
 ---
 
@@ -151,7 +151,7 @@ Fast Company • 39m ago
 
 Micron Technology forecast second-quarter adjusted profit at nearly double ​what Wall Street analysts expected on Wednesday, buoyed by ‌soaring prices for memory chips spurred by tight supplies and booming demand ‌from artificial intelligence data centers. Shares of the Boise, Idaho-based company rose 14% in extended trading after the forecast. Micron said it expected adjusted profit of $8.42 per share, plus or minus 20 ⁠cents, versus analyst estimates ‌of $4.78 per share, according to LSEG data.
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 38m ago
 
 Micron is getting ready to break ground on a massive chipmaking complex in Central New York.
 
-Syracuse.com • 22m ago
+Syracuse.com • 33m ago
 
 ---
 
@@ -173,7 +173,7 @@ The New York Times • 1h ago
 
 Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving at the end of this year, the company confirmed.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -337,7 +337,7 @@ GPT-Image-1.5 review. GPT Image 1.5 vs Nano Banana Pro. OpenAI's top AI image ge
 
 📺 AI Search
 
-👁️ 58K • 👍 2K • 💬 553 • ⏱️ 31:47 • 17h ago
+👁️ 58K • 👍 2K • 💬 553 • ⏱️ 31:47 • 18h ago
 
 ---
 
@@ -407,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 299 • 43m ago
+⬇️ 10,487 • ❤️ 299 • 54m ago
 
 ---
 
@@ -431,7 +431,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 228 • 15h ago
+⬇️ 0 • ❤️ 228 • 16h ago
 
 ---
 
