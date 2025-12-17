@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T12:52:56.566906+00:00'
+updated: '2025-12-17T13:30:32.462920+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 12:52 UTC  
+**Last Updated:** December 17, 2025 at 13:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ I recently made this prototype of a self-balancing wheel provided with robotic m
 
 Hello, my experience is only from R&D setups. For deploying a robot, what do people normally do? Do they use Jetson Nano/Orin/Thor to run the AI processes? One of my seniors said they still use the PC for deployment to make the AI processes run. Isn't it too big to add the PC to your sellable product just to run the AI processes? Is this an industrial practice?
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hello, my experience is only from R&D setups. For deploying a robot, what do peo
 
 I saw this project by Mehdi Alizadeh and thought it was a brilliant example of upcycling. Most hobby robots require buying separate expensive modules (Microcontroller, IMU, Vision Camera, WiFi Module). This project replaces all of that with a single used smartphone. Why it's smart engineering: Active Stabilization: As seen in the video, it uses the phone's internal IMU (Accelerometer/Gyro) to keep the chassis perfectly level, even while walking. Compute: It leverages the phone's CPU/GPU to handle the Inverse Kinematics (IK) and gait calculations. Vision & Comms: It gets high-res cameras, GPS and WiFi/Cellular connectivity for free. It essentially turns e-waste into a high-performance robot controller. Project Source: makeyourpet dot com Creator: Mehdi Alizadeh Has anyone else experimented with Android/iOS bridges for direct motor control? I'm curious if the USB/Bluetooth latency is low enough for dynamic gaits like trotting.
 
-1d ago
+2d ago
 
 ---
 
@@ -102,7 +102,7 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 **[If you want to buy a robot like the one in the video,please contact me](https://www.reddit.com/r/robotics/comments/1pov2zt/if_you_want_to_buy_a_robot_like_the_one_in_the/)**
 
-36m ago
+1h ago
 
 ---
 
@@ -144,7 +144,15 @@ The Verge • 2d ago
 
 iRobot's assets are now in the hands of a Chinese partner. What does this mean for the future of home robotics?
 
-IEEE Spectrum • 16h ago
+IEEE Spectrum • 17h ago
+
+---
+
+**[Watch: Vine-like robot lifts delicate cargo – including human bodies](https://newatlas.com/robotics/vine-like-robot/)**
+
+Although they're constantly improving, robots aren't necessarily known for their gentle touch. A new robotic system from MIT and Stanford takes a unique stab at changing that, with a robot that uses vine-like tendrils to do its lifting.
+
+New Atlas • 29m ago
 
 ---
 
@@ -152,7 +160,15 @@ IEEE Spectrum • 16h ago
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-NASA (.gov) • 14h ago
+NASA (.gov) • 15h ago
+
+---
+
+**[AMC Robotics: A Low-Float Trade Posing As A Robotics Investment (NASDAQ:AMCI)](https://seekingalpha.com/article/4853719-amc-robotics-a-low-float-trade-posing-as-a-robotics-investment)**
+
+AMC Robotics Corp. surged nearly 170%, driven by speculative trading rather than a clear fundamental catalyst. Learn more about AMCI stock here.
+
+Seeking Alpha • 21h ago
 
 ---
 
@@ -170,22 +186,6 @@ The Republic News • 1d ago
 
 ---
 
-**[Cofounder of bankrupt Roomba maker iRobot says Elon Musk's vision of robots is 'pure fantasy'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
-
-Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
-
-Fortune • 22h ago
-
----
-
-**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
-
-Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
-
-South China Morning Post • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +196,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 52K • 👍 855 • 💬 124 • ⏱️ 11:23 • 1d ago
+👁️ 54K • 👍 866 • 💬 126 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -206,15 +206,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 28K • 👍 683 • 💬 111 • ⏱️ 6:41 • 2d ago
-
----
-
-**[The Humanoid Robot’s CPU Was Stolen. #robotics #airobot #ai #robot #humanoidrobot](https://www.youtube.com/watch?v=iZ0BlhfU8Bg)**
-
-📺 AI . Robot
-
-👁️ 83K • 👍 882 • 💬 14 • ⏱️ 0:13 • 1d ago
+👁️ 28K • 👍 691 • 💬 113 • ⏱️ 6:41 • 3d ago
 
 ---
 
@@ -224,7 +216,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 15K • 👍 2K • 💬 45 • ⏱️ 1:38 • 20h ago
+👁️ 16K • 👍 2K • 💬 45 • ⏱️ 1:38 • 21h ago
 
 ---
 
@@ -234,7 +226,15 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 353K • 👍 12K • 💬 384 • ⏱️ 0:34 • 3d ago
+👁️ 356K • 👍 12K • 💬 387 • ⏱️ 0:34 • 3d ago
+
+---
+
+**[The Humanoid Robot’s CPU Was Stolen. #robotics #airobot #ai #robot #humanoidrobot](https://www.youtube.com/watch?v=iZ0BlhfU8Bg)**
+
+📺 AI . Robot
+
+👁️ 95K • 👍 982 • 💬 16 • ⏱️ 0:13 • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 411K • 👍 4K • 💬 41 • ⏱️ 0:21 • 3d ago
+👁️ 417K • 👍 4K • 💬 41 • ⏱️ 0:21 • 3d ago
 
 ---
 
@@ -252,7 +252,7 @@ Would you let an AI robot girl choose you, or would you walk away? Be honest. DI
 
 📺 SYN:THETIC_BLOOD
 
-👁️ 52K • 👍 1K • 💬 55 • ⏱️ 0:32 • 22h ago
+👁️ 56K • 👍 1K • 💬 57 • ⏱️ 0:32 • 23h ago
 
 ---
 
@@ -272,17 +272,17 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 
 📺 RICHLEV
 
-👁️ 171K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
+👁️ 172K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
 
 ---
 
-**[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
+**[A soldier built a robotic goat for his grandmother #ai #army #save #robot #shorts](https://www.youtube.com/watch?v=9JVdqSwGgiM)**
 
-In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
+A soldier built a robotic goat for his grandmother #ai #army #save #robot #shorts #aesthetic #akshaykhanna #effect #aivideo.
 
-📺 Google DeepMind
+📺 Ayan Bites
 
-👁️ 297K • 👍 8K • 💬 597 • ⏱️ 17:44 • 6d ago
+👁️ 6K • 👍 78 • ⏱️ 0:29 • 8h ago
 
 ---
 
