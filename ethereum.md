@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T05:41:18.309931+00:00'
+updated: '2025-12-17T05:54:51.432560+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - cryptocurrency
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 05:41 UTC  
+**Last Updated:** December 17, 2025 at 05:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,957.03
+### $2,937.52
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.45B
+**Market Cap:** $353.92B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.8%
 
 **All-Time Low:** $0.43
-+677376.3%
++676667.2%
 
 ---
 
@@ -70,15 +70,7 @@ No max supply
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 15h ago
-
----
-
-**[ETH 2025: Read the Gaps, Not the Price — argmax 𝔼[P | structure]](https://www.reddit.com/r/ethereum/comments/1pon8am/eth_2025_read_the_gaps_not_the_price_argmax_𝔼p/)**
-
-🚨 Trade ETH like it’s 2021 and you’ll miss 2025. 📉 This is not a hype cycle — it’s a compression cycle. 🧠 The market no longer tells stories. It prices structure. TL;DR 🔹 2025 is not a blow-off year for Ethereum. 🔹 It is a structural year: lower volatility, deeper liquidity, clearer regulation. 🔹 ETH is shifting from a story-driven asset to a parameter-driven infrastructure layer. 🔹 The trading edge has moved from momentum to carry, volatility regimes and flows. 🧱 The Pantera Framework — Structural Progress 2025 marks a phase of structural progress rather than speculative excess. What matters is no longer price acceleration, but infrastructure maturity: 🏛️ clearer regulatory posture 🏦 increasing institutional integration ⚙️ crypto markets behaving more like financial systems than casinos For Ethereum, this signals a regime change. ETH is no longer just a speculative beta; it is increasingly treated as a programmable settlement asset. 🔗 ETH 2025 — What the Data Actually Says 🔐 Supply & Staking 🔒 25–30%+ of ETH supply staked, increasingly via liquid staking 📉 ETH balances on CEXs structurally lower than in previous cycles Result: less marginal sell pressure, but also less explosive upside. 🔥 Issuance & Burn ⚖️ Net issuance close to neutral 🔥 Burn tied to real network usage, not hype cycles ETH supply dynamics are now usage-driven, not sentiment-driven. 💵 Stablecoins = Crypto M2 📈 Gradual expansion of stablecoin supply 🔁 Liquidity migrating to L2s, not exiting the system 🔗 Stronger link between stablecoins and DeFi credit demand than with spot price Capital is deployed for yield and structure, not pure speculation. 🧩 L2 Activity — The Real Demand Signal 🚀 Double-digit YoY growth in L2 transactions 🧮 More stable L1 fees 🏗️ Ethereum increasingly used as a settlement layer ETH trades more like infrastructure equity than a meme asset. 📊 Derivatives & Volatility 📉 Realised volatility (30–60d) lower than prior cycles ⚖️ Funding rates mostly neutral 📐 Futures basis positive but compressed This regime favours carry trades, volatility selling and structural strategies. ⚖️ ETH vs BTC — Structural Comparison 2025 ₿ BTC: fixed supply, macro beta, momentum-driven 🔷 ETH: endogenous supply, usage-driven, structurally monetised BTC dominates macro impulse phases. ETH dominates structure, yield and volatility regimes. 🧠 Final Take ETH 2025 is not about predicting price — it’s about optimising structure. The market no longer rewards narratives. It rewards regime awareness. Ethereum hasn’t become boring. It has become institutional — and therefore tradable. Спасибо тем, кто дочитал до конца. Габ фром Марс u/gabfrommars #Ethereum #ETH #CryptoMarkets #ETHtrader #MarketStructure #Volatility #Derivatives #DeFi #Layer2 #Staking #InstitutionalCrypto #QuantTrading #MacroCrypto #OnChain
-
-1h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 16h ago
 
 ---
 
@@ -87,6 +79,14 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 23h ago
+
+---
+
+**[ETH 2025: Read the Gaps, Not the Price — argmax 𝔼[P | structure]](https://www.reddit.com/r/ethereum/comments/1pon8am/eth_2025_read_the_gaps_not_the_price_argmax_𝔼p/)**
+
+🚨 Trade ETH like it’s 2021 and you’ll miss 2025. 📉 This is not a hype cycle — it’s a compression cycle. 🧠 The market no longer tells stories. It prices structure. TL;DR 🔹 2025 is not a blow-off year for Ethereum. 🔹 It is a structural year: lower volatility, deeper liquidity, clearer regulation. 🔹 ETH is shifting from a story-driven asset to a parameter-driven infrastructure layer. 🔹 The trading edge has moved from momentum to carry, volatility regimes and flows. 🧱 The Pantera Framework — Structural Progress 2025 marks a phase of structural progress rather than speculative excess. What matters is no longer price acceleration, but infrastructure maturity: 🏛️ clearer regulatory posture 🏦 increasing institutional integration ⚙️ crypto markets behaving more like financial systems than casinos For Ethereum, this signals a regime change. ETH is no longer just a speculative beta; it is increasingly treated as a programmable settlement asset. 🔗 ETH 2025 — What the Data Actually Says 🔐 Supply & Staking 🔒 25–30%+ of ETH supply staked, increasingly via liquid staking 📉 ETH balances on CEXs structurally lower than in previous cycles Result: less marginal sell pressure, but also less explosive upside. 🔥 Issuance & Burn ⚖️ Net issuance close to neutral 🔥 Burn tied to real network usage, not hype cycles ETH supply dynamics are now usage-driven, not sentiment-driven. 💵 Stablecoins = Crypto M2 📈 Gradual expansion of stablecoin supply 🔁 Liquidity migrating to L2s, not exiting the system 🔗 Stronger link between stablecoins and DeFi credit demand than with spot price Capital is deployed for yield and structure, not pure speculation. 🧩 L2 Activity — The Real Demand Signal 🚀 Double-digit YoY growth in L2 transactions 🧮 More stable L1 fees 🏗️ Ethereum increasingly used as a settlement layer ETH trades more like infrastructure equity than a meme asset. 📊 Derivatives & Volatility 📉 Realised volatility (30–60d) lower than prior cycles ⚖️ Funding rates mostly neutral 📐 Futures basis positive but compressed This regime favours carry trades, volatility selling and structural strategies. ⚖️ ETH vs BTC — Structural Comparison 2025 ₿ BTC: fixed supply, macro beta, momentum-driven 🔷 ETH: endogenous supply, usage-driven, structurally monetised BTC dominates macro impulse phases. ETH dominates structure, yield and volatility regimes. 🧠 Final Take ETH 2025 is not about predicting price — it’s about optimising structure. The market no longer rewards narratives. It rewards regime awareness. Ethereum hasn’t become boring. It has become institutional — and therefore tradable. Спасибо тем, кто дочитал до конца. Габ фром Марс u/gabfrommars #Ethereum #ETH #CryptoMarkets #ETHtrader #MarketStructure #Volatility #Derivatives #DeFi #Layer2 #Staking #InstitutionalCrypto #QuantTrading #MacroCrypto #OnChain
+
+1h ago
 
 ---
 
@@ -100,7 +100,7 @@ When a Cypherpunk Says 'Permissioned' This is an EVMavericks production. All lin
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -124,7 +124,7 @@ idk man. the speed, the fees, the ux... solana teams and tools built on top of i
 
 So this is awkward. Paid someone for some freelance work in USD⁤C and they apparently looked up my address and now they're asking questions about my wallet balance. Didn't even think about it until now but yeah anyone you pay can see literally everything. Is there actually any way to send stablecoins without exposing your entire transaction history? I looked into Tornado Cash but that whole situation is a mess now. Don't really want to use some random privacy chain nobody's heard of. I did find this thing called Anoma⁤Pay that's launching soon. They claim you can send private payments and it wor⁤ks across different chains - like you send USD⁤C on one chain and the person receives it on another or in a different token. Haven't tested it since it's not out yet but sounds pretty useful if it actually wor⁤ks. Says it uses your regular wallet so you don't need to set up anything new. This probably sounds paranoid but it's genuinely weird that paying someone $500 for work means they can see I'm holding $50k or whatever. That's not information I want to share with random contractors. How do businesses even handle this? Do they just not care or is there actually a solution I'm missing?
 
-5h ago
+6h ago
 
 ---
 
@@ -148,7 +148,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe--YGtF0Ibe-D_8lRpf0bt4oGiA2qihcjaYWV8hPORlfOzfHmI9Z8Q&gaa_ts=69423f77&gaa_sig=uiX3BNzRzJ4KNnYomGgLbuxOIZCZ8h41W1s3i78IrgzJy8fVe3x-j3wuATopJPqrMWfCmKxNoggSNhl1OWxjFQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdBLuKTxt2_7NbizWuu7cSZ_8D5eci5-xKX5CDhtaArim8lDPa8JDMP&gaa_ts=69424914&gaa_sig=lo8AOh7JYQmkj6prHNo-OqL_2PY4OVSOUzp0pbf7OPxrbbeddATJgbn_8eV6JhazvzJ0oprbR0C34uGBC6b3KQ%3D%3D)**
 
 Barron's • 8h ago
 
@@ -178,6 +178,14 @@ Decrypt • 14h ago
 
 ---
 
+**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
+
+Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
+
+Yahoo Finance • 18h ago
+
+---
+
 **[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://finance.yahoo.com/news/tom-lees-bitmine-keeps-buying-154149939.html)**
 
 Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
@@ -189,12 +197,6 @@ Yahoo Finance • 1d ago
 **[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
 CCN.com • 14h ago
-
----
-
-**['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
-
-The Block • 1d ago
 
 ---
 
@@ -228,7 +230,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 2K • 💬 62 • ⏱️ 7:49 • 17h ago
+👁️ 17K • 👍 2K • 💬 62 • ⏱️ 7:49 • 18h ago
 
 ---
 

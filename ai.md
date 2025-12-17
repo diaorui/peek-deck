@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T05:41:18.295453+00:00'
+updated: '2025-12-17T05:54:51.417771+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - repositories
-- social
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 05:41 UTC  
+**Last Updated:** December 17, 2025 at 05:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-12h ago
+13h ago
 
 ---
 
@@ -95,7 +95,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 11h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 12h ago
 
 ---
 
@@ -133,11 +133,39 @@ Reuters • 8h ago
 
 ---
 
+**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
+
+Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
+
+The Guardian • 54m ago
+
+---
+
 **[Publishers’ scorecard for Big Tech’s AI licensing deals](https://digiday.com/media/publishers-scorecard-for-big-techs-ai-licensing-deals/)**
 
 Digiday has compiled a scorecard grading AI platforms to make sense of the growing number of players in the AI content licensing market.
 
-Digiday • 39m ago
+Digiday • 52m ago
+
+---
+
+**[OpenAI May Raise $10 Billion From Amazon, The Information Says](https://www.bloomberg.com/news/articles/2025-12-17/openai-in-talks-to-raise-10-billion-from-amazon-information)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[OpenAI in talks with Amazon about investment that could exceed $10 billion](https://www.cnbc.com/2025/12/16/openai-in-talks-with-amazon-about-investment-could-top-10-billion.html)**
+
+OpenAI is in discussions with Amazon about a potential investment and an agreement to use its artificial intelligence chips, CNBC confirmed.
+
+CNBC • 1h ago
+
+---
+
+**[OpenAI in Talks to Raise At Least $10 Billion From Amazon and Use Its AI Chips](https://www.theinformation.com/articles/openai-talks-raise-least-10-billion-amazon-use-ai-chips)**
+
+The Information • 3h ago
 
 ---
 
@@ -149,47 +177,19 @@ newsroom.churchofjesuschrist.org • 13h ago
 
 ---
 
-**[OpenAI’s new flagship image generator AI is here](https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5)**
+**[AI and other General Handbook updates](https://www.thechurchnews.com/members/2025/12/16/general-handbook-update-artificial-intelligence-guidelines/)**
 
-The company is positioning it as especially good for enterprise use.
+See a new section in the General Handbook about the use of artificial intelligence in Church responsibilities. Other handbook updates were also made.
 
-The Verge • 11h ago
-
----
-
-**[OpenAI Just Dropped a New AI Image Model in ChatGPT to Rival Google's Nano Banana](https://www.cnet.com/tech/services-and-software/openai-new-ai-image-model-1-5-to-rival-googles-nano-banana/)**
-
-OpenAI's Image Model 1.5 is out now, and it comes with a new creative studio for editing.
-
-CNET • 11h ago
+Church News • 13h ago
 
 ---
 
-**[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
+**[In new handbook updates, LDS Church spells out how members can use — and not abuse — A.I.](https://www.sltrib.com/religion/2025/12/16/lds-church-updates-handbook-with/)**
 
-The Washington Post • 11h ago
+The LDS Church makes changes to its guidelines for local lay leaders, including a new section on the proper use of artificial intelligence.
 
----
-
-**[IBM, AWS veteran says 90% of your employees are stuck in AI's first gear](https://fortune.com/2025/12/16/ibm-aws-veteran-open-machine-ai-expert-allie-k-miller/)**
-
-Using AI as a “teammate” unlocks the true potential of AI productivity, according to Open Machine CEO Allie K. Miller.
-
-Fortune • 8h ago
-
----
-
-**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
-
-The New York Times • 1d ago
-
----
-
-**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
-
-Four ways to think about this year's reckoning
-
-MIT Technology Review • 1d ago
+The Salt Lake Tribune • 5h ago
 
 ---
 
@@ -207,13 +207,13 @@ MIT Technology Review • 1d ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 580 • 💬 970 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 580 • 💬 971 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 434 • 💬 214 • 8h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 462 • 💬 223 • 8h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -227,7 +227,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 370 • 💬 307 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 370 • 💬 308 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -251,7 +251,7 @@ Some (well-known) consequences of AI automating work
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 186 • 💬 113 • 7h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 205 • 💬 119 • 7h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -267,7 +267,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 138 • 💬 50 • 19h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 139 • 💬 50 • 20h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -395,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 898 • 4d ago
+⬇️ 158,614 • ❤️ 899 • 4d ago
 
 ---
 
@@ -431,7 +431,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 266 • 1d ago
+⬇️ 10,487 • ❤️ 269 • 1d ago
 
 ---
 
@@ -467,7 +467,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 219 • 5d ago
+⬇️ 0 • ❤️ 219 • 9m ago
 
 ---
 
@@ -489,7 +489,7 @@ VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware spee
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 192 • 23h ago
+⬇️ 0 • ❤️ 192 • 1d ago
 
 ---
 
@@ -576,20 +576,6 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 199 • 💬 4 • ⭐ 7,127 • 19d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -614,6 +600,20 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 25 • 💬 1 • ⭐ 65,560 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 199 • 💬 4 • ⭐ 7,160 • 19d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.0k • 🔱 429 • 15h ago
+⭐ 4.0k • 🔱 431 • 15h ago
 
 ---
 
@@ -680,7 +680,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 7h ago
+⭐ 1.1k • 🔱 138 • 8h ago
 
 ---
 
@@ -710,17 +710,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 872 • 🔱 50 • 1d ago
-
----
-
-**[firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)**
-
-  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. 
-
-`TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
-
-⭐ 763 • 🔱 111 • 2d ago
+⭐ 873 • 🔱 50 • 1d ago
 
 ---
 
@@ -730,7 +720,17 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 763 • 🔱 119 • 23h ago
+⭐ 768 • 🔱 120 • 1d ago
+
+---
+
+**[firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)**
+
+  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. 
+
+`TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
+
+⭐ 764 • 🔱 112 • 2d ago
 
 ---
 
