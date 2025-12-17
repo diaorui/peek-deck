@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T07:46:31.672262+00:00'
+updated: '2025-12-17T07:57:39.834564+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 07:46 UTC  
+**Last Updated:** December 17, 2025 at 07:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 17h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 18h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The cryptocurrency industry is undergoing a fundamental structural shift, moving away from fragmented protocols toward a unified "Aggregatio...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 35m ago
+🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 46m ago
 
 ---
 
@@ -118,13 +118,13 @@ When a Cypherpunk Says 'Permissioned' This is an EVMavericks production. All lin
 
 So this is awkward. Paid someone for some freelance work in USD⁤C and they apparently looked up my address and now they're asking questions about my wallet balance. Didn't even think about it until now but yeah anyone you pay can see literally everything. Is there actually any way to send stablecoins without exposing your entire transaction history? I looked into Tornado Cash but that whole situation is a mess now. Don't really want to use some random privacy chain nobody's heard of. I did find this thing called Anoma⁤Pay that's launching soon. They claim you can send private payments and it wor⁤ks across different chains - like you send USD⁤C on one chain and the person receives it on another or in a different token. Haven't tested it since it's not out yet but sounds pretty useful if it actually wor⁤ks. Says it uses your regular wallet so you don't need to set up anything new. This probably sounds paranoid but it's genuinely weird that paying someone $500 for work means they can see I'm holding $50k or whatever. That's not information I want to share with random contractors. How do businesses even handle this? Do they just not care or is there actually a solution I'm missing?
 
-7h ago
+8h ago
 
 ---
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -228,7 +228,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 2K • 💬 53 • ⏱️ 7:49 • 19h ago
+👁️ 18K • 👍 2K • 💬 53 • ⏱️ 7:49 • 20h ago
 
 ---
 
@@ -318,7 +318,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Solotudonna For Professional Nails (Solotudonna)
 
-👁️ 3K • 👍 2K • 7h ago
+👁️ 3K • 👍 2K • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T07:46:31.666904+00:00'
+updated: '2025-12-17T07:57:39.828520+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 07:46 UTC  
+**Last Updated:** December 17, 2025 at 07:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -5.9%  
+**24h:** +0.8%  
+**7d:** -6.0%  
 **30d:** -6.3%  
 **90d:** -24.7%  
 **1y:** -13.4%  
@@ -119,7 +119,7 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-14h ago
+15h ago
 
 ---
 
@@ -133,13 +133,13 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 1h ago
 
 The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -357,7 +357,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 2K • 💬 53 • ⏱️ 7:49 • 19h ago
+👁️ 18K • 👍 2K • 💬 53 • ⏱️ 7:49 • 20h ago
 
 ---
 
@@ -377,7 +377,7 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 9K • 👍 461 • 💬 55 • ⏱️ 57:23 • 16h ago
+👁️ 9K • 👍 461 • 💬 55 • ⏱️ 57:23 • 17h ago
 
 ---
 

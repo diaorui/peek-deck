@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T07:46:31.659194+00:00'
+updated: '2025-12-17T07:57:39.820128+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 07:46 UTC  
+**Last Updated:** December 17, 2025 at 07:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -111,7 +111,7 @@ Anthony Enzor-DeMeo is taking charge of one of the internet’s most important �
 
 We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
-16h ago
+17h ago
 
 ---
 
@@ -145,7 +145,7 @@ Barron's • 1h ago
 
 Some say the machines help people mourn; others are skeptical
 
-The Week • 46m ago
+The Week • 57m ago
 
 ---
 
@@ -263,7 +263,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 141 • 💬 50 • 21h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 141 • 💬 50 • 22h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -353,7 +353,7 @@ The fellas at Red Letter Media like to talk about not just movies, but current t
 
 📺 RedLetterMedia
 
-👁️ 420K • 👍 28K • 💬 5K • ⏱️ 59:17 • 15h ago
+👁️ 420K • 👍 28K • 💬 5K • ⏱️ 59:17 • 16h ago
 
 ---
 
@@ -439,7 +439,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 385 • 7h ago
+⬇️ 28,106 • ❤️ 385 • 8h ago
 
 ---
 
@@ -646,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.0k • 🔱 434 • 17h ago
+⭐ 4.0k • 🔱 434 • 18h ago
 
 ---
 
@@ -676,7 +676,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 9h ago
+⭐ 1.1k • 🔱 138 • 10h ago
 
 ---
 
