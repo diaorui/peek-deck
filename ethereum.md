@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T10:48:30.616725+00:00'
+updated: '2025-12-17T10:59:52.755123+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 10:48 UTC  
+**Last Updated:** December 17, 2025 at 10:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -1.3%  
-**7d:** -9.7%  
-**30d:** -6.5%  
+**7d:** -9.8%  
+**30d:** -6.6%  
 **90d:** -34.7%  
-**1y:** -19.5%  
+**1y:** -19.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.92B
+**Market Cap:** $352.39B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-41.0%
 
 **All-Time Low:** $0.43
-+674579.4%
++673674.0%
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 20h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 21h ago
 
 ---
 
@@ -148,9 +148,23 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqeHSx9xUm3KyqsItOd-w-Z5-A9YeX8viYmXdgYPx5HGv0gLxRPPARRh&gaa_ts=6942883d&gaa_sig=1j0EItylP0L3fAiJlzxbkLlVxj3UQswThmTdCvpBQIcrNdZ7GqWJkP0FhMN8hyF1c2_6VkS1-XLifrRfqn4XCw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcyfil1nTc0H-8vnTEOz7rUnF1BnJLmkv8SkT28p3mJKCpt3nC-jgsS&gaa_ts=69429092&gaa_sig=FMxMbdPiDyES7WOm7T2dviy1SOjgunMiYJHvSpEjLQzLItIuVKFazUb5x6tM20FLZiZ8UQaaweo4CS-fEZHFeQ%3D%3D)**
 
 Barron's • 13h ago
+
+---
+
+**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
+
+Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqcAqB7VRhmIODoKVorZ0kjiJsuzdWZ93oZb-Kq6RKRJE8vOQpO6_cq4&gaa_ts=69429092&gaa_sig=Et_-x7K7SosLLDdKEqVTxNQdfpNnxgvlVaSURfT6pwncJjXFAP3OmB1j3RZ7CH7evimn0WoxPR8l8ZIoxaneRg%3D%3D)**
+
+Barron's • 21m ago
 
 ---
 
@@ -204,20 +218,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
-
-TipRanks • 18h ago
-
----
-
-**[Bitcoin to Ethereum rotation narratives are lying to you unless they match this specific $480 billion signal](https://cryptoslate.com/bitcoin-to-ethereum-rotation-narratives-are-lying-to-you-unless-they-match-this-specific-480-billion-signal/)**
-
-Real moves require CEX dominance shifts, ETF divergence, and derivatives confirmation, not bridge headlines.
-
-CryptoSlate • 21h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -228,7 +228,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 2K • 💬 47 • ⏱️ 7:49 • 22h ago
+👁️ 18K • 👍 2K • 💬 47 • ⏱️ 7:49 • 23h ago
 
 ---
 
@@ -256,7 +256,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Nick Ford
 
-👁️ 195 • 👍 1 • ⏱️ 1:54 • 4h ago
+👁️ 195 • 👍 1 • ⏱️ 1:54 • 5h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN PRICE TRAP: Don't Be Fooled (WARNING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 319 • 💬 88 • ⏱️ 20:42 • 14h ago
+👁️ 6K • 👍 319 • 💬 88 • ⏱️ 20:42 • 15h ago
 
 ---
 

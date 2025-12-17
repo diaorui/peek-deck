@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T10:48:30.620077+00:00'
+updated: '2025-12-17T10:59:52.758363+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 10:48 UTC  
+**Last Updated:** December 17, 2025 at 10:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -53,14 +53,6 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
 
 2h ago
-
----
-
-**[Physical Intelligence discovered an emergent property of VLAs like π0/π0.5/π0.6: as they scale up pre-training, the model learns to align human videos and robot data](https://www.reddit.com/r/robotics/comments/1postzk/physical_intelligence_discovered_an_emergent/)**
-
-Blog post: Emergence of Human to Robot Transfer in VLAs: https://www.pi.website/research/human_to_robot Paper (pdf): https://www.pi.website/download/human_to_robot.pdf Thread on 𝕏: https://x.com/physical_int/status/2001096200456692114
-
-45m ago
 
 ---
 
@@ -105,6 +97,14 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
 1d ago
+
+---
+
+**[Should I learn to use Linux when building the SO-ARM101?](https://www.reddit.com/r/robotics/comments/1po3vt1/should_i_learn_to_use_linux_when_building_the/)**
+
+I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
+
+20h ago
 
 ---
 

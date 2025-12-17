@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T10:48:30.610688+00:00'
+updated: '2025-12-17T10:59:52.749056+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 10:48 UTC  
+**Last Updated:** December 17, 2025 at 10:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1729.30B
+**Market Cap:** $1728.10B
 Rank #1
 
 **Circulating Supply:** 19,963,212 BTC
@@ -64,7 +64,7 @@ Rank #1
 -31.3%
 
 **All-Time Low:** $67.81
-+127617.2%
++127556.7%
 
 ---
 
@@ -83,15 +83,23 @@ Rank #1
 
 ---
 
+**[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
+
+6h ago
+
+---
+
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
 21h ago
 
 ---
 
-**[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
+**[In my hometown, couple of days ago.](https://www.reddit.com/r/Bitcoin/comments/1porpmp/in_my_hometown_couple_of_days_ago/)**
 
-6h ago
+I was genuinely surprised and shocked to see this, especially since our country is low-income and very slow when it comes to new technologies. Nice to see things are moving forward. P.S. Bosnia and Herzegovina, Europe
+
+2h ago
 
 ---
 
@@ -103,15 +111,15 @@ Rank #1
 
 **[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
 
-5h ago
+6h ago
 
 ---
 
-**[In my hometown, couple of days ago.](https://www.reddit.com/r/Bitcoin/comments/1porpmp/in_my_hometown_couple_of_days_ago/)**
+**[For those who yell manipulation all the time](https://www.reddit.com/r/Bitcoin/comments/1poqqb0/for_those_who_yell_manipulation_all_the_time/)**
 
-I was genuinely surprised and shocked to see this, especially since our country is low-income and very slow when it comes to new technologies. Nice to see things are moving forward. P.S. Bosnia and Herzegovina, Europe
+You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
 
-1h ago
+3h ago
 
 ---
 
@@ -128,14 +136,6 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
 18h ago
-
----
-
-**[For those who yell manipulation all the time](https://www.reddit.com/r/Bitcoin/comments/1poqqb0/for_those_who_yell_manipulation_all_the_time/)**
-
-You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
-
-3h ago
 
 ---
 
@@ -159,28 +159,27 @@ CoinDesk • 4h ago
 
 ---
 
-**[Bhutan Pledges $1B in Bitcoin to Support Gelephu Mindfulness City Development](https://www.coindesk.com/policy/2025/12/17/bhutan-commits-up-to-10-000-bitcoin-to-back-new-mindfulness-based-economic-hub)**
-
-Bhutan has pledged up to 10,000 BTC to support the development of Gelephu Mindfulness City, deepening the country’s long-term digital asset strategy.
-
-CoinDesk • 31m ago
-
----
-
-**[Bitcoin Falls as U.S. Jobs Data Fail to Materially Alter Rate Cut Bets](https://www.barrons.com/livecoverage/stock-market-news-today-121725/card/bitcoin-falls-as-u-s-jobs-data-fail-to-materially-alter-rate-cut-bets-wA00cE69skPmn47i4Mjt?gaa_at=eafs&gaa_n=AWEtsqdC__pP4PgEzGIQ2krZ2sXRm3-pY6gRqEpxkhdYYraS7CoN6s--_tng&gaa_ts=6942883b&gaa_sig=5b60cG8qqJ9whnIbCWPS3J4qecil5bU7R-4VaEy_fXeuYalqTscwuYGF24bs48ac3yybH4PY075F7-VvxSCgmg%3D%3D)**
-
-Bitcoin fell as the latest U.S. jobs data weren't soft enough to materially alter interest-rate cut expectations for the Federal Reserve.
-The data Tuesday showed the unemployment rate rose to 4.6% in November, above expectations and the highest level in more than four years. However, nonfarm payrol
-
-Barron's • 1h ago
-
----
-
 **[Bhutan Pledges $1 Billion in Bitcoin to Build ‘Mindfulness City’ Without Selling Reserves](https://finance.yahoo.com/news/bhutan-pledges-1-billion-bitcoin-094159201.html)**
 
 Bhutan unveiled a national Bitcoin Development Pledge on Tuesday, committing up to 10,000 BTC, worth approximately $1 billion, to fund construction of Gelephu Mindfulness City without liquidating its sovereign digital asset reserves.King Jigme Khesar Namgyel Wangchuck announced the allocation during his National Day Address, framing the commitment as a generational ...
 
 Yahoo Finance • 1h ago
+
+---
+
+**[Bhutan Pledges $1B in Bitcoin to Support Gelephu Mindfulness City Development](https://www.coindesk.com/policy/2025/12/17/bhutan-commits-up-to-10-000-bitcoin-to-back-new-mindfulness-based-economic-hub)**
+
+Bhutan has pledged up to 10,000 BTC to support the development of Gelephu Mindfulness City, deepening the country’s long-term digital asset strategy.
+
+CoinDesk • 42m ago
+
+---
+
+**[Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City](https://decrypt.co/352685/bhutan-pledges-10000-bitcoin-worth-1b-fund-mindfulness-city)**
+
+The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
+
+Decrypt • 4h ago
 
 ---
 
@@ -354,7 +353,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 2K • 💬 47 • ⏱️ 7:49 • 22h ago
+👁️ 18K • 👍 2K • 💬 47 • ⏱️ 7:49 • 23h ago
 
 ---
 
@@ -394,7 +393,7 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 10K • 👍 475 • 💬 55 • ⏱️ 57:23 • 19h ago
+👁️ 10K • 👍 475 • 💬 55 • ⏱️ 57:23 • 20h ago
 
 ---
 

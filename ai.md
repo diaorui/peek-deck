@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T10:48:30.602206+00:00'
+updated: '2025-12-17T10:59:52.740674+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 10:48 UTC  
+**Last Updated:** December 17, 2025 at 10:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 17h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 18h ago
 
 ---
 
@@ -107,11 +107,11 @@ Anthony Enzor-DeMeo is taking charge of one of the internet’s most important �
 
 ---
 
-**[Linus Torvalds is 'a huge believer' in using AI to maintain code - just don't call it a revolution](https://www.reddit.com/r/artificial/comments/1pntfs5/linus_torvalds_is_a_huge_believer_in_using_ai_to/)**
+**[DeepMind: Demis Hassabis On 'The Future Of Intelligence' | Google DeepMind Podcast](https://www.reddit.com/r/artificial/comments/1poc856/deepmind_demis_hassabis_on_the_future_of/)**
 
-Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
+Synopsis: In our final episode of the season, Professor Hannah Fry sits down with Google DeepMind Co-founder and CEO Demis Hassabis for their annual check-in. Together, they look beyond the product launches to the scientific and technological questions that will define the next decade. Demis shares his vision for the path to AGI - from solving "root node" problems in fusion energy and material science to the rise of world models and simulations. They also explore what's beyond the frontier and the importance of balancing scientific rigor amid the competitive dynamics of AI advancement. Timestamps: 1 minute, 42 seconds: 2025 progress 5 minutes, 14 seconds: Jagged intelligence 7 minutes, 32 seconds: Mathematical version of AlphaGo? 9 minutes, 30 seconds: Transformative Science vs Prosiac Commercialization 12 minutes, 42 seconds: The Empirical Scaling Laws 17 minutes, 43 seconds: Genie and simulation 25 minutes, 47 seconds: Sparks of recursive self improvement witnessed via evolution in simulation 28 minutes, 26 seconds: The AI "bubble" 31 minutes, 56 seconds: Building ethical AI 34 minutes, 31 seconds: The advent of AGI 44 minutes, 44 seconds: Turing machines 49 minutes, 6 seconds: How it feels to lead the AI race Link to the Full Interview: https://www.youtube.com/watch?v=PqVbypvxDto
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 1d ago
+14h ago
 
 ---
 
@@ -133,19 +133,17 @@ Reuters • 13h ago
 
 ---
 
+**[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
+
+Axios • 29m ago
+
+---
+
 **[Inside Microsoft CEO Satya Nadella's AI Revolution](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12)**
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-Business Insider • 48m ago
-
----
-
-**[Inside OpenAI’s fragile lead in the AI race, and the 8-week ‘code red’ to fend off a resurgent Google](https://fortune.com/2025/12/17/sam-altman-chatgpt-openai-versus-google-gemini-code-red-strategy/)**
-
-Silicon Valley history is littered with innovative "first movers" snuffed out by incumbent tech giants. OpenAI CEO Sam Altman is sounding the alarm to ensure a different fate for the ChatGPT maker.
-
-Fortune • 1h ago
+Business Insider • 59m ago
 
 ---
 
@@ -153,7 +151,7 @@ Fortune • 1h ago
 
 The President is allegedly leveraging the pause to push for looser food and online safety regulations in the UK
 
-Gizmodo • 48m ago
+Gizmodo • 59m ago
 
 ---
 
@@ -187,11 +185,9 @@ Financial Times • 5h ago
 
 ---
 
-**[MetaX shares rocket 700% in debut as China AI chips push gathers speed](https://finance.yahoo.com/news/chinese-ai-chipmaker-metax-shares-021911316.html)**
+**[Evaluating AI’s ability to perform scientific research tasks](https://openai.com/index/frontierscience/)**
 
-MetaX Integrated Circuits shares jumped nearly 600% in their Shanghai ​debut on Wednesday, as China speeds up ‌flotation by homegrown AI chipmakers to reduce reliance on U.S. ‌majors Nvidia and Advanced Micro Devices. MetaX, founded by former AMD executive Chen Weiliang, raised roughly $600 million in an IPO last week. Its listing comes ⁠on the heels ‌of a stellar debut by bigger rival Moore Threads earlier this month.
-
-Yahoo Finance • 8h ago
+OpenAI • 17h ago
 
 ---
 
@@ -201,13 +197,13 @@ Yahoo Finance • 8h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 801 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 802 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 629 • 💬 325 • 13h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 642 • 💬 332 • 13h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -229,7 +225,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 371 • 💬 311 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 371 • 💬 312 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -237,7 +233,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 333 • 💬 193 • 12h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 349 • 💬 204 • 12h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -385,7 +381,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,833 • 8d ago
+⬇️ 296,552 • ❤️ 2,834 • 8d ago
 
 ---
 
@@ -397,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 906 • 4d ago
+⬇️ 158,614 • ❤️ 907 • 4d ago
 
 ---
 
@@ -409,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 274 • 1d ago
+⬇️ 10,487 • ❤️ 279 • 1d ago
 
 ---
 
@@ -445,7 +441,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 386 • 10h ago
+⬇️ 28,106 • ❤️ 387 • 11h ago
 
 ---
 
@@ -461,16 +457,6 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 ---
 
-**[Qwen-Image-i2L](https://huggingface.co/DiffSynth-Studio/Qwen-Image-i2L)**
-
-*DiffSynth-Studio*
-
-Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
-
-⬇️ 0 • ❤️ 197 • 1d ago
-
----
-
 **[chatterbox-turbo](https://huggingface.co/ResembleAI/chatterbox-turbo)**
 
 *Resemble AI*
@@ -479,7 +465,17 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 189 • 1d ago
+⬇️ 0 • ❤️ 192 • 1d ago
+
+---
+
+**[Qwen-Image-i2L](https://huggingface.co/DiffSynth-Studio/Qwen-Image-i2L)**
+
+*DiffSynth-Studio*
+
+Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
+
+⬇️ 0 • ❤️ 197 • 1d ago
 
 ---
 
@@ -491,13 +487,27 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 179 • 2h ago
+⬇️ 0 • ❤️ 184 • 2h ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
+
+*Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
+
+🏢 Apple
+
+SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
+
+▲ 5 • 💬 2 • ⭐ 1,111 • 6d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
+
+---
 
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
@@ -508,20 +518,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 ▲ 7 • 💬 2 • ⭐ 12,166 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
-**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
-
-*Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
-
-🏢 Apple
-
-SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
-
-▲ 5 • 💬 2 • ⭐ 782 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
 ---
 
@@ -547,7 +543,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 24 • 💬 2 • ⭐ 451 • 5d ago
+▲ 24 • 💬 2 • ⭐ 497 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -625,7 +621,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 This survey provides an updated overview of agent memory research, distinguishing its forms, functions, and dynamics, and highlights emerging research directions.
 
-▲ 78 • 💬 2 • ⭐ 178 • 1d ago
+▲ 78 • 💬 3 • ⭐ 178 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.13564) • [💻 code](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
 
@@ -641,7 +637,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.9k • 🔱 2.6k • 1h ago
+⭐ 17.0k • 🔱 2.6k • 1h ago
 
 ---
 
@@ -651,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.1k • 🔱 438 • 20h ago
+⭐ 4.1k • 🔱 440 • 21h ago
 
 ---
 
@@ -671,7 +667,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 316 • 11d ago
+⭐ 1.3k • 🔱 317 • 11d ago
 
 ---
 
@@ -681,7 +677,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 12h ago
+⭐ 1.1k • 🔱 138 • 13h ago
 
 ---
 
@@ -701,7 +697,7 @@ ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · C
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 910 • 🔱 79 • 5h ago
+⭐ 931 • 🔱 80 • 33m ago
 
 ---
 
@@ -731,7 +727,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 777 • 🔱 122 • 1d ago
+⭐ 779 • 🔱 123 • 1d ago
 
 ---
 
