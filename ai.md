@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T05:54:51.417771+00:00'
+updated: '2025-12-17T06:32:42.003783+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 05:54 UTC  
+**Last Updated:** December 17, 2025 at 06:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 9h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 12h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 14h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 15h ago
 
 ---
 
@@ -81,7 +81,13 @@ OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new fl
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 14h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 15h ago
+
+---
+
+**[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 12h ago
 
 ---
 
@@ -93,17 +99,11 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 ---
 
-**[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 12h ago
-
----
-
 **[Mozilla’s new CEO is doubling down on an AI future for Firefox | Anthony Enzor-DeMeo says he thinks there’s room for another browser, even an AI browser — as long as you can trust it.](https://www.reddit.com/r/artificial/comments/1pofqfd/mozillas_new_ceo_is_doubling_down_on_an_ai_future/)**
 
 Anthony Enzor-DeMeo is taking charge of one of the internet’s most important — and most complicated — companies.
 
-🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 7h ago
+🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 8h ago
 
 ---
 
@@ -111,7 +111,7 @@ Anthony Enzor-DeMeo is taking charge of one of the internet’s most important �
 
 We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
-14h ago
+15h ago
 
 ---
 
@@ -123,49 +123,7 @@ We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built f
 
 A survey finds that 56% of psychologists are trying out artificial intelligence tools at work, mainly for administrative tasks. A majority also are concerned about harms of AI on patients and society.
 
-NPR • 10h ago
-
----
-
-**[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
-
-Reuters • 8h ago
-
----
-
-**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
-
-Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
-
-The Guardian • 54m ago
-
----
-
-**[Publishers’ scorecard for Big Tech’s AI licensing deals](https://digiday.com/media/publishers-scorecard-for-big-techs-ai-licensing-deals/)**
-
-Digiday has compiled a scorecard grading AI platforms to make sense of the growing number of players in the AI content licensing market.
-
-Digiday • 52m ago
-
----
-
-**[OpenAI May Raise $10 Billion From Amazon, The Information Says](https://www.bloomberg.com/news/articles/2025-12-17/openai-in-talks-to-raise-10-billion-from-amazon-information)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[OpenAI in talks with Amazon about investment that could exceed $10 billion](https://www.cnbc.com/2025/12/16/openai-in-talks-with-amazon-about-investment-could-top-10-billion.html)**
-
-OpenAI is in discussions with Amazon about a potential investment and an agreement to use its artificial intelligence chips, CNBC confirmed.
-
-CNBC • 1h ago
-
----
-
-**[OpenAI in Talks to Raise At Least $10 Billion From Amazon and Use Its AI Chips](https://www.theinformation.com/articles/openai-talks-raise-least-10-billion-amazon-use-ai-chips)**
-
-The Information • 3h ago
+NPR • 11h ago
 
 ---
 
@@ -173,23 +131,65 @@ The Information • 3h ago
 
 The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
 
-newsroom.churchofjesuschrist.org • 13h ago
+newsroom.churchofjesuschrist.org • 14h ago
 
 ---
 
-**[AI and other General Handbook updates](https://www.thechurchnews.com/members/2025/12/16/general-handbook-update-artificial-intelligence-guidelines/)**
+**[Trump pulled UK trade deal over AI clash](https://www.telegraph.co.uk/us/politics/2025/12/16/trump-pulled-uk-trade-deal-ai-starmer/)**
 
-See a new section in the General Handbook about the use of artificial intelligence in Church responsibilities. Other handbook updates were also made.
+White House paused tech prosperity deal over fears Online Safety Act would stifle US growth
 
-Church News • 13h ago
+The Telegraph • 11h ago
 
 ---
 
-**[In new handbook updates, LDS Church spells out how members can use — and not abuse — A.I.](https://www.sltrib.com/religion/2025/12/16/lds-church-updates-handbook-with/)**
+**[Cracks in Trump’s GOP widen over Reiner comments, AI](https://thehill.com/newsletters/morning-report/5650663-trump-gop-backlash-reiner-ai/)**
 
-The LDS Church makes changes to its guidelines for local lay leaders, including a new section on the proper use of artificial intelligence.
+thehill.com • 19h ago
 
-The Salt Lake Tribune • 5h ago
+---
+
+**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
+
+Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
+
+The Guardian • 1h ago
+
+---
+
+**[Publishers’ scorecard for Big Tech’s AI licensing deals](https://digiday.com/media/publishers-scorecard-for-big-techs-ai-licensing-deals/)**
+
+Digiday has compiled a scorecard grading AI platforms to make sense of the growing number of players in the AI content licensing market.
+
+Digiday • 1h ago
+
+---
+
+**[How Companies Are Using AI to Squeeze More From Your Wallet](https://www.barrons.com/articles/retailers-test-ai-for-variable-pricing-consumer-targeting-9390f661?gaa_at=eafs&gaa_n=AWEtsqfsNI5I1GalRYeQ1ZwxhBVOQwavBJIvjQSJHIdeoDLP-VHamoTBjq90&gaa_ts=694251ec&gaa_sig=TzXUNvr6UdeXhv9SdMWmJCmc3j0gAgG_9wjNEmYAIWS-PU7seKfKrBcIRNAGYP6mgdVZqAW39HSD_IgTqz5IBw%3D%3D)**
+
+Barron's • 32m ago
+
+---
+
+**[OpenAI’s new flagship image generator AI is here](https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5)**
+
+The company is positioning it as especially good for enterprise use.
+
+The Verge • 12h ago
+
+---
+
+**[OpenAI continues on its ‘code red’ warpath with new image generation model](https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model/)**
+
+OpenAI rolls out GPT Image 1.5 for ChatGPT, promising 4x faster generation, better instruction-following, and precise edits. The launch escalates its rivalry with Google Gemini.
+
+TechCrunch • 12h ago
+
+---
+
+**[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
+
+The Washington Post • 12h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Salt Lake Tribune • 5h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 786 • 💬 240 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 786 • 💬 241 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -213,7 +213,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 462 • 💬 223 • 8h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 483 • 💬 236 • 9h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -251,7 +251,7 @@ Some (well-known) consequences of AI automating work
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 205 • 💬 119 • 7h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 225 • 💬 128 • 8h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -289,7 +289,7 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 132K • 👍 3K • 💬 691 • ⏱️ 14:37 • 14h ago
+👁️ 132K • 👍 3K • 💬 691 • ⏱️ 14:37 • 15h ago
 
 ---
 
@@ -299,7 +299,7 @@ Manus released version 1.6 with its most powerful agent yet, pushing tasks to fi
 
 📺 AI Revolution
 
-👁️ 7K • 👍 313 • 💬 27 • ⏱️ 9:33 • 6h ago
+👁️ 7K • 👍 313 • 💬 27 • ⏱️ 9:33 • 7h ago
 
 ---
 
@@ -319,7 +319,7 @@ Notebooklm has a new update! ➡️ Digital Product Plan Builder: https://bit.ly
 
 📺 Success With Sam
 
-👁️ 2K • 👍 161 • 💬 12 • ⏱️ 17:32 • 13h ago
+👁️ 2K • 👍 161 • 💬 12 • ⏱️ 17:32 • 14h ago
 
 ---
 
@@ -357,7 +357,7 @@ Original: https://www.youtube.com/watch?v=mfv0V1SxbNA https://twitch.tv/ThePrime
 
 📺 ThePrimeTime
 
-👁️ 79K • 👍 4K • 💬 686 • ⏱️ 12:06 • 11h ago
+👁️ 79K • 👍 4K • 💬 686 • ⏱️ 12:06 • 12h ago
 
 ---
 
@@ -383,7 +383,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,817 • 8d ago
+⬇️ 296,552 • ❤️ 2,819 • 8d ago
 
 ---
 
@@ -395,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 899 • 4d ago
+⬇️ 158,614 • ❤️ 902 • 4d ago
 
 ---
 
@@ -407,7 +407,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 51,591 • ❤️ 330 • 7d ago
+⬇️ 51,591 • ❤️ 332 • 7d ago
 
 ---
 
@@ -419,7 +419,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 102,395 • ❤️ 462 • 7d ago
+⬇️ 102,395 • ❤️ 463 • 7d ago
 
 ---
 
@@ -443,7 +443,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 385 • 5h ago
+⬇️ 28,106 • ❤️ 385 • 6h ago
 
 ---
 
@@ -455,7 +455,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 74,813 • ❤️ 240 • 5d ago
+⬇️ 74,813 • ❤️ 241 • 5d ago
 
 ---
 
@@ -467,7 +467,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 219 • 9m ago
+⬇️ 0 • ❤️ 220 • 47m ago
 
 ---
 
@@ -479,7 +479,7 @@ VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware spee
 
 `text-to-speech`
 
-⬇️ 2,401 • ❤️ 240 • 4d ago
+⬇️ 2,401 • ❤️ 242 • 4d ago
 
 ---
 
@@ -489,7 +489,7 @@ VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware spee
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 192 • 1d ago
+⬇️ 0 • ❤️ 193 • 1d ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.0k • 🔱 431 • 15h ago
+⭐ 4.0k • 🔱 431 • 16h ago
 
 ---
 

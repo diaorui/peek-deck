@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T05:54:51.426354+00:00'
+updated: '2025-12-17T06:32:42.012111+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 05:54 UTC  
+**Last Updated:** December 17, 2025 at 06:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,625.74
+### $86,846.01
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -6.5%  
-**30d:** -6.8%  
-**90d:** -25.1%  
-**1y:** -13.9%  
+**24h:** +0.8%  
+**7d:** -6.3%  
+**30d:** -6.7%  
+**90d:** -25.0%  
+**1y:** -13.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1729.69B
+**Market Cap:** $1734.21B
 Rank #1
 
 **Circulating Supply:** 19,963,162 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.3%
+-31.1%
 
 **All-Time Low:** $67.81
-+127568.5%
++127994.7%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -95,17 +95,17 @@ Rank #1
 
 ---
 
+**[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
+
+2h ago
+
+---
+
 **[BTC will break $150K soon, I believe!!!!](https://www.reddit.com/r/Bitcoin/comments/1po7ya6/btc_will_break_150k_soon_i_believe/)**
 
 There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
-12h ago
-
----
-
-**[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
-
-1h ago
+13h ago
 
 ---
 
@@ -114,6 +114,12 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
 13h ago
+
+---
+
+**[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
+
+1h ago
 
 ---
 
@@ -131,12 +137,6 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 ---
 
-**[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
-
-56m ago
-
----
-
 **[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
 
 13h ago
@@ -147,9 +147,31 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqeW_Ix4JKm3zxRt_TDTzC6KTV1fY9FvE0x5-5OCAZnwM23zU8C_jFyn&gaa_ts=69424912&gaa_sig=2w5Qq44PZLDPasj4gjFtOHSPWkGU6adzM3PhIfKgmI96zPEhq-weGdupJYPpNihflM1P_3_KLZEQjp5dlxDGkg%3D%3D)**
+**[Bitcoin Price Falls To $87,000, Market Sits In Extreme Fear](https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-87000)**
+
+The Bitcoin price hovered above $87,000 as prices stabilized, even as investor sentiment plunged into extreme fear.
+
+Bitcoin Magazine • 9h ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdaRbEWJ-uLOqdLj9imEDRLGaZGF_sHZdXNBfbLfKSecsXaO54iuPnV&gaa_ts=694251ed&gaa_sig=A-peYpBOpLnswCrA_GR2CgqPNJOojQwgRp7GyRhIP2ZhplpY4LTG9IIMjWgNlsdKC99weN4Lh6nEBbNpYxqflw%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[Billionaire Michael Saylor Announces New $1 Billion Bitcoin Purchase – Does He Know Something is Coming?](https://finance.yahoo.com/news/billionaire-michael-saylor-announces-1-133134376.html)**
+
+Bitcoin bull Michael Saylor’s Strategy has doubled down on its long-standing conviction, announcing another massive Bitcoin buy worth nearly $1 billion. Key Takeaways: Strategy bought $980 million in Bitcoin, increasing its holdings to 671,268 BTC. The purchase was funded through stock sales The purchase comes after Strategy created a $1.44 ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Michael Saylor's Strategy acquires 10,645 bitcoin for $980 million, bringing total treasury holdings to 671,268 BTC](https://www.theblock.co/post/382490/michael-saylor-strategy-buys-bitcoin-nasdaq-100)**
+
+The Block • 1d ago
 
 ---
 
@@ -161,39 +183,17 @@ Financial Times • 2d ago
 
 ---
 
-**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
-
-Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfumdeZ2Cr1oBrB6CBO46_g4nf8sscJAvU9Ta_5zpY6oDCeuSbpSWPl&gaa_ts=69424912&gaa_sig=AD0I0I_tGi7BKFybx8TzS-KRSNl__OuaDj6ln9IANeM-dqlcIAsYEKCFvpvO8iEivcMABN8hOmZBjzPXwsILuQ%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Strategy Buys Almost $1 Billion in Bitcoin Again in Past Week](https://www.bloomberg.com/news/articles/2025-12-15/strategy-buys-almost-1-billion-in-bitcoin-again-in-past-week)**
-
-Michael Saylor’s Strategy Inc. acquired almost $1 billion in Bitcoin for a second consecutive week, as the original digital asset treasury company continues to ramp up purchases following the recent pullback in the price of the largest cryptocurrency.
-
-Bloomberg.com • 1d ago
-
----
-
-**[Look Out Below: Another 3% Drop In Bitcoin Brings This Token Toward a Key Level](https://www.fool.com/investing/2025/12/15/look-out-below-another-3-drop-in-bitcoin-brings-th/)**
-
-Bitcoin's recent price decline has picked up steam in recent weeks.
-
-The Motley Fool • 1d ago
-
----
-
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
 thestreet.com • 8h ago
+
+---
+
+**[Bitcoin Treasury KindlyMD Faces Nasdaq Delisting With Stock Down 99%](https://finance.yahoo.com/news/bitcoin-treasury-kindlymd-faces-nasdaq-222119629.html)**
+
+KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
+
+Yahoo Finance • 8h ago
 
 ---
 
@@ -201,23 +201,23 @@ thestreet.com • 8h ago
 
 Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
-**[Bitcoin Treasury KindlyMD Faces Nasdaq Delisting With Stock Down 99%](https://decrypt.co/352614/bitcoin-treasury-kindlymd-faces-nasdaq-delisting-stock-down-99-percent)**
+**[Bitcoin Bleeding Continues As Cryptocurrency Nears $85,000](https://www.forbes.com/sites/digital-assets/2025/12/15/bitcoin-bleeding-continues-as-cryptocurrency-nears-85000/)**
 
-KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
+Bitcoin prices extended their recent losses Monday, December 15, approaching $85,000 as the world’s most prominent digital currency struggled with notable headwinds.
 
-Decrypt • 7h ago
+Forbes • 1d ago
 
 ---
 
-**[U.S. Spot Bitcoin ETFs See Biggest Outflows Since Nov. 20](https://bitbo.io/news/bitcoin-etf-outflows-monday/)**
+**[Bitcoin May Be Repeating 1929 Great Depression, Top Bloomberg Strategist Warns](https://www.tradingview.com/news/u_today:4cd76d412094b:0-bitcoin-may-be-repeating-1929-great-depression-top-bloomberg-strategist-warns/)**
 
-U.S. spot bitcoin ETFs saw $357.6 million of net outflows on Monday, part of a $582 million combined ETF withdrawal, as bitcoin fell to as low as $85,100 and traders watched the $83,000 ETF cost-basis level for support.
+In a recent post, Bloomberg Intelligence’s senior macro strategist Mike McGlone drew a direct parallel between the Bloomberg Galaxy Crypto Index in 2025 and the Dow in 1929, calling the setup "Peak Bitcoin?" and framing the current phase as the early stage of a purge, not a pause — a purge similar…
 
-Bitbo • 14h ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -281,7 +281,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 14h ago
+⬆️ 11 • 💬 3 • 15h ago
 
 ---
 
@@ -295,7 +295,7 @@ Anthony and John Pompliano break down what's really happening in the bitcoin mar
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 553 • 💬 4 • ⏱️ 41:39 • 7h ago
+👁️ 10K • 👍 553 • 💬 4 • ⏱️ 41:39 • 8h ago
 
 ---
 
@@ -305,7 +305,7 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 44K • 👍 697 • 💬 460 • ⏱️ 10:03 • 23h ago
+👁️ 44K • 👍 697 • 💬 460 • ⏱️ 10:03 • 1d ago
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 347 • ⏱️ 46:12 • 14h ago
+👁️ 34K • 👍 2K • 💬 347 • ⏱️ 46:12 • 15h ago
 
 ---
 
@@ -325,7 +325,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 122 • ⏱️ 13:25 • 6h ago
+👁️ 16K • 👍 1K • 💬 122 • ⏱️ 13:25 • 7h ago
 
 ---
 
@@ -345,7 +345,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 234 • 💬 170 • ⏱️ 10:50 • 5h ago
+👁️ 3K • 👍 234 • 💬 170 • ⏱️ 10:50 • 6h ago
 
 ---
 
@@ -385,7 +385,7 @@ INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://c
 
 📺 Crypto Crew University
 
-👁️ 33K • 👍 2K • 💬 155 • ⏱️ 8:22 • 15h ago
+👁️ 33K • 👍 2K • 💬 155 • ⏱️ 8:22 • 16h ago
 
 ---
 

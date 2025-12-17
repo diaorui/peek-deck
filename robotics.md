@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T05:54:51.435998+00:00'
+updated: '2025-12-17T06:32:42.021487+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 05:54 UTC  
+**Last Updated:** December 17, 2025 at 06:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-19h ago
+20h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ I just ordered all of the parts and finished 3D printing all of the components. 
 
 Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
 
-12h ago
+13h ago
 
 ---
 
@@ -118,33 +118,41 @@ The New York Times • 2d ago
 
 ---
 
-**[These Robots Are the Size of Single Cells and Cost Just a Penny Apiece](https://singularityhub.com/2025/12/16/these-robots-the-size-of-single-cells-cost-just-a-penny-apiece/)**
-
-The microbots have tiny computers, sensors, and actuators. They can sense temperature and swim autonomously.
-
-SingularityHub • 14h ago
-
----
-
-**[Penn and UMich create world’s smallest programmable, autonomous robots](https://www.eurekalert.org/news-releases/1109727)**
-
-Researchers at the University of Pennsylvania and University of Michigan have created the world&rsquo;s smallest fully programmable, autonomous robots: microscopic swimming machines that can independently sense and respond to their surroundings, operate for months and cost just a penny each. Barely visible to the naked eye, the robots are smaller than grains of salt and could advance medicine, manufacturing and more.
-
-EurekAlert! • 1d ago
-
----
-
-**[Sub-millimeter-sized robots can sense, 'think' and act on their own](https://techxplore.com/news/2025-12-millimeter-sized-robots.html)**
-
-Tech Xplore • 1d ago
-
----
-
 **[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
-South China Morning Post • 2d ago
+South China Morning Post • 3d ago
+
+---
+
+**[2026 and the Rise of Humanoid Robots: Looking at Trust, Privacy and the Future of Work](https://www.cnet.com/tech/computing/2026-and-the-rise-of-humanoid-robots-looking-at-trust-privacy-and-the-future-of-work/)**
+
+Robot companies are racing toward a breakout year, but they'll have to confront some fundamental problems before making bigger promises.
+
+CNET • 2d ago
+
+---
+
+**[An MIT roboticist who cofounded bankrupt Roomba maker iRobot says Elon Musk's vision of humanoid robot assistants is 'pure fantasy thinking'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
+
+Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+
+Fortune • 16h ago
+
+---
+
+**[Watch iRobot Co-Founder Greiner on The Future of Robotics](https://www.bloomberg.com/news/videos/2025-12-17/irobot-co-founder-greiner-on-the-future-of-robotics-video)**
+
+Bloomberg.com • 29m ago
+
+---
+
+**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
+
+They make robot vacuums, lots of them
+
+The Verge • 1d ago
 
 ---
 
@@ -162,14 +170,6 @@ The Republic News • 1d ago
 
 ---
 
-**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
-
-They make robot vacuums, lots of them
-
-The Verge • 1d ago
-
----
-
 **[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
@@ -178,11 +178,11 @@ InvestorPlace • 2d ago
 
 ---
 
-**[Cofounder of bankrupt Roomba maker iRobot says Elon Musk's vision of robots is 'pure fantasy'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
+**[Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology (AMCI:NASDAQ)](https://seekingalpha.com/news/4531631-meet-amc-robotics-the-spac-name-looking-for-a-breakthrough-in-ai-powered-robotic-technology)**
 
-Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Fortune • 15h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -226,7 +226,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 12K • 👍 2K • 💬 42 • ⏱️ 1:38 • 13h ago
+👁️ 12K • 👍 2K • 💬 42 • ⏱️ 1:38 • 14h ago
 
 ---
 
@@ -274,7 +274,7 @@ War Robots - New weapons Pilum and Gladius just brought Hades back! Highlight ga
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 188 • 💬 43 • ⏱️ 16:18 • 15h ago
+👁️ 3K • 👍 188 • 💬 43 • ⏱️ 16:18 • 16h ago
 
 ---
 
