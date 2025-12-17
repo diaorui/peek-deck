@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T04:50:22.853296+00:00'
+updated: '2025-12-17T05:13:46.843343+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 04:50 UTC  
+**Last Updated:** December 17, 2025 at 05:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ I just ordered all of the parts and finished 3D printing all of the components. 
 
 Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
 
-11h ago
+12h ago
 
 ---
 
@@ -100,9 +100,11 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 
 ---
 
-**[Figure 03 robot delivering Coronas to deadmau5 (source video has cuts)](https://www.reddit.com/r/robotics/comments/1polj42/figure_03_robot_delivering_coronas_to_deadmau5/)**
+**[High Torque and zero backlash cycloidal drive for diy robotic arm](https://www.reddit.com/r/robotics/comments/1pnlepi/high_torque_and_zero_backlash_cycloidal_drive_for/)**
 
-1h ago
+This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
+
+1d ago
 
 ---
 
@@ -113,6 +115,28 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 **[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
 The New York Times • 2d ago
+
+---
+
+**[These Robots Are the Size of Single Cells and Cost Just a Penny Apiece](https://singularityhub.com/2025/12/16/these-robots-the-size-of-single-cells-cost-just-a-penny-apiece/)**
+
+The microbots have tiny computers, sensors, and actuators. They can sense temperature and swim autonomously.
+
+SingularityHub • 14h ago
+
+---
+
+**[Penn and UMich create world’s smallest programmable, autonomous robots](https://www.eurekalert.org/news-releases/1109727)**
+
+Researchers at the University of Pennsylvania and University of Michigan have created the world&rsquo;s smallest fully programmable, autonomous robots: microscopic swimming machines that can independently sense and respond to their surroundings, operate for months and cost just a penny each. Barely visible to the naked eye, the robots are smaller than grains of salt and could advance medicine, manufacturing and more.
+
+EurekAlert! • 1d ago
+
+---
+
+**[Sub-millimeter-sized robots can sense, 'think' and act on their own](https://techxplore.com/news/2025-12-millimeter-sized-robots.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -134,7 +158,7 @@ Yahoo Finance • 1d ago
 
 **[Two BCSC VEX IQ robotics teams earn a spot in state championship competition](https://www.therepublic.com/2025/12/16/two-bcsc-vex-iq-robotics-teams-earn-a-spot-in-state-championship-competition/)**
 
-The Republic News • 23h ago
+The Republic News • 1d ago
 
 ---
 
@@ -146,22 +170,6 @@ The Verge • 1d ago
 
 ---
 
-**[Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology (AMCI:NASDAQ)](https://seekingalpha.com/news/4531631-meet-amc-robotics-the-spac-name-looking-for-a-breakthrough-in-ai-powered-robotic-technology)**
-
-Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
-
-Seeking Alpha • 1d ago
-
----
-
-**[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
-
-As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
-
-InvestorPlace • 2d ago
-
----
-
 **[Cofounder of bankrupt Roomba maker iRobot says Elon Musk's vision of robots is 'pure fantasy'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
@@ -170,19 +178,11 @@ Fortune • 14h ago
 
 ---
 
-**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
+**[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
 
-Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
+As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-NASA (.gov) • 6h ago
-
----
-
-**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://www.fool.com/investing/2025/12/13/94-billion-robotics-market-set-to-surge-300-1-etf/)**
-
-This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
-
-The Motley Fool • 3d ago
+InvestorPlace • 2d ago
 
 ---
 
@@ -274,7 +274,7 @@ War Robots - New weapons Pilum and Gladius just brought Hades back! Highlight ga
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 188 • 💬 43 • ⏱️ 16:18 • 14h ago
+👁️ 3K • 👍 188 • 💬 43 • ⏱️ 16:18 • 15h ago
 
 ---
 

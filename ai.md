@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T04:50:22.835062+00:00'
+updated: '2025-12-17T05:13:46.825340+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 04:50 UTC  
+**Last Updated:** December 17, 2025 at 05:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 11h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 12h ago
 
 ---
 
@@ -69,14 +69,6 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 ---
 
-**[Mozilla names new CEO, Firefox to evolve into a "modern AI browser"](https://www.reddit.com/r/artificial/comments/1po4ttq/mozilla_names_new_ceo_firefox_to_evolve_into_a/)**
-
-Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 13h ago
-
----
-
 **[OpenAI's answer to Google's viral Nano Banana Pro image model is here](https://www.reddit.com/r/artificial/comments/1pocv1c/openais_answer_to_googles_viral_nano_banana_pro/)**
 
 OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
@@ -85,11 +77,19 @@ OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new fl
 
 ---
 
+**[Mozilla names new CEO, Firefox to evolve into a "modern AI browser"](https://www.reddit.com/r/artificial/comments/1po4ttq/mozilla_names_new_ceo_firefox_to_evolve_into_a/)**
+
+Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 13h ago
+
+---
+
 **[Linus Torvalds is 'a huge believer' in using AI to maintain code - just don't call it a revolution](https://www.reddit.com/r/artificial/comments/1pntfs5/linus_torvalds_is_a_huge_believer_in_using_ai_to/)**
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 23h ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 1d ago
 
 ---
 
@@ -107,11 +107,11 @@ Anthony Enzor-DeMeo is taking charge of one of the internet’s most important �
 
 ---
 
-**[DeepMind: Demis Hassabis On 'The Future Of Intelligence' | Google DeepMind Podcast](https://www.reddit.com/r/artificial/comments/1poc856/deepmind_demis_hassabis_on_the_future_of/)**
+**[We used Qwen3-Coder to build a 2D Mario-style game in seconds (demo + setup guide)](https://www.reddit.com/r/artificial/comments/1po40li/we_used_qwen3coder_to_build_a_2d_mariostyle_game/)**
 
-Synopsis: In our final episode of the season, Professor Hannah Fry sits down with Google DeepMind Co-founder and CEO Demis Hassabis for their annual check-in. Together, they look beyond the product launches to the scientific and technological questions that will define the next decade. Demis shares his vision for the path to AGI - from solving "root node" problems in fusion energy and material science to the rise of world models and simulations. They also explore what's beyond the frontier and the importance of balancing scientific rigor amid the competitive dynamics of AI advancement. Timestamps: 1 minute, 42 seconds: 2025 progress 5 minutes, 14 seconds: Jagged intelligence 7 minutes, 32 seconds: Mathematical version of AlphaGo? 9 minutes, 30 seconds: Transformative Science vs Prosiac Commercialization 12 minutes, 42 seconds: The Empirical Scaling Laws 17 minutes, 43 seconds: Genie and simulation 25 minutes, 47 seconds: Sparks of recursive self improvement witnessed via evolution in simulation 28 minutes, 26 seconds: The AI "bubble" 31 minutes, 56 seconds: Building ethical AI 34 minutes, 31 seconds: The advent of AGI 44 minutes, 44 seconds: Turing machines 49 minutes, 6 seconds: How it feels to lead the AI race Link to the Full Interview: https://www.youtube.com/watch?v=PqVbypvxDto
+We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
-8h ago
+14h ago
 
 ---
 
@@ -127,35 +127,25 @@ NPR • 9h ago
 
 ---
 
+**[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
+
+Reuters • 8h ago
+
+---
+
+**[Publishers’ scorecard for Big Tech’s AI licensing deals](https://digiday.com/media/publishers-scorecard-for-big-techs-ai-licensing-deals/)**
+
+Digiday has compiled a scorecard grading AI platforms to make sense of the growing number of players in the AI content licensing market.
+
+Digiday • 11m ago
+
+---
+
 **[Church Handbook Offers Enduring Guidance on Artificial Intelligence](https://newsroom.churchofjesuschrist.org/article/general-handbook-enduring-guidance-artificial-intelligence)**
 
 The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
 
-newsroom.churchofjesuschrist.org • 12h ago
-
----
-
-**[China AI chip firm Biren to launch Hong Kong IPO in coming weeks, sources say](https://www.reuters.com/world/china/china-ai-chip-firm-biren-launch-hong-kong-ipo-coming-weeks-sources-say-2025-12-16/)**
-
-Reuters • 1d ago
-
----
-
-**[Chinese AI chipmaker MetaX shares jump nearly 600% in market debut](https://www.reuters.com/world/asia-pacific/chinese-ai-chipmaker-metax-shares-jump-nearly-600-market-debut-2025-12-17/)**
-
-Reuters • 2h ago
-
----
-
-**[AI Chip Startup MetaX Leaps in Trading Debut](https://www.wsj.com/finance/stocks/ai-chip-startup-metax-leaps-in-trading-debut-5f1dff0b?gaa_at=eafs&gaa_n=AWEtsqcW5H1jASocELOD6-tBk00wiLkpLnZS6Frv3gKzAnfIOZ6tsWOcb22a&gaa_ts=69423324&gaa_sig=kyC_W0WS-fMH2ig9espS_BCSPYX13Bx96dFRYAIWWNLk5-JkPkko21dBXQbkXe8_UAdgJXgCvESqMf7mTVo7Jg%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
-**[Chip-Sector Linchpin Resonac Seeks to Tap China’s AI Ambitions](https://www.bloomberg.com/news/articles/2025-12-17/chip-sector-linchpin-resonac-seeks-to-tap-china-s-ai-ambitions)**
-
-Bloomberg.com • 1h ago
+newsroom.churchofjesuschrist.org • 13h ago
 
 ---
 
@@ -171,19 +161,35 @@ The Verge • 10h ago
 
 OpenAI's Image Model 1.5 is out now, and it comes with a new creative studio for editing.
 
-CNET • 10h ago
+CNET • 11h ago
 
 ---
 
 **[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
 
-The Washington Post • 10h ago
+The Washington Post • 11h ago
 
 ---
 
-**[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
+**[IBM, AWS veteran says 90% of your employees are stuck in AI's first gear](https://fortune.com/2025/12/16/ibm-aws-veteran-open-machine-ai-expert-allie-k-miller/)**
 
-Reuters • 7h ago
+Using AI as a “teammate” unlocks the true potential of AI productivity, according to Open Machine CEO Allie K. Miller.
+
+Fortune • 8h ago
+
+---
+
+**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
+
+Four ways to think about this year's reckoning
+
+MIT Technology Review • 1d ago
 
 ---
 
@@ -193,7 +199,7 @@ Reuters • 7h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 784 • 💬 240 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 786 • 💬 240 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -201,13 +207,13 @@ Reuters • 7h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 580 • 💬 969 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 580 • 💬 970 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 409 • 💬 203 • 7h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 434 • 💬 214 • 7h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -221,7 +227,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 368 • 💬 306 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 370 • 💬 307 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -237,7 +243,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Some (well-known) consequences of AI automating work
 
-⬆️ 256 • 💬 118 • 2d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
+⬆️ 256 • 💬 119 • 2d ago • [Uwe Friedrichsen](https://www.ufried.com/blog/ironies_of_ai_2/)
 
 ---
 
@@ -245,7 +251,7 @@ Some (well-known) consequences of AI automating work
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 160 • 💬 103 • 6h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 186 • 💬 113 • 7h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -261,7 +267,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 135 • 💬 50 • 18h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 138 • 💬 50 • 19h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -293,7 +299,7 @@ Manus released version 1.6 with its most powerful agent yet, pushing tasks to fi
 
 📺 AI Revolution
 
-👁️ 7K • 👍 313 • 💬 27 • ⏱️ 9:33 • 5h ago
+👁️ 7K • 👍 313 • 💬 27 • ⏱️ 9:33 • 6h ago
 
 ---
 
@@ -313,7 +319,7 @@ Notebooklm has a new update! ➡️ Digital Product Plan Builder: https://bit.ly
 
 📺 Success With Sam
 
-👁️ 2K • 👍 161 • 💬 12 • ⏱️ 17:32 • 12h ago
+👁️ 2K • 👍 161 • 💬 12 • ⏱️ 17:32 • 13h ago
 
 ---
 
@@ -351,7 +357,7 @@ Original: https://www.youtube.com/watch?v=mfv0V1SxbNA https://twitch.tv/ThePrime
 
 📺 ThePrimeTime
 
-👁️ 79K • 👍 4K • 💬 686 • ⏱️ 12:06 • 10h ago
+👁️ 79K • 👍 4K • 💬 686 • ⏱️ 12:06 • 11h ago
 
 ---
 
@@ -377,7 +383,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,816 • 8d ago
+⬇️ 296,552 • ❤️ 2,817 • 8d ago
 
 ---
 
@@ -425,7 +431,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 265 • 1d ago
+⬇️ 10,487 • ❤️ 266 • 1d ago
 
 ---
 
@@ -437,7 +443,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 385 • 4h ago
+⬇️ 28,106 • ❤️ 385 • 5h ago
 
 ---
 
@@ -483,7 +489,7 @@ VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware spee
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 191 • 22h ago
+⬇️ 0 • ❤️ 192 • 23h ago
 
 ---
 
@@ -644,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.0k • 🔱 429 • 14h ago
+⭐ 4.0k • 🔱 429 • 15h ago
 
 ---
 
@@ -674,7 +680,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 6h ago
+⭐ 1.1k • 🔱 138 • 7h ago
 
 ---
 
@@ -684,7 +690,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Python`
 
-⭐ 1.1k • 🔱 219 • 16d ago
+⭐ 1.1k • 🔱 219 • 17d ago
 
 ---
 
@@ -724,7 +730,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 763 • 🔱 119 • 22h ago
+⭐ 763 • 🔱 119 • 23h ago
 
 ---
 

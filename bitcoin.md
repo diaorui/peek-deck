@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T04:50:22.843608+00:00'
+updated: '2025-12-17T05:13:46.833789+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 04:50 UTC  
+**Last Updated:** December 17, 2025 at 05:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,148.93
+### $86,765.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -6.3%  
-**30d:** -6.6%  
-**90d:** -24.9%  
-**1y:** -13.7%  
+**24h:** +0.2%  
+**7d:** -6.4%  
+**30d:** -6.7%  
+**90d:** -25.0%  
+**1y:** -13.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1743.62B
+**Market Cap:** $1727.89B
 Rank #1
 
-**Circulating Supply:** 19,963,109 BTC
+**Circulating Supply:** 19,963,162 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.9%
+-31.3%
 
 **All-Time Low:** $67.81
-+128379.6%
++127670.2%
 
 ---
 
@@ -76,14 +76,6 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
-
-**[2013 → 2024: The same person, the same Bitcoin, completely different life milestones.](https://www.reddit.com/r/Bitcoin/comments/1po6uf3/2013_2024_the_same_person_the_same_bitcoin/)**
-
-In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
-
-12h ago
-
----
 
 **[BTC will break $150K soon, I believe!!!!](https://www.reddit.com/r/Bitcoin/comments/1po7ya6/btc_will_break_150k_soon_i_believe/)**
 
@@ -101,13 +93,21 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
-15h ago
+16h ago
+
+---
+
+**[2013 → 2024: The same person, the same Bitcoin, completely different life milestones.](https://www.reddit.com/r/Bitcoin/comments/1po6uf3/2013_2024_the_same_person_the_same_bitcoin/)**
+
+In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
+
+12h ago
 
 ---
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -116,6 +116,18 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
 10h ago
+
+---
+
+**[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
+
+46m ago
+
+---
+
+**[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
+
+33m ago
 
 ---
 
@@ -131,20 +143,6 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 ---
 
-**[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
-
-13h ago
-
----
-
-**[Found an interesting e-mail from a few years ago](https://www.reddit.com/r/Bitcoin/comments/1pofvpq/found_an_interesting_email_from_a_few_years_ago/)**
-
-Would be worth almost 10 grand today if my math is correct. edit: was from october 2013
-
-6h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -157,15 +155,7 @@ Bitcoin Magazine • 7h ago
 
 ---
 
-**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
-
-Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
-
-Financial Times • 1d ago
-
----
-
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcAaumlbJvtKohdM4VUL4AqBHbWWE8tndRwrmuaCrGu0xdxb2yS2C_C&gaa_ts=69423326&gaa_sig=0Ygyktddf0rge1TKV3Y4Qbikwdgl1HjdJFRkgW_-aIXBAnQt1uRG22fSgGFHtUGrJZciTZPW17rCfAaSMWExqw%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqczgleaRSbLo1cKnmqVByxqKMteyTmtj5jO_On_zp9OAFilSBtyNCbT&gaa_ts=69423f76&gaa_sig=pXPSsU6b0AlIOQA5AbaFsulUAd_hBvyRHpCJWo68dGQZmdGi8JOfW1JmknzzHS1adRcT-UzItero1f-SOyZwMQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -185,11 +175,11 @@ Yahoo Finance • 8h ago
 
 ---
 
-**[Look Out Below: Another 3% Drop In Bitcoin Brings This Token Toward a Key Level](https://www.fool.com/investing/2025/12/15/look-out-below-another-3-drop-in-bitcoin-brings-th/)**
+**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
-Bitcoin's recent price decline has picked up steam in recent weeks.
+Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-The Motley Fool • 1d ago
+Financial Times • 2d ago
 
 ---
 
@@ -203,7 +193,7 @@ thestreet.com • 7h ago
 
 Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -212,6 +202,14 @@ TradingView — Track All Markets • 8h ago
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
 Decrypt • 6h ago
+
+---
+
+**[Why bitcoin ETFs look like they’re falling short, even as their role grows: Asia Morning Briefing](https://www.coindesk.com/markets/2025/12/16/why-bitcoin-etfs-look-like-they-re-falling-short-even-as-their-role-grows-asia-morning-briefing)**
+
+What looks like underperformance reflects a structural shift: ETF flows now smooth volatility rather than amplify crypto rallies.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -297,7 +295,7 @@ Anthony and John Pompliano break down what's really happening in the bitcoin mar
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 553 • 💬 4 • ⏱️ 41:39 • 6h ago
+👁️ 10K • 👍 553 • 💬 4 • ⏱️ 41:39 • 7h ago
 
 ---
 
@@ -327,7 +325,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 122 • ⏱️ 13:25 • 5h ago
+👁️ 16K • 👍 1K • 💬 122 • ⏱️ 13:25 • 6h ago
 
 ---
 
@@ -387,7 +385,7 @@ INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://c
 
 📺 Crypto Crew University
 
-👁️ 33K • 👍 2K • 💬 155 • ⏱️ 8:22 • 14h ago
+👁️ 33K • 👍 2K • 💬 155 • ⏱️ 8:22 • 15h ago
 
 ---
 
