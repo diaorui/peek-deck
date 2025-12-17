@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T22:53:49.345916+00:00'
+updated: '2025-12-17T23:16:58.268433+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 22:53 UTC  
+**Last Updated:** December 17, 2025 at 23:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,940.09
+### $86,048.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -7.0%  
-**30d:** -7.4%  
-**90d:** -25.5%  
-**1y:** -14.4%  
+**24h:** -1.5%  
+**7d:** -6.8%  
+**30d:** -7.2%  
+**90d:** -25.4%  
+**1y:** -14.2%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-2h ago
+3h ago
 
 ---
 
 **[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 Medium term holder 5+ years. I'm seeing so many posts with folks showing technical analysis and memes. Lots of panicky posts by new folks seeing price drops for the first time. Next, other posts of people worshipping QE and other monetary instruments that end up driving up asset prices and make cost of living brutal. This is my second bear market and here are my tips: 1) Treat Bitcoin like a long term, high volatility asset. If you DCA, give yourself 8-10 years. If you lump sum invest, your best bet is during bear cycles anytime between May to October. We are in a bear cycle now. 2) Is the 4 year cycle broken? It's irrelevant because your timeline should be long enough to see sustained gains unless there is a major recession. 3) Selling is normal and fiat does not suckkkkk. Yes, you heard that. You need money to eat, live, and buy things like homes, cars, tuition, and weddings. Bitcoin is an investment that helps. 4) Gold and diversified stocks matter as well. Bitcoin ideally should be 10% of a portfolio and that's also assuming you are comfortable with risk. 5) No leverage and no life savings. Don't do either. Nobody other than gamblers or insiders. 6) Stop worrying about what whales or insiders do. They have existed and will exist and will outleverage and outfinesse you in all scenarios as well.
 
-3h ago
+4h ago
 
 ---
 
@@ -263,7 +263,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 1h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 2h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -297,7 +297,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 15K • 👍 630 • 💬 196 • ⏱️ 8:33 • 7h ago
+👁️ 15K • 👍 630 • 💬 196 • ⏱️ 8:33 • 8h ago
 
 ---
 
@@ -317,7 +317,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 235 • 💬 63 • ⏱️ 9:12 • 3h ago
+👁️ 2K • 👍 235 • 💬 63 • ⏱️ 9:12 • 4h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 795 • 💬 386 • ⏱️ 46:53 • 7h ago
+👁️ 15K • 👍 795 • 💬 386 • ⏱️ 46:53 • 8h ago
 
 ---
 
@@ -347,7 +347,7 @@ BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/Cha
 
 📺 Chart Junkies
 
-👁️ 821 • 👍 77 • 💬 23 • ⏱️ 10:16 • 4h ago
+👁️ 821 • 👍 77 • 💬 23 • ⏱️ 10:16 • 5h ago
 
 ---
 
@@ -357,7 +357,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 11K • 👍 1K • 💬 138 • ⏱️ 9:00 • 6h ago
+👁️ 11K • 👍 1K • 💬 138 • ⏱️ 9:00 • 7h ago
 
 ---
 
@@ -367,7 +367,7 @@ Join our FREE Crypto Telegram https://t.me/CryptoCacheTrading & Discord https://
 
 📺 CryptoCache
 
-👁️ 1K • 👍 122 • 💬 25 • ⏱️ 20:59 • 5h ago
+👁️ 1K • 👍 122 • 💬 25 • ⏱️ 20:59 • 6h ago
 
 ---
 
@@ -377,7 +377,7 @@ Welcome Back To The Channel! Sign Up on BTCC – Get Up to $20000 in Rewards & A
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 260 • 💬 34 • ⏱️ 49:16 • 4h ago
+👁️ 5K • 👍 260 • 💬 34 • ⏱️ 49:16 • 5h ago
 
 ---
 
@@ -387,7 +387,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 6K • 👍 596 • 💬 95 • ⏱️ 8:45 • 5h ago
+👁️ 6K • 👍 596 • 💬 95 • ⏱️ 8:45 • 6h ago
 
 ---
 

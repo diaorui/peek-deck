@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T22:53:49.337390+00:00'
+updated: '2025-12-17T23:16:58.260066+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 22:53 UTC  
+**Last Updated:** December 17, 2025 at 23:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 7h ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 8h ago
 
 ---
 
@@ -65,7 +65,7 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
-10h ago
+11h ago
 
 ---
 
@@ -81,7 +81,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 In our multi-step workflow where each step depended on the previous one’s output, problems we observed were silent errors: malformed JSON, missing fields, incorrect assumptions, etc. We added verification nodes between steps: check structure check schema check grounding retry or escalate if needed It turned the system from unpredictable to stable. It reminded me of how traditional systems use validation layers, but here the cost of skipping them compounds faster because each output becomes the next input. Anyone else tried adding checkpoints between AI-driven steps? What verification patterns worked for you?
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ This was the year that A.I.-generated content passed a kind of audiovisual Turin
 
 "An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
 
-9h ago
+10h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 1h ago
 
 Micron Technology forecast second-quarter adjusted profit at nearly double ​what Wall Street analysts expected on Wednesday, buoyed by ‌soaring prices for memory chips spurred by tight supplies and booming demand ‌from artificial intelligence data centers. Shares of the Boise, Idaho-based company rose 14% in extended trading after the forecast. Micron said it expected adjusted profit of $8.42 per share, plus or minus 20 ⁠cents, versus analyst estimates ‌of $4.78 per share, according to LSEG data.
 
-Yahoo Finance • 28m ago
+Yahoo Finance • 51m ago
 
 ---
 
@@ -147,7 +147,7 @@ Yahoo Finance • 28m ago
 
 Micron Technology posted quarterly earnings that topped analysts' estimates, sending shares higher in extended trading Wednesday.
 
-Investopedia • 23m ago
+Investopedia • 46m ago
 
 ---
 
@@ -155,7 +155,7 @@ Investopedia • 23m ago
 
 James Cameron and Sam Worthington discuss their  years-long ‘Avatar’ collaboration, box office and tackling AI: “We need to use it ethically”
 
-Deadline • 41m ago
+Deadline • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Deadline • 41m ago
 
 Software giant suffers renewed declines after backer Blue Owl pulls out of $10bn project
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -177,7 +177,7 @@ NBC News • 1h ago
 
 **[AI-Themed Stocks Take More Hits, Sending Nasdaq Lower](https://www.wsj.com/finance/stocks/ai-themed-stocks-take-more-hits-sending-nasdaq-lower-6a1227ad?gaa_at=eafs&gaa_n=AWEtsqfRJT04uXXqKmCCU5jmgDM8rlIr2i4BRibVPpNmV9VyDMmsLLQFTmOG&gaa_ts=694337e2&gaa_sig=1grTVkn10shBgnRC-KhO6UFatwXgCbYLs51pW2qAYiQCHiqnvUPgSVEM_9NjsFEnk8-mYWjKJ2E-8EBcPwhX_A%3D%3D)**
 
-The Wall Street Journal • 48m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ CNBC • 5h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 622 • 💬 356 • 5h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 622 • 💬 356 • 6h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -283,7 +283,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 17K • 👍 625 • 💬 34 • ⏱️ 11:44 • 16h ago
+👁️ 17K • 👍 625 • 💬 34 • ⏱️ 11:44 • 17h ago
 
 ---
 
@@ -293,7 +293,7 @@ Check out Glue: https://bit.ly/4pOsxI2 Free 30 day trial. Work gets done where y
 
 📺 Wes Roth
 
-👁️ 43K • 👍 1K • 💬 443 • ⏱️ 23:58 • 12h ago
+👁️ 43K • 👍 1K • 💬 443 • ⏱️ 23:58 • 13h ago
 
 ---
 
@@ -311,7 +311,7 @@ Microsoft has released Trellis 2.0, a powerful new open-source AI model that gen
 
 📺 Stefan 3D AI Lab
 
-👁️ 5K • 👍 314 • 💬 35 • ⏱️ 9:45 • 8h ago
+👁️ 5K • 👍 314 • 💬 35 • ⏱️ 9:45 • 9h ago
 
 ---
 
@@ -341,7 +341,7 @@ Everyone is kind of realising that every single AI company is unprofitable. Ever
 
 📺 Times Radio Tech
 
-👁️ 3K • 👍 343 • 💬 75 • ⏱️ 26:45 • 4h ago
+👁️ 3K • 👍 343 • 💬 75 • ⏱️ 26:45 • 5h ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 302 • 1h ago
+⬇️ 10,487 • ❤️ 302 • 2h ago
 
 ---
 
@@ -471,7 +471,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 394 • 22h ago
+⬇️ 28,106 • ❤️ 394 • 23h ago
 
 ---
 
@@ -693,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 52m ago
+⭐ 1.1k • 🔱 138 • 1h ago
 
 ---
 

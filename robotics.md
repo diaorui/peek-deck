@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T22:53:49.355106+00:00'
+updated: '2025-12-17T23:16:58.277793+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 22:53 UTC  
+**Last Updated:** December 17, 2025 at 23:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM Just watched the Boston Dynamics tech talk on The Humanoid Mission in Manufacturing. One slide frames the roadmap as a gradual compression of layers, where classical perception, planning, manipulation, and control are absorbed into more unified end to end models. What stood out to me is that this suggests classical and optimization based control may be progressively replaced rather than simply augmented. Given that direction, is it still worth investing heavily in classical or optimization based control research for handling physics, contact, and stability underneath, or do people expect those responsibilities to eventually be fully learned by VLM or VLA style models? Curious how others here think about this tradeoff, especially in the context of balance and contact heavy manufacturing tasks.
 
-1h ago
+2h ago
 
 ---
 
@@ -84,7 +84,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I am currently pursuing MS in Robotics, I have a background in Mechanical Engineering and worked in composite manufacturing for a year. I have decent coding skills in Python, some research experience in computer vision. Moving forward I want to work in Autonomous Navigation for AUVs but I don’t know where do I start.
 
-12m ago
+36m ago
 
 ---
 
@@ -118,7 +118,7 @@ An robotic arm picks up a toy bear from a sofa and places it into a basket. The 
 
 **[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Atlantic • 5h ago
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
-TechCrunch • 8h ago
+TechCrunch • 9h ago
 
 ---
 

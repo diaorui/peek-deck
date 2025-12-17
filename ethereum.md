@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T22:53:49.351900+00:00'
+updated: '2025-12-17T23:16:58.274559+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 22:53 UTC  
+**Last Updated:** December 17, 2025 at 23:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** -12.5%  
-**30d:** -9.4%  
-**90d:** -36.6%  
-**1y:** -22.0%  
+**24h:** -4.3%  
+**7d:** -12.8%  
+**30d:** -9.7%  
+**90d:** -36.9%  
+**1y:** -22.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
-7h ago
+8h ago
 
 ---
 
@@ -80,13 +80,13 @@ What is the current situation with using crypto mixers in the the US, UK and EU?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
 **[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
 
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 7h ago
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 8h ago
 
 ---
 
@@ -98,7 +98,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Help sending Blob transaction](https://www.reddit.com/r/ethereum/comments/1pp3efv/help_sending_blob_transaction/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The cryptocurrency industry is undergoing a fundamental structural shift, moving away from fragmented protocols toward a unified "Aggregatio...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 15h ago
+🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 16h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Block • 2d ago
 
 The world's second-largest cryptocurrency isn't feeling the love from investors today.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 1d ago
 
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Block • 9h ago
 
 Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
 
-ts2.tech • 1h ago
+ts2.tech • 2h ago
 
 ---
 
@@ -212,7 +212,7 @@ Decrypt • 1d ago
 
 BlackRock crypto moves are dominating Ethereum ETF trends. Here’s the latest Ethereum sell-off and why the price is locked in a tight range
 
-Live Bitcoin News • 6h ago
+Live Bitcoin News • 7h ago
 
 ---
 
@@ -226,7 +226,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 217 • 💬 53 • ⏱️ 20:34 • 7h ago
+👁️ 5K • 👍 217 • 💬 53 • ⏱️ 20:34 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 565 • 👍 28 • 💬 1 • ⏱️ 5:36 • 12h ago
+👁️ 565 • 👍 28 • 💬 1 • ⏱️ 5:36 • 13h ago
 
 ---
 
@@ -314,7 +314,7 @@ The line between the stock market and crypto is vanishing. Nasdaq has officially
 
 📺 CryptoStock Lab
 
-👁️ 552 • 👍 20 • 💬 46 • ⏱️ 12:47 • 10h ago
+👁️ 552 • 👍 20 • 💬 46 • ⏱️ 12:47 • 11h ago
 
 ---
 
