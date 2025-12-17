@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T04:21:19.445073+00:00'
+updated: '2025-12-17T04:50:22.853296+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 04:21 UTC  
+**Last Updated:** December 17, 2025 at 04:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-17h ago
+18h ago
 
 ---
 
@@ -72,7 +72,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
-22h ago
+23h ago
 
 ---
 
@@ -166,7 +166,7 @@ InvestorPlace • 2d ago
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -196,7 +196,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 44K • 👍 791 • 💬 123 • ⏱️ 11:23 • 1d ago
+👁️ 46K • 👍 815 • 💬 125 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -206,7 +206,17 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 27K • 👍 676 • 💬 110 • ⏱️ 6:41 • 2d ago
+👁️ 27K • 👍 681 • 💬 110 • ⏱️ 6:41 • 2d ago
+
+---
+
+**[Guy Meets Humanoid Girlfriend Robot At Expo And Gets This Reaction](https://www.youtube.com/watch?v=E9Y81FrwXLc)**
+
+A shy guy meets a humanoid girlfriend robot at a tech expo. DISCLAIMER: All visuals are AI-generated using advanced image ...
+
+📺 SYN:THETIC_BLOOD
+
+👁️ 19K • 👍 381 • 💬 14 • ⏱️ 0:22 • 1d ago
 
 ---
 
@@ -216,7 +226,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 11K • 👍 1K • 💬 41 • ⏱️ 1:38 • 12h ago
+👁️ 12K • 👍 2K • 💬 42 • ⏱️ 1:38 • 12h ago
 
 ---
 
@@ -226,7 +236,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 338K • 👍 11K • 💬 371 • ⏱️ 0:34 • 2d ago
+👁️ 342K • 👍 11K • 💬 372 • ⏱️ 0:34 • 2d ago
 
 ---
 
@@ -234,7 +244,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 383K • 👍 3K • 💬 39 • ⏱️ 0:21 • 2d ago
+👁️ 390K • 👍 3K • 💬 40 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -244,17 +254,27 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 27K • 👍 281 • 💬 28 • ⏱️ 1:05 • 1d ago
+👁️ 28K • 👍 285 • 💬 28 • ⏱️ 1:05 • 1d ago
 
 ---
 
-**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
+**[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
 
-I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
+Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
 
-📺 Kyle Krueger
+📺 RICHLEV
 
-👁️ 5.5M • 👍 172K • 💬 3K • ⏱️ 0:51 • 6d ago
+👁️ 167K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
+
+---
+
+**[War Robots - New Weapons Pilum And Gladius Just Brought Hades Back!](https://www.youtube.com/watch?v=04xBXAp8794)**
+
+War Robots - New weapons Pilum and Gladius just brought Hades back! Highlight games from this past weekend's members live ...
+
+📺 Adrian Chong
+
+👁️ 3K • 👍 188 • 💬 43 • ⏱️ 16:18 • 14h ago
 
 ---
 
@@ -264,27 +284,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 291K • 👍 8K • 💬 591 • ⏱️ 17:44 • 6d ago
-
----
-
-**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
-
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
-
-📺 Associated Press
-
-👁️ 28K • 👍 105 • 💬 43 • ⏱️ 1:26 • 4d ago
-
----
-
-**[AI Robot Harvesting Grapes in the Vineyard 🍇🤖](https://www.youtube.com/watch?v=o0EILTw-1hs)**
-
-Experience the future of agriculture! In this video, an AI-powered farming robot assists a farmer by harvesting grapes with ...
-
-📺 𝗦𝗺𝗮𝗿𝘁 𝗙𝗮𝗿𝗺𝗶𝗻𝗴 𝗧𝗲𝗰𝗵
-
-👁️ 386K • 👍 397 • ⏱️ 0:08 • 19h ago
+👁️ 293K • 👍 8K • 💬 593 • ⏱️ 17:44 • 6d ago
 
 ---
 

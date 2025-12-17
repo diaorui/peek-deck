@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T04:21:19.436965+00:00'
+updated: '2025-12-17T04:50:22.843608+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 04:21 UTC  
+**Last Updated:** December 17, 2025 at 04:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** -5.9%  
-**30d:** -6.3%  
-**90d:** -24.7%  
-**1y:** -13.4%  
+**24h:** +1.0%  
+**7d:** -6.3%  
+**30d:** -6.6%  
+**90d:** -24.9%  
+**1y:** -13.7%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 11
+### 16
 **EXTREME FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-11h ago
+12h ago
 
 ---
 
@@ -89,13 +89,13 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
-10h ago
+11h ago
 
 ---
 
 **[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -115,25 +115,25 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-9h ago
+10h ago
 
 ---
 
 **[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
 
-11h ago
+12h ago
 
 ---
 
 **[This is what buying Bitcoin looked like in 2011 - 1BTC = $3.5](https://www.reddit.com/r/Bitcoin/comments/1po8477/this_is_what_buying_bitcoin_looked_like_in_2011/)**
 
-10h ago
+11h ago
 
 ---
 
 **[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -141,7 +141,7 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 Would be worth almost 10 grand today if my math is correct. edit: was from october 2013
 
-5h ago
+6h ago
 
 ---
 
@@ -153,7 +153,7 @@ Would be worth almost 10 grand today if my math is correct. edit: was from octob
 
 The Bitcoin price hovered above $87,000 as prices stabilized, even as investor sentiment plunged into extreme fear.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Motley Fool • 1d ago
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 6h ago
+thestreet.com • 7h ago
 
 ---
 
@@ -219,7 +219,7 @@ Decrypt • 6h ago
 
 U.S. spot bitcoin ETFs saw $357.6 million of net outflows on Monday, part of a $582 million combined ETF withdrawal, as bitcoin fell to as low as $85,100 and traders watched the $83,000 ETF cost-basis level for support.
 
-Bitbo • 12h ago
+Bitbo • 13h ago
 
 ---
 
@@ -263,7 +263,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 18h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 19h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -283,7 +283,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 12h ago
+⬆️ 11 • 💬 3 • 13h ago
 
 ---
 
@@ -291,33 +291,13 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 ## YouTube Videos: "bitcoin"
 
-**[Jobs Report Shock: What It Means for Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=Jqf_fYYOl24)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 33K • 👍 2K • 💬 357 • ⏱️ 46:12 • 12h ago
-
----
-
 **[Larry Fink Is RIGHT About Bitcoin](https://www.youtube.com/watch?v=BzVOxdaaCWU)**
 
 Anthony and John Pompliano break down what's really happening in the bitcoin market — why price has stalled, how volatility is ...
 
 📺 Anthony Pompliano
 
-👁️ 7K • 👍 450 • 💬 4 • ⏱️ 41:39 • 6h ago
-
----
-
-**[Why Panic Selling Bitcoin NOW Could be the Worst Idea!](https://www.youtube.com/watch?v=ZZV--oWO_h8)**
-
-Aura Stop leaving yourself vulnerable to data breaches. Go to my sponsor https://aura.com/simplybitcoin to get a 14-day free trial ...
-
-📺 Simply Bitcoin
-
-👁️ 12K • 👍 880 • 💬 97 • ⏱️ 16:49 • 14h ago
+👁️ 10K • 👍 553 • 💬 4 • ⏱️ 41:39 • 6h ago
 
 ---
 
@@ -327,57 +307,17 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 41K • 👍 670 • 💬 462 • ⏱️ 10:03 • 21h ago
+👁️ 44K • 👍 697 • 💬 460 • ⏱️ 10:03 • 22h ago
 
 ---
 
-**[This Macro Expert Thinks Bitcoin Is Going Lower in 2026...](https://www.youtube.com/watch?v=MWTIdtr2GXU)**
+**[Jobs Report Shock: What It Means for Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=Jqf_fYYOl24)**
 
-Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned bearish, selling most of his Bitcoin around ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Swan Bitcoin
+📺 CryptosRUs
 
-👁️ 11K • 👍 793 • 💬 221 • ⏱️ 18:36 • 5h ago
-
----
-
-**[BREAKING: BITCOIN JUST DID THIS FOR FIRST TIME SINCE 2020 – THIS HAPPENED NEXT](https://www.youtube.com/watch?v=vzVpMNGR9oU)**
-
-INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://cryptocrewuniversity.com/sibmy ...
-
-📺 Crypto Crew University
-
-👁️ 31K • 👍 2K • 💬 151 • ⏱️ 8:22 • 14h ago
-
----
-
-**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
-
-These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! AI Trading Club: ...
-
-📺 Thomas Kralow
-
-👁️ 17K • 👍 2K • 💬 70 • ⏱️ 7:49 • 16h ago
-
----
-
-**[NEW REPORT: $5.9T Firm Says 2026 is the Start of a Bitcoin Supercycle?! | EP 1399](https://www.youtube.com/watch?v=qOYXE9k9YKo)**
-
-Huge asset manager says we might be on the verge of a 10 year bitcoin bull market?
-
-📺 Simply Bitcoin
-
-👁️ 5K • 👍 316 • 💬 32 • ⏱️ 1:31:08 • 8h ago
-
----
-
-**[Will 1 Bitcoin Be Generational Wealth? Whales Selling, Legacy Planning &amp; Price Drivers](https://www.youtube.com/watch?v=6zFglF1aMKc)**
-
-A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell sat down with Matthew McClintock, head of The ...
-
-📺 Natalie Brunell
-
-👁️ 8K • 👍 412 • 💬 24 • ⏱️ 57:23 • 13h ago
+👁️ 34K • 👍 2K • 💬 347 • ⏱️ 46:12 • 13h ago
 
 ---
 
@@ -387,7 +327,67 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 997 • 💬 97 • ⏱️ 13:25 • 5h ago
+👁️ 16K • 👍 1K • 💬 122 • ⏱️ 13:25 • 5h ago
+
+---
+
+**[Why Panic Selling Bitcoin NOW Could be the Worst Idea!](https://www.youtube.com/watch?v=ZZV--oWO_h8)**
+
+Aura Stop leaving yourself vulnerable to data breaches. Go to my sponsor https://aura.com/simplybitcoin to get a 14-day free trial ...
+
+📺 Simply Bitcoin
+
+👁️ 13K • 👍 911 • 💬 93 • ⏱️ 16:49 • 15h ago
+
+---
+
+**[Bitcoin Support On Thin Ice As RSI Crashes Below 30… But It May Not Matter](https://www.youtube.com/watch?v=oYr5Ic58Qfs)**
+
+In this clip, I talk about the current state of bitcoin as RSI crashes to rare levels. **Exchange Partners** Bitunix Exchange ...
+
+📺 CryptosRus Extra
+
+👁️ 3K • 👍 234 • 💬 170 • ⏱️ 10:50 • 4h ago
+
+---
+
+**[This Macro Expert Thinks Bitcoin Is Going Lower in 2026...](https://www.youtube.com/watch?v=MWTIdtr2GXU)**
+
+Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned bearish, selling most of his Bitcoin around ...
+
+📺 Swan Bitcoin
+
+👁️ 21K • 👍 1K • 💬 225 • ⏱️ 18:36 • 6h ago
+
+---
+
+**[My Bitcoin and Crypto Portfolio Is Hurting...](https://www.youtube.com/watch?v=Eq7VK3EDdn4)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 29K • 👍 2K • 💬 529 • ⏱️ 8:04 • 1d ago
+
+---
+
+**[CRYPTO TRAP! They Are Lying To You About This Bitcoin Crash](https://www.youtube.com/watch?v=y1Qrr3lVMGo)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 22K • 👍 2K • 💬 158 • ⏱️ 9:01 • 6h ago
+
+---
+
+**[BREAKING: BITCOIN JUST DID THIS FOR FIRST TIME SINCE 2020 – THIS HAPPENED NEXT](https://www.youtube.com/watch?v=vzVpMNGR9oU)**
+
+INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://cryptocrewuniversity.com/sibmy ...
+
+📺 Crypto Crew University
+
+👁️ 33K • 👍 2K • 💬 155 • ⏱️ 8:22 • 14h ago
 
 ---
 

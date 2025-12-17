@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T04:21:19.429679+00:00'
+updated: '2025-12-17T04:50:22.835062+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 04:21 UTC  
+**Last Updated:** December 17, 2025 at 04:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 12h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 13h ago
 
 ---
 
@@ -73,7 +73,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 12h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 13h ago
 
 ---
 
@@ -81,7 +81,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 7h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 8h ago
 
 ---
 
@@ -95,7 +95,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 10h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 11h ago
 
 ---
 
@@ -103,7 +103,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 Anthony Enzor-DeMeo is taking charge of one of the internet’s most important — and most complicated — companies.
 
-🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 5h ago
+🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 6h ago
 
 ---
 
@@ -123,7 +123,7 @@ Synopsis: In our final episode of the season, Professor Hannah Fry sits down wit
 
 A survey finds that 56% of psychologists are trying out artificial intelligence tools at work, mainly for administrative tasks. A majority also are concerned about harms of AI on patients and society.
 
-NPR • 8h ago
+NPR • 9h ago
 
 ---
 
@@ -269,33 +269,11 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 ## YouTube Videos: "ai"
 
-**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
+**[POV: Talking to AI in 2027](https://www.youtube.com/watch?v=LoUpn7h4Phc)**
 
-Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
+📺 Alberta Tech
 
-📺 AI Revolution
-
-👁️ 44K • 👍 791 • 💬 123 • ⏱️ 11:23 • 1d ago
-
----
-
-**[A.I. Slop - Beyond the Black Void](https://www.youtube.com/watch?v=IPitD1eYLiM)**
-
-The fellas at Red Letter Media like to talk about not just movies, but current trends as well. And there's nothing more distressing as ...
-
-📺 RedLetterMedia
-
-👁️ 327K • 👍 25K • 💬 4K • ⏱️ 59:17 • 12h ago
-
----
-
-**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
-
-OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
-
-📺 AI Revolution
-
-👁️ 45K • 👍 2K • 💬 178 • ⏱️ 12:07 • 2d ago
+👁️ 1.0M • 👍 37K • 💬 569 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -305,7 +283,47 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 119K • 👍 3K • 💬 624 • ⏱️ 14:37 • 12h ago
+👁️ 132K • 👍 3K • 💬 691 • ⏱️ 14:37 • 13h ago
+
+---
+
+**[Manus Just Dropped Its Most Powerful AI Yet](https://www.youtube.com/watch?v=vXMrezKs8Hw)**
+
+Manus released version 1.6 with its most powerful agent yet, pushing tasks to finish end to end with less supervision and fewer ...
+
+📺 AI Revolution
+
+👁️ 7K • 👍 313 • 💬 27 • ⏱️ 9:33 • 5h ago
+
+---
+
+**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
+
+Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
+
+📺 AI Revolution
+
+👁️ 46K • 👍 815 • 💬 125 • ⏱️ 11:23 • 1d ago
+
+---
+
+**[Google NEW AI NotebookLM Can Start a 1 Person Business (no coding)](https://www.youtube.com/watch?v=zUZWLaOfYm8)**
+
+Notebooklm has a new update! ➡️ Digital Product Plan Builder: https://bit.ly/NotebookLMPrompt ...
+
+📺 Success With Sam
+
+👁️ 2K • 👍 161 • 💬 12 • ⏱️ 17:32 • 12h ago
+
+---
+
+**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
+
+OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
+
+📺 AI Revolution
+
+👁️ 45K • 👍 2K • 💬 179 • ⏱️ 12:07 • 2d ago
 
 ---
 
@@ -315,7 +333,25 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 185K • 👍 6K • 💬 1K • ⏱️ 20:44 • 2d ago
+👁️ 189K • 👍 6K • 💬 1K • ⏱️ 20:44 • 2d ago
+
+---
+
+**[I bought 3 AI-generated products.. here’s what they REALLY look like. 🤡](https://www.youtube.com/watch?v=p6sslqc-BME)**
+
+📺 Maggie McGaugh
+
+👁️ 249K • 👍 12K • 💬 158 • ⏱️ 1:16 • 1d ago
+
+---
+
+**[Linus x Linus - Is AI A Bubble?](https://www.youtube.com/watch?v=QtGBnR24LcM)**
+
+Original: https://www.youtube.com/watch?v=mfv0V1SxbNA https://twitch.tv/ThePrimeagen - I Stream on Twitch ...
+
+📺 ThePrimeTime
+
+👁️ 79K • 👍 4K • 💬 686 • ⏱️ 12:06 • 10h ago
 
 ---
 
@@ -325,43 +361,7 @@ Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPT
 
 📺 Dylan Curious
 
-👁️ 9K • 👍 503 • 💬 89 • ⏱️ 30:05 • 1d ago
-
----
-
-**[I bought 3 AI-generated products.. here’s what they REALLY look like. 🤡](https://www.youtube.com/watch?v=p6sslqc-BME)**
-
-📺 Maggie McGaugh
-
-👁️ 245K • 👍 12K • 💬 158 • ⏱️ 1:16 • 1d ago
-
----
-
-**[POV: Talking to AI in 2027](https://www.youtube.com/watch?v=LoUpn7h4Phc)**
-
-📺 Alberta Tech
-
-👁️ 981K • 👍 36K • 💬 553 • ⏱️ 0:34 • 1d ago
-
----
-
-**[China Rejects US-Made AI Chips, The White House Admits That Export Strategy May Be Failing](https://www.youtube.com/watch?v=WRwqRoIfAAU)**
-
-The White House has raised fresh concerns after admitting that China is turning away U.S.-made AI chips, including Nvidia's H200 ...
-
-📺 Mint
-
-👁️ 90K • 👍 947 • 💬 403 • ⏱️ 4:14 • 1d ago
-
----
-
-**[OpenCode Desktop: BEST AI Coding Agent Ever + FULLY FREE! BYE Gemini CLI &amp; ClaudeCode! (Opensource)](https://www.youtube.com/watch?v=v4j1_qHLq9s)**
-
-In this video, I break down OpenCode Desktop, the fully free & open-source AI coding agent that now runs as a full desktop app on ...
-
-📺 WorldofAI
-
-👁️ 14K • 👍 478 • 💬 20 • ⏱️ 9:02 • 22h ago
+👁️ 9K • 👍 507 • 💬 89 • ⏱️ 30:05 • 1d ago
 
 ---
 
@@ -634,7 +634,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.6k • 🔱 2.6k • 18h ago
+⭐ 16.7k • 🔱 2.6k • 19h ago
 
 ---
 
@@ -644,7 +644,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.0k • 🔱 425 • 14h ago
+⭐ 4.0k • 🔱 429 • 14h ago
 
 ---
 
@@ -704,7 +704,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 870 • 🔱 50 • 1d ago
+⭐ 872 • 🔱 50 • 1d ago
 
 ---
 
@@ -714,7 +714,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 762 • 🔱 110 • 2d ago
+⭐ 763 • 🔱 111 • 2d ago
 
 ---
 
@@ -724,7 +724,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 762 • 🔱 119 • 22h ago
+⭐ 763 • 🔱 119 • 22h ago
 
 ---
 
