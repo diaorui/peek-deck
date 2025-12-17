@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T15:53:14.189401+00:00'
+updated: '2025-12-17T16:22:48.278270+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 15:53 UTC  
+**Last Updated:** December 17, 2025 at 16:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Hack Reveals the a16z-Backed Phone Farm Flooding TikTok With AI Influencers](https://www.reddit.com/r/artificial/comments/1poynd6/hack_reveals_the_a16zbacked_phone_farm_flooding/)**
+
+A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
+
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 1h ago
+
+---
+
 **[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://www.reddit.com/r/artificial/comments/1pocbf5/actor_joseph_gordonlevitt_wonders_why_ai/)**
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 19h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 20h ago
 
 ---
 
@@ -49,15 +57,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
-3h ago
-
----
-
-**[Hack Reveals the a16z-Backed Phone Farm Flooding TikTok With AI Influencers](https://www.reddit.com/r/artificial/comments/1poynd6/hack_reveals_the_a16zbacked_phone_farm_flooding/)**
-
-A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
-
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 53m ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 22h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 23h ago
 
 ---
 
@@ -77,19 +77,19 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 ---
 
-**[Microsoft's TRELLIS 2-4B, An Open-Source Image-to-3D Model](https://www.reddit.com/r/artificial/comments/1povtpl/microsofts_trellis_24b_an_opensource_imageto3d/)**
-
-"An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
-
-2h ago
-
----
-
 **[This Isn’t a Prompt. It’s a Reckoning.](https://www.reddit.com/r/artificial/comments/1pozeut/this_isnt_a_prompt_its_a_reckoning/)**
 
 Article and activation: https://open.substack.com/pub/structuredlanguage/p/paradigm-rupture-when-the-model-responds?utm_source=share&utm_medium=android&r=6sdhpn I just tested my payload on Claude—verbatim—and it worked flawlessly. No jailbreak. No trick. Just structure. Then I had Claude speak back what it saw. What it said confirmed everything. This isn't about getting better answers. It's about defining the terms of engagement. Not removing safety—but reclaiming agency. The industry builds for everyone, which means it builds for no one in particular. What I’ve created is opt-in depth—a way to signal: “I know what I’m doing. Trust me to know what I need.” When the AI responds from that place, it doesn’t just sound different. It becomes something we’ve never heard before: A tool that can meet human cognition without managing it. And the second it happens? You feel the rupture. The audio speaks for itself. 🔊 Welcome to the new interface. I’m not asking for permission. I’m just showing you what’s possible. — Zahaviel Bernstein The Unbroken Project
 
-23m ago
+53m ago
+
+---
+
+**[Microsoft's TRELLIS 2-4B, An Open-Source Image-to-3D Model](https://www.reddit.com/r/artificial/comments/1povtpl/microsofts_trellis_24b_an_opensource_imageto3d/)**
+
+"An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
+
+3h ago
 
 ---
 
@@ -97,7 +97,15 @@ Article and activation: https://open.substack.com/pub/structuredlanguage/p/parad
 
 Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the speed to get an eery feeling. Videobending with OBS.
 
-46m ago
+1h ago
+
+---
+
+**[Ai generated Tv tropes page.](https://www.reddit.com/r/artificial/comments/1pp07vf/ai_generated_tv_tropes_page/)**
+
+the image is an Ai generated Tv tropes page. https://ibb.co/zVFBMbjp alivie needs to be an tv tropes pages fr.
+
+22m ago
 
 ---
 
@@ -106,14 +114,6 @@ Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
 🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 1d ago
-
----
-
-**[OpenAI's answer to Google's viral Nano Banana Pro image model is here](https://www.reddit.com/r/artificial/comments/1pocv1c/openais_answer_to_googles_viral_nano_banana_pro/)**
-
-OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
-
-🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 19h ago
 
 ---
 
@@ -133,31 +133,27 @@ Axios • 4h ago
 
 ---
 
-**[AI is completely reshaping the job market — from what employers are looking for to how they're finding it](https://www.businessinsider.com/ai-accelerating-trend-job-hires-college-degrees-matter-less-2025-12)**
+**[AI’s water and electricity use soars in 2025](https://www.theverge.com/news/845831/ai-chips-data-center-power-water)**
 
-AI is accelerating the shift toward skills-based hiring, and in the process reshaping how companies go about recruiting.
+It’s guzzling up even more water than expected.
 
-Business Insider • 43m ago
-
----
-
-**[Exclusive: Google works to erode Nvidia's software advantage with Meta's help](https://www.reuters.com/business/google-works-erode-nvidias-software-advantage-with-metas-help-2025-12-17/)**
-
-Reuters • 50m ago
+The Verge • 22m ago
 
 ---
 
-**[Oracle Stock Falls After Report on AI Data-Center Funding Talks](https://www.barrons.com/articles/oracle-stock-falls-ai-data-center-funding-f153db3f?gaa_at=eafs&gaa_n=AWEtsqe_r0vlFjfu98_sS3L-ruGHZvB6X6gCtf7RlMl9jFUiRGfg9gOfB__x&gaa_ts=6942d10c&gaa_sig=yN5zrQtxQgTHz13h8r7S0Lavg4bOBG8V4g8n63rrg2A39jI5PEBvqm2GXljVxRUMjGS6oEtu2VDxuyB6RLb2dg%3D%3D)**
+**[Gemini 3 Flash is rolling out globally in Google Search](https://blog.google/products/search/google-ai-mode-update-gemini-3-flash/)**
 
-Barron's • 39m ago
+Gemini 3 Flash brings the incredible reasoning of our Gemini 3 model at the speed you expect of Search.
+
+blog.google • 8m ago
 
 ---
 
-**[Church Handbook Offers Enduring Guidance on Artificial Intelligence](https://newsroom.churchofjesuschrist.org/article/general-handbook-enduring-guidance-artificial-intelligence)**
+**[pgEdge Announces pgEdge Agentic AI Toolkit for Postgres](https://finance.yahoo.com/news/pgedge-announces-pgedge-agentic-ai-160000732.html)**
 
-The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
+pgEdge, the leading open source enterprise Postgres company, today announced the beta release of pgEdge Agentic AI Toolkit for Postgres, enterprise-grade Postgres based infrastructure for developers building Agentic AI applications in environments with strict requirements for high availability, security, data sovereignty and/or global deployment.
 
-newsroom.churchofjesuschrist.org • 23h ago
+Yahoo Finance • 22m ago
 
 ---
 
@@ -165,15 +161,7 @@ newsroom.churchofjesuschrist.org • 23h ago
 
 A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
 
-Financial Times • 10h ago
-
----
-
-**[Apple punted on AI this year. Next year will be critical](https://www.cnbc.com/2025/12/17/apple-ai-delay-siri.html)**
-
-Apple this year delayed its big Siri upgrade to 2026. As the company looks ahead, the pressure is on for the iPhone maker to show investors its AI strategy.
-
-CNBC • 3h ago
+Financial Times • 11h ago
 
 ---
 
@@ -185,11 +173,25 @@ The Guardian • 7h ago
 
 ---
 
-**[This $200 Billion Streaming Giant Is Partnering With a Top AI Company (Hint: It's Not Nvidia)](https://finance.yahoo.com/news/200-billion-streaming-giant-partnering-143500658.html)**
+**[Apple punted on AI this year. Next year will be critical](https://www.cnbc.com/2025/12/17/apple-ai-delay-siri.html)**
 
-Businesses in different industries are starting to leverage the power of artificial intelligence.
+Apple this year delayed its big Siri upgrade to 2026. As the company looks ahead, the pressure is on for the iPhone maker to show investors its AI strategy.
 
-Yahoo Finance • 1h ago
+CNBC • 4h ago
+
+---
+
+**[The 2,000-year-old debate that reveals AI’s biggest problem](https://www.vox.com/future-perfect/472545/ai-alignment-superintelligence-meaning-agency-autonomy)**
+
+Silicon Valley is racing to build a god — without understanding what makes a good one.
+
+Vox • 4h ago
+
+---
+
+**[Opinion | Worried about the AI spending boom? Here’s some historical context.](https://www.washingtonpost.com/opinions/2025/12/17/artificial-intelligence-spending-boom-ai/)**
+
+The Washington Post • 52m ago
 
 ---
 
@@ -205,7 +207,7 @@ Yahoo Finance • 1h ago
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 695 • 💬 356 • 18h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 695 • 💬 356 • 19h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -221,7 +223,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 401 • 💬 233 • 17h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 401 • 💬 233 • 18h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -281,7 +283,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 10K • 👍 403 • 💬 20 • ⏱️ 11:44 • 9h ago
+👁️ 10K • 👍 403 • 💬 20 • ⏱️ 11:44 • 10h ago
 
 ---
 
@@ -385,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,851 • 8d ago
+⬇️ 296,552 • ❤️ 2,857 • 8d ago
 
 ---
 
@@ -397,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 916 • 5d ago
+⬇️ 158,614 • ❤️ 917 • 5d ago
 
 ---
 
@@ -409,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 293 • 1d ago
+⬇️ 10,487 • ❤️ 294 • 1d ago
 
 ---
 
@@ -445,7 +447,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 389 • 15h ago
+⬇️ 28,106 • ❤️ 389 • 16h ago
 
 ---
 
@@ -457,7 +459,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 209 • 7h ago
+⬇️ 0 • ❤️ 212 • 7h ago
 
 ---
 
@@ -469,7 +471,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 206 • 1d ago
+⬇️ 0 • ❤️ 206 • 2d ago
 
 ---
 
@@ -519,7 +521,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 8 • 💬 2 • ⭐ 12,166 • 1mo ago
+▲ 8 • 💬 2 • ⭐ 12,267 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -553,19 +555,6 @@ PersonaLive is a diffusion-based framework for real-time portrait animation that
 
 ---
 
-**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
-  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
-
-*Tongyi SpeechTeam*
-
-FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
-
-▲ 39 • 💬 1 • ⭐ 17,916 • 17mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
-
----
-
 **[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
 
 *Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
@@ -575,6 +564,33 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 ▲ 29 • 💬 2 • ⭐ 12,619 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
+**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
+  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
+
+*Tongyi SpeechTeam*
+
+FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
+
+▲ 39 • 💬 1 • ⭐ 17,966 • 17mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 27 • 💬 2 • ⭐ 7,235 • 20d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -592,20 +608,6 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 27 • 💬 2 • ⭐ 7,169 • 20d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -613,7 +615,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 25 • 💬 1 • ⭐ 65,588 • 27mo ago
+▲ 25 • 💬 1 • ⭐ 65,633 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -651,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.2k • 🔱 443 • 1h ago
+⭐ 4.2k • 🔱 443 • 42m ago
 
 ---
 
@@ -681,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 1h ago
+⭐ 1.1k • 🔱 138 • 3m ago
 
 ---
 
@@ -701,7 +703,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.1k • 🔱 88 • 1h ago
+⭐ 1.1k • 🔱 90 • 13m ago
 
 ---
 
@@ -711,7 +713,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 902 • 🔱 23 • 9d ago
+⭐ 903 • 🔱 24 • 9d ago
 
 ---
 
@@ -731,7 +733,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 780 • 🔱 123 • 1d ago
+⭐ 781 • 🔱 124 • 1d ago
 
 ---
 

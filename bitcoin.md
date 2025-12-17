@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T15:53:14.198403+00:00'
+updated: '2025-12-17T16:22:48.286682+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 15:53 UTC  
+**Last Updated:** December 17, 2025 at 16:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,443.13
+### $86,556.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -5.1%  
-**30d:** -5.5%  
-**90d:** -24.1%  
-**1y:** -12.7%  
+**24h:** -0.7%  
+**7d:** -6.6%  
+**30d:** -6.9%  
+**90d:** -25.2%  
+**1y:** -14.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1793.55B
+**Market Cap:** $1733.89B
 Rank #1
 
-**Circulating Supply:** 19,963,362 BTC
+**Circulating Supply:** 19,963,375 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-31.3%
 
 **All-Time Low:** $67.81
-+132442.4%
++127674.7%
 
 ---
 
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Back to 90k](https://www.reddit.com/r/Bitcoin/comments/1poyvvu/back_to_90k/)**
+
+Back to 90k.
+
+1h ago
+
+---
+
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -95,11 +103,17 @@ Rank #1
 
 ---
 
-**[Back to 90k](https://www.reddit.com/r/Bitcoin/comments/1poyvvu/back_to_90k/)**
+**[Your Choice?](https://www.reddit.com/r/Bitcoin/comments/1poyk0f/your_choice/)**
 
-Back to 90k.
+Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-44m ago
+1h ago
+
+---
+
+**[You really thought that was it? Bitcoin said: relax… back down.](https://www.reddit.com/r/Bitcoin/comments/1pp04ul/you_really_thought_that_was_it_bitcoin_said_relax/)**
+
+25m ago
 
 ---
 
@@ -107,15 +121,7 @@ Back to 90k.
 
 Just keep hodling and don't trust the news
 
-5h ago
-
----
-
-**[Your Choice?](https://www.reddit.com/r/Bitcoin/comments/1poyk0f/your_choice/)**
-
-Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
-
-57m ago
+6h ago
 
 ---
 
@@ -141,12 +147,6 @@ They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth ann
 
 ---
 
-**[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
-
-10h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -155,45 +155,27 @@ They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth ann
 
 Surging metals prices and dovish comments from leading Fed chair contender Chris Waller were among the news items possibly boosting crypto prices.
 
-CoinDesk • 33m ago
+CoinDesk • 1h ago
+
+---
+
+**[Norway’s Sovereign Wealth Fund Backs Metaplanet’s Bitcoin Strategy](https://bitcoinmagazine.com/news/norway-backs-metaplanets-bitcoin-strategy)**
+
+Norway just voted in favor of all five management proposals for Metaplanet’s upcoming Extraordinary General Meeting (EGM) on Dec. 22, endorsing the firm’s bitcoin treasury strategy.
+
+Bitcoin Magazine • 38m ago
+
+---
+
+**[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
+
+CCN.com • 2h ago
 
 ---
 
 **[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
 
-The Block • 4h ago
-
----
-
-**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
-
-Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
-
-Financial Times • 2d ago
-
----
-
-**[Speed Raises $8 Million to Expand Bitcoin and Stablecoin Payment Solutions](https://www.pymnts.com/news/fintech-investments/2025/speed-raises-8-million-dollars-expand-bitcoin-stablecoin-payment-solutions/)**
-
-Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
-
-PYMNTS.com • 18h ago
-
----
-
-**[Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City](https://decrypt.co/352685/bhutan-pledges-10000-bitcoin-worth-1b-fund-mindfulness-city)**
-
-The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
-
-Decrypt • 8h ago
-
----
-
-**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
-
-US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
-
-CryptoSlate • 6h ago
+The Block • 5h ago
 
 ---
 
@@ -207,23 +189,39 @@ thestreet.com • 18h ago
 
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice](https://www.tradingview.com/news/cointelegraph:7059821cb094b:0-bitcoin-treasury-kindly-md-faces-potential-delisting-after-nasdaq-price-notice/)**
+**[Bitcoin Treasury KindlyMD Faces Nasdaq Delisting With Stock Down 99%](https://decrypt.co/352614/bitcoin-treasury-kindlymd-faces-nasdaq-delisting-stock-down-99-percent)**
 
-Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
+KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-TradingView — Track All Markets • 19h ago
+Decrypt • 18h ago
 
 ---
 
-**[Scams involving Bitcoin ATMs on the rise, Mississippi secretary of state says](https://www.wapt.com/article/bitcoin-atm-scams-mississippi/69796967)**
+**[Speed Raises $8 Million to Expand Bitcoin and Stablecoin Payment Solutions](https://www.pymnts.com/news/fintech-investments/2025/speed-raises-8-million-dollars-expand-bitcoin-stablecoin-payment-solutions/)**
 
-Mississippi Secretary of State Michael Watson has a warning for Mississippians.
+Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
 
-WAPT • 1h ago
+PYMNTS.com • 19h ago
+
+---
+
+**[Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City](https://decrypt.co/352685/bhutan-pledges-10000-bitcoin-worth-1b-fund-mindfulness-city)**
+
+The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
+
+Decrypt • 9h ago
+
+---
+
+**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
+
+Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
+
+Financial Times • 2d ago
 
 ---
 
@@ -243,7 +241,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 3 • 3d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 3 • 4d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -303,7 +301,7 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 335 • 💬 62 • ⏱️ 46:53 • 46m ago
+👁️ 3K • 👍 335 • 💬 62 • ⏱️ 46:53 • 1h ago
 
 ---
 
@@ -313,7 +311,7 @@ BTC, SOL, ETH, bear market, and stocks! BITUNIX TRADE THE TOP COINS (available e
 
 📺 Lark Davis
 
-👁️ 7K • 👍 527 • 💬 31 • ⏱️ 57:30 • 3h ago
+👁️ 7K • 👍 527 • 💬 31 • ⏱️ 57:30 • 4h ago
 
 ---
 
@@ -323,7 +321,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 13K • 👍 1K • 💬 79 • ⏱️ 38:13 • 6h ago
+👁️ 13K • 👍 1K • 💬 79 • ⏱️ 38:13 • 7h ago
 
 ---
 
@@ -343,7 +341,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 171 • ⏱️ 13:25 • 16h ago
+👁️ 29K • 👍 2K • 💬 171 • ⏱️ 13:25 • 17h ago
 
 ---
 
@@ -363,7 +361,7 @@ Affiliate Links: (We May Earn Commission) Blofin: https://blofin.com/invite/Bitc
 
 📺 Andy Bitcoinsensus
 
-👁️ 2K • 👍 153 • 1h ago
+👁️ 2K • 👍 153 • 2h ago
 
 ---
 
@@ -373,7 +371,7 @@ Anthony and John Pompliano break down what's really happening in the bitcoin mar
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 809 • 💬 33 • ⏱️ 41:39 • 17h ago
+👁️ 18K • 👍 809 • 💬 33 • ⏱️ 41:39 • 18h ago
 
 ---
 
