@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T08:39:50.243667+00:00'
+updated: '2025-12-17T09:00:51.039678+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- repositories
 - news
 - social
-- repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 08:39 UTC  
+**Last Updated:** December 17, 2025 at 09:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 15h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-15h ago
+16h ago
 
 ---
 
@@ -87,7 +87,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 14h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 15h ago
 
 ---
 
@@ -95,7 +95,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 Between the new US Executive Order 14179 and the EU AI Act, the regulatory "splinternet" is officially here. ​Prompt injection is now the #1 security risk, and global regulators are demanding proof of lineage before granting market access. ​We need to move from static SBOMs to Dynamic AIBOMs. If you can't verify your training data, you can't ship the product. Here’s the architecture breakdown. https://www.linkedin.com/pulse/algorithmic-passport-why-global-ai-markets-demand-collin-hogue-spears-smepc?utm_source=share&utm_medium=member_android&utm_campaign=share_via
 
-24m ago
+45m ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 1h ago
 
 History has a way of rhyming on Wall Street -- and that's potentially worrisome news for the faces of the AI revolution.
 
-The Motley Fool • 33m ago
+The Motley Fool • 54m ago
 
 ---
 
@@ -155,7 +155,7 @@ The Motley Fool • 33m ago
 
 Beijing seems determined to take up the challenge of building most parts of the AI supply chain domestically.
 
-South China Morning Post • 7m ago
+South China Morning Post • 28m ago
 
 ---
 
@@ -169,7 +169,7 @@ The Guardian • 3h ago
 
 **[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
 
-The Washington Post • 14h ago
+The Washington Post • 15h ago
 
 ---
 
@@ -267,7 +267,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 143 • 💬 50 • 22h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 143 • 💬 50 • 23h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -275,31 +275,21 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 ## YouTube Videos: "ai"
 
-**[POV: Talking to AI in 2027](https://www.youtube.com/watch?v=LoUpn7h4Phc)**
-
-📺 Alberta Tech
-
-👁️ 1.0M • 👍 37K • 💬 578 • ⏱️ 0:34 • 1d ago
-
----
-
-**[Manus Just Dropped Its Most Powerful AI Yet](https://www.youtube.com/watch?v=vXMrezKs8Hw)**
-
-Manus released version 1.6 with its most powerful agent yet, pushing tasks to finish end to end with less supervision and fewer ...
-
-📺 AI Revolution
-
-👁️ 9K • 👍 349 • 💬 28 • ⏱️ 9:33 • 9h ago
-
----
-
 **[Bessent delivers urgent message to American workers: ‘Become an AI native’](https://www.youtube.com/watch?v=ni6hJXyJA0M)**
 
 U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the record tax refunds coming to Americans, detail the ...
 
 📺 Fox Business
 
-👁️ 139K • 👍 3K • 💬 700 • ⏱️ 14:37 • 17h ago
+👁️ 142K • 👍 3K • 💬 707 • ⏱️ 14:37 • 17h ago
+
+---
+
+**[POV: Talking to AI in 2027](https://www.youtube.com/watch?v=LoUpn7h4Phc)**
+
+📺 Alberta Tech
+
+👁️ 1.1M • 👍 38K • 💬 583 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -309,35 +299,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 48K • 👍 823 • 💬 121 • ⏱️ 11:23 • 1d ago
-
----
-
-**[Google NEW AI NotebookLM Can Start a 1 Person Business (no coding)](https://www.youtube.com/watch?v=zUZWLaOfYm8)**
-
-Notebooklm has a new update! ➡️ Digital Product Plan Builder: https://bit.ly/NotebookLMPrompt ...
-
-📺 Success With Sam
-
-👁️ 3K • 👍 169 • 💬 12 • ⏱️ 17:32 • 16h ago
-
----
-
-**[OpenAI Just Caught an AI Thinking!](https://www.youtube.com/watch?v=YBRyR6FPgl4)**
-
-OpenAI released circuit-sparsity, a research drop that exposes how a language model makes decisions internally. Instead of ...
-
-📺 AI Revolution
-
-👁️ 45K • 👍 2K • 💬 179 • ⏱️ 12:07 • 2d ago
-
----
-
-**[I bought 3 AI-generated products.. here’s what they REALLY look like. 🤡](https://www.youtube.com/watch?v=p6sslqc-BME)**
-
-📺 Maggie McGaugh
-
-👁️ 253K • 👍 12K • 💬 158 • ⏱️ 1:16 • 1d ago
+👁️ 50K • 👍 839 • 💬 122 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -347,17 +309,17 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 193K • 👍 6K • 💬 1K • ⏱️ 20:44 • 2d ago
+👁️ 197K • 👍 6K • 💬 1K • ⏱️ 20:44 • 2d ago
 
 ---
 
-**[A.I. Slop - Beyond the Black Void](https://www.youtube.com/watch?v=IPitD1eYLiM)**
+**[Google NEW AI NotebookLM Can Start a 1 Person Business (no coding)](https://www.youtube.com/watch?v=zUZWLaOfYm8)**
 
-The fellas at Red Letter Media like to talk about not just movies, but current trends as well. And there's nothing more distressing as ...
+Notebooklm has a new update! ➡️ Digital Product Plan Builder: https://bit.ly/NotebookLMPrompt ...
 
-📺 RedLetterMedia
+📺 Success With Sam
 
-👁️ 420K • 👍 28K • 💬 5K • ⏱️ 59:17 • 16h ago
+👁️ 3K • 👍 176 • 💬 13 • ⏱️ 17:32 • 16h ago
 
 ---
 
@@ -367,7 +329,45 @@ Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPT
 
 📺 Dylan Curious
 
-👁️ 9K • 👍 509 • 💬 89 • ⏱️ 30:05 • 1d ago
+👁️ 9K • 👍 508 • 💬 93 • ⏱️ 30:05 • 1d ago
+
+---
+
+**[#AI Farming Robot Harvesting Tomatoes | Smart Agriculture Technology #farmer #2025](https://www.youtube.com/watch?v=Y6L-cTYSGaY)**
+
+This image shows an advanced AI-powered farming robot harvesting ripe tomatoes with precision. Operated using smart controls, ...
+
+📺 Neural Fantasy
+
+👁️ 12K • ⏱️ 0:07 • 1h ago
+
+---
+
+**[Genspark&#39;s Super AI Agent is INSANE](https://www.youtube.com/watch?v=ayUZdS3ikqQ)**
+
+Try Genspark with free credits available upon signup. The wildest part? Genspark is offering unlimited usage of the AI Chat and AI ...
+
+📺 Tech With Tim
+
+👁️ 5K • 👍 170 • 💬 24 • ⏱️ 20:23 • 1d ago
+
+---
+
+**[The Final Beast of Prophecy: One Nation Under AI?](https://www.youtube.com/watch?v=TPdvxfYB6tU)**
+
+To help NYSTV in their mission : https://www.paypal.me/nowyouseetv Check out my new YouTube Channel @PoundersQuest ...
+
+📺 Now You See TV
+
+👁️ 30K • 👍 2K • 💬 401 • ⏱️ 51:06 • 1d ago
+
+---
+
+**[The Evolution Of AI #funny](https://www.youtube.com/watch?v=ROyPcyg3-Rc)**
+
+📺 Biggy Bailey
+
+👁️ 419K • 👍 20K • 💬 76 • ⏱️ 1:01 • 1d ago
 
 ---
 
@@ -443,7 +443,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 385 • 8h ago
+⬇️ 28,106 • ❤️ 385 • 9h ago
 
 ---
 
@@ -467,7 +467,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 222 • 2h ago
+⬇️ 0 • ❤️ 222 • 3h ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.1k • 🔱 437 • 18h ago
+⭐ 4.1k • 🔱 437 • 19h ago
 
 ---
 
@@ -679,7 +679,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 10h ago
+⭐ 1.1k • 🔱 138 • 11h ago
 
 ---
 

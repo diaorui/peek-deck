@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T08:39:50.251169+00:00'
+updated: '2025-12-17T09:00:51.048261+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 08:39 UTC  
+**Last Updated:** December 17, 2025 at 09:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
+**24h:** -0.5%  
 **7d:** -6.7%  
 **30d:** -7.1%  
 **90d:** -25.3%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-15h ago
+16h ago
 
 ---
 
@@ -133,7 +133,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -141,7 +141,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
 
-56m ago
+1h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 1d ago
 
 The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -265,7 +265,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 22h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 23h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -299,7 +299,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 166 • ⏱️ 9:01 • 10h ago
+👁️ 35K • 👍 2K • 💬 188 • ⏱️ 9:01 • 10h ago
 
 ---
 
@@ -309,7 +309,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 280 • 💬 133 • ⏱️ 10:50 • 8h ago
+👁️ 6K • 👍 304 • 💬 113 • ⏱️ 10:50 • 8h ago
 
 ---
 
@@ -319,17 +319,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 124 • ⏱️ 13:25 • 9h ago
-
----
-
-**[Larry Fink Is RIGHT About Bitcoin](https://www.youtube.com/watch?v=BzVOxdaaCWU)**
-
-Anthony and John Pompliano break down what's really happening in the bitcoin market — why price has stalled, how volatility is ...
-
-📺 Anthony Pompliano
-
-👁️ 12K • 👍 608 • 💬 4 • ⏱️ 41:39 • 10h ago
+👁️ 23K • 👍 2K • 💬 146 • ⏱️ 13:25 • 10h ago
 
 ---
 
@@ -339,17 +329,17 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 26K • 👍 1K • 💬 228 • ⏱️ 18:36 • 10h ago
+👁️ 30K • 👍 1K • 💬 220 • ⏱️ 18:36 • 10h ago
 
 ---
 
-**[BITCOIN IS DONE!!   (CRYPTO POWER SHIFT HAPPENING NOW)](https://www.youtube.com/watch?v=OyUF5thOUWU)**
+**[Larry Fink Is RIGHT About Bitcoin](https://www.youtube.com/watch?v=BzVOxdaaCWU)**
 
-Crypto looks chaotic on the surface — but underneath, a structural reset is taking place. Banks are openly challenging the Federal ...
+Anthony and John Pompliano break down what's really happening in the bitcoin market — why price has stalled, how volatility is ...
 
-📺 CLOCKWISE CRYPTO 
+📺 Anthony Pompliano
 
-👁️ 4K • 👍 261 • 💬 47 • ⏱️ 9:42 • 6h ago
+👁️ 14K • 👍 650 • 💬 4 • ⏱️ 41:39 • 11h ago
 
 ---
 
@@ -359,7 +349,17 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 2K • 💬 53 • ⏱️ 7:49 • 20h ago
+👁️ 18K • 👍 2K • 💬 47 • ⏱️ 7:49 • 21h ago
+
+---
+
+**[BITCOIN IS DONE!!   (CRYPTO POWER SHIFT HAPPENING NOW)](https://www.youtube.com/watch?v=OyUF5thOUWU)**
+
+Crypto looks chaotic on the surface — but underneath, a structural reset is taking place. Banks are openly challenging the Federal ...
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 7K • 👍 261 • 💬 48 • ⏱️ 9:42 • 6h ago
 
 ---
 
@@ -369,7 +369,17 @@ Strategy CEO Phong Le discusses what investors can look forward to in 2026 and a
 
 📺 Fox Business
 
-👁️ 46K • 👍 713 • 💬 462 • ⏱️ 10:03 • 1d ago
+👁️ 48K • 👍 724 • 💬 467 • ⏱️ 10:03 • 1d ago
+
+---
+
+**[LOST FAITH IN THE CRYPTO CYCLE? WATCH THIS | Raoul Pal at Solana Breakpoint | The Everything Code](https://www.youtube.com/watch?v=W_BD_FGaE2Y)**
+
+Download Raoul Pal's 5-year investing roadmap for free:* https://rvtv.io/41fVHWF Unlock the potential to showcase your brand to ...
+
+📺 Raoul Pal The Journey Man
+
+👁️ 15K • 👍 690 • 💬 29 • ⏱️ 1:52 • 11h ago
 
 ---
 
@@ -379,17 +389,7 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 9K • 👍 461 • 💬 55 • ⏱️ 57:23 • 17h ago
-
----
-
-**[Why Panic Selling Bitcoin NOW Could be the Worst Idea!](https://www.youtube.com/watch?v=ZZV--oWO_h8)**
-
-Aura Stop leaving yourself vulnerable to data breaches. Go to my sponsor https://aura.com/simplybitcoin to get a 14-day free trial ...
-
-📺 Simply Bitcoin
-
-👁️ 13K • 👍 927 • 💬 91 • ⏱️ 16:49 • 18h ago
+👁️ 10K • 👍 475 • 💬 55 • ⏱️ 57:23 • 18h ago
 
 ---
 

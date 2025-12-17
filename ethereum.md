@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T08:39:50.256536+00:00'
+updated: '2025-12-17T09:00:51.054375+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 08:39 UTC  
+**Last Updated:** December 17, 2025 at 09:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -9.6%  
-**30d:** -6.4%  
-**90d:** -34.6%  
+**24h:** -0.9%  
+**7d:** -9.5%  
+**30d:** -6.3%  
+**90d:** -34.5%  
 **1y:** -19.4%  
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 18h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 19h ago
 
 ---
 
@@ -118,13 +118,13 @@ When a Cypherpunk Says 'Permissioned' This is an EVMavericks production. All lin
 
 So this is awkward. Paid someone for some freelance work in USD⁤C and they apparently looked up my address and now they're asking questions about my wallet balance. Didn't even think about it until now but yeah anyone you pay can see literally everything. Is there actually any way to send stablecoins without exposing your entire transaction history? I looked into Tornado Cash but that whole situation is a mess now. Don't really want to use some random privacy chain nobody's heard of. I did find this thing called Anoma⁤Pay that's launching soon. They claim you can send private payments and it wor⁤ks across different chains - like you send USD⁤C on one chain and the person receives it on another or in a different token. Haven't tested it since it's not out yet but sounds pretty useful if it actually wor⁤ks. Says it uses your regular wallet so you don't need to set up anything new. This probably sounds paranoid but it's genuinely weird that paying someone $500 for work means they can see I'm holding $50k or whatever. That's not information I want to share with random contractors. How do businesses even handle this? Do they just not care or is there actually a solution I'm missing?
 
-8h ago
+9h ago
 
 ---
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -150,7 +150,7 @@ idk man. the speed, the fees, the ux... solana teams and tools built on top of i
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdNbp3lxZmIaGR4AqykhI5srvm-FPzJgtQvh0kpdT4Yt3wvlpLx3e9V&gaa_ts=69426fbf&gaa_sig=kkPDMNJJNgEL8z0W6Bg-mAuN1AX93eACrU7S2Vq3TRGvUIMet6y2frsmTd0IZPq6GEm-l1QrQfAmiCN3mgqPuQ%3D%3D)**
 
-Barron's • 10h ago
+Barron's • 11h ago
 
 ---
 
@@ -228,17 +228,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 2K • 💬 53 • ⏱️ 7:49 • 20h ago
-
----
-
-**[Why Ethereum Is Doomed 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=-CqX5Vh_qTE)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Bearhard - Bitcoin Strategy
-
-👁️ 3K • 👍 158 • 💬 32 • ⏱️ 8:42 • 20h ago
+👁️ 18K • 👍 2K • 💬 47 • ⏱️ 7:49 • 21h ago
 
 ---
 
@@ -252,43 +242,31 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 ---
 
+**[Why Ethereum Is Doomed 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=-CqX5Vh_qTE)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Bearhard - Bitcoin Strategy
+
+👁️ 3K • 👍 160 • 💬 33 • ⏱️ 8:42 • 20h ago
+
+---
+
+**[Ethereum is crashing. Bitmine buys another $300 Million. What if they stop buying? #crypto #ethereum](https://www.youtube.com/watch?v=d1qGTK0tals)**
+
+📺 Nick Ford
+
+👁️ 195 • 👍 1 • ⏱️ 1:54 • 3h ago
+
+---
+
 **[REALISTIC ETH Price Prediction for 2026](https://www.youtube.com/watch?v=M2T6_rjIvpA)**
 
 As we head into what I'm expecting to be a "Bottom Year" (or bear market year), it's time to look at realistic and reasonable targets ...
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 3K • 👍 216 • 💬 31 • ⏱️ 11:01 • 8h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=9VVof65W1VU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 129 • 💬 1 • ⏱️ 5:52 • 16h ago
-
----
-
-**[Paul Atkins &#39;Most Powerful Financial Surveillance&#39;.. JPMorgan Ethereum News! No Crypto Clarity Act!](https://www.youtube.com/watch?v=zE627b61AjQ)**
-
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
-
-📺 AllinCrypto
-
-👁️ 9K • 👍 667 • 💬 174 • ⏱️ 17:24 • 19h ago
-
----
-
-**[BITCOIN PRICE TRAP: Don&#39;t Be Fooled (WARNING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=d0kJXO-pwko)**
-
-BITCOIN PRICE TRAP: Don't Be Fooled (WARNING)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 310 • 💬 112 • ⏱️ 20:42 • 12h ago
+👁️ 4K • 👍 257 • 💬 40 • ⏱️ 11:01 • 8h ago
 
 ---
 
@@ -298,7 +276,37 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 4K • 👍 247 • 💬 62 • ⏱️ 10:03 • 1d ago
+👁️ 4K • 👍 248 • 💬 66 • ⏱️ 10:03 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=9VVof65W1VU)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 130 • 💬 1 • ⏱️ 5:52 • 16h ago
+
+---
+
+**[Cathie Wood Swaps Tesla For Ethereum🚨Crypto Market Update](https://www.youtube.com/watch?v=r74Wf7xsdXk)**
+
+Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a consumer-focused blockchain, each taking on key ...
+
+📺 Paul Barron Network
+
+👁️ 53K • 👍 2K • 💬 113 • ⏱️ 13:11 • 1d ago
+
+---
+
+**[BITCOIN PRICE TRAP: Don&#39;t Be Fooled (WARNING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=d0kJXO-pwko)**
+
+BITCOIN PRICE TRAP: Don't Be Fooled (WARNING)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 319 • 💬 88 • ⏱️ 20:42 • 13h ago
 
 ---
 
@@ -308,17 +316,7 @@ Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substanti
 
 📺 Paul Barron Network
 
-👁️ 18K • 👍 887 • 💬 196 • ⏱️ 29:25 • 16h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=KipoZsNg-QI)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Solotudonna For Professional Nails (Solotudonna)
-
-👁️ 3K • 👍 2K • 8h ago
+👁️ 18K • 👍 911 • 💬 200 • ⏱️ 29:25 • 16h ago
 
 ---
 
