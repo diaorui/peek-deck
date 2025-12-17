@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T21:24:52.539331+00:00'
+updated: '2025-12-17T21:42:18.023635+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 21:24 UTC  
+**Last Updated:** December 17, 2025 at 21:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -85,6 +85,14 @@ In our multi-step workflow where each step depended on the previous one’s outp
 
 ---
 
+**[The Year in Slop](https://www.reddit.com/r/artificial/comments/1pp5cm1/the_year_in_slop/)**
+
+This was the year that A.I.-generated content passed a kind of audiovisual Turing test, sometimes fooling us against our better judgment.
+
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 2h ago
+
+---
+
 **[Grok chatbot faces scrutiny after sharing false claims about Bondi Beach shooting](https://www.reddit.com/r/artificial/comments/1po74xm/grok_chatbot_faces_scrutiny_after_sharing_false/)**
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
@@ -97,7 +105,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 54m ago
+🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 1h ago
 
 ---
 
@@ -109,29 +117,69 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 ---
 
-**[The Year in Slop](https://www.reddit.com/r/artificial/comments/1pp5cm1/the_year_in_slop/)**
-
-This was the year that A.I.-generated content passed a kind of audiovisual Turing test, sometimes fooling us against our better judgment.
-
-🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 2h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
-**[Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)**
+**[Why Nvidia, Broadcom and other AI stocks are falling sharply](https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-ai-stocks-are-falling-sharply-25d35edd?gaa_at=eafs&gaa_n=AWEtsqdmkKhMOfdugmjmZY0Fh5tZC5vXK05eGlAn_wAGiQmUffDuolVyRwXN&gaa_ts=69432722&gaa_sig=257jUkyHeLkwDLzK9i5fd52fZUPAjdtH_aXMPorhT9Pj5HeS8ywV_SKkGV1iMLYEkkDvGSXhnd4HAaxbXDEwUA%3D%3D)**
 
-A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
+MarketWatch • 1h ago
 
-Financial Times • 16h ago
+---
+
+**[Stocks close sharply lower as AI angst returns](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866)**
+
+The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
+
+NBC News • 23m ago
+
+---
+
+**[Nvidia stock price takes another hit as Wall Street debates an AI bubble. Here’s why it’s down today](https://www.fastcompany.com/91462313/nvidia-stock-price-takes-another-hit-as-wall-street-debates-an-ai-bubble-heres-why-its-down-today)**
+
+Fast Company • 39m ago
+
+---
+
+**[Micron forecasts blowout earnings on booming AI market, shares rise 14%](https://finance.yahoo.com/news/chipmaker-micron-forecasts-quarterly-revenue-210411999.html)**
+
+Micron Technology forecast second-quarter adjusted profit at nearly double ​what Wall Street analysts expected on Wednesday, buoyed by ‌soaring prices for memory chips spurred by tight supplies and booming demand ‌from artificial intelligence data centers. Shares of the Boise, Idaho-based company rose 14% in extended trading after the forecast. Micron said it expected adjusted profit of $8.42 per share, plus or minus 20 ⁠cents, versus analyst estimates ‌of $4.78 per share, according to LSEG data.
+
+Yahoo Finance • 38m ago
+
+---
+
+**[Micron again reports record sales as AI market continues to boom](https://www.syracuse.com/micron/2025/12/micron-again-reports-record-sales-as-ai-market-continues-to-boom.html)**
+
+Micron is getting ready to break ground on a massive chipmaking complex in Central New York.
+
+Syracuse.com • 22m ago
+
+---
+
+**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[Amazon says AI chief Rohit Prasad is leaving, Peter DeSantis to lead 'AGI' group](https://www.cnbc.com/2025/12/17/amazon-ai-chief-prasad-leaving-peter-desantis-agi-group.html)**
+
+Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving at the end of this year, the company confirmed.
+
+CNBC • 3h ago
+
+---
+
+**[Amazon AI chief Rohit Prasad leaving; Infrastructure exec Peter DeSantis to lead unified AI group](https://www.geekwire.com/2025/amazon-ai-chief-rohit-prasad-leaving-infrastructure-exec-peter-desantis-to-lead-unified-ai-group/)**
+
+GeekWire • 4h ago
 
 ---
 
@@ -139,59 +187,7 @@ Financial Times • 16h ago
 
 Prasad's exit comes after Amazon struggled to show its internal AI efforts could match those of rivals and amid reports of a new AWS investment in OpenAI
 
-Fortune • 50m ago
-
----
-
-**[Hollywood stars launch Creators Coalition on AI](https://www.latimes.com/entertainment-arts/business/story/2025-12-17/hollywood-stars-launch-creators-coalition-on-ai)**
-
-A group of 18 people who work in the entertainment industry, including actors Joseph Gordon-Levitt and Natasha Lyonne launched a new coalition that aims to advocate for the rights of creators amid AI's boom.
-
-Los Angeles Times • 1h ago
-
----
-
-**[Inside The Enterprise Shift Redefining Autonomous AI](https://www.forbes.com/sites/kolawolesamueladebayo/2025/12/17/inside-the-enterprise-shift-redefining-autonomous-ai/)**
-
-As AI agents take on real work, new rules for autonomy are emerging that favor reliability, clarity and human control.
-
-Forbes • 59m ago
-
----
-
-**[AI spending worries hit industrials, Trump takes aim at defense stocks](https://www.cnbc.com/2025/12/17/ai-spending-worries-hit-industrials-trump-takes-aim-at-defense-stocks.html)**
-
-Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
-
-CNBC • 1h ago
-
----
-
-**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
-
-Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
-
-The Guardian • 3h ago
-
----
-
-**[Google Releases More Efficient Gemini 3 AI Model Across Products](https://www.bloomberg.com/news/articles/2025-12-17/google-releases-more-efficient-gemini-3-ai-model-across-products)**
-
-Bloomberg.com • 5h ago
-
----
-
-**[The 2,000-year-old debate that reveals AI’s biggest problem](https://www.vox.com/future-perfect/472545/ai-alignment-superintelligence-meaning-agency-autonomy)**
-
-Silicon Valley is racing to build a god — without understanding what makes a good one.
-
-Vox • 9h ago
-
----
-
-**[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
-
-Axios • 9h ago
+Fortune • 1h ago
 
 ---
 
@@ -201,13 +197,13 @@ Axios • 9h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 814 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 815 • 💬 245 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 778 • 💬 393 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 785 • 💬 395 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -215,7 +211,7 @@ Axios • 9h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 582 • 💬 983 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 582 • 💬 984 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -223,7 +219,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 494 • 💬 290 • 4h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 544 • 💬 323 • 4h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -231,7 +227,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 490 • 💬 269 • 23h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 502 • 💬 275 • 23h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -253,7 +249,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 299 • 💬 312 • 2d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 299 • 💬 313 • 2d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -261,7 +257,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 179 • 💬 122 • 12h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 189 • 💬 131 • 13h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -269,7 +265,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 156 • 💬 50 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 157 • 💬 51 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -321,7 +317,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 Fox Business
 
-👁️ 7K • 👍 168 • 💬 77 • ⏱️ 7:54 • 23h ago
+👁️ 7K • 👍 168 • 💬 77 • ⏱️ 7:54 • 1d ago
 
 ---
 
@@ -387,7 +383,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,866 • 9d ago
+⬇️ 296,552 • ❤️ 2,868 • 9d ago
 
 ---
 
@@ -399,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 921 • 5d ago
+⬇️ 158,614 • ❤️ 922 • 5d ago
 
 ---
 
@@ -411,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 299 • 36m ago
+⬇️ 10,487 • ❤️ 299 • 43m ago
 
 ---
 
@@ -447,7 +443,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 225 • 12h ago
+⬇️ 0 • ❤️ 225 • 13h ago
 
 ---
 
@@ -459,7 +455,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 217 • 2d ago
+⬇️ 0 • ❤️ 218 • 2d ago
 
 ---
 
@@ -493,7 +489,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 102,395 • ❤️ 468 • 8d ago
+⬇️ 102,395 • ❤️ 469 • 8d ago
 
 ---
 
@@ -643,7 +639,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.2k • 🔱 2.7k • 11h ago
+⭐ 17.2k • 🔱 2.7k • 12h ago
 
 ---
 
@@ -653,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.2k • 🔱 443 • 5h ago
+⭐ 4.2k • 🔱 443 • 6h ago
 
 ---
 
@@ -683,7 +679,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.2k • 🔱 99 • 4h ago
+⭐ 1.2k • 🔱 99 • 5h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T21:24:52.556797+00:00'
+updated: '2025-12-17T21:42:18.041414+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 21:24 UTC  
+**Last Updated:** December 17, 2025 at 21:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,11 +56,35 @@ Ben Procter, one of the designers behind Avatar’s human technology, explains h
 
 ---
 
+**[End to end learning vs structured control](https://www.reddit.com/r/robotics/comments/1pp7xe8/end_to_end_learning_vs_structured_control/)**
+
+On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM Just watched the Boston Dynamics tech talk on The Humanoid Mission in Manufacturing. One slide frames the roadmap as a gradual compression of layers, where classical perception, planning, manipulation, and control are absorbed into more unified end to end models. What stood out to me is that this suggests classical and optimization based control may be progressively replaced rather than simply augmented. Given that direction, is it still worth investing heavily in classical or optimization based control research for handling physics, contact, and stability underneath, or do people expect those responsibilities to eventually be fully learned by VLM or VLA style models? Curious how others here think about this tradeoff, especially in the context of balance and contact heavy manufacturing tasks.
+
+42m ago
+
+---
+
+**[Hunan Handwriting Recreation](https://www.reddit.com/r/robotics/comments/1pp7ekn/hunan_handwriting_recreation/)**
+
+I'm working on a project which aims at recreating the hand motion at the joint level while writing. I've used the SynGrasp hand model so far but I'm having a lot of trouble calculating the q(joint variables) values for each waypoint of the pre defined trajectory. If someone has worked on something similar do you mind giving a helping hand? I read the SynGrasp paper but it's genuinely confusing to animate the hand model for each waypoint. I'm only focusing on the kinematics of the motion.
+
+1h ago
+
+---
+
 **[Help for my school project](https://www.reddit.com/r/robotics/comments/1pp2myk/help_for_my_school_project/)**
 
 Can i make a phone bluetooth following cart ( phone acts as beacon cart follows it ) for indoor use with object avoidance only with these components esp32, 2 (torque≥10 kg.cm) dc motors, motor driver bts7960, 3 ultrasonic sensors,12 v 12 ah li-ion battery . Only using these essential parts, am i missing anything essential to make a cart like this Load excluding body weight 17 pounds (8 kg)
 
-3h ago
+4h ago
+
+---
+
+**[How come everybody builds DOF arms, but nobody ever uses gantry (XYZ) ones?](https://www.reddit.com/r/robotics/comments/1pozk1f/how_come_everybody_builds_dof_arms_but_nobody/)**
+
+In principle I understand the implicit flexibility of DOF arms, but in practice they're usually slow, imprecise, small payload only, expensive, singularities etc etc. Gantry (XYZ) robots are so much faster, precise, don't have singularities, you name it. But nobody ever seems to use or build them, why is that?
+
+6h ago
 
 ---
 
@@ -72,43 +96,19 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 ---
 
+**[PROJECT: JAKE (Dad & Son project)](https://www.reddit.com/r/robotics/comments/1pp8vyl/project_jake_dad_son_project/)**
+
+PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day and he said he wanted to invent something with me. I said what kind of thing would you like to make and he said a robot that helps old people. So here we are! The plans have been drawn! Project Jake has come to life. Now I fully understand that a lot of people here are far more advanced than a dad and son project but I really want this to be a special little project for a bit of bonding time. We have decided to start with the head and was going to use an old CRT Monitor but I have come to the conclusion that this would be far too difficult / heavy to support. So I have come to the conclusion of using an old flat screen monitor and building a frame around the back of it. Was thinking of grabbing a cheap old pc to wire up into the body. And this is where I am up to at the moment. Any ideas, tips and resources would be greatly appreciated !!
+
+4m ago
+
+---
+
 **[A single real-world data capture by robot arm](https://www.reddit.com/r/robotics/comments/1pp2vza/a_single_realworld_data_capture_by_robot_arm/)**
 
 An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
 
 3h ago
-
----
-
-**[Hunan Handwriting Recreation](https://www.reddit.com/r/robotics/comments/1pp7ekn/hunan_handwriting_recreation/)**
-
-I'm working on a project which aims at recreating the hand motion at the joint level while writing. I've used the SynGrasp hand model so far but I'm having a lot of trouble calculating the q(joint variables) values for each waypoint of the pre defined trajectory. If someone has worked on something similar do you mind giving a helping hand? I read the SynGrasp paper but it's genuinely confusing to animate the hand model for each waypoint. I'm only focusing on the kinematics of the motion.
-
-46m ago
-
----
-
-**[Robot simulation software](https://www.reddit.com/r/robotics/comments/1pp66q2/robot_simulation_software/)**
-
-I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but without actually building the robot. I'm currently trying to put something together with threejs and the jolt physics engine, but I'd have to assume there's probably a better way to do it. If so, what are better ways to simulate a robot? +1 if it can run in a browser
-
-1h ago
-
----
-
-**[How come everybody builds DOF arms, but nobody ever uses gantry (XYZ) ones?](https://www.reddit.com/r/robotics/comments/1pozk1f/how_come_everybody_builds_dof_arms_but_nobody/)**
-
-In principle I understand the implicit flexibility of DOF arms, but in practice they're usually slow, imprecise, small payload only, expensive, singularities etc etc. Gantry (XYZ) robots are so much faster, precise, don't have singularities, you name it. But nobody ever seems to use or build them, why is that?
-
-5h ago
-
----
-
-**[Hi, I’m new to robotics and I had a question related to a robot i’m working on now.](https://www.reddit.com/r/robotics/comments/1porfe0/hi_im_new_to_robotics_and_i_had_a_question/)**
-
-I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
-
-12h ago
 
 ---
 
@@ -134,7 +134,7 @@ The New York Times • 16h ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
@@ -170,11 +170,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[AMC Robotics: A Low-Float Trade Posing As A Robotics Investment (NASDAQ:AMCI)](https://seekingalpha.com/article/4853719-amc-robotics-a-low-float-trade-posing-as-a-robotics-investment)**
+**[Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology (AMCI:NASDAQ)](https://seekingalpha.com/news/4531631-meet-amc-robotics-the-spac-name-looking-for-a-breakthrough-in-ai-powered-robotic-technology)**
 
-AMC Robotics Corp. surged nearly 170%, driven by speculative trading rather than a clear fundamental catalyst. Learn more about AMCI stock here.
+Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
 
-Seeking Alpha • 1d ago
+Seeking Alpha • 2d ago
 
 ---
 
@@ -186,7 +186,7 @@ InvestorPlace • 3d ago
 
 ---
 
-**[An MIT roboticist who cofounded bankrupt Roomba maker iRobot says Elon Musk's vision of humanoid robot assistants is 'pure fantasy thinking'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
+**[Cofounder of bankrupt Roomba maker iRobot says Elon Musk's vision of robots is 'pure fantasy'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 

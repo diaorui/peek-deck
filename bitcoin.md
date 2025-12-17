@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T21:24:52.547691+00:00'
+updated: '2025-12-17T21:42:18.032151+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 21:24 UTC  
+**Last Updated:** December 17, 2025 at 21:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -7.4%  
-**30d:** -7.7%  
-**90d:** -25.8%  
-**1y:** -14.7%  
+**24h:** -2.3%  
+**7d:** -7.5%  
+**30d:** -7.8%  
+**90d:** -25.9%  
+**1y:** -14.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1716.97B
+**Market Cap:** $1711.66B
 Rank #1
 
 **Circulating Supply:** 19,963,453 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.8%
+-32.0%
 
 **All-Time Low:** $67.81
-+126698.4%
++126350.4%
 
 ---
 
@@ -111,19 +111,11 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Dumping again. I'm sorry.](https://www.reddit.com/r/Bitcoin/comments/1pp4vty/dumping_again_im_sorry/)**
-
-2h ago
-
----
-
-**[Guess where my daily DCA buy happened lol](https://www.reddit.com/r/Bitcoin/comments/1pp46g0/guess_where_my_daily_dca_buy_happened_lol/)**
-
-Tippity top of the daily mountain range
 
 2h ago
 
@@ -137,11 +129,19 @@ Medium term holder 5+ years. I'm seeing so many posts with folks showing technic
 
 ---
 
-**[That's so Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1pot57w/thats_so_bitcoin_right_now/)**
+**[Guess where my daily DCA buy happened lol](https://www.reddit.com/r/Bitcoin/comments/1pp46g0/guess_where_my_daily_dca_buy_happened_lol/)**
 
-Just keep hodling and don't trust the news
+Tippity top of the daily mountain range
 
-11h ago
+3h ago
+
+---
+
+**[It’s been two months… relaxxx](https://www.reddit.com/r/Bitcoin/comments/1pp7qp8/its_been_two_months_relaxxx/)**
+
+Everyone needs to chill and stack sats
+
+50m ago
 
 ---
 
@@ -153,7 +153,7 @@ Just keep hodling and don't trust the news
 
 One analyst isn't quite ready to call a bottom, but says bitcoin is surely in an oversold condition.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -163,37 +163,13 @@ Investor's Business Daily • 6h ago
 
 ---
 
-**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://www.bloomberg.com/news/articles/2025-12-17/bitcoin-s-silent-exodus-hits-crypto-as-long-time-buyers-cash-out)**
-
-Bitcoin’s most entrenched investors are still cashing out — and the pressure is starting to show.
-
-Bloomberg.com • 41m ago
-
----
-
-**[Peter Schiff Warns of Imminent Bitcoin Crash — Says US Headed for ‘Economic Crisis’](https://finance.yahoo.com/news/peter-schiff-warns-imminent-bitcoin-123215877.html)**
-
-Peter Schiff predicts Bitcoin will crash before the U.S. dollar. The Bitcoin critic warned of a major U.S. economic crisis. Technical analysis suggests further downside ...
-
-Yahoo Finance • 8h ago
-
----
-
 **[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
 
 The Block • 10h ago
 
 ---
 
-**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
-
-Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
-
-Financial Times • 2d ago
-
----
-
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfByGfJKycbTAb_rK6_-u9cVc6RoY_Xt5NFPVJVvnKPTVuLkNt3k_5M&gaa_ts=69431c6d&gaa_sig=1gb4QuHXOaZ-lzO0FaFZcFhCssO7q6sc-fK5bA4BiMZBoob1VOo_RO9OC_jot2g5fooGhb1g_Kz-YXSfIOQRsQ%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfMFdprcdOKuXuXopV0J6i652P7-kRiB_GSeaDLV5d6jYr_lGgfx81-&gaa_ts=69432723&gaa_sig=LrgUSM4X9Gg-isErdKQ39Q1IFx2ldSqCT2X9LG-hZaqMxZFOwn-OWTPKmKB4Qe5vJHIJlmklhQzuDIICyfvbog%3D%3D)**
 
 Barron's • 2d ago
 
@@ -215,9 +191,33 @@ TradingView — Track All Markets • 4h ago
 
 ---
 
+**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
+
+Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
+
+Financial Times • 2d ago
+
+---
+
+**[Will Bitcoin Hit $200,000 in 2026?](https://finance.yahoo.com/news/bitcoin-hit-200-000-2026-185000629.html)**
+
+Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
 
 The Block • 1d ago
+
+---
+
+**[Prediction: Bitcoin Will Be Worth $270,000 in 5 Years](https://www.fool.com/investing/2025/12/15/prediction-bitcoin-will-be-worth-270000-in-5-years/)**
+
+Despite its impressive long-term trajectory, Bitcoin remains a polarizing asset.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -254,6 +254,14 @@ Bithoven is a smart contract language for composing powerful and secure instrume
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
 ⬆️ 1 • 💬 1 • 5d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+
+---
+
+**[Show HN: ZetaCrush: LLM Bitcoin Mining Competition](https://news.ycombinator.com/item?id=46305491)**
+
+ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
+
+⬆️ 1 • 💬 0 • 37m ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -297,7 +305,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 130 • ⏱️ 48:48 • 5h ago
+👁️ 25K • 👍 1K • 💬 130 • ⏱️ 48:48 • 6h ago
 
 ---
 
@@ -317,7 +325,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 239 • ⏱️ 9:01 • 22h ago
+👁️ 53K • 👍 3K • 💬 239 • ⏱️ 9:01 • 23h ago
 
 ---
 

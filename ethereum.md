@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T21:24:52.553612+00:00'
+updated: '2025-12-17T21:42:18.038181+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 21:24 UTC  
+**Last Updated:** December 17, 2025 at 21:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,824.76
+### $2,815.20
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.7%  
-**7d:** -12.9%  
-**30d:** -9.9%  
+**24h:** -4.8%  
+**7d:** -13.1%  
+**30d:** -10.0%  
 **90d:** -37.0%  
-**1y:** -22.4%  
+**1y:** -22.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $341.00B
+**Market Cap:** $339.80B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--43.0%
+-43.1%
 
 **All-Time Low:** $0.43
-+651562.1%
++649832.2%
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 5h ago
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 6h ago
 
 ---
 
@@ -142,23 +142,31 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfR22c2qbEv2ac-DfVpkMY30QYiI9E84JGKlLlBBCzh5mkiklt51UOE&gaa_ts=69431c6e&gaa_sig=Y8FEnnQ_ohQIyKAsguXsE-JwsxVq89lC66U-1x2JMdYX641eyXZxNqg0bIqR32aG6pVUfNp6XaT4NgtzqGW3SQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqeC1IXA_m9v6EQ4VoAntNMpCfznR5JlUlrvF7fSbzhytFN5DUfD2oWz&gaa_ts=69432725&gaa_sig=jf4hGxHC-i7uBSu07TC-ap6BZ0-qSoEqdir5-bhvfrbe3suSmLrEmaCcZFQG1nqo2FBouGqLfaPhL3-bV-tQdA%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
+
+---
+
+**[Why Crypto Is Going Down Today? Bitcoin, XRP Price, Ethereum and Dogecoin Moves Under Death Cross](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-bitcoin-xrp-price-ethereum-and-dogecoin-moves-under-death-cross/)**
+
+Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
+
+Finance Magnates • 6h ago
+
+---
+
+**[Why Bitcoin, Ethereum and XRP Prices Are Crashing Today](https://www.tradingview.com/news/coinpedia:a45941bd2094b:0-why-bitcoin-ethereum-and-xrp-prices-are-crashing-today/)**
+
+Cryptocurrency prices are under pressure today, with Bitcoin, Ethereum and XRP all trading lower as global market sentiment turns red. The total crypto market value has slipped to around $2.92 trillion, down nearly 2%, while investor sentiment remains weak. Bitcoin fell toward the $86,000 level aft…
+
+TradingView — Track All Markets • 4h ago
 
 ---
 
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
 The Block • 2d ago
-
----
-
-**[Here's Why Ethereum Sank More than 4% Today](https://www.fool.com/investing/2025/12/17/heres-why-ethereum-sank-more-than-4-today/)**
-
-The world's second-largest cryptocurrency isn't feeling the love from investors today.
-
-The Motley Fool • 1h ago
 
 ---
 
@@ -170,31 +178,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Here's Why Ethereum Sank More than 4% Today](https://www.fool.com/investing/2025/12/17/heres-why-ethereum-sank-more-than-4-today/)**
+
+The world's second-largest cryptocurrency isn't feeling the love from investors today.
+
+The Motley Fool • 1h ago
+
+---
+
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
 The Block • 8h ago
-
----
-
-**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://finance.yahoo.com/news/tom-lees-bitmine-keeps-buying-154149939.html)**
-
-Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 1d ago
-
----
-
-**[Cathie Wood's Ark Invest Buys the Dip on Coinbase, Circle and Tom Lee’s Ethereum Giant BitMine](https://decrypt.co/352571/cathie-woods-ark-invest-buys-dip-coinbase-circle-tom-lee-ethereum-bitmine)**
-
-The actively managed ETFs of Cathie Wood's Ark Invest loaded up on crypto-related equities like Coinbase, BitMine, and Circle as prices sagged Monday.
-
-Decrypt • 1d ago
 
 ---
 
@@ -209,6 +203,14 @@ TipRanks • 1d ago
 U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
 
 Decrypt • 1d ago
+
+---
+
+**[BlackRock moves 47K Ethereum in a day: But the real story isn’t a sell-off](https://ambcrypto.com/blackrock-moves-47k-ethereum-in-a-day-but-the-real-story-isnt-a-sell-off/)**
+
+What are institutions seeing that retail traders are missing?
+
+AMBCrypto • 10h ago
 
 ---
 
@@ -232,7 +234,7 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 330 • 💬 55 • ⏱️ 11:01 • 20h ago
+👁️ 6K • 👍 330 • 💬 55 • ⏱️ 11:01 • 21h ago
 
 ---
 
