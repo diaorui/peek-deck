@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-16T23:50:26.270569+00:00'
+updated: '2025-12-17T00:44:08.067002+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 16, 2025 at 23:50 UTC  
+**Last Updated:** December 17, 2025 at 00:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -10.8%  
-**30d:** -2.3%  
-**90d:** -35.5%  
-**1y:** -23.9%  
+**24h:** -0.0%  
+**7d:** -9.0%  
+**30d:** -5.8%  
+**90d:** -34.1%  
+**1y:** -18.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.92B
+**Market Cap:** $355.71B
 Rank #2
 
 **Circulating Supply:** 120,695,087 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.3%
+-40.5%
 
 **All-Time Low:** $0.43
-+682332.6%
++680117.7%
 
 ---
 
@@ -70,7 +70,7 @@ No max supply
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 9h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 10h ago
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -93,6 +93,14 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
 6h ago
+
+---
+
+**[Someone I paid just asked me why I have so much USDC sitting around](https://www.reddit.com/r/ethereum/comments/1pohn20/someone_i_paid_just_asked_me_why_i_have_so_much/)**
+
+So this is awkward. Paid someone for some freelance work in USD⁤C and they apparently looked up my address and now they're asking questions about my wallet balance. Didn't even think about it until now but yeah anyone you pay can see literally everything. Is there actually any way to send stablecoins without exposing your entire transaction history? I looked into Tornado Cash but that whole situation is a mess now. Don't really want to use some random privacy chain nobody's heard of. I did find this thing called Anoma⁤Pay that's launching soon. They claim you can send private payments and it wor⁤ks across different chains - like you send USD⁤C on one chain and the person receives it on another or in a different token. Haven't tested it since it's not out yet but sounds pretty useful if it actually wor⁤ks. Says it uses your regular wallet so you don't need to set up anything new. This probably sounds paranoid but it's genuinely weird that paying someone $500 for work means they can see I'm holding $50k or whatever. That's not information I want to share with random contractors. How do businesses even handle this? Do they just not care or is there actually a solution I'm missing?
+
+51m ago
 
 ---
 
@@ -136,29 +144,37 @@ Hi everyone! I am seeing that lately ETH has been slightly inflationary. I'm try
 
 ---
 
-**[Daily General Discussion December 13, 2025](https://www.reddit.com/r/ethereum/comments/1ple806/daily_general_discussion_december_13_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcKc5rOFY1gwoQA7we-Q5bWa0xVMyRPnIrTpcd991_3xOgMEx5uYbzy&gaa_ts=6941ed0d&gaa_sig=6O4gCrWbBFs3eLOl1kbn_-ESwok_a7o4Oe5_Geiw-835KNwBsLdGP5Wbzgb8ry96OMSEvSxFjgCpjPGjPVa59w%3D%3D)**
-
-Barron's • 2h ago
-
----
 
 **[Bitcoin and Ethereum Wobble as US Reports Highest Unemployment Rate Since 2021](https://decrypt.co/352532/bitcoin-ethereum-wobble-us-highest-unemployment-rate-since-2021)**
 
 Bitcoin and Ethereum dipped and then climbed Tuesday following U.S. jobs data that shows the highest unemployment rate in four years.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqenzSxmmyOuP4hEw6OVC4HJjTd8g7hOiORHMeqVHJKllx2pum1yrUtD&gaa_ts=6942003d&gaa_sig=DsydfbJibDFM2N9M3tpfHgN0bKK4appNoo6pI7BSSvfBa_5JbM9buzKzW-b_2pC_ItOZYOp6u7EsTG4LGkEEyA%3D%3D)**
+
+Barron's • 3h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
+
+Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
+
+Decrypt • 1d ago
+
+---
+
+**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
+
+Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -166,7 +182,15 @@ Decrypt • 8h ago
 
 Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
+
+---
+
+**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://finance.yahoo.com/news/tom-lees-bitmine-keeps-buying-154149939.html)**
+
+Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,41 +202,23 @@ CoinDesk • 1d ago
 
 ---
 
-**['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
-
-The Block • 1d ago
-
----
-
 **[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
 
 The Block • 1d ago
 
 ---
 
+**[Tokenization News: $4T Bank JPMorgan Launches Onchain Fund on Ethereum](https://www.coindesk.com/business/2025/12/15/jpmorgan-launches-tokenized-money-market-fund-on-ethereum-as-wall-street-moves-onchain-report)**
+
+The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.
+
+CoinDesk • 1d ago
+
+---
+
 **[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[JPMorgan Taps Ethereum for Tokenized 'MONY' Fund](https://finance.yahoo.com/news/jpmorgan-taps-ethereum-tokenized-mony-151021495.html)**
-
-JPMorgan Chase will begin offering an Ethereum-based, tokenized money-market fund called "MONY" to qualified investors on Tuesday.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 8h ago
-
----
-
-**[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
-
-TipRanks • 7h ago
 
 ---
 
@@ -226,7 +232,7 @@ Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substanti
 
 📺 Paul Barron Network
 
-👁️ 13K • 👍 756 • 💬 159 • ⏱️ 29:25 • 7h ago
+👁️ 13K • 👍 756 • 💬 159 • ⏱️ 29:25 • 8h ago
 
 ---
 
@@ -256,7 +262,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 167 • 💬 18 • ⏱️ 6:53 • 23h ago
+👁️ 4K • 👍 167 • 💬 18 • ⏱️ 6:53 • 1d ago
 
 ---
 
@@ -266,7 +272,7 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 237 • ⏱️ 12:16 • 23h ago
+👁️ 61K • 👍 3K • 💬 237 • ⏱️ 12:16 • 1d ago
 
 ---
 
@@ -276,7 +282,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 2K • 👍 143 • 💬 27 • ⏱️ 8:42 • 11h ago
+👁️ 2K • 👍 143 • 💬 27 • ⏱️ 8:42 • 12h ago
 
 ---
 
@@ -296,7 +302,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 228 • 👍 24 • 💬 14 • ⏱️ 8:32 • 5h ago
+👁️ 228 • 👍 24 • 💬 14 • ⏱️ 8:32 • 6h ago
 
 ---
 

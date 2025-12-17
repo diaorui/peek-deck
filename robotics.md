@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-16T23:50:26.273892+00:00'
+updated: '2025-12-17T00:44:08.070209+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 16, 2025 at 23:50 UTC  
+**Last Updated:** December 17, 2025 at 00:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-13h ago
+14h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
 
-11h ago
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
-18h ago
+19h ago
 
 ---
 
@@ -80,15 +80,7 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
 
-8h ago
-
----
-
-**[AI has mastered chess it still hasn't mastered gravity](https://www.reddit.com/r/robotics/comments/1pogr5x/ai_has_mastered_chess_it_still_hasnt_mastered/)**
-
-We spend a lot of time debating AGI and the "Left Shift" in software. But as this video proves, the "Physical Shift" is a much harder engineering problem. This is a perfect example of Moravec’s Paradox: High-level reasoning (coding, writing, math) requires surprisingly little computation. Low-level motor skills (walking, balance, not face-planting) require massive computational power. The Economic Reality Check: While our digital agents are getting smarter by the week, the "Core Economy"—construction, logistics, and elder care—is still bound by physics. We aren't just waiting for better software; we are waiting for better actuators, batteries, and sensor fusion. The Verdict: The "Terminator" future is on hold... at least until the next firmware update. For now, enjoy the bloopers. Robotics #AI #MoravecsParadox #FutureOfWork #Engineering LinkedIn
-
-🔗 [linkedin.com](https://www.linkedin.com/posts/procoder_robotics-ai-moravecsparadox-activity-7406588876745744384-ZeJp?utm_source=share&utm_medium=member_android&rcm=ACoAAABvw7ABTak_BnRFmTE0cY0j_nROJbWBXPU) • 36m ago
+9h ago
 
 ---
 
@@ -108,6 +100,14 @@ This is the cycloidal drive I designed for my five axis robotic arm IRAS. The dr
 
 ---
 
+**[How to run dual-arm UR5e with MoveIt 2 on real hardware](https://www.reddit.com/r/robotics/comments/1po7dth/how_to_run_dualarm_ur5e_with_moveit_2_on_real/)**
+
+Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
+
+7h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
@@ -122,7 +122,7 @@ The New York Times • 2d ago
 
 The microbots have tiny computers, sensors, and actuators. They can sense temperature and swim autonomously.
 
-SingularityHub • 8h ago
+SingularityHub • 9h ago
 
 ---
 
@@ -140,25 +140,9 @@ Tech Xplore • 1d ago
 
 ---
 
-**[A look at iRobot’s 35-year robotics journey](https://www.therobotreport.com/a-look-at-irobot-35-year-robotics-journey/)**
-
-From disaster zones, to oil spills, to the Great Pyramids of Giza, iRobot has taken its robot everywhere in its 35 years.
-
-The Robot Report • 1h ago
-
----
-
 **[Two BCSC VEX IQ robotics teams earn a spot in state championship competition](https://www.therepublic.com/2025/12/16/two-bcsc-vex-iq-robotics-teams-earn-a-spot-in-state-championship-competition/)**
 
-The Republic News • 18h ago
-
----
-
-**[Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology (AMCI:NASDAQ)](https://seekingalpha.com/news/4531631-meet-amc-robotics-the-spac-name-looking-for-a-breakthrough-in-ai-powered-robotic-technology)**
-
-Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
-
-Seeking Alpha • 1d ago
+The Republic News • 19h ago
 
 ---
 
@@ -167,6 +151,14 @@ Seeking Alpha • 1d ago
 They make robot vacuums, lots of them
 
 The Verge • 1d ago
+
+---
+
+**[Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology (AMCI:NASDAQ)](https://seekingalpha.com/news/4531631-meet-amc-robotics-the-spac-name-looking-for-a-breakthrough-in-ai-powered-robotic-technology)**
+
+Meet AMC Robotics: The SPAC name looking for a breakthrough in AI-powered robotic technology
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -186,6 +178,14 @@ InvestorPlace • 2d ago
 
 ---
 
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+
+South China Morning Post • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +196,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 41K • 👍 769 • 💬 119 • ⏱️ 11:23 • 23h ago
+👁️ 41K • 👍 769 • 💬 119 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 9K • 👍 1K • 💬 36 • ⏱️ 1:38 • 7h ago
+👁️ 9K • 👍 1K • 💬 36 • ⏱️ 1:38 • 8h ago
 
 ---
 
@@ -264,7 +264,7 @@ Behind the Bot full explanation: https://youtu.be/OcYtVLsyUpI This video is supp
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 33 • 💬 4 • ⏱️ 0:15 • 1h ago
+👁️ 1K • 👍 33 • 💬 4 • ⏱️ 0:15 • 2h ago
 
 ---
 
