@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T17:43:31.246717+00:00'
+updated: '2025-12-17T17:56:26.862409+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 17:43 UTC  
+**Last Updated:** December 17, 2025 at 17:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -6.5%  
-**30d:** -6.8%  
-**90d:** -25.1%  
-**1y:** -13.9%  
+**24h:** -1.9%  
+**7d:** -6.8%  
+**30d:** -7.1%  
+**90d:** -25.3%  
+**1y:** -14.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1729.61B
+**Market Cap:** $1725.80B
 Rank #1
 
-**Circulating Supply:** 19,963,375 BTC
+**Circulating Supply:** 19,963,406 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.2%
+-31.5%
 
 **All-Time Low:** $67.81
-+127741.0%
++127335.5%
 
 ---
 
@@ -95,7 +95,7 @@ Back to 90k.
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-2h ago
+3h ago
 
 ---
 
@@ -129,17 +129,15 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 ---
 
-**[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
+**[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-13h ago
+1h ago
 
 ---
 
-**[That's so Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1pot57w/thats_so_bitcoin_right_now/)**
+**[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-Just keep hodling and don't trust the news
-
-7h ago
+13h ago
 
 ---
 
@@ -147,19 +145,11 @@ Just keep hodling and don't trust the news
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price (BTC) news: Major whipsaw on Wednesday sends price back below $88,000](https://www.coindesk.com/markets/2025/12/17/bitcoin-tumbles-back-below-usd88-000-as-gains-evaporate-as-quickly-as-they-formed)**
+**[Bitcoin Price (BTC) news: Early U.S. surge above $90,000](https://www.coindesk.com/markets/2025/12/17/bitcoin-re-takes-usd90-000-as-price-spikes-early-in-u-s-session)**
 
-It was a blink and you missed it rally as continued deflation in the AI trade sent the Nasdaq sharply lower, dragging crypto along with it.
+Surging metals prices and dovish comments from leading Fed chair contender Chris Waller were among the news items possibly boosting crypto prices.
 
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin hovers at $86,000 as token faces 'lackluster' end of 2025](https://finance.yahoo.com/news/bitcoin-hovers-at-86000-as-token-faces-lackluster-end-of-2025-165535813.html)**
-
-Jitters over AI-related stocks and speculation over who will take over Fed Chair Jerome Powell’s position next year may be keeping a lid on bitcoin prices.
-
-Yahoo Finance • 47m ago
+CoinDesk • 2h ago
 
 ---
 
@@ -174,6 +164,28 @@ The Block • 6h ago
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
 Financial Times • 2d ago
+
+---
+
+**[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
+
+Investor's Business Daily • 3h ago
+
+---
+
+**[Crypto stocks jump as bitcoin suddenly breaks $90,000; HUT and COIN lead gains](https://www.coindesk.com/markets/2025/12/17/hut-8-and-coinbase-outperform-as-crypto-stocks-jump-on-bitcoin-s-sudden-rally)**
+
+Mining stocks, trading platforms, and cryptocurrency infrastructure firms saw significant gains, including Hut 8, Riot Platforms, and Coinbase.
+
+CoinDesk • 2h ago
+
+---
+
+**[Hut 8 (HUT) Gets Beaten as Bitcoin Drops](https://finance.yahoo.com/news/hut-8-hut-gets-beaten-153203004.html)**
+
+We recently published 10 Stocks Facing Selling Pressure Ahead of Christmas. Hut 8 Corp. (NASDAQ:HUT) is one of the biggest losers on Monday. Hut 8 fell for a second day on Monday, slashing 14.21 percent to close at $35.44 apiece as investors trimmed their positions following the decline in Bitcoin prices. As of writing, Bitcoin […]
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -204,22 +216,6 @@ TradingView — Track All Markets • 21h ago
 Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
 
 PYMNTS.com • 20h ago
-
----
-
-**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
-
-US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
-
-CryptoSlate • 7h ago
-
----
-
-**[Bitcoin Briefly Reclaims $90,000 After Early U.S. Spike](https://bitbo.io/news/bitcoin-reclaims-90k-us-spike/)**
-
-Bitcoin briefly pushed back above $90,000 in early U.S. trading as metals surged and Fed Governor Chris Waller struck a dovish tone on rates.
-
-Bitbo • 1h ago
 
 ---
 

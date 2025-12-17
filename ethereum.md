@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T17:43:31.252711+00:00'
+updated: '2025-12-17T17:56:26.868550+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 17:43 UTC  
+**Last Updated:** December 17, 2025 at 17:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,7 +43,7 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -3.2%  
-**7d:** -11.7%  
+**7d:** -11.8%  
 **30d:** -8.6%  
 **90d:** -36.1%  
 **1y:** -21.3%  
@@ -52,35 +52,35 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $343.78B
+**Market Cap:** $344.26B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.2%
+-42.3%
 
 **All-Time Low:** $0.43
-+660451.7%
++658567.0%
 
 ---
 
 ## Reddit: r/ethereum
-
-**[Daily General Discussion December 17, 2025](https://www.reddit.com/r/ethereum/comments/1pop0zz/daily_general_discussion_december_17_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-11h ago
-
----
 
 **[Ethereum mixers - current situation?](https://www.reddit.com/r/ethereum/comments/1poyrzj/ethereum_mixers_current_situation/)**
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
 2h ago
+
+---
+
+**[Daily General Discussion December 17, 2025](https://www.reddit.com/r/ethereum/comments/1pop0zz/daily_general_discussion_december_17_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+11h ago
 
 ---
 
@@ -122,7 +122,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -146,7 +146,7 @@ idk man. the speed, the fees, the ux... solana teams and tools built on top of i
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe2niZeZbtMvo2CtYDH1StXCrdO0bhvXJXVeopcmug4ikJetzk2DTNA&gaa_ts=6942e974&gaa_sig=2tOU_Y4hxo8r7hfnYz2kCmvM51JJVPFqU2GHf-QBHJFntqAPDRtkFLV1rZnGEGtmEWvE_rgV3xMkbkLY9gTV9Q%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdb-Sg7KbfImJHD3y_t1bb1VfWr_BYu6bGmrJPFwyMByJdqZZbvkNmD&gaa_ts=6942f237&gaa_sig=E3dvbpvWAS-Dp-sFmrJ5_pRF8Sa7c4HDijG2vJ46vwj_2-8I6c9KjI2pKE5zdv2wY4FDWhSPFSppHIpqh9OP2A%3D%3D)**
 
 Barron's • 20h ago
 
@@ -160,11 +160,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin to Ethereum rotation narratives are lying to you unless they match this specific $480 billion signal](https://cryptoslate.com/bitcoin-to-ethereum-rotation-narratives-are-lying-to-you-unless-they-match-this-specific-480-billion-signal/)**
+**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-fall-lowest-174706223.html)**
 
-Real moves require CEX dominance shifts, ETF divergence, and derivatives confirmation, not bridge headlines.
+Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
 
-CryptoSlate • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -176,19 +176,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Price Drops Below $3,000 Amid Declining Holder Conviction](https://finance.yahoo.com/news/ethereum-price-drops-below-3-140000715.html)**
-
-Ethereum price slips below $3,000 as weak investor confidence and declining on-chain activity pressure ETH near critical support levels.
-
-Yahoo Finance • 3h ago
-
----
-
 **[Why Crypto Is Going Down Today? Bitcoin, XRP Price, Ethereum and Dogecoin Moves Under Death Cross](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-bitcoin-xrp-price-ethereum-and-dogecoin-moves-under-death-cross/)**
 
 Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
 
-Finance Magnates • 2h ago
+Finance Magnates • 3h ago
 
 ---
 
@@ -196,7 +188,7 @@ Finance Magnates • 2h ago
 
 The decline in ether contributed to the selling pressure on meme coins, as traders often use ETH as a risk gauge for altcoins.
 
-CoinDesk • 26m ago
+CoinDesk • 39m ago
 
 ---
 
@@ -218,6 +210,14 @@ CCN.com • 2d ago
 
 ---
 
+**[Ethereum Price Drops Below $3,000 Amid Declining Holder Conviction](https://finance.yahoo.com/news/ethereum-price-drops-below-3-140000715.html)**
+
+Ethereum price slips below $3,000 as weak investor confidence and declining on-chain activity pressure ETH near critical support levels.
+
+Yahoo Finance • 3h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -228,7 +228,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 792 • 👍 77 • 💬 4 • ⏱️ 4:45 • 1h ago
+👁️ 792 • 👍 77 • 💬 4 • ⏱️ 4:45 • 2h ago
 
 ---
 
@@ -298,7 +298,7 @@ Are blackrock clients removing risk from the table in preparation for the Japane
 
 📺 Traders Reality
 
-👁️ 4K • 👍 480 • 💬 16 • ⏱️ 32:42 • 2h ago
+👁️ 4K • 👍 480 • 💬 16 • ⏱️ 32:42 • 3h ago
 
 ---
 
@@ -316,7 +316,7 @@ The line between the stock market and crypto is vanishing. Nasdaq has officially
 
 📺 Nick Ford
 
-👁️ 511 • 👍 4 • 💬 2 • ⏱️ 1:54 • 11h ago
+👁️ 511 • 👍 4 • 💬 2 • ⏱️ 1:54 • 12h ago
 
 ---
 

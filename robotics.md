@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T17:43:31.255913+00:00'
+updated: '2025-12-17T17:56:26.871876+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 17:43 UTC  
+**Last Updated:** December 17, 2025 at 17:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,11 +48,35 @@ Ben Procter, one of the designers behind Avatar’s human technology, explains h
 
 ---
 
+**[I Spent 3 Months Building This Robot: It Can Do More Than I Thought](https://www.reddit.com/r/robotics/comments/1pp28v0/i_spent_3_months_building_this_robot_it_can_do/)**
+
+Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
+
+37m ago
+
+---
+
 **[Concept of a robot worm driven by smooth waves that travel along a continuously deformable mesh](https://www.reddit.com/r/robotics/comments/1pnylnk/concept_of_a_robot_worm_driven_by_smooth_waves/)**
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
 1d ago
+
+---
+
+**[A single real-world data capture by robot arm](https://www.reddit.com/r/robotics/comments/1pp2vza/a_single_realworld_data_capture_by_robot_arm/)**
+
+An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
+
+13m ago
+
+---
+
+**[Help for my school project](https://www.reddit.com/r/robotics/comments/1pp2myk/help_for_my_school_project/)**
+
+Can i make a phone bluetooth following cart ( phone acts as beacon cart follows it ) for indoor use with object avoidance only with these components esp32, 2 (torque≥10 kg.cm) dc motors, motor driver bts7960, 3 ultrasonic sensors,12 v 12 ah li-ion battery . Only using these essential parts, am i missing anything essential to make a cart like this Load excluding body weight 17 pounds (8 kg)
+
+22m ago
 
 ---
 
@@ -88,26 +112,6 @@ I recently made this prototype of a self-balancing wheel provided with robotic m
 
 ---
 
-**[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
-
-1d ago
-
----
-
-**[How does one deploy a robot system?](https://www.reddit.com/r/robotics/comments/1poqafr/how_does_one_deploy_a_robot_system/)**
-
-Hello, my experience is only from R&D setups. For deploying a robot, what do people normally do? Do they use Jetson Nano/Orin/Thor to run the AI processes? One of my seniors said they still use the PC for deployment to make the AI processes run. Isn't it too big to add the PC to your sellable product just to run the AI processes? Is this an industrial practice?
-
-10h ago
-
----
-
-**[I made a Pikachu robot](https://www.reddit.com/r/robotics/comments/1pngiyw/i_made_a_pikachu_robot/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,11 +122,9 @@ The New York Times • 3d ago
 
 ---
 
-**[World’s smallest programmable robots think, swim, and sense temperature using light](https://interestingengineering.com/ai-robotics/worlds-smallest-autonomous-microrobots)**
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-Scientists unveil penny-sized microrobots that swim, sense temperature, and run for months using light-powered brains.
-
-Interesting Engineering • 1d ago
+The New York Times • 12h ago
 
 ---
 
@@ -134,19 +136,19 @@ CNN • 6h ago
 
 ---
 
+**[The Roomba Was a Disappointment](https://www.theatlantic.com/technology/2025/12/roomba-dream-home-robotics/685293/)**
+
+The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.&nbsp;&nbsp;
+
+The Atlantic • 9m ago
+
+---
+
 **[Robotics industry reacts to iRobot’s bankruptcy](https://www.therobotreport.com/robotics-industry-reacts-to-irobot-bankruptcy/)**
 
 iRobot’s Chapter 11 bankruptcy has sparked intense reactions, with opinions on regulation, innovation, manufacturing, and global competition.
 
 The Robot Report • 1d ago
-
----
-
-**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
-
-They make robot vacuums, lots of them
-
-The Verge • 2d ago
 
 ---
 
@@ -182,11 +184,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+**[Robotics Is About to Become America’s Most Important Industry](https://investorplace.com/hypergrowthinvesting/2025/12/robotics-is-about-to-become-americas-most-important-industry/)**
 
-Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-South China Morning Post • 3d ago
+InvestorPlace • 3d ago
 
 ---
 
@@ -254,7 +256,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Borunte Robot Lin 
 
-👁️ 5K • 👍 20 • ⏱️ 0:20 • 13h ago
+👁️ 5K • 👍 20 • ⏱️ 0:20 • 14h ago
 
 ---
 

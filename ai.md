@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T17:43:31.238244+00:00'
+updated: '2025-12-17T17:56:26.853818+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- news
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 17:43 UTC  
+**Last Updated:** December 17, 2025 at 17:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 ---
 
+**[Japanese woman Yurina Noguchi married "Klaus," an AI-generated avatar that gazes at her through her smartphone screen.](https://www.reddit.com/r/artificial/comments/1pp1tl1/japanese_woman_yurina_noguchi_married_klaus_an/)**
+
+Here the [article](https://www.reuters.com/investigates/special-report/japan-ai-wedding) if you want to know more about this story.
+
+54m ago
+
+---
+
 **[AI Fatigue?](https://www.reddit.com/r/artificial/comments/1pov0h0/ai_fatigue/)**
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
@@ -61,14 +69,6 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 ---
 
-**[Japanese woman Yurina Noguchi married "Klaus," an AI-generated avatar that gazes at her through her smartphone screen.](https://www.reddit.com/r/artificial/comments/1pp1tl1/japanese_woman_yurina_noguchi_married_klaus_an/)**
-
-Here the [article](https://www.reuters.com/investigates/special-report/japan-ai-wedding) if you want to know more about this story.
-
-41m ago
-
----
-
 **[Grok chatbot faces scrutiny after sharing false claims about Bondi Beach shooting](https://www.reddit.com/r/artificial/comments/1po74xm/grok_chatbot_faces_scrutiny_after_sharing_false/)**
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
@@ -77,19 +77,19 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 ---
 
+**[Microsoft's TRELLIS 2-4B, An Open-Source Image-to-3D Model](https://www.reddit.com/r/artificial/comments/1povtpl/microsofts_trellis_24b_an_opensource_imageto3d/)**
+
+"An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
+
+5h ago
+
+---
+
 **[Anyone else feel AI quietly changed their daily life this year?](https://www.reddit.com/r/artificial/comments/1po6qob/anyone_else_feel_ai_quietly_changed_their_daily/)**
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
 1d ago
-
----
-
-**[Microsoft's TRELLIS 2-4B, An Open-Source Image-to-3D Model](https://www.reddit.com/r/artificial/comments/1povtpl/microsofts_trellis_24b_an_opensource_imageto3d/)**
-
-"An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
-
-4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the 
 
 **[AI and the Gell-Mann Amnesia Trap](https://www.reddit.com/r/artificial/comments/1pp1orr/ai_and_the_gellmann_amnesia_trap/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/novehiclesinthepark/p/the-gell-mann-amnesia-trap?r=3wpgsc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 46m ago
+🔗 [open.substack.com](https://open.substack.com/pub/novehiclesinthepark/p/the-gell-mann-amnesia-trap?r=3wpgsc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 59m ago
 
 ---
 
@@ -125,11 +125,11 @@ Reuters • 2h ago
 
 ---
 
-**[Apple punted on AI this year. Next year will be critical](https://www.cnbc.com/2025/12/17/apple-ai-delay-siri.html)**
+**[The 2,000-year-old debate that reveals AI’s biggest problem](https://www.vox.com/future-perfect/472545/ai-alignment-superintelligence-meaning-agency-autonomy)**
 
-Apple this year delayed its big Siri upgrade to 2026. As the company looks ahead, the pressure is on for the iPhone maker to show investors its AI strategy.
+Silicon Valley is racing to build a god — without understanding what makes a good one.
 
-CNBC • 5h ago
+Vox • 5h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 5h ago
 
 Trump's attempt to restrict states' ability to regulate AI has drawn fierce backlash, even from supporters.
 
-Time Magazine • 36m ago
+Time Magazine • 49m ago
 
 ---
 
@@ -157,17 +157,15 @@ The Guardian • 9h ago
 
 ---
 
-**[Private AI Investments Soar Despite Modest Sales](https://www.barrons.com/articles/private-ai-investments-soar-66049e49?gaa_at=eafs&gaa_n=AWEtsqdJ0iIOWTxEalPEOybaRNS-R6jb_gHlhFF5DB4IZ0r3ev7ldObWb52i&gaa_ts=6942e971&gaa_sig=jIgET_lxPQuKnd7gt5EKz1eaPNE_MMRl93qDFfySjr0nC2CyB2D5rHmgANx4hd23JGQI5uCqse4xMBc2uSQkLg%3D%3D)**
+**[Private AI Investments Soar Despite Modest Sales](https://www.barrons.com/articles/private-ai-investments-soar-66049e49?gaa_at=eafs&gaa_n=AWEtsqduKXmyMP_E9TtWCstcT1CqV7pO-Hn6p0ypHN51OKv4dVFLPnJM4Lnr&gaa_ts=6942f234&gaa_sig=Peg93cs_VaSg5vt-udlNeVgyKGQW81vcNUdKiuuDXdaf6T9pCqEIKMS3LlldmdEPUQL0Hs7nQUNdqe7wXNbkMw%3D%3D)**
 
-Barron's • 30m ago
+Barron's • 43m ago
 
 ---
 
-**[Micron's Make-or-Break Moment: Can AI Hype Justify a 176% Surge?](https://finance.yahoo.com/news/microns-break-moment-ai-hype-163110049.html)**
+**[Amazon AI chief Rohit Prasad leaving; Infrastructure exec Peter DeSantis to lead unified AI group](https://www.geekwire.com/2025/amazon-ai-chief-rohit-prasad-leaving-infrastructure-exec-peter-desantis-to-lead-unified-ai-group/)**
 
-After a monster year, all eyes are on Micron's earnings--and whether data center demand can keep this rally alive.
-
-Yahoo Finance • 1h ago
+GeekWire • 26m ago
 
 ---
 
@@ -179,17 +177,17 @@ Financial Times • 12h ago
 
 ---
 
-**[The 2,000-year-old debate that reveals AI’s biggest problem](https://www.vox.com/future-perfect/472545/ai-alignment-superintelligence-meaning-agency-autonomy)**
+**[NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)**
 
-Silicon Valley is racing to build a god — without understanding what makes a good one.
+NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-Vox • 5h ago
+National Oceanic and Atmospheric Administration (NOAA) (.gov) • 5h ago
 
 ---
 
-**[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
+**[Oracle at Center of Tech’s $500 Billion AI-Fueled Rent Spree](https://www.bloomberg.com/news/articles/2025-12-17/oracle-at-center-of-tech-s-500-billion-ai-fueled-rent-spree)**
 
-Axios • 7h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -199,13 +197,13 @@ Axios • 7h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 810 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 811 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 718 • 💬 369 • 20h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 734 • 💬 371 • 20h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -221,7 +219,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 421 • 💬 240 • 19h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 433 • 💬 249 • 19h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -229,13 +227,13 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 399 • 💬 382 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 399 • 💬 383 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 372 • 💬 314 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 372 • 💬 315 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -243,7 +241,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 298 • 💬 310 • 2d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 299 • 💬 310 • 2d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
 
 ---
 
@@ -251,7 +249,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 155 • 💬 50 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 156 • 💬 50 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -259,7 +257,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 126 • 💬 157 • 1d ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 127 • 💬 161 • 1d ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -267,7 +265,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 106 • 💬 80 • 9h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 120 • 💬 90 • 9h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -381,7 +379,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,858 • 9d ago
+⬇️ 296,552 • ❤️ 2,861 • 9d ago
 
 ---
 
@@ -393,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 918 • 5d ago
+⬇️ 158,614 • ❤️ 919 • 5d ago
 
 ---
 
@@ -429,7 +427,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 228 • 11h ago
+⬇️ 0 • ❤️ 228 • 12h ago
 
 ---
 
@@ -441,7 +439,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 216 • 9h ago
+⬇️ 0 • ❤️ 219 • 9h ago
 
 ---
 
@@ -453,7 +451,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 390 • 17h ago
+⬇️ 28,106 • ❤️ 392 • 17h ago
 
 ---
 
@@ -465,7 +463,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 207 • 2d ago
+⬇️ 0 • ❤️ 209 • 2d ago
 
 ---
 
@@ -475,7 +473,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 206 • 1d ago
+⬇️ 0 • ❤️ 207 • 1d ago
 
 ---
 
