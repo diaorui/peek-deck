@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T07:30:37.037178+00:00'
+updated: '2025-12-17T07:46:31.666904+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 07:30 UTC  
+**Last Updated:** December 17, 2025 at 07:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,811.26
+### $87,117.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -6.2%  
-**30d:** -6.5%  
-**90d:** -24.9%  
-**1y:** -13.6%  
+**24h:** +0.9%  
+**7d:** -5.9%  
+**30d:** -6.3%  
+**90d:** -24.7%  
+**1y:** -13.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-12h ago
+13h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 1h ago
 
 The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 55m ago
 
 ---
 
@@ -195,7 +195,7 @@ Financial Times • 2d ago
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 9h ago
+thestreet.com • 10h ago
 
 ---
 
@@ -263,7 +263,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 21h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 22h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -297,7 +297,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 166 • ⏱️ 9:01 • 8h ago
+👁️ 29K • 👍 2K • 💬 166 • ⏱️ 9:01 • 9h ago
 
 ---
 
@@ -307,7 +307,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 280 • 💬 133 • ⏱️ 10:50 • 6h ago
+👁️ 5K • 👍 280 • 💬 133 • ⏱️ 10:50 • 7h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 26K • 👍 1K • 💬 228 • ⏱️ 18:36 • 8h ago
+👁️ 26K • 👍 1K • 💬 228 • ⏱️ 18:36 • 9h ago
 
 ---
 
@@ -347,7 +347,7 @@ Crypto looks chaotic on the surface — but underneath, a structural reset is ta
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 4K • 👍 261 • 💬 47 • ⏱️ 9:42 • 4h ago
+👁️ 4K • 👍 261 • 💬 47 • ⏱️ 9:42 • 5h ago
 
 ---
 
@@ -387,7 +387,7 @@ Aura Stop leaving yourself vulnerable to data breaches. Go to my sponsor https:/
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 927 • 💬 91 • ⏱️ 16:49 • 17h ago
+👁️ 13K • 👍 927 • 💬 91 • ⏱️ 16:49 • 18h ago
 
 ---
 
