@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T13:53:23.344661+00:00'
+updated: '2025-12-17T14:19:15.529032+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 13:53 UTC  
+**Last Updated:** December 17, 2025 at 14:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,496.00
+### $87,662.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
+**24h:** +0.0%  
 **7d:** -5.2%  
 **30d:** -5.6%  
 **90d:** -24.1%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1736.69B
+**Market Cap:** $1747.23B
 Rank #1
 
-**Circulating Supply:** 19,963,293 BTC
+**Circulating Supply:** 19,963,337 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.0%
+-30.5%
 
 **All-Time Low:** $67.81
-+128217.4%
++129180.3%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
+
+2h ago
+
+---
+
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
 9h ago
@@ -86,12 +92,6 @@ Rank #1
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
 9h ago
-
----
-
-**[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
-
-2h ago
 
 ---
 
@@ -117,23 +117,23 @@ I was genuinely surprised and shocked to see this, especially since our country 
 
 ---
 
+**[The Fatigue Filter](https://www.reddit.com/r/Bitcoin/comments/1povh2n/the_fatigue_filter/)**
+
+They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth annual loss. First one without a scandal attached. No exchange collapsed. No founder arrested. No rug pull. Just... boredom. The tourists are checking out. Here's what the tourists never understand: the boring parts are the feature, not the bug. Every technological shift follows the same arc. Ridicule. Resistance. Magazine cover. But between resistance and magazine cover? There's a long, quiet stretch where nothing seems to happen. That's the dip. The dip is where most people quit. Not because they failed—because they got tired of waiting. I watched this happen in 2014. In 2018. In 2022. The headlines screamed death. The believers kept building. The difference between a tourist and a settler isn't conviction. It's tolerance for boredom. Tourists need the dopamine of daily gains. Settlers understand that positioning happens in the quiet. The same information is available to everyone. The Fed's moves. The ETF flows. The macro headwinds. But information without the patience to act on it is just noise. Risk isn't about volatility. Risk is a function of information and control. If you know why you're here, a down year isn't a crisis. It's a filter. The question isn't whether Bitcoin will recover. The question is whether you'll still be here when it does.
+
+1h ago
+
+---
+
 **[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
 
 16h ago
-
----
-
-**[The Fatigue Filter](https://www.reddit.com/r/Bitcoin/comments/1povh2n/the_fatigue_filter/)**
-
-They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth annual loss. First one without a scandal attached. No exchange collapsed. No founder arrested. No rug pull. Just... boredom. The tourists are checking out. Here's what the tourists never understand: the boring parts are the feature, not the bug. Every technological shift follows the same arc. Ridicule. Resistance. Magazine cover. But between resistance and magazine cover? There's a long, quiet stretch where nothing seems to happen. That's the dip. The dip is where most people quit. Not because they failed—because they got tired of waiting. I watched this happen in 2014. In 2018. In 2022. The headlines screamed death. The believers kept building. The difference between a tourist and a settler isn't conviction. It's tolerance for boredom. Tourists need the dopamine of daily gains. Settlers understand that positioning happens in the quiet. The same information is available to everyone. The Fed's moves. The ETF flows. The macro headwinds. But information without the patience to act on it is just noise. Risk isn't about volatility. Risk is a function of information and control. If you know why you're here, a down year isn't a crisis. It's a filter. The question isn't whether Bitcoin will recover. The question is whether you'll still be here when it does.
-
-1h ago
 
 ---
 
@@ -149,11 +149,45 @@ You don’t understand Bitcoin. And that’s okay — most people still don’t.
 
 ## Google News: "bitcoin"
 
-**[BTC, ETH, ADA Price News: Bitcoin slides with ether and XRP as market tests $3 trillion floor](https://www.coindesk.com/markets/2025/12/17/bitcoin-slides-with-ether-and-xrp-as-market-tests-usd3t-floor)**
+**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqfWcOzoB-OPlScS5pL-rp20tKg5WaYXlr438B9LRXVtk8vDYO6fEv8t&gaa_ts=6942bf4b&gaa_sig=8ghlyM3AdLYu23BUu8LTsJCD7l_SrTmo5qC269PPgfqKTJu4IvAh9XsW4_a7iHnmXV9q3d9DcQulTUi2FNw4zQ%3D%3D)**
 
-Crypto markets continued to decline, with overall capitalization falling below $3 trillion for the third time in a month.
+Barron's • 1d ago
 
-CoinDesk • 7h ago
+---
+
+**[Bitcoin (BTC) treasury company news: ABTC brings holdings to 5,098 coins](https://www.coindesk.com/markets/2025/12/16/eric-trump-s-american-bitcoin-jumps-to-20th-among-public-btc-treasury-companies)**
+
+After its latest purchase, the company now holds 5,098 bitcoin worth nearly $450 million
+
+CoinDesk • 21h ago
+
+---
+
+**[Bitcoin Lightning Network Reaches New All-Time Capacity High as Adoption Grows](https://finance.yahoo.com/news/bitcoin-lightning-network-reaches-time-133146820.html)**
+
+Bitcoin’s Lightning Network has climbed to a new all-time high in capacity, signaling renewed momentum for the layer-2 payments network after a long period of stagnation. Key Takeaways: Lightning Network capacity hit a new all-time high above 5,600 BTC, reversing a year-long decline. Growth is being driven by more Bitcoin ...
+
+Yahoo Finance • 47m ago
+
+---
+
+**[Michael Saylor's Strategy acquires 10,645 bitcoin for $980 million, bringing total treasury holdings to 671,268 BTC](https://www.theblock.co/post/382490/michael-saylor-strategy-buys-bitcoin-nasdaq-100)**
+
+The Block • 2d ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcO9SweQ7lYtkjbpuvuz5RWYFLZAQOED4X6hEyoEeqL7LDeC6jIK2Ml&gaa_ts=6942bf4b&gaa_sig=2EpW6VLABoo-68l6ksRXmvotUUTRZ1XdP5Xn9FvQMhiFN0gaivflXm_aCVSHWaaOJ6EkgUeVBAziP_IXC8vxmQ%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
+
+Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -175,15 +209,7 @@ Yahoo Finance • 15h ago
 
 Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
 
-TradingView — Track All Markets • 17h ago
-
----
-
-**[Speed Raises $8 Million to Expand Bitcoin and Stablecoin Payment Solutions](https://www.pymnts.com/news/fintech-investments/2025/speed-raises-8-million-dollars-expand-bitcoin-stablecoin-payment-solutions/)**
-
-Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
-
-PYMNTS.com • 16h ago
+TradingView — Track All Markets • 18h ago
 
 ---
 
@@ -191,35 +217,7 @@ PYMNTS.com • 16h ago
 
 The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
 
-Decrypt • 6h ago
-
----
-
-**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
-
-Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
-
-Financial Times • 2d ago
-
----
-
-**[Michael Saylor's Strategy acquires 10,645 bitcoin for $980 million, bringing total treasury holdings to 671,268 BTC](https://www.theblock.co/post/382490/michael-saylor-strategy-buys-bitcoin-nasdaq-100)**
-
-The Block • 2d ago
-
----
-
-**[Peter Schiff Warns of Imminent Bitcoin Crash — Says US Headed for ‘Economic Crisis’](https://www.ccn.com/news/crypto/peter-schiff-warns-bitcoin-crash-economic-crisis/)**
-
-CCN.com • 1h ago
-
----
-
-**[Hyperscale Data Bitcoin Treasury at 97.5% of Market Capitalization at Approximately $75.5 Million](https://www.prnewswire.com/news-releases/hyperscale-data-bitcoin-treasury-at-97-5-of-market-capitalization-at-approximately-75-5-million-302643020.html)**
-
-/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
-
-PR Newswire • 1d ago
+Decrypt • 7h ago
 
 ---
 
@@ -309,7 +307,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 10K • 👍 900 • 💬 70 • ⏱️ 38:13 • 4h ago
+👁️ 10K • 👍 900 • 💬 70 • ⏱️ 38:13 • 5h ago
 
 ---
 
@@ -339,7 +337,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 163 • ⏱️ 13:25 • 14h ago
+👁️ 27K • 👍 2K • 💬 163 • ⏱️ 13:25 • 15h ago
 
 ---
 
@@ -349,7 +347,7 @@ Anthony and John Pompliano break down what's really happening in the bitcoin mar
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 765 • 💬 4 • ⏱️ 41:39 • 15h ago
+👁️ 17K • 👍 765 • 💬 4 • ⏱️ 41:39 • 16h ago
 
 ---
 

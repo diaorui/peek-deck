@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T13:53:23.354084+00:00'
+updated: '2025-12-17T14:19:15.538227+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 13:53 UTC  
+**Last Updated:** December 17, 2025 at 14:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ I recently made this prototype of a self-balancing wheel provided with robotic m
 
 Hello, my experience is only from R&D setups. For deploying a robot, what do people normally do? Do they use Jetson Nano/Orin/Thor to run the AI processes? One of my seniors said they still use the PC for deployment to make the AI processes run. Isn't it too big to add the PC to your sellable product just to run the AI processes? Is this an industrial practice?
 
-6h ago
+7h ago
 
 ---
 
@@ -100,9 +100,9 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 ---
 
-**[If you want to buy a robot like the one in the video,please contact me](https://www.reddit.com/r/robotics/comments/1pov2zt/if_you_want_to_buy_a_robot_like_the_one_in_the/)**
+**[X Peng Robot removes cloth](https://www.reddit.com/r/robotics/comments/1pnumua/x_peng_robot_removes_cloth/)**
 
-1h ago
+1d ago
 
 ---
 
@@ -148,11 +148,19 @@ IEEE Spectrum • 17h ago
 
 ---
 
-**[Watch: Vine-like robot lifts delicate cargo – including human bodies](https://newatlas.com/robotics/vine-like-robot/)**
+**[Robots are levelling up: What the latest breakthroughs mean for 2026](https://www.goodwood.com/grr/event-coverage/festival-of-speed/robots-are-levelling-up-what-the-latest-breakthroughs-mean-for-2026/)**
 
-Although they're constantly improving, robots aren't necessarily known for their gentle touch. A new robotic system from MIT and Stanford takes a unique stab at changing that, with a robot that uses vine-like tendrils to do its lifting.
+Robots have spent decades promising to transform our lives, now that transformation is beginning. From humanoids that can sprint, flip and work alongside people, to home robots learning tasks by demonstration and expressive performers roaming theme parks, 2025 has delivered breakthroughs unlike anything seen before. With FOS Future Lab returning to the 2026 Festival of Speed, Goodwood will once again be the place to get up close to the emerging technologies — and to see for yourself just how fast robotics is levelling up...
 
-New Atlas • 52m ago
+Goodwood • 2h ago
+
+---
+
+**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
+
+Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
+
+TechCrunch • 14m ago
 
 ---
 
@@ -160,7 +168,7 @@ New Atlas • 52m ago
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-NASA (.gov) • 15h ago
+NASA (.gov) • 16h ago
 
 ---
 
@@ -177,12 +185,6 @@ Seeking Alpha • 21h ago
 Three potentially underrated robotics stocks—Stereotaxis, Knightscope, and PROCEPT BioRobotics—could be ones to keep an eye on in 2026.
 
 Yahoo Finance • 2d ago
-
----
-
-**[Two BCSC VEX IQ robotics teams earn a spot in state championship competition](https://www.therepublic.com/2025/12/16/two-bcsc-vex-iq-robotics-teams-earn-a-spot-in-state-championship-competition/)**
-
-The Republic News • 1d ago
 
 ---
 
@@ -216,7 +218,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 16K • 👍 2K • 💬 45 • ⏱️ 1:38 • 21h ago
+👁️ 16K • 👍 2K • 💬 45 • ⏱️ 1:38 • 22h ago
 
 ---
 
@@ -252,7 +254,7 @@ Would you let an AI robot girl choose you, or would you walk away? Be honest. DI
 
 📺 SYN:THETIC_BLOOD
 
-👁️ 56K • 👍 1K • 💬 57 • ⏱️ 0:32 • 23h ago
+👁️ 56K • 👍 1K • 💬 57 • ⏱️ 0:32 • 1d ago
 
 ---
 

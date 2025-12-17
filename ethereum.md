@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T13:53:23.350769+00:00'
+updated: '2025-12-17T14:19:15.535023+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 13:53 UTC  
+**Last Updated:** December 17, 2025 at 14:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -9.3%  
-**30d:** -6.0%  
-**90d:** -34.3%  
-**1y:** -19.1%  
+**24h:** -0.8%  
+**7d:** -8.9%  
+**30d:** -5.7%  
+**90d:** -34.0%  
+**1y:** -18.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.84B
+**Market Cap:** $355.05B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.5%
 
 **All-Time Low:** $0.43
-+675004.3%
++679974.6%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 23h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 1d ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The cryptocurrency industry is undergoing a fundamental structural shift, moving away from fragmented protocols toward a unified "Aggregatio...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 6h ago
+🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 7h ago
 
 ---
 
@@ -148,31 +148,9 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqeGFF-hgSo15nDGgekuhuT13zXSpvTUgJTY9MfVOQibp9vCFQQTFzRG&gaa_ts=6942b3e2&gaa_sig=PS5Mq_hxxBn5vtMQLtysjVQ_TKcmuUC61YfhjdBCxiUqBnhON_20-rldXEekxI5JGggMCUv8aJ35ZVDtyqgRqw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqd78oJ3sNxBrgf-xv8_IqDo_2i2-1WpWNrO8Jvr_iF3sbajHOH_BeJi&gaa_ts=6942bf4c&gaa_sig=zLeK6m_BsYdlUDfJWuJkQCIepWA0w9Gu8NNvGOFS3PVln6gWsIYRVTLS8NCxr1yFABpSwDDE_Z4Url8MzVH4Dg%3D%3D)**
 
 Barron's • 16h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
-
-Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
-
-Decrypt • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqcaC9GVIMkT4oRgVrRGBl3h7LNiUmQ4NbL0V3lREADy4TBcrHfyu5iw&gaa_ts=6942b3e2&gaa_sig=W1cTyTDe_6xe9gpByBelu7c2mfxC_Ts2-7OlkVhggAfR0nOT2IQHnFwhaul_dEQZOaxEUjTKbh-5lW4vfhPnyQ%3D%3D)**
-
-Barron's • 3h ago
-
----
-
-**[Bitcoin and Ethereum Wobble as US Reports Highest Unemployment Rate Since 2021](https://decrypt.co/352532/bitcoin-ethereum-wobble-us-highest-unemployment-rate-since-2021)**
-
-Bitcoin and Ethereum dipped and then climbed Tuesday following U.S. jobs data that shows the highest unemployment rate in four years.
-
-Decrypt • 2d ago
 
 ---
 
@@ -181,6 +159,34 @@ Decrypt • 2d ago
 Is Ethereum really on the path to a price of $62,000 next year?
 
 The Motley Fool • 2h ago
+
+---
+
+**[Ethereum Price Drops Below $3,000 Amid Declining Holder Conviction](https://finance.yahoo.com/news/ethereum-price-drops-below-3-140000715.html)**
+
+Ethereum price slips below $3,000 as weak investor confidence and declining on-chain activity pressure ETH near critical support levels.
+
+Yahoo Finance • 19m ago
+
+---
+
+**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
+
+The Block • 2d ago
+
+---
+
+**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Tokenization News: $4T Bank JPMorgan Launches Onchain Fund on Ethereum](https://www.coindesk.com/business/2025/12/15/jpmorgan-launches-tokenized-money-market-fund-on-ethereum-as-wall-street-moves-onchain-report)**
+
+The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -194,25 +200,21 @@ Yahoo Finance • 1d ago
 
 **[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-CCN.com • 22h ago
+CCN.com • 23h ago
 
 ---
 
-**['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
+**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
 
-The Block • 1d ago
+The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
 
----
-
-**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
-
-The Block • 2d ago
+CoinDesk • 2d ago
 
 ---
 
-**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
+**[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
 
-Bloomberg.com • 1d ago
+TipRanks • 22h ago
 
 ---
 
@@ -294,7 +296,7 @@ The line between the stock market and crypto is vanishing. Nasdaq has officially
 
 📺 CryptoStock Lab
 
-👁️ 121 • 👍 8 • 💬 2 • ⏱️ 12:47 • 1h ago
+👁️ 121 • 👍 8 • 💬 2 • ⏱️ 12:47 • 2h ago
 
 ---
 

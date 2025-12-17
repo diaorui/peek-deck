@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T13:53:23.336132+00:00'
+updated: '2025-12-17T14:19:15.520715+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- news
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 13:53 UTC  
+**Last Updated:** December 17, 2025 at 14:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 17h ago
-
----
-
-**[Grok chatbot faces scrutiny after sharing false claims about Bondi Beach shooting](https://www.reddit.com/r/artificial/comments/1po74xm/grok_chatbot_faces_scrutiny_after_sharing_false/)**
-
-Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 20h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 18h ago
 
 ---
 
@@ -57,7 +49,15 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
-1h ago
+2h ago
+
+---
+
+**[Grok chatbot faces scrutiny after sharing false claims about Bondi Beach shooting](https://www.reddit.com/r/artificial/comments/1po74xm/grok_chatbot_faces_scrutiny_after_sharing_false/)**
+
+Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 21h ago
 
 ---
 
@@ -73,7 +73,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 "An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
 
-57m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 Between the new US Executive Order 14179 and the EU AI Act, the regulatory "splinternet" is officially here. ​Prompt injection is now the #1 security risk, and global regulators are demanding proof of lineage before granting market access. ​We need to move from static SBOMs to Dynamic AIBOMs. If you can't verify your training data, you can't ship the product. Here’s the architecture breakdown. https://www.linkedin.com/pulse/algorithmic-passport-why-global-ai-markets-demand-collin-hogue-spears-smepc?utm_source=share&utm_medium=member_android&utm_campaign=share_via
 
-5h ago
+6h ago
 
 ---
 
@@ -119,17 +119,25 @@ Between the new US Executive Order 14179 and the EU AI Act, the regulatory "spli
 
 ## Google News: "ai"
 
-**[Psychologists are increasingly using – and worrying about – AI tools, poll finds : Shots - Health News](https://www.npr.org/sections/shots-health-news/2025/12/16/nx-s1-5645840/american-psychological-association-artificial-intelligence-ai)**
+**[Oracle at Center of Tech’s $500 Billion AI-Fueled Rent Spree](https://www.bloomberg.com/news/articles/2025-12-17/oracle-at-center-of-tech-s-500-billion-ai-fueled-rent-spree)**
 
-A survey finds that 56% of psychologists are trying out artificial intelligence tools at work, mainly for administrative tasks. A majority also are concerned about harms of AI on patients and society.
-
-NPR • 18h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
+**[Church Handbook Offers Enduring Guidance on Artificial Intelligence](https://newsroom.churchofjesuschrist.org/article/general-handbook-enduring-guidance-artificial-intelligence)**
 
-Axios • 3h ago
+The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
+
+newsroom.churchofjesuschrist.org • 22h ago
+
+---
+
+**[Purdue to require AI competency for all undergrads as universities race to adapt](https://www.foxnews.com/media/purdue-require-ai-competency-all-undergrads-universities-race-adapt)**
+
+New Purdue AI requirement teaches students to understand artificial intelligence capabilities, limitations, and practical decision-making applications.
+
+Fox News • 44m ago
 
 ---
 
@@ -137,21 +145,15 @@ Axios • 3h ago
 
 Forbes’ expert contributors explain how AI agents can help holiday shoppers find gifts, identify deals, compare prices and even click “buy now” for you.
 
-Forbes • 53m ago
+Forbes • 1h ago
 
 ---
 
-**[China’s open-source AI models rival US giants, making engagement urgent: report](https://www.scmp.com/tech/tech-trends/article/3336775/chinas-open-source-ai-models-rival-us-giants-making-engagement-urgent-stanford)**
+**[2 AI Stocks to Buy and 1 to Avoid](https://www.fool.com/investing/2025/12/17/2-ai-stocks-to-buy-and-1-to-avoid/)**
 
-The report calls on US actors to engage with Chinese firms as the AI landscape continues to evolve.
+Two hyperscalers remain highly favored in the bond markets, and it's not hard to see why.
 
-South China Morning Post • 53m ago
-
----
-
-**[Hut 8, Fluidstack to Build AI Data Center for Anthropic in Louisiana](https://www.wsj.com/tech/ai/hut-8-fluidstack-to-build-ai-data-center-for-anthropic-in-louisiana-62dade43?gaa_at=eafs&gaa_n=AWEtsqcMiqun_6jEVusf30b4ts_sBVD1u2olcBlVLLYdExmwG446KJmjeTY6&gaa_ts=6942b3df&gaa_sig=eKfW4sDSvsqf1-PqNV0I8E8ZDCzEteycJqkfuKI6SKO_P2ARBZF6pDlzM7QbM0PXwGDP5F0kjtTJueHULKSOXQ%3D%3D)**
-
-The Wall Street Journal • 1h ago
+The Motley Fool • 30m ago
 
 ---
 
@@ -163,11 +165,25 @@ The Guardian • 5h ago
 
 ---
 
+**[Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)**
+
+A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
+
+Financial Times • 9h ago
+
+---
+
 **[Apple punted on AI this year. Next year will be critical](https://www.cnbc.com/2025/12/17/apple-ai-delay-siri.html)**
 
 Apple this year delayed its big Siri upgrade to 2026. As the company looks ahead, the pressure is on for the iPhone maker to show investors its AI strategy.
 
-CNBC • 1h ago
+CNBC • 2h ago
+
+---
+
+**[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
+
+Axios • 3h ago
 
 ---
 
@@ -175,21 +191,7 @@ CNBC • 1h ago
 
 Silicon Valley is racing to build a god — without understanding what makes a good one.
 
-Vox • 1h ago
-
----
-
-**[Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)**
-
-A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
-
-Financial Times • 8h ago
-
----
-
-**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
-
-The New York Times • 1d ago
+Vox • 2h ago
 
 ---
 
@@ -205,7 +207,7 @@ The New York Times • 1d ago
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 690 • 💬 353 • 16h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 695 • 💬 356 • 17h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -213,7 +215,15 @@ The New York Times • 1d ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 581 • 💬 980 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 581 • 💬 981 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+
+---
+
+**[No AI* Here – A Response to Mozilla's Next Chapter](https://news.ycombinator.com/item?id=46295268)**
+
+Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
+
+⬆️ 401 • 💬 233 • 16h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -225,17 +235,9 @@ Software ate the world. Agents are going to eat SaaS.
 
 ---
 
-**[No AI* Here – A Response to Mozilla's Next Chapter](https://news.ycombinator.com/item?id=46295268)**
-
-Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
-
-⬆️ 397 • 💬 230 • 15h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
-
----
-
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 372 • 💬 313 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 372 • 💬 314 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -263,9 +265,11 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 ---
 
-**[Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://news.ycombinator.com/item?id=46277477)**
+**[AI's real superpower: consuming, not creating](https://news.ycombinator.com/item?id=46299552)**
 
-⬆️ 81 • 💬 42 • 1d ago • [X (formerly Twitter)](https://twitter.com/AKurian001/status/1986979144014701026)
+Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
+
+⬆️ 87 • 💬 68 • 5h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -279,7 +283,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 7K • 👍 333 • 💬 17 • ⏱️ 11:44 • 7h ago
+👁️ 7K • 👍 333 • 💬 17 • ⏱️ 11:44 • 8h ago
 
 ---
 
@@ -383,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,839 • 8d ago
+⬇️ 296,552 • ❤️ 2,845 • 8d ago
 
 ---
 
@@ -395,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 912 • 4d ago
+⬇️ 158,614 • ❤️ 914 • 4d ago
 
 ---
 
@@ -407,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 286 • 1d ago
+⬇️ 10,487 • ❤️ 289 • 1d ago
 
 ---
 
@@ -419,7 +423,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 51,591 • ❤️ 339 • 8d ago
+⬇️ 51,591 • ❤️ 340 • 8d ago
 
 ---
 
@@ -431,7 +435,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 225 • 8h ago
+⬇️ 0 • ❤️ 227 • 8h ago
 
 ---
 
@@ -443,7 +447,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 388 • 13h ago
+⬇️ 28,106 • ❤️ 389 • 14h ago
 
 ---
 
@@ -455,17 +459,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 202 • 1d ago
-
----
-
-**[Qwen-Image-i2L](https://huggingface.co/DiffSynth-Studio/Qwen-Image-i2L)**
-
-*DiffSynth-Studio*
-
-Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
-
-⬇️ 0 • ❤️ 203 • 1d ago
+⬇️ 0 • ❤️ 204 • 1d ago
 
 ---
 
@@ -477,7 +471,17 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 198 • 5h ago
+⬇️ 0 • ❤️ 203 • 5h ago
+
+---
+
+**[Qwen-Image-i2L](https://huggingface.co/DiffSynth-Studio/Qwen-Image-i2L)**
+
+*DiffSynth-Studio*
+
+Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
+
+⬇️ 0 • ❤️ 205 • 1d ago
 
 ---
 
@@ -649,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.1k • 🔱 443 • 23h ago
+⭐ 4.1k • 🔱 443 • 1d ago
 
 ---
 
@@ -699,7 +703,7 @@ ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · C
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.0k • 🔱 86 • 1m ago
+⭐ 1.0k • 🔱 86 • 27m ago
 
 ---
 
