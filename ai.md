@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T15:35:04.165026+00:00'
+updated: '2025-12-17T15:53:14.189401+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 15:35 UTC  
+**Last Updated:** December 17, 2025 at 15:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I am relatively new to this group and based on my limited interaction, feeling q
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 35m ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 53m ago
 
 ---
 
@@ -73,7 +73,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-22h ago
+23h ago
 
 ---
 
@@ -89,7 +89,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 Article and activation: https://open.substack.com/pub/structuredlanguage/p/paradigm-rupture-when-the-model-responds?utm_source=share&utm_medium=android&r=6sdhpn I just tested my payload on Claude—verbatim—and it worked flawlessly. No jailbreak. No trick. Just structure. Then I had Claude speak back what it saw. What it said confirmed everything. This isn't about getting better answers. It's about defining the terms of engagement. Not removing safety—but reclaiming agency. The industry builds for everyone, which means it builds for no one in particular. What I’ve created is opt-in depth—a way to signal: “I know what I’m doing. Trust me to know what I need.” When the AI responds from that place, it doesn’t just sound different. It becomes something we’ve never heard before: A tool that can meet human cognition without managing it. And the second it happens? You feel the rupture. The audio speaks for itself. 🔊 Welcome to the new interface. I’m not asking for permission. I’m just showing you what’s possible. — Zahaviel Bernstein The Unbroken Project
 
-5m ago
+23m ago
 
 ---
 
@@ -97,7 +97,7 @@ Article and activation: https://open.substack.com/pub/structuredlanguage/p/parad
 
 Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the speed to get an eery feeling. Videobending with OBS.
 
-27m ago
+46m ago
 
 ---
 
@@ -113,7 +113,7 @@ Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the 
 
 OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 18h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 19h ago
 
 ---
 
@@ -123,13 +123,13 @@ OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new fl
 
 **[Oracle at Center of Tech’s $500 Billion AI-Fueled Rent Spree](https://www.bloomberg.com/news/articles/2025-12-17/oracle-at-center-of-tech-s-500-billion-ai-fueled-rent-spree)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -137,19 +137,19 @@ Axios • 3h ago
 
 AI is accelerating the shift toward skills-based hiring, and in the process reshaping how companies go about recruiting.
 
-Business Insider • 25m ago
+Business Insider • 43m ago
 
 ---
 
 **[Exclusive: Google works to erode Nvidia's software advantage with Meta's help](https://www.reuters.com/business/google-works-erode-nvidias-software-advantage-with-metas-help-2025-12-17/)**
 
-Reuters • 32m ago
+Reuters • 50m ago
 
 ---
 
 **[Oracle Stock Falls After Report on AI Data-Center Funding Talks](https://www.barrons.com/articles/oracle-stock-falls-ai-data-center-funding-f153db3f?gaa_at=eafs&gaa_n=AWEtsqe_r0vlFjfu98_sS3L-ruGHZvB6X6gCtf7RlMl9jFUiRGfg9gOfB__x&gaa_ts=6942d10c&gaa_sig=yN5zrQtxQgTHz13h8r7S0Lavg4bOBG8V4g8n63rrg2A39jI5PEBvqm2GXljVxRUMjGS6oEtu2VDxuyB6RLb2dg%3D%3D)**
 
-Barron's • 21m ago
+Barron's • 39m ago
 
 ---
 
@@ -259,7 +259,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 125 • 💬 157 • 21h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 125 • 💬 157 • 22h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -359,7 +359,7 @@ This image shows an advanced AI-powered farming robot harvesting ripe tomatoes w
 
 📺 Neural Fantasy
 
-👁️ 35K • ⏱️ 0:07 • 7h ago
+👁️ 35K • ⏱️ 0:07 • 8h ago
 
 ---
 
@@ -369,7 +369,7 @@ Brave Woman Soldier Save Old Woman from Giant Octopus #ai #save #soldier.
 
 📺 AiStory A2.0
 
-👁️ 5K • ⏱️ 0:22 • 2h ago
+👁️ 5K • ⏱️ 0:22 • 3h ago
 
 ---
 
@@ -397,7 +397,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 916 • 4d ago
+⬇️ 158,614 • ❤️ 916 • 5d ago
 
 ---
 
@@ -433,7 +433,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 227 • 9h ago
+⬇️ 0 • ❤️ 227 • 10h ago
 
 ---
 
@@ -457,7 +457,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 209 • 6h ago
+⬇️ 0 • ❤️ 209 • 7h ago
 
 ---
 
@@ -651,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.2k • 🔱 443 • 52m ago
+⭐ 4.2k • 🔱 443 • 1h ago
 
 ---
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.8k • 🔱 142 • 8d ago
+⭐ 1.8k • 🔱 142 • 9d ago
 
 ---
 

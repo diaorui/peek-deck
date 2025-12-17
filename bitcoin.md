@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T15:35:04.173637+00:00'
+updated: '2025-12-17T15:53:14.198403+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 15:35 UTC  
+**Last Updated:** December 17, 2025 at 15:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,735.85
+### $89,443.13
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** -3.1%  
-**30d:** -3.5%  
-**90d:** -22.4%  
-**1y:** -10.8%  
+**24h:** +0.1%  
+**7d:** -5.1%  
+**30d:** -5.5%  
+**90d:** -24.1%  
+**1y:** -12.7%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Back to 90k.
 
-26m ago
+44m ago
 
 ---
 
@@ -115,7 +115,7 @@ Just keep hodling and don't trust the news
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-39m ago
+57m ago
 
 ---
 
@@ -129,7 +129,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 I was genuinely surprised and shocked to see this, especially since our country is low-income and very slow when it comes to new technologies. Nice to see things are moving forward. P.S. Bosnia and Herzegovina, Europe
 
-6h ago
+7h ago
 
 ---
 
@@ -137,7 +137,7 @@ I was genuinely surprised and shocked to see this, especially since our country 
 
 They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth annual loss. First one without a scandal attached. No exchange collapsed. No founder arrested. No rug pull. Just... boredom. The tourists are checking out. Here's what the tourists never understand: the boring parts are the feature, not the bug. Every technological shift follows the same arc. Ridicule. Resistance. Magazine cover. But between resistance and magazine cover? There's a long, quiet stretch where nothing seems to happen. That's the dip. The dip is where most people quit. Not because they failed—because they got tired of waiting. I watched this happen in 2014. In 2018. In 2022. The headlines screamed death. The believers kept building. The difference between a tourist and a settler isn't conviction. It's tolerance for boredom. Tourists need the dopamine of daily gains. Settlers understand that positioning happens in the quiet. The same information is available to everyone. The Fed's moves. The ETF flows. The macro headwinds. But information without the patience to act on it is just noise. Risk isn't about volatility. Risk is a function of information and control. If you know why you're here, a down year isn't a crisis. It's a filter. The question isn't whether Bitcoin will recover. The question is whether you'll still be here when it does.
 
-2h ago
+3h ago
 
 ---
 
@@ -155,7 +155,7 @@ They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth ann
 
 Surging metals prices and dovish comments from leading Fed chair contender Chris Waller were among the news items possibly boosting crypto prices.
 
-CoinDesk • 15m ago
+CoinDesk • 33m ago
 
 ---
 
@@ -193,13 +193,13 @@ Decrypt • 8h ago
 
 US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
 
-CryptoSlate • 5h ago
+CryptoSlate • 6h ago
 
 ---
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 17h ago
+thestreet.com • 18h ago
 
 ---
 
@@ -293,7 +293,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 221 • ⏱️ 9:01 • 16h ago
+👁️ 47K • 👍 3K • 💬 221 • ⏱️ 9:01 • 17h ago
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 335 • 💬 62 • ⏱️ 46:53 • 28m ago
+👁️ 3K • 👍 335 • 💬 62 • ⏱️ 46:53 • 46m ago
 
 ---
 
@@ -383,7 +383,7 @@ My Preferred Exchange BYBIT https://partner.bybit.com/b/Didi NON-KYC Exchange: .
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 8K • 👍 663 • 💬 117 • ⏱️ 19:30 • 11h ago
+👁️ 8K • 👍 663 • 💬 117 • ⏱️ 19:30 • 12h ago
 
 ---
 

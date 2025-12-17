@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T15:35:04.183111+00:00'
+updated: '2025-12-17T15:53:14.208132+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 15:35 UTC  
+**Last Updated:** December 17, 2025 at 15:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 Ben Procter, one of the designers behind Avatar’s human technology, explains how the team approached mech and robot control in the Avatar films. Instead of designing machines around what looks cool, the focus was on what would actually work. Human movement cannot be mapped directly onto multi-legged machines, so control systems had to account for balance, pressure, and scale in a way that made sense physically and visually. That approach carries through much of the human tech in Avatar, where machines are treated as tools with constraints, not characters, and designed to feel like they belong in a functioning world rather than just a single scene.
 
-30m ago
+49m ago
 
 ---
 
