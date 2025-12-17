@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T19:53:40.914091+00:00'
+updated: '2025-12-17T20:20:35.707739+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 19:53 UTC  
+**Last Updated:** December 17, 2025 at 20:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,849.79
+### $2,806.55
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.3%  
-**7d:** -12.7%  
-**30d:** -9.6%  
-**90d:** -36.8%  
-**1y:** -22.2%  
+**24h:** -4.0%  
+**7d:** -12.5%  
+**30d:** -9.4%  
+**90d:** -36.7%  
+**1y:** -22.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $339.02B
+**Market Cap:** $339.31B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--43.2%
+-43.0%
 
 **All-Time Low:** $0.43
-+649238.7%
++651515.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
-4h ago
+5h ago
 
 ---
 
@@ -80,25 +80,33 @@ What is the current situation with using crypto mixers in the the US, UK and EU?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
 **[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
 
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 4h ago
-
----
-
-**[Help sending Blob transaction](https://www.reddit.com/r/ethereum/comments/1pp3efv/help_sending_blob_transaction/)**
-
-1h ago
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 5h ago
 
 ---
 
 **[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
 
 1h ago
+
+---
+
+**[Help sending Blob transaction](https://www.reddit.com/r/ethereum/comments/1pp3efv/help_sending_blob_transaction/)**
+
+2h ago
+
+---
+
+**[Sourcify 2025 Recap](https://www.reddit.com/r/ethereum/comments/1pozmjd/sourcify_2025_recap/)**
+
+2025 is coming to an end and it's a good time to look back at what we've achieved this year.
+
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 4h ago
 
 ---
 
@@ -112,15 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The cryptocurrency industry is undergoing a fundamental structural shift, moving away from fragmented protocols toward a unified "Aggregatio...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 12h ago
-
----
-
-**[Sourcify 2025 Recap](https://www.reddit.com/r/ethereum/comments/1pozmjd/sourcify_2025_recap/)**
-
-2025 is coming to an end and it's a good time to look back at what we've achieved this year.
-
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 4h ago
+🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 13h ago
 
 ---
 
@@ -142,25 +142,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqc92BaefCOJXi1N5CR_MWmULnKodK8KKmbh915vRD5Aob1R5qcQy5P_&gaa_ts=69430793&gaa_sig=c-Ta338fx3Wgk7ODoBjUA8FoWupNisJnAo2Ssurh878on4mImfxKZfbr9Ox2S5aJTF3vQm9Ke5ZriTWSukhdyw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqd1OgOvMMNxv_bcSe3-wMecNECkC8sbFQXnh67l6-L4jI24GZ8C2P3d&gaa_ts=694313fb&gaa_sig=_gWeCYOTdBz3pTqzGj_Z9V2bdizWEPRl_MJPhDPYHjaFzjWYilHCskHn6EKhZNVvltM_L80TiemeeSXmKIJQxA%3D%3D)**
 
 Barron's • 22h ago
-
----
-
-**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
-
-Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
-
-CoinDesk • 2d ago
-
----
-
-**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
-
-If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
-
-The Motley Fool • 3d ago
 
 ---
 
@@ -170,25 +154,23 @@ The Block • 2d ago
 
 ---
 
-**[DOGE, SHIB Price News: Dogecoin and Shiba Inu Drop Lower as Ethereum Loses Appeal](https://www.coindesk.com/markets/2025/12/17/dogecoin-and-shiba-inu-test-lower-levels-after-key-support-gives-way)**
+**[Tom Lee Predicts 10-15% Downside For Stocks In Early 2026: Here Is Why The Ethereum Bull Sees Crypto's 'Best Years' Ahead](https://finance.yahoo.com/news/tom-lee-predicts-10-15-193238141.html)**
 
-The decline in ether contributed to the selling pressure on meme coins, as traders often use ETH as a risk gauge for altcoins.
+Wall Street analyst Tom Lee predicted on Monday a bearish first half for financial markets in 2026, but expects it to “come back in force” eventually. Lee Expects Market To ‘Come Back In Force’ In 2026 Lee, who chairs BitMine Immersion Technologies ...
 
-CoinDesk • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
-**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
+**[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
 
-Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
-
-Yahoo Finance • 1d ago
+TipRanks • 1d ago
 
 ---
 
@@ -206,9 +188,27 @@ CCN.com • 1d ago
 
 ---
 
-**[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
+**[Cathie Wood's Ark Invest Buys the Dip on Coinbase, Circle and Tom Lee’s Ethereum Giant BitMine](https://decrypt.co/352571/cathie-woods-ark-invest-buys-dip-coinbase-circle-tom-lee-ethereum-bitmine)**
 
-TipRanks • 1d ago
+The actively managed ETFs of Cathie Wood's Ark Invest loaded up on crypto-related equities like Coinbase, BitMine, and Circle as prices sagged Monday.
+
+Decrypt • 1d ago
+
+---
+
+**[Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk](https://decrypt.co/352533/bitcoin-ethereum-etfs-shed-582m-in-a-day-as-institutions-trim-risk)**
+
+U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
+
+Decrypt • 1d ago
+
+---
+
+**[BlackRock moves 47K Ethereum in a day: But the real story isn’t a sell-off](https://ambcrypto.com/blackrock-moves-47k-ethereum-in-a-day-but-the-real-story-isnt-a-sell-off/)**
+
+What are institutions seeing that retail traders are missing?
+
+AMBCrypto • 9h ago
 
 ---
 
@@ -222,7 +222,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 171 • 💬 10 • ⏱️ 20:34 • 4h ago
+👁️ 3K • 👍 171 • 💬 10 • ⏱️ 20:34 • 5h ago
 
 ---
 
@@ -252,7 +252,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 520 • 👍 27 • 💬 1 • ⏱️ 5:36 • 9h ago
+👁️ 520 • 👍 27 • 💬 1 • ⏱️ 5:36 • 10h ago
 
 ---
 

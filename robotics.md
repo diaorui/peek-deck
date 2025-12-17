@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T19:53:40.917306+00:00'
+updated: '2025-12-17T20:20:35.710928+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 19:53 UTC  
+**Last Updated:** December 17, 2025 at 20:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,15 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Ben Procter, one of the designers behind Avatar’s human technology, explains how the team approached mech and robot control in the Avatar films. Instead of designing machines around what looks cool, the focus was on what would actually work. Human movement cannot be mapped directly onto multi-legged machines, so control systems had to account for balance, pressure, and scale in a way that made sense physically and visually. That approach carries through much of the human tech in Avatar, where machines are treated as tools with constraints, not characters, and designed to feel like they belong in a functioning world rather than just a single scene.
 
-4h ago
+5h ago
+
+---
+
+**[Help for my school project](https://www.reddit.com/r/robotics/comments/1pp2myk/help_for_my_school_project/)**
+
+Can i make a phone bluetooth following cart ( phone acts as beacon cart follows it ) for indoor use with object avoidance only with these components esp32, 2 (torque≥10 kg.cm) dc motors, motor driver bts7960, 3 ultrasonic sensors,12 v 12 ah li-ion battery . Only using these essential parts, am i missing anything essential to make a cart like this Load excluding body weight 17 pounds (8 kg)
+
+2h ago
 
 ---
 
@@ -72,11 +80,11 @@ An robotic arm picks up a toy bear from a sofa and places it into a basket. The 
 
 ---
 
-**[Help for my school project](https://www.reddit.com/r/robotics/comments/1pp2myk/help_for_my_school_project/)**
+**[Robot simulation software](https://www.reddit.com/r/robotics/comments/1pp66q2/robot_simulation_software/)**
 
-Can i make a phone bluetooth following cart ( phone acts as beacon cart follows it ) for indoor use with object avoidance only with these components esp32, 2 (torque≥10 kg.cm) dc motors, motor driver bts7960, 3 ultrasonic sensors,12 v 12 ah li-ion battery . Only using these essential parts, am i missing anything essential to make a cart like this Load excluding body weight 17 pounds (8 kg)
+I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but without actually building the robot. I'm currently trying to put something together with threejs and the jolt physics engine, but I'd have to assume there's probably a better way to do it. If so, what are better ways to simulate a robot? +1 if it can run in a browser
 
-2h ago
+29m ago
 
 ---
 
@@ -92,7 +100,7 @@ I’m working on like a platform that carries a robotic arm mounted on it that c
 
 In this tutorial you will learn: how γ affects convergence and stability in Q-Learning, how to choose the right value for your own RL environment, and what happens when γ exceeds the recommended limits (for example, γ > 1.0) and why the algorithm crashes. Link: Discount Factor (gamma) Explained With Q-Learning + CartPole
 
-3h ago
+4h ago
 
 ---
 
@@ -104,19 +112,11 @@ In principle I understand the implicit flexibility of DOF arms, but in practice 
 
 ---
 
-**[A self-balancing wheel](https://www.reddit.com/r/robotics/comments/1po0ani/a_selfbalancing_wheel/)**
-
-I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
+**[Rodney Brooks, the Godfather of Modern Robotics, Says the Field Has Lost Its Way](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
 The New York Times • 3d ago
 
@@ -124,7 +124,7 @@ The New York Times • 3d ago
 
 **[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Verge • 2d ago
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
-TechCrunch • 5h ago
+TechCrunch • 6h ago
 
 ---
 
@@ -164,7 +164,7 @@ TechCrunch • 5h ago
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-NASA (.gov) • 21h ago
+NASA (.gov) • 22h ago
 
 ---
 

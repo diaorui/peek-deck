@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T19:53:40.899505+00:00'
+updated: '2025-12-17T20:20:35.693295+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 19:53 UTC  
+**Last Updated:** December 17, 2025 at 20:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 4h ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 5h ago
 
 ---
 
@@ -49,15 +49,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
-7h ago
-
----
-
-**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://www.reddit.com/r/artificial/comments/1pocbf5/actor_joseph_gordonlevitt_wonders_why_ai/)**
-
-Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
-
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 23h ago
+8h ago
 
 ---
 
@@ -69,11 +61,19 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 ---
 
+**[Actor Joseph Gordon-Levitt wonders why AI companies don’t have to ‘follow any laws’](https://www.reddit.com/r/artificial/comments/1pocbf5/actor_joseph_gordonlevitt_wonders_why_ai/)**
+
+Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
+
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 1d ago
+
+---
+
 **[Microsoft's TRELLIS 2-4B, An Open-Source Image-to-3D Model](https://www.reddit.com/r/artificial/comments/1povtpl/microsofts_trellis_24b_an_opensource_imageto3d/)**
 
 "An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
 
-6h ago
+7h ago
 
 ---
 
@@ -93,11 +93,19 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 ---
 
+**[Adding verification nodes made our agent system way more stable](https://www.reddit.com/r/artificial/comments/1pp6jii/adding_verification_nodes_made_our_agent_system/)**
+
+In our multi-step workflow where each step depended on the previous one’s output, problems we observed were silent errors: malformed JSON, missing fields, incorrect assumptions, etc. We added verification nodes between steps: check structure check schema check grounding retry or escalate if needed It turned the system from unpredictable to stable. It reminded me of how traditional systems use validation layers, but here the cost of skipping them compounds faster because each output becomes the next input. Anyone else tried adding checkpoints between AI-driven steps? What verification patterns worked for you?
+
+16m ago
+
+---
+
 **[The Year in Slop](https://www.reddit.com/r/artificial/comments/1pp5cm1/the_year_in_slop/)**
 
 This was the year that A.I.-generated content passed a kind of audiovisual Turing test, sometimes fooling us against our better judgment.
 
-🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 35m ago
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-year-in-ai-slop) • 1h ago
 
 ---
 
@@ -105,15 +113,7 @@ This was the year that A.I.-generated content passed a kind of audiovisual Turin
 
 Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the speed to get an eery feeling. Videobending with OBS.
 
-4h ago
-
----
-
-**[AMD wants your logs to help optimize PyTorch & ComfyUI for Strix Halo, Radeon GPUs](https://www.reddit.com/r/artificial/comments/1poxopy/amd_wants_your_logs_to_help_optimize_pytorch/)**
-
-If you are not satisfied with the current performance for PyTorch or ComfyUI / Stable Diffusion on your Strix Halo APU system or with other consumer RDNA3/RDNA4 Radeon consumer GPUs, AMD engineers are interested in your logs to help better optimize the performance going forward.
-
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Logs-For-ComfyUI-PyTorch) • 5h ago
+5h ago
 
 ---
 
@@ -127,47 +127,53 @@ Reuters • 4h ago
 
 ---
 
-**[The 2,000-year-old debate that reveals AI’s biggest problem](https://www.vox.com/future-perfect/472545/ai-alignment-superintelligence-meaning-agency-autonomy)**
+**[U.S. and China Are Headed for an AI Collision](https://www.realcleardefense.com/articles/2025/12/17/us_and_china_are_headed_for_an_ai_collision_1153822.html)**
 
-Silicon Valley is racing to build a god — without understanding what makes a good one.
-
-Vox • 7h ago
+RealClearDefense • 8h ago
 
 ---
 
-**[Amazon says AI chief Rohit Prasad is leaving, Peter DeSantis to lead 'AGI' group](https://www.cnbc.com/2025/12/17/amazon-ai-chief-prasad-leaving-peter-desantis-agi-group.html)**
+**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
 
-Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving at the end of this year, the company confirmed.
-
-CNBC • 2h ago
+The New York Times • 20m ago
 
 ---
 
-**[Amazon Names New AI Chief Amid Battle to Take on Tech Rivals](https://finance.yahoo.com/news/amazon-names-ai-chief-amid-183011392.html)**
+**[NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)**
 
-Peter DeSantis will lead the new group, Amazon Chief Executive Officer Andy Jassy said Wednesday in a message to employees, which was also posted on the company’s corporate blog.  The new organization will combine Amazon’s Artificial General Intelligence team — which oversees the company’s Nova-branded AI models and the digital brains of the Alexa voice assistant — with Amazon’s chipmaking unit and quantum computing research.
+NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-Yahoo Finance • 1h ago
-
----
-
-**[Amazon taps veteran Peter DeSantis to lead AI, chip and quantum push](https://www.reuters.com/technology/amazon-taps-veteran-peter-desantis-lead-ai-chip-quantum-push-2025-12-17/)**
-
-Reuters • 1h ago
+National Oceanic and Atmospheric Administration (NOAA) (.gov) • 8h ago
 
 ---
 
-**[Greene County Sheriff's Office to explore AI-enabled body cameras](https://www.news-leader.com/story/news/local/ozarks/2025/12/17/greene-county-sheriffs-office-will-explore-using-ai-body-cameras/87799941007/)**
+**[AI spending worries hit industrials, Trump takes aim at defense stocks](https://www.cnbc.com/2025/12/17/ai-spending-worries-hit-industrials-trump-takes-aim-at-defense-stocks.html)**
 
-The Greene County Sheriff's Office will conduct a 6-month-long study to explore the use of AI-enabled body cameras.
+Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
 
-Springfield News-Leader • 1h ago
+CNBC • 47m ago
 
 ---
 
-**[Boise man arrested under Idaho law banning AI child pornography](https://www.idahostatesman.com/news/local/crime/article313779388.html)**
+**[Tech stocks plunge as AI angst returns](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866)**
 
-Idaho Statesman • 42m ago
+The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
+
+NBC News • 2h ago
+
+---
+
+**[The sizzling AI trade is having this surprising effect on global markets](https://www.marketwatch.com/story/the-sizzling-ai-trade-is-having-this-surprising-effect-on-global-markets-5363219e?gaa_at=eafs&gaa_n=AWEtsqcWKKWsnoRP-3Wh5fZUhAIeRrF0LanfBVzvOcj5CUMjvzxChp4Vh5B2&gaa_ts=694313f8&gaa_sig=cVjvFP5_SOZNHNIKaPOEZLlSSoRZFhMImc4qQI0fd1f4Y55FzxsOIDBpbVcZWFkiqaT_HXRGHjriFWpuhNXzFw%3D%3D)**
+
+MarketWatch • 4h ago
+
+---
+
+**[Woman Marries AI-Generated Boyfriend, Wears Augmented Reality Smart Glasses to Exchange Rings](https://people.com/woman-marries-ai-generated-boyfriend-wears-augmented-reality-smart-glasses-to-exchange-rings-11871301)**
+
+A woman in Japan married an AI-generated boyfriend, who was present on a phone screen, and exchanged rings using augmented reality glasses. Yurina Noguchi created her AI husband, Lune Klaus Verdure, based on a video game character.
+
+People.com • 46m ago
 
 ---
 
@@ -175,21 +181,13 @@ Idaho Statesman • 42m ago
 
 A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
-**[White House AI czar blasts blue states for inserting 'woke ideology' into artificial intelligence](https://www.foxbusiness.com/media/white-house-ai-czar-blasts-blue-states-inserting-woke-ideology-artificial-intelligence)**
+**[Google Releases More Efficient Gemini 3 AI Model Across Products](https://www.bloomberg.com/news/articles/2025-12-17/google-releases-more-efficient-gemini-3-ai-model-across-products)**
 
-Trump AI czar David Sacks slams blue states for inserting 'woke' ideology into AI regulations, taking aim at Colorado's discrimination measures.
-
-Fox Business • 7h ago
-
----
-
-**[U.S. and China Are Headed for an AI Collision](https://www.realcleardefense.com/articles/2025/12/17/us_and_china_are_headed_for_an_ai_collision_1153822.html)**
-
-RealClearDefense • 8h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -205,7 +203,7 @@ RealClearDefense • 8h ago
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 760 • 💬 384 • 22h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 773 • 💬 391 • 23h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -213,7 +211,7 @@ RealClearDefense • 8h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 582 • 💬 982 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 582 • 💬 983 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -221,7 +219,15 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 462 • 💬 262 • 21h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 479 • 💬 266 • 22h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+
+---
+
+**[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://news.ycombinator.com/item?id=46302267)**
+
+AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
+
+⬆️ 448 • 💬 255 • 3h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -239,14 +245,6 @@ Software ate the world. Agents are going to eat SaaS.
 
 ---
 
-**[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://news.ycombinator.com/item?id=46302267)**
-
-AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
-
-⬆️ 353 • 💬 198 • 2h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
-
----
-
 **[Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted](https://news.ycombinator.com/item?id=46268844)**
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
@@ -259,7 +257,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 160 • 💬 107 • 11h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 169 • 💬 117 • 11h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -281,7 +279,7 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 4K • 👍 268 • 💬 21 • ⏱️ 27:34 • 4h ago
+👁️ 4K • 👍 268 • 💬 21 • ⏱️ 27:34 • 5h ago
 
 ---
 
@@ -309,7 +307,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 15K • 👍 555 • 💬 33 • ⏱️ 11:44 • 13h ago
+👁️ 15K • 👍 555 • 💬 33 • ⏱️ 11:44 • 14h ago
 
 ---
 
@@ -369,7 +367,7 @@ Manus released version 1.6 with its most powerful agent yet, pushing tasks to fi
 
 📺 AI Revolution
 
-👁️ 15K • 👍 495 • 💬 39 • ⏱️ 9:33 • 20h ago
+👁️ 15K • 👍 495 • 💬 39 • ⏱️ 9:33 • 21h ago
 
 ---
 
@@ -385,7 +383,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,865 • 9d ago
+⬇️ 296,552 • ❤️ 2,866 • 9d ago
 
 ---
 
@@ -397,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 919 • 5d ago
+⬇️ 158,614 • ❤️ 921 • 5d ago
 
 ---
 
@@ -409,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 297 • 1d ago
+⬇️ 10,487 • ❤️ 298 • 1d ago
 
 ---
 
@@ -445,19 +443,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 222 • 11h ago
-
----
-
-**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
-
-*Mistral AI_*
-
-Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
-
-`24.0B`
-
-⬇️ 28,106 • ❤️ 393 • 19h ago
+⬇️ 0 • ❤️ 223 • 11h ago
 
 ---
 
@@ -469,7 +455,19 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 214 • 2d ago
+⬇️ 0 • ❤️ 217 • 2d ago
+
+---
+
+**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
+
+*Mistral AI_*
+
+Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
+
+`24.0B`
+
+⬇️ 28,106 • ❤️ 393 • 20h ago
 
 ---
 
@@ -507,7 +505,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 5 • 💬 2 • ⭐ 1,111 • 6d ago
+▲ 5 • 💬 2 • ⭐ 1,812 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -533,7 +531,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 131 • 💬 6 • ⭐ 18,455 • 3mo ago
+▲ 131 • 💬 6 • ⭐ 18,489 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -547,7 +545,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 25 • 💬 2 • ⭐ 497 • 5d ago
+▲ 25 • 💬 2 • ⭐ 529 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -681,7 +679,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.2k • 🔱 92 • 3h ago
+⭐ 1.2k • 🔱 98 • 3h ago
 
 ---
 
@@ -691,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 3h ago
+⭐ 1.1k • 🔱 138 • 9m ago
 
 ---
 
@@ -711,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 903 • 🔱 24 • 10d ago
+⭐ 904 • 🔱 24 • 10d ago
 
 ---
 

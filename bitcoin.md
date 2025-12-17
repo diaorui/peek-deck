@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T19:53:40.908067+00:00'
+updated: '2025-12-17T20:20:35.701701+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 19:53 UTC  
+**Last Updated:** December 17, 2025 at 20:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,037.86
+### $86,020.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -7.4%  
-**30d:** -7.7%  
-**90d:** -25.8%  
-**1y:** -14.7%  
+**24h:** -2.1%  
+**7d:** -7.3%  
+**30d:** -7.6%  
+**90d:** -25.7%  
+**1y:** -14.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1712.92B
+**Market Cap:** $1711.22B
 Rank #1
 
-**Circulating Supply:** 19,963,428 BTC
+**Circulating Supply:** 19,963,446 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.9%
+-31.8%
 
 **All-Time Low:** $67.81
-+126453.6%
++126769.2%
 
 ---
 
@@ -77,23 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
-
-8h ago
-
----
-
-**[Your Choice?](https://www.reddit.com/r/Bitcoin/comments/1poyk0f/your_choice/)**
-
-Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
+**[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
 
 4h ago
 
 ---
 
-**[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
+**[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-3h ago
+8h ago
 
 ---
 
@@ -103,9 +95,17 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 ---
 
-**[These swings are crazy](https://www.reddit.com/r/Bitcoin/comments/1pp148h/these_swings_are_crazy/)**
+**[Your Choice?](https://www.reddit.com/r/Bitcoin/comments/1poyk0f/your_choice/)**
 
-3h ago
+Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
+
+5h ago
+
+---
+
+**[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
+
+16m ago
 
 ---
 
@@ -115,9 +115,23 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 ---
 
+**[Dumping again. I'm sorry.](https://www.reddit.com/r/Bitcoin/comments/1pp4vty/dumping_again_im_sorry/)**
+
+1h ago
+
+---
+
 **[Guess where my daily DCA buy happened lol](https://www.reddit.com/r/Bitcoin/comments/1pp46g0/guess_where_my_daily_dca_buy_happened_lol/)**
 
 Tippity top of the daily mountain range
+
+1h ago
+
+---
+
+**[Bear Market](https://www.reddit.com/r/Bitcoin/comments/1pp4zhb/bear_market/)**
+
+Medium term holder 5+ years. I'm seeing so many posts with folks showing technical analysis and memes. Lots of panicky posts by new folks seeing price drops for the first time. Next, other posts of people worshipping QE and other monetary instruments that end up driving up asset prices and make cost of living brutal. This is my second bear market and here are my tips: 1) Treat Bitcoin like a long term, high volatility asset. If you DCA, give yourself 8-10 years. If you lump sum invest, your best bet is during bear cycles anytime between May to October. We are in a bear cycle now. 2) Is the 4 year cycle broken? It's irrelevant because your timeline should be long enough to see sustained gains unless there is a major recession. 3) Selling is normal and fiat does not suckkkkk. Yes, you heard that. You need money to eat, live, and buy things like homes, cars, tuition, and weddings. Bitcoin is an investment that helps. 4) Gold and diversified stocks matter as well. Bitcoin ideally should be 10% of a portfolio and that's also assuming you are comfortable with risk. 5) No leverage and no life savings. Don't do either. Nobody other than gamblers or insiders. 6) Stop worrying about what whales or insiders do. They have existed and will exist and will outleverage and outfinesse you in all scenarios as well.
 
 1h ago
 
@@ -131,43 +145,15 @@ Just keep hodling and don't trust the news
 
 ---
 
-**[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
-
-15h ago
-
----
-
-**[TA 12/17/25 no financial advice DYOR](https://www.reddit.com/r/Bitcoin/comments/1pp0bva/ta_121725_no_financial_advice_dyor/)**
-
-This could lead to amuch big f off pattern so be aware and do your own reasearch, i personlay will wait for the double penis bottom to enter!
-
-3h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price (BTC) news: Early U.S. surge above $90,000](https://www.coindesk.com/markets/2025/12/17/bitcoin-re-takes-usd90-000-as-price-spikes-early-in-u-s-session)**
+**[Bitcoin price (BTC) news: Don't read too much into current price action](https://www.coindesk.com/markets/2025/12/17/traders-mull-the-bottom-as-bitcoin-returns-to-week-s-lows-below-usd86-000)**
 
-Surging metals prices and dovish comments from leading Fed chair contender Chris Waller were among the news items possibly boosting crypto prices.
+One analyst isn't quite ready to call a bottom, but says bitcoin is surely in an oversold condition.
 
-CoinDesk • 3h ago
-
----
-
-**[The Daily: US senators introduce crypto fraud bill, K33 flags easing bitcoin sell pressure, BitMine adds $140M in ETH, and more](https://www.theblock.co/post/383044/the-daily-us-senators-introduce-crypto-fraud-bill-k33-flags-easing-bitcoin-sell-pressure-bitmine-adds-140m-in-eth-and-more?utm_source=companies.xml&utm_medium=rss)**
-
-The Block • 49m ago
-
----
-
-**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
-
-Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
-
-Financial Times • 2d ago
+CoinDesk • 47m ago
 
 ---
 
@@ -177,11 +163,47 @@ Investor's Business Daily • 5h ago
 
 ---
 
-**[Will Bitcoin Hit $200,000 in 2026?](https://www.fool.com/investing/2025/12/17/will-bitcoin-hit-200000-in-2026/)**
+**[Bitcoin, gold, AI were key drivers of 2025's record ETF inflows](https://finance.yahoo.com/video/bitcoin-gold-ai-were-key-200000651.html)**
+
+Net inflows into exchange-traded funds (ETFs) totaled a record $1.03 trillion last year, and they're already set to break that record this year, currently sitting at $1.28 trillion year to date. Amplify ETFs CEO, Christian Magoon, joins Market Catalysts host Julie Hyman to explain where money was going in 2025 and what ETF trends he anticipates next year. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+
+Yahoo Finance • 20m ago
+
+---
+
+**[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
+
+The Block • 8h ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdtig9V1a3DOPrmWNbhEAI96af6rCSosJfVzY-Iufe7adSzgQ896KAv&gaa_ts=694313f9&gaa_sig=bpQu5nNFisk7jR-53j59iSS2vUkSpn8vx3SPUGcafq3udkwKpb9RA043Sa2RNszmtxlHAdt0DdZAxHHF7oDjrQ%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Michael Saylor Buys Another $1B in Bitcoin as Grayscale Predicts All Time High Within 6 Months — Is It Likely?](https://finance.yahoo.com/news/michael-saylor-buys-another-1b-121215863.html)**
+
+Strategy added nearly $1 billion worth of Bitcoin for a second straight week. Grayscale expects Bitcoin to reach a new all-time high in the first ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Saylor’s Long Bitcoin Bet Has Left Corporate Rivals Behind: Crypto Entrepreneur](https://www.tradingview.com/news/newsbtc:0390c14a3094b:0-saylor-s-long-bitcoin-bet-has-left-corporate-rivals-behind-crypto-entrepreneur/)**
+
+Michael Saylor’s firm Strategy continues to make Bitcoin headlines with its enormous purchases, making it one of the largest holders in the world.Reports show the company owns 671,268 Bitcoin, roughly 3.2% of the total supply, valued at about $58.61 billion at the time of publication, according to…
+
+TradingView — Track All Markets • 3h ago
+
+---
+
+**[Will Bitcoin Hit $200,000 in 2026?](https://finance.yahoo.com/news/bitcoin-hit-200-000-2026-185000629.html)**
 
 Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
 
-The Motley Fool • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,33 +213,11 @@ The Block • 1d ago
 
 ---
 
-**[Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle](https://decrypt.co/352623/why-bitwise-expects-new-bitcoin-highs-2026-end-4-year-cycle)**
+**[Will Bitcoin Hit $200,000 in 2026?](https://www.fool.com/investing/2025/12/17/will-bitcoin-hit-200000-in-2026/)**
 
-Crypto investment firm Bitwise believes Bitcoin will set a new all-time high price in 2026 and end the typical four-year cycle. Here's why.
+Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
 
-Decrypt • 21h ago
-
----
-
-**[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
-
-thestreet.com • 22h ago
-
----
-
-**[Bitcoin Treasury KindlyMD Faces Nasdaq Delisting With Stock Down 99%](https://decrypt.co/352614/bitcoin-treasury-kindlymd-faces-nasdaq-delisting-stock-down-99-percent)**
-
-KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
-
-Decrypt • 21h ago
-
----
-
-**[Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice](https://www.tradingview.com/news/cointelegraph:7059821cb094b:0-bitcoin-treasury-kindly-md-faces-potential-delisting-after-nasdaq-price-notice/)**
-
-Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
-
-TradingView — Track All Markets • 23h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -245,7 +245,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 1 • 💬 1 • 2d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 2 • 💬 1 • 2d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -287,7 +287,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 578 • 💬 169 • ⏱️ 8:33 • 4h ago
+👁️ 10K • 👍 578 • 💬 169 • ⏱️ 8:33 • 5h ago
 
 ---
 
@@ -307,7 +307,7 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 708 • 💬 276 • ⏱️ 46:53 • 4h ago
+👁️ 11K • 👍 708 • 💬 276 • ⏱️ 46:53 • 5h ago
 
 ---
 
@@ -327,7 +327,7 @@ Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly 
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 875 • 💬 37 • ⏱️ 48:33 • 5h ago
+👁️ 11K • 👍 875 • 💬 37 • ⏱️ 48:33 • 6h ago
 
 ---
 
@@ -337,7 +337,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 8K • 👍 894 • 💬 105 • ⏱️ 9:00 • 3h ago
+👁️ 8K • 👍 894 • 💬 105 • ⏱️ 9:00 • 4h ago
 
 ---
 
@@ -347,7 +347,7 @@ Welcome Back To The Channel! Sign Up on BTCC – Get Up to $20000 in Rewards & A
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 222 • 💬 24 • ⏱️ 49:16 • 1h ago
+👁️ 4K • 👍 222 • 💬 24 • ⏱️ 49:16 • 2h ago
 
 ---
 
@@ -357,7 +357,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 18K • 👍 1K • 💬 109 • ⏱️ 38:13 • 10h ago
+👁️ 18K • 👍 1K • 💬 109 • ⏱️ 38:13 • 11h ago
 
 ---
 
@@ -367,7 +367,7 @@ Come look into the next BIG move in crypto! All LIVE analysis, charting, and tra
 
 📺 Tom Crown
 
-👁️ 3K • 👍 315 • 2h ago
+👁️ 3K • 👍 315 • 3h ago
 
 ---
 
