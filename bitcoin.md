@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T17:56:26.862409+00:00'
+updated: '2025-12-17T18:38:09.630264+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 17:56 UTC  
+**Last Updated:** December 17, 2025 at 18:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,926.88
+### $86,736.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -6.8%  
-**30d:** -7.1%  
-**90d:** -25.3%  
-**1y:** -14.1%  
+**24h:** -1.3%  
+**7d:** -6.4%  
+**30d:** -6.8%  
+**90d:** -25.1%  
+**1y:** -13.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1725.80B
+**Market Cap:** $1726.71B
 Rank #1
 
-**Circulating Supply:** 19,963,406 BTC
+**Circulating Supply:** 19,963,428 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -31.5%
 
 **All-Time Low:** $67.81
-+127335.5%
++127347.3%
 
 ---
 
@@ -77,17 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Back to 90k](https://www.reddit.com/r/Bitcoin/comments/1poyvvu/back_to_90k/)**
-
-Back to 90k.
-
-2h ago
-
----
-
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -99,33 +91,27 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 ---
 
+**[You really thought that was it? Bitcoin said: relax… back down.](https://www.reddit.com/r/Bitcoin/comments/1pp04ul/you_really_thought_that_was_it_bitcoin_said_relax/)**
+
+2h ago
+
+---
+
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
 13h ago
 
 ---
 
-**[You really thought that was it? Bitcoin said: relax… back down.](https://www.reddit.com/r/Bitcoin/comments/1pp04ul/you_really_thought_that_was_it_bitcoin_said_relax/)**
-
-1h ago
-
----
-
-**[And yall tell me it’s no manipulation](https://www.reddit.com/r/Bitcoin/comments/1pp0ok7/and_yall_tell_me_its_no_manipulation/)**
-
-1h ago
-
----
-
 **[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
 
-1h ago
+2h ago
 
 ---
 
 **[These swings are crazy](https://www.reddit.com/r/Bitcoin/comments/1pp148h/these_swings_are_crazy/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +123,23 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-13h ago
+14h ago
+
+---
+
+**[That's so Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1pot57w/thats_so_bitcoin_right_now/)**
+
+Just keep hodling and don't trust the news
+
+8h ago
+
+---
+
+**[The Fatigue Filter](https://www.reddit.com/r/Bitcoin/comments/1povh2n/the_fatigue_filter/)**
+
+They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth annual loss. First one without a scandal attached. No exchange collapsed. No founder arrested. No rug pull. Just... boredom. The tourists are checking out. Here's what the tourists never understand: the boring parts are the feature, not the bug. Every technological shift follows the same arc. Ridicule. Resistance. Magazine cover. But between resistance and magazine cover? There's a long, quiet stretch where nothing seems to happen. That's the dip. The dip is where most people quit. Not because they failed—because they got tired of waiting. I watched this happen in 2014. In 2018. In 2022. The headlines screamed death. The believers kept building. The difference between a tourist and a settler isn't conviction. It's tolerance for boredom. Tourists need the dopamine of daily gains. Settlers understand that positioning happens in the quiet. The same information is available to everyone. The Fed's moves. The ETF flows. The macro headwinds. But information without the patience to act on it is just noise. Risk isn't about volatility. Risk is a function of information and control. If you know why you're here, a down year isn't a crisis. It's a filter. The question isn't whether Bitcoin will recover. The question is whether you'll still be here when it does.
+
+6h ago
 
 ---
 
@@ -149,13 +151,21 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 Surging metals prices and dovish comments from leading Fed chair contender Chris Waller were among the news items possibly boosting crypto prices.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
+
+---
+
+**[Will Bitcoin Hit $200,000 in 2026?](https://www.fool.com/investing/2025/12/17/will-bitcoin-hit-200000-in-2026/)**
+
+Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
+
+The Motley Fool • 8m ago
 
 ---
 
 **[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -173,25 +183,9 @@ Investor's Business Daily • 3h ago
 
 ---
 
-**[Crypto stocks jump as bitcoin suddenly breaks $90,000; HUT and COIN lead gains](https://www.coindesk.com/markets/2025/12/17/hut-8-and-coinbase-outperform-as-crypto-stocks-jump-on-bitcoin-s-sudden-rally)**
-
-Mining stocks, trading platforms, and cryptocurrency infrastructure firms saw significant gains, including Hut 8, Riot Platforms, and Coinbase.
-
-CoinDesk • 2h ago
-
----
-
-**[Hut 8 (HUT) Gets Beaten as Bitcoin Drops](https://finance.yahoo.com/news/hut-8-hut-gets-beaten-153203004.html)**
-
-We recently published 10 Stocks Facing Selling Pressure Ahead of Christmas. Hut 8 Corp. (NASDAQ:HUT) is one of the biggest losers on Monday. Hut 8 fell for a second day on Monday, slashing 14.21 percent to close at $35.44 apiece as investors trimmed their positions following the decline in Bitcoin prices. As of writing, Bitcoin […]
-
-Yahoo Finance • 1d ago
-
----
-
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 20h ago
+thestreet.com • 21h ago
 
 ---
 
@@ -199,7 +193,7 @@ thestreet.com • 20h ago
 
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -207,7 +201,7 @@ Decrypt • 19h ago
 
 Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
 
-TradingView — Track All Markets • 21h ago
+TradingView — Track All Markets • 22h ago
 
 ---
 
@@ -215,7 +209,15 @@ TradingView — Track All Markets • 21h ago
 
 Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
 
-PYMNTS.com • 20h ago
+PYMNTS.com • 21h ago
+
+---
+
+**[Bitcoin reverses brief $90K spike as U.S. stocks edge down (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4532551-bitcoin-reverses-brief-90k-spike-as-us-stocks-edge-down)**
+
+Bitcoin's (BTC-USD) price briefly surged to the $90K mark before quickly reversing course, coinciding with a slide in U.S. equities.
+
+Seeking Alpha • 1h ago
 
 ---
 
@@ -285,7 +287,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 420 • 💬 94 • ⏱️ 8:33 • 2h ago
+👁️ 5K • 👍 420 • 💬 94 • ⏱️ 8:33 • 3h ago
 
 ---
 
@@ -305,7 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 74 • ⏱️ 48:48 • 2h ago
+👁️ 17K • 👍 1K • 💬 74 • ⏱️ 48:48 • 3h ago
 
 ---
 
@@ -315,7 +317,7 @@ Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly 
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 681 • 💬 25 • ⏱️ 48:33 • 3h ago
+👁️ 7K • 👍 681 • 💬 25 • ⏱️ 48:33 • 4h ago
 
 ---
 
@@ -325,7 +327,7 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 563 • 💬 173 • ⏱️ 46:53 • 2h ago
+👁️ 7K • 👍 563 • 💬 173 • ⏱️ 46:53 • 3h ago
 
 ---
 
@@ -335,7 +337,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 3K • 👍 552 • 💬 71 • ⏱️ 9:00 • 1h ago
+👁️ 3K • 👍 552 • 💬 71 • ⏱️ 9:00 • 2h ago
 
 ---
 
@@ -345,7 +347,7 @@ BTC, SOL, ETH, bear market, and stocks! BITUNIX TRADE THE TOP COINS (available e
 
 📺 Lark Davis
 
-👁️ 10K • 👍 608 • 💬 43 • ⏱️ 57:30 • 5h ago
+👁️ 10K • 👍 608 • 💬 43 • ⏱️ 57:30 • 6h ago
 
 ---
 
@@ -355,7 +357,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 16K • 👍 1K • 💬 109 • ⏱️ 38:13 • 8h ago
+👁️ 16K • 👍 1K • 💬 109 • ⏱️ 38:13 • 9h ago
 
 ---
 
@@ -365,7 +367,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 327 • 💬 172 • ⏱️ 10:50 • 17h ago
+👁️ 7K • 👍 327 • 💬 172 • ⏱️ 10:50 • 18h ago
 
 ---
 
@@ -375,7 +377,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 211 • ⏱️ 13:25 • 18h ago
+👁️ 30K • 👍 2K • 💬 211 • ⏱️ 13:25 • 19h ago
 
 ---
 

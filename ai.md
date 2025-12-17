@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T17:56:26.853818+00:00'
+updated: '2025-12-17T18:38:09.617292+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 17:56 UTC  
+**Last Updated:** December 17, 2025 at 18:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 2h ago
-
----
-
-**[Japanese woman Yurina Noguchi married "Klaus," an AI-generated avatar that gazes at her through her smartphone screen.](https://www.reddit.com/r/artificial/comments/1pp1tl1/japanese_woman_yurina_noguchi_married_klaus_an/)**
-
-Here the [article](https://www.reuters.com/investigates/special-report/japan-ai-wedding) if you want to know more about this story.
-
-54m ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 3h ago
 
 ---
 
@@ -57,7 +49,7 @@ Here the [article](https://www.reuters.com/investigates/special-report/japan-ai-
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
-5h ago
+6h ago
 
 ---
 
@@ -65,15 +57,7 @@ I am relatively new to this group and based on my limited interaction, feeling q
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 21h ago
-
----
-
-**[Grok chatbot faces scrutiny after sharing false claims about Bondi Beach shooting](https://www.reddit.com/r/artificial/comments/1po74xm/grok_chatbot_faces_scrutiny_after_sharing_false/)**
-
-Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 1d ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 22h ago
 
 ---
 
@@ -82,6 +66,14 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 "An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
 
 5h ago
+
+---
+
+**[Grok chatbot faces scrutiny after sharing false claims about Bondi Beach shooting](https://www.reddit.com/r/artificial/comments/1po74xm/grok_chatbot_faces_scrutiny_after_sharing_false/)**
+
+Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 1d ago
 
 ---
 
@@ -97,13 +89,15 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the speed to get an eery feeling. Videobending with OBS.
 
-2h ago
+3h ago
 
 ---
 
-**[AI and the Gell-Mann Amnesia Trap](https://www.reddit.com/r/artificial/comments/1pp1orr/ai_and_the_gellmann_amnesia_trap/)**
+**[AMD wants your logs to help optimize PyTorch & ComfyUI for Strix Halo, Radeon GPUs](https://www.reddit.com/r/artificial/comments/1poxopy/amd_wants_your_logs_to_help_optimize_pytorch/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/novehiclesinthepark/p/the-gell-mann-amnesia-trap?r=3wpgsc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 59m ago
+If you are not satisfied with the current performance for PyTorch or ComfyUI / Stable Diffusion on your Strix Halo APU system or with other consumer RDNA3/RDNA4 Radeon consumer GPUs, AMD engineers are interested in your logs to help better optimize the performance going forward.
+
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Logs-For-ComfyUI-PyTorch) • 4h ago
 
 ---
 
@@ -111,7 +105,15 @@ Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the 
 
 the image is an Ai generated Tv tropes page. https://ibb.co/zVFBMbjp alivie needs to be an tv tropes pages fr.
 
-1h ago
+2h ago
+
+---
+
+**[OpenAI's answer to Google's viral Nano Banana Pro image model is here](https://www.reddit.com/r/artificial/comments/1pocv1c/openais_answer_to_googles_viral_nano_banana_pro/)**
+
+OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
+
+🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 22h ago
 
 ---
 
@@ -121,15 +123,65 @@ the image is an Ai generated Tv tropes page. https://ibb.co/zVFBMbjp alivie need
 
 **[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
-**[The 2,000-year-old debate that reveals AI’s biggest problem](https://www.vox.com/future-perfect/472545/ai-alignment-superintelligence-meaning-agency-autonomy)**
+**[Oracle at Center of Tech’s $500 Billion AI-Fueled Rent Spree](https://www.bloomberg.com/news/articles/2025-12-17/oracle-at-center-of-tech-s-500-billion-ai-fueled-rent-spree)**
 
-Silicon Valley is racing to build a god — without understanding what makes a good one.
+Bloomberg.com • 2h ago
 
-Vox • 5h ago
+---
+
+**[Oracle stock sinks as reported AI data center snag puts rising debt in focus](https://finance.yahoo.com/news/oracle-stock-sinks-as-reported-ai-data-center-snag-puts-rising-debt-in-focus-173526761.html)**
+
+Oracle stock tumbled as the Financial Times reported that private lender Blue Owl Capital will not back a $10 billion deal for its next data center.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Tech stocks plunge as AI angst returns](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866)**
+
+The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
+
+NBC News • 24m ago
+
+---
+
+**[Amazon says AI chief Rohit Prasad is leaving, Peter DeSantis to lead 'AGI' group](https://www.cnbc.com/2025/12/17/amazon-ai-chief-prasad-leaving-peter-desantis-agi-group.html)**
+
+Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving at the end of this year, the company confirmed.
+
+CNBC • 45m ago
+
+---
+
+**[Amazon appoints longtime AWS exec Peter DeSantis to lead new AI org](https://techcrunch.com/2025/12/17/amazon-appoints-longtime-aws-exec-peter-desantis-to-lead-new-ai-org/)**
+
+DeSantis has spent 27 years at Amazon, including eight years as an SVP for AWS, the cloud provider that powers about one-third of the internet.
+
+TechCrunch • 31m ago
+
+---
+
+**[Amazon AI chief Rohit Prasad leaving; Infrastructure exec Peter DeSantis to lead unified AI group](https://www.geekwire.com/2025/amazon-ai-chief-rohit-prasad-leaving-infrastructure-exec-peter-desantis-to-lead-unified-ai-group/)**
+
+GeekWire • 1h ago
+
+---
+
+**[Blackburn, Blumenthal raise alarms over AI toys](https://thehill.com/policy/technology/5653163-blackburn-blumenthal-ai-toys/)**
+
+thehill.com • 29m ago
+
+---
+
+**[Video: Why Are A.I. Hits So Sad?](https://www.nytimes.com/video/podcasts/100000010592962/why-are-ai-hits-so-sad.html)**
+
+Jon Caramanica, a pop music critic at the New York Times, discusses the emotional emptiness of hits generated by artificial intelligence.
+
+The New York Times • 44m ago
 
 ---
 
@@ -137,57 +189,7 @@ Vox • 5h ago
 
 Trump's attempt to restrict states' ability to regulate AI has drawn fierce backlash, even from supporters.
 
-Time Magazine • 49m ago
-
----
-
-**[White House AI czar blasts blue states for inserting 'woke ideology' into artificial intelligence](https://www.foxbusiness.com/media/white-house-ai-czar-blasts-blue-states-inserting-woke-ideology-artificial-intelligence)**
-
-Trump AI czar David Sacks slams blue states for inserting 'woke' ideology into AI regulations, taking aim at Colorado's discrimination measures.
-
-Fox Business • 5h ago
-
----
-
-**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
-
-Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
-
-The Guardian • 9h ago
-
----
-
-**[Private AI Investments Soar Despite Modest Sales](https://www.barrons.com/articles/private-ai-investments-soar-66049e49?gaa_at=eafs&gaa_n=AWEtsqduKXmyMP_E9TtWCstcT1CqV7pO-Hn6p0ypHN51OKv4dVFLPnJM4Lnr&gaa_ts=6942f234&gaa_sig=Peg93cs_VaSg5vt-udlNeVgyKGQW81vcNUdKiuuDXdaf6T9pCqEIKMS3LlldmdEPUQL0Hs7nQUNdqe7wXNbkMw%3D%3D)**
-
-Barron's • 43m ago
-
----
-
-**[Amazon AI chief Rohit Prasad leaving; Infrastructure exec Peter DeSantis to lead unified AI group](https://www.geekwire.com/2025/amazon-ai-chief-rohit-prasad-leaving-infrastructure-exec-peter-desantis-to-lead-unified-ai-group/)**
-
-GeekWire • 26m ago
-
----
-
-**[Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)**
-
-A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
-
-Financial Times • 12h ago
-
----
-
-**[NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)**
-
-NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
-
-National Oceanic and Atmospheric Administration (NOAA) (.gov) • 5h ago
-
----
-
-**[Oracle at Center of Tech’s $500 Billion AI-Fueled Rent Spree](https://www.bloomberg.com/news/articles/2025-12-17/oracle-at-center-of-tech-s-500-billion-ai-fueled-rent-spree)**
-
-Bloomberg.com • 1h ago
+Time Magazine • 1h ago
 
 ---
 
@@ -203,7 +205,7 @@ Bloomberg.com • 1h ago
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 734 • 💬 371 • 20h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 747 • 💬 379 • 21h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -211,7 +213,7 @@ Bloomberg.com • 1h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 582 • 💬 981 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 582 • 💬 982 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -219,7 +221,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 433 • 💬 249 • 19h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 447 • 💬 257 • 20h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -241,7 +243,15 @@ Software ate the world. Agents are going to eat SaaS.
 
 Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/defjam16, his LG TV webOS received an upd...
 
-⬆️ 299 • 💬 310 • 2d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+⬆️ 299 • 💬 311 • 2d ago • [TechPowerUp](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+
+---
+
+**[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://news.ycombinator.com/item?id=46302267)**
+
+AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
+
+⬆️ 231 • 💬 135 • 1h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -253,19 +263,11 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 ---
 
-**[AI is wiping out entry-level tech jobs, leaving graduates stranded](https://news.ycombinator.com/item?id=46291504)**
-
-Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
-
-⬆️ 127 • 💬 161 • 1d ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
-
----
-
 **[AI's real superpower: consuming, not creating](https://news.ycombinator.com/item?id=46299552)**
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 120 • 💬 90 • 9h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 140 • 💬 97 • 10h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -279,7 +281,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 13K • 👍 490 • 💬 37 • ⏱️ 11:44 • 11h ago
+👁️ 13K • 👍 490 • 💬 37 • ⏱️ 11:44 • 12h ago
 
 ---
 
@@ -337,7 +339,7 @@ Ai Brains In Earth Orbit AI doesn't just work on Earth anymore — its future ma
 
 📺 Light in sky
 
-👁️ 726 • 👍 24 • 💬 1 • ⏱️ 0:44 • 3h ago
+👁️ 726 • 👍 24 • 💬 1 • ⏱️ 0:44 • 4h ago
 
 ---
 
@@ -379,7 +381,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,861 • 9d ago
+⬇️ 296,552 • ❤️ 2,863 • 9d ago
 
 ---
 
@@ -403,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 295 • 1d ago
+⬇️ 10,487 • ❤️ 297 • 1d ago
 
 ---
 
@@ -439,7 +441,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 219 • 9h ago
+⬇️ 0 • ❤️ 220 • 10h ago
 
 ---
 
@@ -451,7 +453,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 392 • 17h ago
+⬇️ 28,106 • ❤️ 392 • 18h ago
 
 ---
 
@@ -463,7 +465,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 209 • 2d ago
+⬇️ 0 • ❤️ 213 • 2d ago
 
 ---
 
@@ -485,7 +487,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 102,395 • ❤️ 468 • 7d ago
+⬇️ 102,395 • ❤️ 468 • 8d ago
 
 ---
 
@@ -635,7 +637,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.1k • 🔱 2.7k • 8h ago
+⭐ 17.1k • 🔱 2.7k • 9h ago
 
 ---
 
@@ -675,7 +677,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 1h ago
+⭐ 1.1k • 🔱 138 • 2h ago
 
 ---
 
