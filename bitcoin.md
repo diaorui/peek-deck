@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T14:19:15.529032+00:00'
+updated: '2025-12-17T14:45:16.680948+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 14:19 UTC  
+**Last Updated:** December 17, 2025 at 14:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,662.39
+### $87,469.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -5.2%  
-**30d:** -5.6%  
-**90d:** -24.1%  
-**1y:** -12.7%  
+**24h:** -0.1%  
+**7d:** -5.3%  
+**30d:** -5.7%  
+**90d:** -24.2%  
+**1y:** -12.8%  
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-9h ago
+10h ago
 
 ---
 
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Just keep hodling and don't trust the news
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +121,7 @@ I was genuinely surprised and shocked to see this, especially since our country 
 
 They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth annual loss. First one without a scandal attached. No exchange collapsed. No founder arrested. No rug pull. Just... boredom. The tourists are checking out. Here's what the tourists never understand: the boring parts are the feature, not the bug. Every technological shift follows the same arc. Ridicule. Resistance. Magazine cover. But between resistance and magazine cover? There's a long, quiet stretch where nothing seems to happen. That's the dip. The dip is where most people quit. Not because they failed—because they got tired of waiting. I watched this happen in 2014. In 2018. In 2022. The headlines screamed death. The believers kept building. The difference between a tourist and a settler isn't conviction. It's tolerance for boredom. Tourists need the dopamine of daily gains. Settlers understand that positioning happens in the quiet. The same information is available to everyone. The Fed's moves. The ETF flows. The macro headwinds. But information without the patience to act on it is just noise. Risk isn't about volatility. Risk is a function of information and control. If you know why you're here, a down year isn't a crisis. It's a filter. The question isn't whether Bitcoin will recover. The question is whether you'll still be here when it does.
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth ann
 
 **[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -141,7 +141,7 @@ They're calling it Bitcoin fatigue. Bloomberg ran the headline today. Fourth ann
 
 You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
 
-6h ago
+7h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 21h ago
 
 Bitcoin’s Lightning Network has climbed to a new all-time high in capacity, signaling renewed momentum for the layer-2 payments network after a long period of stagnation. Key Takeaways: Lightning Network capacity hit a new all-time high above 5,600 BTC, reversing a year-long decline. Growth is being driven by more Bitcoin ...
 
-Yahoo Finance • 47m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 1d ago
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 16h ago
+thestreet.com • 17h ago
 
 ---
 
@@ -201,7 +201,7 @@ thestreet.com • 16h ago
 
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -273,7 +273,7 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 22h ago
+⬆️ 11 • 💬 3 • 23h ago
 
 ---
 
@@ -287,7 +287,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 209 • ⏱️ 9:01 • 15h ago
+👁️ 43K • 👍 3K • 💬 209 • ⏱️ 9:01 • 16h ago
 
 ---
 
@@ -297,7 +297,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 323 • 💬 128 • ⏱️ 10:50 • 13h ago
+👁️ 7K • 👍 323 • 💬 128 • ⏱️ 10:50 • 14h ago
 
 ---
 
@@ -317,7 +317,7 @@ Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
 
 📺 100XClub
 
-👁️ 4K • 👍 603 • 💬 116 • ⏱️ 10:23 • 5h ago
+👁️ 4K • 👍 603 • 💬 116 • ⏱️ 10:23 • 6h ago
 
 ---
 
@@ -327,7 +327,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Brissa Pabón 
 
-👁️ 3K • 👍 4K • 2h ago
+👁️ 3K • 👍 4K • 3h ago
 
 ---
 
@@ -357,7 +357,7 @@ My Preferred Exchange BYBIT https://partner.bybit.com/b/Didi NON-KYC Exchange: .
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 7K • 👍 620 • 💬 114 • ⏱️ 19:30 • 10h ago
+👁️ 7K • 👍 620 • 💬 114 • ⏱️ 19:30 • 11h ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 37K • 👍 2K • 💬 253 • ⏱️ 18:36 • 15h ago
+👁️ 37K • 👍 2K • 💬 253 • ⏱️ 18:36 • 16h ago
 
 ---
 

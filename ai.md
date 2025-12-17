@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T14:19:15.520715+00:00'
+updated: '2025-12-17T14:45:16.672434+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- social
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 14:19 UTC  
+**Last Updated:** December 17, 2025 at 14:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-21h ago
+22h ago
 
 ---
 
@@ -81,7 +81,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 22h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 23h ago
 
 ---
 
@@ -89,7 +89,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 17h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 18h ago
 
 ---
 
@@ -97,13 +97,13 @@ OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new fl
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 22h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 23h ago
 
 ---
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 20h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 21h ago
 
 ---
 
@@ -137,7 +137,7 @@ newsroom.churchofjesuschrist.org • 22h ago
 
 New Purdue AI requirement teaches students to understand artificial intelligence capabilities, limitations, and practical decision-making applications.
 
-Fox News • 44m ago
+Fox News • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Forbes • 1h ago
 
 Two hyperscalers remain highly favored in the bond markets, and it's not hard to see why.
 
-The Motley Fool • 30m ago
+The Motley Fool • 56m ago
 
 ---
 
@@ -161,7 +161,7 @@ The Motley Fool • 30m ago
 
 Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 2h ago
 
 **[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -261,7 +261,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 125 • 💬 157 • 20h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 125 • 💬 157 • 21h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -269,7 +269,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 87 • 💬 68 • 5h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 87 • 💬 68 • 6h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -293,7 +293,7 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 147K • 👍 3K • 💬 747 • ⏱️ 14:37 • 22h ago
+👁️ 147K • 👍 3K • 💬 747 • ⏱️ 14:37 • 23h ago
 
 ---
 
@@ -341,7 +341,7 @@ Brave Woman Soldier Save Old Woman from Giant Octopus #ai #save #soldier.
 
 📺 AiStory A2.0
 
-👁️ 2K • ⏱️ 0:22 • 1h ago
+👁️ 2K • ⏱️ 0:22 • 2h ago
 
 ---
 
@@ -371,7 +371,7 @@ LinkedIn editor-in-chief Dan Roth joins TODAY to share his insights on workplace
 
 📺 TODAY
 
-👁️ 5K • 👍 49 • 💬 6 • ⏱️ 5:15 • 20h ago
+👁️ 5K • 👍 49 • 💬 6 • ⏱️ 5:15 • 21h ago
 
 ---
 
@@ -471,7 +471,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 203 • 5h ago
+⬇️ 0 • ❤️ 203 • 6h ago
 
 ---
 
@@ -643,7 +643,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.1k • 🔱 2.7k • 4h ago
+⭐ 17.1k • 🔱 2.7k • 5h ago
 
 ---
 
@@ -703,7 +703,7 @@ ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · C
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.0k • 🔱 86 • 27m ago
+⭐ 1.0k • 🔱 86 • 53m ago
 
 ---
 
