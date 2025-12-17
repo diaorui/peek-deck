@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T17:19:07.348283+00:00'
+updated: '2025-12-17T17:43:31.255913+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 17:19 UTC  
+**Last Updated:** December 17, 2025 at 17:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
 
-8h ago
+9h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
 
-8h ago
+9h ago
 
 ---
 
@@ -76,7 +76,7 @@ In this tutorial you will learn: how γ affects convergence and stability in Q-L
 
 In principle I understand the implicit flexibility of DOF arms, but in practice they're usually slow, imprecise, small payload only, expensive, singularities etc etc. Gantry (XYZ) robots are so much faster, precise, don't have singularities, you name it. But nobody ever seems to use or build them, why is that?
 
-1h ago
+2h ago
 
 ---
 
@@ -130,7 +130,7 @@ Interesting Engineering • 1d ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 5h ago
+CNN • 6h ago
 
 ---
 
@@ -200,7 +200,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 56K • 👍 881 • 💬 129 • ⏱️ 11:23 • 1d ago
+👁️ 58K • 👍 886 • 💬 132 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -210,17 +210,15 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 28K • 👍 692 • 💬 113 • ⏱️ 6:41 • 3d ago
+👁️ 28K • 👍 698 • 💬 113 • ⏱️ 6:41 • 3d ago
 
 ---
 
-**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
+**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
 
-Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
+📺 AI . Robot
 
-📺 Dr Ben Miles
-
-👁️ 17K • 👍 2K • 💬 46 • ⏱️ 1:38 • 1d ago
+👁️ 440K • 👍 4K • 💬 41 • ⏱️ 0:21 • 3d ago
 
 ---
 
@@ -230,15 +228,17 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 360K • 👍 12K • 💬 385 • ⏱️ 0:34 • 3d ago
+👁️ 363K • 👍 12K • 💬 391 • ⏱️ 0:34 • 3d ago
 
 ---
 
-**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
+**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
 
-📺 AI . Robot
+Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
 
-👁️ 428K • 👍 4K • 💬 41 • ⏱️ 0:21 • 3d ago
+📺 Dr Ben Miles
+
+👁️ 17K • 👍 2K • 💬 47 • ⏱️ 1:38 • 1d ago
 
 ---
 
@@ -246,27 +246,15 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 117K • 👍 1K • 💬 16 • ⏱️ 0:13 • 1d ago
+👁️ 132K • 👍 1K • 💬 16 • ⏱️ 0:13 • 1d ago
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=Oo31_PpsP4I)**
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=5du7Itx0Xmg)**
 
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+📺 Borunte Robot Lin 
 
-📺 Humanoid Robot 🤖
-
-👁️ 30K • 👍 294 • 💬 1 • ⏱️ 0:19 • 1d ago
-
----
-
-**[Advanced AI Robot Girl Picks Her Partner At Tech Expo](https://www.youtube.com/watch?v=jvYQUVBxqYk)**
-
-Would you let an AI robot girl choose you, or would you walk away? Be honest. DISCLAIMER: All visuals are AI-generated ...
-
-📺 SYN:THETIC_BLOOD
-
-👁️ 63K • 👍 1K • 💬 60 • ⏱️ 0:32 • 1d ago
+👁️ 5K • 👍 20 • ⏱️ 0:20 • 13h ago
 
 ---
 
@@ -276,7 +264,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 30K • 👍 293 • 💬 28 • ⏱️ 1:05 • 2d ago
+👁️ 30K • 👍 297 • 💬 31 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -286,7 +274,17 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 
 📺 RICHLEV
 
-👁️ 174K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
+👁️ 175K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
+
+---
+
+**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+
+📺 Associated Press
+
+👁️ 28K • 👍 105 • 💬 44 • ⏱️ 1:26 • 4d ago
 
 ---
 

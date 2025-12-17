@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T17:19:07.330699+00:00'
+updated: '2025-12-17T17:43:31.238244+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 17:19 UTC  
+**Last Updated:** December 17, 2025 at 17:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 Here the [article](https://www.reuters.com/investigates/special-report/japan-ai-wedding) if you want to know more about this story.
 
-16m ago
+41m ago
 
 ---
 
@@ -103,7 +103,7 @@ Experimentation with Facefusion, AI face swapper on an old footage. Tweaked the 
 
 **[AI and the Gell-Mann Amnesia Trap](https://www.reddit.com/r/artificial/comments/1pp1orr/ai_and_the_gellmann_amnesia_trap/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/novehiclesinthepark/p/the-gell-mann-amnesia-trap?r=3wpgsc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 21m ago
+🔗 [open.substack.com](https://open.substack.com/pub/novehiclesinthepark/p/the-gell-mann-amnesia-trap?r=3wpgsc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 46m ago
 
 ---
 
@@ -121,7 +121,7 @@ the image is an Ai generated Tv tropes page. https://ibb.co/zVFBMbjp alivie need
 
 **[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 5h ago
 
 Trump's attempt to restrict states' ability to regulate AI has drawn fierce backlash, even from supporters.
 
-Time Magazine • 12m ago
+Time Magazine • 36m ago
 
 ---
 
@@ -145,7 +145,7 @@ Time Magazine • 12m ago
 
 Trump AI czar David Sacks slams blue states for inserting 'woke' ideology into AI regulations, taking aim at Colorado's discrimination measures.
 
-Fox Business • 4h ago
+Fox Business • 5h ago
 
 ---
 
@@ -153,13 +153,13 @@ Fox Business • 4h ago
 
 Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
 **[Private AI Investments Soar Despite Modest Sales](https://www.barrons.com/articles/private-ai-investments-soar-66049e49?gaa_at=eafs&gaa_n=AWEtsqdJ0iIOWTxEalPEOybaRNS-R6jb_gHlhFF5DB4IZ0r3ev7ldObWb52i&gaa_ts=6942e971&gaa_sig=jIgET_lxPQuKnd7gt5EKz1eaPNE_MMRl93qDFfySjr0nC2CyB2D5rHmgANx4hd23JGQI5uCqse4xMBc2uSQkLg%3D%3D)**
 
-Barron's • 6m ago
+Barron's • 30m ago
 
 ---
 
@@ -167,7 +167,7 @@ Barron's • 6m ago
 
 After a monster year, all eyes are on Micron's earnings--and whether data center demand can keep this rally alive.
 
-Yahoo Finance • 47m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Vox • 5h ago
 
 **[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -259,7 +259,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 126 • 💬 157 • 23h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 126 • 💬 157 • 1d ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -267,7 +267,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 106 • 💬 80 • 8h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 106 • 💬 80 • 9h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -281,15 +281,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 10K • 👍 403 • 💬 20 • ⏱️ 11:44 • 11h ago
-
----
-
-**[POV: Talking to AI in 2027](https://www.youtube.com/watch?v=LoUpn7h4Phc)**
-
-📺 Alberta Tech
-
-👁️ 1.1M • 👍 38K • 💬 610 • ⏱️ 0:34 • 1d ago
+👁️ 13K • 👍 490 • 💬 37 • ⏱️ 11:44 • 11h ago
 
 ---
 
@@ -299,7 +291,15 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 155K • 👍 3K • 💬 795 • ⏱️ 14:37 • 1d ago
+👁️ 166K • 👍 4K • 💬 1K • ⏱️ 14:37 • 1d ago
+
+---
+
+**[POV: Talking to AI in 2027](https://www.youtube.com/watch?v=LoUpn7h4Phc)**
+
+📺 Alberta Tech
+
+👁️ 1.1M • 👍 38K • 💬 614 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -309,7 +309,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 56K • 👍 881 • 💬 129 • ⏱️ 11:23 • 1d ago
+👁️ 58K • 👍 886 • 💬 132 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -319,17 +319,7 @@ IBM's CEO said there is “no way” that the massive spending on AI and data ce
 
 📺 Eurodollar University
 
-👁️ 216K • 👍 7K • 💬 1K • ⏱️ 20:44 • 2d ago
-
----
-
-**[Ben Smith: Trump is betting his presidency on AI. Can he sell it?](https://www.youtube.com/watch?v=yI6__4Ojwz4)**
-
-Semafor's Ben Smith discusses the president's shift to becoming what he calls the 'AI president'. MS NOW: My Source for News, ...
-
-📺 MS NOW
-
-👁️ 18K • 👍 207 • 💬 71 • ⏱️ 10:03 • 1d ago
+👁️ 224K • 👍 7K • 💬 1K • ⏱️ 20:44 • 2d ago
 
 ---
 
@@ -339,37 +329,43 @@ Welcome to Impact Theory with Tom Bilyeu. In today's Deep Dive episode, Tom Bily
 
 📺 Tom Bilyeu
 
-👁️ 66K • 👍 3K • 💬 734 • ⏱️ 23:28 • 2d ago
+👁️ 67K • 👍 3K • 💬 737 • ⏱️ 23:28 • 2d ago
 
 ---
 
-**[AI Pranks Are Trash](https://www.youtube.com/watch?v=8Z9Oe-8rfEA)**
+**[Ai Brains In Earth Orbit 🤯 #shorts #ytshorts #lightinsky](https://www.youtube.com/watch?v=vN_WMkhffsg)**
 
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+Ai Brains In Earth Orbit AI doesn't just work on Earth anymore — its future may be in space. Today's AI relies on massive ...
 
-📺 penguinz0
+📺 Light in sky
 
-👁️ 862K • 👍 43K • 💬 4K • ⏱️ 11:22 • 2d ago
-
----
-
-**[#AI Farming Robot Harvesting Tomatoes | Smart Agriculture Technology #farmer #2025](https://www.youtube.com/watch?v=Y6L-cTYSGaY)**
-
-This image shows an advanced AI-powered farming robot harvesting ripe tomatoes with precision. Operated using smart controls, ...
-
-📺 Neural Fantasy
-
-👁️ 35K • ⏱️ 0:07 • 9h ago
+👁️ 726 • 👍 24 • 💬 1 • ⏱️ 0:44 • 3h ago
 
 ---
 
-**[Brave Woman Soldier Save Old Woman from Giant Octopus #ai #save #soldier](https://www.youtube.com/watch?v=CuD12k_g51k)**
+**[Ben Smith: Trump is betting his presidency on AI. Can he sell it?](https://www.youtube.com/watch?v=yI6__4Ojwz4)**
 
-Brave Woman Soldier Save Old Woman from Giant Octopus #ai #save #soldier.
+Semafor's Ben Smith discusses the president's shift to becoming what he calls the 'AI president'. MS NOW: My Source for News, ...
 
-📺 AiStory A2.0
+📺 MS NOW
 
-👁️ 5K • ⏱️ 0:22 • 4h ago
+👁️ 18K • 👍 208 • 💬 77 • ⏱️ 10:03 • 1d ago
+
+---
+
+**[Testing my parents if they can spot AI products￼￼? 🤔🎄🎁 #ai #christmasshopping #shopping](https://www.youtube.com/watch?v=tjRl3odfKbw)**
+
+📺 Thedapperdanielle
+
+👁️ 1.4M • 👍 120K • 💬 3K • ⏱️ 3:01 • 2d ago
+
+---
+
+**[The Evolution Of AI #funny](https://www.youtube.com/watch?v=ROyPcyg3-Rc)**
+
+📺 Biggy Bailey
+
+👁️ 442K • 👍 21K • 💬 78 • ⏱️ 1:01 • 1d ago
 
 ---
 
@@ -445,7 +441,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 216 • 8h ago
+⬇️ 0 • ❤️ 216 • 9h ago
 
 ---
 
@@ -533,7 +529,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 130 • 💬 6 • ⭐ 18,455 • 3mo ago
+▲ 131 • 💬 6 • ⭐ 18,455 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -547,7 +543,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 24 • 💬 2 • ⭐ 497 • 5d ago
+▲ 25 • 💬 2 • ⭐ 497 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -606,6 +602,18 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
+**[Memory in the Age of AI Agents](https://huggingface.co/papers/2512.13564)**
+
+*Yuyang Hu, Shichun Liu, Yanwei Yue et al. (47 authors)*
+
+This survey provides an updated overview of agent memory research, distinguishing its forms, functions, and dynamics, and highlights emerging research directions.
+
+▲ 82 • 💬 3 • ⭐ 235 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.13564) • [💻 code](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -619,18 +627,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[Memory in the Age of AI Agents](https://huggingface.co/papers/2512.13564)**
-
-*Yuyang Hu, Shichun Liu, Yanwei Yue et al. (47 authors)*
-
-This survey provides an updated overview of agent memory research, distinguishing its forms, functions, and dynamics, and highlights emerging research directions.
-
-▲ 82 • 💬 3 • ⭐ 178 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.13564) • [💻 code](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -641,7 +637,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.1k • 🔱 2.7k • 7h ago
+⭐ 17.1k • 🔱 2.7k • 8h ago
 
 ---
 
@@ -651,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.2k • 🔱 443 • 1h ago
+⭐ 4.2k • 🔱 443 • 2h ago
 
 ---
 
@@ -681,7 +677,17 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 59m ago
+⭐ 1.1k • 🔱 138 • 1h ago
+
+---
+
+**[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)**
+
+#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
+
+`TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
+
+⭐ 1.1k • 🔱 92 • 1h ago
 
 ---
 
@@ -692,16 +698,6 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 `Python`
 
 ⭐ 1.1k • 🔱 219 • 17d ago
-
----
-
-**[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)**
-
-#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
-
-`TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
-
-⭐ 1.1k • 🔱 90 • 1h ago
 
 ---
 
@@ -731,7 +727,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 781 • 🔱 124 • 1d ago
+⭐ 782 • 🔱 124 • 1d ago
 
 ---
 

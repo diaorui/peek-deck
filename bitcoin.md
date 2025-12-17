@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T17:19:07.339121+00:00'
+updated: '2025-12-17T17:43:31.246717+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 17:19 UTC  
+**Last Updated:** December 17, 2025 at 17:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,444.11
+### $86,926.88
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -6.2%  
-**30d:** -6.6%  
-**90d:** -24.9%  
-**1y:** -13.6%  
+**24h:** -1.6%  
+**7d:** -6.5%  
+**30d:** -6.8%  
+**90d:** -25.1%  
+**1y:** -13.9%  
 
 ---
 
@@ -87,7 +87,7 @@ Back to 90k.
 
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -125,13 +125,13 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[These swings are crazy](https://www.reddit.com/r/Bitcoin/comments/1pp148h/these_swings_are_crazy/)**
 
-44m ago
+1h ago
 
 ---
 
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -139,7 +139,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 Just keep hodling and don't trust the news
 
-6h ago
+7h ago
 
 ---
 
@@ -159,13 +159,13 @@ CoinDesk • 1h ago
 
 Jitters over AI-related stocks and speculation over who will take over Fed Chair Jerome Powell’s position next year may be keeping a lid on bitcoin prices.
 
-Yahoo Finance • 23m ago
+Yahoo Finance • 47m ago
 
 ---
 
 **[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ Financial Times • 2d ago
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 19h ago
+thestreet.com • 20h ago
 
 ---
 
@@ -187,7 +187,7 @@ thestreet.com • 19h ago
 
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -283,13 +283,43 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 ## YouTube Videos: "bitcoin"
 
+**[An INSANE Rumor Just PUMPED AND THEN DUMPED BITCOIN!!!](https://www.youtube.com/watch?v=uZouoVEjX7o)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 5K • 👍 420 • 💬 94 • ⏱️ 8:33 • 2h ago
+
+---
+
 **[CRYPTO TRAP! They Are Lying To You About This Bitcoin Crash](https://www.youtube.com/watch?v=y1Qrr3lVMGo)**
 
 LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 221 • ⏱️ 9:01 • 18h ago
+👁️ 50K • 👍 3K • 💬 229 • ⏱️ 9:01 • 19h ago
+
+---
+
+**[What Michael Saylor Really Wants to Do With Bitcoin](https://www.youtube.com/watch?v=lEr_8unFln0)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 17K • 👍 1K • 💬 74 • ⏱️ 48:48 • 2h ago
+
+---
+
+**[ALL IN! Crypto Investors Clear Message for 2026 [Max Bullish]](https://www.youtube.com/watch?v=q4y50ladu2w)**
+
+Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly with some of the biggest crypto investors, ...
+
+📺 Crypto Banter
+
+👁️ 7K • 👍 681 • 💬 25 • ⏱️ 48:33 • 3h ago
 
 ---
 
@@ -299,7 +329,17 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 335 • 💬 62 • ⏱️ 46:53 • 2h ago
+👁️ 7K • 👍 563 • 💬 173 • ⏱️ 46:53 • 2h ago
+
+---
+
+**[BITCOIN: $90,000 REJECTED AGAIN WTF MANIPULATION?!!!](https://www.youtube.com/watch?v=t0m36osiv7g)**
+
+GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners ...
+
+📺 Ivan on Tech
+
+👁️ 3K • 👍 552 • 💬 71 • ⏱️ 9:00 • 1h ago
 
 ---
 
@@ -309,7 +349,7 @@ BTC, SOL, ETH, bear market, and stocks! BITUNIX TRADE THE TOP COINS (available e
 
 📺 Lark Davis
 
-👁️ 7K • 👍 527 • 💬 31 • ⏱️ 57:30 • 5h ago
+👁️ 10K • 👍 608 • 💬 43 • ⏱️ 57:30 • 5h ago
 
 ---
 
@@ -319,7 +359,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 13K • 👍 1K • 💬 79 • ⏱️ 38:13 • 8h ago
+👁️ 16K • 👍 1K • 💬 109 • ⏱️ 38:13 • 8h ago
 
 ---
 
@@ -329,7 +369,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 325 • 💬 128 • ⏱️ 10:50 • 16h ago
+👁️ 7K • 👍 327 • 💬 172 • ⏱️ 10:50 • 17h ago
 
 ---
 
@@ -339,47 +379,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 171 • ⏱️ 13:25 • 18h ago
-
----
-
-**[Bitcoin Live Trading: Everyone’s Waiting! Watch This Next Move! EP1857](https://www.youtube.com/watch?v=IVAJ4rIn1lM)**
-
-Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
-
-📺 Crypto Lifer
-
-👁️ 2K • 👍 239 • 2h ago
-
----
-
-**[BITCOIN LIVE TRADING AND ANALYSIS! (Moves Detected)](https://www.youtube.com/watch?v=4mgLcNy93GU)**
-
-Affiliate Links: (We May Earn Commission) Blofin: https://blofin.com/invite/Bitcoinsensus (Up to $1000 Deposit Bonus) MY ...
-
-📺 Andy Bitcoinsensus
-
-👁️ 2K • 👍 153 • 3h ago
-
----
-
-**[Larry Fink Is RIGHT About Bitcoin](https://www.youtube.com/watch?v=BzVOxdaaCWU)**
-
-Anthony and John Pompliano break down what's really happening in the bitcoin market — why price has stalled, how volatility is ...
-
-📺 Anthony Pompliano
-
-👁️ 18K • 👍 809 • 💬 33 • ⏱️ 41:39 • 19h ago
-
----
-
-**[BITCOIN NEXT MOVE WILL SURPRISE !!!!](https://www.youtube.com/watch?v=sHeir-64J-0)**
-
-My Preferred Exchange BYBIT https://partner.bybit.com/b/Didi NON-KYC Exchange: ...
-
-📺 THE BITCOIN FAMILY Didi Taihuttu
-
-👁️ 8K • 👍 663 • 💬 117 • ⏱️ 19:30 • 13h ago
+👁️ 30K • 👍 2K • 💬 211 • ⏱️ 13:25 • 18h ago
 
 ---
 

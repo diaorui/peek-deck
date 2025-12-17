@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T17:19:07.345049+00:00'
+updated: '2025-12-17T17:43:31.252711+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 17:19 UTC  
+**Last Updated:** December 17, 2025 at 17:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** -11.4%  
-**30d:** -8.1%  
-**90d:** -35.8%  
-**1y:** -20.9%  
+**24h:** -3.2%  
+**7d:** -11.7%  
+**30d:** -8.6%  
+**90d:** -36.1%  
+**1y:** -21.3%  
 
 ---
 
@@ -108,7 +108,7 @@ The cryptocurrency industry is undergoing a fundamental structural shift, moving
 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 1h ago
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 2h ago
 
 ---
 
@@ -138,7 +138,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 idk man. the speed, the fees, the ux... solana teams and tools built on top of it and that support are shipping faster, like one-click leverage, instant swaps, sub-penny transactions. meanwhile eth still has gas drama and L2 fragmentation. but maybe im too deep in the solana ecosystem and cant see clearly anymore. what am i missing here?
 
-14h ago
+15h ago
 
 ---
 
@@ -148,7 +148,7 @@ idk man. the speed, the fees, the ux... solana teams and tools built on top of i
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe2niZeZbtMvo2CtYDH1StXCrdO0bhvXJXVeopcmug4ikJetzk2DTNA&gaa_ts=6942e974&gaa_sig=2tOU_Y4hxo8r7hfnYz2kCmvM51JJVPFqU2GHf-QBHJFntqAPDRtkFLV1rZnGEGtmEWvE_rgV3xMkbkLY9gTV9Q%3D%3D)**
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
@@ -196,7 +196,7 @@ Finance Magnates • 2h ago
 
 The decline in ether contributed to the selling pressure on meme coins, as traders often use ETH as a risk gauge for altcoins.
 
-CoinDesk • 2m ago
+CoinDesk • 26m ago
 
 ---
 
@@ -222,13 +222,43 @@ CCN.com • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=f7OwaX9MfAQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 792 • 👍 77 • 💬 4 • ⏱️ 4:45 • 1h ago
+
+---
+
 **[REALISTIC ETH Price Prediction for 2026](https://www.youtube.com/watch?v=M2T6_rjIvpA)**
 
 As we head into what I'm expecting to be a "Bottom Year" (or bear market year), it's time to look at realistic and reasonable targets ...
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 5K • 👍 315 • 💬 53 • ⏱️ 11:01 • 16h ago
+👁️ 6K • 👍 317 • 💬 54 • ⏱️ 11:01 • 17h ago
+
+---
+
+**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
+
+THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
+
+📺 Altcoin Daily
+
+👁️ 64K • 👍 3K • 💬 243 • ⏱️ 12:16 • 1d ago
+
+---
+
+**[WHERE I WILL BUY ETH🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=tWtyJgE0xrU)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 443 • 👍 28 • 💬 1 • ⏱️ 5:36 • 7h ago
 
 ---
 
@@ -242,23 +272,13 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 ---
 
-**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
-
-THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
-
-📺 Altcoin Daily
-
-👁️ 64K • 👍 3K • 💬 244 • ⏱️ 12:16 • 1d ago
-
----
-
 **[Why Ethereum Is Doomed 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=-CqX5Vh_qTE)**
 
 Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 170 • 💬 38 • ⏱️ 8:42 • 1d ago
+👁️ 3K • 👍 172 • 💬 40 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -268,15 +288,17 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 4K • 👍 250 • 💬 79 • ⏱️ 10:03 • 2d ago
+👁️ 4K • 👍 252 • 💬 50 • ⏱️ 10:03 • 2d ago
 
 ---
 
-**[Ethereum is crashing. Bitmine buys another $300 Million. What if they stop buying? #crypto #ethereum](https://www.youtube.com/watch?v=d1qGTK0tals)**
+**[BLACKROCK IS OFFLOADING BITCOIN &amp; ETH - PREPARE FOR YEN HIKE](https://www.youtube.com/watch?v=qIaZJVZwkb4)**
 
-📺 Nick Ford
+Are blackrock clients removing risk from the table in preparation for the Japanese rate hike? We have 24 hours till the countdown ...
 
-👁️ 405 • 👍 3 • ⏱️ 1:54 • 11h ago
+📺 Traders Reality
+
+👁️ 4K • 👍 480 • 💬 16 • ⏱️ 32:42 • 2h ago
 
 ---
 
@@ -286,37 +308,15 @@ The line between the stock market and crypto is vanishing. Nasdaq has officially
 
 📺 CryptoStock Lab
 
-👁️ 282 • 👍 23 • 💬 13 • ⏱️ 12:47 • 5h ago
+👁️ 427 • 👍 18 • 💬 13 • ⏱️ 12:47 • 5h ago
 
 ---
 
-**[🚨 JP Morgan Launches ETHEREUM FUND (Prepare NOW!)](https://www.youtube.com/watch?v=Jxy67yKHoHo)**
+**[Ethereum is crashing. Bitmine buys another $300 Million. What if they stop buying? #crypto #ethereum](https://www.youtube.com/watch?v=d1qGTK0tals)**
 
-Deezy looks at what JPM has planned for 2026! Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
+📺 Nick Ford
 
-📺 Discover Crypto
-
-👁️ 5K • 👍 173 • 💬 18 • ⏱️ 6:53 • 1d ago
-
----
-
-**[Gold vs Tokenized Gold on Ethereum🔥Peter Schiff INTERVIEW](https://www.youtube.com/watch?v=Yg1qDTzcZ28)**
-
-Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substantial gains in gold and silver. At Binance Blockchain ...
-
-📺 Paul Barron Network
-
-👁️ 20K • 👍 968 • 💬 207 • ⏱️ 29:25 • 1d ago
-
----
-
-**[Cathie Wood Swaps Tesla For Ethereum🚨Crypto Market Update](https://www.youtube.com/watch?v=r74Wf7xsdXk)**
-
-Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a consumer-focused blockchain, each taking on key ...
-
-📺 Paul Barron Network
-
-👁️ 53K • 👍 2K • 💬 121 • ⏱️ 13:11 • 1d ago
+👁️ 511 • 👍 4 • 💬 2 • ⏱️ 1:54 • 11h ago
 
 ---
 
