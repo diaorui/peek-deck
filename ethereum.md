@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T09:54:35.442822+00:00'
+updated: '2025-12-17T10:24:21.774236+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 09:54 UTC  
+**Last Updated:** December 17, 2025 at 10:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -9.4%  
-**30d:** -6.2%  
-**90d:** -34.4%  
-**1y:** -19.2%  
+**24h:** -1.2%  
+**7d:** -9.6%  
+**30d:** -6.4%  
+**90d:** -34.6%  
+**1y:** -19.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.49B
+**Market Cap:** $352.92B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.9%
 
 **All-Time Low:** $0.43
-+675066.7%
++674579.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The cryptocurrency industry is undergoing a fundamental structural shift, moving away from fragmented protocols toward a unified "Aggregatio...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 2h ago
+🔗 [Ecency](https://ecency.com/@pichat/the-aggregation-era-the-race-for-the-crypto-superapp-has-begun-jab) • 3h ago
 
 ---
 
@@ -124,7 +124,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 idk man. the speed, the fees, the ux... solana teams and tools built on top of it and that support are shipping faster, like one-click leverage, instant swaps, sub-penny transactions. meanwhile eth still has gas drama and L2 fragmentation. but maybe im too deep in the solana ecosystem and cant see clearly anymore. what am i missing here?
 
-7h ago
+8h ago
 
 ---
 
@@ -148,25 +148,25 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfPdE6vMK3rqOWKi0WcHqaXM-nOmynQxmtodS6tYPJHzJOkd_pDQHZU&gaa_ts=69427d3a&gaa_sig=Dyc8RZh5q04oyMT_dJ51dRUclRexAA4_Ninrtq-oDePNFdbTqu4BH_ZGMBhKy9ATAzbSjY1KjeoZsBVVOsdNYA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqeHSx9xUm3KyqsItOd-w-Z5-A9YeX8viYmXdgYPx5HGv0gLxRPPARRh&gaa_ts=6942883d&gaa_sig=1j0EItylP0L3fAiJlzxbkLlVxj3UQswThmTdCvpBQIcrNdZ7GqWJkP0FhMN8hyF1c2_6VkS1-XLifrRfqn4XCw%3D%3D)**
 
 Barron's • 12h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://decrypt.co/352389/bitcoin-ethereum-xrp-fall-lowest-prices-week-liquidations-top-500-million)**
+**[Bitcoin and Ethereum Wobble as US Reports Highest Unemployment Rate Since 2021](https://decrypt.co/352532/bitcoin-ethereum-wobble-us-highest-unemployment-rate-since-2021)**
 
-Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
+Bitcoin and Ethereum dipped and then climbed Tuesday following U.S. jobs data that shows the highest unemployment rate in four years.
 
-Decrypt • 1d ago
+Decrypt • 19h ago
 
 ---
 
-**[Bitcoin to Ethereum rotation narratives are lying to you unless they match this specific $480 billion signal](https://cryptoslate.com/bitcoin-to-ethereum-rotation-narratives-are-lying-to-you-unless-they-match-this-specific-480-billion-signal/)**
+**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
 
-Real moves require CEX dominance shifts, ETF divergence, and derivatives confirmation, not bridge headlines.
+Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
 
-CryptoSlate • 20h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -174,21 +174,13 @@ CryptoSlate • 20h ago
 
 Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
 
-Yahoo Finance • 7h ago
-
----
-
-**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://finance.yahoo.com/news/tom-lees-bitmine-keeps-buying-154149939.html)**
-
-Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-CCN.com • 18h ago
+CCN.com • 19h ago
 
 ---
 
@@ -214,7 +206,15 @@ CoinDesk • 1d ago
 
 **[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
 
-TipRanks • 17h ago
+TipRanks • 18h ago
+
+---
+
+**[Bitcoin to Ethereum rotation narratives are lying to you unless they match this specific $480 billion signal](https://cryptoslate.com/bitcoin-to-ethereum-rotation-narratives-are-lying-to-you-unless-they-match-this-specific-480-billion-signal/)**
+
+Real moves require CEX dominance shifts, ETF divergence, and derivatives confirmation, not bridge headlines.
+
+CryptoSlate • 21h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN PRICE TRAP: Don't Be Fooled (WARNING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 319 • 💬 88 • ⏱️ 20:42 • 13h ago
+👁️ 6K • 👍 319 • 💬 88 • ⏱️ 20:42 • 14h ago
 
 ---
 

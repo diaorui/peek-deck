@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T09:54:35.446178+00:00'
+updated: '2025-12-17T10:24:21.777532+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 09:54 UTC  
+**Last Updated:** December 17, 2025 at 10:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
 
-1h ago
+2h ago
 
 ---
 
@@ -56,11 +56,19 @@ I’m working on like a platform that carries a robotic arm mounted on it that c
 
 ---
 
+**[Physical Intelligence discovered an emergent property of VLAs like π0/π0.5/π0.6: as they scale up pre-training, the model learns to align human videos and robot data](https://www.reddit.com/r/robotics/comments/1postzk/physical_intelligence_discovered_an_emergent/)**
+
+Blog post: Emergence of Human to Robot Transfer in VLAs: https://www.pi.website/research/human_to_robot Paper (pdf): https://www.pi.website/download/human_to_robot.pdf Thread on 𝕏: https://x.com/physical_int/status/2001096200456692114
+
+21m ago
+
+---
+
 **[A self-balancing wheel](https://www.reddit.com/r/robotics/comments/1po0ani/a_selfbalancing_wheel/)**
 
 I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
 
-21h ago
+22h ago
 
 ---
 
@@ -74,7 +82,7 @@ I recently made this prototype of a self-balancing wheel provided with robotic m
 
 Hello, my experience is only from R&D setups. For deploying a robot, what do people normally do? Do they use Jetson Nano/Orin/Thor to run the AI processes? One of my seniors said they still use the PC for deployment to make the AI processes run. Isn't it too big to add the PC to your sellable product just to run the AI processes? Is this an industrial practice?
 
-2h ago
+3h ago
 
 ---
 
@@ -100,21 +108,13 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 ---
 
-**[Should I learn to use Linux when building the SO-ARM101?](https://www.reddit.com/r/robotics/comments/1po3vt1/should_i_learn_to_use_linux_when_building_the/)**
-
-I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
-
-19h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[He’s the Godfather of Modern Robotics. He Says the Field Has Lost Its Way.](https://www.nytimes.com/2025/12/14/business/rodney-brooks-robots-roomba.html)**
 
-The New York Times • 2d ago
+The New York Times • 3d ago
 
 ---
 
@@ -126,19 +126,11 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
-
-Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
-
-South China Morning Post • 3d ago
-
----
-
 **[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-NASA (.gov) • 11h ago
+NASA (.gov) • 12h ago
 
 ---
 
@@ -147,6 +139,12 @@ NASA (.gov) • 11h ago
 Three potentially underrated robotics stocks—Stereotaxis, Knightscope, and PROCEPT BioRobotics—could be ones to keep an eye on in 2026.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Two BCSC VEX IQ robotics teams earn a spot in state championship competition](https://www.therepublic.com/2025/12/16/two-bcsc-vex-iq-robotics-teams-earn-a-spot-in-state-championship-competition/)**
+
+The Republic News • 1d ago
 
 ---
 
@@ -170,13 +168,7 @@ PR Newswire • 2d ago
 
 iRobot's assets are now in the hands of a Chinese partner. What does this mean for the future of home robotics?
 
-IEEE Spectrum • 13h ago
-
----
-
-**[Two BCSC VEX IQ robotics teams earn a spot in state championship competition](https://www.therepublic.com/2025/12/16/two-bcsc-vex-iq-robotics-teams-earn-a-spot-in-state-championship-competition/)**
-
-The Republic News • 1d ago
+IEEE Spectrum • 14h ago
 
 ---
 
@@ -185,6 +177,14 @@ The Republic News • 1d ago
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
 Fortune • 19h ago
+
+---
+
+**[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
+
+Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
+
+South China Morning Post • 3d ago
 
 ---
 
@@ -228,7 +228,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 14K • 👍 2K • 💬 45 • ⏱️ 1:38 • 17h ago
+👁️ 14K • 👍 2K • 💬 45 • ⏱️ 1:38 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ Would you let an AI robot girl choose you, or would you walk away? Be honest. DI
 
 📺 SYN:THETIC_BLOOD
 
-👁️ 48K • 👍 1K • 💬 52 • ⏱️ 0:32 • 19h ago
+👁️ 48K • 👍 1K • 💬 52 • ⏱️ 0:32 • 20h ago
 
 ---
 

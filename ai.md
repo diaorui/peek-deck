@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T09:54:35.427666+00:00'
+updated: '2025-12-17T10:24:21.759765+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 09:54 UTC  
+**Last Updated:** December 17, 2025 at 10:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 13h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 14h ago
 
 ---
 
@@ -49,7 +49,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 16h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 17h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 18h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 19h ago
 
 ---
 
@@ -95,7 +95,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 Between the new US Executive Order 14179 and the EU AI Act, the regulatory "splinternet" is officially here. ​Prompt injection is now the #1 security risk, and global regulators are demanding proof of lineage before granting market access. ​We need to move from static SBOMs to Dynamic AIBOMs. If you can't verify your training data, you can't ship the product. Here’s the architecture breakdown. https://www.linkedin.com/pulse/algorithmic-passport-why-global-ai-markets-demand-collin-hogue-spears-smepc?utm_source=share&utm_medium=member_android&utm_campaign=share_via
 
-1h ago
+2h ago
 
 ---
 
@@ -127,25 +127,33 @@ NPR • 14h ago
 
 ---
 
-**[Church Handbook Offers Enduring Guidance on Artificial Intelligence](https://newsroom.churchofjesuschrist.org/article/general-handbook-enduring-guidance-artificial-intelligence)**
+**[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
 
-The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
-
-newsroom.churchofjesuschrist.org • 17h ago
+Reuters • 13h ago
 
 ---
 
-**[Warren Buffett Sells Apple Stock and Buys a Trillion-Dollar AI Stock Up 12,180% Since Its IPO](https://finance.yahoo.com/news/warren-buffett-sells-apple-stock-085000467.html)**
+**[Inside Microsoft CEO Satya Nadella's AI Revolution](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12)**
 
-Warren Buffett's Berkshire Hathaway bought stock in Google-parent Alphabet during the third quarter.
+Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-Yahoo Finance • 1h ago
+Business Insider • 24m ago
 
 ---
 
-**[With freebies, OpenAI, Google vie for Indian users and training data](https://www.reuters.com/world/india/with-freebies-openai-google-vie-indian-users-training-data-2025-12-17/)**
+**[Inside OpenAI’s fragile lead in the AI race, and the 8-week ‘code red’ to fend off a resurgent Google](https://fortune.com/2025/12/17/sam-altman-chatgpt-openai-versus-google-gemini-code-red-strategy/)**
 
-Reuters • 36m ago
+Silicon Valley history is littered with innovative "first movers" snuffed out by incumbent tech giants. OpenAI CEO Sam Altman is sounding the alarm to ensure a different fate for the ChatGPT maker.
+
+Fortune • 54m ago
+
+---
+
+**[Trump Reportedly Pausing $40 Billion AI and Quantum Deal With UK](https://gizmodo.com/trump-reportedly-pausing-40-billion-ai-and-quantum-deal-with-uk-2000700305)**
+
+The President is allegedly leveraging the pause to push for looser food and online safety regulations in the UK
+
+Gizmodo • 24m ago
 
 ---
 
@@ -157,9 +165,17 @@ The Guardian • 1h ago
 
 ---
 
+**[Church Handbook Offers Enduring Guidance on Artificial Intelligence](https://newsroom.churchofjesuschrist.org/article/general-handbook-enduring-guidance-artificial-intelligence)**
+
+The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
+
+newsroom.churchofjesuschrist.org • 18h ago
+
+---
+
 **[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
 
-The Washington Post • 15h ago
+The Washington Post • 16h ago
 
 ---
 
@@ -167,27 +183,15 @@ The Washington Post • 15h ago
 
 A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
-**[The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)**
+**[MetaX shares rocket 700% in debut as China AI chips push gathers speed](https://finance.yahoo.com/news/chinese-ai-chipmaker-metax-shares-021911316.html)**
 
-Four ways to think about this year's reckoning
+MetaX Integrated Circuits shares jumped nearly 600% in their Shanghai ​debut on Wednesday, as China speeds up ‌flotation by homegrown AI chipmakers to reduce reliance on U.S. ‌majors Nvidia and Advanced Micro Devices. MetaX, founded by former AMD executive Chen Weiliang, raised roughly $600 million in an IPO last week. Its listing comes ⁠on the heels ‌of a stellar debut by bigger rival Moore Threads earlier this month.
 
-MIT Technology Review • 1d ago
-
----
-
-**[Evaluating AI’s ability to perform scientific research tasks](https://openai.com/index/frontierscience/)**
-
-OpenAI • 16h ago
-
----
-
-**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
-
-The New York Times • 1d ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -197,13 +201,13 @@ The New York Times • 1d ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 799 • 💬 241 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 801 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 598 • 💬 314 • 12h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 629 • 💬 325 • 13h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -219,7 +223,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 397 • 💬 378 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 399 • 💬 379 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -233,7 +237,7 @@ Software ate the world. Agents are going to eat SaaS.
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 311 • 💬 183 • 11h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 333 • 💬 193 • 12h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -265,7 +269,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 147 • 💬 50 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 148 • 💬 50 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -317,7 +321,7 @@ Notebooklm has a new update! ➡️ Digital Product Plan Builder: https://bit.ly
 
 📺 Success With Sam
 
-👁️ 3K • 👍 176 • 💬 13 • ⏱️ 17:32 • 17h ago
+👁️ 3K • 👍 176 • 💬 13 • ⏱️ 17:32 • 18h ago
 
 ---
 
@@ -381,7 +385,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,830 • 8d ago
+⬇️ 296,552 • ❤️ 2,833 • 8d ago
 
 ---
 
@@ -397,6 +401,18 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 ---
 
+**[NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16)**
+
+*NVIDIA*
+
+NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mamba architecture, excelling at reasoning tasks by generating explicit reasoning traces. It supports multiple languages and is suitable for commercial use, offering high accuracy in complex problem-solving.
+
+`text-generation` `31.6B`
+
+⬇️ 10,487 • ❤️ 274 • 1d ago
+
+---
+
 **[AutoGLM-Phone-9B](https://huggingface.co/zai-org/AutoGLM-Phone-9B)**
 
 *Z.ai*
@@ -406,54 +422,6 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 `image-text-to-text` `934,400`
 
 ⬇️ 51,591 • ❤️ 337 • 8d ago
-
----
-
-**[GLM-4.6V-Flash](https://huggingface.co/zai-org/GLM-4.6V-Flash)**
-
-*Z.ai*
-
-GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, featuring native function calling for vision-driven tool use and interleaved content generation. It excels at multimodal document understanding, frontend replication, and low-latency applications.
-
-`image-text-to-text` `10.3B`
-
-⬇️ 102,395 • ❤️ 464 • 7d ago
-
----
-
-**[NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16)**
-
-*NVIDIA*
-
-NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mamba architecture, excelling at reasoning tasks by generating explicit reasoning traces. It supports multiple languages and is suitable for commercial use, offering high accuracy in complex problem-solving.
-
-`text-generation` `31.6B`
-
-⬇️ 10,487 • ❤️ 273 • 1d ago
-
----
-
-**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
-
-*Mistral AI_*
-
-Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
-
-`24.0B`
-
-⬇️ 28,106 • ❤️ 386 • 9h ago
-
----
-
-**[GLM-ASR-Nano-2512](https://huggingface.co/zai-org/GLM-ASR-Nano-2512)**
-
-*Z.ai*
-
-GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-volume and dialectal (Cantonese) speech, outperforming Whisper V3 on benchmarks with a 4.10 average error rate. It's ideal for noisy environments and diverse linguistic use cases.
-
-`automatic-speech-recognition` `2.3B`
-
-⬇️ 74,813 • ❤️ 244 • 5d ago
 
 ---
 
@@ -469,15 +437,27 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 ---
 
-**[VoxCPM1.5](https://huggingface.co/openbmb/VoxCPM1.5)**
+**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
 
-*OpenBMB*
+*Mistral AI_*
 
-VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware speech generation and true-to-life zero-shot voice cloning. It offers high-quality synthesis at 44.1kHz sampling rate and efficient streaming with an RTF as low as 0.17, supporting fine-tuning via SFT or LoRA.
+Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
 
-`text-to-speech`
+`24.0B`
 
-⬇️ 2,401 • ❤️ 245 • 4d ago
+⬇️ 28,106 • ❤️ 386 • 10h ago
+
+---
+
+**[GLM-4.6V-Flash](https://huggingface.co/zai-org/GLM-4.6V-Flash)**
+
+*Z.ai*
+
+GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, featuring native function calling for vision-driven tool use and interleaved content generation. It excels at multimodal document understanding, frontend replication, and low-latency applications.
+
+`image-text-to-text` `10.3B`
+
+⬇️ 102,395 • ❤️ 466 • 7d ago
 
 ---
 
@@ -487,7 +467,31 @@ VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware spee
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 196 • 1d ago
+⬇️ 0 • ❤️ 197 • 1d ago
+
+---
+
+**[chatterbox-turbo](https://huggingface.co/ResembleAI/chatterbox-turbo)**
+
+*Resemble AI*
+
+Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M parameters) optimized for low-latency voice agents and narration. It features single-step mel-decoder generation and native support for paralinguistic tags like [cough] and [laugh] for enhanced realism.
+
+`text-to-speech`
+
+⬇️ 0 • ❤️ 189 • 1d ago
+
+---
+
+**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
+
+*Xiaomi MiMo*
+
+MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, featuring a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context reasoning (up to 256k) and agentic workflows. It excels in complex reasoning tasks and SWE-Bench benchmarks, offering state-of-the-art performance with reduced inference costs.
+
+`text-generation` `309.8B`
+
+⬇️ 0 • ❤️ 179 • 1h ago
 
 ---
 
@@ -637,7 +641,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.9k • 🔱 2.6k • 29m ago
+⭐ 16.9k • 🔱 2.6k • 59m ago
 
 ---
 
@@ -647,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.1k • 🔱 438 • 19h ago
+⭐ 4.1k • 🔱 438 • 20h ago
 
 ---
 
@@ -697,7 +701,7 @@ ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · C
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 910 • 🔱 79 • 4h ago
+⭐ 910 • 🔱 79 • 5h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T09:54:35.436519+00:00'
+updated: '2025-12-17T10:24:21.768191+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 09:54 UTC  
+**Last Updated:** December 17, 2025 at 10:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -6.6%  
-**30d:** -6.9%  
-**90d:** -25.2%  
-**1y:** -14.0%  
+**24h:** -0.8%  
+**7d:** -6.5%  
+**30d:** -6.8%  
+**90d:** -25.1%  
+**1y:** -13.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1721.98B
+**Market Cap:** $1729.30B
 Rank #1
 
 **Circulating Supply:** 19,963,212 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.5%
+-31.3%
 
 **All-Time Low:** $67.81
-+127196.9%
++127617.2%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -155,11 +155,19 @@ You don’t understand Bitcoin. And that’s okay — most people still don’t.
 
 Crypto markets continued to decline, with overall capitalization falling below $3 trillion for the third time in a month.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin Falls as U.S. Jobs Data Fail to Materially Alter Rate Cut Bets](https://www.barrons.com/livecoverage/stock-market-news-today-121725/card/bitcoin-falls-as-u-s-jobs-data-fail-to-materially-alter-rate-cut-bets-wA00cE69skPmn47i4Mjt?gaa_at=eafs&gaa_n=AWEtsqfGfzObffcqiH81ycx5fjrKLCXndECyT4AENG_WddLnSfCMwfDRZ7Y2&gaa_ts=69427d39&gaa_sig=1FMqT67A9Ot0ElRHxPmhZ_sEgK-z420xyj4wevUqEg1EbsX4XqWaYEnbl16QjuvuhIi4Pvi6cIl50V4yFRE38g%3D%3D)**
+**[Bhutan Pledges $1B in Bitcoin to Support Gelephu Mindfulness City Development](https://www.coindesk.com/policy/2025/12/17/bhutan-commits-up-to-10-000-bitcoin-to-back-new-mindfulness-based-economic-hub)**
+
+Bhutan has pledged up to 10,000 BTC to support the development of Gelephu Mindfulness City, deepening the country’s long-term digital asset strategy.
+
+CoinDesk • 6m ago
+
+---
+
+**[Bitcoin Falls as U.S. Jobs Data Fail to Materially Alter Rate Cut Bets](https://www.barrons.com/livecoverage/stock-market-news-today-121725/card/bitcoin-falls-as-u-s-jobs-data-fail-to-materially-alter-rate-cut-bets-wA00cE69skPmn47i4Mjt?gaa_at=eafs&gaa_n=AWEtsqdC__pP4PgEzGIQ2krZ2sXRm3-pY6gRqEpxkhdYYraS7CoN6s--_tng&gaa_ts=6942883b&gaa_sig=5b60cG8qqJ9whnIbCWPS3J4qecil5bU7R-4VaEy_fXeuYalqTscwuYGF24bs48ac3yybH4PY075F7-VvxSCgmg%3D%3D)**
 
 Bitcoin fell as the latest U.S. jobs data weren't soft enough to materially alter interest-rate cut expectations for the Federal Reserve.
 The data Tuesday showed the unemployment rate rose to 4.6% in November, above expectations and the highest level in more than four years. However, nonfarm payrol
@@ -168,19 +176,11 @@ Barron's • 1h ago
 
 ---
 
-**[Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City](https://finance.yahoo.com/news/bhutan-pledges-10-000-bitcoin-065123571.html)**
+**[Bhutan Pledges $1 Billion in Bitcoin to Build ‘Mindfulness City’ Without Selling Reserves](https://finance.yahoo.com/news/bhutan-pledges-1-billion-bitcoin-094159201.html)**
 
-The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
+Bhutan unveiled a national Bitcoin Development Pledge on Tuesday, committing up to 10,000 BTC, worth approximately $1 billion, to fund construction of Gelephu Mindfulness City without liquidating its sovereign digital asset reserves.King Jigme Khesar Namgyel Wangchuck announced the allocation during his National Day Address, framing the commitment as a generational ...
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
-
-Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
-
-Financial Times • 2d ago
+Yahoo Finance • 42m ago
 
 ---
 
@@ -194,7 +194,7 @@ thestreet.com • 12h ago
 
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -202,29 +202,31 @@ Yahoo Finance • 11h ago
 
 Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 14h ago
 
 ---
 
-**[Michael Saylor's Strategy acquires 10,645 bitcoin for $980 million, bringing total treasury holdings to 671,268 BTC](https://www.theblock.co/post/382490/michael-saylor-strategy-buys-bitcoin-nasdaq-100)**
+**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
-The Block • 1d ago
+Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
----
-
-**[Bitcoin Bleeding Continues As Cryptocurrency Nears $85,000](https://www.forbes.com/sites/digital-assets/2025/12/15/bitcoin-bleeding-continues-as-cryptocurrency-nears-85000/)**
-
-Bitcoin prices extended their recent losses Monday, December 15, approaching $85,000 as the world’s most prominent digital currency struggled with notable headwinds.
-
-Forbes • 1d ago
+Financial Times • 2d ago
 
 ---
 
-**[Look Out Below: Another 3% Drop In Bitcoin Brings This Token Toward a Key Level](https://www.fool.com/investing/2025/12/15/look-out-below-another-3-drop-in-bitcoin-brings-th/)**
+**[Serious 2026 $3 Trillion Crypto ‘Collapse’ Fed Warning Issued—$10,000 Bitcoin Price Predicted As Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2025/12/16/serious-2026-3-trillion-crypto-collapse-fed-warning-issued-10000-bitcoin-price-predicted-as-crash-fears-swirl/)**
 
-Bitcoin's recent price decline has picked up steam in recent weeks.
+The bitcoin price could be teetering on the verge of a massive crash that could wipe out almost all cryptocurrencies...
 
-The Motley Fool • 1d ago
+Forbes • 21h ago
+
+---
+
+**[Speed Raises $8 Million to Expand Bitcoin and Stablecoin Payment Solutions](https://www.pymnts.com/news/fintech-investments/2025/speed-raises-8-million-dollars-expand-bitcoin-stablecoin-payment-solutions/)**
+
+Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
+
+PYMNTS.com • 13h ago
 
 ---
 
@@ -288,7 +290,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 18h ago
+⬆️ 11 • 💬 3 • 19h ago
 
 ---
 
@@ -322,7 +324,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 146 • ⏱️ 13:25 • 10h ago
+👁️ 23K • 👍 2K • 💬 146 • ⏱️ 13:25 • 11h ago
 
 ---
 
@@ -342,7 +344,7 @@ Anthony and John Pompliano break down what's really happening in the bitcoin mar
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 650 • 💬 4 • ⏱️ 41:39 • 11h ago
+👁️ 14K • 👍 650 • 💬 4 • ⏱️ 41:39 • 12h ago
 
 ---
 
