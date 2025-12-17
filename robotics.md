@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T06:32:42.021487+00:00'
+updated: '2025-12-17T06:58:23.126632+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 06:32 UTC  
+**Last Updated:** December 17, 2025 at 06:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
 
-15h ago
+16h ago
 
 ---
 
@@ -144,7 +144,7 @@ Fortune • 16h ago
 
 **[Watch iRobot Co-Founder Greiner on The Future of Robotics](https://www.bloomberg.com/news/videos/2025-12-17/irobot-co-founder-greiner-on-the-future-of-robotics-video)**
 
-Bloomberg.com • 29m ago
+Bloomberg.com • 55m ago
 
 ---
 
@@ -196,7 +196,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 46K • 👍 815 • 💬 125 • ⏱️ 11:23 • 1d ago
+👁️ 48K • 👍 823 • 💬 121 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ A shy guy meets a humanoid girlfriend robot at a tech expo. DISCLAIMER: All visu
 
 📺 SYN:THETIC_BLOOD
 
-👁️ 19K • 👍 381 • 💬 14 • ⏱️ 0:22 • 1d ago
+👁️ 20K • 👍 395 • 💬 14 • ⏱️ 0:22 • 1d ago
 
 ---
 
@@ -226,7 +226,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 12K • 👍 2K • 💬 42 • ⏱️ 1:38 • 14h ago
+👁️ 13K • 👍 2K • 💬 43 • ⏱️ 1:38 • 14h ago
 
 ---
 
@@ -236,7 +236,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 342K • 👍 11K • 💬 372 • ⏱️ 0:34 • 2d ago
+👁️ 345K • 👍 11K • 💬 377 • ⏱️ 0:34 • 2d ago
 
 ---
 
@@ -244,7 +244,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 390K • 👍 3K • 💬 40 • ⏱️ 0:21 • 2d ago
+👁️ 397K • 👍 4K • 💬 40 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -254,27 +254,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 28K • 👍 285 • 💬 28 • ⏱️ 1:05 • 1d ago
-
----
-
-**[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
-
-Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
-
-📺 RICHLEV
-
-👁️ 167K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
-
----
-
-**[War Robots - New Weapons Pilum And Gladius Just Brought Hades Back!](https://www.youtube.com/watch?v=04xBXAp8794)**
-
-War Robots - New weapons Pilum and Gladius just brought Hades back! Highlight games from this past weekend's members live ...
-
-📺 Adrian Chong
-
-👁️ 3K • 👍 188 • 💬 43 • ⏱️ 16:18 • 16h ago
+👁️ 29K • 👍 285 • 💬 28 • ⏱️ 1:05 • 1d ago
 
 ---
 
@@ -284,7 +264,27 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 293K • 👍 8K • 💬 593 • ⏱️ 17:44 • 6d ago
+👁️ 294K • 👍 8K • 💬 591 • ⏱️ 17:44 • 6d ago
+
+---
+
+**[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
+
+Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
+
+📺 RICHLEV
+
+👁️ 169K • 👍 4K • 💬 1K • ⏱️ 17:05 • 2d ago
+
+---
+
+**[Turning My Phone Into A LIVING Robot?!](https://www.youtube.com/watch?v=8jG0cdyk0fE)**
+
+I actually turned my smartphone into a desktop pet... This is LOOI Robot by TangibleFuture. It's not just a stand, it uses AI to ...
+
+📺 Kyle Krueger
+
+👁️ 5.5M • 👍 172K • 💬 3K • ⏱️ 0:51 • 6d ago
 
 ---
 

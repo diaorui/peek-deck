@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T06:32:42.018179+00:00'
+updated: '2025-12-17T06:58:23.123853+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 06:32 UTC  
+**Last Updated:** December 17, 2025 at 06:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -9.1%  
-**30d:** -5.8%  
-**90d:** -34.2%  
-**1y:** -18.9%  
+**24h:** +0.3%  
+**7d:** -9.3%  
+**30d:** -6.1%  
+**90d:** -34.3%  
+**1y:** -19.2%  
 
 ---
 
@@ -70,7 +70,7 @@ No max supply
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 16h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 17h ago
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-31m ago
+57m ago
 
 ---
 
@@ -102,13 +102,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When a Cypherpunk Says 'Permissioned' This is an EVMavericks production. All links are added as footnotes in a comment. (Ameen Soleimani's presentation Privacy Without Terrorists was featured as a part of the Ethereum Privacy Stack at Devconnect 2025. You can watch it for yourself on the Web3Privacy Now YouTube channel.[1]) We are halfway through the long day of the Ethereum Privacy Stack summit when Ameen Soleimani takes the stage. He's one of those figures you hear about more than from, a man who has manifested multiple projects out of pure ideology and anger. The kind of person who builds things not because they are needed but because they are necessary. "The annoying thing about arguing with all of you," he says with a self-depreciating grin, "...is that typically I'm arguing against the same arguments that I have historically made." https://preview.redd.it/aivp6lm0tn7g1.jpg?width=640&format=pjpg&auto=webp&s=8f94dc13f04b3251a5c271ea14aee9acc893e0f2 Back in 2016, just as he'd joined Consensys, he had front-row access to the detonation that was The DAO hack. $50 million in ETH drained as the result of a code exploit which rewired the way that a whole generation of developers thought about trustlessness, complexity and risk. Soleimani became preoccupied with the idea of a Minimal Viable DAO. Fewer lines of code, fewer assumptions, fewer ways for things to go wrong. In 2019, he launched MolochDAO. Backed by figures like Vitalik Buterin and Joe Lubin, the project introduced a radically minimal approach to on-chain coordination, with as few lines of code as possible to reduce smart contract risk. Notable is the rage quit mechanism, which allowed DAO members to exit with their share of funds if they disagreed with decisions, enforcing accountability through the constant thread of principled defection. In 2017, Soleimani launched SpankChain, a blockchain payment network for sex workers, aiming to give them a safer financial environment than traditional platforms ever had. But the old systems bit back. In 2023, SparkChain lost access to the financial rails it depended on. Banking and crypto-onramp partners withdrew. The network was forced to shut down. He'd built a refuge for a marginalized group and watched it be dismantled, not by attackers but by compliance departments. Today, SpankChain[2] exists as a shadow of its former self, offering education and legal support. The Ethereum Privacy Stack summit was a full day dedicated to smart people talking about smart privacy, stuffed inside Devconnect 2025. I understood maybe half of what I was hearing. Loud conversation drifted in from the stands and crowds filling the yellow pavilion. Ameen Soleimani takes the mic, looking like a man who's just hitchhiked back from the end of the world. The slide behind him introduces him as the CTO of 0xbow[3]. https://preview.redd.it/oekf3zg5tn7g1.jpg?width=640&format=pjpg&auto=webp&s=260451941abbfa1082bc6583bc09183e0c48e65c He tells us that he's just come from Patagonia, Bariloche, on the shores of the Nahuel Huapi glacial lake. There, he saw some lunatics dumping garbage into the water. Backing up trucks and unloading filth like it was a landfill. He confronted them but they just laughed and said, "Bro, fuck off. This lake is permissionless." More trucks came, more sewage. The water filled with trash. The kayakers fled in sloshing disgust. 0xbow, he told us, stepped in and took control. They stopped anyone from dumping sewage and were able to save the lake, so that the water could stay pure and clean for Argentinians forever. There is a smattering of applause and happy cheers before he clarifies, rather cheerfully, that none of this had actually happened (much to the relief of Chile, I consider, who presumably wouldn't want their access to Patagonia's water held ransom by a DAO). His point, of course, is that if a lake is permissionless, then it is vulnerable. If we want to ensure that the waters stay clean, someone needs to protect the lake from bad actors. Soleimani's story strikes home for me immediately, as I'd spent the past few weeks grappling with what we mean when we talk about decentralized finance and whether permissionlessness is even possible when it comes to day-to-day transactions[4]. He looks at the crowd. "Who here has heard of Tornado Cash," he asks, in case anyone still hadn't grasped the analogy. Tornado Cash: the first privacy protocol to reach real adoption on Ethereum. The mixer broke the direct link between a deposit address and a withdrawal address, using zk-SNARKs to prove that users were a member of the pool without revealing which member. The technicalities didn't matter much once Tornado Cash became associated with large-scale money laundering. The crisis point was the Axie Infinity hack: the North Korean Lazarus Group hacked a video game for over 500 million US dollars and then routed hundreds of millions of those dollars through Tornado Cash. In response, the US Department of the Treasury's Office of Foreign Assets Control (OFAC) sanctioned the entire Tornado Cash system, which they said had been used to launder over seven billion US dollars worth of virtual currency. This meant that simply interacting with Tornado Cash could carry a penalty of up to twenty years in prison for willfully violating the sanctions. Tornado Cash developers Alexey Pertsev and Roman Storm were arrested. Alexey Pertsev is serving a sentence of 64 months, which he is appealing. Roman Storm was convicted on a single count of conspiring to operate an unlicensed money‑transmitting business; sentencing remains pending after a partial mistrial on the more serious charges, with post-trial motions and an appeal underway. Soleimani's next slide reads: "Free Roman. Free Alexey." https://preview.redd.it/knr3boi9tn7g1.jpg?width=640&format=pjpg&auto=webp&s=bb6f12f61ad15af25d67ea04debac81e23963230 Soleimani argues that developers should not be held liable for the crimes of their users. There was no criminal intent, he says. No coordination with North Korea. Tornado Cash, once deployed, was immutable. There was nothing the developers could have done. They had, he says, tried to act responsibly, building a compliance tool designed to reject funds associated with the OFAC sanctions list. He says it again, slower this time. He does not believe that the developers are criminals. Then he pauses. But what about all of us? In 2021, an economist on Twitter asked whether any non-criminal interacting with Tornado Cash smart contract at risk of providing illegal money laundering services to criminals? "I really hope not," said 2021-Ameen-Soleimani, comparing the mixer to encryption and VPNs. But 2025-Ameen-Soleimani isn't so sure. Financial privacy tools aren't quite like encryption. You can benefit from encryption without caring who else uses it. But financial privacy is different: a mixer needs a crowd to function. In that sense, Tornado Cash users both provided privacy to and received privacy from the North Korean hackers. If North Korea was the only user, he asks, wouldn't it be super easy to trace their funds? The room stays silent. "This is probably going to be the least popular talk here," he admits with a nervous laugh. One of the judges claimed that there was no legitimate use for Tornado Cash. Soleimani disagrees. He'd been an early supporter and user of the protocol, used it himself for payroll. Vitalik Buterin used Tornado Cash to send money to Ukraine without allowing Russia to see how much he'd donated. It is up to all of us, he says, to correct this false narrative that these tools have no legitimate use. But we also need to accept that they can cause real harm. Now we need to work out how to keep these very powerful tools without providing cover for terrorist actors. He reminds us that terrorism is not theoretical. In 1994, a van filled with explosives drove into a Jewish community center in Buenos Aires, just a few miles from where we were sitting that day. This suicide attack is widely believed to have been ordered by the Iranian government, after Argentina backed out of contracts to supply Tehran with nuclear technology. https://preview.redd.it/56q35r0dtn7g1.jpg?width=640&format=pjpg&auto=webp&s=d63b029966da99088e52c49f409b5aef3dde6b6c After the sanctions against Tornado Cash, Vitalik Buterin started thinking how to allow privacy without providing cover. In 2024, Blockchain Privacy and Regulatory Compliance: Towards a Practical Equilibrium[5], authored by Vitalik Buterin, Jacob Illum, Fabian Schär, and Soleimani, introduced the concept of Privacy Pools: a smart contract-based approach to preserving privacy while addressing regulatory concerns. The compliance tools that the Tornado Cash team pioneered were retroactive. After a withdrawal, users could generate a report proving that the funds they deposited were theirs...but this meant giving up privacy to whoever reviewed that report. By then, the funds were already mixed with everyone else's, including North Korean loot. You could prove that you weren't the one dumping sewage into the lake, but that didn't make the lake any cleaner. It just made it easier for bad actors to keep using it. Privacy Pools approach the problem differently. Instead of one large anonymous group where everyone provides cover for everyone else, they introduce an association set--effectively a whitelist. Users generate zero-knowledge proofs showing membership in a specific set, allowing privacy by default with compliance on demand, rather than forcing a choice between the two. These sets are maintained by curators. That might be a DAO, a company or a community group. The curators keep lists of what they consider to be "clean" deposits. Users decide which curators to trust, if any, ranging from "Strict OFAC" to "community-vetted". Soleimani and Zac Cole founded 0xbow to make this model real. Soleimani explains what 0xbow can and can't do, based on their design built around non-custodial but permissioned privacy. He gives a fake gasp after permissioned but also takes the chance to point out that Railgun is also a permissioned privacy protocol. "And that's a good thing." 0xbow offers a Know Your Transaction (KYT) service on deposits to vet the source of funds. The service doesn't care who you are; it only cares where the money has been. Blockchain forensics are used to check that the ETH you deposited isn't linked to a hack or a sanctioned entity before they allow it into their pool. The name is deliberate. An oxbow lake forms when wide bend in a river is cut off after the river finds a straighter path, leaving behind a U-shaped standing pool of water. https://preview.redd.it/d158mgqgtn7g1.jpg?width=640&format=pjpg&auto=webp&s=5100da0eca041a26ed4c85dbf03dd41cbb92fde0 You don't have to be in 0xbow's pool. They are just one curator; the protocol is open and decentralized meaning that anyone can set up their own pool with their own rules. These pools allow legitimate users to publicly disassociate themselves from illicit funds, gaining the benefits of privacy tools without offering cover for bad actors or ending up in conflict with the law. In the Q&A, someone asks whether anyone can run a relay on Privacy Pools. Soleimani responds with a clear yes. 0xbow works with a specific set of relays, but the protocol itself allows anyone to operate a relay. Approved deposits can be rejected later, for example if a mistake is made or new information is received. If this happens, all other users of the system, just by continuing to use the pool and withdrawing, are proving by default that their funds did not come from the rejected deposit. You are never locked into a pool. If you don't like choices that your curator is making, say they start blocking transactions that you believe are legal, you can rage quit, withdrawing your funds and abandoning the pool. You keep your zk-protection: when you withdraw, you generate a proof showing that your transactions were not those that were blocked by the curator. The curator never learns your identity. If your deposit fails KYT, then it is never admitted to the private pool. You must withdraw all of your funds using the exit mechanism, publicly retrieving your money. If your deposit is approved but then later the deposit is removed or rejected, then you must exit publicly with any funds you have in the pool. Your membership is revoked; you have been kicked out of the pool. Going back to the lake: Your association set proves that you only put clean water into the lake and that your water didn't come from identified sewage trucks. And if you are linked to those trucks, then your dirty water stays under your control. Your funds are never seized, moved or sent to Ukraine. What you can't do is generate a valid zero-knowledge proof of membership in the trusted association set. Financial services using the Privacy Pools compliance layer, such as centralized exchanges or merchants, may treat your funds as toxic, that is, high risk or unproven, and reject them. The next version of Privacy Pools takes this all a bit further. 0xbow are aiming to launch Privacy Pools version 2 at ETHCC in March 2026. Soleimani explains that it took time to work out shielded pools for version two. In a standard mixer like Tornado Cash, you deposit, wait, and withdraw. You are only "private" at the moment of withdrawal. The difference is that a shielded pool lets you keep your assets inside a private environment. Instead of exiting to the public chain for every action, yuou'll be able remain in the shielded pool, where you can conduct internal peer-to-peer payments, swaps, multisig accounts, and even earn yield. Privacy Pools V2 will include these shielded pools, preserving the withdrawal dissociation proofs, and will be part of the Kohaku integration. (Kohaku is Ethereum's new native privacy framework, which Vitalik Buterin introduced at the conference a few days before. Kohaku aims to make "privacy by default" for all wallets and dApps; this sounds like Privacy Pools V2 will slot into this larger ecosystem.) What V2 is really doing is trading some fungibility for recoverability. Your deposit is assigned a unique ID. When you send a transaction inside the system, that ID travels with the funds, encrypted for the recipient. This means that you and anyone you pay can prove that the funds come from an approved deposit. He then explains that if a deposit is later rejected, "all other users" can prove exclusion simply by continuing to use shielded transfers as normal. It sounds like a happy ending for everyone. But this framing quietly assumes that no other users are downstream of the rejected deposit. I have no idea who the other users are or who they have transacted with. That's the point of the pool. What happens if I accept a shielded transaction in what I believe to be a clean pool and then the original deposit is rejected? I may never have interacted with the rejected deposit; I trusted an anonymous person in the pool who trusted another anonymous person who trusted another person whose deposit was later rejected. Soleimani's "all other users" does not appear to include those of us who foolishly trusted the pool. Presumably, this will force a public exit. The worst-case scenario, Soleimani says, is that the curator decides to nuke the association set. This forces all users to retrieve their funds publicly in a mandatory withdrawal. It's not a great scenario, he explains, but it does mean that the curator can only rug the privacy, not your money. The other side of the coin is self-exclusion, which acts as a final check on curators. If your curator starts making rules that you don't like, you can self-exclude, leaving the privacy pool and generating a proof that excludes you from the bad-actor set. https://preview.redd.it/phy4d3rktn7g1.jpg?width=640&format=pjpg&auto=webp&s=a72aa2c85040b2ff55ee2efd3ddd99f205258bb0 Soleimani's greatest disappointment with the project, is that his team refused to use the term rage quit for the unilateral withdrawal from a pool. Instead, it is labeled as exit because, they said, "we're a serious company now". In his heart, he tells us, this will always be the rage quit option. --- This article was funded through an EVMavericks grant.
 
-5h ago
+6h ago
 
 ---
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -132,7 +132,7 @@ idk man. the speed, the fees, the ux... solana teams and tools built on top of i
 
 So this is awkward. Paid someone for some freelance work in USD⁤C and they apparently looked up my address and now they're asking questions about my wallet balance. Didn't even think about it until now but yeah anyone you pay can see literally everything. Is there actually any way to send stablecoins without exposing your entire transaction history? I looked into Tornado Cash but that whole situation is a mess now. Don't really want to use some random privacy chain nobody's heard of. I did find this thing called Anoma⁤Pay that's launching soon. They claim you can send private payments and it wor⁤ks across different chains - like you send USD⁤C on one chain and the person receives it on another or in a different token. Haven't tested it since it's not out yet but sounds pretty useful if it actually wor⁤ks. Says it uses your regular wallet so you don't need to set up anything new. This probably sounds paranoid but it's genuinely weird that paying someone $500 for work means they can see I'm holding $50k or whatever. That's not information I want to share with random contractors. How do businesses even handle this? Do they just not care or is there actually a solution I'm missing?
 
-6h ago
+7h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdm_ImfNsgxcKJVjRCHF4jBrhzDwKckQ5iTrlAa42hYuqFfvLbXKqYQ&gaa_ts=694251ef&gaa_sig=ks1L0ZZRDtqDvuK3IPFao9Uh0-0YB6mnWLLUJ98ESFxXStugKMIQshaX66XtIMTa9ZDzDV6rH73D1KOABkCbkw%3D%3D)**
 
-Barron's • 8h ago
+Barron's • 9h ago
 
 ---
 
@@ -230,17 +230,17 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 2K • 💬 62 • ⏱️ 7:49 • 18h ago
+👁️ 18K • 👍 2K • 💬 53 • ⏱️ 7:49 • 19h ago
 
 ---
 
-**[Cathie Wood Swaps Tesla For Ethereum🚨Crypto Market Update](https://www.youtube.com/watch?v=r74Wf7xsdXk)**
+**[Why Ethereum Is Doomed 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=-CqX5Vh_qTE)**
 
-Cathie Wood said Ethereum is an infrastructure for institutions and Solana is a consumer-focused blockchain, each taking on key ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 Paul Barron Network
+📺 Bearhard - Bitcoin Strategy
 
-👁️ 52K • 👍 2K • 💬 121 • ⏱️ 13:11 • 1d ago
+👁️ 3K • 👍 158 • 💬 32 • ⏱️ 8:42 • 18h ago
 
 ---
 
@@ -254,53 +254,33 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 ---
 
-**[Gold vs Tokenized Gold on Ethereum🔥Peter Schiff INTERVIEW](https://www.youtube.com/watch?v=Yg1qDTzcZ28)**
+**[REALISTIC ETH Price Prediction for 2026](https://www.youtube.com/watch?v=M2T6_rjIvpA)**
 
-Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substantial gains in gold and silver. At Binance Blockchain ...
+As we head into what I'm expecting to be a "Bottom Year" (or bear market year), it's time to look at realistic and reasonable targets ...
 
-📺 Paul Barron Network
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 17K • 👍 864 • 💬 190 • ⏱️ 29:25 • 13h ago
-
----
-
-**[Why Ethereum Is Doomed 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=-CqX5Vh_qTE)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Bearhard - Bitcoin Strategy
-
-👁️ 2K • 👍 153 • 💬 31 • ⏱️ 8:42 • 17h ago
+👁️ 3K • 👍 216 • 💬 31 • ⏱️ 11:01 • 6h ago
 
 ---
 
-**[🚨 JP Morgan Launches ETHEREUM FUND (Prepare NOW!)](https://www.youtube.com/watch?v=Jxy67yKHoHo)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=9VVof65W1VU)**
 
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Discover Crypto
+📺 More Crypto Online
 
-👁️ 5K • 👍 172 • 💬 18 • ⏱️ 6:53 • 1d ago
-
----
-
-**[JPMORGAN BANK TOKENIZES ON ETHEREUM! BITCOIN PULLSBACK &amp; CRYPTO MARKET STRUCTURE DELAYED!](https://www.youtube.com/watch?v=VXwSUsqLNr8)**
-
-Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market Fund on Ethereum. The senate markup on ...
-
-📺 Thinking Crypto
-
-👁️ 7K • 👍 572 • 💬 93 • ⏱️ 18:30 • 1d ago
+👁️ 2K • 👍 129 • 💬 1 • ⏱️ 5:52 • 14h ago
 
 ---
 
-**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
+**[Paul Atkins &#39;Most Powerful Financial Surveillance&#39;.. JPMorgan Ethereum News! No Crypto Clarity Act!](https://www.youtube.com/watch?v=zE627b61AjQ)**
 
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
-📺 Crypto With James
+📺 AllinCrypto
 
-👁️ 4K • 👍 244 • 💬 62 • ⏱️ 10:03 • 1d ago
+👁️ 9K • 👍 667 • 💬 174 • ⏱️ 17:24 • 17h ago
 
 ---
 
@@ -310,17 +290,37 @@ BITCOIN PRICE TRAP: Don't Be Fooled (WARNING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 290 • 💬 179 • ⏱️ 20:42 • 10h ago
+👁️ 6K • 👍 310 • 💬 112 • ⏱️ 20:42 • 10h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=g5zFM6YQLYI)**
+**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
 
-📺 More Crypto Online
+📺 Crypto With James
 
-👁️ 3K • 👍 178 • 💬 4 • ⏱️ 8:04 • 1d ago
+👁️ 4K • 👍 247 • 💬 62 • ⏱️ 10:03 • 1d ago
+
+---
+
+**[Gold vs Tokenized Gold on Ethereum🔥Peter Schiff INTERVIEW](https://www.youtube.com/watch?v=Yg1qDTzcZ28)**
+
+Peter Schiff criticized CNBC for focusing on Bitcoin while overlooking substantial gains in gold and silver. At Binance Blockchain ...
+
+📺 Paul Barron Network
+
+👁️ 18K • 👍 887 • 💬 196 • ⏱️ 29:25 • 14h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=KipoZsNg-QI)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Solotudonna For Professional Nails (Solotudonna)
+
+👁️ 3K • 👍 2K • 7h ago
 
 ---
 

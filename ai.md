@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T06:32:42.003783+00:00'
+updated: '2025-12-17T06:58:23.111164+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 06:32 UTC  
+**Last Updated:** December 17, 2025 at 06:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-13h ago
+14h ago
 
 ---
 
@@ -73,7 +73,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 9h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 12h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 13h ago
 
 ---
 
@@ -111,7 +111,7 @@ Anthony Enzor-DeMeo is taking charge of one of the internet’s most important �
 
 We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
 
-15h ago
+16h ago
 
 ---
 
@@ -139,7 +139,7 @@ newsroom.churchofjesuschrist.org • 14h ago
 
 White House paused tech prosperity deal over fears Online Safety Act would stifle US growth
 
-The Telegraph • 11h ago
+The Telegraph • 12h ago
 
 ---
 
@@ -167,7 +167,7 @@ Digiday • 1h ago
 
 **[How Companies Are Using AI to Squeeze More From Your Wallet](https://www.barrons.com/articles/retailers-test-ai-for-variable-pricing-consumer-targeting-9390f661?gaa_at=eafs&gaa_n=AWEtsqfsNI5I1GalRYeQ1ZwxhBVOQwavBJIvjQSJHIdeoDLP-VHamoTBjq90&gaa_ts=694251ec&gaa_sig=TzXUNvr6UdeXhv9SdMWmJCmc3j0gAgG_9wjNEmYAIWS-PU7seKfKrBcIRNAGYP6mgdVZqAW39HSD_IgTqz5IBw%3D%3D)**
 
-Barron's • 32m ago
+Barron's • 58m ago
 
 ---
 
@@ -267,7 +267,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 139 • 💬 50 • 20h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 139 • 💬 50 • 21h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -279,17 +279,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 📺 Alberta Tech
 
-👁️ 1.0M • 👍 37K • 💬 569 • ⏱️ 0:34 • 1d ago
-
----
-
-**[Bessent delivers urgent message to American workers: ‘Become an AI native’](https://www.youtube.com/watch?v=ni6hJXyJA0M)**
-
-U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the record tax refunds coming to Americans, detail the ...
-
-📺 Fox Business
-
-👁️ 132K • 👍 3K • 💬 691 • ⏱️ 14:37 • 15h ago
+👁️ 1.0M • 👍 37K • 💬 578 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -299,7 +289,17 @@ Manus released version 1.6 with its most powerful agent yet, pushing tasks to fi
 
 📺 AI Revolution
 
-👁️ 7K • 👍 313 • 💬 27 • ⏱️ 9:33 • 7h ago
+👁️ 9K • 👍 349 • 💬 28 • ⏱️ 9:33 • 7h ago
+
+---
+
+**[Bessent delivers urgent message to American workers: ‘Become an AI native’](https://www.youtube.com/watch?v=ni6hJXyJA0M)**
+
+U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the record tax refunds coming to Americans, detail the ...
+
+📺 Fox Business
+
+👁️ 139K • 👍 3K • 💬 700 • ⏱️ 14:37 • 15h ago
 
 ---
 
@@ -309,7 +309,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 46K • 👍 815 • 💬 125 • ⏱️ 11:23 • 1d ago
+👁️ 48K • 👍 823 • 💬 121 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -319,7 +319,7 @@ Notebooklm has a new update! ➡️ Digital Product Plan Builder: https://bit.ly
 
 📺 Success With Sam
 
-👁️ 2K • 👍 161 • 💬 12 • ⏱️ 17:32 • 14h ago
+👁️ 3K • 👍 169 • 💬 12 • ⏱️ 17:32 • 14h ago
 
 ---
 
@@ -333,31 +333,31 @@ OpenAI released circuit-sparsity, a research drop that exposes how a language mo
 
 ---
 
+**[I bought 3 AI-generated products.. here’s what they REALLY look like. 🤡](https://www.youtube.com/watch?v=p6sslqc-BME)**
+
+📺 Maggie McGaugh
+
+👁️ 253K • 👍 12K • 💬 158 • ⏱️ 1:16 • 1d ago
+
+---
+
 **[The $25 TRILLION AI Bubble Is BURSTING](https://www.youtube.com/watch?v=UQhM13yK6DQ)**
 
 IBM's CEO said there is “no way” that the massive spending on AI and data centers will ever pay off. For the first time in this bubble ...
 
 📺 Eurodollar University
 
-👁️ 189K • 👍 6K • 💬 1K • ⏱️ 20:44 • 2d ago
+👁️ 193K • 👍 6K • 💬 1K • ⏱️ 20:44 • 2d ago
 
 ---
 
-**[I bought 3 AI-generated products.. here’s what they REALLY look like. 🤡](https://www.youtube.com/watch?v=p6sslqc-BME)**
+**[A.I. Slop - Beyond the Black Void](https://www.youtube.com/watch?v=IPitD1eYLiM)**
 
-📺 Maggie McGaugh
+The fellas at Red Letter Media like to talk about not just movies, but current trends as well. And there's nothing more distressing as ...
 
-👁️ 249K • 👍 12K • 💬 158 • ⏱️ 1:16 • 1d ago
+📺 RedLetterMedia
 
----
-
-**[Linus x Linus - Is AI A Bubble?](https://www.youtube.com/watch?v=QtGBnR24LcM)**
-
-Original: https://www.youtube.com/watch?v=mfv0V1SxbNA https://twitch.tv/ThePrimeagen - I Stream on Twitch ...
-
-📺 ThePrimeTime
-
-👁️ 79K • 👍 4K • 💬 686 • ⏱️ 12:06 • 12h ago
+👁️ 420K • 👍 28K • 💬 5K • ⏱️ 59:17 • 15h ago
 
 ---
 
@@ -367,7 +367,7 @@ Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPT
 
 📺 Dylan Curious
 
-👁️ 9K • 👍 507 • 💬 89 • ⏱️ 30:05 • 1d ago
+👁️ 9K • 👍 509 • 💬 89 • ⏱️ 30:05 • 1d ago
 
 ---
 
@@ -443,7 +443,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 385 • 6h ago
+⬇️ 28,106 • ❤️ 385 • 7h ago
 
 ---
 
@@ -467,7 +467,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 220 • 47m ago
+⬇️ 0 • ❤️ 220 • 1h ago
 
 ---
 
@@ -503,7 +503,7 @@ Qwen-Image-i2L models generate LoRA weights from input images for style transfer
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 7 • 💬 2 • ⭐ 12,077 • 1mo ago
+▲ 7 • 💬 2 • ⭐ 12,166 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -570,7 +570,7 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
 
-▲ 39 • 💬 1 • ⭐ 17,874 • 17mo ago
+▲ 39 • 💬 1 • ⭐ 17,916 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
 
@@ -590,19 +590,6 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 25 • 💬 1 • ⭐ 65,560 • 27mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -614,6 +601,19 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 199 • 💬 4 • ⭐ 7,160 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 25 • 💬 1 • ⭐ 65,588 • 27mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -640,7 +640,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.7k • 🔱 2.6k • 20h ago
+⭐ 16.8k • 🔱 2.6k • 21h ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.0k • 🔱 431 • 16h ago
+⭐ 4.0k • 🔱 434 • 17h ago
 
 ---
 
@@ -680,7 +680,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 8h ago
+⭐ 1.1k • 🔱 138 • 9h ago
 
 ---
 
@@ -714,23 +714,23 @@ Open Source Semantic Search for your AI Agent
 
 ---
 
+**[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)**
+
+ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
+
+`TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
+
+⭐ 797 • 🔱 67 • 1h ago
+
+---
+
 **[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
 
 一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
 
 `JavaScript`
 
-⭐ 768 • 🔱 120 • 1d ago
-
----
-
-**[firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)**
-
-  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. 
-
-`TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
-
-⭐ 764 • 🔱 112 • 2d ago
+⭐ 774 • 🔱 121 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T06:32:42.012111+00:00'
+updated: '2025-12-17T06:58:23.118568+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 06:32 UTC  
+**Last Updated:** December 17, 2025 at 06:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,846.01
+### $86,811.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -6.3%  
-**30d:** -6.7%  
-**90d:** -25.0%  
-**1y:** -13.7%  
+**24h:** +0.6%  
+**7d:** -6.4%  
+**30d:** -6.8%  
+**90d:** -25.1%  
+**1y:** -13.8%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-13h ago
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -133,13 +133,13 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-11h ago
+12h ago
 
 ---
 
 **[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -185,7 +185,7 @@ Financial Times • 2d ago
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 8h ago
+thestreet.com • 9h ago
 
 ---
 
@@ -261,7 +261,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 20h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 21h ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -289,53 +289,13 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 ## YouTube Videos: "bitcoin"
 
-**[Larry Fink Is RIGHT About Bitcoin](https://www.youtube.com/watch?v=BzVOxdaaCWU)**
+**[CRYPTO TRAP! They Are Lying To You About This Bitcoin Crash](https://www.youtube.com/watch?v=y1Qrr3lVMGo)**
 
-Anthony and John Pompliano break down what's really happening in the bitcoin market — why price has stalled, how volatility is ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
-📺 Anthony Pompliano
+📺 Altcoin Daily
 
-👁️ 10K • 👍 553 • 💬 4 • ⏱️ 41:39 • 8h ago
-
----
-
-**[Inside the future of Bitcoin](https://www.youtube.com/watch?v=N7Z7tpwSlBg)**
-
-Strategy CEO Phong Le discusses what investors can look forward to in 2026 and analyzes where Bitcoin is headed on 'The ...
-
-📺 Fox Business
-
-👁️ 44K • 👍 697 • 💬 460 • ⏱️ 10:03 • 1d ago
-
----
-
-**[Jobs Report Shock: What It Means for Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=Jqf_fYYOl24)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 34K • 👍 2K • 💬 347 • ⏱️ 46:12 • 15h ago
-
----
-
-**[Is Bitcoin Entering a DECADE-LONG SUPERCYCLE? | $5 Trillion Says YES](https://www.youtube.com/watch?v=RMOkhRkiKW4)**
-
-Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercycle, similar to the massive commodity boom of ...
-
-📺 Simply Bitcoin
-
-👁️ 16K • 👍 1K • 💬 122 • ⏱️ 13:25 • 7h ago
-
----
-
-**[Why Panic Selling Bitcoin NOW Could be the Worst Idea!](https://www.youtube.com/watch?v=ZZV--oWO_h8)**
-
-Aura Stop leaving yourself vulnerable to data breaches. Go to my sponsor https://aura.com/simplybitcoin to get a 14-day free trial ...
-
-📺 Simply Bitcoin
-
-👁️ 13K • 👍 911 • 💬 93 • ⏱️ 16:49 • 16h ago
+👁️ 29K • 👍 2K • 💬 166 • ⏱️ 9:01 • 8h ago
 
 ---
 
@@ -345,7 +305,27 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 234 • 💬 170 • ⏱️ 10:50 • 6h ago
+👁️ 5K • 👍 280 • 💬 133 • ⏱️ 10:50 • 6h ago
+
+---
+
+**[Is Bitcoin Entering a DECADE-LONG SUPERCYCLE? | $5 Trillion Says YES](https://www.youtube.com/watch?v=RMOkhRkiKW4)**
+
+Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercycle, similar to the massive commodity boom of ...
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 1K • 💬 124 • ⏱️ 13:25 • 7h ago
+
+---
+
+**[Larry Fink Is RIGHT About Bitcoin](https://www.youtube.com/watch?v=BzVOxdaaCWU)**
+
+Anthony and John Pompliano break down what's really happening in the bitcoin market — why price has stalled, how volatility is ...
+
+📺 Anthony Pompliano
+
+👁️ 12K • 👍 608 • 💬 4 • ⏱️ 41:39 • 8h ago
 
 ---
 
@@ -355,37 +335,57 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 21K • 👍 1K • 💬 225 • ⏱️ 18:36 • 7h ago
+👁️ 26K • 👍 1K • 💬 228 • ⏱️ 18:36 • 8h ago
 
 ---
 
-**[My Bitcoin and Crypto Portfolio Is Hurting...](https://www.youtube.com/watch?v=Eq7VK3EDdn4)**
+**[BITCOIN IS DONE!!   (CRYPTO POWER SHIFT HAPPENING NOW)](https://www.youtube.com/watch?v=OyUF5thOUWU)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+Crypto looks chaotic on the surface — but underneath, a structural reset is taking place. Banks are openly challenging the Federal ...
 
-📺 CryptosRUs
+📺 CLOCKWISE CRYPTO 
 
-👁️ 29K • 👍 2K • 💬 529 • ⏱️ 8:04 • 1d ago
-
----
-
-**[CRYPTO TRAP! They Are Lying To You About This Bitcoin Crash](https://www.youtube.com/watch?v=y1Qrr3lVMGo)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 22K • 👍 2K • 💬 158 • ⏱️ 9:01 • 7h ago
+👁️ 4K • 👍 261 • 💬 47 • ⏱️ 9:42 • 4h ago
 
 ---
 
-**[BREAKING: BITCOIN JUST DID THIS FOR FIRST TIME SINCE 2020 – THIS HAPPENED NEXT](https://www.youtube.com/watch?v=vzVpMNGR9oU)**
+**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
 
-INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://cryptocrewuniversity.com/sibmy ...
+These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! AI Trading Club: ...
 
-📺 Crypto Crew University
+📺 Thomas Kralow
 
-👁️ 33K • 👍 2K • 💬 155 • ⏱️ 8:22 • 16h ago
+👁️ 18K • 👍 2K • 💬 53 • ⏱️ 7:49 • 19h ago
+
+---
+
+**[Inside the future of Bitcoin](https://www.youtube.com/watch?v=N7Z7tpwSlBg)**
+
+Strategy CEO Phong Le discusses what investors can look forward to in 2026 and analyzes where Bitcoin is headed on 'The ...
+
+📺 Fox Business
+
+👁️ 46K • 👍 713 • 💬 462 • ⏱️ 10:03 • 1d ago
+
+---
+
+**[Will 1 Bitcoin Be Generational Wealth? Whales Selling, Legacy Planning &amp; Price Drivers](https://www.youtube.com/watch?v=6zFglF1aMKc)**
+
+A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell sat down with Matthew McClintock, head of The ...
+
+📺 Natalie Brunell
+
+👁️ 9K • 👍 461 • 💬 55 • ⏱️ 57:23 • 16h ago
+
+---
+
+**[Why Panic Selling Bitcoin NOW Could be the Worst Idea!](https://www.youtube.com/watch?v=ZZV--oWO_h8)**
+
+Aura Stop leaving yourself vulnerable to data breaches. Go to my sponsor https://aura.com/simplybitcoin to get a 14-day free trial ...
+
+📺 Simply Bitcoin
+
+👁️ 13K • 👍 927 • 💬 91 • ⏱️ 16:49 • 17h ago
 
 ---
 
