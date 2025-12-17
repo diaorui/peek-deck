@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T10:24:21.777532+00:00'
+updated: '2025-12-17T10:48:30.620077+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 10:24 UTC  
+**Last Updated:** December 17, 2025 at 10:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-23h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
 
-1h ago
+2h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’m working on like a platform that carries a robotic arm mounted on it that c
 
 Blog post: Emergence of Human to Robot Transfer in VLAs: https://www.pi.website/research/human_to_robot Paper (pdf): https://www.pi.website/download/human_to_robot.pdf Thread on 𝕏: https://x.com/physical_int/status/2001096200456692114
 
-21m ago
+45m ago
 
 ---
 
@@ -176,7 +176,7 @@ IEEE Spectrum • 14h ago
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 

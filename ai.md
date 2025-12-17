@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T10:24:21.759765+00:00'
+updated: '2025-12-17T10:48:30.602206+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 10:24 UTC  
+**Last Updated:** December 17, 2025 at 10:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-17h ago
+18h ago
 
 ---
 
@@ -73,7 +73,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 13h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 14h ago
 
 ---
 
@@ -81,13 +81,13 @@ OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new fl
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 18h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 19h ago
 
 ---
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 16h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 17h ago
 
 ---
 
@@ -103,7 +103,7 @@ Between the new US Executive Order 14179 and the EU AI Act, the regulatory "spli
 
 Anthony Enzor-DeMeo is taking charge of one of the internet’s most important — and most complicated — companies.
 
-🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 11h ago
+🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 12h ago
 
 ---
 
@@ -123,7 +123,7 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 A survey finds that 56% of psychologists are trying out artificial intelligence tools at work, mainly for administrative tasks. A majority also are concerned about harms of AI on patients and society.
 
-NPR • 14h ago
+NPR • 15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Reuters • 13h ago
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-Business Insider • 24m ago
+Business Insider • 48m ago
 
 ---
 
@@ -145,7 +145,7 @@ Business Insider • 24m ago
 
 Silicon Valley history is littered with innovative "first movers" snuffed out by incumbent tech giants. OpenAI CEO Sam Altman is sounding the alarm to ensure a different fate for the ChatGPT maker.
 
-Fortune • 54m ago
+Fortune • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Fortune • 54m ago
 
 The President is allegedly leveraging the pause to push for looser food and online safety regulations in the UK
 
-Gizmodo • 24m ago
+Gizmodo • 48m ago
 
 ---
 
@@ -161,7 +161,7 @@ Gizmodo • 24m ago
 
 Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -283,7 +283,7 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 142K • 👍 3K • 💬 707 • ⏱️ 14:37 • 18h ago
+👁️ 142K • 👍 3K • 💬 707 • ⏱️ 14:37 • 19h ago
 
 ---
 
@@ -341,7 +341,7 @@ This image shows an advanced AI-powered farming robot harvesting ripe tomatoes w
 
 📺 Neural Fantasy
 
-👁️ 12K • ⏱️ 0:07 • 2h ago
+👁️ 12K • ⏱️ 0:07 • 3h ago
 
 ---
 
@@ -433,7 +433,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 223 • 4h ago
+⬇️ 0 • ❤️ 223 • 5h ago
 
 ---
 
@@ -491,7 +491,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 179 • 1h ago
+⬇️ 0 • ❤️ 179 • 2h ago
 
 ---
 
@@ -641,7 +641,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.9k • 🔱 2.6k • 59m ago
+⭐ 16.9k • 🔱 2.6k • 1h ago
 
 ---
 

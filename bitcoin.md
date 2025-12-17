@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T10:24:21.768191+00:00'
+updated: '2025-12-17T10:48:30.610688+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 10:24 UTC  
+**Last Updated:** December 17, 2025 at 10:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,397.35
+### $86,627.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -6.5%  
-**30d:** -6.8%  
-**90d:** -25.1%  
+**24h:** -0.9%  
+**7d:** -6.6%  
+**30d:** -6.9%  
+**90d:** -25.2%  
 **1y:** -13.9%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -119,7 +119,7 @@ I was genuinely surprised and shocked to see this, especially since our country 
 
 There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
-16h ago
+17h ago
 
 ---
 
@@ -127,7 +127,7 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-17h ago
+18h ago
 
 ---
 
@@ -135,7 +135,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
 
-2h ago
+3h ago
 
 ---
 
@@ -143,7 +143,7 @@ You don’t understand Bitcoin. And that’s okay — most people still don’t.
 
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-15h ago
+16h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 4h ago
 
 Bhutan has pledged up to 10,000 BTC to support the development of Gelephu Mindfulness City, deepening the country’s long-term digital asset strategy.
 
-CoinDesk • 6m ago
+CoinDesk • 31m ago
 
 ---
 
@@ -180,13 +180,13 @@ Barron's • 1h ago
 
 Bhutan unveiled a national Bitcoin Development Pledge on Tuesday, committing up to 10,000 BTC, worth approximately $1 billion, to fund construction of Gelephu Mindfulness City without liquidating its sovereign digital asset reserves.King Jigme Khesar Namgyel Wangchuck announced the allocation during his National Day Address, framing the commitment as a generational ...
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 12h ago
+thestreet.com • 13h ago
 
 ---
 
@@ -304,7 +304,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 188 • ⏱️ 9:01 • 11h ago
+👁️ 35K • 👍 2K • 💬 188 • ⏱️ 9:01 • 12h ago
 
 ---
 
@@ -314,7 +314,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 304 • 💬 113 • ⏱️ 10:50 • 9h ago
+👁️ 6K • 👍 304 • 💬 113 • ⏱️ 10:50 • 10h ago
 
 ---
 
@@ -334,7 +334,7 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 30K • 👍 1K • 💬 220 • ⏱️ 18:36 • 11h ago
+👁️ 30K • 👍 1K • 💬 220 • ⏱️ 18:36 • 12h ago
 
 ---
 
@@ -364,7 +364,7 @@ Crypto looks chaotic on the surface — but underneath, a structural reset is ta
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 7K • 👍 261 • 💬 48 • ⏱️ 9:42 • 7h ago
+👁️ 7K • 👍 261 • 💬 48 • ⏱️ 9:42 • 8h ago
 
 ---
 
@@ -384,7 +384,7 @@ Download Raoul Pal's 5-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 15K • 👍 690 • 💬 29 • ⏱️ 1:52 • 12h ago
+👁️ 15K • 👍 690 • 💬 29 • ⏱️ 1:52 • 13h ago
 
 ---
 
