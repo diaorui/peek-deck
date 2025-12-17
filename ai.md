@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T03:44:11.750310+00:00'
+updated: '2025-12-17T04:21:19.429679+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 03:44 UTC  
+**Last Updated:** December 17, 2025 at 04:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 7h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 10h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 11h ago
 
 ---
 
@@ -89,7 +89,7 @@ OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new fl
 
 Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.
 
-🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 22h ago
+🔗 [ZDNET](https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/) • 23h ago
 
 ---
 
@@ -99,19 +99,19 @@ Torvalds is sick of all the AI hype, but says AI is finally maturing to the poin
 
 ---
 
-**[We used Qwen3-Coder to build a 2D Mario-style game in seconds (demo + setup guide)](https://www.reddit.com/r/artificial/comments/1po40li/we_used_qwen3coder_to_build_a_2d_mariostyle_game/)**
+**[Mozilla’s new CEO is doubling down on an AI future for Firefox | Anthony Enzor-DeMeo says he thinks there’s room for another browser, even an AI browser — as long as you can trust it.](https://www.reddit.com/r/artificial/comments/1pofqfd/mozillas_new_ceo_is_doubling_down_on_an_ai_future/)**
 
-We recently tested Qwen3-Coder (480B), an open-weight model from Alibaba built for code generation and agent-style tasks. We connected it to Cursor IDE using a standard OpenAI-compatible API. Prompt: “Create a 2D game like Super Mario.” Here’s what the model did: Asked if any asset files were available Installed pygame and created a requirements.txt file Generated a clean project layout: main.py, README.md, and placeholder folders Implemented player movement, coins, enemies, collisions, and a win screen We ran the code as-is. The game worked without edits. Why this stood out: The entire project was created from a single prompt It planned the steps: setup → logic → output → instructions It cost about $2 per million tokens to run, which is very reasonable for this scale The experience felt surprisingly close to GPT-4’s agent mode - but powered entirely by open-source models on a flexible, non-proprietary backend We documented the full process with screenshots and setup steps here: Qwen3-Coder is Actually Amazing: We Confirmed this with NetMind API at Cursor Agent Mode. Would be curious to hear how others are using Qwen3 or similar models for real tasks. Any tips or edge cases you’ve hit?
+Anthony Enzor-DeMeo is taking charge of one of the internet’s most important — and most complicated — companies.
 
-12h ago
+🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 5h ago
 
 ---
 
-**[Red Hat acquires another AI company](https://www.reddit.com/r/artificial/comments/1po5dd8/red_hat_acquires_another_ai_company/)**
+**[DeepMind: Demis Hassabis On 'The Future Of Intelligence' | Google DeepMind Podcast](https://www.reddit.com/r/artificial/comments/1poc856/deepmind_demis_hassabis_on_the_future_of/)**
 
-Last year Red Hat acquired Neural Magic as part of their AI acquisitions and to bolster the open-source AI ecosystem
+Synopsis: In our final episode of the season, Professor Hannah Fry sits down with Google DeepMind Co-founder and CEO Demis Hassabis for their annual check-in. Together, they look beyond the product launches to the scientific and technological questions that will define the next decade. Demis shares his vision for the path to AGI - from solving "root node" problems in fusion energy and material science to the rise of world models and simulations. They also explore what's beyond the frontier and the importance of balancing scientific rigor amid the competitive dynamics of AI advancement. Timestamps: 1 minute, 42 seconds: 2025 progress 5 minutes, 14 seconds: Jagged intelligence 7 minutes, 32 seconds: Mathematical version of AlphaGo? 9 minutes, 30 seconds: Transformative Science vs Prosiac Commercialization 12 minutes, 42 seconds: The Empirical Scaling Laws 17 minutes, 43 seconds: Genie and simulation 25 minutes, 47 seconds: Sparks of recursive self improvement witnessed via evolution in simulation 28 minutes, 26 seconds: The AI "bubble" 31 minutes, 56 seconds: Building ethical AI 34 minutes, 31 seconds: The advent of AGI 44 minutes, 44 seconds: Turing machines 49 minutes, 6 seconds: How it feels to lead the AI race Link to the Full Interview: https://www.youtube.com/watch?v=PqVbypvxDto
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Red-Hat-Another-AI-Company) • 11h ago
+8h ago
 
 ---
 
@@ -131,41 +131,31 @@ NPR • 8h ago
 
 The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
 
-newsroom.churchofjesuschrist.org • 11h ago
+newsroom.churchofjesuschrist.org • 12h ago
 
 ---
 
-**[OpenAI in Talks to Raise At Least $10 Billion From Amazon and Use Its AI Chips](https://www.theinformation.com/articles/openai-talks-raise-least-10-billion-amazon-use-ai-chips)**
+**[China AI chip firm Biren to launch Hong Kong IPO in coming weeks, sources say](https://www.reuters.com/world/china/china-ai-chip-firm-biren-launch-hong-kong-ipo-coming-weeks-sources-say-2025-12-16/)**
 
-The Information • 1h ago
-
----
-
-**[Chinese AI chipmaker MetaX shares jump nearly 600% in market debut](https://finance.yahoo.com/news/chinese-ai-chipmaker-metax-shares-021911316.html)**
-
-MetaX Integrated Circuits shares jumped nearly 600% in their Shanghai ​debut on Wednesday, as China speeds up ‌flotation by homegrown AI chipmakers to reduce reliance on U.S. ‌majors Nvidia and Advanced Micro Devices. MetaX, founded by former AMD executive Chen Weiliang, raised roughly $600 million in an IPO last week. Its listing comes ⁠on the heels ‌of a stellar debut by bigger rival Moore Threads earlier this month.
-
-Yahoo Finance • 1h ago
+Reuters • 1d ago
 
 ---
 
-**[AI Chip Startup MetaX Leaps in Trading Debut](https://www.wsj.com/finance/stocks/ai-chip-startup-metax-leaps-in-trading-debut-5f1dff0b?gaa_at=eafs&gaa_n=AWEtsqfwEjqYMhfV1DNC2Fpb1JFErI6VKwZeKXWNN-6wO3SbzsyKToK8VRxC&gaa_ts=69422a6f&gaa_sig=XT3nYfwpQpirICgS6tTKUJO8Jz8lJeW7bvVEo2gImp5W4TVXxiadTKRaW_fL8Gemyb_LzUEHcZf6TvjdybLzlQ%3D%3D)**
+**[Chinese AI chipmaker MetaX shares jump nearly 600% in market debut](https://www.reuters.com/world/asia-pacific/chinese-ai-chipmaker-metax-shares-jump-nearly-600-market-debut-2025-12-17/)**
 
-The Wall Street Journal • 28m ago
-
----
-
-**[Chinese AI chip startup MetaX surges on trading debut](https://asia.nikkei.com/business/markets/ipo/chinese-ai-chip-startup-metax-surges-on-trading-debut)**
-
-Fabless GPU designer aims to capitalize on Beijing's push for homegrown technology
-
-Nikkei Asia • 2h ago
+Reuters • 2h ago
 
 ---
 
-**[OpenAI in talks to raise at least $10 billion from Amazon and use its AI chips, the Information reports](https://www.reuters.com/business/retail-consumer/openai-talks-raise-least-10-billion-amazon-use-its-ai-chips-information-reports-2025-12-17/)**
+**[AI Chip Startup MetaX Leaps in Trading Debut](https://www.wsj.com/finance/stocks/ai-chip-startup-metax-leaps-in-trading-debut-5f1dff0b?gaa_at=eafs&gaa_n=AWEtsqcW5H1jASocELOD6-tBk00wiLkpLnZS6Frv3gKzAnfIOZ6tsWOcb22a&gaa_ts=69423324&gaa_sig=kyC_W0WS-fMH2ig9espS_BCSPYX13Bx96dFRYAIWWNLk5-JkPkko21dBXQbkXe8_UAdgJXgCvESqMf7mTVo7Jg%3D%3D)**
 
-Reuters • 1h ago
+The Wall Street Journal • 1h ago
+
+---
+
+**[Chip-Sector Linchpin Resonac Seeks to Tap China’s AI Ambitions](https://www.bloomberg.com/news/articles/2025-12-17/chip-sector-linchpin-resonac-seeks-to-tap-china-s-ai-ambitions)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -173,7 +163,7 @@ Reuters • 1h ago
 
 The company is positioning it as especially good for enterprise use.
 
-The Verge • 9h ago
+The Verge • 10h ago
 
 ---
 
@@ -181,13 +171,19 @@ The Verge • 9h ago
 
 OpenAI's Image Model 1.5 is out now, and it comes with a new creative studio for editing.
 
-CNET • 9h ago
+CNET • 10h ago
 
 ---
 
 **[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
 
-The Washington Post • 9h ago
+The Washington Post • 10h ago
+
+---
+
+**[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
+
+Reuters • 7h ago
 
 ---
 
@@ -209,23 +205,23 @@ The technological race among industry giants and the wave of layoffs they have a
 
 ---
 
+**[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
+
+⬆️ 409 • 💬 203 • 7h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+
+---
+
 **[AI agents are starting to eat SaaS](https://news.ycombinator.com/item?id=46268452)**
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 394 • 💬 376 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
-
----
-
-**[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
-
-⬆️ 383 • 💬 194 • 6h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 395 • 💬 376 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 367 • 💬 306 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 368 • 💬 306 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -245,6 +241,14 @@ Some (well-known) consequences of AI automating work
 
 ---
 
+**[No AI* Here – A Response to Mozilla's Next Chapter](https://news.ycombinator.com/item?id=46295268)**
+
+Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
+
+⬆️ 160 • 💬 103 • 6h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+
+---
+
 **[The Gorman Paradox: Where Are All the AI-Generated Apps?](https://news.ycombinator.com/item?id=46262545)**
 
 In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
@@ -253,19 +257,11 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 ---
 
-**[No AI* Here – A Response to Mozilla's Next Chapter](https://news.ycombinator.com/item?id=46295268)**
-
-Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
-
-⬆️ 147 • 💬 87 • 5h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
-
----
-
 **[ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://news.ycombinator.com/item?id=46286666)**
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 134 • 💬 50 • 17h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 135 • 💬 50 • 18h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -289,7 +285,7 @@ The fellas at Red Letter Media like to talk about not just movies, but current t
 
 📺 RedLetterMedia
 
-👁️ 327K • 👍 25K • 💬 4K • ⏱️ 59:17 • 11h ago
+👁️ 327K • 👍 25K • 💬 4K • ⏱️ 59:17 • 12h ago
 
 ---
 
@@ -365,7 +361,7 @@ In this video, I break down OpenCode Desktop, the fully free & open-source AI co
 
 📺 WorldofAI
 
-👁️ 14K • 👍 478 • 💬 20 • ⏱️ 9:02 • 21h ago
+👁️ 14K • 👍 478 • 💬 20 • ⏱️ 9:02 • 22h ago
 
 ---
 
@@ -381,7 +377,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,815 • 8d ago
+⬇️ 296,552 • ❤️ 2,816 • 8d ago
 
 ---
 
@@ -393,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 897 • 4d ago
+⬇️ 158,614 • ❤️ 898 • 4d ago
 
 ---
 
@@ -405,7 +401,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 51,591 • ❤️ 329 • 7d ago
+⬇️ 51,591 • ❤️ 330 • 7d ago
 
 ---
 
@@ -429,7 +425,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 264 • 1d ago
+⬇️ 10,487 • ❤️ 265 • 1d ago
 
 ---
 
@@ -441,7 +437,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 384 • 3h ago
+⬇️ 28,106 • ❤️ 385 • 4h ago
 
 ---
 
@@ -453,7 +449,7 @@ GLM-ASR-Nano-2512 is a 1.5B parameter speech recognition model excelling in low-
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 74,813 • ❤️ 240 • 4d ago
+⬇️ 74,813 • ❤️ 240 • 5d ago
 
 ---
 
@@ -477,7 +473,7 @@ VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware spee
 
 `text-to-speech`
 
-⬇️ 2,401 • ❤️ 239 • 4d ago
+⬇️ 2,401 • ❤️ 240 • 4d ago
 
 ---
 
@@ -487,7 +483,7 @@ VoxCPM1.5 is a tokenizer-free Text-to-Speech model capable of context-aware spee
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 191 • 21h ago
+⬇️ 0 • ❤️ 191 • 22h ago
 
 ---
 
@@ -648,7 +644,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.0k • 🔱 425 • 13h ago
+⭐ 4.0k • 🔱 425 • 14h ago
 
 ---
 
@@ -678,7 +674,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 5h ago
+⭐ 1.1k • 🔱 138 • 6h ago
 
 ---
 
@@ -728,7 +724,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 762 • 🔱 119 • 21h ago
+⭐ 762 • 🔱 119 • 22h ago
 
 ---
 

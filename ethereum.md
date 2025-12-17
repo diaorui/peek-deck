@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T03:44:11.765065+00:00'
+updated: '2025-12-17T04:21:19.442238+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 03:44 UTC  
+**Last Updated:** December 17, 2025 at 04:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -8.9%  
-**30d:** -5.7%  
-**90d:** -34.0%  
-**1y:** -18.8%  
+**24h:** +0.6%  
+**7d:** -9.0%  
+**30d:** -5.8%  
+**90d:** -34.1%  
+**1y:** -18.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.81B
+**Market Cap:** $356.03B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.4%
+-40.5%
 
 **All-Time Low:** $0.43
-+680699.8%
++679168.5%
 
 ---
 
@@ -70,7 +70,7 @@ No max supply
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 13h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 14h ago
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -90,17 +90,17 @@ When a Cypherpunk Says 'Permissioned' This is an EVMavericks production. All lin
 
 ---
 
-**[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
-
-9h ago
-
----
-
 **[Someone I paid just asked me why I have so much USDC sitting around](https://www.reddit.com/r/ethereum/comments/1pohn20/someone_i_paid_just_asked_me_why_i_have_so_much/)**
 
 So this is awkward. Paid someone for some freelance work in USD⁤C and they apparently looked up my address and now they're asking questions about my wallet balance. Didn't even think about it until now but yeah anyone you pay can see literally everything. Is there actually any way to send stablecoins without exposing your entire transaction history? I looked into Tornado Cash but that whole situation is a mess now. Don't really want to use some random privacy chain nobody's heard of. I did find this thing called Anoma⁤Pay that's launching soon. They claim you can send private payments and it wor⁤ks across different chains - like you send USD⁤C on one chain and the person receives it on another or in a different token. Haven't tested it since it's not out yet but sounds pretty useful if it actually wor⁤ks. Says it uses your regular wallet so you don't need to set up anything new. This probably sounds paranoid but it's genuinely weird that paying someone $500 for work means they can see I'm holding $50k or whatever. That's not information I want to share with random contractors. How do businesses even handle this? Do they just not care or is there actually a solution I'm missing?
 
-3h ago
+4h ago
+
+---
+
+**[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
+
+10h ago
 
 ---
 
@@ -116,7 +116,7 @@ JPMorgan Chase & Co. one of the world’s largest banking institutions with over
 
 idk man. the speed, the fees, the ux... solana teams and tools built on top of it and that support are shipping faster, like one-click leverage, instant swaps, sub-penny transactions. meanwhile eth still has gas drama and L2 fragmentation. but maybe im too deep in the solana ecosystem and cant see clearly anymore. what am i missing here?
 
-1h ago
+2h ago
 
 ---
 
@@ -148,7 +148,7 @@ Hey folks, I’m looking for a production-ready Android wallet that satisfies al
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqflOBZxUHc7PH3XgrFQfy6mRzEgQ_s-b-kz2ao99ZeIHanYdixUqN5C&gaa_ts=69422a72&gaa_sig=ZjG3kdXQ_N0fu61l0SVfTk_Zi94HdKNqmuu8JFHALjsHETtDhCMTDQMs4T9I-sWHSGwJez0jHZVI6F0LcIx_PA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe00hBwndk4fYS--KgQ4TvFxH-aUnJgaTnIq0QW3p-Ic0jOq4eM5bwh&gaa_ts=69423327&gaa_sig=IUJ_Lhle2pOT-mKYP7Og2-nr673Fo843nA8RwWCc56UN4so0jec55Tk-TMNEvmyPoapE25LHTyASfFkLnGjX0g%3D%3D)**
 
 Barron's • 6h ago
 
@@ -182,7 +182,7 @@ Yahoo Finance • 1d ago
 
 Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -208,7 +208,7 @@ Bloomberg.com • 1d ago
 
 **[Ethereum’s Price Teeters at $2,300 as Vanishing On-Chain Demand Hits a 7-Month Low](https://www.tipranks.com/news/ethereums-price-teeters-on-a-2300-grave-as-vanishing-on-chain-demand-hits-a-7-month-low)**
 
-TipRanks • 11h ago
+TipRanks • 12h ago
 
 ---
 
@@ -260,7 +260,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 2K • 💬 70 • ⏱️ 7:49 • 15h ago
+👁️ 17K • 👍 2K • 💬 70 • ⏱️ 7:49 • 16h ago
 
 ---
 
@@ -290,7 +290,7 @@ Crypto News: Bitcoin price pullsback. JPMorgan Launches Tokenized Money Market F
 
 📺 Thinking Crypto
 
-👁️ 7K • 👍 569 • 💬 93 • ⏱️ 18:30 • 23h ago
+👁️ 7K • 👍 569 • 💬 93 • ⏱️ 18:30 • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN PRICE TRAP: Don't Be Fooled (WARNING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 4K • 👍 263 • 💬 171 • ⏱️ 20:42 • 7h ago
+👁️ 4K • 👍 263 • 💬 171 • ⏱️ 20:42 • 8h ago
 
 ---
 

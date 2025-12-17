@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T03:44:11.758953+00:00'
+updated: '2025-12-17T04:21:19.436965+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 03:44 UTC  
+**Last Updated:** December 17, 2025 at 04:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,409.57
+### $87,148.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** -5.6%  
-**30d:** -5.9%  
-**90d:** -24.4%  
-**1y:** -13.0%  
+**24h:** +1.4%  
+**7d:** -5.9%  
+**30d:** -6.3%  
+**90d:** -24.7%  
+**1y:** -13.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1741.91B
+**Market Cap:** $1743.62B
 Rank #1
 
 **Circulating Supply:** 19,963,109 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-30.9%
 
 **All-Time Low:** $67.81
-+128532.9%
++128379.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-10h ago
+11h ago
 
 ---
 
@@ -101,13 +101,13 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 **[Did you know that???](https://www.reddit.com/r/Bitcoin/comments/1po6vhn/did_you_know_that/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -133,21 +133,29 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 **[I'm glad we can always rely on the experts to give us the facts](https://www.reddit.com/r/Bitcoin/comments/1po57pz/im_glad_we_can_always_rely_on_the_experts_to_give/)**
 
-11h ago
+12h ago
 
 ---
 
-**[I'm 17 and I'm investing in BTC.](https://www.reddit.com/r/Bitcoin/comments/1po8f29/im_17_and_im_investing_in_btc/)**
+**[Found an interesting e-mail from a few years ago](https://www.reddit.com/r/Bitcoin/comments/1pofvpq/found_an_interesting_email_from_a_few_years_ago/)**
 
-Hello everyone, good morning/evening first of all. I'm 17 and I'm slowly learning about Bitcoin. While I'm learning, I'm doing weekly dollar-cost averaging, but I want to invest in other things and I wanted to ask what other investments you would recommend for someone interested in this world. I don't know if anyone could share their experiences investing in Bitcoin and other things. Thank you very much :)
+Would be worth almost 10 grand today if my math is correct. edit: was from october 2013
 
-9h ago
+5h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin Price Falls To $87,000, Market Sits In Extreme Fear](https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-87000)**
+
+The Bitcoin price hovered above $87,000 as prices stabilized, even as investor sentiment plunged into extreme fear.
+
+Bitcoin Magazine • 6h ago
+
+---
 
 **[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
@@ -157,7 +165,7 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Price Slips Below $86,000 and XRP Falls. What Can Spark a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-juventus-be63b673?gaa_at=eafs&gaa_n=AWEtsqevV-luPU7P0Jg29JDjBfw7Zn7gRfJsduHaga8kgqNu_zmtLXtaCq-v&gaa_ts=69422a70&gaa_sig=auW4EWPE_n3EtYFEVhowwscT-c1ncYzz6e4VEd86mg72DGwPCOcKUx5ABvHlSjzSHCj-ybWi8lgg4sdmSLTaYg%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqcAaumlbJvtKohdM4VUL4AqBHbWWE8tndRwrmuaCrGu0xdxb2yS2C_C&gaa_ts=69423326&gaa_sig=0Ygyktddf0rge1TKV3Y4Qbikwdgl1HjdJFRkgW_-aIXBAnQt1uRG22fSgGFHtUGrJZciTZPW17rCfAaSMWExqw%3D%3D)**
 
 Barron's • 1d ago
 
@@ -169,9 +177,41 @@ The Block • 1d ago
 
 ---
 
+**[Did MicroStrategy Make Its Worst Bitcoin Purchase of 2025?](https://finance.yahoo.com/news/did-microstrategy-worst-bitcoin-purchase-202057862.html)**
+
+This week, MicroStrategy bought Bitcoin at $92K just before a sharp drop. Was it poor timing or part of a long-term strategy?
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Look Out Below: Another 3% Drop In Bitcoin Brings This Token Toward a Key Level](https://www.fool.com/investing/2025/12/15/look-out-below-another-3-drop-in-bitcoin-brings-th/)**
+
+Bitcoin's recent price decline has picked up steam in recent weeks.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
 thestreet.com • 6h ago
+
+---
+
+**[Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice](https://www.tradingview.com/news/cointelegraph:7059821cb094b:0-bitcoin-treasury-kindly-md-faces-potential-delisting-after-nasdaq-price-notice/)**
+
+Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
+
+TradingView — Track All Markets • 8h ago
+
+---
+
+**[Bitcoin Treasury KindlyMD Faces Nasdaq Delisting With Stock Down 99%](https://decrypt.co/352614/bitcoin-treasury-kindlymd-faces-nasdaq-delisting-stock-down-99-percent)**
+
+KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
+
+Decrypt • 6h ago
 
 ---
 
@@ -180,44 +220,6 @@ thestreet.com • 6h ago
 U.S. spot bitcoin ETFs saw $357.6 million of net outflows on Monday, part of a $582 million combined ETF withdrawal, as bitcoin fell to as low as $85,100 and traders watched the $83,000 ETF cost-basis level for support.
 
 Bitbo • 12h ago
-
----
-
-**[Why bitcoin ETFs look like they’re falling short, even as their role grows: Asia Morning Briefing](https://www.coindesk.com/markets/2025/12/16/why-bitcoin-etfs-look-like-they-re-falling-short-even-as-their-role-grows-asia-morning-briefing)**
-
-What looks like underperformance reflects a structural shift: ETF flows now smooth volatility rather than amplify crypto rallies.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk](https://decrypt.co/352533/bitcoin-ethereum-etfs-shed-582m-in-a-day-as-institutions-trim-risk)**
-
-U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
-
-Decrypt • 12h ago
-
----
-
-**[Will work for Bitcoin.](https://x.com/saylor/status/1999926706799620373)**
-
-x.com • 3d ago
-
----
-
-**[ChatGPT Predicts Bitcoin Closes 2025 at $86K While Analysts Target $111K: Who’s Right?](https://247wallst.com/investing/2025/12/16/chatgpt-predicts-bitcoin-closes-2025-at-86k-while-analysts-target-111k-whos-right/)**
-
-Bitcoin crashed from $126K to $89K. ChatGPT predicts $86K by year-end while analysts target $111K. ETF inflows and Fed policy will decide.
-
-24/7 Wall St. • 12h ago
-
----
-
-**[Which Cryptocurrency Has More Upside? Bitcoin vs. Cardano](https://www.nasdaq.com/articles/which-cryptocurrency-has-more-upside-bitcoin-vs-cardano)**
-
-Key PointsCardano is approaching one of its largest-ever growth opportunities.
-
-Nasdaq • 2d ago
 
 ---
 
@@ -281,7 +283,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 10 • 💬 3 • 12h ago
+⬆️ 11 • 💬 3 • 12h ago
 
 ---
 
@@ -305,7 +307,7 @@ Anthony and John Pompliano break down what's really happening in the bitcoin mar
 
 📺 Anthony Pompliano
 
-👁️ 7K • 👍 450 • 💬 4 • ⏱️ 41:39 • 5h ago
+👁️ 7K • 👍 450 • 💬 4 • ⏱️ 41:39 • 6h ago
 
 ---
 
@@ -315,7 +317,7 @@ Aura Stop leaving yourself vulnerable to data breaches. Go to my sponsor https:/
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 880 • 💬 97 • ⏱️ 16:49 • 13h ago
+👁️ 12K • 👍 880 • 💬 97 • ⏱️ 16:49 • 14h ago
 
 ---
 
@@ -345,7 +347,7 @@ INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://c
 
 📺 Crypto Crew University
 
-👁️ 31K • 👍 2K • 💬 151 • ⏱️ 8:22 • 13h ago
+👁️ 31K • 👍 2K • 💬 151 • ⏱️ 8:22 • 14h ago
 
 ---
 
@@ -355,7 +357,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 2K • 💬 70 • ⏱️ 7:49 • 15h ago
+👁️ 17K • 👍 2K • 💬 70 • ⏱️ 7:49 • 16h ago
 
 ---
 
@@ -375,7 +377,7 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 8K • 👍 412 • 💬 24 • ⏱️ 57:23 • 12h ago
+👁️ 8K • 👍 412 • 💬 24 • ⏱️ 57:23 • 13h ago
 
 ---
 
@@ -385,7 +387,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 997 • 💬 97 • ⏱️ 13:25 • 4h ago
+👁️ 9K • 👍 997 • 💬 97 • ⏱️ 13:25 • 5h ago
 
 ---
 
