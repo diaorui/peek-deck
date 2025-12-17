@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T00:44:08.070209+00:00'
+updated: '2025-12-17T02:28:45.755457+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 00:44 UTC  
+**Last Updated:** December 17, 2025 at 02:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
 
-14h ago
+16h ago
 
 ---
 
 **[We're building Asimov, an open-source humanoid, from scratch](https://www.reddit.com/r/robotics/comments/1pnqs7n/were_building_asimov_an_opensource_humanoid_from/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
 
-12h ago
+14h ago
 
 ---
 
@@ -72,7 +72,7 @@ I saw this project by Mehdi Alizadeh and thought it was a brilliant example of u
 
 Robotics company 1X plans to roll out up to 10,000 humanoid robots across around 300 companies linked to European investment firm EQT between 2026 and 2030. The robot, called NEO, is built to move and work in spaces made for humans like factories and warehouses. Instead of forcing companies to redesign everything, NEO is meant to fit into existing workflows and assist with everyday tasks. Each robot is expected to cost about $20,000, with some companies likely paying through subscriptions or service contracts. It’s an early sign that humanoid robots are moving out of demos and into real workplaces, slowly but for real lol. mariogrigorescu #agentpromovator #robots #robotics #neo
 
-19h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
 
-9h ago
+11h ago
 
 ---
 
@@ -88,7 +88,15 @@ I just ordered all of the parts and finished 3D printing all of the components. 
 
 Hello robotics community! I am one the co-founders of Boost Robotics. We are an ex-Boston Dynamics/CMU team building robots to automate data centers. We are looking to hire a few founding engineers with deep technical expertise in building and deploying robots / AI / mobile manipulators. We are based in Cambridge, MA and have a number of exciting founding roles open right now: https://jobs.gem.com/boost-robotics. If you or someone you know is looking to work at an early stage robotics startup feel free to send me a private message!
 
-20h ago
+22h ago
+
+---
+
+**[How to run dual-arm UR5e with MoveIt 2 on real hardware](https://www.reddit.com/r/robotics/comments/1po7dth/how_to_run_dualarm_ur5e_with_moveit_2_on_real/)**
+
+Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
+
+9h ago
 
 ---
 
@@ -97,14 +105,6 @@ Hello robotics community! I am one the co-founders of Boost Robotics. We are an 
 This is the cycloidal drive I designed for my five axis robotic arm IRAS. The drive is designed for high torque and high bearing loads, therefore the cross roller bearing. All the metal parts were machined by JUSTWAY and look amazing. The cycloidal disks, whichare made from 4340 steel and have a super smooth surface finish. The smooth surface is very good for long lasting and and smooth operation. The dimensions are also spot on, therefoe eliminating any backlash. I haven't done any "real" backlash test, but I have attached an aluminium extrusion to the output, and tried turning it. The drive is still backdrivable (the reduction is 1:43) because of its relative high efficiency caused by the precise machining done by JUSTWAY. When I fixed the input and tried turning the extrusion at the output, there was absolutely no backlash or flexing and the output felt like bolted to the housing (it wasn't). The cycloidal drive has an 8mm hole, which is very usefull for routing wires or attaching an encoder. As I said, this is the 5th joint of my robot arm, which has a reach of about 1.1 metres and a payload capacity of at least 10kg. For more information about the project or the drive itself, feel free to ask or visit my website. Thank you.
 
 1d ago
-
----
-
-**[How to run dual-arm UR5e with MoveIt 2 on real hardware](https://www.reddit.com/r/robotics/comments/1po7dth/how_to_run_dualarm_ur5e_with_moveit_2_on_real/)**
-
-Hello everyone, I have a dual-arm setup consisting of two UR5e robots and two Robotiq 2F-85 grippers. In simulation, I created a combined URDF that includes both robots and both grippers, and I configured MoveIt 2 to plan collision-aware trajectories for: each arm independently coordinated dual-arm motions This setup works fully in RViz/MoveIt 2 on ROS2 humble. Now I want to execute the same coordinated tasks on real hardware, but I’m unsure how to structure the ROS 2 system. Should I: run two instances of ur_robot_driver, one per robot, each with its own namespace? run one MoveIt instance that loads the combined URDF and uses both drivers as hardware interfaces? In simulation I use a single PlanningScene. On hardware, is it correct to use a single MoveIt node with a unified PlanningScene, even though each robot is driven by a separate ur_robot_driver instance? Or is there a better pattern for multi-robot collision checking? Which interface should I use for dual-arm execution? ROS 2 (ur_robot_driver + ros2_control) RTDE URScript Modbus Any guidance, references, example architectures, or best practices for multi-UR setups with MoveIt 2 would be extremely helpful. Thank you!
-
-7h ago
 
 ---
 
@@ -118,31 +118,9 @@ The New York Times • 2d ago
 
 ---
 
-**[These Robots Are the Size of Single Cells and Cost Just a Penny Apiece](https://singularityhub.com/2025/12/16/these-robots-the-size-of-single-cells-cost-just-a-penny-apiece/)**
-
-The microbots have tiny computers, sensors, and actuators. They can sense temperature and swim autonomously.
-
-SingularityHub • 9h ago
-
----
-
-**[Penn and UMich create world’s smallest programmable, autonomous robots](https://www.eurekalert.org/news-releases/1109727)**
-
-Researchers at the University of Pennsylvania and University of Michigan have created the world&rsquo;s smallest fully programmable, autonomous robots: microscopic swimming machines that can independently sense and respond to their surroundings, operate for months and cost just a penny each. Barely visible to the naked eye, the robots are smaller than grains of salt and could advance medicine, manufacturing and more.
-
-EurekAlert! • 1d ago
-
----
-
-**[Sub-millimeter-sized robots can sense, 'think' and act on their own](https://techxplore.com/news/2025-12-millimeter-sized-robots.html)**
-
-Tech Xplore • 1d ago
-
----
-
 **[Two BCSC VEX IQ robotics teams earn a spot in state championship competition](https://www.therepublic.com/2025/12/16/two-bcsc-vex-iq-robotics-teams-earn-a-spot-in-state-championship-competition/)**
 
-The Republic News • 19h ago
+The Republic News • 21h ago
 
 ---
 
@@ -178,11 +156,33 @@ InvestorPlace • 2d ago
 
 ---
 
+**[An MIT roboticist who cofounded bankrupt Roomba maker iRobot says Elon Musk's vision of humanoid robot assistants is 'pure fantasy thinking'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
+
+Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+
+Fortune • 11h ago
+
+---
+
 **[Why Japan’s robotic pioneers are ceding the humanoid stage to China and the US](https://www.scmp.com/tech/tech-trends/article/3336327/stuck-factory-how-robotics-pioneer-japan-missed-ai-driven-humanoid-boom)**
 
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
 South China Morning Post • 2d ago
+
+---
+
+**[$94 Billion Robotics Market Set to Surge 300%: 1 ETF to Buy Now](https://www.fool.com/investing/2025/12/13/94-billion-robotics-market-set-to-surge-300-1-etf/)**
+
+This $3 billion exchange-traded fund is one of the oldest in its category, and it could be a long-term winner as the humanoid robotics market expands.
+
+The Motley Fool • 3d ago
+
+---
+
+**[AMC Robotics Gets Retail Talking Following AlphaVest Merger – ‘Holding This Now Is Like Holding PLTR Few Years Ago’](https://stocktwits.com/news-articles/markets/equity/amc-robotics-gets-retail-talking-following-alpha-vest-merger/cLeJfj2REYs)**
+
+Stocktwits • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 41K • 👍 769 • 💬 119 • ⏱️ 11:23 • 1d ago
+👁️ 44K • 👍 791 • 💬 123 • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 26K • 👍 668 • 💬 107 • ⏱️ 6:41 • 2d ago
+👁️ 27K • 👍 676 • 💬 110 • ⏱️ 6:41 • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 9K • 👍 1K • 💬 36 • ⏱️ 1:38 • 8h ago
+👁️ 11K • 👍 1K • 💬 41 • ⏱️ 1:38 • 10h ago
 
 ---
 
@@ -226,7 +226,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 332K • 👍 11K • 💬 361 • ⏱️ 0:34 • 2d ago
+👁️ 338K • 👍 11K • 💬 371 • ⏱️ 0:34 • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 375K • 👍 3K • 💬 33 • ⏱️ 0:21 • 2d ago
+👁️ 383K • 👍 3K • 💬 39 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -244,7 +244,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 27K • 👍 279 • 💬 28 • ⏱️ 1:05 • 1d ago
+👁️ 27K • 👍 281 • 💬 28 • ⏱️ 1:05 • 1d ago
 
 ---
 
@@ -258,23 +258,13 @@ I actually turned my smartphone into a desktop pet... This is LOOI Robot by Tang
 
 ---
 
-**[Insane Parking Flipper by 10255 RoboDux](https://www.youtube.com/watch?v=xurehBdnrdg)**
-
-Behind the Bot full explanation: https://youtu.be/OcYtVLsyUpI This video is supported by @StudicaRobotics. Studica structure is ...
-
-📺 FUN Robotics Network
-
-👁️ 1K • 👍 33 • 💬 4 • ⏱️ 0:15 • 2h ago
-
----
-
 **[Google DeepMind robotics lab tour with Hannah Fry](https://www.youtube.com/watch?v=UALxgn1MnZo)**
 
 In this episode, we open the archives on host Hannah Fry's visit to our California robotics lab. Filmed earlier this year, Hannah ...
 
 📺 Google DeepMind
 
-👁️ 289K • 👍 8K • 💬 588 • ⏱️ 17:44 • 6d ago
+👁️ 291K • 👍 8K • 💬 591 • ⏱️ 17:44 • 6d ago
 
 ---
 
@@ -285,6 +275,16 @@ Hundreds of robotics firms and investors gathered at the Humanoids Summit in Sil
 📺 Associated Press
 
 👁️ 28K • 👍 105 • 💬 43 • ⏱️ 1:26 • 4d ago
+
+---
+
+**[AI Robot Harvesting Grapes in the Vineyard 🍇🤖](https://www.youtube.com/watch?v=o0EILTw-1hs)**
+
+Experience the future of agriculture! In this video, an AI-powered farming robot assists a farmer by harvesting grapes with ...
+
+📺 𝗦𝗺𝗮𝗿𝘁 𝗙𝗮𝗿𝗺𝗶𝗻𝗴 𝗧𝗲𝗰𝗵
+
+👁️ 386K • 👍 397 • ⏱️ 0:08 • 17h ago
 
 ---
 
