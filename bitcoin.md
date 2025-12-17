@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T09:00:51.048261+00:00'
+updated: '2025-12-17T09:37:15.599119+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 09:00 UTC  
+**Last Updated:** December 17, 2025 at 09:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1725.85B
+**Market Cap:** $1721.98B
 Rank #1
 
 **Circulating Supply:** 19,963,212 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.4%
+-31.5%
 
 **All-Time Low:** $67.81
-+127385.6%
++127196.9%
 
 ---
 
@@ -83,21 +83,21 @@ Rank #1
 
 ---
 
-**[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
-
-11h ago
-
----
-
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
-19h ago
+20h ago
 
 ---
 
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-4h ago
+5h ago
+
+---
+
+**[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
+
+12h ago
 
 ---
 
@@ -107,11 +107,19 @@ Rank #1
 
 ---
 
+**[In my hometown, couple of days ago.](https://www.reddit.com/r/Bitcoin/comments/1porpmp/in_my_hometown_couple_of_days_ago/)**
+
+I was genuinely surprised and shocked to see this, especially since our country is low-income and very slow when it comes to new technologies. Nice to see things are moving forward. P.S. Bosnia and Herzegovina, Europe
+
+48m ago
+
+---
+
 **[BTC will break $150K soon, I believe!!!!](https://www.reddit.com/r/Bitcoin/comments/1po7ya6/btc_will_break_150k_soon_i_believe/)**
 
 There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
 
-15h ago
+16h ago
 
 ---
 
@@ -123,20 +131,6 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 ---
 
-**[Finally made it to 0.1 BTC](https://www.reddit.com/r/Bitcoin/comments/1po9tfz/finally_made_it_to_01_btc/)**
-
-25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
-
-14h ago
-
----
-
-**[Every cycle has the same advice.](https://www.reddit.com/r/Bitcoin/comments/1po01pi/every_cycle_has_the_same_advice/)**
-
-21h ago
-
----
-
 **[For those who yell manipulation all the time](https://www.reddit.com/r/Bitcoin/comments/1poqqb0/for_those_who_yell_manipulation_all_the_time/)**
 
 You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
@@ -145,29 +139,38 @@ You don’t understand Bitcoin. And that’s okay — most people still don’t.
 
 ---
 
+**[Finally made it to 0.1 BTC](https://www.reddit.com/r/Bitcoin/comments/1po9tfz/finally_made_it_to_01_btc/)**
+
+25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
+
+14h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Why are BTC, XRP, ETH and SOL down today and what's next](https://www.coindesk.com/markets/2025/12/15/signs-of-fatigue-but-downside-likely-limited-as-bitcoin-tumbles-out-of-trading-range)**
+**[BTC, ETH, ADA Price News: Bitcoin slides with ether and XRP as market tests $3 trillion floor](https://www.coindesk.com/markets/2025/12/17/bitcoin-slides-with-ether-and-xrp-as-market-tests-usd3t-floor)**
 
-Crypto-related stocks suffered far deeper declines as bitcoin slumped well below its recent trading range.
+Crypto markets continued to decline, with overall capitalization falling below $3 trillion for the third time in a month.
 
-CoinDesk • 1d ago
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin Falls as U.S. Jobs Data Fail to Materially Alter Rate Cut Bets](https://www.barrons.com/livecoverage/stock-market-news-today-121725/card/bitcoin-falls-as-u-s-jobs-data-fail-to-materially-alter-rate-cut-bets-wA00cE69skPmn47i4Mjt?gaa_at=eafs&gaa_n=AWEtsqfGfzObffcqiH81ycx5fjrKLCXndECyT4AENG_WddLnSfCMwfDRZ7Y2&gaa_ts=69427d39&gaa_sig=1FMqT67A9Ot0ElRHxPmhZ_sEgK-z420xyj4wevUqEg1EbsX4XqWaYEnbl16QjuvuhIi4Pvi6cIl50V4yFRE38g%3D%3D)**
+
+Bitcoin fell as the latest U.S. jobs data weren't soft enough to materially alter interest-rate cut expectations for the Federal Reserve.
+The data Tuesday showed the unemployment rate rose to 4.6% in November, above expectations and the highest level in more than four years. However, nonfarm payrol
+
+Barron's • 45m ago
 
 ---
 
 **[Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City](https://finance.yahoo.com/news/bhutan-pledges-10-000-bitcoin-065123571.html)**
 
 The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin Holds Above $85,000 as Institutional Investors Cushion the Downside](https://finance.yahoo.com/news/bitcoin-holds-above-85-000-062214689.html)**
-
-Bitcoin price holds above $85,000 as resilient holders support BTC amid volatility and shifting on-chain momentum.
 
 Yahoo Finance • 2h ago
 
@@ -191,7 +194,7 @@ thestreet.com • 11h ago
 
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -199,29 +202,29 @@ Yahoo Finance • 10h ago
 
 Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfG3Wz9N_3xPpdz2mDGMXR8XSY-cBDS_lHL2SyEEFN7jBKVt8G6A5c1&gaa_ts=69426fbd&gaa_sig=By-2KCpSAM0brjEdJ8lSNpVQoDiIxO0WYJB8mQ0GceoPlTwcjHy-mqSArlRFfnEyk7bcijSSgTMBlxS1ZV-chw%3D%3D)**
+**[Michael Saylor's Strategy acquires 10,645 bitcoin for $980 million, bringing total treasury holdings to 671,268 BTC](https://www.theblock.co/post/382490/michael-saylor-strategy-buys-bitcoin-nasdaq-100)**
 
-Barron's • 1d ago
-
----
-
-**[Strategy Buys Almost $1 Billion in Bitcoin Again in Past Week](https://www.bloomberg.com/news/articles/2025-12-15/strategy-buys-almost-1-billion-in-bitcoin-again-in-past-week)**
-
-Michael Saylor’s Strategy Inc. acquired almost $1 billion in Bitcoin for a second consecutive week, as the original digital asset treasury company continues to ramp up purchases following the recent pullback in the price of the largest cryptocurrency.
-
-Bloomberg.com • 1d ago
+The Block • 1d ago
 
 ---
 
-**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
+**[Bitcoin Bleeding Continues As Cryptocurrency Nears $85,000](https://www.forbes.com/sites/digital-assets/2025/12/15/bitcoin-bleeding-continues-as-cryptocurrency-nears-85000/)**
 
-Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
+Bitcoin prices extended their recent losses Monday, December 15, approaching $85,000 as the world’s most prominent digital currency struggled with notable headwinds.
 
-Yahoo Finance • 1d ago
+Forbes • 1d ago
+
+---
+
+**[Look Out Below: Another 3% Drop In Bitcoin Brings This Token Toward a Key Level](https://www.fool.com/investing/2025/12/15/look-out-below-another-3-drop-in-bitcoin-brings-th/)**
+
+Bitcoin's recent price decline has picked up steam in recent weeks.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -285,7 +288,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 17h ago
+⬆️ 11 • 💬 3 • 18h ago
 
 ---
 
@@ -309,7 +312,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 304 • 💬 113 • ⏱️ 10:50 • 8h ago
+👁️ 6K • 👍 304 • 💬 113 • ⏱️ 10:50 • 9h ago
 
 ---
 
@@ -329,7 +332,7 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 30K • 👍 1K • 💬 220 • ⏱️ 18:36 • 10h ago
+👁️ 30K • 👍 1K • 💬 220 • ⏱️ 18:36 • 11h ago
 
 ---
 
@@ -359,7 +362,7 @@ Crypto looks chaotic on the surface — but underneath, a structural reset is ta
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 7K • 👍 261 • 💬 48 • ⏱️ 9:42 • 6h ago
+👁️ 7K • 👍 261 • 💬 48 • ⏱️ 9:42 • 7h ago
 
 ---
 
