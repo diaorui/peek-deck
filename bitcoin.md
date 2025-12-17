@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T22:40:38.900027+00:00'
+updated: '2025-12-17T22:53:49.345916+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 22:40 UTC  
+**Last Updated:** December 17, 2025 at 22:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,25 +46,25 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -1.7%  
 **7d:** -7.0%  
-**30d:** -7.3%  
+**30d:** -7.4%  
 **90d:** -25.5%  
-**1y:** -14.3%  
+**1y:** -14.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1717.69B
+**Market Cap:** $1720.53B
 Rank #1
 
-**Circulating Supply:** 19,963,465 BTC
+**Circulating Supply:** 19,963,478 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.8%
+-31.6%
 
 **All-Time Low:** $67.81
-+126794.3%
++126996.3%
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -123,11 +123,19 @@ Medium term holder 5+ years. I'm seeing so many posts with folks showing technic
 
 ---
 
+**[Who’s buying the Dip](https://www.reddit.com/r/Bitcoin/comments/1pp68do/whos_buying_the_dip/)**
+
+Dca time!! Dont buy at 130k!
+
+3h ago
+
+---
+
 **[It’s been two months… relaxxx](https://www.reddit.com/r/Bitcoin/comments/1pp7qp8/its_been_two_months_relaxxx/)**
 
 Everyone needs to chill and stack sats
 
-1h ago
+2h ago
 
 ---
 
@@ -136,14 +144,6 @@ Everyone needs to chill and stack sats
 Tippity top of the daily mountain range
 
 4h ago
-
----
-
-**[Who’s buying the Dip](https://www.reddit.com/r/Bitcoin/comments/1pp68do/whos_buying_the_dip/)**
-
-Dca time!! Dont buy at 130k!
-
-2h ago
 
 ---
 
@@ -159,7 +159,21 @@ CoinDesk • 3h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqeaAhQeypneBCIjBnW93ZVnt_zpT__W9yLQcGJkV5zqJxE_rY15mvy7&gaa_ts=69432f42&gaa_sig=oGi3S42uC37pJAlfYzRKXzTcEjryaV6d8XrrPzQNtI2Riwy7gy9Lc1Z_ougOLwOrrizMFE0-_MjbCdAlyCREKg%3D%3D)**
+**[Will Bitcoin Hit $200,000 in 2026?](https://www.fool.com/investing/2025/12/17/will-bitcoin-hit-200000-in-2026/)**
+
+Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
+
+The Motley Fool • 4h ago
+
+---
+
+**[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
+
+The Block • 11h ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfyaqhDBAk3Vshlm7uw64_l8U9yoUsfb0-FlSN5MTpIFBSOsR8A9oq-&gaa_ts=694337e4&gaa_sig=mGW06G4WSwuvB-Fh4v6ax0O6AmILy-YuquZfe-hTPnHhAt7brpOWWBW2HnJRvtNbuoCf5BifX6wdWR_dJzLHCQ%3D%3D)**
 
 Barron's • 2d ago
 
@@ -179,17 +193,9 @@ Investor's Business Daily • 1h ago
 
 ---
 
-**[Bitcoin hovers at $86,000 as token faces 'lackluster' end of 2025](https://finance.yahoo.com/news/bitcoin-hovers-at-86000-as-token-faces-lackluster-end-of-2025-165535813.html)**
+**[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
 
-Jitters over AI-related stocks and speculation over who will take over Fed Chair Jerome Powell’s position next year may be keeping a lid on bitcoin prices.
-
-Yahoo Finance • 5h ago
-
----
-
-**[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
-
-The Block • 11h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -205,7 +211,7 @@ Financial Times • 2d ago
 
 US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
 
-CryptoSlate • 12h ago
+CryptoSlate • 13h ago
 
 ---
 
@@ -214,12 +220,6 @@ CryptoSlate • 12h ago
 Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
 
 PYMNTS.com • 1d ago
-
----
-
-**[Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026](https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026)**
-
-The Block • 1d ago
 
 ---
 

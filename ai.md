@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T22:40:38.891486+00:00'
+updated: '2025-12-17T22:53:49.337390+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 22:40 UTC  
+**Last Updated:** December 17, 2025 at 22:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 58m ago
+🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 3h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 4h ago
 
 ---
 
@@ -127,11 +127,35 @@ Reuters • 7h ago
 
 ---
 
-**[Stocks close sharply lower as AI angst returns](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866)**
+**[Micron forecasts surging revenue as computer memory demand for AI remains high](https://www.cnbc.com/2025/12/17/micron-q1-earnings-forecast-memory-demand-ai.html)**
 
-The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
+The high demand for memory has driven Micron shares higher and they are up 168% in 2025.
 
-NBC News • 1h ago
+CNBC • 1h ago
+
+---
+
+**[Micron forecasts blowout earnings on booming AI market, shares rise 5.7%](https://finance.yahoo.com/news/chipmaker-micron-forecasts-quarterly-revenue-210411999.html)**
+
+Micron Technology forecast second-quarter adjusted profit at nearly double ​what Wall Street analysts expected on Wednesday, buoyed by ‌soaring prices for memory chips spurred by tight supplies and booming demand ‌from artificial intelligence data centers. Shares of the Boise, Idaho-based company rose 14% in extended trading after the forecast. Micron said it expected adjusted profit of $8.42 per share, plus or minus 20 ⁠cents, versus analyst estimates ‌of $4.78 per share, according to LSEG data.
+
+Yahoo Finance • 28m ago
+
+---
+
+**[Not All AI Stocks Are Falling These Days. Micron Is Rising on Strong Earnings](https://www.investopedia.com/not-all-ai-stocks-are-falling-these-days-micron-is-rising-on-strong-earnings-mu-11871484)**
+
+Micron Technology posted quarterly earnings that topped analysts' estimates, sending shares higher in extended trading Wednesday.
+
+Investopedia • 23m ago
+
+---
+
+**[James Cameron And Sam Worthington On Avatar: Fire And Ash’ And AI](https://deadline.com/2025/12/james-cameron-sam-worthington-avatar-fire-and-ash-1236651511/)**
+
+James Cameron and Sam Worthington discuss their  years-long ‘Avatar’ collaboration, box office and tackling AI: “We need to use it ethically”
+
+Deadline • 41m ago
 
 ---
 
@@ -143,55 +167,31 @@ Financial Times • 5h ago
 
 ---
 
-**[More drops for AI stocks drag Wall Street to its worst day in nearly a month](https://www.latimes.com/business/story/2025-12-17/more-drops-for-ai-stocks-drag-wall-street-to-its-worst-day-in-nearly-month)**
+**[Stocks close sharply lower as AI angst returns](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866)**
 
-More drops for AI stocks dragged the U.S. market to its worst day in nearly a month
+The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
 
-Los Angeles Times • 53m ago
-
----
-
-**[Micron forecasts surging revenue as computer memory demand for AI remains high](https://www.cnbc.com/2025/12/17/micron-q1-earnings-forecast-memory-demand-ai.html)**
-
-The high demand for memory has driven Micron shares higher and they are up 168% in 2025.
-
-CNBC • 54m ago
+NBC News • 1h ago
 
 ---
 
-**[Micron Gives Rosy Sales Forecast After AI Boom Spurs Demand](https://www.bloomberg.com/news/articles/2025-12-17/micron-gives-rosy-sales-forecast-after-ai-boom-spurs-demand)**
+**[AI-Themed Stocks Take More Hits, Sending Nasdaq Lower](https://www.wsj.com/finance/stocks/ai-themed-stocks-take-more-hits-sending-nasdaq-lower-6a1227ad?gaa_at=eafs&gaa_n=AWEtsqfRJT04uXXqKmCCU5jmgDM8rlIr2i4BRibVPpNmV9VyDMmsLLQFTmOG&gaa_ts=694337e2&gaa_sig=1grTVkn10shBgnRC-KhO6UFatwXgCbYLs51pW2qAYiQCHiqnvUPgSVEM_9NjsFEnk8-mYWjKJ2E-8EBcPwhX_A%3D%3D)**
 
-Micron Technology Inc., the largest US maker of computer memory chips, gave an upbeat forecast for the current quarter, a sign that surging demand and supply shortages are allowing the company to charge more for products.
-
-Bloomberg.com • 1h ago
+The Wall Street Journal • 48m ago
 
 ---
 
-**[Micron forecasts surging revenue as computer memory demand for AI remains high](https://www.msn.com/en-us/money/markets/micron-forecasts-surging-revenue-as-computer-memory-demand-for-ai-remains-high/ar-AA1Sy4Pt?ocid=finance-verthp-feeds)**
+**[Amazon AI chief Rohit Prasad leaving; Infrastructure exec Peter DeSantis to lead unified AI group](https://www.geekwire.com/2025/amazon-ai-chief-rohit-prasad-leaving-infrastructure-exec-peter-desantis-to-lead-unified-ai-group/)**
 
-MSN • 40m ago
-
----
-
-**[Musk predicts AI will create 'universal high income' and make saving money unnecessary](https://www.foxbusiness.com/economy/musk-predicts-ai-create-universal-high-income-make-saving-money-unnecessary)**
-
-Elon Musk dismisses Trump savings accounts, claiming AI will create "universal high income" and eliminate poverty, making saving unnecessary.
-
-Fox Business • 1h ago
+GeekWire • 5h ago
 
 ---
 
-**[Spotting AI in your feeds](https://www.npr.org/2025/12/17/nx-s1-5640108/spotting-ai-in-your-feeds)**
+**[Amazon says AI chief Rohit Prasad is leaving, Peter DeSantis to lead 'AGI' group](https://www.cnbc.com/2025/12/17/amazon-ai-chief-prasad-leaving-peter-desantis-agi-group.html)**
 
-Jeremy Carrasco makes videos under the handle @showtoolsai on TikTok, advocating for AI video literacy and pointing out tells you can look for to see if the videos on your feed are AI generated.
+Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving at the end of this year, the company confirmed.
 
-NPR • 59m ago
-
----
-
-**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
-
-The New York Times • 2h ago
+CNBC • 5h ago
 
 ---
 
@@ -201,13 +201,13 @@ The New York Times • 2h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 815 • 💬 245 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 816 • 💬 245 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 786 • 💬 395 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 788 • 💬 397 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -215,7 +215,7 @@ The New York Times • 2h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 587 • 💬 336 • 5h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 622 • 💬 356 • 5h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -223,7 +223,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 582 • 💬 984 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 583 • 💬 986 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -231,7 +231,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 508 • 💬 283 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 513 • 💬 287 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -239,13 +239,13 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 400 • 💬 383 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+⬆️ 401 • 💬 383 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 374 • 💬 316 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 374 • 💬 316 • 2d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -261,7 +261,7 @@ Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 196 • 💬 136 • 14h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 203 • 💬 139 • 14h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -269,7 +269,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 157 • 💬 52 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 158 • 💬 52 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -351,7 +351,7 @@ O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratig
 
 📺 MS NOW
 
-👁️ 16K • 👍 417 • 💬 296 • ⏱️ 14:44 • 8h ago
+👁️ 16K • 👍 417 • 💬 296 • ⏱️ 14:44 • 9h ago
 
 ---
 
@@ -371,7 +371,7 @@ CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
 
 📺 CNBC Television
 
-👁️ 14K • 👍 174 • 💬 151 • ⏱️ 3:16 • 5h ago
+👁️ 14K • 👍 174 • 💬 151 • ⏱️ 3:16 • 6h ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 301 • 1h ago
+⬇️ 10,487 • ❤️ 302 • 1h ago
 
 ---
 
@@ -435,7 +435,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 228 • 16h ago
+⬇️ 0 • ❤️ 228 • 17h ago
 
 ---
 
@@ -447,7 +447,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 226 • 14h ago
+⬇️ 0 • ❤️ 228 • 14h ago
 
 ---
 
@@ -471,7 +471,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 393 • 22h ago
+⬇️ 28,106 • ❤️ 394 • 22h ago
 
 ---
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.2k • 🔱 443 • 6h ago
+⭐ 4.2k • 🔱 443 • 7h ago
 
 ---
 
@@ -683,7 +683,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.3k • 🔱 100 • 5h ago
+⭐ 1.3k • 🔱 100 • 6h ago
 
 ---
 
@@ -693,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 39m ago
+⭐ 1.1k • 🔱 138 • 52m ago
 
 ---
 

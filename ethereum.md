@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T22:40:38.906074+00:00'
+updated: '2025-12-17T22:53:49.351900+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 22:40 UTC  
+**Last Updated:** December 17, 2025 at 22:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.6%  
-**7d:** -12.6%  
-**30d:** -9.5%  
-**90d:** -36.7%  
-**1y:** -22.1%  
+**24h:** -4.5%  
+**7d:** -12.5%  
+**30d:** -9.4%  
+**90d:** -36.6%  
+**1y:** -22.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $339.85B
+**Market Cap:** $341.15B
 Rank #2
 
 **Circulating Supply:** 120,695,077 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.9%
+-42.8%
 
 **All-Time Low:** $0.43
-+652116.4%
++653370.5%
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdrbfst8f9kgDNPdRJB7Q6yBsIhn47ptgB40J9c7S1U2bNbXcnjP2cA&gaa_ts=69432f44&gaa_sig=6EVbpbDfToketUmDXZgWntjXjzxkxdMSEsDEzmySNnIKdN4NwYz-S41B0InROFYISYg2snJRthSh7JYH2eAxTQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqetrwuVrjqid63M-m7fuTUd5P_boREUleKO4bfjbzLrOIezJn7q-I3_&gaa_ts=694337e5&gaa_sig=uacO9Feiq2Hq3ayl5rJ7IMm5CnnQkFy6iYiZ7x8w2kVW5A8_BMtyHXVmR9tEULmbjvUov9UG-mlHt4aNxoKqXg%3D%3D)**
 
 Barron's • 1d ago
 
@@ -152,15 +152,15 @@ Barron's • 1d ago
 
 Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
 
-Finance Magnates • 7h ago
+Finance Magnates • 8h ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or XRP?](https://www.fool.com/investing/2025/12/14/better-buy-in-2026-cryptocurrency-or-cryptocurrenc/)**
+**[Ripple News: RLUSD Stablecoin to Go Multichain, Expanding Beyond Ethereum, XRP Ledger](https://www.coindesk.com/tech/2025/12/15/ripple-expands-usd1-3b-rlusd-stablecoin-to-ethereum-l2s-via-wormhole-in-multichain-push)**
 
-If Wall Street continues to adopt blockchain technology, both Ethereum and XRP could soar in price.
+Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.
 
-The Motley Fool • 3d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -192,25 +192,27 @@ The Block • 9h ago
 
 ---
 
-**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://finance.yahoo.com/news/tom-lees-bitmine-keeps-buying-154149939.html)**
+**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
 
-Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
+Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
 
-Yahoo Finance • 2d ago
-
----
-
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 1d ago
+ts2.tech • 1h ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-cathie-wood-buys-the-dip-as-bitmine-pushes-toward-5-of-ethereum-supply/)**
+**[Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk](https://decrypt.co/352533/bitcoin-ethereum-etfs-shed-582m-in-a-day-as-institutions-trim-risk)**
 
-BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply - TechStock²
+U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
 
-ts2.tech • 1d ago
+Decrypt • 1d ago
+
+---
+
+**[Ethereum Sell-Off: BlackRock Leads $224M Crypto ETF Outflows as ETH Price Drop Deepens](https://www.livebitcoinnews.com/ethereum-sell-off-blackrock-leads-224m-crypto-etf-outflows-as-eth-price-drop-deepens/)**
+
+BlackRock crypto moves are dominating Ethereum ETF trends. Here’s the latest Ethereum sell-off and why the price is locked in a tight range
+
+Live Bitcoin News • 6h ago
 
 ---
 
@@ -264,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 106 • 💬 5 • ⏱️ 4:45 • 6h ago
+👁️ 2K • 👍 106 • 💬 5 • ⏱️ 4:45 • 7h ago
 
 ---
 
@@ -302,7 +304,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Nick Ford
 
-👁️ 650 • 👍 5 • 💬 2 • ⏱️ 1:54 • 16h ago
+👁️ 650 • 👍 5 • 💬 2 • ⏱️ 1:54 • 17h ago
 
 ---
 
