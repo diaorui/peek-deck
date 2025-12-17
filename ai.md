@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T09:37:15.590656+00:00'
+updated: '2025-12-17T09:54:35.427666+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 09:37 UTC  
+**Last Updated:** December 17, 2025 at 09:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-16h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 15h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 16h ago
 
 ---
 
@@ -139,13 +139,13 @@ newsroom.churchofjesuschrist.org • 17h ago
 
 Warren Buffett's Berkshire Hathaway bought stock in Google-parent Alphabet during the third quarter.
 
-Yahoo Finance • 47m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[With freebies, OpenAI, Google vie for Indian users and training data](https://www.reuters.com/world/india/with-freebies-openai-google-vie-indian-users-training-data-2025-12-17/)**
 
-Reuters • 18m ago
+Reuters • 36m ago
 
 ---
 
@@ -265,7 +265,7 @@ In 1950, while discussing the recent wave of flying saucer reports over lunch wi
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 147 • 💬 50 • 23h ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 147 • 💬 50 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -337,7 +337,7 @@ This image shows an advanced AI-powered farming robot harvesting ripe tomatoes w
 
 📺 Neural Fantasy
 
-👁️ 12K • ⏱️ 0:07 • 1h ago
+👁️ 12K • ⏱️ 0:07 • 2h ago
 
 ---
 
@@ -465,7 +465,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 223 • 3h ago
+⬇️ 0 • ❤️ 223 • 4h ago
 
 ---
 
@@ -515,7 +515,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 4 • 💬 2 • ⭐ 782 • 6d ago
+▲ 5 • 💬 2 • ⭐ 782 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -621,7 +621,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 This survey provides an updated overview of agent memory research, distinguishing its forms, functions, and dynamics, and highlights emerging research directions.
 
-▲ 76 • 💬 2 • ⭐ 178 • 1d ago
+▲ 78 • 💬 2 • ⭐ 178 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.13564) • [💻 code](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
 
@@ -637,7 +637,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 16.8k • 🔱 2.6k • 1d ago
+⭐ 16.9k • 🔱 2.6k • 29m ago
 
 ---
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.1k • 🔱 437 • 19h ago
+⭐ 4.1k • 🔱 438 • 19h ago
 
 ---
 
@@ -677,7 +677,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 11h ago
+⭐ 1.1k • 🔱 138 • 12h ago
 
 ---
 
@@ -688,6 +688,16 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 `Python`
 
 ⭐ 1.1k • 🔱 219 • 17d ago
+
+---
+
+**[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)**
+
+ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
+
+`TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
+
+⭐ 910 • 🔱 79 • 4h ago
 
 ---
 
@@ -711,23 +721,13 @@ Open Source Semantic Search for your AI Agent
 
 ---
 
-**[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)**
-
-ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
-
-`TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
-
-⭐ 858 • 🔱 76 • 4h ago
-
----
-
 **[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
 
 一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
 
 `JavaScript`
 
-⭐ 776 • 🔱 122 • 1d ago
+⭐ 777 • 🔱 122 • 1d ago
 
 ---
 

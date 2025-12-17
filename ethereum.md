@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-17T09:37:15.605196+00:00'
+updated: '2025-12-17T09:54:35.442822+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 09:37 UTC  
+**Last Updated:** December 17, 2025 at 09:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum’s Vitalik Calls Out Elon: Free Speech Is Doomed](https://www.reddit.com/r/ethereum/comments/1po2hui/ethereums_vitalik_calls_out_elon_free_speech_is/)**
 
-🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 19h ago
+🔗 [dailycoin.com](https://dailycoin.com/ethereums-vitalik-calls-out-elon-free-speech-is-doomed/) • 20h ago
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Question about a header-only verification model for light clients](https://www.reddit.com/r/ethereum/comments/1po8gbl/question_about_a_headeronly_verification_model/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -150,7 +150,7 @@ Echidna 2.3.0 introduces symbolic execution capabilities to complement tradition
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfPdE6vMK3rqOWKi0WcHqaXM-nOmynQxmtodS6tYPJHzJOkd_pDQHZU&gaa_ts=69427d3a&gaa_sig=Dyc8RZh5q04oyMT_dJ51dRUclRexAA4_Ninrtq-oDePNFdbTqu4BH_ZGMBhKy9ATAzbSjY1KjeoZsBVVOsdNYA%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
@@ -228,7 +228,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 2K • 💬 47 • ⏱️ 7:49 • 21h ago
+👁️ 18K • 👍 2K • 💬 47 • ⏱️ 7:49 • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 160 • 💬 33 • ⏱️ 8:42 • 20h ago
+👁️ 3K • 👍 160 • 💬 33 • ⏱️ 8:42 • 21h ago
 
 ---
 
@@ -256,7 +256,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Nick Ford
 
-👁️ 195 • 👍 1 • ⏱️ 1:54 • 3h ago
+👁️ 195 • 👍 1 • ⏱️ 1:54 • 4h ago
 
 ---
 

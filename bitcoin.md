@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T09:37:15.599119+00:00'
+updated: '2025-12-17T09:54:35.436519+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 09:37 UTC  
+**Last Updated:** December 17, 2025 at 09:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -6.7%  
-**30d:** -7.1%  
-**90d:** -25.3%  
-**1y:** -14.1%  
+**24h:** -0.4%  
+**7d:** -6.6%  
+**30d:** -6.9%  
+**90d:** -25.2%  
+**1y:** -14.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 I was genuinely surprised and shocked to see this, especially since our country is low-income and very slow when it comes to new technologies. Nice to see things are moving forward. P.S. Bosnia and Herzegovina, Europe
 
-48m ago
+1h ago
 
 ---
 
@@ -127,7 +127,7 @@ There’s been a lot of talk and movement recently. Interested in hearing differ
 
 In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
-16h ago
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ You don’t understand Bitcoin. And that’s okay — most people still don’t.
 
 25yo, been dca’ing into btc since about 2022 and today I finally made it to 0.1. Road to 0.2 begins. 💎💎💎
 
-14h ago
+15h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 3h ago
 Bitcoin fell as the latest U.S. jobs data weren't soft enough to materially alter interest-rate cut expectations for the Federal Reserve.
 The data Tuesday showed the unemployment rate rose to 4.6% in November, above expectations and the highest level in more than four years. However, nonfarm payrol
 
-Barron's • 45m ago
+Barron's • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ Barron's • 45m ago
 
 The 10,000 BTC will generate yields for GMC's growth while being held long-term, with Bhutan ruling out selling the reserves.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -186,7 +186,7 @@ Financial Times • 2d ago
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 11h ago
+thestreet.com • 12h ago
 
 ---
 
@@ -268,7 +268,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 23h ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 1d ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -302,7 +302,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 188 • ⏱️ 9:01 • 10h ago
+👁️ 35K • 👍 2K • 💬 188 • ⏱️ 9:01 • 11h ago
 
 ---
 
@@ -352,7 +352,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 2K • 💬 47 • ⏱️ 7:49 • 21h ago
+👁️ 18K • 👍 2K • 💬 47 • ⏱️ 7:49 • 22h ago
 
 ---
 
@@ -382,7 +382,7 @@ Download Raoul Pal's 5-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 15K • 👍 690 • 💬 29 • ⏱️ 1:52 • 11h ago
+👁️ 15K • 👍 690 • 💬 29 • ⏱️ 1:52 • 12h ago
 
 ---
 
@@ -392,7 +392,7 @@ A new wealth class is forming, and it's made up of Bitcoiners. Natalie Brunell s
 
 📺 Natalie Brunell
 
-👁️ 10K • 👍 475 • 💬 55 • ⏱️ 57:23 • 18h ago
+👁️ 10K • 👍 475 • 💬 55 • ⏱️ 57:23 • 19h ago
 
 ---
 
