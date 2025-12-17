@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-17T11:56:10.715881+00:00'
+updated: '2025-12-17T12:52:56.556863+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 17, 2025 at 11:56 UTC  
+**Last Updated:** December 17, 2025 at 12:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,117.89
+### $86,903.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
+**24h:** +0.6%  
 **7d:** -6.0%  
-**30d:** -6.4%  
-**90d:** -24.8%  
-**1y:** -13.5%  
+**30d:** -6.3%  
+**90d:** -24.7%  
+**1y:** -13.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1733.79B
+**Market Cap:** $1734.06B
 Rank #1
 
 **Circulating Supply:** 19,963,293 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.1%
+-31.0%
 
 **All-Time Low:** $67.81
-+127990.3%
++128133.3%
 
 ---
 
@@ -79,47 +79,25 @@ Rank #1
 
 **[Make it make sense](https://www.reddit.com/r/Bitcoin/comments/1ponle9/make_it_make_sense/)**
 
-7h ago
+8h ago
 
 ---
 
 **[You what?](https://www.reddit.com/r/Bitcoin/comments/1ponc2a/you_what/)**
 
-7h ago
+8h ago
+
+---
+
+**[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
+
+1h ago
 
 ---
 
 **[Here we go again](https://www.reddit.com/r/Bitcoin/comments/1po1k9p/here_we_go_again/)**
 
-22h ago
-
----
-
-**[In my hometown, couple of days ago.](https://www.reddit.com/r/Bitcoin/comments/1porpmp/in_my_hometown_couple_of_days_ago/)**
-
-I was genuinely surprised and shocked to see this, especially since our country is low-income and very slow when it comes to new technologies. Nice to see things are moving forward. P.S. Bosnia and Herzegovina, Europe
-
-3h ago
-
----
-
-**[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
-
-14h ago
-
----
-
-**[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
-
-6h ago
-
----
-
-**[For those who yell manipulation all the time](https://www.reddit.com/r/Bitcoin/comments/1poqqb0/for_those_who_yell_manipulation_all_the_time/)**
-
-You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
-
-4h ago
+23h ago
 
 ---
 
@@ -127,21 +105,41 @@ You don’t understand Bitcoin. And that’s okay — most people still don’t.
 
 Just keep hodling and don't trust the news
 
-1h ago
+2h ago
+
+---
+
+**[In my hometown, couple of days ago.](https://www.reddit.com/r/Bitcoin/comments/1porpmp/in_my_hometown_couple_of_days_ago/)**
+
+I was genuinely surprised and shocked to see this, especially since our country is low-income and very slow when it comes to new technologies. Nice to see things are moving forward. P.S. Bosnia and Herzegovina, Europe
+
+4h ago
+
+---
+
+**[When BITCOIN dips to 86k, but you have been HODL since its was pizza](https://www.reddit.com/r/Bitcoin/comments/1ponxff/when_bitcoin_dips_to_86k_but_you_have_been_hodl/)**
+
+7h ago
+
+---
+
+**[Something big is coming!!!](https://www.reddit.com/r/Bitcoin/comments/1poe4oq/something_big_is_coming/)**
+
+15h ago
+
+---
+
+**[For those who yell manipulation all the time](https://www.reddit.com/r/Bitcoin/comments/1poqqb0/for_those_who_yell_manipulation_all_the_time/)**
+
+You don’t understand Bitcoin. And that’s okay — most people still don’t. “Manipulation” only works if they actually have the Bitcoin to manipulate with. Here’s the part everyone keeps missing: We are running out of Bitcoin. Limited supply. Hard cap. No printing. 95% already mined. Let that sink in. Every dip? Someone stronger is stacking it from weak hands. They can play games for now. They can shake price for now. But every manipulation costs them Bitcoin — and they don’t get infinite chances. There is no more Bitcoin coming. No CEO. No bailout. No “we’ll just mint more.” So stop staring at the USD price every 5 minutes. Stop asking “is now a good entry?” Just stack. And stop caring how much 1 BTC is “worth” today. If you want to get rich tomorrow, go gamble. Memecoins. Leverage. Casino behavior. Bitcoin is not gambling. Bitcoin is patience weaponized. The supply doesn’t care about your feelings.
+
+5h ago
 
 ---
 
 **[BTC will break $150K soon, I believe!!!!](https://www.reddit.com/r/Bitcoin/comments/1po7ya6/btc_will_break_150k_soon_i_believe/)**
 
 There’s been a lot of talk and movement recently. Interested in hearing different perspectives, bullish or not.
-
-18h ago
-
----
-
-**[2013 → 2024: The same person, the same Bitcoin, completely different life milestones.](https://www.reddit.com/r/Bitcoin/comments/1po6uf3/2013_2024_the_same_person_the_same_bitcoin/)**
-
-In 2013, he stood in front of the screen, looking at the 189 bitcoins in his account. Back then, the price was just a fluctuating number; nobody knew where it would end up. 2024, the same person stood in front of the screen, pointing to bitcoins at $100,000 each. This was no longer just a price; it was the result of time, patience, and faith. If you went back to 2013, faced with this choice, would you hold on or sell?
 
 19h ago
 
@@ -151,63 +149,23 @@ In 2013, he stood in front of the screen, looking at the 189 bitcoins in his acc
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdHh97JlkH3fiJykvpOf0GL0srQ16dhGdZWJZJGh4S8u0S_fLZoilVV&gaa_ts=69429b2e&gaa_sig=vHhRR2VFBzVB7yUFxTiA5VG4gMltfYZSj_Mn1aM_8EMrqSjtS9MuBbp1U8BpeWUqMQVjFT-9RBXLlu9krMnl9w%3D%3D)**
-
-Barron's • 14h ago
-
----
-
 **[BTC, ETH, ADA Price News: Bitcoin slides with ether and XRP as market tests $3 trillion floor](https://www.coindesk.com/markets/2025/12/17/bitcoin-slides-with-ether-and-xrp-as-market-tests-usd3t-floor)**
 
 Crypto markets continued to decline, with overall capitalization falling below $3 trillion for the third time in a month.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
-**[How a stronger Chinese yuan (CNY) could lift bitcoin (BTC)](https://www.coindesk.com/markets/2025/12/17/how-strengthening-chinese-yuan-can-affect-bitcoin)**
+**[Crypto investors show caution, shift to new strategies after crash](https://www.reuters.com/business/finance/crypto-investors-show-caution-shift-new-strategies-after-crash-2025-12-17/)**
 
-The yuan has rise to its highest in over two months against the dollar.
-
-CoinDesk • 28m ago
-
----
-
-**[This Bitcoin Decline Is Not Like the Others](https://www.bloomberg.com/news/newsletters/2025-12-17/this-bitcoin-decline-is-not-like-the-others)**
-
-Bitcoin has decoupled from stocks, despite an abundance of would-be catalysts.
-
-Bloomberg.com • 32m ago
-
----
-
-**[Bitcoin to Be ‘Hardened’ by Quantum Computing, Says Michael Saylor — Warnings Surge](https://finance.yahoo.com/news/bitcoin-hardened-quantum-computing-says-102215072.html)**
-
-Michael Saylor argues that quantum computing would ultimately strengthen Bitcoin. On-chain analysts say Bitcoin is not facing an existential threat from quantum computing. Grayscale expects ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole](https://www.tradingview.com/news/cointelegraph:8b4424dd2094b:0-bitcoin-could-go-sub-50k-if-quantum-isn-t-solved-by-2028-capriole/)**
-
-Charles Edwards, the founder of quantitative Bitcoin and digital asset fund Capriole, warns that Bitcoin could head well under $50,000 if it isn’t quantum-resistant by 2028.Quantum computing’s potential threat to the crypto industry has long been debated and is considered an upcoming inflection poi…
-
-TradingView — Track All Markets • 5h ago
-
----
-
-**[Zero-Knowledge Tech Is the Key to Quantum-Proofing Bitcoin](https://www.coindesk.com/opinion/2025/12/16/zero-knowledge-tech-is-the-key-to-quantum-proofing-bitcoin)**
-
-We can quibble over the exact timeline, but the quantum future is an approaching certainty, argues Arpa Network CEO Felix Xu. The time to act is now, while we still can.
-
-CoinDesk • 15h ago
+Reuters • 1h ago
 
 ---
 
 **[Popular Bitcoin company receives Nasdaq delisting notice](https://www.thestreet.com/crypto/trading/popular-bitcoin-company-receives-nasdaq-delisting-notice)**
 
-thestreet.com • 14h ago
+thestreet.com • 15h ago
 
 ---
 
@@ -215,7 +173,7 @@ thestreet.com • 14h ago
 
 KindlyMD has been warned of a potential Nasdaq delisting after shares fell below $1. The Bitcoin treasury company has until June 2026 to regain compliance.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -223,7 +181,43 @@ Yahoo Finance • 13h ago
 
 Bitcoin treasury company Kindly MD has received a Nasdaq notice after its shares traded below the exchange’s $1 minimum bid price for 30 consecutive business days, starting a six-month window to regain compliance or risk being delisted.The notice, which was issued Wednesday, does not immediately af…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
+
+---
+
+**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
+
+Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
+
+Financial Times • 2d ago
+
+---
+
+**[Speed Raises $8 Million to Expand Bitcoin and Stablecoin Payment Solutions](https://www.pymnts.com/news/fintech-investments/2025/speed-raises-8-million-dollars-expand-bitcoin-stablecoin-payment-solutions/)**
+
+Speed raised $8 million to accelerate the growth of its payments solutions built on the Bitcoin Lightning Network. The company will use the new funding to
+
+PYMNTS.com • 15h ago
+
+---
+
+**[Serious 2026 $3 Trillion Crypto ‘Collapse’ Fed Warning Issued—$10,000 Bitcoin Price Predicted As Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2025/12/16/serious-2026-3-trillion-crypto-collapse-fed-warning-issued-10000-bitcoin-price-predicted-as-crash-fears-swirl/)**
+
+The bitcoin price could be teetering on the verge of a massive crash that could wipe out almost all cryptocurrencies...
+
+Forbes • 23h ago
+
+---
+
+**[Michael Saylor's Strategy acquires 10,645 bitcoin for $980 million, bringing total treasury holdings to 671,268 BTC](https://www.theblock.co/post/382490/michael-saylor-strategy-buys-bitcoin-nasdaq-100)**
+
+The Block • 1d ago
+
+---
+
+**[Peter Schiff Warns of Imminent Bitcoin Crash — Says US Headed for ‘Economic Crisis’](https://www.ccn.com/news/crypto/peter-schiff-warns-bitcoin-crash-economic-crisis/)**
+
+CCN.com • 20m ago
 
 ---
 
@@ -279,7 +273,7 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 20h ago
+⬆️ 11 • 💬 3 • 21h ago
 
 ---
 
@@ -293,7 +287,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 3K • 💬 199 • ⏱️ 9:01 • 13h ago
+👁️ 40K • 👍 3K • 💬 199 • ⏱️ 9:01 • 14h ago
 
 ---
 
@@ -303,7 +297,7 @@ In this clip, I talk about the current state of bitcoin as RSI crashes to rare l
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 317 • 💬 101 • ⏱️ 10:50 • 11h ago
+👁️ 6K • 👍 317 • 💬 101 • ⏱️ 10:50 • 12h ago
 
 ---
 
@@ -313,7 +307,7 @@ Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
 
 📺 100XClub
 
-👁️ 3K • 👍 466 • 💬 122 • ⏱️ 10:23 • 3h ago
+👁️ 3K • 👍 466 • 💬 122 • ⏱️ 10:23 • 4h ago
 
 ---
 
@@ -323,7 +317,7 @@ Fidelity just dropped a bombshell: Bitcoin may be entering a decade-long supercy
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 141 • ⏱️ 13:25 • 12h ago
+👁️ 25K • 👍 2K • 💬 141 • ⏱️ 13:25 • 13h ago
 
 ---
 
@@ -333,7 +327,7 @@ Anthony and John Pompliano break down what's really happening in the bitcoin mar
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 700 • 💬 4 • ⏱️ 41:39 • 13h ago
+👁️ 16K • 👍 700 • 💬 4 • ⏱️ 41:39 • 14h ago
 
 ---
 
@@ -343,7 +337,7 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 1K • 💬 227 • ⏱️ 18:36 • 13h ago
+👁️ 34K • 👍 1K • 💬 227 • ⏱️ 18:36 • 14h ago
 
 ---
 
@@ -363,7 +357,7 @@ INDICATOR BUNDLE SALE!   Master Every Market ⬇️SIGN UP NOW! ⬇️ https://c
 
 📺 Crypto Crew University
 
-👁️ 36K • 👍 2K • 💬 166 • ⏱️ 8:22 • 21h ago
+👁️ 36K • 👍 2K • 💬 166 • ⏱️ 8:22 • 22h ago
 
 ---
 
@@ -373,7 +367,7 @@ Crypto looks chaotic on the surface — but underneath, a structural reset is ta
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 11K • 👍 261 • 💬 78 • ⏱️ 9:42 • 9h ago
+👁️ 11K • 👍 261 • 💬 78 • ⏱️ 9:42 • 10h ago
 
 ---
 
@@ -383,7 +377,7 @@ BloFin: https://themoon.co/blofindepositreward Deposit to Get 20% Futures Bonus 
 
 📺 The Moon Show
 
-👁️ 9K • 👍 543 • 💬 70 • ⏱️ 5:03 • 23h ago
+👁️ 9K • 👍 543 • 💬 70 • ⏱️ 5:03 • 1d ago
 
 ---
 

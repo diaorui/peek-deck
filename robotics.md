@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-17T11:56:10.725151+00:00'
+updated: '2025-12-17T12:52:56.566906+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 17, 2025 at 11:56 UTC  
+**Last Updated:** December 17, 2025 at 12:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 I’m working on like a platform that carries a robotic arm mounted on it that can move around, detect objects and transport them short distances like from one room to another. I’ve made the design and controlled it using a ps4 controller and an esp32 and that works well. I’m trying to make it autonomous now so i’ve started learning the basics of SLAM. Now my problem is i can’t afford the expensive sensors that one might need for this like a LiDAR so i’m using an iphone 12 pro which has a LiDAR and other sensors like IMU built in. Do you guys think that the iphone ARkit is sufficient for to run SLAM? I’ve heard that it can’t be relied on for precise odometry and is very prone to drift.
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’m working on like a platform that carries a robotic arm mounted on it that c
 
 I recently made this prototype of a self-balancing wheel provided with robotic manipulators. The wheel itself and the mechanism of the manipulators are applied for patents. I hope you like it.
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ I recently made this prototype of a self-balancing wheel provided with robotic m
 
 Hello, my experience is only from R&D setups. For deploying a robot, what do people normally do? Do they use Jetson Nano/Orin/Thor to run the AI processes? One of my seniors said they still use the PC for deployment to make the AI processes run. Isn't it too big to add the PC to your sellable product just to run the AI processes? Is this an industrial practice?
 
-4h ago
+5h ago
 
 ---
 
@@ -100,11 +100,9 @@ Robotics company 1X plans to roll out up to 10,000 humanoid robots across around
 
 ---
 
-**[Should I learn to use Linux when building the SO-ARM101?](https://www.reddit.com/r/robotics/comments/1po3vt1/should_i_learn_to_use_linux_when_building_the/)**
+**[If you want to buy a robot like the one in the video,please contact me](https://www.reddit.com/r/robotics/comments/1pov2zt/if_you_want_to_buy_a_robot_like_the_one_in_the/)**
 
-I just ordered all of the parts and finished 3D printing all of the components. While I wait for things to come in I was looking through the instructions and it seems like the build is geared towards Linux users? Should I convert my laptop from windows 11 to Linux (probably Ubuntu?) for this? Do I have to or will it make it easier when building it? I plan on building more robots in the future so should I just bite the bullet and move forward with it? Thanks for the help!
-
-21h ago
+36m ago
 
 ---
 
@@ -130,15 +128,23 @@ Interesting Engineering • 1d ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 25m ago
+CNN • 1h ago
 
 ---
 
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
 
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+They make robot vacuums, lots of them
 
-Los Angeles Times • 56m ago
+The Verge • 2d ago
+
+---
+
+**[iRobot’s Cofounder Weighs In on Company’s Bankruptcy](https://spectrum.ieee.org/irobot-bankruptcy-colin-angle-amazon)**
+
+iRobot's assets are now in the hands of a Chinese partner. What does this mean for the future of home robotics?
+
+IEEE Spectrum • 16h ago
 
 ---
 
@@ -146,7 +152,7 @@ Los Angeles Times • 56m ago
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-NASA (.gov) • 13h ago
+NASA (.gov) • 14h ago
 
 ---
 
@@ -154,7 +160,7 @@ NASA (.gov) • 13h ago
 
 Three potentially underrated robotics stocks—Stereotaxis, Knightscope, and PROCEPT BioRobotics—could be ones to keep an eye on in 2026.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -168,7 +174,7 @@ The Republic News • 1d ago
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -177,14 +183,6 @@ Fortune • 21h ago
 Japan’s university system has long centred on engineering faculties led by manufacturing, resulting in a relative shortage of AI talent.
 
 South China Morning Post • 3d ago
-
----
-
-**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
-
-They make robot vacuums, lots of them
-
-The Verge • 2d ago
 
 ---
 
@@ -216,7 +214,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 AI . Robot
 
-👁️ 83K • 👍 882 • 💬 14 • ⏱️ 0:13 • 23h ago
+👁️ 83K • 👍 882 • 💬 14 • ⏱️ 0:13 • 1d ago
 
 ---
 
@@ -226,7 +224,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 15K • 👍 2K • 💬 45 • ⏱️ 1:38 • 19h ago
+👁️ 15K • 👍 2K • 💬 45 • ⏱️ 1:38 • 20h ago
 
 ---
 
@@ -244,7 +242,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 AI . Robot
 
-👁️ 411K • 👍 4K • 💬 41 • ⏱️ 0:21 • 2d ago
+👁️ 411K • 👍 4K • 💬 41 • ⏱️ 0:21 • 3d ago
 
 ---
 
@@ -254,7 +252,7 @@ Would you let an AI robot girl choose you, or would you walk away? Be honest. DI
 
 📺 SYN:THETIC_BLOOD
 
-👁️ 52K • 👍 1K • 💬 55 • ⏱️ 0:32 • 21h ago
+👁️ 52K • 👍 1K • 💬 55 • ⏱️ 0:32 • 22h ago
 
 ---
 

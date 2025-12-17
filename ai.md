@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-17T11:56:10.707485+00:00'
+updated: '2025-12-17T12:52:56.547694+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 17, 2025 at 11:56 UTC  
+**Last Updated:** December 17, 2025 at 12:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Gordon-Levitt said that, without establishing the principle that a person's digital work belongs to them, the industry is heading down a "pretty dystopian road."
 
-🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 15h ago
+🔗 [Fortune](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) • 16h ago
 
 ---
 
@@ -49,7 +49,7 @@ Gordon-Levitt said that, without establishing the principle that a person's digi
 
 Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifying the bystander who disarmed an attacker.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 18h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/grok-chatbot-spreads-wrong-details) • 19h ago
 
 ---
 
@@ -57,7 +57,15 @@ Grok spread false claims about the Bondi Beach shooting, repeatedly misidentifyi
 
 I am not someone building AI tools, just a regular user, and 2025 is the first year I really felt AI slip into everyday life. Writing, searching, learning, even thinking through problems feels different now. Not better or worse, just different. As we move into 2026, how has AI personally changed the way you work, learn, or make decisions?
 
-19h ago
+20h ago
+
+---
+
+**[AI Fatigue?](https://www.reddit.com/r/artificial/comments/1pov0h0/ai_fatigue/)**
+
+I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
+
+40m ago
 
 ---
 
@@ -65,7 +73,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 “We’re bringing a new kind of sentience into existence,” Anthropic's Jason Clinton said after launching the bot.
 
-🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 20h ago
+🔗 [404 Media](https://www.404media.co/anthropic-exec-forces-ai-chatbot-on-gay-discord-community-members-flee/) • 21h ago
 
 ---
 
@@ -73,7 +81,7 @@ I am not someone building AI tools, just a regular user, and 2025 is the first y
 
 OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new flagship AI image generation model. It rolls out today.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 15h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-new-chatgpt-images-model-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 16h ago
 
 ---
 
@@ -81,13 +89,13 @@ OpenAI announced a new version of ChatGPT Images on Tuesday, powered by a new fl
 
 Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chambers.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 20h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Mozilla-New-CEO-AI) • 21h ago
 
 ---
 
 **[AI promised a revolution. Companies are still waiting.](https://www.reddit.com/r/artificial/comments/1po8c6o/ai_promised_a_revolution_companies_are_still/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 18h ago
+🔗 [reuters.com](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/) • 19h ago
 
 ---
 
@@ -95,7 +103,7 @@ Mozilla Corporation has named its new CEO in replacing interim CEO Laura Chamber
 
 Between the new US Executive Order 14179 and the EU AI Act, the regulatory "splinternet" is officially here. ​Prompt injection is now the #1 security risk, and global regulators are demanding proof of lineage before granting market access. ​We need to move from static SBOMs to Dynamic AIBOMs. If you can't verify your training data, you can't ship the product. Here’s the architecture breakdown. https://www.linkedin.com/pulse/algorithmic-passport-why-global-ai-markets-demand-collin-hogue-spears-smepc?utm_source=share&utm_medium=member_android&utm_campaign=share_via
 
-3h ago
+4h ago
 
 ---
 
@@ -103,15 +111,7 @@ Between the new US Executive Order 14179 and the EU AI Act, the regulatory "spli
 
 Anthony Enzor-DeMeo is taking charge of one of the internet’s most important — and most complicated — companies.
 
-🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 13h ago
-
----
-
-**[DeepMind: Demis Hassabis On 'The Future Of Intelligence' | Google DeepMind Podcast](https://www.reddit.com/r/artificial/comments/1poc856/deepmind_demis_hassabis_on_the_future_of/)**
-
-Synopsis: In our final episode of the season, Professor Hannah Fry sits down with Google DeepMind Co-founder and CEO Demis Hassabis for their annual check-in. Together, they look beyond the product launches to the scientific and technological questions that will define the next decade. Demis shares his vision for the path to AGI - from solving "root node" problems in fusion energy and material science to the rise of world models and simulations. They also explore what's beyond the frontier and the importance of balancing scientific rigor amid the competitive dynamics of AI advancement. Timestamps: 1 minute, 42 seconds: 2025 progress 5 minutes, 14 seconds: Jagged intelligence 7 minutes, 32 seconds: Mathematical version of AlphaGo? 9 minutes, 30 seconds: Transformative Science vs Prosiac Commercialization 12 minutes, 42 seconds: The Empirical Scaling Laws 17 minutes, 43 seconds: Genie and simulation 25 minutes, 47 seconds: Sparks of recursive self improvement witnessed via evolution in simulation 28 minutes, 26 seconds: The AI "bubble" 31 minutes, 56 seconds: Building ethical AI 34 minutes, 31 seconds: The advent of AGI 44 minutes, 44 seconds: Turing machines 49 minutes, 6 seconds: How it feels to lead the AI race Link to the Full Interview: https://www.youtube.com/watch?v=PqVbypvxDto
-
-15h ago
+🔗 [The Verge](https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo) • 14h ago
 
 ---
 
@@ -123,51 +123,37 @@ Synopsis: In our final episode of the season, Professor Hannah Fry sits down wit
 
 A survey finds that 56% of psychologists are trying out artificial intelligence tools at work, mainly for administrative tasks. A majority also are concerned about harms of AI on patients and society.
 
-NPR • 16h ago
-
----
-
-**[AI promised a revolution. Companies are still waiting.](https://www.reuters.com/business/business-leaders-agree-ai-is-future-they-just-wish-it-worked-right-now-2025-12-16/)**
-
-Reuters • 14h ago
+NPR • 17h ago
 
 ---
 
 **[AI is creating more work, countering the doomers for now](https://www.axios.com/2025/12/17/ai-jobs-market-wages)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
-**[How Workers Will Adapt in the AI Era](https://time.com/7341258/how-workers-will-adapt-in-ai-era/)**
+**[The 2,000-year-old debate that reveals AI’s biggest problem](https://www.vox.com/future-perfect/472545/ai-alignment-superintelligence-meaning-agency-autonomy)**
 
-"Whether AI brings prosperity along with disruption—or only disruption—depends on choices made now."
+Silicon Valley is racing to build a god — without understanding what makes a good one.
 
-Time Magazine • 29m ago
-
----
-
-**[What happens if AI data centres slip the ‘surly bonds of earth’?](https://www.ft.com/content/cc07f853-4f1d-4e69-8bfb-9220175656ab)**
-
-Outsourcing this infrastructure to space comes with a host of problems
-
-Financial Times • 6h ago
+Vox • 52m ago
 
 ---
 
-**[Lewiston votes down AI data center after public outcry](https://www.pressherald.com/2025/12/16/lewiston-votes-down-ai-data-center-project-after-public-outcry/)**
+**[White House AI czar blasts blue states for inserting 'woke ideology' into artificial intelligence](https://www.foxbusiness.com/media/white-house-ai-czar-blasts-blue-states-inserting-woke-ideology-artificial-intelligence)**
 
-One councilor said the data center proposal for Bates Mill No. 3 yielded 'by far' the most public feedback he's received on a single issue.
+Trump AI czar David Sacks slams blue states for inserting 'woke' ideology into AI regulations, taking aim at Colorado's discrimination measures.
 
-The Portland Press Herald • 9h ago
+Fox Business • 28m ago
 
 ---
 
-**[7 reasons Michigan should be wary of DTE/Open AI data center | Opinion](https://www.freep.com/story/opinion/editorials/2025/12/17/detroit-open-ai-michigan-data-center-saline-township-oracle/87740150007/)**
+**[Apple punted on AI this year. Next year will be critical](https://www.cnbc.com/2025/12/17/apple-ai-delay-siri.html)**
 
-The Michigan Public Service Commission is expected to weigh in on special contracts required to build the data center at a Dec. 18 meeting.
+Apple this year delayed its big Siri upgrade to 2026. As the company looks ahead, the pressure is on for the iPhone maker to show investors its AI strategy.
 
-Detroit Free Press • 53m ago
+CNBC • 52m ago
 
 ---
 
@@ -175,7 +161,7 @@ Detroit Free Press • 53m ago
 
 Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -183,13 +169,29 @@ The Guardian • 3h ago
 
 The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
 
-newsroom.churchofjesuschrist.org • 19h ago
+newsroom.churchofjesuschrist.org • 20h ago
 
 ---
 
-**[Review | We asked five AIs to give The Rock hair, draw fingers and delete an ex. Only one was a clear winner.](https://www.washingtonpost.com/technology/interactive/2025/best-ai-image-generator/)**
+**[Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08)**
 
-The Washington Post • 17h ago
+A year of internal disorder, fluctuating priorities and colossal spending at Meta has rattled insiders and investors
+
+Financial Times • 7h ago
+
+---
+
+**[How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom](https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[IBM, AWS veteran says 90% of your employees are stuck in AI's first gear](https://fortune.com/2025/12/16/ibm-aws-veteran-open-machine-ai-expert-allie-k-miller/)**
+
+Using AI as a “teammate” unlocks the true potential of AI productivity, according to Open Machine CEO Allie K. Miller.
+
+Fortune • 16h ago
 
 ---
 
@@ -199,13 +201,13 @@ The Washington Post • 17h ago
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 805 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 806 • 💬 243 • 1d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 662 • 💬 340 • 14h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 680 • 💬 347 • 15h ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -213,7 +215,7 @@ The Washington Post • 17h ago
 
 The technological race among industry giants and the wave of layoffs they have announced has revived the debate about the advisability of taxing automation
 
-⬆️ 580 • 💬 977 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
+⬆️ 581 • 💬 979 • 2d ago • [EL PAÍS English](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html)
 
 ---
 
@@ -221,13 +223,7 @@ The technological race among industry giants and the wave of layoffs they have a
 
 Software ate the world. Agents are going to eat SaaS.
 
-⬆️ 399 • 💬 379 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
-
----
-
-**[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
-
-⬆️ 371 • 💬 312 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 399 • 💬 380 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 ---
 
@@ -235,7 +231,13 @@ Software ate the world. Agents are going to eat SaaS.
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 367 • 💬 213 • 13h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 382 • 💬 224 • 14h ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+
+---
+
+**[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
+
+⬆️ 372 • 💬 313 • 1d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -255,19 +257,19 @@ Some (well-known) consequences of AI automating work
 
 ---
 
-**[The Gorman Paradox: Where Are All the AI-Generated Apps?](https://news.ycombinator.com/item?id=46262545)**
-
-In 1950, while discussing the recent wave of flying saucer reports over lunch with colleagues at Los Alamos National Laboratory in New Mexico, physicist Enrico Fermi asked a simple question. There …
-
-⬆️ 159 • 💬 221 • 2d ago • [Codemanship's Blog](https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/)
-
----
-
 **[ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://news.ycombinator.com/item?id=46286666)**
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 150 • 💬 50 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 154 • 💬 50 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+
+---
+
+**[AI is wiping out entry-level tech jobs, leaving graduates stranded](https://news.ycombinator.com/item?id=46291504)**
+
+Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
+
+⬆️ 125 • 💬 157 • 19h ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -289,7 +291,7 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 144K • 👍 3K • 💬 720 • ⏱️ 14:37 • 20h ago
+👁️ 144K • 👍 3K • 💬 720 • ⏱️ 14:37 • 21h ago
 
 ---
 
@@ -317,7 +319,7 @@ WATCH THE OG:* https://www.youtube.com/watch?v=kX0niftUdmQ *JOIN THE DISCORD SER
 
 📺 7-ElevenZ
 
-👁️ 112K • 👍 4K • 💬 736 • ⏱️ 15:31 • 22h ago
+👁️ 112K • 👍 4K • 💬 736 • ⏱️ 15:31 • 23h ago
 
 ---
 
@@ -365,7 +367,7 @@ LinkedIn editor-in-chief Dan Roth joins TODAY to share his insights on workplace
 
 📺 TODAY
 
-👁️ 4K • 👍 39 • 💬 3 • ⏱️ 5:15 • 18h ago
+👁️ 4K • 👍 39 • 💬 3 • ⏱️ 5:15 • 19h ago
 
 ---
 
@@ -381,7 +383,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,836 • 8d ago
+⬇️ 296,552 • ❤️ 2,838 • 8d ago
 
 ---
 
@@ -393,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 908 • 4d ago
+⬇️ 158,614 • ❤️ 911 • 4d ago
 
 ---
 
@@ -405,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 282 • 1d ago
+⬇️ 10,487 • ❤️ 286 • 1d ago
 
 ---
 
@@ -417,7 +419,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 51,591 • ❤️ 337 • 8d ago
+⬇️ 51,591 • ❤️ 338 • 8d ago
 
 ---
 
@@ -429,7 +431,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 224 • 6h ago
+⬇️ 0 • ❤️ 225 • 7h ago
 
 ---
 
@@ -441,19 +443,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 387 • 11h ago
-
----
-
-**[GLM-4.6V-Flash](https://huggingface.co/zai-org/GLM-4.6V-Flash)**
-
-*Z.ai*
-
-GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, featuring native function calling for vision-driven tool use and interleaved content generation. It excels at multimodal document understanding, frontend replication, and low-latency applications.
-
-`image-text-to-text` `10.3B`
-
-⬇️ 102,395 • ❤️ 467 • 7d ago
+⬇️ 28,106 • ❤️ 388 • 12h ago
 
 ---
 
@@ -465,7 +455,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 195 • 1d ago
+⬇️ 0 • ❤️ 200 • 1d ago
 
 ---
 
@@ -475,7 +465,19 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 197 • 1d ago
+⬇️ 0 • ❤️ 203 • 1d ago
+
+---
+
+**[GLM-4.6V-Flash](https://huggingface.co/zai-org/GLM-4.6V-Flash)**
+
+*Z.ai*
+
+GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, featuring native function calling for vision-driven tool use and interleaved content generation. It excels at multimodal document understanding, frontend replication, and low-latency applications.
+
+`image-text-to-text` `10.3B`
+
+⬇️ 102,395 • ❤️ 468 • 7d ago
 
 ---
 
@@ -487,7 +489,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 189 • 3h ago
+⬇️ 0 • ❤️ 196 • 4h ago
 
 ---
 
@@ -529,7 +531,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 130 • 💬 6 • ⭐ 18,392 • 3mo ago
+▲ 130 • 💬 6 • ⭐ 18,455 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -568,7 +570,7 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 27 • 💬 2 • ⭐ 12,619 • 9d ago
+▲ 29 • 💬 2 • ⭐ 12,619 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -596,7 +598,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 199 • 💬 4 • ⭐ 7,160 • 19d ago
+▲ 200 • 💬 4 • ⭐ 7,160 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -621,7 +623,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 This survey provides an updated overview of agent memory research, distinguishing its forms, functions, and dynamics, and highlights emerging research directions.
 
-▲ 78 • 💬 3 • ⭐ 178 • 1d ago
+▲ 81 • 💬 3 • ⭐ 178 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.13564) • [💻 code](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
 
@@ -637,7 +639,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.0k • 🔱 2.6k • 2h ago
+⭐ 17.0k • 🔱 2.6k • 3h ago
 
 ---
 
@@ -677,7 +679,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 14h ago
+⭐ 1.1k • 🔱 138 • 15h ago
 
 ---
 
@@ -697,7 +699,7 @@ ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · C
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 931 • 🔱 80 • 1h ago
+⭐ 985 • 🔱 84 • 2h ago
 
 ---
 
