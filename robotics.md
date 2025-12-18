@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T05:55:23.994748+00:00'
+updated: '2025-12-18T06:36:03.778096+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 05:55 UTC  
+**Last Updated:** December 18, 2025 at 06:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We spend a lot of time debating AGI and the "Left Shift" in software. But as this video proves, the "Physical Shift" is a much harder engineering problem. This is a perfect example of Moravec’s Paradox: High-level reasoning (coding, writing, math) requires surprisingly little computation. Low-level motor skills (walking, balance, not face-planting) require massive computational power. The Economic Reality Check: While our digital agents are getting smarter by the week, the "Core Economy"—construction, logistics, and elder care—is still bound by physics. We aren't just waiting for better software; we are waiting for better actuators, batteries, and sensor fusion. The Verdict: The "Terminator" future is on hold... at least until the next firmware update. For now, enjoy the bloopers. Robotics #AI #MoravecsParadox #FutureOfWork #Engineering Post link
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ We spend a lot of time debating AGI and the "Left Shift" in software. But as thi
 
 Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
 
-21h ago
+22h ago
 
 ---
 
@@ -60,7 +60,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM Just watched the Boston Dynamics tech talk on The Humanoid Mission in Manufacturing. One slide frames the roadmap as a gradual compression of layers, where classical perception, planning, manipulation, and control are absorbed into more unified end to end models. What stood out to me is that this suggests classical and optimization based control may be progressively replaced rather than simply augmented. Given that direction, is it still worth investing heavily in classical or optimization based control research for handling physics, contact, and stability underneath, or do people expect those responsibilities to eventually be fully learned by VLM or VLA style models? Curious how others here think about this tradeoff, especially in the context of balance and contact heavy manufacturing tasks.
 
-8h ago
+9h ago
 
 ---
 
@@ -88,19 +88,19 @@ PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day a
 
 ---
 
-**[Hunan Handwriting Recreation](https://www.reddit.com/r/robotics/comments/1pp7ekn/hunan_handwriting_recreation/)**
-
-I'm working on a project which aims at recreating the hand motion at the joint level while writing. I've used the SynGrasp hand model so far but I'm having a lot of trouble calculating the q(joint variables) values for each waypoint of the pre defined trajectory. If someone has worked on something similar do you mind giving a helping hand? I read the SynGrasp paper but it's genuinely confusing to animate the hand model for each waypoint. I'm only focusing on the kinematics of the motion.
-
-9h ago
-
----
-
 **[Robot simulation software](https://www.reddit.com/r/robotics/comments/1pp66q2/robot_simulation_software/)**
 
 I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but without actually building the robot. I'm currently trying to put something together with threejs and the jolt physics engine, but I'd have to assume there's probably a better way to do it. If so, what are better ways to simulate a robot? +1 if it can run in a browser
 
 10h ago
+
+---
+
+**[Hunan Handwriting Recreation](https://www.reddit.com/r/robotics/comments/1pp7ekn/hunan_handwriting_recreation/)**
+
+I'm working on a project which aims at recreating the hand motion at the joint level while writing. I've used the SynGrasp hand model so far but I'm having a lot of trouble calculating the q(joint variables) values for each waypoint of the pre defined trajectory. If someone has worked on something similar do you mind giving a helping hand? I read the SynGrasp paper but it's genuinely confusing to animate the hand model for each waypoint. I'm only focusing on the kinematics of the motion.
+
+9h ago
 
 ---
 
@@ -134,7 +134,7 @@ NASA (.gov) • 1d ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Atlantic • 12h ago
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
-TechCrunch • 15h ago
+TechCrunch • 16h ago
 
 ---
 
@@ -170,19 +170,19 @@ Yahoo Finance • 15h ago
 
 ---
 
-**[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
-
-SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
-
-navalnews.com • 20h ago
-
----
-
 **[AMC Robotics: A Low-Float Trade Posing As A Robotics Investment (NASDAQ:AMCI)](https://seekingalpha.com/article/4853719-amc-robotics-a-low-float-trade-posing-as-a-robotics-investment)**
 
 AMC Robotics Corp. surged nearly 170%, driven by speculative trading rather than a clear fundamental catalyst. Learn more about AMCI stock here.
 
 Seeking Alpha • 1d ago
+
+---
+
+**[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
+
+SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
+
+navalnews.com • 21h ago
 
 ---
 
@@ -204,7 +204,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 65K • 👍 936 • 💬 139 • ⏱️ 11:23 • 2d ago
+👁️ 66K • 👍 940 • 💬 140 • ⏱️ 11:23 • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ Thanks to our LMG clips sponsors dbrand, Dell, and Secretlab. You can check them
 
 📺 LMG Clips
 
-👁️ 34K • 👍 1K • 💬 181 • ⏱️ 7:42 • 1d ago
+👁️ 34K • 👍 1K • 💬 184 • ⏱️ 7:42 • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 29K • 👍 720 • 💬 115 • ⏱️ 6:41 • 3d ago
+👁️ 30K • 👍 722 • 💬 115 • ⏱️ 6:41 • 3d ago
 
 ---
 
@@ -234,15 +234,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 20K • 👍 2K • 💬 47 • ⏱️ 1:38 • 1d ago
-
----
-
-**[The Humanoid Robot’s CPU Was Stolen. #robotics #airobot #ai #robot #humanoidrobot](https://www.youtube.com/watch?v=iZ0BlhfU8Bg)**
-
-📺 AI . Robot
-
-👁️ 152K • 👍 1K • 💬 16 • ⏱️ 0:13 • 1d ago
+👁️ 20K • 👍 2K • 💬 48 • ⏱️ 1:38 • 1d ago
 
 ---
 
@@ -250,7 +242,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 AI . Robot
 
-👁️ 466K • 👍 4K • 💬 42 • ⏱️ 0:21 • 3d ago
+👁️ 469K • 👍 4K • 💬 42 • ⏱️ 0:21 • 3d ago
 
 ---
 
@@ -260,7 +252,15 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 376K • 👍 13K • 💬 414 • ⏱️ 0:34 • 3d ago
+👁️ 378K • 👍 13K • 💬 415 • ⏱️ 0:34 • 3d ago
+
+---
+
+**[The Humanoid Robot’s CPU Was Stolen. #robotics #airobot #ai #robot #humanoidrobot](https://www.youtube.com/watch?v=iZ0BlhfU8Bg)**
+
+📺 AI . Robot
+
+👁️ 154K • 👍 1K • 💬 16 • ⏱️ 0:13 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 
 📺 RICHLEV
 
-👁️ 183K • 👍 4K • 💬 1K • ⏱️ 17:05 • 3d ago
+👁️ 184K • 👍 4K • 💬 1K • ⏱️ 17:05 • 3d ago
 
 ---
 
@@ -280,7 +280,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 32K • 👍 311 • 💬 30 • ⏱️ 1:05 • 2d ago
+👁️ 32K • 👍 312 • 💬 30 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -290,7 +290,7 @@ Witness an unexpected moment in robotics! A skilled technician completes a routi
 
 📺 Ai Gen Leap
 
-👁️ 15K • 👍 78 • 💬 1 • ⏱️ 0:12 • 19h ago
+👁️ 17K • 👍 87 • 💬 1 • ⏱️ 0:12 • 20h ago
 
 ---
 

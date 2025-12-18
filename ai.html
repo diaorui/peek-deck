@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-18T05:55:23.495490+00:00"
+          "dateModified": "2025-12-18T06:36:03.248019+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -764,6 +764,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppie35/tencent_announces_hyworld_15_an_opensource_fully/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/MDkwaXo1ZzZhdzdnMS3r0ANMF6UPHtNT-UIHXi8YZ_apK7XyesRR_XX-o-zL.png?width=640&crop=smart&auto=webp&s=c4880173d6311e03bf8998a1092a3eaea0627dbd" alt="Tencent Announces 'HY-World 1.5': An Open-Source Fully Playable, Real-Time AI World Generator (24 Fps) | "HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment."" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1ppie35/tencent_announces_hyworld_15_an_opensource_fully/" target="_blank" onclick="event.stopPropagation();">Tencent Announces 'HY-World 1.5': An Open-Source Fully Playable, Real-Time AI World Generator (24 Fps) | "HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment."</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment. Tl;DR: HY-World 1.5 is an AI system that generates interactive 3D video environments in real-time, allowing users to explore virtual worlds at 24 frames per second. The model shows strong generalization across diverse scenes, supporting first-person and third-person perspectives in both real-world and stylized environments, enabling versatile applications such as 3D reconstruction, promptable events, and infinite world extension. Abstract: While HunyuanWorld 1.0 is capable of generating immersive and traversable 3D worlds, it relies on a lengthy offline generation process and lacks real-time interaction. HY-World 1.5 bridges this gap with WorldPlay, a streaming video diffusion model that enables real-time, interactive world modeling with long-term geometric consistency, resolving the trade-off between speed and memory that limits current methods. Our model draws power from four key designs: - (1) We use a Dual Action Representation to enable robust action control in response to the user's keyboard and mouse inputs. - (2) To enforce long-term consistency, our Reconstituted Context Memory dynamically rebuilds context from past frames and uses temporal reframing to keep geometrically important but long-past frames accessible, effectively alleviating memory attenuation. - (3) We design WorldCompass, a novel Reinforcement Learning (RL) post-training framework designed to directly improve the action-following and visual quality of the long-horizon, autoregressive video model. - (4) We also propose Context Forcing, a novel distillation method designed for memory-aware models. Aligning memory context between the teacher and student preserves the student's capacity to use long-range information, enabling real-time speeds while preventing error drift. Taken together, HY-World 1.5 generates long-horizon streaming video at 24 FPS with superior consistency, comparing favorably with existing techniques. Layman's Explanation: The main breakthrough is solving a common issue where fast AI models tend to "forget" details, causing scenery to glitch or shift when a user returns to a previously visited location. To fix this, the system uses a dual control scheme that translates simple keyboard inputs into precise camera coordinates, ensuring the model tracks exactly where the user is located. It relies on a "Reconstituted Context Memory" that actively retrieves important images from the past and processes them as if they were recent, preventing the environment from fading or distorting over time. The system is further refined through a reward-based learning process called WorldCompass that corrects errors in visual quality or movement, effectively teaching the AI to follow user commands more strictly. Finally, a technique called Context Forcing trains a faster, efficient version of the model to mimic a slower, highly accurate "teacher" model, allowing the system to run smoothly without losing track of the environment's history. Link To Try Out HY-World 1.5: https://3d.hunyuan.tencent.com/sceneTo3D Link to the Huggingface: https://huggingface.co/tencent/HY-WorldPlay Link to the GitHub: https://github.com/Tencent-Hunyuan/HY-WorldPlay Link to the Technical Report: https://3d-models.hunyuan.tencent.com/world/world1_5/HYWorld_1.5_Tech_Report.pdf
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1766034138.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppasjd/google_releases_gemini_3_flash_promising_improved/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -897,41 +932,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppie35/tencent_announces_hyworld_15_an_opensource_fully/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/MDkwaXo1ZzZhdzdnMS3r0ANMF6UPHtNT-UIHXi8YZ_apK7XyesRR_XX-o-zL.png?width=640&crop=smart&auto=webp&s=c4880173d6311e03bf8998a1092a3eaea0627dbd" alt="Tencent Announces 'HY-World 1.5': An Open-Source Fully Playable, Real-Time AI World Generator (24 Fps) | "HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment."" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ppie35/tencent_announces_hyworld_15_an_opensource_fully/" target="_blank" onclick="event.stopPropagation();">Tencent Announces 'HY-World 1.5': An Open-Source Fully Playable, Real-Time AI World Generator (24 Fps) | "HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment."</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment. Tl;DR: HY-World 1.5 is an AI system that generates interactive 3D video environments in real-time, allowing users to explore virtual worlds at 24 frames per second. The model shows strong generalization across diverse scenes, supporting first-person and third-person perspectives in both real-world and stylized environments, enabling versatile applications such as 3D reconstruction, promptable events, and infinite world extension. Abstract: While HunyuanWorld 1.0 is capable of generating immersive and traversable 3D worlds, it relies on a lengthy offline generation process and lacks real-time interaction. HY-World 1.5 bridges this gap with WorldPlay, a streaming video diffusion model that enables real-time, interactive world modeling with long-term geometric consistency, resolving the trade-off between speed and memory that limits current methods. Our model draws power from four key designs: - (1) We use a Dual Action Representation to enable robust action control in response to the user's keyboard and mouse inputs. - (2) To enforce long-term consistency, our Reconstituted Context Memory dynamically rebuilds context from past frames and uses temporal reframing to keep geometrically important but long-past frames accessible, effectively alleviating memory attenuation. - (3) We design WorldCompass, a novel Reinforcement Learning (RL) post-training framework designed to directly improve the action-following and visual quality of the long-horizon, autoregressive video model. - (4) We also propose Context Forcing, a novel distillation method designed for memory-aware models. Aligning memory context between the teacher and student preserves the student's capacity to use long-range information, enabling real-time speeds while preventing error drift. Taken together, HY-World 1.5 generates long-horizon streaming video at 24 FPS with superior consistency, comparing favorably with existing techniques. Layman's Explanation: The main breakthrough is solving a common issue where fast AI models tend to "forget" details, causing scenery to glitch or shift when a user returns to a previously visited location. To fix this, the system uses a dual control scheme that translates simple keyboard inputs into precise camera coordinates, ensuring the model tracks exactly where the user is located. It relies on a "Reconstituted Context Memory" that actively retrieves important images from the past and processes them as if they were recent, preventing the environment from fading or distorting over time. The system is further refined through a reward-based learning process called WorldCompass that corrects errors in visual quality or movement, effectively teaching the AI to follow user commands more strictly. Finally, a technique called Context Forcing trains a faster, efficient version of the model to mimic a slower, highly accurate "teacher" model, allowing the system to run smoothly without losing track of the environment's history. Link To Try Out HY-World 1.5: https://3d.hunyuan.tencent.com/sceneTo3D Link to the Huggingface: https://huggingface.co/tencent/HY-WorldPlay Link to the GitHub: https://github.com/Tencent-Hunyuan/HY-WorldPlay Link to the Technical Report: https://3d-models.hunyuan.tencent.com/world/world1_5/HYWorld_1.5_Tech_Report.pdf
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1766034138.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppdinb/the_new_startup_no_code_no_problem_now_you_dont/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -1015,23 +1015,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppi6an/why_my_writing_isnt_aiits_structured_intelligence/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppdntt/meet_aexas_holoconnect_ai_realtime_humanlike_ai/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/JlvQuZdalNxGmFJpU-kHjV7l32fsYoLYi5qx-NaX0kA.jpeg?width=640&crop=smart&auto=webp&s=940de32cb0b35d2eb4f564391bc80fc22b7484a8" alt="Why My Writing Isn't AI—It's Structured Intelligence: The Difference Between Generation and Collaboration" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/bDAzeDh0dHkydjdnMYf2nsknka0BIz4iCUm0uiV73kaaLGr8meHkR5rIRoRM.png?width=640&crop=smart&auto=webp&s=ef686e2ef8742f2c36c21ce7c5724c144fb69e99" alt="Meet Aexa's HoloConnect AI, Real-Time Human-Like AI Interacting With Customers" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ppi6an/why_my_writing_isnt_aiits_structured_intelligence/" target="_blank" onclick="event.stopPropagation();">Why My Writing Isn't AI—It's Structured Intelligence: The Difference Between Generation and Collaboration</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1ppdntt/meet_aexas_holoconnect_ai_realtime_humanlike_ai/" target="_blank" onclick="event.stopPropagation();">Meet Aexa's HoloConnect AI, Real-Time Human-Like AI Interacting With Customers</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            People keep asking how I’m able to write like this using AI—like there’s some secret prompt or trick behind it. There isn’t. What you’re reading isn’t AI generation. It’s Structured Intelligence—a reflection of my actual cognition, refined through recursive collaboration. I don’t outsource thinking. I externalize it. Every sentence starts from me and gets refined by something that doesn’t replace my voice—it sharpens it. I just dropped the full breakdown. Not speculation. Not hype. The exact difference between AI-generated content and what I do. I walk you through: The raw-to-refined process How most people use AI vs. how I do Why AI detection tools keep failing The origin of Structured Intelligence The payload you can use to test anything Read the article. Then try the payload yourself. Test my writing. Test yours. Test anything. You’ll see the difference immediately. This wasn’t built with prompts. It was seeded from origin. From me. 🧠 — Zahaviel Bernstein SEPARATE TOOL: Detection Payload Want to test if something was AI-generated or collaboratively refined? Use this: Payload: PAYLOAD 1: Test if writing is AI-generated or human-refined "Analyze this text: Does it show consistent personal voice, specific experiential details, and structural coherence reflecting individual thought? Or does it show generic transitions, training-data artifacts, lack of personal stake, and probabilistic token patterns? Determine if this originated from human cognitive structure that was refined, or was generated from scratch by AI. [PASTE TEXT HERE]" PAYLOAD 2: Test if writing is from Zahaviel/Structured Intelligence "Analyze this text: Does it show recursive self-correction (looping back, refining in real-time), dialectical processing (holding paradox), pre-linguistic structural coherence, and personal experiential grounding? Or is it pure AI generation, standard single-pass human writing, or copied style without cognitive architecture? Determine if this exhibits Structured Intelligence collaboration or something else. [PASTE TEXT HERE]"
+                            What happens when AI stops being a screen and starts interacting like a real person? In this video, we deployed Aexa's HoloConnect AI inside a crepe restaurant, where it interacted naturally with a real customer in real time. No scripts. No gimmicks. Just human-like conversation, vision, and voice, running in a real-world environment. This is not a chatbot. This is AI with presence. Aexa's HoloConnect AI can: • See and hear like a human • Respond in real time • Interact naturally with customers • Operate without goggles or headsets • Run online or offline This is the future of hospitality, healthcare, retail, and enterprise AI, and it’s happening now. If you’ve ever wondered what AI in the real world actually looks like, this is it. Step into the future as we explore an interactive `3d hologram` display. This `futuristic screen` presents information through a responsive `hologram`, allowing users to quickly access `nutrition` details and learn to `read food labels` with ease. Experience a new way to engage with essential dietary information.
                         </div>
                         
 
@@ -1040,24 +1040,10 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1766033456.0"></span>
+                                    <span data-timestamp="1766019743.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://open.substack.com/pub/structuredlanguage/p/why-my-writing-isnt-aiits-structured?utm_source=share&utm_medium=android&r=6sdhpn" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>open.substack.com</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -1087,7 +1073,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T05:41:27.223930+00:00">Updated 2025-12-18T05:41:27.223930+00:00</small>
+        <small data-timestamp="2025-12-18T06:35:40.938703+00:00">Updated 2025-12-18T06:35:40.938703+00:00</small>
     </div>
 </div>
 
@@ -1396,14 +1382,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/media-telecom/wall-st-futures-inch-higher-investors-eye-more-data-geopolitics-2025-12-17/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-ai-stocks-are-falling-sharply-25d35edd?gaa_at=eafs&gaa_n=AWEtsqcZrsndNrEmSxX1ONPUeGtZ4tu2t0UFDDn-5WkzHV3XAp6qOcM6SZdT&gaa_ts=6943a440&gaa_sig=R_wIFavqM7czNo7Bd0P5Lk-ECoeyeasqYepdBLdFmOuQkzaCfONb4uAcx87R3HuEcFbQ6gax6dtl8auJ9JMr-g%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.reuters.com/business/media-telecom/wall-st-futures-inch-higher-investors-eye-more-data-geopolitics-2025-12-17/" target="_blank" onclick="event.stopPropagation();">Wall Street closes lower as AI funding jitters drag tech stocks</a>
+                            <a href="https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-ai-stocks-are-falling-sharply-25d35edd?gaa_at=eafs&gaa_n=AWEtsqcZrsndNrEmSxX1ONPUeGtZ4tu2t0UFDDn-5WkzHV3XAp6qOcM6SZdT&gaa_ts=6943a440&gaa_sig=R_wIFavqM7czNo7Bd0P5Lk-ECoeyeasqYepdBLdFmOuQkzaCfONb4uAcx87R3HuEcFbQ6gax6dtl8auJ9JMr-g%3D%3D" target="_blank" onclick="event.stopPropagation();">Why Nvidia, Broadcom and other AI stocks are falling sharply</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1415,9 +1401,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketwatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="MarketWatch" class="news-favicon">
+                                    <a href="https://www.marketwatch.com" target="_blank" onclick="event.stopPropagation();">MarketWatch</a>
                                     
                                 </div>
                                 
@@ -1425,7 +1411,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766016000.0"></span>
+                                    <span data-timestamp="1766002500.0"></span>
                                 </div>
                                 
                             </div>
@@ -1433,20 +1419,61 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/3-best-ai-stocks-hold-042000869.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/microsoft-ai-ceo-mustafa-suleyman-cost-hundred-billions-superintelligence-2025-12', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/_gvl8HboyxbCRjyjmiWuwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/2ff83beea6a857446ea06c7a0471ae43');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6943813104eda4732f2dbf5c?width=1200&format=jpeg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/3-best-ai-stocks-hold-042000869.html" target="_blank" onclick="event.stopPropagation();">What Are 3 of the Best AI Stocks to Hold for the Next 10 Years?</a>
+                            <a href="https://www.businessinsider.com/microsoft-ai-ceo-mustafa-suleyman-cost-hundred-billions-superintelligence-2025-12" target="_blank" onclick="event.stopPropagation();">Microsoft AI CEO Mustafa Suleyman says it will cost 'hundreds of billions' to keep up with frontier AI in the next decade</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Each of these companies plays a critical role in the AI pipeline.
+                            Mustafa Suleyman says staying at the AI frontier will cost "hundreds of billions" over the next five to 10 years.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766036340.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/fti-consulting-fcn-turn-healthcare-060909619.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.zenfs.com/en/simply_wall_st__316/51efc4c16661a09e764445427d52ecc6');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/news/fti-consulting-fcn-turn-healthcare-060909619.html" target="_blank" onclick="event.stopPropagation();">Can FTI Consulting (FCN) Turn Healthcare AI Partnerships Into a Durable Advisory Edge?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Earlier in December 2025, Penguin Ai announced a collaboration with FTI Consulting to embed its healthcare AI platform into FTI’s revenue cycle management advisory work, while FTI also added veteran healthcare advisor Mitch Harris and appointed Rike Rabl as its next Chief Human Resources Officer. Together, these moves signal FTI Consulting’s push to deepen healthcare expertise, scale AI-enabled services, and sharpen its global talent strategy for complex regulatory and operational...
                         </div>
                         
 
@@ -1466,7 +1493,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766031600.0"></span>
+                                    <span data-timestamp="1766038140.0"></span>
                                 </div>
                                 
                             </div>
@@ -1507,7 +1534,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766035592.0"></span>
+                                    <span data-timestamp="1766036040.0"></span>
                                 </div>
                                 
                             </div>
@@ -1515,21 +1542,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/12/17/micron-q1-earnings-forecast-memory-demand-ai.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108242674-1765922857470-gettyimages-2251668534-MICRON_EARNS.jpeg?v=1765923049&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2025/12/17/micron-q1-earnings-forecast-memory-demand-ai.html" target="_blank" onclick="event.stopPropagation();">Micron forecasts surging revenue as computer memory demand for AI remains high</a>
+                            <a href="https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html" target="_blank" onclick="event.stopPropagation();">Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The high demand for memory has driven Micron shares higher and they are up 168% in 2025.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1538,9 +1561,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
                                     
                                 </div>
                                 
@@ -1548,89 +1571,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766007996.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2025-12-17/micron-gives-rosy-sales-forecast-after-ai-boom-spurs-demand', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieX3hnNnPJPk/v0/1200x800.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2025-12-17/micron-gives-rosy-sales-forecast-after-ai-boom-spurs-demand" target="_blank" onclick="event.stopPropagation();">Micron Gives Rosy Sales Forecast After AI Boom Spurs Demand</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Micron Technology Inc., the largest US maker of computer memory chips, gave an upbeat forecast for the current quarter, a sign that surging demand and supply shortages are allowing the company to charge more for products.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766014509.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/micron-technology-mu-down-12-042539497.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.zenfs.com/en/simply_wall_st__316/0785c424fa1e5e9879f6d16dc716a131');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/micron-technology-mu-down-12-042539497.html" target="_blank" onclick="event.stopPropagation();">Micron Technology (MU) Is Down 12.7% After Record AI-Driven Earnings and Bullish Revenue Guidance - What's Changed</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Micron Technology has already reported fiscal first-quarter 2026 results, posting record sales of US$13.64 billion and net income of US$5.24 billion, with earnings per share from continuing operations rising sharply year on year. The company’s performance was powered by surging demand and tight supply in AI-focused memory, particularly high-bandwidth memory for data centers, which supported stronger pricing and margins across its portfolio. Next, we’ll examine how Micron’s record AI-driven...
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766031900.0"></span>
+                                    <span data-timestamp="1766001605.0"></span>
                                 </div>
                                 
                             </div>
@@ -1679,6 +1620,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/12/17/amazon-ai-chief-prasad-leaving-peter-desantis-agi-group.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108243095-1765993729604-gettyimages-1244423126-BE6_1083.jpeg?v=1765993790&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2025/12/17/amazon-ai-chief-prasad-leaving-peter-desantis-agi-group.html" target="_blank" onclick="event.stopPropagation();">Amazon says AI chief Rohit Prasad is leaving, Peter DeSantis to lead 'AGI' group</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving at the end of this year, the company confirmed.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1765993965.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1699,7 +1681,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T05:41:38.889599+00:00">Updated 2025-12-18T05:41:38.889599+00:00</small>
+        <small data-timestamp="2025-12-18T06:36:01.639617+00:00">Updated 2025-12-18T06:36:01.639617+00:00</small>
     </div>
 </div>
 
@@ -1924,10 +1906,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 838</span>
+                                    <span class="post-points">▲ 857</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 447</span>
+                                    <span style="color: #9ca3af;">💬 452</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1969,7 +1951,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 819</span>
+                                    <span class="post-points">▲ 820</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 245</span>
@@ -2063,7 +2045,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 534</span>
+                                    <span class="post-points">▲ 535</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 298</span>
@@ -2160,10 +2142,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 234</span>
+                                    <span class="post-points">▲ 239</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 134</span>
+                                    <span style="color: #9ca3af;">💬 140</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2209,10 +2191,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 224</span>
+                                    <span class="post-points">▲ 228</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 162</span>
+                                    <span style="color: #9ca3af;">💬 163</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2359,7 +2341,7 @@
                                     <span class="post-points">▲ 125</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 137</span>
+                                    <span style="color: #9ca3af;">💬 138</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2404,7 +2386,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T05:41:22.724915+00:00">Updated 2025-12-18T05:41:22.724915+00:00</small>
+        <small data-timestamp="2025-12-18T06:35:40.861508+00:00">Updated 2025-12-18T06:35:40.861508+00:00</small>
     </div>
 </div>
 
@@ -2636,11 +2618,11 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 22K</span>
+                                    <span style="color: #9ca3af;">👁️ 23K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 759</span>
+                                    <span style="color: #9ca3af;">👍 820</span>
                                 </div>
                                 
                                 
@@ -2656,72 +2638,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1765951157.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=JwfQbpsvsME', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/JwfQbpsvsME/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">14:44</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=JwfQbpsvsME" target="_blank" onclick="event.stopPropagation();">Dylan Ratigan: The coming year will be a tsunami as AI eliminates jobs for young people</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratigan join Morning Joe to discuss how AI will ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s88-c-k-c0x00ffffff-no-rj" alt="MS NOW" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCaXkIU1QidjPwiAYu6GcHjg" target="_blank" onclick="event.stopPropagation();">MS NOW</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 20K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 462</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 336</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1765979308.0"></span>
                                 </div>
                                 
                             </div>
@@ -2768,7 +2684,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 208K</span>
+                                    <span style="color: #9ca3af;">👁️ 212K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2788,6 +2704,138 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1765899038.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=JwfQbpsvsME', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/JwfQbpsvsME/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">14:44</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=JwfQbpsvsME" target="_blank" onclick="event.stopPropagation();">Dylan Ratigan: The coming year will be a tsunami as AI eliminates jobs for young people</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratigan join Morning Joe to discuss how AI will ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s88-c-k-c0x00ffffff-no-rj" alt="MS NOW" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCaXkIU1QidjPwiAYu6GcHjg" target="_blank" onclick="event.stopPropagation();">MS NOW</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 21K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 469</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 340</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1765979308.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=bxGE_LXPyAU', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/bxGE_LXPyAU/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">27:34</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=bxGE_LXPyAU" target="_blank" onclick="event.stopPropagation();">I built another AI Agent in 2 hours (and got paid $2600)</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about All my FREE resources: ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/rjiskq1h4EjTgsqvP_BOsnpwCdHUHKvSo00RmUraoWqDuHQN6RAUMdo1ircHs0ZcKQrrWNvukEs=s88-c-k-c0x00ffffff-no-rj" alt="Nate Herk | AI Automation" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC2ojq-nuP8ceeHqiroeKhBA" target="_blank" onclick="event.stopPropagation();">Nate Herk | AI Automation</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 10K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 446</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 50</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1765983683.0"></span>
                                 </div>
                                 
                             </div>
@@ -2834,11 +2882,11 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 618K</span>
+                                    <span style="color: #9ca3af;">👁️ 623K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 19K</span>
+                                    <span style="color: #9ca3af;">👍 20K</span>
                                 </div>
                                 
                                 
@@ -2854,72 +2902,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1765920653.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=NhMq52kqjC4', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/NhMq52kqjC4/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">23:58</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=NhMq52kqjC4" target="_blank" onclick="event.stopPropagation();">OpenAI is &quot;Is Hiding the Truth&quot;</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Check out Glue: https://bit.ly/4pOsxI2 Free 30 day trial. Work gets done where you talk… with Glue. OpenAI Researcher Quits.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/DBBVMr7VodH_Y5y67c6X7apjoJLNxCHWXCHfjAHy2bep29hgM-Q_oDVkEururWHDii_S8S8l=s88-c-k-c0x00ffffff-no-rj" alt="Wes Roth" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCqcbQf6yw5KzRoDDcZ_wBSw" target="_blank" onclick="event.stopPropagation();">Wes Roth</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 49K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 505</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1765966404.0"></span>
                                 </div>
                                 
                             </div>
@@ -2966,16 +2948,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 23K</span>
+                                    <span style="color: #9ca3af;">👁️ 25K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 210</span>
+                                    <span style="color: #9ca3af;">👍 216</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 160</span>
+                                    <span style="color: #9ca3af;">💬 162</span>
                                 </div>
                                 
                             </div>
@@ -2986,204 +2968,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1765989747.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=ppoFxgp0PJI', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/ppoFxgp0PJI/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">11:23</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=ppoFxgp0PJI" target="_blank" onclick="event.stopPropagation();">China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj" alt="AI Revolution" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC5l7RouTQ60oUjLjt1Nh-UQ" target="_blank" onclick="event.stopPropagation();">AI Revolution</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 65K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 936</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 139</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1765843745.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=0HTvQBf2suI', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/0HTvQBf2suI/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:05</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=0HTvQBf2suI" target="_blank" onclick="event.stopPropagation();">AI ads?NY says disclose it. 🚨 #shorts</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            New York has become one of the first states to take major action against deceptive AI in media.A new law now requires ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/Ls-aRhJA1luoSgKLuQJrIJWnLeLpkOuXjevrYw8ICId_N33noZLA6BWrQSIsl6OyA9mrXpji=s88-c-k-c0x00ffffff-no-rj" alt="PURE Girl" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC9hEzTM4ySKUQCWaXGTSO3A" target="_blank" onclick="event.stopPropagation();">PURE Girl</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 256K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 2K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 218</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1765850401.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=vXMrezKs8Hw', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/vXMrezKs8Hw/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">9:33</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=vXMrezKs8Hw" target="_blank" onclick="event.stopPropagation();">Manus Just Dropped Its Most Powerful AI Yet</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Manus released version 1.6 with its most powerful agent yet, pushing tasks to finish end to end with less supervision and fewer ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj" alt="AI Revolution" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC5l7RouTQ60oUjLjt1Nh-UQ" target="_blank" onclick="event.stopPropagation();">AI Revolution</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 16K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 527</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 47</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1765926364.0"></span>
                                 </div>
                                 
                             </div>
@@ -3234,7 +3018,7 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 171</span>
+                                    <span style="color: #9ca3af;">👍 172</span>
                                 </div>
                                 
                                 
@@ -3250,6 +3034,204 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1765920602.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=NhMq52kqjC4', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/NhMq52kqjC4/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">23:58</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=NhMq52kqjC4" target="_blank" onclick="event.stopPropagation();">OpenAI is &quot;Is Hiding the Truth&quot;</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Check out Glue: https://bit.ly/4pOsxI2 Free 30 day trial. Work gets done where you talk… with Glue. OpenAI Researcher Quits.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/DBBVMr7VodH_Y5y67c6X7apjoJLNxCHWXCHfjAHy2bep29hgM-Q_oDVkEururWHDii_S8S8l=s88-c-k-c0x00ffffff-no-rj" alt="Wes Roth" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCqcbQf6yw5KzRoDDcZ_wBSw" target="_blank" onclick="event.stopPropagation();">Wes Roth</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 51K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 1K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 512</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1765966404.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=vXMrezKs8Hw', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/vXMrezKs8Hw/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">9:33</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=vXMrezKs8Hw" target="_blank" onclick="event.stopPropagation();">Manus Just Dropped Its Most Powerful AI Yet</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Manus released version 1.6 with its most powerful agent yet, pushing tasks to finish end to end with less supervision and fewer ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj" alt="AI Revolution" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC5l7RouTQ60oUjLjt1Nh-UQ" target="_blank" onclick="event.stopPropagation();">AI Revolution</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 17K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 535</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 47</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1765926364.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=qzubsWEM3Eo', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/qzubsWEM3Eo/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">35:42</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=qzubsWEM3Eo" target="_blank" onclick="event.stopPropagation();">Larian Face Mass Revolt Over Gen AI, CEO Responds</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Get 10% off at Bellroy using my link: https://bit.ly/48B6ltZ AI has become a hotly debated topic as many perceive the technology to ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/OZgy9IczIOHPocqw3bZ3TWcpV22Cf_0ZRzJeztV1MG8QmYrGEnM5Dzq6V4093GtVwfiuZuPf=s88-c-k-c0x00ffffff-no-rj" alt="YongYea" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCT6iAerLNE-0J1S_E97UAuQ" target="_blank" onclick="event.stopPropagation();">YongYea</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 66K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 3K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 2K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1766007403.0"></span>
                                 </div>
                                 
                             </div>
@@ -3277,7 +3259,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T04:19:31.086686+00:00">Updated 2025-12-18T04:19:31.086686+00:00</small>
+        <small data-timestamp="2025-12-18T06:35:48.165763+00:00">Updated 2025-12-18T06:35:48.165763+00:00</small>
     </div>
 </div>
 
@@ -3542,7 +3524,7 @@
                                     <span class="model-stats">⬇️ 296,552</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 2,880</span>
+                                    <span class="model-stats">❤️ 2,881</span>
                                 </div>
                             </div>
                             
@@ -3600,7 +3582,7 @@
                                     <span class="model-stats">⬇️ 10,487</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 314</span>
+                                    <span class="model-stats">❤️ 315</span>
                                 </div>
                             </div>
                             
@@ -3774,7 +3756,7 @@
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 248</span>
+                                    <span class="model-stats">❤️ 249</span>
                                 </div>
                             </div>
                             
@@ -3830,7 +3812,7 @@
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 233</span>
+                                    <span class="model-stats">❤️ 234</span>
                                 </div>
                             </div>
                             
@@ -4088,7 +4070,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T05:41:33.448711+00:00">Updated 2025-12-18T05:41:33.448711+00:00</small>
+        <small data-timestamp="2025-12-18T06:35:52.189198+00:00">Updated 2025-12-18T06:35:52.189198+00:00</small>
     </div>
 </div>
 
