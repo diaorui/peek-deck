@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T18:59:49.314374+00:00'
+updated: '2025-12-18T19:24:25.665411+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 18:59 UTC  
+**Last Updated:** December 18, 2025 at 19:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,999.18
+### $85,490.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -5.0%  
-**30d:** -6.0%  
+**24h:** -0.3%  
+**7d:** -4.9%  
+**30d:** -5.9%  
 **90d:** -25.9%  
-**1y:** -12.1%  
+**1y:** -12.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1726.39B
+**Market Cap:** $1710.73B
 Rank #1
 
-**Circulating Supply:** 19,963,843 BTC
+**Circulating Supply:** 19,963,859 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.5%
+-32.1%
 
 **All-Time Low:** $67.81
-+127301.6%
++126108.5%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
+
+1h ago
+
+---
+
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
 5h ago
@@ -85,7 +91,7 @@ Rank #1
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -98,18 +104,6 @@ Rank #1
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
 11h ago
-
----
-
-**[Believe and Keep accumulating Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ppvfy2/believe_and_keep_accumulating_bitcoin/)**
-
-2h ago
-
----
-
-**[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
-
-1h ago
 
 ---
 
@@ -131,13 +125,21 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 **[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-22h ago
+23h ago
+
+---
+
+**[Brazil’s largest bank suggests a 1–3% Bitcoin allocation as a portfolio hedge](https://www.reddit.com/r/Bitcoin/comments/1ppnrpf/brazils_largest_bank_suggests_a_13_bitcoin/)**
+
+Brazil’s largest private bank, Itaú Unibanco, recently suggested that investors consider allocating around 1%–3% of their portfolios to Bitcoin, framing it as a diversification and risk-management tool rather than a speculative position. According to Itaú Asset Management, the idea isn’t market timing or short-term performance, but long-term positioning. Bitcoin is viewed as a complementary asset that may help offset currency risk, especially after the Brazilian real reached record lows in late 2024. The recommendation also highlights regulated exposure through local products like BITI11, a Brazil-listed Bitcoin ETF, which allows investors to gain BTC exposure within a familiar regulatory framework. This seems to reflect a broader institutional trend where Bitcoin is increasingly discussed as a small but structured portfolio component, particularly in emerging markets. Curious how others here view this approach — is a 1%–3% Bitcoin allocation becoming a conservative baseline for institutional portfolios, or does it still feel premature?
+
+8h ago
 
 ---
 
@@ -153,11 +155,31 @@ Yahoo Finance • 9h ago
 
 ---
 
-**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
+**[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
+Investor's Business Daily • 1h ago
 
-CoinDesk • 1h ago
+---
+
+**[Bitcoin Bounces Back Following Tepid Inflation Report](https://www.forbes.com/sites/digital-assets/2025/12/18/bitcoin-bounces-back-following-tepid-inflation-report/)**
+
+Forbes • 34m ago
+
+---
+
+**[Why Bitcoin’s popular narratives don’t match the data: James Check on 2026](https://www.tradingview.com/news/cointelegraph:25942331a094b:0-why-bitcoin-s-popular-narratives-don-t-match-the-data-james-check-on-2026/)**
+
+Bitcoin’s price may look deceptively familiar, but according to onchain analyst James Check, the market beneath the surface has changed far more than most investors realize.In a new interview with Cointelegraph, Check revisits a question he was asked earlier this year: Are we in a bull market or a…
+
+TradingView — Track All Markets • 59m ago
+
+---
+
+**[Fold Launches Nationwide Bitcoin Services Across All 50 States With BitGo](https://bitcoinmagazine.com/news/fold-launches-nationwide-bitcoin-services)**
+
+Fold now offers Bitcoin services nationwide via its partnership with federally chartered BitGo Bank & Trust.
+
+Bitcoin Magazine • 30m ago
 
 ---
 
@@ -177,47 +199,23 @@ The Motley Fool • 10h ago
 
 ---
 
-**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.nasdaq.com/articles/bitcoin-doing-something-last-seen-2014-wall-street-analysts-say-will-happen-2026)**
 
-thestreet.com • 1d ago
+Key PointsThe S&P 500 is up 15%, and Bitcoin is down 5% year to date. Not since 2014 has the S&P 500 generated positive returns while Bitcoin generated negative returns.
 
----
-
-**[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
-
-The Block • 12h ago
+Nasdaq • 10h ago
 
 ---
 
-**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
+**[The Daily: Bitwise predicts bitcoin all-time highs in 2026, Ark Invest buys the dip, spot XRP ETFs top $1B in cumulative inflows, and more](https://www.theblock.co/post/382871/the-daily-bitwise-predicts-bitcoin-all-time-highs-in-2026-ark-invest-buys-the-dip-spot-xrp-etfs-top-1b-in-cumulative-inflows-and-more)**
 
-US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
-
-CryptoSlate • 1d ago
+The Block • 2d ago
 
 ---
 
-**[Bhutan Pledges Up to 10,000 Bitcoin to Build New Mega-City](https://bitcoinmagazine.com/featured/bhutan-10000-bitcoin-to-build-mega-city)**
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqdR5uwEEyTiMHdSWZlutkpbs_IhD4jhCfVwLC5rPH_8HFlqdiQmitNK&gaa_ts=6944584c&gaa_sig=TD9ZFVxJYGb8KDzK1eEuKglakr6tnC3NDZ-U405vuHS-RT51eWy1UA-4SlCyQvrVjcag-r5Wzmd85DbQx5uPkg%3D%3D)**
 
-Bhutan is pledging up to 10,000 bitcoin for its Gelephu Mindfulness City, that's nearly $1 billion at current prices.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
-
-Some locals on island of Nevis oppose libertarian project, calling it ‘state within a state’
-
-Financial Times • 3d ago
-
----
-
-**[Hut 8 shares jump as ex-bitcoin miner signs $7 billion AI data center lease](https://finance.yahoo.com/news/hut-8-shares-jump-ex-123347104.html)**
-
-Hut 8 has signed a deal valued at about $7 billion to lease a data center in ​Louisiana, it said on Wednesday, as former cryptocurrency miners pivot ‌to meet surging demand for artificial intelligence infrastructure.  The company will sign a 15-year lease agreement to develop a 245-megawatt data center in the River Bend campus.  The new deal involves partnerships with AI model developer Anthropic and infrastructure provider Fluidstack.
-
-Yahoo Finance • 1d ago
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -269,7 +267,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 21h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 22h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -315,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 328 • ⏱️ 8:31 • 17h ago
+👁️ 26K • 👍 1K • 💬 328 • ⏱️ 8:31 • 18h ago
 
 ---
 
@@ -365,7 +363,7 @@ As Bitcoin enters a period of extreme fear, Kyledoops reveals the high-consequen
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 1K • 💬 29 • ⏱️ 46:50 • 10h ago
+👁️ 18K • 👍 1K • 💬 29 • ⏱️ 46:50 • 11h ago
 
 ---
 
@@ -385,7 +383,7 @@ Rustin talks about CBDC Ban Promise Broken: Bitcoin's Massive Bull Run Incoming!
 
 📺 Simply Bitcoin
 
-👁️ 1K • 👍 82 • ⏱️ 0:49 • 4h ago
+👁️ 1K • 👍 82 • ⏱️ 0:49 • 5h ago
 
 ---
 

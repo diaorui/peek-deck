@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T18:59:49.323499+00:00'
+updated: '2025-12-18T19:24:25.675622+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 18:59 UTC  
+**Last Updated:** December 18, 2025 at 19:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-3h ago
+4h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-5h ago
+6h ago
 
 ---
 
@@ -86,6 +86,14 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[What is the long-term position of Western countries in humanoid robotics?](https://www.reddit.com/r/robotics/comments/1ppyjw9/what_is_the_longterm_position_of_western/)**
+
+I’ve been thinking about where humanoid robotics is heading and I’m curious what others here think. One thing that stands out is how different the production environments are between China and the West. China has huge manufacturing scale, tight supply chains, and the ability to turn solid technology into consumer products at very low prices. That usually ends up being very attractive for buyers who just want good value for money. A comparison that comes to mind is electric vehicles. Tesla was clearly ahead early on in terms of R&D and innovation. But once the market became interesting at scale, Chinese companies like BYD entered with EVs that were competitive and significantly cheaper, and they’ve been gaining a lot of ground in production and sales. Now we’re seeing something similar with humanoid robots. Tesla with Optimus, Figure, 1X are all providing really interesting solutions in terms of innovation but humanoid robots are still very hardware-heavy. Motors, actuators, batteries, and large-scale assembly matter a lot. It makes me wonder if we’ll see the same pattern again: a Western company proves the concept, demand grows, and then Chinese manufacturers catch up quickly and compete mainly on cost. So I’m curious how people here see this playing out. Do you think Europe and the US still have room to compete in humanoid robotics? If yes, where does that advantage come from: software, regulation, integration, something else? Or do you expect the market to look similar to EVs over the next decade?
+
+42m ago
+
+---
+
 **[Researchers at Penn & Michigan create the "World's Smallest Programmable Autonomous Robot." (It has Onboard computer, swims using electric fields and costs $0.01).](https://www.reddit.com/r/robotics/comments/1porb7t/researchers_at_penn_michigan_create_the_worlds/)**
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
@@ -102,14 +110,6 @@ Hi everyone, I am trying to model a closed loop feedback system for application 
 
 ---
 
-**[What is best Robotic simulation software for underwater autonomous vehicle?](https://www.reddit.com/r/robotics/comments/1ppus3v/what_is_best_robotic_simulation_software_for/)**
-
-This is my latest research on underwater cognitive vehicles. So I need to make an simulation for it. I tried with many different simulation tools like webots like simulators but I didn't find any significant features in it for underwater vehicle.
-
-🔗 [arxiv.org](https://arxiv.org/pdf/2511.11845) • 2h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -122,9 +122,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
 
-The New York Times • 1d ago
+Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
+
+NASA (.gov) • 1d ago
 
 ---
 
@@ -144,19 +146,17 @@ The Robot Report • 1d ago
 
 ---
 
-**[The Roomba Was a Disappointment](https://www.theatlantic.com/technology/2025/12/roomba-dream-home-robotics/685293/)**
+**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
 
-The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.
+They make robot vacuums, lots of them
 
-The Atlantic • 1d ago
+The Verge • 3d ago
 
 ---
 
-**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
-
-NASA (.gov) • 1d ago
+The New York Times • 1d ago
 
 ---
 
