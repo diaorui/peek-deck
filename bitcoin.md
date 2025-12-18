@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T10:45:43.320061+00:00'
+updated: '2025-12-18T10:58:35.959642+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 10:45 UTC  
+**Last Updated:** December 18, 2025 at 10:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1743.56B
+**Market Cap:** $1741.41B
 Rank #1
 
-**Circulating Supply:** 19,963,684 BTC
+**Circulating Supply:** 19,963,712 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.8%
 
 **All-Time Low:** $67.81
-+128591.9%
++128553.6%
 
 ---
 
@@ -101,7 +101,7 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-19h ago
+20h ago
 
 ---
 
@@ -113,17 +113,29 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 ---
 
+**[Who’s buying the Dip](https://www.reddit.com/r/Bitcoin/comments/1pp68do/whos_buying_the_dip/)**
+
+Dca time!! Dont buy at 130k!
+
+15h ago
+
+---
+
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
 18h ago
 
 ---
 
-**[Who’s buying the Dip](https://www.reddit.com/r/Bitcoin/comments/1pp68do/whos_buying_the_dip/)**
+**[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
 
-Dca time!! Dont buy at 130k!
+2h ago
 
-14h ago
+---
+
+**[I’m a ₿itcoin Pioneer! ⚡️](https://www.reddit.com/r/Bitcoin/comments/1ppi4ne/im_a_itcoin_pioneer/)**
+
+6h ago
 
 ---
 
@@ -133,25 +145,53 @@ Dca time!! Dont buy at 130k!
 
 ---
 
-**[I’m a ₿itcoin Pioneer! ⚡️](https://www.reddit.com/r/Bitcoin/comments/1ppi4ne/im_a_itcoin_pioneer/)**
-
-5h ago
-
----
-
-**[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
-
-23h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://finance.yahoo.com/news/bitcoin-silent-exodus-hits-crypto-204351695.html)**
+**[Bitcoin (BTC) Price News: All over the place ahead of U.S. inflation data. what next?](https://www.coindesk.com/markets/2025/12/18/bitcoin-is-all-over-the-place-ahead-of-u-s-inflation-data-gold-nears-record-high)**
 
-More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: its long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
+U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
+
+CoinDesk • 4h ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdGEHZt2vknoIkO8zC5S3tF1oBaJvrueGsKxpzFtgzi5lJ_XpaxAnWf&gaa_ts=6943e1bf&gaa_sig=Q6bX3DJSLM3p1zwRdz6RHg9jQZ5zlKkV0iinnBRrE_L0V_L01omMNk0_d27CI4WAEvfopvLY2VYho7YBnmySLQ%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’](https://www.ccn.com/news/crypto/peter-schiff-bitcoin-drop-lower-50k-claims-saylor-doesnt-care/)**
+
+CCN.com • 1h ago
+
+---
+
+**[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+
+Investor's Business Daily • 13h ago
+
+---
+
+**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqdEjigFmarRgLhL_NYPDZaj2uuP7CWGzpkWXd0wb0CKxZDMxD0TtZMx&gaa_ts=6943e1bf&gaa_sig=pJrI-VTJ7-tzNBWrm3sxgkOxgP1lfpRJayoQuASGBgpP2lSShm2WGluzJqwfyw9cSgQwpqUKLOakjyaZku0cDA%3D%3D)**
+
+Barron's • 45m ago
+
+---
+
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
+
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://finance.yahoo.com/news/bitcoin-doing-something-last-seen-091500313.html)**
+
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
 
 Yahoo Finance • 1h ago
 
@@ -163,57 +203,15 @@ The Block • 4h ago
 
 ---
 
-**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
-
-A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
-
-The Motley Fool • 1h ago
-
----
-
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqee18iLV6NFYEzZ5vmsHZOkMuQCSILB2Yzjo8SDNaDy-RUZI3eX1jzW&gaa_ts=6943d917&gaa_sig=MOmhtBLYnMvUDUYYNrNxS2DnP8m72KXzHBk2KLNYBChOAvQXYXO1wRsPTiJKGFpF26ilj9hk9kEmPviIRlN1vA%3D%3D)**
-
-Barron's • 32m ago
-
----
-
-**[Should You Forget Bitcoin and Buy MARA Holdings Instead?](https://www.fool.com/investing/2025/12/18/should-you-forget-bitcoin-and-buy-mara-holdings/)**
-
-Thinking about swapping Bitcoin for MARA Holdings after the recent sell-off? Here's what changed for miners and what matters most for investors now.
-
-The Motley Fool • 3h ago
-
----
-
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfVwWhoPoFO0XHocMMcb3bWKpfL5MJFL-KnwrHnpAa7bRWHkx7BwUzT&gaa_ts=6943d917&gaa_sig=godeqLYmxMzQEY7yWKbK-9AmZUvVt-e1AhCwIEmcfJiYJcCrio5HtWdbNHT4Qz2hHon75KakvaAHAbFH6fruGQ%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’](https://www.ccn.com/news/crypto/peter-schiff-bitcoin-drop-lower-50k-claims-saylor-doesnt-care/)**
-
-CCN.com • 58m ago
-
----
-
-**[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
-
-Investor's Business Daily • 13h ago
-
----
-
-**[Bitcoin (BTC) Price News: All over the place ahead of U.S. inflation data. what next?](https://www.coindesk.com/markets/2025/12/18/bitcoin-is-all-over-the-place-ahead-of-u-s-inflation-data-gold-nears-record-high)**
-
-U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
-
-CoinDesk • 4h ago
-
----
-
 **[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
 
-CCN.com • 20h ago
+CCN.com • 21h ago
+
+---
+
+**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+
+thestreet.com • 19h ago
 
 ---
 
@@ -269,11 +267,17 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 ---
 
+**[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
+
+⬆️ 11 • 💬 3 • 1d ago
+
+---
+
 **[Aaron Van Wirdum predicts the future of crypto](https://news.ycombinator.com/item?id=46310765)**
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 48m ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 1h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -297,7 +301,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 149 • ⏱️ 19:03 • 10h ago
+👁️ 29K • 👍 2K • 💬 149 • ⏱️ 19:03 • 11h ago
 
 ---
 
