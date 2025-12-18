@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T08:58:48.746625+00:00'
+updated: '2025-12-18T09:36:05.440261+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 08:58 UTC  
+**Last Updated:** December 18, 2025 at 09:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,467.03
+### $87,315.48
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -3.5%  
-**30d:** -4.5%  
-**90d:** -24.8%  
-**1y:** -10.7%  
+**24h:** +0.9%  
+**7d:** -3.3%  
+**30d:** -4.3%  
+**90d:** -24.6%  
+**1y:** -10.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1736.32B
+**Market Cap:** $1736.43B
 Rank #1
 
-**Circulating Supply:** 19,963,637 BTC
+**Circulating Supply:** 19,963,659 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.0%
+-30.9%
 
 **All-Time Low:** $67.81
-+128124.5%
++128295.5%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart includes every on-chain transaction in that window. Each bar shows BTC spent by coin age band (UTXO age at spend). PnL is realized profit/loss vs the price when each UTXO was first created. The pie on the right shows total realized profit vs loss for the day. Key takeaways from today’s data: ~99.5% of all BTC spent came from coins younger than 1 year. A chunk of 1–1.5y coins realized losses, but the overwhelming majority of capitulation is from short-term holders / “tourists” dumping recent buys. Old coins (1.5y+) barely moved. Long-term HODLers are still largely sitting tight and stacking. The 180-1yr crowd growing recently is pointing to loss harvesting before 2026 to assist tax advantages. It represented about 30% of the selling at a loss by volume but was disproportionalty smaller in terms of actual loss relative to coins moved (this makes sense as coins held that long are not as much in a loss as the shorter term entrants since summer). This is a quick snapshot from my full-node dataset. I’ll post more breakdowns like this as I keep building out the tooling.
 
-8h ago
+9h ago
 
 ---
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -99,11 +99,17 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 ---
 
+**[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
+
+1h ago
+
+---
+
 **[Bitcoin rewards conviction](https://www.reddit.com/r/Bitcoin/comments/1pphcju/bitcoin_rewards_conviction/)**
 
 Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “just hodl,” and buy the dip, Fast forward, the same crowd are still coping while the price keeps proving one thing, and that is conviction, Bitcoin doesn’t move to reward perfect timing, it moves to reward patience, just keep believing in the process.
 
-4h ago
+5h ago
 
 ---
 
@@ -123,27 +129,19 @@ Dca time!! Dont buy at 130k!
 
 **[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-21h ago
+22h ago
 
 ---
 
-**[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
+**[I’m a ₿itcoin Pioneer! ⚡️](https://www.reddit.com/r/Bitcoin/comments/1ppi4ne/im_a_itcoin_pioneer/)**
 
-1h ago
-
----
-
-**[Would you sell your Bitcoin to be mortgage free?](https://www.reddit.com/r/Bitcoin/comments/1ppguxx/would_you_sell_your_bitcoin_to_be_mortgage_free/)**
-
-Suppose you had enough Bitcoin to pay off the remainder of your mortgage. Would you do it?
-
-5h ago
+4h ago
 
 ---
 
@@ -155,13 +153,29 @@ Suppose you had enough Bitcoin to pay off the remainder of your mortgage. Would 
 
 U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
 
-The Block • 2h ago
+The Block • 3h ago
+
+---
+
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
+
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+
+The Motley Fool • 41m ago
+
+---
+
+**[Should You Forget Bitcoin and Buy MARA Holdings Instead?](https://www.fool.com/investing/2025/12/18/should-you-forget-bitcoin-and-buy-mara-holdings/)**
+
+Thinking about swapping Bitcoin for MARA Holdings after the recent sell-off? Here's what changed for miners and what matters most for investors now.
+
+The Motley Fool • 2h ago
 
 ---
 
@@ -179,15 +193,15 @@ Investor's Business Daily • 11h ago
 
 ---
 
-**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
-
-thestreet.com • 17h ago
-
----
-
 **[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
 
 CCN.com • 19h ago
+
+---
+
+**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+
+thestreet.com • 18h ago
 
 ---
 
@@ -201,21 +215,7 @@ Financial Times • 3d ago
 
 **[Anthropic Taps Bitcoin Miner With Trump Family Ties For Data Centers](https://www.theinformation.com/briefings/anthropic-taps-bitcoin-miner-trump-family-ties-data-centers)**
 
-The Information • 12h ago
-
----
-
-**[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
-
-Investor's Business Daily • 18h ago
-
----
-
-**[CleanSpark (CLSK) Is Down 19.8% After Pivoting From Pure Bitcoin Mining Toward AI Data Infrastructure](https://finance.yahoo.com/news/cleanspark-clsk-down-19-8-181152083.html)**
-
-Earlier this month, CleanSpark reported unaudited October and November 2025 production of 587 and then 587 Bitcoins, respectively, with November output slipping 4% as Bitcoin miners faced pressure from renewed crackdowns in China and a weaker crypto market backdrop. At the same time, CleanSpark is trying to broaden its identity beyond Bitcoin mining by raising US$1.15 billion through zero‑coupon convertible notes to fund data center, power infrastructure, and AI-focused high-performance...
-
-Yahoo Finance • 1d ago
+The Information • 13h ago
 
 ---
 
@@ -259,7 +259,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 11h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 12h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -268,12 +268,6 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 ⬆️ 1 • 💬 0 • 1d ago • [flip.gold](https://flip.gold/)
-
----
-
-**[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
-
-⬆️ 11 • 💬 3 • 1d ago
 
 ---
 
@@ -297,7 +291,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 292 • ⏱️ 8:31 • 7h ago
+👁️ 20K • 👍 1K • 💬 292 • ⏱️ 8:31 • 8h ago
 
 ---
 
@@ -307,7 +301,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 571 • 💬 18 • ⏱️ 21:23 • 15h ago
+👁️ 11K • 👍 571 • 💬 18 • ⏱️ 21:23 • 16h ago
 
 ---
 
@@ -317,7 +311,7 @@ Bitcoin Hits $90000 Then Dumps — DOGE & XRP Holders: This Is Manipulation Bitc
 
 📺 Crypto Daily Trade Signals
 
-👁️ 472 • 👍 44 • 💬 27 • ⏱️ 11:49 • 4h ago
+👁️ 472 • 👍 44 • 💬 27 • ⏱️ 11:49 • 5h ago
 
 ---
 
@@ -327,7 +321,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 19K • 👍 672 • 💬 208 • ⏱️ 8:33 • 17h ago
+👁️ 19K • 👍 672 • 💬 208 • ⏱️ 8:33 • 18h ago
 
 ---
 
@@ -347,7 +341,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Mister Crypto
 
-👁️ 293 • 👍 18 • 💬 2 • ⏱️ 12:00 • 1h ago
+👁️ 293 • 👍 18 • 💬 2 • ⏱️ 12:00 • 2h ago
 
 ---
 
@@ -367,7 +361,7 @@ Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly 
 
 📺 Crypto Banter
 
-👁️ 23K • 👍 1K • 💬 62 • ⏱️ 48:33 • 18h ago
+👁️ 23K • 👍 1K • 💬 62 • ⏱️ 48:33 • 19h ago
 
 ---
 
@@ -377,7 +371,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 39K • 👍 2K • 💬 215 • ⏱️ 48:48 • 17h ago
+👁️ 39K • 👍 2K • 💬 215 • ⏱️ 48:48 • 18h ago
 
 ---
 

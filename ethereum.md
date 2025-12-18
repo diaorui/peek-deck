@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T08:58:48.752699+00:00'
+updated: '2025-12-18T09:36:05.445588+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 08:58 UTC  
+**Last Updated:** December 18, 2025 at 09:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** -7.8%  
-**30d:** -6.1%  
-**90d:** -36.6%  
-**1y:** -17.0%  
+**24h:** -2.3%  
+**7d:** -7.5%  
+**30d:** -5.7%  
+**90d:** -36.4%  
+**1y:** -16.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $343.39B
+**Market Cap:** $343.56B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.5%
+-42.4%
 
 **All-Time Low:** $0.43
-+657035.8%
++658045.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -102,7 +102,7 @@ so i sent robinhood some coins and ever since then im receiving small amounts of
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
-17h ago
+18h ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
 
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 17h ago
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 18h ago
 
 ---
 
@@ -148,11 +148,11 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdhH5yGrp6wZMay_84jFCZawqtElHNdO7XGY7JIEuosmvaTkQGcsDHi&gaa_ts=6943c08f&gaa_sig=ZxdsO9J-JPyBoj-JPwNbvNWwVeDowhAd1PO1lVrOv9ey5eiQFGeVH3bAE9PHLfS-Pz0JKp_oXgBi-cJ3zHQF1Q%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdffMhnsHo9RX2CfukioDaSftL7E2l-RqoKG-FEz83nowPgKgYGM6Q1&gaa_ts=6943ce71&gaa_sig=_BkdU0Fp_DX46a__WQ_qxpvCtit5s3XiZh0rBdEmh0YRyjT8dlqIDiwr6DipfMZDfxBRS43Br748H-SMruIP0Q%3D%3D)**
 
 Barron's • 1d ago
 
@@ -174,19 +174,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Vitalik Buterin Says Ethereum Must Be Easier to Understand to Be Truly Trustless](https://finance.yahoo.com/news/vitalik-buterin-says-ethereum-must-064303154.html)**
-
-Ethereum co-founder Vitalik Buterin says the network must become easier to understand if it wants to fully live up to its promise of trustlessness, a challenge he argues extends across much of the blockchain industry. Key Takeaways: Vitalik Buterin says Ethereum’s trustlessness depends not just on decentralization, but on how ...
-
-Yahoo Finance • 2h ago
-
----
-
 **[Ethereum Price Nears Possible Breakdown — Yet A Bounce Hope Emerges](https://finance.yahoo.com/news/ethereum-price-nears-possible-breakdown-080000304.html)**
 
 Ethereum price shows early rebound signs, but key on-chain levels warn downside risk remains close, just 1% away from.
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -204,19 +196,27 @@ CCN.com • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
+**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
 
-Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
+Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
+**[BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-cathie-wood-buys-the-dip-as-bitmine-pushes-toward-5-of-ethereum-supply/)**
 
-The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
+BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply - TechStock²
 
-CoinDesk • 2d ago
+ts2.tech • 1d ago
+
+---
+
+**[Ethereum Risks Slide To $2,000 If December Closes Below This Level: Analyst](https://www.tradingview.com/news/newsbtc:bd880751f094b:0-ethereum-risks-slide-to-2-000-if-december-closes-below-this-level-analyst/)**
+
+A cryptocurrency analyst has explained where Ethereum could go next based on a long-term Parallel Channel forming in its monthly price chart.Ethereum Has Been Trading Inside A Parallel Channel For The Last Few YearsIn a new post on X, analyst Ali Martinez has talked about a long-term pattern that E…
+
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -230,7 +230,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 9K • 👍 471 • 💬 200 • ⏱️ 33:33 • 16h ago
+👁️ 9K • 👍 471 • 💬 200 • ⏱️ 33:33 • 17h ago
 
 ---
 
@@ -250,7 +250,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 317 • 💬 68 • ⏱️ 20:34 • 17h ago
+👁️ 11K • 👍 317 • 💬 68 • ⏱️ 20:34 • 18h ago
 
 ---
 
@@ -260,7 +260,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 676 • 👍 32 • 💬 71 • ⏱️ 11:07 • 14h ago
+👁️ 676 • 👍 32 • 💬 71 • ⏱️ 11:07 • 15h ago
 
 ---
 
