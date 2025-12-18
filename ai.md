@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T06:36:03.759638+00:00'
+updated: '2025-12-18T06:59:28.969903+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 06:36 UTC  
+**Last Updated:** December 18, 2025 at 06:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 8h ago
+🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 15h ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 11h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 12h ago
 
 ---
 
@@ -73,7 +73,7 @@ HY-World 1.5 has open-sourced a comprehensive training framework for real-time w
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 7h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 8h ago
 
 ---
 
@@ -97,7 +97,7 @@ I am relatively new to this group and based on my limited interaction, feeling q
 
 Now you don't need to know any programming to launch a company. We've been approaching this moment for years.
 
-🔗 [WIRED](https://www.wired.com/story/new-startup-no-code-no-problem/) • 5h ago
+🔗 [WIRED](https://www.wired.com/story/new-startup-no-code-no-problem/) • 6h ago
 
 ---
 
@@ -133,7 +133,7 @@ Fox Business • 5h ago
 
 Software giant suffers renewed declines after backer Blue Owl pulls out of $10bn project
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -141,7 +141,7 @@ Financial Times • 13h ago
 
 The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
 
-NBC News • 6h ago
+NBC News • 7h ago
 
 ---
 
@@ -155,7 +155,7 @@ MarketWatch • 10h ago
 
 Mustafa Suleyman says staying at the AI frontier will cost "hundreds of billions" over the next five to 10 years.
 
-Business Insider • 57m ago
+Business Insider • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Business Insider • 57m ago
 
 Earlier in December 2025, Penguin Ai announced a collaboration with FTI Consulting to embed its healthcare AI platform into FTI’s revenue cycle management advisory work, while FTI also added veteran healthcare advisor Mitch Harris and appointed Rike Rabl as its next Chief Human Resources Officer. Together, these moves signal FTI Consulting’s push to deepen healthcare expertise, scale AI-enabled services, and sharpen its global talent strategy for complex regulatory and operational...
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 50m ago
 
 ---
 
@@ -193,7 +193,7 @@ Fortune • 10h ago
 
 Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving at the end of this year, the company confirmed.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -305,7 +305,7 @@ O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratig
 
 📺 MS NOW
 
-👁️ 21K • 👍 469 • 💬 340 • ⏱️ 14:44 • 16h ago
+👁️ 21K • 👍 469 • 💬 340 • ⏱️ 14:44 • 17h ago
 
 ---
 
@@ -335,7 +335,7 @@ CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
 
 📺 CNBC Television
 
-👁️ 25K • 👍 216 • 💬 162 • ⏱️ 3:16 • 13h ago
+👁️ 25K • 👍 216 • 💬 162 • ⏱️ 3:16 • 14h ago
 
 ---
 
@@ -375,7 +375,7 @@ Get 10% off at Bellroy using my link: https://bit.ly/48B6ltZ AI has become a hot
 
 📺 YongYea
 
-👁️ 66K • 👍 3K • 💬 2K • ⏱️ 35:42 • 8h ago
+👁️ 66K • 👍 3K • 💬 2K • ⏱️ 35:42 • 9h ago
 
 ---
 
@@ -403,7 +403,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 315 • 9h ago
+⬇️ 10,487 • ❤️ 315 • 10h ago
 
 ---
 
@@ -513,7 +513,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 5 • 💬 2 • ⭐ 1,812 • 6d ago
+▲ 5 • 💬 2 • ⭐ 2,435 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -551,7 +551,7 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 132 • 💬 6 • ⭐ 18,489 • 3mo ago
+▲ 132 • 💬 6 • ⭐ 18,554 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -604,7 +604,7 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 201 • 💬 5 • ⭐ 7,255 • 20d ago
+▲ 202 • 💬 5 • ⭐ 7,255 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -630,7 +630,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 This survey provides an updated overview of agent memory research, distinguishing its forms, functions, and dynamics, and highlights emerging research directions.
 
-▲ 85 • 💬 4 • ⭐ 261 • 2d ago
+▲ 86 • 💬 4 • ⭐ 261 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.13564) • [💻 code](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.3k • 🔱 453 • 14h ago
+⭐ 4.3k • 🔱 455 • 15h ago
 
 ---
 
@@ -676,7 +676,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.5k • 🔱 109 • 5h ago
+⭐ 1.5k • 🔱 112 • 6h ago
 
 ---
 
@@ -726,7 +726,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 788 • 🔱 124 • 2d ago
+⭐ 789 • 🔱 125 • 2d ago
 
 ---
 
