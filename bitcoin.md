@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T20:29:06.410929+00:00'
+updated: '2025-12-18T20:45:44.154083+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 20:29 UTC  
+**Last Updated:** December 18, 2025 at 20:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,061.74
+### $85,102.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
+**24h:** -0.9%  
 **7d:** -5.6%  
 **30d:** -6.6%  
 **90d:** -26.4%  
-**1y:** -12.6%  
+**1y:** -12.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1688.81B
+**Market Cap:** $1696.75B
 Rank #1
 
 **Circulating Supply:** 19,963,878 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--32.9%
+-32.6%
 
 **All-Time Low:** $67.81
-+124571.9%
++125272.4%
 
 ---
 
@@ -95,15 +95,9 @@ Rank #1
 
 ---
 
-**[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
-
-11h ago
-
----
-
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -111,7 +105,7 @@ Rank #1
 
 Bart Simpson incoming?
 
-4h ago
+5h ago
 
 ---
 
@@ -123,11 +117,17 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 ---
 
+**[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
+
+12h ago
+
+---
+
 **[Currently going all in on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ppqvmv/currently_going_all_in_on_bitcoin/)**
 
 With these prices I don’t know if I’ll ever see them again. I was investing in other coins but at this time I just feel when Bitcoin rebounds I’ll be glad I bought it at these prices. So I’ve moved the dollar amount I’ve invested into all the coins each payday, to just Bitcoin purchases. I just feel I won’t be missing out if I don’t invest now in other coins. Where’s if I balance out my crypto purchases, I’ll be kicking myself for not buying more Bitcoin.
 
-6h ago
+7h ago
 
 ---
 
@@ -163,39 +163,11 @@ CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
-
-Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
-
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
-
-Investor's Business Daily • 3h ago
-
----
-
-**[Bitcoin Bounces Back Following Tepid Inflation Report](https://www.forbes.com/sites/digital-assets/2025/12/18/bitcoin-bounces-back-following-tepid-inflation-report/)**
-
-Forbes • 1h ago
-
----
-
-**[Fold Launches Nationwide Bitcoin Services Across All 50 States With BitGo](https://bitcoinmagazine.com/news/fold-launches-nationwide-bitcoin-services)**
-
-Fold now offers Bitcoin services nationwide via its partnership with federally chartered BitGo Bank & Trust.
-
-Bitcoin Magazine • 1h ago
-
----
-
 **[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://finance.yahoo.com/news/bitcoin-silent-exodus-hits-crypto-204351695.html)**
 
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -207,7 +179,7 @@ The Motley Fool • 11h ago
 
 ---
 
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqesdOZBGlfnRGKGifYXRxYntGC712H4xpwvEkEUPY-ydW7Hc12gxnxp&gaa_ts=69446098&gaa_sig=5TXXWHTzk2XmVh5zrbsTE3pD5pbuUXrI1sBIK31OarhazuRXRfnxS6rLvQ-Gn9WWHbiyKI0uDLN6b-pe9EErsA%3D%3D)**
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqeZH2vm67b5XY9ysIMGsZzPnU-UKN9YhYALE9CUHUHBlbwJWpQdR44i&gaa_ts=69446b5c&gaa_sig=mAv8nirKgzmi7eTA4vrOKQyyuGnHL-fKUmMQnTX3jo9nmHdYNJfjf-rYYPfsUnCBx0juY9WK13Oa_gP-XMUwCg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -216,6 +188,34 @@ The Wall Street Journal • 2d ago
 **[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
 
 thestreet.com • 1d ago
+
+---
+
+**[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
+
+US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqcW9YHJzSqxKhfrFog0mSuo-gAq_LgYHw1PADGKFWHoAAlqdXny404z&gaa_ts=69446b5c&gaa_sig=jasknliV4BLDq4tFSI7IlU6w0OEx_DL50JDXomOY3u2ii8Z1W6mTIsDwc86s_ewm4ydEPOyiWc8zeOy6wx0RBA%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Bhutan Pledges Up to 10,000 Bitcoin to Build New Mega-City](https://bitcoinmagazine.com/featured/bhutan-10000-bitcoin-to-build-mega-city)**
+
+Bhutan is pledging up to 10,000 bitcoin for its Gelephu Mindfulness City, that's nearly $1 billion at current prices.
+
+Bitcoin Magazine • 1d ago
 
 ---
 

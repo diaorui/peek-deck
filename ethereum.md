@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T20:29:06.416873+00:00'
+updated: '2025-12-18T20:45:44.160915+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 20:29 UTC  
+**Last Updated:** December 18, 2025 at 20:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -9.3%  
-**30d:** -7.5%  
-**90d:** -37.6%  
-**1y:** -18.3%  
+**24h:** -1.7%  
+**7d:** -10.0%  
+**30d:** -8.3%  
+**90d:** -38.1%  
+**1y:** -19.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $335.93B
+**Market Cap:** $337.00B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--43.7%
+-43.5%
 
 **All-Time Low:** $0.43
-+642954.3%
++644875.9%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I know many good crypto founders who are not good at marketing. And they think that "posting more on Twitter", "going to conferences" or "doing BD" is the only way to grow their product. Unfortunately they loose the attention battle with worse products that have better marketing. To change that, for the last month I’ve been working on a non-BS guide to crypto GTM. To anchor this in reality, I spoke with founders and early team members from Aave, ZORA, POAP, Snapshot, L2Beat, Zerion, SushiSwap and a few others. I wanted to understand what really got them growing early on. A couple things that might surprise those who are not growth nerds like me: Uniswap didn't just 'launch and win'. Hayden was talking about Uniswap at conferences, in DMs and in offices for almost a year before Devcon Prague. Tether got their biggest adoption spike (1,000X in 2 years) thanks to BD deals with CEXs. Aave took off when they added LINK as collateral and Chainlink as their oracle provider. They tapped into an existing, very vocal LINK Marines community that helped spread the word about Aave. Aside from these (and many other) examples, I share a longer playbook explaining how to do GTM for your crypto product, step by step. If you’re building on Ethereum and wondering why a solid product isn’t moving, this might give you a clearer mental model how to move forward. Link is here if you want to read it: https://kanfa.macbudkowski.com/crypto-gtm
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ I know many good crypto founders who are not good at marketing. And they think t
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-18h ago
+19h ago
 
 ---
 
@@ -168,22 +168,6 @@ Yahoo Finance • 7h ago
 
 ---
 
-**[Ethereum Dip Pressures BitMine, but Tom Lee and Ark Keep Buying | US Crypto News](https://www.tradingview.com/news/beincrypto:96a5a4bd7094b:0-ethereum-dip-pressures-bitmine-but-tom-lee-and-ark-keep-buying-us-crypto-news/)**
-
-Welcome to the US Crypto News Morning Briefing—your essential rundown of the most important developments in crypto for the day ahead.Grab a coffee as BitMine’s bold Ethereum strategy is back in focus with market pressure building and investor nerves fraying. Losses are mounting, the stock is slidin…
-
-TradingView — Track All Markets • 5h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
-
-Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
-
-Yahoo Finance • 1d ago
-
----
-
 **[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
 
 Is Ethereum really on the path to a price of $62,000 next year?
@@ -192,31 +176,47 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfH8Zjc3IqTyZOd0Rlfa-2Sp4fX-ICCzCs-xAssAFtetEAZEMvsXoHW&gaa_ts=6944609a&gaa_sig=TLc4thCexOM59-HqY8qXLa-fkIRze4TCGvQocHdxGkxdi7YTgoe6QhVEJK7pxGyful7KpM4f-dEsjCM3yPQaKg%3D%3D)**
+**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
+
+Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum Dip Pressures BitMine, but Tom Lee and Ark Keep Buying | US Crypto News](https://www.tradingview.com/news/beincrypto:96a5a4bd7094b:0-ethereum-dip-pressures-bitmine-but-tom-lee-and-ark-keep-buying-us-crypto-news/)**
+
+Welcome to the US Crypto News Morning Briefing—your essential rundown of the most important developments in crypto for the day ahead.Grab a coffee as BitMine’s bold Ethereum strategy is back in focus with market pressure building and investor nerves fraying. Losses are mounting, the stock is slidin…
+
+TradingView — Track All Markets • 5h ago
+
+---
+
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+
+CCN.com • 2d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfvU7zTbKXPKDe32TOX22XS5Vwfiiktmtf9JKlvBg9Y-FjWs9J0AUwU&gaa_ts=69446b5e&gaa_sig=BdImHE2Z9ttL33oK6UQgXqRiLHH_GMoOm1ghUBwm7qw7So9B3NYtNf-eMVCxK8Tkc9vYEMGKyP6zHLHTwshbEg%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Why Crypto Is Going Down Today? Bitcoin, XRP Price, Ethereum and Dogecoin Moves Under Death Cross](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-bitcoin-xrp-price-ethereum-and-dogecoin-moves-under-death-cross/)**
+**[Why Bitcoin, Ethereum and XRP Are Falling Today Even As Inflation Cools and Rates Are Cut](https://www.tradingview.com/news/coinpedia:2c393df90094b:0-why-bitcoin-ethereum-and-xrp-are-falling-today-even-as-inflation-cools-and-rates-are-cut/)**
 
-Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
+The crypto market has turned red today, with tokens like Bitcoin, Ethereum, and XRP trading lower. The total crypto market value has dropped to about $2.97 trillion, down more than 2% in the last 24 hours, as investors remain cautious.Even though some positive economic news has come out, traders ar…
 
-Finance Magnates • 1d ago
-
----
-
-**[Bitcoin, Ethereum ETFs See Over $500M Outflows While XRP And Solana Funds Buck The Sell-Off](https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-ethereum-etfs-see-over-500-million-outflows/cLeOiZZREq2)**
-
-Stocktwits • 1d ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
-**[Bitcoin Vs. Ethereum Performance Divergence and What It Signals for Investors](https://www.investing.com/analysis/bitcoin-vs-ethereum-performance-divergence-and-what-it-signals-for-investors-200671953)**
+**[Bitcoin, Ethereum, XRP face sharp volatility as US posts lowest inflation rate in years](https://www.fxstreet.com/cryptocurrencies/news/bitcoin-ethereum-xrp-face-sharp-volatility-as-us-posts-lowest-inflation-rate-in-years-202512181925)**
 
-Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
+The latest inflation report released on Thursday in the United States (US) sparked a wave of volatility in the crypto markets.
 
-Investing.com • 1d ago
+FXStreet • 1h ago
 
 ---
 
@@ -250,7 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 390 • 👍 20 • 💬 1 • ⏱️ 4:50 • 9h ago
+👁️ 390 • 👍 20 • 💬 1 • ⏱️ 4:50 • 10h ago
 
 ---
 
