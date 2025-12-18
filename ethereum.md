@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T14:47:52.915119+00:00'
+updated: '2025-12-18T15:00:57.663284+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 14:47 UTC  
+**Last Updated:** December 18, 2025 at 15:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
+**24h:** +3.4%  
 **7d:** -4.4%  
 **30d:** -2.6%  
 **90d:** -34.2%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 **[Let a thousand societies bloom | Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/1ppc5lm/let_a_thousand_societies_bloom_vitalik_buterin/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 14h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 15h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-7h ago
+8h ago
 
 ---
 
@@ -108,7 +108,7 @@ so i sent robinhood some coins and ever since then im receiving small amounts of
 
 I am staking ETH for a long time using Zengo wallet. I always thought they have one of the highest staking rewards when you don't want to stake directly on chain or any other more complicated solution. But recently I tested Revolut ETH staking and results suprised me. I left the amounts staked on both platforms untouched for 28 days. Then I look at how much did I make by staking on both platforms, devided by 28, multiplied by 365 devided by the amount staked and I got Zengo: 2.46% ROI Revolut: 4.92% ROI That is a huge difference! I wasn't able to find a good source of information on the comparation of different staking providers. All the information and data just provide vague values that cannot be compared. Was my statistic samle just too small and doesn't actually show correct numbers or does Revolut staking really make 2 times bigger returns? What is the word on the street? Just to save some time. I know that Zengo and Revolut staking is different. I don't care about that right now, only focusing on pure invest > stake > earn. PS: I find it ridiculous (borderline illegal) that basically a financial institution (Zengo) offeres a service that makes it almost impossible to check what are the returns. The on chain data are completely obfuscated through their staking provider so there is no way how to see the periodic earnings. Only the overall sum of all your ernings is visible. Apart from making screenshots and calculating it yourself, you have no way to check how much you are actually earning over time.
 
-13h ago
+14h ago
 
 ---
 
@@ -144,13 +144,43 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
+
+SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+
+Decrypt • 1h ago
+
+---
+
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
 The Block • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcOevaFRdNEXz3BtH5YYz7k8UPdW5E1CaCCv2bo30vUE4r5THnRY-B9&gaa_ts=69441201&gaa_sig=uQJgjcCxqq-BDZLeIUo3NisIuVd1qpr5wPic3HWBl7T45zzBjvUUj6gRGUVwHg_r0Rdy4TCY4JOjL87gWPUGPQ%3D%3D)**
+**[Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum](https://www.bloomberg.com/news/articles/2025-12-18/digital-bank-sofi-joins-stablecoin-race-with-own-dollar-backed-token-on-ethereum)**
+
+Digital bank operator SoFi Technologies Inc. has launched its own US dollar stablecoin, joining a growing list of financial firms betting on what is seen as a critical component of the digital asset economy.
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Ethereum Foundation researchers warn of storage burden from 'state bloat,' propose paths to ease node bottleneck](https://www.theblock.co/post/383156/ethereum-foundation-researchers-warn-of-storage-burden-from-state-bloat)**
+
+The Block • 1h ago
+
+---
+
+**[Tom Lee Predicts 10-15% Downside For Stocks In Early 2026: Here Is Why The Ethereum Bull Sees Crypto's 'Best Years' Ahead](https://finance.yahoo.com/news/tom-lee-predicts-10-15-193238141.html)**
+
+Wall Street analyst Tom Lee predicted on Monday a bearish first half for financial markets in 2026, but expects it to “come back in force” eventually. Lee Expects Market To ‘Come Back In Force’ In 2026 Lee, who chairs BitMine Immersion Technologies ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfb_dez-1sujiMHDESLjOtz0DBvZHFdO-Xifct14yDtZQk9yTcoy364&gaa_ts=69441a94&gaa_sig=MG18XuS9Tnceo9p7cHX3DZtNjppbsacCaQQgJ6w5sxZicjXNX0c2RDh8ZToXetwSoaR_WEWbh9-kTNqZMmt6OQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -172,17 +202,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
+**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
 
-SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+Is Ethereum really on the path to a price of $62,000 next year?
 
-Decrypt • 1h ago
-
----
-
-**[Ethereum Foundation researchers warn of storage burden from 'state bloat,' propose paths to ease node bottleneck](https://www.theblock.co/post/383156/ethereum-foundation-researchers-warn-of-storage-burden-from-state-bloat)**
-
-The Block • 1h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -191,28 +215,6 @@ The Block • 1h ago
 Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
 
 Yahoo Finance • 2d ago
-
----
-
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 1d ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-cathie-wood-buys-the-dip-as-bitmine-pushes-toward-5-of-ethereum-supply/)**
-
-BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply - TechStock²
-
-ts2.tech • 2d ago
-
----
-
-**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
-
-Is Ethereum really on the path to a price of $62,000 next year?
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -316,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 129 • 💬 2 • ⏱️ 4:45 • 22h ago
+👁️ 3K • 👍 129 • 💬 2 • ⏱️ 4:45 • 23h ago
 
 ---
 

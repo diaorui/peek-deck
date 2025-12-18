@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T14:47:52.909092+00:00'
+updated: '2025-12-18T15:00:57.657231+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 14:47 UTC  
+**Last Updated:** December 18, 2025 at 15:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,162.63
+### $88,475.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -2.2%  
-**30d:** -3.3%  
-**90d:** -23.8%  
-**1y:** -9.5%  
+**24h:** +1.8%  
+**7d:** -2.1%  
+**30d:** -3.1%  
+**90d:** -23.6%  
+**1y:** -9.3%  
 
 ---
 
@@ -127,7 +127,7 @@ Brazil’s largest private bank, Itaú Unibanco, recently suggested that investo
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-23h ago
+1d ago
 
 ---
 
@@ -141,7 +141,7 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-45m ago
+58m ago
 
 ---
 
@@ -159,35 +159,29 @@ Yahoo Finance • 5h ago
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdSFuQai0XAO76wVjY_WxZ8CfPx_vf3_5NG-aMJGdQRTakPCv31fu2i&gaa_ts=69441200&gaa_sig=r4bd6xL13b1wphF2E0MaKSPl2iDaFou-4l0cb3iwGGZ0QfpqXJ1toGROnedCY3sQTAAQegcPJ1RPzmy-y5wn4g%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqedpM7rLbzOle8GwncKDHTHRtbD3LKJwuFGqd49uVYy7S2iDbCHxx7t&gaa_ts=69441a92&gaa_sig=c9QZsfOSiHvDNgV8e4xAOCmfyBDuLAS4fM5pW16UlGWc6Z4qNzrZLOX8K7t-ZKu8TkJD7I3HMTE-AeBIGH6ycg%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’](https://www.ccn.com/news/crypto/peter-schiff-bitcoin-drop-lower-50k-claims-saylor-doesnt-care/)**
+**[Michael Saylor Buys Another $1B in Bitcoin as Grayscale Predicts All Time High Within 6 Months — Is It Likely?](https://finance.yahoo.com/news/michael-saylor-buys-another-1b-121215863.html)**
 
-CCN.com • 5h ago
+Strategy added nearly $1 billion worth of Bitcoin for a second straight week. Grayscale expects Bitcoin to reach a new all-time high in the first ...
 
----
-
-**[Bitcoin Washout Points To $180,000 In 90 Days, GMI Says](https://www.tradingview.com/news/newsbtc:ba076c14b094b:0-bitcoin-washout-points-to-180-000-in-90-days-gmi-says/)**
-
-Global Macro Investor (GMI) head of macro research Julien Bittel posted a bitcoin “oversold RSI” roadmap on X, arguing the market has tracked it closely and tying the setup to a broader view that the cycle could run into 2026—an outlook he says would render the traditional “four-year cycle” framewo…
-
-TradingView — Track All Markets • 1h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin price (BTC) news: BTC adds to gains after soft inflation numbers](https://www.coindesk.com/markets/2025/12/18/u-s-inflation-data-surprises-with-cpi-higher-by-just-2-7-in-november)**
+**[Bitcoin (BTC) Price News: All over the place ahead of U.S. inflation data. what next?](https://www.coindesk.com/markets/2025/12/18/bitcoin-is-all-over-the-place-ahead-of-u-s-inflation-data-gold-nears-record-high)**
 
-Bitcoin shot above $88,000 as forecasts had been for inflation to continue to run above 3%.
+U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
 
-CoinDesk • 1h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -195,27 +189,37 @@ CoinDesk • 1h ago
 
 Bitcoin ETFs saw $457 million in inflows, signaling a 'flight to quality' as capital consolidates around Bitcoin amid Ethereum outflows.
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 59m ago
 
 ---
 
-**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+**[U.S. bitcoin ETFs see strongest inflows for over a month as BTC dominance hits 60%](https://www.coindesk.com/markets/2025/12/18/u-s-bitcoin-etfs-see-strongest-inflows-for-over-a-month-as-btc-dominance-hits-60)**
 
-thestreet.com • 23h ago
+Fidelity's FBTC recorded a top five inflow day as the ETFs took in a combined $457 million amid sharp BTC price swings.
+
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin Fatigue Sets In as Token Heads for Fourth Annual Loss](https://www.bloomberg.com/news/articles/2025-12-16/bitcoin-fatigue-sets-in-as-token-heads-for-fourth-annual-loss)**
+**[Bitcoin ETFs Notch $457M Haul, Third-Largest Since October](https://decrypt.co/352874/bitcoin-etfs-notch-457m-haul-third-largest-since-october)**
 
-Bitcoin is headed for the fourth annual decline in its history, and the first one that didn’t coincide with a major scandal or industry meltdown.
+Bitcoin ETFs saw $457 million in inflows, signaling a 'flight to quality' as capital consolidates around Bitcoin amid Ethereum outflows.
 
-Bloomberg.com • 1d ago
+Decrypt • 59m ago
 
 ---
 
 **[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
 
 The Block • 8h ago
+
+---
+
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.nasdaq.com/articles/bitcoin-doing-something-last-seen-2014-wall-street-analysts-say-will-happen-2026)**
+
+Key PointsThe S&P 500 is up 15%, and Bitcoin is down 5% year to date. Not since 2014 has the S&P 500 generated positive returns while Bitcoin generated negative returns.
+
+Nasdaq • 5h ago
 
 ---
 
@@ -281,7 +285,7 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 4h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 5h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -295,7 +299,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 165 • ⏱️ 19:03 • 14h ago
+👁️ 32K • 👍 2K • 💬 165 • ⏱️ 19:03 • 15h ago
 
 ---
 
@@ -305,7 +309,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 320 • ⏱️ 8:31 • 13h ago
+👁️ 24K • 👍 1K • 💬 320 • ⏱️ 8:31 • 14h ago
 
 ---
 
@@ -365,7 +369,7 @@ BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available ev
 
 📺 Lark Davis
 
-👁️ 5K • 👍 414 • 💬 27 • ⏱️ 46:47 • 2h ago
+👁️ 5K • 👍 414 • 💬 27 • ⏱️ 46:47 • 3h ago
 
 ---
 

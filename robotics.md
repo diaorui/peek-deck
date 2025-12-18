@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T14:47:52.918332+00:00'
+updated: '2025-12-18T15:00:57.666593+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 14:47 UTC  
+**Last Updated:** December 18, 2025 at 15:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-1m ago
+15m ago
 
 ---
 
@@ -88,7 +88,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 Canonical has now extended its ESM (Expanded Security Maintenance) for ROS coverage to ROS Noetic content-sharing snaps. With ESM for ROS now available in both deb and snap formats, Ubuntu continues to be the trusted foundation for secure, long-term robotics innovation. […]
 
-🔗 [Ubuntu](https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps) • 9h ago
+🔗 [Ubuntu](https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps) • 10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Canonical has now extended its ESM (Expanded Security Maintenance) for ROS cover
 
 On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM Just watched the Boston Dynamics tech talk on The Humanoid Mission in Manufacturing. One slide frames the roadmap as a gradual compression of layers, where classical perception, planning, manipulation, and control are absorbed into more unified end to end models. What stood out to me is that this suggests classical and optimization based control may be progressively replaced rather than simply augmented. Given that direction, is it still worth investing heavily in classical or optimization based control research for handling physics, contact, and stability underneath, or do people expect those responsibilities to eventually be fully learned by VLM or VLA style models? Curious how others here think about this tradeoff, especially in the context of balance and contact heavy manufacturing tasks.
 
-17h ago
+18h ago
 
 ---
 
@@ -123,6 +123,20 @@ TechCrunch • 1d ago
 **[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
 The New York Times • 1d ago
+
+---
+
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 1d ago
+
+---
+
+**[Humanoid Robots For War And Work: Startup Plans To Build 50,000 By End Of 2027](https://www.forbes.com/sites/johnkoetsier/2025/12/16/humanoid-robots-for-war-and-work-startup-plans-to-build-50000-by-end-of-2027/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -171,20 +185,6 @@ Yahoo Finance • 1d ago
 SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
 
 navalnews.com • 1d ago
-
----
-
-**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
-
-University of Michigan • 15h ago
-
----
-
-**[These Robots Are the Size of Single Cells and Cost Just a Penny Apiece](https://singularityhub.com/2025/12/16/these-robots-the-size-of-single-cells-cost-just-a-penny-apiece/)**
-
-The microbots have tiny computers, sensors, and actuators. They can sense temperature and swim autonomously.
-
-SingularityHub • 1d ago
 
 ---
 
