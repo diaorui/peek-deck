@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T21:37:05.118717+00:00'
+updated: '2025-12-18T21:48:22.328844+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 21:37 UTC  
+**Last Updated:** December 18, 2025 at 21:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 I’ve been thinking about where humanoid robotics is heading and I’m curious what others here think. One thing that stands out is how different the production environments are between China and the West. China has huge manufacturing scale, tight supply chains, and the ability to turn solid technology into consumer products at very low prices. That usually ends up being very attractive for buyers who just want good value for money. A comparison that comes to mind is electric vehicles. Tesla was clearly ahead early on in terms of R&D and innovation. But once the market became interesting at scale, Chinese companies like BYD entered with EVs that were competitive and significantly cheaper, and they’ve been gaining a lot of ground in production and sales. Now we’re seeing something similar with humanoid robots. Tesla with Optimus, Figure, 1X are all providing really interesting solutions in terms of innovation but humanoid robots are still very hardware-heavy. Motors, actuators, batteries, and large-scale assembly matter a lot. It makes me wonder if we’ll see the same pattern again: a Western company proves the concept, demand grows, and then Chinese manufacturers catch up quickly and compete mainly on cost. So I’m curious how people here see this playing out. Do you think Europe and the US still have room to compete in humanoid robotics? If yes, where does that advantage come from: software, regulation, integration, something else? Or do you expect the market to look similar to EVs over the next decade?
 
-2h ago
+3h ago
 
 ---
 
@@ -270,7 +270,7 @@ This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it g
 
 📺 DLLS Sports
 
-👁️ 22K • 👍 226 • 💬 24 • ⏱️ 0:14 • 20h ago
+👁️ 22K • 👍 226 • 💬 24 • ⏱️ 0:14 • 21h ago
 
 ---
 

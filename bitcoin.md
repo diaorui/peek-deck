@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T21:37:05.109604+00:00'
+updated: '2025-12-18T21:48:22.319745+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 21:37 UTC  
+**Last Updated:** December 18, 2025 at 21:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -5.3%  
-**30d:** -6.3%  
-**90d:** -26.2%  
-**1y:** -12.4%  
+**24h:** -0.6%  
+**7d:** -5.2%  
+**30d:** -6.2%  
+**90d:** -26.1%  
+**1y:** -12.3%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -113,13 +113,13 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 Bart Simpson incoming?
 
-5h ago
+6h ago
 
 ---
 
 **[This is crazy bro.](https://www.reddit.com/r/Bitcoin/comments/1pq2a0w/this_is_crazy_bro/)**
 
-28m ago
+39m ago
 
 ---
 
@@ -167,7 +167,7 @@ Investor's Business Daily • 4h ago
 
 A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
 
-Bitcoin Magazine • 44m ago
+Bitcoin Magazine • 55m ago
 
 ---
 
@@ -175,7 +175,7 @@ Bitcoin Magazine • 44m ago
 
 The bitcoin price experienced two more aggressive dumps today, now trading near $84,500.
 
-Bitcoin Magazine • 52m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
