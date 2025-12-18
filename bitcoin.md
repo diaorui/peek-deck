@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T04:19:50.149084+00:00'
+updated: '2025-12-18T04:50:46.237101+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 04:19 UTC  
+**Last Updated:** December 18, 2025 at 04:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,887.51
+### $86,863.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
+**24h:** +0.2%  
 **7d:** -3.8%  
 **30d:** -4.8%  
 **90d:** -25.0%  
-**1y:** -11.0%  
+**1y:** -10.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1731.82B
+**Market Cap:** $1733.18B
 Rank #1
 
 **Circulating Supply:** 19,963,584 BTC
@@ -64,7 +64,7 @@ Rank #1
 -31.2%
 
 **All-Time Low:** $67.81
-+127777.9%
++127901.8%
 
 ---
 
@@ -97,12 +97,6 @@ Dca time!! Dont buy at 130k!
 
 ---
 
-**[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
-
-11h ago
-
----
-
 **[Your Choice?](https://www.reddit.com/r/Bitcoin/comments/1poyk0f/your_choice/)**
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
@@ -115,7 +109,13 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart includes every on-chain transaction in that window. Each bar shows BTC spent by coin age band (UTXO age at spend). PnL is realized profit/loss vs the price when each UTXO was first created. The pie on the right shows total realized profit vs loss for the day. Key takeaways from today’s data: ~99.5% of all BTC spent came from coins younger than 1 year. A chunk of 1–1.5y coins realized losses, but the overwhelming majority of capitulation is from short-term holders / “tourists” dumping recent buys. Old coins (1.5y+) barely moved. Long-term HODLers are still largely sitting tight and stacking. The 180-1yr crowd growing recently is pointing to loss harvesting before 2026 to assist tax advantages. It represented about 30% of the selling at a loss by volume but was disproportionalty smaller in terms of actual loss relative to coins moved (this makes sense as coins held that long are not as much in a loss as the shorter term entrants since summer). This is a quick snapshot from my full-node dataset. I’ll post more breakdowns like this as I keep building out the tooling.
 
-3h ago
+4h ago
+
+---
+
+**[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
+
+12h ago
 
 ---
 
@@ -127,7 +127,7 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -151,21 +151,21 @@ Everyone needs to chill and stack sats
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price (BTC) analysis: Don't read too much into current action](https://www.coindesk.com/markets/2025/12/17/traders-mull-the-bottom-as-bitcoin-returns-to-week-s-lows-below-usd86-000)**
+**[Bitcoin drifts lower as $81.3k emerges as the market’s key fault line: Asia Morning Briefing](https://www.coindesk.com/markets/2025/12/18/bitcoin-drifts-lower-as-usd81-3k-emerges-as-the-market-s-key-fault-line-asia-morning-briefing)**
 
-One analyst isn't quite ready to call a bottom, but says bitcoin is surely in an oversold condition.
+With large caps still tracking bitcoin and high-beta assets already weakened, Glassnode’s True Market Mean has become the line investors are watching most closely.
 
-CoinDesk • 8h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqclFSXOxHsixUncLRJCNZip43ifmoKeRyzKa1BiHoP_0oJ9uOg480Ni&gaa_ts=69438451&gaa_sig=TkYaIS1h_zoXWPEZ6FvCwDzzErF7fITyspemYQbkt_UX9cOn9pINRx881m6vNG-S0NzONGd1TcXO2xUc9fJN6g%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqeb8E8ATepKRkErqDMBuSGSUdXUMpNpCDAkz9zehLXOS1rnyUQYVkQF&gaa_ts=69438b90&gaa_sig=W8xb45-hzlj_ffI-gFst3NYeynqIMNghegP8LxjAt_HhIY-9C32YeywRSQC4tPZNTBjK2lzaCE2N1XgSDdaw9g%3D%3D)**
 
 Barron's • 2d ago
 
@@ -179,6 +179,12 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
+
+CCN.com • 14h ago
+
+---
+
 **[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
@@ -187,9 +193,17 @@ Financial Times • 2d ago
 
 ---
 
+**[Should You Buy Bitcoin While It's Under $100,000?](https://www.fool.com/investing/2025/12/17/should-you-buy-bitcoin-while-its-under-100000/)**
+
+The world's top crypto has lost 30% of its value in the past couple of months.
+
+The Motley Fool • 16h ago
+
+---
+
 **[Anthropic Taps Bitcoin Miner With Trump Family Ties For Data Centers](https://www.theinformation.com/briefings/anthropic-taps-bitcoin-miner-trump-family-ties-data-centers)**
 
-The Information • 7h ago
+The Information • 8h ago
 
 ---
 
@@ -204,20 +218,6 @@ Investor's Business Daily • 13h ago
 Earlier this month, CleanSpark reported unaudited October and November 2025 production of 587 and then 587 Bitcoins, respectively, with November output slipping 4% as Bitcoin miners faced pressure from renewed crackdowns in China and a weaker crypto market backdrop. At the same time, CleanSpark is trying to broaden its identity beyond Bitcoin mining by raising US$1.15 billion through zero‑coupon convertible notes to fund data center, power infrastructure, and AI-focused high-performance...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Should You Buy Bitcoin While It's Under $100,000?](https://www.fool.com/investing/2025/12/17/should-you-buy-bitcoin-while-its-under-100000/)**
-
-The world's top crypto has lost 30% of its value in the past couple of months.
-
-The Motley Fool • 15h ago
-
----
-
-**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
-
-thestreet.com • 12h ago
 
 ---
 
@@ -339,7 +339,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 38K • 👍 2K • 💬 213 • ⏱️ 48:48 • 12h ago
+👁️ 38K • 👍 2K • 💬 213 • ⏱️ 48:48 • 13h ago
 
 ---
 

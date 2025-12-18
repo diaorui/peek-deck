@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T04:19:50.155231+00:00'
+updated: '2025-12-18T04:50:46.243184+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 04:19 UTC  
+**Last Updated:** December 18, 2025 at 04:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** -8.0%  
-**30d:** -6.2%  
-**90d:** -36.7%  
+**24h:** -2.8%  
+**7d:** -7.9%  
+**30d:** -6.1%  
+**90d:** -36.6%  
 **1y:** -17.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $342.43B
+**Market Cap:** $342.68B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.7%
+-42.6%
 
 **All-Time Low:** $0.43
-+654176.5%
++655225.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-2h ago
+3h ago
 
 ---
 
@@ -114,7 +114,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -122,7 +122,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 12h ago
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 13h ago
 
 ---
 
@@ -142,9 +142,25 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcY1jyONvs-8dUMzzdsqhHwNt2S_f6Iwp5eezWGg4ybYVhQFpT-wKKb&gaa_ts=69438452&gaa_sig=-O65YKPH3LKJfiex72U1s-Kb7ib-VmVj7D-kYgIhs25Rh7W0xdrMlEWCw86ge6cCTrXoBCEodHD_FRa163_Org%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdQ9zFMZftcMHeDBdbFzNaYIXht0SEcssejFBzQ7OoidvWUcBSMUN5A&gaa_ts=69438b91&gaa_sig=8yFkeQTqCdFWpsKJY7tLlIgJ__JD9rjlDcPQBpDQbnYPrIUo60DmOzZB9ut3grkmgX6FqnW04RVy-4CiXhOywA%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-fall-lowest-174706223.html)**
+
+Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Why Crypto Is Going Down Today? Bitcoin, XRP Price, Ethereum and Dogecoin Moves Under Death Cross](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-bitcoin-xrp-price-ethereum-and-dogecoin-moves-under-death-cross/)**
+
+Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
+
+Finance Magnates • 14h ago
 
 ---
 
@@ -176,14 +192,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Here's Why Ethereum Sank More than 4% Today](https://www.fool.com/investing/2025/12/17/heres-why-ethereum-sank-more-than-4-today/)**
-
-The world's second-largest cryptocurrency isn't feeling the love from investors today.
-
-The Motley Fool • 8h ago
-
----
-
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
 The Block • 15h ago
@@ -194,7 +202,7 @@ The Block • 15h ago
 
 Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
 
-Investing.com • 18h ago
+Investing.com • 19h ago
 
 ---
 
@@ -203,14 +211,6 @@ Investing.com • 18h ago
 Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
 
 ts2.tech • 7h ago
-
----
-
-**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://finance.yahoo.com/news/tom-lees-bitmine-keeps-buying-154149939.html)**
-
-Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -224,7 +224,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 7K • 👍 418 • 💬 189 • ⏱️ 33:33 • 11h ago
+👁️ 7K • 👍 418 • 💬 189 • ⏱️ 33:33 • 12h ago
 
 ---
 
@@ -244,7 +244,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 554 • 👍 30 • 💬 72 • ⏱️ 11:07 • 9h ago
+👁️ 554 • 👍 30 • 💬 72 • ⏱️ 11:07 • 10h ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 120 • 💬 6 • ⏱️ 4:45 • 12h ago
+👁️ 3K • 👍 120 • 💬 6 • ⏱️ 4:45 • 13h ago
 
 ---
 
