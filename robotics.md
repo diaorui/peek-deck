@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T15:34:01.648775+00:00'
+updated: '2025-12-18T15:54:55.795521+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 15:34 UTC  
+**Last Updated:** December 18, 2025 at 15:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
+
+1h ago
+
+---
+
 **[Demo of a robotic arm in simulation generating randomized grasp trajectories](https://www.reddit.com/r/robotics/comments/1ppom5w/demo_of_a_robotic_arm_in_simulation_generating/)**
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
 4h ago
-
----
-
-**[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
-
-48m ago
 
 ---
 
@@ -88,7 +88,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 8m ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 29m ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hello, I’m a controls engineer who does PLC. I have some experience with Luka and Fanuc robots. I have a robot that is at home with no alarms, servo on, plc is commanding it to do its job. It just sits and won’t move I attached a picture of the line of code it’s on thought maybe you guys could help me understand.
 
-18m ago
+39m ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello, I’m a controls engineer who does PLC. I have some experience with Luka 
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-22m ago
+43m ago
 
 ---
 
@@ -144,9 +144,9 @@ The Robot Report • 1d ago
 
 **[The Roomba Was a Disappointment](https://www.theatlantic.com/technology/2025/12/roomba-dream-home-robotics/685293/)**
 
-The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.&nbsp;&nbsp;
+The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.
 
-The Atlantic • 21h ago
+The Atlantic • 22h ago
 
 ---
 
@@ -174,17 +174,17 @@ navalnews.com • 1d ago
 
 ---
 
-**[The world’s smallest programmable, autonomous robots](https://penntoday.upenn.edu/news/penn-engineering-worlds-smallest-programmable-autonomous-robots)**
+**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
 
-Engineers at Penn Engineering have created robots barely visible to the naked eye that operate without tethers, magnetic fields or joystick-like controls.
-
-Penn Today • 1d ago
+University of Michigan • 17h ago
 
 ---
 
-**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
 
-University of Michigan • 16h ago
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 69K • 👍 955 • 💬 143 • ⏱️ 11:23 • 2d ago
+👁️ 69K • 👍 956 • 💬 143 • ⏱️ 11:23 • 2d ago
 
 ---
 
@@ -228,7 +228,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 22K • 👍 2K • 💬 53 • ⏱️ 1:38 • 1d ago
+👁️ 22K • 👍 2K • 💬 54 • ⏱️ 1:38 • 1d ago
 
 ---
 
@@ -238,45 +238,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 391K • 👍 13K • 💬 424 • ⏱️ 0:34 • 4d ago
-
----
-
-**[ROBOT got KNOCKED OUT](https://www.youtube.com/watch?v=eX-TS4JEuEw)**
-
-this short clip, a walking robot encounters an unexpected moment of impact when it gets pushed by an NBA player and ends up ...
-
-📺 Unique Mechanics
-
-👁️ 897 • 👍 35 • 💬 3 • ⏱️ 0:28 • 2h ago
-
----
-
-**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
-
-GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
-
-📺 Gen Women AI
-
-👁️ 94K • 👍 928 • 💬 20 • ⏱️ 0:09 • 5d ago
-
----
-
-**[✅ “This Is REAL: Kyrie Irving FIGHTS a Robot 😱](https://www.youtube.com/watch?v=LKEBOOKg_Mc)**
-
-This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it gets physical The robot throws a kick — Kyrie ...
-
-📺 DLLS Sports
-
-👁️ 20K • 👍 223 • 💬 23 • ⏱️ 0:14 • 14h ago
-
----
-
-**[2025 Robot Expo: Humanoid ‘X4’ Unveiled. #humanoidrobot #ai #robotics #robot #x4](https://www.youtube.com/watch?v=xbG4fFaaQ1s)**
-
-📺 AI . Robot
-
-👁️ 57K • 👍 651 • 💬 9 • ⏱️ 0:21 • 3d ago
+👁️ 392K • 👍 13K • 💬 424 • ⏱️ 0:34 • 4d ago
 
 ---
 
@@ -287,6 +249,44 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 📺 CNET
 
 👁️ 33K • 👍 314 • 💬 30 • ⏱️ 1:05 • 3d ago
+
+---
+
+**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
+
+GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
+
+📺 Gen Women AI
+
+👁️ 94K • 👍 928 • 💬 20 • ⏱️ 0:09 • 6d ago
+
+---
+
+**[✅ “This Is REAL: Kyrie Irving FIGHTS a Robot 😱](https://www.youtube.com/watch?v=LKEBOOKg_Mc)**
+
+This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it gets physical The robot throws a kick — Kyrie ...
+
+📺 DLLS Sports
+
+👁️ 20K • 👍 223 • 💬 23 • ⏱️ 0:14 • 15h ago
+
+---
+
+**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
+
+📺 PRO ROBOTS
+
+👁️ 247K • 👍 5K • 💬 430 • ⏱️ 26:54 • 4d ago
+
+---
+
+**[2025 Robot Expo: Humanoid ‘X4’ Unveiled. #humanoidrobot #ai #robotics #robot #x4](https://www.youtube.com/watch?v=xbG4fFaaQ1s)**
+
+📺 AI . Robot
+
+👁️ 57K • 👍 652 • 💬 9 • ⏱️ 0:21 • 3d ago
 
 ---
 

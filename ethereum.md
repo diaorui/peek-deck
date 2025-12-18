@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T15:34:01.645823+00:00'
+updated: '2025-12-18T15:54:55.792248+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 15:34 UTC  
+**Last Updated:** December 18, 2025 at 15:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.8%  
-**7d:** -4.0%  
-**30d:** -2.1%  
-**90d:** -33.9%  
-**1y:** -13.6%  
+**24h:** +4.3%  
+**7d:** -3.6%  
+**30d:** -1.7%  
+**90d:** -33.6%  
+**1y:** -13.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.00B
+**Market Cap:** $358.38B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.0%
 
 **All-Time Low:** $0.43
-+684785.4%
++685861.7%
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-13h ago
+14h ago
 
 ---
 
 **[Let a thousand societies bloom | Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/1ppc5lm/let_a_thousand_societies_bloom_vitalik_buterin/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 15h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 16h ago
 
 ---
 
@@ -108,7 +108,7 @@ so i sent robinhood some coins and ever since then im receiving small amounts of
 
 I am staking ETH for a long time using Zengo wallet. I always thought they have one of the highest staking rewards when you don't want to stake directly on chain or any other more complicated solution. But recently I tested Revolut ETH staking and results suprised me. I left the amounts staked on both platforms untouched for 28 days. Then I look at how much did I make by staking on both platforms, devided by 28, multiplied by 365 devided by the amount staked and I got Zengo: 2.46% ROI Revolut: 4.92% ROI That is a huge difference! I wasn't able to find a good source of information on the comparation of different staking providers. All the information and data just provide vague values that cannot be compared. Was my statistic samle just too small and doesn't actually show correct numbers or does Revolut staking really make 2 times bigger returns? What is the word on the street? Just to save some time. I know that Zengo and Revolut staking is different. I don't care about that right now, only focusing on pure invest > stake > earn. PS: I find it ridiculous (borderline illegal) that basically a financial institution (Zengo) offeres a service that makes it almost impossible to check what are the returns. The on chain data are completely obfuscated through their staking provider so there is no way how to see the periodic earnings. Only the overall sum of all your ernings is visible. Apart from making screenshots and calculating it yourself, you have no way to check how much you are actually earning over time.
 
-14h ago
+15h ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -155,12 +155,6 @@ Decrypt • 2h ago
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
 The Block • 1d ago
-
----
-
-**[Ethereum Foundation researchers warn of storage burden from 'state bloat,' propose paths to ease node bottleneck](https://www.theblock.co/post/383156/ethereum-foundation-researchers-warn-of-storage-burden-from-state-bloat)**
-
-The Block • 1h ago
 
 ---
 
@@ -186,7 +180,7 @@ ts2.tech • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdPBgtSdImnxposf28ZXAKimM2_JSl_lgXboO1sSsE7Xwrk8K2Ndj7I&gaa_ts=69442255&gaa_sig=BE1vpzlWcPSISiFzx2Z7FKezbFMicoiAQCThiNZgFj73q7hNH1dLPkl5daSomTwEYbZjUdKpsMXrMOJxgOOUZw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdRUesuFQfRw0raWtx4hYrBkKOMbsMbFwiNGGymF5RxOpnEg0cGmuta&gaa_ts=6944271e&gaa_sig=pgSToLv7UtT5tCHTw_lm2tIfNWwi-rTyblj9RFDdJDkP6T-ixkMEmbI6R7cUu81q21dJtsOqr7q4ZrEgnB_PKw%3D%3D)**
 
 Barron's • 1d ago
 
@@ -216,6 +210,14 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Ethereum Risks Slide To $2,000 If December Closes Below This Level: Analyst](https://www.tradingview.com/news/newsbtc:bd880751f094b:0-ethereum-risks-slide-to-2-000-if-december-closes-below-this-level-analyst/)**
+
+A cryptocurrency analyst has explained where Ethereum could go next based on a long-term Parallel Channel forming in its monthly price chart.Ethereum Has Been Trading Inside A Parallel Channel For The Last Few YearsIn a new post on X, analyst Ali Martinez has talked about a long-term pattern that E…
+
+TradingView — Track All Markets • 9h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -226,37 +228,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 748 • 👍 79 • 💬 1 • ⏱️ 7:17 • 2h ago
-
----
-
-**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=KTVWe1FFNhA)**
-
-Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Demat Account Dhan ...
-
-📺 Trade with Burner
-
-👁️ 4K • 👍 616 • 42m ago
-
----
-
-**[REALISTIC ETH Price Prediction for 2026](https://www.youtube.com/watch?v=M2T6_rjIvpA)**
-
-As we head into what I'm expecting to be a "Bottom Year" (or bear market year), it's time to look at realistic and reasonable targets ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 8K • 👍 370 • 💬 72 • ⏱️ 11:01 • 1d ago
-
----
-
-**[Why I’m Shorting $1M of ETH (Again)](https://www.youtube.com/watch?v=4lvRHZaCTR4)**
-
-Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bear thesis over the last few months, and why I ...
-
-📺 Taiki Maeda
-
-👁️ 10K • 👍 511 • 💬 216 • ⏱️ 33:33 • 22h ago
+👁️ 904 • 👍 88 • 💬 2 • ⏱️ 7:17 • 2h ago
 
 ---
 
@@ -266,7 +238,27 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 236 • 👍 19 • 💬 1 • ⏱️ 4:50 • 4h ago
+👁️ 261 • 👍 19 • 💬 1 • ⏱️ 4:50 • 5h ago
+
+---
+
+**[REALISTIC ETH Price Prediction for 2026](https://www.youtube.com/watch?v=M2T6_rjIvpA)**
+
+As we head into what I'm expecting to be a "Bottom Year" (or bear market year), it's time to look at realistic and reasonable targets ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 8K • 👍 369 • 💬 72 • ⏱️ 11:01 • 1d ago
+
+---
+
+**[Why I’m Shorting $1M of ETH (Again)](https://www.youtube.com/watch?v=4lvRHZaCTR4)**
+
+Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bear thesis over the last few months, and why I ...
+
+📺 Taiki Maeda
+
+👁️ 10K • 👍 510 • 💬 216 • ⏱️ 33:33 • 23h ago
 
 ---
 
@@ -276,7 +268,17 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 361 • 💬 70 • ⏱️ 20:34 • 1d ago
+👁️ 13K • 👍 361 • 💬 71 • ⏱️ 20:34 • 1d ago
+
+---
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=KTVWe1FFNhA)**
+
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Demat Account Dhan ...
+
+📺 Trade with Burner
+
+👁️ 4K • 👍 784 • 1h ago
 
 ---
 
@@ -316,7 +318,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 757 • 👍 33 • 💬 72 • ⏱️ 11:07 • 21h ago
+👁️ 792 • 👍 33 • 💬 72 • ⏱️ 11:07 • 21h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T15:34:01.640230+00:00'
+updated: '2025-12-18T15:54:55.786249+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 15:34 UTC  
+**Last Updated:** December 18, 2025 at 15:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,416.81
+### $89,236.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** -2.1%  
-**30d:** -3.1%  
-**90d:** -23.7%  
-**1y:** -9.4%  
+**24h:** +2.1%  
+**7d:** -1.8%  
+**30d:** -2.8%  
+**90d:** -23.4%  
+**1y:** -9.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1764.68B
+**Market Cap:** $1770.65B
 Rank #1
 
-**Circulating Supply:** 19,963,775 BTC
+**Circulating Supply:** 19,963,796 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.9%
+-29.7%
 
 **All-Time Low:** $67.81
-+130253.9%
++130658.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -99,7 +99,7 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 Brazil’s largest private bank, Itaú Unibanco, recently suggested that investors consider allocating around 1%–3% of their portfolios to Bitcoin, framing it as a diversification and risk-management tool rather than a speculative position. According to Itaú Asset Management, the idea isn’t market timing or short-term performance, but long-term positioning. Bitcoin is viewed as a complementary asset that may help offset currency risk, especially after the Brazilian real reached record lows in late 2024. The recommendation also highlights regulated exposure through local products like BITI11, a Brazil-listed Bitcoin ETF, which allows investors to gain BTC exposure within a familiar regulatory framework. This seems to reflect a broader institutional trend where Bitcoin is increasingly discussed as a small but structured portfolio component, particularly in emerging markets. Curious how others here view this approach — is a 1%–3% Bitcoin allocation becoming a conservative baseline for institutional portfolios, or does it still feel premature?
 
-4h ago
+5h ago
 
 ---
 
@@ -137,11 +137,11 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 ---
 
-**[Today ~99.5% of BTC movement came from coins held less than 1 year](https://www.reddit.com/r/Bitcoin/comments/1ppcxg0/today_995_of_btc_movement_came_from_coins_held/)**
+**[Currently going all in on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ppqvmv/currently_going_all_in_on_bitcoin/)**
 
-Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart includes every on-chain transaction in that window. Each bar shows BTC spent by coin age band (UTXO age at spend). PnL is realized profit/loss vs the price when each UTXO was first created. The pie on the right shows total realized profit vs loss for the day. Key takeaways from today’s data: ~99.5% of all BTC spent came from coins younger than 1 year. A chunk of 1–1.5y coins realized losses, but the overwhelming majority of capitulation is from short-term holders / “tourists” dumping recent buys. Old coins (1.5y+) barely moved. Long-term HODLers are still largely sitting tight and stacking. The 180-1yr crowd growing recently is pointing to loss harvesting before 2026 to assist tax advantages. It represented about 30% of the selling at a loss by volume but was disproportionalty smaller in terms of actual loss relative to coins moved (this makes sense as coins held that long are not as much in a loss as the shorter term entrants since summer). This is a quick snapshot from my full-node dataset. I’ll post more breakdowns like this as I keep building out the tooling.
+With these prices I don’t know if I’ll ever see them again. I was investing in other coins but at this time I just feel when Bitcoin rebounds I’ll be glad I bought it at these prices. So I’ve moved the dollar amount I’ve invested into all the coins each payday, to just Bitcoin purchases. I just feel I won’t be missing out if I don’t invest now in other coins. Where’s if I balance out my crypto purchases, I’ll be kicking myself for not buying more Bitcoin.
 
-15h ago
+2h ago
 
 ---
 
@@ -157,43 +157,23 @@ CoinDesk • 9h ago
 
 ---
 
-**[BTC, XRP, ETH, ADA Price News: Bitcoin to $10,000 in 2026? It's Possible](https://www.coindesk.com/markets/2025/12/18/bitcoin-could-drop-to-usd10-000-one-analyst-says-spelling-doom-for-eth-ada-xrp)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdAPwp5lbH7urmR0b0J7wYh9lLTqVKMSfEpjV4e475sm3keFTyjqYgG&gaa_ts=69442718&gaa_sig=7mOUvanYciW8sTQj00N3ZbVTj8nXii-6MxSHnVd5nBBhoMyJQf9VbYHFyuLElL6ue4vqt_4PxFPdJ3m4HFNnqQ%3D%3D)**
 
-Traders are positioning for downside risks, with a significant build-up of put options indicating expectations of a dip below $85,000.
-
-CoinDesk • 10h ago
+Barron's • 2d ago
 
 ---
 
-**[Bitcoin price (BTC) news: BTC adds to gains after soft inflation numbers](https://www.coindesk.com/markets/2025/12/18/u-s-inflation-data-surprises-with-cpi-higher-by-just-2-7-in-november)**
+**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Bitcoin shot above $88,000 as forecasts had been for inflation to continue to run above 3%.
-
-CoinDesk • 1h ago
+Investor's Business Daily • 4h ago
 
 ---
 
-**[Bitcoin ETFs Notch $457M Haul, Third-Largest Since October](https://finance.yahoo.com/news/bitcoin-etfs-notch-457m-haul-140115738.html)**
+**[Michael Saylor Buys Another $1B in Bitcoin as Grayscale Predicts All Time High Within 6 Months — Is It Likely?](https://finance.yahoo.com/news/michael-saylor-buys-another-1b-121215863.html)**
 
-Bitcoin ETFs saw $457 million in inflows, signaling a 'flight to quality' as capital consolidates around Bitcoin amid Ethereum outflows.
+Strategy added nearly $1 billion worth of Bitcoin for a second straight week. Grayscale expects Bitcoin to reach a new all-time high in the first ...
 
-Yahoo Finance • 1h ago
-
----
-
-**[U.S. bitcoin ETFs see strongest inflows for over a month as BTC dominance hits 60%](https://www.coindesk.com/markets/2025/12/18/u-s-bitcoin-etfs-see-strongest-inflows-for-over-a-month-as-btc-dominance-hits-60)**
-
-Fidelity's FBTC recorded a top five inflow day as the ETFs took in a combined $457 million amid sharp BTC price swings.
-
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin ETFs Notch $457M Haul, Third-Largest Since October](https://decrypt.co/352874/bitcoin-etfs-notch-457m-haul-third-largest-since-october)**
-
-Bitcoin ETFs saw $457 million in inflows, signaling a 'flight to quality' as capital consolidates around Bitcoin amid Ethereum outflows.
-
-Decrypt • 1h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -201,7 +181,7 @@ Decrypt • 1h ago
 
 The continued plunge in NAKA's share price has left the company valued at a steep decline to the value of its bitcoin holdings.
 
-CoinDesk • 35m ago
+CoinDesk • 56m ago
 
 ---
 
@@ -224,6 +204,22 @@ The Block • 9h ago
 Bhutan is pledging up to 10,000 bitcoin for its Gelephu Mindfulness City, that's nearly $1 billion at current prices.
 
 Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
+
+US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Africa’s first Bitcoin country faces state asset risks from opaque crypto schemes](https://africa.businessinsider.com/local/markets/africas-first-bitcoin-country-faces-state-asset-risks-from-opaque-crypto-schemes/1n58w0f)**
+
+The Central African Republic (CAR) adopted Bitcoin as legal tender in 2022, becoming the first African nation to take this step
+
+Business Insider Africa • 4h ago
 
 ---
 
@@ -273,7 +269,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 **[Bitcoin-Gold Flippening – Flip.gold](https://news.ycombinator.com/item?id=46286571)**
 
-Current flip point: $1,490,141 per bitcoin - 5.79% progress
+Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 ⬆️ 1 • 💬 0 • 2d ago • [flip.gold](https://flip.gold/)
 
@@ -303,7 +299,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 323 • ⏱️ 8:31 • 14h ago
+👁️ 26K • 👍 1K • 💬 323 • ⏱️ 8:31 • 14h ago
 
 ---
 
@@ -313,7 +309,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 3K • 💬 182 • ⏱️ 19:03 • 15h ago
+👁️ 35K • 👍 3K • 💬 183 • ⏱️ 19:03 • 16h ago
 
 ---
 
@@ -323,7 +319,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 4K • 💬 346 • ⏱️ 9:01 • 1d ago
+👁️ 66K • 👍 4K • 💬 347 • ⏱️ 9:01 • 1d ago
 
 ---
 
@@ -343,7 +339,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 15K • 👍 668 • 💬 23 • ⏱️ 21:23 • 22h ago
+👁️ 15K • 👍 671 • 💬 23 • ⏱️ 21:23 • 22h ago
 
 ---
 
@@ -351,7 +347,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 132 • 💬 7 • ⏱️ 0:47 • 13h ago
+👁️ 8K • 👍 134 • 💬 7 • ⏱️ 0:47 • 13h ago
 
 ---
 
@@ -361,7 +357,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 40K • 👍 2K • 💬 221 • ⏱️ 48:48 • 1d ago
+👁️ 40K • 👍 2K • 💬 224 • ⏱️ 48:48 • 1d ago
 
 ---
 
@@ -375,23 +371,23 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 ---
 
-**[This Macro Expert Thinks Bitcoin Is Going Lower in 2026...](https://www.youtube.com/watch?v=MWTIdtr2GXU)**
-
-Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned bearish, selling most of his Bitcoin around ...
-
-📺 Swan Bitcoin
-
-👁️ 63K • 👍 2K • 💬 398 • ⏱️ 18:36 • 1d ago
-
----
-
 **[Bitcoin &amp; Crypto The End](https://www.youtube.com/watch?v=Cs-ronhi6TI)**
 
 BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
 
 📺 Lark Davis
 
-👁️ 9K • 👍 595 • 💬 55 • ⏱️ 46:47 • 3h ago
+👁️ 10K • 👍 612 • 💬 56 • ⏱️ 46:47 • 3h ago
+
+---
+
+**[This Macro Expert Thinks Bitcoin Is Going Lower in 2026...](https://www.youtube.com/watch?v=MWTIdtr2GXU)**
+
+Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned bearish, selling most of his Bitcoin around ...
+
+📺 Swan Bitcoin
+
+👁️ 63K • 👍 2K • 💬 399 • ⏱️ 18:36 • 1d ago
 
 ---
 
