@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T17:42:52.157018+00:00'
+updated: '2025-12-18T17:56:27.040010+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 17:42 UTC  
+**Last Updated:** December 18, 2025 at 17:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -98,7 +98,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 Hi everyone, I am trying to model a closed loop feedback system for application in autonomous robot project. My requirements for the control system accuracy and quick response time from signals sent by the STM32. I am currently stuck on the first step which is modelling the entire system. The encoder: I do not know how to model this. It's placed on the shaft of the motor and rotates along with with it, which causes the photo-interrupter to output pulses. The width of the pulses depend on rotational speed (faster angular velocity, shorter pulse). These pulses are sent back to the STM32 and I measure speed from them. The H-bridge: This is a bit complex because there are several states to model (pwm on, pwm off, in between states, and dynamic breaking state). Should I model each off these states with the entire system? As the H:bridge on state (where current is flowing through the motor) in the state in which the motor is speeding up. The motor: this was okay, however, I am not sure if my model is too simple. I have not included the inertia of the robotic system, or included non-linear friction in the model. Is there a better way to model the motor + including the effects of other variables (Inertia from robot etc..) I would appreciate any help, thank you!
 
-52m ago
+1h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Robot Report • 1d ago
 
 The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.
 
-The Atlantic • 23h ago
+The Atlantic • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ navalnews.com • 1d ago
 
 **[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
 
-University of Michigan • 18h ago
+University of Michigan • 19h ago
 
 ---
 
@@ -198,7 +198,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 69K • 👍 956 • 💬 143 • ⏱️ 11:23 • 2d ago
+👁️ 70K • 👍 959 • 💬 144 • ⏱️ 11:23 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ Thanks to our LMG clips sponsors dbrand, Dell, and Secretlab. You can check them
 
 📺 LMG Clips
 
-👁️ 35K • 👍 1K • 💬 189 • ⏱️ 7:42 • 1d ago
+👁️ 36K • 👍 1K • 💬 190 • ⏱️ 7:42 • 1d ago
 
 ---
 
@@ -218,7 +218,27 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 30K • 👍 732 • 💬 111 • ⏱️ 6:41 • 4d ago
+👁️ 30K • 👍 733 • 💬 111 • ⏱️ 6:41 • 4d ago
+
+---
+
+**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
+
+📺 PRO ROBOTS
+
+👁️ 256K • 👍 5K • 💬 446 • ⏱️ 26:54 • 4d ago
+
+---
+
+**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+
+Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+
+📺 vt.physics
+
+👁️ 394K • 👍 13K • 💬 426 • ⏱️ 0:34 • 4d ago
 
 ---
 
@@ -229,16 +249,6 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 📺 Dr Ben Miles
 
 👁️ 22K • 👍 2K • 💬 54 • ⏱️ 1:38 • 2d ago
-
----
-
-**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
-
-Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
-
-📺 vt.physics
-
-👁️ 392K • 👍 13K • 💬 424 • ⏱️ 0:34 • 4d ago
 
 ---
 
@@ -258,7 +268,17 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 📺 Gen Women AI
 
-👁️ 94K • 👍 928 • 💬 20 • ⏱️ 0:09 • 6d ago
+👁️ 94K • 👍 929 • 💬 20 • ⏱️ 0:09 • 6d ago
+
+---
+
+**[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
+
+PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
+
+📺 LIGHTS ARE OFF
+
+👁️ 2.4M • 👍 89K • 💬 9K • ⏱️ 8:45 • 5d ago
 
 ---
 
@@ -268,25 +288,7 @@ This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it g
 
 📺 DLLS Sports
 
-👁️ 20K • 👍 223 • 💬 23 • ⏱️ 0:14 • 17h ago
-
----
-
-**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
-
-📺 PRO ROBOTS
-
-👁️ 247K • 👍 5K • 💬 430 • ⏱️ 26:54 • 4d ago
-
----
-
-**[2025 Robot Expo: Humanoid ‘X4’ Unveiled. #humanoidrobot #ai #robotics #robot #x4](https://www.youtube.com/watch?v=xbG4fFaaQ1s)**
-
-📺 AI . Robot
-
-👁️ 57K • 👍 652 • 💬 9 • ⏱️ 0:21 • 3d ago
+👁️ 21K • 👍 223 • 💬 23 • ⏱️ 0:14 • 17h ago
 
 ---
 

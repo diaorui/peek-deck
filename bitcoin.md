@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T17:42:52.147718+00:00'
+updated: '2025-12-18T17:56:27.030755+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 17:42 UTC  
+**Last Updated:** December 18, 2025 at 17:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,682.85
+### $86,461.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -4.2%  
-**30d:** -5.2%  
-**90d:** -25.3%  
-**1y:** -11.3%  
+**24h:** +0.5%  
+**7d:** -4.4%  
+**30d:** -5.4%  
+**90d:** -25.4%  
+**1y:** -11.5%  
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -137,7 +137,7 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-17m ago
+30m ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 8h ago
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -163,7 +163,7 @@ Investor's Business Daily • 5h ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 16m ago
+Bloomberg.com • 29m ago
 
 ---
 
@@ -171,7 +171,7 @@ Bloomberg.com • 16m ago
 
 Jamie Golombek: Ruling allows taxpayer’s $505,142 bitcoin loss through defunct Quadriga exchange to be deducted against her income
 
-Yahoo! Finance Canada • 55m ago
+Yahoo! Finance Canada • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo! Finance Canada • 55m ago
 
 A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -295,23 +295,23 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Had Another Giant Fake Out](https://www.youtube.com/watch?v=B5qi8WX2SrE)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 26K • 👍 1K • 💬 323 • ⏱️ 8:31 • 16h ago
-
----
-
 **[Did $1M BITCOIN Just Become INEVITABLE?](https://www.youtube.com/watch?v=_koljqxMAdk)**
 
 Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop is a storm building. Whale buys, institutional ...
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 3K • 💬 183 • ⏱️ 19:03 • 17h ago
+👁️ 37K • 👍 3K • 💬 210 • ⏱️ 19:03 • 18h ago
+
+---
+
+**[Bitcoin Had Another Giant Fake Out](https://www.youtube.com/watch?v=B5qi8WX2SrE)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 26K • 👍 1K • 💬 328 • ⏱️ 8:31 • 16h ago
 
 ---
 
@@ -321,7 +321,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 4K • 💬 347 • ⏱️ 9:01 • 1d ago
+👁️ 67K • 👍 4K • 💬 357 • ⏱️ 9:01 • 1d ago
 
 ---
 
@@ -331,45 +331,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 20K • 👍 685 • 💬 212 • ⏱️ 8:33 • 1d ago
-
----
-
-**[Jack Mallers - &quot;This Is the Bitcoin Drop I Tried to Prepare You For&quot;](https://www.youtube.com/watch?v=NR_XAKD4e58)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 15K • 👍 671 • 💬 23 • ⏱️ 21:23 • 1d ago
-
----
-
-**[BITCOIN WHALES KNOW SOMETHING!](https://www.youtube.com/watch?v=7TYqt7nxx9s)**
-
-📺 Discover Crypto
-
-👁️ 8K • 👍 134 • 💬 7 • ⏱️ 0:47 • 15h ago
-
----
-
-**[What Michael Saylor Really Wants to Do With Bitcoin](https://www.youtube.com/watch?v=lEr_8unFln0)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 40K • 👍 2K • 💬 224 • ⏱️ 48:48 • 1d ago
-
----
-
-**[PAY ATTENTION: Bitcoin SET To DUMP On December 19th?](https://www.youtube.com/watch?v=kNCOJj4WUiA)**
-
-Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopolitical tensions and monetary risks converge.
-
-📺 The Wolf Of All Streets
-
-👁️ 24K • 👍 1K • 💬 476 • ⏱️ 46:53 • 1d ago
+👁️ 20K • 👍 687 • 💬 215 • ⏱️ 8:33 • 1d ago
 
 ---
 
@@ -379,17 +341,57 @@ BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available ev
 
 📺 Lark Davis
 
-👁️ 10K • 👍 612 • 💬 56 • ⏱️ 46:47 • 5h ago
+👁️ 13K • 👍 698 • 💬 70 • ⏱️ 46:47 • 6h ago
 
 ---
 
-**[This Macro Expert Thinks Bitcoin Is Going Lower in 2026...](https://www.youtube.com/watch?v=MWTIdtr2GXU)**
+**[I Invested $25 into Bitcoin Every Day for 2 Weeks](https://www.youtube.com/watch?v=RzWyWIK7FFM)**
 
-Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned bearish, selling most of his Bitcoin around ...
+Sign up for Coinbase and get $30 in Free Bitcoin it will also support the channel ...
 
-📺 Swan Bitcoin
+📺 Toursio
 
-👁️ 63K • 👍 2K • 💬 399 • ⏱️ 18:36 • 1d ago
+👁️ 28 • 👍 3 • 💬 21 • ⏱️ 3:19 • 5h ago
+
+---
+
+**[A Warning To Crypto Investors! [Only BUY When BTC Hits This Level]](https://www.youtube.com/watch?v=YxBBQQ3PQNo)**
+
+As Bitcoin enters a period of extreme fear, Kyledoops reveals the high-consequence support levels you must watch before buying ...
+
+📺 Crypto Banter
+
+👁️ 18K • 👍 1K • 💬 29 • ⏱️ 46:50 • 9h ago
+
+---
+
+**[Jack Mallers - &quot;This Is the Bitcoin Drop I Tried to Prepare You For&quot;](https://www.youtube.com/watch?v=NR_XAKD4e58)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 16K • 👍 699 • 💬 23 • ⏱️ 21:23 • 1d ago
+
+---
+
+**[CBDC Ban Promise Broken: Bitcoin&#39;s Massive Bull Run Incoming!](https://www.youtube.com/watch?v=py_xly_3yxM)**
+
+Rustin talks about CBDC Ban Promise Broken: Bitcoin's Massive Bull Run Incoming! Brought to you by Bitcoinwell.com a ...
+
+📺 Simply Bitcoin
+
+👁️ 1K • 👍 82 • ⏱️ 0:49 • 3h ago
+
+---
+
+**[CRYPTO Always Feels Broken Right Before IT ISN&#39;T (This Time NOT DIFFERENT)](https://www.youtube.com/watch?v=iXZdNxj3ExY)**
+
+Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapitalventure.ai I think a lot of the frustration in crypto ...
+
+📺 Dan Gambardello
+
+👁️ 14K • 👍 981 • 💬 534 • ⏱️ 18:46 • 20h ago
 
 ---
 
