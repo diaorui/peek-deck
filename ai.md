@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T10:21:45.031952+00:00'
+updated: '2025-12-18T10:45:43.311695+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 10:21 UTC  
+**Last Updated:** December 18, 2025 at 10:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 12h ago
+🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 13h ago
 
 ---
 
@@ -57,7 +57,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 15h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 16h ago
 
 ---
 
@@ -81,7 +81,7 @@ TL;DR: I think modern models are an incredible productivity aid to senior develo
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 13h ago
+🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 14h ago
 
 ---
 
@@ -89,13 +89,13 @@ School districts from Utah to Ohio to Alabama are spending thousands of dollars 
 
 I think I noticed that, relying on llms might have reduced certain aspects of my intelligence. But forcing myself to explain to the jagged intelligence of LLM what I truly means seems to have also translated to better communicating my thoughts to other humans. Do you have a similar or perhaps opposite experience ?
 
-16m ago
+40m ago
 
 ---
 
 **[I just met Qwen AI. ChatGPT, DeepSeek, Claude, Gemini, Perplexity, and Grok weigh in.](https://www.reddit.com/r/artificial/comments/1ppn2wt/i_just_met_qwen_ai_chatgpt_deepseek_claude_gemini/)**
 
-24m ago
+48m ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 1h ago
 
 Palantir CTO reveals how AI technology drives blue-collar productivity boom, creating jobs for factory workers and nurses rather than mass unemployment.
 
-Fox Business • 8h ago
+Fox Business • 9h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 1h ago
 
 Even as AI roles increase, mentions of the technology in job listings are down. It's a sign that bosses already expect you to use the technology.
 
-Business Insider • 12m ago
+Business Insider • 36m ago
 
 ---
 
@@ -281,7 +281,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 25K • 👍 854 • 💬 40 • ⏱️ 11:44 • 1d ago
+👁️ 26K • 👍 890 • 💬 41 • ⏱️ 11:44 • 1d ago
 
 ---
 
@@ -291,17 +291,7 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 213K • 👍 4K • 💬 1K • ⏱️ 14:37 • 1d ago
-
----
-
-**[Dylan Ratigan: The coming year will be a tsunami as AI eliminates jobs for young people](https://www.youtube.com/watch?v=JwfQbpsvsME)**
-
-O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratigan join Morning Joe to discuss how AI will ...
-
-📺 MS NOW
-
-👁️ 22K • 👍 476 • 💬 344 • ⏱️ 14:44 • 20h ago
+👁️ 214K • 👍 4K • 💬 1K • ⏱️ 14:37 • 1d ago
 
 ---
 
@@ -311,7 +301,7 @@ A landowner turned down $8M from an AI company.
 
 📺 NowThis Impact
 
-👁️ 626K • 👍 20K • 💬 2K • ⏱️ 0:55 • 1d ago
+👁️ 632K • 👍 20K • 💬 2K • ⏱️ 0:55 • 1d ago
 
 ---
 
@@ -321,7 +311,7 @@ Check out Glue: https://bit.ly/4pOsxI2 Free 30 day trial. Work gets done where y
 
 📺 Wes Roth
 
-👁️ 52K • 👍 1K • 💬 516 • ⏱️ 23:58 • 1d ago
+👁️ 53K • 👍 1K • 💬 518 • ⏱️ 23:58 • 1d ago
 
 ---
 
@@ -331,17 +321,27 @@ Asmongold plays an AI Survivors-like game for the first time. ▻ Asmongold's Tw
 
 📺 Asmongold TV  
 
-👁️ 328K • 👍 9K • 💬 2K • ⏱️ 57:02 • 21h ago
+👁️ 341K • 👍 9K • 💬 2K • ⏱️ 57:02 • 21h ago
 
 ---
 
-**[Manus Just Dropped Its Most Powerful AI Yet](https://www.youtube.com/watch?v=vXMrezKs8Hw)**
+**[Bring back bullying to stop AI overconsumption 🤖😪🤣 | Tyler Austin Harper | The Downside Podcast](https://www.youtube.com/watch?v=PXwV2Quzhg0)**
 
-Manus released version 1.6 with its most powerful agent yet, pushing tasks to finish end to end with less supervision and fewer ...
+Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a text next time I'm performing in your city ...
 
-📺 AI Revolution
+📺 Gianmarco Soresi
 
-👁️ 17K • 👍 537 • 💬 47 • ⏱️ 9:33 • 1d ago
+👁️ 275K • 👍 14K • 💬 471 • ⏱️ 0:58 • 20h ago
+
+---
+
+**[Google unveils &#39;Gemini 3 Flash&#39; AI model focused on speed and cost](https://www.youtube.com/watch?v=vs-9qWK0D1Y)**
+
+CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
+
+📺 CNBC Television
+
+👁️ 28K • 👍 221 • 💬 162 • ⏱️ 3:16 • 18h ago
 
 ---
 
@@ -355,23 +355,23 @@ Manus released version 1.6 with its most powerful agent yet, pushing tasks to fi
 
 ---
 
-**[I built another AI Agent in 2 hours (and got paid $2600)](https://www.youtube.com/watch?v=bxGE_LXPyAU)**
-
-Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about All my FREE resources: ...
-
-📺 Nate Herk | AI Automation
-
-👁️ 11K • 👍 476 • 💬 53 • ⏱️ 27:34 • 19h ago
-
----
-
 **[Which Ocean Would You Swim In? | Oddly Satisfying AI ASMR☺️🎧](https://www.youtube.com/watch?v=2yhnAHGiT70)**
 
 This video invites you into a dreamlike ocean—a world that doesn't exist in reality, yet feels beautifully alive. Each sea has its ...
 
 📺 Impossible AIs
 
-👁️ 27K • 👍 146 • 💬 22 • ⏱️ 8:01 • 20h ago
+👁️ 29K • 👍 149 • 💬 22 • ⏱️ 8:01 • 20h ago
+
+---
+
+**[Larian Face Mass Revolt Over Gen AI, CEO Responds](https://www.youtube.com/watch?v=qzubsWEM3Eo)**
+
+Get 10% off at Bellroy using my link: https://bit.ly/48B6ltZ AI has become a hotly debated topic as many perceive the technology to ...
+
+📺 YongYea
+
+👁️ 80K • 👍 4K • 💬 3K • ⏱️ 35:42 • 13h ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.4k • 🔱 458 • 18h ago
+⭐ 4.4k • 🔱 458 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T10:21:45.041035+00:00'
+updated: '2025-12-18T10:45:43.320061+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 10:21 UTC  
+**Last Updated:** December 18, 2025 at 10:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -3.2%  
-**30d:** -4.2%  
-**90d:** -24.5%  
-**1y:** -10.4%  
+**24h:** +0.2%  
+**7d:** -3.4%  
+**30d:** -4.4%  
+**90d:** -24.7%  
+**1y:** -10.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart includes every on-chain transaction in that window. Each bar shows BTC spent by coin age band (UTXO age at spend). PnL is realized profit/loss vs the price when each UTXO was first created. The pie on the right shows total realized profit vs loss for the day. Key takeaways from today’s data: ~99.5% of all BTC spent came from coins younger than 1 year. A chunk of 1–1.5y coins realized losses, but the overwhelming majority of capitulation is from short-term holders / “tourists” dumping recent buys. Old coins (1.5y+) barely moved. Long-term HODLers are still largely sitting tight and stacking. The 180-1yr crowd growing recently is pointing to loss harvesting before 2026 to assist tax advantages. It represented about 30% of the selling at a loss by volume but was disproportionalty smaller in terms of actual loss relative to coins moved (this makes sense as coins held that long are not as much in a loss as the shorter term entrants since summer). This is a quick snapshot from my full-node dataset. I’ll post more breakdowns like this as I keep building out the tooling.
 
-9h ago
+10h ago
 
 ---
 
@@ -115,7 +115,7 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -141,7 +141,7 @@ Dca time!! Dont buy at 130k!
 
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -153,7 +153,7 @@ Dca time!! Dont buy at 130k!
 
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: its long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Motley Fool • 1h ago
 
 **[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqee18iLV6NFYEzZ5vmsHZOkMuQCSILB2Yzjo8SDNaDy-RUZI3eX1jzW&gaa_ts=6943d917&gaa_sig=MOmhtBLYnMvUDUYYNrNxS2DnP8m72KXzHBk2KLNYBChOAvQXYXO1wRsPTiJKGFpF26ilj9hk9kEmPviIRlN1vA%3D%3D)**
 
-Barron's • 8m ago
+Barron's • 32m ago
 
 ---
 
@@ -181,7 +181,7 @@ Barron's • 8m ago
 
 Thinking about swapping Bitcoin for MARA Holdings after the recent sell-off? Here's what changed for miners and what matters most for investors now.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -193,13 +193,13 @@ Barron's • 2d ago
 
 **[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’](https://www.ccn.com/news/crypto/peter-schiff-bitcoin-drop-lower-50k-claims-saylor-doesnt-care/)**
 
-CCN.com • 34m ago
+CCN.com • 58m ago
 
 ---
 
 **[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -207,7 +207,7 @@ Investor's Business Daily • 12h ago
 
 U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -273,7 +273,7 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 24m ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 48m ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -281,73 +281,23 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 ## YouTube Videos: "bitcoin"
 
-**[Did $1M BITCOIN Just Become INEVITABLE?](https://www.youtube.com/watch?v=_koljqxMAdk)**
-
-Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop is a storm building. Whale buys, institutional ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 144 • ⏱️ 19:03 • 10h ago
-
----
-
 **[Bitcoin Had Another Giant Fake Out](https://www.youtube.com/watch?v=B5qi8WX2SrE)**
 
 Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 292 • ⏱️ 8:31 • 9h ago
+👁️ 22K • 👍 1K • 💬 307 • ⏱️ 8:31 • 9h ago
 
 ---
 
-**[Jack Mallers - &quot;This Is the Bitcoin Drop I Tried to Prepare You For&quot;](https://www.youtube.com/watch?v=NR_XAKD4e58)**
+**[Did $1M BITCOIN Just Become INEVITABLE?](https://www.youtube.com/watch?v=_koljqxMAdk)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop is a storm building. Whale buys, institutional ...
 
-📺 Savvy Finance
+📺 Simply Bitcoin
 
-👁️ 11K • 👍 571 • 💬 18 • ⏱️ 21:23 • 16h ago
-
----
-
-**[Bitcoin $90K Then Dumps — DOGE &amp; XRP Holders Beware (Manipulation?) | Trump’s HUGE Announcement!??](https://www.youtube.com/watch?v=pUUuEErrWd8)**
-
-Bitcoin Hits $90000 Then Dumps — DOGE & XRP Holders: This Is Manipulation Bitcoin just hit $90000 — and then dumped fast.
-
-📺 Crypto Daily Trade Signals
-
-👁️ 472 • 👍 44 • 💬 27 • ⏱️ 11:49 • 6h ago
-
----
-
-**[An INSANE Rumor Just PUMPED AND THEN DUMPED BITCOIN!!!](https://www.youtube.com/watch?v=uZouoVEjX7o)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 19K • 👍 672 • 💬 208 • ⏱️ 8:33 • 19h ago
-
----
-
-**[Bitcoin Took A MAJOR BEARISH TURN! Are We Heading Lower??](https://www.youtube.com/watch?v=BM4trpqTX4o)**
-
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
-
-📺 Crypto Jebb
-
-👁️ 5K • 👍 323 • 💬 96 • ⏱️ 9:12 • 15h ago
-
----
-
-**[Bitcoin: Bear Trap Is Playing Out](https://www.youtube.com/watch?v=WJEaZmGDUtc)**
-
-[Title Placeholder] My Free Telegram Groups: Platinum Group: https://mistercryp.to/ Limited Group: https://t.me/mistercryptolimited ...
-
-📺 Mister Crypto
-
-👁️ 293 • 👍 18 • 💬 2 • ⏱️ 12:00 • 3h ago
+👁️ 29K • 👍 2K • 💬 149 • ⏱️ 19:03 • 10h ago
 
 ---
 
@@ -357,17 +307,27 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 282 • ⏱️ 9:01 • 1d ago
+👁️ 64K • 👍 3K • 💬 282 • ⏱️ 9:01 • 1d ago
 
 ---
 
-**[ALL IN! Crypto Investors Clear Message for 2026 [Max Bullish]](https://www.youtube.com/watch?v=q4y50ladu2w)**
+**[Jack Mallers - &quot;This Is the Bitcoin Drop I Tried to Prepare You For&quot;](https://www.youtube.com/watch?v=NR_XAKD4e58)**
 
-Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly with some of the biggest crypto investors, ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Crypto Banter
+📺 Savvy Finance
 
-👁️ 23K • 👍 1K • 💬 62 • ⏱️ 48:33 • 20h ago
+👁️ 12K • 👍 595 • 💬 19 • ⏱️ 21:23 • 17h ago
+
+---
+
+**[An INSANE Rumor Just PUMPED AND THEN DUMPED BITCOIN!!!](https://www.youtube.com/watch?v=uZouoVEjX7o)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 19K • 👍 674 • 💬 227 • ⏱️ 8:33 • 19h ago
 
 ---
 
@@ -377,7 +337,47 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 39K • 👍 2K • 💬 215 • ⏱️ 48:48 • 18h ago
+👁️ 39K • 👍 2K • 💬 216 • ⏱️ 48:48 • 19h ago
+
+---
+
+**[Bitcoin $90K Then Dumps — DOGE &amp; XRP Holders Beware (Manipulation?) | Trump’s HUGE Announcement!??](https://www.youtube.com/watch?v=pUUuEErrWd8)**
+
+Bitcoin Hits $90000 Then Dumps — DOGE & XRP Holders: This Is Manipulation Bitcoin just hit $90000 — and then dumped fast.
+
+📺 Crypto Daily Trade Signals
+
+👁️ 722 • 👍 56 • 💬 31 • ⏱️ 11:49 • 6h ago
+
+---
+
+**[PAY ATTENTION: Bitcoin SET To DUMP On December 19th?](https://www.youtube.com/watch?v=kNCOJj4WUiA)**
+
+Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopolitical tensions and monetary risks converge.
+
+📺 The Wolf Of All Streets
+
+👁️ 22K • 👍 973 • 💬 492 • ⏱️ 46:53 • 19h ago
+
+---
+
+**[Inside the future of Bitcoin](https://www.youtube.com/watch?v=N7Z7tpwSlBg)**
+
+Strategy CEO Phong Le discusses what investors can look forward to in 2026 and analyzes where Bitcoin is headed on 'The ...
+
+📺 Fox Business
+
+👁️ 66K • 👍 913 • 💬 617 • ⏱️ 10:03 • 2d ago
+
+---
+
+**[This Macro Expert Thinks Bitcoin Is Going Lower in 2026...](https://www.youtube.com/watch?v=MWTIdtr2GXU)**
+
+Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned bearish, selling most of his Bitcoin around ...
+
+📺 Swan Bitcoin
+
+👁️ 61K • 👍 2K • 💬 411 • ⏱️ 18:36 • 1d ago
 
 ---
 

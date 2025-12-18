@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T10:21:45.047330+00:00'
+updated: '2025-12-18T10:45:43.326051+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 10:21 UTC  
+**Last Updated:** December 18, 2025 at 10:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** -7.4%  
-**30d:** -5.7%  
-**90d:** -36.3%  
-**1y:** -16.7%  
+**24h:** -2.3%  
+**7d:** -7.3%  
+**30d:** -5.5%  
+**90d:** -36.2%  
+**1y:** -16.5%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-8h ago
+9h ago
 
 ---
 
@@ -130,7 +130,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -138,7 +138,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 18h ago
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 19h ago
 
 ---
 
@@ -162,7 +162,7 @@ Barron's • 1d ago
 
 Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
 
-Finance Magnates • 19h ago
+Finance Magnates • 20h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 2h ago
 
 Is Ethereum really on the path to a price of $62,000 next year?
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -230,7 +230,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 9K • 👍 471 • 💬 200 • ⏱️ 33:33 • 17h ago
+👁️ 9K • 👍 482 • 💬 227 • ⏱️ 33:33 • 18h ago
 
 ---
 
@@ -240,7 +240,7 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 356 • 💬 65 • ⏱️ 11:01 • 1d ago
+👁️ 7K • 👍 363 • 💬 66 • ⏱️ 11:01 • 1d ago
 
 ---
 
@@ -250,17 +250,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 317 • 💬 68 • ⏱️ 20:34 • 19h ago
-
----
-
-**[ETH Ethereum Price Prediction: Critical Moment](https://www.youtube.com/watch?v=MeZXcuGsiSw)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 676 • 👍 32 • 💬 71 • ⏱️ 11:07 • 15h ago
+👁️ 11K • 👍 339 • 💬 88 • ⏱️ 20:34 • 19h ago
 
 ---
 
@@ -270,7 +260,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 4K • 👍 186 • 💬 48 • ⏱️ 8:42 • 1d ago
+👁️ 4K • 👍 187 • 💬 50 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -281,6 +271,16 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 📺 Thomas Kralow
 
 👁️ 22K • 👍 3K • 💬 46 • ⏱️ 7:49 • 1d ago
+
+---
+
+**[ETH Ethereum Price Prediction: Critical Moment](https://www.youtube.com/watch?v=MeZXcuGsiSw)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 713 • 👍 33 • 💬 71 • ⏱️ 11:07 • 16h ago
 
 ---
 
@@ -300,7 +300,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 127 • 💬 2 • ⏱️ 4:45 • 18h ago
+👁️ 3K • 👍 128 • 💬 2 • ⏱️ 4:45 • 18h ago
+
+---
+
+**[Bitcoin &amp; Ethereum. SO gehts weiter für Bitcoin!! WO ist DAS bullisch?](https://www.youtube.com/watch?v=yFK6ILKNzKU)**
+
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+
+📺 Krypto Trading & Investing
+
+👁️ 4K • 👍 662 • 💬 177 • ⏱️ 12:21 • 5h ago
 
 ---
 
@@ -311,16 +321,6 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 📺 Crypto With James
 
 👁️ 4K • 👍 255 • 💬 68 • ⏱️ 10:03 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum. SO gehts weiter für Bitcoin!! WO ist DAS bullisch?](https://www.youtube.com/watch?v=yFK6ILKNzKU)**
-
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 581 • 💬 132 • ⏱️ 12:21 • 4h ago
 
 ---
 

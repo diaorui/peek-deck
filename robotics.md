@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T10:21:45.050733+00:00'
+updated: '2025-12-18T10:45:43.329276+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 10:21 UTC  
+**Last Updated:** December 18, 2025 at 10:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM
 
 I am currently pursuing MS in Robotics, I have a background in Mechanical Engineering and worked in composite manufacturing for a year. I have decent coding skills in Python, some research experience in computer vision. Moving forward I want to work in Autonomous Navigation for AUVs but I don’t know where do I start.
 
-11h ago
+12h ago
 
 ---
 
@@ -82,7 +82,7 @@ I am currently pursuing MS in Robotics, I have a background in Mechanical Engine
 
 I'm working on a project which aims at recreating the hand motion at the joint level while writing. I've used the SynGrasp hand model so far but I'm having a lot of trouble calculating the q(joint variables) values for each waypoint of the pre defined trajectory. If someone has worked on something similar do you mind giving a helping hand? I read the SynGrasp paper but it's genuinely confusing to animate the hand model for each waypoint. I'm only focusing on the kinematics of the motion.
 
-13h ago
+14h ago
 
 ---
 
@@ -90,7 +90,7 @@ I'm working on a project which aims at recreating the hand motion at the joint l
 
 PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day and he said he wanted to invent something with me. I said what kind of thing would you like to make and he said a robot that helps old people. So here we are! The plans have been drawn! Project Jake has come to life. Now I fully understand that a lot of people here are far more advanced than a dad and son project but I really want this to be a special little project for a bit of bonding time. We have decided to start with the head and was going to use an old CRT Monitor but I have come to the conclusion that this would be far too difficult / heavy to support. So I have come to the conclusion of using an old flat screen monitor and building a frame around the back of it. Was thinking of grabbing a cheap old pc to wire up into the body. And this is where I am up to at the moment. Any ideas, tips and resources would be greatly appreciated !!
 
-12h ago
+13h ago
 
 ---
 
@@ -106,7 +106,7 @@ I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but with
 
 An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
 
-16h ago
+17h ago
 
 ---
 
@@ -132,7 +132,7 @@ NASA (.gov) • 1d ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 22h ago
+CNN • 23h ago
 
 ---
 
@@ -164,7 +164,7 @@ TechCrunch • 20h ago
 
 NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -200,7 +200,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 67K • 👍 942 • 💬 139 • ⏱️ 11:23 • 2d ago
+👁️ 67K • 👍 949 • 💬 141 • ⏱️ 11:23 • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ Thanks to our LMG clips sponsors dbrand, Dell, and Secretlab. You can check them
 
 📺 LMG Clips
 
-👁️ 34K • 👍 1K • 💬 184 • ⏱️ 7:42 • 1d ago
+👁️ 35K • 👍 1K • 💬 187 • ⏱️ 7:42 • 1d ago
 
 ---
 
@@ -220,17 +220,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 30K • 👍 724 • 💬 115 • ⏱️ 6:41 • 3d ago
-
----
-
-**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
-
-Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
-
-📺 Dr Ben Miles
-
-👁️ 21K • 👍 2K • 💬 50 • ⏱️ 1:38 • 1d ago
+👁️ 30K • 👍 727 • 💬 111 • ⏱️ 6:41 • 3d ago
 
 ---
 
@@ -242,13 +232,13 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 ---
 
-**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
 
-Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
 
-📺 vt.physics
+📺 Dr Ben Miles
 
-👁️ 380K • 👍 13K • 💬 420 • ⏱️ 0:34 • 4d ago
+👁️ 21K • 👍 2K • 💬 51 • ⏱️ 1:38 • 1d ago
 
 ---
 
@@ -260,13 +250,23 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 ---
 
+**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+
+Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+
+📺 vt.physics
+
+👁️ 385K • 👍 13K • 💬 423 • ⏱️ 0:34 • 4d ago
+
+---
+
 **[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
 
 GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
 
 📺 Gen Women AI
 
-👁️ 94K • 👍 929 • 💬 20 • ⏱️ 0:09 • 5d ago
+👁️ 94K • 👍 928 • 💬 20 • ⏱️ 0:09 • 5d ago
 
 ---
 
