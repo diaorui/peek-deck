@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T20:56:51.833727+00:00'
+updated: '2025-12-18T21:22:15.666864+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 20:56 UTC  
+**Last Updated:** December 18, 2025 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,102.76
+### $85,202.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -6.1%  
-**30d:** -7.1%  
-**90d:** -26.8%  
-**1y:** -13.1%  
+**24h:** -0.8%  
+**7d:** -5.5%  
+**30d:** -6.4%  
+**90d:** -26.3%  
+**1y:** -12.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1696.75B
+**Market Cap:** $1697.31B
 Rank #1
 
-**Circulating Supply:** 19,963,878 BTC
+**Circulating Supply:** 19,963,903 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--32.6%
+-32.4%
 
 **All-Time Low:** $67.81
-+125272.4%
++125639.6%
 
 ---
 
@@ -91,13 +91,21 @@ Rank #1
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
 13h ago
+
+---
+
+**[RECORD WHALE ACCUMULATION 🐳](https://www.reddit.com/r/Bitcoin/comments/1ppzl08/record_whale_accumulation/)**
+
+Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, the largest accumulation in 13 years. "Smart money" is aggressively positioning itself in anticipation of the drop. Everyone thinks this situation might be good, but what do you think? Is increasing institutional exposure in the crypto market good or bad? 👇 Let me know in the comments…
+
+2h ago
 
 ---
 
@@ -109,11 +117,9 @@ Bart Simpson incoming?
 
 ---
 
-**[RECORD WHALE ACCUMULATION 🐳](https://www.reddit.com/r/Bitcoin/comments/1ppzl08/record_whale_accumulation/)**
+**[This is crazy bro.](https://www.reddit.com/r/Bitcoin/comments/1pq2a0w/this_is_crazy_bro/)**
 
-Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, the largest accumulation in 13 years. "Smart money" is aggressively positioning itself in anticipation of the drop. Everyone thinks this situation might be good, but what do you think? Is increasing institutional exposure in the crypto market good or bad? 👇 Let me know in the comments…
-
-1h ago
+13m ago
 
 ---
 
@@ -131,15 +137,11 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 ---
 
-**[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
+**[Update: 99.7% of movement is now short term. Wall Street plays games with BTC while Tourists get shaken out.](https://www.reddit.com/r/Bitcoin/comments/1pq148m/update_997_of_movement_is_now_short_term_wall/)**
 
-10h ago
+Anyone who’s been following my posts this week can see this shifting in real time as we approach an inflection point. Put simply: once lower prices start attracting more buyers than sellers (shaken coins dry up), fabricating these dips stops working. That day is getting close. For context: 90 days ago, volume from coins aged 1.5+ years was ~1,227% higher than it is now. Those older coins are going increasingly silent. They can’t hide this in on-chain data (the only real supply), but they’d rather you didn’t look… which is why the narrative is, “all the big players are just in the short-term paper markets now.” That’s false. You can’t pretend large holders (cold storage) are dumping when their coins aren’t moving. Volume is increasingly concentrated in the <1.5 year cohort (ETFs / recent buyers). ETFs themselves hold only ~6–7% of total supply, yet they account for most of the visible volume... algos pushing the same coins back and forth to make it look like capitulation. Low liquidity allows this kind of manipulation up to a point. Beyond that, it coils the spring. The reflexive move when it unwinds will be extreme. Long-term holders are barely moving. This isn’t “OGs dumping,” it’s short-term tourists getting shaken out while Wall Street plays games with paper BTC. Knowledge is power.
 
----
-
-**[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
-
-1d ago
+1h ago
 
 ---
 
@@ -155,11 +157,25 @@ Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin Price (BTC) analysis: At least one metric remains at a record high](https://www.coindesk.com/markets/2025/12/18/bitcoin-s-realized-cap-holds-at-record-high-over-usd1-trillion-casting-doubt-on-four-year-cycle)**
+**[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
+Investor's Business Daily • 3h ago
 
-CoinDesk • 3h ago
+---
+
+**[SEC Charges Bitcoin Miner for Duping Investors Out of $48.5 Million](https://bitcoinmagazine.com/news/sec-charges-bitcoin-miner-for-duping-investors-out-of-48-5-million)**
+
+A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
+
+Bitcoin Magazine • 29m ago
+
+---
+
+**[Bitcoin Price Crashes to $84,000 – Is $70,000 Next?](https://bitcoinmagazine.com/markets/bitcoin-price-crashes-is-70000-next)**
+
+The bitcoin price experienced two more aggressive dumps today, now trading near $84,500.
+
+Bitcoin Magazine • 38m ago
 
 ---
 
@@ -179,7 +195,7 @@ The Motley Fool • 12h ago
 
 ---
 
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqeZH2vm67b5XY9ysIMGsZzPnU-UKN9YhYALE9CUHUHBlbwJWpQdR44i&gaa_ts=69446b5c&gaa_sig=mAv8nirKgzmi7eTA4vrOKQyyuGnHL-fKUmMQnTX3jo9nmHdYNJfjf-rYYPfsUnCBx0juY9WK13Oa_gP-XMUwCg%3D%3D)**
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqfOl1HNmrCwAi4D3R3LnDcgfvi7Gs7KYjWxrCqNX3q_pPRuUwpgtsyr&gaa_ts=694473f0&gaa_sig=B35-rrNHalG44AK22mmtdrkT1gQq5mCf4rJPadd-dOEz36aWwnD1A8a7MxobxUkOTYzq-eApletnGsw9OdjH2g%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -197,25 +213,9 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
+**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqc_zW0xF1Ph0DB6MW74olgkdwyP6M2XlFXezTu_pl5R7TUTmgfna6CV&gaa_ts=694473f0&gaa_sig=YzQ855lUf5h8dE65prJnanXKdQBuU6QijM140o6YK8JGq8jcU2wQGajEeDk2hCtKqnBVZHlAR9rSTkPf5T9a5w%3D%3D)**
 
-US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
-
-CryptoSlate • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqcW9YHJzSqxKhfrFog0mSuo-gAq_LgYHw1PADGKFWHoAAlqdXny404z&gaa_ts=69446b5c&gaa_sig=jasknliV4BLDq4tFSI7IlU6w0OEx_DL50JDXomOY3u2ii8Z1W6mTIsDwc86s_ewm4ydEPOyiWc8zeOy6wx0RBA%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Bhutan Pledges Up to 10,000 Bitcoin to Build New Mega-City](https://bitcoinmagazine.com/featured/bhutan-10000-bitcoin-to-build-mega-city)**
-
-Bhutan is pledging up to 10,000 bitcoin for its Gelephu Mindfulness City, that's nearly $1 billion at current prices.
-
-Bitcoin Magazine • 1d ago
+Barron's • 11h ago
 
 ---
 
@@ -235,7 +235,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 4h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 5h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -267,7 +267,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 23h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 1d ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -289,7 +289,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 10h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 11h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -313,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 332 • ⏱️ 8:31 • 19h ago
+👁️ 27K • 👍 1K • 💬 332 • ⏱️ 8:31 • 20h ago
 
 ---
 
@@ -343,7 +343,7 @@ Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The
 
 📺 Tim Talks Finance
 
-👁️ 1K • 👍 83 • 💬 24 • ⏱️ 14:32 • 3h ago
+👁️ 1K • 👍 83 • 💬 24 • ⏱️ 14:32 • 4h ago
 
 ---
 
@@ -381,7 +381,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 Discover Crypto
 
-👁️ 10K • 👍 155 • 💬 11 • ⏱️ 0:47 • 18h ago
+👁️ 10K • 👍 155 • 💬 11 • ⏱️ 0:47 • 19h ago
 
 ---
 

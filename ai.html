@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-18T20:56:51.399999+00:00"
+          "dateModified": "2025-12-18T21:22:15.163879+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -815,6 +815,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppsnm1/using_3_different_llms_to_buildcode_games_for_a/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1ppsnm1/using_3_different_llms_to_buildcode_games_for_a/" target="_blank" onclick="event.stopPropagation();">Using 3 different LLMs to build/code games for a smart ball</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1766069333.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppqfkn/the_surprising_truth_about_ais_impact_on_jobs/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -983,39 +1016,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppsnm1/using_3_different_llms_to_buildcode_games_for_a/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ppsnm1/using_3_different_llms_to_buildcode_games_for_a/" target="_blank" onclick="event.stopPropagation();">Using 3 different LLMs to build/code games for a smart ball</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1766069333.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1039,7 +1039,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T20:45:14.545533+00:00">Updated 2025-12-18T20:45:14.545533+00:00</small>
+        <small data-timestamp="2025-12-18T21:21:48.980474+00:00">Updated 2025-12-18T21:21:48.980474+00:00</small>
     </div>
 </div>
 
@@ -1225,14 +1225,14 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdzBwFZU8qvCFXvXtBfD9KO5pBaLZxgMuZLJlO-G4Pegk0Hr6xC7tGf&gaa_ts=69446b5b&gaa_sig=DpQ7TEGTiK4mRj0za9rim3eHDco6QM_FWyn08jFeTDCDIjkqvExsLdwVt2ocXyWUkIy5udc6437rJPBo3cxTlA%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdOBrQYOvMV0lUw8tzFLuMXZQYanaYa68kM2DhYos5kmxlpmfWKTAjk&gaa_ts=694473ee&gaa_sig=X-NWqjMBeD2IUT6oi_7aS4iGgJH4v3DHEH0FTUYlvMz8Mzpxm0i6nwotLUj1Bl_qgI_EktH3sv2bY-VTdln0ag%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdzBwFZU8qvCFXvXtBfD9KO5pBaLZxgMuZLJlO-G4Pegk0Hr6xC7tGf&gaa_ts=69446b5b&gaa_sig=DpQ7TEGTiK4mRj0za9rim3eHDco6QM_FWyn08jFeTDCDIjkqvExsLdwVt2ocXyWUkIy5udc6437rJPBo3cxTlA%3D%3D" target="_blank" onclick="event.stopPropagation();">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>
+                            <a href="https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdOBrQYOvMV0lUw8tzFLuMXZQYanaYa68kM2DhYos5kmxlpmfWKTAjk&gaa_ts=694473ee&gaa_sig=X-NWqjMBeD2IUT6oi_7aS4iGgJH4v3DHEH0FTUYlvMz8Mzpxm0i6nwotLUj1Bl_qgI_EktH3sv2bY-VTdln0ag%3D%3D" target="_blank" onclick="event.stopPropagation();">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1303,20 +1303,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/12/18/house-passes-permit-reform-bill-ai.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/video/6386663285112', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/107408934-17145831162024-04-26t174726z_47404345_rc2de7arvc16_rtrmadp_0_usa-stocks.jpeg?v=1714583173&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/498a5399-1e7f-422f-9db7-4e5db380f70d/18f3ce55-d927-4cad-ba65-b69878b16526/1280x720/match/1024/512/image.jpg?ve=1&tl=1');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2025/12/18/house-passes-permit-reform-bill-ai.html" target="_blank" onclick="event.stopPropagation();">House passes bill to ease permits for building out AI infrastructure</a>
+                            <a href="https://www.foxbusiness.com/video/6386663285112" target="_blank" onclick="event.stopPropagation();">Charles Payne: Today’s biggest movers are connected to AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The SPEED Act now heads to the Senate, which is in the early stages of its own permitting reform talks.
+                            FOX Business host Charles Payne breaks down the state of the markets and discusses how the biggest movers are coming from within the artificial intelligence space on ‘Making Money.’
                         </div>
                         
 
@@ -1326,9 +1326,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox Business" class="news-favicon">
+                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
                                     
                                 </div>
                                 
@@ -1336,7 +1336,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766087892.0"></span>
+                                    <span data-timestamp="1766090760.0"></span>
                                 </div>
                                 
                             </div>
@@ -1344,20 +1344,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2025-12-18/us-development-finance-agency-targets-ai-minerals-in-expansion', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.usatoday.com/story/special/contributor-content/2025/12/18/xiangyi-li-the-young-founder-bringing-transparency-to-ai/87831687007/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM2BkVH86JXY/v1/1200x773.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/18/USAT/87831695007-4624-hackathon-aerospace-photos-57.jpg?crop=6720,3780,x0,y351&width=3200&height=1800&format=pjpg&auto=webp');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2025-12-18/us-development-finance-agency-targets-ai-minerals-in-expansion" target="_blank" onclick="event.stopPropagation();">US Development-Finance Agency Targets AI, Minerals in Expansion</a>
+                            <a href="https://www.usatoday.com/story/special/contributor-content/2025/12/18/xiangyi-li-the-young-founder-bringing-transparency-to-ai/87831687007/" target="_blank" onclick="event.stopPropagation();">Xiangyi Li: The Young Founder Bringing Transparency to AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            A US development-finance agency that’s on track for a tripling in funding aims to invest in data centers for artificial intelligence, as well as critical minerals and energy, according to a top official.
+                            BenchFlow is a platform designed to make AI model evaluations transparent and accessible.
                         </div>
                         
 
@@ -1367,9 +1367,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="USA Today" class="news-favicon">
+                                    <a href="https://www.usatoday.com" target="_blank" onclick="event.stopPropagation();">USA Today</a>
                                     
                                 </div>
                                 
@@ -1377,7 +1377,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766086536.0"></span>
+                                    <span data-timestamp="1766088660.0"></span>
                                 </div>
                                 
                             </div>
@@ -1385,17 +1385,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.inc.com/kit-eaton/how-to-help-your-companys-ai-training-keep-pace-with-your-employees-use-of-it/91280210', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SynthID_Social.max-1440x810.png');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.inc.com/kit-eaton/how-to-help-your-companys-ai-training-keep-pace-with-your-employees-use-of-it/91280210" target="_blank" onclick="event.stopPropagation();">How to Help Your Company’s AI Training Keep Pace With Your Employees’ Use of It</a>
+                            <a href="https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/" target="_blank" onclick="event.stopPropagation();">You can now verify Google AI-generated videos in the Gemini app.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            We’re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d…
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1404,9 +1408,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.inc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Inc.com" class="news-favicon">
-                                    <a href="https://www.inc.com" target="_blank" onclick="event.stopPropagation();">Inc.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="blog.google" class="news-favicon">
+                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">blog.google</a>
                                     
                                 </div>
                                 
@@ -1414,7 +1418,89 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766090623.0"></span>
+                                    <span data-timestamp="1766077694.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://blog.google/products/search/google-ai-mode-update-gemini-3-flash/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2.width-1300.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://blog.google/products/search/google-ai-mode-update-gemini-3-flash/" target="_blank" onclick="event.stopPropagation();">Gemini 3 Flash is rolling out globally in Google Search</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Gemini 3 Flash brings the incredible reasoning of our Gemini 3 model at the speed you expect of Search.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="blog.google" class="news-favicon">
+                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">blog.google</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1765988082.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/google-ai-generated-videos-in-the-gemini-app.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos" target="_blank" onclick="event.stopPropagation();">Google’s Gemini app can check videos to see if they were made with Google AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Incremental deepfake detection.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Verge" class="news-favicon">
+                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766089882.0"></span>
                                 </div>
                                 
                             </div>
@@ -1463,6 +1549,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/12/18/house-passes-permit-reform-bill-ai.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/107408934-17145831162024-04-26t174726z_47404345_rc2de7arvc16_rtrmadp_0_usa-stocks.jpeg?v=1714583173&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2025/12/18/house-passes-permit-reform-bill-ai.html" target="_blank" onclick="event.stopPropagation();">House passes bill to ease permits for building out AI infrastructure</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The SPEED Act now heads to the Senate, which is in the early stages of its own permitting reform talks.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766087892.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.latimes.com/entertainment-arts/movies/story/2025-12-18/can-movie-stardom-survive-age-of-ai-hollywood-tomorrow', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://ca-times.brightspotcdn.com/dims4/default/1b19995/2147483647/strip/true/crop/3840x2016+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F40%2F49%2F36b26df74e8da1eab675604f33f2%2F0217619050460053ccd6bf443e2de248587cf8b4f9597dd5d8ecc-0.jpeg');"></div>
@@ -1504,125 +1631,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html" target="_blank" onclick="event.stopPropagation();">Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766001605.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/technology/ai-fuels-blue-collar-productivity-boom-across-manufacturing-palantir-technology-chief-tells-fox-business', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/palantir-cto-says-ai-boosts-blue-collar-jobs-001.jpg?ve=1&tl=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.foxbusiness.com/technology/ai-fuels-blue-collar-productivity-boom-across-manufacturing-palantir-technology-chief-tells-fox-business" target="_blank" onclick="event.stopPropagation();">AI fuels blue-collar productivity boom across manufacturing, Palantir technology chief tells Fox Business</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Palantir's CTO reveals how AI technology is driving a blue-collar productivity boom, creating jobs for factory workers and nurses rather than mass unemployment.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox Business" class="news-favicon">
-                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766021760.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://fortune.com/2025/12/17/amazon-ceo-andy-jassy-announces-departure-of-ai-exec-rohit-prasad-in-leadership-shakeup/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2024/12/54193447897_a07455ee31_o-e1734041096238.jpg?resize=1200,600');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://fortune.com/2025/12/17/amazon-ceo-andy-jassy-announces-departure-of-ai-exec-rohit-prasad-in-leadership-shakeup/" target="_blank" onclick="event.stopPropagation();">Amazon CEO Andy Jassy announces departure of AI exec Rohit Prasad in leadership shake-up</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Prasad’s exit comes after Amazon struggled to show its internal AI efforts could match those of rivals and amid reports of a new AWS investment in OpenAI.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fortune" class="news-favicon">
-                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766003640.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1643,7 +1651,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T20:45:36.350051+00:00">Updated 2025-12-18T20:45:36.350051+00:00</small>
+        <small data-timestamp="2025-12-18T21:22:11.062634+00:00">Updated 2025-12-18T21:22:11.062634+00:00</small>
     </div>
 </div>
 
@@ -1871,7 +1879,7 @@
                                     <span class="post-points">▲ 1026</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 517</span>
+                                    <span style="color: #9ca3af;">💬 519</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2111,7 +2119,7 @@
                                     <span class="post-points">▲ 281</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 162</span>
+                                    <span style="color: #9ca3af;">💬 163</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2206,10 +2214,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 188</span>
+                                    <span class="post-points">▲ 189</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 148</span>
+                                    <span style="color: #9ca3af;">💬 149</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2307,7 +2315,7 @@
                                     <span class="post-points">▲ 132</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 166</span>
+                                    <span style="color: #9ca3af;">💬 167</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2352,7 +2360,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T20:45:12.135575+00:00">Updated 2025-12-18T20:45:12.135575+00:00</small>
+        <small data-timestamp="2025-12-18T21:21:47.754242+00:00">Updated 2025-12-18T21:21:47.754242+00:00</small>
     </div>
 </div>
 
@@ -3548,7 +3556,7 @@
                                     <span class="model-stats">⬇️ 51,262</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 344</span>
+                                    <span class="model-stats">❤️ 346</span>
                                 </div>
                             </div>
                             
@@ -3662,7 +3670,7 @@
                                     <span class="model-stats">⬇️ 3,118</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 274</span>
+                                    <span class="model-stats">❤️ 275</span>
                                 </div>
                             </div>
                             
@@ -3888,7 +3896,7 @@
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 199</span>
+                                    <span class="model-stats">❤️ 200</span>
                                 </div>
                             </div>
                             
@@ -3946,7 +3954,7 @@
                                     <span class="model-stats">⬇️ 64,404</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 355</span>
+                                    <span class="model-stats">❤️ 356</span>
                                 </div>
                             </div>
                             
@@ -4036,7 +4044,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T20:45:22.676167+00:00">Updated 2025-12-18T20:45:22.676167+00:00</small>
+        <small data-timestamp="2025-12-18T21:21:59.482074+00:00">Updated 2025-12-18T21:21:59.482074+00:00</small>
     </div>
 </div>
 

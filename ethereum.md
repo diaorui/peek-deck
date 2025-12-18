@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T20:56:51.838949+00:00'
+updated: '2025-12-18T21:22:15.672965+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 20:56 UTC  
+**Last Updated:** December 18, 2025 at 21:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,816.10
+### $2,805.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
+**24h:** -1.2%  
 **7d:** -9.2%  
 **30d:** -7.5%  
-**90d:** -37.6%  
-**1y:** -18.3%  
+**90d:** -37.5%  
+**1y:** -18.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $337.00B
+**Market Cap:** $338.14B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--43.5%
+-43.2%
 
 **All-Time Low:** $0.43
-+644875.9%
++649086.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-13h ago
+14h ago
 
 ---
 
@@ -116,7 +116,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -164,7 +164,13 @@ The Block • 1d ago
 
 SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcBfY3T8J1ieVM6TzXiV0pt5Cg4Ilv9qrFTWhTqgWkSMvGrxsXAwMnm&gaa_ts=694473f2&gaa_sig=Cz5rbsw0j-waXryeRh-himL5Mx-sNFNbsYg2zOplO2e9gBw0VFY2oE_kosd6kdktyi7cKa4lP97zBLR1uGaKWg%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -176,47 +182,43 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Ethereum Stabilizes Near $2,820 After Losing Trend Support (undefined:ETH-USD)](https://seekingalpha.com/article/4854480-ethereum-stabilizes-near-2820-after-losing-trend-support-technical-analysis)**
+
+Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
+
+Seeking Alpha • 57m ago
+
+---
+
+**[Bitcoin Vs. Ethereum Performance Divergence and What It Signals for Investors](https://www.investing.com/analysis/bitcoin-vs-ethereum-performance-divergence-and-what-it-signals-for-investors-200671953)**
+
+Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
+
+Investing.com • 1d ago
+
+---
+
+**[Bitwise’s 2026 Crypto Forecast: Bitcoin, Ethereum, And Solana Poised For New Record Highs](https://www.tradingview.com/news/newsbtc:7bbd20fb5094b:0-bitwise-s-2026-crypto-forecast-bitcoin-ethereum-and-solana-poised-for-new-record-highs/)**
+
+In its latest report, asset manager and exchange-traded fund (ETF) issuer, Bitwise, has shared an optimistic 2026 outlook for the crypto market, anticipating significant growth, while predicting new all-time highs for Bitcoin (BTC), Ethereum (ETH), and Solana (SOL).Megatrends In Crypto? Bitwise beg…
+
+TradingView — Track All Markets • 13h ago
+
+---
+
+**[Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk](https://decrypt.co/352533/bitcoin-ethereum-etfs-shed-582m-in-a-day-as-institutions-trim-risk)**
+
+U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
+
+Decrypt • 2d ago
+
+---
+
 **[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
 
 Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
 
 Yahoo Finance • 2d ago
-
----
-
-**[Ethereum Dip Pressures BitMine, but Tom Lee and Ark Keep Buying | US Crypto News](https://www.tradingview.com/news/beincrypto:96a5a4bd7094b:0-ethereum-dip-pressures-bitmine-but-tom-lee-and-ark-keep-buying-us-crypto-news/)**
-
-Welcome to the US Crypto News Morning Briefing—your essential rundown of the most important developments in crypto for the day ahead.Grab a coffee as BitMine’s bold Ethereum strategy is back in focus with market pressure building and investor nerves fraying. Losses are mounting, the stock is slidin…
-
-TradingView — Track All Markets • 5h ago
-
----
-
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 2d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfvU7zTbKXPKDe32TOX22XS5Vwfiiktmtf9JKlvBg9Y-FjWs9J0AUwU&gaa_ts=69446b5e&gaa_sig=BdImHE2Z9ttL33oK6UQgXqRiLHH_GMoOm1ghUBwm7qw7So9B3NYtNf-eMVCxK8Tkc9vYEMGKyP6zHLHTwshbEg%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Why Bitcoin, Ethereum and XRP Are Falling Today Even As Inflation Cools and Rates Are Cut](https://www.tradingview.com/news/coinpedia:2c393df90094b:0-why-bitcoin-ethereum-and-xrp-are-falling-today-even-as-inflation-cools-and-rates-are-cut/)**
-
-The crypto market has turned red today, with tokens like Bitcoin, Ethereum, and XRP trading lower. The total crypto market value has dropped to about $2.97 trillion, down more than 2% in the last 24 hours, as investors remain cautious.Even though some positive economic news has come out, traders ar…
-
-TradingView — Track All Markets • 5h ago
-
----
-
-**[Bitcoin, Ethereum, XRP face sharp volatility as US posts lowest inflation rate in years](https://www.fxstreet.com/cryptocurrencies/news/bitcoin-ethereum-xrp-face-sharp-volatility-as-us-posts-lowest-inflation-rate-in-years-202512181925)**
-
-The latest inflation report released on Thursday in the United States (US) sparked a wave of volatility in the crypto markets.
-
-FXStreet • 1h ago
 
 ---
 
@@ -230,7 +232,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 169 • 💬 27 • ⏱️ 16:54 • 5h ago
+👁️ 2K • 👍 169 • 💬 27 • ⏱️ 16:54 • 6h ago
 
 ---
 
@@ -240,7 +242,7 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 486 • 👍 29 • 💬 15 • ⏱️ 14:11 • 5h ago
+👁️ 486 • 👍 29 • 💬 15 • ⏱️ 14:11 • 6h ago
 
 ---
 
@@ -260,7 +262,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 112 • 💬 3 • ⏱️ 7:17 • 7h ago
+👁️ 2K • 👍 112 • 💬 3 • ⏱️ 7:17 • 8h ago
 
 ---
 

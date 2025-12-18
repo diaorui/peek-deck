@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T20:56:51.826334+00:00'
+updated: '2025-12-18T21:22:15.658105+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 20:56 UTC  
+**Last Updated:** December 18, 2025 at 21:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 My question is about reliance on facial recognition software, and more generally about reliance on AI. Here are two links to stories about a recent incident. A website covering truckers: "Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino", and second, the bodycam footage (on YouTube) which captures the arresting officer talking about his (in my opinion) extreme reliance on AI. Here are the important details: A man was detained and then arrested based on a facial recognition system. There was a large amount of evidence available to the arresting officer that the man was falsely identified. For example, he had multiple pieces of documentation indicating his correct identity, and multiple pieces of evidence that would point to him NOT being the person identified by the AI facial recognition. The officer, several times, says that he is going to rely on the AI classification despite have evidence to the contrary. The officer invents a convoluted theory to explain away the every bit of evidence that contradicts the AI. For example, he confirms that the identification is legitimate with the state DMV, and the says that the suspect must have someone working inside the DMV to help him fake IDs. In other words, he grants the AI classification more weight than all of the contradictory evidence which is right in front of him. I'm most interested in the implications of 3. The officer seems to subvert his own judgment to that to what he calls the "fancy" casino AI. Is this going to become more common in the future, where the output of chat bots, classification bots, etc, are trusted more than contradictory evidence? Just to finish, I pulled some quotes from the body came footage of the officer: "And this is one of those things you guys have this fancy software that does all this stuff." [2:24 in the video] "Uh they're fancy AI technology that reads faces. No, it says it's a 100% match. But at this point, our hands are tied because, you know, a reasonable and prudent person would based off the software, based off the pictures, based off of even your driver's license picture, make the uh reasonable conclusion that all three are the same person, just two different IDs with two different names." [10:54 in the video] "So much so that the fancy computer that does all the face scanning of everybody who walks in this casino makes the same determination that my feeble human brain does." [11:41 in the video] "I just have a feeling somehow maybe he's got a hookup at the DMV where he's got two different driver's licenses that are registered with the Department of Motor Vehicles" [9:10 minutes into the video] And the last exchange between the falsely accused man the police officer: The man says, "And then people aren't smart enough to think for themselves. They're just not." To which the officer, who has has abandoned his judgment in favor of AI, relipes, "Yep. Unfortunately, it's the world we live in." [See 14:30 in the video.]
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ My question is about reliance on facial recognition software, and more generally
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 41m ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 1h ago
 
 ---
 
@@ -77,11 +77,19 @@ Source (November 2025): "Inception Point AI [is] a startup with just eight emplo
 
 ---
 
+**[Using 3 different LLMs to build/code games for a smart ball](https://www.reddit.com/r/artificial/comments/1ppsnm1/using_3_different_llms_to_buildcode_games_for_a/)**
+
+We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
+
+6h ago
+
+---
+
 **[The surprising truth about AI’s impact on jobs](https://www.reddit.com/r/artificial/comments/1ppqfkn/the_surprising_truth_about_ais_impact_on_jobs/)**
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 7h ago
+🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 8h ago
 
 ---
 
@@ -109,19 +117,11 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 ---
 
-**[Using 3 different LLMs to build/code games for a smart ball](https://www.reddit.com/r/artificial/comments/1ppsnm1/using_3_different_llms_to_buildcode_games_for_a/)**
-
-We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
-
-6h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdzBwFZU8qvCFXvXtBfD9KO5pBaLZxgMuZLJlO-G4Pegk0Hr6xC7tGf&gaa_ts=69446b5b&gaa_sig=DpQ7TEGTiK4mRj0za9rim3eHDco6QM_FWyn08jFeTDCDIjkqvExsLdwVt2ocXyWUkIy5udc6437rJPBo3cxTlA%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdOBrQYOvMV0lUw8tzFLuMXZQYanaYa68kM2DhYos5kmxlpmfWKTAjk&gaa_ts=694473ee&gaa_sig=X-NWqjMBeD2IUT6oi_7aS4iGgJH4v3DHEH0FTUYlvMz8Mzpxm0i6nwotLUj1Bl_qgI_EktH3sv2bY-VTdln0ag%3D%3D)**
 
 The Wall Street Journal • 10h ago
 
@@ -135,25 +135,43 @@ Deadline • 3h ago
 
 ---
 
-**[House passes bill to ease permits for building out AI infrastructure](https://www.cnbc.com/2025/12/18/house-passes-permit-reform-bill-ai.html)**
+**[Charles Payne: Today’s biggest movers are connected to AI](https://www.foxbusiness.com/video/6386663285112)**
 
-The SPEED Act now heads to the Senate, which is in the early stages of its own permitting reform talks.
+FOX Business host Charles Payne breaks down the state of the markets and discusses how the biggest movers are coming from within the artificial intelligence space on ‘Making Money.’
 
-CNBC • 58m ago
-
----
-
-**[US Development-Finance Agency Targets AI, Minerals in Expansion](https://www.bloomberg.com/news/articles/2025-12-18/us-development-finance-agency-targets-ai-minerals-in-expansion)**
-
-A US development-finance agency that’s on track for a tripling in funding aims to invest in data centers for artificial intelligence, as well as critical minerals and energy, according to a top official.
-
-Bloomberg.com • 1h ago
+Fox Business • 36m ago
 
 ---
 
-**[How to Help Your Company’s AI Training Keep Pace With Your Employees’ Use of It](https://www.inc.com/kit-eaton/how-to-help-your-companys-ai-training-keep-pace-with-your-employees-use-of-it/91280210)**
+**[Xiangyi Li: The Young Founder Bringing Transparency to AI](https://www.usatoday.com/story/special/contributor-content/2025/12/18/xiangyi-li-the-young-founder-bringing-transparency-to-ai/87831687007/)**
 
-Inc.com • 13m ago
+BenchFlow is a platform designed to make AI model evaluations transparent and accessible.
+
+USA Today • 1h ago
+
+---
+
+**[You can now verify Google AI-generated videos in the Gemini app.](https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/)**
+
+We’re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d…
+
+blog.google • 4h ago
+
+---
+
+**[Gemini 3 Flash is rolling out globally in Google Search](https://blog.google/products/search/google-ai-mode-update-gemini-3-flash/)**
+
+Gemini 3 Flash brings the incredible reasoning of our Gemini 3 model at the speed you expect of Search.
+
+blog.google • 1d ago
+
+---
+
+**[Google’s Gemini app can check videos to see if they were made with Google AI](https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos)**
+
+Incremental deepfake detection.
+
+The Verge • 50m ago
 
 ---
 
@@ -161,7 +179,15 @@ Inc.com • 13m ago
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-CNN • 10h ago
+CNN • 11h ago
+
+---
+
+**[House passes bill to ease permits for building out AI infrastructure](https://www.cnbc.com/2025/12/18/house-passes-permit-reform-bill-ai.html)**
+
+The SPEED Act now heads to the Senate, which is in the early stages of its own permitting reform talks.
+
+CNBC • 1h ago
 
 ---
 
@@ -169,29 +195,7 @@ CNN • 10h ago
 
 Synthetic performers are forcing Hollywood to rethink how fame works and who gets to claim it. Even as the technology races ahead, legal concerns are mounting.
 
-Los Angeles Times • 9h ago
-
----
-
-**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
-
-The New York Times • 1d ago
-
----
-
-**[AI fuels blue-collar productivity boom across manufacturing, Palantir technology chief tells Fox Business](https://www.foxbusiness.com/technology/ai-fuels-blue-collar-productivity-boom-across-manufacturing-palantir-technology-chief-tells-fox-business)**
-
-Palantir's CTO reveals how AI technology is driving a blue-collar productivity boom, creating jobs for factory workers and nurses rather than mass unemployment.
-
-Fox Business • 19h ago
-
----
-
-**[Amazon CEO Andy Jassy announces departure of AI exec Rohit Prasad in leadership shake-up](https://fortune.com/2025/12/17/amazon-ceo-andy-jassy-announces-departure-of-ai-exec-rohit-prasad-in-leadership-shakeup/)**
-
-Prasad’s exit comes after Amazon struggled to show its internal AI efforts could match those of rivals and amid reports of a new AWS investment in OpenAI.
-
-Fortune • 1d ago
+Los Angeles Times • 10h ago
 
 ---
 
@@ -203,7 +207,7 @@ Fortune • 1d ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1026 • 💬 517 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1026 • 💬 519 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -217,7 +221,7 @@ Privacy browser extensions misled users and sold 8 million AI chat logs, exposin
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 816 • 💬 419 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 816 • 💬 419 • 2d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -239,7 +243,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 281 • 💬 162 • 1d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 281 • 💬 163 • 1d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -255,7 +259,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 188 • 💬 148 • 7h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 189 • 💬 149 • 8h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -271,7 +275,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 132 • 💬 166 • 2d ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 132 • 💬 167 • 2d ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -285,7 +289,7 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 300K • 👍 9K • 💬 2K • ⏱️ 1:39:47 • 12h ago
+👁️ 300K • 👍 9K • 💬 2K • ⏱️ 1:39:47 • 13h ago
 
 ---
 
@@ -295,7 +299,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 19K • 👍 3K • 💬 338 • ⏱️ 5:52 • 5h ago
+👁️ 19K • 👍 3K • 💬 338 • ⏱️ 5:52 • 6h ago
 
 ---
 
@@ -355,7 +359,7 @@ A bride, a wedding dress… and a groom who lives on a smartphone This is the re
 
 📺 Bridebook
 
-👁️ 138K • 👍 5K • 💬 216 • ⏱️ 0:52 • 23h ago
+👁️ 138K • 👍 5K • 💬 216 • ⏱️ 0:52 • 1d ago
 
 ---
 
@@ -403,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 344 • 3h ago
+⬇️ 51,262 • ❤️ 346 • 3h ago
 
 ---
 
@@ -427,7 +431,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,118 • ❤️ 274 • 17h ago
+⬇️ 3,118 • ❤️ 275 • 18h ago
 
 ---
 
@@ -475,7 +479,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 199 • 1d ago
+⬇️ 0 • ❤️ 200 • 1d ago
 
 ---
 
@@ -487,7 +491,7 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 `image-text-to-text` `934,400`
 
-⬇️ 64,404 • ❤️ 355 • 9d ago
+⬇️ 64,404 • ❤️ 356 • 9d ago
 
 ---
 
@@ -658,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.4k • 🔱 467 • 3h ago
+⭐ 4.4k • 🔱 467 • 4h ago
 
 ---
 

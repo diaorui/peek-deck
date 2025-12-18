@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T20:56:51.841696+00:00'
+updated: '2025-12-18T21:22:15.676239+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 20:56 UTC  
+**Last Updated:** December 18, 2025 at 21:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,14 +38,6 @@ Robotics research and industry news
 
 ---
 
-**[Drew a bunch of stuff with VinciBot, from simple to complex](https://www.reddit.com/r/robotics/comments/1ppnm0l/drew_a_bunch_of_stuff_with_vincibot_from_simple/)**
-
-It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
-
-10h ago
-
----
-
 **[Demo of a robotic arm in simulation generating randomized grasp trajectories](https://www.reddit.com/r/robotics/comments/1ppom5w/demo_of_a_robotic_arm_in_simulation_generating/)**
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
@@ -54,11 +46,19 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 ---
 
+**[Drew a bunch of stuff with VinciBot, from simple to complex](https://www.reddit.com/r/robotics/comments/1ppnm0l/drew_a_bunch_of_stuff_with_vincibot_from_simple/)**
+
+It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
+
+10h ago
+
+---
+
 **[From a single image to a 3D OctoMap — no LiDAR, no ROS, pure Python](https://www.reddit.com/r/robotics/comments/1ppt7iv/from_a_single_image_to_a_3d_octomap_no_lidar_no/)**
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-5h ago
+6h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-7h ago
+8h ago
 
 ---
 
@@ -86,11 +86,19 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 ---
 
+**[What is the long-term position of Western countries in humanoid robotics?](https://www.reddit.com/r/robotics/comments/1ppyjw9/what_is_the_longterm_position_of_western/)**
+
+I’ve been thinking about where humanoid robotics is heading and I’m curious what others here think. One thing that stands out is how different the production environments are between China and the West. China has huge manufacturing scale, tight supply chains, and the ability to turn solid technology into consumer products at very low prices. That usually ends up being very attractive for buyers who just want good value for money. A comparison that comes to mind is electric vehicles. Tesla was clearly ahead early on in terms of R&D and innovation. But once the market became interesting at scale, Chinese companies like BYD entered with EVs that were competitive and significantly cheaper, and they’ve been gaining a lot of ground in production and sales. Now we’re seeing something similar with humanoid robots. Tesla with Optimus, Figure, 1X are all providing really interesting solutions in terms of innovation but humanoid robots are still very hardware-heavy. Motors, actuators, batteries, and large-scale assembly matter a lot. It makes me wonder if we’ll see the same pattern again: a Western company proves the concept, demand grows, and then Chinese manufacturers catch up quickly and compete mainly on cost. So I’m curious how people here see this playing out. Do you think Europe and the US still have room to compete in humanoid robotics? If yes, where does that advantage come from: software, regulation, integration, something else? Or do you expect the market to look similar to EVs over the next decade?
+
+2h ago
+
+---
+
 **[How automation is changing medical device manufacturing](https://www.reddit.com/r/robotics/comments/1pq0xu6/how_automation_is_changing_medical_device/)**
 
 Medical device manufacturing has always moved more cautiously than other industries. Strict validation, heavy documentation, and long requalification cycles mean many processes stay manual and unchanged for years. What’s starting to change is the technology. High-precision robots, adaptive gripping, and modern machine vision are making it possible to automate delicate, high-mix work while improving traceability and compliance instead of complicating it.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/medical-device-manufacturing-automation) • 42m ago
+🔗 [automate.org](https://www.automate.org/industry-insights/medical-device-manufacturing-automation) • 1h ago
 
 ---
 
@@ -98,15 +106,7 @@ Medical device manufacturing has always moved more cautiously than other industr
 
 Multi-drone PX4/ArduPilot ROS2 control of quads and VTOLs, with YOLO, LiDAR, Dockerized Gym simulation, and JetPack deployment - JacopoPan/aerial-autonomy-stack
 
-🔗 [GitHub](https://github.com/JacopoPan/aerial-autonomy-stack) • 46m ago
-
----
-
-**[What is the long-term position of Western countries in humanoid robotics?](https://www.reddit.com/r/robotics/comments/1ppyjw9/what_is_the_longterm_position_of_western/)**
-
-I’ve been thinking about where humanoid robotics is heading and I’m curious what others here think. One thing that stands out is how different the production environments are between China and the West. China has huge manufacturing scale, tight supply chains, and the ability to turn solid technology into consumer products at very low prices. That usually ends up being very attractive for buyers who just want good value for money. A comparison that comes to mind is electric vehicles. Tesla was clearly ahead early on in terms of R&D and innovation. But once the market became interesting at scale, Chinese companies like BYD entered with EVs that were competitive and significantly cheaper, and they’ve been gaining a lot of ground in production and sales. Now we’re seeing something similar with humanoid robots. Tesla with Optimus, Figure, 1X are all providing really interesting solutions in terms of innovation but humanoid robots are still very hardware-heavy. Motors, actuators, batteries, and large-scale assembly matter a lot. It makes me wonder if we’ll see the same pattern again: a Western company proves the concept, demand grows, and then Chinese manufacturers catch up quickly and compete mainly on cost. So I’m curious how people here see this playing out. Do you think Europe and the US still have room to compete in humanoid robotics? If yes, where does that advantage come from: software, regulation, integration, something else? Or do you expect the market to look similar to EVs over the next decade?
-
-2h ago
+🔗 [GitHub](https://github.com/JacopoPan/aerial-autonomy-stack) • 1h ago
 
 ---
 
@@ -176,15 +176,17 @@ navalnews.com • 1d ago
 
 ---
 
-**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
+**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
 
-University of Michigan • 22h ago
+Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
+
+Interesting Engineering • 1d ago
 
 ---
 
-**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
+**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
 
-The Seattle Times • 4h ago
+University of Michigan • 22h ago
 
 ---
 
