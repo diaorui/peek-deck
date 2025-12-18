@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T10:58:35.959642+00:00'
+updated: '2025-12-18T11:26:33.958750+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 10:58 UTC  
+**Last Updated:** December 18, 2025 at 11:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -3.4%  
-**30d:** -4.4%  
-**90d:** -24.7%  
-**1y:** -10.6%  
+**24h:** +0.6%  
+**7d:** -3.2%  
+**30d:** -4.3%  
+**90d:** -24.6%  
+**1y:** -10.5%  
 
 ---
 
@@ -93,7 +93,7 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -109,7 +109,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “just hodl,” and buy the dip, Fast forward, the same crowd are still coping while the price keeps proving one thing, and that is conviction, Bitcoin doesn’t move to reward perfect timing, it moves to reward patience, just keep believing in the process.
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ Dca time!! Dont buy at 130k!
 
 **[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -177,7 +177,7 @@ Investor's Business Daily • 13h ago
 
 **[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqdEjigFmarRgLhL_NYPDZaj2uuP7CWGzpkWXd0wb0CKxZDMxD0TtZMx&gaa_ts=6943e1bf&gaa_sig=pJrI-VTJ7-tzNBWrm3sxgkOxgP1lfpRJayoQuASGBgpP2lSShm2WGluzJqwfyw9cSgQwpqUKLOakjyaZku0cDA%3D%3D)**
 
-Barron's • 45m ago
+Barron's • 1h ago
 
 ---
 
@@ -193,13 +193,13 @@ The Motley Fool • 2h ago
 
 A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -255,7 +255,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 13h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 14h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -291,7 +291,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 307 • ⏱️ 8:31 • 9h ago
+👁️ 22K • 👍 1K • 💬 307 • ⏱️ 8:31 • 10h ago
 
 ---
 
@@ -321,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 595 • 💬 19 • ⏱️ 21:23 • 17h ago
+👁️ 12K • 👍 595 • 💬 19 • ⏱️ 21:23 • 18h ago
 
 ---
 
@@ -331,7 +331,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 19K • 👍 674 • 💬 227 • ⏱️ 8:33 • 19h ago
+👁️ 19K • 👍 674 • 💬 227 • ⏱️ 8:33 • 20h ago
 
 ---
 
@@ -351,7 +351,7 @@ Bitcoin Hits $90000 Then Dumps — DOGE & XRP Holders: This Is Manipulation Bitc
 
 📺 Crypto Daily Trade Signals
 
-👁️ 722 • 👍 56 • 💬 31 • ⏱️ 11:49 • 6h ago
+👁️ 722 • 👍 56 • 💬 31 • ⏱️ 11:49 • 7h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 973 • 💬 492 • ⏱️ 46:53 • 19h ago
+👁️ 22K • 👍 973 • 💬 492 • ⏱️ 46:53 • 20h ago
 
 ---
 
