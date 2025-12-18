@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T05:41:47.484906+00:00'
+updated: '2025-12-18T05:55:23.994748+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 05:41 UTC  
+**Last Updated:** December 18, 2025 at 05:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM
 
 Canonical has now extended its ESM (Expanded Security Maintenance) for ROS coverage to ROS Noetic content-sharing snaps. With ESM for ROS now available in both deb and snap formats, Ubuntu continues to be the trusted foundation for secure, long-term robotics innovation. […]
 
-🔗 [Ubuntu](https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps) • 46m ago
+🔗 [Ubuntu](https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps) • 1h ago
 
 ---
 
@@ -100,7 +100,7 @@ I'm working on a project which aims at recreating the hand motion at the joint l
 
 I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but without actually building the robot. I'm currently trying to put something together with threejs and the jolt physics engine, but I'd have to assume there's probably a better way to do it. If so, what are better ways to simulate a robot? +1 if it can run in a browser
 
-9h ago
+10h ago
 
 ---
 
@@ -108,7 +108,7 @@ I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but with
 
 An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
 
-11h ago
+12h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Robot Report • 1d ago
 
 The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.&nbsp;&nbsp;
 
-The Atlantic • 11h ago
+The Atlantic • 12h ago
 
 ---
 
@@ -166,7 +166,7 @@ TechCrunch • 15h ago
 
 NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 

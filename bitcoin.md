@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T05:41:47.475686+00:00'
+updated: '2025-12-18T05:55:23.985481+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 05:41 UTC  
+**Last Updated:** December 18, 2025 at 05:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -4.0%  
-**30d:** -5.0%  
-**90d:** -25.1%  
-**1y:** -11.1%  
+**24h:** -0.2%  
+**7d:** -4.2%  
+**30d:** -5.2%  
+**90d:** -25.3%  
+**1y:** -11.3%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Dca time!! Dont buy at 130k!
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
 
-CCN.com • 15h ago
+CCN.com • 16h ago
 
 ---
 
@@ -203,7 +203,7 @@ Financial Times • 3d ago
 
 The world's top crypto has lost 30% of its value in the past couple of months.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -251,7 +251,7 @@ Bithoven is a smart contract language for composing powerful and secure instrume
 
 Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
 
-⬆️ 1 • 💬 1 • 5d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
+⬆️ 1 • 💬 1 • 6d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 2K • 💬 135 • ⏱️ 19:03 • 5h ago
+👁️ 15K • 👍 2K • 💬 135 • ⏱️ 19:03 • 6h ago
 
 ---
 

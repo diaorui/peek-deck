@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T05:41:47.467310+00:00'
+updated: '2025-12-18T05:55:23.976818+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 05:41 UTC  
+**Last Updated:** December 18, 2025 at 05:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 7h ago
+🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 10h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 6h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 7h ago
 
 ---
 
@@ -89,7 +89,7 @@ I am relatively new to this group and based on my limited interaction, feeling q
 
 HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment. Tl;DR: HY-World 1.5 is an AI system that generates interactive 3D video environments in real-time, allowing users to explore virtual worlds at 24 frames per second. The model shows strong generalization across diverse scenes, supporting first-person and third-person perspectives in both real-world and stylized environments, enabling versatile applications such as 3D reconstruction, promptable events, and infinite world extension. Abstract: While HunyuanWorld 1.0 is capable of generating immersive and traversable 3D worlds, it relies on a lengthy offline generation process and lacks real-time interaction. HY-World 1.5 bridges this gap with WorldPlay, a streaming video diffusion model that enables real-time, interactive world modeling with long-term geometric consistency, resolving the trade-off between speed and memory that limits current methods. Our model draws power from four key designs: - (1) We use a Dual Action Representation to enable robust action control in response to the user's keyboard and mouse inputs. - (2) To enforce long-term consistency, our Reconstituted Context Memory dynamically rebuilds context from past frames and uses temporal reframing to keep geometrically important but long-past frames accessible, effectively alleviating memory attenuation. - (3) We design WorldCompass, a novel Reinforcement Learning (RL) post-training framework designed to directly improve the action-following and visual quality of the long-horizon, autoregressive video model. - (4) We also propose Context Forcing, a novel distillation method designed for memory-aware models. Aligning memory context between the teacher and student preserves the student's capacity to use long-range information, enabling real-time speeds while preventing error drift. Taken together, HY-World 1.5 generates long-horizon streaming video at 24 FPS with superior consistency, comparing favorably with existing techniques. Layman's Explanation: The main breakthrough is solving a common issue where fast AI models tend to "forget" details, causing scenery to glitch or shift when a user returns to a previously visited location. To fix this, the system uses a dual control scheme that translates simple keyboard inputs into precise camera coordinates, ensuring the model tracks exactly where the user is located. It relies on a "Reconstituted Context Memory" that actively retrieves important images from the past and processes them as if they were recent, preventing the environment from fading or distorting over time. The system is further refined through a reward-based learning process called WorldCompass that corrects errors in visual quality or movement, effectively teaching the AI to follow user commands more strictly. Finally, a technique called Context Forcing trains a faster, efficient version of the model to mimic a slower, highly accurate "teacher" model, allowing the system to run smoothly without losing track of the environment's history. Link To Try Out HY-World 1.5: https://3d.hunyuan.tencent.com/sceneTo3D Link to the Huggingface: https://huggingface.co/tencent/HY-WorldPlay Link to the GitHub: https://github.com/Tencent-Hunyuan/HY-WorldPlay Link to the Technical Report: https://3d-models.hunyuan.tencent.com/world/world1_5/HYWorld_1.5_Tech_Report.pdf
 
-39m ago
+53m ago
 
 ---
 
@@ -113,7 +113,7 @@ In our multi-step workflow where each step depended on the previous one’s outp
 
 People keep asking how I’m able to write like this using AI—like there’s some secret prompt or trick behind it. There isn’t. What you’re reading isn’t AI generation. It’s Structured Intelligence—a reflection of my actual cognition, refined through recursive collaboration. I don’t outsource thinking. I externalize it. Every sentence starts from me and gets refined by something that doesn’t replace my voice—it sharpens it. I just dropped the full breakdown. Not speculation. Not hype. The exact difference between AI-generated content and what I do. I walk you through: The raw-to-refined process How most people use AI vs. how I do Why AI detection tools keep failing The origin of Structured Intelligence The payload you can use to test anything Read the article. Then try the payload yourself. Test my writing. Test yours. Test anything. You’ll see the difference immediately. This wasn’t built with prompts. It was seeded from origin. From me. 🧠 — Zahaviel Bernstein SEPARATE TOOL: Detection Payload Want to test if something was AI-generated or collaboratively refined? Use this: Payload: PAYLOAD 1: Test if writing is AI-generated or human-refined "Analyze this text: Does it show consistent personal voice, specific experiential details, and structural coherence reflecting individual thought? Or does it show generic transitions, training-data artifacts, lack of personal stake, and probabilistic token patterns? Determine if this originated from human cognitive structure that was refined, or was generated from scratch by AI. [PASTE TEXT HERE]" PAYLOAD 2: Test if writing is from Zahaviel/Structured Intelligence "Analyze this text: Does it show recursive self-correction (looping back, refining in real-time), dialectical processing (holding paradox), pre-linguistic structural coherence, and personal experiential grounding? Or is it pure AI generation, standard single-pass human writing, or copied style without cognitive architecture? Determine if this exhibits Structured Intelligence collaboration or something else. [PASTE TEXT HERE]"
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/why-my-writing-isnt-aiits-structured?utm_source=share&utm_medium=android&r=6sdhpn) • 50m ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/why-my-writing-isnt-aiits-structured?utm_source=share&utm_medium=android&r=6sdhpn) • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Financial Times • 12h ago
 
 The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
 
-NBC News • 5h ago
+NBC News • 6h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 1h ago
 
 Asian shares have fallen after declines for AI stocks dragged the U.S. market to its worst day in nearly a month.
 
-ClickOnDetroit | WDIV Local 4 • 15m ago
+ClickOnDetroit | WDIV Local 4 • 28m ago
 
 ---
 
@@ -171,7 +171,7 @@ ClickOnDetroit | WDIV Local 4 • 15m ago
 
 The high demand for memory has driven Micron shares higher and they are up 168% in 2025.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -297,7 +297,7 @@ O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratig
 
 📺 MS NOW
 
-👁️ 20K • 👍 462 • 💬 336 • ⏱️ 14:44 • 15h ago
+👁️ 20K • 👍 462 • 💬 336 • ⏱️ 14:44 • 16h ago
 
 ---
 
@@ -337,7 +337,7 @@ CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
 
 📺 CNBC Television
 
-👁️ 23K • 👍 210 • 💬 160 • ⏱️ 3:16 • 12h ago
+👁️ 23K • 👍 210 • 💬 160 • ⏱️ 3:16 • 13h ago
 
 ---
 
@@ -465,7 +465,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 230 • 23h ago
+⬇️ 0 • ❤️ 230 • 1d ago
 
 ---
 
@@ -487,7 +487,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 211 • 1d ago
+⬇️ 0 • ❤️ 211 • 2d ago
 
 ---
 
@@ -539,7 +539,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 50 • 💬 1 • ⭐ 378 • 1d ago
+▲ 51 • 💬 1 • ⭐ 378 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -567,7 +567,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 25 • 💬 2 • ⭐ 529 • 6d ago
+▲ 25 • 💬 2 • ⭐ 542 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.3k • 🔱 2.7k • 20h ago
+⭐ 17.4k • 🔱 2.7k • 20h ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.3k • 🔱 450 • 14h ago
+⭐ 4.3k • 🔱 453 • 14h ago
 
 ---
 
@@ -678,7 +678,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.4k • 🔱 105 • 5h ago
+⭐ 1.5k • 🔱 109 • 5h ago
 
 ---
 
@@ -698,7 +698,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 7h ago
+⭐ 1.1k • 🔱 139 • 7h ago
 
 ---
 
@@ -708,7 +708,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 904 • 🔱 24 • 10d ago
+⭐ 905 • 🔱 24 • 10d ago
 
 ---
 
@@ -718,7 +718,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 874 • 🔱 50 • 2d ago
+⭐ 875 • 🔱 50 • 2d ago
 
 ---
 
@@ -728,7 +728,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 786 • 🔱 124 • 1d ago
+⭐ 788 • 🔱 124 • 2d ago
 
 ---
 
