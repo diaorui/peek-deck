@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T06:59:28.978296+00:00'
+updated: '2025-12-18T07:30:34.419417+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 06:59 UTC  
+**Last Updated:** December 18, 2025 at 07:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -4.3%  
-**30d:** -5.3%  
-**90d:** -25.4%  
-**1y:** -11.4%  
+**24h:** +0.6%  
+**7d:** -3.8%  
+**30d:** -4.8%  
+**90d:** -25.0%  
+**1y:** -11.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1726.25B
+**Market Cap:** $1732.75B
 Rank #1
 
-**Circulating Supply:** 19,963,606 BTC
+**Circulating Supply:** 19,963,612 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.4%
+-31.2%
 
 **All-Time Low:** $67.81
-+127373.8%
++127882.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ Dca time!! Dont buy at 130k!
 
 Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart includes every on-chain transaction in that window. Each bar shows BTC spent by coin age band (UTXO age at spend). PnL is realized profit/loss vs the price when each UTXO was first created. The pie on the right shows total realized profit vs loss for the day. Key takeaways from today’s data: ~99.5% of all BTC spent came from coins younger than 1 year. A chunk of 1–1.5y coins realized losses, but the overwhelming majority of capitulation is from short-term holders / “tourists” dumping recent buys. Old coins (1.5y+) barely moved. Long-term HODLers are still largely sitting tight and stacking. The 180-1yr crowd growing recently is pointing to loss harvesting before 2026 to assist tax advantages. It represented about 30% of the selling at a loss by volume but was disproportionalty smaller in terms of actual loss relative to coins moved (this makes sense as coins held that long are not as much in a loss as the shorter term entrants since summer). This is a quick snapshot from my full-node dataset. I’ll post more breakdowns like this as I keep building out the tooling.
 
-6h ago
+7h ago
 
 ---
 
@@ -117,33 +117,33 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “just hodl,” and buy the dip, Fast forward, the same crowd are still coping while the price keeps proving one thing, and that is conviction, Bitcoin doesn’t move to reward perfect timing, it moves to reward patience, just keep believing in the process.
 
-2h ago
+3h ago
 
 ---
 
 **[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Bitcoin is king for a reason.](https://www.reddit.com/r/Bitcoin/comments/1pp1ysb/bitcoin_is_king_for_a_reason/)**
 
-13h ago
+14h ago
 
 ---
 
-**[Bear Market](https://www.reddit.com/r/Bitcoin/comments/1pp4zhb/bear_market/)**
+**[Would you sell your Bitcoin to be mortgage free?](https://www.reddit.com/r/Bitcoin/comments/1ppguxx/would_you_sell_your_bitcoin_to_be_mortgage_free/)**
 
-Medium term holder 5+ years. I'm seeing so many posts with folks showing technical analysis and memes. Lots of panicky posts by new folks seeing price drops for the first time. Next, other posts of people worshipping QE and other monetary instruments that end up driving up asset prices and make cost of living brutal. This is my second bear market and here are my tips: 1) Treat Bitcoin like a long term, high volatility asset. If you DCA, give yourself 8-10 years. If you lump sum invest, your best bet is during bear cycles anytime between May to October. We are in a bear cycle now. 2) Is the 4 year cycle broken? It's irrelevant because your timeline should be long enough to see sustained gains unless there is a major recession. 3) Selling is normal and fiat does not suckkkkk. Yes, you heard that. You need money to eat, live, and buy things like homes, cars, tuition, and weddings. Bitcoin is an investment that helps. 4) Gold and diversified stocks matter as well. Bitcoin ideally should be 10% of a portfolio and that's also assuming you are comfortable with risk. 5) No leverage and no life savings. Don't do either. Nobody other than gamblers or insiders. 6) Stop worrying about what whales or insiders do. They have existed and will exist and will outleverage and outfinesse you in all scenarios as well.
+Suppose you had enough Bitcoin to pay off the remainder of your mortgage. Would you do it?
 
-11h ago
+3h ago
 
 ---
 
@@ -151,9 +151,9 @@ Medium term holder 5+ years. I'm seeing so many posts with folks showing technic
 
 ## Google News: "bitcoin"
 
-**[BTC, XRP, ETH, ADA Price News: Bitcoin to $10,000 in 2026? It's Possible](https://www.coindesk.com/markets/2025/12/18/bitcoin-could-drop-to-usd10-000-one-analyst-says-spelling-doom-for-eth-ada-xrp)**
+**[Bitcoin (BTC) Price News: All over the place ahead of U.S. inflation data. what next?](https://www.coindesk.com/markets/2025/12/18/bitcoin-is-all-over-the-place-ahead-of-u-s-inflation-data-gold-nears-record-high)**
 
-Traders are positioning for downside risks, with a significant build-up of put options indicating expectations of a dip below $85,000.
+U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
 
 CoinDesk • 1h ago
 
@@ -179,7 +179,7 @@ thestreet.com • 15h ago
 
 **[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -259,7 +259,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 9h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 10h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -297,7 +297,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 1K • 💬 254 • ⏱️ 8:31 • 5h ago
+👁️ 16K • 👍 1K • 💬 254 • ⏱️ 8:31 • 6h ago
 
 ---
 
@@ -307,7 +307,7 @@ Bitcoin Hits $90000 Then Dumps — DOGE & XRP Holders: This Is Manipulation Bitc
 
 📺 Crypto Daily Trade Signals
 
-👁️ 274 • 👍 35 • 💬 15 • ⏱️ 11:49 • 2h ago
+👁️ 274 • 👍 35 • 💬 15 • ⏱️ 11:49 • 3h ago
 
 ---
 
@@ -317,7 +317,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 19K • 👍 669 • 💬 209 • ⏱️ 8:33 • 15h ago
+👁️ 19K • 👍 669 • 💬 209 • ⏱️ 8:33 • 16h ago
 
 ---
 
@@ -347,7 +347,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 38K • 👍 2K • 💬 215 • ⏱️ 48:48 • 15h ago
+👁️ 38K • 👍 2K • 💬 215 • ⏱️ 48:48 • 16h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bybit $30'000 Deposit Bonus [NEW ] http://bit.ly/3JhXtNi (click here) Register o
 
 📺 Crypto Anup
 
-👁️ 190 • 👍 28 • 💬 2 • ⏱️ 6:32 • 50m ago
+👁️ 190 • 👍 28 • 💬 2 • ⏱️ 6:32 • 1h ago
 
 ---
 
@@ -367,7 +367,7 @@ Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly 
 
 📺 Crypto Banter
 
-👁️ 22K • 👍 1K • 💬 61 • ⏱️ 48:33 • 16h ago
+👁️ 22K • 👍 1K • 💬 61 • ⏱️ 48:33 • 17h ago
 
 ---
 
@@ -377,7 +377,7 @@ BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/Cha
 
 📺 Chart Junkies
 
-👁️ 2K • 👍 102 • 💬 30 • ⏱️ 10:16 • 12h ago
+👁️ 2K • 👍 102 • 💬 30 • ⏱️ 10:16 • 13h ago
 
 ---
 

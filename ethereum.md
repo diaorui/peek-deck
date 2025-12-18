@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T06:59:28.984228+00:00'
+updated: '2025-12-18T07:30:34.425424+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 06:59 UTC  
+**Last Updated:** December 18, 2025 at 07:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** -8.3%  
-**30d:** -6.6%  
-**90d:** -36.9%  
-**1y:** -17.5%  
+**24h:** -3.2%  
+**7d:** -8.2%  
+**30d:** -6.4%  
+**90d:** -36.8%  
+**1y:** -17.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $341.18B
+**Market Cap:** $342.21B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.9%
+-42.7%
 
 **All-Time Low:** $0.43
-+652691.5%
++654961.8%
 
 ---
 
@@ -80,7 +80,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-58m ago
+1h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
-15h ago
+16h ago
 
 ---
 
@@ -106,9 +106,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[how come im receiving small amounts of eth back after robinhood deposits](https://www.reddit.com/r/ethereum/comments/1ppkedu/how_come_im_receiving_small_amounts_of_eth_back/)**
+
+so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
+
+32m ago
+
+---
+
 **[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
 
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 15h ago
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 16h ago
 
 ---
 
@@ -134,23 +142,17 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 ---
 
-**[Help sending Blob transaction](https://www.reddit.com/r/ethereum/comments/1pp3efv/help_sending_blob_transaction/)**
-
-12h ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqetaqN64k-vxE2KqginY_AP1xn_JyrTAzXMRYwN3CA_YbDhb0PMGIX-&gaa_ts=6943a442&gaa_sig=R2DVYPMAfUtwhJv6dhiacchy5cZEqKUarNPMPc2_INCABxDpTB6xBbletab5wFmgkXJOiQIFYms-EWiVk-4ICg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfXSMAPxfp_n8nTSnqkQPg-22s99DLBuuERIO-1tX07cLXhNS1z6GmE&gaa_ts=6943b108&gaa_sig=l9a3UWdMT_ii28ULnBk61KYZ1KCdP433Lw6g2AvT5U9pKEphLPuCLCdLRyQKQjETEog29xycszrXlPH0X5xXUQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -172,19 +174,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Tom Lee Predicts 10-15% Downside For Stocks In Early 2026: Here Is Why The Ethereum Bull Sees Crypto's 'Best Years' Ahead](https://finance.yahoo.com/news/tom-lee-predicts-10-15-193238141.html)**
+**[Vitalik Buterin Says Ethereum Must Be Easier to Understand to Be Truly Trustless](https://finance.yahoo.com/news/vitalik-buterin-says-ethereum-must-064303154.html)**
 
-Wall Street analyst Tom Lee predicted on Monday a bearish first half for financial markets in 2026, but expects it to “come back in force” eventually. Lee Expects Market To ‘Come Back In Force’ In 2026 Lee, who chairs BitMine Immersion Technologies ...
+Ethereum co-founder Vitalik Buterin says the network must become easier to understand if it wants to fully live up to its promise of trustlessness, a challenge he argues extends across much of the blockchain industry. Key Takeaways: Vitalik Buterin says Ethereum’s trustlessness depends not just on decentralization, but on how ...
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Vs. Ethereum Performance Divergence and What It Signals for Investors](https://www.investing.com/analysis/bitcoin-vs-ethereum-performance-divergence-and-what-it-signals-for-investors-200671953)**
-
-Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
-
-Investing.com • 21h ago
+Yahoo Finance • 47m ago
 
 ---
 
@@ -196,23 +190,33 @@ The Motley Fool • 19h ago
 
 ---
 
-**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
+**[Bitcoin Vs. Ethereum Performance Divergence and What It Signals for Investors](https://www.investing.com/analysis/bitcoin-vs-ethereum-performance-divergence-and-what-it-signals-for-investors-200671953)**
 
-Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
+Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
 
-ts2.tech • 10h ago
-
----
-
-**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
-
-The Block • 2d ago
+Investing.com • 21h ago
 
 ---
 
-**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-Bloomberg.com • 2d ago
+CCN.com • 1d ago
+
+---
+
+**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
+
+Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
+
+The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -246,7 +250,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 302 • 💬 68 • ⏱️ 20:34 • 15h ago
+👁️ 10K • 👍 302 • 💬 68 • ⏱️ 20:34 • 16h ago
 
 ---
 
@@ -256,7 +260,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 628 • 👍 31 • 💬 72 • ⏱️ 11:07 • 12h ago
+👁️ 628 • 👍 31 • 💬 72 • ⏱️ 11:07 • 13h ago
 
 ---
 

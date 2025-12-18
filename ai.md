@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T06:59:28.969903+00:00'
+updated: '2025-12-18T07:30:34.410928+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 06:59 UTC  
+**Last Updated:** December 18, 2025 at 07:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment. Tl;DR: HY-World 1.5 is an AI system that generates interactive 3D video environments in real-time, allowing users to explore virtual worlds at 24 frames per second. The model shows strong generalization across diverse scenes, supporting first-person and third-person perspectives in both real-world and stylized environments, enabling versatile applications such as 3D reconstruction, promptable events, and infinite world extension. Abstract: While HunyuanWorld 1.0 is capable of generating immersive and traversable 3D worlds, it relies on a lengthy offline generation process and lacks real-time interaction. HY-World 1.5 bridges this gap with WorldPlay, a streaming video diffusion model that enables real-time, interactive world modeling with long-term geometric consistency, resolving the trade-off between speed and memory that limits current methods. Our model draws power from four key designs: - (1) We use a Dual Action Representation to enable robust action control in response to the user's keyboard and mouse inputs. - (2) To enforce long-term consistency, our Reconstituted Context Memory dynamically rebuilds context from past frames and uses temporal reframing to keep geometrically important but long-past frames accessible, effectively alleviating memory attenuation. - (3) We design WorldCompass, a novel Reinforcement Learning (RL) post-training framework designed to directly improve the action-following and visual quality of the long-horizon, autoregressive video model. - (4) We also propose Context Forcing, a novel distillation method designed for memory-aware models. Aligning memory context between the teacher and student preserves the student's capacity to use long-range information, enabling real-time speeds while preventing error drift. Taken together, HY-World 1.5 generates long-horizon streaming video at 24 FPS with superior consistency, comparing favorably with existing techniques. Layman's Explanation: The main breakthrough is solving a common issue where fast AI models tend to "forget" details, causing scenery to glitch or shift when a user returns to a previously visited location. To fix this, the system uses a dual control scheme that translates simple keyboard inputs into precise camera coordinates, ensuring the model tracks exactly where the user is located. It relies on a "Reconstituted Context Memory" that actively retrieves important images from the past and processes them as if they were recent, preventing the environment from fading or distorting over time. The system is further refined through a reward-based learning process called WorldCompass that corrects errors in visual quality or movement, effectively teaching the AI to follow user commands more strictly. Finally, a technique called Context Forcing trains a faster, efficient version of the model to mimic a slower, highly accurate "teacher" model, allowing the system to run smoothly without losing track of the environment's history. Link To Try Out HY-World 1.5: https://3d.hunyuan.tencent.com/sceneTo3D Link to the Huggingface: https://huggingface.co/tencent/HY-WorldPlay Link to the GitHub: https://github.com/Tencent-Hunyuan/HY-WorldPlay Link to the Technical Report: https://3d-models.hunyuan.tencent.com/world/world1_5/HYWorld_1.5_Tech_Report.pdf
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 10h ago
+🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 11h ago
 
 ---
 
@@ -89,7 +89,7 @@ School districts from Utah to Ohio to Alabama are spending thousands of dollars 
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
-18h ago
+19h ago
 
 ---
 
@@ -105,15 +105,15 @@ Now you don't need to know any programming to launch a company. We've been appro
 
 In our multi-step workflow where each step depended on the previous one’s output, problems we observed were silent errors: malformed JSON, missing fields, incorrect assumptions, etc. We added verification nodes between steps: check structure check schema check grounding retry or escalate if needed It turned the system from unpredictable to stable. It reminded me of how traditional systems use validation layers, but here the cost of skipping them compounds faster because each output becomes the next input. Anyone else tried adding checkpoints between AI-driven steps? What verification patterns worked for you?
 
-10h ago
+11h ago
 
 ---
 
-**[Meet Aexa's HoloConnect AI, Real-Time Human-Like AI Interacting With Customers](https://www.reddit.com/r/artificial/comments/1ppdntt/meet_aexas_holoconnect_ai_realtime_humanlike_ai/)**
+**[Microsoft's TRELLIS 2-4B, An Open-Source Image-to-3D Model](https://www.reddit.com/r/artificial/comments/1povtpl/microsofts_trellis_24b_an_opensource_imageto3d/)**
 
-What happens when AI stops being a screen and starts interacting like a real person? In this video, we deployed Aexa's HoloConnect AI inside a crepe restaurant, where it interacted naturally with a real customer in real time. No scripts. No gimmicks. Just human-like conversation, vision, and voice, running in a real-world environment. This is not a chatbot. This is AI with presence. Aexa's HoloConnect AI can: • See and hear like a human • Respond in real time • Interact naturally with customers • Operate without goggles or headsets • Run online or offline This is the future of hospitality, healthcare, retail, and enterprise AI, and it’s happening now. If you’ve ever wondered what AI in the real world actually looks like, this is it. Step into the future as we explore an interactive `3d hologram` display. This `futuristic screen` presents information through a responsive `hologram`, allowing users to quickly access `nutrition` details and learn to `read food labels` with ease. Experience a new way to engage with essential dietary information.
+"An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
 
-5h ago
+18h ago
 
 ---
 
@@ -129,55 +129,35 @@ Fox Business • 5h ago
 
 ---
 
-**[US tech stocks slide as Oracle data centre setback reignites AI concerns](https://www.ft.com/content/ce60f74f-ccc8-4bde-bbec-842041ecf8e7)**
+**[NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)**
 
-Software giant suffers renewed declines after backer Blue Owl pulls out of $10bn project
+NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-Financial Times • 14h ago
-
----
-
-**[Stocks close sharply lower as AI anxiety returns](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866)**
-
-The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
-
-NBC News • 7h ago
+National Oceanic and Atmospheric Administration (NOAA) (.gov) • 19h ago
 
 ---
 
-**[Why Nvidia, Broadcom and other AI stocks are falling sharply](https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-ai-stocks-are-falling-sharply-25d35edd?gaa_at=eafs&gaa_n=AWEtsqcZrsndNrEmSxX1ONPUeGtZ4tu2t0UFDDn-5WkzHV3XAp6qOcM6SZdT&gaa_ts=6943a440&gaa_sig=R_wIFavqM7czNo7Bd0P5Lk-ECoeyeasqYepdBLdFmOuQkzaCfONb4uAcx87R3HuEcFbQ6gax6dtl8auJ9JMr-g%3D%3D)**
+**[China's Economic Slump Isn't Stopping a Billionaire Boom in AI Chips](https://www.businessinsider.com/china-ai-tech-boom-new-billionaires-metax-cambricon-moore-threads-2025-12)**
 
-MarketWatch • 10h ago
+US chip bans are supercharging China's homegrown AI champions.
 
----
-
-**[Microsoft AI CEO Mustafa Suleyman says it will cost 'hundreds of billions' to keep up with frontier AI in the next decade](https://www.businessinsider.com/microsoft-ai-ceo-mustafa-suleyman-cost-hundred-billions-superintelligence-2025-12)**
-
-Mustafa Suleyman says staying at the AI frontier will cost "hundreds of billions" over the next five to 10 years.
-
-Business Insider • 1h ago
+Business Insider • 33m ago
 
 ---
 
-**[Can FTI Consulting (FCN) Turn Healthcare AI Partnerships Into a Durable Advisory Edge?](https://finance.yahoo.com/news/fti-consulting-fcn-turn-healthcare-060909619.html)**
+**[Asian shares follow Wall Street lower as AI worries drag tech stocks lower](https://www.click2houston.com/news/2025/12/18/asian-shares-follow-wall-street-lower-as-ai-worries-drag-tech-stocks-lower/)**
 
-Earlier in December 2025, Penguin Ai announced a collaboration with FTI Consulting to embed its healthcare AI platform into FTI’s revenue cycle management advisory work, while FTI also added veteran healthcare advisor Mitch Harris and appointed Rike Rabl as its next Chief Human Resources Officer. Together, these moves signal FTI Consulting’s push to deepen healthcare expertise, scale AI-enabled services, and sharpen its global talent strategy for complex regulatory and operational...
+Asian shares are mostly lower after declines for AI stocks dragged the U.S. market to its worst day in nearly a month.
 
-Yahoo Finance • 50m ago
-
----
-
-**[Asian shares follow Wall Street lower as AI worries drag tech stocks lower](https://www.clickondetroit.com/news/2025/12/18/asian-shares-follow-wall-street-lower-as-ai-worries-drag-tech-stocks-lower/)**
-
-Asian shares have fallen after declines for AI stocks dragged the U.S. market to its worst day in nearly a month.
-
-ClickOnDetroit | WDIV Local 4 • 1h ago
+Click2Houston • 36m ago
 
 ---
 
-**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
+**[Asian shares follow Wall Street lower as AI worries drag tech stocks lower](https://www.10tv.com/article/syndication/associatedpress/asian-shares-follow-wall-street-lower-as-ai-worries-drag-tech-stocks-lower/616-2ea648d3-2403-4c72-9139-3868e9406bfc)**
 
-The New York Times • 10h ago
+Asian shares have fallen after declines for AI stocks dragged the U.S. market to its worst day in nearly a month. Traders are waiting for an update on U.S....
+
+10tv.com • 2h ago
 
 ---
 
@@ -197,6 +177,24 @@ CNBC • 13h ago
 
 ---
 
+**[Amazon shakes up AI team as veteran Prasad leaves, DeSantis promoted](https://www.reuters.com/technology/amazon-taps-veteran-peter-desantis-lead-ai-chip-quantum-push-2025-12-17/)**
+
+Reuters • 11h ago
+
+---
+
+**[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
+
+Reuters • 3h ago
+
+---
+
+**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
+
+The New York Times • 11h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -205,13 +203,13 @@ CNBC • 13h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 857 • 💬 452 • 13h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 877 • 💬 459 • 14h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 820 • 💬 245 • 2d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 822 • 💬 245 • 2d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -225,7 +223,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 535 • 💬 298 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 536 • 💬 300 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -239,7 +237,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 239 • 💬 140 • 12h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 241 • 💬 140 • 13h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -247,7 +245,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 228 • 💬 163 • 22h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 229 • 💬 165 • 22h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -255,7 +253,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 160 • 💬 56 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 161 • 💬 56 • 1d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -271,7 +269,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 That's one way to get some publicity with Reddit.
 
-⬆️ 125 • 💬 138 • 13h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
+⬆️ 125 • 💬 141 • 14h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
 
 ---
 
@@ -315,7 +313,7 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 10K • 👍 446 • 💬 50 • ⏱️ 27:34 • 15h ago
+👁️ 10K • 👍 446 • 💬 50 • ⏱️ 27:34 • 16h ago
 
 ---
 
@@ -355,7 +353,7 @@ Check out Glue: https://bit.ly/4pOsxI2 Free 30 day trial. Work gets done where y
 
 📺 Wes Roth
 
-👁️ 51K • 👍 1K • 💬 512 • ⏱️ 23:58 • 20h ago
+👁️ 51K • 👍 1K • 💬 512 • ⏱️ 23:58 • 21h ago
 
 ---
 
@@ -391,7 +389,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,881 • 9d ago
+⬇️ 296,552 • ❤️ 2,883 • 9d ago
 
 ---
 
@@ -403,7 +401,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 315 • 10h ago
+⬇️ 10,487 • ❤️ 318 • 10h ago
 
 ---
 
@@ -415,7 +413,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 928 • 5d ago
+⬇️ 158,614 • ❤️ 930 • 5d ago
 
 ---
 
@@ -427,7 +425,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 51,591 • ❤️ 347 • 8d ago
+⬇️ 51,591 • ❤️ 348 • 8d ago
 
 ---
 
@@ -439,7 +437,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 249 • 3h ago
+⬇️ 0 • ❤️ 250 • 4h ago
 
 ---
 
@@ -451,7 +449,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 234 • 2d ago
+⬇️ 0 • ❤️ 235 • 2d ago
 
 ---
 
@@ -475,7 +473,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 `24.0B`
 
-⬇️ 28,106 • ❤️ 396 • 1d ago
+⬇️ 28,106 • ❤️ 397 • 1d ago
 
 ---
 
@@ -485,7 +483,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software en
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 211 • 2d ago
+⬇️ 0 • ❤️ 212 • 2d ago
 
 ---
 
@@ -497,7 +495,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 102,395 • ❤️ 472 • 8d ago
+⬇️ 102,395 • ❤️ 474 • 8d ago
 
 ---
 
@@ -646,7 +644,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.4k • 🔱 2.7k • 21h ago
+⭐ 17.4k • 🔱 2.7k • 22h ago
 
 ---
 
@@ -686,7 +684,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 321 • 11d ago
+⭐ 1.3k • 🔱 321 • 12d ago
 
 ---
 
@@ -696,7 +694,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 139 • 8h ago
+⭐ 1.1k • 🔱 139 • 9h ago
 
 ---
 
@@ -736,7 +734,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 776 • 🔱 115 • 15h ago
+⭐ 776 • 🔱 115 • 16h ago
 
 ---
 
