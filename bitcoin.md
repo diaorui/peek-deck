@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T22:47:08.601708+00:00'
+updated: '2025-12-18T22:58:06.112924+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 22:47 UTC  
+**Last Updated:** December 18, 2025 at 22:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -141,7 +141,7 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-17m ago
+28m ago
 
 ---
 
@@ -153,7 +153,7 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Block • 16h ago
 
 A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bitcoin Magazine • 1h ago
 
 Danh C. Vo, 37, is accused of scamming thousands of people who bought into his crypto company and then fleeing to Vietnam.
 
-PhillyVoice • 39m ago
+PhillyVoice • 50m ago
 
 ---
 
@@ -241,7 +241,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 6h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 7h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -303,7 +303,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 12h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 13h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 3K • 💬 205 • ⏱️ 19:03 • 22h ago
+👁️ 40K • 👍 3K • 💬 205 • ⏱️ 19:03 • 23h ago
 
 ---
 
@@ -367,7 +367,7 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 5K • 👍 532 • 💬 127 • ⏱️ 15:27 • 4h ago
+👁️ 5K • 👍 532 • 💬 127 • ⏱️ 15:27 • 5h ago
 
 ---
 

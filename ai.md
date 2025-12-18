@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T22:47:08.593326+00:00'
+updated: '2025-12-18T22:58:06.104432+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 22:47 UTC  
+**Last Updated:** December 18, 2025 at 22:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ This week's article examines the claim that AI feels safer than human conversati
 
 We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
 
-7h ago
+8h ago
 
 ---
 
@@ -151,13 +151,13 @@ MarketWatch • 3h ago
 
 US stocks (^DJI, ^IXIC, ^GSPC) closed Thursday's session higher, led by the Nasdaq Composite's gain of 1.38% (or 313 points) coming off of the November Consumer Price Index (CPI) report released this morning. November's consumer price data showed that inflation rose by 2.7% year-over-year, according to the US Bureau of Labor Statistics (BLS), below economists' forecasts of 3.1%. Yahoo Finance markets and data editor Jared Blikre breaks down the biggest market themes from today’s trading day, including trends in chip stocks, AI use cases, and gold pricing (GC=F). To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 43m ago
 
 ---
 
 **[Exclusive | Meta Is Developing New AI Image and Video Model Code-Named ‘Mango’](https://www.wsj.com/tech/ai/meta-developing-new-ai-image-and-video-model-code-named-mango-16e785c7?gaa_at=eafs&gaa_n=AWEtsqcqaidPUkklGFlFOgCiOZbWWZoCvIX2i0s63XfBAMK1ixhE7osSdL7p&gaa_ts=694487d0&gaa_sig=K1H9R3k-9fkIRq6yMD4Hdv1uF7-45DGArZzzYrjx_dowTT9lOAYFsk5CSCYNacTo9cg_JAAbU6xarAM3Ys1oLg%3D%3D)**
 
-The Wall Street Journal • 48m ago
+The Wall Street Journal • 59m ago
 
 ---
 
@@ -229,7 +229,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 **[JetBlue flight averts mid-air collision with US Air Force jet](https://news.ycombinator.com/item?id=46281944)**
 
-⬆️ 376 • 💬 318 • 2d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
+⬆️ 376 • 💬 318 • 3d ago • [reuters.com](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
 
 ---
 
@@ -405,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 352 • 31m ago
+⬇️ 51,262 • ❤️ 352 • 42m ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.6k • 🔱 2.8k • 14h ago
+⭐ 17.6k • 🔱 2.8k • 15h ago
 
 ---
 

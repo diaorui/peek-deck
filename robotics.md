@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T22:47:08.610920+00:00'
+updated: '2025-12-18T22:58:06.122205+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 22:47 UTC  
+**Last Updated:** December 18, 2025 at 22:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -90,7 +90,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
 
-5m ago
+16m ago
 
 ---
 
@@ -178,7 +178,7 @@ navalnews.com • 1d ago
 
 **[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
 
-University of Michigan • 23h ago
+University of Michigan • 1d ago
 
 ---
 
