@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T19:59:50.522528+00:00'
+updated: '2025-12-18T20:29:06.410929+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 19:59 UTC  
+**Last Updated:** December 18, 2025 at 20:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,530.74
+### $85,061.74
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -6.3%  
-**30d:** -7.3%  
-**90d:** -26.9%  
-**1y:** -13.3%  
+**24h:** -1.1%  
+**7d:** -5.6%  
+**30d:** -6.6%  
+**90d:** -26.4%  
+**1y:** -12.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -119,7 +119,7 @@ Bart Simpson incoming?
 
 Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, the largest accumulation in 13 years. "Smart money" is aggressively positioning itself in anticipation of the drop. Everyone thinks this situation might be good, but what do you think? Is increasing institutional exposure in the crypto market good or bad? 👇 Let me know in the comments…
 
-38m ago
+1h ago
 
 ---
 
@@ -133,13 +133,13 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 **[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 2h ago
 
 **[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -267,7 +267,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 22h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 23h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -313,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 332 • ⏱️ 8:31 • 18h ago
+👁️ 27K • 👍 1K • 💬 332 • ⏱️ 8:31 • 19h ago
 
 ---
 
@@ -343,7 +343,7 @@ Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The
 
 📺 Tim Talks Finance
 
-👁️ 1K • 👍 83 • 💬 24 • ⏱️ 14:32 • 2h ago
+👁️ 1K • 👍 83 • 💬 24 • ⏱️ 14:32 • 3h ago
 
 ---
 
@@ -381,7 +381,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 Discover Crypto
 
-👁️ 10K • 👍 155 • 💬 11 • ⏱️ 0:47 • 17h ago
+👁️ 10K • 👍 155 • 💬 11 • ⏱️ 0:47 • 18h ago
 
 ---
 

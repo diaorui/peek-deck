@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T19:59:50.513860+00:00'
+updated: '2025-12-18T20:29:06.402567+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 19:59 UTC  
+**Last Updated:** December 18, 2025 at 20:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game re
 
 After building RAG + multi-step agent systems, three lessons stood out: Good ingestion determines everything downstream. If extraction isn’t deterministic, nothing else is. Verification is non-negotiable. Without schema/citation checking, errors spread quickly. You need clear tool contracts. The agent can’t compensate for unknown input/output formats. If you’ve built retrieval or agent pipelines, what stability issues did you run into?
 
-13m ago
+42m ago
 
 ---
 
@@ -97,7 +97,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 6h ago
+🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 7h ago
 
 ---
 
@@ -113,7 +113,7 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 This week's article examines the claim that AI feels safer than human conversation and what that safety costs us. Regardless of reason, both emotional and intellectual use of AI reduces risk by preserving control. I explore what is lost when that control is intentionally removed and the conversation no longer involves risk. Control replaces reciprocity in human-AI interaction. The claim that Ai feels intimate is often a misnomer. AI doesn’t feel intimate because it understands us. It feels intimate because there are no social consequences or reciprocity. The piece explores why that feels comforting and why it quietly erodes our capacity for real interaction. In part II of the article, I build a customGPT model named Ava. It's designed to mimic asymmetrical human-like conversation. I remove the ChatGPT adaptive response and reintroduce asymmetric friction. The result isn’t intimacy but loss of control. The full article link is below for anyone interested. https://mydinnerwithmonday.substack.com/p/control-without-consequence
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Deadline • 2h ago
 
 **[Nvidia and other chip stocks rise — but the AI trade may not be back for good](https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-rise-but-the-ai-trade-may-not-be-back-for-good-6e23fca6?gaa_at=eafs&gaa_n=AWEtsqeMZG2J9YN-ChTJnZTIALoBKXhDkPjmHU-mcKz_KP6qf5T6dUHdKu18&gaa_ts=69446097&gaa_sig=lZtVLK2mNz2wGkmxOVucWxmDto2PGtgbI_Ukj3HYiFZRBChA3bmPPS5JtEnsvjIwTRpzkgiFvsvVd-gCUDy2Dw%3D%3D)**
 
-MarketWatch • 47m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -145,13 +145,13 @@ MarketWatch • 47m ago
 
 New entrants like MetaX and Moore Threads join tech giants Huawei, Baidu and Alibaba in rushing to produce Nvidia alternatives.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
 **[Nvidia Stock Gains. The AI Trade Is Back, at Least for One Day.](https://www.barrons.com/articles/nvidia-stock-price-ai-trade-46875325?gaa_at=eafs&gaa_n=AWEtsqf3tvPZD4nTvJJnT6MKX1p-dJ0HdTkYUqxrSd1-ttQsQPlRN4yon912&gaa_ts=69446097&gaa_sig=wYraUbsL_utiCgStAy3f5N09BvX6sD2U1TWOtR29l5wHxvgBdHi59ZRPRrSo_LVe4rtthbA2fDqOz4t7Vmqd1A%3D%3D)**
 
-Barron's • 4h ago
+Barron's • 5h ago
 
 ---
 
@@ -159,13 +159,13 @@ Barron's • 4h ago
 
 The new pact is the latest AI music development for the world's largest music company after settling a lawsuit with Udio in October.
 
-The Hollywood Reporter • 34m ago
+The Hollywood Reporter • 1h ago
 
 ---
 
 **[Deepening our collaboration with the U.S. Department of Energy](https://openai.com/index/us-department-of-energy-collaboration/)**
 
-OpenAI • 55m ago
+OpenAI • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ OpenAI • 55m ago
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
@@ -181,7 +181,7 @@ CNN • 9h ago
 
 Synthetic performers are forcing Hollywood to rethink how fame works and who gets to claim it. Even as the technology races ahead, legal concerns are mounting.
 
-Los Angeles Times • 8h ago
+Los Angeles Times • 9h ago
 
 ---
 
@@ -253,7 +253,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 183 • 💬 146 • 6h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 183 • 💬 146 • 7h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -283,7 +283,7 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 300K • 👍 9K • 💬 2K • ⏱️ 1:39:47 • 11h ago
+👁️ 300K • 👍 9K • 💬 2K • ⏱️ 1:39:47 • 12h ago
 
 ---
 
@@ -293,7 +293,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 19K • 👍 3K • 💬 338 • ⏱️ 5:52 • 4h ago
+👁️ 19K • 👍 3K • 💬 338 • ⏱️ 5:52 • 5h ago
 
 ---
 
@@ -353,7 +353,7 @@ A bride, a wedding dress… and a groom who lives on a smartphone This is the re
 
 📺 Bridebook
 
-👁️ 138K • 👍 5K • 💬 216 • ⏱️ 0:52 • 22h ago
+👁️ 138K • 👍 5K • 💬 216 • ⏱️ 0:52 • 23h ago
 
 ---
 
@@ -425,7 +425,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,118 • ❤️ 274 • 16h ago
+⬇️ 3,118 • ❤️ 274 • 17h ago
 
 ---
 
@@ -666,7 +666,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.8k • 🔱 127 • 15m ago
+⭐ 1.8k • 🔱 127 • 45m ago
 
 ---
 
