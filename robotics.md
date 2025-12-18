@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T18:38:04.666742+00:00'
+updated: '2025-12-18T18:59:49.323499+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 18:38 UTC  
+**Last Updated:** December 18, 2025 at 18:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -98,7 +98,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 Hi everyone, I am trying to model a closed loop feedback system for application in autonomous robot project. My requirements for the control system accuracy and quick response time from signals sent by the STM32. I am currently stuck on the first step which is modelling the entire system. The encoder: I do not know how to model this. It's placed on the shaft of the motor and rotates along with with it, which causes the photo-interrupter to output pulses. The width of the pulses depend on rotational speed (faster angular velocity, shorter pulse). These pulses are sent back to the STM32 and I measure speed from them. The H-bridge: This is a bit complex because there are several states to model (pwm on, pwm off, in between states, and dynamic breaking state). Should I model each off these states with the entire system? As the H:bridge on state (where current is flowing through the motor) in the state in which the motor is speeding up. The motor: this was okay, however, I am not sure if my model is too simple. I have not included the inertia of the robotic system, or included non-linear friction in the model. Is there a better way to model the motor + including the effects of other variables (Inertia from robot etc..) I would appreciate any help, thank you!
 
-1h ago
+2h ago
 
 ---
 
@@ -178,7 +178,7 @@ navalnews.com • 1d ago
 
 **[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
 
-University of Michigan • 19h ago
+University of Michigan • 20h ago
 
 ---
 
@@ -288,7 +288,7 @@ This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it g
 
 📺 DLLS Sports
 
-👁️ 21K • 👍 223 • 💬 23 • ⏱️ 0:14 • 17h ago
+👁️ 21K • 👍 223 • 💬 23 • ⏱️ 0:14 • 18h ago
 
 ---
 

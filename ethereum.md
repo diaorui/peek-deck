@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T18:38:04.663518+00:00'
+updated: '2025-12-18T18:59:49.320316+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 18:38 UTC  
+**Last Updated:** December 18, 2025 at 18:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -8.0%  
-**30d:** -6.3%  
-**90d:** -36.7%  
-**1y:** -17.2%  
+**24h:** +0.3%  
+**7d:** -8.2%  
+**30d:** -6.4%  
+**90d:** -36.8%  
+**1y:** -17.3%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-16h ago
+17h ago
 
 ---
 
@@ -94,7 +94,7 @@ I know many good crypto founders who are not good at marketing. And they think t
 
 **[Let a thousand societies bloom | Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/1ppc5lm/let_a_thousand_societies_bloom_vitalik_buterin/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 18h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 19h ago
 
 ---
 
@@ -102,7 +102,7 @@ I know many good crypto founders who are not good at marketing. And they think t
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-11h ago
+12h ago
 
 ---
 
@@ -110,7 +110,7 @@ so i sent robinhood some coins and ever since then im receiving small amounts of
 
 I am staking ETH for a long time using Zengo wallet. I always thought they have one of the highest staking rewards when you don't want to stake directly on chain or any other more complicated solution. But recently I tested Revolut ETH staking and results suprised me. I left the amounts staked on both platforms untouched for 28 days. Then I look at how much did I make by staking on both platforms, devided by 28, multiplied by 365 devided by the amount staked and I got Zengo: 2.46% ROI Revolut: 4.92% ROI That is a huge difference! I wasn't able to find a good source of information on the comparation of different staking providers. All the information and data just provide vague values that cannot be compared. Was my statistic samle just too small and doesn't actually show correct numbers or does Revolut staking really make 2 times bigger returns? What is the word on the street? Just to save some time. I know that Zengo and Revolut staking is different. I don't care about that right now, only focusing on pure invest > stake > earn. PS: I find it ridiculous (borderline illegal) that basically a financial institution (Zengo) offeres a service that makes it almost impossible to check what are the returns. The on chain data are completely obfuscated through their staking provider so there is no way how to see the periodic earnings. Only the overall sum of all your ernings is visible. Apart from making screenshots and calculating it yourself, you have no way to check how much you are actually earning over time.
 
-17h ago
+18h ago
 
 ---
 
@@ -240,7 +240,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 329 • 👍 19 • 💬 1 • ⏱️ 4:50 • 7h ago
+👁️ 329 • 👍 19 • 💬 1 • ⏱️ 4:50 • 8h ago
 
 ---
 

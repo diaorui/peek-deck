@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T18:38:04.657454+00:00'
+updated: '2025-12-18T18:59:49.314374+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 18:38 UTC  
+**Last Updated:** December 18, 2025 at 18:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,419.85
+### $85,999.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -4.1%  
-**30d:** -5.1%  
-**90d:** -25.2%  
-**1y:** -11.2%  
+**24h:** -0.4%  
+**7d:** -5.0%  
+**30d:** -6.0%  
+**90d:** -25.9%  
+**1y:** -12.1%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Believe and Keep accumulating Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ppvfy2/believe_and_keep_accumulating_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Bart Simpson incoming?
 
-2h ago
+3h ago
 
 ---
 
@@ -157,7 +157,7 @@ Yahoo Finance • 9h ago
 
 Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
 
-CoinDesk • 49m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 1h ago
 
 A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -237,7 +237,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 2h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 3h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -291,7 +291,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 8h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 9h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -305,7 +305,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 210 • ⏱️ 19:03 • 18h ago
+👁️ 37K • 👍 3K • 💬 210 • ⏱️ 19:03 • 19h ago
 
 ---
 
@@ -345,7 +345,7 @@ BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available ev
 
 📺 Lark Davis
 
-👁️ 13K • 👍 698 • 💬 70 • ⏱️ 46:47 • 6h ago
+👁️ 13K • 👍 698 • 💬 70 • ⏱️ 46:47 • 7h ago
 
 ---
 
@@ -355,7 +355,7 @@ Sign up for Coinbase and get $30 in Free Bitcoin it will also support the channe
 
 📺 Toursio
 
-👁️ 28 • 👍 3 • 💬 21 • ⏱️ 3:19 • 5h ago
+👁️ 28 • 👍 3 • 💬 21 • ⏱️ 3:19 • 6h ago
 
 ---
 
