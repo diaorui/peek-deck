@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T19:48:46.136486+00:00'
+updated: '2025-12-18T19:59:50.528677+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 19:48 UTC  
+**Last Updated:** December 18, 2025 at 19:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -1.3%  
-**7d:** -9.4%  
-**30d:** -7.7%  
-**90d:** -37.7%  
-**1y:** -18.5%  
+**7d:** -9.6%  
+**30d:** -7.9%  
+**90d:** -37.8%  
+**1y:** -18.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $340.37B
+**Market Cap:** $335.93B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.9%
+-43.7%
 
 **All-Time Low:** $0.43
-+652037.9%
++642954.3%
 
 ---
 
@@ -94,7 +94,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 **[Let a thousand societies bloom | Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/1ppc5lm/let_a_thousand_societies_bloom_vitalik_buterin/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 19h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 20h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-12h ago
+13h ago
 
 ---
 
@@ -110,7 +110,7 @@ so i sent robinhood some coins and ever since then im receiving small amounts of
 
 I am staking ETH for a long time using Zengo wallet. I always thought they have one of the highest staking rewards when you don't want to stake directly on chain or any other more complicated solution. But recently I tested Revolut ETH staking and results suprised me. I left the amounts staked on both platforms untouched for 28 days. Then I look at how much did I make by staking on both platforms, devided by 28, multiplied by 365 devided by the amount staked and I got Zengo: 2.46% ROI Revolut: 4.92% ROI That is a huge difference! I wasn't able to find a good source of information on the comparation of different staking providers. All the information and data just provide vague values that cannot be compared. Was my statistic samle just too small and doesn't actually show correct numbers or does Revolut staking really make 2 times bigger returns? What is the word on the street? Just to save some time. I know that Zengo and Revolut staking is different. I don't care about that right now, only focusing on pure invest > stake > earn. PS: I find it ridiculous (borderline illegal) that basically a financial institution (Zengo) offeres a service that makes it almost impossible to check what are the returns. The on chain data are completely obfuscated through their staking provider so there is no way how to see the periodic earnings. Only the overall sum of all your ernings is visible. Apart from making screenshots and calculating it yourself, you have no way to check how much you are actually earning over time.
 
-18h ago
+19h ago
 
 ---
 
@@ -168,34 +168,6 @@ Yahoo Finance • 6h ago
 
 ---
 
-**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
-
-Is Ethereum really on the path to a price of $62,000 next year?
-
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqeLc4qhum05KtMPhLVlZ85hZtXvIIMoi-LVnX6ie2YhuQOoT2jeMX0t&gaa_ts=6944584d&gaa_sig=3XHMzjAEnw5A60cz_hoLUhewUST7LRqSDvgv-UeIfjPUik1WhZPWwE8lExaixY3_ylPWNK5UNFGHvtfei-5YVw%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
-
-Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 2d ago
-
----
-
 **[Ethereum Dip Pressures BitMine, but Tom Lee and Ark Keep Buying | US Crypto News](https://www.tradingview.com/news/beincrypto:96a5a4bd7094b:0-ethereum-dip-pressures-bitmine-but-tom-lee-and-ark-keep-buying-us-crypto-news/)**
 
 Welcome to the US Crypto News Morning Briefing—your essential rundown of the most important developments in crypto for the day ahead.Grab a coffee as BitMine’s bold Ethereum strategy is back in focus with market pressure building and investor nerves fraying. Losses are mounting, the stock is slidin…
@@ -204,11 +176,39 @@ TradingView — Track All Markets • 4h ago
 
 ---
 
-**[Bitwise’s 2026 Crypto Forecast: Bitcoin, Ethereum, And Solana Poised For New Record Highs](https://www.tradingview.com/news/newsbtc:7bbd20fb5094b:0-bitwise-s-2026-crypto-forecast-bitcoin-ethereum-and-solana-poised-for-new-record-highs/)**
+**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
 
-In its latest report, asset manager and exchange-traded fund (ETF) issuer, Bitwise, has shared an optimistic 2026 outlook for the crypto market, anticipating significant growth, while predicting new all-time highs for Bitcoin (BTC), Ethereum (ETH), and Solana (SOL).Megatrends In Crypto? Bitwise beg…
+Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
 
-TradingView — Track All Markets • 11h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
+
+Is Ethereum really on the path to a price of $62,000 next year?
+
+The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfH8Zjc3IqTyZOd0Rlfa-2Sp4fX-ICCzCs-xAssAFtetEAZEMvsXoHW&gaa_ts=6944609a&gaa_sig=TLc4thCexOM59-HqY8qXLa-fkIRze4TCGvQocHdxGkxdi7YTgoe6QhVEJK7pxGyful7KpM4f-dEsjCM3yPQaKg%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Why Crypto Is Going Down Today? Bitcoin, XRP Price, Ethereum and Dogecoin Moves Under Death Cross](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-bitcoin-xrp-price-ethereum-and-dogecoin-moves-under-death-cross/)**
+
+Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
+
+Finance Magnates • 1d ago
+
+---
+
+**[Bitcoin, Ethereum ETFs See Over $500M Outflows While XRP And Solana Funds Buck The Sell-Off](https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-ethereum-etfs-see-over-500-million-outflows/cLeOiZZREq2)**
+
+Stocktwits • 1d ago
 
 ---
 
@@ -224,43 +224,13 @@ Investing.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jrOax5tgxdE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 103 • 💬 2 • ⏱️ 7:17 • 6h ago
-
----
-
-**[ETH READY TO RALLY AGAIN?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=eL3F9PJCHyk)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 329 • 👍 19 • 💬 1 • ⏱️ 4:50 • 9h ago
-
----
-
 **[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 110 • 💬 53 • ⏱️ 16:54 • 4h ago
-
----
-
-**[REALISTIC ETH Price Prediction for 2026](https://www.youtube.com/watch?v=M2T6_rjIvpA)**
-
-As we head into what I'm expecting to be a "Bottom Year" (or bear market year), it's time to look at realistic and reasonable targets ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 8K • 👍 375 • 💬 74 • ⏱️ 11:01 • 1d ago
+👁️ 2K • 👍 169 • 💬 27 • ⏱️ 16:54 • 4h ago
 
 ---
 
@@ -270,7 +240,37 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 245 • 👍 15 • 💬 43 • ⏱️ 14:11 • 4h ago
+👁️ 486 • 👍 29 • 💬 15 • ⏱️ 14:11 • 4h ago
+
+---
+
+**[ETH READY TO RALLY AGAIN?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=eL3F9PJCHyk)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 390 • 👍 20 • 💬 1 • ⏱️ 4:50 • 9h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jrOax5tgxdE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 112 • 💬 3 • ⏱️ 7:17 • 6h ago
+
+---
+
+**[REALISTIC ETH Price Prediction for 2026](https://www.youtube.com/watch?v=M2T6_rjIvpA)**
+
+As we head into what I'm expecting to be a "Bottom Year" (or bear market year), it's time to look at realistic and reasonable targets ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 8K • 👍 378 • 💬 75 • ⏱️ 11:01 • 1d ago
 
 ---
 
@@ -280,7 +280,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 11K • 👍 524 • 💬 241 • ⏱️ 33:33 • 1d ago
+👁️ 11K • 👍 539 • 💬 223 • ⏱️ 33:33 • 1d ago
 
 ---
 
@@ -290,7 +290,17 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 370 • 💬 71 • ⏱️ 20:34 • 1d ago
+👁️ 13K • 👍 374 • 💬 71 • ⏱️ 20:34 • 1d ago
+
+---
+
+**[BITCOIN: It Was All a TRAP! (manipulation) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=a1SeKI9YDjA)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 6K • 👍 360 • 💬 23 • ⏱️ 12:11 • 8h ago
 
 ---
 
@@ -300,7 +310,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 4K • 👍 189 • 💬 56 • ⏱️ 8:42 • 2d ago
+👁️ 4K • 👍 189 • 💬 57 • ⏱️ 8:42 • 2d ago
 
 ---
 
@@ -311,16 +321,6 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 📺 Thomas Kralow
 
 👁️ 22K • 👍 3K • 💬 45 • ⏱️ 7:49 • 2d ago
-
----
-
-**[🚨 THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana )](https://www.youtube.com/watch?v=ndNO4WQH834)**
-
-THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on Polymarket (#1 Prediction Market): ...
-
-📺 Altcoin Daily
-
-👁️ 67K • 👍 3K • 💬 246 • ⏱️ 12:16 • 2d ago
 
 ---
 

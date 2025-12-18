@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T19:48:46.122206+00:00'
+updated: '2025-12-18T19:59:50.513860+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 19:48 UTC  
+**Last Updated:** December 18, 2025 at 19:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,6 +41,14 @@ AI news, discussions, and developments
 
 My question is about reliance on facial recognition software, and more generally about reliance on AI. Here are two links to stories about a recent incident. A website covering truckers: "Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino", and second, the bodycam footage (on YouTube) which captures the arresting officer talking about his (in my opinion) extreme reliance on AI. Here are the important details: A man was detained and then arrested based on a facial recognition system. There was a large amount of evidence available to the arresting officer that the man was falsely identified. For example, he had multiple pieces of documentation indicating his correct identity, and multiple pieces of evidence that would point to him NOT being the person identified by the AI facial recognition. The officer, several times, says that he is going to rely on the AI classification despite have evidence to the contrary. The officer invents a convoluted theory to explain away the every bit of evidence that contradicts the AI. For example, he confirms that the identification is legitimate with the state DMV, and the says that the suspect must have someone working inside the DMV to help him fake IDs. In other words, he grants the AI classification more weight than all of the contradictory evidence which is right in front of him. I'm most interested in the implications of 3. The officer seems to subvert his own judgment to that to what he calls the "fancy" casino AI. Is this going to become more common in the future, where the output of chat bots, classification bots, etc, are trusted more than contradictory evidence? Just to finish, I pulled some quotes from the body came footage of the officer: "And this is one of those things you guys have this fancy software that does all this stuff." [2:24 in the video] "Uh they're fancy AI technology that reads faces. No, it says it's a 100% match. But at this point, our hands are tied because, you know, a reasonable and prudent person would based off the software, based off the pictures, based off of even your driver's license picture, make the uh reasonable conclusion that all three are the same person, just two different IDs with two different names." [10:54 in the video] "So much so that the fancy computer that does all the face scanning of everybody who walks in this casino makes the same determination that my feeble human brain does." [11:41 in the video] "I just have a feeling somehow maybe he's got a hookup at the DMV where he's got two different driver's licenses that are registered with the Department of Motor Vehicles" [9:10 minutes into the video] And the last exchange between the falsely accused man the police officer: The man says, "And then people aren't smart enough to think for themselves. They're just not." To which the officer, who has has abandoned his judgment in favor of AI, relipes, "Yep. Unfortunately, it's the world we live in." [See 14:30 in the video.]
 
+3h ago
+
+---
+
+**[What is something AI still struggles with, in your experience?](https://www.reddit.com/r/artificial/comments/1ppwuug/what_is_something_ai_still_struggles_with_in_your/)**
+
+This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
+
 2h ago
 
 ---
@@ -50,14 +58,6 @@ My question is about reliance on facial recognition software, and more generally
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
 🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 22h ago
-
----
-
-**[What is something AI still struggles with, in your experience?](https://www.reddit.com/r/artificial/comments/1ppwuug/what_is_something_ai_still_struggles_with_in_your/)**
-
-This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
-
-2h ago
 
 ---
 
@@ -73,7 +73,15 @@ Source (November 2025): "Inception Point AI [is] a startup with just eight emplo
 
 We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
 
-4h ago
+5h ago
+
+---
+
+**[What I learned building and debugging a RAG + agent workflow stack](https://www.reddit.com/r/artificial/comments/1pq08jz/what_i_learned_building_and_debugging_a_rag_agent/)**
+
+After building RAG + multi-step agent systems, three lessons stood out: Good ingestion determines everything downstream. If extraction isn’t deterministic, nothing else is. Verification is non-negotiable. Without schema/citation checking, errors spread quickly. You need clear tool contracts. The agent can’t compensate for unknown input/output formats. If you’ve built retrieval or agent pipelines, what stability issues did you run into?
+
+13m ago
 
 ---
 
@@ -82,6 +90,14 @@ We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game re
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
 🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 1d ago
+
+---
+
+**[The surprising truth about AI’s impact on jobs](https://www.reddit.com/r/artificial/comments/1ppqfkn/the_surprising_truth_about_ais_impact_on_jobs/)**
+
+Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
+
+🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 6h ago
 
 ---
 
@@ -101,57 +117,63 @@ This week's article examines the claim that AI feels safer than human conversati
 
 ---
 
-**[Generative AI hype distracts us from AI’s more important breakthroughs](https://www.reddit.com/r/artificial/comments/1pp4ht7/generative_ai_hype_distracts_us_from_ais_more/)**
-
-It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
-
-🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 1d ago
-
----
-
-**[The surprising truth about AI’s impact on jobs](https://www.reddit.com/r/artificial/comments/1ppqfkn/the_surprising_truth_about_ais_impact_on_jobs/)**
-
-Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
-
-🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 6h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdMKBv_dQsAlGlvZ0UhCcov9qubYdzzgPSq7WnlDfmU8x77-cJ5zy1g&gaa_ts=6944584a&gaa_sig=8LU_PkR6unNb0o4G2jPH-ApXBAOQKE6flVP_yBJl4NpNDHPy_C61QWbwHDV7YI_TIGVyXZkKuLrzkBChRYq7xg%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeBfJXJtGJzy17scpLideRDaWeem2St6yZhCjm3RD4uZpROHcvu0fts&gaa_ts=69446097&gaa_sig=wFyxaX6TIExLnceuTvShmTVRrSLWxidFE_JCWgPDHB3HuU9hCFr5jmDG8Fre9YfdL3lhNARE9XWHdN2NpM8FDw%3D%3D)**
 
 The Wall Street Journal • 9h ago
 
 ---
 
-**[Microsoft, Google Among 24 Firms Joining US AI ‘Genesis Mission’](https://www.bloomberg.com/news/articles/2025-12-18/microsoft-google-among-24-firms-joining-us-ai-genesis-mission)**
+**[YouTube Shuts Down Channels Using AI To Create Fake Movie Trailers Watched By Millions](https://deadline.com/2025/12/youtube-terminates-screen-culture-kh-studio-fake-ai-trailer-1236652506/)**
 
-Two dozen top artificial intelligence companies have signed on to join the federal government’s “Genesis Mission,” an effort by the Trump administration to boost the use of the emerging technology for scientific discovery and energy projects.
+YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
 
-Bloomberg.com • 1h ago
-
----
-
-**[What will the stock market do in 2026? Here's why AI will dominate](https://www.usatoday.com/story/money/personalfinance/2025/12/18/2026-stock-market-outlook-ai-spending/87624354007/)**
-
-Even though many Americans remain glum about the economy and the state of the country, there may be good news in financial markets next year.
-
-USA Today • 1h ago
+Deadline • 2h ago
 
 ---
 
-**[Can UCLA Replace Teaching Assistants with AI?](https://www.theinformation.com/articles/can-ucla-replace-teaching-assistants-ai)**
+**[Nvidia and other chip stocks rise — but the AI trade may not be back for good](https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-rise-but-the-ai-trade-may-not-be-back-for-good-6e23fca6?gaa_at=eafs&gaa_n=AWEtsqeMZG2J9YN-ChTJnZTIALoBKXhDkPjmHU-mcKz_KP6qf5T6dUHdKu18&gaa_ts=69446097&gaa_sig=lZtVLK2mNz2wGkmxOVucWxmDto2PGtgbI_Ukj3HYiFZRBChA3bmPPS5JtEnsvjIwTRpzkgiFvsvVd-gCUDy2Dw%3D%3D)**
 
-The Information • 1h ago
+MarketWatch • 47m ago
 
 ---
 
-**[My One Big Tech-Fueled Prediction For 2026: AI Gets Some Culture](https://www.forbes.com/sites/joemckendrick/2025/12/18/my-one-big-tech-fueled-prediction-for-2026-ai-gets-some-culture/)**
+**[MetaX and Moore Threads' IPOs underscore Chinese chipmakers' growing challenge to Nvidia](https://www.cnbc.com/2025/12/17/metax-moore-threads-chinese-rivals-nvidia-ai-chips.html)**
 
-Forbes • 1h ago
+New entrants like MetaX and Moore Threads join tech giants Huawei, Baidu and Alibaba in rushing to produce Nvidia alternatives.
+
+CNBC • 18h ago
+
+---
+
+**[Nvidia Stock Gains. The AI Trade Is Back, at Least for One Day.](https://www.barrons.com/articles/nvidia-stock-price-ai-trade-46875325?gaa_at=eafs&gaa_n=AWEtsqf3tvPZD4nTvJJnT6MKX1p-dJ0HdTkYUqxrSd1-ttQsQPlRN4yon912&gaa_ts=69446097&gaa_sig=wYraUbsL_utiCgStAy3f5N09BvX6sD2U1TWOtR29l5wHxvgBdHi59ZRPRrSo_LVe4rtthbA2fDqOz4t7Vmqd1A%3D%3D)**
+
+Barron's • 4h ago
+
+---
+
+**[Universal Music Group and Splice Ink AI Partnership](https://www.hollywoodreporter.com/music/music-industry-news/universal-music-group-splice-announce-ai-partnership-1236454189/)**
+
+The new pact is the latest AI music development for the world's largest music company after settling a lawsuit with Udio in October.
+
+The Hollywood Reporter • 34m ago
+
+---
+
+**[Deepening our collaboration with the U.S. Department of Energy](https://openai.com/index/us-department-of-energy-collaboration/)**
+
+OpenAI • 55m ago
+
+---
+
+**[The surprising truth about AI’s impact on jobs](https://www.cnn.com/2025/12/18/business/ai-jobs-economy)**
+
+Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
+
+CNN • 9h ago
 
 ---
 
@@ -171,28 +193,6 @@ Fox Business • 18h ago
 
 ---
 
-**[Amazon CEO Andy Jassy announces departure of AI exec Rohit Prasad in leadership shake-up](https://fortune.com/2025/12/17/amazon-ceo-andy-jassy-announces-departure-of-ai-exec-rohit-prasad-in-leadership-shakeup/)**
-
-Prasad’s exit comes after Amazon struggled to show its internal AI efforts could match those of rivals and amid reports of a new AWS investment in OpenAI.
-
-Fortune • 23h ago
-
----
-
-**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
-
-The New York Times • 23h ago
-
----
-
-**[NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)**
-
-NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
-
-National Oceanic and Atmospheric Administration (NOAA) (.gov) • 1d ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +201,7 @@ National Oceanic and Atmospheric Administration (NOAA) (.gov) • 1d ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1024 • 💬 513 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1025 • 💬 514 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -237,7 +237,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 278 • 💬 160 • 1d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 279 • 💬 161 • 1d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -245,7 +245,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 241 • 💬 174 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 242 • 💬 174 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -253,7 +253,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 167 • 💬 140 • 6h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 183 • 💬 146 • 6h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -277,43 +277,33 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 ## YouTube Videos: "ai"
 
-**[Gemini Super Gems: Google&#39;s NEW AI Super Agent! Goodbye N8N! (FULLY FREE AI App Generator)](https://www.youtube.com/watch?v=1choivCbZDg)**
-
-Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=901177 Google just dropped Super Gems in ...
-
-📺 WorldofAI
-
-👁️ 32K • 👍 1K • 💬 45 • ⏱️ 11:44 • 1d ago
-
----
-
 **[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
 
 AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
 
 📺 The Diary Of A CEO
 
-👁️ 243K • 👍 8K • 💬 2K • ⏱️ 1:39:47 • 11h ago
+👁️ 300K • 👍 9K • 💬 2K • ⏱️ 1:39:47 • 11h ago
 
 ---
 
-**[What Happens if the AI Bubble Bursts?](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
+**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
 
 Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 9K • 👍 2K • 💬 209 • ⏱️ 5:52 • 4h ago
+👁️ 19K • 👍 3K • 💬 338 • ⏱️ 5:52 • 4h ago
 
 ---
 
-**[Man Rejects AI Millions](https://www.youtube.com/watch?v=lUoxU0Y2WKs)**
+**[AI Employees that Actually Work for You (No Prompting Needed)​](https://www.youtube.com/watch?v=b7vWOfSKy_0)**
 
-A landowner turned down $8M from an AI company.
+sponsored Get started on Marblism: https://marblism.com/?via=artur Become an AI Master – All-in-one AI Learning ...
 
-📺 NowThis Impact
+📺 AI Master
 
-👁️ 644K • 👍 20K • 💬 2K • ⏱️ 0:55 • 1d ago
+👁️ 258 • 👍 28 • 💬 1 • ⏱️ 13:05 • 2h ago
 
 ---
 
@@ -323,7 +313,17 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 228K • 👍 4K • 💬 1K • ⏱️ 14:37 • 2d ago
+👁️ 232K • 👍 4K • 💬 1K • ⏱️ 14:37 • 2d ago
+
+---
+
+**[Man Rejects AI Millions](https://www.youtube.com/watch?v=lUoxU0Y2WKs)**
+
+A landowner turned down $8M from an AI company.
+
+📺 NowThis Impact
+
+👁️ 647K • 👍 20K • 💬 2K • ⏱️ 0:55 • 1d ago
 
 ---
 
@@ -333,7 +333,27 @@ O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratig
 
 📺 MS NOW
 
-👁️ 24K • 👍 509 • 💬 354 • ⏱️ 14:44 • 1d ago
+👁️ 25K • 👍 519 • 💬 354 • ⏱️ 14:44 • 1d ago
+
+---
+
+**[Microsoft AI CEO: This is #1 Thing We’re NOT Ready For | Mustafa Suleyman](https://www.youtube.com/watch?v=JmrA_BZ7XMA)**
+
+Are we sleepwalking into the biggest technological revolution in human history? In this explosive episode of Mayim Bialik's ...
+
+📺 Dr. Mayim Bialik
+
+👁️ 53K • 👍 2K • 💬 482 • ⏱️ 1:20:46 • 2d ago
+
+---
+
+**[AI Romance Blooms as Woman in Japan Marries ChatGPT Persona](https://www.youtube.com/watch?v=EOiWy9hVx3A)**
+
+A bride, a wedding dress… and a groom who lives on a smartphone This is the real story of Yurina Noguchi, a 32-year-old ...
+
+📺 Bridebook
+
+👁️ 138K • 👍 5K • 💬 216 • ⏱️ 0:52 • 22h ago
 
 ---
 
@@ -343,17 +363,7 @@ O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratig
 
 📺 Fox Business
 
-👁️ 7K • 👍 173 • 💬 78 • ⏱️ 7:54 • 1d ago
-
----
-
-**[Bring back bullying to stop AI overconsumption 🤖😪🤣 | Tyler Austin Harper | The Downside Podcast](https://www.youtube.com/watch?v=PXwV2Quzhg0)**
-
-Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a text next time I'm performing in your city ...
-
-📺 Gianmarco Soresi
-
-👁️ 352K • 👍 18K • 💬 581 • ⏱️ 0:58 • 1d ago
+👁️ 7K • 👍 174 • 💬 78 • ⏱️ 7:54 • 1d ago
 
 ---
 
@@ -363,17 +373,7 @@ This video invites you into a dreamlike ocean—a world that doesn't exist in re
 
 📺 Impossible AIs
 
-👁️ 38K • 👍 178 • 💬 25 • ⏱️ 8:01 • 1d ago
-
----
-
-**[OpenAI is &quot;Is Hiding the Truth&quot;](https://www.youtube.com/watch?v=NhMq52kqjC4)**
-
-Check out Glue: https://bit.ly/4pOsxI2 Free 30 day trial. Work gets done where you talk… with Glue. OpenAI Researcher Quits.
-
-📺 Wes Roth
-
-👁️ 56K • 👍 1K • 💬 551 • ⏱️ 23:58 • 1d ago
+👁️ 40K • 👍 189 • 💬 26 • ⏱️ 8:01 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 343 • 1h ago
+⬇️ 51,262 • ❤️ 344 • 2h ago
 
 ---
 
@@ -413,7 +413,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 302 • 3h ago
+⬇️ 0 • ❤️ 303 • 3h ago
 
 ---
 
@@ -425,7 +425,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,118 • ❤️ 273 • 16h ago
+⬇️ 3,118 • ❤️ 274 • 16h ago
 
 ---
 
@@ -473,7 +473,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 198 • 1d ago
+⬇️ 0 • ❤️ 199 • 1d ago
 
 ---
 
@@ -646,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.6k • 🔱 2.7k • 11h ago
+⭐ 17.6k • 🔱 2.7k • 12h ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.4k • 🔱 466 • 2h ago
+⭐ 4.4k • 🔱 466 • 3h ago
 
 ---
 
@@ -666,7 +666,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.8k • 🔱 127 • 4m ago
+⭐ 1.8k • 🔱 127 • 15m ago
 
 ---
 

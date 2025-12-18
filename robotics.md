@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T19:48:46.139650+00:00'
+updated: '2025-12-18T19:59:50.531953+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 19:48 UTC  
+**Last Updated:** December 18, 2025 at 19:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,7 +106,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 Hi everyone, I am trying to model a closed loop feedback system for application in autonomous robot project. My requirements for the control system accuracy and quick response time from signals sent by the STM32. I am currently stuck on the first step which is modelling the entire system. The encoder: I do not know how to model this. It's placed on the shaft of the motor and rotates along with with it, which causes the photo-interrupter to output pulses. The width of the pulses depend on rotational speed (faster angular velocity, shorter pulse). These pulses are sent back to the STM32 and I measure speed from them. The H-bridge: This is a bit complex because there are several states to model (pwm on, pwm off, in between states, and dynamic breaking state). Should I model each off these states with the entire system? As the H:bridge on state (where current is flowing through the motor) in the state in which the motor is speeding up. The motor: this was okay, however, I am not sure if my model is too simple. I have not included the inertia of the robotic system, or included non-linear friction in the model. Is there a better way to model the motor + including the effects of other variables (Inertia from robot etc..) I would appreciate any help, thank you!
 
-2h ago
+3h ago
 
 ---
 
@@ -178,13 +178,15 @@ navalnews.com • 1d ago
 
 **[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
 
-University of Michigan • 20h ago
+University of Michigan • 21h ago
 
 ---
 
-**[Humanoid Robots For War And Work: Startup Plans To Build 50,000 By End Of 2027](https://www.forbes.com/sites/johnkoetsier/2025/12/16/humanoid-robots-for-war-and-work-startup-plans-to-build-50000-by-end-of-2027/)**
+**[AMC Robotics: A Low-Float Trade Posing As A Robotics Investment (NASDAQ:AMCI)](https://seekingalpha.com/article/4853719-amc-robotics-a-low-float-trade-posing-as-a-robotics-investment)**
 
-Forbes • 1d ago
+AMC Robotics Corp. surged nearly 170%, driven by speculative trading rather than a clear fundamental catalyst. Learn more about AMCI stock here.
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -198,17 +200,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 70K • 👍 959 • 💬 144 • ⏱️ 11:23 • 2d ago
-
----
-
-**[The Robots Are Crashing Out](https://www.youtube.com/watch?v=NZPRfXa06ss)**
-
-Thanks to our LMG clips sponsors dbrand, Dell, and Secretlab. You can check them out at the links below: dbrand: ...
-
-📺 LMG Clips
-
-👁️ 36K • 👍 1K • 💬 190 • ⏱️ 7:42 • 2d ago
+👁️ 71K • 👍 964 • 💬 145 • ⏱️ 11:23 • 2d ago
 
 ---
 
@@ -218,27 +210,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 30K • 👍 733 • 💬 111 • ⏱️ 6:41 • 4d ago
-
----
-
-**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
-
-📺 PRO ROBOTS
-
-👁️ 256K • 👍 5K • 💬 446 • ⏱️ 26:54 • 4d ago
-
----
-
-**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
-
-Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
-
-📺 vt.physics
-
-👁️ 394K • 👍 13K • 💬 426 • ⏱️ 0:34 • 4d ago
+👁️ 30K • 👍 735 • 💬 111 • ⏱️ 6:41 • 4d ago
 
 ---
 
@@ -252,6 +224,16 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 ---
 
+**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+
+Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+
+📺 vt.physics
+
+👁️ 399K • 👍 14K • 💬 432 • ⏱️ 0:34 • 4d ago
+
+---
+
 **[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
 
 We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
@@ -259,6 +241,16 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 📺 CNET
 
 👁️ 33K • 👍 314 • 💬 30 • ⏱️ 1:05 • 3d ago
+
+---
+
+**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
+
+📺 PRO ROBOTS
+
+👁️ 264K • 👍 5K • 💬 462 • ⏱️ 26:54 • 4d ago
 
 ---
 
@@ -272,6 +264,26 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 ---
 
+**[✅ “This Is REAL: Kyrie Irving FIGHTS a Robot 😱](https://www.youtube.com/watch?v=LKEBOOKg_Mc)**
+
+This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it gets physical The robot throws a kick — Kyrie ...
+
+📺 DLLS Sports
+
+👁️ 22K • 👍 226 • 💬 24 • ⏱️ 0:14 • 19h ago
+
+---
+
+**[Grandpa loved the robotic zebra made by Grandma 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
+
+Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
+
+📺 Catanimation
+
+👁️ 175K • 👍 1K • 💬 20 • ⏱️ 0:25 • 4d ago
+
+---
+
 **[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
 
 PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
@@ -279,16 +291,6 @@ PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *N
 📺 LIGHTS ARE OFF
 
 👁️ 2.4M • 👍 89K • 💬 9K • ⏱️ 8:45 • 5d ago
-
----
-
-**[✅ “This Is REAL: Kyrie Irving FIGHTS a Robot 😱](https://www.youtube.com/watch?v=LKEBOOKg_Mc)**
-
-This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it gets physical The robot throws a kick — Kyrie ...
-
-📺 DLLS Sports
-
-👁️ 21K • 👍 223 • 💬 23 • ⏱️ 0:14 • 19h ago
 
 ---
 
