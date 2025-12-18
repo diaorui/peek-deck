@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T22:29:28.740748+00:00'
+updated: '2025-12-18T22:47:08.607706+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 22:29 UTC  
+**Last Updated:** December 18, 2025 at 22:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -8.3%  
-**30d:** -6.5%  
-**90d:** -36.9%  
-**1y:** -17.4%  
+**24h:** -0.2%  
+**7d:** -8.4%  
+**30d:** -6.6%  
+**90d:** -37.0%  
+**1y:** -17.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $341.08B
+**Market Cap:** $340.89B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
@@ -62,7 +62,7 @@ No max supply
 -42.9%
 
 **All-Time Low:** $0.43
-+652539.0%
++652141.8%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I know many good crypto founders who are not good at marketing. And they think that "posting more on Twitter", "going to conferences" or "doing BD" is the only way to grow their product. Unfortunately they loose the attention battle with worse products that have better marketing. To change that, for the last month I’ve been working on a non-BS guide to crypto GTM. To anchor this in reality, I spoke with founders and early team members from Aave, ZORA, POAP, Snapshot, L2Beat, Zerion, SushiSwap and a few others. I wanted to understand what really got them growing early on. A couple things that might surprise those who are not growth nerds like me: Uniswap didn't just 'launch and win'. Hayden was talking about Uniswap at conferences, in DMs and in offices for almost a year before Devcon Prague. Tether got their biggest adoption spike (1,000X in 2 years) thanks to BD deals with CEXs. Aave took off when they added LINK as collateral and Chainlink as their oracle provider. They tapped into an existing, very vocal LINK Marines community that helped spread the word about Aave. Aside from these (and many other) examples, I share a longer playbook explaining how to do GTM for your crypto product, step by step. If you’re building on Ethereum and wondering why a solid product isn’t moving, this might give you a clearer mental model how to move forward. Link is here if you want to read it: https://kanfa.macbudkowski.com/crypto-gtm
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ I know many good crypto founders who are not good at marketing. And they think t
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-20h ago
+21h ago
 
 ---
 
@@ -168,25 +168,9 @@ Yahoo Finance • 9h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdPCTeqtZPIMajoM4ab-OZf0GQOnMenji8skJs9WWpG0k6E5c2yRifQ&gaa_ts=69447cb9&gaa_sig=2mm40_3Yu2FlaoHcP7rmlauVwyI7Obh_zsZIkJkRt_OqFoyYjL0VGBeS3BUNSWSSf2ftCUAybDbNEGgvVtf_fQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfqTc3S5MFzc4np2d-f9naogu7QWHzhQlkKa5Km_U55kUUmmLCitKGY&gaa_ts=694487d3&gaa_sig=j6voOgeMxR0TCYe9knWUgD4_uO6nsEsR3CVR_3wN8qz4ySpT4VC5ysuIg0JFA-t_M3PC3iTi7lvzBMFXDUZ__w%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**[Why Bitcoin, Ethereum and XRP Are Falling Today Even As Inflation Cools and Rates Are Cut](https://www.tradingview.com/news/coinpedia:2c393df90094b:0-why-bitcoin-ethereum-and-xrp-are-falling-today-even-as-inflation-cools-and-rates-are-cut/)**
-
-The crypto market has turned red today, with tokens like Bitcoin, Ethereum, and XRP trading lower. The total crypto market value has dropped to about $2.97 trillion, down more than 2% in the last 24 hours, as investors remain cautious.Even though some positive economic news has come out, traders ar…
-
-TradingView — Track All Markets • 6h ago
-
----
-
-**[Bitcoin, Ethereum, XRP face sharp volatility as US posts lowest inflation rate in years](https://www.fxstreet.com/cryptocurrencies/news/bitcoin-ethereum-xrp-face-sharp-volatility-as-us-posts-lowest-inflation-rate-in-years-202512181925)**
-
-The latest inflation report released on Thursday in the United States (US) sparked a wave of volatility in the crypto markets.
-
-FXStreet • 3h ago
 
 ---
 
@@ -217,6 +201,20 @@ CCN.com • 2d ago
 Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
 
 Seeking Alpha • 2h ago
+
+---
+
+**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
+
+Bloomberg.com • 3d ago
+
+---
+
+**[Why Crypto Is Going Down Today? Bitcoin, XRP Price, Ethereum and Dogecoin Moves Under Death Cross](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-bitcoin-xrp-price-ethereum-and-dogecoin-moves-under-death-cross/)**
+
+Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
+
+Finance Magnates • 1d ago
 
 ---
 
@@ -280,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 457 • 👍 21 • 💬 1 • ⏱️ 4:50 • 11h ago
+👁️ 457 • 👍 21 • 💬 1 • ⏱️ 4:50 • 12h ago
 
 ---
 

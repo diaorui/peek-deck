@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T22:29:28.734791+00:00'
+updated: '2025-12-18T22:47:08.601708+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 22:29 UTC  
+**Last Updated:** December 18, 2025 at 22:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,391.89
+### $85,532.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -5.3%  
-**30d:** -6.2%  
-**90d:** -26.1%  
-**1y:** -12.3%  
+**24h:** -0.7%  
+**7d:** -5.1%  
+**30d:** -6.1%  
+**90d:** -26.0%  
+**1y:** -12.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1707.60B
+**Market Cap:** $1708.48B
 Rank #1
 
 **Circulating Supply:** 19,963,921 BTC
@@ -64,7 +64,7 @@ Rank #1
 -32.1%
 
 **All-Time Low:** $67.81
-+126065.8%
++126061.3%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -113,13 +113,13 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 Bart Simpson incoming?
 
-6h ago
+7h ago
 
 ---
 
 **[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -135,27 +135,19 @@ Anyone who’s been following my posts this week can see this shifting in real t
 
 With these prices I don’t know if I’ll ever see them again. I was investing in other coins but at this time I just feel when Bitcoin rebounds I’ll be glad I bought it at these prices. So I’ve moved the dollar amount I’ve invested into all the coins each payday, to just Bitcoin purchases. I just feel I won’t be missing out if I don’t invest now in other coins. Where’s if I balance out my crypto purchases, I’ll be kicking myself for not buying more Bitcoin.
 
-8h ago
+9h ago
 
 ---
 
-**[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
+**[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-12h ago
+17m ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiration](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
-
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
-
-Bloomberg.com • 5h ago
-
----
 
 **[Bitcoin Price (BTC) analysis: At least one metric remains at a record high](https://www.coindesk.com/markets/2025/12/18/bitcoin-s-realized-cap-holds-at-record-high-over-usd1-trillion-casting-doubt-on-four-year-cycle)**
 
@@ -165,17 +157,31 @@ CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiration](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
-Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
+Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-CoinDesk • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[BTC price update: Bitcoin, crypto market could plummet again on 'Witching Friday.' Here's why](https://www.fastcompany.com/91463106/bitcoin-btc-price-update-crypto-market-could-plummet-again-on-witching-friday-heres-why)**
+**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://finance.yahoo.com/news/bitcoin-silent-exodus-hits-crypto-204351695.html)**
 
-Fast Company • 1h ago
+More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
+
+Yahoo Finance • 13h ago
+
+---
+
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqcqwEHG1pN0MAPSPSUmjkgWypUXknU3-U_llREhk7j-vPTL41wzAPBs&gaa_ts=694487d2&gaa_sig=eUiCBqLZ5ox43AV_Kq3dm-hlq8wqQfJQYQZ_nWe9KWatc7TBEqE19Z2m6QtbV9w1FC5hzkA7nrPLaBlK6qR1gw%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
+
+The Block • 16h ago
 
 ---
 
@@ -187,17 +193,19 @@ Bitcoin Magazine • 1h ago
 
 ---
 
-**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://finance.yahoo.com/news/bitcoin-silent-exodus-hits-crypto-204351695.html)**
+**[Philly man's bitcoin mining scheme allegedly defrauded investors of $48.5 million, SEC says](https://www.phillyvoice.com/bitcoin-mining-scam-vbit-sec-danh-vo-philadelphia/)**
 
-More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
+Danh C. Vo, 37, is accused of scamming thousands of people who bought into his crypto company and then fleeing to Vietnam.
 
-Yahoo Finance • 12h ago
+PhillyVoice • 39m ago
 
 ---
 
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqe-BnmqpevwJk2TqVICFisa1DlK03dBDe5DhFCpduwlqBSVHBc0W_ur&gaa_ts=69447cb7&gaa_sig=vhNRflv7ak3dT_HvKs1rn088yAF6-hq4_aR_gS_TMPmhG064KNZ7hHgMtFdJtaYboJPJQyt35FiuG2flFXLSPw%3D%3D)**
+**[Why the ‘great China Bitcoin mining crackdown’ fell short of early claims](https://www.tradingview.com/news/cointelegraph:0bd1dc8b8094b:0-why-the-great-china-bitcoin-mining-crackdown-fell-short-of-early-claims/)**
 
-The Wall Street Journal • 2d ago
+Recent claims of a major Bitcoin mining crackdown in China’s Xinjiang region rippled through the digital asset industry this week, but data by TheMinerMag suggests the actual impact was far smaller than early narratives implied.According to the latest Miner Weekly report, the Bitcoin network initia…
+
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -205,19 +213,15 @@ The Wall Street Journal • 2d ago
 
 Thinking about swapping Bitcoin for MARA Holdings after the recent sell-off? Here's what changed for miners and what matters most for investors now.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
-**[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
+**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
 
-The Block • 1d ago
+US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
 
----
-
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqfOVsXpIBkO51bLP_MOo-e8CxF0dPRENK41iA5rvEeCMcFgGlJVp3mU&gaa_ts=69447cb7&gaa_sig=sZEfQoraYo18uvKunH8CuY5ZUbTFYU3GaZJyyeeb9cCOXDp4Hu4cWD157Frz7FDt5BpfmN_jrnoVuuhHnEn1PA%3D%3D)**
-
-Barron's • 12h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -373,7 +377,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 70K • 👍 4K • 💬 314 • ⏱️ 9:01 • 1d ago
+👁️ 70K • 👍 4K • 💬 314 • ⏱️ 9:01 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T22:29:28.726506+00:00'
+updated: '2025-12-18T22:47:08.593326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 22:29 UTC  
+**Last Updated:** December 18, 2025 at 22:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,23 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
 
-3h ago
+4h ago
+
+---
+
+**[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
+
+Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
+
+4h ago
+
+---
+
+**[Control Without Consequences – When dialogue has no stakes.](https://www.reddit.com/r/artificial/comments/1ppxnw6/control_without_consequences_when_dialogue_has_no/)**
+
+This week's article examines the claim that AI feels safer than human conversation and what that safety costs us. Regardless of reason, both emotional and intellectual use of AI reduces risk by preserving control. I explore what is lost when that control is intentionally removed and the conversation no longer involves risk. Control replaces reciprocity in human-AI interaction. The claim that Ai feels intimate is often a misnomer. AI doesn’t feel intimate because it understands us. It feels intimate because there are no social consequences or reciprocity. The piece explores why that feels comforting and why it quietly erodes our capacity for real interaction. In part II of the article, I build a customGPT model named Ava. It's designed to mimic asymmetrical human-like conversation. I remove the ChatGPT adaptive response and reintroduce asymmetric friction. The result isn’t intimacy but loss of control. The full article link is below for anyone interested. https://mydinnerwithmonday.substack.com/p/control-without-consequence
+
+4h ago
 
 ---
 
@@ -101,29 +117,13 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 ---
 
-**[What I learned building and debugging a RAG + agent workflow stack](https://www.reddit.com/r/artificial/comments/1pq08jz/what_i_learned_building_and_debugging_a_rag_agent/)**
-
-After building RAG + multi-step agent systems, three lessons stood out: Good ingestion determines everything downstream. If extraction isn’t deterministic, nothing else is. Verification is non-negotiable. Without schema/citation checking, errors spread quickly. You need clear tool contracts. The agent can’t compensate for unknown input/output formats. If you’ve built retrieval or agent pipelines, what stability issues did you run into?
-
-2h ago
-
----
-
-**[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
-
-Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
-
-3h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcTRSqWCqIlyqdcobmsOihsMEVQIuEm-mQUjLQev7DOvxHZ4GdtEPlV&gaa_ts=69447cb5&gaa_sig=OZ8-KMtpIgzeWKHIgKNWLdgUoAjmongW9M5kx5b4QRIdz7lfrxCTvCHu3MLrilagJSCMteulJZ21z4awRNa-Dw%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfdH22wYeWT2LPgzThCGgnos28mqGiVdZBnfYWMPX9mKJlzz7Y_afNZ&gaa_ts=694487d0&gaa_sig=B1VldhKqBcg68I9agdwQZGTW-AAR5_mWyWfTdk3WMi1vUzHGXR0Di0-R6Y2tHSBZtaOVhF9BratdUm1uLB7HEg%3D%3D)**
 
-The Wall Street Journal • 11h ago
+The Wall Street Journal • 12h ago
 
 ---
 
@@ -131,29 +131,41 @@ The Wall Street Journal • 11h ago
 
 YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
 
-Deadline • 4h ago
+Deadline • 5h ago
 
 ---
 
-**[AI Demand Strains Japan Cable Firm Fujikura After Stock Surge](https://www.bloomberg.com/news/articles/2025-12-18/ai-demand-strains-japan-cable-firm-fujikura-after-stock-surge)**
+**[Why Oracle keeps sparking AI-bubble fears](https://www.axios.com/2025/12/18/ai-oracle-stock-blue-owl)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Charles Payne: Today’s biggest movers are connected to AI](https://www.foxbusiness.com/video/6386663285112)**
-
-FOX Business host Charles Payne breaks down the state of the markets and discusses how the biggest movers are coming from within the artificial intelligence space on ‘Making Money.’
-
-Fox Business • 1h ago
+Axios • 11h ago
 
 ---
 
-**[Which AI Chip Stock Is the Better Buy for 2026: Nvidia or Alphabet?](https://www.fool.com/investing/2025/12/18/which-ai-chip-stock-is-the-better-buy-for-2026-nvi/)**
+**[Nvidia and other chip stocks rise — but the AI trade may not be back for good](https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-rise-but-the-ai-trade-may-not-be-back-for-good-6e23fca6?gaa_at=eafs&gaa_n=AWEtsqc9bC838fbUjLrhHQ_FneZ1XAXYZDQvMIFCe_F5pFgrwbL3Ne3DH7aw&gaa_ts=694487d0&gaa_sig=lOA0UTwxLxAFRRS7AXeo9ZfdEOFTfYTFLcO4AuyJGJKbwaPItcuQ1v6YkcgQKLk7XSfbiQ-KoE3MgSnj-wzsug%3D%3D)**
 
-Some believe Alphabet's success with its TPU chips could make it a challenger to Nvidia's data center dominance.
+MarketWatch • 3h ago
 
-The Motley Fool • 44m ago
+---
+
+**[Chip stock dip, AI uses, gold prices: Market Takeaway](https://finance.yahoo.com/video/chip-stock-dip-ai-uses-221500529.html)**
+
+US stocks (^DJI, ^IXIC, ^GSPC) closed Thursday's session higher, led by the Nasdaq Composite's gain of 1.38% (or 313 points) coming off of the November Consumer Price Index (CPI) report released this morning. November's consumer price data showed that inflation rose by 2.7% year-over-year, according to the US Bureau of Labor Statistics (BLS), below economists' forecasts of 3.1%. Yahoo Finance markets and data editor Jared Blikre breaks down the biggest market themes from today’s trading day, including trends in chip stocks, AI use cases, and gold pricing (GC=F). To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
+
+Yahoo Finance • 32m ago
+
+---
+
+**[Exclusive | Meta Is Developing New AI Image and Video Model Code-Named ‘Mango’](https://www.wsj.com/tech/ai/meta-developing-new-ai-image-and-video-model-code-named-mango-16e785c7?gaa_at=eafs&gaa_n=AWEtsqcqaidPUkklGFlFOgCiOZbWWZoCvIX2i0s63XfBAMK1ixhE7osSdL7p&gaa_ts=694487d0&gaa_sig=K1H9R3k-9fkIRq6yMD4Hdv1uF7-45DGArZzzYrjx_dowTT9lOAYFsk5CSCYNacTo9cg_JAAbU6xarAM3Ys1oLg%3D%3D)**
+
+The Wall Street Journal • 48m ago
+
+---
+
+**[Trump’s AI Mineral Hunt Goes Global](https://foreignpolicy.com/2025/12/18/trump-ai-critical-minerals-supply-chain-tech-pax-silica/)**
+
+The White House’s tech ambitions have intensified its critical minerals scramble.
+
+Foreign Policy • 1h ago
 
 ---
 
@@ -181,20 +193,6 @@ Los Angeles Times • 11h ago
 
 ---
 
-**[Why Oracle keeps sparking AI-bubble fears](https://www.axios.com/2025/12/18/ai-oracle-stock-blue-owl)**
-
-Axios • 11h ago
-
----
-
-**[What will the stock market do in 2026? Here's why AI will dominate](https://www.usatoday.com/story/money/personalfinance/2025/12/18/2026-stock-market-outlook-ai-spending/87624354007/)**
-
-Even though many Americans remain glum about the economy and the state of the country, there may be good news in financial markets next year.
-
-USA Today • 4h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -203,7 +201,7 @@ USA Today • 4h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1028 • 💬 521 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1030 • 💬 521 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -211,7 +209,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 Privacy browser extensions misled users and sold 8 million AI chat logs, exposing sensitive conversations for profit without consent.
 
-⬆️ 825 • 💬 245 • 2d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 826 • 💬 245 • 2d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
@@ -225,7 +223,7 @@ Privacy browser extensions misled users and sold 8 million AI chat logs, exposin
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be.
 
-⬆️ 549 • 💬 320 • 2d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 550 • 💬 320 • 2d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -255,15 +253,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 190 • 💬 149 • 9h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
-
----
-
-**[ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://news.ycombinator.com/item?id=46286666)**
-
-Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
-
-⬆️ 163 • 💬 56 • 2d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 192 • 💬 149 • 9h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -275,7 +265,15 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 134 • 💬 136 • 4h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 172 • 💬 166 • 4h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+
+---
+
+**[ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://news.ycombinator.com/item?id=46286666)**
+
+Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
+
+⬆️ 163 • 💬 56 • 2d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -369,7 +367,7 @@ The jackson_huhniverse account, a very quickly growing account on Instagram and 
 
 📺 Jeremy Carrasco
 
-👁️ 214K • 👍 24K • 💬 417 • ⏱️ 1:21 • 20h ago
+👁️ 214K • 👍 24K • 💬 417 • ⏱️ 1:21 • 21h ago
 
 ---
 
@@ -395,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 322,827 • ❤️ 2,974 • 10d ago
+⬇️ 322,827 • ❤️ 2,977 • 10d ago
 
 ---
 
@@ -407,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 350 • 4h ago
+⬇️ 51,262 • ❤️ 352 • 31m ago
 
 ---
 
@@ -419,7 +417,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 304 • 5h ago
+⬇️ 0 • ❤️ 304 • 6h ago
 
 ---
 
@@ -443,7 +441,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 260 • 3d ago
+⬇️ 0 • ❤️ 261 • 3d ago
 
 ---
 
@@ -479,7 +477,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 201 • 1d ago
+⬇️ 0 • ❤️ 202 • 1d ago
 
 ---
 
@@ -672,7 +670,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.9k • 🔱 131 • 2h ago
+⭐ 1.9k • 🔱 131 • 3h ago
 
 ---
 
@@ -702,7 +700,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 139 • 8h ago
+⭐ 1.1k • 🔱 139 • 9h ago
 
 ---
 
