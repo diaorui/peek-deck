@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T16:51:09.244979+00:00'
+updated: '2025-12-18T17:15:26.072789+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 16:51 UTC  
+**Last Updated:** December 18, 2025 at 17:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 This is my latest research on underwater cognitive vehicles. So I need to make an simulation for it. I tried with many different simulation tools like webots like simulators but I didn't find any significant features in it for underwater vehicle.
 
-🔗 [arxiv.org](https://arxiv.org/pdf/2511.11845) • 36m ago
+🔗 [arxiv.org](https://arxiv.org/pdf/2511.11845) • 1h ago
 
 ---
 
@@ -184,7 +184,7 @@ Penn Today • 1d ago
 
 **[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
 
-University of Michigan • 17h ago
+University of Michigan • 18h ago
 
 ---
 

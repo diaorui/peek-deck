@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T16:51:09.236950+00:00'
+updated: '2025-12-18T17:15:26.063495+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 16:51 UTC  
+**Last Updated:** December 18, 2025 at 17:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,100.73
+### $86,543.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** -2.5%  
-**30d:** -3.5%  
-**90d:** -24.0%  
-**1y:** -9.7%  
+**24h:** +0.8%  
+**7d:** -4.1%  
+**30d:** -5.1%  
+**90d:** -25.6%  
+**1y:** -11.6%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ Bart Simpson incoming?
 
 **[We are soo BACK](https://www.reddit.com/r/Bitcoin/comments/1ppv4eq/we_are_soo_back/)**
 
-22m ago
+47m ago
 
 ---
 
@@ -123,7 +123,7 @@ Bart Simpson incoming?
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 10h ago
 
 Taiwan’s Ministry of Justice disclosed it holds over 210 bitcoin seized from criminal cases, placing the country among the world’s top government bitcoin holders.
 
-Bitcoin Magazine • 29m ago
+Bitcoin Magazine • 53m ago
 
 ---
 
@@ -181,13 +181,13 @@ Bitcoin Magazine • 29m ago
 
 A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
 **[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -227,7 +227,7 @@ The Information • 20h ago
 
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
-⬆️ 7 • 💬 3 • 4d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+⬆️ 7 • 💬 3 • 5d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -235,7 +235,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 54m ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 1h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -267,7 +267,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 19h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 20h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -289,7 +289,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 6h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 7h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -303,7 +303,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 323 • ⏱️ 8:31 • 15h ago
+👁️ 26K • 👍 1K • 💬 323 • ⏱️ 8:31 • 16h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 3K • 💬 183 • ⏱️ 19:03 • 16h ago
+👁️ 35K • 👍 3K • 💬 183 • ⏱️ 19:03 • 17h ago
 
 ---
 
@@ -351,7 +351,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 134 • 💬 7 • ⏱️ 0:47 • 14h ago
+👁️ 8K • 👍 134 • 💬 7 • ⏱️ 0:47 • 15h ago
 
 ---
 
@@ -381,7 +381,7 @@ BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available ev
 
 📺 Lark Davis
 
-👁️ 10K • 👍 612 • 💬 56 • ⏱️ 46:47 • 4h ago
+👁️ 10K • 👍 612 • 💬 56 • ⏱️ 46:47 • 5h ago
 
 ---
 

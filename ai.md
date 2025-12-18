@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T16:51:09.229390+00:00'
+updated: '2025-12-18T17:15:26.055003+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 16:51 UTC  
+**Last Updated:** December 18, 2025 at 17:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 TL;DR: I think modern models are an incredible productivity aid to senior developers and I was curious if others experience mirrored my own. I’d like to throw my ball into the endless pit of AI coding content that exists on the internet right now to add my viewpoint. In the interests of receiving hate from everyone I’ll say… “Vibe Coding is overhyped and most of the people writing applications with it are producing truly horrible code” “That’s not a serious change from before ‘vibe coding’ took off, just much faster with a lower barrier to entry” “Vibe Coding is genuinely a massive productivity boost that can rightly command exorbitant costs” There, I should have made everyone mad. A little of my own background first. I started programming ~25 years ago in Visual Basic 6 when I was about 5 years old. Back then I could barely put a basic UI together and I had just about learnt timers and transitions. My applications didn’t have any real functionality for another 5 years when Visual Basic 2005 Express Edition came out and I really learnt how to write code. From there I primarily spent time with C#, JavaScript, TypeScript, C++ (not in that order) until I recently came to settle on Golang. I’ve programmed professionally for a bit over a decade (depending on how you measure some early code and work for family friends, if you take a strict employment definition, I’ve been employed writing code for a decade). Professionally speaking I work in research and most of the code I write sits in backends, benchmarking, and operating systems with a little bit of compilers here and there. I normally wrote frontend code frustrated with how much more obtuse it felt compared to Visual Basic 6 and early VB.net/C#. When ChatGPT first came out I was quick to give it a go. I remember running into rate limit after rate limit timing carefully for when I could send a next message. But that was just poking it with questions. I hadn’t seriously given it a coding project until modern Anthropic Models at the start of this year (2025). I first wrote AI-assisted code with T3.Chat. My first project with them was a user interface for building Docker containers. I had written my own prototype to get the visual styles down then I started back and forth improving the design using T3.Chat. My thinking at the time was “I had to give that a few generations, but that interface is good enough for a prototype”. This was exciting enough to give Claude Code a try (first via the API, I had a year or 2 of experience with the OpenAI API before this). After a few messages and $40 spent I bit the bullet and got Claude Max. From there I spent a ton of time refining that React and Next.js project polishing off all the oddities that annoyed me with the user interface. Writing a user interface turned from a drag to something I really enjoyed. But this was working with frontend React code. The exact sort of thing everyone advertises for vibe coding and seemingly the most common training data. What happens if I give it a project, I have more experience with? I recall playing around with the idea of writing a C compiler during a holiday in my spare time. I gave it to Claude Code and with the first try it messed it up, second go around same deal, third time I really tried prompting tricks splitting it into tiny projects and once it wrote 5000 lines of code it totally broke the register allocator. That was 8 months ago which is a decade in AI time. How are the more recent AI models like Opus 4.5 with hard systems problems? Sometimes they are incredible solving problems that took me days to complete in hours. Sometimes they spin in a loop trying to debug a problem and spend $240 in 2 days. We’re not yet to the point where these models can work independently and they need supervision from a senior engineer to work on anything more difficult than a quick demonstration. This sort of experience leads me to saying that ‘vibe coding’ is not going to replace senior software engineers. Every time they ‘solve’ a set of problems in software something more difficult will come to take their place and those hard problems will take the same supervision they do today. For those who don’t believe me think how close we are to an agent that when you ask it “Write me an operating system compatible with Windows applications” it will produce something that compiles and works in a single shot. That’s hyperbole but it’s easy to make more “reasonable” examples. I do think ‘vibe coding’ is here to stay though and it will be worryingly disruptive in two areas close to me. I work at a university and for students its downright dangerous, it has such an easy time of most problems we can set as assignments that solving AI in teaching computing is still a very important open problem. I also work in cyber security and ‘vibe coding’ is incredible in its ability to make subtle security vulnerabilities. I was genuinely worried that the adoption of languages like Rust would meaningfully improve the overall state of software security but now we’re back to a world where secrets are exposed everywhere, every endpoint has XSS, and finding vulnerabilities is fun again. If you want an example of this, ask any model to write a markdown renderer without external libraries and watch it make a beginner/easy CTF challenge for XSS. So, summing up my thoughts, ‘vibe coding’ is an incredible productivity boost but it tests different skills as a developer. Doing it I find myself writing more Unit Tests, more documentation, more rigorous definitions. It’s another development who works at incredible speeds but still makes basic mistakes. I think it will make our senior engineers better more productive developers, but I worry what it will do for people learning to code in the first place. And I also thank it for securing the cyber security job market for the next decade, that’s a relief.
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ TL;DR: I think modern models are an incredible productivity aid to senior develo
 
 I think I noticed that, relying on llms might have reduced certain aspects of my intelligence. But forcing myself to explain to the jagged intelligence of LLM what I truly means seems to have also translated to better communicating my thoughts to other humans. Do you have a similar or perhaps opposite experience ?
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ I think I noticed that, relying on llms might have reduced certain aspects of my
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 3h ago
+🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Many workers fear artificial intelligence is coming for their jobs, an idea bols
 
 I am following the B2B sales space for a while and I love tools like Clay, but I just can not justify the 149/mo entry price for my own small projects. It feels like we are paying a massive convenience tax for simple API orchestrations. So I decided to see if I could replicate that workflow using the new Gemini 3 + Search Grounding. I built a tool called QuickHook, it basically turns a 15-minute manual research session into a 10-second automation. I am debating whether to turn this into a real lean product or just leave it as an experiment. Does it actually solve the "AI sounding" problem in cold outreach?
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ I am following the B2B sales space for a while and I love tools like Clay, but I
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 17h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 18h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 6h ago
 
 Micron said it expects the total addressable market for high-bandwidth memory to hit $100 billion by 2028.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Detroit News • 1h ago
 
 "The challenge now is rebuilding around the unique value a newsroom provides, not around legacy forms built for another era."
 
-Nieman Lab • 52m ago
+Nieman Lab • 1h ago
 
 ---
 
@@ -161,13 +161,13 @@ Nieman Lab • 52m ago
 
 In recent months, Willdan Group reported strong earnings and raised its guidance, while also acquiring Alternative Power Generation to deepen its data center infrastructure and AI-driven software capabilities amid rising U.S. electricity demand. At the same time, its E3 subsidiary’s independent study for Amazon on data center rate design underscores Willdan’s growing role in shaping how utilities and regulators manage large new electric loads without shifting costs to other customers. We’ll...
 
-Yahoo Finance • 31m ago
+Yahoo Finance • 56m ago
 
 ---
 
 **[With new Alexa website, Amazon's consumer AI vision finally comes together — and it's actually useful](https://www.geekwire.com/2025/with-new-alexa-website-amazons-consumer-ai-vision-finally-comes-together-and-its-actually-useful/)**
 
-GeekWire • 34m ago
+GeekWire • 58m ago
 
 ---
 
@@ -175,7 +175,7 @@ GeekWire • 34m ago
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNN • 6h ago
 
 Equity says vote signals strong opposition to AI use and readiness to disrupt productions unless protections are secured
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -203,7 +203,7 @@ Deadline • 3h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1013 • 💬 510 • 23h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1013 • 💬 510 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -271,7 +271,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 That's one way to get some publicity with Reddit.
 
-⬆️ 128 • 💬 145 • 23h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
+⬆️ 128 • 💬 145 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
 
 ---
 
@@ -285,7 +285,7 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 180K • 👍 7K • 💬 1K • ⏱️ 1:39:47 • 8h ago
+👁️ 180K • 👍 7K • 💬 1K • ⏱️ 1:39:47 • 9h ago
 
 ---
 
@@ -355,7 +355,7 @@ Why So Serious ??? Wahh sedapnya alunan lagu diorang ni kan .
 
 📺 Alieff Irfan
 
-👁️ 239K • 👍 21K • 💬 3K • ⏱️ 45:32 • 4h ago
+👁️ 239K • 👍 21K • 💬 3K • ⏱️ 45:32 • 5h ago
 
 ---
 
@@ -403,7 +403,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 339 • 19h ago
+⬇️ 51,262 • ❤️ 339 • 20h ago
 
 ---
 
@@ -415,7 +415,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 293 • 14m ago
+⬇️ 0 • ❤️ 293 • 38m ago
 
 ---
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.6k • 🔱 2.7k • 8h ago
+⭐ 17.6k • 🔱 2.8k • 9h ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.4k • 🔱 466 • 1h ago
+⭐ 4.4k • 🔱 466 • 17m ago
 
 ---
 
@@ -678,7 +678,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.8k • 🔱 123 • 1h ago
+⭐ 1.8k • 🔱 125 • 11m ago
 
 ---
 
@@ -728,7 +728,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 800 • 🔱 128 • 2d ago
+⭐ 802 • 🔱 129 • 2d ago
 
 ---
 
