@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T19:37:27.472439+00:00'
+updated: '2025-12-18T19:48:46.130605+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 19:37 UTC  
+**Last Updated:** December 18, 2025 at 19:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,490.99
+### $84,667.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -5.6%  
-**30d:** -6.5%  
-**90d:** -26.4%  
-**1y:** -12.6%  
+**24h:** -1.5%  
+**7d:** -6.0%  
+**30d:** -7.0%  
+**90d:** -26.7%  
+**1y:** -13.0%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Bart Simpson incoming?
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 Brazil’s largest private bank, Itaú Unibanco, recently suggested that investors consider allocating around 1%–3% of their portfolios to Bitcoin, framing it as a diversification and risk-management tool rather than a speculative position. According to Itaú Asset Management, the idea isn’t market timing or short-term performance, but long-term positioning. Bitcoin is viewed as a complementary asset that may help offset currency risk, especially after the Brazilian real reached record lows in late 2024. The recommendation also highlights regulated exposure through local products like BITI11, a Brazil-listed Bitcoin ETF, which allows investors to gain BTC exposure within a familiar regulatory framework. This seems to reflect a broader institutional trend where Bitcoin is increasingly discussed as a small but structured portfolio component, particularly in emerging markets. Curious how others here view this approach — is a 1%–3% Bitcoin allocation becoming a conservative baseline for institutional portfolios, or does it still feel premature?
 
-8h ago
+9h ago
 
 ---
 
@@ -163,7 +163,7 @@ Investor's Business Daily • 2h ago
 
 **[Bitcoin Bounces Back Following Tepid Inflation Report](https://www.forbes.com/sites/digital-assets/2025/12/18/bitcoin-bounces-back-following-tepid-inflation-report/)**
 
-Forbes • 47m ago
+Forbes • 58m ago
 
 ---
 
@@ -179,7 +179,7 @@ TradingView — Track All Markets • 1h ago
 
 Fold now offers Bitcoin services nationwide via its partnership with federally chartered BitGo Bank & Trust.
 
-Bitcoin Magazine • 43m ago
+Bitcoin Magazine • 54m ago
 
 ---
 
@@ -353,7 +353,7 @@ Sign up for Coinbase and get $30 in Free Bitcoin it will also support the channe
 
 📺 Toursio
 
-👁️ 28 • 👍 3 • 💬 21 • ⏱️ 3:19 • 6h ago
+👁️ 28 • 👍 3 • 💬 21 • ⏱️ 3:19 • 7h ago
 
 ---
 
