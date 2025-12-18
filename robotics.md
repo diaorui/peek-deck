@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T21:59:47.213067+00:00'
+updated: '2025-12-18T22:29:28.743923+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 21:59 UTC  
+**Last Updated:** December 18, 2025 at 22:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-6h ago
+7h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-8h ago
+9h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hello, I have a doubt about digital twins. I need to develop a complete digital 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 6h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 7h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Medical device manufacturing has always moved more cautiously than other industries. Strict validation, heavy documentation, and long requalification cycles mean many processes stay manual and unchanged for years. What’s starting to change is the technology. High-precision robots, adaptive gripping, and modern machine vision are making it possible to automate delicate, high-mix work while improving traceability and compliance instead of complicating it.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/medical-device-manufacturing-automation) • 1h ago
+🔗 [automate.org](https://www.automate.org/industry-insights/medical-device-manufacturing-automation) • 2h ago
 
 ---
 
@@ -98,7 +98,7 @@ Medical device manufacturing has always moved more cautiously than other industr
 
 Multi-drone PX4/ArduPilot ROS2 control of quads and VTOLs, with YOLO, LiDAR, Dockerized Gym simulation, and JetPack deployment - JacopoPan/aerial-autonomy-stack
 
-🔗 [GitHub](https://github.com/JacopoPan/aerial-autonomy-stack) • 1h ago
+🔗 [GitHub](https://github.com/JacopoPan/aerial-autonomy-stack) • 2h ago
 
 ---
 
@@ -126,7 +126,7 @@ TechCrunch • 1d ago
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-NASA (.gov) • 1d ago
+NASA (.gov) • 2d ago
 
 ---
 
@@ -142,7 +142,7 @@ CNN • 1d ago
 
 From disaster zones, to oil spills, to the Great Pyramids of Giza, iRobot has taken its robot everywhere in its 35 years.
 
-The Robot Report • 1d ago
+The Robot Report • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 71K • 👍 964 • 💬 145 • ⏱️ 11:23 • 2d ago
+👁️ 72K • 👍 970 • 💬 145 • ⏱️ 11:23 • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 30K • 👍 735 • 💬 111 • ⏱️ 6:41 • 4d ago
+👁️ 30K • 👍 738 • 💬 116 • ⏱️ 6:41 • 4d ago
 
 ---
 
@@ -220,7 +220,17 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 22K • 👍 2K • 💬 54 • ⏱️ 1:38 • 2d ago
+👁️ 23K • 👍 2K • 💬 54 • ⏱️ 1:38 • 2d ago
+
+---
+
+**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
+
+📺 PRO ROBOTS
+
+👁️ 275K • 👍 5K • 💬 482 • ⏱️ 26:54 • 4d ago
 
 ---
 
@@ -230,7 +240,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 399K • 👍 14K • 💬 432 • ⏱️ 0:34 • 4d ago
+👁️ 406K • 👍 14K • 💬 439 • ⏱️ 0:34 • 4d ago
 
 ---
 
@@ -244,16 +254,6 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 ---
 
-**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
-
-📺 PRO ROBOTS
-
-👁️ 264K • 👍 5K • 💬 462 • ⏱️ 26:54 • 4d ago
-
----
-
 **[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
 
 GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
@@ -264,13 +264,23 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 ---
 
+**[ROBOT got KNOCKED OUT](https://www.youtube.com/watch?v=eX-TS4JEuEw)**
+
+this short clip, a walking robot encounters an unexpected moment of impact when it gets pushed by an NBA player and ends up ...
+
+📺 Unique Mechanics
+
+👁️ 2K • 👍 305 • 💬 24 • ⏱️ 0:28 • 9h ago
+
+---
+
 **[✅ “This Is REAL: Kyrie Irving FIGHTS a Robot 😱](https://www.youtube.com/watch?v=LKEBOOKg_Mc)**
 
 This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it gets physical The robot throws a kick — Kyrie ...
 
 📺 DLLS Sports
 
-👁️ 22K • 👍 226 • 💬 24 • ⏱️ 0:14 • 21h ago
+👁️ 22K • 👍 228 • 💬 25 • ⏱️ 0:14 • 21h ago
 
 ---
 
@@ -281,16 +291,6 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 📺 Catanimation
 
 👁️ 175K • 👍 1K • 💬 20 • ⏱️ 0:25 • 4d ago
-
----
-
-**[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
-
-PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
-
-📺 LIGHTS ARE OFF
-
-👁️ 2.4M • 👍 89K • 💬 9K • ⏱️ 8:45 • 5d ago
 
 ---
 

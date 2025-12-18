@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T21:59:47.209659+00:00'
+updated: '2025-12-18T22:29:28.740748+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 21:59 UTC  
+**Last Updated:** December 18, 2025 at 22:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -8.2%  
+**24h:** -0.1%  
+**7d:** -8.3%  
 **30d:** -6.5%  
 **90d:** -36.9%  
 **1y:** -17.4%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -116,7 +116,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 1d ago
 
 SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -186,7 +186,7 @@ TradingView — Track All Markets • 6h ago
 
 The latest inflation report released on Thursday in the United States (US) sparked a wave of volatility in the crypto markets.
 
-FXStreet • 2h ago
+FXStreet • 3h ago
 
 ---
 
@@ -216,7 +216,7 @@ CCN.com • 2d ago
 
 Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -230,7 +230,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 169 • 💬 27 • ⏱️ 16:54 • 6h ago
+👁️ 4K • 👍 235 • 💬 36 • ⏱️ 16:54 • 7h ago
 
 ---
 
@@ -240,27 +240,7 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 486 • 👍 29 • 💬 15 • ⏱️ 14:11 • 6h ago
-
----
-
-**[ETH READY TO RALLY AGAIN?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=eL3F9PJCHyk)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 390 • 👍 20 • 💬 1 • ⏱️ 4:50 • 11h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jrOax5tgxdE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 112 • 💬 3 • ⏱️ 7:17 • 8h ago
+👁️ 850 • 👍 34 • 💬 3 • ⏱️ 14:11 • 7h ago
 
 ---
 
@@ -270,7 +250,17 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 8K • 👍 378 • 💬 75 • ⏱️ 11:01 • 1d ago
+👁️ 8K • 👍 381 • 💬 76 • ⏱️ 11:01 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jrOax5tgxdE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 123 • 💬 4 • ⏱️ 7:17 • 9h ago
 
 ---
 
@@ -280,7 +270,17 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 11K • 👍 539 • 💬 223 • ⏱️ 33:33 • 1d ago
+👁️ 12K • 👍 555 • 💬 245 • ⏱️ 33:33 • 1d ago
+
+---
+
+**[ETH READY TO RALLY AGAIN?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=eL3F9PJCHyk)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 457 • 👍 21 • 💬 1 • ⏱️ 4:50 • 11h ago
 
 ---
 
@@ -290,7 +290,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 374 • 💬 71 • ⏱️ 20:34 • 1d ago
+👁️ 14K • 👍 382 • 💬 72 • ⏱️ 20:34 • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 360 • 💬 23 • ⏱️ 12:11 • 10h ago
+👁️ 6K • 👍 368 • 💬 32 • ⏱️ 12:11 • 11h ago
 
 ---
 
@@ -310,7 +310,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 4K • 👍 189 • 💬 57 • ⏱️ 8:42 • 2d ago
+👁️ 4K • 👍 190 • 💬 57 • ⏱️ 8:42 • 2d ago
 
 ---
 

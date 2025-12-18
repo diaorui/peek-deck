@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T21:59:47.194731+00:00'
+updated: '2025-12-18T22:29:28.726506+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 21:59 UTC  
+**Last Updated:** December 18, 2025 at 22:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ My question is about reliance on facial recognition software, and more generally
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 1h ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 2h ago
 
 ---
 
@@ -89,7 +89,7 @@ We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game re
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 8h ago
+🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 9h ago
 
 ---
 
@@ -137,7 +137,7 @@ Deadline • 4h ago
 
 **[AI Demand Strains Japan Cable Firm Fujikura After Stock Surge](https://www.bloomberg.com/news/articles/2025-12-18/ai-demand-strains-japan-cable-firm-fujikura-after-stock-surge)**
 
-Bloomberg.com • 59m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Fox Business • 1h ago
 
 Some believe Alphabet's success with its TPU chips could make it a challenger to Nvidia's data center dominance.
 
-The Motley Fool • 14m ago
+The Motley Fool • 44m ago
 
 ---
 
@@ -161,7 +161,7 @@ The Motley Fool • 14m ago
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -177,13 +177,13 @@ CNBC • 2h ago
 
 Synthetic performers are forcing Hollywood to rethink how fame works and who gets to claim it. Even as the technology races ahead, legal concerns are mounting.
 
-Los Angeles Times • 10h ago
+Los Angeles Times • 11h ago
 
 ---
 
 **[Why Oracle keeps sparking AI-bubble fears](https://www.axios.com/2025/12/18/ai-oracle-stock-blue-owl)**
 
-Axios • 10h ago
+Axios • 11h ago
 
 ---
 
@@ -191,7 +191,7 @@ Axios • 10h ago
 
 Even though many Americans remain glum about the economy and the state of the country, there may be good news in financial markets next year.
 
-USA Today • 3h ago
+USA Today • 4h ago
 
 ---
 
@@ -225,7 +225,7 @@ Privacy browser extensions misled users and sold 8 million AI chat logs, exposin
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be.
 
-⬆️ 549 • 💬 320 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 549 • 💬 320 • 2d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -255,7 +255,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 190 • 💬 149 • 8h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 190 • 💬 149 • 9h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -275,7 +275,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 134 • 💬 136 • 3h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 134 • 💬 136 • 4h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -289,7 +289,7 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 300K • 👍 9K • 💬 2K • ⏱️ 1:39:47 • 13h ago
+👁️ 357K • 👍 10K • 💬 2K • ⏱️ 1:39:47 • 14h ago
 
 ---
 
@@ -299,17 +299,27 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 19K • 👍 3K • 💬 338 • ⏱️ 5:52 • 6h ago
+👁️ 36K • 👍 3K • 💬 477 • ⏱️ 5:52 • 7h ago
 
 ---
 
-**[AI Employees that Actually Work for You (No Prompting Needed)​](https://www.youtube.com/watch?v=b7vWOfSKy_0)**
+**[Gemini Super Gems: Google&#39;s NEW AI Super Agent! Goodbye N8N! (FULLY FREE AI App Generator)](https://www.youtube.com/watch?v=1choivCbZDg)**
 
-sponsored Get started on Marblism: https://marblism.com/?via=artur Become an AI Master – All-in-one AI Learning ...
+Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=901177 Google just dropped Super Gems in ...
 
-📺 AI Master
+📺 WorldofAI
 
-👁️ 258 • 👍 28 • 💬 1 • ⏱️ 13:05 • 4h ago
+👁️ 35K • 👍 1K • 💬 46 • ⏱️ 11:44 • 1d ago
+
+---
+
+**[Introducing NVP: The Propaganda Eliminating AI Machine](https://www.youtube.com/watch?v=enq7W_ou3fY)**
+
+Subscribe to NVP Link: www.newsvpro.com.
+
+📺 Mahmood OD | محمود عودة
+
+👁️ 6K • 👍 933 • 💬 77 • ⏱️ 13:36 • 7h ago
 
 ---
 
@@ -319,7 +329,7 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 232K • 👍 4K • 💬 1K • ⏱️ 14:37 • 2d ago
+👁️ 235K • 👍 4K • 💬 1K • ⏱️ 14:37 • 2d ago
 
 ---
 
@@ -329,27 +339,7 @@ A landowner turned down $8M from an AI company.
 
 📺 NowThis Impact
 
-👁️ 647K • 👍 20K • 💬 2K • ⏱️ 0:55 • 2d ago
-
----
-
-**[Dylan Ratigan: The coming year will be a tsunami as AI eliminates jobs for young people](https://www.youtube.com/watch?v=JwfQbpsvsME)**
-
-O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratigan join Morning Joe to discuss how AI will ...
-
-📺 MS NOW
-
-👁️ 25K • 👍 519 • 💬 354 • ⏱️ 14:44 • 1d ago
-
----
-
-**[Microsoft AI CEO: This is #1 Thing We’re NOT Ready For | Mustafa Suleyman](https://www.youtube.com/watch?v=JmrA_BZ7XMA)**
-
-Are we sleepwalking into the biggest technological revolution in human history? In this explosive episode of Mayim Bialik's ...
-
-📺 Dr. Mayim Bialik
-
-👁️ 53K • 👍 2K • 💬 482 • ⏱️ 1:20:46 • 2d ago
+👁️ 648K • 👍 21K • 💬 2K • ⏱️ 0:55 • 2d ago
 
 ---
 
@@ -359,17 +349,7 @@ A bride, a wedding dress… and a groom who lives on a smartphone This is the re
 
 📺 Bridebook
 
-👁️ 138K • 👍 5K • 💬 216 • ⏱️ 0:52 • 1d ago
-
----
-
-**[Dagen McDowell: I&#39;ve never bought into AI alarmism](https://www.youtube.com/watch?v=5VjB0DMm0kY)**
-
-'The Big Money Show' weighs in the impact of the boost in A.I. productivity on the labor market as well as its application for job use ...
-
-📺 Fox Business
-
-👁️ 7K • 👍 174 • 💬 78 • ⏱️ 7:54 • 2d ago
+👁️ 159K • 👍 6K • 💬 229 • ⏱️ 0:52 • 1d ago
 
 ---
 
@@ -379,7 +359,27 @@ This video invites you into a dreamlike ocean—a world that doesn't exist in re
 
 📺 Impossible AIs
 
-👁️ 40K • 👍 189 • 💬 26 • ⏱️ 8:01 • 1d ago
+👁️ 43K • 👍 204 • 💬 27 • ⏱️ 8:01 • 1d ago
+
+---
+
+**[Which cockatoo is AI? #cockatoo #parrot #animalhumor #cute #Heartwarming](https://www.youtube.com/watch?v=TJPeeQ-Wu4w)**
+
+The jackson_huhniverse account, a very quickly growing account on Instagram and Facebook, is an AI video account really trying ...
+
+📺 Jeremy Carrasco
+
+👁️ 214K • 👍 24K • 💬 417 • ⏱️ 1:21 • 20h ago
+
+---
+
+**[Bring back bullying to stop AI overconsumption 🤖😪🤣 | Tyler Austin Harper | The Downside Podcast](https://www.youtube.com/watch?v=PXwV2Quzhg0)**
+
+Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a text next time I'm performing in your city ...
+
+📺 Gianmarco Soresi
+
+👁️ 378K • 👍 19K • 💬 614 • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -431,7 +431,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,118 • ❤️ 275 • 18h ago
+⬇️ 3,118 • ❤️ 275 • 19h ago
 
 ---
 
@@ -571,7 +571,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 26 • 💬 2 • ⭐ 562 • 6d ago
+▲ 26 • 💬 2 • ⭐ 562 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 

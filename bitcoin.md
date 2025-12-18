@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T21:59:47.203375+00:00'
+updated: '2025-12-18T22:29:28.734791+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 21:59 UTC  
+**Last Updated:** December 18, 2025 at 22:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,616.15
+### $85,391.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -5.0%  
-**30d:** -6.0%  
-**90d:** -25.9%  
-**1y:** -12.1%  
+**24h:** -0.9%  
+**7d:** -5.3%  
+**30d:** -6.2%  
+**90d:** -26.1%  
+**1y:** -12.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, the largest accumulation in 13 years. "Smart money" is aggressively positioning itself in anticipation of the drop. Everyone thinks this situation might be good, but what do you think? Is increasing institutional exposure in the crypto market good or bad? 👇 Let me know in the comments…
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ Bart Simpson incoming?
 
 Anyone who’s been following my posts this week can see this shifting in real time as we approach an inflection point. Put simply: once lower prices start attracting more buyers than sellers (shaken coins dry up), fabricating these dips stops working. That day is getting close. For context: 90 days ago, volume from coins aged 1.5+ years was ~1,227% higher than it is now. Those older coins are going increasingly silent. They can’t hide this in on-chain data (the only real supply), but they’d rather you didn’t look… which is why the narrative is, “all the big players are just in the short-term paper markets now.” That’s false. You can’t pretend large holders (cold storage) are dumping when their coins aren’t moving. Volume is increasingly concentrated in the <1.5 year cohort (ETFs / recent buyers). ETFs themselves hold only ~6–7% of total supply, yet they account for most of the visible volume... algos pushing the same coins back and forth to make it look like capitulation. Low liquidity allows this kind of manipulation up to a point. Beyond that, it coils the spring. The reflexive move when it unwinds will be extreme. Long-term holders are barely moving. This isn’t “OGs dumping,” it’s short-term tourists getting shaken out while Wall Street plays games with paper BTC. Knowledge is power.
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 **[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -153,7 +153,7 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 4h ago
 
 **[BTC price update: Bitcoin, crypto market could plummet again on 'Witching Friday.' Here's why](https://www.fastcompany.com/91463106/bitcoin-btc-price-update-crypto-market-could-plummet-again-on-witching-friday-heres-why)**
 
-Fast Company • 41m ago
+Fast Company • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 1d ago
 
 **[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqfOVsXpIBkO51bLP_MOo-e8CxF0dPRENK41iA5rvEeCMcFgGlJVp3mU&gaa_ts=69447cb7&gaa_sig=sZEfQoraYo18uvKunH8CuY5ZUbTFYU3GaZJyyeeb9cCOXDp4Hu4cWD157Frz7FDt5BpfmN_jrnoVuuhHnEn1PA%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
@@ -285,7 +285,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 36m ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 1h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -307,13 +307,23 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 ## YouTube Videos: "bitcoin"
 
-**[Did $1M BITCOIN Just Become INEVITABLE?](https://www.youtube.com/watch?v=_koljqxMAdk)**
+**[Bitcoin&#39;s Crash Isn&#39;t About The Fed It&#39;s Much Worse](https://www.youtube.com/watch?v=POJ00W6MzKI)**
 
-Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop is a storm building. Whale buys, institutional ...
+Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The Ultimate Silver and Gold Investing Guide for 2025: ...
 
-📺 Simply Bitcoin
+📺 Tim Talks Finance
 
-👁️ 38K • 👍 3K • 💬 198 • ⏱️ 19:03 • 22h ago
+👁️ 2K • 👍 153 • 💬 65 • ⏱️ 14:32 • 5h ago
+
+---
+
+**[&quot;$5,000,000,000 BTC in 1 Week?! OG Bitcoin Whales Are Going CRAZY&quot; - PlanB &amp; Michael Saylor](https://www.youtube.com/watch?v=vViqZ3gj8O4)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 234 • 💬 9 • ⏱️ 9:21 • 6h ago
 
 ---
 
@@ -323,17 +333,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 332 • ⏱️ 8:31 • 20h ago
-
----
-
-**[&quot;Crypto Is DEAD&quot; - Bitcoin&#39;s Silent Exodus Continues As Markets Bleed!](https://www.youtube.com/watch?v=dwpA51n5WL4)**
-
-Bitcoin #Crypto #Finance Bitcoin faces one of its most critical moments yet. The crypto market is reeling as Bitcoin ETFs sink ...
-
-📺 The Wolf Of All Streets
-
-👁️ 9K • 👍 581 • 💬 102 • ⏱️ 41:16 • 7h ago
+👁️ 27K • 👍 1K • 💬 351 • ⏱️ 8:31 • 21h ago
 
 ---
 
@@ -343,17 +343,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 16K • 👍 722 • 💬 23 • ⏱️ 21:23 • 1d ago
+👁️ 17K • 👍 746 • 💬 23 • ⏱️ 21:23 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s Crash Isn&#39;t About The Fed It&#39;s Much Worse](https://www.youtube.com/watch?v=POJ00W6MzKI)**
+**[Did $1M BITCOIN Just Become INEVITABLE?](https://www.youtube.com/watch?v=_koljqxMAdk)**
 
-Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The Ultimate Silver and Gold Investing Guide for 2025: ...
+Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop is a storm building. Whale buys, institutional ...
 
-📺 Tim Talks Finance
+📺 Simply Bitcoin
 
-👁️ 1K • 👍 83 • 💬 24 • ⏱️ 14:32 • 4h ago
+👁️ 40K • 👍 3K • 💬 205 • ⏱️ 19:03 • 22h ago
+
+---
+
+**[Proof Bitcoin Is Setting Up For A Giant Reversal](https://www.youtube.com/watch?v=HlPLngxdijY)**
+
+Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini Credit Card: $50 Bonus in crypto!
+
+📺 Krown
+
+👁️ 5K • 👍 532 • 💬 127 • ⏱️ 15:27 • 4h ago
 
 ---
 
@@ -363,17 +373,17 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 4K • 💬 308 • ⏱️ 9:01 • 1d ago
+👁️ 70K • 👍 4K • 💬 314 • ⏱️ 9:01 • 1d ago
 
 ---
 
-**[What Michael Saylor Really Wants to Do With Bitcoin](https://www.youtube.com/watch?v=lEr_8unFln0)**
+**[Tom Lee Calls for All-Time-Highs by January 2026](https://www.youtube.com/watch?v=y4mjJXZabCI)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+After a rocky December, many investors are asking the same question: Did Bitcoin already top — or is the real move still ahead?
 
-📺 CryptosRUs
+📺 The Bitcoin Revolution
 
-👁️ 41K • 👍 2K • 💬 226 • ⏱️ 48:48 • 1d ago
+👁️ 4K • 👍 103 • 💬 106 • ⏱️ 9:46 • 7h ago
 
 ---
 
@@ -383,25 +393,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 20K • 👍 687 • 💬 215 • ⏱️ 8:33 • 1d ago
+👁️ 20K • 👍 690 • 💬 217 • ⏱️ 8:33 • 1d ago
 
 ---
 
-**[BITCOIN WHALES KNOW SOMETHING!](https://www.youtube.com/watch?v=7TYqt7nxx9s)**
+**[What Michael Saylor Really Wants to Do With Bitcoin](https://www.youtube.com/watch?v=lEr_8unFln0)**
 
-📺 Discover Crypto
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-👁️ 10K • 👍 155 • 💬 11 • ⏱️ 0:47 • 19h ago
+📺 CryptosRUs
 
----
-
-**[Bitcoin &amp; Crypto The End](https://www.youtube.com/watch?v=Cs-ronhi6TI)**
-
-BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
-
-📺 Lark Davis
-
-👁️ 15K • 👍 743 • 💬 73 • ⏱️ 46:47 • 10h ago
+👁️ 41K • 👍 2K • 💬 227 • ⏱️ 48:48 • 1d ago
 
 ---
 
