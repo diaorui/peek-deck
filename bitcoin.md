@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T17:15:26.063495+00:00'
+updated: '2025-12-18T17:42:52.147718+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 17:15 UTC  
+**Last Updated:** December 18, 2025 at 17:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,543.06
+### $85,682.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -4.1%  
-**30d:** -5.1%  
-**90d:** -25.6%  
-**1y:** -11.6%  
+**24h:** +0.7%  
+**7d:** -4.2%  
+**30d:** -5.2%  
+**90d:** -25.3%  
+**1y:** -11.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1761.33B
+**Market Cap:** $1717.52B
 Rank #1
 
-**Circulating Supply:** 19,963,796 BTC
+**Circulating Supply:** 19,963,815 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-31.6%
 
 **All-Time Low:** $67.81
-+129861.7%
++127084.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -105,19 +105,27 @@ Rank #1
 
 Bart Simpson incoming?
 
+2h ago
+
+---
+
+**[Believe and Keep accumulating Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ppvfy2/believe_and_keep_accumulating_bitcoin/)**
+
 1h ago
 
 ---
 
-**[We are soo BACK](https://www.reddit.com/r/Bitcoin/comments/1ppv4eq/we_are_soo_back/)**
+**[Currently going all in on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ppqvmv/currently_going_all_in_on_bitcoin/)**
 
-47m ago
+With these prices I don’t know if I’ll ever see them again. I was investing in other coins but at this time I just feel when Bitcoin rebounds I’ll be glad I bought it at these prices. So I’ve moved the dollar amount I’ve invested into all the coins each payday, to just Bitcoin purchases. I just feel I won’t be missing out if I don’t invest now in other coins. Where’s if I balance out my crypto purchases, I’ll be kicking myself for not buying more Bitcoin.
+
+4h ago
 
 ---
 
 **[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -127,19 +135,9 @@ Bart Simpson incoming?
 
 ---
 
-**[Currently going all in on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ppqvmv/currently_going_all_in_on_bitcoin/)**
+**[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-With these prices I don’t know if I’ll ever see them again. I was investing in other coins but at this time I just feel when Bitcoin rebounds I’ll be glad I bought it at these prices. So I’ve moved the dollar amount I’ve invested into all the coins each payday, to just Bitcoin purchases. I just feel I won’t be missing out if I don’t invest now in other coins. Where’s if I balance out my crypto purchases, I’ll be kicking myself for not buying more Bitcoin.
-
-3h ago
-
----
-
-**[Brazil’s largest bank suggests a 1–3% Bitcoin allocation as a portfolio hedge](https://www.reddit.com/r/Bitcoin/comments/1ppnrpf/brazils_largest_bank_suggests_a_13_bitcoin/)**
-
-Brazil’s largest private bank, Itaú Unibanco, recently suggested that investors consider allocating around 1%–3% of their portfolios to Bitcoin, framing it as a diversification and risk-management tool rather than a speculative position. According to Itaú Asset Management, the idea isn’t market timing or short-term performance, but long-term positioning. Bitcoin is viewed as a complementary asset that may help offset currency risk, especially after the Brazilian real reached record lows in late 2024. The recommendation also highlights regulated exposure through local products like BITI11, a Brazil-listed Bitcoin ETF, which allows investors to gain BTC exposure within a familiar regulatory framework. This seems to reflect a broader institutional trend where Bitcoin is increasingly discussed as a small but structured portfolio component, particularly in emerging markets. Curious how others here view this approach — is a 1%–3% Bitcoin allocation becoming a conservative baseline for institutional portfolios, or does it still feel premature?
-
-6h ago
+17m ago
 
 ---
 
@@ -151,7 +149,7 @@ Brazil’s largest private bank, Itaú Unibanco, recently suggested that investo
 
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -161,19 +159,19 @@ Investor's Business Daily • 5h ago
 
 ---
 
-**[Bitcoin (BTC) Price News: All over the place ahead of U.S. inflation data. what next?](https://www.coindesk.com/markets/2025/12/18/bitcoin-is-all-over-the-place-ahead-of-u-s-inflation-data-gold-nears-record-high)**
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiration](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
-U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
+Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-CoinDesk • 10h ago
+Bloomberg.com • 16m ago
 
 ---
 
-**[Taiwan Reveals It Holds 210 Bitcoin Seized in Criminal Cases, Valued at $18 Million](https://bitcoinmagazine.com/news/taiwan-reveals-it-holds-210-bitcoin)**
+**[Tax Court overturns CRA decision to deny bitcoin loss writeoff](https://ca.finance.yahoo.com/news/tax-court-overturns-cra-decision-164724535.html)**
 
-Taiwan’s Ministry of Justice disclosed it holds over 210 bitcoin seized from criminal cases, placing the country among the world’s top government bitcoin holders.
+Jamie Golombek: Ruling allows taxpayer’s $505,142 bitcoin loss through defunct Quadriga exchange to be deducted against her income
 
-Bitcoin Magazine • 53m ago
+Yahoo! Finance Canada • 55m ago
 
 ---
 
@@ -185,9 +183,29 @@ The Motley Fool • 8h ago
 
 ---
 
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqd-M2knM59PE9YtS6BlW9p2k033FmMDy0kOULzlSnu5jM8ZC4BWWk4M&gaa_ts=6944407f&gaa_sig=3pYQtgTLYzYJ4aHif-or31ypxKtfWGYAif09LVO1L4qw4wnDnxOU8AZ7bwpKW1gfXOalubYiO6lgkQ5P5mkdKA%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+
+thestreet.com • 1d ago
+
+---
+
 **[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
 
 The Block • 11h ago
+
+---
+
+**[Bhutan Pledges Up to 10,000 Bitcoin to Build New Mega-City](https://bitcoinmagazine.com/featured/bhutan-10000-bitcoin-to-build-mega-city)**
+
+Bhutan is pledging up to 10,000 bitcoin for its Gelephu Mindfulness City, that's nearly $1 billion at current prices.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -196,26 +214,6 @@ The Block • 11h ago
 US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
 
 CryptoSlate • 1d ago
-
----
-
-**[Hut 8 shares jump as ex-bitcoin miner signs $7 billion AI data center lease](https://finance.yahoo.com/news/hut-8-shares-jump-ex-123347104.html)**
-
-Hut 8 has signed a deal valued at about $7 billion to lease a data center in ​Louisiana, it said on Wednesday, as former cryptocurrency miners pivot ‌to meet surging demand for artificial intelligence infrastructure.  The company will sign a 15-year lease agreement to develop a 245-megawatt data center in the River Bend campus.  The new deal involves partnerships with AI model developer Anthropic and infrastructure provider Fluidstack.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
-
-Investor's Business Daily • 1d ago
-
----
-
-**[Anthropic Taps Bitcoin Miner With Trump Family Ties For Data Centers](https://www.theinformation.com/briefings/anthropic-taps-bitcoin-miner-trump-family-ties-data-centers)**
-
-The Information • 20h ago
 
 ---
 
@@ -343,7 +341,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 15K • 👍 671 • 💬 23 • ⏱️ 21:23 • 23h ago
+👁️ 15K • 👍 671 • 💬 23 • ⏱️ 21:23 • 1d ago
 
 ---
 

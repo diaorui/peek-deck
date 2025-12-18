@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T17:15:26.055003+00:00'
+updated: '2025-12-18T17:42:52.139237+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 17:15 UTC  
+**Last Updated:** December 18, 2025 at 17:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,23 @@ AI news, discussions, and developments
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 19h ago
+🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 20h ago
+
+---
+
+**["Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino"](https://www.reddit.com/r/artificial/comments/1ppvwx3/trucker_wrongly_detained_through_casinos_ai/)**
+
+My question is about reliance on facial recognition software, and more generally about reliance on AI. Here are two links to stories about a recent incident. A website covering truckers: "Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino", and second, the bodycam footage (on YouTube) which captures the arresting officer talking about his (in my opinion) extreme reliance on AI. Here are the important details: A man was detained and then arrested based on a facial recognition system. There was a large amount of evidence available to the arresting officer that the man was falsely identified. For example, he had multiple pieces of documentation indicating his correct identity, and multiple pieces of evidence that would point to him NOT being the person identified by the AI facial recognition. The officer, several times, says that he is going to rely on the AI classification despite have evidence to the contrary. The officer invents a convoluted theory to explain away the every bit of evidence that contradicts the AI. For example, he confirms that the identification is legitimate with the state DMV, and the says that the suspect must have someone working inside the DMV to help him fake IDs. In other words, he grants the AI classification more weight than all of the contradictory evidence which is right in front of him. I'm most interested in the implications of 3. The officer seems to subvert his own judgment to that to what he calls the "fancy" casino AI. Is this going to become more common in the future, where the output of chat bots, classification bots, etc, are trusted more than contradictory evidence? Just to finish, I pulled some quotes from the body came footage of the officer: "And this is one of those things you guys have this fancy software that does all this stuff." [2:24 in the video] "Uh they're fancy AI technology that reads faces. No, it says it's a 100% match. But at this point, our hands are tied because, you know, a reasonable and prudent person would based off the software, based off the pictures, based off of even your driver's license picture, make the uh reasonable conclusion that all three are the same person, just two different IDs with two different names." [10:54 in the video] "So much so that the fancy computer that does all the face scanning of everybody who walks in this casino makes the same determination that my feeble human brain does." [11:41 in the video] "I just have a feeling somehow maybe he's got a hookup at the DMV where he's got two different driver's licenses that are registered with the Department of Motor Vehicles" [9:10 minutes into the video] And the last exchange between the falsely accused man the police officer: The man says, "And then people aren't smart enough to think for themselves. They're just not." To which the officer, who has has abandoned his judgment in favor of AI, relipes, "Yep. Unfortunately, it's the world we live in." [See 14:30 in the video.]
+
+43m ago
+
+---
+
+**[Using 3 different LLMs to build/code games for a smart ball](https://www.reddit.com/r/artificial/comments/1ppsnm1/using_3_different_llms_to_buildcode_games_for_a/)**
+
+We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
+
+2h ago
 
 ---
 
@@ -53,11 +69,11 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 ---
 
-**[Using 3 different LLMs to build/code games for a smart ball](https://www.reddit.com/r/artificial/comments/1ppsnm1/using_3_different_llms_to_buildcode_games_for_a/)**
+**[What is something AI still struggles with, in your experience?](https://www.reddit.com/r/artificial/comments/1ppwuug/what_is_something_ai_still_struggles_with_in_your/)**
 
-We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
+This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
 
-2h ago
+6m ago
 
 ---
 
@@ -74,14 +90,6 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 TL;DR: I think modern models are an incredible productivity aid to senior developers and I was curious if others experience mirrored my own. I’d like to throw my ball into the endless pit of AI coding content that exists on the internet right now to add my viewpoint. In the interests of receiving hate from everyone I’ll say… “Vibe Coding is overhyped and most of the people writing applications with it are producing truly horrible code” “That’s not a serious change from before ‘vibe coding’ took off, just much faster with a lower barrier to entry” “Vibe Coding is genuinely a massive productivity boost that can rightly command exorbitant costs” There, I should have made everyone mad. A little of my own background first. I started programming ~25 years ago in Visual Basic 6 when I was about 5 years old. Back then I could barely put a basic UI together and I had just about learnt timers and transitions. My applications didn’t have any real functionality for another 5 years when Visual Basic 2005 Express Edition came out and I really learnt how to write code. From there I primarily spent time with C#, JavaScript, TypeScript, C++ (not in that order) until I recently came to settle on Golang. I’ve programmed professionally for a bit over a decade (depending on how you measure some early code and work for family friends, if you take a strict employment definition, I’ve been employed writing code for a decade). Professionally speaking I work in research and most of the code I write sits in backends, benchmarking, and operating systems with a little bit of compilers here and there. I normally wrote frontend code frustrated with how much more obtuse it felt compared to Visual Basic 6 and early VB.net/C#. When ChatGPT first came out I was quick to give it a go. I remember running into rate limit after rate limit timing carefully for when I could send a next message. But that was just poking it with questions. I hadn’t seriously given it a coding project until modern Anthropic Models at the start of this year (2025). I first wrote AI-assisted code with T3.Chat. My first project with them was a user interface for building Docker containers. I had written my own prototype to get the visual styles down then I started back and forth improving the design using T3.Chat. My thinking at the time was “I had to give that a few generations, but that interface is good enough for a prototype”. This was exciting enough to give Claude Code a try (first via the API, I had a year or 2 of experience with the OpenAI API before this). After a few messages and $40 spent I bit the bullet and got Claude Max. From there I spent a ton of time refining that React and Next.js project polishing off all the oddities that annoyed me with the user interface. Writing a user interface turned from a drag to something I really enjoyed. But this was working with frontend React code. The exact sort of thing everyone advertises for vibe coding and seemingly the most common training data. What happens if I give it a project, I have more experience with? I recall playing around with the idea of writing a C compiler during a holiday in my spare time. I gave it to Claude Code and with the first try it messed it up, second go around same deal, third time I really tried prompting tricks splitting it into tiny projects and once it wrote 5000 lines of code it totally broke the register allocator. That was 8 months ago which is a decade in AI time. How are the more recent AI models like Opus 4.5 with hard systems problems? Sometimes they are incredible solving problems that took me days to complete in hours. Sometimes they spin in a loop trying to debug a problem and spend $240 in 2 days. We’re not yet to the point where these models can work independently and they need supervision from a senior engineer to work on anything more difficult than a quick demonstration. This sort of experience leads me to saying that ‘vibe coding’ is not going to replace senior software engineers. Every time they ‘solve’ a set of problems in software something more difficult will come to take their place and those hard problems will take the same supervision they do today. For those who don’t believe me think how close we are to an agent that when you ask it “Write me an operating system compatible with Windows applications” it will produce something that compiles and works in a single shot. That’s hyperbole but it’s easy to make more “reasonable” examples. I do think ‘vibe coding’ is here to stay though and it will be worryingly disruptive in two areas close to me. I work at a university and for students its downright dangerous, it has such an easy time of most problems we can set as assignments that solving AI in teaching computing is still a very important open problem. I also work in cyber security and ‘vibe coding’ is incredible in its ability to make subtle security vulnerabilities. I was genuinely worried that the adoption of languages like Rust would meaningfully improve the overall state of software security but now we’re back to a world where secrets are exposed everywhere, every endpoint has XSS, and finding vulnerabilities is fun again. If you want an example of this, ask any model to write a markdown renderer without external libraries and watch it make a beginner/easy CTF challenge for XSS. So, summing up my thoughts, ‘vibe coding’ is an incredible productivity boost but it tests different skills as a developer. Doing it I find myself writing more Unit Tests, more documentation, more rigorous definitions. It’s another development who works at incredible speeds but still makes basic mistakes. I think it will make our senior engineers better more productive developers, but I worry what it will do for people learning to code in the first place. And I also thank it for securing the cyber security job market for the next decade, that’s a relief.
 
 9h ago
-
----
-
-**[Writing prompts made me a better explainer](https://www.reddit.com/r/artificial/comments/1ppn7fz/writing_prompts_made_me_a_better_explainer/)**
-
-I think I noticed that, relying on llms might have reduced certain aspects of my intelligence. But forcing myself to explain to the jagged intelligence of LLM what I truly means seems to have also translated to better communicating my thoughts to other humans. Do you have a similar or perhaps opposite experience ?
-
-7h ago
 
 ---
 
@@ -109,25 +117,17 @@ Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
 ---
 
-**[Teachers are using software to see if students used AI. What happens when it's wrong?](https://www.reddit.com/r/artificial/comments/1pp77ps/teachers_are_using_software_to_see_if_students/)**
-
-School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
-
-🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 20h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcugTV0h0BJnrN4pXZ9ZISqMrsOFORIA0RCd0a8WJ4AWPj_1UUl6OhV&gaa_ts=69443459&gaa_sig=BDTifPeRlFFq6REgP5j9twy1zRkNxeslxHHBAMyrV8G0kg0X1ZzjAup0pNsBNkjzfGCUP0Uy10dQJk20UxcmHA%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeElTC9xkP5PoEQ_0NlJrR4QhrwDreUBEBU5sNI78UdeuZ9H7Euira3&gaa_ts=6944407e&gaa_sig=qgocs-WFERdKl6gf7fEgCj_fsgZKQ0vMJC3IdtXm8QezNW4mDeBgY20U6NmDygxrWOgoj1NFWyfdDDOihOgX2A%3D%3D)**
 
-The Wall Street Journal • 6h ago
+The Wall Street Journal • 7h ago
 
 ---
 
-**[Micron stock pops 15% as AI memory demand soars: 'We are more than sold out'](https://www.cnbc.com/2025/12/18/micron-mu-stock-earnings-ai-memory-demand.html)**
+**[Micron stock pops 12% as AI memory demand soars: 'We are more than sold out'](https://www.cnbc.com/2025/12/18/micron-mu-stock-earnings-ai-memory-demand.html)**
 
 Micron said it expects the total addressable market for high-bandwidth memory to hit $100 billion by 2028.
 
@@ -135,47 +135,31 @@ CNBC • 3h ago
 
 ---
 
-**[Micron forecasts blowout earnings on booming AI market, shares rise](https://finance.yahoo.com/news/chipmaker-micron-forecasts-quarterly-revenue-210411999.html)**
+**[Micron stock soars on earnings beat amid 'unprecedented' AI-fueled demand for memory chips](https://finance.yahoo.com/news/micron-stock-soars-on-earnings-beat-amid-unprecedented-ai-fueled-demand-for-memory-chips-164848986.html)**
 
-Micron Technology forecast second-quarter adjusted profit at nearly double what Wall Street analysts expected on Wednesday, as prices soar for memory chips amid tight supplies and booming demand ​from artificial intelligence data centers.  Micron ‌said it expected adjusted profit of $8.42 per share, plus or minus 20 cents, versus analyst estimates of $4.78 per share, according to LSEG data.  Micron's chips are fundamental components ‌in everything from data center servers and personal computers to smartphones and vehicles.
+Micron stock soared after the memory chipmaker reported Q1 EPS and revenue that topped Wall Street estimates.
 
-Yahoo Finance • 1h ago
-
----
-
-**[U.S. stocks jump after an encouraging inflation update, as Micron helps AI stocks stop their slide](https://www.detroitnews.com/story/business/2025/12/18/u-s-stocks-jump-after-an-encouraging-inflation-update-as-micron-helps-ai-stocks-stop-their-slide/87826291007/)**
-
-The Detroit News • 1h ago
+Yahoo Finance • 54m ago
 
 ---
 
-**[AI will rewrite the architecture of the newsroom](https://www.niemanlab.org/2025/12/ai-will-rewrite-the-architecture-of-the-newsroom/)**
+**[AI buildouts could push Micron stock above $300: Analyst](https://finance.yahoo.com/video/ai-buildouts-could-push-micron-164304450.html)**
 
-"The challenge now is rebuilding around the unique value a newsroom provides, not around legacy forms built for another era."
+Micron Technology stock (MU) continues to soar in Thursday's session since reporting breakout fiscal first quarter earnings and revenue figures yesterday, driven by growing demand for high-bandwidth memory chips for AI data centers. Freedom Capital Markets Managing Director Paul Meeks shares how much higher the push for AI infrastructure buildouts could send Micron's stock price. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
-Nieman Lab • 1h ago
-
----
-
-**[Can Willdan Group (WLDN) Turn AI-Focused Data Center Demand Into a Durable Earnings Engine?](https://finance.yahoo.com/news/willdan-group-wldn-turn-ai-161926923.html)**
-
-In recent months, Willdan Group reported strong earnings and raised its guidance, while also acquiring Alternative Power Generation to deepen its data center infrastructure and AI-driven software capabilities amid rising U.S. electricity demand. At the same time, its E3 subsidiary’s independent study for Amazon on data center rate design underscores Willdan’s growing role in shaping how utilities and regulators manage large new electric loads without shifting costs to other customers. We’ll...
-
-Yahoo Finance • 56m ago
+Yahoo Finance • 59m ago
 
 ---
 
-**[With new Alexa website, Amazon's consumer AI vision finally comes together — and it's actually useful](https://www.geekwire.com/2025/with-new-alexa-website-amazons-consumer-ai-vision-finally-comes-together-and-its-actually-useful/)**
+**[Bernie Sanders demands AI data center moratorium](https://thehill.com/opinion/robbys-radar/5655111-bernie-sanders-data-center-moratorium/)**
 
-GeekWire • 58m ago
+thehill.com • 20m ago
 
 ---
 
-**[The surprising truth about AI’s impact on jobs](https://www.cnn.com/2025/12/18/business/ai-jobs-economy)**
+**[AI May Not Kill Jobs As Early Data Shows Hiring And Wages Rising](https://www.forbes.com/sites/richardkestenbaum/2025/12/18/ai-may-not-kill-jobs-as-early-data-shows-hiring-and-wages-rising/)**
 
-Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
-
-CNN • 7h ago
+Forbes • 25m ago
 
 ---
 
@@ -191,7 +175,23 @@ The Guardian • 3h ago
 
 Members of Equity, the British actors' union, have vote to refuse on-set digital scans amid a growing row over AI. Hugh Bonneville supported the vote.
 
-Deadline • 3h ago
+Deadline • 4h ago
+
+---
+
+**[British Actors and Other Performers Back Industrial Action Over AI After Landslide Vote](https://variety.com/2025/film/global/british-actors-industrial-action-ai-1236611771/)**
+
+Actors and other performers working in the U.K. have voted by 99.6% to refuse to be digitally scanned in order to secure AI protections.
+
+Variety • 2h ago
+
+---
+
+**[Hollywood was built on movie stardom. AI is changing the rules](https://www.latimes.com/entertainment-arts/movies/story/2025-12-18/can-movie-stardom-survive-age-of-ai-hollywood-tomorrow)**
+
+Synthetic performers are forcing Hollywood to rethink how fame works and who gets to claim it. Even as the technology races ahead, legal concerns are mounting.
+
+Los Angeles Times • 6h ago
 
 ---
 
@@ -203,7 +203,7 @@ Deadline • 3h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1013 • 💬 510 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1017 • 💬 510 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -217,7 +217,7 @@ Privacy browser extensions misled users and sold 8 million AI chat logs, exposin
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 814 • 💬 415 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 814 • 💬 416 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -225,7 +225,7 @@ Privacy browser extensions misled users and sold 8 million AI chat logs, exposin
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be.
 
-⬆️ 547 • 💬 317 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 547 • 💬 318 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -239,7 +239,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 277 • 💬 160 • 22h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 277 • 💬 160 • 23h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -247,7 +247,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 238 • 💬 173 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 239 • 💬 173 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -263,7 +263,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 132 • 💬 166 • 1d ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 132 • 💬 166 • 2d ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -305,7 +305,7 @@ A woman in a vibrant "saree" steps up to an advanced "kiosk" for a unique experi
 
 📺 DesiGlow Pod
 
-👁️ 5K • 👍 21 • ⏱️ 0:11 • 12h ago
+👁️ 5K • 👍 21 • ⏱️ 0:11 • 13h ago
 
 ---
 
@@ -325,7 +325,7 @@ Lady Soldier Rescues Grandma on Robotic Bike #ai #army #save #bike.
 
 📺 ai short time 
 
-👁️ 10K • 👍 188 • 💬 7 • ⏱️ 0:37 • 3h ago
+👁️ 10K • 👍 188 • 💬 7 • ⏱️ 0:37 • 4h ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 322,827 • ❤️ 2,969 • 10d ago
+⬇️ 322,827 • ❤️ 2,970 • 10d ago
 
 ---
 
@@ -403,7 +403,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 339 • 20h ago
+⬇️ 51,262 • ❤️ 340 • 20h ago
 
 ---
 
@@ -415,7 +415,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 293 • 38m ago
+⬇️ 0 • ❤️ 299 • 1h ago
 
 ---
 
@@ -427,7 +427,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,118 • ❤️ 270 • 13h ago
+⬇️ 3,118 • ❤️ 272 • 14h ago
 
 ---
 
@@ -439,7 +439,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 254 • 3d ago
+⬇️ 0 • ❤️ 257 • 3d ago
 
 ---
 
@@ -463,7 +463,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 248 • ❤️ 201 • 1d ago
+⬇️ 248 • ❤️ 202 • 1d ago
 
 ---
 
@@ -475,7 +475,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 193 • 1d ago
+⬇️ 0 • ❤️ 194 • 1d ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.4k • 🔱 466 • 17m ago
+⭐ 4.4k • 🔱 466 • 44m ago
 
 ---
 
@@ -678,7 +678,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.8k • 🔱 125 • 11m ago
+⭐ 1.8k • 🔱 125 • 39m ago
 
 ---
 
