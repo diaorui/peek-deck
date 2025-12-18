@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T11:43:02.386652+00:00'
+updated: '2025-12-18T11:54:09.649208+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 11:43 UTC  
+**Last Updated:** December 18, 2025 at 11:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Brazil’s largest private bank, Itaú Unibanco, recently suggested that investo
 
 Dca time!! Dont buy at 130k!
 
-15h ago
+16h ago
 
 ---
 
@@ -143,7 +143,7 @@ Dca time!! Dont buy at 130k!
 
 **[I’m a ₿itcoin Pioneer! ⚡️](https://www.reddit.com/r/Bitcoin/comments/1ppi4ne/im_a_itcoin_pioneer/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -167,7 +167,7 @@ Investor's Business Daily • 14h ago
 
 **[Bitcoin Whales Buy Record $4.6B in a Week Despite Price Drop — Is a Final 2025 Rally Likely?](https://www.ccn.com/news/crypto/bitcoin-whales-4-6b-in-week-despite-price-drop-rally-ahead/)**
 
-CCN.com • 59m ago
+CCN.com • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Block • 5h ago
 
 Bhutan is pledging up to 10,000 bitcoin for its Gelephu Mindfulness City, that's nearly $1 billion at current prices.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 149 • ⏱️ 19:03 • 11h ago
+👁️ 29K • 👍 2K • 💬 149 • ⏱️ 19:03 • 12h ago
 
 ---
 
