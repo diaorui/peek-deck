@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T23:43:21.473747+00:00'
+updated: '2025-12-18T23:54:25.012204+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 23:43 UTC  
+**Last Updated:** December 18, 2025 at 23:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,252.13
+### $85,373.85
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 6h ago
 
 Solana tumbled below $120 to its weakest price since April, while SUI, DOGE and ADA also fell sharply.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -205,7 +205,7 @@ Barron's • 1d ago
 
 A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 3K • 💬 205 • ⏱️ 19:03 • 23h ago
+👁️ 40K • 👍 3K • 💬 205 • ⏱️ 19:03 • 1d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T23:43:21.482987+00:00'
+updated: '2025-12-18T23:54:25.022559+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 23:43 UTC  
+**Last Updated:** December 18, 2025 at 23:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Hey r/robotics, just wanted to share a project I have been working on. It is a self-balancing spherical robot driven by an internal pendulum system. I initially tried using standard PID controllers for stability, but the system was too unstable on uneven surfaces so I had to change my approach. I ended up switching to a reinforcement learning policy using Isaac Sim. The hardest part was the sim-to-real gap since modeling the rolling friction took a long time to get right. It is finally at a point where it can handle carpet transitions without losing balance. It is running on a Jetson Nano for the vision processing. I am currently working on the SLAM implementation, but stabilizing the video feed while the shell spins is proving to be difficult. I would appreciate any feedback on the movement. I am also debating switching to MPC if anyone has experience with that on similar platforms. I also set up a discord if anyone wants to discuss the project or has suggestions, feel free to join. https://discord.gg/zXVanWP76 Thanks.
 
-48m ago
+59m ago
 
 ---
 

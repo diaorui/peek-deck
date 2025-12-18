@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T23:43:21.465111+00:00'
+updated: '2025-12-18T23:54:25.003559+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 23:43 UTC  
+**Last Updated:** December 18, 2025 at 23:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ This week's article examines the claim that AI feels safer than human conversati
 
 We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 After building RAG + multi-step agent systems, three lessons stood out: Good ingestion determines everything downstream. If extraction isn’t deterministic, nothing else is. Verification is non-negotiable. Without schema/citation checking, errors spread quickly. You need clear tool contracts. The agent can’t compensate for unknown input/output formats. If you’ve built retrieval or agent pipelines, what stability issues did you run into?
 
-3h ago
+4h ago
 
 ---
 
@@ -155,13 +155,13 @@ Deadline • 6h ago
 
 Fox News poll reveals 80% of voters want careful artificial intelligence development, but Americans remain split on who should regulate AI technology.
 
-Fox News • 42m ago
+Fox News • 54m ago
 
 ---
 
 **[‘Scientist-as-a-Service’: Seattle startup Pauling.AI aims to shrink drug discovery timelines by months](https://www.geekwire.com/2025/scientist-as-a-service-seattle-startup-pauling-ai-aims-to-shrink-drug-discovery-timelines-by-months/)**
 
-GeekWire • 43m ago
+GeekWire • 54m ago
 
 ---
 
@@ -373,7 +373,7 @@ The jackson_huhniverse account, a very quickly growing account on Instagram and 
 
 📺 Jeremy Carrasco
 
-👁️ 214K • 👍 24K • 💬 417 • ⏱️ 1:21 • 21h ago
+👁️ 214K • 👍 24K • 💬 417 • ⏱️ 1:21 • 22h ago
 
 ---
 
@@ -677,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.9k • 🔱 132 • 3h ago
+⭐ 1.9k • 🔱 132 • 4h ago
 
 ---
 
