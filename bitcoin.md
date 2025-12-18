@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T02:11:04.423092+00:00'
+updated: '2025-12-18T03:39:05.945138+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 02:11 UTC  
+**Last Updated:** December 18, 2025 at 03:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,187.89
+### $86,490.48
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -4.4%  
-**30d:** -5.4%  
-**90d:** -25.5%  
-**1y:** -11.6%  
+**24h:** -0.3%  
+**7d:** -4.2%  
+**30d:** -5.2%  
+**90d:** -25.3%  
+**1y:** -11.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1720.62B
+**Market Cap:** $1723.68B
 Rank #1
 
-**Circulating Supply:** 19,963,540 BTC
+**Circulating Supply:** 19,963,575 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.6%
+-31.5%
 
 **All-Time Low:** $67.81
-+127003.7%
++127242.6%
 
 ---
 
@@ -79,33 +79,7 @@ Rank #1
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-6h ago
-
----
-
-**[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
-
-9h ago
-
----
-
-**[Your Choice?](https://www.reddit.com/r/Bitcoin/comments/1poyk0f/your_choice/)**
-
-Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
-
-11h ago
-
----
-
-**[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
-
-9h ago
-
----
-
-**[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
-
-14h ago
+7h ago
 
 ---
 
@@ -113,7 +87,33 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 Dca time!! Dont buy at 130k!
 
-6h ago
+7h ago
+
+---
+
+**[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
+
+11h ago
+
+---
+
+**[Bitcoin is king for a reason.](https://www.reddit.com/r/Bitcoin/comments/1pp1ysb/bitcoin_is_king_for_a_reason/)**
+
+10h ago
+
+---
+
+**[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
+
+10h ago
+
+---
+
+**[Your Choice?](https://www.reddit.com/r/Bitcoin/comments/1poyk0f/your_choice/)**
+
+Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
+
+12h ago
 
 ---
 
@@ -121,7 +121,13 @@ Dca time!! Dont buy at 130k!
 
 Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart includes every on-chain transaction in that window. Each bar shows BTC spent by coin age band (UTXO age at spend). PnL is realized profit/loss vs the price when each UTXO was first created. The pie on the right shows total realized profit vs loss for the day. Key takeaways from today’s data: ~99.5% of all BTC spent came from coins younger than 1 year. A chunk of 1–1.5y coins realized losses, but the overwhelming majority of capitulation is from short-term holders / “tourists” dumping recent buys. Old coins (1.5y+) barely moved. Long-term HODLers are still largely sitting tight and stacking. The 180-1yr crowd growing recently is pointing to loss harvesting before 2026 to assist tax advantages. It represented about 30% of the selling at a loss by volume but was disproportionalty smaller in terms of actual loss relative to coins moved (this makes sense as coins held that long are not as much in a loss as the shorter term entrants since summer). This is a quick snapshot from my full-node dataset. I’ll post more breakdowns like this as I keep building out the tooling.
 
-1h ago
+3h ago
+
+---
+
+**[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
+
+16h ago
 
 ---
 
@@ -129,7 +135,7 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 Everyone needs to chill and stack sats
 
-5h ago
+6h ago
 
 ---
 
@@ -137,13 +143,7 @@ Everyone needs to chill and stack sats
 
 Medium term holder 5+ years. I'm seeing so many posts with folks showing technical analysis and memes. Lots of panicky posts by new folks seeing price drops for the first time. Next, other posts of people worshipping QE and other monetary instruments that end up driving up asset prices and make cost of living brutal. This is my second bear market and here are my tips: 1) Treat Bitcoin like a long term, high volatility asset. If you DCA, give yourself 8-10 years. If you lump sum invest, your best bet is during bear cycles anytime between May to October. We are in a bear cycle now. 2) Is the 4 year cycle broken? It's irrelevant because your timeline should be long enough to see sustained gains unless there is a major recession. 3) Selling is normal and fiat does not suckkkkk. Yes, you heard that. You need money to eat, live, and buy things like homes, cars, tuition, and weddings. Bitcoin is an investment that helps. 4) Gold and diversified stocks matter as well. Bitcoin ideally should be 10% of a portfolio and that's also assuming you are comfortable with risk. 5) No leverage and no life savings. Don't do either. Nobody other than gamblers or insiders. 6) Stop worrying about what whales or insiders do. They have existed and will exist and will outleverage and outfinesse you in all scenarios as well.
 
-7h ago
-
----
-
-**[Bitcoin is king for a reason.](https://www.reddit.com/r/Bitcoin/comments/1pp1ysb/bitcoin_is_king_for_a_reason/)**
-
-9h ago
+8h ago
 
 ---
 
@@ -151,45 +151,37 @@ Medium term holder 5+ years. I'm seeing so many posts with folks showing technic
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price (BTC) analysis: Don't read too much into current action](https://www.coindesk.com/markets/2025/12/17/traders-mull-the-bottom-as-bitcoin-returns-to-week-s-lows-below-usd86-000)**
+**[Bitcoin price (BTC) news: Major whipsaw on Wednesday sends price back below $88,000](https://www.coindesk.com/markets/2025/12/17/bitcoin-tumbles-back-below-usd88-000-as-gains-evaporate-as-quickly-as-they-formed)**
 
-One analyst isn't quite ready to call a bottom, but says bitcoin is surely in an oversold condition.
+It was a blink and you missed it rally as continued deflation in the AI trade sent the Nasdaq sharply lower, dragging crypto along with it.
 
-CoinDesk • 6h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfn6hKq4ibkf7O9CH-3h91SjFI28WSvm8mu44LCIjLkFdyFo3ofeGe4&gaa_ts=69436620&gaa_sig=Qh01Af_XfUd8NK0lqQE94qra2RT_9nbspJ-mEeeizMiqALdB_utSJElIP2VRSmOLOzwmAIlqVtEeMe3nr43d9w%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfa3llNAX-mgp8lOjCDrOtv4E2CXIFDQll-w0bgfbGt_rNzF3gsXhwn&gaa_ts=69437ac3&gaa_sig=7p-nMh5WHvR5fNvPzIcoRyo_m9oUFMW9LsKWVHR_LxCmfFkSvA5Ai3zC6d8Q69ppIUMrK4Gryr5GFN4KgO6KLA%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Strategy Buys $980M In Bitcoin But One Crucial MSTR Metric Turned Red](https://finance.yahoo.com/news/strategy-buys-980m-bitcoin-one-223111962.html)**
+**[Michael Saylor Buys Another $1B in Bitcoin as Grayscale Predicts All Time High Within 6 Months — Is It Likely?](https://finance.yahoo.com/news/michael-saylor-buys-another-1b-121215863.html)**
 
-Strategy Inc. (NASDAQ:MSTR) disclosed another major Bitcoin (CRYPTO: BTC) purchase on Monday, acquiring 10,645 BTC for about $980.3 million between Dec. 8 and Dec. 14, even as a key performance metric behind its stock turns negative. Strategy Extends ...
+Strategy added nearly $1 billion worth of Bitcoin for a second straight week. Grayscale expects Bitcoin to reach a new all-time high in the first ...
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
-**[Should You Buy Bitcoin While It's Under $100,000?](https://www.fool.com/investing/2025/12/17/should-you-buy-bitcoin-while-its-under-100000/)**
+**[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
 
-The world's top crypto has lost 30% of its value in the past couple of months.
-
-The Motley Fool • 13h ago
-
----
-
-**[Anthropic Taps Bitcoin Miner With Trump Family Ties For Data Centers](https://www.theinformation.com/briefings/anthropic-taps-bitcoin-miner-trump-family-ties-data-centers)**
-
-The Information • 5h ago
+CCN.com • 13h ago
 
 ---
 
@@ -201,25 +193,29 @@ Financial Times • 2d ago
 
 ---
 
-**[Key facts: Bhutan to invest $1B in Bitcoin for Mindfulness City; Bitcoin drops to $86,517](https://www.tradingview.com/news/tradingview:df97a1c99b178:0-key-facts-bhutan-to-invest-1b-in-bitcoin-for-mindfulness-city-bitcoin-drops-to-86-517/)**
+**[Will Bitcoin Hit $200,000 in 2026?](https://www.fool.com/investing/2025/12/17/will-bitcoin-hit-200000-in-2026/)**
 
-TradingView — Track All Markets • 2h ago
+Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
 
----
-
-**[Bhutan Pledges Up to 10,000 Bitcoin to Build New Mega-City](https://bitcoinmagazine.com/featured/bhutan-10000-bitcoin-to-build-mega-city)**
-
-Bhutan is pledging up to 10,000 bitcoin for its Gelephu Mindfulness City, that's nearly $1 billion at current prices.
-
-Bitcoin Magazine • 11h ago
+The Motley Fool • 9h ago
 
 ---
 
-**[Bhutan Pledges $1B in Bitcoin to Support Gelephu Mindfulness City Development](https://www.coindesk.com/policy/2025/12/17/bhutan-commits-up-to-10-000-bitcoin-to-back-new-mindfulness-based-economic-hub)**
+**[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
 
-Bhutan has pledged up to 10,000 BTC to support the development of Gelephu Mindfulness City, deepening the country’s long-term digital asset strategy.
+The Block • 16h ago
 
-CoinDesk • 15h ago
+---
+
+**[Anthropic Taps Bitcoin Miner With Trump Family Ties For Data Centers](https://www.theinformation.com/briefings/anthropic-taps-bitcoin-miner-trump-family-ties-data-centers)**
+
+The Information • 7h ago
+
+---
+
+**[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
+
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -263,7 +259,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 5h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 6h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -291,7 +287,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 1K • 💬 92 • ⏱️ 19:03 • 2h ago
+👁️ 6K • 👍 1K • 💬 92 • ⏱️ 19:03 • 3h ago
 
 ---
 
@@ -301,7 +297,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 17K • 👍 663 • 💬 207 • ⏱️ 8:33 • 10h ago
+👁️ 17K • 👍 663 • 💬 207 • ⏱️ 8:33 • 12h ago
 
 ---
 
@@ -311,7 +307,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 305 • 💬 92 • ⏱️ 9:12 • 7h ago
+👁️ 4K • 👍 305 • 💬 92 • ⏱️ 9:12 • 8h ago
 
 ---
 
@@ -321,7 +317,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 36K • 👍 2K • 💬 212 • ⏱️ 48:48 • 10h ago
+👁️ 36K • 👍 2K • 💬 212 • ⏱️ 48:48 • 12h ago
 
 ---
 
@@ -341,7 +337,7 @@ Market dumps again and Bitcoin is going down. Here's part of the reason why... O
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 433 • 💬 61 • ⏱️ 29:38 • 4h ago
+👁️ 5K • 👍 433 • 💬 61 • ⏱️ 29:38 • 6h ago
 
 ---
 
@@ -351,7 +347,7 @@ BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/Cha
 
 📺 Chart Junkies
 
-👁️ 1K • 👍 98 • 💬 17 • ⏱️ 10:16 • 7h ago
+👁️ 1K • 👍 98 • 💬 17 • ⏱️ 10:16 • 9h ago
 
 ---
 
@@ -361,7 +357,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 442 • 💬 16 • ⏱️ 21:23 • 8h ago
+👁️ 7K • 👍 442 • 💬 16 • ⏱️ 21:23 • 10h ago
 
 ---
 
@@ -371,7 +367,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 10K • 👍 753 • 💬 120 • ⏱️ 8:45 • 9h ago
+👁️ 10K • 👍 753 • 💬 120 • ⏱️ 8:45 • 10h ago
 
 ---
 
@@ -381,7 +377,7 @@ Welcome Back To The Channel! Sign Up on BTCC – Get Up to $20000 in Rewards & A
 
 📺 Tyler Hill Crypto
 
-👁️ 6K • 👍 278 • 💬 45 • ⏱️ 49:16 • 8h ago
+👁️ 6K • 👍 278 • 💬 45 • ⏱️ 49:16 • 9h ago
 
 ---
 
