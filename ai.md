@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T23:27:56.060078+00:00'
+updated: '2025-12-18T23:43:21.465111+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 23:27 UTC  
+**Last Updated:** December 18, 2025 at 23:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Source (November 2025): "Inception Point AI [is] a startup with just eight emplo
 
 Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
 
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ After building RAG + multi-step agent systems, three lessons stood out: Good ing
 
 **[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdahKAEIBpBaAcR8j0m7hUTqP43U8FSM2gBgmSQHqRzLzjdJiBQmtSg&gaa_ts=69449162&gaa_sig=InayYc23NI2AfpkAwHuYPhNDP5HKODUITfabCWy3KNvWi5EG9IlGai0wtRgoaLn9Pj6hVSXkap4I_xLpZDR2BA%3D%3D)**
 
-The Wall Street Journal • 12h ago
+The Wall Street Journal • 13h ago
 
 ---
 
@@ -139,7 +139,7 @@ Kottke.org • 4h ago
 
 How Claude turned around its failing vending machine business
 
-Anthropic • 9h ago
+Anthropic • 10h ago
 
 ---
 
@@ -147,7 +147,7 @@ Anthropic • 9h ago
 
 YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
 
-Deadline • 5h ago
+Deadline • 6h ago
 
 ---
 
@@ -155,13 +155,13 @@ Deadline • 5h ago
 
 Fox News poll reveals 80% of voters want careful artificial intelligence development, but Americans remain split on who should regulate AI technology.
 
-Fox News • 27m ago
+Fox News • 42m ago
 
 ---
 
 **[‘Scientist-as-a-Service’: Seattle startup Pauling.AI aims to shrink drug discovery timelines by months](https://www.geekwire.com/2025/scientist-as-a-service-seattle-startup-pauling-ai-aims-to-shrink-drug-discovery-timelines-by-months/)**
 
-GeekWire • 27m ago
+GeekWire • 43m ago
 
 ---
 
@@ -169,7 +169,7 @@ GeekWire • 27m ago
 
 Google loves AI content, except when it doesn’t.
 
-Ars Technica • 48m ago
+Ars Technica • 1h ago
 
 ---
 
@@ -423,7 +423,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 305 • 6h ago
+⬇️ 0 • ❤️ 305 • 7h ago
 
 ---
 

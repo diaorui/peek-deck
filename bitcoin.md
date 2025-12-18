@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T23:27:56.068269+00:00'
+updated: '2025-12-18T23:43:21.473747+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 23:27 UTC  
+**Last Updated:** December 18, 2025 at 23:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,498.75
+### $85,252.13
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
+**24h:** -0.9%  
 **7d:** -5.2%  
 **30d:** -6.2%  
 **90d:** -26.1%  
@@ -97,7 +97,7 @@ Rank #1
 
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -119,13 +119,13 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 Bart Simpson incoming?
 
-7h ago
+8h ago
 
 ---
 
 **[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -141,7 +141,7 @@ Anyone who’s been following my posts this week can see this shifting in real t
 
 With these prices I don’t know if I’ll ever see them again. I was investing in other coins but at this time I just feel when Bitcoin rebounds I’ll be glad I bought it at these prices. So I’ve moved the dollar amount I’ve invested into all the coins each payday, to just Bitcoin purchases. I just feel I won’t be missing out if I don’t invest now in other coins. Where’s if I balance out my crypto purchases, I’ll be kicking myself for not buying more Bitcoin.
 
-9h ago
+10h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 1h ago
 
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 13h ago
 
 Thinking about swapping Bitcoin for MARA Holdings after the recent sell-off? Here's what changed for miners and what matters most for investors now.
 
-The Motley Fool • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
