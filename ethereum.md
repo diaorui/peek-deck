@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T07:30:34.425424+00:00'
+updated: '2025-12-18T07:45:36.306994+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - social
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 07:30 UTC  
+**Last Updated:** December 18, 2025 at 07:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
-**7d:** -8.2%  
-**30d:** -6.4%  
-**90d:** -36.8%  
-**1y:** -17.3%  
+**24h:** -2.9%  
+**7d:** -7.9%  
+**30d:** -6.2%  
+**90d:** -36.7%  
+**1y:** -17.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-5h ago
+6h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-32m ago
+47m ago
 
 ---
 
@@ -130,7 +130,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -138,7 +138,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 15h ago
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 16h ago
 
 ---
 
@@ -162,7 +162,7 @@ Barron's • 1d ago
 
 Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
 
-Finance Magnates • 16h ago
+Finance Magnates • 17h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 2d ago
 
 Ethereum co-founder Vitalik Buterin says the network must become easier to understand if it wants to fully live up to its promise of trustlessness, a challenge he argues extends across much of the blockchain industry. Key Takeaways: Vitalik Buterin says Ethereum’s trustlessness depends not just on decentralization, but on how ...
 
-Yahoo Finance • 47m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 47m ago
 
 Is Ethereum really on the path to a price of $62,000 next year?
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Motley Fool • 19h ago
 
 Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
 
-Investing.com • 21h ago
+Investing.com • 22h ago
 
 ---
 
@@ -230,7 +230,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 8K • 👍 447 • 💬 195 • ⏱️ 33:33 • 14h ago
+👁️ 8K • 👍 447 • 💬 195 • ⏱️ 33:33 • 15h ago
 
 ---
 

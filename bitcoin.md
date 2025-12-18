@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T07:30:34.419417+00:00'
+updated: '2025-12-18T07:45:36.300948+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - social
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 07:30 UTC  
+**Last Updated:** December 18, 2025 at 07:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -109,7 +109,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -143,7 +143,7 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 Suppose you had enough Bitcoin to pay off the remainder of your mortgage. Would you do it?
 
-3h ago
+4h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 1h ago
 
 **[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -173,7 +173,7 @@ CCN.com • 17h ago
 
 **[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
 
-thestreet.com • 15h ago
+thestreet.com • 16h ago
 
 ---
 
@@ -195,13 +195,13 @@ Financial Times • 3d ago
 
 The world's top crypto has lost 30% of its value in the past couple of months.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
 **[Anthropic Taps Bitcoin Miner With Trump Family Ties For Data Centers](https://www.theinformation.com/briefings/anthropic-taps-bitcoin-miner-trump-family-ties-data-centers)**
 
-The Information • 10h ago
+The Information • 11h ago
 
 ---
 

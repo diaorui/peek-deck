@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T07:30:34.428615+00:00'
+updated: '2025-12-18T07:45:36.310220+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 07:30 UTC  
+**Last Updated:** December 18, 2025 at 07:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 **[Too many](https://www.reddit.com/r/robotics/comments/1ppkoel/too_many/)**
 
-14m ago
+29m ago
 
 ---
 
@@ -74,7 +74,7 @@ Canonical has now extended its ESM (Expanded Security Maintenance) for ROS cover
 
 I am currently pursuing MS in Robotics, I have a background in Mechanical Engineering and worked in composite manufacturing for a year. I have decent coding skills in Python, some research experience in computer vision. Moving forward I want to work in Autonomous Navigation for AUVs but I don’t know where do I start.
 
-8h ago
+9h ago
 
 ---
 
@@ -82,7 +82,7 @@ I am currently pursuing MS in Robotics, I have a background in Mechanical Engine
 
 PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day and he said he wanted to invent something with me. I said what kind of thing would you like to make and he said a robot that helps old people. So here we are! The plans have been drawn! Project Jake has come to life. Now I fully understand that a lot of people here are far more advanced than a dad and son project but I really want this to be a special little project for a bit of bonding time. We have decided to start with the head and was going to use an old CRT Monitor but I have come to the conclusion that this would be far too difficult / heavy to support. So I have come to the conclusion of using an old flat screen monitor and building a frame around the back of it. Was thinking of grabbing a cheap old pc to wire up into the body. And this is where I am up to at the moment. Any ideas, tips and resources would be greatly appreciated !!
 
-9h ago
+10h ago
 
 ---
 
@@ -98,7 +98,7 @@ I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but with
 
 I'm working on a project which aims at recreating the hand motion at the joint level while writing. I've used the SynGrasp hand model so far but I'm having a lot of trouble calculating the q(joint variables) values for each waypoint of the pre defined trajectory. If someone has worked on something similar do you mind giving a helping hand? I read the SynGrasp paper but it's genuinely confusing to animate the hand model for each waypoint. I'm only focusing on the kinematics of the motion.
 
-10h ago
+11h ago
 
 ---
 
@@ -106,7 +106,7 @@ I'm working on a project which aims at recreating the hand motion at the joint l
 
 An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
 
-13h ago
+14h ago
 
 ---
 
@@ -132,7 +132,7 @@ NASA (.gov) • 1d ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 19h ago
+CNN • 20h ago
 
 ---
 
@@ -164,7 +164,7 @@ TechCrunch • 17h ago
 
 NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -180,7 +180,7 @@ Seeking Alpha • 1d ago
 
 SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
 
-navalnews.com • 21h ago
+navalnews.com • 22h ago
 
 ---
 
