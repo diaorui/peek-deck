@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T20:45:44.154083+00:00'
+updated: '2025-12-18T20:56:51.833727+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 20:45 UTC  
+**Last Updated:** December 18, 2025 at 20:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -5.6%  
-**30d:** -6.6%  
-**90d:** -26.4%  
-**1y:** -12.7%  
+**24h:** -1.4%  
+**7d:** -6.1%  
+**30d:** -7.1%  
+**90d:** -26.8%  
+**1y:** -13.1%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 3h ago
 
 A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 11h ago
 
 A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 3K • 💬 198 • ⏱️ 19:03 • 20h ago
+👁️ 38K • 👍 3K • 💬 198 • ⏱️ 19:03 • 21h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin #Crypto #Finance Bitcoin faces one of its most critical moments yet. The
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 581 • 💬 102 • ⏱️ 41:16 • 5h ago
+👁️ 9K • 👍 581 • 💬 102 • ⏱️ 41:16 • 6h ago
 
 ---
 
@@ -391,7 +391,7 @@ BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available ev
 
 📺 Lark Davis
 
-👁️ 15K • 👍 743 • 💬 73 • ⏱️ 46:47 • 8h ago
+👁️ 15K • 👍 743 • 💬 73 • ⏱️ 46:47 • 9h ago
 
 ---
 

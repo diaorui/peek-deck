@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T20:45:44.164194+00:00'
+updated: '2025-12-18T20:56:51.841696+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 20:45 UTC  
+**Last Updated:** December 18, 2025 at 20:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Medical device manufacturing has always moved more cautiously than other industries. Strict validation, heavy documentation, and long requalification cycles mean many processes stay manual and unchanged for years. What’s starting to change is the technology. High-precision robots, adaptive gripping, and modern machine vision are making it possible to automate delicate, high-mix work while improving traceability and compliance instead of complicating it.
 
-🔗 [automate.org](https://www.automate.org/industry-insights/medical-device-manufacturing-automation) • 31m ago
+🔗 [automate.org](https://www.automate.org/industry-insights/medical-device-manufacturing-automation) • 42m ago
 
 ---
 
@@ -98,7 +98,7 @@ Medical device manufacturing has always moved more cautiously than other industr
 
 Multi-drone PX4/ArduPilot ROS2 control of quads and VTOLs, with YOLO, LiDAR, Dockerized Gym simulation, and JetPack deployment - JacopoPan/aerial-autonomy-stack
 
-🔗 [GitHub](https://github.com/JacopoPan/aerial-autonomy-stack) • 35m ago
+🔗 [GitHub](https://github.com/JacopoPan/aerial-autonomy-stack) • 46m ago
 
 ---
 
@@ -178,7 +178,7 @@ navalnews.com • 1d ago
 
 **[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
 
-University of Michigan • 21h ago
+University of Michigan • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T20:45:44.145230+00:00'
+updated: '2025-12-18T20:56:51.826334+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 20:45 UTC  
+**Last Updated:** December 18, 2025 at 20:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ My question is about reliance on facial recognition software, and more generally
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 30m ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 41m ago
 
 ---
 
@@ -97,7 +97,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 After building RAG + multi-step agent systems, three lessons stood out: Good ingestion determines everything downstream. If extraction isn’t deterministic, nothing else is. Verification is non-negotiable. Without schema/citation checking, errors spread quickly. You need clear tool contracts. The agent can’t compensate for unknown input/output formats. If you’ve built retrieval or agent pipelines, what stability issues did you run into?
 
-59m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Deadline • 3h ago
 
 The SPEED Act now heads to the Senate, which is in the early stages of its own permitting reform talks.
 
-CNBC • 47m ago
+CNBC • 58m ago
 
 ---
 
@@ -153,7 +153,7 @@ Bloomberg.com • 1h ago
 
 **[How to Help Your Company’s AI Training Keep Pace With Your Employees’ Use of It](https://www.inc.com/kit-eaton/how-to-help-your-companys-ai-training-keep-pace-with-your-employees-use-of-it/91280210)**
 
-Inc.com • 2m ago
+Inc.com • 13m ago
 
 ---
 
@@ -305,7 +305,7 @@ sponsored Get started on Marblism: https://marblism.com/?via=artur Become an AI 
 
 📺 AI Master
 
-👁️ 258 • 👍 28 • 💬 1 • ⏱️ 13:05 • 2h ago
+👁️ 258 • 👍 28 • 💬 1 • ⏱️ 13:05 • 3h ago
 
 ---
 
@@ -403,7 +403,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 344 • 2h ago
+⬇️ 51,262 • ❤️ 344 • 3h ago
 
 ---
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.6k • 🔱 2.7k • 12h ago
+⭐ 17.6k • 🔱 2.7k • 13h ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.4k • 🔱 466 • 3h ago
+⭐ 4.4k • 🔱 467 • 3h ago
 
 ---
 
@@ -668,7 +668,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.8k • 🔱 127 • 1h ago
+⭐ 1.8k • 🔱 130 • 1h ago
 
 ---
 
@@ -708,7 +708,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 907 • 🔱 24 • 11d ago
+⭐ 908 • 🔱 24 • 11d ago
 
 ---
 
