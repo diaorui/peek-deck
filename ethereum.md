@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T08:36:49.737186+00:00'
+updated: '2025-12-18T08:58:48.752699+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 08:36 UTC  
+**Last Updated:** December 18, 2025 at 08:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** -7.6%  
-**30d:** -5.8%  
-**90d:** -36.4%  
-**1y:** -16.8%  
+**24h:** -3.1%  
+**7d:** -7.8%  
+**30d:** -6.1%  
+**90d:** -36.6%  
+**1y:** -17.0%  
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-6h ago
+7h ago
 
 ---
 
 **[Let a thousand societies bloom | Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/1ppc5lm/let_a_thousand_societies_bloom_vitalik_buterin/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 8h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 9h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-1h ago
+2h ago
 
 ---
 
@@ -124,13 +124,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am staking ETH for a long time using Zengo wallet. I always thought they have one of the highest staking rewards when you don't want to stake directly on chain or any other more complicated solution. But recently I tested Revolut ETH staking and results suprised me. I left the amounts staked on both platforms untouched for 28 days. Then I look at how much did I make by staking on both platforms, devided by 28, multiplied by 365 devided by the amount staked and I got Zengo: 2.46% ROI Revolut: 4.92% ROI That is a huge difference! I wasn't able to find a good source of information on the comparation of different staking providers. All the information and data just provide vague values that cannot be compared. Was my statistic samle just too small and doesn't actually show correct numbers or does Revolut staking really make 2 times bigger returns? What is the word on the street? Just to save some time. I know that Zengo and Revolut staking is different. I don't care about that right now, only focusing on pure invest > stake > earn. PS: I find it ridiculous (borderline illegal) that basically a financial institution (Zengo) offeres a service that makes it almost impossible to check what are the returns. The on chain data are completely obfuscated through their staking provider so there is no way how to see the periodic earnings. Only the overall sum of all your ernings is visible. Apart from making screenshots and calculating it yourself, you have no way to check how much you are actually earning over time.
 
-7h ago
+8h ago
 
 ---
 
 **[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -138,7 +138,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 16h ago
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 17h ago
 
 ---
 
@@ -162,7 +162,7 @@ Barron's • 1d ago
 
 Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
 
-Finance Magnates • 17h ago
+Finance Magnates • 18h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 2d ago
 
 Ethereum co-founder Vitalik Buterin says the network must become easier to understand if it wants to fully live up to its promise of trustlessness, a challenge he argues extends across much of the blockchain industry. Key Takeaways: Vitalik Buterin says Ethereum’s trustlessness depends not just on decentralization, but on how ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 1h ago
 
 Ethereum price shows early rebound signs, but key on-chain levels warn downside risk remains close, just 1% away from.
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 58m ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 36m ago
 
 Is Ethereum really on the path to a price of $62,000 next year?
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -300,7 +300,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 127 • 💬 2 • ⏱️ 4:45 • 16h ago
+👁️ 3K • 👍 127 • 💬 2 • ⏱️ 4:45 • 17h ago
 
 ---
 
@@ -320,7 +320,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 581 • 💬 132 • ⏱️ 12:21 • 2h ago
+👁️ 2K • 👍 581 • 💬 132 • ⏱️ 12:21 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T08:36:49.731192+00:00'
+updated: '2025-12-18T08:58:48.746625+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 08:36 UTC  
+**Last Updated:** December 18, 2025 at 08:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -3.6%  
-**30d:** -4.6%  
-**90d:** -24.9%  
-**1y:** -10.8%  
+**24h:** +0.7%  
+**7d:** -3.5%  
+**30d:** -4.5%  
+**90d:** -24.8%  
+**1y:** -10.7%  
 
 ---
 
@@ -95,7 +95,7 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-17h ago
+18h ago
 
 ---
 
@@ -109,7 +109,7 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -117,7 +117,7 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 Dca time!! Dont buy at 130k!
 
-12h ago
+13h ago
 
 ---
 
@@ -135,7 +135,7 @@ Dca time!! Dont buy at 130k!
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Dca time!! Dont buy at 130k!
 
 Suppose you had enough Bitcoin to pay off the remainder of your mortgage. Would you do it?
 
-4h ago
+5h ago
 
 ---
 
@@ -169,13 +169,13 @@ The Block • 2h ago
 
 Thinking about swapping Bitcoin for MARA Holdings after the recent sell-off? Here's what changed for miners and what matters most for investors now.
 
-Yahoo Finance • 43m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -187,7 +187,7 @@ thestreet.com • 17h ago
 
 **[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
 
-CCN.com • 18h ago
+CCN.com • 19h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Information • 12h ago
 
 **[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
 
-Investor's Business Daily • 17h ago
+Investor's Business Daily • 18h ago
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 144 • ⏱️ 19:03 • 8h ago
+👁️ 26K • 👍 2K • 💬 144 • ⏱️ 19:03 • 9h ago
 
 ---
 
@@ -337,7 +337,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 323 • 💬 96 • ⏱️ 9:12 • 13h ago
+👁️ 5K • 👍 323 • 💬 96 • ⏱️ 9:12 • 14h ago
 
 ---
 
