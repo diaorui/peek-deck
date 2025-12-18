@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T09:36:05.440261+00:00'
+updated: '2025-12-18T09:54:08.431014+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 09:36 UTC  
+**Last Updated:** December 18, 2025 at 09:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,7 +101,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -115,7 +115,7 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -123,7 +123,7 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 Dca time!! Dont buy at 130k!
 
-13h ago
+14h ago
 
 ---
 
@@ -141,7 +141,7 @@ Dca time!! Dont buy at 130k!
 
 **[I’m a ₿itcoin Pioneer! ⚡️](https://www.reddit.com/r/Bitcoin/comments/1ppi4ne/im_a_itcoin_pioneer/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 3h ago
 
 A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
 
-The Motley Fool • 41m ago
+The Motley Fool • 59m ago
 
 ---
 
@@ -183,19 +183,19 @@ The Motley Fool • 2h ago
 
 Thinking about swapping Bitcoin for MARA Holdings after the recent sell-off? Here's what changed for miners and what matters most for investors now.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
 
 ---
 
 **[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
 
-CCN.com • 19h ago
+CCN.com • 20h ago
 
 ---
 
@@ -267,7 +267,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
-⬆️ 1 • 💬 0 • 1d ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 2d ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -281,7 +281,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 144 • ⏱️ 19:03 • 9h ago
+👁️ 26K • 👍 2K • 💬 144 • ⏱️ 19:03 • 10h ago
 
 ---
 
