@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T11:26:33.950194+00:00'
+updated: '2025-12-18T11:43:02.378054+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 11:26 UTC  
+**Last Updated:** December 18, 2025 at 11:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 13h ago
+🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 14h ago
 
 ---
 
@@ -61,6 +61,12 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 ---
 
+**[I just met Qwen AI. ChatGPT, DeepSeek, Claude, Gemini, Perplexity, and Grok weigh in.](https://www.reddit.com/r/artificial/comments/1ppn2wt/i_just_met_qwen_ai_chatgpt_deepseek_claude_gemini/)**
+
+1h ago
+
+---
+
 **[Google releases Gemini 3 Flash, promising improved intelligence and efficiency | Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.](https://www.reddit.com/r/artificial/comments/1ppasjd/google_releases_gemini_3_flash_promising_improved/)**
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
@@ -73,7 +79,7 @@ Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 14h ago
+🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 15h ago
 
 ---
 
@@ -88,12 +94,6 @@ TL;DR: I think modern models are an incredible productivity aid to senior develo
 **[Writing prompts made me a better explainer](https://www.reddit.com/r/artificial/comments/1ppn7fz/writing_prompts_made_me_a_better_explainer/)**
 
 I think I noticed that, relying on llms might have reduced certain aspects of my intelligence. But forcing myself to explain to the jagged intelligence of LLM what I truly means seems to have also translated to better communicating my thoughts to other humans. Do you have a similar or perhaps opposite experience ?
-
-1h ago
-
----
-
-**[I just met Qwen AI. ChatGPT, DeepSeek, Claude, Gemini, Perplexity, and Grok weigh in.](https://www.reddit.com/r/artificial/comments/1ppn2wt/i_just_met_qwen_ai_chatgpt_deepseek_claude_gemini/)**
 
 1h ago
 
@@ -131,15 +131,29 @@ The Guardian • 2h ago
 
 Palantir CTO reveals how AI technology drives blue-collar productivity boom, creating jobs for factory workers and nurses rather than mass unemployment.
 
-Fox Business • 9h ago
+Fox Business • 10h ago
 
 ---
 
-**[Meta’s Yann LeCun targets €3bn valuation for new AI start-up](https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446)**
+**[Stocks close sharply lower as AI anxiety returns](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866)**
 
-Turing award winner is in early talks to raise €500mn ahead of January launch
+The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
 
-Financial Times • 1h ago
+NBC News • 11h ago
+
+---
+
+**[AI spending worries hit industrials, Trump takes aim at defense stocks](https://www.cnbc.com/2025/12/17/ai-spending-worries-hit-industrials-trump-takes-aim-at-defense-stocks.html)**
+
+Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
+
+CNBC • 16h ago
+
+---
+
+**[Why Oracle keeps sparking AI-bubble fears](https://www.axios.com/2025/12/18/ai-oracle-stock-blue-owl)**
+
+Axios • 36m ago
 
 ---
 
@@ -151,27 +165,11 @@ CNN • 1h ago
 
 ---
 
-**[Amazon says AI chief Rohit Prasad is leaving, Peter DeSantis to lead 'AGI' group](https://www.cnbc.com/2025/12/17/amazon-ai-chief-prasad-leaving-peter-desantis-agi-group.html)**
+**[Meta’s Yann LeCun targets €3bn valuation for new AI start-up](https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446)**
 
-Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving at the end of this year, the company confirmed.
+Turing award winner is in early talks to raise €500mn ahead of January launch
 
-CNBC • 17h ago
-
----
-
-**[Cramer slams Amazon for considering a circular AI deal reminiscent of the dotcom bubble](https://www.cnbc.com/2025/12/17/cramer-slams-amazon-for-considering-a-circular-ai-deal-reminiscent-of-the-dotcom-bubble.html)**
-
-"I really respect Amazon, and this shocks me that they're willing to put up with this," Jim Cramer said Wednesday.
-
-CNBC • 15h ago
-
----
-
-**[Amazon shakes up its AI leadership](https://fortune.com/2025/12/18/amazon-shakes-up-its-ai-leadership/)**
-
-Amazon’s new AI leader, Oracle’s stalled plans, Oscars on YouTube. Plus: Coursera, Meta, Micron, Netflix, OpenAI, Paramount, Udemy, Warner Bros.
-
-Fortune • 48m ago
+Financial Times • 2h ago
 
 ---
 
@@ -181,17 +179,17 @@ Reuters • 7h ago
 
 ---
 
-**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
+**[MetaX and Moore Threads' IPOs underscore Chinese chipmakers' growing challenge to Nvidia](https://www.cnbc.com/2025/12/17/metax-moore-threads-chinese-rivals-nvidia-ai-chips.html)**
 
-The New York Times • 15h ago
+New entrants like MetaX and Moore Threads join tech giants Huawei, Baidu and Alibaba in rushing to produce Nvidia alternatives.
+
+CNBC • 10h ago
 
 ---
 
-**[Gemini 3 Flash: frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)**
+**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
 
-Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.
-
-blog.google • 19h ago
+The New York Times • 15h ago
 
 ---
 
@@ -203,7 +201,7 @@ blog.google • 19h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 931 • 💬 478 • 18h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 940 • 💬 481 • 18h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -215,7 +213,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 806 • 💬 408 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 807 • 💬 408 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -223,7 +221,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 539 • 💬 309 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 540 • 💬 311 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -237,7 +235,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 260 • 💬 146 • 17h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 266 • 💬 146 • 17h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -245,7 +243,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 231 • 💬 170 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 232 • 💬 171 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -333,7 +331,7 @@ Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a te
 
 📺 Gianmarco Soresi
 
-👁️ 275K • 👍 14K • 💬 471 • ⏱️ 0:58 • 20h ago
+👁️ 275K • 👍 14K • 💬 471 • ⏱️ 0:58 • 21h ago
 
 ---
 
@@ -343,7 +341,7 @@ CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
 
 📺 CNBC Television
 
-👁️ 28K • 👍 221 • 💬 162 • ⏱️ 3:16 • 18h ago
+👁️ 28K • 👍 221 • 💬 162 • ⏱️ 3:16 • 19h ago
 
 ---
 
@@ -373,7 +371,7 @@ Get 10% off at Bellroy using my link: https://bit.ly/48B6ltZ AI has become a hot
 
 📺 YongYea
 
-👁️ 80K • 👍 4K • 💬 3K • ⏱️ 35:42 • 13h ago
+👁️ 80K • 👍 4K • 💬 3K • ⏱️ 35:42 • 14h ago
 
 ---
 
@@ -389,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 307,244 • ❤️ 2,928 • 9d ago
+⬇️ 307,244 • ❤️ 2,931 • 9d ago
 
 ---
 
@@ -401,7 +399,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 30,015 • ❤️ 325 • 14h ago
+⬇️ 30,015 • ❤️ 328 • 14h ago
 
 ---
 
@@ -413,7 +411,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 1,454 • ❤️ 257 • 8h ago
+⬇️ 1,454 • ❤️ 259 • 8h ago
 
 ---
 
@@ -425,7 +423,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 240 • 2d ago
+⬇️ 0 • ❤️ 244 • 2d ago
 
 ---
 
@@ -437,7 +435,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 171,608 • ❤️ 934 • 5d ago
+⬇️ 171,608 • ❤️ 935 • 5d ago
 
 ---
 
@@ -473,7 +471,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 182 • 1d ago
+⬇️ 0 • ❤️ 183 • 1d ago
 
 ---
 
@@ -654,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.4k • 🔱 462 • 40m ago
+⭐ 4.4k • 🔱 462 • 57m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T11:26:33.967970+00:00'
+updated: '2025-12-18T11:43:02.395950+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 11:26 UTC  
+**Last Updated:** December 18, 2025 at 11:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
-55m ago
+1h ago
 
 ---
 
@@ -59,6 +59,14 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
 
 1d ago
+
+---
+
+**[Demo of a robotic arm in simulation generating randomized grasp trajectories](https://www.reddit.com/r/robotics/comments/1ppom5w/demo_of_a_robotic_arm_in_simulation_generating/)**
+
+The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
+
+10m ago
 
 ---
 
@@ -78,19 +86,11 @@ On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM
 
 ---
 
-**[PROJECT: JAKE (Dad & Son project)](https://www.reddit.com/r/robotics/comments/1pp8vyl/project_jake_dad_son_project/)**
-
-PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day and he said he wanted to invent something with me. I said what kind of thing would you like to make and he said a robot that helps old people. So here we are! The plans have been drawn! Project Jake has come to life. Now I fully understand that a lot of people here are far more advanced than a dad and son project but I really want this to be a special little project for a bit of bonding time. We have decided to start with the head and was going to use an old CRT Monitor but I have come to the conclusion that this would be far too difficult / heavy to support. So I have come to the conclusion of using an old flat screen monitor and building a frame around the back of it. Was thinking of grabbing a cheap old pc to wire up into the body. And this is where I am up to at the moment. Any ideas, tips and resources would be greatly appreciated !!
-
-13h ago
-
----
-
 **[Getting into Underwater Robotics](https://www.reddit.com/r/robotics/comments/1ppag47/getting_into_underwater_robotics/)**
 
 I am currently pursuing MS in Robotics, I have a background in Mechanical Engineering and worked in composite manufacturing for a year. I have decent coding skills in Python, some research experience in computer vision. Moving forward I want to work in Autonomous Navigation for AUVs but I don’t know where do I start.
 
-12h ago
+13h ago
 
 ---
 
@@ -98,15 +98,15 @@ I am currently pursuing MS in Robotics, I have a background in Mechanical Engine
 
 I'm working on a project which aims at recreating the hand motion at the joint level while writing. I've used the SynGrasp hand model so far but I'm having a lot of trouble calculating the q(joint variables) values for each waypoint of the pre defined trajectory. If someone has worked on something similar do you mind giving a helping hand? I read the SynGrasp paper but it's genuinely confusing to animate the hand model for each waypoint. I'm only focusing on the kinematics of the motion.
 
-14h ago
+15h ago
 
 ---
 
-**[A single real-world data capture by robot arm](https://www.reddit.com/r/robotics/comments/1pp2vza/a_single_realworld_data_capture_by_robot_arm/)**
+**[PROJECT: JAKE (Dad & Son project)](https://www.reddit.com/r/robotics/comments/1pp8vyl/project_jake_dad_son_project/)**
 
-An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
+PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day and he said he wanted to invent something with me. I said what kind of thing would you like to make and he said a robot that helps old people. So here we are! The plans have been drawn! Project Jake has come to life. Now I fully understand that a lot of people here are far more advanced than a dad and son project but I really want this to be a special little project for a bit of bonding time. We have decided to start with the head and was going to use an old CRT Monitor but I have come to the conclusion that this would be far too difficult / heavy to support. So I have come to the conclusion of using an old flat screen monitor and building a frame around the back of it. Was thinking of grabbing a cheap old pc to wire up into the body. And this is where I am up to at the moment. Any ideas, tips and resources would be greatly appreciated !!
 
-17h ago
+14h ago
 
 ---
 
@@ -114,17 +114,17 @@ An robotic arm picks up a toy bear from a sofa and places it into a basket. The 
 
 ## Google News: "robotics"
 
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
 
-The New York Times • 1d ago
+Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
+
+TechCrunch • 21h ago
 
 ---
 
-**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
-
-NASA (.gov) • 1d ago
+The New York Times • 1d ago
 
 ---
 
@@ -132,7 +132,7 @@ NASA (.gov) • 1d ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
@@ -152,11 +152,11 @@ The Atlantic • 17h ago
 
 ---
 
-**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
+**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
 
-Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
+Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-TechCrunch • 21h ago
+NASA (.gov) • 1d ago
 
 ---
 

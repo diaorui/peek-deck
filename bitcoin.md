@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T11:26:33.958750+00:00'
+updated: '2025-12-18T11:43:02.386652+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 11:26 UTC  
+**Last Updated:** December 18, 2025 at 11:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,315.48
+### $87,161.54
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -3.2%  
+**24h:** +0.5%  
+**7d:** -3.3%  
 **30d:** -4.3%  
 **90d:** -24.6%  
 **1y:** -10.5%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1741.41B
+**Market Cap:** $1739.47B
 Rank #1
 
 **Circulating Supply:** 19,963,712 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-30.9%
 
 **All-Time Low:** $67.81
-+128553.6%
++128353.0%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart includes every on-chain transaction in that window. Each bar shows BTC spent by coin age band (UTXO age at spend). PnL is realized profit/loss vs the price when each UTXO was first created. The pie on the right shows total realized profit vs loss for the day. Key takeaways from today’s data: ~99.5% of all BTC spent came from coins younger than 1 year. A chunk of 1–1.5y coins realized losses, but the overwhelming majority of capitulation is from short-term holders / “tourists” dumping recent buys. Old coins (1.5y+) barely moved. Long-term HODLers are still largely sitting tight and stacking. The 180-1yr crowd growing recently is pointing to loss harvesting before 2026 to assist tax advantages. It represented about 30% of the selling at a loss by volume but was disproportionalty smaller in terms of actual loss relative to coins moved (this makes sense as coins held that long are not as much in a loss as the shorter term entrants since summer). This is a quick snapshot from my full-node dataset. I’ll post more breakdowns like this as I keep building out the tooling.
 
-10h ago
+11h ago
 
 ---
 
@@ -113,6 +113,20 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 ---
 
+**[Brazil’s largest bank suggests a 1–3% Bitcoin allocation as a portfolio hedge](https://www.reddit.com/r/Bitcoin/comments/1ppnrpf/brazils_largest_bank_suggests_a_13_bitcoin/)**
+
+Brazil’s largest private bank, Itaú Unibanco, recently suggested that investors consider allocating around 1%–3% of their portfolios to Bitcoin, framing it as a diversification and risk-management tool rather than a speculative position. According to Itaú Asset Management, the idea isn’t market timing or short-term performance, but long-term positioning. Bitcoin is viewed as a complementary asset that may help offset currency risk, especially after the Brazilian real reached record lows in late 2024. The recommendation also highlights regulated exposure through local products like BITI11, a Brazil-listed Bitcoin ETF, which allows investors to gain BTC exposure within a familiar regulatory framework. This seems to reflect a broader institutional trend where Bitcoin is increasingly discussed as a small but structured portfolio component, particularly in emerging markets. Curious how others here view this approach — is a 1%–3% Bitcoin allocation becoming a conservative baseline for institutional portfolios, or does it still feel premature?
+
+1h ago
+
+---
+
+**[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
+
+3h ago
+
+---
+
 **[Who’s buying the Dip](https://www.reddit.com/r/Bitcoin/comments/1pp68do/whos_buying_the_dip/)**
 
 Dca time!! Dont buy at 130k!
@@ -123,13 +137,7 @@ Dca time!! Dont buy at 130k!
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-18h ago
-
----
-
-**[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
-
-2h ago
+19h ago
 
 ---
 
@@ -139,53 +147,55 @@ Dca time!! Dont buy at 130k!
 
 ---
 
-**[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
-
-19h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin (BTC) Price News: All over the place ahead of U.S. inflation data. what next?](https://www.coindesk.com/markets/2025/12/18/bitcoin-is-all-over-the-place-ahead-of-u-s-inflation-data-gold-nears-record-high)**
+**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://finance.yahoo.com/news/bitcoin-silent-exodus-hits-crypto-204351695.html)**
 
-U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
+More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: its long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-CoinDesk • 4h ago
-
----
-
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdGEHZt2vknoIkO8zC5S3tF1oBaJvrueGsKxpzFtgzi5lJ_XpaxAnWf&gaa_ts=6943e1bf&gaa_sig=Q6bX3DJSLM3p1zwRdz6RHg9jQZ5zlKkV0iinnBRrE_L0V_L01omMNk0_d27CI4WAEvfopvLY2VYho7YBnmySLQ%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’](https://www.ccn.com/news/crypto/peter-schiff-bitcoin-drop-lower-50k-claims-saylor-doesnt-care/)**
-
-CCN.com • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqdEjigFmarRgLhL_NYPDZaj2uuP7CWGzpkWXd0wb0CKxZDMxD0TtZMx&gaa_ts=6943e1bf&gaa_sig=pJrI-VTJ7-tzNBWrm3sxgkOxgP1lfpRJayoQuASGBgpP2lSShm2WGluzJqwfyw9cSgQwpqUKLOakjyaZku0cDA%3D%3D)**
+**[Bitcoin Whales Buy Record $4.6B in a Week Despite Price Drop — Is a Final 2025 Rally Likely?](https://www.ccn.com/news/crypto/bitcoin-whales-4-6b-in-week-despite-price-drop-rally-ahead/)**
 
-Barron's • 1h ago
+CCN.com • 59m ago
 
 ---
 
-**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
+**[Bitcoin (BTC) Price News: All over the place ahead of U.S. inflation data. what next?](https://www.coindesk.com/markets/2025/12/18/bitcoin-is-all-over-the-place-ahead-of-u-s-inflation-data-gold-nears-record-high)**
 
-A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
 
-The Motley Fool • 2h ago
+CoinDesk • 5h ago
+
+---
+
+**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+
+thestreet.com • 20h ago
+
+---
+
+**[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
+
+The Block • 5h ago
+
+---
+
+**[Bhutan Pledges Up to 10,000 Bitcoin to Build New Mega-City](https://bitcoinmagazine.com/featured/bhutan-10000-bitcoin-to-build-mega-city)**
+
+Bhutan is pledging up to 10,000 bitcoin for its Gelephu Mindfulness City, that's nearly $1 billion at current prices.
+
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -197,21 +207,19 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
+**[Will Bitcoin Hit $200,000 in 2026?](https://www.fool.com/investing/2025/12/17/will-bitcoin-hit-200000-in-2026/)**
 
-The Block • 5h ago
+Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
 
----
-
-**[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
-
-CCN.com • 21h ago
+The Motley Fool • 17h ago
 
 ---
 
-**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+**[Crypto asset manager Bitwise says bitcoin will break its four-year cycle in 2026](https://www.coindesk.com/markets/2025/12/16/crypto-asset-manager-bitwise-says-bitcoin-will-break-its-four-year-cycle-in-2026)**
 
-thestreet.com • 19h ago
+Bitwise CIO Matt Hougan said BTC is likely to hit all-time highs next year, with lower volatility and weaker equity correlations reshaping how institutions view the asset.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -341,7 +349,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 39K • 👍 2K • 💬 216 • ⏱️ 48:48 • 19h ago
+👁️ 39K • 👍 2K • 💬 216 • ⏱️ 48:48 • 20h ago
 
 ---
 
