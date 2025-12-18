@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T03:39:05.945138+00:00'
+updated: '2025-12-18T04:19:50.149084+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 03:39 UTC  
+**Last Updated:** December 18, 2025 at 04:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,490.48
+### $86,887.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -4.2%  
-**30d:** -5.2%  
-**90d:** -25.3%  
-**1y:** -11.3%  
+**24h:** +0.1%  
+**7d:** -3.8%  
+**30d:** -4.8%  
+**90d:** -25.0%  
+**1y:** -11.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1723.68B
+**Market Cap:** $1731.82B
 Rank #1
 
-**Circulating Supply:** 19,963,575 BTC
+**Circulating Supply:** 19,963,584 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.5%
+-31.2%
 
 **All-Time Low:** $67.81
-+127242.6%
++127777.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,25 +87,19 @@ Rank #1
 
 Dca time!! Dont buy at 130k!
 
-7h ago
-
----
-
-**[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
-
-11h ago
+8h ago
 
 ---
 
 **[Bitcoin is king for a reason.](https://www.reddit.com/r/Bitcoin/comments/1pp1ysb/bitcoin_is_king_for_a_reason/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +107,7 @@ Dca time!! Dont buy at 130k!
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-12h ago
+13h ago
 
 ---
 
@@ -125,17 +119,15 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 ---
 
-**[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
+**[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
 
-16h ago
+12h ago
 
 ---
 
-**[It’s been two months… relaxxx](https://www.reddit.com/r/Bitcoin/comments/1pp7qp8/its_been_two_months_relaxxx/)**
+**[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-Everyone needs to chill and stack sats
-
-6h ago
+16h ago
 
 ---
 
@@ -143,7 +135,15 @@ Everyone needs to chill and stack sats
 
 Medium term holder 5+ years. I'm seeing so many posts with folks showing technical analysis and memes. Lots of panicky posts by new folks seeing price drops for the first time. Next, other posts of people worshipping QE and other monetary instruments that end up driving up asset prices and make cost of living brutal. This is my second bear market and here are my tips: 1) Treat Bitcoin like a long term, high volatility asset. If you DCA, give yourself 8-10 years. If you lump sum invest, your best bet is during bear cycles anytime between May to October. We are in a bear cycle now. 2) Is the 4 year cycle broken? It's irrelevant because your timeline should be long enough to see sustained gains unless there is a major recession. 3) Selling is normal and fiat does not suckkkkk. Yes, you heard that. You need money to eat, live, and buy things like homes, cars, tuition, and weddings. Bitcoin is an investment that helps. 4) Gold and diversified stocks matter as well. Bitcoin ideally should be 10% of a portfolio and that's also assuming you are comfortable with risk. 5) No leverage and no life savings. Don't do either. Nobody other than gamblers or insiders. 6) Stop worrying about what whales or insiders do. They have existed and will exist and will outleverage and outfinesse you in all scenarios as well.
 
-8h ago
+9h ago
+
+---
+
+**[It’s been two months… relaxxx](https://www.reddit.com/r/Bitcoin/comments/1pp7qp8/its_been_two_months_relaxxx/)**
+
+Everyone needs to chill and stack sats
+
+7h ago
 
 ---
 
@@ -151,15 +151,21 @@ Medium term holder 5+ years. I'm seeing so many posts with folks showing technic
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price (BTC) news: Major whipsaw on Wednesday sends price back below $88,000](https://www.coindesk.com/markets/2025/12/17/bitcoin-tumbles-back-below-usd88-000-as-gains-evaporate-as-quickly-as-they-formed)**
+**[Bitcoin price (BTC) analysis: Don't read too much into current action](https://www.coindesk.com/markets/2025/12/17/traders-mull-the-bottom-as-bitcoin-returns-to-week-s-lows-below-usd86-000)**
 
-It was a blink and you missed it rally as continued deflation in the AI trade sent the Nasdaq sharply lower, dragging crypto along with it.
+One analyst isn't quite ready to call a bottom, but says bitcoin is surely in an oversold condition.
 
-CoinDesk • 11h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqfa3llNAX-mgp8lOjCDrOtv4E2CXIFDQll-w0bgfbGt_rNzF3gsXhwn&gaa_ts=69437ac3&gaa_sig=7p-nMh5WHvR5fNvPzIcoRyo_m9oUFMW9LsKWVHR_LxCmfFkSvA5Ai3zC6d8Q69ppIUMrK4Gryr5GFN4KgO6KLA%3D%3D)**
+**[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+
+Investor's Business Daily • 6h ago
+
+---
+
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqclFSXOxHsixUncLRJCNZip43ifmoKeRyzKa1BiHoP_0oJ9uOg480Ni&gaa_ts=69438451&gaa_sig=TkYaIS1h_zoXWPEZ6FvCwDzzErF7fITyspemYQbkt_UX9cOn9pINRx881m6vNG-S0NzONGd1TcXO2xUc9fJN6g%3D%3D)**
 
 Barron's • 2d ago
 
@@ -173,37 +179,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
-
-Investor's Business Daily • 5h ago
-
----
-
-**[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
-
-CCN.com • 13h ago
-
----
-
 **[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
 Financial Times • 2d ago
-
----
-
-**[Will Bitcoin Hit $200,000 in 2026?](https://www.fool.com/investing/2025/12/17/will-bitcoin-hit-200000-in-2026/)**
-
-Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
-
-The Motley Fool • 9h ago
-
----
-
-**[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
-
-The Block • 16h ago
 
 ---
 
@@ -215,7 +195,29 @@ The Information • 7h ago
 
 **[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
+
+---
+
+**[CleanSpark (CLSK) Is Down 19.8% After Pivoting From Pure Bitcoin Mining Toward AI Data Infrastructure](https://finance.yahoo.com/news/cleanspark-clsk-down-19-8-181152083.html)**
+
+Earlier this month, CleanSpark reported unaudited October and November 2025 production of 587 and then 587 Bitcoins, respectively, with November output slipping 4% as Bitcoin miners faced pressure from renewed crackdowns in China and a weaker crypto market backdrop. At the same time, CleanSpark is trying to broaden its identity beyond Bitcoin mining by raising US$1.15 billion through zero‑coupon convertible notes to fund data center, power infrastructure, and AI-focused high-performance...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Should You Buy Bitcoin While It's Under $100,000?](https://www.fool.com/investing/2025/12/17/should-you-buy-bitcoin-while-its-under-100000/)**
+
+The world's top crypto has lost 30% of its value in the past couple of months.
+
+The Motley Fool • 15h ago
+
+---
+
+**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+
+thestreet.com • 12h ago
 
 ---
 
@@ -259,7 +261,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 6h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 7h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -287,7 +289,17 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 1K • 💬 92 • ⏱️ 19:03 • 3h ago
+👁️ 15K • 👍 2K • 💬 135 • ⏱️ 19:03 • 4h ago
+
+---
+
+**[Bitcoin Had Another Giant Fake Out](https://www.youtube.com/watch?v=B5qi8WX2SrE)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 10K • 👍 782 • 💬 202 • ⏱️ 8:31 • 3h ago
 
 ---
 
@@ -297,7 +309,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 17K • 👍 663 • 💬 207 • ⏱️ 8:33 • 12h ago
+👁️ 18K • 👍 665 • 💬 208 • ⏱️ 8:33 • 13h ago
 
 ---
 
@@ -307,17 +319,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 305 • 💬 92 • ⏱️ 9:12 • 8h ago
-
----
-
-**[What Michael Saylor Really Wants to Do With Bitcoin](https://www.youtube.com/watch?v=lEr_8unFln0)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 36K • 👍 2K • 💬 212 • ⏱️ 48:48 • 12h ago
+👁️ 5K • 👍 313 • 💬 95 • ⏱️ 9:12 • 9h ago
 
 ---
 
@@ -327,17 +329,17 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 278 • ⏱️ 9:01 • 1d ago
+👁️ 61K • 👍 3K • 💬 280 • ⏱️ 9:01 • 1d ago
 
 ---
 
-**[Bitcoin Dumps AGAIN. Mass Liquidations, ETF Outflows &amp; Trump](https://www.youtube.com/watch?v=aNYD1mbWik4)**
+**[What Michael Saylor Really Wants to Do With Bitcoin](https://www.youtube.com/watch?v=lEr_8unFln0)**
 
-Market dumps again and Bitcoin is going down. Here's part of the reason why... OPEN INTEREST ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Digital Asset News
+📺 CryptosRUs
 
-👁️ 5K • 👍 433 • 💬 61 • ⏱️ 29:38 • 6h ago
+👁️ 38K • 👍 2K • 💬 213 • ⏱️ 48:48 • 12h ago
 
 ---
 
@@ -347,17 +349,7 @@ BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/Cha
 
 📺 Chart Junkies
 
-👁️ 1K • 👍 98 • 💬 17 • ⏱️ 10:16 • 9h ago
-
----
-
-**[Jack Mallers - &quot;This Is the Bitcoin Drop I Tried to Prepare You For&quot;](https://www.youtube.com/watch?v=NR_XAKD4e58)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 7K • 👍 442 • 💬 16 • ⏱️ 21:23 • 10h ago
+👁️ 2K • 👍 100 • 💬 30 • ⏱️ 10:16 • 10h ago
 
 ---
 
@@ -367,17 +359,27 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 10K • 👍 753 • 💬 120 • ⏱️ 8:45 • 10h ago
+👁️ 11K • 👍 794 • 💬 115 • ⏱️ 8:45 • 11h ago
 
 ---
 
-**[(LIVE) DISGUSTING CRYPTO PUMP AND DUMP - WTF JUST HAPPENED?](https://www.youtube.com/watch?v=j-OzxgsybUY)**
+**[ALL IN! Crypto Investors Clear Message for 2026 [Max Bullish]](https://www.youtube.com/watch?v=q4y50ladu2w)**
 
-Welcome Back To The Channel! Sign Up on BTCC – Get Up to $20000 in Rewards & A 10% Deposit Bonus: ...
+Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly with some of the biggest crypto investors, ...
 
-📺 Tyler Hill Crypto
+📺 Crypto Banter
 
-👁️ 6K • 👍 278 • 💬 45 • ⏱️ 49:16 • 9h ago
+👁️ 21K • 👍 1K • 💬 57 • ⏱️ 48:33 • 14h ago
+
+---
+
+**[THIS BITCOIN CHART HAS NEVER BEEN WRONG!!!! - FED Is PRINTING Soon!? - BTC Analysis](https://www.youtube.com/watch?v=QGhj9lvewsM)**
+
+BLOFIN: https://partner.blofin.com/d/TeamUnderground $45000 BONUS & 7 Minute Bitcoin Leverage Trading Tutorial: ...
+
+📺 Team Underground
+
+👁️ 3K • 👍 145 • 💬 49 • ⏱️ 7:14 • 17h ago
 
 ---
 

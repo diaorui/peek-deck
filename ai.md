@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T03:39:05.936831+00:00'
+updated: '2025-12-18T04:19:50.140326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 03:39 UTC  
+**Last Updated:** December 18, 2025 at 04:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 5h ago
+🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 12h ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 13h ago
 
 ---
 
@@ -57,7 +57,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 8h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 9h ago
 
 ---
 
@@ -65,7 +65,7 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 4h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
-15h ago
+16h ago
 
 ---
 
@@ -85,11 +85,19 @@ School districts from Utah to Ohio to Alabama are spending thousands of dollars 
 
 ---
 
+**[The New Startup: No Code, No Problem | Now you don't need to know any programming to launch a company. We've been approaching this moment for years.](https://www.reddit.com/r/artificial/comments/1ppdinb/the_new_startup_no_code_no_problem_now_you_dont/)**
+
+Now you don't need to know any programming to launch a company. We've been approaching this moment for years.
+
+🔗 [WIRED](https://www.wired.com/story/new-startup-no-code-no-problem/) • 3h ago
+
+---
+
 **[Adding verification nodes made our agent system way more stable](https://www.reddit.com/r/artificial/comments/1pp6jii/adding_verification_nodes_made_our_agent_system/)**
 
 In our multi-step workflow where each step depended on the previous one’s output, problems we observed were silent errors: malformed JSON, missing fields, incorrect assumptions, etc. We added verification nodes between steps: check structure check schema check grounding retry or escalate if needed It turned the system from unpredictable to stable. It reminded me of how traditional systems use validation layers, but here the cost of skipping them compounds faster because each output becomes the next input. Anyone else tried adding checkpoints between AI-driven steps? What verification patterns worked for you?
 
-7h ago
+8h ago
 
 ---
 
@@ -97,15 +105,7 @@ In our multi-step workflow where each step depended on the previous one’s outp
 
 What happens when AI stops being a screen and starts interacting like a real person? In this video, we deployed Aexa's HoloConnect AI inside a crepe restaurant, where it interacted naturally with a real customer in real time. No scripts. No gimmicks. Just human-like conversation, vision, and voice, running in a real-world environment. This is not a chatbot. This is AI with presence. Aexa's HoloConnect AI can: • See and hear like a human • Respond in real time • Interact naturally with customers • Operate without goggles or headsets • Run online or offline This is the future of hospitality, healthcare, retail, and enterprise AI, and it’s happening now. If you’ve ever wondered what AI in the real world actually looks like, this is it. Step into the future as we explore an interactive `3d hologram` display. This `futuristic screen` presents information through a responsive `hologram`, allowing users to quickly access `nutrition` details and learn to `read food labels` with ease. Experience a new way to engage with essential dietary information.
 
-2h ago
-
----
-
-**[The New Startup: No Code, No Problem | Now you don't need to know any programming to launch a company. We've been approaching this moment for years.](https://www.reddit.com/r/artificial/comments/1ppdinb/the_new_startup_no_code_no_problem_now_you_dont/)**
-
-Now you don't need to know any programming to launch a company. We've been approaching this moment for years.
-
-🔗 [WIRED](https://www.wired.com/story/new-startup-no-code-no-problem/) • 2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Now you don't need to know any programming to launch a company. We've been appro
 
 "An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
 
-14h ago
+15h ago
 
 ---
 
@@ -129,19 +129,23 @@ Fox Business • 2h ago
 
 ---
 
-**[US tech stocks slide as Oracle data centre setback reignites AI concerns](https://www.ft.com/content/ce60f74f-ccc8-4bde-bbec-842041ecf8e7)**
+**[NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)**
 
-Software giant suffers renewed declines after backer Blue Owl pulls out of $10bn project
+NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-Financial Times • 10h ago
+National Oceanic and Atmospheric Administration (NOAA) (.gov) • 16h ago
 
 ---
 
-**[Stocks close sharply lower as AI anxiety returns](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866)**
+**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
 
-The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
+The New York Times • 8h ago
 
-NBC News • 3h ago
+---
+
+**[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
+
+Reuters • 12h ago
 
 ---
 
@@ -149,49 +153,45 @@ NBC News • 3h ago
 
 The tech-heavy Nasdaq Composite slipped 1.81%, dragged by losses in Oracle, Broadcom, Nvidia and other AI names.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[Exclusive: FTC probes Instacart's AI pricing tool, source says; shares drop](https://www.reuters.com/legal/litigation/ftc-investigating-instacarts-ai-pricing-tool-source-says-2025-12-17/)**
+**[The 2,000-year-old debate that reveals AI’s biggest problem](https://www.vox.com/future-perfect/472545/ai-alignment-superintelligence-meaning-agency-autonomy)**
 
-Reuters • 1h ago
+Silicon Valley is racing to build a god — without understanding what makes a good one.
 
----
-
-**[Instacart shares drop on report that FTC is probing company over AI pricing tool](https://www.cnbc.com/2025/12/17/instacart-sec-probe-pricing-tool.html)**
-
-The FTC sent a civil investigative demand to Instacart, Reuters reported, citing unnamed people.
-
-CNBC • 4h ago
+Vox • 16h ago
 
 ---
 
-**[Instacart’s AI-driven pricing tool attracted attention — now the FTC has questions](https://techcrunch.com/2025/12/17/instacarts-ai-driven-pricing-tool-attracted-attention-now-the-ftc-has-questions/)**
+**[Amazon says AI chief Rohit Prasad is leaving, Peter DeSantis to lead 'AGI' group](https://www.cnbc.com/2025/12/17/amazon-ai-chief-prasad-leaving-peter-desantis-agi-group.html)**
 
-In an economy where everyone's feeling squeezed, AI-driven price testing of kitchen essentials was bound to attract attention.
+Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving at the end of this year, the company confirmed.
 
-TechCrunch • 1h ago
-
----
-
-**[Weber County prosecutors hope AI can replicate Joyce Yost's voice in murder case](https://www.ksl.com/article/51420255/weber-county-prosecutors-hope-ai-can-replicate-joyce-yosts-voice-in-murder-case)**
-
-Weber County prosecutors want to tap artificial intelligence to replicate the voice of Joyce Yost in the upcoming sentencing hearings of her killer, Douglas Lovell.
-
-KSL News • 1h ago
+CNBC • 10h ago
 
 ---
 
-**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
+**[Amazon AI chief Rohit Prasad leaving; Infrastructure exec Peter DeSantis to lead unified AI group](https://www.geekwire.com/2025/amazon-ai-chief-rohit-prasad-leaving-infrastructure-exec-peter-desantis-to-lead-unified-ai-group/)**
 
-The New York Times • 7h ago
+GeekWire • 10h ago
 
 ---
 
-**[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
+**[Amazon Names New AI Chief Amid Battle to Take on Tech Rivals](https://finance.yahoo.com/news/amazon-names-ai-chief-amid-183011392.html)**
 
-Reuters • 12h ago
+Peter DeSantis will lead the new group, Amazon Chief Executive Officer Andy Jassy said Wednesday in a message to employees, which was also posted on the company’s corporate blog.  The new organization will combine Amazon’s Artificial General Intelligence team — which oversees the company’s Nova-branded AI models and the digital brains of the Alexa voice assistant — with Amazon’s chipmaking unit and quantum computing research.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Simple tricks to spot AI-generated videos in your social media feed](https://www.npr.org/2025/12/17/nx-s1-5640108/spotting-ai-in-your-feeds)**
+
+Jeremy Carrasco makes videos under the handle @showtoolsai on TikTok, advocating for AI video literacy and pointing out tells you can look for to see if the videos on your feed are AI generated.
+
+NPR • 6h ago
 
 ---
 
@@ -205,17 +205,17 @@ Reuters • 12h ago
 
 ---
 
-**[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
-
-⬆️ 796 • 💬 406 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
-
----
-
 **[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://news.ycombinator.com/item?id=46302267)**
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 789 • 💬 433 • 10h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 806 • 💬 441 • 11h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+
+---
+
+**[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
+
+⬆️ 798 • 💬 407 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -233,19 +233,19 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 ---
 
-**[AI's real superpower: consuming, not creating](https://news.ycombinator.com/item?id=46299552)**
-
-Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
-
-⬆️ 219 • 💬 161 • 19h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
-
----
-
 **[A16z-backed Doublespeed hacked, revealing what its AI-generated accounts promote](https://news.ycombinator.com/item?id=46303291)**
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 216 • 💬 122 • 9h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 223 • 💬 123 • 10h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+
+---
+
+**[AI's real superpower: consuming, not creating](https://news.ycombinator.com/item?id=46299552)**
+
+Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
+
+⬆️ 221 • 💬 162 • 19h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -269,7 +269,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 That's one way to get some publicity with Reddit.
 
-⬆️ 124 • 💬 136 • 10h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
+⬆️ 125 • 💬 136 • 11h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
 
 ---
 
@@ -283,37 +283,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 21K • 👍 702 • 💬 38 • ⏱️ 11:44 • 21h ago
-
----
-
-**[Best Open-Source 3D AI From Microsoft? - Trellis.2](https://www.youtube.com/watch?v=OX2P23W7TAA)**
-
-Microsoft has released Trellis 2.0, a powerful new open-source AI model that generates high-fidelity 3D assets from images and ...
-
-📺 Stefan 3D AI Lab
-
-👁️ 6K • 👍 392 • 💬 57 • ⏱️ 9:45 • 13h ago
-
----
-
-**[Bessent delivers urgent message to American workers: ‘Become an AI native’](https://www.youtube.com/watch?v=ni6hJXyJA0M)**
-
-U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the record tax refunds coming to Americans, detail the ...
-
-📺 Fox Business
-
-👁️ 202K • 👍 4K • 💬 1K • ⏱️ 14:37 • 1d ago
-
----
-
-**[OpenAI is &quot;Is Hiding the Truth&quot;](https://www.youtube.com/watch?v=NhMq52kqjC4)**
-
-Check out Glue: https://bit.ly/4pOsxI2 Free 30 day trial. Work gets done where you talk… with Glue. OpenAI Researcher Quits.
-
-📺 Wes Roth
-
-👁️ 48K • 👍 1K • 💬 491 • ⏱️ 23:58 • 17h ago
+👁️ 22K • 👍 759 • 💬 38 • ⏱️ 11:44 • 22h ago
 
 ---
 
@@ -323,7 +293,17 @@ O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratig
 
 📺 MS NOW
 
-👁️ 19K • 👍 451 • 💬 330 • ⏱️ 14:44 • 13h ago
+👁️ 20K • 👍 462 • 💬 336 • ⏱️ 14:44 • 14h ago
+
+---
+
+**[Bessent delivers urgent message to American workers: ‘Become an AI native’](https://www.youtube.com/watch?v=ni6hJXyJA0M)**
+
+U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the record tax refunds coming to Americans, detail the ...
+
+📺 Fox Business
+
+👁️ 208K • 👍 4K • 💬 1K • ⏱️ 14:37 • 1d ago
 
 ---
 
@@ -333,17 +313,27 @@ A landowner turned down $8M from an AI company.
 
 📺 NowThis Impact
 
-👁️ 594K • 👍 19K • 💬 2K • ⏱️ 0:55 • 1d ago
+👁️ 618K • 👍 19K • 💬 2K • ⏱️ 0:55 • 1d ago
 
 ---
 
-**[I was using Google AI Studio wrong. It’s actually incredible](https://www.youtube.com/watch?v=EW5FidKUvkE)**
+**[OpenAI is &quot;Is Hiding the Truth&quot;](https://www.youtube.com/watch?v=NhMq52kqjC4)**
 
-Google AI Studio is SICK. Here's my workflow for getting WAY better at building apps. Join the Vibe Coding Academy waitlist: ...
+Check out Glue: https://bit.ly/4pOsxI2 Free 30 day trial. Work gets done where you talk… with Glue. OpenAI Researcher Quits.
 
-📺 Alex Finn
+📺 Wes Roth
 
-👁️ 3K • 👍 169 • 💬 19 • ⏱️ 10:33 • 11h ago
+👁️ 49K • 👍 1K • 💬 505 • ⏱️ 23:58 • 18h ago
+
+---
+
+**[Google unveils &#39;Gemini 3 Flash&#39; AI model focused on speed and cost](https://www.youtube.com/watch?v=vs-9qWK0D1Y)**
+
+CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
+
+📺 CNBC Television
+
+👁️ 23K • 👍 210 • 💬 160 • ⏱️ 3:16 • 11h ago
 
 ---
 
@@ -353,7 +343,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 64K • 👍 930 • 💬 137 • ⏱️ 11:23 • 2d ago
+👁️ 65K • 👍 936 • 💬 139 • ⏱️ 11:23 • 2d ago
 
 ---
 
@@ -363,7 +353,17 @@ New York has become one of the first states to take major action against decepti
 
 📺 PURE Girl
 
-👁️ 255K • 👍 2K • 💬 218 • ⏱️ 0:05 • 2d ago
+👁️ 256K • 👍 2K • 💬 218 • ⏱️ 0:05 • 2d ago
+
+---
+
+**[Manus Just Dropped Its Most Powerful AI Yet](https://www.youtube.com/watch?v=vXMrezKs8Hw)**
+
+Manus released version 1.6 with its most powerful agent yet, pushing tasks to finish end to end with less supervision and fewer ...
+
+📺 AI Revolution
+
+👁️ 16K • 👍 527 • 💬 47 • ⏱️ 9:33 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,877 • 9d ago
+⬇️ 296,552 • ❤️ 2,880 • 9d ago
 
 ---
 
@@ -401,7 +401,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 312 • 6h ago
+⬇️ 10,487 • ❤️ 314 • 7h ago
 
 ---
 
@@ -413,7 +413,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 158,614 • ❤️ 926 • 5d ago
+⬇️ 158,614 • ❤️ 928 • 5d ago
 
 ---
 
@@ -425,7 +425,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 51,591 • ❤️ 346 • 8d ago
+⬇️ 51,591 • ❤️ 347 • 8d ago
 
 ---
 
@@ -437,7 +437,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 246 • 23m ago
+⬇️ 0 • ❤️ 248 • 1h ago
 
 ---
 
@@ -449,7 +449,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 230 • 2d ago
+⬇️ 0 • ❤️ 231 • 2d ago
 
 ---
 
@@ -461,7 +461,7 @@ GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 230 • 21h ago
+⬇️ 0 • ❤️ 230 • 22h ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.2k • 🔱 450 • 11h ago
+⭐ 4.2k • 🔱 450 • 12h ago
 
 ---
 
@@ -695,7 +695,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 5h ago
+⭐ 1.1k • 🔱 138 • 6h ago
 
 ---
 
@@ -735,7 +735,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 776 • 🔱 115 • 12h ago
+⭐ 776 • 🔱 115 • 13h ago
 
 ---
 

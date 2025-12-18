@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T03:39:05.954417+00:00'
+updated: '2025-12-18T04:19:50.158526+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 03:39 UTC  
+**Last Updated:** December 18, 2025 at 04:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We spend a lot of time debating AGI and the "Left Shift" in software. But as this video proves, the "Physical Shift" is a much harder engineering problem. This is a perfect example of Moravec’s Paradox: High-level reasoning (coding, writing, math) requires surprisingly little computation. Low-level motor skills (walking, balance, not face-planting) require massive computational power. The Economic Reality Check: While our digital agents are getting smarter by the week, the "Core Economy"—construction, logistics, and elder care—is still bound by physics. We aren't just waiting for better software; we are waiting for better actuators, batteries, and sensor fusion. The Verdict: The "Terminator" future is on hold... at least until the next firmware update. For now, enjoy the bloopers. Robotics #AI #MoravecsParadox #FutureOfWork #Engineering Post link
 
-39m ago
+1h ago
 
 ---
 
@@ -44,7 +44,7 @@ We spend a lot of time debating AGI and the "Left Shift" in software. But as thi
 
 Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
 
-10h ago
+11h ago
 
 ---
 
@@ -60,7 +60,15 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM Just watched the Boston Dynamics tech talk on The Humanoid Mission in Manufacturing. One slide frames the roadmap as a gradual compression of layers, where classical perception, planning, manipulation, and control are absorbed into more unified end to end models. What stood out to me is that this suggests classical and optimization based control may be progressively replaced rather than simply augmented. Given that direction, is it still worth investing heavily in classical or optimization based control research for handling physics, contact, and stability underneath, or do people expect those responsibilities to eventually be fully learned by VLM or VLA style models? Curious how others here think about this tradeoff, especially in the context of balance and contact heavy manufacturing tasks.
 
-6h ago
+7h ago
+
+---
+
+**[Getting into Underwater Robotics](https://www.reddit.com/r/robotics/comments/1ppag47/getting_into_underwater_robotics/)**
+
+I am currently pursuing MS in Robotics, I have a background in Mechanical Engineering and worked in composite manufacturing for a year. I have decent coding skills in Python, some research experience in computer vision. Moving forward I want to work in Autonomous Navigation for AUVs but I don’t know where do I start.
+
+5h ago
 
 ---
 
@@ -80,19 +88,11 @@ I'm working on a project which aims at recreating the hand motion at the joint l
 
 ---
 
-**[Getting into Underwater Robotics](https://www.reddit.com/r/robotics/comments/1ppag47/getting_into_underwater_robotics/)**
-
-I am currently pursuing MS in Robotics, I have a background in Mechanical Engineering and worked in composite manufacturing for a year. I have decent coding skills in Python, some research experience in computer vision. Moving forward I want to work in Autonomous Navigation for AUVs but I don’t know where do I start.
-
-4h ago
-
----
-
 **[A single real-world data capture by robot arm](https://www.reddit.com/r/robotics/comments/1pp2vza/a_single_realworld_data_capture_by_robot_arm/)**
 
 An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
 
-9h ago
+10h ago
 
 ---
 
@@ -118,7 +118,7 @@ In principle I understand the implicit flexibility of DOF arms, but in practice 
 
 **[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Robot Report • 1d ago
 
 The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.&nbsp;&nbsp;
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Atlantic • 9h ago
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
-TechCrunch • 13h ago
+TechCrunch • 14h ago
 
 ---
 
@@ -166,7 +166,7 @@ TechCrunch • 13h ago
 
 NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -202,7 +202,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 64K • 👍 930 • 💬 137 • ⏱️ 11:23 • 2d ago
+👁️ 65K • 👍 936 • 💬 139 • ⏱️ 11:23 • 2d ago
 
 ---
 
@@ -212,15 +212,7 @@ Thanks to our LMG clips sponsors dbrand, Dell, and Secretlab. You can check them
 
 📺 LMG Clips
 
-👁️ 33K • 👍 1K • 💬 178 • ⏱️ 7:42 • 1d ago
-
----
-
-**[Live Reveal of the Humanoid Robot’s Internal System. #robotics #robot #humanoidrobot #airobot](https://www.youtube.com/watch?v=BsU4SFn-VNA)**
-
-📺 AI . Robot
-
-👁️ 113K • 👍 938 • 💬 6 • ⏱️ 0:11 • 14h ago
+👁️ 34K • 👍 1K • 💬 181 • ⏱️ 7:42 • 1d ago
 
 ---
 
@@ -230,7 +222,25 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 29K • 👍 716 • 💬 109 • ⏱️ 6:41 • 3d ago
+👁️ 29K • 👍 720 • 💬 115 • ⏱️ 6:41 • 3d ago
+
+---
+
+**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
+
+Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
+
+📺 Dr Ben Miles
+
+👁️ 20K • 👍 2K • 💬 47 • ⏱️ 1:38 • 1d ago
+
+---
+
+**[The Humanoid Robot’s CPU Was Stolen. #robotics #airobot #ai #robot #humanoidrobot](https://www.youtube.com/watch?v=iZ0BlhfU8Bg)**
+
+📺 AI . Robot
+
+👁️ 152K • 👍 1K • 💬 16 • ⏱️ 0:13 • 1d ago
 
 ---
 
@@ -238,7 +248,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 AI . Robot
 
-👁️ 463K • 👍 4K • 💬 42 • ⏱️ 0:21 • 3d ago
+👁️ 466K • 👍 4K • 💬 42 • ⏱️ 0:21 • 3d ago
 
 ---
 
@@ -248,27 +258,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 373K • 👍 12K • 💬 412 • ⏱️ 0:34 • 3d ago
-
----
-
-**[Advanced AI Robot Girl Picks Her Partner At Tech Expo](https://www.youtube.com/watch?v=jvYQUVBxqYk)**
-
-Would you let an AI robot girl choose you, or would you walk away? Be honest. DISCLAIMER: All visuals are AI-generated ...
-
-📺 SYN:THETIC_BLOOD
-
-👁️ 72K • 👍 1K • 💬 61 • ⏱️ 0:32 • 1d ago
-
----
-
-**[Ultimate ARTHUR is no joke! War Robots Triple Cataclysm Gameplay](https://www.youtube.com/watch?v=cOcaCh9ReN0)**
-
-War Robots Gameplay: Ultimate ARTHUR with 3x Cataclysm - No Joke! #warrobots #warrobotsgameplay #wr My Best-Of-War ...
-
-📺 Manni-Gaming
-
-👁️ 5K • 👍 319 • 💬 46 • ⏱️ 9:57 • 12h ago
+👁️ 376K • 👍 13K • 💬 414 • ⏱️ 0:34 • 3d ago
 
 ---
 
@@ -278,17 +268,27 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 
 📺 RICHLEV
 
-👁️ 181K • 👍 4K • 💬 1K • ⏱️ 17:05 • 3d ago
+👁️ 183K • 👍 4K • 💬 1K • ⏱️ 17:05 • 3d ago
 
 ---
 
-**[A soldier built a robotic goat for his grandmother #ai #army #save #robot #shorts](https://www.youtube.com/watch?v=9JVdqSwGgiM)**
+**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
 
-A soldier built a robotic goat for his grandmother #ai #army #save #robot #shorts #aesthetic #akshaykhanna #effect #aivideo.
+We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
 
-📺 Ayan Bites
+📺 CNET
 
-👁️ 27K • 👍 171 • ⏱️ 0:29 • 22h ago
+👁️ 32K • 👍 311 • 💬 30 • ⏱️ 1:05 • 2d ago
+
+---
+
+**[Maintenance Surprise: Humanoid Robot Dances After Exam! #CyborgTech](https://www.youtube.com/watch?v=F3HnmXXxbSo)**
+
+Witness an unexpected moment in robotics! A skilled technician completes a routine exam on a stunning female humanoid robot, ...
+
+📺 Ai Gen Leap
+
+👁️ 15K • 👍 78 • 💬 1 • ⏱️ 0:12 • 18h ago
 
 ---
 

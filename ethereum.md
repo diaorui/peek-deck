@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T03:39:05.951169+00:00'
+updated: '2025-12-18T04:19:50.155231+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 03:39 UTC  
+**Last Updated:** December 18, 2025 at 04:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,35 +42,43 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** -8.4%  
-**30d:** -6.6%  
-**90d:** -37.0%  
-**1y:** -17.5%  
+**24h:** -2.9%  
+**7d:** -8.0%  
+**30d:** -6.2%  
+**90d:** -36.7%  
+**1y:** -17.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $340.93B
+**Market Cap:** $342.43B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.9%
+-42.7%
 
 **All-Time Low:** $0.43
-+652095.6%
++654176.5%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Is Tornado Cash still the best mixer?](https://www.reddit.com/r/ethereum/comments/1ppejqa/is_tornado_cash_still_the_best_mixer/)**
+
+Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
+
+2h ago
+
+---
+
 **[Let a thousand societies bloom | Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/1ppc5lm/let_a_thousand_societies_bloom_vitalik_buterin/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 3h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 4h ago
 
 ---
 
@@ -78,7 +86,7 @@ No max supply
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
-12h ago
+13h ago
 
 ---
 
@@ -86,21 +94,13 @@ What is the current situation with using crypto mixers in the the US, UK and EU?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
 **[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
 
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 12h ago
-
----
-
-**[Is Tornado Cash still the best mixer?](https://www.reddit.com/r/ethereum/comments/1ppejqa/is_tornado_cash_still_the_best_mixer/)**
-
-Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
-
-1h ago
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 13h ago
 
 ---
 
@@ -108,13 +108,13 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 I am staking ETH for a long time using Zengo wallet. I always thought they have one of the highest staking rewards when you don't want to stake directly on chain or any other more complicated solution. But recently I tested Revolut ETH staking and results suprised me. I left the amounts staked on both platforms untouched for 28 days. Then I look at how much did I make by staking on both platforms, devided by 28, multiplied by 365 devided by the amount staked and I got Zengo: 2.46% ROI Revolut: 4.92% ROI That is a huge difference! I wasn't able to find a good source of information on the comparation of different staking providers. All the information and data just provide vague values that cannot be compared. Was my statistic samle just too small and doesn't actually show correct numbers or does Revolut staking really make 2 times bigger returns? What is the word on the street? Just to save some time. I know that Zengo and Revolut staking is different. I don't care about that right now, only focusing on pure invest > stake > earn. PS: I find it ridiculous (borderline illegal) that basically a financial institution (Zengo) offeres a service that makes it almost impossible to check what are the returns. The on chain data are completely obfuscated through their staking provider so there is no way how to see the periodic earnings. Only the overall sum of all your ernings is visible. Apart from making screenshots and calculating it yourself, you have no way to check how much you are actually earning over time.
 
-2h ago
+3h ago
 
 ---
 
 **[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -128,7 +128,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[Help sending Blob transaction](https://www.reddit.com/r/ethereum/comments/1pp3efv/help_sending_blob_transaction/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -142,7 +142,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcBIN9fj37aJFjInyztDo1g_IkyB_q35UW7QkNeuiFv27vyST_tY4du&gaa_ts=69437ac5&gaa_sig=0tuje26Hg4tzwjG_gmbTtQZiNZLTcTcDr40LpquQ_sfMb6nw9zxhR2G1pftHOux6peYeIHGrp7EINOuzNtlJuA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcY1jyONvs-8dUMzzdsqhHwNt2S_f6Iwp5eezWGg4ybYVhQFpT-wKKb&gaa_ts=69438452&gaa_sig=-O65YKPH3LKJfiex72U1s-Kb7ib-VmVj7D-kYgIhs25Rh7W0xdrMlEWCw86ge6cCTrXoBCEodHD_FRa163_Org%3D%3D)**
 
 Barron's • 1d ago
 
@@ -168,14 +168,6 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Here's Why Ethereum Sank More than 4% Today](https://www.fool.com/investing/2025/12/17/heres-why-ethereum-sank-more-than-4-today/)**
-
-The world's second-largest cryptocurrency isn't feeling the love from investors today.
-
-The Motley Fool • 7h ago
-
----
-
 **[Tom Lee Predicts 10-15% Downside For Stocks In Early 2026: Here Is Why The Ethereum Bull Sees Crypto's 'Best Years' Ahead](https://finance.yahoo.com/news/tom-lee-predicts-10-15-193238141.html)**
 
 Wall Street analyst Tom Lee predicted on Monday a bearish first half for financial markets in 2026, but expects it to “come back in force” eventually. Lee Expects Market To ‘Come Back In Force’ In 2026 Lee, who chairs BitMine Immersion Technologies ...
@@ -184,9 +176,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Here's Why Ethereum Sank More than 4% Today](https://www.fool.com/investing/2025/12/17/heres-why-ethereum-sank-more-than-4-today/)**
+
+The world's second-largest cryptocurrency isn't feeling the love from investors today.
+
+The Motley Fool • 8h ago
+
+---
+
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -202,7 +202,7 @@ Investing.com • 18h ago
 
 Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
 
-ts2.tech • 6h ago
+ts2.tech • 7h ago
 
 ---
 
@@ -218,43 +218,23 @@ Yahoo Finance • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee Warning: “Here&#39;s Why We’re Set Up for a Strong Crypto Rally Into Year-End” [Prediction]](https://www.youtube.com/watch?v=MGJzxRGNalw)**
-
-Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bitcoin really break its own four year cycle? And if it ...
-
-📺 Crypto Nutshell
-
-👁️ 8K • 👍 264 • 💬 73 • ⏱️ 20:34 • 12h ago
-
----
-
 **[Why I’m Shorting $1M of ETH (Again)](https://www.youtube.com/watch?v=4lvRHZaCTR4)**
 
 Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bear thesis over the last few months, and why I ...
 
 📺 Taiki Maeda
 
-👁️ 7K • 👍 393 • 💬 185 • ⏱️ 33:33 • 11h ago
+👁️ 7K • 👍 418 • 💬 189 • ⏱️ 33:33 • 11h ago
 
 ---
 
-**[REALISTIC ETH Price Prediction for 2026](https://www.youtube.com/watch?v=M2T6_rjIvpA)**
+**[Tom Lee Warning: “Here&#39;s Why We’re Set Up for a Strong Crypto Rally Into Year-End” [Prediction]](https://www.youtube.com/watch?v=MGJzxRGNalw)**
 
-As we head into what I'm expecting to be a "Bottom Year" (or bear market year), it's time to look at realistic and reasonable targets ...
+Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bitcoin really break its own four year cycle? And if it ...
 
-📺 Aaron Dishner aka Moonin Papa
+📺 Crypto Nutshell
 
-👁️ 7K • 👍 343 • 💬 59 • ⏱️ 11:01 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=f7OwaX9MfAQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 120 • 💬 6 • ⏱️ 4:45 • 11h ago
+👁️ 9K • 👍 278 • 💬 69 • ⏱️ 20:34 • 13h ago
 
 ---
 
@@ -264,27 +244,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 449 • 👍 26 • 💬 72 • ⏱️ 11:07 • 9h ago
-
----
-
-**[Why Ethereum Is Doomed 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=-CqX5Vh_qTE)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Bearhard - Bitcoin Strategy
-
-👁️ 3K • 👍 183 • 💬 44 • ⏱️ 8:42 • 1d ago
-
----
-
-**[WHERE I WILL BUY ETH🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=tWtyJgE0xrU)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 679 • 👍 29 • 💬 1 • ⏱️ 5:36 • 17h ago
+👁️ 554 • 👍 30 • 💬 72 • ⏱️ 11:07 • 9h ago
 
 ---
 
@@ -294,7 +254,47 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 21K • 👍 3K • 💬 48 • ⏱️ 7:49 • 1d ago
+👁️ 21K • 👍 3K • 💬 46 • ⏱️ 7:49 • 1d ago
+
+---
+
+**[REALISTIC ETH Price Prediction for 2026](https://www.youtube.com/watch?v=M2T6_rjIvpA)**
+
+As we head into what I'm expecting to be a "Bottom Year" (or bear market year), it's time to look at realistic and reasonable targets ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 7K • 👍 346 • 💬 60 • ⏱️ 11:01 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=f7OwaX9MfAQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 120 • 💬 6 • ⏱️ 4:45 • 12h ago
+
+---
+
+**[Why Ethereum Is Doomed 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=-CqX5Vh_qTE)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Bearhard - Bitcoin Strategy
+
+👁️ 4K • 👍 183 • 💬 44 • ⏱️ 8:42 • 1d ago
+
+---
+
+**[WHERE I WILL BUY ETH🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=tWtyJgE0xrU)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 706 • 👍 29 • 💬 1 • ⏱️ 5:36 • 18h ago
 
 ---
 
@@ -308,13 +308,13 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 ---
 
-**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
+**[BLACKROCK IS OFFLOADING BITCOIN &amp; ETH - PREPARE FOR YEN HIKE](https://www.youtube.com/watch?v=qIaZJVZwkb4)**
 
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+Are blackrock clients removing risk from the table in preparation for the Japanese rate hike? We have 24 hours till the countdown ...
 
-📺 Crypto With James
+📺 Traders Reality
 
-👁️ 4K • 👍 254 • 💬 66 • ⏱️ 10:03 • 2d ago
+👁️ 7K • 👍 580 • 💬 22 • ⏱️ 32:42 • 13h ago
 
 ---
 
