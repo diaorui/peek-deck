@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T17:56:27.030755+00:00'
+updated: '2025-12-18T18:38:04.657454+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 17:56 UTC  
+**Last Updated:** December 18, 2025 at 18:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,461.64
+### $86,419.85
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.5%  
-**7d:** -4.4%  
-**30d:** -5.4%  
-**90d:** -25.4%  
-**1y:** -11.5%  
+**7d:** -4.1%  
+**30d:** -5.1%  
+**90d:** -25.2%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1717.52B
+**Market Cap:** $1726.39B
 Rank #1
 
-**Circulating Supply:** 19,963,815 BTC
+**Circulating Supply:** 19,963,843 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.6%
+-31.5%
 
 **All-Time Low:** $67.81
-+127084.8%
++127301.6%
 
 ---
 
@@ -77,9 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
+
+4h ago
+
+---
+
+**[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
+
+4h ago
+
+---
+
 **[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -89,15 +101,15 @@ Rank #1
 
 ---
 
-**[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
+**[Believe and Keep accumulating Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ppvfy2/believe_and_keep_accumulating_bitcoin/)**
 
-4h ago
+1h ago
 
 ---
 
-**[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
+**[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-3h ago
+1h ago
 
 ---
 
@@ -109,35 +121,23 @@ Bart Simpson incoming?
 
 ---
 
-**[Believe and Keep accumulating Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ppvfy2/believe_and_keep_accumulating_bitcoin/)**
-
-1h ago
-
----
-
 **[Currently going all in on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ppqvmv/currently_going_all_in_on_bitcoin/)**
 
 With these prices I don’t know if I’ll ever see them again. I was investing in other coins but at this time I just feel when Bitcoin rebounds I’ll be glad I bought it at these prices. So I’ve moved the dollar amount I’ve invested into all the coins each payday, to just Bitcoin purchases. I just feel I won’t be missing out if I don’t invest now in other coins. Where’s if I balance out my crypto purchases, I’ll be kicking myself for not buying more Bitcoin.
 
-4h ago
+5h ago
 
 ---
 
 **[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-21h ago
-
----
-
-**[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
-
-30m ago
+22h ago
 
 ---
 
@@ -149,13 +149,15 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
 
-Investor's Business Daily • 6h ago
+Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
+
+CoinDesk • 49m ago
 
 ---
 
@@ -163,15 +165,7 @@ Investor's Business Daily • 6h ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 29m ago
-
----
-
-**[Tax Court overturns CRA decision to deny bitcoin loss writeoff](https://ca.finance.yahoo.com/news/tax-court-overturns-cra-decision-164724535.html)**
-
-Jamie Golombek: Ruling allows taxpayer’s $505,142 bitcoin loss through defunct Quadriga exchange to be deducted against her income
-
-Yahoo! Finance Canada • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -183,12 +177,6 @@ The Motley Fool • 9h ago
 
 ---
 
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqd-M2knM59PE9YtS6BlW9p2k033FmMDy0kOULzlSnu5jM8ZC4BWWk4M&gaa_ts=6944407f&gaa_sig=3pYQtgTLYzYJ4aHif-or31ypxKtfWGYAif09LVO1L4qw4wnDnxOU8AZ7bwpKW1gfXOalubYiO6lgkQ5P5mkdKA%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
 **[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
 
 thestreet.com • 1d ago
@@ -197,7 +185,15 @@ thestreet.com • 1d ago
 
 **[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
 
-The Block • 11h ago
+The Block • 12h ago
+
+---
+
+**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
+
+US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -209,11 +205,19 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
+**[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
-US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
+Some locals on island of Nevis oppose libertarian project, calling it ‘state within a state’
 
-CryptoSlate • 1d ago
+Financial Times • 3d ago
+
+---
+
+**[Hut 8 shares jump as ex-bitcoin miner signs $7 billion AI data center lease](https://finance.yahoo.com/news/hut-8-shares-jump-ex-123347104.html)**
+
+Hut 8 has signed a deal valued at about $7 billion to lease a data center in ​Louisiana, it said on Wednesday, as former cryptocurrency miners pivot ‌to meet surging demand for artificial intelligence infrastructure.  The company will sign a 15-year lease agreement to develop a 245-megawatt data center in the River Bend campus.  The new deal involves partnerships with AI model developer Anthropic and infrastructure provider Fluidstack.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -233,7 +237,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 1h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 2h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -265,7 +269,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 20h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 21h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -287,7 +291,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 7h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 8h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -311,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 328 • ⏱️ 8:31 • 16h ago
+👁️ 26K • 👍 1K • 💬 328 • ⏱️ 8:31 • 17h ago
 
 ---
 
@@ -361,7 +365,7 @@ As Bitcoin enters a period of extreme fear, Kyledoops reveals the high-consequen
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 1K • 💬 29 • ⏱️ 46:50 • 9h ago
+👁️ 18K • 👍 1K • 💬 29 • ⏱️ 46:50 • 10h ago
 
 ---
 
@@ -381,7 +385,7 @@ Rustin talks about CBDC Ban Promise Broken: Bitcoin's Massive Bull Run Incoming!
 
 📺 Simply Bitcoin
 
-👁️ 1K • 👍 82 • ⏱️ 0:49 • 3h ago
+👁️ 1K • 👍 82 • ⏱️ 0:49 • 4h ago
 
 ---
 
@@ -391,7 +395,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 14K • 👍 981 • 💬 534 • ⏱️ 18:46 • 20h ago
+👁️ 14K • 👍 981 • 💬 534 • ⏱️ 18:46 • 21h ago
 
 ---
 

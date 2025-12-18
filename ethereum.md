@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T17:56:27.036764+00:00'
+updated: '2025-12-18T18:38:04.663518+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 17:56 UTC  
+**Last Updated:** December 18, 2025 at 18:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,835.37
+### $2,853.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
+**24h:** +0.4%  
 **7d:** -8.0%  
-**30d:** -6.2%  
+**30d:** -6.3%  
 **90d:** -36.7%  
-**1y:** -17.1%  
+**1y:** -17.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $341.30B
+**Market Cap:** $343.24B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.8%
+-42.6%
 
 **All-Time Low:** $0.43
-+653268.9%
++655583.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 I know many good crypto founders who are not good at marketing. And they think that "posting more on Twitter", "going to conferences" or "doing BD" is the only way to grow their product. Unfortunately they loose the attention battle with worse products that have better marketing. To change that, for the last month I’ve been working on a non-BS guide to crypto GTM. To anchor this in reality, I spoke with founders and early team members from Aave, ZORA, POAP, Snapshot, L2Beat, Zerion, SushiSwap and a few others. I wanted to understand what really got them growing early on. A couple things that might surprise those who are not growth nerds like me: Uniswap didn't just 'launch and win'. Hayden was talking about Uniswap at conferences, in DMs and in offices for almost a year before Devcon Prague. Tether got their biggest adoption spike (1,000X in 2 years) thanks to BD deals with CEXs. Aave took off when they added LINK as collateral and Chainlink as their oracle provider. They tapped into an existing, very vocal LINK Marines community that helped spread the word about Aave. Aside from these (and many other) examples, I share a longer playbook explaining how to do GTM for your crypto product, step by step. If you’re building on Ethereum and wondering why a solid product isn’t moving, this might give you a clearer mental model how to move forward. Link is here if you want to read it: https://kanfa.macbudkowski.com/crypto-gtm
 
-1h ago
+2h ago
 
 ---
 
@@ -102,13 +102,7 @@ I know many good crypto founders who are not good at marketing. And they think t
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-10h ago
-
----
-
-**[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
-
-6h ago
+11h ago
 
 ---
 
@@ -117,6 +111,12 @@ so i sent robinhood some coins and ever since then im receiving small amounts of
 I am staking ETH for a long time using Zengo wallet. I always thought they have one of the highest staking rewards when you don't want to stake directly on chain or any other more complicated solution. But recently I tested Revolut ETH staking and results suprised me. I left the amounts staked on both platforms untouched for 28 days. Then I look at how much did I make by staking on both platforms, devided by 28, multiplied by 365 devided by the amount staked and I got Zengo: 2.46% ROI Revolut: 4.92% ROI That is a huge difference! I wasn't able to find a good source of information on the comparation of different staking providers. All the information and data just provide vague values that cannot be compared. Was my statistic samle just too small and doesn't actually show correct numbers or does Revolut staking really make 2 times bigger returns? What is the word on the street? Just to save some time. I know that Zengo and Revolut staking is different. I don't care about that right now, only focusing on pure invest > stake > earn. PS: I find it ridiculous (borderline illegal) that basically a financial institution (Zengo) offeres a service that makes it almost impossible to check what are the returns. The on chain data are completely obfuscated through their staking provider so there is no way how to see the periodic earnings. Only the overall sum of all your ernings is visible. Apart from making screenshots and calculating it yourself, you have no way to check how much you are actually earning over time.
 
 17h ago
+
+---
+
+**[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
+
+7h ago
 
 ---
 
@@ -146,11 +146,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
+**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
 
-SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
 
-Decrypt • 4h ago
+Decrypt • 2h ago
 
 ---
 
@@ -160,25 +160,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdvunglEPkVWFO1elpm94W_oCl6AYscjSDvwxWZGpACRvzLx1RIPWN_&gaa_ts=69444081&gaa_sig=b4VcYkuhbNzfWlYmOoiX9hn6xnoJfpULhDik_rFH_179vcDxskfx0vjvYDWzuGPUdFuGrjzF1uRjEGumJ_1kJQ%3D%3D)**
+**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://finance.yahoo.com/news/sofi-unveils-ethereum-stablecoin-trading-130103326.html)**
 
-Barron's • 1d ago
+SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
----
-
-**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-fall-lowest-174706223.html)**
-
-Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
-
-Yahoo Finance • 3d ago
-
----
-
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
-
-Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
-
-Decrypt • 1h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -190,17 +176,25 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Insider Whale Down $60 Million as Ethereum's (ETH) Price Keeps Falling — Will He Capitulate?](https://www.ccn.com/analysis/crypto/whale-ethereum-price-down/)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdRXOmEydIBk3f0y-f4xss3MNRysaWXEJps21IZA3nofeRqdJxlnmcd&gaa_ts=69444cff&gaa_sig=YyKciEwhTM1Fv0OfHlPucvJ4AYM42sLILlpH47TMusO0sH2FcxWCljA3n2kj-kxcb3It8KRMtnugaJwkG0RjjQ%3D%3D)**
 
-CCN.com • 3h ago
+Barron's • 1d ago
 
 ---
 
-**[Bitcoin Vs. Ethereum Performance Divergence and What It Signals for Investors](https://www.investing.com/analysis/bitcoin-vs-ethereum-performance-divergence-and-what-it-signals-for-investors-200671953)**
+**[Why Crypto Is Going Down Today? Bitcoin, XRP Price, Ethereum and Dogecoin Moves Under Death Cross](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-bitcoin-xrp-price-ethereum-and-dogecoin-moves-under-death-cross/)**
 
-Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
+Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
 
-Investing.com • 1d ago
+Finance Magnates • 1d ago
+
+---
+
+**[XRP Is Launching on Ethereum and Solana—Here's Why (and How)](https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how)**
+
+The Ripple-linked XRP will soon be usable in DeFi on other major layer-1 networks like Solana and Ethereum. Here's how.
+
+Decrypt • 5d ago
 
 ---
 
@@ -212,11 +206,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
-Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
+CCN.com • 2d ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Ethereum Dip Pressures BitMine, but Tom Lee and Ark Keep Buying | US Crypto News](https://www.tradingview.com/news/beincrypto:96a5a4bd7094b:0-ethereum-dip-pressures-bitmine-but-tom-lee-and-ark-keep-buying-us-crypto-news/)**
+
+Welcome to the US Crypto News Morning Briefing—your essential rundown of the most important developments in crypto for the day ahead.Grab a coffee as BitMine’s bold Ethereum strategy is back in focus with market pressure building and investor nerves fraying. Losses are mounting, the stock is slidin…
+
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -230,7 +230,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 103 • 💬 2 • ⏱️ 7:17 • 4h ago
+👁️ 1K • 👍 103 • 💬 2 • ⏱️ 7:17 • 5h ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 110 • 💬 53 • ⏱️ 16:54 • 2h ago
+👁️ 1K • 👍 110 • 💬 53 • ⏱️ 16:54 • 3h ago
 
 ---
 
@@ -270,7 +270,7 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 245 • 👍 15 • 💬 43 • ⏱️ 14:11 • 2h ago
+👁️ 245 • 👍 15 • 💬 43 • ⏱️ 14:11 • 3h ago
 
 ---
 

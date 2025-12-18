@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T17:56:27.040010+00:00'
+updated: '2025-12-18T18:38:04.666742+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 17:56 UTC  
+**Last Updated:** December 18, 2025 at 18:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-6h ago
+7h ago
 
 ---
 
@@ -50,15 +50,7 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
-7h ago
-
----
-
-**[Digital Twin - Doubt](https://www.reddit.com/r/robotics/comments/1ppqbnl/digital_twin_doubt/)**
-
-Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
-
-4h ago
+8h ago
 
 ---
 
@@ -66,7 +58,15 @@ Hello, I have a doubt about digital twins. I need to develop a complete digital 
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-2h ago
+3h ago
+
+---
+
+**[Digital Twin - Doubt](https://www.reddit.com/r/robotics/comments/1ppqbnl/digital_twin_doubt/)**
+
+Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
+
+5h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 2h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 3h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi everyone, I am trying to model a closed loop feedback system for application 
 
 This is my latest research on underwater cognitive vehicles. So I need to make an simulation for it. I tried with many different simulation tools like webots like simulators but I didn't find any significant features in it for underwater vehicle.
 
-🔗 [arxiv.org](https://arxiv.org/pdf/2511.11845) • 1h ago
+🔗 [arxiv.org](https://arxiv.org/pdf/2511.11845) • 2h ago
 
 ---
 
@@ -122,11 +122,9 @@ TechCrunch • 1d ago
 
 ---
 
-**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
-
-NASA (.gov) • 1d ago
+The New York Times • 1d ago
 
 ---
 
@@ -154,9 +152,11 @@ The Atlantic • 1d ago
 
 ---
 
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
 
-The New York Times • 1d ago
+Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
+
+NASA (.gov) • 1d ago
 
 ---
 
@@ -165,12 +165,6 @@ The New York Times • 1d ago
 NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
 
 Yahoo Finance • 1d ago
-
----
-
-**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
-
-The Seattle Times • 1h ago
 
 ---
 
@@ -185,6 +179,12 @@ navalnews.com • 1d ago
 **[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
 
 University of Michigan • 19h ago
+
+---
+
+**[Humanoid Robots For War And Work: Startup Plans To Build 50,000 By End Of 2027](https://www.forbes.com/sites/johnkoetsier/2025/12/16/humanoid-robots-for-war-and-work-startup-plans-to-build-50000-by-end-of-2027/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ Thanks to our LMG clips sponsors dbrand, Dell, and Secretlab. You can check them
 
 📺 LMG Clips
 
-👁️ 36K • 👍 1K • 💬 190 • ⏱️ 7:42 • 1d ago
+👁️ 36K • 👍 1K • 💬 190 • ⏱️ 7:42 • 2d ago
 
 ---
 
