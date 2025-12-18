@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T21:22:15.658105+00:00'
+updated: '2025-12-18T21:37:05.097678+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 21:22 UTC  
+**Last Updated:** December 18, 2025 at 21:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 **[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdOBrQYOvMV0lUw8tzFLuMXZQYanaYa68kM2DhYos5kmxlpmfWKTAjk&gaa_ts=694473ee&gaa_sig=X-NWqjMBeD2IUT6oi_7aS4iGgJH4v3DHEH0FTUYlvMz8Mzpxm0i6nwotLUj1Bl_qgI_EktH3sv2bY-VTdln0ag%3D%3D)**
 
-The Wall Street Journal • 10h ago
+The Wall Street Journal • 11h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 10h ago
 
 YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
 
-Deadline • 3h ago
+Deadline • 4h ago
 
 ---
 
@@ -139,7 +139,7 @@ Deadline • 3h ago
 
 FOX Business host Charles Payne breaks down the state of the markets and discusses how the biggest movers are coming from within the artificial intelligence space on ‘Making Money.’
 
-Fox Business • 36m ago
+Fox Business • 51m ago
 
 ---
 
@@ -171,7 +171,7 @@ blog.google • 1d ago
 
 Incremental deepfake detection.
 
-The Verge • 50m ago
+The Verge • 1h ago
 
 ---
 
@@ -329,7 +329,7 @@ A landowner turned down $8M from an AI company.
 
 📺 NowThis Impact
 
-👁️ 647K • 👍 20K • 💬 2K • ⏱️ 0:55 • 1d ago
+👁️ 647K • 👍 20K • 💬 2K • ⏱️ 0:55 • 2d ago
 
 ---
 
@@ -369,7 +369,7 @@ A bride, a wedding dress… and a groom who lives on a smartphone This is the re
 
 📺 Fox Business
 
-👁️ 7K • 👍 174 • 💬 78 • ⏱️ 7:54 • 1d ago
+👁️ 7K • 👍 174 • 💬 78 • ⏱️ 7:54 • 2d ago
 
 ---
 
@@ -419,7 +419,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 303 • 4h ago
+⬇️ 0 • ❤️ 303 • 5h ago
 
 ---
 

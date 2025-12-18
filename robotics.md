@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T21:22:15.676239+00:00'
+updated: '2025-12-18T21:37:05.118717+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 21:22 UTC  
+**Last Updated:** December 18, 2025 at 21:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
-10h ago
+11h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hello, I have a doubt about digital twins. I need to develop a complete digital 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 5h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 6h ago
 
 ---
 

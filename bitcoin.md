@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T21:22:15.666864+00:00'
+updated: '2025-12-18T21:37:05.109604+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 21:22 UTC  
+**Last Updated:** December 18, 2025 at 21:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,202.19
+### $85,616.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -5.5%  
-**30d:** -6.4%  
-**90d:** -26.3%  
-**1y:** -12.5%  
+**24h:** -0.7%  
+**7d:** -5.3%  
+**30d:** -6.3%  
+**90d:** -26.2%  
+**1y:** -12.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -119,13 +119,13 @@ Bart Simpson incoming?
 
 **[This is crazy bro.](https://www.reddit.com/r/Bitcoin/comments/1pq2a0w/this_is_crazy_bro/)**
 
-13m ago
+28m ago
 
 ---
 
 **[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -133,7 +133,7 @@ Bart Simpson incoming?
 
 With these prices I don’t know if I’ll ever see them again. I was investing in other coins but at this time I just feel when Bitcoin rebounds I’ll be glad I bought it at these prices. So I’ve moved the dollar amount I’ve invested into all the coins each payday, to just Bitcoin purchases. I just feel I won’t be missing out if I don’t invest now in other coins. Where’s if I balance out my crypto purchases, I’ll be kicking myself for not buying more Bitcoin.
 
-7h ago
+8h ago
 
 ---
 
@@ -153,13 +153,13 @@ Anyone who’s been following my posts this week can see this shifting in real t
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
 **[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ Investor's Business Daily • 3h ago
 
 A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
 
-Bitcoin Magazine • 29m ago
+Bitcoin Magazine • 44m ago
 
 ---
 
@@ -175,7 +175,7 @@ Bitcoin Magazine • 29m ago
 
 The bitcoin price experienced two more aggressive dumps today, now trading near $84,500.
 
-Bitcoin Magazine • 38m ago
+Bitcoin Magazine • 52m ago
 
 ---
 
@@ -183,7 +183,7 @@ Bitcoin Magazine • 38m ago
 
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
