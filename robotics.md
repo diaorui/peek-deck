@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T05:13:36.208655+00:00'
+updated: '2025-12-18T05:41:47.484906+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 05:13 UTC  
+**Last Updated:** December 18, 2025 at 05:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ We spend a lot of time debating AGI and the "Left Shift" in software. But as thi
 
 Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
 
-20h ago
+21h ago
 
 ---
 
@@ -64,11 +64,19 @@ On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM
 
 ---
 
+**[Extending ROS Noetic Support with ESM-Enabled Content Snaps](https://www.reddit.com/r/robotics/comments/1ppi92n/extending_ros_noetic_support_with_esmenabled/)**
+
+Canonical has now extended its ESM (Expanded Security Maintenance) for ROS coverage to ROS Noetic content-sharing snaps. With ESM for ROS now available in both deb and snap formats, Ubuntu continues to be the trusted foundation for secure, long-term robotics innovation. […]
+
+🔗 [Ubuntu](https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps) • 46m ago
+
+---
+
 **[Getting into Underwater Robotics](https://www.reddit.com/r/robotics/comments/1ppag47/getting_into_underwater_robotics/)**
 
 I am currently pursuing MS in Robotics, I have a background in Mechanical Engineering and worked in composite manufacturing for a year. I have decent coding skills in Python, some research experience in computer vision. Moving forward I want to work in Autonomous Navigation for AUVs but I don’t know where do I start.
 
-6h ago
+7h ago
 
 ---
 
@@ -76,7 +84,7 @@ I am currently pursuing MS in Robotics, I have a background in Mechanical Engine
 
 PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day and he said he wanted to invent something with me. I said what kind of thing would you like to make and he said a robot that helps old people. So here we are! The plans have been drawn! Project Jake has come to life. Now I fully understand that a lot of people here are far more advanced than a dad and son project but I really want this to be a special little project for a bit of bonding time. We have decided to start with the head and was going to use an old CRT Monitor but I have come to the conclusion that this would be far too difficult / heavy to support. So I have come to the conclusion of using an old flat screen monitor and building a frame around the back of it. Was thinking of grabbing a cheap old pc to wire up into the body. And this is where I am up to at the moment. Any ideas, tips and resources would be greatly appreciated !!
 
-7h ago
+8h ago
 
 ---
 
@@ -84,15 +92,7 @@ PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day a
 
 I'm working on a project which aims at recreating the hand motion at the joint level while writing. I've used the SynGrasp hand model so far but I'm having a lot of trouble calculating the q(joint variables) values for each waypoint of the pre defined trajectory. If someone has worked on something similar do you mind giving a helping hand? I read the SynGrasp paper but it's genuinely confusing to animate the hand model for each waypoint. I'm only focusing on the kinematics of the motion.
 
-8h ago
-
----
-
-**[A single real-world data capture by robot arm](https://www.reddit.com/r/robotics/comments/1pp2vza/a_single_realworld_data_capture_by_robot_arm/)**
-
-An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
-
-11h ago
+9h ago
 
 ---
 
@@ -104,11 +104,11 @@ I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but with
 
 ---
 
-**[Concept of a robot worm driven by smooth waves that travel along a continuously deformable mesh](https://www.reddit.com/r/robotics/comments/1pnylnk/concept_of_a_robot_worm_driven_by_smooth_waves/)**
+**[A single real-world data capture by robot arm](https://www.reddit.com/r/robotics/comments/1pp2vza/a_single_realworld_data_capture_by_robot_arm/)**
 
-From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048405?s=20
+An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
 
-1d ago
+11h ago
 
 ---
 
@@ -134,13 +134,13 @@ NASA (.gov) • 1d ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 17h ago
+CNN • 18h ago
 
 ---
 
-**[Robotics industry reacts to iRobot’s bankruptcy](https://www.therobotreport.com/robotics-industry-reacts-to-irobot-bankruptcy/)**
+**[A look at iRobot’s 35-year robotics journey](https://www.therobotreport.com/a-look-at-irobot-35-year-robotics-journey/)**
 
-iRobot’s Chapter 11 bankruptcy has sparked intense reactions, with opinions on regulation, innovation, manufacturing, and global competition.
+From disaster zones, to oil spills, to the Great Pyramids of Giza, iRobot has taken its robot everywhere in its 35 years.
 
 The Robot Report • 1d ago
 
@@ -174,7 +174,7 @@ Yahoo Finance • 14h ago
 
 SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
 
-navalnews.com • 19h ago
+navalnews.com • 20h ago
 
 ---
 
@@ -186,9 +186,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[3 Underrated Robotics Stocks Poised for Huge Gains](https://www.marketbeat.com/stock-ideas/3-underrated-robotics-stocks-poised-for-huge-gains/)**
+**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
 
-MarketBeat • 2d ago
+The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
+
+The Motley Fool • 3d ago
 
 ---
 

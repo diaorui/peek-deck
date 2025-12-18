@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T05:13:36.205357+00:00'
+updated: '2025-12-18T05:41:47.481684+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 05:13 UTC  
+**Last Updated:** December 18, 2025 at 05:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** -8.2%  
-**30d:** -6.5%  
+**24h:** -3.7%  
+**7d:** -8.3%  
+**30d:** -6.6%  
 **90d:** -36.9%  
-**1y:** -17.4%  
+**1y:** -17.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $342.68B
+**Market Cap:** $340.94B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.6%
+-42.8%
 
 **All-Time Low:** $0.43
-+655225.1%
++652763.1%
 
 ---
 
@@ -122,7 +122,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 2025 is coming to an end and it's a good time to look back at what we've achieved this year.
 
-🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 13h ago
+🔗 [docs.sourcify.dev](https://docs.sourcify.dev/blog/recap-2025/) • 14h ago
 
 ---
 
@@ -142,7 +142,13 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdQ9zFMZftcMHeDBdbFzNaYIXht0SEcssejFBzQ7OoidvWUcBSMUN5A&gaa_ts=69438b91&gaa_sig=8yFkeQTqCdFWpsKJY7tLlIgJ__JD9rjlDcPQBpDQbnYPrIUo60DmOzZB9ut3grkmgX6FqnW04RVy-4CiXhOywA%3D%3D)**
+**[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
+
+The Block • 16h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe5jg16pwUmINerfAByrkZg4ODdqh7OIL8D3DpFf5ETB6a2bHI1U-3t&gaa_ts=69439788&gaa_sig=1q4kE7ofIZBgrX146MHg8C7bfS__qIVLa7rJSoYNIcAB7lxlyD9t17qZb7EKbt-5TfR-jFQZ6DuGfCX-qHADoA%3D%3D)**
 
 Barron's • 1d ago
 
@@ -161,6 +167,30 @@ Yahoo Finance • 2d ago
 Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
 
 Finance Magnates • 14h ago
+
+---
+
+**[Tom Lee Predicts 10-15% Downside For Stocks In Early 2026: Here Is Why The Ethereum Bull Sees Crypto's 'Best Years' Ahead](https://finance.yahoo.com/news/tom-lee-predicts-10-15-193238141.html)**
+
+Wall Street analyst Tom Lee predicted on Monday a bearish first half for financial markets in 2026, but expects it to “come back in force” eventually. Lee Expects Market To ‘Come Back In Force’ In 2026 Lee, who chairs BitMine Immersion Technologies ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Vs. Ethereum Performance Divergence and What It Signals for Investors](https://www.investing.com/analysis/bitcoin-vs-ethereum-performance-divergence-and-what-it-signals-for-investors-200671953)**
+
+Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
+
+Investing.com • 20h ago
+
+---
+
+**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
+
+Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
+
+ts2.tech • 8h ago
 
 ---
 
@@ -184,36 +214,6 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Tom Lee Predicts 10-15% Downside For Stocks In Early 2026: Here Is Why The Ethereum Bull Sees Crypto's 'Best Years' Ahead](https://finance.yahoo.com/news/tom-lee-predicts-10-15-193238141.html)**
-
-Wall Street analyst Tom Lee predicted on Monday a bearish first half for financial markets in 2026, but expects it to “come back in force” eventually. Lee Expects Market To ‘Come Back In Force’ In 2026 Lee, who chairs BitMine Immersion Technologies ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
-
-The Block • 16h ago
-
----
-
-**[Bitcoin Vs. Ethereum Performance Divergence and What It Signals for Investors](https://www.investing.com/analysis/bitcoin-vs-ethereum-performance-divergence-and-what-it-signals-for-investors-200671953)**
-
-Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
-
-Investing.com • 19h ago
-
----
-
-**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
-
-Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
-
-ts2.tech • 8h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -224,7 +224,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 7K • 👍 418 • 💬 189 • ⏱️ 33:33 • 12h ago
+👁️ 7K • 👍 418 • 💬 189 • ⏱️ 33:33 • 13h ago
 
 ---
 
@@ -234,7 +234,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 278 • 💬 69 • ⏱️ 20:34 • 13h ago
+👁️ 9K • 👍 278 • 💬 69 • ⏱️ 20:34 • 14h ago
 
 ---
 
@@ -244,7 +244,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 554 • 👍 30 • 💬 72 • ⏱️ 11:07 • 10h ago
+👁️ 554 • 👍 30 • 💬 72 • ⏱️ 11:07 • 11h ago
 
 ---
 

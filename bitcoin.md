@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T05:13:36.199267+00:00'
+updated: '2025-12-18T05:41:47.475686+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 05:13 UTC  
+**Last Updated:** December 18, 2025 at 05:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,33 +44,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
+**24h:** +0.1%  
 **7d:** -4.0%  
 **30d:** -5.0%  
-**90d:** -25.2%  
-**1y:** -11.2%  
+**90d:** -25.1%  
+**1y:** -11.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1733.18B
+**Market Cap:** $1726.96B
 Rank #1
 
-**Circulating Supply:** 19,963,584 BTC
+**Circulating Supply:** 19,963,603 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.2%
+-31.3%
 
 **All-Time Low:** $67.81
-+127901.8%
++127568.5%
 
 ---
 
 ## Fear & Greed Index
 
-### 16
+### 17
 **EXTREME FEAR**
 
 ---
@@ -91,9 +91,11 @@ Dca time!! Dont buy at 130k!
 
 ---
 
-**[Bitcoin is king for a reason.](https://www.reddit.com/r/Bitcoin/comments/1pp1ysb/bitcoin_is_king_for_a_reason/)**
+**[Today ~99.5% of BTC movement came from coins held less than 1 year](https://www.reddit.com/r/Bitcoin/comments/1ppcxg0/today_995_of_btc_movement_came_from_coins_held/)**
 
-12h ago
+Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart includes every on-chain transaction in that window. Each bar shows BTC spent by coin age band (UTXO age at spend). PnL is realized profit/loss vs the price when each UTXO was first created. The pie on the right shows total realized profit vs loss for the day. Key takeaways from today’s data: ~99.5% of all BTC spent came from coins younger than 1 year. A chunk of 1–1.5y coins realized losses, but the overwhelming majority of capitulation is from short-term holders / “tourists” dumping recent buys. Old coins (1.5y+) barely moved. Long-term HODLers are still largely sitting tight and stacking. The 180-1yr crowd growing recently is pointing to loss harvesting before 2026 to assist tax advantages. It represented about 30% of the selling at a loss by volume but was disproportionalty smaller in terms of actual loss relative to coins moved (this makes sense as coins held that long are not as much in a loss as the shorter term entrants since summer). This is a quick snapshot from my full-node dataset. I’ll post more breakdowns like this as I keep building out the tooling.
+
+5h ago
 
 ---
 
@@ -102,14 +104,6 @@ Dca time!! Dont buy at 130k!
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 14h ago
-
----
-
-**[Today ~99.5% of BTC movement came from coins held less than 1 year](https://www.reddit.com/r/Bitcoin/comments/1ppcxg0/today_995_of_btc_movement_came_from_coins_held/)**
-
-Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart includes every on-chain transaction in that window. Each bar shows BTC spent by coin age band (UTXO age at spend). PnL is realized profit/loss vs the price when each UTXO was first created. The pie on the right shows total realized profit vs loss for the day. Key takeaways from today’s data: ~99.5% of all BTC spent came from coins younger than 1 year. A chunk of 1–1.5y coins realized losses, but the overwhelming majority of capitulation is from short-term holders / “tourists” dumping recent buys. Old coins (1.5y+) barely moved. Long-term HODLers are still largely sitting tight and stacking. The 180-1yr crowd growing recently is pointing to loss harvesting before 2026 to assist tax advantages. It represented about 30% of the selling at a loss by volume but was disproportionalty smaller in terms of actual loss relative to coins moved (this makes sense as coins held that long are not as much in a loss as the shorter term entrants since summer). This is a quick snapshot from my full-node dataset. I’ll post more breakdowns like this as I keep building out the tooling.
-
-4h ago
 
 ---
 
@@ -127,7 +121,21 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 **[Yet so many people wont open their eyes.](https://www.reddit.com/r/Bitcoin/comments/1pou4l2/yet_so_many_people_wont_open_their_eyes/)**
 
-17h ago
+18h ago
+
+---
+
+**[Bitcoin rewards conviction](https://www.reddit.com/r/Bitcoin/comments/1pphcju/bitcoin_rewards_conviction/)**
+
+Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “just hodl,” and buy the dip, Fast forward, the same crowd are still coping while the price keeps proving one thing, and that is conviction, Bitcoin doesn’t move to reward perfect timing, it moves to reward patience, just keep believing in the process.
+
+1h ago
+
+---
+
+**[Bitcoin is king for a reason.](https://www.reddit.com/r/Bitcoin/comments/1pp1ysb/bitcoin_is_king_for_a_reason/)**
+
+12h ago
 
 ---
 
@@ -139,33 +147,25 @@ Medium term holder 5+ years. I'm seeing so many posts with folks showing technic
 
 ---
 
-**[It’s been two months… relaxxx](https://www.reddit.com/r/Bitcoin/comments/1pp7qp8/its_been_two_months_relaxxx/)**
-
-Everyone needs to chill and stack sats
-
-8h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin drifts lower as $81.3k emerges as the market’s key fault line: Asia Morning Briefing](https://www.coindesk.com/markets/2025/12/18/bitcoin-drifts-lower-as-usd81-3k-emerges-as-the-market-s-key-fault-line-asia-morning-briefing)**
+**[Bitcoin price (BTC) analysis: Don't read too much into current action](https://www.coindesk.com/markets/2025/12/17/traders-mull-the-bottom-as-bitcoin-returns-to-week-s-lows-below-usd86-000)**
 
-With large caps still tracking bitcoin and high-beta assets already weakened, Glassnode’s True Market Mean has become the line investors are watching most closely.
+One analyst isn't quite ready to call a bottom, but says bitcoin is surely in an oversold condition.
 
-CoinDesk • 2h ago
+CoinDesk • 10h ago
 
 ---
 
 **[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqeb8E8ATepKRkErqDMBuSGSUdXUMpNpCDAkz9zehLXOS1rnyUQYVkQF&gaa_ts=69438b90&gaa_sig=W8xb45-hzlj_ffI-gFst3NYeynqIMNghegP8LxjAt_HhIY-9C32YeywRSQC4tPZNTBjK2lzaCE2N1XgSDdaw9g%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqe3GM_03wq2BZgZmSMyw9yh9vZLnPtm6FB2hR7QyjZGS9oAyd8yyyLL&gaa_ts=69439787&gaa_sig=k4p_D8XnE4XbBVwO56HgVWCowdDbv9jyCcNvtsgvbzM5bY9y_5ncrax5Hjz00d-LAajSBmt1ne-LXZ7VutDzoA%3D%3D)**
 
 Barron's • 2d ago
 
@@ -185,6 +185,12 @@ CCN.com • 15h ago
 
 ---
 
+**[Sell-side pressure from long-term Bitcoin holders nears saturation: K33](https://www.theblock.co/post/382938/bitcoin-sell-side-pressure-long-term-holders-nears-saturation-k33)**
+
+The Block • 18h ago
+
+---
+
 **[Bitcoin investor plans Caribbean community — with its own court system](https://www.ft.com/content/cd171921-a0f5-49d9-a383-41a37e34dbb4)**
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
@@ -201,23 +207,15 @@ The Motley Fool • 16h ago
 
 ---
 
+**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+
+thestreet.com • 14h ago
+
+---
+
 **[Anthropic Taps Bitcoin Miner With Trump Family Ties For Data Centers](https://www.theinformation.com/briefings/anthropic-taps-bitcoin-miner-trump-family-ties-data-centers)**
 
-The Information • 8h ago
-
----
-
-**[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
-
-Investor's Business Daily • 14h ago
-
----
-
-**[CleanSpark (CLSK) Is Down 19.8% After Pivoting From Pure Bitcoin Mining Toward AI Data Infrastructure](https://finance.yahoo.com/news/cleanspark-clsk-down-19-8-181152083.html)**
-
-Earlier this month, CleanSpark reported unaudited October and November 2025 production of 587 and then 587 Bitcoins, respectively, with November output slipping 4% as Bitcoin miners faced pressure from renewed crackdowns in China and a weaker crypto market backdrop. At the same time, CleanSpark is trying to broaden its identity beyond Bitcoin mining by raising US$1.15 billion through zero‑coupon convertible notes to fund data center, power infrastructure, and AI-focused high-performance...
-
-Yahoo Finance • 1d ago
+The Information • 9h ago
 
 ---
 
@@ -309,7 +307,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 18K • 👍 665 • 💬 208 • ⏱️ 8:33 • 13h ago
+👁️ 18K • 👍 665 • 💬 208 • ⏱️ 8:33 • 14h ago
 
 ---
 
@@ -339,7 +337,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 38K • 👍 2K • 💬 213 • ⏱️ 48:48 • 13h ago
+👁️ 38K • 👍 2K • 💬 213 • ⏱️ 48:48 • 14h ago
 
 ---
 
@@ -349,7 +347,7 @@ BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/Cha
 
 📺 Chart Junkies
 
-👁️ 2K • 👍 100 • 💬 30 • ⏱️ 10:16 • 10h ago
+👁️ 2K • 👍 100 • 💬 30 • ⏱️ 10:16 • 11h ago
 
 ---
 
@@ -369,7 +367,7 @@ Ran takes you inside Solana Breakpoint Abu Dhabi 2025, where he speaks directly 
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 1K • 💬 57 • ⏱️ 48:33 • 14h ago
+👁️ 21K • 👍 1K • 💬 57 • ⏱️ 48:33 • 15h ago
 
 ---
 
@@ -379,7 +377,7 @@ BLOFIN: https://partner.blofin.com/d/TeamUnderground $45000 BONUS & 7 Minute Bit
 
 📺 Team Underground
 
-👁️ 3K • 👍 145 • 💬 49 • ⏱️ 7:14 • 17h ago
+👁️ 3K • 👍 145 • 💬 49 • ⏱️ 7:14 • 18h ago
 
 ---
 

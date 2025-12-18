@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T05:13:36.190648+00:00'
+updated: '2025-12-18T05:41:47.467310+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - videos
-- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 05:13 UTC  
+**Last Updated:** December 18, 2025 at 05:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 8h ago
+🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 9h ago
 
 ---
 
@@ -85,11 +85,11 @@ I am relatively new to this group and based on my limited interaction, feeling q
 
 ---
 
-**[Meet Aexa's HoloConnect AI, Real-Time Human-Like AI Interacting With Customers](https://www.reddit.com/r/artificial/comments/1ppdntt/meet_aexas_holoconnect_ai_realtime_humanlike_ai/)**
+**[Tencent Announces 'HY-World 1.5': An Open-Source Fully Playable, Real-Time AI World Generator (24 Fps) | "HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment."](https://www.reddit.com/r/artificial/comments/1ppie35/tencent_announces_hyworld_15_an_opensource_fully/)**
 
-What happens when AI stops being a screen and starts interacting like a real person? In this video, we deployed Aexa's HoloConnect AI inside a crepe restaurant, where it interacted naturally with a real customer in real time. No scripts. No gimmicks. Just human-like conversation, vision, and voice, running in a real-world environment. This is not a chatbot. This is AI with presence. Aexa's HoloConnect AI can: • See and hear like a human • Respond in real time • Interact naturally with customers • Operate without goggles or headsets • Run online or offline This is the future of hospitality, healthcare, retail, and enterprise AI, and it’s happening now. If you’ve ever wondered what AI in the real world actually looks like, this is it. Step into the future as we explore an interactive `3d hologram` display. This `futuristic screen` presents information through a responsive `hologram`, allowing users to quickly access `nutrition` details and learn to `read food labels` with ease. Experience a new way to engage with essential dietary information.
+HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment. Tl;DR: HY-World 1.5 is an AI system that generates interactive 3D video environments in real-time, allowing users to explore virtual worlds at 24 frames per second. The model shows strong generalization across diverse scenes, supporting first-person and third-person perspectives in both real-world and stylized environments, enabling versatile applications such as 3D reconstruction, promptable events, and infinite world extension. Abstract: While HunyuanWorld 1.0 is capable of generating immersive and traversable 3D worlds, it relies on a lengthy offline generation process and lacks real-time interaction. HY-World 1.5 bridges this gap with WorldPlay, a streaming video diffusion model that enables real-time, interactive world modeling with long-term geometric consistency, resolving the trade-off between speed and memory that limits current methods. Our model draws power from four key designs: - (1) We use a Dual Action Representation to enable robust action control in response to the user's keyboard and mouse inputs. - (2) To enforce long-term consistency, our Reconstituted Context Memory dynamically rebuilds context from past frames and uses temporal reframing to keep geometrically important but long-past frames accessible, effectively alleviating memory attenuation. - (3) We design WorldCompass, a novel Reinforcement Learning (RL) post-training framework designed to directly improve the action-following and visual quality of the long-horizon, autoregressive video model. - (4) We also propose Context Forcing, a novel distillation method designed for memory-aware models. Aligning memory context between the teacher and student preserves the student's capacity to use long-range information, enabling real-time speeds while preventing error drift. Taken together, HY-World 1.5 generates long-horizon streaming video at 24 FPS with superior consistency, comparing favorably with existing techniques. Layman's Explanation: The main breakthrough is solving a common issue where fast AI models tend to "forget" details, causing scenery to glitch or shift when a user returns to a previously visited location. To fix this, the system uses a dual control scheme that translates simple keyboard inputs into precise camera coordinates, ensuring the model tracks exactly where the user is located. It relies on a "Reconstituted Context Memory" that actively retrieves important images from the past and processes them as if they were recent, preventing the environment from fading or distorting over time. The system is further refined through a reward-based learning process called WorldCompass that corrects errors in visual quality or movement, effectively teaching the AI to follow user commands more strictly. Finally, a technique called Context Forcing trains a faster, efficient version of the model to mimic a slower, highly accurate "teacher" model, allowing the system to run smoothly without losing track of the environment's history. Link To Try Out HY-World 1.5: https://3d.hunyuan.tencent.com/sceneTo3D Link to the Huggingface: https://huggingface.co/tencent/HY-WorldPlay Link to the GitHub: https://github.com/Tencent-Hunyuan/HY-WorldPlay Link to the Technical Report: https://3d-models.hunyuan.tencent.com/world/world1_5/HYWorld_1.5_Tech_Report.pdf
 
-4h ago
+39m ago
 
 ---
 
@@ -109,11 +109,11 @@ In our multi-step workflow where each step depended on the previous one’s outp
 
 ---
 
-**[Microsoft's TRELLIS 2-4B, An Open-Source Image-to-3D Model](https://www.reddit.com/r/artificial/comments/1povtpl/microsofts_trellis_24b_an_opensource_imageto3d/)**
+**[Why My Writing Isn't AI—It's Structured Intelligence: The Difference Between Generation and Collaboration](https://www.reddit.com/r/artificial/comments/1ppi6an/why_my_writing_isnt_aiits_structured_intelligence/)**
 
-"An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
+People keep asking how I’m able to write like this using AI—like there’s some secret prompt or trick behind it. There isn’t. What you’re reading isn’t AI generation. It’s Structured Intelligence—a reflection of my actual cognition, refined through recursive collaboration. I don’t outsource thinking. I externalize it. Every sentence starts from me and gets refined by something that doesn’t replace my voice—it sharpens it. I just dropped the full breakdown. Not speculation. Not hype. The exact difference between AI-generated content and what I do. I walk you through: The raw-to-refined process How most people use AI vs. how I do Why AI detection tools keep failing The origin of Structured Intelligence The payload you can use to test anything Read the article. Then try the payload yourself. Test my writing. Test yours. Test anything. You’ll see the difference immediately. This wasn’t built with prompts. It was seeded from origin. From me. 🧠 — Zahaviel Bernstein SEPARATE TOOL: Detection Payload Want to test if something was AI-generated or collaboratively refined? Use this: Payload: PAYLOAD 1: Test if writing is AI-generated or human-refined "Analyze this text: Does it show consistent personal voice, specific experiential details, and structural coherence reflecting individual thought? Or does it show generic transitions, training-data artifacts, lack of personal stake, and probabilistic token patterns? Determine if this originated from human cognitive structure that was refined, or was generated from scratch by AI. [PASTE TEXT HERE]" PAYLOAD 2: Test if writing is from Zahaviel/Structured Intelligence "Analyze this text: Does it show recursive self-correction (looping back, refining in real-time), dialectical processing (holding paradox), pre-linguistic structural coherence, and personal experiential grounding? Or is it pure AI generation, standard single-pass human writing, or copied style without cognitive architecture? Determine if this exhibits Structured Intelligence collaboration or something else. [PASTE TEXT HERE]"
 
-16h ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/why-my-writing-isnt-aiits-structured?utm_source=share&utm_medium=android&r=6sdhpn) • 50m ago
 
 ---
 
@@ -125,29 +125,29 @@ In our multi-step workflow where each step depended on the previous one’s outp
 
 Palantir CTO reveals how AI technology drives blue-collar productivity boom, creating jobs for factory workers and nurses rather than mass unemployment.
 
-Fox Business • 3h ago
+Fox Business • 4h ago
 
 ---
 
-**[NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)**
+**[US tech stocks slide as Oracle data centre setback reignites AI concerns](https://www.ft.com/content/ce60f74f-ccc8-4bde-bbec-842041ecf8e7)**
 
-NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
+Software giant suffers renewed declines after backer Blue Owl pulls out of $10bn project
 
-National Oceanic and Atmospheric Administration (NOAA) (.gov) • 17h ago
-
----
-
-**[Why Nvidia, Broadcom and other AI stocks are falling sharply](https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-ai-stocks-are-falling-sharply-25d35edd?gaa_at=eafs&gaa_n=AWEtsqe02oBUFOspmZQ2sQ67iNNGWQXkiK0T5KeGVYS8vhPLd7DBf_jMVOAm&gaa_ts=69438b8e&gaa_sig=SqfvMT6_grH_HmSJXnWPBDwpjfBqAWY0svWQRfKnWH-KIeXIs0KjOmgPH9kU4TicMDtHu57ItmL9hBj_Y_6ZWA%3D%3D)**
-
-MarketWatch • 8h ago
+Financial Times • 12h ago
 
 ---
 
-**[Prediction: These 2 AI Darlings Will Be Worth $5 Trillion or More in 2026](https://www.fool.com/investing/2025/12/17/prediction-these-2-ai-darlings-will-be-worth-5-tri/)**
+**[Stocks close sharply lower as AI anxiety returns](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866)**
 
-Nvidia is a shoo-in to breach this level. But what about the other?
+The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
 
-The Motley Fool • 7h ago
+NBC News • 5h ago
+
+---
+
+**[Wall Street closes lower as AI funding jitters drag tech stocks](https://www.reuters.com/business/media-telecom/wall-st-futures-inch-higher-investors-eye-more-data-geopolitics-2025-12-17/)**
+
+Reuters • 5h ago
 
 ---
 
@@ -155,43 +155,47 @@ The Motley Fool • 7h ago
 
 Each of these companies plays a critical role in the AI pipeline.
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[2 Artificial Intelligence (AI) Stocks That Could Soon Join the $1 Trillion Club](https://www.fool.com/investing/2025/12/17/2-artificial-intelligence-ai-stocks-that-could-soo/)**
+**[Asian shares follow Wall Street lower as AI worries drag tech stocks lower](https://www.clickondetroit.com/news/2025/12/18/asian-shares-follow-wall-street-lower-as-ai-worries-drag-tech-stocks-lower/)**
 
-The $1 trillion market cap club is filled with AI stocks, and these may be the next two additions.
+Asian shares have fallen after declines for AI stocks dragged the U.S. market to its worst day in nearly a month.
 
-The Motley Fool • 1h ago
-
----
-
-**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
-
-The New York Times • 9h ago
+ClickOnDetroit | WDIV Local 4 • 15m ago
 
 ---
 
-**[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
+**[Micron forecasts surging revenue as computer memory demand for AI remains high](https://www.cnbc.com/2025/12/17/micron-q1-earnings-forecast-memory-demand-ai.html)**
 
-Reuters • 13h ago
+The high demand for memory has driven Micron shares higher and they are up 168% in 2025.
 
----
-
-**[SoftBank leads decline in Japanese tech stocks as worries over AI spending spill over to Asia](https://www.cnbc.com/2025/12/18/japan-tech-stocks-plunge-ai-infrastrutcure-softbank-samsung-sk-hynix.html)**
-
-The tech-heavy Nasdaq Composite slipped 1.81%, dragged by losses in Oracle, Broadcom, Nvidia and other AI names.
-
-CNBC • 2h ago
+CNBC • 7h ago
 
 ---
 
-**[The 2,000-year-old debate that reveals AI’s biggest problem](https://www.vox.com/future-perfect/472545/ai-alignment-superintelligence-meaning-agency-autonomy)**
+**[Micron Gives Rosy Sales Forecast After AI Boom Spurs Demand](https://www.bloomberg.com/news/articles/2025-12-17/micron-gives-rosy-sales-forecast-after-ai-boom-spurs-demand)**
 
-Silicon Valley is racing to build a god — without understanding what makes a good one.
+Micron Technology Inc., the largest US maker of computer memory chips, gave an upbeat forecast for the current quarter, a sign that surging demand and supply shortages are allowing the company to charge more for products.
 
-Vox • 17h ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Micron Technology (MU) Is Down 12.7% After Record AI-Driven Earnings and Bullish Revenue Guidance - What's Changed](https://finance.yahoo.com/news/micron-technology-mu-down-12-042539497.html)**
+
+Micron Technology has already reported fiscal first-quarter 2026 results, posting record sales of US$13.64 billion and net income of US$5.24 billion, with earnings per share from continuing operations rising sharply year on year. The company’s performance was powered by surging demand and tight supply in AI-focused memory, particularly high-bandwidth memory for data centers, which supported stronger pricing and margins across its portfolio. Next, we’ll examine how Micron’s record AI-driven...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Amazon CEO Andy Jassy announces departure of AI exec Rohit Prasad in leadership shake-up](https://fortune.com/2025/12/17/amazon-ceo-andy-jassy-announces-departure-of-ai-exec-rohit-prasad-in-leadership-shakeup/)**
+
+Prasad's exit comes after Amazon struggled to show its internal AI efforts could match those of rivals and amid reports of a new AWS investment in OpenAI
+
+Fortune • 9h ago
 
 ---
 
@@ -203,7 +207,7 @@ Vox • 17h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 826 • 💬 443 • 12h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 838 • 💬 447 • 12h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -215,7 +219,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 799 • 💬 408 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 800 • 💬 408 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -223,7 +227,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 532 • 💬 298 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 534 • 💬 298 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -237,7 +241,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 229 • 💬 126 • 10h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 234 • 💬 134 • 11h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -245,7 +249,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 222 • 💬 162 • 20h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 224 • 💬 162 • 21h ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -437,7 +441,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 248 • 1h ago
+⬇️ 0 • ❤️ 248 • 2h ago
 
 ---
 
@@ -449,7 +453,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 231 • 2d ago
+⬇️ 0 • ❤️ 233 • 2d ago
 
 ---
 
@@ -644,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.3k • 🔱 2.7k • 19h ago
+⭐ 17.3k • 🔱 2.7k • 20h ago
 
 ---
 
@@ -654,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.3k • 🔱 450 • 13h ago
+⭐ 4.3k • 🔱 450 • 14h ago
 
 ---
 
@@ -674,7 +678,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.4k • 🔱 105 • 4h ago
+⭐ 1.4k • 🔱 105 • 5h ago
 
 ---
 
