@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T13:55:08.221373+00:00'
+updated: '2025-12-18T14:24:27.425532+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 13:55 UTC  
+**Last Updated:** December 18, 2025 at 14:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
+**24h:** +1.6%  
 **7d:** -4.0%  
 **30d:** -2.2%  
-**90d:** -34.0%  
+**90d:** -33.9%  
 **1y:** -13.6%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-6h ago
+7h ago
 
 ---
 
@@ -102,13 +102,13 @@ so i sent robinhood some coins and ever since then im receiving small amounts of
 
 Been monitoring Wintermute market maker's wallet 0xecb6 for weeks now - in regards to their trading positions and position changes on Hyperliquid. I found a pattern that is so far 3 for 3 or 100% in last 6 months of tracking this Wintermute's wallet. What can easily be noticed on pic I'm sharing - is that whenever Wintermute's trading position value reaches around 30k ETH (or approaching $100M), then price usually go in direction of their position. https://preview.redd.it/qkryk8twmy7g1.png?width=1600&format=png&auto=webp&s=9adf07bf82b043fbefa9143c03b022da77f294a7 In ETH perpetuals market, we can see Wintermute in last 6 months had 3x trading position on ETH of over 30k ETH. All 3 times they were short ETH and price did go lower. Last time Wintermute had over 30k ETH position was short ETH starting on Dec 11th 2025 - with ETH then around $3,250. Within a week, ETH price dropped even below $2,800. This by default not means market maker is right every time. But knowing that market maker takes the other side compared to retail, this give us edge into knowing when retail is most exposed and will most probably get liquidated. Overcrowded public trades usually end up with price going in opposite direction. So how to track or have access to trading position changes of Wintermute market maker or any top trading wallet? Easiest way to find & track these wallets is by using quality analytical tool. I personally use Nansen Pro, that lets me see changes in trading positions of top wallets fast, as well as consensus info on smart wallets, public figures and whales. What are you using to help you with your crypto trading and/or investing? Any trading pattern you're comfortable sharing in the comments? Or if you prefer to brainstorm 1on1 about trading strategies or where crypto markets are headed in DM - that's fine with me too.
 
-57m ago
+1h ago
 
 ---
 
 **[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -124,7 +124,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
-22h ago
+23h ago
 
 ---
 
@@ -138,7 +138,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
 
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 22h ago
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 23h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcvaaMHhzn-BY8BlrHygi1OoEE1lTAheQ9ApPKvuWLPjoNyQQRdsW7g&gaa_ts=69440427&gaa_sig=6BR6QKKvBJyt_CbWRkA9FyqQ-i2mK5Uq4t-5_YeJzd-s9iDoBEiF2g7H8v2SLTFlhz2vSye78HIKuLrabYrNkw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcOevaFRdNEXz3BtH5YYz7k8UPdW5E1CaCCv2bo30vUE4r5THnRY-B9&gaa_ts=69441201&gaa_sig=uQJgjcCxqq-BDZLeIUo3NisIuVd1qpr5wPic3HWBl7T45zzBjvUUj6gRGUVwHg_r0Rdy4TCY4JOjL87gWPUGPQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -174,6 +174,20 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
+
+SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+
+Decrypt • 1h ago
+
+---
+
+**[Ethereum Foundation researchers warn of storage burden from 'state bloat,' propose paths to ease node bottleneck](https://www.theblock.co/post/383156/ethereum-foundation-researchers-warn-of-storage-burden-from-state-bloat)**
+
+The Block • 38m ago
+
+---
+
 **[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
 
 Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
@@ -188,11 +202,11 @@ CCN.com • 1d ago
 
 ---
 
-**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
+**[BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-cathie-wood-buys-the-dip-as-bitmine-pushes-toward-5-of-ethereum-supply/)**
 
-The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
+BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply - TechStock²
 
-CoinDesk • 2d ago
+ts2.tech • 2d ago
 
 ---
 
@@ -201,22 +215,6 @@ CoinDesk • 2d ago
 Is Ethereum really on the path to a price of $62,000 next year?
 
 The Motley Fool • 1d ago
-
----
-
-**[Ethereum Risks Slide To $2,000 If December Closes Below This Level: Analyst](https://www.tradingview.com/news/newsbtc:bd880751f094b:0-ethereum-risks-slide-to-2-000-if-december-closes-below-this-level-analyst/)**
-
-A cryptocurrency analyst has explained where Ethereum could go next based on a long-term Parallel Channel forming in its monthly price chart.Ethereum Has Been Trading Inside A Parallel Channel For The Last Few YearsIn a new post on X, analyst Ali Martinez has talked about a long-term pattern that E…
-
-TradingView — Track All Markets • 7h ago
-
----
-
-**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
-
-Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
-
-ts2.tech • 16h ago
 
 ---
 
@@ -230,7 +228,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 195 • 👍 25 • 💬 1 • ⏱️ 7:17 • 51m ago
+👁️ 195 • 👍 25 • 💬 1 • ⏱️ 7:17 • 1h ago
 
 ---
 
@@ -260,7 +258,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 347 • 💬 69 • ⏱️ 20:34 • 22h ago
+👁️ 12K • 👍 347 • 💬 69 • ⏱️ 20:34 • 23h ago
 
 ---
 

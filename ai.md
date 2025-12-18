@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T13:55:08.206992+00:00'
+updated: '2025-12-18T14:24:27.410689+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 13:55 UTC  
+**Last Updated:** December 18, 2025 at 14:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 22h ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 23h ago
 
 ---
 
@@ -65,7 +65,7 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 Hey everyone 👋 I just read this new Medium piece on how AI is fundamentally changing the way people will get jobs on LinkedIn in 2026, and I thought it’d be a really relevant discussion for this community: Here are the key takeaways: 🔹 LinkedIn’s Hiring Assistant is now an AI agent It uses large language models on top of LinkedIn’s Economic Graph to infer skills, intent, and fit far beyond simple keyword matching. Recruiters can give conversational prompts and get candidate shortlists and outreach drafts, which means AI-powered sourcing. 🔹 AI impacts both sides of the hiring funnel For recruiters it means: Faster shortlist creation Better targeting Automated first-touch screening via InMail For candidates it means: Profile structure and keyword signals matter way more Ambiguous or underspecified profiles are less likely to be surfaced by the AI tools. I hope this is helpful.
 
-31m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hey everyone 👋 I just read this new Medium piece on how AI is fundamentally c
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 44m ago
+🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ I am following the B2B sales space for a while and I love tools like Clay, but I
 
 Founded by Palantir alums Tamar Gomez and Wiem Gharbi, the company counts L’Oréal and Vorys among its early customers.
 
-🔗 [Fortune](https://fortune.com/2025/12/17/exclusive-palantir-alums-aiming-to-streamline-patent-filings-with-ai-secure-20-million-in-series-a-venture-funding/) • 4h ago
+🔗 [Fortune](https://fortune.com/2025/12/17/exclusive-palantir-alums-aiming-to-streamline-patent-filings-with-ai-secure-20-million-in-series-a-venture-funding/) • 5h ago
 
 ---
 
@@ -105,7 +105,7 @@ Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
 The people of Memphis already suffer health problems due to pollution. Is it okay that there is now a new gigantic source of smog in their home?
 
-🔗 [tiktok.com](https://www.tiktok.com/t/ZTrsmVoRA/) • 5h ago
+🔗 [tiktok.com](https://www.tiktok.com/t/ZTrsmVoRA/) • 6h ago
 
 ---
 
@@ -123,37 +123,65 @@ TL;DR: I think modern models are an incredible productivity aid to senior develo
 
 **[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
-**[Third of UK citizens have used AI for emotional support, research reveals](https://www.theguardian.com/technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research)**
+**[AI boom has caused same CO2 emissions in 2025 as New York City, report claims](https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds)**
 
-AI Security Institute report finds most common type of AI tech used was general purpose assistants such as ChatGPT and Amazon Alexa
+Study author says tech companies are reaping benefits of artificial intelligence age but society is left to pay cost
 
-The Guardian • 4h ago
+The Guardian • 3h ago
+
+---
+
+**[British Actors Vote To Refuse On-Set Digital Scans Amid Growing AI Dispute](https://deadline.com/2025/12/equity-british-actors-vote-digital-scand-ai-dispute-1236652329/)**
+
+Members of Equity, the British actors' union, have vote to refuse on-set digital scans amid a growing row over AI. Hugh Bonneville supported the vote.
+
+Deadline • 55m ago
+
+---
+
+**[China’s AI has hacked the West — we gave them the keys](https://thehill.com/opinion/cybersecurity/5653005-china-ai-hacking-us-companies/)**
+
+thehill.com • 54m ago
+
+---
+
+**[AI companies are sick of their favorite buzzword — so they’re inventing new ones](https://www.theverge.com/ai-artificial-intelligence/845890/ai-companies-rebrand-agi-artificial-general-intelligence)**
+
+﻿AI companies are sick of their favorite buzzword.
+
+The Verge • 1h ago
+
+---
+
+**[A Billion-Dollar Question Hangs Over the New AI Search Marketing Industry](https://www.wsj.com/articles/a-billion-dollar-question-hangs-over-the-new-ai-search-marketing-industry-06a039ec?gaa_at=eafs&gaa_n=AWEtsqdSF73oNbb4BfbR-ZSVTbhRb3q1QzhDEq4SA-iJtK_VuQfYAl_LjnrW&gaa_ts=694411fe&gaa_sig=nt-58lEbvCzGJ1lNHZFhYz9QtG7-qIKE9NqRIyNzTdl1L1-X5AHNj5xQntaPeX4UAP57QwYE-_8c3jCDaSOh6A%3D%3D)**
+
+The Wall Street Journal • 3h ago
 
 ---
 
 **[Why Oracle keeps sparking AI-bubble fears](https://www.axios.com/2025/12/18/ai-oracle-stock-blue-owl)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
-**[UPS company deploys AI to spot fakes amid surge in holiday returns](https://finance.yahoo.com/news/ups-company-deploys-ai-spot-110425285.html)**
+**[US tech stocks slide as Oracle data centre setback reignites AI concerns](https://www.ft.com/content/ce60f74f-ccc8-4bde-bbec-842041ecf8e7)**
 
-Nearly one in every 10 retail items that are returned for a refund in the U.S. is fraudulent, according to a UPS-owned reverse logistics company that says it plans to combat the $76.5 billion problem for the country’s retailers with artificial intelligence.  This holiday season, UPS-owned boxless returns processing company Happy Returns ​is testing its AI fraud detection tool with a handful of clients, including apparel sellers Everlane, Revolve, and Under Armour, Happy Returns CEO David Sobie told Reuters during a recent tour of ‌the company's Los Angeles-area hub.  Happy Returns' AI tool called Return Vision helps to find fraudulent returns by flagging suspicious packages, analyzing their contents, and sending them for final audit by humans who can verify the fraud and withhold the refund, Sobie said.
+Software giant suffers renewed declines after backer Blue Owl pulls out of $10bn project
 
-Yahoo Finance • 2h ago
+Financial Times • 21h ago
 
 ---
 
-**[This U.K. startup's AI platform could slash the cost of CAR-T therapy and other cell-based medicines](https://fortune.com/2025/12/18/cellvoyant-ai-platform-fateview-reduce-cost-of-cell-based-therapies-car-t/)**
+**[Oracle stock sinks as reported AI data center snag puts rising debt in focus](https://finance.yahoo.com/news/oracle-stock-sinks-as-reported-ai-data-center-snag-puts-rising-debt-in-focus-173526761.html)**
 
-CellVoyant says its FateView platform can reduce the cost of producing viable cells for cell-based therapies by up to 80%
+Oracle stock tumbled as the Financial Times reported that private lender Blue Owl Capital will not back a $10 billion deal for its next data center.
 
-Fortune • 1h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -165,34 +193,6 @@ Fox Business • 12h ago
 
 ---
 
-**[Opinion | Worried about the AI spending boom? Here’s some historical context.](https://www.washingtonpost.com/opinions/2025/12/17/artificial-intelligence-spending-boom-ai/)**
-
-The Washington Post • 17h ago
-
----
-
-**[Visa says new AI shopping tool has helped customers with hundreds of transactions](https://www.cnbc.com/2025/12/18/visa-ai-payments.html)**
-
-Visa said it successfully completed hundreds of AI transactions as part of a pilot program it kicked off after a product event in April.
-
-CNBC • 2h ago
-
----
-
-**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
-
-The New York Times • 17h ago
-
----
-
-**[Meta’s Yann LeCun targets €3bn valuation for AI start-up](https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446)**
-
-Turing award winner is in early talks to raise €500mn ahead of January launch
-
-Financial Times • 4h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +201,7 @@ Financial Times • 4h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 978 • 💬 491 • 20h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 978 • 💬 491 • 21h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -235,7 +235,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 271 • 💬 151 • 19h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 271 • 💬 151 • 20h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -267,7 +267,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 That's one way to get some publicity with Reddit.
 
-⬆️ 128 • 💬 144 • 20h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
+⬆️ 128 • 💬 144 • 21h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
 
 ---
 
@@ -361,7 +361,7 @@ Why So Serious ??? Wahh sedapnya alunan lagu diorang ni kan .
 
 📺 Alieff Irfan
 
-👁️ 93K • 👍 10K • 💬 1K • ⏱️ 45:32 • 1h ago
+👁️ 93K • 👍 10K • 💬 1K • ⏱️ 45:32 • 2h ago
 
 ---
 
@@ -371,7 +371,7 @@ YouTube is forcing A.I on everyone. Hello all we are the people behind Journey t
 
 📺 Theatre of the Unaligned
 
-👁️ 222K • 👍 36K • 💬 1K • ⏱️ 1:39 • 21h ago
+👁️ 222K • 👍 36K • 💬 1K • ⏱️ 1:39 • 22h ago
 
 ---
 
@@ -387,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 307,244 • ❤️ 2,946 • 9d ago
+⬇️ 322,827 • ❤️ 2,954 • 9d ago
 
 ---
 
@@ -399,7 +399,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 30,015 • ❤️ 335 • 16h ago
+⬇️ 51,262 • ❤️ 337 • 17h ago
 
 ---
 
@@ -411,7 +411,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 1,454 • ❤️ 264 • 10h ago
+⬇️ 3,118 • ❤️ 265 • 11h ago
 
 ---
 
@@ -423,7 +423,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 244 • 2d ago
+⬇️ 0 • ❤️ 248 • 2d ago
 
 ---
 
@@ -435,7 +435,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 171,608 • ❤️ 936 • 5d ago
+⬇️ 193,691 • ❤️ 937 • 5d ago
 
 ---
 
@@ -447,7 +447,19 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech (TTS) model supporting
 
 `text-to-speech`
 
-⬇️ 113 • ❤️ 196 • 1d ago
+⬇️ 248 • ❤️ 198 • 1d ago
+
+---
+
+**[HY-WorldPlay](https://huggingface.co/tencent/HY-WorldPlay)**
+
+*Tencent*
+
+HY-World 1.5 is a text-to-3D model that generates interactive 3D worlds with real-time latency and geometric consistency using a streaming video diffusion approach. It supports versatile applications like 3D reconstruction and promptable events by enabling dynamic context reconstitution and reinforcement learning for enhanced action control and visual quality.
+
+`text-to-3d`
+
+⬇️ 0 • ❤️ 196 • 3h ago
 
 ---
 
@@ -459,7 +471,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 55,117 • ❤️ 353 • 9d ago
+⬇️ 64,404 • ❤️ 354 • 9d ago
 
 ---
 
@@ -471,7 +483,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 186 • 1d ago
+⬇️ 0 • ❤️ 188 • 1d ago
 
 ---
 
@@ -482,18 +494,6 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
 ⬇️ 0 • ❤️ 215 • 2d ago
-
----
-
-**[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
-
-*Shakker Labs*
-
-AWPortrait-Z is a LoRA model for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, balanced lighting, and diverse facial features, primarily for portrait generation and beauty applications.
-
-`text-to-image`
-
-⬇️ 1,800 • ❤️ 168 • 4d ago
 
 ---
 
@@ -672,7 +672,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.7k • 🔱 123 • 3h ago
+⭐ 1.7k • 🔱 123 • 4h ago
 
 ---
 
@@ -692,7 +692,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 139 • 9m ago
+⭐ 1.1k • 🔱 139 • 38m ago
 
 ---
 
@@ -732,7 +732,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 778 • 🔱 115 • 22h ago
+⭐ 778 • 🔱 115 • 23h ago
 
 ---
 

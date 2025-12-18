@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T13:55:08.215346+00:00'
+updated: '2025-12-18T14:24:27.419297+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 13:55 UTC  
+**Last Updated:** December 18, 2025 at 14:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,048.54
+### $88,260.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -1.7%  
-**30d:** -2.8%  
-**90d:** -23.4%  
-**1y:** -9.1%  
+**24h:** +1.6%  
+**7d:** -1.6%  
+**30d:** -2.6%  
+**90d:** -23.3%  
+**1y:** -8.9%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-22h ago
+23h ago
 
 ---
 
@@ -121,7 +121,7 @@ Brazil’s largest private bank, Itaú Unibanco, recently suggested that investo
 
 **[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ Brazil’s largest private bank, Itaú Unibanco, recently suggested that investo
 
 Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “just hodl,” and buy the dip, Fast forward, the same crowd are still coping while the price keeps proving one thing, and that is conviction, Bitcoin doesn’t move to reward perfect timing, it moves to reward patience, just keep believing in the process.
 
-9h ago
+10h ago
 
 ---
 
@@ -165,7 +165,7 @@ Investor's Business Daily • 2h ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqd99WMnrEQdj78nYzF_AnXNrtXF2b-D34cfnMu08ggWUsGWdfXScUna&gaa_ts=69440425&gaa_sig=yK_W-P3lXVmc7EuHXJ84FVsqRSfbJe_-ePv0cWwz5zIz_gEilCpS2w_6gsDu4zWK_9GT6ELrJS9_RiZUun85eQ%3D%3D)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdSFuQai0XAO76wVjY_WxZ8CfPx_vf3_5NG-aMJGdQRTakPCv31fu2i&gaa_ts=69441200&gaa_sig=r4bd6xL13b1wphF2E0MaKSPl2iDaFou-4l0cb3iwGGZ0QfpqXJ1toGROnedCY3sQTAAQegcPJ1RPzmy-y5wn4g%3D%3D)**
 
 Barron's • 2d ago
 
@@ -177,27 +177,27 @@ CCN.com • 4h ago
 
 ---
 
-**[DOGE, SHIB Price News: Bitcoin continues to impact dogecoin, shiba inu demand](https://www.coindesk.com/markets/2025/12/18/dogecoin-and-shiba-inu-lag-market-as-memecoins-continue-to-lose-ground-to-bitcoin)**
+**[Bitcoin Washout Points To $180,000 In 90 Days, GMI Says](https://www.tradingview.com/news/newsbtc:ba076c14b094b:0-bitcoin-washout-points-to-180-000-in-90-days-gmi-says/)**
 
-Despite increased whale accumulation, both DOGE and SHIB face selling pressure unless they reclaim key technical levels.
+Global Macro Investor (GMI) head of macro research Julien Bittel posted a bitcoin “oversold RSI” roadmap on X, arguing the market has tracked it closely and tying the setup to a broader view that the cycle could run into 2026—an outlook he says would render the traditional “four-year cycle” framewo…
 
-CoinDesk • 1h ago
-
----
-
-**[Micron crushes earnings with BTC buoyant above $87,000](https://www.coindesk.com/markets/2025/12/18/micron-crushes-earnings-with-btc-buoyant-above-usd87-000)**
-
-Micron earnings shock triggered a broader risk rebound, with QQQ up nearly 1% pre market and bitcoin holding above $87,000.
-
-CoinDesk • 1h ago
+TradingView — Track All Markets • 54m ago
 
 ---
 
-**[Crypto Market Today: BTC-gold ratio lowest since January 2024, UNI, ZEC Rise](https://www.coindesk.com/markets/2025/12/18/crypto-market-today-bitcoin-gold-ratio-drops-to-lowest-since-january-2024)**
+**[Bitcoin price (BTC) news: BTC adds to gains after soft inflation numbers](https://www.coindesk.com/markets/2025/12/18/u-s-inflation-data-surprises-with-cpi-higher-by-just-2-7-in-november)**
 
-Bitcoin rose since midnight UTC, while remaining locked in the $86,000-$90,000 range. Against gold, however, it's still falling.
+Bitcoin shot above $88,000 as forecasts had been for inflation to continue to run above 3%.
 
-CoinDesk • 2h ago
+CoinDesk • 46m ago
+
+---
+
+**[Bitcoin ETFs Notch $457M Haul, Third-Largest Since October](https://finance.yahoo.com/news/bitcoin-etfs-notch-457m-haul-140115738.html)**
+
+Bitcoin ETFs saw $457 million in inflows, signaling a 'flight to quality' as capital consolidates around Bitcoin amid Ethereum outflows.
+
+Yahoo Finance • 23m ago
 
 ---
 
@@ -217,7 +217,7 @@ Bloomberg.com • 1d ago
 
 **[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -261,7 +261,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 16h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 17h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -283,7 +283,7 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 3h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 4h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -307,7 +307,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 320 • ⏱️ 8:31 • 12h ago
+👁️ 24K • 👍 1K • 💬 320 • ⏱️ 8:31 • 13h ago
 
 ---
 
@@ -327,7 +327,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 19K • 👍 681 • 💬 210 • ⏱️ 8:33 • 22h ago
+👁️ 19K • 👍 681 • 💬 210 • ⏱️ 8:33 • 23h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 23K • 👍 997 • 💬 476 • ⏱️ 46:53 • 22h ago
+👁️ 23K • 👍 997 • 💬 476 • ⏱️ 46:53 • 23h ago
 
 ---
 
@@ -367,7 +367,7 @@ BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available ev
 
 📺 Lark Davis
 
-👁️ 5K • 👍 414 • 💬 27 • ⏱️ 46:47 • 1h ago
+👁️ 5K • 👍 414 • 💬 27 • ⏱️ 46:47 • 2h ago
 
 ---
 
