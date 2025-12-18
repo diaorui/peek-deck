@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T22:58:06.118950+00:00'
+updated: '2025-12-18T23:27:56.074577+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - news
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 22:58 UTC  
+**Last Updated:** December 18, 2025 at 23:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.3%  
-**7d:** -8.4%  
-**30d:** -6.7%  
-**90d:** -37.0%  
-**1y:** -17.5%  
+**7d:** -8.2%  
+**30d:** -6.5%  
+**90d:** -36.9%  
+**1y:** -17.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $340.89B
+**Market Cap:** $341.55B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.9%
+-42.8%
 
 **All-Time Low:** $0.43
-+652141.8%
++652809.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-15h ago
+16h ago
 
 ---
 
@@ -116,7 +116,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -164,21 +164,21 @@ The Block • 1d ago
 
 SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfqTc3S5MFzc4np2d-f9naogu7QWHzhQlkKa5Km_U55kUUmmLCitKGY&gaa_ts=694487d3&gaa_sig=j6voOgeMxR0TCYe9knWUgD4_uO6nsEsR3CVR_3wN8qz4ySpT4VC5ysuIg0JFA-t_M3PC3iTi7lvzBMFXDUZ__w%3D%3D)**
+**[Tom Lee Predicts 10-15% Downside For Stocks In Early 2026: Here Is Why The Ethereum Bull Sees Crypto's 'Best Years' Ahead](https://finance.yahoo.com/news/tom-lee-predicts-10-15-193238141.html)**
 
-Barron's • 2d ago
-
----
-
-**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
-
-Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
+Wall Street analyst Tom Lee predicted on Monday a bearish first half for financial markets in 2026, but expects it to “come back in force” eventually. Lee Expects Market To ‘Come Back In Force’ In 2026 Lee, who chairs BitMine Immersion Technologies ...
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+
+CCN.com • 2d ago
 
 ---
 
@@ -190,9 +190,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+**[Why Bitcoin, Ethereum and XRP Are Falling Today Even As Inflation Cools and Rates Are Cut](https://www.tradingview.com/news/coinpedia:2c393df90094b:0-why-bitcoin-ethereum-and-xrp-are-falling-today-even-as-inflation-cools-and-rates-are-cut/)**
 
-CCN.com • 2d ago
+The crypto market has turned red today, with tokens like Bitcoin, Ethereum, and XRP trading lower. The total crypto market value has dropped to about $2.97 trillion, down more than 2% in the last 24 hours, as investors remain cautious.Even though some positive economic news has come out, traders ar…
+
+TradingView — Track All Markets • 7h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfrxbC6QXTqRlz4CvLHrppsXxC3PDZMO2YBlPXbSMw24hH4oIkHgc8X&gaa_ts=694490fb&gaa_sig=Mg6hpNmwE09KY7cewb4uaqthjd49RQBtzu62Jem4RAEPywfNvqewyXHZx-BB128CcDD5ZWSt8G-_9Vh1RJx7ug%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -200,21 +208,13 @@ CCN.com • 2d ago
 
 Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
 **[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
 
 Bloomberg.com • 3d ago
-
----
-
-**[Why Crypto Is Going Down Today? Bitcoin, XRP Price, Ethereum and Dogecoin Moves Under Death Cross](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-bitcoin-xrp-price-ethereum-and-dogecoin-moves-under-death-cross/)**
-
-Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
-
-Finance Magnates • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 235 • 💬 36 • ⏱️ 16:54 • 7h ago
+👁️ 4K • 👍 235 • 💬 36 • ⏱️ 16:54 • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 850 • 👍 34 • 💬 3 • ⏱️ 14:11 • 7h ago
+👁️ 850 • 👍 34 • 💬 3 • ⏱️ 14:11 • 8h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 4 • ⏱️ 7:17 • 9h ago
+👁️ 2K • 👍 123 • 💬 4 • ⏱️ 7:17 • 10h ago
 
 ---
 
@@ -298,7 +298,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 368 • 💬 32 • ⏱️ 12:11 • 11h ago
+👁️ 6K • 👍 368 • 💬 32 • ⏱️ 12:11 • 12h ago
 
 ---
 

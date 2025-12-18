@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T22:58:06.112924+00:00'
+updated: '2025-12-18T23:27:56.068269+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 22:58 UTC  
+**Last Updated:** December 18, 2025 at 23:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,532.80
+### $85,498.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -5.1%  
-**30d:** -6.1%  
-**90d:** -26.0%  
-**1y:** -12.2%  
+**24h:** -0.8%  
+**7d:** -5.2%  
+**30d:** -6.2%  
+**90d:** -26.1%  
+**1y:** -12.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1708.48B
+**Market Cap:** $1706.44B
 Rank #1
 
-**Circulating Supply:** 19,963,921 BTC
+**Circulating Supply:** 19,963,950 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--32.1%
+-32.2%
 
 **All-Time Low:** $67.81
-+126061.3%
++125878.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -91,7 +91,13 @@ Rank #1
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-8h ago
+9h ago
+
+---
+
+**[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
+
+58m ago
 
 ---
 
@@ -105,7 +111,7 @@ Rank #1
 
 Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, the largest accumulation in 13 years. "Smart money" is aggressively positioning itself in anticipation of the drop. Everyone thinks this situation might be good, but what do you think? Is increasing institutional exposure in the crypto market good or bad? 👇 Let me know in the comments…
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +133,7 @@ Bart Simpson incoming?
 
 Anyone who’s been following my posts this week can see this shifting in real time as we approach an inflection point. Put simply: once lower prices start attracting more buyers than sellers (shaken coins dry up), fabricating these dips stops working. That day is getting close. For context: 90 days ago, volume from coins aged 1.5+ years was ~1,227% higher than it is now. Those older coins are going increasingly silent. They can’t hide this in on-chain data (the only real supply), but they’d rather you didn’t look… which is why the narrative is, “all the big players are just in the short-term paper markets now.” That’s false. You can’t pretend large holders (cold storage) are dumping when their coins aren’t moving. Volume is increasingly concentrated in the <1.5 year cohort (ETFs / recent buyers). ETFs themselves hold only ~6–7% of total supply, yet they account for most of the visible volume... algos pushing the same coins back and forth to make it look like capitulation. Low liquidity allows this kind of manipulation up to a point. Beyond that, it coils the spring. The reflexive move when it unwinds will be extreme. Long-term holders are barely moving. This isn’t “OGs dumping,” it’s short-term tourists getting shaken out while Wall Street plays games with paper BTC. Knowledge is power.
 
-2h ago
+3h ago
 
 ---
 
@@ -136,12 +142,6 @@ Anyone who’s been following my posts this week can see this shifting in real t
 With these prices I don’t know if I’ll ever see them again. I was investing in other coins but at this time I just feel when Bitcoin rebounds I’ll be glad I bought it at these prices. So I’ve moved the dollar amount I’ve invested into all the coins each payday, to just Bitcoin purchases. I just feel I won’t be missing out if I don’t invest now in other coins. Where’s if I balance out my crypto purchases, I’ll be kicking myself for not buying more Bitcoin.
 
 9h ago
-
----
-
-**[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
-
-28m ago
 
 ---
 
@@ -161,7 +161,15 @@ CoinDesk • 5h ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
+
+---
+
+**[SOL, SUI, DOGE, ADA price news: Altcoins lead losses as bitcoin slips below $85k](https://www.coindesk.com/markets/2025/12/18/altcoins-plunge-as-bitcoin-s-usd85k-test-triggers-usd550m-in-liquidations)**
+
+Solana tumbled below $120 to its weakest price since April, while SUI, DOGE and ADA also fell sharply.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -173,15 +181,23 @@ Yahoo Finance • 13h ago
 
 ---
 
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqcqwEHG1pN0MAPSPSUmjkgWypUXknU3-U_llREhk7j-vPTL41wzAPBs&gaa_ts=694487d2&gaa_sig=eUiCBqLZ5ox43AV_Kq3dm-hlq8wqQfJQYQZ_nWe9KWatc7TBEqE19Z2m6QtbV9w1FC5hzkA7nrPLaBlK6qR1gw%3D%3D)**
+**[Should You Forget Bitcoin and Buy MARA Holdings Instead?](https://www.fool.com/investing/2025/12/18/should-you-forget-bitcoin-and-buy-mara-holdings/)**
+
+Thinking about swapping Bitcoin for MARA Holdings after the recent sell-off? Here's what changed for miners and what matters most for investors now.
+
+The Motley Fool • 15h ago
+
+---
+
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqcCQmOAKVi1wA-_gtl-E9QvmWxcJS8XhV5JSlvV7Wp4T82rjwxqICBQ&gaa_ts=694490f9&gaa_sig=BhhvHSw-d1lAYcnzqYKcs7rWFMM8xsxzp2JFsQ04C8VF9jJuZIjsdmPwGbgLC2ao9WFnPodOArFHKpX0cpHSNA%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
 ---
 
-**[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqf5-F7NxA4zhzuU3AF55urNb14Klqv4zQxwpCUXoj0KiRfDdOSnDRto&gaa_ts=694490f9&gaa_sig=dvFBeo-9MOgVNClGSDjt0rm-PchKR9_9TXGUoKMg_GqDYQ65eb2MySjrz__z9rIxem1rkSy__rhh2pB1GQbNmw%3D%3D)**
 
-The Block • 16h ago
+Barron's • 1d ago
 
 ---
 
@@ -193,35 +209,15 @@ Bitcoin Magazine • 2h ago
 
 ---
 
-**[Philly man's bitcoin mining scheme allegedly defrauded investors of $48.5 million, SEC says](https://www.phillyvoice.com/bitcoin-mining-scam-vbit-sec-danh-vo-philadelphia/)**
+**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
 
-Danh C. Vo, 37, is accused of scamming thousands of people who bought into his crypto company and then fleeing to Vietnam.
-
-PhillyVoice • 50m ago
+thestreet.com • 1d ago
 
 ---
 
-**[Why the ‘great China Bitcoin mining crackdown’ fell short of early claims](https://www.tradingview.com/news/cointelegraph:0bd1dc8b8094b:0-why-the-great-china-bitcoin-mining-crackdown-fell-short-of-early-claims/)**
+**[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
 
-Recent claims of a major Bitcoin mining crackdown in China’s Xinjiang region rippled through the digital asset industry this week, but data by TheMinerMag suggests the actual impact was far smaller than early narratives implied.According to the latest Miner Weekly report, the Bitcoin network initia…
-
-TradingView — Track All Markets • 3h ago
-
----
-
-**[Should You Forget Bitcoin and Buy MARA Holdings Instead?](https://www.fool.com/investing/2025/12/18/should-you-forget-bitcoin-and-buy-mara-holdings/)**
-
-Thinking about swapping Bitcoin for MARA Holdings after the recent sell-off? Here's what changed for miners and what matters most for investors now.
-
-The Motley Fool • 15h ago
-
----
-
-**[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
-
-US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
-
-CryptoSlate • 1d ago
+The Block • 17h ago
 
 ---
 
@@ -289,7 +285,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 1h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 2h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -317,7 +313,7 @@ Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The
 
 📺 Tim Talks Finance
 
-👁️ 2K • 👍 153 • 💬 65 • ⏱️ 14:32 • 5h ago
+👁️ 2K • 👍 153 • 💬 65 • ⏱️ 14:32 • 6h ago
 
 ---
 
@@ -327,7 +323,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 234 • 💬 9 • ⏱️ 9:21 • 6h ago
+👁️ 5K • 👍 234 • 💬 9 • ⏱️ 9:21 • 7h ago
 
 ---
 
@@ -337,7 +333,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 351 • ⏱️ 8:31 • 21h ago
+👁️ 27K • 👍 1K • 💬 351 • ⏱️ 8:31 • 22h ago
 
 ---
 
@@ -387,7 +383,7 @@ After a rocky December, many investors are asking the same question: Did Bitcoin
 
 📺 The Bitcoin Revolution
 
-👁️ 4K • 👍 103 • 💬 106 • ⏱️ 9:46 • 7h ago
+👁️ 4K • 👍 103 • 💬 106 • ⏱️ 9:46 • 8h ago
 
 ---
 
