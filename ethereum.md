@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T21:48:22.325655+00:00'
+updated: '2025-12-18T21:59:47.209659+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 21:48 UTC  
+**Last Updated:** December 18, 2025 at 21:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -8.4%  
-**30d:** -6.7%  
-**90d:** -37.0%  
-**1y:** -17.5%  
+**24h:** -0.2%  
+**7d:** -8.2%  
+**30d:** -6.5%  
+**90d:** -36.9%  
+**1y:** -17.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $338.14B
+**Market Cap:** $341.08B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--43.2%
+-42.9%
 
 **All-Time Low:** $0.43
-+649086.2%
++652539.0%
 
 ---
 
@@ -94,7 +94,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 **[Let a thousand societies bloom | Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/1ppc5lm/let_a_thousand_societies_bloom_vitalik_buterin/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 21h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 22h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-14h ago
+15h ago
 
 ---
 
@@ -110,7 +110,7 @@ so i sent robinhood some coins and ever since then im receiving small amounts of
 
 I am staking ETH for a long time using Zengo wallet. I always thought they have one of the highest staking rewards when you don't want to stake directly on chain or any other more complicated solution. But recently I tested Revolut ETH staking and results suprised me. I left the amounts staked on both platforms untouched for 28 days. Then I look at how much did I make by staking on both platforms, devided by 28, multiplied by 365 devided by the amount staked and I got Zengo: 2.46% ROI Revolut: 4.92% ROI That is a huge difference! I wasn't able to find a good source of information on the comparation of different staking providers. All the information and data just provide vague values that cannot be compared. Was my statistic samle just too small and doesn't actually show correct numbers or does Revolut staking really make 2 times bigger returns? What is the word on the street? Just to save some time. I know that Zengo and Revolut staking is different. I don't care about that right now, only focusing on pure invest > stake > earn. PS: I find it ridiculous (borderline illegal) that basically a financial institution (Zengo) offeres a service that makes it almost impossible to check what are the returns. The on chain data are completely obfuscated through their staking provider so there is no way how to see the periodic earnings. Only the overall sum of all your ernings is visible. Apart from making screenshots and calculating it yourself, you have no way to check how much you are actually earning over time.
 
-20h ago
+21h ago
 
 ---
 
@@ -168,9 +168,33 @@ Yahoo Finance • 8h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcBfY3T8J1ieVM6TzXiV0pt5Cg4Ilv9qrFTWhTqgWkSMvGrxsXAwMnm&gaa_ts=694473f2&gaa_sig=Cz5rbsw0j-waXryeRh-himL5Mx-sNFNbsYg2zOplO2e9gBw0VFY2oE_kosd6kdktyi7cKa4lP97zBLR1uGaKWg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdPCTeqtZPIMajoM4ab-OZf0GQOnMenji8skJs9WWpG0k6E5c2yRifQ&gaa_ts=69447cb9&gaa_sig=2mm40_3Yu2FlaoHcP7rmlauVwyI7Obh_zsZIkJkRt_OqFoyYjL0VGBeS3BUNSWSSf2ftCUAybDbNEGgvVtf_fQ%3D%3D)**
 
 Barron's • 2d ago
+
+---
+
+**[Why Bitcoin, Ethereum and XRP Are Falling Today Even As Inflation Cools and Rates Are Cut](https://www.tradingview.com/news/coinpedia:2c393df90094b:0-why-bitcoin-ethereum-and-xrp-are-falling-today-even-as-inflation-cools-and-rates-are-cut/)**
+
+The crypto market has turned red today, with tokens like Bitcoin, Ethereum, and XRP trading lower. The total crypto market value has dropped to about $2.97 trillion, down more than 2% in the last 24 hours, as investors remain cautious.Even though some positive economic news has come out, traders ar…
+
+TradingView — Track All Markets • 6h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP face sharp volatility as US posts lowest inflation rate in years](https://www.fxstreet.com/cryptocurrencies/news/bitcoin-ethereum-xrp-face-sharp-volatility-as-us-posts-lowest-inflation-rate-in-years-202512181925)**
+
+The latest inflation report released on Thursday in the United States (US) sparked a wave of volatility in the crypto markets.
+
+FXStreet • 2h ago
+
+---
+
+**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
+
+Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -182,43 +206,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Stabilizes Near $2,820 After Losing Trend Support (undefined:ETH-USD)](https://seekingalpha.com/article/4854480-ethereum-stabilizes-near-2820-after-losing-trend-support-technical-analysis)**
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+
+CCN.com • 2d ago
+
+---
+
+**[Ethereum Stabilizes Near $2,820 After Losing Trend Support (Technical Analysis)](https://seekingalpha.com/article/4854480-ethereum-stabilizes-near-2820-after-losing-trend-support-technical-analysis)**
 
 Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
 
 Seeking Alpha • 1h ago
-
----
-
-**[Bitcoin Vs. Ethereum Performance Divergence and What It Signals for Investors](https://www.investing.com/analysis/bitcoin-vs-ethereum-performance-divergence-and-what-it-signals-for-investors-200671953)**
-
-Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
-
-Investing.com • 1d ago
-
----
-
-**[Bitwise’s 2026 Crypto Forecast: Bitcoin, Ethereum, And Solana Poised For New Record Highs](https://www.tradingview.com/news/newsbtc:7bbd20fb5094b:0-bitwise-s-2026-crypto-forecast-bitcoin-ethereum-and-solana-poised-for-new-record-highs/)**
-
-In its latest report, asset manager and exchange-traded fund (ETF) issuer, Bitwise, has shared an optimistic 2026 outlook for the crypto market, anticipating significant growth, while predicting new all-time highs for Bitcoin (BTC), Ethereum (ETH), and Solana (SOL).Megatrends In Crypto? Bitwise beg…
-
-TradingView — Track All Markets • 13h ago
-
----
-
-**[Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk](https://decrypt.co/352533/bitcoin-ethereum-etfs-shed-582m-in-a-day-as-institutions-trim-risk)**
-
-U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.
-
-Decrypt • 2d ago
-
----
-
-**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
-
-Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
-
-Yahoo Finance • 2d ago
 
 ---
 

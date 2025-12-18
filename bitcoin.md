@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T21:48:22.319745+00:00'
+updated: '2025-12-18T21:59:47.203375+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 21:48 UTC  
+**Last Updated:** December 18, 2025 at 21:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -5.2%  
-**30d:** -6.2%  
-**90d:** -26.1%  
-**1y:** -12.3%  
+**24h:** -0.4%  
+**7d:** -5.0%  
+**30d:** -6.0%  
+**90d:** -25.9%  
+**1y:** -12.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1697.31B
+**Market Cap:** $1707.60B
 Rank #1
 
-**Circulating Supply:** 19,963,903 BTC
+**Circulating Supply:** 19,963,921 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--32.4%
+-32.1%
 
 **All-Time Low:** $67.81
-+125639.6%
++126065.8%
 
 ---
 
@@ -117,15 +117,17 @@ Bart Simpson incoming?
 
 ---
 
-**[This is crazy bro.](https://www.reddit.com/r/Bitcoin/comments/1pq2a0w/this_is_crazy_bro/)**
-
-39m ago
-
----
-
 **[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
 
 13h ago
+
+---
+
+**[Update: 99.7% of movement is now short term. Wall Street plays games with BTC while Tourists get shaken out.](https://www.reddit.com/r/Bitcoin/comments/1pq148m/update_997_of_movement_is_now_short_term_wall/)**
+
+Anyone who’s been following my posts this week can see this shifting in real time as we approach an inflection point. Put simply: once lower prices start attracting more buyers than sellers (shaken coins dry up), fabricating these dips stops working. That day is getting close. For context: 90 days ago, volume from coins aged 1.5+ years was ~1,227% higher than it is now. Those older coins are going increasingly silent. They can’t hide this in on-chain data (the only real supply), but they’d rather you didn’t look… which is why the narrative is, “all the big players are just in the short-term paper markets now.” That’s false. You can’t pretend large holders (cold storage) are dumping when their coins aren’t moving. Volume is increasingly concentrated in the <1.5 year cohort (ETFs / recent buyers). ETFs themselves hold only ~6–7% of total supply, yet they account for most of the visible volume... algos pushing the same coins back and forth to make it look like capitulation. Low liquidity allows this kind of manipulation up to a point. Beyond that, it coils the spring. The reflexive move when it unwinds will be extreme. Long-term holders are barely moving. This isn’t “OGs dumping,” it’s short-term tourists getting shaken out while Wall Street plays games with paper BTC. Knowledge is power.
+
+1h ago
 
 ---
 
@@ -137,11 +139,9 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 ---
 
-**[Update: 99.7% of movement is now short term. Wall Street plays games with BTC while Tourists get shaken out.](https://www.reddit.com/r/Bitcoin/comments/1pq148m/update_997_of_movement_is_now_short_term_wall/)**
+**[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
 
-Anyone who’s been following my posts this week can see this shifting in real time as we approach an inflection point. Put simply: once lower prices start attracting more buyers than sellers (shaken coins dry up), fabricating these dips stops working. That day is getting close. For context: 90 days ago, volume from coins aged 1.5+ years was ~1,227% higher than it is now. Those older coins are going increasingly silent. They can’t hide this in on-chain data (the only real supply), but they’d rather you didn’t look… which is why the narrative is, “all the big players are just in the short-term paper markets now.” That’s false. You can’t pretend large holders (cold storage) are dumping when their coins aren’t moving. Volume is increasingly concentrated in the <1.5 year cohort (ETFs / recent buyers). ETFs themselves hold only ~6–7% of total supply, yet they account for most of the visible volume... algos pushing the same coins back and forth to make it look like capitulation. Low liquidity allows this kind of manipulation up to a point. Beyond that, it coils the spring. The reflexive move when it unwinds will be extreme. Long-term holders are barely moving. This isn’t “OGs dumping,” it’s short-term tourists getting shaken out while Wall Street plays games with paper BTC. Knowledge is power.
-
-1h ago
+11h ago
 
 ---
 
@@ -157,23 +157,31 @@ Bloomberg.com • 4h ago
 
 ---
 
-**[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+**[Bitcoin Price (BTC) analysis: At least one metric remains at a record high](https://www.coindesk.com/markets/2025/12/18/bitcoin-s-realized-cap-holds-at-record-high-over-usd1-trillion-casting-doubt-on-four-year-cycle)**
 
-Investor's Business Daily • 4h ago
+A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
+
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
+
+Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
+
+CoinDesk • 4h ago
+
+---
+
+**[BTC price update: Bitcoin, crypto market could plummet again on 'Witching Friday.' Here's why](https://www.fastcompany.com/91463106/bitcoin-btc-price-update-crypto-market-could-plummet-again-on-witching-friday-heres-why)**
+
+Fast Company • 41m ago
 
 ---
 
 **[SEC Charges Bitcoin Miner for Duping Investors Out of $48.5 Million](https://bitcoinmagazine.com/news/sec-charges-bitcoin-miner-for-duping-investors-out-of-48-5-million)**
 
 A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
-
-Bitcoin Magazine • 55m ago
-
----
-
-**[Bitcoin Price Crashes to $84,000 – Is $70,000 Next?](https://bitcoinmagazine.com/markets/bitcoin-price-crashes-is-70000-next)**
-
-The bitcoin price experienced two more aggressive dumps today, now trading near $84,500.
 
 Bitcoin Magazine • 1h ago
 
@@ -187,23 +195,17 @@ Yahoo Finance • 12h ago
 
 ---
 
-**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
-
-A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
-
-The Motley Fool • 12h ago
-
----
-
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqfOl1HNmrCwAi4D3R3LnDcgfvi7Gs7KYjWxrCqNX3q_pPRuUwpgtsyr&gaa_ts=694473f0&gaa_sig=B35-rrNHalG44AK22mmtdrkT1gQq5mCf4rJPadd-dOEz36aWwnD1A8a7MxobxUkOTYzq-eApletnGsw9OdjH2g%3D%3D)**
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqe-BnmqpevwJk2TqVICFisa1DlK03dBDe5DhFCpduwlqBSVHBc0W_ur&gaa_ts=69447cb7&gaa_sig=vhNRflv7ak3dT_HvKs1rn088yAF6-hq4_aR_gS_TMPmhG064KNZ7hHgMtFdJtaYboJPJQyt35FiuG2flFXLSPw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
 ---
 
-**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+**[Should You Forget Bitcoin and Buy MARA Holdings Instead?](https://www.fool.com/investing/2025/12/18/should-you-forget-bitcoin-and-buy-mara-holdings/)**
 
-thestreet.com • 1d ago
+Thinking about swapping Bitcoin for MARA Holdings after the recent sell-off? Here's what changed for miners and what matters most for investors now.
+
+The Motley Fool • 14h ago
 
 ---
 
@@ -213,7 +215,7 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqc_zW0xF1Ph0DB6MW74olgkdwyP6M2XlFXezTu_pl5R7TUTmgfna6CV&gaa_ts=694473f0&gaa_sig=YzQ855lUf5h8dE65prJnanXKdQBuU6QijM140o6YK8JGq8jcU2wQGajEeDk2hCtKqnBVZHlAR9rSTkPf5T9a5w%3D%3D)**
+**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqfOVsXpIBkO51bLP_MOo-e8CxF0dPRENK41iA5rvEeCMcFgGlJVp3mU&gaa_ts=69447cb7&gaa_sig=sZEfQoraYo18uvKunH8CuY5ZUbTFYU3GaZJyyeeb9cCOXDp4Hu4cWD157Frz7FDt5BpfmN_jrnoVuuhHnEn1PA%3D%3D)**
 
 Barron's • 11h ago
 
@@ -235,7 +237,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 5h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 6h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -279,6 +281,14 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 ---
 
+**[Token-Count-Based Batching: Faster, Cheaper Embedding Inference for Queries](https://news.ycombinator.com/item?id=46318968)**
+
+Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
+
+⬆️ 1 • 💬 0 • 36m ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+
+---
+
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
 ⬆️ 11 • 💬 3 • 2d ago
@@ -289,7 +299,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 11h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 12h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -303,7 +313,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 3K • 💬 198 • ⏱️ 19:03 • 21h ago
+👁️ 38K • 👍 3K • 💬 198 • ⏱️ 19:03 • 22h ago
 
 ---
 
@@ -323,7 +333,7 @@ Bitcoin #Crypto #Finance Bitcoin faces one of its most critical moments yet. The
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 581 • 💬 102 • ⏱️ 41:16 • 6h ago
+👁️ 9K • 👍 581 • 💬 102 • ⏱️ 41:16 • 7h ago
 
 ---
 
@@ -391,7 +401,7 @@ BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available ev
 
 📺 Lark Davis
 
-👁️ 15K • 👍 743 • 💬 73 • ⏱️ 46:47 • 9h ago
+👁️ 15K • 👍 743 • 💬 73 • ⏱️ 46:47 • 10h ago
 
 ---
 

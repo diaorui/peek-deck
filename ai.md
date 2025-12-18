@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T21:48:22.311466+00:00'
+updated: '2025-12-18T21:59:47.194731+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 21:48 UTC  
+**Last Updated:** December 18, 2025 at 21:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 My question is about reliance on facial recognition software, and more generally about reliance on AI. Here are two links to stories about a recent incident. A website covering truckers: "Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino", and second, the bodycam footage (on YouTube) which captures the arresting officer talking about his (in my opinion) extreme reliance on AI. Here are the important details: A man was detained and then arrested based on a facial recognition system. There was a large amount of evidence available to the arresting officer that the man was falsely identified. For example, he had multiple pieces of documentation indicating his correct identity, and multiple pieces of evidence that would point to him NOT being the person identified by the AI facial recognition. The officer, several times, says that he is going to rely on the AI classification despite have evidence to the contrary. The officer invents a convoluted theory to explain away the every bit of evidence that contradicts the AI. For example, he confirms that the identification is legitimate with the state DMV, and the says that the suspect must have someone working inside the DMV to help him fake IDs. In other words, he grants the AI classification more weight than all of the contradictory evidence which is right in front of him. I'm most interested in the implications of 3. The officer seems to subvert his own judgment to that to what he calls the "fancy" casino AI. Is this going to become more common in the future, where the output of chat bots, classification bots, etc, are trusted more than contradictory evidence? Just to finish, I pulled some quotes from the body came footage of the officer: "And this is one of those things you guys have this fancy software that does all this stuff." [2:24 in the video] "Uh they're fancy AI technology that reads faces. No, it says it's a 100% match. But at this point, our hands are tied because, you know, a reasonable and prudent person would based off the software, based off the pictures, based off of even your driver's license picture, make the uh reasonable conclusion that all three are the same person, just two different IDs with two different names." [10:54 in the video] "So much so that the fancy computer that does all the face scanning of everybody who walks in this casino makes the same determination that my feeble human brain does." [11:41 in the video] "I just have a feeling somehow maybe he's got a hookup at the DMV where he's got two different driver's licenses that are registered with the Department of Motor Vehicles" [9:10 minutes into the video] And the last exchange between the falsely accused man the police officer: The man says, "And then people aren't smart enough to think for themselves. They're just not." To which the officer, who has has abandoned his judgment in favor of AI, relipes, "Yep. Unfortunately, it's the world we live in." [See 14:30 in the video.]
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Source (November 2025): "Inception Point AI [is] a startup with just eight emplo
 
 We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
 
-6h ago
+7h ago
 
 ---
 
@@ -121,7 +121,7 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdOBrQYOvMV0lUw8tzFLuMXZQYanaYa68kM2DhYos5kmxlpmfWKTAjk&gaa_ts=694473ee&gaa_sig=X-NWqjMBeD2IUT6oi_7aS4iGgJH4v3DHEH0FTUYlvMz8Mzpxm0i6nwotLUj1Bl_qgI_EktH3sv2bY-VTdln0ag%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcTRSqWCqIlyqdcobmsOihsMEVQIuEm-mQUjLQev7DOvxHZ4GdtEPlV&gaa_ts=69447cb5&gaa_sig=OZ8-KMtpIgzeWKHIgKNWLdgUoAjmongW9M5kx5b4QRIdz7lfrxCTvCHu3MLrilagJSCMteulJZ21z4awRNa-Dw%3D%3D)**
 
 The Wall Street Journal • 11h ago
 
@@ -135,6 +135,12 @@ Deadline • 4h ago
 
 ---
 
+**[AI Demand Strains Japan Cable Firm Fujikura After Stock Surge](https://www.bloomberg.com/news/articles/2025-12-18/ai-demand-strains-japan-cable-firm-fujikura-after-stock-surge)**
+
+Bloomberg.com • 59m ago
+
+---
+
 **[Charles Payne: Today’s biggest movers are connected to AI](https://www.foxbusiness.com/video/6386663285112)**
 
 FOX Business host Charles Payne breaks down the state of the markets and discusses how the biggest movers are coming from within the artificial intelligence space on ‘Making Money.’
@@ -143,35 +149,11 @@ Fox Business • 1h ago
 
 ---
 
-**[Xiangyi Li: The Young Founder Bringing Transparency to AI](https://www.usatoday.com/story/special/contributor-content/2025/12/18/xiangyi-li-the-young-founder-bringing-transparency-to-ai/87831687007/)**
+**[Which AI Chip Stock Is the Better Buy for 2026: Nvidia or Alphabet?](https://www.fool.com/investing/2025/12/18/which-ai-chip-stock-is-the-better-buy-for-2026-nvi/)**
 
-BenchFlow is a platform designed to make AI model evaluations transparent and accessible.
+Some believe Alphabet's success with its TPU chips could make it a challenger to Nvidia's data center dominance.
 
-USA Today • 1h ago
-
----
-
-**[You can now verify Google AI-generated videos in the Gemini app.](https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/)**
-
-We’re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d…
-
-blog.google • 4h ago
-
----
-
-**[Gemini 3 Flash is rolling out globally in Google Search](https://blog.google/products/search/google-ai-mode-update-gemini-3-flash/)**
-
-Gemini 3 Flash brings the incredible reasoning of our Gemini 3 model at the speed you expect of Search.
-
-blog.google • 1d ago
-
----
-
-**[Google’s Gemini app can check videos to see if they were made with Google AI](https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos)**
-
-Incremental deepfake detection.
-
-The Verge • 1h ago
+The Motley Fool • 14m ago
 
 ---
 
@@ -187,7 +169,7 @@ CNN • 11h ago
 
 The SPEED Act now heads to the Senate, which is in the early stages of its own permitting reform talks.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -199,6 +181,20 @@ Los Angeles Times • 10h ago
 
 ---
 
+**[Why Oracle keeps sparking AI-bubble fears](https://www.axios.com/2025/12/18/ai-oracle-stock-blue-owl)**
+
+Axios • 10h ago
+
+---
+
+**[What will the stock market do in 2026? Here's why AI will dominate](https://www.usatoday.com/story/money/personalfinance/2025/12/18/2026-stock-market-outlook-ai-spending/87624354007/)**
+
+Even though many Americans remain glum about the economy and the state of the country, there may be good news in financial markets next year.
+
+USA Today • 3h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -207,7 +203,7 @@ Los Angeles Times • 10h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1026 • 💬 519 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1028 • 💬 521 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -251,7 +247,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 243 • 💬 174 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 243 • 💬 175 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -259,7 +255,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 189 • 💬 149 • 8h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 190 • 💬 149 • 8h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -271,11 +267,15 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 ---
 
-**[AI is wiping out entry-level tech jobs, leaving graduates stranded](https://news.ycombinator.com/item?id=46291504)**
+**[Firefox will have an option to disable all AI features](https://news.ycombinator.com/item?id=46316409)**
 
-Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
+Something that hasn't been made clear: Firefox will have an option to completely disable all AI features.
 
-⬆️ 132 • 💬 167 • 2d ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+We've been calling it the AI kill switch internally. I'm sure it'll ship with a less murderous name, but that's how seriously and absolutely we're taking this.
+
+…
+
+⬆️ 134 • 💬 136 • 3h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -309,7 +309,7 @@ sponsored Get started on Marblism: https://marblism.com/?via=artur Become an AI 
 
 📺 AI Master
 
-👁️ 258 • 👍 28 • 💬 1 • ⏱️ 13:05 • 3h ago
+👁️ 258 • 👍 28 • 💬 1 • ⏱️ 13:05 • 4h ago
 
 ---
 
@@ -407,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 346 • 3h ago
+⬇️ 51,262 • ❤️ 350 • 4h ago
 
 ---
 
@@ -419,7 +419,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 303 • 5h ago
+⬇️ 0 • ❤️ 304 • 5h ago
 
 ---
 
@@ -443,7 +443,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 259 • 3d ago
+⬇️ 0 • ❤️ 260 • 3d ago
 
 ---
 
@@ -455,7 +455,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 `text-to-speech` `1.0B`
 
-⬇️ 193,691 • ❤️ 943 • 6d ago
+⬇️ 193,691 • ❤️ 944 • 6d ago
 
 ---
 
@@ -479,7 +479,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 200 • 1d ago
+⬇️ 0 • ❤️ 201 • 1d ago
 
 ---
 
@@ -531,7 +531,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 9 • 💬 2 • ⭐ 12,410 • 1mo ago
+▲ 9 • 💬 2 • ⭐ 12,489 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -589,19 +589,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
-  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
-
-*Tongyi SpeechTeam*
-
-FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
-
-▲ 39 • 💬 1 • ⭐ 18,017 • 17mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -610,7 +597,7 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 27 • 💬 2 • ⭐ 7,310 • 21d ago
+▲ 27 • 💬 2 • ⭐ 7,350 • 21d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -642,6 +629,19 @@ This survey provides an updated overview of agent memory research, distinguishin
 
 ---
 
+**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
+  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
+
+*Tongyi SpeechTeam*
+
+FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
+
+▲ 39 • 💬 1 • ⭐ 18,036 • 17mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.6k • 🔱 2.7k • 13h ago
+⭐ 17.6k • 🔱 2.8k • 14h ago
 
 ---
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.4k • 🔱 467 • 4h ago
+⭐ 4.4k • 🔱 467 • 5h ago
 
 ---
 
@@ -672,7 +672,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.8k • 🔱 130 • 2h ago
+⭐ 1.9k • 🔱 131 • 2h ago
 
 ---
 
@@ -722,7 +722,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 876 • 🔱 50 • 3d ago
+⭐ 877 • 🔱 50 • 3d ago
 
 ---
 
@@ -742,7 +742,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 779 • 🔱 115 • 1d ago
+⭐ 780 • 🔱 115 • 1d ago
 
 ---
 

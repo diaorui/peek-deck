@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T21:48:22.328844+00:00'
+updated: '2025-12-18T21:59:47.213067+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 21:48 UTC  
+**Last Updated:** December 18, 2025 at 21:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -86,14 +86,6 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 ---
 
-**[What is the long-term position of Western countries in humanoid robotics?](https://www.reddit.com/r/robotics/comments/1ppyjw9/what_is_the_longterm_position_of_western/)**
-
-I’ve been thinking about where humanoid robotics is heading and I’m curious what others here think. One thing that stands out is how different the production environments are between China and the West. China has huge manufacturing scale, tight supply chains, and the ability to turn solid technology into consumer products at very low prices. That usually ends up being very attractive for buyers who just want good value for money. A comparison that comes to mind is electric vehicles. Tesla was clearly ahead early on in terms of R&D and innovation. But once the market became interesting at scale, Chinese companies like BYD entered with EVs that were competitive and significantly cheaper, and they’ve been gaining a lot of ground in production and sales. Now we’re seeing something similar with humanoid robots. Tesla with Optimus, Figure, 1X are all providing really interesting solutions in terms of innovation but humanoid robots are still very hardware-heavy. Motors, actuators, batteries, and large-scale assembly matter a lot. It makes me wonder if we’ll see the same pattern again: a Western company proves the concept, demand grows, and then Chinese manufacturers catch up quickly and compete mainly on cost. So I’m curious how people here see this playing out. Do you think Europe and the US still have room to compete in humanoid robotics? If yes, where does that advantage come from: software, regulation, integration, something else? Or do you expect the market to look similar to EVs over the next decade?
-
-3h ago
-
----
-
 **[How automation is changing medical device manufacturing](https://www.reddit.com/r/robotics/comments/1pq0xu6/how_automation_is_changing_medical_device/)**
 
 Medical device manufacturing has always moved more cautiously than other industries. Strict validation, heavy documentation, and long requalification cycles mean many processes stay manual and unchanged for years. What’s starting to change is the technology. High-precision robots, adaptive gripping, and modern machine vision are making it possible to automate delicate, high-mix work while improving traceability and compliance instead of complicating it.
@@ -107,6 +99,14 @@ Medical device manufacturing has always moved more cautiously than other industr
 Multi-drone PX4/ArduPilot ROS2 control of quads and VTOLs, with YOLO, LiDAR, Dockerized Gym simulation, and JetPack deployment - JacopoPan/aerial-autonomy-stack
 
 🔗 [GitHub](https://github.com/JacopoPan/aerial-autonomy-stack) • 1h ago
+
+---
+
+**[What is the long-term position of Western countries in humanoid robotics?](https://www.reddit.com/r/robotics/comments/1ppyjw9/what_is_the_longterm_position_of_western/)**
+
+I’ve been thinking about where humanoid robotics is heading and I’m curious what others here think. One thing that stands out is how different the production environments are between China and the West. China has huge manufacturing scale, tight supply chains, and the ability to turn solid technology into consumer products at very low prices. That usually ends up being very attractive for buyers who just want good value for money. A comparison that comes to mind is electric vehicles. Tesla was clearly ahead early on in terms of R&D and innovation. But once the market became interesting at scale, Chinese companies like BYD entered with EVs that were competitive and significantly cheaper, and they’ve been gaining a lot of ground in production and sales. Now we’re seeing something similar with humanoid robots. Tesla with Optimus, Figure, 1X are all providing really interesting solutions in terms of innovation but humanoid robots are still very hardware-heavy. Motors, actuators, batteries, and large-scale assembly matter a lot. It makes me wonder if we’ll see the same pattern again: a Western company proves the concept, demand grows, and then Chinese manufacturers catch up quickly and compete mainly on cost. So I’m curious how people here see this playing out. Do you think Europe and the US still have room to compete in humanoid robotics? If yes, where does that advantage come from: software, regulation, integration, something else? Or do you expect the market to look similar to EVs over the next decade?
+
+3h ago
 
 ---
 
@@ -186,7 +186,7 @@ Interesting Engineering • 1d ago
 
 **[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
 
-University of Michigan • 22h ago
+University of Michigan • 23h ago
 
 ---
 
