@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T19:24:25.675622+00:00'
+updated: '2025-12-18T19:37:27.481754+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 19:24 UTC  
+**Last Updated:** December 18, 2025 at 19:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-7h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
-8h ago
+9h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 3h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 4h ago
 
 ---
 
@@ -90,7 +90,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I’ve been thinking about where humanoid robotics is heading and I’m curious what others here think. One thing that stands out is how different the production environments are between China and the West. China has huge manufacturing scale, tight supply chains, and the ability to turn solid technology into consumer products at very low prices. That usually ends up being very attractive for buyers who just want good value for money. A comparison that comes to mind is electric vehicles. Tesla was clearly ahead early on in terms of R&D and innovation. But once the market became interesting at scale, Chinese companies like BYD entered with EVs that were competitive and significantly cheaper, and they’ve been gaining a lot of ground in production and sales. Now we’re seeing something similar with humanoid robots. Tesla with Optimus, Figure, 1X are all providing really interesting solutions in terms of innovation but humanoid robots are still very hardware-heavy. Motors, actuators, batteries, and large-scale assembly matter a lot. It makes me wonder if we’ll see the same pattern again: a Western company proves the concept, demand grows, and then Chinese manufacturers catch up quickly and compete mainly on cost. So I’m curious how people here see this playing out. Do you think Europe and the US still have room to compete in humanoid robotics? If yes, where does that advantage come from: software, regulation, integration, something else? Or do you expect the market to look similar to EVs over the next decade?
 
-42m ago
+55m ago
 
 ---
 

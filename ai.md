@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T19:24:25.656315+00:00'
+updated: '2025-12-18T19:37:27.463769+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 19:24 UTC  
+**Last Updated:** December 18, 2025 at 19:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ This year, AI has improved a lot, but it still feels limited in some situations.
 
 Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
 
-46m ago
+59m ago
 
 ---
 
@@ -89,7 +89,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
 
-43m ago
+56m ago
 
 ---
 
@@ -123,7 +123,7 @@ Many workers fear artificial intelligence is coming for their jobs, an idea bols
 
 **[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdMKBv_dQsAlGlvZ0UhCcov9qubYdzzgPSq7WnlDfmU8x77-cJ5zy1g&gaa_ts=6944584a&gaa_sig=8LU_PkR6unNb0o4G2jPH-ApXBAOQKE6flVP_yBJl4NpNDHPy_C61QWbwHDV7YI_TIGVyXZkKuLrzkBChRYq7xg%3D%3D)**
 
-The Wall Street Journal • 8h ago
+The Wall Street Journal • 9h ago
 
 ---
 
@@ -139,19 +139,19 @@ Bloomberg.com • 1h ago
 
 Even though many Americans remain glum about the economy and the state of the country, there may be good news in financial markets next year.
 
-USA Today • 58m ago
+USA Today • 1h ago
 
 ---
 
 **[Can UCLA Replace Teaching Assistants with AI?](https://www.theinformation.com/articles/can-ucla-replace-teaching-assistants-ai)**
 
-The Information • 54m ago
+The Information • 1h ago
 
 ---
 
 **[My One Big Tech-Fueled Prediction For 2026: AI Gets Some Culture](https://www.forbes.com/sites/joemckendrick/2025/12/18/my-one-big-tech-fueled-prediction-for-2026-ai-gets-some-culture/)**
 
-Forbes • 59m ago
+Forbes • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Los Angeles Times • 8h ago
 
 Palantir's CTO reveals how AI technology is driving a blue-collar productivity boom, creating jobs for factory workers and nurses rather than mass unemployment.
 
-Fox Business • 17h ago
+Fox Business • 18h ago
 
 ---
 
@@ -175,7 +175,7 @@ Fox Business • 17h ago
 
 Prasad’s exit comes after Amazon struggled to show its internal AI efforts could match those of rivals and amid reports of a new AWS investment in OpenAI.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -413,7 +413,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 302 • 2h ago
+⬇️ 0 • ❤️ 302 • 3h ago
 
 ---
 

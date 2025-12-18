@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T19:24:25.665411+00:00'
+updated: '2025-12-18T19:37:27.472439+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 19:24 UTC  
+**Last Updated:** December 18, 2025 at 19:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -4.9%  
-**30d:** -5.9%  
-**90d:** -25.9%  
-**1y:** -12.0%  
+**24h:** -0.9%  
+**7d:** -5.6%  
+**30d:** -6.5%  
+**90d:** -26.4%  
+**1y:** -12.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ Bart Simpson incoming?
 
 With these prices I don’t know if I’ll ever see them again. I was investing in other coins but at this time I just feel when Bitcoin rebounds I’ll be glad I bought it at these prices. So I’ve moved the dollar amount I’ve invested into all the coins each payday, to just Bitcoin purchases. I just feel I won’t be missing out if I don’t invest now in other coins. Where’s if I balance out my crypto purchases, I’ll be kicking myself for not buying more Bitcoin.
 
-5h ago
+6h ago
 
 ---
 
@@ -151,19 +151,19 @@ Brazil’s largest private bank, Itaú Unibanco, recently suggested that investo
 
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
 **[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
 **[Bitcoin Bounces Back Following Tepid Inflation Report](https://www.forbes.com/sites/digital-assets/2025/12/18/bitcoin-bounces-back-following-tepid-inflation-report/)**
 
-Forbes • 34m ago
+Forbes • 47m ago
 
 ---
 
@@ -171,7 +171,7 @@ Forbes • 34m ago
 
 Bitcoin’s price may look deceptively familiar, but according to onchain analyst James Check, the market beneath the surface has changed far more than most investors realize.In a new interview with Cointelegraph, Check revisits a question he was asked earlier this year: Are we in a bull market or a…
 
-TradingView — Track All Markets • 59m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ TradingView — Track All Markets • 59m ago
 
 Fold now offers Bitcoin services nationwide via its partnership with federally chartered BitGo Bank & Trust.
 
-Bitcoin Magazine • 30m ago
+Bitcoin Magazine • 43m ago
 
 ---
 
@@ -187,7 +187,7 @@ Bitcoin Magazine • 30m ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -393,7 +393,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 14K • 👍 981 • 💬 534 • ⏱️ 18:46 • 21h ago
+👁️ 14K • 👍 981 • 💬 534 • ⏱️ 18:46 • 22h ago
 
 ---
 
