@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T07:45:36.310220+00:00'
+updated: '2025-12-18T07:56:54.069121+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 07:45 UTC  
+**Last Updated:** December 18, 2025 at 07:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 **[Too many](https://www.reddit.com/r/robotics/comments/1ppkoel/too_many/)**
 
-29m ago
+41m ago
 
 ---
 
@@ -66,7 +66,7 @@ On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM
 
 Canonical has now extended its ESM (Expanded Security Maintenance) for ROS coverage to ROS Noetic content-sharing snaps. With ESM for ROS now available in both deb and snap formats, Ubuntu continues to be the trusted foundation for secure, long-term robotics innovation. […]
 
-🔗 [Ubuntu](https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps) • 2h ago
+🔗 [Ubuntu](https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps) • 3h ago
 
 ---
 
@@ -90,7 +90,7 @@ PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day a
 
 I want to try and recreate https://www.youtube.com/watch?v=-Vg-BdXps50, but without actually building the robot. I'm currently trying to put something together with threejs and the jolt physics engine, but I'd have to assume there's probably a better way to do it. If so, what are better ways to simulate a robot? +1 if it can run in a browser
 
-11h ago
+12h ago
 
 ---
 
@@ -148,7 +148,7 @@ The Robot Report • 1d ago
 
 The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.&nbsp;&nbsp;
 
-The Atlantic • 13h ago
+The Atlantic • 14h ago
 
 ---
 

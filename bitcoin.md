@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T07:45:36.300948+00:00'
+updated: '2025-12-18T07:56:54.059910+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 07:45 UTC  
+**Last Updated:** December 18, 2025 at 07:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Dca time!! Dont buy at 130k!
 
-11h ago
+12h ago
 
 ---
 
@@ -103,7 +103,7 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-16h ago
+17h ago
 
 ---
 
@@ -167,7 +167,7 @@ Investor's Business Daily • 10h ago
 
 **[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
 
-CCN.com • 17h ago
+CCN.com • 18h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Information • 11h ago
 
 **[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 17h ago
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 138 • ⏱️ 19:03 • 7h ago
+👁️ 22K • 👍 2K • 💬 138 • ⏱️ 19:03 • 8h ago
 
 ---
 
@@ -337,7 +337,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 319 • 💬 96 • ⏱️ 9:12 • 12h ago
+👁️ 5K • 👍 319 • 💬 96 • ⏱️ 9:12 • 13h ago
 
 ---
 

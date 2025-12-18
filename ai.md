@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T07:45:36.292420+00:00'
+updated: '2025-12-18T07:56:54.051630+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 07:45 UTC  
+**Last Updated:** December 18, 2025 at 07:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ HY-World 1.5 has open-sourced a comprehensive training framework for real-time w
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 8h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 9h ago
 
 ---
 
@@ -97,7 +97,7 @@ I am relatively new to this group and based on my limited interaction, feeling q
 
 Now you don't need to know any programming to launch a company. We've been approaching this moment for years.
 
-🔗 [WIRED](https://www.wired.com/story/new-startup-no-code-no-problem/) • 6h ago
+🔗 [WIRED](https://www.wired.com/story/new-startup-no-code-no-problem/) • 7h ago
 
 ---
 
@@ -113,7 +113,7 @@ In our multi-step workflow where each step depended on the previous one’s outp
 
 "An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
 
-18h ago
+19h ago
 
 ---
 
@@ -141,7 +141,7 @@ National Oceanic and Atmospheric Administration (NOAA) (.gov) • 19h ago
 
 US chip bans are supercharging China's homegrown AI champions.
 
-Business Insider • 48m ago
+Business Insider • 59m ago
 
 ---
 
@@ -149,7 +149,7 @@ Business Insider • 48m ago
 
 Asian shares are mostly lower after declines for AI stocks dragged the U.S. market to its worst day in nearly a month.
 
-Click2Houston • 51m ago
+Click2Houston • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Fortune • 11h ago
 
 Rohit Prasad, a top Amazon executive overseeing its artificial general intelligence unit, is leaving at the end of this year, the company confirmed.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -303,7 +303,7 @@ O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratig
 
 📺 MS NOW
 
-👁️ 21K • 👍 469 • 💬 340 • ⏱️ 14:44 • 17h ago
+👁️ 21K • 👍 469 • 💬 340 • ⏱️ 14:44 • 18h ago
 
 ---
 
