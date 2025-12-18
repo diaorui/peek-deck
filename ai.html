@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-18T15:00:57.164326+00:00"
+          "dateModified": "2025-12-18T15:34:01.184367+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -764,7 +764,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppqpqo/ai_is_reshaping_linkedin_job_hunting_with_their/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppsnm1/using_3_different_llms_to_buildcode_games_for_a/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -772,13 +772,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ppqpqo/ai_is_reshaping_linkedin_job_hunting_with_their/" target="_blank" onclick="event.stopPropagation();">AI is reshaping LinkedIn job hunting with their new product, here’s what that means for 2026 job applications</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1ppsnm1/using_3_different_llms_to_buildcode_games_for_a/" target="_blank" onclick="event.stopPropagation();">Using 3 different LLMs to build/code games for a smart ball</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Hey everyone 👋 I just read this new Medium piece on how AI is fundamentally changing the way people will get jobs on LinkedIn in 2026, and I thought it’d be a really relevant discussion for this community: Here are the key takeaways: 🔹 LinkedIn’s Hiring Assistant is now an AI agent It uses large language models on top of LinkedIn’s Economic Graph to infer skills, intent, and fit far beyond simple keyword matching. Recruiters can give conversational prompts and get candidate shortlists and outreach drafts, which means AI-powered sourcing. 🔹 AI impacts both sides of the hiring funnel For recruiters it means: Faster shortlist creation Better targeting Automated first-touch screening via InMail For candidates it means: Profile structure and keyword signals matter way more Ambiguous or underspecified profiles are less likely to be surfaced by the AI tools. I hope this is helpful.
+                            We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
                         </div>
                         
 
@@ -787,7 +787,73 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1766064244.0"></span>
+                                    <span data-timestamp="1766069333.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppl91w/balenced_thoughts_on_vibe_coding/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1ppl91w/balenced_thoughts_on_vibe_coding/" target="_blank" onclick="event.stopPropagation();">Balenced Thoughts on Vibe Coding</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            TL;DR: I think modern models are an incredible productivity aid to senior developers and I was curious if others experience mirrored my own. I’d like to throw my ball into the endless pit of AI coding content that exists on the internet right now to add my viewpoint. In the interests of receiving hate from everyone I’ll say… “Vibe Coding is overhyped and most of the people writing applications with it are producing truly horrible code” “That’s not a serious change from before ‘vibe coding’ took off, just much faster with a lower barrier to entry” “Vibe Coding is genuinely a massive productivity boost that can rightly command exorbitant costs” There, I should have made everyone mad. A little of my own background first. I started programming ~25 years ago in Visual Basic 6 when I was about 5 years old. Back then I could barely put a basic UI together and I had just about learnt timers and transitions. My applications didn’t have any real functionality for another 5 years when Visual Basic 2005 Express Edition came out and I really learnt how to write code. From there I primarily spent time with C#, JavaScript, TypeScript, C++ (not in that order) until I recently came to settle on Golang. I’ve programmed professionally for a bit over a decade (depending on how you measure some early code and work for family friends, if you take a strict employment definition, I’ve been employed writing code for a decade). Professionally speaking I work in research and most of the code I write sits in backends, benchmarking, and operating systems with a little bit of compilers here and there. I normally wrote frontend code frustrated with how much more obtuse it felt compared to Visual Basic 6 and early VB.net/C#. When ChatGPT first came out I was quick to give it a go. I remember running into rate limit after rate limit timing carefully for when I could send a next message. But that was just poking it with questions. I hadn’t seriously given it a coding project until modern Anthropic Models at the start of this year (2025). I first wrote AI-assisted code with T3.Chat. My first project with them was a user interface for building Docker containers. I had written my own prototype to get the visual styles down then I started back and forth improving the design using T3.Chat. My thinking at the time was “I had to give that a few generations, but that interface is good enough for a prototype”. This was exciting enough to give Claude Code a try (first via the API, I had a year or 2 of experience with the OpenAI API before this). After a few messages and $40 spent I bit the bullet and got Claude Max. From there I spent a ton of time refining that React and Next.js project polishing off all the oddities that annoyed me with the user interface. Writing a user interface turned from a drag to something I really enjoyed. But this was working with frontend React code. The exact sort of thing everyone advertises for vibe coding and seemingly the most common training data. What happens if I give it a project, I have more experience with? I recall playing around with the idea of writing a C compiler during a holiday in my spare time. I gave it to Claude Code and with the first try it messed it up, second go around same deal, third time I really tried prompting tricks splitting it into tiny projects and once it wrote 5000 lines of code it totally broke the register allocator. That was 8 months ago which is a decade in AI time. How are the more recent AI models like Opus 4.5 with hard systems problems? Sometimes they are incredible solving problems that took me days to complete in hours. Sometimes they spin in a loop trying to debug a problem and spend $240 in 2 days. We’re not yet to the point where these models can work independently and they need supervision from a senior engineer to work on anything more difficult than a quick demonstration. This sort of experience leads me to saying that ‘vibe coding’ is not going to replace senior software engineers. Every time they ‘solve’ a set of problems in software something more difficult will come to take their place and those hard problems will take the same supervision they do today. For those who don’t believe me think how close we are to an agent that when you ask it “Write me an operating system compatible with Windows applications” it will produce something that compiles and works in a single shot. That’s hyperbole but it’s easy to make more “reasonable” examples. I do think ‘vibe coding’ is here to stay though and it will be worryingly disruptive in two areas close to me. I work at a university and for students its downright dangerous, it has such an easy time of most problems we can set as assignments that solving AI in teaching computing is still a very important open problem. I also work in cyber security and ‘vibe coding’ is incredible in its ability to make subtle security vulnerabilities. I was genuinely worried that the adoption of languages like Rust would meaningfully improve the overall state of software security but now we’re back to a world where secrets are exposed everywhere, every endpoint has XSS, and finding vulnerabilities is fun again. If you want an example of this, ask any model to write a markdown renderer without external libraries and watch it make a beginner/easy CTF challenge for XSS. So, summing up my thoughts, ‘vibe coding’ is an incredible productivity boost but it tests different skills as a developer. Doing it I find myself writing more Unit Tests, more documentation, more rigorous definitions. It’s another development who works at incredible speeds but still makes basic mistakes. I think it will make our senior engineers better more productive developers, but I worry what it will do for people learning to code in the first place. And I also thank it for securing the cyber security job market for the next decade, that’s a relief.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1766044426.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppn7fz/writing_prompts_made_me_a_better_explainer/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1ppn7fz/writing_prompts_made_me_a_better_explainer/" target="_blank" onclick="event.stopPropagation();">Writing prompts made me a better explainer</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I think I noticed that, relying on llms might have reduced certain aspects of my intelligence. But forcing myself to explain to the jagged intelligence of LLM what I truly means seems to have also translated to better communicating my thoughts to other humans. Do you have a similar or perhaps opposite experience ?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1766052334.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -932,56 +998,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppljt8/is_it_okay_that_ai_data_centers_are_mostly_being/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/fbMViFo-PbOY_OJbrdDUS0WH4S2NLpSSlBDfsJkMkpE.jpeg?width=640&crop=smart&auto=webp&s=dc5b969fd30d3fc1814944090c8f22884967d91d" alt="Is it okay that AI data centers are mostly being built in predominately poor communities?" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ppljt8/is_it_okay_that_ai_data_centers_are_mostly_being/" target="_blank" onclick="event.stopPropagation();">Is it okay that AI data centers are mostly being built in predominately poor communities?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            The people of Memphis already suffer health problems due to pollution. Is it okay that there is now a new gigantic source of smog in their home?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1766045613.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.tiktok.com/t/ZTrsmVoRA/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.tiktok.com/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>tiktok.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pp77ps/teachers_are_using_software_to_see_if_students/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -1032,39 +1048,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppl91w/balenced_thoughts_on_vibe_coding/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ppl91w/balenced_thoughts_on_vibe_coding/" target="_blank" onclick="event.stopPropagation();">Balenced Thoughts on Vibe Coding</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            TL;DR: I think modern models are an incredible productivity aid to senior developers and I was curious if others experience mirrored my own. I’d like to throw my ball into the endless pit of AI coding content that exists on the internet right now to add my viewpoint. In the interests of receiving hate from everyone I’ll say… “Vibe Coding is overhyped and most of the people writing applications with it are producing truly horrible code” “That’s not a serious change from before ‘vibe coding’ took off, just much faster with a lower barrier to entry” “Vibe Coding is genuinely a massive productivity boost that can rightly command exorbitant costs” There, I should have made everyone mad. A little of my own background first. I started programming ~25 years ago in Visual Basic 6 when I was about 5 years old. Back then I could barely put a basic UI together and I had just about learnt timers and transitions. My applications didn’t have any real functionality for another 5 years when Visual Basic 2005 Express Edition came out and I really learnt how to write code. From there I primarily spent time with C#, JavaScript, TypeScript, C++ (not in that order) until I recently came to settle on Golang. I’ve programmed professionally for a bit over a decade (depending on how you measure some early code and work for family friends, if you take a strict employment definition, I’ve been employed writing code for a decade). Professionally speaking I work in research and most of the code I write sits in backends, benchmarking, and operating systems with a little bit of compilers here and there. I normally wrote frontend code frustrated with how much more obtuse it felt compared to Visual Basic 6 and early VB.net/C#. When ChatGPT first came out I was quick to give it a go. I remember running into rate limit after rate limit timing carefully for when I could send a next message. But that was just poking it with questions. I hadn’t seriously given it a coding project until modern Anthropic Models at the start of this year (2025). I first wrote AI-assisted code with T3.Chat. My first project with them was a user interface for building Docker containers. I had written my own prototype to get the visual styles down then I started back and forth improving the design using T3.Chat. My thinking at the time was “I had to give that a few generations, but that interface is good enough for a prototype”. This was exciting enough to give Claude Code a try (first via the API, I had a year or 2 of experience with the OpenAI API before this). After a few messages and $40 spent I bit the bullet and got Claude Max. From there I spent a ton of time refining that React and Next.js project polishing off all the oddities that annoyed me with the user interface. Writing a user interface turned from a drag to something I really enjoyed. But this was working with frontend React code. The exact sort of thing everyone advertises for vibe coding and seemingly the most common training data. What happens if I give it a project, I have more experience with? I recall playing around with the idea of writing a C compiler during a holiday in my spare time. I gave it to Claude Code and with the first try it messed it up, second go around same deal, third time I really tried prompting tricks splitting it into tiny projects and once it wrote 5000 lines of code it totally broke the register allocator. That was 8 months ago which is a decade in AI time. How are the more recent AI models like Opus 4.5 with hard systems problems? Sometimes they are incredible solving problems that took me days to complete in hours. Sometimes they spin in a loop trying to debug a problem and spend $240 in 2 days. We’re not yet to the point where these models can work independently and they need supervision from a senior engineer to work on anything more difficult than a quick demonstration. This sort of experience leads me to saying that ‘vibe coding’ is not going to replace senior software engineers. Every time they ‘solve’ a set of problems in software something more difficult will come to take their place and those hard problems will take the same supervision they do today. For those who don’t believe me think how close we are to an agent that when you ask it “Write me an operating system compatible with Windows applications” it will produce something that compiles and works in a single shot. That’s hyperbole but it’s easy to make more “reasonable” examples. I do think ‘vibe coding’ is here to stay though and it will be worryingly disruptive in two areas close to me. I work at a university and for students its downright dangerous, it has such an easy time of most problems we can set as assignments that solving AI in teaching computing is still a very important open problem. I also work in cyber security and ‘vibe coding’ is incredible in its ability to make subtle security vulnerabilities. I was genuinely worried that the adoption of languages like Rust would meaningfully improve the overall state of software security but now we’re back to a world where secrets are exposed everywhere, every endpoint has XSS, and finding vulnerabilities is fun again. If you want an example of this, ask any model to write a markdown renderer without external libraries and watch it make a beginner/easy CTF challenge for XSS. So, summing up my thoughts, ‘vibe coding’ is an incredible productivity boost but it tests different skills as a developer. Doing it I find myself writing more Unit Tests, more documentation, more rigorous definitions. It’s another development who works at incredible speeds but still makes basic mistakes. I think it will make our senior engineers better more productive developers, but I worry what it will do for people learning to code in the first place. And I also thank it for securing the cyber security job market for the next decade, that’s a relief.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1766044426.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1088,7 +1071,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T14:47:41.724837+00:00">Updated 2025-12-18T14:47:41.724837+00:00</small>
+        <small data-timestamp="2025-12-18T15:33:35.866975+00:00">Updated 2025-12-18T15:33:35.866975+00:00</small>
     </div>
 </div>
 
@@ -1274,166 +1257,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/" target="_blank" onclick="event.stopPropagation();">Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766031060.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/46ab961bf4c5e1f0e20353740c5d74140993bd6d/2529_558_2995_2398/master/2995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bec0177ecf5f2779414f0889715882fa');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds" target="_blank" onclick="event.stopPropagation();">AI boom has caused same CO2 emissions in 2025 as New York City, report claims</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Study author says tech companies are reaping benefits of artificial intelligence age but society is left to pay cost
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766056500.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/how-ai-help-companies-enhance-brand-image-attract-talent-2025-12', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6942cb3f832e0ef1ead65f38?width=1200&format=jpeg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.businessinsider.com/how-ai-help-companies-enhance-brand-image-attract-talent-2025-12" target="_blank" onclick="event.stopPropagation();">How companies can use AI to tell their brand stories and attract talent</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            AI can mine social media, online reviews, and internal feedback to uncover what customers and current and former employees say about the company.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Business Insider" class="news-favicon">
-                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766068080.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2025/12/18/luma-releases-a-new-ai-model-that-lets-users-generate-a-video-from-a-start-and-end-frame/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2025/12/Ray3Modify.png?resize=1200,675');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://techcrunch.com/2025/12/18/luma-releases-a-new-ai-model-that-lets-users-generate-a-video-from-a-start-and-end-frame/" target="_blank" onclick="event.stopPropagation();">Luma releases a new AI model that lets users generate a video from a start and end frame</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Luma AI's new model is available through the company's Dream Machine platform.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="TechCrunch" class="news-favicon">
-                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766069578.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/12/18/micron-mu-stock-earnings-ai-memory-demand.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108240009-1765390997839-gettyimages-2247416388-251118_booth.jpeg?v=1765391109&w=1920&h=1080');"></div>
@@ -1475,20 +1298,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/12/17/micron-q1-earnings-forecast-memory-demand-ai.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/chipmaker-micron-forecasts-quarterly-revenue-210411999.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108242674-1765922857470-gettyimages-2251668534-MICRON_EARNS.jpeg?v=1765923049&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://media.zenfs.com/en/reuters-finance.com/7a3fefff9afbce873ef9fe2525b29278');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2025/12/17/micron-q1-earnings-forecast-memory-demand-ai.html" target="_blank" onclick="event.stopPropagation();">Micron forecasts surging revenue as computer memory demand for AI remains high</a>
+                            <a href="https://finance.yahoo.com/news/chipmaker-micron-forecasts-quarterly-revenue-210411999.html" target="_blank" onclick="event.stopPropagation();">Micron forecasts blowout earnings on booming AI market, shares rise</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The high demand for memory has driven Micron shares higher and they are up 168% in 2025.
+                            Micron Technology forecast second-quarter adjusted profit at nearly double ​what Wall Street analysts expected on Wednesday, buoyed by ‌soaring prices for memory chips spurred by tight supplies and booming demand ‌from artificial intelligence data centers. Shares of the Boise, Idaho-based company rose 14% in extended trading after the forecast. Micron said it expected adjusted profit of $8.42 per share, plus or minus 20 ⁠cents, versus analyst estimates ‌of $4.78 per share, according to LSEG data.
                         </div>
                         
 
@@ -1498,9 +1321,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                     
                                 </div>
                                 
@@ -1508,7 +1331,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766007996.0"></span>
+                                    <span data-timestamp="1766069579.0"></span>
                                 </div>
                                 
                             </div>
@@ -1516,20 +1339,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://seekingalpha.com/article/4854364-micron-a-lever-on-ai-growth', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.detroitnews.com/story/business/2025/12/18/u-s-stocks-jump-after-an-encouraging-inflation-update-as-micron-helps-ai-stocks-stop-their-slide/87826291007/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2230807736/image_2230807736.jpg?io=getty-c-w1536');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.detroitnews.com/gcdn/-mm-/9442ebff27aa307914bc3eee8e6714ec80d9b732/c=0-188-3600-2213/local/-/media/2017/08/04/DetroitNews/B99561422Z.1_20170804164519_000_G8O1JDTFK.2-0.jpg?width=3200&height=1800&fit=crop&format=pjpg&auto=webp');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://seekingalpha.com/article/4854364-micron-a-lever-on-ai-growth" target="_blank" onclick="event.stopPropagation();">Micron: A Lever On AI Growth (NASDAQ:MU)</a>
+                            <a href="https://www.detroitnews.com/story/business/2025/12/18/u-s-stocks-jump-after-an-encouraging-inflation-update-as-micron-helps-ai-stocks-stop-their-slide/87826291007/" target="_blank" onclick="event.stopPropagation();">U.S. stocks jump after an encouraging inflation update, as Micron helps AI stocks stop their slide</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Micron Technology, Inc. posted record earnings on rising Data Center and HBM demand. Click for this updated look at MU stock and where it may be headed in 2026.
+                            U.S. stocks are jumping on Thursday following an encouraging report on inflation that could help the Federal Reserve keep cutting interest rates next year.
                         </div>
                         
 
@@ -1539,9 +1362,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Seeking Alpha" class="news-favicon">
-                                    <a href="https://seekingalpha.com" target="_blank" onclick="event.stopPropagation();">Seeking Alpha</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.detroitnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Detroit News" class="news-favicon">
+                                    <a href="https://www.detroitnews.com" target="_blank" onclick="event.stopPropagation();">The Detroit News</a>
                                     
                                 </div>
                                 
@@ -1549,7 +1372,44 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766069501.0"></span>
+                                    <span data-timestamp="1766071380.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/" target="_blank" onclick="event.stopPropagation();">Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Reuters" class="news-favicon">
+                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766031060.0"></span>
                                 </div>
                                 
                             </div>
@@ -1598,14 +1458,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/articles/a-billion-dollar-question-hangs-over-the-new-ai-search-marketing-industry-06a039ec?gaa_at=eafs&gaa_n=AWEtsqcj2PI_sz-_hDCyeaEhxzZ3mrCDE4rIJLnIfFt59f6lEEK5wzsRLmYj&gaa_ts=69441a90&gaa_sig=rBOikSH_fRAAJgZIaoDTKM87vMi9C-CyfMm4n7kMvT3OwK4CAOARDYwO5XZ319CLEGLFi7_aBUSPVC4-SIryMg%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/articles/a-billion-dollar-question-hangs-over-the-new-ai-search-marketing-industry-06a039ec?gaa_at=eafs&gaa_n=AWEtsqeNvy5CbUV8EpV_TBY6F_YLk3FiXn-_wVSsSY0KLoH5YfxPB650yql6&gaa_ts=69442252&gaa_sig=XsgjGdGzjy3XZOc3xaR_4QNcJb2j-9U6WiEFovWrZYaoNcRAHrNmcLDbT8NEVVyoRBVs2YduK6a3_Ycr24vj5g%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/articles/a-billion-dollar-question-hangs-over-the-new-ai-search-marketing-industry-06a039ec?gaa_at=eafs&gaa_n=AWEtsqcj2PI_sz-_hDCyeaEhxzZ3mrCDE4rIJLnIfFt59f6lEEK5wzsRLmYj&gaa_ts=69441a90&gaa_sig=rBOikSH_fRAAJgZIaoDTKM87vMi9C-CyfMm4n7kMvT3OwK4CAOARDYwO5XZ319CLEGLFi7_aBUSPVC4-SIryMg%3D%3D" target="_blank" onclick="event.stopPropagation();">A Billion-Dollar Question Hangs Over the New AI Search Marketing Industry</a>
+                            <a href="https://www.wsj.com/articles/a-billion-dollar-question-hangs-over-the-new-ai-search-marketing-industry-06a039ec?gaa_at=eafs&gaa_n=AWEtsqeNvy5CbUV8EpV_TBY6F_YLk3FiXn-_wVSsSY0KLoH5YfxPB650yql6&gaa_ts=69442252&gaa_sig=XsgjGdGzjy3XZOc3xaR_4QNcJb2j-9U6WiEFovWrZYaoNcRAHrNmcLDbT8NEVVyoRBVs2YduK6a3_Ycr24vj5g%3D%3D" target="_blank" onclick="event.stopPropagation();">A Billion-Dollar Question Hangs Over the New AI Search Marketing Industry</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1620,6 +1480,47 @@
                                     <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
                                          alt="The Wall Street Journal" class="news-favicon">
                                     <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766055600.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.latimes.com/entertainment-arts/movies/story/2025-12-18/can-movie-stardom-survive-age-of-ai-hollywood-tomorrow', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://ca-times.brightspotcdn.com/dims4/default/1b19995/2147483647/strip/true/crop/3840x2016+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F40%2F49%2F36b26df74e8da1eab675604f33f2%2F0217619050460053ccd6bf443e2de248587cf8b4f9597dd5d8ecc-0.jpeg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.latimes.com/entertainment-arts/movies/story/2025-12-18/can-movie-stardom-survive-age-of-ai-hollywood-tomorrow" target="_blank" onclick="event.stopPropagation();">Hollywood was built on movie stardom. AI is changing the rules</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Synthetic performers are forcing Hollywood to rethink how fame works and who gets to claim it. Even as the technology races ahead, legal concerns are mounting.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.latimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Los Angeles Times" class="news-favicon">
+                                    <a href="https://www.latimes.com" target="_blank" onclick="event.stopPropagation();">Los Angeles Times</a>
                                     
                                 </div>
                                 
@@ -1676,6 +1577,88 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/46ab961bf4c5e1f0e20353740c5d74140993bd6d/2529_558_2995_2398/master/2995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bec0177ecf5f2779414f0889715882fa');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds" target="_blank" onclick="event.stopPropagation();">AI boom has caused same CO2 emissions in 2025 as New York City, report claims</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Study author says tech companies are reaping benefits of artificial intelligence age but society is left to pay cost
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766056500.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.noaa.gov/sites/default/files/styles/landscape_width_1275/public/legacy/image/2019/Jun/iStock-477110708%20%281%29.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models" target="_blank" onclick="event.stopPropagation();">NOAA deploys new generation of AI-driven global weather models</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.noaa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="National Oceanic and Atmospheric Administration (NOAA) (.gov)" class="news-favicon">
+                                    <a href="https://www.noaa.gov" target="_blank" onclick="event.stopPropagation();">National Oceanic and Atmospheric Administration (NOAA) (.gov)</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1765984307.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1696,7 +1679,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T15:00:55.631010+00:00">Updated 2025-12-18T15:00:55.631010+00:00</small>
+        <small data-timestamp="2025-12-18T15:33:58.128763+00:00">Updated 2025-12-18T15:33:58.128763+00:00</small>
     </div>
 </div>
 
@@ -1921,10 +1904,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 994</span>
+                                    <span class="post-points">▲ 1006</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 498</span>
+                                    <span style="color: #9ca3af;">💬 505</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2011,7 +1994,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 811</span>
+                                    <span class="post-points">▲ 813</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 413</span>
@@ -2157,10 +2140,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 273</span>
+                                    <span class="post-points">▲ 276</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 153</span>
+                                    <span style="color: #9ca3af;">💬 155</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2206,10 +2189,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 236</span>
+                                    <span class="post-points">▲ 238</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 171</span>
+                                    <span style="color: #9ca3af;">💬 173</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2401,7 +2384,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T14:47:41.542782+00:00">Updated 2025-12-18T14:47:41.542782+00:00</small>
+        <small data-timestamp="2025-12-18T15:33:35.633993+00:00">Updated 2025-12-18T15:33:35.633993+00:00</small>
     </div>
 </div>
 
@@ -2594,6 +2577,72 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="youtube-carousel-ai">
                 
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=zQ1POHiR8m8', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/zQ1POHiR8m8/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">1:39:47</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=zQ1POHiR8m8" target="_blank" onclick="event.stopPropagation();">Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/JHCZDz37bsTmwoE1o4LEodF5vhsHfk29kCEauDTFr27-7hHXsHHvvWGzcG77v32ERrkpfInkGQ=s88-c-k-c0x00ffffff-no-rj" alt="The Diary Of A CEO" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw" target="_blank" onclick="event.stopPropagation();">The Diary Of A CEO</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 165K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 7K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 1K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1766044881.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=1choivCbZDg', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
                     <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/1choivCbZDg/hqdefault.jpg');">
@@ -2633,16 +2682,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 28K</span>
+                                    <span style="color: #9ca3af;">👁️ 30K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 946</span>
+                                    <span style="color: #9ca3af;">👍 989</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 43</span>
+                                    <span style="color: #9ca3af;">💬 44</span>
                                 </div>
                                 
                             </div>
@@ -2699,7 +2748,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 217K</span>
+                                    <span style="color: #9ca3af;">👁️ 221K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2765,7 +2814,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 637K</span>
+                                    <span style="color: #9ca3af;">👁️ 638K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2785,6 +2834,134 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1765920653.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=JwfQbpsvsME', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/JwfQbpsvsME/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">14:44</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=JwfQbpsvsME" target="_blank" onclick="event.stopPropagation();">Dylan Ratigan: The coming year will be a tsunami as AI eliminates jobs for young people</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            O'Leary Ventures Chair Kevin O'Leary and journalist and entrepreneur Dylan Ratigan join Morning Joe to discuss how AI will ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s88-c-k-c0x00ffffff-no-rj" alt="MS NOW" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCaXkIU1QidjPwiAYu6GcHjg" target="_blank" onclick="event.stopPropagation();">MS NOW</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 23K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 492</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 349</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1765979308.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=UQF74xEcIsM', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/UQF74xEcIsM/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:11</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=UQF74xEcIsM" target="_blank" onclick="event.stopPropagation();">Dubai&#39;s AI Hair Machine Gave Her a SHOCKING New Look 😱🔥#shorts</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            A woman in a vibrant "saree" steps up to an advanced "kiosk" for a unique experience. This "digital kiosk" offers a glimpse into ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/GwPvren_sak0_03TSscWp1xSOPHVubwZ1rtED-lmpKPxM_OVVrSplGSxBleqgDnfjYKCdzl-=s88-c-k-c0x00ffffff-no-rj" alt="DesiGlow Pod" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCSY28v7kANhSMPeYYlwfSBA" target="_blank" onclick="event.stopPropagation();">DesiGlow Pod</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 4K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 21</span>
+                                </div>
+                                
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1766032219.0"></span>
                                 </div>
                                 
                             </div>
@@ -2831,7 +3008,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 54K</span>
+                                    <span style="color: #9ca3af;">👁️ 55K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2840,7 +3017,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 523</span>
+                                    <span style="color: #9ca3af;">💬 535</span>
                                 </div>
                                 
                             </div>
@@ -2897,7 +3074,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 352K</span>
+                                    <span style="color: #9ca3af;">👁️ 360K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2963,16 +3140,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 300K</span>
+                                    <span style="color: #9ca3af;">👁️ 325K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 16K</span>
+                                    <span style="color: #9ca3af;">👍 17K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 527</span>
+                                    <span style="color: #9ca3af;">💬 552</span>
                                 </div>
                                 
                             </div>
@@ -3033,7 +3210,7 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 173</span>
+                                    <span style="color: #9ca3af;">👍 174</span>
                                 </div>
                                 
                                 
@@ -3049,204 +3226,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1765920602.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=vs-9qWK0D1Y', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/vs-9qWK0D1Y/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">3:16</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=vs-9qWK0D1Y" target="_blank" onclick="event.stopPropagation();">Google unveils &#39;Gemini 3 Flash&#39; AI model focused on speed and cost</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/m5dRXUmCucfjKzBPXgu_Rztfe2glZ3Otj22pX3hoRkzMYY9A7YcW3CZI-3VMa-KVBQPXE3eQLA=s88-c-k-c0x00ffffff-no-rj" alt="CNBC Television" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw" target="_blank" onclick="event.stopPropagation();">CNBC Television</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 29K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 232</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 162</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1765989747.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=wNcYqYhkw8s', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/wNcYqYhkw8s/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">45:32</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=wNcYqYhkw8s" target="_blank" onclick="event.stopPropagation();">CIPTA LAGU UNTUK PASANGAN TERAKHIR AI TEAM 2025 !!! I</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Why So Serious ??? Wahh sedapnya alunan lagu diorang ni kan .
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_lUMIsd4ctAbQVAVmAnCCxPhOwSxKkOdMMFntLMb8eg0TL9=s88-c-k-c0x00ffffff-no-rj" alt="Alieff Irfan" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCKCK2lumiYpKfD1aEj4W5vg" target="_blank" onclick="event.stopPropagation();">Alieff Irfan</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 93K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 10K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1766059180.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=dqgfUrgRO9w', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/dqgfUrgRO9w/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">1:39</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=dqgfUrgRO9w" target="_blank" onclick="event.stopPropagation();">YouTube is forcing AI on everyone #animation #shorts #update</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            YouTube is forcing A.I on everyone. Hello all we are the people behind Journey to the Quest and many DnD sketches you may ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/0m8fviBQOjPdKIJZdgU_8zSHXc6wbDB7Zz4M8g6mMPtJ7NQD63VSiVEsY3p4_8P8-9j3JSbcbnQ=s88-c-k-c0x00ffffff-no-rj" alt="Theatre of the Unaligned" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCr69YQf6M8yeiYEeGjZ711Q" target="_blank" onclick="event.stopPropagation();">Theatre of the Unaligned</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 222K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 36K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1765987981.0"></span>
                                 </div>
                                 
                             </div>
@@ -3274,7 +3253,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T13:24:52.476843+00:00">Updated 2025-12-18T13:24:52.476843+00:00</small>
+        <small data-timestamp="2025-12-18T15:33:42.179595+00:00">Updated 2025-12-18T15:33:42.179595+00:00</small>
     </div>
 </div>
 
@@ -3539,7 +3518,7 @@
                                     <span class="model-stats">⬇️ 322,827</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 2,963</span>
+                                    <span class="model-stats">❤️ 2,969</span>
                                 </div>
                             </div>
                             
@@ -3611,6 +3590,62 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/tencent/HY-WorldPlay', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HY-WorldPlay.png');"></div>
+
+                    <div class="model-content">
+                        <!-- Model name (first line after thumbnail) -->
+                        <div class="model-name">
+                            <a href="https://huggingface.co/tencent/HY-WorldPlay" target="_blank" onclick="event.stopPropagation();">
+                                HY-WorldPlay
+                            </a>
+                        </div>
+
+                        <!-- Author with avatar (second line) -->
+                        <div class="model-author-line">
+                            
+                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png" alt="Tencent" class="model-avatar">
+                            
+                            <div class="model-author">
+                                <a href="https://huggingface.co/tencent" target="_blank" onclick="event.stopPropagation();">Tencent</a>
+                            </div>
+                        </div>
+
+                        <!-- AI-generated description (only shown if any model has descriptions) -->
+                        
+                        <div class="model-description">
+                            HY-World 1.5 is a text-to-3D model that generates interactive 3D worlds with real-time latency and geometric consistency using a streaming video diffusion approach. It supports versatile applications like 3D reconstruction and promptable events by enabling dynamic context reconstitution and reinforcement learning for enhanced action control and visual quality.
+                        </div>
+                        
+
+                        <!-- Metadata (tags, stats, time) -->
+                        <div class="model-meta">
+                            <div class="model-meta-line tags-line">
+                                
+                                <span class="model-tag">text-to-3d</span>
+                                
+                                
+                            </div>
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-stats">⬇️ 0</span>
+                                </div>
+                                <div class="model-meta-item">
+                                    <span class="model-stats">❤️ 289</span>
+                                </div>
+                            </div>
+                            
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-age" data-timestamp="2025-12-18T11:07:08.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/XiaomiMiMo/MiMo-V2-Flash.png');"></div>
@@ -3655,69 +3690,13 @@
                                     <span class="model-stats">⬇️ 3,118</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 265</span>
+                                    <span class="model-stats">❤️ 267</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2025-12-18T03:15:42.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/tencent/HY-WorldPlay', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HY-WorldPlay.png');"></div>
-
-                    <div class="model-content">
-                        <!-- Model name (first line after thumbnail) -->
-                        <div class="model-name">
-                            <a href="https://huggingface.co/tencent/HY-WorldPlay" target="_blank" onclick="event.stopPropagation();">
-                                HY-WorldPlay
-                            </a>
-                        </div>
-
-                        <!-- Author with avatar (second line) -->
-                        <div class="model-author-line">
-                            
-                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png" alt="Tencent" class="model-avatar">
-                            
-                            <div class="model-author">
-                                <a href="https://huggingface.co/tencent" target="_blank" onclick="event.stopPropagation();">Tencent</a>
-                            </div>
-                        </div>
-
-                        <!-- AI-generated description (only shown if any model has descriptions) -->
-                        
-                        <div class="model-description">
-                            HY-World 1.5 is a text-to-3D model that generates interactive 3D worlds with real-time latency and geometric consistency using a streaming video diffusion approach. It supports versatile applications like 3D reconstruction and promptable events by enabling dynamic context reconstitution and reinforcement learning for enhanced action control and visual quality.
-                        </div>
-                        
-
-                        <!-- Metadata (tags, stats, time) -->
-                        <div class="model-meta">
-                            <div class="model-meta-line tags-line">
-                                
-                                <span class="model-tag">text-to-3d</span>
-                                
-                                
-                            </div>
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 0</span>
-                                </div>
-                                <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 255</span>
-                                </div>
-                            </div>
-                            
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-age" data-timestamp="2025-12-18T11:07:08.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3767,7 +3746,7 @@
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 250</span>
+                                    <span class="model-stats">❤️ 252</span>
                                 </div>
                             </div>
                             
@@ -3939,7 +3918,7 @@
                                     <span class="model-stats">⬇️ 64,404</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 354</span>
+                                    <span class="model-stats">❤️ 355</span>
                                 </div>
                             </div>
                             
@@ -3995,7 +3974,7 @@
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 189</span>
+                                    <span class="model-stats">❤️ 191</span>
                                 </div>
                             </div>
                             
@@ -4009,32 +3988,32 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/DiffSynth-Studio/Qwen-Image-i2L', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/Shakker-Labs/AWPortrait-Z', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/DiffSynth-Studio/Qwen-Image-i2L.png');"></div>
+                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Shakker-Labs/AWPortrait-Z.png');"></div>
 
                     <div class="model-content">
                         <!-- Model name (first line after thumbnail) -->
                         <div class="model-name">
-                            <a href="https://huggingface.co/DiffSynth-Studio/Qwen-Image-i2L" target="_blank" onclick="event.stopPropagation();">
-                                Qwen-Image-i2L
+                            <a href="https://huggingface.co/Shakker-Labs/AWPortrait-Z" target="_blank" onclick="event.stopPropagation();">
+                                AWPortrait-Z
                             </a>
                         </div>
 
                         <!-- Author with avatar (second line) -->
                         <div class="model-author-line">
                             
-                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/672c8f0070734f59f146b73c/5lGMq-_Patlincxq97jf5.png" alt="DiffSynth-Studio" class="model-avatar">
+                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/637745113a63a2983ffbde13/7xAiWo1UplT25dyzWR3tv.png" alt="Shakker Labs" class="model-avatar">
                             
                             <div class="model-author">
-                                <a href="https://huggingface.co/DiffSynth-Studio" target="_blank" onclick="event.stopPropagation();">DiffSynth-Studio</a>
+                                <a href="https://huggingface.co/Shakker-Labs" target="_blank" onclick="event.stopPropagation();">Shakker Labs</a>
                             </div>
                         </div>
 
                         <!-- AI-generated description (only shown if any model has descriptions) -->
                         
                         <div class="model-description">
-                            Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
+                            AWPortrait-Z is a LoRA model for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, balanced lighting, and diverse facial features, primarily for portrait generation and beauty applications.
                         </div>
                         
 
@@ -4042,20 +4021,22 @@
                         <div class="model-meta">
                             <div class="model-meta-line tags-line">
                                 
+                                <span class="model-tag">text-to-image</span>
+                                
                                 
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 0</span>
+                                    <span class="model-stats">⬇️ 2,006</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 215</span>
+                                    <span class="model-stats">❤️ 186</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-age" data-timestamp="2025-12-16T05:52:20.000Z"></span>
+                                    <span class="model-age" data-timestamp="2025-12-14T05:50:52.000Z"></span>
                                 </div>
                             </div>
                             
@@ -4083,7 +4064,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-18T15:00:43.514037+00:00">Updated 2025-12-18T15:00:43.514037+00:00</small>
+        <small data-timestamp="2025-12-18T15:33:48.158132+00:00">Updated 2025-12-18T15:33:48.158132+00:00</small>
     </div>
 </div>
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T15:00:57.657231+00:00'
+updated: '2025-12-18T15:34:01.640230+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 15:00 UTC  
+**Last Updated:** December 18, 2025 at 15:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,475.92
+### $88,416.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
+**24h:** +1.7%  
 **7d:** -2.1%  
 **30d:** -3.1%  
-**90d:** -23.6%  
-**1y:** -9.3%  
+**90d:** -23.7%  
+**1y:** -9.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.25B
+**Market Cap:** $1764.68B
 Rank #1
 
-**Circulating Supply:** 19,963,759 BTC
+**Circulating Supply:** 19,963,775 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-29.9%
 
 **All-Time Low:** $67.81
-+129575.6%
++130253.9%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
+
+6h ago
+
+---
+
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
 7h ago
@@ -87,7 +93,7 @@ Rank #1
 
 Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “just hodl,” and buy the dip, Fast forward, the same crowd are still coping while the price keeps proving one thing, and that is conviction, Bitcoin doesn’t move to reward perfect timing, it moves to reward patience, just keep believing in the process.
 
-10h ago
+11h ago
 
 ---
 
@@ -97,21 +103,21 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 ---
 
-**[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
+**[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-6h ago
+1h ago
 
 ---
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -135,13 +141,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart includes every on-chain transaction in that window. Each bar shows BTC spent by coin age band (UTXO age at spend). PnL is realized profit/loss vs the price when each UTXO was first created. The pie on the right shows total realized profit vs loss for the day. Key takeaways from today’s data: ~99.5% of all BTC spent came from coins younger than 1 year. A chunk of 1–1.5y coins realized losses, but the overwhelming majority of capitulation is from short-term holders / “tourists” dumping recent buys. Old coins (1.5y+) barely moved. Long-term HODLers are still largely sitting tight and stacking. The 180-1yr crowd growing recently is pointing to loss harvesting before 2026 to assist tax advantages. It represented about 30% of the selling at a loss by volume but was disproportionalty smaller in terms of actual loss relative to coins moved (this makes sense as coins held that long are not as much in a loss as the shorter term entrants since summer). This is a quick snapshot from my full-node dataset. I’ll post more breakdowns like this as I keep building out the tooling.
 
-14h ago
-
----
-
-**[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
-
-58m ago
+15h ago
 
 ---
 
@@ -149,39 +149,27 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://finance.yahoo.com/news/bitcoin-silent-exodus-hits-crypto-204351695.html)**
-
-More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: its long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
-
-Yahoo Finance • 5h ago
-
----
-
-**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
-
-Investor's Business Daily • 3h ago
-
----
-
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqedpM7rLbzOle8GwncKDHTHRtbD3LKJwuFGqd49uVYy7S2iDbCHxx7t&gaa_ts=69441a92&gaa_sig=c9QZsfOSiHvDNgV8e4xAOCmfyBDuLAS4fM5pW16UlGWc6Z4qNzrZLOX8K7t-ZKu8TkJD7I3HMTE-AeBIGH6ycg%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Michael Saylor Buys Another $1B in Bitcoin as Grayscale Predicts All Time High Within 6 Months — Is It Likely?](https://finance.yahoo.com/news/michael-saylor-buys-another-1b-121215863.html)**
-
-Strategy added nearly $1 billion worth of Bitcoin for a second straight week. Grayscale expects Bitcoin to reach a new all-time high in the first ...
-
-Yahoo Finance • 2d ago
-
----
-
 **[Bitcoin (BTC) Price News: All over the place ahead of U.S. inflation data. what next?](https://www.coindesk.com/markets/2025/12/18/bitcoin-is-all-over-the-place-ahead-of-u-s-inflation-data-gold-nears-record-high)**
 
 U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
+
+---
+
+**[BTC, XRP, ETH, ADA Price News: Bitcoin to $10,000 in 2026? It's Possible](https://www.coindesk.com/markets/2025/12/18/bitcoin-could-drop-to-usd10-000-one-analyst-says-spelling-doom-for-eth-ada-xrp)**
+
+Traders are positioning for downside risks, with a significant build-up of put options indicating expectations of a dip below $85,000.
+
+CoinDesk • 10h ago
+
+---
+
+**[Bitcoin price (BTC) news: BTC adds to gains after soft inflation numbers](https://www.coindesk.com/markets/2025/12/18/u-s-inflation-data-surprises-with-cpi-higher-by-just-2-7-in-november)**
+
+Bitcoin shot above $88,000 as forecasts had been for inflation to continue to run above 3%.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -189,7 +177,7 @@ CoinDesk • 8h ago
 
 Bitcoin ETFs saw $457 million in inflows, signaling a 'flight to quality' as capital consolidates around Bitcoin amid Ethereum outflows.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -205,21 +193,37 @@ CoinDesk • 4h ago
 
 Bitcoin ETFs saw $457 million in inflows, signaling a 'flight to quality' as capital consolidates around Bitcoin amid Ethereum outflows.
 
-Decrypt • 59m ago
+Decrypt • 1h ago
+
+---
+
+**[NAKA higher by 9.5% after board authorizes share repurchases](https://www.coindesk.com/markets/2025/12/18/bitcoin-treasury-firm-kindlymd-puts-share-buyback-program-in-place)**
+
+The continued plunge in NAKA's share price has left the company valued at a steep decline to the value of its bitcoin holdings.
+
+CoinDesk • 35m ago
+
+---
+
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
+
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+
+The Motley Fool • 6h ago
 
 ---
 
 **[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
-**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.nasdaq.com/articles/bitcoin-doing-something-last-seen-2014-wall-street-analysts-say-will-happen-2026)**
+**[Bhutan Pledges Up to 10,000 Bitcoin to Build New Mega-City](https://bitcoinmagazine.com/featured/bhutan-10000-bitcoin-to-build-mega-city)**
 
-Key PointsThe S&P 500 is up 15%, and Bitcoin is down 5% year to date. Not since 2014 has the S&P 500 generated positive returns while Bitcoin generated negative returns.
+Bhutan is pledging up to 10,000 bitcoin for its Gelephu Mindfulness City, that's nearly $1 billion at current prices.
 
-Nasdaq • 5h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -263,7 +267,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 17h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 18h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -277,7 +281,7 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 1d ago
+⬆️ 11 • 💬 3 • 2d ago
 
 ---
 
@@ -293,23 +297,23 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 ## YouTube Videos: "bitcoin"
 
-**[Did $1M BITCOIN Just Become INEVITABLE?](https://www.youtube.com/watch?v=_koljqxMAdk)**
-
-Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop is a storm building. Whale buys, institutional ...
-
-📺 Simply Bitcoin
-
-👁️ 32K • 👍 2K • 💬 165 • ⏱️ 19:03 • 15h ago
-
----
-
 **[Bitcoin Had Another Giant Fake Out](https://www.youtube.com/watch?v=B5qi8WX2SrE)**
 
 Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 320 • ⏱️ 8:31 • 14h ago
+👁️ 25K • 👍 1K • 💬 323 • ⏱️ 8:31 • 14h ago
+
+---
+
+**[Did $1M BITCOIN Just Become INEVITABLE?](https://www.youtube.com/watch?v=_koljqxMAdk)**
+
+Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop is a storm building. Whale buys, institutional ...
+
+📺 Simply Bitcoin
+
+👁️ 34K • 👍 3K • 💬 182 • ⏱️ 19:03 • 15h ago
 
 ---
 
@@ -319,7 +323,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 4K • 💬 340 • ⏱️ 9:01 • 1d ago
+👁️ 66K • 👍 4K • 💬 346 • ⏱️ 9:01 • 1d ago
 
 ---
 
@@ -329,7 +333,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 19K • 👍 681 • 💬 210 • ⏱️ 8:33 • 23h ago
+👁️ 20K • 👍 685 • 💬 212 • ⏱️ 8:33 • 1d ago
 
 ---
 
@@ -339,7 +343,15 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 14K • 👍 634 • 💬 21 • ⏱️ 21:23 • 21h ago
+👁️ 15K • 👍 668 • 💬 23 • ⏱️ 21:23 • 22h ago
+
+---
+
+**[BITCOIN WHALES KNOW SOMETHING!](https://www.youtube.com/watch?v=7TYqt7nxx9s)**
+
+📺 Discover Crypto
+
+👁️ 8K • 👍 132 • 💬 7 • ⏱️ 0:47 • 13h ago
 
 ---
 
@@ -349,7 +361,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 40K • 👍 2K • 💬 218 • ⏱️ 48:48 • 23h ago
+👁️ 40K • 👍 2K • 💬 221 • ⏱️ 48:48 • 1d ago
 
 ---
 
@@ -359,27 +371,7 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 23K • 👍 997 • 💬 476 • ⏱️ 46:53 • 23h ago
-
----
-
-**[Bitcoin &amp; Crypto The End](https://www.youtube.com/watch?v=Cs-ronhi6TI)**
-
-BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
-
-📺 Lark Davis
-
-👁️ 5K • 👍 414 • 💬 27 • ⏱️ 46:47 • 3h ago
-
----
-
-**[LOST FAITH IN THE CRYPTO CYCLE? WATCH THIS | Raoul Pal at Solana Breakpoint | The Everything Code](https://www.youtube.com/watch?v=W_BD_FGaE2Y)**
-
-Download Raoul Pal's 5-year investing roadmap for free:* https://rvtv.io/41fVHWF Unlock the potential to showcase your brand to ...
-
-📺 Raoul Pal The Journey Man
-
-👁️ 32K • 👍 1K • 💬 53 • ⏱️ 1:52 • 1d ago
+👁️ 24K • 👍 1K • 💬 476 • ⏱️ 46:53 • 1d ago
 
 ---
 
@@ -389,7 +381,17 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 62K • 👍 2K • 💬 393 • ⏱️ 18:36 • 1d ago
+👁️ 63K • 👍 2K • 💬 398 • ⏱️ 18:36 • 1d ago
+
+---
+
+**[Bitcoin &amp; Crypto The End](https://www.youtube.com/watch?v=Cs-ronhi6TI)**
+
+BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
+
+📺 Lark Davis
+
+👁️ 9K • 👍 595 • 💬 55 • ⏱️ 46:47 • 3h ago
 
 ---
 

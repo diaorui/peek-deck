@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T15:00:57.666593+00:00'
+updated: '2025-12-18T15:34:01.648775+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 15:00 UTC  
+**Last Updated:** December 18, 2025 at 15:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-3h ago
+4h ago
+
+---
+
+**[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
+
+48m ago
 
 ---
 
@@ -44,7 +50,7 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,13 +58,13 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-1h ago
+2h ago
 
 ---
 
 **[Too many](https://www.reddit.com/r/robotics/comments/1ppkoel/too_many/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -66,7 +72,7 @@ Hello, I have a doubt about digital twins. I need to develop a complete digital 
 
 Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
 
-21h ago
+22h ago
 
 ---
 
@@ -78,33 +84,27 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 ---
 
-**[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
+**[spring reducer](https://www.reddit.com/r/robotics/comments/1pptjq9/spring_reducer/)**
 
-15m ago
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
----
-
-**[Extending ROS Noetic Support with ESM-Enabled Content Snaps](https://www.reddit.com/r/robotics/comments/1ppi92n/extending_ros_noetic_support_with_esmenabled/)**
-
-Canonical has now extended its ESM (Expanded Security Maintenance) for ROS coverage to ROS Noetic content-sharing snaps. With ESM for ROS now available in both deb and snap formats, Ubuntu continues to be the trusted foundation for secure, long-term robotics innovation. […]
-
-🔗 [Ubuntu](https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps) • 10h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 8m ago
 
 ---
 
-**[End to end learning vs structured control](https://www.reddit.com/r/robotics/comments/1pp7xe8/end_to_end_learning_vs_structured_control/)**
+**[YRC 1000 no alarms won’t move.](https://www.reddit.com/r/robotics/comments/1pptall/yrc_1000_no_alarms_wont_move/)**
 
-On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM Just watched the Boston Dynamics tech talk on The Humanoid Mission in Manufacturing. One slide frames the roadmap as a gradual compression of layers, where classical perception, planning, manipulation, and control are absorbed into more unified end to end models. What stood out to me is that this suggests classical and optimization based control may be progressively replaced rather than simply augmented. Given that direction, is it still worth investing heavily in classical or optimization based control research for handling physics, contact, and stability underneath, or do people expect those responsibilities to eventually be fully learned by VLM or VLA style models? Curious how others here think about this tradeoff, especially in the context of balance and contact heavy manufacturing tasks.
+Hello, I’m a controls engineer who does PLC. I have some experience with Luka and Fanuc robots. I have a robot that is at home with no alarms, servo on, plc is commanding it to do its job. It just sits and won’t move I attached a picture of the line of code it’s on thought maybe you guys could help me understand.
 
-18h ago
+18m ago
 
 ---
 
-**[Getting into Underwater Robotics](https://www.reddit.com/r/robotics/comments/1ppag47/getting_into_underwater_robotics/)**
+**[From a single image to a 3D OctoMap — no LiDAR, no ROS, pure Python](https://www.reddit.com/r/robotics/comments/1ppt7iv/from_a_single_image_to_a_3d_octomap_no_lidar_no/)**
 
-I am currently pursuing MS in Robotics, I have a background in Mechanical Engineering and worked in composite manufacturing for a year. I have decent coding skills in Python, some research experience in computer vision. Moving forward I want to work in Autonomous Navigation for AUVs but I don’t know where do I start.
+Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-16h ago
+22m ago
 
 ---
 
@@ -123,20 +123,6 @@ TechCrunch • 1d ago
 **[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
 The New York Times • 1d ago
-
----
-
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
-
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
-
-Los Angeles Times • 1d ago
-
----
-
-**[Humanoid Robots For War And Work: Startup Plans To Build 50,000 By End Of 2027](https://www.forbes.com/sites/johnkoetsier/2025/12/16/humanoid-robots-for-war-and-work-startup-plans-to-build-50000-by-end-of-2027/)**
-
-Forbes • 1d ago
 
 ---
 
@@ -188,6 +174,20 @@ navalnews.com • 1d ago
 
 ---
 
+**[The world’s smallest programmable, autonomous robots](https://penntoday.upenn.edu/news/penn-engineering-worlds-smallest-programmable-autonomous-robots)**
+
+Engineers at Penn Engineering have created robots barely visible to the naked eye that operate without tethers, magnetic fields or joystick-like controls.
+
+Penn Today • 1d ago
+
+---
+
+**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
+
+University of Michigan • 16h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +198,17 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 68K • 👍 954 • 💬 141 • ⏱️ 11:23 • 2d ago
+👁️ 69K • 👍 955 • 💬 143 • ⏱️ 11:23 • 2d ago
+
+---
+
+**[The Robots Are Crashing Out](https://www.youtube.com/watch?v=NZPRfXa06ss)**
+
+Thanks to our LMG clips sponsors dbrand, Dell, and Secretlab. You can check them out at the links below: dbrand: ...
+
+📺 LMG Clips
+
+👁️ 35K • 👍 1K • 💬 189 • ⏱️ 7:42 • 1d ago
 
 ---
 
@@ -208,15 +218,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 30K • 👍 727 • 💬 111 • ⏱️ 6:41 • 4d ago
-
----
-
-**[#samsung Unveils Its AI Humanoid Robot ‘Leno X’. #robotics #robot  #humanoidrobot #ai](https://www.youtube.com/watch?v=g4hvzxnSLRc)**
-
-📺 AI . Robot
-
-👁️ 469K • 👍 4K • 💬 43 • ⏱️ 0:21 • 4d ago
+👁️ 30K • 👍 732 • 💬 111 • ⏱️ 6:41 • 4d ago
 
 ---
 
@@ -226,7 +228,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 21K • 👍 2K • 💬 52 • ⏱️ 1:38 • 1d ago
+👁️ 22K • 👍 2K • 💬 53 • ⏱️ 1:38 • 1d ago
 
 ---
 
@@ -236,17 +238,17 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 389K • 👍 13K • 💬 425 • ⏱️ 0:34 • 4d ago
+👁️ 391K • 👍 13K • 💬 424 • ⏱️ 0:34 • 4d ago
 
 ---
 
-**[✅ “This Is REAL: Kyrie Irving FIGHTS a Robot 😱](https://www.youtube.com/watch?v=LKEBOOKg_Mc)**
+**[ROBOT got KNOCKED OUT](https://www.youtube.com/watch?v=eX-TS4JEuEw)**
 
-This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it gets physical The robot throws a kick — Kyrie ...
+this short clip, a walking robot encounters an unexpected moment of impact when it gets pushed by an NBA player and ends up ...
 
-📺 DLLS Sports
+📺 Unique Mechanics
 
-👁️ 19K • 👍 215 • 💬 23 • ⏱️ 0:14 • 14h ago
+👁️ 897 • 👍 35 • 💬 3 • ⏱️ 0:28 • 2h ago
 
 ---
 
@@ -260,13 +262,21 @@ GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating wor
 
 ---
 
-**[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
+**[✅ “This Is REAL: Kyrie Irving FIGHTS a Robot 😱](https://www.youtube.com/watch?v=LKEBOOKg_Mc)**
 
-Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
+This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it gets physical The robot throws a kick — Kyrie ...
 
-📺 RICHLEV
+📺 DLLS Sports
 
-👁️ 186K • 👍 4K • 💬 1K • ⏱️ 17:05 • 3d ago
+👁️ 20K • 👍 223 • 💬 23 • ⏱️ 0:14 • 14h ago
+
+---
+
+**[2025 Robot Expo: Humanoid ‘X4’ Unveiled. #humanoidrobot #ai #robotics #robot #x4](https://www.youtube.com/watch?v=xbG4fFaaQ1s)**
+
+📺 AI . Robot
+
+👁️ 57K • 👍 651 • 💬 9 • ⏱️ 0:21 • 3d ago
 
 ---
 
@@ -276,15 +286,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 33K • 👍 312 • 💬 30 • ⏱️ 1:05 • 3d ago
-
----
-
-**[2025 Robot Expo: Humanoid ‘X4’ Unveiled. #humanoidrobot #ai #robotics #robot #x4](https://www.youtube.com/watch?v=xbG4fFaaQ1s)**
-
-📺 AI . Robot
-
-👁️ 57K • 👍 643 • 💬 9 • ⏱️ 0:21 • 3d ago
+👁️ 33K • 👍 314 • 💬 30 • ⏱️ 1:05 • 3d ago
 
 ---
 

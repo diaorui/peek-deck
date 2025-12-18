@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T15:00:57.663284+00:00'
+updated: '2025-12-18T15:34:01.645823+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 15:00 UTC  
+**Last Updated:** December 18, 2025 at 15:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,960.64
+### $2,962.81
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.4%  
-**7d:** -4.4%  
-**30d:** -2.6%  
-**90d:** -34.2%  
-**1y:** -13.9%  
+**24h:** +3.8%  
+**7d:** -4.0%  
+**30d:** -2.1%  
+**90d:** -33.9%  
+**1y:** -13.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.55B
+**Market Cap:** $358.00B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.0%
 
 **All-Time Low:** $0.43
-+679046.1%
++684785.4%
 
 ---
 
@@ -100,7 +100,7 @@ so i sent robinhood some coins and ever since then im receiving small amounts of
 
 **[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -116,7 +116,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
-23h ago
+1d ago
 
 ---
 
@@ -130,7 +130,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
 
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 23h ago
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 1d ago
 
 ---
 
@@ -148,7 +148,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -158,29 +158,35 @@ The Block • 1d ago
 
 ---
 
-**[Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum](https://www.bloomberg.com/news/articles/2025-12-18/digital-bank-sofi-joins-stablecoin-race-with-own-dollar-backed-token-on-ethereum)**
-
-Digital bank operator SoFi Technologies Inc. has launched its own US dollar stablecoin, joining a growing list of financial firms betting on what is seen as a critical component of the digital asset economy.
-
-Bloomberg.com • 2h ago
-
----
-
 **[Ethereum Foundation researchers warn of storage burden from 'state bloat,' propose paths to ease node bottleneck](https://www.theblock.co/post/383156/ethereum-foundation-researchers-warn-of-storage-burden-from-state-bloat)**
 
 The Block • 1h ago
 
 ---
 
-**[Tom Lee Predicts 10-15% Downside For Stocks In Early 2026: Here Is Why The Ethereum Bull Sees Crypto's 'Best Years' Ahead](https://finance.yahoo.com/news/tom-lee-predicts-10-15-193238141.html)**
+**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
 
-Wall Street analyst Tom Lee predicted on Monday a bearish first half for financial markets in 2026, but expects it to “come back in force” eventually. Lee Expects Market To ‘Come Back In Force’ In 2026 Lee, who chairs BitMine Immersion Technologies ...
+Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfb_dez-1sujiMHDESLjOtz0DBvZHFdO-Xifct14yDtZQk9yTcoy364&gaa_ts=69441a94&gaa_sig=MG18XuS9Tnceo9p7cHX3DZtNjppbsacCaQQgJ6w5sxZicjXNX0c2RDh8ZToXetwSoaR_WEWbh9-kTNqZMmt6OQ%3D%3D)**
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+
+CCN.com • 2d ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-cathie-wood-buys-the-dip-as-bitmine-pushes-toward-5-of-ethereum-supply/)**
+
+BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply - TechStock²
+
+ts2.tech • 2d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdPBgtSdImnxposf28ZXAKimM2_JSl_lgXboO1sSsE7Xwrk8K2Ndj7I&gaa_ts=69442255&gaa_sig=BE1vpzlWcPSISiFzx2Z7FKezbFMicoiAQCThiNZgFj73q7hNH1dLPkl5daSomTwEYbZjUdKpsMXrMOJxgOOUZw%3D%3D)**
 
 Barron's • 1d ago
 
@@ -210,14 +216,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
-
-Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
-
-Yahoo Finance • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -228,7 +226,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 195 • 👍 25 • 💬 1 • ⏱️ 7:17 • 1h ago
+👁️ 748 • 👍 79 • 💬 1 • ⏱️ 7:17 • 2h ago
+
+---
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=KTVWe1FFNhA)**
+
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Demat Account Dhan ...
+
+📺 Trade with Burner
+
+👁️ 4K • 👍 616 • 42m ago
 
 ---
 
@@ -238,7 +246,7 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 8K • 👍 368 • 💬 69 • ⏱️ 11:01 • 1d ago
+👁️ 8K • 👍 370 • 💬 72 • ⏱️ 11:01 • 1d ago
 
 ---
 
@@ -248,7 +256,17 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 10K • 👍 500 • 💬 213 • ⏱️ 33:33 • 22h ago
+👁️ 10K • 👍 511 • 💬 216 • ⏱️ 33:33 • 22h ago
+
+---
+
+**[ETH READY TO RALLY AGAIN?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=eL3F9PJCHyk)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 236 • 👍 19 • 💬 1 • ⏱️ 4:50 • 4h ago
 
 ---
 
@@ -258,7 +276,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 347 • 💬 69 • ⏱️ 20:34 • 23h ago
+👁️ 12K • 👍 361 • 💬 70 • ⏱️ 20:34 • 1d ago
 
 ---
 
@@ -282,16 +300,6 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 ---
 
-**[ETH Ethereum Price Prediction: Critical Moment](https://www.youtube.com/watch?v=MeZXcuGsiSw)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 752 • 👍 33 • 💬 72 • ⏱️ 11:07 • 20h ago
-
----
-
 **[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
 
 These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! Private livestream for ...
@@ -302,23 +310,13 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 ---
 
-**[Ethereum price prediction - ETH will make great money](https://www.youtube.com/watch?v=EllNMUY3fe4)**
+**[ETH Ethereum Price Prediction: Critical Moment](https://www.youtube.com/watch?v=MeZXcuGsiSw)**
 
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Crypto With James
+📺 C-Zar Gets Crypto 
 
-👁️ 4K • 👍 255 • 💬 69 • ⏱️ 10:03 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=f7OwaX9MfAQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 129 • 💬 2 • ⏱️ 4:45 • 23h ago
+👁️ 757 • 👍 33 • 💬 72 • ⏱️ 11:07 • 21h ago
 
 ---
 
