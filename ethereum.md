@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T14:24:27.425532+00:00'
+updated: '2025-12-18T14:47:52.915119+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 14:24 UTC  
+**Last Updated:** December 18, 2025 at 14:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** -4.0%  
-**30d:** -2.2%  
-**90d:** -33.9%  
-**1y:** -13.6%  
+**24h:** +1.2%  
+**7d:** -4.4%  
+**30d:** -2.6%  
+**90d:** -34.2%  
+**1y:** -13.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.08B
+**Market Cap:** $355.55B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-40.5%
 
 **All-Time Low:** $0.43
-+683887.0%
++679046.1%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-12h ago
+13h ago
 
 ---
 
@@ -95,14 +95,6 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
 7h ago
-
----
-
-**[Wintermute Market Maker Favorite Trade: Short ETH](https://www.reddit.com/r/ethereum/comments/1ppq5sb/wintermute_market_maker_favorite_trade_short_eth/)**
-
-Been monitoring Wintermute market maker's wallet 0xecb6 for weeks now - in regards to their trading positions and position changes on Hyperliquid. I found a pattern that is so far 3 for 3 or 100% in last 6 months of tracking this Wintermute's wallet. What can easily be noticed on pic I'm sharing - is that whenever Wintermute's trading position value reaches around 30k ETH (or approaching $100M), then price usually go in direction of their position. https://preview.redd.it/qkryk8twmy7g1.png?width=1600&format=png&auto=webp&s=9adf07bf82b043fbefa9143c03b022da77f294a7 In ETH perpetuals market, we can see Wintermute in last 6 months had 3x trading position on ETH of over 30k ETH. All 3 times they were short ETH and price did go lower. Last time Wintermute had over 30k ETH position was short ETH starting on Dec 11th 2025 - with ETH then around $3,250. Within a week, ETH price dropped even below $2,800. This by default not means market maker is right every time. But knowing that market maker takes the other side compared to retail, this give us edge into knowing when retail is most exposed and will most probably get liquidated. Overcrowded public trades usually end up with price going in opposite direction. So how to track or have access to trading position changes of Wintermute market maker or any top trading wallet? Easiest way to find & track these wallets is by using quality analytical tool. I personally use Nansen Pro, that lets me see changes in trading positions of top wallets fast, as well as consensus info on smart wallets, public figures and whales. What are you using to help you with your crypto trading and/or investing? Any trading pattern you're comfortable sharing in the comments? Or if you prefer to brainstorm 1on1 about trading strategies or where crypto markets are headed in DM - that's fine with me too.
-
-1h ago
 
 ---
 
@@ -142,6 +134,12 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
+
+20h ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -162,7 +160,7 @@ Barron's • 1d ago
 
 Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
 
-Finance Magnates • 23h ago
+Finance Magnates • 1d ago
 
 ---
 
@@ -184,7 +182,7 @@ Decrypt • 1h ago
 
 **[Ethereum Foundation researchers warn of storage burden from 'state bloat,' propose paths to ease node bottleneck](https://www.theblock.co/post/383156/ethereum-foundation-researchers-warn-of-storage-burden-from-state-bloat)**
 
-The Block • 38m ago
+The Block • 1h ago
 
 ---
 
@@ -248,7 +246,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 10K • 👍 500 • 💬 213 • ⏱️ 33:33 • 21h ago
+👁️ 10K • 👍 500 • 💬 213 • ⏱️ 33:33 • 22h ago
 
 ---
 
@@ -288,7 +286,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 752 • 👍 33 • 💬 72 • ⏱️ 11:07 • 19h ago
+👁️ 752 • 👍 33 • 💬 72 • ⏱️ 11:07 • 20h ago
 
 ---
 
