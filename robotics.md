@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T11:54:09.658715+00:00'
+updated: '2025-12-18T12:40:09.612353+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 11:54 UTC  
+**Last Updated:** December 18, 2025 at 12:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,27 @@ Robotics research and industry news
 
 Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
 
-18h ago
+19h ago
 
 ---
 
 **[Too many](https://www.reddit.com/r/robotics/comments/1ppkoel/too_many/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Drew a bunch of stuff with VinciBot, from simple to complex](https://www.reddit.com/r/robotics/comments/1ppnm0l/drew_a_bunch_of_stuff_with_vincibot_from_simple/)**
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
+
+2h ago
+
+---
+
+**[Demo of a robotic arm in simulation generating randomized grasp trajectories](https://www.reddit.com/r/robotics/comments/1ppom5w/demo_of_a_robotic_arm_in_simulation_generating/)**
+
+The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
 1h ago
 
@@ -62,19 +70,11 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 ---
 
-**[Demo of a robotic arm in simulation generating randomized grasp trajectories](https://www.reddit.com/r/robotics/comments/1ppom5w/demo_of_a_robotic_arm_in_simulation_generating/)**
-
-The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
-
-21m ago
-
----
-
 **[Extending ROS Noetic Support with ESM-Enabled Content Snaps](https://www.reddit.com/r/robotics/comments/1ppi92n/extending_ros_noetic_support_with_esmenabled/)**
 
 Canonical has now extended its ESM (Expanded Security Maintenance) for ROS coverage to ROS Noetic content-sharing snaps. With ESM for ROS now available in both deb and snap formats, Ubuntu continues to be the trusted foundation for secure, long-term robotics innovation. […]
 
-🔗 [Ubuntu](https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps) • 6h ago
+🔗 [Ubuntu](https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps) • 7h ago
 
 ---
 
@@ -82,7 +82,7 @@ Canonical has now extended its ESM (Expanded Security Maintenance) for ROS cover
 
 On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM Just watched the Boston Dynamics tech talk on The Humanoid Mission in Manufacturing. One slide frames the roadmap as a gradual compression of layers, where classical perception, planning, manipulation, and control are absorbed into more unified end to end models. What stood out to me is that this suggests classical and optimization based control may be progressively replaced rather than simply augmented. Given that direction, is it still worth investing heavily in classical or optimization based control research for handling physics, contact, and stability underneath, or do people expect those responsibilities to eventually be fully learned by VLM or VLA style models? Curious how others here think about this tradeoff, especially in the context of balance and contact heavy manufacturing tasks.
 
-14h ago
+15h ago
 
 ---
 
@@ -98,7 +98,7 @@ I am currently pursuing MS in Robotics, I have a background in Mechanical Engine
 
 I'm working on a project which aims at recreating the hand motion at the joint level while writing. I've used the SynGrasp hand model so far but I'm having a lot of trouble calculating the q(joint variables) values for each waypoint of the pre defined trajectory. If someone has worked on something similar do you mind giving a helping hand? I read the SynGrasp paper but it's genuinely confusing to animate the hand model for each waypoint. I'm only focusing on the kinematics of the motion.
 
-15h ago
+16h ago
 
 ---
 
@@ -106,7 +106,7 @@ I'm working on a project which aims at recreating the hand motion at the joint l
 
 PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day and he said he wanted to invent something with me. I said what kind of thing would you like to make and he said a robot that helps old people. So here we are! The plans have been drawn! Project Jake has come to life. Now I fully understand that a lot of people here are far more advanced than a dad and son project but I really want this to be a special little project for a bit of bonding time. We have decided to start with the head and was going to use an old CRT Monitor but I have come to the conclusion that this would be far too difficult / heavy to support. So I have come to the conclusion of using an old flat screen monitor and building a frame around the back of it. Was thinking of grabbing a cheap old pc to wire up into the body. And this is where I am up to at the moment. Any ideas, tips and resources would be greatly appreciated !!
 
-14h ago
+15h ago
 
 ---
 
@@ -118,13 +118,27 @@ PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day a
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
-TechCrunch • 21h ago
+TechCrunch • 22h ago
 
 ---
 
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
 
-The New York Times • 1d ago
+University of Michigan • 13h ago
+
+---
+
+**[These Robots Are the Size of Single Cells and Cost Just a Penny Apiece](https://singularityhub.com/2025/12/16/these-robots-the-size-of-single-cells-cost-just-a-penny-apiece/)**
+
+The microbots have tiny computers, sensors, and actuators. They can sense temperature and swim autonomously.
+
+SingularityHub • 1d ago
+
+---
+
+**[Sub-millimeter-sized robots can sense, 'think' and act on their own](https://techxplore.com/news/2025-12-millimeter-sized-robots.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -168,25 +182,11 @@ Yahoo Finance • 21h ago
 
 ---
 
-**[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
-
-SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
-
-navalnews.com • 1d ago
-
----
-
 **[AMC Robotics: A Low-Float Trade Posing As A Robotics Investment (NASDAQ:AMCI)](https://seekingalpha.com/article/4853719-amc-robotics-a-low-float-trade-posing-as-a-robotics-investment)**
 
 AMC Robotics Corp. surged nearly 170%, driven by speculative trading rather than a clear fundamental catalyst. Learn more about AMCI stock here.
 
 Seeking Alpha • 1d ago
-
----
-
-**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
-
-University of Michigan • 12h ago
 
 ---
 

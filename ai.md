@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T11:54:09.640559+00:00'
+updated: '2025-12-18T12:40:09.594922+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - videos
-- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 11:54 UTC  
+**Last Updated:** December 18, 2025 at 12:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 20h ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 21h ago
 
 ---
 
@@ -61,17 +61,11 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 ---
 
-**[I just met Qwen AI. ChatGPT, DeepSeek, Claude, Gemini, Perplexity, and Grok weigh in.](https://www.reddit.com/r/artificial/comments/1ppn2wt/i_just_met_qwen_ai_chatgpt_deepseek_claude_gemini/)**
-
-1h ago
-
----
-
 **[Google releases Gemini 3 Flash, promising improved intelligence and efficiency | Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.](https://www.reddit.com/r/artificial/comments/1ppasjd/google_releases_gemini_3_flash_promising_improved/)**
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 12h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 13h ago
 
 ---
 
@@ -79,7 +73,7 @@ Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
 School districts from Utah to Ohio to Alabama are spending thousands of dollars on these tools, despite research showing the technology is far from reliable.
 
-🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 15h ago
+🔗 [NPR](https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students) • 16h ago
 
 ---
 
@@ -95,7 +89,13 @@ TL;DR: I think modern models are an incredible productivity aid to senior develo
 
 I think I noticed that, relying on llms might have reduced certain aspects of my intelligence. But forcing myself to explain to the jagged intelligence of LLM what I truly means seems to have also translated to better communicating my thoughts to other humans. Do you have a similar or perhaps opposite experience ?
 
-1h ago
+2h ago
+
+---
+
+**[I just met Qwen AI. ChatGPT, DeepSeek, Claude, Gemini, Perplexity, and Grok weigh in.](https://www.reddit.com/r/artificial/comments/1ppn2wt/i_just_met_qwen_ai_chatgpt_deepseek_claude_gemini/)**
+
+2h ago
 
 ---
 
@@ -103,15 +103,15 @@ I think I noticed that, relying on llms might have reduced certain aspects of my
 
 Founded by Palantir alums Tamar Gomez and Wiem Gharbi, the company counts L’Oréal and Vorys among its early customers.
 
-🔗 [Fortune](https://fortune.com/2025/12/17/exclusive-palantir-alums-aiming-to-streamline-patent-filings-with-ai-secure-20-million-in-series-a-venture-funding/) • 2h ago
+🔗 [Fortune](https://fortune.com/2025/12/17/exclusive-palantir-alums-aiming-to-streamline-patent-filings-with-ai-secure-20-million-in-series-a-venture-funding/) • 3h ago
 
 ---
 
-**[Tencent Announces 'HY-World 1.5': An Open-Source Fully Playable, Real-Time AI World Generator (24 Fps) | "HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment."](https://www.reddit.com/r/artificial/comments/1ppie35/tencent_announces_hyworld_15_an_opensource_fully/)**
+**[Intel Video Processing Library adding AI assisted video encoder features](https://www.reddit.com/r/artificial/comments/1pplz7e/intel_video_processing_library_adding_ai_assisted/)**
 
-HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment. Tl;DR: HY-World 1.5 is an AI system that generates interactive 3D video environments in real-time, allowing users to explore virtual worlds at 24 frames per second. The model shows strong generalization across diverse scenes, supporting first-person and third-person perspectives in both real-world and stylized environments, enabling versatile applications such as 3D reconstruction, promptable events, and infinite world extension. Abstract: While HunyuanWorld 1.0 is capable of generating immersive and traversable 3D worlds, it relies on a lengthy offline generation process and lacks real-time interaction. HY-World 1.5 bridges this gap with WorldPlay, a streaming video diffusion model that enables real-time, interactive world modeling with long-term geometric consistency, resolving the trade-off between speed and memory that limits current methods. Our model draws power from four key designs: - (1) We use a Dual Action Representation to enable robust action control in response to the user's keyboard and mouse inputs. - (2) To enforce long-term consistency, our Reconstituted Context Memory dynamically rebuilds context from past frames and uses temporal reframing to keep geometrically important but long-past frames accessible, effectively alleviating memory attenuation. - (3) We design WorldCompass, a novel Reinforcement Learning (RL) post-training framework designed to directly improve the action-following and visual quality of the long-horizon, autoregressive video model. - (4) We also propose Context Forcing, a novel distillation method designed for memory-aware models. Aligning memory context between the teacher and student preserves the student's capacity to use long-range information, enabling real-time speeds while preventing error drift. Taken together, HY-World 1.5 generates long-horizon streaming video at 24 FPS with superior consistency, comparing favorably with existing techniques. Layman's Explanation: The main breakthrough is solving a common issue where fast AI models tend to "forget" details, causing scenery to glitch or shift when a user returns to a previously visited location. To fix this, the system uses a dual control scheme that translates simple keyboard inputs into precise camera coordinates, ensuring the model tracks exactly where the user is located. It relies on a "Reconstituted Context Memory" that actively retrieves important images from the past and processes them as if they were recent, preventing the environment from fading or distorting over time. The system is further refined through a reward-based learning process called WorldCompass that corrects errors in visual quality or movement, effectively teaching the AI to follow user commands more strictly. Finally, a technique called Context Forcing trains a faster, efficient version of the model to mimic a slower, highly accurate "teacher" model, allowing the system to run smoothly without losing track of the environment's history. Link To Try Out HY-World 1.5: https://3d.hunyuan.tencent.com/sceneTo3D Link to the Huggingface: https://huggingface.co/tencent/HY-WorldPlay Link to the GitHub: https://github.com/Tencent-Hunyuan/HY-WorldPlay Link to the Technical Report: https://3d-models.hunyuan.tencent.com/world/world1_5/HYWorld_1.5_Tech_Report.pdf
+Intel's Video Processing Library 'libvpl' is out with a new version ahead of the holidays
 
-6h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-libvpi-AI-Assisted-Encode) • 3h ago
 
 ---
 
@@ -119,41 +119,39 @@ HY-World 1.5 has open-sourced a comprehensive training framework for real-time w
 
 ## Google News: "ai"
 
-**[Third of UK citizens have used AI for emotional support, research reveals](https://www.theguardian.com/technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research)**
-
-AI Security Institute report finds most common type of AI tech used was general purpose assistants such as ChatGPT and Amazon Alexa
-
-The Guardian • 2h ago
-
----
-
 **[AI fuels blue-collar productivity boom across manufacturing, Palantir technology chief tells Fox Business](https://www.foxbusiness.com/technology/ai-fuels-blue-collar-productivity-boom-across-manufacturing-palantir-technology-chief-tells-fox-business)**
 
 Palantir CTO reveals how AI technology drives blue-collar productivity boom, creating jobs for factory workers and nurses rather than mass unemployment.
 
-Fox Business • 10h ago
+Fox Business • 11h ago
 
 ---
 
-**[Stocks close sharply lower as AI anxiety returns](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-angst-rcna248866)**
+**[Third of UK citizens have used AI for emotional support, research reveals](https://www.theguardian.com/technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research)**
 
-The catalyst for the tumble was, once again, news about the cloud computing giant Oracle.
+AI Security Institute report finds most common type of AI tech used was general purpose assistants such as ChatGPT and Amazon Alexa
 
-NBC News • 12h ago
-
----
-
-**[AI spending worries hit industrials, Trump takes aim at defense stocks](https://www.cnbc.com/2025/12/17/ai-spending-worries-hit-industrials-trump-takes-aim-at-defense-stocks.html)**
-
-Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
-
-CNBC • 16h ago
+The Guardian • 3h ago
 
 ---
 
 **[Why Oracle keeps sparking AI-bubble fears](https://www.axios.com/2025/12/18/ai-oracle-stock-blue-owl)**
 
-Axios • 47m ago
+Axios • 1h ago
+
+---
+
+**[A Billion-Dollar Question Hangs Over the New AI Search Marketing Industry](https://www.wsj.com/articles/a-billion-dollar-question-hangs-over-the-new-ai-search-marketing-industry-06a039ec?gaa_at=eafs&gaa_n=AWEtsqc5cBlJEWRmhqxjzOYG-D-ZC7ReksBdezDn7Fi7XKD10A9dGvfVm7GA&gaa_ts=6943f993&gaa_sig=2ZPSxeCVDDs9can2ggxAdjBEwjZNrNgayB1W446YGYKZCSnre5_aLmOEI_rN6FsOC5nM3RVzjoxNw7pVp514Kw%3D%3D)**
+
+The Wall Street Journal • 1h ago
+
+---
+
+**[The Hidden Danger Inside AI Toys for Kids](https://time.com/7341181/ai-toys-kids-danger/)**
+
+AI companions could stunt children’s developing brains.
+
+Time Magazine • 1h ago
 
 ---
 
@@ -161,35 +159,37 @@ Axios • 47m ago
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-CNN • 1h ago
-
----
-
-**[Meta’s Yann LeCun targets €3bn valuation for new AI start-up](https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446)**
-
-Turing award winner is in early talks to raise €500mn ahead of January launch
-
-Financial Times • 2h ago
+CNN • 2h ago
 
 ---
 
 **[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
-**[MetaX and Moore Threads' IPOs underscore Chinese chipmakers' growing challenge to Nvidia](https://www.cnbc.com/2025/12/17/metax-moore-threads-chinese-rivals-nvidia-ai-chips.html)**
+**[Amazon CEO Andy Jassy announces departure of AI exec Rohit Prasad in leadership shake-up](https://fortune.com/2025/12/17/amazon-ceo-andy-jassy-announces-departure-of-ai-exec-rohit-prasad-in-leadership-shakeup/)**
 
-New entrants like MetaX and Moore Threads join tech giants Huawei, Baidu and Alibaba in rushing to produce Nvidia alternatives.
+Prasad's exit comes after Amazon struggled to show its internal AI efforts could match those of rivals and amid reports of a new AWS investment in OpenAI
 
-CNBC • 10h ago
+Fortune • 16h ago
 
 ---
 
-**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
+**[Amazon overhauls AI team as chief declares an ‘inflection point’](https://www.ft.com/content/f3092c2d-f428-4ff4-bdbd-9a27b12bcae2)**
 
-The New York Times • 15h ago
+Peter DeSantis appointed to oversee a new group leading the company’s artificial intelligence model development
+
+Financial Times • 14h ago
+
+---
+
+**[Amazon shakes up its AI leadership](https://fortune.com/2025/12/18/amazon-shakes-up-its-ai-leadership/)**
+
+Amazon’s new AI leader, Oracle’s stalled plans, Oscars on YouTube. Plus: Coursera, Meta, Micron, Netflix, OpenAI, Paramount, Udemy, Warner Bros.
+
+Fortune • 2h ago
 
 ---
 
@@ -201,19 +201,19 @@ The New York Times • 15h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 940 • 💬 481 • 18h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 959 • 💬 489 • 19h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
 **[8M users' AI conversations sold for profit by "privacy" extensions](https://news.ycombinator.com/item?id=46284266)**
 
-⬆️ 822 • 💬 245 • 2d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+⬆️ 823 • 💬 245 • 2d ago • [koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
 
 ---
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 807 • 💬 408 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 807 • 💬 410 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -221,7 +221,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 540 • 💬 311 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 541 • 💬 316 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -235,7 +235,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 266 • 💬 146 • 17h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 267 • 💬 146 • 18h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -259,7 +259,7 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 Engineering graduates face shrinking opportunities and rising pressure to upskill beyond their curriculum.
 
-⬆️ 131 • 💬 165 • 1d ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+⬆️ 132 • 💬 165 • 1d ago • [Rest of World](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
 
 ---
 
@@ -267,7 +267,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 That's one way to get some publicity with Reddit.
 
-⬆️ 128 • 💬 143 • 18h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
+⬆️ 128 • 💬 143 • 19h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
 
 ---
 
@@ -321,7 +321,7 @@ Asmongold plays an AI Survivors-like game for the first time. ▻ Asmongold's Tw
 
 📺 Asmongold TV  
 
-👁️ 341K • 👍 9K • 💬 2K • ⏱️ 57:02 • 22h ago
+👁️ 341K • 👍 9K • 💬 2K • ⏱️ 57:02 • 23h ago
 
 ---
 
@@ -331,7 +331,7 @@ Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a te
 
 📺 Gianmarco Soresi
 
-👁️ 275K • 👍 14K • 💬 471 • ⏱️ 0:58 • 21h ago
+👁️ 275K • 👍 14K • 💬 471 • ⏱️ 0:58 • 22h ago
 
 ---
 
@@ -361,7 +361,7 @@ This video invites you into a dreamlike ocean—a world that doesn't exist in re
 
 📺 Impossible AIs
 
-👁️ 29K • 👍 149 • 💬 22 • ⏱️ 8:01 • 21h ago
+👁️ 29K • 👍 149 • 💬 22 • ⏱️ 8:01 • 22h ago
 
 ---
 
@@ -371,7 +371,7 @@ Get 10% off at Bellroy using my link: https://bit.ly/48B6ltZ AI has become a hot
 
 📺 YongYea
 
-👁️ 80K • 👍 4K • 💬 3K • ⏱️ 35:42 • 14h ago
+👁️ 80K • 👍 4K • 💬 3K • ⏱️ 35:42 • 15h ago
 
 ---
 
@@ -387,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 307,244 • ❤️ 2,931 • 9d ago
+⬇️ 307,244 • ❤️ 2,943 • 9d ago
 
 ---
 
@@ -399,7 +399,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 30,015 • ❤️ 328 • 14h ago
+⬇️ 30,015 • ❤️ 328 • 15h ago
 
 ---
 
@@ -411,7 +411,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 1,454 • ❤️ 259 • 8h ago
+⬇️ 1,454 • ❤️ 263 • 9h ago
 
 ---
 
@@ -447,7 +447,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech (TTS) model supporting
 
 `text-to-speech`
 
-⬇️ 113 • ❤️ 194 • 1d ago
+⬇️ 113 • ❤️ 196 • 1d ago
 
 ---
 
@@ -459,7 +459,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 55,117 • ❤️ 351 • 9d ago
+⬇️ 55,117 • ❤️ 352 • 9d ago
 
 ---
 
@@ -471,7 +471,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 183 • 1d ago
+⬇️ 0 • ❤️ 186 • 1d ago
 
 ---
 
@@ -481,19 +481,19 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 212 • 2d ago
+⬇️ 0 • ❤️ 214 • 2d ago
 
 ---
 
-**[circuit-sparsity](https://huggingface.co/openai/circuit-sparsity)**
+**[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
 
-*OpenAI*
+*Shakker Labs*
 
-This model, 'circuit-sparsity', is a sparse language model implementation from Gao et al. 2025, specifically designed for tasks like bracket counting and variable binding, offering qualitative results from the paper.
+AWPortrait-Z is a LoRA model for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, balanced lighting, and diverse facial features, primarily for portrait generation and beauty applications.
 
-`text-generation` `419.1M`
+`text-to-image`
 
-⬇️ 965 • ❤️ 161 • 6d ago
+⬇️ 1,800 • ❤️ 167 • 4d ago
 
 ---
 
@@ -521,7 +521,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 9 • 💬 2 • ⭐ 12,333 • 1mo ago
+▲ 9 • 💬 2 • ⭐ 12,410 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -533,7 +533,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 52 • 💬 1 • ⭐ 378 • 1d ago
+▲ 52 • 💬 1 • ⭐ 378 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -586,23 +586,9 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
 
-▲ 39 • 💬 1 • ⭐ 17,984 • 17mo ago
+▲ 39 • 💬 1 • ⭐ 18,017 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
-
----
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 27 • 💬 2 • ⭐ 7,262 • 20d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -620,13 +606,27 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 27 • 💬 2 • ⭐ 7,310 • 20d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[Memory in the Age of AI Agents](https://huggingface.co/papers/2512.13564)**
 
 *Yuyang Hu, Shichun Liu, Yanwei Yue et al. (47 authors)*
 
 This survey provides an updated overview of agent memory research, distinguishing its forms, functions, and dynamics, and highlights emerging research directions.
 
-▲ 87 • 💬 4 • ⭐ 261 • 2d ago
+▲ 87 • 💬 4 • ⭐ 261 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.13564) • [💻 code](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
 
@@ -642,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.5k • 🔱 2.7k • 3h ago
+⭐ 17.6k • 🔱 2.7k • 4h ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.4k • 🔱 462 • 1h ago
+⭐ 4.4k • 🔱 461 • 11m ago
 
 ---
 
@@ -672,7 +672,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.6k • 🔱 120 • 1h ago
+⭐ 1.7k • 🔱 122 • 2h ago
 
 ---
 
@@ -692,7 +692,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 139 • 13h ago
+⭐ 1.1k • 🔱 139 • 33m ago
 
 ---
 
@@ -722,7 +722,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 797 • 🔱 127 • 2d ago
+⭐ 799 • 🔱 127 • 2d ago
 
 ---
 
@@ -732,7 +732,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 777 • 🔱 115 • 20h ago
+⭐ 778 • 🔱 115 • 21h ago
 
 ---
 
