@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T12:40:09.603245+00:00'
+updated: '2025-12-18T13:25:16.616550+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - news
 - social
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 12:40 UTC  
+**Last Updated:** December 18, 2025 at 13:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,161.54
+### $87,727.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -3.2%  
-**30d:** -4.2%  
-**90d:** -24.5%  
-**1y:** -10.4%  
+**24h:** -1.9%  
+**7d:** -2.7%  
+**30d:** -3.7%  
+**90d:** -24.1%  
+**1y:** -9.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1741.33B
+**Market Cap:** $1749.79B
 Rank #1
 
-**Circulating Supply:** 19,963,725 BTC
+**Circulating Supply:** 19,963,746 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.5%
 
 **All-Time Low:** $67.81
-+128708.4%
++129086.0%
 
 ---
 
@@ -79,13 +79,19 @@ Rank #1
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-16h ago
+17h ago
+
+---
+
+**[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
+
+4h ago
 
 ---
 
@@ -93,7 +99,7 @@ Rank #1
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-21h ago
+22h ago
 
 ---
 
@@ -105,9 +111,11 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 ---
 
-**[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
+**[Brazil’s largest bank suggests a 1–3% Bitcoin allocation as a portfolio hedge](https://www.reddit.com/r/Bitcoin/comments/1ppnrpf/brazils_largest_bank_suggests_a_13_bitcoin/)**
 
-4h ago
+Brazil’s largest private bank, Itaú Unibanco, recently suggested that investors consider allocating around 1%–3% of their portfolios to Bitcoin, framing it as a diversification and risk-management tool rather than a speculative position. According to Itaú Asset Management, the idea isn’t market timing or short-term performance, but long-term positioning. Bitcoin is viewed as a complementary asset that may help offset currency risk, especially after the Brazilian real reached record lows in late 2024. The recommendation also highlights regulated exposure through local products like BITI11, a Brazil-listed Bitcoin ETF, which allows investors to gain BTC exposure within a familiar regulatory framework. This seems to reflect a broader institutional trend where Bitcoin is increasingly discussed as a small but structured portfolio component, particularly in emerging markets. Curious how others here view this approach — is a 1%–3% Bitcoin allocation becoming a conservative baseline for institutional portfolios, or does it still feel premature?
+
+2h ago
 
 ---
 
@@ -115,15 +123,13 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “just hodl,” and buy the dip, Fast forward, the same crowd are still coping while the price keeps proving one thing, and that is conviction, Bitcoin doesn’t move to reward perfect timing, it moves to reward patience, just keep believing in the process.
 
-8h ago
+9h ago
 
 ---
 
-**[Brazil’s largest bank suggests a 1–3% Bitcoin allocation as a portfolio hedge](https://www.reddit.com/r/Bitcoin/comments/1ppnrpf/brazils_largest_bank_suggests_a_13_bitcoin/)**
+**[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
 
-Brazil’s largest private bank, Itaú Unibanco, recently suggested that investors consider allocating around 1%–3% of their portfolios to Bitcoin, framing it as a diversification and risk-management tool rather than a speculative position. According to Itaú Asset Management, the idea isn’t market timing or short-term performance, but long-term positioning. Bitcoin is viewed as a complementary asset that may help offset currency risk, especially after the Brazilian real reached record lows in late 2024. The recommendation also highlights regulated exposure through local products like BITI11, a Brazil-listed Bitcoin ETF, which allows investors to gain BTC exposure within a familiar regulatory framework. This seems to reflect a broader institutional trend where Bitcoin is increasingly discussed as a small but structured portfolio component, particularly in emerging markets. Curious how others here view this approach — is a 1%–3% Bitcoin allocation becoming a conservative baseline for institutional portfolios, or does it still feel premature?
-
-1h ago
+3h ago
 
 ---
 
@@ -131,19 +137,13 @@ Brazil’s largest private bank, Itaú Unibanco, recently suggested that investo
 
 Dca time!! Dont buy at 130k!
 
-16h ago
+17h ago
 
 ---
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-19h ago
-
----
-
-**[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
-
-2h ago
+20h ago
 
 ---
 
@@ -159,25 +159,37 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin Slides As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 15h ago
+Investor's Business Daily • 1h ago
 
 ---
 
-**[U.S. bitcoin ETFs see strongest inflows for over a month as BTC dominance hits 60%](https://www.coindesk.com/markets/2025/12/18/u-s-bitcoin-etfs-see-strongest-inflows-for-over-a-month-as-btc-dominance-hits-60)**
+**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqd99WMnrEQdj78nYzF_AnXNrtXF2b-D34cfnMu08ggWUsGWdfXScUna&gaa_ts=69440425&gaa_sig=yK_W-P3lXVmc7EuHXJ84FVsqRSfbJe_-ePv0cWwz5zIz_gEilCpS2w_6gsDu4zWK_9GT6ELrJS9_RiZUun85eQ%3D%3D)**
 
-Fidelity's FBTC recorded a top five inflow day as the ETFs took in a combined $457 million amid sharp BTC price swings.
+Barron's • 2d ago
+
+---
+
+**[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’](https://www.ccn.com/news/crypto/peter-schiff-bitcoin-drop-lower-50k-claims-saylor-doesnt-care/)**
+
+CCN.com • 3h ago
+
+---
+
+**[DOGE, SHIB Price News: Bitcoin continues to impact dogecoin, shiba inu demand](https://www.coindesk.com/markets/2025/12/18/dogecoin-and-shiba-inu-lag-market-as-memecoins-continue-to-lose-ground-to-bitcoin)**
+
+Despite increased whale accumulation, both DOGE and SHIB face selling pressure unless they reclaim key technical levels.
+
+CoinDesk • 30m ago
+
+---
+
+**[Micron crushes earnings with BTC buoyant above $87,000](https://www.coindesk.com/markets/2025/12/18/micron-crushes-earnings-with-btc-buoyant-above-usd87-000)**
+
+Micron earnings shock triggered a broader risk rebound, with QQQ up nearly 1% pre market and bitcoin holding above $87,000.
 
 CoinDesk • 1h ago
-
----
-
-**[Crypto’s slump may be a cultural problem as much as a financial one](https://www.cnn.com/2025/12/18/business/crypto-bitcoin-slump-nightcap)**
-
-Crypto managed to have a year without a systemic collapse or major scandal. And it’s still shaping up to be one of the industry’s worst years ever.
-
-CNN • 2h ago
 
 ---
 
@@ -185,7 +197,13 @@ CNN • 2h ago
 
 Bitcoin rose since midnight UTC, while remaining locked in the $86,000-$90,000 range. Against gold, however, it's still falling.
 
-CoinDesk • 52m ago
+CoinDesk • 1h ago
+
+---
+
+**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+
+thestreet.com • 21h ago
 
 ---
 
@@ -197,31 +215,9 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
-
-thestreet.com • 21h ago
-
----
-
 **[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
 
-The Block • 6h ago
-
----
-
-**[Bhutan Pledges Up to 10,000 Bitcoin to Build New Mega-City](https://bitcoinmagazine.com/featured/bhutan-10000-bitcoin-to-build-mega-city)**
-
-Bhutan is pledging up to 10,000 bitcoin for its Gelephu Mindfulness City, that's nearly $1 billion at current prices.
-
-Bitcoin Magazine • 21h ago
-
----
-
-**[Will Bitcoin Hit $200,000 in 2026?](https://www.fool.com/investing/2025/12/17/will-bitcoin-hit-200000-in-2026/)**
-
-Bitcoin's value has been dropping recently, but it has still been a top-performing investment over the past few years.
-
-The Motley Fool • 18h ago
+The Block • 7h ago
 
 ---
 
@@ -249,7 +245,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 2 • 💬 1 • 2d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 2 • 💬 1 • 3d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -265,7 +261,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 15h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 16h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -287,7 +283,7 @@ Current flip point: $1,490,141 per bitcoin - 5.79% progress
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 2h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 3h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -295,23 +291,23 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Had Another Giant Fake Out](https://www.youtube.com/watch?v=B5qi8WX2SrE)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 22K • 👍 1K • 💬 307 • ⏱️ 8:31 • 11h ago
-
----
-
 **[Did $1M BITCOIN Just Become INEVITABLE?](https://www.youtube.com/watch?v=_koljqxMAdk)**
 
 Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop is a storm building. Whale buys, institutional ...
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 149 • ⏱️ 19:03 • 12h ago
+👁️ 32K • 👍 2K • 💬 165 • ⏱️ 19:03 • 13h ago
+
+---
+
+**[Bitcoin Had Another Giant Fake Out](https://www.youtube.com/watch?v=B5qi8WX2SrE)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 24K • 👍 1K • 💬 320 • ⏱️ 8:31 • 12h ago
 
 ---
 
@@ -321,17 +317,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 282 • ⏱️ 9:01 • 1d ago
-
----
-
-**[Jack Mallers - &quot;This Is the Bitcoin Drop I Tried to Prepare You For&quot;](https://www.youtube.com/watch?v=NR_XAKD4e58)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 12K • 👍 595 • 💬 19 • ⏱️ 21:23 • 19h ago
+👁️ 65K • 👍 4K • 💬 340 • ⏱️ 9:01 • 1d ago
 
 ---
 
@@ -341,7 +327,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 19K • 👍 674 • 💬 227 • ⏱️ 8:33 • 21h ago
+👁️ 19K • 👍 681 • 💬 210 • ⏱️ 8:33 • 22h ago
+
+---
+
+**[Jack Mallers - &quot;This Is the Bitcoin Drop I Tried to Prepare You For&quot;](https://www.youtube.com/watch?v=NR_XAKD4e58)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 14K • 👍 634 • 💬 21 • ⏱️ 21:23 • 19h ago
 
 ---
 
@@ -351,17 +347,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 39K • 👍 2K • 💬 216 • ⏱️ 48:48 • 21h ago
-
----
-
-**[Bitcoin $90K Then Dumps — DOGE &amp; XRP Holders Beware (Manipulation?) | Trump’s HUGE Announcement!??](https://www.youtube.com/watch?v=pUUuEErrWd8)**
-
-Bitcoin Hits $90000 Then Dumps — DOGE & XRP Holders: This Is Manipulation Bitcoin just hit $90000 — and then dumped fast.
-
-📺 Crypto Daily Trade Signals
-
-👁️ 722 • 👍 56 • 💬 31 • ⏱️ 11:49 • 8h ago
+👁️ 40K • 👍 2K • 💬 218 • ⏱️ 48:48 • 21h ago
 
 ---
 
@@ -371,17 +357,27 @@ Bitcoin #Crypto #Finance On December 19th, global markets are on edge as geopoli
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 973 • 💬 492 • ⏱️ 46:53 • 21h ago
+👁️ 23K • 👍 997 • 💬 476 • ⏱️ 46:53 • 22h ago
 
 ---
 
-**[Inside the future of Bitcoin](https://www.youtube.com/watch?v=N7Z7tpwSlBg)**
+**[Bitcoin &amp; Crypto The End](https://www.youtube.com/watch?v=Cs-ronhi6TI)**
 
-Strategy CEO Phong Le discusses what investors can look forward to in 2026 and analyzes where Bitcoin is headed on 'The ...
+BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
 
-📺 Fox Business
+📺 Lark Davis
 
-👁️ 66K • 👍 913 • 💬 617 • ⏱️ 10:03 • 2d ago
+👁️ 5K • 👍 414 • 💬 27 • ⏱️ 46:47 • 1h ago
+
+---
+
+**[LOST FAITH IN THE CRYPTO CYCLE? WATCH THIS | Raoul Pal at Solana Breakpoint | The Everything Code](https://www.youtube.com/watch?v=W_BD_FGaE2Y)**
+
+Download Raoul Pal's 5-year investing roadmap for free:* https://rvtv.io/41fVHWF Unlock the potential to showcase your brand to ...
+
+📺 Raoul Pal The Journey Man
+
+👁️ 32K • 👍 1K • 💬 53 • ⏱️ 1:52 • 1d ago
 
 ---
 
@@ -391,7 +387,7 @@ Bitcoin just dumped below $90K again—and top macro analyst,Luke Gromen turned 
 
 📺 Swan Bitcoin
 
-👁️ 61K • 👍 2K • 💬 411 • ⏱️ 18:36 • 1d ago
+👁️ 62K • 👍 2K • 💬 393 • ⏱️ 18:36 • 1d ago
 
 ---
 

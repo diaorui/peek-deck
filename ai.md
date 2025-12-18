@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T12:40:09.594922+00:00'
+updated: '2025-12-18T13:25:16.608986+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 12:40 UTC  
+**Last Updated:** December 18, 2025 at 13:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
 
-🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 14h ago
+🔗 [Business Insider](https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-revolution-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 21h ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 22h ago
 
 ---
 
@@ -57,7 +57,39 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 It's a seductive distraction from the advances in AI that are most likely to improve or even save your life Having done my PhD on AI language generation (long considered niche), I was thrilled we had come this far. But the awe I felt was rivaled by my growing rage at the flood of media takes and self-appointed experts insisting that generative AI could do things it simply can’t, and warning that anyone who didn’t adopt it would be left behind. This kind of hype has contributed to a frenzy of misunderstandings about what AI actually is and what it can and cannot do. Crucially, generative AI is a seductive distraction from the type of AI that is most likely to make your life better, or even save it: Predictive AI. In contrast to AI designed for generative tasks, predictive AI involves tasks with a finite, known set of answers; the system just has to process information to say which answer is right. A basic example is plant recognition: Point your phone camera at a plant and learn that it’s a Western sword fern. The generative AI technology involved in chatbots, face-swaps, and synthetic video makes for stunning demos, driving clicks and sales as viewers run wild with ideas that superhuman AI will be capable of bringing us abundance or extinction. Yet predictive AI has quietly been improving weather prediction and food safety, enabling higher-quality music production, helping to organize photos, and accurately predicting the fastest driving routes. We incorporate predictive AI into our everyday lives without evening thinking about it, a testament to its indispensable utility. To get a sense of the immense progress on predictive AI and its future potential, we can look at the trajectory of the past 20 years. In 2005, we couldn’t get AI to tell the difference between a person and a pencil. By 2013, AI still couldn’t reliably detect a bird in a photo, and the difference between a pedestrian and a Coke bottle was massively confounding (this is how I learned that bottles do kind of look like people, if people had no heads). The thought of deploying these systems in the real world was the stuff of science fiction. Yet over the past 10 years, predictive AI has not only nailed bird detection down to the specific species; it has rapidly improved life-critical medical services like identifying problematic lesions and heart arrhythmia. Because of this technology, seismologists can predict earthquakes and meteorologists can predict flooding more reliably than ever before. Accuracy has skyrocketed for consumer-facing tech that detects and classifies everything from what song you’re thinking of when you hum a tune to which objects to avoid while you’re driving—making self-driving cars a reality. In the very near future, we should be able to accurately detect tumors and forecast hurricanes long before they can hurt anyone, realizing the lifelong hopes of people all over the world. That might not be as flashy as generating your own Studio Ghibli–ish film, but it’s definitely hype-worthy.
 
-🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 17h ago
+🔗 [MIT Technology Review](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) • 18h ago
+
+---
+
+**[AI is reshaping LinkedIn job hunting with their new product, here’s what that means for 2026 job applications](https://www.reddit.com/r/artificial/comments/1ppqpqo/ai_is_reshaping_linkedin_job_hunting_with_their/)**
+
+Hey everyone 👋 I just read this new Medium piece on how AI is fundamentally changing the way people will get jobs on LinkedIn in 2026, and I thought it’d be a really relevant discussion for this community: Here are the key takeaways: 🔹 LinkedIn’s Hiring Assistant is now an AI agent It uses large language models on top of LinkedIn’s Economic Graph to infer skills, intent, and fit far beyond simple keyword matching. Recruiters can give conversational prompts and get candidate shortlists and outreach drafts, which means AI-powered sourcing. 🔹 AI impacts both sides of the hiring funnel For recruiters it means: Faster shortlist creation Better targeting Automated first-touch screening via InMail For candidates it means: Profile structure and keyword signals matter way more Ambiguous or underspecified profiles are less likely to be surfaced by the AI tools. I hope this is helpful.
+
+1m ago
+
+---
+
+**[The surprising truth about AI’s impact on jobs](https://www.reddit.com/r/artificial/comments/1ppqfkn/the_surprising_truth_about_ais_impact_on_jobs/)**
+
+Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
+
+🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 14m ago
+
+---
+
+**[I spent the weekend hacking together a "Clay" alternative using Gemini 3, is there actually a market for this, or am I over-engineering?](https://www.reddit.com/r/artificial/comments/1ppq25p/i_spent_the_weekend_hacking_together_a_clay/)**
+
+I am following the B2B sales space for a while and I love tools like Clay, but I just can not justify the 149/mo entry price for my own small projects. It feels like we are paying a massive convenience tax for simple API orchestrations. So I decided to see if I could replicate that workflow using the new Gemini 3 + Search Grounding. I built a tool called QuickHook, it basically turns a 15-minute manual research session into a 10-second automation. I am debating whether to turn this into a real lean product or just leave it as an experiment. Does it actually solve the "AI sounding" problem in cold outreach?
+
+32m ago
+
+---
+
+**[Exclusive: Palantir alums using AI to streamline patent filing secure $20 million in Series A venture funding](https://www.reddit.com/r/artificial/comments/1ppmb11/exclusive_palantir_alums_using_ai_to_streamline/)**
+
+Founded by Palantir alums Tamar Gomez and Wiem Gharbi, the company counts L’Oréal and Vorys among its early customers.
+
+🔗 [Fortune](https://fortune.com/2025/12/17/exclusive-palantir-alums-aiming-to-streamline-patent-filings-with-ai-secure-20-million-in-series-a-venture-funding/) • 4h ago
 
 ---
 
@@ -65,7 +97,15 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 13h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 14h ago
+
+---
+
+**[Balenced Thoughts on Vibe Coding](https://www.reddit.com/r/artificial/comments/1ppl91w/balenced_thoughts_on_vibe_coding/)**
+
+TL;DR: I think modern models are an incredible productivity aid to senior developers and I was curious if others experience mirrored my own. I’d like to throw my ball into the endless pit of AI coding content that exists on the internet right now to add my viewpoint. In the interests of receiving hate from everyone I’ll say… “Vibe Coding is overhyped and most of the people writing applications with it are producing truly horrible code” “That’s not a serious change from before ‘vibe coding’ took off, just much faster with a lower barrier to entry” “Vibe Coding is genuinely a massive productivity boost that can rightly command exorbitant costs” There, I should have made everyone mad. A little of my own background first. I started programming ~25 years ago in Visual Basic 6 when I was about 5 years old. Back then I could barely put a basic UI together and I had just about learnt timers and transitions. My applications didn’t have any real functionality for another 5 years when Visual Basic 2005 Express Edition came out and I really learnt how to write code. From there I primarily spent time with C#, JavaScript, TypeScript, C++ (not in that order) until I recently came to settle on Golang. I’ve programmed professionally for a bit over a decade (depending on how you measure some early code and work for family friends, if you take a strict employment definition, I’ve been employed writing code for a decade). Professionally speaking I work in research and most of the code I write sits in backends, benchmarking, and operating systems with a little bit of compilers here and there. I normally wrote frontend code frustrated with how much more obtuse it felt compared to Visual Basic 6 and early VB.net/C#. When ChatGPT first came out I was quick to give it a go. I remember running into rate limit after rate limit timing carefully for when I could send a next message. But that was just poking it with questions. I hadn’t seriously given it a coding project until modern Anthropic Models at the start of this year (2025). I first wrote AI-assisted code with T3.Chat. My first project with them was a user interface for building Docker containers. I had written my own prototype to get the visual styles down then I started back and forth improving the design using T3.Chat. My thinking at the time was “I had to give that a few generations, but that interface is good enough for a prototype”. This was exciting enough to give Claude Code a try (first via the API, I had a year or 2 of experience with the OpenAI API before this). After a few messages and $40 spent I bit the bullet and got Claude Max. From there I spent a ton of time refining that React and Next.js project polishing off all the oddities that annoyed me with the user interface. Writing a user interface turned from a drag to something I really enjoyed. But this was working with frontend React code. The exact sort of thing everyone advertises for vibe coding and seemingly the most common training data. What happens if I give it a project, I have more experience with? I recall playing around with the idea of writing a C compiler during a holiday in my spare time. I gave it to Claude Code and with the first try it messed it up, second go around same deal, third time I really tried prompting tricks splitting it into tiny projects and once it wrote 5000 lines of code it totally broke the register allocator. That was 8 months ago which is a decade in AI time. How are the more recent AI models like Opus 4.5 with hard systems problems? Sometimes they are incredible solving problems that took me days to complete in hours. Sometimes they spin in a loop trying to debug a problem and spend $240 in 2 days. We’re not yet to the point where these models can work independently and they need supervision from a senior engineer to work on anything more difficult than a quick demonstration. This sort of experience leads me to saying that ‘vibe coding’ is not going to replace senior software engineers. Every time they ‘solve’ a set of problems in software something more difficult will come to take their place and those hard problems will take the same supervision they do today. For those who don’t believe me think how close we are to an agent that when you ask it “Write me an operating system compatible with Windows applications” it will produce something that compiles and works in a single shot. That’s hyperbole but it’s easy to make more “reasonable” examples. I do think ‘vibe coding’ is here to stay though and it will be worryingly disruptive in two areas close to me. I work at a university and for students its downright dangerous, it has such an easy time of most problems we can set as assignments that solving AI in teaching computing is still a very important open problem. I also work in cyber security and ‘vibe coding’ is incredible in its ability to make subtle security vulnerabilities. I was genuinely worried that the adoption of languages like Rust would meaningfully improve the overall state of software security but now we’re back to a world where secrets are exposed everywhere, every endpoint has XSS, and finding vulnerabilities is fun again. If you want an example of this, ask any model to write a markdown renderer without external libraries and watch it make a beginner/easy CTF challenge for XSS. So, summing up my thoughts, ‘vibe coding’ is an incredible productivity boost but it tests different skills as a developer. Doing it I find myself writing more Unit Tests, more documentation, more rigorous definitions. It’s another development who works at incredible speeds but still makes basic mistakes. I think it will make our senior engineers better more productive developers, but I worry what it will do for people learning to code in the first place. And I also thank it for securing the cyber security job market for the next decade, that’s a relief.
+
+5h ago
 
 ---
 
@@ -77,47 +117,45 @@ School districts from Utah to Ohio to Alabama are spending thousands of dollars 
 
 ---
 
-**[Balenced Thoughts on Vibe Coding](https://www.reddit.com/r/artificial/comments/1ppl91w/balenced_thoughts_on_vibe_coding/)**
-
-TL;DR: I think modern models are an incredible productivity aid to senior developers and I was curious if others experience mirrored my own. I’d like to throw my ball into the endless pit of AI coding content that exists on the internet right now to add my viewpoint. In the interests of receiving hate from everyone I’ll say… “Vibe Coding is overhyped and most of the people writing applications with it are producing truly horrible code” “That’s not a serious change from before ‘vibe coding’ took off, just much faster with a lower barrier to entry” “Vibe Coding is genuinely a massive productivity boost that can rightly command exorbitant costs” There, I should have made everyone mad. A little of my own background first. I started programming ~25 years ago in Visual Basic 6 when I was about 5 years old. Back then I could barely put a basic UI together and I had just about learnt timers and transitions. My applications didn’t have any real functionality for another 5 years when Visual Basic 2005 Express Edition came out and I really learnt how to write code. From there I primarily spent time with C#, JavaScript, TypeScript, C++ (not in that order) until I recently came to settle on Golang. I’ve programmed professionally for a bit over a decade (depending on how you measure some early code and work for family friends, if you take a strict employment definition, I’ve been employed writing code for a decade). Professionally speaking I work in research and most of the code I write sits in backends, benchmarking, and operating systems with a little bit of compilers here and there. I normally wrote frontend code frustrated with how much more obtuse it felt compared to Visual Basic 6 and early VB.net/C#. When ChatGPT first came out I was quick to give it a go. I remember running into rate limit after rate limit timing carefully for when I could send a next message. But that was just poking it with questions. I hadn’t seriously given it a coding project until modern Anthropic Models at the start of this year (2025). I first wrote AI-assisted code with T3.Chat. My first project with them was a user interface for building Docker containers. I had written my own prototype to get the visual styles down then I started back and forth improving the design using T3.Chat. My thinking at the time was “I had to give that a few generations, but that interface is good enough for a prototype”. This was exciting enough to give Claude Code a try (first via the API, I had a year or 2 of experience with the OpenAI API before this). After a few messages and $40 spent I bit the bullet and got Claude Max. From there I spent a ton of time refining that React and Next.js project polishing off all the oddities that annoyed me with the user interface. Writing a user interface turned from a drag to something I really enjoyed. But this was working with frontend React code. The exact sort of thing everyone advertises for vibe coding and seemingly the most common training data. What happens if I give it a project, I have more experience with? I recall playing around with the idea of writing a C compiler during a holiday in my spare time. I gave it to Claude Code and with the first try it messed it up, second go around same deal, third time I really tried prompting tricks splitting it into tiny projects and once it wrote 5000 lines of code it totally broke the register allocator. That was 8 months ago which is a decade in AI time. How are the more recent AI models like Opus 4.5 with hard systems problems? Sometimes they are incredible solving problems that took me days to complete in hours. Sometimes they spin in a loop trying to debug a problem and spend $240 in 2 days. We’re not yet to the point where these models can work independently and they need supervision from a senior engineer to work on anything more difficult than a quick demonstration. This sort of experience leads me to saying that ‘vibe coding’ is not going to replace senior software engineers. Every time they ‘solve’ a set of problems in software something more difficult will come to take their place and those hard problems will take the same supervision they do today. For those who don’t believe me think how close we are to an agent that when you ask it “Write me an operating system compatible with Windows applications” it will produce something that compiles and works in a single shot. That’s hyperbole but it’s easy to make more “reasonable” examples. I do think ‘vibe coding’ is here to stay though and it will be worryingly disruptive in two areas close to me. I work at a university and for students its downright dangerous, it has such an easy time of most problems we can set as assignments that solving AI in teaching computing is still a very important open problem. I also work in cyber security and ‘vibe coding’ is incredible in its ability to make subtle security vulnerabilities. I was genuinely worried that the adoption of languages like Rust would meaningfully improve the overall state of software security but now we’re back to a world where secrets are exposed everywhere, every endpoint has XSS, and finding vulnerabilities is fun again. If you want an example of this, ask any model to write a markdown renderer without external libraries and watch it make a beginner/easy CTF challenge for XSS. So, summing up my thoughts, ‘vibe coding’ is an incredible productivity boost but it tests different skills as a developer. Doing it I find myself writing more Unit Tests, more documentation, more rigorous definitions. It’s another development who works at incredible speeds but still makes basic mistakes. I think it will make our senior engineers better more productive developers, but I worry what it will do for people learning to code in the first place. And I also thank it for securing the cyber security job market for the next decade, that’s a relief.
-
-4h ago
-
----
-
-**[Writing prompts made me a better explainer](https://www.reddit.com/r/artificial/comments/1ppn7fz/writing_prompts_made_me_a_better_explainer/)**
-
-I think I noticed that, relying on llms might have reduced certain aspects of my intelligence. But forcing myself to explain to the jagged intelligence of LLM what I truly means seems to have also translated to better communicating my thoughts to other humans. Do you have a similar or perhaps opposite experience ?
-
-2h ago
-
----
-
-**[I just met Qwen AI. ChatGPT, DeepSeek, Claude, Gemini, Perplexity, and Grok weigh in.](https://www.reddit.com/r/artificial/comments/1ppn2wt/i_just_met_qwen_ai_chatgpt_deepseek_claude_gemini/)**
-
-2h ago
-
----
-
-**[Exclusive: Palantir alums using AI to streamline patent filing secure $20 million in Series A venture funding](https://www.reddit.com/r/artificial/comments/1ppmb11/exclusive_palantir_alums_using_ai_to_streamline/)**
-
-Founded by Palantir alums Tamar Gomez and Wiem Gharbi, the company counts L’Oréal and Vorys among its early customers.
-
-🔗 [Fortune](https://fortune.com/2025/12/17/exclusive-palantir-alums-aiming-to-streamline-patent-filings-with-ai-secure-20-million-in-series-a-venture-funding/) • 3h ago
-
----
-
-**[Intel Video Processing Library adding AI assisted video encoder features](https://www.reddit.com/r/artificial/comments/1pplz7e/intel_video_processing_library_adding_ai_assisted/)**
-
-Intel's Video Processing Library 'libvpl' is out with a new version ahead of the holidays
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-libvpi-AI-Assisted-Encode) • 3h ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
+
+Reuters • 9h ago
+
+---
+
+**[Third of UK citizens have used AI for emotional support, research reveals](https://www.theguardian.com/technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research)**
+
+AI Security Institute report finds most common type of AI tech used was general purpose assistants such as ChatGPT and Amazon Alexa
+
+The Guardian • 4h ago
+
+---
+
+**[Why Oracle keeps sparking AI-bubble fears](https://www.axios.com/2025/12/18/ai-oracle-stock-blue-owl)**
+
+Axios • 2h ago
+
+---
+
+**[UPS company deploys AI to spot fakes amid surge in holiday returns](https://finance.yahoo.com/news/ups-company-deploys-ai-spot-110425285.html)**
+
+Nearly one in every 10 retail items that are returned for a refund in the U.S. is fraudulent, according to a UPS-owned reverse logistics company that says it plans to combat the $76.5 billion problem for the country’s retailers with artificial intelligence.  This holiday season, UPS-owned boxless returns processing company Happy Returns ​is testing its AI fraud detection tool with a handful of clients, including apparel sellers Everlane, Revolve, and Under Armour, Happy Returns CEO David Sobie told Reuters during a recent tour of ‌the company's Los Angeles-area hub.  Happy Returns' AI tool called Return Vision helps to find fraudulent returns by flagging suspicious packages, analyzing their contents, and sending them for final audit by humans who can verify the fraud and withhold the refund, Sobie said.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[This U.K. startup's AI platform could slash the cost of CAR-T therapy and other cell-based medicines](https://fortune.com/2025/12/18/cellvoyant-ai-platform-fateview-reduce-cost-of-cell-based-therapies-car-t/)**
+
+CellVoyant says its FateView platform can reduce the cost of producing viable cells for cell-based therapies by up to 80%
+
+Fortune • 38m ago
+
+---
 
 **[AI fuels blue-collar productivity boom across manufacturing, Palantir technology chief tells Fox Business](https://www.foxbusiness.com/technology/ai-fuels-blue-collar-productivity-boom-across-manufacturing-palantir-technology-chief-tells-fox-business)**
 
@@ -127,69 +165,31 @@ Fox Business • 11h ago
 
 ---
 
-**[Third of UK citizens have used AI for emotional support, research reveals](https://www.theguardian.com/technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research)**
+**[Opinion | Worried about the AI spending boom? Here’s some historical context.](https://www.washingtonpost.com/opinions/2025/12/17/artificial-intelligence-spending-boom-ai/)**
 
-AI Security Institute report finds most common type of AI tech used was general purpose assistants such as ChatGPT and Amazon Alexa
-
-The Guardian • 3h ago
+The Washington Post • 17h ago
 
 ---
 
-**[Why Oracle keeps sparking AI-bubble fears](https://www.axios.com/2025/12/18/ai-oracle-stock-blue-owl)**
+**[Visa says new AI shopping tool has helped customers with hundreds of transactions](https://www.cnbc.com/2025/12/18/visa-ai-payments.html)**
 
-Axios • 1h ago
+Visa said it successfully completed hundreds of AI transactions as part of a pilot program it kicked off after a product event in April.
 
----
-
-**[A Billion-Dollar Question Hangs Over the New AI Search Marketing Industry](https://www.wsj.com/articles/a-billion-dollar-question-hangs-over-the-new-ai-search-marketing-industry-06a039ec?gaa_at=eafs&gaa_n=AWEtsqc5cBlJEWRmhqxjzOYG-D-ZC7ReksBdezDn7Fi7XKD10A9dGvfVm7GA&gaa_ts=6943f993&gaa_sig=2ZPSxeCVDDs9can2ggxAdjBEwjZNrNgayB1W446YGYKZCSnre5_aLmOEI_rN6FsOC5nM3RVzjoxNw7pVp514Kw%3D%3D)**
-
-The Wall Street Journal • 1h ago
+CNBC • 1h ago
 
 ---
 
-**[The Hidden Danger Inside AI Toys for Kids](https://time.com/7341181/ai-toys-kids-danger/)**
+**[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
 
-AI companions could stunt children’s developing brains.
-
-Time Magazine • 1h ago
+The New York Times • 17h ago
 
 ---
 
-**[The surprising truth about AI’s impact on jobs](https://www.cnn.com/2025/12/18/business/ai-jobs-economy)**
+**[Meta’s Yann LeCun targets €3bn valuation for AI start-up](https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446)**
 
-Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
+Turing award winner is in early talks to raise €500mn ahead of January launch
 
-CNN • 2h ago
-
----
-
-**[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
-
-Reuters • 8h ago
-
----
-
-**[Amazon CEO Andy Jassy announces departure of AI exec Rohit Prasad in leadership shake-up](https://fortune.com/2025/12/17/amazon-ceo-andy-jassy-announces-departure-of-ai-exec-rohit-prasad-in-leadership-shakeup/)**
-
-Prasad's exit comes after Amazon struggled to show its internal AI efforts could match those of rivals and amid reports of a new AWS investment in OpenAI
-
-Fortune • 16h ago
-
----
-
-**[Amazon overhauls AI team as chief declares an ‘inflection point’](https://www.ft.com/content/f3092c2d-f428-4ff4-bdbd-9a27b12bcae2)**
-
-Peter DeSantis appointed to oversee a new group leading the company’s artificial intelligence model development
-
-Financial Times • 14h ago
-
----
-
-**[Amazon shakes up its AI leadership](https://fortune.com/2025/12/18/amazon-shakes-up-its-ai-leadership/)**
-
-Amazon’s new AI leader, Oracle’s stalled plans, Oscars on YouTube. Plus: Coursera, Meta, Micron, Netflix, OpenAI, Paramount, Udemy, Warner Bros.
-
-Fortune • 2h ago
+Financial Times • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ Fortune • 2h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 959 • 💬 489 • 19h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 969 • 💬 491 • 20h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -213,7 +213,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 807 • 💬 410 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 808 • 💬 412 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -221,7 +221,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 541 • 💬 316 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 542 • 💬 316 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -235,7 +235,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 267 • 💬 146 • 18h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 269 • 💬 148 • 19h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -243,7 +243,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 232 • 💬 171 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 235 • 💬 171 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -251,7 +251,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 161 • 💬 56 • 2d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 163 • 💬 56 • 2d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -267,7 +267,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 That's one way to get some publicity with Reddit.
 
-⬆️ 128 • 💬 143 • 19h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
+⬆️ 128 • 💬 144 • 20h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
 
 ---
 
@@ -281,7 +281,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 26K • 👍 890 • 💬 41 • ⏱️ 11:44 • 1d ago
+👁️ 28K • 👍 946 • 💬 43 • ⏱️ 11:44 • 1d ago
 
 ---
 
@@ -291,7 +291,7 @@ U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the
 
 📺 Fox Business
 
-👁️ 214K • 👍 4K • 💬 1K • ⏱️ 14:37 • 1d ago
+👁️ 217K • 👍 4K • 💬 1K • ⏱️ 14:37 • 1d ago
 
 ---
 
@@ -301,7 +301,7 @@ A landowner turned down $8M from an AI company.
 
 📺 NowThis Impact
 
-👁️ 632K • 👍 20K • 💬 2K • ⏱️ 0:55 • 1d ago
+👁️ 637K • 👍 20K • 💬 2K • ⏱️ 0:55 • 1d ago
 
 ---
 
@@ -311,7 +311,7 @@ Check out Glue: https://bit.ly/4pOsxI2 Free 30 day trial. Work gets done where y
 
 📺 Wes Roth
 
-👁️ 53K • 👍 1K • 💬 518 • ⏱️ 23:58 • 1d ago
+👁️ 54K • 👍 1K • 💬 523 • ⏱️ 23:58 • 1d ago
 
 ---
 
@@ -321,7 +321,7 @@ Asmongold plays an AI Survivors-like game for the first time. ▻ Asmongold's Tw
 
 📺 Asmongold TV  
 
-👁️ 341K • 👍 9K • 💬 2K • ⏱️ 57:02 • 23h ago
+👁️ 352K • 👍 9K • 💬 2K • ⏱️ 57:02 • 1d ago
 
 ---
 
@@ -331,17 +331,7 @@ Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a te
 
 📺 Gianmarco Soresi
 
-👁️ 275K • 👍 14K • 💬 471 • ⏱️ 0:58 • 22h ago
-
----
-
-**[Google unveils &#39;Gemini 3 Flash&#39; AI model focused on speed and cost](https://www.youtube.com/watch?v=vs-9qWK0D1Y)**
-
-CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
-
-📺 CNBC Television
-
-👁️ 28K • 👍 221 • 💬 162 • ⏱️ 3:16 • 19h ago
+👁️ 300K • 👍 16K • 💬 527 • ⏱️ 0:58 • 22h ago
 
 ---
 
@@ -355,23 +345,33 @@ CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
 
 ---
 
-**[Which Ocean Would You Swim In? | Oddly Satisfying AI ASMR☺️🎧](https://www.youtube.com/watch?v=2yhnAHGiT70)**
+**[Google unveils &#39;Gemini 3 Flash&#39; AI model focused on speed and cost](https://www.youtube.com/watch?v=vs-9qWK0D1Y)**
 
-This video invites you into a dreamlike ocean—a world that doesn't exist in reality, yet feels beautifully alive. Each sea has its ...
+CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
 
-📺 Impossible AIs
+📺 CNBC Television
 
-👁️ 29K • 👍 149 • 💬 22 • ⏱️ 8:01 • 22h ago
+👁️ 29K • 👍 232 • 💬 162 • ⏱️ 3:16 • 20h ago
 
 ---
 
-**[Larian Face Mass Revolt Over Gen AI, CEO Responds](https://www.youtube.com/watch?v=qzubsWEM3Eo)**
+**[CIPTA LAGU UNTUK PASANGAN TERAKHIR AI TEAM 2025 !!! I](https://www.youtube.com/watch?v=wNcYqYhkw8s)**
 
-Get 10% off at Bellroy using my link: https://bit.ly/48B6ltZ AI has become a hotly debated topic as many perceive the technology to ...
+Why So Serious ??? Wahh sedapnya alunan lagu diorang ni kan .
 
-📺 YongYea
+📺 Alieff Irfan
 
-👁️ 80K • 👍 4K • 💬 3K • ⏱️ 35:42 • 15h ago
+👁️ 93K • 👍 10K • 💬 1K • ⏱️ 45:32 • 1h ago
+
+---
+
+**[YouTube is forcing AI on everyone #animation #shorts #update](https://www.youtube.com/watch?v=dqgfUrgRO9w)**
+
+YouTube is forcing A.I on everyone. Hello all we are the people behind Journey to the Quest and many DnD sketches you may ...
+
+📺 Theatre of the Unaligned
+
+👁️ 222K • 👍 36K • 💬 1K • ⏱️ 1:39 • 21h ago
 
 ---
 
@@ -387,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 307,244 • ❤️ 2,943 • 9d ago
+⬇️ 307,244 • ❤️ 2,946 • 9d ago
 
 ---
 
@@ -399,7 +399,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 30,015 • ❤️ 328 • 15h ago
+⬇️ 30,015 • ❤️ 335 • 16h ago
 
 ---
 
@@ -411,7 +411,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 1,454 • ❤️ 263 • 9h ago
+⬇️ 1,454 • ❤️ 264 • 10h ago
 
 ---
 
@@ -435,7 +435,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~3
 
 `text-to-speech` `1.0B`
 
-⬇️ 171,608 • ❤️ 935 • 5d ago
+⬇️ 171,608 • ❤️ 936 • 5d ago
 
 ---
 
@@ -459,7 +459,7 @@ AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, e
 
 `image-text-to-text` `934,400`
 
-⬇️ 55,117 • ❤️ 352 • 9d ago
+⬇️ 55,117 • ❤️ 353 • 9d ago
 
 ---
 
@@ -481,7 +481,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 Qwen-Image-i2L models generate LoRA weights from input images for style transfer or content preservation in generative models. The suite includes specialized models like 'Style' for artistic styles and 'Coarse'/'Fine'/'Bias' for detailed content replication, enabling faster LoRA training initialization.
 
-⬇️ 0 • ❤️ 214 • 2d ago
+⬇️ 0 • ❤️ 215 • 2d ago
 
 ---
 
@@ -493,7 +493,7 @@ AWPortrait-Z is a LoRA model for text-to-image generation, fine-tuned on Z-Image
 
 `text-to-image`
 
-⬇️ 1,800 • ❤️ 167 • 4d ago
+⬇️ 1,800 • ❤️ 168 • 4d ago
 
 ---
 
@@ -614,7 +614,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 27 • 💬 2 • ⭐ 7,310 • 20d ago
+▲ 27 • 💬 2 • ⭐ 7,310 • 21d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -642,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.6k • 🔱 2.7k • 4h ago
+⭐ 17.6k • 🔱 2.7k • 5h ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.4k • 🔱 461 • 11m ago
+⭐ 4.4k • 🔱 461 • 56m ago
 
 ---
 
@@ -672,7 +672,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.7k • 🔱 122 • 2h ago
+⭐ 1.7k • 🔱 122 • 3h ago
 
 ---
 
@@ -692,7 +692,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 139 • 33m ago
+⭐ 1.1k • 🔱 139 • 1h ago
 
 ---
 
@@ -712,7 +712,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 875 • 🔱 50 • 2d ago
+⭐ 875 • 🔱 50 • 3d ago
 
 ---
 
@@ -732,7 +732,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 778 • 🔱 115 • 21h ago
+⭐ 778 • 🔱 115 • 22h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T12:40:09.612353+00:00'
+updated: '2025-12-18T13:25:16.624470+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 12:40 UTC  
+**Last Updated:** December 18, 2025 at 13:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[I Spent 3 Months Building This Robot: It Can Do More Than I Thought](https://www.reddit.com/r/robotics/comments/1pp28v0/i_spent_3_months_building_this_robot_it_can_do/)**
-
-Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
-
-19h ago
-
----
-
-**[Too many](https://www.reddit.com/r/robotics/comments/1ppkoel/too_many/)**
-
-5h ago
-
----
-
 **[Drew a bunch of stuff with VinciBot, from simple to complex](https://www.reddit.com/r/robotics/comments/1ppnm0l/drew_a_bunch_of_stuff_with_vincibot_from_simple/)**
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
 2h ago
+
+---
+
+**[Too many](https://www.reddit.com/r/robotics/comments/1ppkoel/too_many/)**
+
+6h ago
 
 ---
 
@@ -62,6 +54,14 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 ---
 
+**[I Spent 3 Months Building This Robot: It Can Do More Than I Thought](https://www.reddit.com/r/robotics/comments/1pp28v0/i_spent_3_months_building_this_robot_it_can_do/)**
+
+Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
+
+20h ago
+
+---
+
 **[Researchers at Penn & Michigan create the "World's Smallest Programmable Autonomous Robot." (It has Onboard computer, swims using electric fields and costs $0.01).](https://www.reddit.com/r/robotics/comments/1porb7t/researchers_at_penn_michigan_create_the_worlds/)**
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
@@ -70,11 +70,19 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 ---
 
+**[Digital Twin - Doubt](https://www.reddit.com/r/robotics/comments/1ppqbnl/digital_twin_doubt/)**
+
+Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
+
+20m ago
+
+---
+
 **[Extending ROS Noetic Support with ESM-Enabled Content Snaps](https://www.reddit.com/r/robotics/comments/1ppi92n/extending_ros_noetic_support_with_esmenabled/)**
 
 Canonical has now extended its ESM (Expanded Security Maintenance) for ROS coverage to ROS Noetic content-sharing snaps. With ESM for ROS now available in both deb and snap formats, Ubuntu continues to be the trusted foundation for secure, long-term robotics innovation. […]
 
-🔗 [Ubuntu](https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps) • 7h ago
+🔗 [Ubuntu](https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps) • 8h ago
 
 ---
 
@@ -82,7 +90,7 @@ Canonical has now extended its ESM (Expanded Security Maintenance) for ROS cover
 
 On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM Just watched the Boston Dynamics tech talk on The Humanoid Mission in Manufacturing. One slide frames the roadmap as a gradual compression of layers, where classical perception, planning, manipulation, and control are absorbed into more unified end to end models. What stood out to me is that this suggests classical and optimization based control may be progressively replaced rather than simply augmented. Given that direction, is it still worth investing heavily in classical or optimization based control research for handling physics, contact, and stability underneath, or do people expect those responsibilities to eventually be fully learned by VLM or VLA style models? Curious how others here think about this tradeoff, especially in the context of balance and contact heavy manufacturing tasks.
 
-15h ago
+16h ago
 
 ---
 
@@ -90,23 +98,15 @@ On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM
 
 I am currently pursuing MS in Robotics, I have a background in Mechanical Engineering and worked in composite manufacturing for a year. I have decent coding skills in Python, some research experience in computer vision. Moving forward I want to work in Autonomous Navigation for AUVs but I don’t know where do I start.
 
-13h ago
+14h ago
 
 ---
 
-**[Hunan Handwriting Recreation](https://www.reddit.com/r/robotics/comments/1pp7ekn/hunan_handwriting_recreation/)**
+**[A single real-world data capture by robot arm](https://www.reddit.com/r/robotics/comments/1pp2vza/a_single_realworld_data_capture_by_robot_arm/)**
 
-I'm working on a project which aims at recreating the hand motion at the joint level while writing. I've used the SynGrasp hand model so far but I'm having a lot of trouble calculating the q(joint variables) values for each waypoint of the pre defined trajectory. If someone has worked on something similar do you mind giving a helping hand? I read the SynGrasp paper but it's genuinely confusing to animate the hand model for each waypoint. I'm only focusing on the kinematics of the motion.
+An robotic arm picks up a toy bear from a sofa and places it into a basket. The recording shows captured visual input and motion data synchronized in Rerun, making the full manipulation process inspectable.
 
-16h ago
-
----
-
-**[PROJECT: JAKE (Dad & Son project)](https://www.reddit.com/r/robotics/comments/1pp8vyl/project_jake_dad_son_project/)**
-
-PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day and he said he wanted to invent something with me. I said what kind of thing would you like to make and he said a robot that helps old people. So here we are! The plans have been drawn! Project Jake has come to life. Now I fully understand that a lot of people here are far more advanced than a dad and son project but I really want this to be a special little project for a bit of bonding time. We have decided to start with the head and was going to use an old CRT Monitor but I have come to the conclusion that this would be far too difficult / heavy to support. So I have come to the conclusion of using an old flat screen monitor and building a frame around the back of it. Was thinking of grabbing a cheap old pc to wire up into the body. And this is where I am up to at the moment. Any ideas, tips and resources would be greatly appreciated !!
-
-15h ago
+19h ago
 
 ---
 
@@ -118,27 +118,13 @@ PROJECT: JAKE (Dad & Son Project) Me and my son (7) were talking the other day a
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
-TechCrunch • 22h ago
+TechCrunch • 23h ago
 
 ---
 
-**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-University of Michigan • 13h ago
-
----
-
-**[These Robots Are the Size of Single Cells and Cost Just a Penny Apiece](https://singularityhub.com/2025/12/16/these-robots-the-size-of-single-cells-cost-just-a-penny-apiece/)**
-
-The microbots have tiny computers, sensors, and actuators. They can sense temperature and swim autonomously.
-
-SingularityHub • 1d ago
-
----
-
-**[Sub-millimeter-sized robots can sense, 'think' and act on their own](https://techxplore.com/news/2025-12-millimeter-sized-robots.html)**
-
-Tech Xplore • 2d ago
+The New York Times • 1d ago
 
 ---
 
@@ -162,7 +148,7 @@ The Robot Report • 1d ago
 
 The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.&nbsp;&nbsp;
 
-The Atlantic • 18h ago
+The Atlantic • 19h ago
 
 ---
 
@@ -178,15 +164,27 @@ NASA (.gov) • 1d ago
 
 NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[AMC Robotics: A Low-Float Trade Posing As A Robotics Investment (NASDAQ:AMCI)](https://seekingalpha.com/article/4853719-amc-robotics-a-low-float-trade-posing-as-a-robotics-investment)**
+**[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
 
-AMC Robotics Corp. surged nearly 170%, driven by speculative trading rather than a clear fundamental catalyst. Learn more about AMCI stock here.
+SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
 
-Seeking Alpha • 1d ago
+navalnews.com • 1d ago
+
+---
+
+**[Sub-millimeter-sized robots can sense, 'think' and act on their own](https://techxplore.com/news/2025-12-millimeter-sized-robots.html)**
+
+Tech Xplore • 2d ago
+
+---
+
+**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
+
+University of Michigan • 14h ago
 
 ---
 
@@ -200,17 +198,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 67K • 👍 949 • 💬 141 • ⏱️ 11:23 • 2d ago
-
----
-
-**[The Robots Are Crashing Out](https://www.youtube.com/watch?v=NZPRfXa06ss)**
-
-Thanks to our LMG clips sponsors dbrand, Dell, and Secretlab. You can check them out at the links below: dbrand: ...
-
-📺 LMG Clips
-
-👁️ 35K • 👍 1K • 💬 187 • ⏱️ 7:42 • 1d ago
+👁️ 68K • 👍 954 • 💬 141 • ⏱️ 11:23 • 2d ago
 
 ---
 
@@ -220,7 +208,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 30K • 👍 727 • 💬 111 • ⏱️ 6:41 • 3d ago
+👁️ 30K • 👍 727 • 💬 111 • ⏱️ 6:41 • 4d ago
 
 ---
 
@@ -228,7 +216,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 AI . Robot
 
-👁️ 469K • 👍 4K • 💬 42 • ⏱️ 0:21 • 3d ago
+👁️ 469K • 👍 4K • 💬 43 • ⏱️ 0:21 • 4d ago
 
 ---
 
@@ -238,15 +226,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 21K • 👍 2K • 💬 51 • ⏱️ 1:38 • 1d ago
-
----
-
-**[The Humanoid Robot’s CPU Was Stolen. #robotics #airobot #ai #robot #humanoidrobot](https://www.youtube.com/watch?v=iZ0BlhfU8Bg)**
-
-📺 AI . Robot
-
-👁️ 154K • 👍 1K • 💬 16 • ⏱️ 0:13 • 1d ago
+👁️ 21K • 👍 2K • 💬 52 • ⏱️ 1:38 • 1d ago
 
 ---
 
@@ -256,7 +236,17 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 385K • 👍 13K • 💬 423 • ⏱️ 0:34 • 4d ago
+👁️ 389K • 👍 13K • 💬 425 • ⏱️ 0:34 • 4d ago
+
+---
+
+**[✅ “This Is REAL: Kyrie Irving FIGHTS a Robot 😱](https://www.youtube.com/watch?v=LKEBOOKg_Mc)**
+
+This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it gets physical The robot throws a kick — Kyrie ...
+
+📺 DLLS Sports
+
+👁️ 19K • 👍 215 • 💬 23 • ⏱️ 0:14 • 12h ago
 
 ---
 
@@ -276,7 +266,7 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 
 📺 RICHLEV
 
-👁️ 185K • 👍 4K • 💬 1K • ⏱️ 17:05 • 3d ago
+👁️ 186K • 👍 4K • 💬 1K • ⏱️ 17:05 • 3d ago
 
 ---
 
@@ -287,6 +277,14 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 📺 CNET
 
 👁️ 33K • 👍 312 • 💬 30 • ⏱️ 1:05 • 2d ago
+
+---
+
+**[2025 Robot Expo: Humanoid ‘X4’ Unveiled. #humanoidrobot #ai #robotics #robot #x4](https://www.youtube.com/watch?v=xbG4fFaaQ1s)**
+
+📺 AI . Robot
+
+👁️ 57K • 👍 643 • 💬 9 • ⏱️ 0:21 • 3d ago
 
 ---
 
