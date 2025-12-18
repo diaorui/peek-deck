@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T16:19:25.789936+00:00'
+updated: '2025-12-18T16:51:09.242189+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 16:19 UTC  
+**Last Updated:** December 18, 2025 at 16:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,962.81
+### $2,943.03
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +3.4%  
-**7d:** -4.3%  
-**30d:** -2.5%  
+**7d:** -4.4%  
+**30d:** -2.6%  
 **90d:** -34.2%  
 **1y:** -13.9%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.38B
+**Market Cap:** $356.19B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-40.4%
 
 **All-Time Low:** $0.43
-+685861.7%
++681103.9%
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-14h ago
+15h ago
+
+---
+
+**[I spent a month digging into how Ethereum products actually got their first users](https://www.reddit.com/r/ethereum/comments/1ppvd0y/i_spent_a_month_digging_into_how_ethereum/)**
+
+I know many good crypto founders who are not good at marketing. And they think that "posting more on Twitter", "going to conferences" or "doing BD" is the only way to grow their product. Unfortunately they loose the attention battle with worse products that have better marketing. To change that, for the last month I’ve been working on a non-BS guide to crypto GTM. To anchor this in reality, I spoke with founders and early team members from Aave, ZORA, POAP, Snapshot, L2Beat, Zerion, SushiSwap and a few others. I wanted to understand what really got them growing early on. A couple things that might surprise those who are not growth nerds like me: Uniswap didn't just 'launch and win'. Hayden was talking about Uniswap at conferences, in DMs and in offices for almost a year before Devcon Prague. Tether got their biggest adoption spike (1,000X in 2 years) thanks to BD deals with CEXs. Aave took off when they added LINK as collateral and Chainlink as their oracle provider. They tapped into an existing, very vocal LINK Marines community that helped spread the word about Aave. Aside from these (and many other) examples, I share a longer playbook explaining how to do GTM for your crypto product, step by step. If you’re building on Ethereum and wondering why a solid product isn’t moving, this might give you a clearer mental model how to move forward. Link is here if you want to read it: https://kanfa.macbudkowski.com/crypto-gtm
+
+13m ago
 
 ---
 
@@ -134,12 +142,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Where do Ethereum devs actually hang out?](https://www.reddit.com/r/ethereum/comments/1pp4gpz/where_do_ethereum_devs_actually_hang_out/)**
-
-21h ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -172,33 +174,9 @@ CCN.com • 2d ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-cathie-wood-buys-the-dip-as-bitmine-pushes-toward-5-of-ethereum-supply/)**
+**['Ethereum is the future of finance': Tom Lee's BitMine adds $321 million in ether to corporate ETH treasury](https://www.theblock.co/post/382552/tom-lee-bitmine-adds-321-million-ether-corporate-treasury)**
 
-BitMine Immersion Technologies (BMNR) Stock Today: Cathie Wood Buys the Dip as BitMine Pushes Toward 5% of Ethereum Supply - TechStock²
-
-ts2.tech • 2d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdRUesuFQfRw0raWtx4hYrBkKOMbsMbFwiNGGymF5RxOpnEg0cGmuta&gaa_ts=6944271e&gaa_sig=pgSToLv7UtT5tCHTw_lm2tIfNWwi-rTyblj9RFDdJDkP6T-ixkMEmbI6R7cUu81q21dJtsOqr7q4ZrEgnB_PKw%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Why Crypto Is Going Down Today? Bitcoin, XRP Price, Ethereum and Dogecoin Moves Under Death Cross](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-bitcoin-xrp-price-ethereum-and-dogecoin-moves-under-death-cross/)**
-
-Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
-
-Finance Magnates • 1d ago
-
----
-
-**[Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-fall-lowest-174706223.html)**
-
-Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.
-
-Yahoo Finance • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -210,11 +188,29 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Risks Slide To $2,000 If December Closes Below This Level: Analyst](https://www.tradingview.com/news/newsbtc:bd880751f094b:0-ethereum-risks-slide-to-2-000-if-december-closes-below-this-level-analyst/)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdQzzqAuOiJfTYWd7M23sxR_nzhnGW1VHDeD0OkeYuWEZY6siCIhqRv&gaa_ts=6944345c&gaa_sig=jaGD3xc5chBajq1Z5kjhcvHa8GOSUkNT-hx-UWPpOiD98Ihh6dUFcKBCBQBVBzRyIac5d5E21JKs6kpOFyajPA%3D%3D)**
 
-A cryptocurrency analyst has explained where Ethereum could go next based on a long-term Parallel Channel forming in its monthly price chart.Ethereum Has Been Trading Inside A Parallel Channel For The Last Few YearsIn a new post on X, analyst Ali Martinez has talked about a long-term pattern that E…
+Barron's • 1d ago
 
-TradingView — Track All Markets • 10h ago
+---
+
+**[Insider Whale Down $60 Million as Ethereum's (ETH) Price Keeps Falling — Will He Capitulate?](https://www.ccn.com/analysis/crypto/whale-ethereum-price-down/)**
+
+CCN.com • 2h ago
+
+---
+
+**[Bitcoin Vs. Ethereum Performance Divergence and What It Signals for Investors](https://www.investing.com/analysis/bitcoin-vs-ethereum-performance-divergence-and-what-it-signals-for-investors-200671953)**
+
+Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
+
+Investing.com • 1d ago
+
+---
+
+**[JPMorgan launches tokenized money-market fund on Ethereum](https://www.theblock.co/post/382504/jpmorgan-launches-tokenized-money-market-fund-ethereum)**
+
+The Block • 3d ago
 
 ---
 
@@ -238,7 +234,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 261 • 👍 19 • 💬 1 • ⏱️ 4:50 • 5h ago
+👁️ 261 • 👍 19 • 💬 1 • ⏱️ 4:50 • 6h ago
 
 ---
 
@@ -258,7 +254,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 10K • 👍 510 • 💬 216 • ⏱️ 33:33 • 23h ago
+👁️ 10K • 👍 510 • 💬 216 • ⏱️ 33:33 • 1d ago
 
 ---
 
@@ -318,7 +314,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 792 • 👍 33 • 💬 72 • ⏱️ 11:07 • 21h ago
+👁️ 792 • 👍 33 • 💬 72 • ⏱️ 11:07 • 22h ago
 
 ---
 

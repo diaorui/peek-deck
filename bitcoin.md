@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T16:19:25.783659+00:00'
+updated: '2025-12-18T16:51:09.236950+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 16:19 UTC  
+**Last Updated:** December 18, 2025 at 16:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,260.79
+### $88,100.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** -2.0%  
-**30d:** -3.0%  
-**90d:** -23.6%  
-**1y:** -9.3%  
+**24h:** +2.0%  
+**7d:** -2.5%  
+**30d:** -3.5%  
+**90d:** -24.0%  
+**1y:** -9.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1770.65B
+**Market Cap:** $1761.33B
 Rank #1
 
 **Circulating Supply:** 19,963,796 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-30.1%
 
 **All-Time Low:** $67.81
-+130658.0%
++129861.7%
 
 ---
 
@@ -79,27 +79,19 @@ Rank #1
 
 **[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-8h ago
-
----
-
-**[Bitcoin rewards conviction](https://www.reddit.com/r/Bitcoin/comments/1pphcju/bitcoin_rewards_conviction/)**
-
-Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “just hodl,” and buy the dip, Fast forward, the same crowd are still coping while the price keeps proving one thing, and that is conviction, Bitcoin doesn’t move to reward perfect timing, it moves to reward patience, just keep believing in the process.
-
-12h ago
+9h ago
 
 ---
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -109,9 +101,17 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 ---
 
-**[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
+**[Bart Simpson incoming](https://www.reddit.com/r/Bitcoin/comments/1pptwca/bart_simpson_incoming/)**
 
-20h ago
+Bart Simpson incoming?
+
+1h ago
+
+---
+
+**[We are soo BACK](https://www.reddit.com/r/Bitcoin/comments/1ppv4eq/we_are_soo_back/)**
+
+22m ago
 
 ---
 
@@ -121,19 +121,9 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 ---
 
-**[Brazil’s largest bank suggests a 1–3% Bitcoin allocation as a portfolio hedge](https://www.reddit.com/r/Bitcoin/comments/1ppnrpf/brazils_largest_bank_suggests_a_13_bitcoin/)**
+**[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-Brazil’s largest private bank, Itaú Unibanco, recently suggested that investors consider allocating around 1%–3% of their portfolios to Bitcoin, framing it as a diversification and risk-management tool rather than a speculative position. According to Itaú Asset Management, the idea isn’t market timing or short-term performance, but long-term positioning. Bitcoin is viewed as a complementary asset that may help offset currency risk, especially after the Brazilian real reached record lows in late 2024. The recommendation also highlights regulated exposure through local products like BITI11, a Brazil-listed Bitcoin ETF, which allows investors to gain BTC exposure within a familiar regulatory framework. This seems to reflect a broader institutional trend where Bitcoin is increasingly discussed as a small but structured portfolio component, particularly in emerging markets. Curious how others here view this approach — is a 1%–3% Bitcoin allocation becoming a conservative baseline for institutional portfolios, or does it still feel premature?
-
-5h ago
-
----
-
-**[Your Choice?](https://www.reddit.com/r/Bitcoin/comments/1poyk0f/your_choice/)**
-
-Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
-
-1d ago
+20h ago
 
 ---
 
@@ -141,7 +131,15 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 With these prices I don’t know if I’ll ever see them again. I was investing in other coins but at this time I just feel when Bitcoin rebounds I’ll be glad I bought it at these prices. So I’ve moved the dollar amount I’ve invested into all the coins each payday, to just Bitcoin purchases. I just feel I won’t be missing out if I don’t invest now in other coins. Where’s if I balance out my crypto purchases, I’ll be kicking myself for not buying more Bitcoin.
 
-2h ago
+3h ago
+
+---
+
+**[Brazil’s largest bank suggests a 1–3% Bitcoin allocation as a portfolio hedge](https://www.reddit.com/r/Bitcoin/comments/1ppnrpf/brazils_largest_bank_suggests_a_13_bitcoin/)**
+
+Brazil’s largest private bank, Itaú Unibanco, recently suggested that investors consider allocating around 1%–3% of their portfolios to Bitcoin, framing it as a diversification and risk-management tool rather than a speculative position. According to Itaú Asset Management, the idea isn’t market timing or short-term performance, but long-term positioning. Bitcoin is viewed as a complementary asset that may help offset currency risk, especially after the Brazilian real reached record lows in late 2024. The recommendation also highlights regulated exposure through local products like BITI11, a Brazil-listed Bitcoin ETF, which allows investors to gain BTC exposure within a familiar regulatory framework. This seems to reflect a broader institutional trend where Bitcoin is increasingly discussed as a small but structured portfolio component, particularly in emerging markets. Curious how others here view this approach — is a 1%–3% Bitcoin allocation becoming a conservative baseline for institutional portfolios, or does it still feel premature?
+
+6h ago
 
 ---
 
@@ -149,39 +147,33 @@ With these prices I don’t know if I’ll ever see them again. I was investing 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin (BTC) Price News: All over the place ahead of U.S. inflation data. what next?](https://www.coindesk.com/markets/2025/12/18/bitcoin-is-all-over-the-place-ahead-of-u-s-inflation-data-gold-nears-record-high)**
+**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://finance.yahoo.com/news/bitcoin-silent-exodus-hits-crypto-204351695.html)**
 
-U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
+More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-CoinDesk • 9h ago
-
----
-
-**[Strategy Keeps Buying Bitcoin. It Isn’t Helping the Stock.](https://www.barrons.com/articles/strategy-bitcoin-buying-stock-81623253?gaa_at=eafs&gaa_n=AWEtsqdAPwp5lbH7urmR0b0J7wYh9lLTqVKMSfEpjV4e475sm3keFTyjqYgG&gaa_ts=69442718&gaa_sig=7mOUvanYciW8sTQj00N3ZbVTj8nXii-6MxSHnVd5nBBhoMyJQf9VbYHFyuLElL6ue4vqt_4PxFPdJ3m4HFNnqQ%3D%3D)**
-
-Barron's • 2d ago
+Yahoo Finance • 7h ago
 
 ---
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
-**[Michael Saylor Buys Another $1B in Bitcoin as Grayscale Predicts All Time High Within 6 Months — Is It Likely?](https://finance.yahoo.com/news/michael-saylor-buys-another-1b-121215863.html)**
+**[Bitcoin (BTC) Price News: All over the place ahead of U.S. inflation data. what next?](https://www.coindesk.com/markets/2025/12/18/bitcoin-is-all-over-the-place-ahead-of-u-s-inflation-data-gold-nears-record-high)**
 
-Strategy added nearly $1 billion worth of Bitcoin for a second straight week. Grayscale expects Bitcoin to reach a new all-time high in the first ...
+U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
 
-Yahoo Finance • 2d ago
+CoinDesk • 10h ago
 
 ---
 
-**[NAKA higher by 9.5% after board authorizes share repurchases](https://www.coindesk.com/markets/2025/12/18/bitcoin-treasury-firm-kindlymd-puts-share-buyback-program-in-place)**
+**[Taiwan Reveals It Holds 210 Bitcoin Seized in Criminal Cases, Valued at $18 Million](https://bitcoinmagazine.com/news/taiwan-reveals-it-holds-210-bitcoin)**
 
-The continued plunge in NAKA's share price has left the company valued at a steep decline to the value of its bitcoin holdings.
+Taiwan’s Ministry of Justice disclosed it holds over 210 bitcoin seized from criminal cases, placing the country among the world’s top government bitcoin holders.
 
-CoinDesk • 1h ago
+Bitcoin Magazine • 29m ago
 
 ---
 
@@ -199,14 +191,6 @@ The Block • 10h ago
 
 ---
 
-**[Bhutan Pledges Up to 10,000 Bitcoin to Build New Mega-City](https://bitcoinmagazine.com/featured/bhutan-10000-bitcoin-to-build-mega-city)**
-
-Bhutan is pledging up to 10,000 bitcoin for its Gelephu Mindfulness City, that's nearly $1 billion at current prices.
-
-Bitcoin Magazine • 1d ago
-
----
-
 **[Bitcoin data proves 60% of top US banks are quietly activating a strategy they publicly denied for years](https://cryptoslate.com/bitcoin-data-proves-60-of-top-us-banks-are-quietly-activating-a-strategy-they-publicly-denied-for-years/)**
 
 US banks embrace Bitcoin as it becomes a standard financial offering by 2026, integrating crypto into mainstream wealth workflows.
@@ -215,11 +199,23 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Africa’s first Bitcoin country faces state asset risks from opaque crypto schemes](https://africa.businessinsider.com/local/markets/africas-first-bitcoin-country-faces-state-asset-risks-from-opaque-crypto-schemes/1n58w0f)**
+**[Hut 8 shares jump as ex-bitcoin miner signs $7 billion AI data center lease](https://finance.yahoo.com/news/hut-8-shares-jump-ex-123347104.html)**
 
-The Central African Republic (CAR) adopted Bitcoin as legal tender in 2022, becoming the first African nation to take this step
+Hut 8 has signed a deal valued at about $7 billion to lease a data center in ​Louisiana, it said on Wednesday, as former cryptocurrency miners pivot ‌to meet surging demand for artificial intelligence infrastructure.  The company will sign a 15-year lease agreement to develop a 245-megawatt data center in the River Bend campus.  The new deal involves partnerships with AI model developer Anthropic and infrastructure provider Fluidstack.
 
-Business Insider Africa • 4h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[Anthropic Taps Bitcoin Miner With Trump Family Ties For Data Centers](https://www.theinformation.com/briefings/anthropic-taps-bitcoin-miner-trump-family-ties-data-centers)**
+
+The Information • 20h ago
 
 ---
 
@@ -232,6 +228,14 @@ Business Insider Africa • 4h ago
 Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
 
 ⬆️ 7 • 💬 3 • 4d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
+
+---
+
+**[AI surpasses 2024 Bitcoin mining in energy usage](https://news.ycombinator.com/item?id=46314300)**
+
+How much of a resource hog is AI?
+
+⬆️ 5 • 💬 1 • 54m ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -339,7 +343,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 15K • 👍 671 • 💬 23 • ⏱️ 21:23 • 22h ago
+👁️ 15K • 👍 671 • 💬 23 • ⏱️ 21:23 • 23h ago
 
 ---
 

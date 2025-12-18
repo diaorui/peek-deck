@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T16:19:25.793311+00:00'
+updated: '2025-12-18T16:51:09.244979+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 16:19 UTC  
+**Last Updated:** December 18, 2025 at 16:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
-5h ago
+6h ago
 
 ---
 
@@ -76,6 +76,22 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 ---
 
+**[From a single image to a 3D OctoMap — no LiDAR, no ROS, pure Python](https://www.reddit.com/r/robotics/comments/1ppt7iv/from_a_single_image_to_a_3d_octomap_no_lidar_no/)**
+
+Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
+
+1h ago
+
+---
+
+**[spring reducer](https://www.reddit.com/r/robotics/comments/1pptjq9/spring_reducer/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 1h ago
+
+---
+
 **[Researchers at Penn & Michigan create the "World's Smallest Programmable Autonomous Robot." (It has Onboard computer, swims using electric fields and costs $0.01).](https://www.reddit.com/r/robotics/comments/1porb7t/researchers_at_penn_michigan_create_the_worlds/)**
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
@@ -84,27 +100,11 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 ---
 
-**[spring reducer](https://www.reddit.com/r/robotics/comments/1pptjq9/spring_reducer/)**
+**[What is best Robotic simulation software for underwater autonomous vehicle?](https://www.reddit.com/r/robotics/comments/1ppus3v/what_is_best_robotic_simulation_software_for/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+This is my latest research on underwater cognitive vehicles. So I need to make an simulation for it. I tried with many different simulation tools like webots like simulators but I didn't find any significant features in it for underwater vehicle.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 53m ago
-
----
-
-**[YRC 1000 no alarms won’t move.](https://www.reddit.com/r/robotics/comments/1pptall/yrc_1000_no_alarms_wont_move/)**
-
-Hello, I’m a controls engineer who does PLC. I have some experience with Luka and Fanuc robots. I have a robot that is at home with no alarms, servo on, plc is commanding it to do its job. It just sits and won’t move I attached a picture of the line of code it’s on thought maybe you guys could help me understand.
-
-1h ago
-
----
-
-**[From a single image to a 3D OctoMap — no LiDAR, no ROS, pure Python](https://www.reddit.com/r/robotics/comments/1ppt7iv/from_a_single_image_to_a_3d_octomap_no_lidar_no/)**
-
-Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
-
-1h ago
+🔗 [arxiv.org](https://arxiv.org/pdf/2511.11845) • 36m ago
 
 ---
 
@@ -120,9 +120,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
 
-The New York Times • 1d ago
+Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
+
+NASA (.gov) • 1d ago
 
 ---
 
@@ -146,15 +148,13 @@ The Robot Report • 1d ago
 
 The best-known manufacturer of autonomous vacuums declared bankruptcy this week, and no one should be surprised.
 
-The Atlantic • 22h ago
+The Atlantic • 23h ago
 
 ---
 
-**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
-
-NASA (.gov) • 1d ago
+The New York Times • 1d ago
 
 ---
 
@@ -174,17 +174,17 @@ navalnews.com • 1d ago
 
 ---
 
-**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
+**[The world’s smallest programmable, autonomous robots](https://penntoday.upenn.edu/news/penn-engineering-worlds-smallest-programmable-autonomous-robots)**
 
-University of Michigan • 17h ago
+Engineers at Penn Engineering have created robots barely visible to the naked eye that operate without tethers, magnetic fields or joystick-like controls.
+
+Penn Today • 1d ago
 
 ---
 
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
 
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
-
-Los Angeles Times • 1d ago
+University of Michigan • 17h ago
 
 ---
 
@@ -268,7 +268,7 @@ This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it g
 
 📺 DLLS Sports
 
-👁️ 20K • 👍 223 • 💬 23 • ⏱️ 0:14 • 15h ago
+👁️ 20K • 👍 223 • 💬 23 • ⏱️ 0:14 • 16h ago
 
 ---
 
