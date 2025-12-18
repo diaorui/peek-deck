@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T13:25:16.621749+00:00'
+updated: '2025-12-18T13:55:08.221373+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 13:25 UTC  
+**Last Updated:** December 18, 2025 at 13:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,844.23
+### $2,960.64
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** -6.1%  
-**30d:** -4.3%  
-**90d:** -35.4%  
-**1y:** -15.5%  
+**24h:** -1.2%  
+**7d:** -4.0%  
+**30d:** -2.2%  
+**90d:** -34.0%  
+**1y:** -13.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $348.43B
+**Market Cap:** $356.08B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.6%
+-40.1%
 
 **All-Time Low:** $0.43
-+667544.4%
++683887.0%
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-11h ago
+12h ago
 
 ---
 
 **[Let a thousand societies bloom | Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/1ppc5lm/let_a_thousand_societies_bloom_vitalik_buterin/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 13h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 14h ago
 
 ---
 
@@ -102,7 +102,7 @@ so i sent robinhood some coins and ever since then im receiving small amounts of
 
 Been monitoring Wintermute market maker's wallet 0xecb6 for weeks now - in regards to their trading positions and position changes on Hyperliquid. I found a pattern that is so far 3 for 3 or 100% in last 6 months of tracking this Wintermute's wallet. What can easily be noticed on pic I'm sharing - is that whenever Wintermute's trading position value reaches around 30k ETH (or approaching $100M), then price usually go in direction of their position. https://preview.redd.it/qkryk8twmy7g1.png?width=1600&format=png&auto=webp&s=9adf07bf82b043fbefa9143c03b022da77f294a7 In ETH perpetuals market, we can see Wintermute in last 6 months had 3x trading position on ETH of over 30k ETH. All 3 times they were short ETH and price did go lower. Last time Wintermute had over 30k ETH position was short ETH starting on Dec 11th 2025 - with ETH then around $3,250. Within a week, ETH price dropped even below $2,800. This by default not means market maker is right every time. But knowing that market maker takes the other side compared to retail, this give us edge into knowing when retail is most exposed and will most probably get liquidated. Overcrowded public trades usually end up with price going in opposite direction. So how to track or have access to trading position changes of Wintermute market maker or any top trading wallet? Easiest way to find & track these wallets is by using quality analytical tool. I personally use Nansen Pro, that lets me see changes in trading positions of top wallets fast, as well as consensus info on smart wallets, public figures and whales. What are you using to help you with your crypto trading and/or investing? Any trading pattern you're comfortable sharing in the comments? Or if you prefer to brainstorm 1on1 about trading strategies or where crypto markets are headed in DM - that's fine with me too.
 
-27m ago
+57m ago
 
 ---
 
@@ -112,19 +112,19 @@ Been monitoring Wintermute market maker's wallet 0xecb6 for weeks now - in regar
 
 ---
 
+**[Eth staking provider. Revolut vs Zengo wallet](https://www.reddit.com/r/ethereum/comments/1ppdfc5/eth_staking_provider_revolut_vs_zengo_wallet/)**
+
+I am staking ETH for a long time using Zengo wallet. I always thought they have one of the highest staking rewards when you don't want to stake directly on chain or any other more complicated solution. But recently I tested Revolut ETH staking and results suprised me. I left the amounts staked on both platforms untouched for 28 days. Then I look at how much did I make by staking on both platforms, devided by 28, multiplied by 365 devided by the amount staked and I got Zengo: 2.46% ROI Revolut: 4.92% ROI That is a huge difference! I wasn't able to find a good source of information on the comparation of different staking providers. All the information and data just provide vague values that cannot be compared. Was my statistic samle just too small and doesn't actually show correct numbers or does Revolut staking really make 2 times bigger returns? What is the word on the street? Just to save some time. I know that Zengo and Revolut staking is different. I don't care about that right now, only focusing on pure invest > stake > earn. PS: I find it ridiculous (borderline illegal) that basically a financial institution (Zengo) offeres a service that makes it almost impossible to check what are the returns. The on chain data are completely obfuscated through their staking provider so there is no way how to see the periodic earnings. Only the overall sum of all your ernings is visible. Apart from making screenshots and calculating it yourself, you have no way to check how much you are actually earning over time.
+
+13h ago
+
+---
+
 **[Ethereum mixers - current situation?](https://www.reddit.com/r/ethereum/comments/1poyrzj/ethereum_mixers_current_situation/)**
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
 22h ago
-
----
-
-**[Eth staking provider. Revolut vs Zengo wallet](https://www.reddit.com/r/ethereum/comments/1ppdfc5/eth_staking_provider_revolut_vs_zengo_wallet/)**
-
-I am staking ETH for a long time using Zengo wallet. I always thought they have one of the highest staking rewards when you don't want to stake directly on chain or any other more complicated solution. But recently I tested Revolut ETH staking and results suprised me. I left the amounts staked on both platforms untouched for 28 days. Then I look at how much did I make by staking on both platforms, devided by 28, multiplied by 365 devided by the amount staked and I got Zengo: 2.46% ROI Revolut: 4.92% ROI That is a huge difference! I wasn't able to find a good source of information on the comparation of different staking providers. All the information and data just provide vague values that cannot be compared. Was my statistic samle just too small and doesn't actually show correct numbers or does Revolut staking really make 2 times bigger returns? What is the word on the street? Just to save some time. I know that Zengo and Revolut staking is different. I don't care about that right now, only focusing on pure invest > stake > earn. PS: I find it ridiculous (borderline illegal) that basically a financial institution (Zengo) offeres a service that makes it almost impossible to check what are the returns. The on chain data are completely obfuscated through their staking provider so there is no way how to see the periodic earnings. Only the overall sum of all your ernings is visible. Apart from making screenshots and calculating it yourself, you have no way to check how much you are actually earning over time.
-
-12h ago
 
 ---
 
@@ -162,7 +162,7 @@ Barron's • 1d ago
 
 Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
 
-Finance Magnates • 22h ago
+Finance Magnates • 23h ago
 
 ---
 
@@ -230,7 +230,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 195 • 👍 25 • 💬 1 • ⏱️ 7:17 • 22m ago
+👁️ 195 • 👍 25 • 💬 1 • ⏱️ 7:17 • 51m ago
 
 ---
 
@@ -250,7 +250,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 10K • 👍 500 • 💬 213 • ⏱️ 33:33 • 20h ago
+👁️ 10K • 👍 500 • 💬 213 • ⏱️ 33:33 • 21h ago
 
 ---
 
@@ -290,7 +290,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 752 • 👍 33 • 💬 72 • ⏱️ 11:07 • 18h ago
+👁️ 752 • 👍 33 • 💬 72 • ⏱️ 11:07 • 19h ago
 
 ---
 
@@ -320,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 129 • 💬 2 • ⏱️ 4:45 • 21h ago
+👁️ 3K • 👍 129 • 💬 2 • ⏱️ 4:45 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T13:25:16.616550+00:00'
+updated: '2025-12-18T13:55:08.215346+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 13:25 UTC  
+**Last Updated:** December 18, 2025 at 13:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,727.04
+### $89,048.54
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -2.7%  
-**30d:** -3.7%  
-**90d:** -24.1%  
-**1y:** -9.9%  
+**24h:** -0.9%  
+**7d:** -1.7%  
+**30d:** -2.8%  
+**90d:** -23.4%  
+**1y:** -9.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1749.79B
+**Market Cap:** $1775.78B
 Rank #1
 
 **Circulating Supply:** 19,963,746 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-29.4%
 
 **All-Time Low:** $67.81
-+129086.0%
++131150.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +107,7 @@ Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
 Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart includes every on-chain transaction in that window. Each bar shows BTC spent by coin age band (UTXO age at spend). PnL is realized profit/loss vs the price when each UTXO was first created. The pie on the right shows total realized profit vs loss for the day. Key takeaways from today’s data: ~99.5% of all BTC spent came from coins younger than 1 year. A chunk of 1–1.5y coins realized losses, but the overwhelming majority of capitulation is from short-term holders / “tourists” dumping recent buys. Old coins (1.5y+) barely moved. Long-term HODLers are still largely sitting tight and stacking. The 180-1yr crowd growing recently is pointing to loss harvesting before 2026 to assist tax advantages. It represented about 30% of the selling at a loss by volume but was disproportionalty smaller in terms of actual loss relative to coins moved (this makes sense as coins held that long are not as much in a loss as the shorter term entrants since summer). This is a quick snapshot from my full-node dataset. I’ll post more breakdowns like this as I keep building out the tooling.
 
-12h ago
+13h ago
 
 ---
 
@@ -115,7 +115,13 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 Brazil’s largest private bank, Itaú Unibanco, recently suggested that investors consider allocating around 1%–3% of their portfolios to Bitcoin, framing it as a diversification and risk-management tool rather than a speculative position. According to Itaú Asset Management, the idea isn’t market timing or short-term performance, but long-term positioning. Bitcoin is viewed as a complementary asset that may help offset currency risk, especially after the Brazilian real reached record lows in late 2024. The recommendation also highlights regulated exposure through local products like BITI11, a Brazil-listed Bitcoin ETF, which allows investors to gain BTC exposure within a familiar regulatory framework. This seems to reflect a broader institutional trend where Bitcoin is increasingly discussed as a small but structured portfolio component, particularly in emerging markets. Curious how others here view this approach — is a 1%–3% Bitcoin allocation becoming a conservative baseline for institutional portfolios, or does it still feel premature?
 
-2h ago
+3h ago
+
+---
+
+**[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
+
+3h ago
 
 ---
 
@@ -127,23 +133,17 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 ---
 
-**[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
-
-3h ago
-
----
-
 **[Who’s buying the Dip](https://www.reddit.com/r/Bitcoin/comments/1pp68do/whos_buying_the_dip/)**
 
 Dca time!! Dont buy at 130k!
 
-17h ago
+18h ago
 
 ---
 
 **[Bitcoin being pumped and dumped like a little penny stock. What gives?](https://www.reddit.com/r/Bitcoin/comments/1pp1b8r/bitcoin_being_pumped_and_dumped_like_a_little/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -155,13 +155,13 @@ Dca time!! Dont buy at 130k!
 
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: its long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ Barron's • 2d ago
 
 **[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’](https://www.ccn.com/news/crypto/peter-schiff-bitcoin-drop-lower-50k-claims-saylor-doesnt-care/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -181,7 +181,7 @@ CCN.com • 3h ago
 
 Despite increased whale accumulation, both DOGE and SHIB face selling pressure unless they reclaim key technical levels.
 
-CoinDesk • 30m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -197,13 +197,13 @@ CoinDesk • 1h ago
 
 Bitcoin rose since midnight UTC, while remaining locked in the $86,000-$90,000 range. Against gold, however, it's still falling.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
 
-thestreet.com • 21h ago
+thestreet.com • 22h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 165 • ⏱️ 19:03 • 13h ago
+👁️ 32K • 👍 2K • 💬 165 • ⏱️ 19:03 • 14h ago
 
 ---
 
@@ -337,7 +337,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 14K • 👍 634 • 💬 21 • ⏱️ 21:23 • 19h ago
+👁️ 14K • 👍 634 • 💬 21 • ⏱️ 21:23 • 20h ago
 
 ---
 
@@ -347,7 +347,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 40K • 👍 2K • 💬 218 • ⏱️ 48:48 • 21h ago
+👁️ 40K • 👍 2K • 💬 218 • ⏱️ 48:48 • 22h ago
 
 ---
 
