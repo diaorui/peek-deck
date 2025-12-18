@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T15:54:55.786249+00:00'
+updated: '2025-12-18T16:19:25.783659+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 15:54 UTC  
+**Last Updated:** December 18, 2025 at 16:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,236.52
+### $88,260.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** -1.8%  
-**30d:** -2.8%  
-**90d:** -23.4%  
-**1y:** -9.1%  
+**24h:** +2.5%  
+**7d:** -2.0%  
+**30d:** -3.0%  
+**90d:** -23.6%  
+**1y:** -9.3%  
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “just hodl,” and buy the dip, Fast forward, the same crowd are still coping while the price keeps proving one thing, and that is conviction, Bitcoin doesn’t move to reward perfect timing, it moves to reward patience, just keep believing in the process.
 
-11h ago
+12h ago
 
 ---
 
@@ -105,19 +105,19 @@ Everyone laughed at the guy who bought Bitcoin at 40k back then, weak hands “j
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Just wanted to help](https://www.reddit.com/r/Bitcoin/comments/1ppneja/just_wanted_to_help/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 2d ago
 
 The continued plunge in NAKA's share price has left the company valued at a steep decline to the value of its bitcoin holdings.
 
-CoinDesk • 56m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -189,13 +189,13 @@ CoinDesk • 56m ago
 
 A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
 **[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -239,7 +239,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 3 • 4d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 3 • 5d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -263,7 +263,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 18h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 19h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -285,7 +285,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 5h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 6h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -299,7 +299,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 323 • ⏱️ 8:31 • 14h ago
+👁️ 26K • 👍 1K • 💬 323 • ⏱️ 8:31 • 15h ago
 
 ---
 
@@ -347,7 +347,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 134 • 💬 7 • ⏱️ 0:47 • 13h ago
+👁️ 8K • 👍 134 • 💬 7 • ⏱️ 0:47 • 14h ago
 
 ---
 
@@ -377,7 +377,7 @@ BTC, ETH, SOL, stocks, and macro news! BITUNIX TRADE THE TOP COINS (available ev
 
 📺 Lark Davis
 
-👁️ 10K • 👍 612 • 💬 56 • ⏱️ 46:47 • 3h ago
+👁️ 10K • 👍 612 • 💬 56 • ⏱️ 46:47 • 4h ago
 
 ---
 

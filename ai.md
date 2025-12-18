@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T15:54:55.777844+00:00'
+updated: '2025-12-18T16:19:25.774745+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 15:54 UTC  
+**Last Updated:** December 18, 2025 at 16:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 2h ago
+🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ I am following the B2B sales space for a while and I love tools like Clay, but I
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 16h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 17h ago
 
 ---
 
@@ -113,7 +113,7 @@ School districts from Utah to Ohio to Alabama are spending thousands of dollars 
 
 I think I noticed that, relying on llms might have reduced certain aspects of my intelligence. But forcing myself to explain to the jagged intelligence of LLM what I truly means seems to have also translated to better communicating my thoughts to other humans. Do you have a similar or perhaps opposite experience ?
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ I think I noticed that, relying on llms might have reduced certain aspects of my
 
 Micron said it expects the total addressable market for high-bandwidth memory to hit $100 billion by 2028.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -133,19 +133,19 @@ CNBC • 1h ago
 
 Micron Technology forecast second-quarter adjusted profit at nearly double what Wall Street analysts expected on Wednesday, as prices soar for memory chips amid tight supplies and booming demand ​from artificial intelligence data centers.  Micron ‌said it expected adjusted profit of $8.42 per share, plus or minus 20 cents, versus analyst estimates of $4.78 per share, according to LSEG data.  Micron's chips are fundamental components ‌in everything from data center servers and personal computers to smartphones and vehicles.
 
-Yahoo Finance • 8m ago
+Yahoo Finance • 32m ago
 
 ---
 
 **[U.S. stocks jump after an encouraging inflation update, as Micron helps AI stocks stop their slide](https://www.detroitnews.com/story/business/2025/12/18/u-s-stocks-jump-after-an-encouraging-inflation-update-as-micron-helps-ai-stocks-stop-their-slide/87826291007/)**
 
-The Detroit News • 31m ago
+The Detroit News • 56m ago
 
 ---
 
 **[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -153,7 +153,7 @@ Reuters • 11h ago
 
 A suite of new Artificial Intelligence technology is being rolled out in major weather forecasting models.
 
-CBS News • 24m ago
+CBS News • 49m ago
 
 ---
 
@@ -161,7 +161,7 @@ CBS News • 24m ago
 
 A startup building artificial intelligence software to speed up and automate scientific research has raised $70 million in a new funding round, the latest sign of investor enthusiasm for using AI in the sciences. The financing for Edison Scientific, announced Thursday, was co-led by Spark Capital, Triatomic Capital and a US-based biotech investor that the company declined to name. Other participants included Google Chief Scientist Jeff Dean and CrowdStrike co-founder Dmitri Alperovitch. The fund
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -169,13 +169,13 @@ Bloomberg.com • 54m ago
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-CNN • 5h ago
+CNN • 6h ago
 
 ---
 
 **[A Billion-Dollar Question Hangs Over the New AI Search Marketing Industry](https://www.wsj.com/articles/a-billion-dollar-question-hangs-over-the-new-ai-search-marketing-industry-06a039ec?gaa_at=eafs&gaa_n=AWEtsqd4W1ibkVEmCoXo4rGw4RnFXR-ld9fRIGqAJfeCCs1NgAjTGPhbo-Yj&gaa_ts=69442716&gaa_sig=w5wmgX6WrNPApdTJc_DWqfLPNF5xL84oxyjMvvKl5kseHW7j5TiPjpNxgakjsdD4p6rmUsD9wKOG-bJb2T5Czg%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 5h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Wall Street Journal • 4h ago
 
 Synthetic performers are forcing Hollywood to rethink how fame works and who gets to claim it. Even as the technology races ahead, legal concerns are mounting.
 
-Los Angeles Times • 4h ago
+Los Angeles Times • 5h ago
 
 ---
 
@@ -203,7 +203,7 @@ Fortune • 19h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1007 • 💬 507 • 22h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1007 • 💬 507 • 23h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -239,7 +239,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 277 • 💬 155 • 21h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 277 • 💬 155 • 22h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -271,7 +271,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 That's one way to get some publicity with Reddit.
 
-⬆️ 128 • 💬 145 • 22h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
+⬆️ 128 • 💬 145 • 23h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
 
 ---
 
@@ -285,7 +285,7 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 180K • 👍 7K • 💬 1K • ⏱️ 1:39:47 • 7h ago
+👁️ 180K • 👍 7K • 💬 1K • ⏱️ 1:39:47 • 8h ago
 
 ---
 
@@ -355,7 +355,7 @@ Why So Serious ??? Wahh sedapnya alunan lagu diorang ni kan .
 
 📺 Alieff Irfan
 
-👁️ 239K • 👍 21K • 💬 3K • ⏱️ 45:32 • 3h ago
+👁️ 239K • 👍 21K • 💬 3K • ⏱️ 45:32 • 4h ago
 
 ---
 
@@ -403,7 +403,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 338 • 18h ago
+⬇️ 51,262 • ❤️ 338 • 19h ago
 
 ---
 
@@ -415,7 +415,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `text-to-3d`
 
-⬇️ 0 • ❤️ 290 • 4h ago
+⬇️ 0 • ❤️ 290 • 5h ago
 
 ---
 
@@ -427,7 +427,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,118 • ❤️ 267 • 12h ago
+⬇️ 3,118 • ❤️ 267 • 13h ago
 
 ---
 
@@ -439,7 +439,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 253 • 2d ago
+⬇️ 0 • ❤️ 253 • 3d ago
 
 ---
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.6k • 🔱 2.7k • 7h ago
+⭐ 17.6k • 🔱 2.7k • 8h ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.4k • 🔱 466 • 4m ago
+⭐ 4.4k • 🔱 466 • 28m ago
 
 ---
 
@@ -678,7 +678,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.8k • 🔱 123 • 5m ago
+⭐ 1.8k • 🔱 123 • 29m ago
 
 ---
 
